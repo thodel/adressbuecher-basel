@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p100",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p100.jpg",
+    "bytes": 1460999,
+    "sha256": "a9941bc76875115ee9e515eef604322d55915edf7af2d14cde42dcd848ee29ad",
+    "sha256_of": "original",
+    "working_copy": "1862_p100.jpg"
+  },
+  "text": "Eisengasse. 35\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n10 | VI. | 1537 | zum Pilger. | Leuba-Obrecht, Joh. Jakob.\n  Leuba-Obrecht, Joh. Jak., Uhrenmacher.\n  Müller, Geschw. (siehe Nr. 9.)\n  Fröhlicher-Fleuriel, Franz Jos., Kaufm.\n  Mangold-Müller, Wb. Esther.\n11 | VI. | 1592 | zum neuen Haus. | Kündig-Holinger, Carl.\n  Kündig-Holinger, Cl., Band-u. Modewhd.\n  Hofmann-Meyer, Wb. Marg., Rent.\n  Holinger, Samuel, Kaufmann.\n12 | VI. | 1539 | zum Regenbogen. | Schölly-Schölly, Samuel.\n  Schölly-Schölly, Samuel, Kaufmann.\n  Best-Schölly, Wilhelm, Kaufmann.\n  (Firma Joh. Jak. Schölly Sohn.)\n13 | VI. | 1593 | zum neuen Haus. | Gemuseus-Wüstner, Carl.\n  Gemuseus-Wüstner, Carl, Manufactur-\n  waarenhdlg. (Firma: C. Gemuseus.)\n14 | VI. | 1540 | zum grünen Berg u. zum kalten Keller. | Ronus-Gemuseus, Christoph.\n  Quincaillerie-Hdlg. d. Firma Ch. Ronus.\n  Kammer-Saner, Joseph, Magazinier.\n15 | VI. | 1594 | zum St. Johann. | Däntliker-Schleiniger, Wb. Luise.\n  Däntliker-Schleiniger, Wb. Luise, Mode-\n  magazin.\n  Steffan-Burkhalter, Commis.\n16 | VI. | 1541 | zum Hauserthurm. | Buri-Grawehr, Lorenz.\n  Buri-Grawehr, Lorenz, Kleiderhandlung.\n  Schröter-Walter, Fr. Aug., Photograph.\n17 | VI. | 1595 | zum Palmbaum. | Ostermann, Johannes.\n  Ostermann, Joh., Kaufmann. (Firma:\n  Ostermann u. Comp.)\n  Fäsch-Paravicini, Wb. Marg., Rent.\n  Zäslin-Fäsch, Daniel, Kaufmann.\n18 | VI. | 1542 | zum Rößlein. | Petit und Schwestern Cassal.\n  Cassal, Jgfrn. Celestine u. Antoinette,\n  Modewaarenhandlung.\n  Cassal, Jgfr. Victoire, Rentiere.\n  Piaud, Jean Bapt., Tabakhandlung.\n19 | VI. | 1596 | zum Löwenberg. | Berri-Linder, Melchior.\n  Berri-Linder, Melchior, Med. Dr.\n  Lerch, Jos., Seidenh. (Firm. Geb. Lerch.)\n20 | VI. | 1543 | zum Tanz. | Preiswerk-Oser, Joh. Jakob.\n  Preiswerk-Oser, Jak. Joh., Kaufmann.\n  Tuchhandl. d. Firma Math. Preiswerk.\n21 | VI. | 1597 | zum Maaser. | Hübscher, Adolf.\n  Hübscher, Adolf, Pelzhändler.\n  Schönauer-Gutmann, Heinrich, J.U.D.,\n  Criminalgerichtsschreiber.\n22 | VI. | 1544 | z. rothen Salmen. | Rosenmund-Zeller, Joh. Jakob.\n  Rosenmund-Zeller, Joh. Jak., Kammach.\n23 | VI. | 1598 | zur Linde. | Vonder Mühll-Ryhiner, Johannes.\n  Vonder Mühll-Ryhiner, Joh., Kaufm.\n24 | VI. | 1545 | Docketsen Känsterli. | Trübner-Felber, Wb. Dorothea.\n  Trübner-Felber, Wb. Dor., Laden.\n3*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9232,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2370,
+    "lines": 55,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p100",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p100.jpg",
+      "bytes": 1460999,
+      "sha256": "a9941bc76875115ee9e515eef604322d55915edf7af2d14cde42dcd848ee29ad",
+      "sha256_of": "original",
+      "working_copy": "1862_p100.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:57+00:00"
+  }
+}

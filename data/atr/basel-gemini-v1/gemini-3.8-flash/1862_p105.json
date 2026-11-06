@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p105",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p105.jpg",
+    "bytes": 1290504,
+    "sha256": "545dd99745dd2bd4811323ffd27eea1314dfe4104a227fffa3bc1ffe550c20d0",
+    "sha256_of": "original",
+    "working_copy": "1862_p105.jpg"
+  },
+  "text": "40 Engelgaſſe. – Fiſchmarkt.\n\n| Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauſes. | Namen der Hauſeigenthümer und Bewohner.\n\nEngelgaſſe.\n55 | V. | 310 A | | Horner-Mechel, Daniel.\n57 | V. | 310 | zur Flora. | Siegriſt-Gubler, Martin.\n  Siegriſt-Gubler, Martin, Part.\n64 | V. | 264 | | Jaeggi-Schoepflin, Theodor.\n  Jaeggi-Schoepflin, Theod. Bannwart.\n\nFiſchmarkt.\n1 | VI. | 1525 | zum Binzheim. | Waſſermann-Schweizer, Fritz.\n  Waſſermann-Schweizer, Fritz, Buchdr.\n2 | VI. | 1524 | zum hintern Tanz. | Steinmann-Vonwiler, Jakob.\n  Montandon-Heintzler, Abr. Fried., Lithg.\n  Bader-Faesch, Ad. Sattler u. Tapez.\n  Biſchoff, Peter, Rentier.\n  Gyſin-Reichenbach, Jak., Polizeicommiſ.\n3 | VI. | 1523 | zum Rieſen. | Chriſtmann-Steinmann, Joſeph.\n  Chriſtmann-Steinmann, Jos. Weinhdlg.\n  Lotz-Bricar, Hieronimus, Kaufmann.\n  Walter, Maria, Delikateſſenhandlung.\n4 | VI. | 1522 | zum Helm. | Wölflin-Ankelin, Mar. Barb., Wb.\n  Wölflin-Ankelin, Mar. Barb., Pintenw.\n5 | VI. | 1521 | zum Steg. | Lacher-Dettwyler, Heinrich.\n  Lacher-Dettwyler, Heinr., Schneider.\n6 | VI. | zu 1553 | | Einfahrt zu Nr. 2 Stadthausgaſſe.\n7 | VI. | 158 | zum Lachs. | Ohl, Joh. Wilh.\n  Ohl, Joh. Wilh., Coiffeur.\n8 | VI. | 159 | zum gold. Stern. | Lüdin-Goebelin, Wb. Suſ.\n  Lüdin-Goebelin, Wittwe. Suſ.\n  Burckhardt, Achilles, Dr. med.\n9 | I. | 156 | zum gold. Ring. | Merian-Viſcher, Heinrich.\n  Merian-Viſcher, Heinr., Manuf.-u.Tapetk.\n10 | I. | 155 | Zunft zu Fiſchern. | Corporationsgut.\n  Flubacher-Wirz, Carl, Café-Wirth.\n11 | I. | 154 | zur Glocke. | Betulius-Bernoulli, Carl.\n  Betulius-Bernoulli, Carl, Apotheker.\n  Lévêque, Eduard, Kaufmann.\n  Fromann-Ecklin, Heinrich, Kaufmann.\n12 | I. | 153 | zum Bubeneck. | Munzinger-Faesch, Cath. Wb.\n  Munzinger-Faesch, Cath. Wb., Rent.\n  Burckhardt-Eckenstein, Heinr., Kfm.\n13 | I. | 152 | zum Salzberg. | Kleimt, Joſeph.\n  Kleimt, Joseph, Uhrmacher.\n  Frey-Keller, C., Landj., Tab.-u. Cigarhdl.\n14 | I. | 151 | zum Rechtberg. | Soller-Frey, Wilhelm.\n  Soller-Frey, Wilh., Schuhmacher.\n15 | VI. | 138 | zum Kannenbaum. | Schalch-Baur, Joh. Ulrich. ſel. Erb.\n  Schalch-Baur, Wb. Sal. Eliſ., Goldarb.\n16 | VI. | 136-137 | zum Samſon. | Braendlin-Mechel, Magd. Wb.\n  Mechel-Heusler, Modehandlung.\n  Braendlin-Mechel, Mar. Magdalena.\n  Schilling, Rudolph, Bankcaſſier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9280,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2301,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:40:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p105",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p105.jpg",
+      "bytes": 1290504,
+      "sha256": "545dd99745dd2bd4811323ffd27eea1314dfe4104a227fffa3bc1ffe550c20d0",
+      "sha256_of": "original",
+      "working_copy": "1862_p105.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:46+00:00"
+  }
+}

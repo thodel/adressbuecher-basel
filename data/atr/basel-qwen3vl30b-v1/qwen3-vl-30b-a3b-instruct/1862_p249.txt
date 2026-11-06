@@ -1,0 +1,58 @@
+184
+Klybeckstraße. — Lindenberg.
+
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+75 | VII. | 49 | | Bricar, Sam., fel. Erben.
+| | | | | Ostermann-Schneider, Joh., Kaufmann.
+| | | | | Schneider, Charlotte, Lehrerin.
+77 | VII. | 50 | | VonderMühl=Kyhiner, Johannes.
+| | | | | Sütterlin-Riefer, Conrad, Lehensbeständer.
+81 | VII. | 51 | | Heukler=Thurneyfen, Leonhard.
+83 | VII. | 51 b | | Heukler=Thurneyfen, Leonhard.
+89 | VII. | 55 | | Zwilchenbart=Thompson, Rud.
+| | | | | Haeefelin=Weber, Urs Josef, Lehensbest.
+| | | | | Dreyfus, Isaak, Söhne.
+| | | | | Thalmann-Erlacher, Johs., Lehensbest.
+101 | VII. | 57 | | Miville=Socin, Wb. Margaretha.
+106 | VII. | 59 d | | Miville=Socin, Wb. Margaretha.
+107 | VII. | 60 | z. alt. Rheinburg. | Abt, Georg u. Carl.
+| | | | | Abt, Georg, Part.
+108 | VII. | 59 | | Miville=Socin, Wb. Margaretha.
+| | | | | Haeefelin-Amman, Urs, Lehensbeständer.
+109 | VII. | 59 e | | Miville=Socin, Wb. Margaretha.
+| | | | | Klausfelder=Vörtscher, Burkh., Mar-
+| | | | | morift.
+111 | VII. | 58 A | z. Klybeckschlößli. | Abt, Georg u. Carl.
+| | | | | Cadet-Abt, Romain, Part.
+| | | | | Weber-Bischoff, Friedr., Kupferstecher.
+113 | VII. | 58 | ehemal. Pfarrwoh-
+nung. | Heimlicher=Senn, Joh. Jac.
+| | | | | Heimlicher=Senn, Joh. Jac., J. U. D.,
+| | | | | Statthalter des Landbezirks.
+119 | VII. | 58 B | | Abt, Georg u. Carl.
+| | | | | Schwoerer-Baumann, Gg., Lehennann
+| | | | | u. Gärtner.
+| | | | | Gros-Herzog, Rud., Gärtner.
+
+Lindenberg.
+1 | VIII. | 97 | | Martin-Bulacher, Joh. Friedr.
+| | | | | Martin-Bulacher, Joh. Friedr., Fa-
+| | | | | brifarbeter.
+2 | VIII. | 90 | | Hildebrandt-Ziegler, Herm., Commis.
+| | | | | Siezendanner=Thommen, Christof.
+| | | | | Siezendanner=Thommen, Christof, Fa-
+| | | | | brifarbeter.
+3 | VIII. | 98 | | Wezel-Wiedmer, Jak. Friedr.
+| | | | | Wezel-Wiedmer, Jak. Friedr., Piqueur.
+| | | | | Breitenstein, Friedrich, Commis.
+4 | VIII. | 91 | | Stoecklin-Haberthür, Urs.
+| | | | | Stoecklin-Haberthür, Urs, Maurer.
+5 | VIII. | 99 | zur Linde. | Glättli-Mohler, Johannes.
+| | | | | Glättli-Mohler, Johs., Seidenfärbeges.
+6 | VIII. | 92 | zum Backofen. | Landerer, Geschwister.
+| | | | | Landerer, Daniel Rud., Rheinarbeiter.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p116",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p116.jpg",
+    "bytes": 1440689,
+    "sha256": "5d4c8f5b162e248d21ea3c39ea221690283a510661f188d6a0b0afab67a847b3",
+    "sha256_of": "original",
+    "working_copy": "1862_p116.jpg"
+  },
+  "text": "Gerbergasse. 51\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n2 | VI. | 1666 | z. gelben Wind u. | Schmid-Villiger, Christoph.\n  |   |   | z. gold. Lamm. |   Schmid-Villiger, Christoph, Metzger.\n  |   |   |   |   Bohny-Krumm, Wb. Anna Maria, Spezier.\n  |   |   |   |   Strickler-Krumm, Rudolf, Wirth.\n  |   |   |   |   Bohny, Eduard, Kaufmann.\n3 | VI. | 1647 | z. schwarz. Stern. | Horat-Zeller, Caspar.\n  |   |   |   |   Horat-Zeller, Caspar, Detailhändler.\n  |   |   |   |   Denicola-Domenga, Seb., Glaser.\n4 | VI. | 1665 | z. klein. gold. Löwen. | Baumann, Samuel.\n  |   |   |   |   Baumann, Sophie, Mercerie- u. Woll-\n  |   |   |   |   waarenhandlung.\n5 | VI. | 1648 | zum Biberstein. | Heß-Mugglin, Hans Rudolf.\n  |   |   |   |   Heß-Mugglin, H. R., Lehrer u. Kaufm.\n6 | VI. | 1664 | z. Hennenbrunnen. | Knickmeyer-Malzacher, Wb. Frieder.\n  |   |   |   |   Knickmeyer-Malzacher, Wb. F., Goldschm.\n7 | VI. | 1649 | z. Stadt Mülhausen. | Brüderlin-Schmid, Wb. Ursula.\n  |   |   |   |   Breiter-Brüderlin, Wilh., Kaufmann.\n8 | VI. | 1663 | zum Pilger. | Bargäzi, Peter.\n  |   |   |   |   Bargäzi, Peter, Schneider.\n  |   |   |   |   Ungerer-Weber, J. Fr., Schneider.\n10 | VI. | 1661-62 | zu den drei Böcken. | Bauer, Johann.\n  |   |   |   |   Bauer, Johann, Kaufmann.\n  |   |   |   |   Lienhardt-Hänger, Heinrich, Commis.\n  |   |   |   |   Lienhardt-Hänger, Frau, Hebamme.\n11 | VI. | 1650 | Zunft zu Safran. | Corporationsgut.\n  |   |   |   |   Baumann-Gebhardt, Jerome, Traiteur.\n  |   |   |   |   Simoninus u. Bard, Agentur.\n  |   |   |   |   Hegel-Gebner, Johann, Kaufmann.\n12 | VI. | 1660 | zum alten Safran. | Schoch, Erhard.\n  |   |   |   |   Schoch, Erhard, Eisenhandlung.\n  |   |   |   |   (Firma: Erhard und Jakob Schoch.)\n14 | VI. | 1659 | Zunft z. Kürschnern. | Corporationsgut.\n  |   |   |   |   Oswald, Gebr. u. Comp.\n  |   |   |   |   Comptoir d'escompte.\n  |   |   |   |   Butscher, Franz August, Commis.\n15 | VI. | 1634 E. | hint. Postgebäude. | Staat.\n16 | VI. | 1658 | Gasthof zur Post. | Meister-Erny, Henriette.\n  |   |   |   |   Meister-Erny, Henriette, Gastwirthin.\n18 | VI. | 1657 | zum Nauenberg. | Salathé-Hunziker, Joh. Georg.\n  |   |   |   |   Salathe-Hunziker, J. Gg., Metzger.\n  |   |   |   |   Rumpf-Salathe, Carl, Postcommis.\n19 | VI. | 648 |   | Theiler-Bürgy, Heinrich.\n  |   |   |   |   Theiler-Bürgy, Heinrich, Gärtner.\n  |   |   |   |   Kleintwitz-Schmidt, Wb. Margaretha,\n  |   |   |   |   Hebamme.\n  |   |   |   |   Aenderli, Joh., Maler.\n  |   |   |   |   Weisse-Schaaf, Heinrich, Graveur.\n20 | VI. | 1656 | zum Ruckenberg. | Bloch, Rudolf.\n  |   |   |   |   Schröter-Meyer, Aug., Musiker.\n  |   |   |   |   Vögelin, Joh. Jacob, Kaufmann.\n  |   |   |   |   Weber-Müller, Sam., Ellenwaarenhdlg.\n  |   |   |   | 4*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10360,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2813,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:42:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p116",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p116.jpg",
+      "bytes": 1440689,
+      "sha256": "5d4c8f5b162e248d21ea3c39ea221690283a510661f188d6a0b0afab67a847b3",
+      "sha256_of": "original",
+      "working_copy": "1862_p116.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:29+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p242",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p242.jpg",
+    "bytes": 1464022,
+    "sha256": "bff5a8d19ad3a69113ac59e080648b32641810d988b3a2c48d2b53f653645c89",
+    "sha256_of": "original",
+    "working_copy": "1862_p242.jpg"
+  },
+  "text": "Hammerstraße. 177\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n17 | VIII. | 6 B | | Sagnol Wb. u. fils ainé.\n  Sagnol-Erlacher, Jean Marie, Appre- teur u. Spirituosenhändler.\n  Sagnol-Meiller, Wb. Jeanne Marie.\n  Schilling-Fischer, Joh., Bestäter.\n19 | VIII. | 6 | | Nägeli-Hosch, Conrad.\n  Nägeli-Hosch, Conrad, Wirth.\n21 | VIII. | 6 C | | Burckhardt, Samuel, Part.\n  Gubler-Lobacher, Rud.\n  Gubler-Lobacher, Rud., Seidenfärberges.\n22 | VIII. | 4 A | | Meyer-Abt, Heinrich Christof.\n  Meyer-Abt, Hch. Christof, Schuhmach.\n  Bruder-Durst, Alex., Lithograph.\n23 | VIII. | 5 O | | Schöllkopf-Schumacher, Gottlieb.\n  Bürgy-Müller, Heinrich, Gutsbesitzer.\n  Kunkler-Miesch, Johs., Part.\n  Gubler-Tschumper, Rud., Tapezierer.\n24 | VIII. | 4 B | | Effinger, Carl Friedrich.\n25 | VIII. | 6 A | | Merian, Ludwig, u. Lotz, Friedr.\n26 | VIII. | 6 D b | | Riggenbach-Burckhardt, Franz.\n  Magazin.\n27 | VIII. | 6 B A | | Merian, Ludwig, u. Lotz, Friedrich.\n28 | VIII. | 80 | zur Freudenquelle. | Goetz, Eml., sel. Erben.\n  Goetz-Buser, Anna Maria Wb., Part.\n  Gilgin-Bell, Fridol., Gärtner.\n  Maerkly-Kuser, Carl, Aufseher, Hand- lung in Seidenstoffen.\n30 | VIII. | 80 h | | Goetz-Buser, sel. Erben. Fabrikgebäude.\n32 | VIII. | 81 | | Isler, Joh. Rudolf.\n  Isler, Joh. Rud., Blattmacher.\n34 | VIII. | 81 b | | Isler, Joh. Rudolf.\n44 | VIII. | 82 C | | Aegerter-Bühler, Johann.\n  Aegerter-Bühler, Joh., Schreiner.\n45 | VIII. | | | Vischer-Merian, Carl, u. Vischer- Burckhardt, Peter. Gasometer.\n46 | VIII. | 82 c | | VonBrunn-Matzinger, Simon.\n  VonBrunn-Matzinger, Simon.\n48 | VIII. | 82 | | Wiesner-Thommen, Emanuel.\n  Wiesner-Thommen, Eml., Maler.\n52 | VIII. | 84 | | Iselin, Adele, Jungfrau.\n  Iselin, Adele Jungfr., Rentiere.\n53 | VIII. | 83 | | Vischer-Merian, u. Peter Vischer- Burckhardt.\n  Gräslin-Grether, Jac., Fuhrhalter.\n  Keller-Meyer, Peter, Posamentmeister.\n57 | VIII. | 72 B | | Matzinger-Munsch, Carl.\n  Matzinger-Munsch, Carl, Part.\n  Wildi-Kaufmann, Friedr., Lehrer.\n59 | VIII. | 72 A | | Matzinger-Munsch, Carl.\n  Cathian-Thomas, Jos., Eisenbahnbeamt.\n\n12",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9122,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2125,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:01:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p242",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p242.jpg",
+      "bytes": 1464022,
+      "sha256": "bff5a8d19ad3a69113ac59e080648b32641810d988b3a2c48d2b53f653645c89",
+      "sha256_of": "original",
+      "working_copy": "1862_p242.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:54+00:00"
+  }
+}

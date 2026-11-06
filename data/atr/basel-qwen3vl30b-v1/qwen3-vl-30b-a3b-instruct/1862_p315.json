@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p315",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p315.jpg",
+    "bytes": 1509990,
+    "sha256": "ad8de372967567bbff6a473c6e62218c2aa4486ec43c1240946774b99a149f51",
+    "sha256_of": "original",
+    "working_copy": "1862_p315.jpg"
+  },
+  "text": "250\nVerzeichniß der Häuserbesitzer.\nBischer=Bischoff, Friedr. Kittergasse 5. 19. | BonSpeyr u. Comp. Freie Straße 56. —\nBischer, Julie, und Bischer=Burckhardt, Pet. St. Leonhards=Graben 14. — Schützen-\nSt. Alban=Graben 21. 23. — Kittergasse 35. graben 2. 4.\nBischer=Burckhardt, Pet. Kiehen=Straße 74. 76. BonSpeyr=Jefelin, Carl. St. Jakobs=Straße 11.\nBischer=Chrift, Rudolf. Bäumteingaffe 16. — Vuilleumier=Schweizer, Aug. Virgil. Rhein-\nSt. Jakobs=Straße 33. 35. gaffe 27.\nBischer=Handmann, Wb. A. Maria. St. Al- Bultier=Bingler, Eugen. Fabrikstraße 19.\nban=Vorstadt 85. 87. Bultier=Mathiot, Ffidor. Steinenbachgäfl. 25.\nBischer=Jefelin, Joh. Jakob. Seevogelftr. 1. — Steinenvorftadt 30.\nBischer=Marian, Carl, u. Bischer=Burckhardt, Wacker=Miller, Friedr. Matzgaffe 1.\nPeter. St. Martins=Gaffe 1. — Rhein- Wackernagel=Sarafin, Wilh., Dr. u. Prof.\nfprung 16. — Hammerstraße 45. 53. — Brunn Gäflein 11.\nKlingenthalstraße 17. Wäffler, Jakob. Sattelgaffe 14.\nBischer=Marian, Carl. Hardstraße 70. 72. Wäffler, Samuel. Gerbergaffe 27.\nBögelin=Bögle, Anton. Klybedftraße 63. Wagner, F. F. Peter. Schneidergaffe 31.\nBögtlin=Langmeffer, Louis. Missionsstraße 57. Wagner, Mathias. Elfäffer=Straße 42.\n59. — Hagenheimer Straße 7. Wagner=Chryam, Conr. St. Clara=Straße 35.\nBöllmy=Zutt, Joh. Jakob. Wallstraße 22. Wagner=Mayr, Wb. Elifa. Bäumleingaffe 2.\nBöllmy=Glaser, Jaf. St. Alban=Vorstadt 20. Wagner=Vogt, Jakob. Sternengäflein 1. 3.\nBogel=Strittmatter, Christian. Roßhofgaffe 3. Wahl=Ren, Joh. Heinr. Mattweg 2. 4.\nBogler=Riesler, Adrian. Schützengraben 45. Wahl=Spitteler, Friedrich. Kenneweg 1. 3.\nVogt, S. G. Marktplatz 18. 8. — Seevogelftraße 7.\nVogt=Baumann, Josef, fel. Erben. Kloster- Wahr, Philipp u. Carl. Freie Straße 31.\nberg 7. — Schliiffelberg 6.\nVogt=Cordier, Friedr. Stadthausgaffe 22. Maifenhauiverwaltung. Kiehenthoftraße 2.\nVogt, Heinrich. Burgfelder=Straße 22. 4. 6. 8. — Schorenweg 19. — St. Theo-\nVollenhals=Abt, Friedr. Moftackerftraße 58. dorskirchplaz 7. — St. Jakob 2.\nBonAry, Jakob. Schnabelgäflein 12. Waldner=Zieber, Joh. Heinr. Schneidergaffe 19.\nBonBrunn=Maßinger, Sim. Hammerftraße 46. Wall, Heinrich, Sohn. Karthausgäfl. 1. 3.\nBon der Crone=Runge, Wb. Charlotte. Hin- Wallifer=Hägler, Wb. Judith. Rebgaſse 18.\nterer Burgweg 2. Wallifer=Liddin, Conrad. Rebgaſse 11.\nBonderMihll=Bischoff, Emanuel. St. Ja- Walter=Bienz, Chr. Friedrich. St. Alban=\nkobs=Straße 24. — Miindenfteinер Straße Vorstadt 59.\n2. — Nadelberg 12. — St. Peters=Gra- Walter=Jägg, Joseph. Nejchenvorſtadt 67. 69.\nben 43. Walter=Keller, Carl. Freie Straße 73.\nBonderMihll=Fürftenberger, Alfred. In den Walz=Ruthuf, Joh. Alſchwyler Straße 27.\nNeufäzen 3. 5. Waffermann=Solde, Andreas. St. Peters-\nBonderMihll, Gebrüder. St. Alban=Thal Berg 38.\n12. 14. Waffermann=Krebs, Rud. Heuberg 25.\nBonderMihll=Hoffmann, fel. Wb., A. Cathar. Waffermann=Mollinet, Joh. St. Peters=Plaz 6.\nSt. Alban=Graben 22. — St. Alban=Vor- Waffermann=Schweizer, Fritz. Fijchmarkt 1.\nſtadt 2. 6. 36. Waffermann=Waffermann, Joh. Spalenberg 33.\nBonderMihll=Hoffmann, Leonhard, fel. Erben. Waffermann=Weber, Carl Rud. Utengaffe 1.\nMatzgaffe 4. 10. 12. Weber, Heinrich. Rebgaſse 24.\nBonderMihll=Keller, Wb. Margar. Stadt- Weber, Seb. Lindenberg 20. — Heumatt-\nhausgaffe 2. strafe 7. 9.\nBonderMihll=Keller, Joh. Georg, fel. Erben. Weber, Tobias. Ochfengaffe 17.\nEifengaffe 23. 25. — St. Martinskirchplaz 9. Weber=Engel, Joh. Jakob. Untere Rebgaſse\nBonderMihll=Marian, Carl. St. Alban=Vor- 22. 24.\nſtadt 24. Weber=Faust, Eman. Steinenvorſtadt 61.\nBonderMihll=Ryhiner, Johs. Klybedftraße 77. Weber=Herzog, Jakob. Sägergäflein 4.\nBonderMihll=Bischer, Friedrich. Götterbarm- Weber=Marfort, Rud. Steinenthorftraße 29.\nweg 20. — Kiehen=Straße 60. 62. — Kie- Weber=Stierli, Friedr. Spalenberg 54.\nhenteichweg 36. 38. 40. 42. Weber=Zuber, Wb. Anna. Rappoltshof 19.\nBonfild, Benedict. Hutgaffe 21. Wegner, Joh. Rud. St. Claraplatz 2. 3.\nBonfild=Landerer, Sebaſt., fel. Erben. Rhein- Wehrli, Heinrich. Gerbergaffe 59.\ngaffe 62. Wehrli=Helde, Jakob. Pfluggäflein 5.\nBonfild=Bögtlin, Georg. Gerbergäflein 6. Wehrli=Kudin, Joh. Jaf. Miihlenberg 19. 21.\nBonSpeyr, Emil. Barfüßergaffe 4. — Lehenmattweg 36.\nBonSpeyr, Johs. St. Leonhards=Straße 10. Wehrly=Hilbert, Joh. Jaf. Klosterberg 29.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11729,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4232,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 67.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:01:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p315",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p315.jpg",
+      "bytes": 1509990,
+      "sha256": "ad8de372967567bbff6a473c6e62218c2aa4486ec43c1240946774b99a149f51",
+      "sha256_of": "original",
+      "working_copy": "1862_p315.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:57+00:00"
+  }
+}

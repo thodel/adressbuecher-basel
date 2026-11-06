@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p222",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p222.jpg",
+    "bytes": 1411409,
+    "sha256": "577ef11688a516a5f574404dde730892827118e0f02476d8f51aea4fbadf551c",
+    "sha256_of": "original",
+    "working_copy": "1862_p222.jpg"
+  },
+  "text": "Stiftsgasse. — Streitgasse. 157\nNre\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n7 II. 561\n............ Bauer=Felber, Jacob.\nZu Nr. 35 u. 37 St. Petersgraben.\n9 II. 562 Pfarrhaus. Stüickelberger=Usteri, Joh., Pfarrer.\nZu Nr. 33 St. Petersgraben.\n11 II. 563\n............ Reber=Geilinger, Joh. Jak.\nZu Nr. 31 St. Petersgraben.\nStreitgasse.\n1 IV. 1087 z. obern Hindin. Hottenfen=Wehrle, Carl Wilhelm.\nHottenfen=Wehrle, Carl Wilh., Coiffeur.\n2 IV. 1192 zum Ortenberg. Raillard=Weiß, Wb. Maria.\nRaillard=Weiß, Wb. Maria, Uhrenhdlg.\nRaillard, Theodor de Theodor, \"\nBuchbinderei v. Meyer=Thurneyßen, Th.\n3 IV. 1088 zur Hündin. Giefen=Müller, Wb. Marg., fel. Erb.\nKündig, Heinrich, Buchbinder.\nRigassi, Giovanni, Glaser.\n4 IV. 1098 z. goldenen Spieß. Thommen, Carolina.\nThommen, Carolina, Part.\nGekler, Magdalena, Wollwaarenhdlg.\n5 IV. 1085 zum Schlegel. Eppens=Hug, Adolf Dietrich.\n6 IV. 1099\n............ Plattner=Meyer, Wb. Maria Charl.\nPlattner=Meyer, Wb. Mar. Charlotte,\nParticular.\n7 IV. 1089 z. gold. Mörfer. Meyer, Jakob Christof.\nMeyer, Jakob Christof, Zuckerbäcker.\nMüller, Dorothea, Rentiere.\n8 IV. 1100 Pfannenberg. Brenner=Schilling, Joh. Georg.\nBrenner=Schilling, Joh. Georg, Ge-\nschirrhandlung.\n9 IV. 1090\n............ Schneider=Meiri, Wb. Rosina.\nSchneider=Meiri, Wb. Rosina, Kostgeb.\nBraegger, Friedr. Melch., Schreider.\nHiltmann=Verspach, Chrysostomus,\nSchneider.\n10 IV. 1101 z. kl. grünen Ring. Schuler=Bienz, Adam.\nSchuler=Bienz, Adam, Wagner.\n11 IV. 1091 z. obern Balchen. Staehelin=Staehelin, Rudolf.\nStaehelin=Staehelin, Rud., Kaufmann.\nFirma Gebr. Staehelin, Colonialwaa-\nrenhandlung.\n12 IV. 1102 z. kalten Brunnen. Weiß=Bienz, Emanuel.\nWeiß=Bienz, Emanuel, Kübler.\nRigassi, Daniel, Glaser.\n13 IV. 1092 z. untern Balchen. Ritter=Bräuning, Joh. Jak.\nRitter=Stahel, Joh. Jak., Mezger.\nFröhlicher, Urs. Jos., Sprachlehrer.\nMeyerhofer=Faustlin, Johann Jacob,\nSchuhmacher.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5682,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1942,
+    "lines": 63,
+    "longest_char_run": 12,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0062,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p222",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p222.jpg",
+      "bytes": 1411409,
+      "sha256": "577ef11688a516a5f574404dde730892827118e0f02476d8f51aea4fbadf551c",
+      "sha256_of": "original",
+      "working_copy": "1862_p222.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:12+00:00"
+  }
+}

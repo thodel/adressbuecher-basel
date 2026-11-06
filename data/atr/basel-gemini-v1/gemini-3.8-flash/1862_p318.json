@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p318",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p318.jpg",
+    "bytes": 1531546,
+    "sha256": "925a885d84a3f68e26b88edc500d73cf58199122e5613ce4d7e33cef4833ae19",
+    "sha256_of": "original",
+    "working_copy": "1862_p318.jpg"
+  },
+  "text": "Alphabetisches Verzeichniß der Bürger und Einwohner\nder Stadt Basel.\n\nAbele, Ludw., Zollinspektor. Riehenstr. 26.\nAberle-Gessel, Wb. Maria Cath., Taglöhnerin.\n  Lindenberg 9.\nAberli-Haas, Franz, Schriftsetzer. Schwanen-\n  gasse 6.\nAberlin-Seiler, Jak., Straßenarbeiter. Sattel-\n  gasse 16.\nAbig-Müller, Eml., Spengler. Rheingasse 58\nAbry, Hippolite, Dessinateur. Schneidergasse 5.\n— Louise, Lingere und Corsetschneiderin.\n  Schneidergasse 5.\nAbsonderungshaus und Versorgungsanstalt.\n  Spitalstraße 3.\nAbt-Abt, Heinrich, Kostgeber. St. Johann-\n  Vorstadt 59.\n— Albert, Postbeamter. Austraße 47.\n— Cath., Schneiderin. Streitgasse 10.\n— Georg, Part. Klybeckstraße 107.\n— -Grieder, Joh., Eisenbahnbeamter. Spalen-\n  berg 62.\n— -Langmesser, J., Ferger. Greifengasse 21.\n— -Mohler, Elisabeth, Taglöhnerin. Hut-\n  gasse 10.\n— -Müller, Joh. Jakob, Seidenfärbergeselle.\n  Hammerstraße 21.\n— -Rottweil, Wb. Elisab., Glätterin. Schaf-\n  gäßlein 1.\n— -Schneider, Daniel, Eisenbahnbeamter.\n  Steinenthorstraße 37.\n— -Siegrist, Wb. Salomea, Taglöhnerin.\n  Spalenvorstadt 20.\n— -Tschopp, Daniel, Arbeiter. Steinen-\n  thorstraße 37.\n— -Tschopp, Jakob, Holzhändler. Steinen-\n  vorstadt 47.\n— -Wenk, Carl, Wirth. Hintere Bahnhof-\n  straße 16.\nAcker-Abt, Carl, Schreiner. Birsigstraße 26.\nAckermann-Dudli, Joh., Spezerei- u. Pack-\n  tuchhandlung. Spalenberg 26.\n— Joh., Schuhmacher. Freie Straße 105.\n— -Keller, Jakob, Posamenter. Sternen-\n  gäßlein 29. 31.\n[spalte 2]\nAckermann, Maria, Kostgeb. Aeschenvorstadt 65.\n— -Rapp, Dan., Spengler. Gerbergasse 73.\n— -Rueff, Carl, Malerges. Utengasse 28.\n— -Schaub, Alois, Appreteur. Nadelberg 36.\n— -Schaub, Pet., Oekon. Sternengäßlein 9.\nAdammann-Roth, Anton, Schneider. St.\n  Johann-Vorstadt 53.\nAdler, Christian, Kutscher. St. Peters-Gasse 2.\n— Maria Magdal., Zettlerin. St. Peters-\n  Berg 34.\n— -Studhalter, Joh., Maurer. Utengasse 41.\nAdolf, Barbara, Taglöhnerin. Greifengasse 26.\nAebi-Müller, Ferdinand. Eisenbahnbeamter.\n  Hammerstraße 106.\nAeby, Chr. Th., J. U. D. In den Neusätzen 4.\n— -Hartmann, Wb. Cath., Lehenbeständer.\n  In den Neusätzen 4.\nAegerter-Bühler, Joh., Schreiner. Hammer-\n  straße 46.\nAemmer, Abraham Gottfried Ferd., Commis.\n  Seevogelstraße 7.\nAenishänsli-Bren, Heinrich, Fabrikarbeiter.\n  St. Johann-Vorstadt 63.\n— -Gränacher, Carl Friedrich, Mechaniker.\n  Rebgasse 40.\nAerni, Wilhelmine, Schneid. Streitgasse 14.\nAeschbach, Heinrich, Banddrucker. St. Clara-\n  Straße 9.\n— -Mädöri, Heinr., Posamenter. Riehen-\n  teichweg 14.\nAeschmann-Brotbeck, Friedrich, Fabrikarbeiter.\n  Utengasse 27.\n— -Lichtenhahn, Daniel, Schreiner. Kar-\n  thausgäßlein 7.\n— Margaretha. Rheingasse 52.\nAichner-Burckhardt, Rud., Baumeister. Stei-\n  uenthorberg 14.\nAlbäck-Schwab, Jakob Heinrich, Kaufmann.\n  Hammerstraße 13.\n— — Bureau. Fabrikstraße 35.\nAlber, Philipp, Fabrikarb. Aeschenvorstadt 64.\n— -Kußmaul, Wb. Barbara, Taglöhnerin.\n  Aeschenvorstadt 64.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10253,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2884,
+    "lines": 89,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:17:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p318",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p318.jpg",
+      "bytes": 1531546,
+      "sha256": "925a885d84a3f68e26b88edc500d73cf58199122e5613ce4d7e33cef4833ae19",
+      "sha256_of": "original",
+      "working_copy": "1862_p318.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:17:40+00:00"
+  }
+}

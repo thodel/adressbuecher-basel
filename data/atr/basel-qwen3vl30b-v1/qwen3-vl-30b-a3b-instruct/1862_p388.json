@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p388",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p388.jpg",
+    "bytes": 1595776,
+    "sha256": "c430f4a6384e0019ad198ece4063cf1f040ba22197b58fc92fb890b31f7c0199",
+    "sha256_of": "original",
+    "working_copy": "1862_p388.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 323\nNiedriff=Weber, Joh. Sebast., Mechaniker u. Ochsenbein, Rudolf, Bischfennmacher. Spalen-\nWirth. Webergasse 16. thorweg 4.\nNiebergelt=Ernst, Johs., Fabrikarbeit. Aeschenvorstadt 24. Ochser=Schäfer, Wb. Wilhelmine, Näherin.\nNiggli=Brugger, W., Bäcker. Webergasse 28. — Wb., Part. Aeschenvorstadt 60.\nNippert=Lindemann, Ludw., Prediger. Wallstraße 14. Oechslin=Riedtmann, Joh. Conr., Schiffer u.\nNörbel=Geymüller, Hiers., Küfer. St. Leonhards=Straße 12. Holzhändler. Rheingasse 86.\nNörner=Wahl, Joh., Stuhlschreiner. Freie Straße 32. Oehl, Heinrich, Kaufmann. Kiehen=Straße 59.\nNößlin=Langmesser, J. u., Kaufmann. Gensberg 4. Oelhafen=Dreyer, Samuel Jac., Mechaniker.\nNolin=Litzelmann, Alex., Chemiker. Kiehen= — St. Johann=Vorstadt 37.\nStraße 57. Oertlin=Thommen, J. J., Fabrikarbeiter.\nNonnenmacher=Degen, Wb. Barbara, Flecken- — Grenzacher=Straße 100.\npuzerin. Weiße Gasse 20. Oeschger, Ignaz, Bäcker. Greifengasse 34.\nNordmann=Dietisheim, Elie, Kaufmann. — =Langmesser, Joh., Wirth. Greifengasse 18.\nGreifengasse 1. Oetiker=Kropf, Emil, Buchbinder. Spalenberg 45.\n— Elie, Geschäftsmann. Schwanengasse 16. — =Kofin, Jacob, Führhalter. Schützen-\n— =Schwob, Bernh., Geschäftsmann. Steinen=straße 10.\ngässlein 10. Oetlinger, Barbara, Fabrikarbeiterin. Kiehen=Straße 7.\nNowack=Ebner, Heinr., Schuhmacher. Badergässlein 1. Oszki=Maier, Friedr., Schreiner. Sternengässlein 9.\nOberer, Carl, Maler. Imbergässlein 9. — Dhl, Joh. Wilh., Coiffeur. Fischmarkt 7.\n— =Häfelfinger, Gottl. Adolf, Ferger. Linden- — Oppermann, Carl, Sohn, Flachmaler. Steinen-\nberg 11. thorstraße 27.\n— =Jörin, Martin, Fabrikarbeiter. Malzgasse 13. — =Landerer, Carl, Flachmaler. Steinen-\n— Sebastian, Fabrikmeister. Gellertstraße 47. thorstraße 27.\n— =Theiß, Jacob, Posamenter. Rheingasse 13. — =Schweizer, M. Andr., Schreiner. Aeschenvorstadt 21.\nOberlin, Susanna, Part. Todtentanz 6. Opplinger, Anna, Klingenthalarbeit. Rappoltshof 7.\nObermüller=Lehmann, Joh. Peter, Fabrikarbeiter. Unterer Heuberg 18. — A. R., Commis. St. Elisabethen-\nObrecht=Pfau, Emanuel, Marktbankpächter. Straße 54.\nMarktplatz 4. — =Degen, Caspar, Gärtner. Karthausgässlein 1.\nObrist=Haas, Wb. Barbara, Schröpferin. Kiehen= — Joh., Färbergeselle. Rappoltshof 7.\nhenthorstraße 3. — =Leibundgut, Rud., Schuhmacher. Uten- \nOchs, Cäcile, Fabrikarbeiterin. Rheingasse 62. gasse 56.\n— =Schwehri, Nothburga, Taglöhnerin. — Maria Magdal., Modiste. Rappoltshof 7.\nRheingasse 62. — =Reichert, Daniel, Dessinateur. St. Peters=Gasse 6.\n— Rudolf, Schreiner. Mostackerstraße 52.\nDrelli=Fischer, Josef, Glaser. Spalenvorstadt 25.\nOjer, Adam, Louise u. Emma, Färbereibefitzer. Barfüsserplatz 9.\n— =Bendel, Cölestin, Zimmergejelle. Nebgasse 44.\n— =Fischer, Wb. Cath., Part. Gerbergasse 79.\n— u. Gemuseus. St. Alban=Thal 24.\n— Geschwister, Jeanette u. Julie, Part. Schützengraben 19.\n— J. J., Schuhmacher. Freie Straße 105.\n— =Stelii, Wilh., Amtsdienier. Gartenstraße 62.\n— =Leber, Wb. Elisab., Klingelbergstraße 22.\n21 *",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8121,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2987,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 65.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:13:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p388",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p388.jpg",
+      "bytes": 1595776,
+      "sha256": "c430f4a6384e0019ad198ece4063cf1f040ba22197b58fc92fb890b31f7c0199",
+      "sha256_of": "original",
+      "working_copy": "1862_p388.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:13:18+00:00"
+  }
+}

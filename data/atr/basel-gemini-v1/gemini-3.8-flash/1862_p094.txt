@@ -1,0 +1,53 @@
+Blumenrain. | 29
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+8 | I. | 115 | zu drei Königen. | Senn-Isenegger, Joh. Jakob.
+  Senn-Isenegger, Joh. Jak., Gastwirth.
+  Heusler, Wilhelm, Kaufmann.
+9 | I. | 117 | zur Laterne. | Dubois-Hilzinger, Louis.
+  Dubois-Hilzinger, Louis, Uhrenmacher.
+10 | I. | 113 | zum Treibeck. | Leucht-Keller, Karl Friedrich.
+  Leucht-Keller, K. F., Bandhandlung.
+  (Firma: Leucht u. Comp.)
+11 | I. | 116 | Groß-Hüningen. | Zimmerlin-vonSpeyr, August.
+  Zimmerlin-vonSpeyr, Aug., Tabakfab.
+  Baader, Friedrich, Straßen-Inspector.
+12 | I. | 111 | Café des 3 Rois. | Munzinger-Maring, Jak. Friedrich.
+  Munzinger-Maring, Jak. Friedr., Café-
+  wirth.
+  Hönes, August, Kaufmann.
+13 | I. | 112—14 | z. Spiegel, Fortuna. | Böcklin-Lippe, Friedrich.
+  Kiefer-Scott, Wilhelm, Agent.
+  Bürger, Georg, Agent.
+14 | I. | 109 | zum Anker. | Schmidt-Montandon, Georg Mich.
+  Schmidt-Montandon, Gg. Mich., Ingen.
+  u. Lehrer d. öffentl. Zeichnungssch.
+  Ammann, Gottlob, Musiklehrer.
+  Baumgartner, Ferd., Sprachlehrer.
+  Götz, Wilhelm, Commis.
+  Marget, F. Emil, Kaufmann.
+15 | I. | 110 | | Loos-Donatz, Joh. Bernhard.
+  Loos-Donatz, Joh. Bernh., Commis.
+16 | I. | 108 | | Fluck-Payot, Joh. Jacob, Bäcker.
+  Fluck-Payot, Joh. Jacob, Bäcker.
+  Payot-Grummler, Jacob, Gärtner.
+  Schürer, Aug. Ed. Adolf, Kaufmann.
+17 | I. | 104 e | z. kleinen Segerhof. | Burckhardt, Philipp sel. Erben.
+  Gysler-Handmann, Wb. Maria, Rent.
+  Gysler, Jgfr. Anna Maria, Rentiere.
+18 | I. | 107 | z. klein. Hüningen. | Lauterburg-Streuber, Georg.
+  Villars, Jgfr. Celestine, Lehrerin.
+  Baumann-Hosch, Wb. Dorothea, Part.
+  Baumann, Theophil, Kaufmann.
+19 | I. | 104 | Segerhof. | Burckhardt, Philipp sel., Erben.
+  Burckhardt, Jungfrauen Luise, Adele u.
+  Marie, Rentieres.
+  Pelletier, Jgfr. Jeannette Luise, Rent.
+20 | I. | 106 | | Strütt, Joh. Jakob.
+  Maring, Emanuel, Commis.
+  Görner, Carl, Commis.
+  Kettiger, Joh. Carl, Commis.
+21 | I. | 100 | zur Menzenau. | Geschwister Jenny.
+  Jenny, Joh. Jakob, Spezierer.
+22 | I. | 105 | St. Urbanseck. | Ronus-Gemuseus, Christ., Kaufm.
+23 | I. | 97 | zum Altkirch. | Siegrist-Brodmann, Johannes.
+  Siegrist-Brodmann, Ferger u. Wirth.

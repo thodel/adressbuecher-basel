@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p167",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p167.jpg",
+    "bytes": 1308269,
+    "sha256": "27e0f806f2dea788919e3dad1a86ba6a03ba43df9b8d28de5cd77edee8fd2cb5",
+    "sha256_of": "original",
+    "working_copy": "1862_p167.jpg"
+  },
+  "text": "102\nNadelberg. — Nauenstraße.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n31 II. 518 zur hint. Hattstätt. Fritz=Fröhlich, Joh. Jacob.\nFritz=Fröhlich, Joh. Jacob, Schreiner.\nSegiser=Aeschbacher, Joh., Zuckerbäcker.\nMit Eingang zu Nr. 14 Spalenberg.\n32 II. 503 zum Nadelberg. Haga=Füllemann, Benedict.\nHaga=Füllemann, Bened., Civilgerichts-\namtmann.\n33 II. 517 Hosch, Nicolaus.\nHosch, Nicolaus, Lithograph.\n34 II. 502 zur Engelsburg. Burckhardt, Bernhard, Vater.\nBurckhardt, Bernhard, Vater, Glaser.\nBurckhardt, Joh., Sohn, Glaser.\nGemeinschaftlicher Eingang zu 16,\n18, 20 Spalenberg.\n35 II. zur rothen Henne. Heimberg, Joh.\nHeimberg, Joh., Cigarrengeschäft.\nWagner, Elisabeth, Lehrerin.\n36 II. 501\n37 II. 512 Fürstenberger=Debary, Julie.\nComptoir v. Hans Georg Fürstenberger.\nHagenbach=Bischoff, Ed., Dr.\n39 II. 509 zum Strauß. Grether=Wiedmeyer, Ernst Friedr.\nGrether=Wiedmeyer, Ernst Friedr., Comm.\nGeiger, Geschw. Emilie u. Julie, Modiste.\nSchweizer=Riedtmann, Rudolf.\nGrimm=Brändlin, Luc. Rud., Schuhm.\n41 II. 508\n43 II. 506 zum untern schwarz. Löw=Baumann, Leonhard.\nStern. Löw=Baumann, Leonhard, Schuhmacher.\n45 II. 504\n47 II. 499 Bannwartshaus. Burckhardt=Grüninger, Wb. Maria Ur-\nfula.\nBurckhardt=Grüninger, Wb. Maria Ur-\nfula, Maler.\nSchnewlin, Heinrich, Telegraphist.\nErny, Johann, Telegraphist.\nSchmid=Wunderlich, Friedrich.\nSchmid=Wunderlich, Friedr., Uhrmacher\nund Telegraphist.\n49 II. 500 zum rothen Knopf. Dietrich=Rogel, Joh. Heinrich.\nDietrich=Rogel, Joh. Heinrich, Schneider.\nNauenstraße.\n1 IV. 216 Amberger=Schloffer, Hermann.\nAmberger=Schloffer, Hermann, Buch-\nhändler.\nvon Speyr=Ryhiner, Eduard, Banquier.\nHerzog=Berri, Achilles, Kaufmann.\n2 IV. 215 A Stüsky=Hefti, Heinrich.\nStüsky=Hefti, Heinrich, Holzhändler.\nMerke, Franz Xaver, Zimmermeister.\nRothplek=Rychner, August, Ingenieur.\n4 IV. 215 A b Stüsky=Hefti, Heinrich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6154,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1896,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:42:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p167",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p167.jpg",
+      "bytes": 1308269,
+      "sha256": "27e0f806f2dea788919e3dad1a86ba6a03ba43df9b8d28de5cd77edee8fd2cb5",
+      "sha256_of": "original",
+      "working_copy": "1862_p167.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:53+00:00"
+  }
+}

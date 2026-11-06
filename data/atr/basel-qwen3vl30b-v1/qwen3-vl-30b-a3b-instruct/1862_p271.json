@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p271",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p271.jpg",
+    "bytes": 1283805,
+    "sha256": "e7bd649af1234f2f11ac4d76354c13883b96f1d9d0995433a0e6ec5295224929",
+    "sha256_of": "original",
+    "working_copy": "1862_p271.jpg"
+  },
+  "text": "206\nUtengasse.\nRené\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n4 VIII. 398\nGefler=Sieber, Andreas.\nSieber, Ludwig, Gymnasiallehrer.\nStriibin=Frey, Achilles, Kaufmann.\n5 VIII. 400 Gaishof.\nMüller=Kleiling, Wb. Sibilla Maria.\nMüller=Kleiling, Wb. Sibilla Maria, Part.\nMüller, Gustav, Kaufmann.\nMüller, Friedrich, Med. Dr.\nFirma: Wb. Müller und Conforten,\nWeinhandlung.\n6 VIII. 399\nTreu, Rudolf.\nTreu, Rudolf, Particular.\n7 VIII. 400 b\nMüller=Kleiling, Wb. Sibilla Maria.\n8 VIII. 401\nHeusler=Thurneyssen, Leonhard.\n10 VIII. 402\nTrautz, Adam.\n11 VIII. 409 zum Silberberg.\nKöbl. Armencollegium d. Stadt Basel.\nWidmer, Daniel, Vorsteher der Armen-\nArbeitsanstalt.\nEßlin, Lisette, Lehrerin.\nEßlin, Jenny,\n12 VIII. 403 zum hintern Löwen. Baumgartner=Müller, Samuel.\nBaumgartner=Müller, Samuel, Maler.\n13 VIII. 410 zum Silberberg. Häring=Schmidt, Josef.\nHäring=Schmidt, Jof., Seidenfärbcr.\n14 VIII. 404 zum Bären. Krafft=Meyer, Ernst.\n15 VIII. 415 Silberberg. Häring=Schmidt, Josef.\n16 VIII. 405\nBienz=Deschger, Rudolf.\n17 VIII. 416\nLindenmeyer, Joh. Rudolf.\n18 VIII. 407\nVok=Heusler.\n19 VIII. 417\nPortmann=Selzer, Achilles, Schneider.\nLindenmeyer, Joh. Rudolf.\nLindenmeyer, Joh. Rud., S.M.C., Lehrer.\nTruyen, Joh. August, Tapezierer.\n20 VIII. 408\nLieby=Bury, Chrysostomus.\nLieby=Bury, Chrysostomus, Spezierer.\nKleiner=Strub, Rudolf, Kartoffelhdlg.\n21 VIII. 420\nTrueb=Preiswerk, Rudolf.\n22 VIII. 36 b z. hint. Kaiserstuhl. Kaiser=Stadelmann, Jakob.\nSchartd=Ekert, Mathias, Spengler.\nKrauer=Blind, Joseph, Schneider.\nBalmer, Xaver, Holz- und Kohlenhdlr.\n23 VIII. 421 zur Galeeren. Haag=Raim, Wb. Sophie Auguste.\nHaag=Raim, Wb. Soph. Auguste, Wirthin.\nSeyfer=Seiler, Johannes.\n24 VIII. 411\nHein=Weiß, Wb. Catharina.\n25 VIII. 422\nHein=Weiß, Wb. Catharina, Glätterin.\n26 VIII. 412 Eingang zu Nro. 40 Billeumier=Schweizer, A. Virgil.\nRheingasse.\n27 VIII. 423\nKäfer=Rosenberger, Wb. Emerentia.\nKäfer=Rosenberger, Wb. Emer., Kostgeb.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5867,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1967,
+    "lines": 76,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 24.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p271",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p271.jpg",
+      "bytes": 1283805,
+      "sha256": "e7bd649af1234f2f11ac4d76354c13883b96f1d9d0995433a0e6ec5295224929",
+      "sha256_of": "original",
+      "working_copy": "1862_p271.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p217",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p217.jpg",
+    "bytes": 1295251,
+    "sha256": "1a1800b097e1ffed6c3075dbb10a7d0aab6dc8da492cc52e3c73ba8199d26dbc",
+    "sha256_of": "original",
+    "working_copy": "1862_p217.jpg"
+  },
+  "text": "152 Steinenvorstadt.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n9 | III. | 823 | Schillingshaus. | Strub-Löw, Eduard.\n  Strub-Löw, Eduard, Metzger.\n10 | III. | 765 | zum Rosenfels. | Ancklin, Joseph, sel. Erben.\n  Ancklin, Joseph, Schreiner.\n  Nordemann-Schwob, Bernhard, Geschäftsmann.\n  Leitner, Robert, Klavierstimmer.\n11 | III. | 822 | zur Kirche. | Stückelberger-Burckhardt, Pet. Carl.\n  Stückelberger-Burckhardt, Peter Carl, Schlosser.\n12 | III. | 766 | z. schwarzen Horn. | Hindermann-Christ, Wilhelm und Strub-Löw, Eduard.\n  Bloch, Gebr., u. Comp., Hauthändler.\n  Züllig, Pancratius, Wollfärber.\n13 | III. | 821 | zum Neuenburg. | Erlacher, Jacob, sel. Erben.\n  Fuchs-Sticher, Theodor, Wirth.\n  Löw-Honesta, Johannes, Commis.\n  Züllig-Häfliger, Johannes, Schuhmacher.\n14 | III. | 769 | zum Greifen. | Rübenstahl-Röslin, Wb. Anna Mar.\n  Rübenstahl-Röslin, Wb. Anna Maria, Particularin.\n  Lang, Georg, Musiker.\n  Gailing, Joseph, Musiker.\n  Schaub-Kuhn, Jakob.\n  Kuhn, Joh. Leonz.\n  Schaub und Kuhn, Strohhutfabrikation und Wäscherei.\n15 | III. | 820 | | Günther-Schaub, Jacob.\n  Schaub-Bury, Jacob, Schuhmacher.\n  Müller-Meier, Joh. Adam, Blattmach.\n16 | III. | 770 | zum Knöbel. | Bienz-Durand, Joh. Rudolf.\n  Bienz-Durand, Joh. Rudolf, Schreiner.\n  Haas-Baumann, Jacob, Schriftgießer.\n  Gaßler, Thomas, Drechsler.\n17 | III. | 819 | zum weißen wilden Mann. | Schaffner, Geschwister.\n  Schaffner, Maria Elisabeth u. Barbara, Schneiderin und Modiste.\n18 | III. | 771 | zum Wertenberg. | Streicher-Häring, Johann.\n  Streicher-Häring, Johann, Küfer.\n  Schäfer-Salathe, Isaac, Heuhändler.\n19 | III. | 818 | | Gysin-Seifert, Rudolf.\n  Gysin-Seifert, Rudolf, Küfer.\n20 | III. | 772 | | Fischer-Bulacher, Joh. Balthasar.\n  Fischer-Bulacher, Joh. Balth., Quartierschreiber.\n21 | III. | 817 | | Grollimund-Binz, Joh. Jacob.\n  Grollimund-Binz, Joh. Jacob, Ferger.\n22 | III. | 773 | | Großmann-Heinzelmann, Rudolf.\n  Großmann-Heinzelmann, Rud., Spezier.\n  Carle-Dietrich, Rudolf, Lohndiener.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8107,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2050,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p217",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p217.jpg",
+      "bytes": 1295251,
+      "sha256": "1a1800b097e1ffed6c3075dbb10a7d0aab6dc8da492cc52e3c73ba8199d26dbc",
+      "sha256_of": "original",
+      "working_copy": "1862_p217.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:17+00:00"
+  }
+}

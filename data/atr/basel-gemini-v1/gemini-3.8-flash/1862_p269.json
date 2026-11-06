@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p269",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p269.jpg",
+    "bytes": 1265688,
+    "sha256": "b7199882cc7d084dc29cadcad2ba26fd659e4fb0087d012efefa1894708f8efb",
+    "sha256_of": "original",
+    "working_copy": "1862_p269.jpg"
+  },
+  "text": "204 Schafgäßlein. — Schorenweg.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nSchafgäßlein.\n1 | VIII. | 20 | | Abt-Rottweil, Wb. Elisabeth.\n  Abt-Rottweil, Wb. Elisabeth, Glätterin.\n2 | VIII. | 27 | | Mäglin-Baumann, Joh. Ludwig.\n  Mäglin-Baumann, Joh. Ludw., Wirth und Metzger.\n  Schlueb-Hartmann, Hans, Bäcker.\n3 | VIII. | 21 | | Sommerhalder-Staub, Peter.\n  Sommerhalder-Staub, Peter, Blatt- und Zahnmacher.\n4 | VIII. | 28 | zur Linden. | Keller-Meyer, Friedrich.\n  Keller-Meyer, Friedrich, Kaufmann.\n  Siehe Nro. 19 Rheingasse.\n5 | VIII. | 22 | | Kestenholz-Häfner, Wb. Elisabeth.\n  Kestenholz-Häfner, Wb. Elisab., Kostgeb.\n6 | VIII. | 26 | | Fricker, Ma. Josefa.\n  Merz-Burckhardt, Gottlieb, Bäcker.\n7 | VIII. | 23 | | Zimmermann-Stölle, Hermann.\n  Zimmermann-Stölle, Hermann, Wirth.\n8 | VIII. | 25 | | Fricker, Ma. Josefa.\n  VonArx-Müller, Joh. Jakob, Muster- weber.\n10 | VIII. | 24 | z. schwarzen Schuh. | Lotz-Heusler, Friedrich.\n12 | VIII. | 406 | zum Silberberg. | Löbl. Armencollegium d. Stadt Basel.\n  Siehe Nr. 11 Utengasse.\n14 | VIII. | 192 b | zum Schaf. | Albrecht-Speiser, Joh. Conrad.\n  Burckhardt-Glunz, Samuel, Schuhm.\n\nSchorenweg.\n6 | VII. | 88 | | Merian-Burckhardt, Joh. Jac., sel. Erben.\n7 | VII. | 78 | Schorenbrücke. | Actiengesellschaft der Mägdeher- berge.\n  Kull-Huber, Joh. Jac., Hausvater.\n  DeValenti-Vonbrunn, Ernst, Part.\n9 | VII. | 78 A | | Renz, Carl.\n12 | VII. | 79 | | Richter-Linder.\n  Seidel-Fürstenberger, Friedr., Part.\n14 | VII. | 79 a | | Richter-Linder.\n  Näf-Brunner, Rud., Lehrer.\n15 | VII. | 79 B | | Stähelin-Zimmerlin, Joh. Jakob.\n16 | VII. | 79 A b | | Richter-Linder.\n18 | VII. | 79 A f | | Richter-Linder.\n19 | VII. | 79 C | | Waisenhausverwaltung.\n24 | VII. | | Wuhrhäuslein. | Gewerbsinteressenten.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8049,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1815,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:05:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p269",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p269.jpg",
+      "bytes": 1265688,
+      "sha256": "b7199882cc7d084dc29cadcad2ba26fd659e4fb0087d012efefa1894708f8efb",
+      "sha256_of": "original",
+      "working_copy": "1862_p269.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:55+00:00"
+  }
+}

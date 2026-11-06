@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p091",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p091.jpg",
+    "bytes": 1287141,
+    "sha256": "37486b1ee5510786506abcb2dcb58eb805575a1ad61dc42612d4bd8b9747a7b9",
+    "sha256_of": "original",
+    "working_copy": "1862_p091.jpg"
+  },
+  "text": "26 Barfüßerplatz.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n3 | IV. | 1145—46 | Gasthof z. Schiff. | Ritter-Stahel, Rudolf.\n  Ritter-Stahel, Rudolf, Gasthofbesitzer.\n  Sacher, Joseph, Cigarrenhandlung.\n  Walter, Jacob, Bettfedernhandlung.\n4 | IV. | 1144 | zum Barteneck. | Ritter, Rudolf.\n  Bohny, Gebrüder, Kleidermagazin.\n5 | IV. | 1094 | z. h. Thurm. Schilt-eck. | Meyer, Ludwig.\n  Meyer, Ludw., Manufacturwaarenhdlg.\n  Meyer, Emanuel.\n6 | IV. | 1095 | Baderbehausung. | Seifert-Thommen, Jakob.\n  Seifert-Thommen, Jakob, Metzger und Speisewirth.\n  Walliser, Johannes, Prokurist.\n7 | III. | 1096 | Barfüßerkirche. | Staat.\n8 | III. | 937 B | Neues Kaufhaus. | Stadtgemeinde.\n  Euler, Eucharius, Kaufhausverwalter und Obereinnehmer.\n9 | III. | 739 | | Kinder von Adam Oser, Färber, sel.\n  Oser, Adam, Luise u. Emma.\n  Schardt, Caroline, Erzieherin.\n  Conradi, Christ. Dor., Musiklehrerin.\n10 | III. | 731—32 | Stadt-Casino. | Casinogesellschaft.\n  Cramer-Schnegg, Joseph, Abwart.\n11 | III. | 730 | zum braunen Mutz. | Kromer-Niederhauser, Jak. Christ.\n  Kromer-Niederhauser, Jak. Chr., Wirth.\n  Peter-Bitterli, U. Jos., Vieh-u. Heuhändl.\n12 | III. | 729 | zum Kienberg. | Schneider-Furter, Samuel.\n  Schneider-Furter, Sam., Schuhmacher und Weinschenk.\n  Schneider, Joh. Adam, Küfer.\n13 | III. | 728 | z. kleinen Kienberg. | Falkner, Jgfr. Catharina Marg.\n  Falkner, Jgfr. Cath. Margaretha, Part.\n  Weiß-Wiesner, Andreas, Geschäftsagent.\n14 | III. | 727 | | Bader-Döbelin, Urs Josef.\n  Bader-Döbelin, Urs Josef, Spengler.\n  Beck-Pfannenschmied, Michael Bernhard, Schneider.\n15 | III. | 726 | z. schwarz. Kugel. | Spörlin-Merian, Wb. Sara.\n  Jtschner-Mahler, Heinrich, Kaufmann.\n  Sessele Lutz, Ant., Secretär b. d. Centralb.\n16 | III. | 725 | zum Vogel Strauß. | Maas-Müller, Rudolf.\n  Maas-Müller, Rud., Dr. med. et chir.\n17 | III. | 724 B | | Huggenberger-Walser, Joh. Heinr.\n  Huggenberger-Walser, Joh. Heinrich, Ellenwaarenhandlung.\n  Gysin-Müller, Wb. M. Magd., Hebamme.\n  Moser, Heinrich, Centralb.-Angestellter.\n  Moser-Koller, Conrad, desgl.\n  Hebgen, Heinrich, Commis.\n18 | III. | 724 A | | Bueß-Gaß, Christian.\n  Bueß-Gaß, Christian, Weinschenk.\n  Bueß-Kromer, Joh. Jak., Polizeisekret.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8988,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2260,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p091",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p091.jpg",
+      "bytes": 1287141,
+      "sha256": "37486b1ee5510786506abcb2dcb58eb805575a1ad61dc42612d4bd8b9747a7b9",
+      "sha256_of": "original",
+      "working_copy": "1862_p091.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:37+00:00"
+  }
+}

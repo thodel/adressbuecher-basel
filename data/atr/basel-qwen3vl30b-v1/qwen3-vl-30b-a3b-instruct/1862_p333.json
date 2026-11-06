@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p333",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p333.jpg",
+    "bytes": 1434139,
+    "sha256": "4fc8a6ab63089fa679f5f8743e2e242101b41e7b60e947c72c70a84f235bfe22",
+    "sha256_of": "original",
+    "working_copy": "1862_p333.jpg"
+  },
+  "text": "268\nVerzeichniß der Bürger und Einwohner.\nBurdhardt-Sarasin, Wilh. Kent. München=Bufer, Catharina, Taglöhnerin. Spalenvor-\nsteiner Straße 4.  ftadt 42.\n— =Schönauer, Ludw., Kunstmaler. Gel-\nlertstraße 2.\n— =Schrickei, Ed., Rathsherr u. Rentier. — Catharina, Zettlerin. Imbergäcklein 20.\n— =Stähelin, Friedrich, Kaufmann. St. — Christine, Lohnwäschcrin. Heuberg 40.\nMargarethen=Straße 10. — =Degen, Jacob, Posamenter. Spalen-\n— Stähelin, Rudolf, Graveur. St. Leon- berg 41.\nhards=Straße 11. — Eduard, Ferger. Aeschengraben 25.\n— =Stefani, F. Jacq., Part. Münsterplatz 2. — =Gerber, Johs., Wirth. Marktplatz 16.\n— =Stierlin, Abrah., Bäcker. Aeschenvor- — =Götzmann, Georg, Magazinier. St.\nstadt 39. Johann=Vorstadt 28.\n— =Thurneyssen, Daniel, Bandsfabrikant. St. — =Gysin, Wb. Anna Maria, Part. Neue\nAlban=Graben 14. Vorstadt 7.\n— =Bischer, Carl, Kent. Rittergasse 20. — =Habegger, Jac., Lehrenmann. Neubad-\n— =Bischer, Wb. Maria, Rentiere. Ritter- straße 5.\ngasse 23. — =Haufer, Carl, Commis. Gerbergäß-\n— =BonderMühl, Carl, J. U. D. Bürger- lein 26.\nmeister. St.Alban=Vorstadt 19. — Hieronimus, S. M. C., Candidat d. Theo-\n— =BonderMühl, Wb. Anna Cath. St. logie. Spalenberg 44.\nElisabethen=Straße 6. — =Hoffetter, F. F., Taglöhner. Bei d.\n— Bernhard, Bater, Glaser. Nadelberg 34. Wiefenschanze 35.\n— =Werthemann, Wb. Charlotte, Part. St. — Jacob, Commis. Wallstraße 20.\nPeters=Platz 12. — Jacob, Eisenbahnangestellter. Gerber-\n— =Wick, Ludw. Aug., J.U.D. St. Jo- gasse 34.\nhann=Vorstadt 3. — =Smthurn, Heinr., Arbeiter. Aeschenv-\n— =Wick, Wb. Fanny, Part. Altschwylcr vorstadt 68.\nStraße 13. — Johann Jakob, Tabakladen. Gerber-\n— Burga=Fezer, Georg, Ausläufer. Rebgaſse 41. gasse 63.\nBurger Franz, Zollbeamter. Kiehen=Straße 21. — =Kaeuslin, Johs., Posamenter. Barfik-\n— =Haller, Christ., Graveur. Gerber- berplatz 34.\ngasse 47. — =Kraushaar, Friedr., Mechaniker. Obe-\nBuri=Gravehr, Lorenz. Kleiderhdlg. Eisen- rer Rheinweg 96.\ngasse 16. — =Kuster, Mathias, Ferger. Gerbergäß-\n— =Renk, Jacob, Fabrikarbeiter. Pfluggäk- lein 14.\nlein 9. — =Lechand, Martin, Posamenter. Ham-\nBurkhalter, Stefan, Commis. Eisengasse 15. merstraße 102.\nBurnier, Joh. Jac., Taglöh. Schneidergasse 7. — =Mangold, Johann, Posamenter. Stei-\nBurri, Jacob, Posamenter. Sattelgasse 8. nenvorstadt 41.\n— =Brodtsmanu, Fr. Math., Part. Alts- — =May, Friedr., Posamenter. Unterer\nchwylcr Straße 31. Heuberg 27.\n— =Brodtsmann, Rosalie, Part. St. Leon- — =Meyer, Heinr., Heizer. Malzgasse 7.\nhards=Straße 28. — =Meyer, Wb. Sophia, Schuhmacher. Ger-\nBurtin=Deforme, Franz Benjamin, Commis. bergasse 45.\nSpiegelgasse 4. — =Minder, Samuel, Buchhalter. Klingel-\nBufer=Afele, Heinr., Posamenter. Steinen- bergstraße 9.\nvorstadt 59. — =Miiller, Achilles, Bahnwart. Kiehen-\n— Anna Maria, Taglöhnerin. Bei der teichweg 32.\nWiefenschanze 35. — =Mürry, Jac., Lehrenbeständer. Gellert-\n— =Bienz, Jacob, Posamenter. In der straße 23.\nBreite 23. — =Naun, Heinr., Taglöhner. Sternengäßlein 2.\n— =Blattner, Heinr., Posamenter. Mittlere — =Rusenach, Wb. Carol., Modiste. Schnei-\nStraße 44. dergasse 30.\n— =Börlin, Jacob, Spießlemachcrmeister. — =Schälker, Mart., Ziegeiauffeher. Neukere\nSternengäßlein 9. Heumattstraße 21.\n— =Bufer, Jacob, Posamenter. Kiehen- — =Schäver, Barb., Fabrikarbeiterin. Un-\nteichweg 32. tere Rebgaſse 19.\n— =Bufer, Peter, Posamenter. Schützen- — =Schlegel, Jac., Schneider. Gerbergäß-\nmattstraße 12. lein 26.\n— =Schmid, Wb. Christona, Wirthin. Ho-\nleeweg 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9236,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3435,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 53.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:04:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p333",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p333.jpg",
+      "bytes": 1434139,
+      "sha256": "4fc8a6ab63089fa679f5f8743e2e242101b41e7b60e947c72c70a84f235bfe22",
+      "sha256_of": "original",
+      "working_copy": "1862_p333.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:45+00:00"
+  }
+}

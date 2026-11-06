@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p320",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p320.jpg",
+    "bytes": 1590679,
+    "sha256": "9398134747d7bf2352ef75017fac955d74d6df7732964bfd6d87fca10175d31b",
+    "sha256_of": "original",
+    "working_copy": "1862_p320.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 255\nAugenstein-Kaiser, Hieronimus, Mechaniker. Bachofen-Meyer, Heinrich, Steindrucker.\nSteinenthorstraße 2. Freie Straße 67.\nAupperlin, Anna Maria Elisabeth, Zettlerin. — =Bischof, Wilhelm, Bandfabrikant. St.\nSt. Peters-Berg 34. Alban-Vorstadt 87.\nAutenheimer-Jäckle, Friedrich, Rector der Bader-Biirgin, Conrad, Maurergesell. Freie\nGewerbeschule. Münsterplatz 11. Straße 67.\naWengen-Hindermaun, Jakob, Baumeister. — =Bussinger, Mb. Catharina, Kostgeberin.\nNeue Vorstadt 19. 21. Fabrikstraße 37.\naWengen, Johannes, Kunstmalere. Gundol- — =Döbelin, Urs Joseph, Spengler. Bar-\ndinger Straße 8. füßerplatz 14.\naWengen-Müller, Carl, Commis. Kanonen- — Frau, Part. Vogelsangweg 14.\ngasse 15. — =Füsch, Adolf, Sattler und Tapezierer.\naWengen-Rübenstahl, Alb. Elsässer-Straße 5. Fischmarkt 2.\naWengen-Tren, Rud., Part. Todtentanz 1. — =Habegger, Jakob, Lehenbeständer. All-\nArtmann, Julius August, Agent. Gerber- schwylter Straße 69.\ngasse 44. — =Herbst, Math., Taglöhner. St. Peters-\nBaader-Mähly, Friedrich, Straßeninspector. Gasse 9.\nBlumenrain 11. — =Zäger, Ursula, Räth. Freie Straße 14.\nBaarsfuß-Liischer, Joh., Schreiner. Binninger — =Kleiber, Heinrich. Lehenbeständer. Bach-\nStraße 21. lettenstraße 11.\nBachin-Heuser, Friedrich, Seidenfärbergeselle. — =Oständer, S. H., Lehenmann. Riehen-\nSt. Johann-Vorstadt 62. straße 75.\nBachmann, Heinrich, Kutscher. St. Alban-Vor- — =Philipp, Schuster. St. Johann-Vor-\nstadt 27. stadt 71.\n— =Bandel, Georg, Ferger. St. Peters- — =Rudin, Jak., Gutsbesitzer. Im Davids-\nkirchplatz 13. boden 1.\n— =Bell, Joh. Friedr. Freie Straße 83. — =Schäfer, Joh., Spezereihandlung. Ger-\n— =Breugger, Josef, Maurer. Gerber- berggasse 42.\ngässlein 20. — =Suter, Martin, Kutscher. Unterer Heu-\n— Emil, Commis voyageur. Aeschen- berg 27.\nvorstadt 8. — =Tschann, Urs, Maurermeister. Vogel-\n— =Fäsch, Emanuel, Ferger. Aeschenvor- sangweg 14.\nstadt 77. — =Wilhelm, Franz Fidel, Gärtner. Matt-\n— =Gaf, Samuel, Musterweber. Steinen- weg 16.\nvorstadt 9. Büchlin-Kupferschmid, Joh. Jak., Schreiber\n— =Goszweiler, Heinr., Seidenfärbergeselle. beim Bau-Collegium. St. Peters-Gasse 5.\nRebgasse 33. — =Manz, Joh., Fabrikarbeiter. Grenzacher\n— =Honegger, Jakob, Ausläufer. Spalen- Straße 73.\nberg 19. Büchtlod-Walter, Anton, Arbeiter in der\n— =Keller, Casp., Seidenfärbergeselle. Schaf- Armenanstalt. Riehenthorstraße 9.\ngässlein 2. — =Wanner, Joseph Jakob, Seidenfärbere\nBachmeyer-Diethelm, Jakob, Fabrikarbeiter. gehülfe. Blumenrain 26.\nMalzgasse 5. Bär, Conrad, Schuhmacher. Spalenberg 40=\nBachofen-Burckhardt, Carl, Bandfabrikant. — =Fritsche, Abraham, Coiffeur. Schneider.\nRheinsprung 18. gasse 17.\n— =Braun, Joh. Jakob, Traiteur. Freie — Gottlieb, Photograph. Gerbergasse 69.\nStraße 34. — =Grimm, Jakob, Kutscher. Webergasse 6.\n— =Brenner, Joh. Mathias. Tuchscheerer. — =Vienhardt, Jakob, Papierer. Malz-\nSteinenthorstraße 13. gasse 20.\n— =Chatelin, Joh. Rud., Ausläufer. Weiße — =Vöw, Mb. Margar., Wäscherin. Rhein-\nGasse 16. gasse 19.\n— =Fininger, Sam., eidg. Oberst u. Metzger. — Maria, Fabrikarbeiterin. Spalenberg 62.\nSt. Peters-Platz 3. — =Martin, Rudolf, Coiffeur. Stadthaus-\n— J. J., J. U. D. u. Prof. St. Alban- gasse 4.\nGraben 7. — =Müller, Joseph, Seidenfärbere. Zimber-\n— Joh. Jak., Tuchscheerer. Steinenthor- gässlein 22.\nstraße 13. — Schnäbelin, Barbara, Part. St. Leon-\n— Joh. Jak. u. Sohn, Bandfabrik. Rhein- hards-Graben 26.\nsprung 18. Bärry-Chemann, Heinrich, Weinschenk. St.\n— =Merian, Kaufm. St. Alban-Graben 7. Leonhards-Graben 24.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9181,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3504,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:02:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p320",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p320.jpg",
+      "bytes": 1590679,
+      "sha256": "9398134747d7bf2352ef75017fac955d74d6df7732964bfd6d87fca10175d31b",
+      "sha256_of": "original",
+      "working_copy": "1862_p320.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:41+00:00"
+  }
+}

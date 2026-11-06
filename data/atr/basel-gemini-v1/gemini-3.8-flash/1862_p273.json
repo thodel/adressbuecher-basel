@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p273",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p273.jpg",
+    "bytes": 1272407,
+    "sha256": "68eba31046cd09e6e062ec7793ec8a56f9a7d5d9bf7fbab6441812813e99267d",
+    "sha256_of": "original",
+    "working_copy": "1862_p273.jpg"
+  },
+  "text": "208\nVogelsangweg. — Webergasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nVogelsangweg.\n\n3 | VIII. | 33 | zur Sandgrube. | LeGrand, Geschwister.\n  LeGrand, Christof u. Maria, Rent.\n  Bolzkieler, Alois, Lehenbeständer.\n4 | VIII. | 32 | zur Sandgrube. | Merian-VonderMühll, Heinrich.\n  Nußbaumer-Haefeli, Joh., Lehenbeständ.\n8 | VIII. | 32 B | | Gaß-Schlosser, Johannes.\n  Kaufmann-Hoeferlin, Wilh., Commis.\n10 | VIII. | 84 | zum Vogelsang. | Merian-VonderMühll, Heinrich.\n  Brunner, Urs Victor, Lehenbeständer.\n11 | VIII. | 40 | | Merian-VonderMühll, Heinrich.\n13 | VIII. | 85 | | Merian-VonderMühll, Heinrich.\n14 | VIII. | 84 c | | Merian-VonderMühll, Heinrich.\n  Baader-Tschann, Urs Josef, Maurer.\n\nWebergasse.\n\n1 | VII. | 322 | zum rothen Stein. | Schäfer-Müller, Joh. Heinrich.\n  Schäfer-Müller, Joh. Heinr., Schuhm.\n2 | VII. | 323 | Ortmühle. | Buchmann-Fäsch, Rudolf.\n  Buchmann-Fäsch, Rudolf, Müller.\n3 | VII. | 332 | | Dörflinger, Carol.\n  Dörflinger, Carol., Part.\n  Reindle, Alois, Spezierer.\n4 | VII. | 331 | Ortheck. | Sulger-Stähelin, Andreas.\n5 | VII. | 333 | | Fäsch-Salathe, Jakob.\n  Fäsch-Salathe, Jakob, Bäcker.\n6 | VII. | 335 | | Schuler, Emanuel.\n  Schuler, Emanuel, Schmied.\n  Martin-Furler, Joh., Schmied.\n7 | VII. | 334 | | Müller-Schwarz, Samuel.\n  Müller-Schwarz, Sam., Bäcker u. Wirth.\n  Bolleg-Deez, Wilh. Friedr., Schneider.\n8 | VII. | 336 b | | Huber, Jakob Christof.\n  Huber-Berni, Jakob Christof, Seiden-\n    färbergeselle.\n  Bürki-Straßer, Joh., Kaminfeger.\n9 | VII. | 337 | | Mechel, Rudolf.\n10 | VII. | 340 | z. schwarzen Adler. | Bell, Jakob.\n11 | VII. | 338 | | Uehlinger-Neukomm, Joh. Georg.\n  Uehlinger-Neukomm, Joh. Georg, Trödl.\n12 | VII. | 343 | zur Schmiede. | Bienz, Rudolf.\n13 | VII. | 339 | | Frey-Thommen, Joh. Lucas.\n  Frey-Thommen, Joh. Lucas, Bäcker u.\n    Polizeigerichtsweibel.\n  Neuhauser, Constantin, Bäcker.\n  Frey-Marbach, Beat. Hercules, Schneid.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7966,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1967,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:06:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p273",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p273.jpg",
+      "bytes": 1272407,
+      "sha256": "68eba31046cd09e6e062ec7793ec8a56f9a7d5d9bf7fbab6441812813e99267d",
+      "sha256_of": "original",
+      "working_copy": "1862_p273.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:32+00:00"
+  }
+}

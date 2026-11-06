@@ -1,0 +1,61 @@
+66
+Hutgasse. — St. Jakob. — St. Jakobs-Straße.
+Nene
+Haus-Nr
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+20 | VI. | 1718 | z. gold. Schwert. | Pfaff-Schaub, Johannes.
+21 | VI. | 1678 | zum Kindfuß. | Pfaff-Schaub, Johannes, Bürstenmacher.
+22 | VI. | 1717 | z. niedern Hattstadt. | BonKilch, Benedikt.
+23 | VI. | 1714 | zum Silberberg. | BonKilch, Benedikt, Metzger.
+| | | | | BonKilch-Alt, Georg, Particular.
+| | | | | Pfaff-Schaub, Johannes.
+| | | | | Knop, Emil, Uhrenmacher.
+| | | | | Geßler-Pfannenschmied, Emanuel.
+| | | | | Geßler-Pfannenschmied, Em., Tuchhdlg.
+| | | | | Niederlage von Peruanischem Guano.
+| | | | | Pfannenschmied, Leonhard, Particular.
+| | | | | Nicolai-Hindemann, Christ. Dan.
+| | | | | Nicolai-Hindemann, Chr. D., Hutmach.
+24 | VI. | 1716 | zum grünen Schild. | Nicolai-Hindemann, Chr. D., Hutmach.
+St. Jakob.
+1 | V. | 281 | Krankenhaus. | Merian-Burckhardt, Christf. sel. Erb.
+| | | | | Rietzsch-Habegger, Joh., Siegrist.
+| | | | | Würgler, Pet., Lehenbeständer.
+2 | V. | | Kirche. | Corporationsgut. (Waifenhaus.)
+3 | V. | 279 | Ziegelhütte. | Merian-Burckhardt, Christf. sel. Erb.
+| | | | | Segner-Schneider, Stephan, Ziegler.
+4 | V. | 281 t. | ehemal. Zollhaus. | Merian-Burckhardt, Christf. sel. Erb.
+| | | | | Weber-Rietzsch, Ludwig, Wirth.
+5 | V. | 278 | | Merian-Burckhardt, Christf. sel. Erb.
+| | | | | Seidenzwirnerei von Richter-Linder.
+| | | | | Plitz-Hänni, Johannes, Hausvater.
+6 | V. | 278 c. | | Merian-Burckhardt, Christf. sel. Erb.
+| | | | | Fehr, Salomon, Papierer.
+| | | | | Papiermühle von Ofer u. Gemuseus.
+St. Jakobs-Straße.
+2 | IV. | 221 | | Friedrich, Leonhard, Baumeister.
+3 | V. | 257 | zum Biergarten. | Merian-Gerster, Emanuel.
+| | | | | Merian-Gerster, Emanuel, Bierbrauer.
+| | | | | Hindenlang-Silbernagel, Emil, Commis.
+| | | | | Vienin, Max, Part.
+4 | IV. | 222 a. | zum botan. Garten. | Staat.
+| | | | | Hämmerlin-Baumgartner, Mich., Gärtn.
+5 | V. | 256 | | David-Schickler, Johannes.
+| | | | | David-Schickler, Joh., Wein- u. Brannt-
+| | | | | weinhandlung.
+| | | | | Rognon-Schoelly, Valeria, Rentiere.
+6 | IV. | 222 | zum botan. Garten. | Staat.
+| | | | | Meisner-Maréchal, Dan. Fried., Dr.
+| | | | | med. u. Professör.
+| | | | | Phené-Meisner, Ida Wittwe, Part.
+7 | V. | 255 B. | | Rauch-Gubler, Georg Carl.
+| | | | | Rauch-Gubler, Georg Carl, Apotheker.
+8 | IV. | 223 a. | | Bischer, Jgfr. Salome.
+| | | | | Thommen, Friedrich, Lehenmann.
+| | | | | Jöriu-Thommen, Fried., Beständer.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p146",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p146.jpg",
+    "bytes": 1487213,
+    "sha256": "66c6206bd06d642c49e67395520229bac395bc96e4c7c9225d5d5daec40f4b5d",
+    "sha256_of": "original",
+    "working_copy": "1862_p146.jpg"
+  },
+  "text": "Lehenmattweg. Leimenstr. Leonhards-Berg. Leonhards-Grab. 81\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n22 | V. | 341 | | Heusler-Fatio, E. sel. Erben.\n24 | V. | 348 | | Forcart-Weiß u. Burckhardt-Wild.\n32 | V. | 384 | | Willin, Johannes.\n34 | V. | 343 | | Willin, Johannes. Scheune.\n36 | V. | 344 | | Wehrlin, Joh. Jakob. Scheune.\n  Willin, Johannes, Gärtner.\n40 | V. | 285 | z. Blutegelweiher. | Stierlin, Benj., u. Joh. Baur.\n\nLeimenstraße.\n41 | III. | 172 C | | Zäslin-Streckeisen, Joh., sel. Erb.\n  Zäslin-Streckeisen, Wb. Louise, Part.\n43 | III. | 172 D | | Friedrich u. Adam, Baumeister.\n  Gemuseus-VonBrunn, Joh. R., Part.\n\nSt. Leonhards-Berg.\n1 | III. | 702 | zum obern Känel. | Merian-Meyer, Wb. Anna Maria.\n  Merian-Meyer, Wb. Anna Maria, Bierbrauerei.\n  Meyer-Märklin, Anton, Bierbrauer.\n2 | VI. | 699 | | Schärer-Säuberlin, Joseph.\n  Schärer-Säuberlin, Jos., Schuhmacher.\n3 | III. | 700 | zur Fortuna. | Sept-Heizelmann, Joh. Jacob.\n  Sept-Heizelmann, J. J., Schneider u. Trödler.\n4 | VI. | 698 | | Meyer-Haury, Niclaus.\n  Meyer-Haury, Niclaus, Färbergeh.\n6 | VI. | 697 | z. rothen Thurm. | Koch-Kuster, Johann.\n  Koch-Kuster, Johann, Buchdrucker.\n8 | VI. | 687 | z.untern Sennenhof. | Immler-Felber, Niclaus Wilh.\n10 | VI. | 687 A | z.untern Sennenhof. | Immler-Felber, Niclaus Wilh.\n  Immler-Felber, Nicl. Wilh., Schreiner.\n  Rieser-Jörin, Particular.\n12 | VI. | 688 | zum kleinen Frieden. | Bauhardt, Johann Joseph.\n  Bauhardt, Joh. Joseph, Seidenerleser.\n14 | VI. | 689 | zum obern Wind. | Fichter, Abraham.\n  Sträßli-Bühler, Joh. Gg., Zimmerges.\n  Tanner-Ghsin, Jacob, Metzger.\n15 | VI. | 692 | | Käser-Jenny, Johannes.\n  Käser-Jenny, Johannes, Eisenbahnarb.\n16 | VI. | 690 | zum Asyl. | Plattner-Jenny, Martin.\n  Plattner-Jenny, Martin, Spengler und Blechofenfabrik.\n\nSt. Leonhards-Graben.\n1 | II. | 456 A | | Landerer u. Merkle.\n  Hausamann, Peter, Kaufmann.\n2 | II. | 354 b | zum Fridolt. | Hentz-Erzberger, Johannes.\n  Hentz-Erzberger, Joh., Bäcker u. Kornhausschreiber.\n  Stückelberger-Bloch, Reinh., Kornmesser.\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10414,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2098,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:47:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p146",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p146.jpg",
+      "bytes": 1487213,
+      "sha256": "66c6206bd06d642c49e67395520229bac395bc96e4c7c9225d5d5daec40f4b5d",
+      "sha256_of": "original",
+      "working_copy": "1862_p146.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:13+00:00"
+  }
+}

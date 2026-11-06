@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p427",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p427.jpg",
+    "bytes": 1470436,
+    "sha256": "2cfe3fadfcb755c0cdef764fed46cceb5b250168d3e18fda1a48d9c204227e8b",
+    "sha256_of": "original",
+    "working_copy": "1862_p427.jpg"
+  },
+  "text": "362\nVerzeichniß der Bürger und Einwohner.\nWolfer=Spoerdle, Sinefius, Taglöhner. Grenzacher=Strasse 74.\nWolff=Hunziker, Friedrich. St. Leonhards=Graben 20.\n— J., amerikanischer Consul. Schifflände 3. Wolfsberg=Krieg, Peter, Wirth. Sternengässlein 38.\nWolflisberg=Walker, Franz, Schirmfabrikant. Sattelgasse 10.\nWolleb, Joh. Friedr., Alt=Pfar. Rebgasse 18.\n— Johannes, Polizeisekretär. Hammerstrasse 28.\nWoringer=Choplin, L. Alphonse, Geistlicher. Schanzenstraße 19.\n— Emil, Kaufmann. St.Johann=Vorstadt 44. Wortmann=Fuchs, Ferdinand, Tabakhändler. Marktplatz 4.\nWuchner=Bröner, Peter, Schreiner. Rheingasse 19.\nWünsch=Lony, Wittwe, Glätterin. Untere Rheingasse 15.\nWitrgler=Caspar, Samuel, Lumpensammler. Lindenberg 19.\n— Peter, Lehenbeständer. St. Jakob 1. Wüst=Bader, Andreas, Zimmermann. Sattelgasse 14.\n— =Binder, Remigius, Schuhmacher. Spalenberg 36.\n— Elisabeth, Corsettmacherin. Hüggenheimer=Strasse 7.\n— =Heckle, Bapt. Johann, Commis. Rheingasse 38.\n— =Hügin, Leonh., Schreiner. Aufstrasse 32.\n— Mathias, Tabakarbeiter. Steinenbachgässlein 45.\n— =Von Brunn, Heinrich Leonz, Käsehandlung. Sporengasse 5.\nWütherich=Dettwyler, Fch., Lehenbeständer. Weidengasse 4.\n— =Suter, Jacob, Stroh flechter. Gottenbarmweg 20.\nWulschleger=Bertolf, Wwe. Maria, Nätherin. Kiehenthorfstraße 27.\n— =Diebold, Siegmund, Blattmachergeselle. Grenzacher=Strasse 24.\n— =Hagist, Gottfried, Blattmacher. Fischerweg 2.\n— =Kefler, Johann, Handelsmann. Rheingasse 43.\nWunderlin, August, Commis. St. Alban=Thal 14.\n— =Mesmer, August, Zimmermann. St. Alban=Thal 14.\nWurst, J. G., Kutscher. St. Alban=Vorstadt 26.\n— Magdalena, Speziererin. Rhybestraße 21. Wybert=Hug, Dr. Eml., Arzt. Stapfelberg 3.\n— =Schmidt, J. J., Commis. Freie Strasse 21.\nWyler=Thomas, Samuel Felix, Hutmacher. Freie Strasse 35.\nWyß=Bryner, Jacob, Taglöhner. Rheingasse 57.\n— =Egger, Urs. Victor, Landjägercorporal. Elsässer=Strasse 37.\n— =Bollmar, Wilhelm. Magazinarbeiter. Steinenthorfstraße 4.\n— =Wyß, Johann Jacob, Posamenter. Rheingasse 57.\nBüch=Oschwind, Wb. St. Elisabethen=Str. 25. Zängle, Joh., Rheinschiffsfahrtswächter. Kiehen=Strasse 22.\nZäslin=Neischbacher, Wb. Maria Elisabeth. Schleife und Messerschmiedwaarenhandlung. Kronengasse 12.\n— u. Baumann, Comptoir. Johanniterstrasse 17.\n— =Fäsch, Daniel, Kaufmann. Eifengasse 17.\n— =Falkeisen, Conrad, Kaufmann u. Appellationsrath. Neue Vorstadt 15.\n— Joh., Commiff. u. Spedition. Schützenmattstrasse 20.\n— =Mechel, Carl, Commis. St. Alban=Vorstadt 41.\n— =Müller, Theodor, Kaufm. St. Clara=Strasse 24.\n— =Kölly, Wb. Cath., Part. St. Johann=Vorstadt 72.\n— =Stähelin, Conrad, Kaufmann, Firma J. J. Frey, Commission u. Spedition. Nadelberg 18.\n— =Streckeisen, Wb. Louise, Part. Leimenstrasse 41.\n— =Thurneyssen, Heinr., Speditor u. Commissionnär. St. Johann=Vorstadt 45.\n— =Weber, Franz, Part. Greisengasse 36. Zahn=Rognon, Eduard, Kaufmann. Aeschengraben 13.\nZaier, Simon, Fabrikmeister. Hirschgasse 15. Zandt, Anna Maria, Taglöhnerin. Reb-gasse 44.\n— =Löffel, Joh., Wagenmeister. Elsässer=Strasse 4.\nZaremba, Felician, Missionsprediger. Missionsstrasse 21.\nZeder=Malzacher, Jakob, Landwirth. Hammerstrasse 60.\nZeender=Kaiser, Ludw., Geschäftsdienener. Unt. Rebasse 26.\nZehnder=Glättli, Sam., Arbeiter. Heumattstrasse 7.\nZehntner=Weber, Heinr., Redactor d. Basler Nachrichten. Spalenthorweg 6.\nZeller, Anton, Grenzaufseher. Hint. Bahnhofstrasse 16.\n— =Baretta, Joh. Jakob, Zolleinnehmer. Elsässer=Strasse 37.\n— =Frauenfelder, Dionis, Schneider. St. Peters=Gasse 44.\n— Haberthür, Heinrich Rudolf, Eisenbahnarbeiter. Rappoltshof 13.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9145,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3533,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:19:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p427",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p427.jpg",
+      "bytes": 1470436,
+      "sha256": "2cfe3fadfcb755c0cdef764fed46cceb5b250168d3e18fda1a48d9c204227e8b",
+      "sha256_of": "original",
+      "working_copy": "1862_p427.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:19:19+00:00"
+  }
+}

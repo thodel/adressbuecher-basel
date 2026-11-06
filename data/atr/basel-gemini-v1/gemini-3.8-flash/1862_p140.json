@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p140",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p140.jpg",
+    "bytes": 1436850,
+    "sha256": "e27a0cf22361b25437fdd980d70405daad180abc7d3dbe4a8b567e04e64e8fb6",
+    "sha256_of": "original",
+    "working_copy": "1862_p140.jpg"
+  },
+  "text": "Kaufhausgasse. — Kellergäßlein. 75\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nKaufhausgasse.\n\n1 | IV. | 1083 A | | Siegrist-Baader, Rudolf.\n  Siegrist-Baader, Rudolf, Kaufmann.\n  Comptoir v. Siegrist u. Fender.\n  Holzbacher-Merian, Wb. Maria, Rent.\n  Krayer-Ramsperger, Ed., Kaufmann.\n2 | IV. | 1084 A | | Ryhiner-Heusler, Wilhelm.\n  Ryhiner-Heusler, Wilh., Floretspinnerei.\n3 | IV. | 1083 B | | Landerer-Heusler, Wb. Valeria.\n  Landerer-Heusler, Wb. Valeria, Rent.\n  Socin-Best, Wb. Barbara, Rentiere.\n4 | IV. | 1084 B | | Steigmeyer, Johannes.\n  Steigmeyer, Johannes, Handelsmann.\n  Walter-Fastlinger, Aug., Musikdirector.\n5 | IV. | 1083 C | | Stehlin-Merian, Carl Rudolf.\n  Stehlin-Merian, Carl Rud., Dr. Jur., Notar u. Advokat.\n  Merian, Heimlicher u. Stehlin, Nota-\n  riats- und Advokatur-Bureau.\n  Vischer-Valentin, Wb. Phil. Maurice.\n6 | IV. | 1084 C | | Stoer-Berner, Otto.\n  Stoer-Berner, Otto, Agent.\n  Zwilchenbart, And., Auswand.-Bur.\n  Pfau, Johann, Commis.\n  Troll, Louise, Lehrerin.\n  Troll, Julius, Dessinateur.\n  Hartmann, Rosine u. Cath., Lehrerinnen.\n7 | IV. | 1083 D | | Dreyfus, Samuel u. Jacques.\n  Freund, Josef Ant., Sohn, Commissio-\n  när u. Spéditeur.\n  Dreyfus-Jeidels, Jac., Bandfabrikant.\n  Dreyfus-Neumann, Sam., \"\n  Grethet-Maler, Mathias, Rentier.\n8 | IV. | 1084 D | | Schaefer-Schneider, Emanuel.\n  Schaefer-Schneider, Emanuel, Commis.\n  Lang-Straumann, Andreas, Commis.\n  Keller-Zeller, Friedrich, Unterbestäter.\n  Weiß-Kling, Wb. A. Marg., Part.\n  Spiegelmagazin von Ben. Peter.\n\nKellergäßlein.\n\n2 | I. | 154 a u. b. | | Betulius, Carl.\n5 | I. | 156 C | | Merian-Bister, Heinrich.\n  Riesterer-Streulin, Ludw., Lohndiener.\n6 | I. | 244 | Pfarrhaus. | Staat.\n  Eckin-Reymond, Theop. Wilh., Pfarrer.\n7 | I. | 245 | | Eglinger, Susanna.\n  Burckhardt-Haller, Rud., Dr. med.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8082,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1867,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:46:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p140",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p140.jpg",
+      "bytes": 1436850,
+      "sha256": "e27a0cf22361b25437fdd980d70405daad180abc7d3dbe4a8b567e04e64e8fb6",
+      "sha256_of": "original",
+      "working_copy": "1862_p140.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:16+00:00"
+  }
+}

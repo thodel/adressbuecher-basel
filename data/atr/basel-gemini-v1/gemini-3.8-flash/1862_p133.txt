@@ -1,0 +1,52 @@
+68 | Imbergäßlein.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Imbergäßlein.
+1 | II. | 540 | | Kruse-Salathe, Fritz.
+  Kruse-Salathe, Fritz, Spezierer.
+2 | II. | 541 | | Neuschwander-Lutz, Daniel.
+  Neuschwander-Lutz, Daniel, Wirth.
+  Siehe Nr. 4 St. Andreasplatz.
+3 | II. | 590 a | | Crussaire-Pfau, Wittwe Marg.
+  Siehe Schneidergasse Nr. 22.
+4 | II. | 542 | | Brodmann-Rudolf.
+  Schweizer-Brodmann, Joh., Handelsm.
+  Siehe Nr. 6 Andreasplatz.
+5 | II. | 591 c | | Leithardt-Götz, Heinrich.
+  Erlacher-Degen, Wb. Magd., Nudelnsabr.
+* 6 | II. | 543 | zur gelben Schraube | Frey-Salathe, Adolf.
+  Siehe Nr. 8 Andreasplatz.
+7 | II. | 539 | | Thommen-Scherrer, Wb. Cath.
+  Thommen-Scherrer, Wb. Cath., Part.
+  Nast-Wolf, Heinr., Stuhlschreiner.
+8 | II. | 547 | Einfahrt. | Butz-Nieder, Franz Josef.
+9 | II. | 591 d | | Leithardt-Götz, Heinrich.
+  Oberer, Karl, Maler.
+10 | II. | 537 | | Leser-Karger, Adolph.
+  Christ-Stöcklin, Ludwig, Schuhmacher.
+11 | II. | 536 | | Schneider-Fäsch, Friedrich.
+12 | II. | 536 A | zur Gans. | Hagenbach-Merian, Friedrich.
+  Welterlin-Kammerer, H., Zimmermann.
+13 | II. | 535 u. 535 A | zur Gans. | Hagenbach-Merian, Friedrich.
+14 | II. | 534 | | Preiswerk-Sulger, Carl.
+  (Magazin.)
+15 | II. | 598 | | Krayer-Lotz, Friedrich.
+  Eingang zu Nr. 4 am Spalenberg.
+16 | II. | 599 | | Gysin, Rudolf.
+  Eingang Nr. 6 Spalenberg.
+17 | II. | 600 | | Bossardt, Jacob.
+  Eingang zu Nr. 8 Spalenberg.
+18 | II. | 601 | | Feindel-Bouchard, Wb. Franziska.
+  Eingang zu Nr. 10 Spalenberg.
+19 | II. | 602 F | | Schär-Haas, Joh. Jac.
+  Luttiger-Bettig, Gregor, Schuster.
+20 | II. | 533 | | Mohler-Schönberger, Heinrich.
+  Mohler-Schönberger, Heinr., Posament.
+21 | II. | 521 A | | Leuzinger-Zumbrod, Joh. Jakob.
+  Leuzinger-Zumbrod, J. J., Fabrikarb.
+22 | II. | 532 | | Bell, Friedrich.
+  Martin, Joh. Jac., Kaufhausarbeiter.
+23 | II. | 531 | | Schneider-Faesch, Friedrich.
+  Otto, Rosina Cath., Kinderschule.
+  Härdy-Wanner, Rud., Schuhmacher.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p260",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p260.jpg",
+    "bytes": 1420665,
+    "sha256": "c46abffa535eae0a80c3673d23984010edfce4bc57dde3f73e3aa98bccbdd027",
+    "sha256_of": "original",
+    "working_copy": "1862_p260.jpg"
+  },
+  "text": "Rheingaſſe. 195\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n43 | VIII. | 61 | oberer Antonierhof. | Wullschleger-Keßler, Johann.\n  Wullschleger-Keßler, Joh., Kaufmann.\n  Thommen-Gaß, Jakob, Spezierer.\n  Brunner-Gamper, Heinrich, Küfer.\n  Krauß, Carl Wilhelm, Gerber.\n  Brogle-Herzog, Leopold, Telegraphist.\n44 | VIII. | 53 | zum Salmen. | Lotz-Gocht, Achilles.\n  Lotz-Heusler, Friedrich, Particulier.\n45 | VIII. | 66 | zur Goldgrube. | Müller-Hasler, Emanuel.\n  Müller-Hasler, Emanuel, Seidenfärber-\n    geselle.\n  Christ-Tschopp, Christian, Schneider.\n  Rueger-Herrmann, Conrad, Schlosser.\n46 | VIII. | 55-54 | | Lotz-Gocht, Achilles.\n  Lotz-Holzach, Albert, Seidenfärber.\n47 | VIII. | 67 | | Alt, Ludwig.\n  Alt, Ludwig, Bäcker.\n  Lange-Wiedensohler, Hermann, Schreiner.\n48 | VIII. | 56 | zur Lindau. | Flamm-Kistler, Johannes.\n  Flamm-Kistler, Johan., Seidenfärber-\n    geselle.\n49 | VIII. | 68 | | Schaub-Birmann, Bernhard.\n  Schaub-Birmann, Bernhard, Mechan.\n50 | VIII. | 57 | | Stuber-Masselot, Johannes.\n  Stuber-Masselot, Johannes, Ausläufer.\n  Schifferli-Banholzer, Aug., Schiffmeister.\n51 | VIII. | 74 | | Seeber-Steinegger, Carl.\n  Seeber-Steinegger, Carl, Schneider und\n    Wirth.\n52 | VIII. | 58 | zum Anker. | Aeschmann, Margaretha.\n  Aeschmann, Margaretha, Particularin.\n  Schlueb, Heinrich, Dessinateur.\n53 | VIII. | 75 | | Staat.\n  Eckenstein-Bühler, Emil Adolf, Küfer.\n54 | VIII. | 59 | | Hindenlang-Sulger, Joh. Jakob.\n  Hindenlang-Sulger, Joh. Jakob, Schiff-\n    mann.\n  Hindenlang-Sulger, Cath., Hebamme.\n  Brugger-Gersbach, Joh., Commis.\n  Stauber-Hauser, Johannes, Lithograph.\n56 | VIII. | 60 | | Dalang-Andres, Heinrich.\n  Dalang-Andres, Heinrich, Bäcker und\n    Wirth.\n  Andres-Dalang, Lucas, Postcommis.\n  Hörler-Krug, Franz, Cand. u. Lehrer.\n57 | VIII. | 82 | | Bödecker-Nisenecker, Wb. Juliane.\n  Bödecker-Nisenecker, Wb. Juliane, Part.\n58 | VIII. | 62 | | Abig-Müller, Emanuel.\n  Abig-Müller, Emanuel, Spengler.\n  Winkler-Schaffner, Joh., Schiffmann.\n\n13*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10503,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2046,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0377,
+    "mean_line_chars": 36.06,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:04:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p260",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p260.jpg",
+      "bytes": 1420665,
+      "sha256": "c46abffa535eae0a80c3673d23984010edfce4bc57dde3f73e3aa98bccbdd027",
+      "sha256_of": "original",
+      "working_copy": "1862_p260.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:43+00:00"
+  }
+}

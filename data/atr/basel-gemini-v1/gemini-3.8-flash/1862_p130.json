@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p130",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p130.jpg",
+    "bytes": 1467678,
+    "sha256": "e5d86a36d80ef20202b8b023d2bde1f9eb271394c04ea759f3f0117b85e217a4",
+    "sha256_of": "original",
+    "working_copy": "1862_p130.jpg"
+  },
+  "text": "Hutgasse. 65\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n3 | VI. | 1668 | zum blauen Wind. | Scheuble-Schlageter, August.\n  Scheuble-Schlageter, Aug., Ellenw.Lager.\n  Haubensack-Reiter, Fried., Saamenhdl.\n  Roos-Schneider, Albr., Metzger.\n4 | VI. | 1727 | zum Räpplin. | Küstler-Knorr, Joh. Jacob.\n  Küstler-Knorr, Joh. Jac., Schuhmacher.\n  Wetzler-Frey, Ferd., Kürschner.\n5 | VI. | 1669 | zum Wind. | Geßler-Tanner, Leonhard.\n  Geßler-Tanner, L., Buchb. u.Linieranstalt.\n6 | VI. | 1726 | zum Krayel. | Haug, Johannes.\n  Haug, Johannes, Schuhmacher.\n7 | VI. | 1760 | z. unt. Pfannenberg | Studer-Brüderlin, Joh. Jacob.\n  Studer-Brüderlin, Joh. Jac., Schuhmach.\n  Petri-Scherb, Em., Part.\n8 | VI. | 1725 | Schloß Sausenburg | Bohny-Düring, Joh. Jakob.\n  Bohny-Düring, Joh. Jak., Werkzeughdg.\n9 | VI. | 1671 | | Bauer, Joh., Getreidehdlg.\n10 | VI. | 1724 | zur Glocke. | Saladin-Frey, Johannes.\n  Saladin-Frey, J., Criminal-G.Weibel.\n  Scheuch, Jakob, Schneidermeister.\n11 | VI. | 1672 | | Sutter-Baumgartner, Jakob.\n  Ganz-Baltiser, Joh., Trödler.\n  Weber-Guggenbühler, Joh., Schreiner.\n  Kiefer-Weber, Ens., Schlosser.\n12 | VI. | 1723 | z. grünen Thurm. | Geßler-Ankelin, Heinrich.\n  Geßler-Ankelin, Heinrich, Metzger.\n13 | VI. | 1673 | zum Schuler. | Sigg-Lenzi, Johann.\n  Sigg-Lenzi, Joh., Schuhmacher.\n14 | VI. | 1721 u. 22 | zum Pflugberg. | Schweizer-Dettwiler, Heinr.\n  Schweizer-Dettwiler, H., Kupferschmied.\n  Blum-Weil, Sal., Vorbeter d. isr. Gem.\n15 | VI. | 1674 | z. schwarzen Stern. | Braunschweig-Borach, Moses, u. Borach-Lang, Leopold.\n  Braunschweig-Borach, Moses, Kfm.\n  Borach-Lang, Leopold, Kaufmann.\n  Borach, Gustav, „\n  Braunschweig, Emanuel, „\n  Firma Naphtali Braunschweig, Manu-\n    facturwaaren en gros et détail.\n16 | VI. | 1720 | zum Steinbogen. | Keller-Plattner, Joh. Georg.\n  Keller-Plattner, J. G., Schuhmacher.\n17 | VI. | 1675—76 | zur untern u. obern Laßburg. | Branger, Jakob.\n  Schenk-Schlageter, Gottl., Wirth.\n  Lentwyler-Schneider, Magd., Gemüsehdg.\n  Senn-Rieder, Julius, Fabrikarbeiter.\n  Bebler-Meyri, Christian, Ausläufer der\n    Centralbahngesellschaft.\n18 | VI. | 1719 | zum hintern Hüter. | Hosch-Breitenstein, Eduard.\n  Hosch-Breitenstein, Ed., Spengler.\n19 | VI. | 1677 | z. weißen u. schwarz. Widder. | Geßler-Rosenmund, Fritz.\n  Geßler-Rosenmund, Fritz, Hutmacher.\n  Doppler-Kramer, Heinr., Schneider.\n5",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9644,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2415,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:44:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p130",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p130.jpg",
+      "bytes": 1467678,
+      "sha256": "e5d86a36d80ef20202b8b023d2bde1f9eb271394c04ea759f3f0117b85e217a4",
+      "sha256_of": "original",
+      "working_copy": "1862_p130.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:42+00:00"
+  }
+}

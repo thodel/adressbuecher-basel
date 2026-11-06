@@ -1,0 +1,118 @@
+Verzeichniß der Berufsarten.
+381
+Bogt=Ruff, Celestin. Unt. Heuberg 23.
+Bultier=Bingler, Eugen. Fabrikstraße 19.
+Bultier=Mathiot, Isidor. Steinenvorstadt 30.
+Wahl u. Socin. Seevogelstraße 7.
+Weber=Schaffner, Wilh. Aeschenvorstadt 47.
+Zürcher=Ruchemann, Joh. Bei d. Wiefen-
+schänze 30.
+Mehlhandlungen.
+Burchhardt=Riindig, Wittwe Rosina. Markt-
+platz 13.
+Fischer=Miville, Emil. Gerbergasse 38 und
+Pfluggäcklein 8.
+Raus=Brodbek, Martin. Aeschenvorstadt 61.
+Oberriedt, J. G. Grünpfahlgäcklein 1.
+Siegfried, N. B. Münsterberg 1.
+Steffan, Rud. Steinenvorstadt 5.
+Thommen, Jac. Unterer Heuberg 31.
+Winfler, Jacob. St. Johann-Vorstadt 18.
+Merceriehandlungen.
+Baumann, Sophie. Gerbergasse 4.
+Bohny, Ambrosius. Gerbergasse 2.
+Brenner=Fäsch. Blumenrain 24.
+Fröhlicher=Fleuriel, J. Eifengasse 4.
+Gefler, And., en gros. Rheingasse 7.
+Hoffmann, Joh. Steinenringweg 15.
+Hojch=Roth, Rosalie. Gerbergasse 49.
+Imhof=Weck. Freie Straße 2.
+Kübler, Melchior. Untere Rheingasse 2.
+Riindig, Karl. Eifengasse 11.
+Linder, älter, J. Schwanengasse 16.
+Maring, Marie u. Salome. Sattelgasse 1.
+Meyer u. Cie., Ed. Sporengasse 15.
+Portmann=Thoma, Jacob. Schwanengasse 14.
+Rieber, Carl. Eifengasse 32.
+Ronus, Christ., en gros. Eifengasse 14.
+Schaub, J. J. Freie Straße 75.
+Siegfried u. Cie. St. Johann-Vorstadt 15.
+Spörlin, Wwe. u. Cie. Barfüsserplatz 25.
+Stampfer=Otto, Wilh. Spalenberg 3.
+Striibin=Roduner. Sporengasse 14.
+Sutter=Kaiser, J. J. Gerbergasse 23.
+Messerschmiede.
+Birmann=Meniger, Gottf. Stadthausgasse 14.
+Burchhardt, J. J. Münzgäcklein 3.
+Linder=Engressat, Johs. Ludw. Schneider-
+gasse 1.
+Walter=Keller, Carl. Freie Straße 73.
+Zäslin=Aeschpacher, Wwe. Elisabeth. Kronen-
+gäcklein 12.
+Mekger.
+Bachofen=Fininger, Samuel. St. Peters-
+Platz 3.
+Beaudroi, Wb. Sal. Gertr. Freie Straße 53.
+Bell, J. J. Dchjengasse 23.
+Bell=Stork, Rud. Rebgaß 14.
+Berlauer=Ofer, Stefan. Steinenthorstraße 39.
+Bienz=Fritschi, Joh. Spalenberg 15.
+Bienz, Gabriel. Steinenthorstraße 37.
+Bienz=Dejchger, Rud. Greifengasse 18.
+Bienz=Pad, Rud. Greifengasse 18.
+Birmann=Leuenberger, Johs. Lindenberg 18.
+Brändlin=Schaał, Franz. Schneidergasse 9.
+Breiting=Schardt, Peter. Aeschenvorstadt 46.
+Burchhardt=Mantel, Johs. Schneidergasse 26.
+Christ=Hartmann, Jeremias. Spalenvor-
+stadt 26.
+David, Christof. Webergasse 38.
+David, Georg. Rheingasse 78.
+David=Kurz, Wb. Elis. Greifengasse 32.
+David, Rudolf. Lindenberg 19.
+Deck=Spichti, Melchior. Blumenrain 25.
+Erni=Handschin, Joh. Fridol. Utengasse 1.
+Fininger, Heinrich. Webergasse 42.
+Fischer=Schmuziger, Andreas. Münzgäcklein 17.
+Gaf=Walter, Friedr. Gerbergasse 48.
+Gerber=Roch, Joh. Spalenvorstadt 23.
+Gefler=Ankelin, Heinrich. Hutgasse 12.
+Gefler, Carl Samuel. Aeschenvorstadt 65.
+Gefler=Rutter, Wb. Maria. Weiße Gasse 3.
+Grauwiler, Jacob. Aeschenvorstadt 49.
+Zäggi, Adolf. Aeschenvorstadt 71.
+Mäglin=Baumann, Ludw. Schafgäcklein 2.
+Mäglin=Müller, Christof. Riehenthorstraße 27.
+Meyer=Fiechter, Peter. Schiikennattstraße 1.
+Meyer=Linin, Jacob. Münzgäcklein 9.
+Ritter=Stahel, J. J. Streitgasse 13.
+Roth=Weiß, H. Blumenrain 1.
+Salathe=Hunziker, J. G. Gerbergasse 18.
+Schärer=Umsler, Leonhard. Rochhofgasse 11.
+Schardt=Affal, Joh. Ulrich. Utengasse 29.
+Schneider=Ofer, Friedr. Steinenvorstadt 23.
+Schwörer=Weber, Ludw. Sattelgasse 11.
+Seifert=Thommen, Jac. Barfüsserplatz 6.
+Seiler=Dettwylcr, Niklaus. Rheingasse 3.
+Seitter=Schneider, Emil. Spalenberg 39.
+Stehle=Jourdan, Alb. Steinenthorstraße 36.
+Strub=Becker, Lucas. Weiße Gasse 22.
+Strub=Löw, Ed. Steinenvorstadt 9.
+Striibin=Loz, Niklaus. Spalenvorstadt 45.
+Tschudin=Weber, Jac. St. Alban-Vorstadt 43.
+VonKilch, Benedikt. Hutgasse 21.
+VonKilch=Vögtlin, Gg. Gerbergäcklein 6.
+Weber=Engel, Jac. Unt. Rebgaß 22.
+Weber=Marfort, Rud. Steinenthorstraße 29.
+Weitnauer=Fischer, Rud. Aeschenvorstadt 1.
+Weitnauer=Krug, H. F. Freie Straße 30.
+Wörmag=Bartenbach, C. Freie Straße 63.
+Milchhändler.
+Diriwächter, Hans. Heumattstraße 9.
+Glanzmann, Andreas. Fabrikstraße 25.
+Lidin, Ed. Hammerstraße 67.
+Pfister, Jakob. Weiße Gasse 4.
+Rusenberger, Johs. Schnabelgäcklein 15.
+Schelder, Mathias. Steinenvorstadt 37.
+Mineralwasserhandlung.
+Ramsperger, C. Freie Straße 39.

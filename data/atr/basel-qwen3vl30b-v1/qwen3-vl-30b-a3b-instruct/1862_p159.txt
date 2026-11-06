@@ -1,0 +1,55 @@
+94
+Mittlere Straße. — Mostackerstraße.
+Nro. | Qua-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+28 | I. | 44 | | Weitnauer=Hoffmann, Wb. Marg.
+30 | I. | 45 u. 45 A | | Weitnauer=Hoffmann, Wb. Marg.
+| | | | Weitnauer=Hoffmann, Wb. Marg., Kent.
+| | | | Hoffmann=Restel, Rud., Polizeihauptm.
+32 | I. | 46 | | Caumont=Humbert, Louis Friedr.
+33 | I. | 85 A | | Triib, Johannes.
+| | | | Triib, Johannes, Gärtner.
+| | | | Triib=Kusbaumer, Wb. Anna Maria,
+| | | | Handelsgärtnerinn.
+| | | | Triib=Grether, Wb. Bern. Kunig., Gärtm.
+34 | I. | 46 b | | Caumont=Humbert, Friedr. Louis.
+| | | | Caumont=Humbert, Friedr. L., Lehrer.
+35 | I. | 84 c | | Uehlinger=Bulacher, Joh. Jakob.
+36 | I. | 47 A | | Hagenbach=Marian, Friedrich.
+37 | I. | 83 D | | Uehlinger=Bulacher, Joh. Jakob.
+| | | | Singeisen=Buier, Jacob, Postfactor.
+| | | | Hagenbach=Marian, Friedrich.
+38 | I. | 47 | | Bürgin=Rudin, Joh. Jac.
+40 | I. | 48 A | | Bürgin=Rudin, Joh. Jac., Bäcker und
+| | | | Bannwart.
+| | | | Grell, Mathias, Graveur.
+42 | I. | 48 | | Bürgin=Rudin, Joh. Jac.
+44 | I. | 49 | | Möcklin, Heinrich, u. Sebastian.
+| | | | Möcklin, Sebastian, Gärtner.
+| | | | Möcklin=May, Heinrich, Gärtner.
+| | | | Meyer, Georg, Stadtbote.
+46 | I. | 50 a | | Brüderlin=Schmied, Wb. Ursula.
+50 | I. | 61 | | Merian=Frishmann, Rud.
+51 | I. | 68 | | Dreyfus, Isaac, Söhne.
+| | | | Metzger, Balthasar, Lehennann.
+| | | | Merian=Frishmann, Rud.
+52 | I. | 62 a | Rebhäuslein. | Dreyfus, Isaac, Söhne.
+53 | I. | 68 A | | Merian=Frishmann, Rud.
+56 | I. | 63 | | Vogt=Gottenfieni, Joh., Lehenbeständer.
+| | | | Merian=Frishmann, Rud.
+58 | I. | 63 a | | Gaf=Eglin, Christian.
+63 | I. | 70 | | Gaf=Eglin, Christian, Zimmermeister.
+| | | | Meister, Heinrich.
+| | | | Liechti=Neuschwander, Uhr., Lehenbest.
+| | | | Schaub=Schaub, Jacob.
+77 | I. | 67 | | Schaub=Schaub, Jacob, Gutsbesitzer.
+| | | | zum alten Rottischen Spitalpflegamt.
+82 | I. | 65 | | Dettwyler=Gerber, Martin, Lehennann.
+86 | I. | 66 | Gut. |
+Mostackerstraße.
+17 | III. | 152 A b | | Plattner=Hofsch, Jakob.
+18 | III. | 152 | | Gürtler, Gebr. Friedr. u. Heinrich.
+| | | | Gürtler=Wertenberg, Fridol., Schreiner.
+| | | | Gürtler, Heinrich, Schreiner.

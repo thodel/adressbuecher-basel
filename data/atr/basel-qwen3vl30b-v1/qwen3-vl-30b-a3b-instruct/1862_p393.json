@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p393",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p393.jpg",
+    "bytes": 1432083,
+    "sha256": "33c3b6d925b95b17d7577e3151f9929e2a09058fd79442ecb1dfa5097abcb036",
+    "sha256_of": "original",
+    "working_copy": "1862_p393.jpg"
+  },
+  "text": "328\nVerzeichniß der Bürger und Einwohner.\nReichert, Friedrich, Kaufhausarbeiter. Untere Rebgasse 14.\nReide, Theresta, Reinwäscherin. Rebgasse 48.\nReinbold, Theod., Kaufm. Grünpfahlgäßl. 1.\nReindle, Alois, Spezierer. Webergasse 3.\n— =Malzacher, Joh., Pintenwirth. Johanniterstraße 15.\nReinhardt=Loz, J. C., Merceriewarenhandlg. Eifengasse 8.\n— =Währer, Wb. Elisabeth, Taglöhnerin. Sattelgasse 18.\n— =Zahner, Joh. Gottlieb, Kutscher. St. Johann-Vorstadt 4.\nReinisch, Franz, Redaktor der Basler Nachrichten. Gerbergasse 59.\nReinle=Alfermann, Reinhard, Ladengehilfe. St. Peters-Berg 22.\n— Josef, Ausläufer. Todtentanz 7.\nReischacher, Cath., Lehrerin an der Töchterschule. Blumenrain 28.\n— Elise, Part. Blumenrain 28.\nReiser, Anna, Wäscherin. Rheingasse 72.\nReiß, Albert, Güterexpeditor. Bahnhofstr. 12.\nReiter=Chrmann, Ernst, Musikdirector. St. Peters-Graben 18.\nReithaar=Barth, Leonz, Landjägerfourier. St. Clara=Platz 4.\nRenk=Strittmatter, Ferd., Handlanger. Riehenthorfstraße 20.\nRenz=Bufer, Carl, Sohn, Chemiker. Rebgasse 15.\n— =DeRoche, Carl, Vater, Chemiker. Rebgasse 15.\n— Maria, Lehrerin. Rebgasse 15.\nRespinger=Bauer, Adolf, Kaufmann. Freie Straße 18.\n— =Bernoulli, Eman., Part. Freie Str. 27.\n— =Burchhardt, Wb. Margar., Part. St. Leonhards=Straße 4.\n— Carl, Direktor der Centralbahn. St. Alban-Vorstadt 30.\n— =Gemußens, Benedict, Kaufmann. St. Elisabethen=Straße 15.\n— =Sjenegger, Wb. Salomea, Part. Luftgäßlein 3.\n— Ludwig, Firma. Aeschenvorstadt 22.\n— Passavant, Wilhelm, Kaufmann. Todtentanz 10.\n— =Preiswerk, Anna Maria, Wb., Rent. Aeschenvorstadt 22.\n— =Schnell, J. Rud., Pfarrer. St. Leonhardskirchplatz 5.\n— =Senn, Friedr., Kaufmann. Luftgäßlein 3.\n— =Stoßmeyer, Leonhard, Kaufmann. St. Alban-Graben 2.\nRettig-Schweizer, Friedrich, Bauführer. Fabrikstraße 31.\nReuille, Constant, Sprachlehrer. St. Johann-Vorstadt 46.\nReuschle, Christina, Wäscherin. Rheingasse 45.\nRey=Rey, Josef Antoine, Stuccator. Kohlenberggasse 8.\nReyenthaler, Margaretha, Part. Rebgasse 8.\nRhiner=Herzig, Oswald, Färbergeselle. Rheingasse 58.\nRibbeck=Bayer, Otto, Dr. u. Prof. an d. Universität. Grenzacher-Straße 43.\nRichter=Doelli, Karl, Bandfabrik. Hammerstraße 3.\n— =Linder, J., Bandfabrikant. Hammerstraße 3.\n— =Welte, Heinrich, Restaurant im badischen Bahnhof. Bahnhofstraße 31.\nRichterich=Cueny, Wb. Mar. Anna, Partif. Riehenthorfstraße 22.\nRickenbach, Adam, Seidenfärberegeselle. Johhöfgäßlein 14.\n— Jacob, Lehenbeständer. Austraße 71.\n— =Stiefel, Jacob, Magazinarbeiter. Münzgäßlein 11.\nRickenbacher, Gottlieb, Büchsenmacher. Unterer Heuberg 2.\nRickett=Diethelm, Heinr. Friedr., Hausvater d. Arbeiterkosthaus. St. Peters-Gasse 23.\nRieber=Dettwyler, Eduard, Commis. Untere Rheingasse 4.\n— =Heller, Karl, Mercerie= und Bandhdlg., Firma Karl Rieber. Eifengasse 32.\n— Wilhelmine, Partiful. Fischmarkt 1.\nRieder, Adolf, Kaufmann. Schneidergasse 25.\n— =Frey, Samuel, Steinmetz. Todtentanz 4.\n— =Hofmann, Joh. Heinr., Fabrikarbeiter. St. Johann-Vorstadt 4.\n— =Reftli, Martin, Fabrikarbeiter. In der Breite 27.\n— =Reftli, Martin, Spezierer. Kiimelinsplatz 15.\n— =Wertenberg, Johannes, Zimmermeister. St. Andreasplatz 11.\n— =Zuber, Wb. Clara, Part. Schneidergasse 25.\nRiedlin=Knechtl, Franz, Maurerparlier. Steinenvorstadt 43.\nRiedmeyer=Haab, Sebastian, Schlossergefelle. Untere Rebgasse 12.\nRiedtmann=Erlacher, Wilh., Broderiegeschäft. Freie Straße 5.\n— Joh. Heinrich, eidgen. Zolleinnehmer. Rheingasse 74.\n— Johs. Christof, Bäckermeister. Aeschenvorstadt 60.\n— =Kitter, Ludwig, Café=Besitzer. Barfüßergasse 14.\nRieger= Müller, Joh. Jakob, Musterweber. Aeschenvorstadt 35.\nRiehm, Ferdinand, Buchhändler. Kanongasse 24.\nRiefen=Schöchlin, Hans Jacob, Fabrikarbeiter. In der Breite 9.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9165,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3667,
+    "lines": 70,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:14:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p393",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p393.jpg",
+      "bytes": 1432083,
+      "sha256": "33c3b6d925b95b17d7577e3151f9929e2a09058fd79442ecb1dfa5097abcb036",
+      "sha256_of": "original",
+      "working_copy": "1862_p393.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:14:05+00:00"
+  }
+}

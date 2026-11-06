@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p428",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p428.jpg",
+    "bytes": 1635908,
+    "sha256": "9333bb94242234cc34234a4cdf6b9a9647b9f2322f5fb23a408e3fbb80df6b42",
+    "sha256_of": "original",
+    "working_copy": "1862_p428.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 363\nZeller, Margaretha, Nätherin. St. Peters- Zindel-Buchmann, Gottlieb, Part. Alybeß-\nBerg 34. straße 3.\n— =Megy, Friedrich, Kunstmaler. Fabrik- — Heinrich, Landjägergefreiter. St. Johann-\nstraße 33. Vorstadt 81.\nZellweger-Ryhiner, Ulrich, Rentier. Horburg- — =Schöndelmeyer, Conr., Müller. Ochsen-\nstraße 1. gasse 14.\nZemp-Haab, Anton, Lithograph; lithograph. Zingeler-Huber, Maria, Taglöhnerin. St.\nAnstalt von A. Zemp u. Comp. St. Martinskirchplatz 7.\nPeterskirchplatz 2. Zinstag, A., Part. Allschwyler-Straße 13.\nZentgraff, Wilh., Kaufm. Rheingasse 32. Zipfel-Widmer, Joh. Georg, Zimmermann.\nZerrelh, Louise, Kostgeberin. Ochsen-gasse 6. Aeschenvorstadt 77.\nZeugin-Bögle, Josef, Fabrikarbeiter. Aeschenvorstadt 62. Zobrist-Wirth, Barb., Fabrikarbeiterin. Im-\nbergäcklein 33.\n— =Frisch, Jakob, Spezierer. St. Elisabethen-Straße 34. Zollinger-Liischer, Joh., Maler. Imbergäck-\nlein 24.\nZiegler, Jakob Friedrich, Lehrer. Missions- Zuber, Carl Josef, Melker. Trillengäßl. 4.\nstraße 21. — =Dörflinger, Jakob, Gantrufer. Schliken-\n— Theod., Werkführer. Kümelinbachweg 8. gasse 10.\nZielmann-Lauber,Wb.Cath.,Part. Mattweg11. Zucke, Johannes, Fabrikmeister. St. Alban-\nZillig-Dietz, Sebastian, Taglöhner. Todtentanz 6. Thal 35.\n— =Häfliger, Joh., Schuhmacher. Steinen- Zürcher-Bircher, Sam., Vater, Part. Linden-\nvorstadt 13. berg 13.\n— Pancratius, Färber. Steinenvorstadt 12. — =Bruderer, Johs., Buchbinder. Streit-\nZimmerlin-Gräflin, Sam., Weinschenk. St. gasse 20.\nJohann-Vorstadt 2. — Catharina, Fabrikarbeiterin. Hammer-\n— =Bon Speyr, Aug., Tabakst. Blumen- straße 65.\nrain 11. — =Kuchemann, Joh., Mechaniker. Bei der\nZimmermann, Balth., Zimmermann. Kohlen- Wiesenchanze 30.\nberg 15. — =Stohler, Heinrich, Schneider. Linden-\n— =Bernoulli, Dr. C. F., V. D. M., Lehrer. berg 13.\nSt. Elisabethen-Straße 30. — =Sutter, J. J., Lebkuchenkrämer. Tod-\n— =Brunner,Jak.,Steinhauergeselle.Riehenthorfstraße 25. tengäcklein 9.\n— Conrad, Schuhmacher. Malzgasse 13. Zugschwert-Rein, Joh. Friedr., Knecht. Ger-\n— =Frey, Joh., Mechanikergeselle. Mühlen- bergäcklein 18.\nberg 21. Zulauf-Bogelsang,Jak.,Fabrikarbeit. Schnei-\n— Jakob, Färber. Rheinsprung 3. dergasse 22.\n— =Klotz, Josef, Bäcker. St. Elisabethen- ZumBrunn, Heinr., Kaufmann. Schliken-\nStraße 2. graben 11.\n— Ludwig, Buchhalter. Schneidergasse 23. — =Hindermann, Ed., Kaufmann. Spalen-\n— Wb. Maria, Arbeiterin. Reb-gasse 33. thorweg 36.\n— =Mutterer, Conrad, Zimmermann. Ger- Zumkehr-Baumann,Friedr.,Schreiner. Grenz-\nbergäcklein 32. acher-Straße 54.\n— Oscar Friedrich, Pfarrer. Garten- Zumsteg-Gerteis, Jak., Eisenbahnarbeiter.\nstraße 62. Münsterberg 15.\n— Peter, Part. Steinenthorstraße 2. Zurbruck-Heitz, Sam., Packer. St. Elisabethen-Straße 47.\n— =Koser, Josef, Fabrikarbeiter. Malzgasse 5. Zurlinden-Häufelmann, Philipp, Musterweb.\n— =Küppischen, Josef, Seidenfärbergeselle. Gerbergasse 43.\nUntere Reb-gasse 12. ZurMühle-Wernli, Jak., Schuhmacher. Weise\n— =Schmidt, Sam., Magazinmecht. Klingel- Gasse 11.\nbergstraße 25. Zutt-Fecht, Friedr., Dr. jur. St. Alban-\n— =Stölle, Hermann, Wirth. Schafgäßl. 7. thorgraben 4.\n— =Strittmatter, Josef, Knecht. Greisengasse 35. Zweig-Prefzger, Christ., Kutscher. Sporengasse 15.\n— =Subinger, Carl, Gutsbesitzer. Elsässer- — =Wolber, Ferd., Trödler. Schneider-\nStraße 31. gasse 28.\n— =Uehlinger, Moritz, Posamenter. Weber- Zwilchenbart, And., Auswanderungsbureau.\ngasse 11. Kaufhausgasse 6.\nZwirner, Heinr., Grenzausseher. Riehen-\nStraße 26.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9048,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3466,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:19:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p428",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p428.jpg",
+      "bytes": 1635908,
+      "sha256": "9333bb94242234cc34234a4cdf6b9a9647b9f2322f5fb23a408e3fbb80df6b42",
+      "sha256_of": "original",
+      "working_copy": "1862_p428.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:19:28+00:00"
+  }
+}

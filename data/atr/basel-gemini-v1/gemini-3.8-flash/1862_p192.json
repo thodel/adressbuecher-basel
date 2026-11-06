@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p192",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p192.jpg",
+    "bytes": 1407769,
+    "sha256": "0ec5cb0c71aecdfaed1d894d4723dd9bdfc49dff8aceb6b6230520c2a5c9b2d3",
+    "sha256_of": "original",
+    "working_copy": "1862_p192.jpg"
+  },
+  "text": "Schützengasse. — Schützengraben. | 127\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n12 | II. | 357 A | | Goßwiler-Brög, Ludwig.\n  Goßwiler-Brög, Ludwig, Magazinier.\n  Loew-Bleuler, Heinrich, Commis.\n  Lotz-Stückelberger, Wb. Rosine, Part.\n\nSchützengraben.\n\n2 | II. | 363 A | | VonSpeyr u. Comp.\n  Krebs-Stelzer, Joh. Hilarius, Maler.\n4 | II. | 362 | | VonSpeyr u. Comp.\n  Magazin.\n6 | II. | 361 | | Meyer-Keller, Philipp.\n  Wirth, Johann, Lohnkutscher.\n7 | III. | 147 C | | Wick-Hindermann, Carl.\n8 | II. | 359 f | | Dietschy-Faesch, Johannes.\n  Magazin.\n9 | III. | 147 B | | Wick-Hindermann, Carl.\n11 | III. | 147 A | | Wick-Hindermann, Carl.\n  ZumBrunn, Heinrich, Kaufmann.\n12 | II. | 356 d | | Paravicini, Leonhard.\n  Eisenmagazin.\n  Hägler-Laub, Mathias, Ladengehülfe.\n13 | III. | 147 | | Wick-Hindermann, Carl.\n15 | III. | 146 B | | Geßler-VonKilch, Emanuel.\n  Kaufmann-Haueisen, Alfred, Kfm.\n  Kistlig-Poiré, Rud., Commis.\n17 | III. | 146 A | | Georg-Kappeler, Franz.\n  Georg-Kappeler, Franz, Metzger.\n  Bernoulli, Friedrich, Substitut d. Ci-\n  vilgerichtsschreibers.\n  Geelhaar-Streckeisen, Heinrich, Zeich-\n  nungslehrer.\n18 | II. | 352 d | | Hindermann-Weiß, Joh. Jak.\n  Magazin.\n19 | III. | 146 | | Moser-Müller, Martin.\n  Moser-Müller, Martin, Spannermstr.\n  Rall-Wenk, Joh. Georg, Part.\n20 | II. | 350 F | | Merian-Frischmann, Rudolf.\n26 | II. | 336 a | | Emde-Schoch, Friedrich.\n  Stallungen.\n28 | II. | 335 | | Madeux, J.\n  Stallung u. Remise.\n30 | II. | 335 B | | Madeux, J.\n  Magazin.\n32 | II. | 333 | | Zaeslin-Streckeisen Joh., sel. Erb.\n  Magazin.\n34 | II. | 333 A | | Bischoff-Keller, Andreas.\n  Stallung.\n35 | II. | 139 E | | Schmid-Meyer, Andreas.\n37 | II. | 139 D | | Schmid-Meyer, Andreas.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9563,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1774,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.08,
+    "mean_line_chars": 33.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:54:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p192",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p192.jpg",
+      "bytes": 1407769,
+      "sha256": "0ec5cb0c71aecdfaed1d894d4723dd9bdfc49dff8aceb6b6230520c2a5c9b2d3",
+      "sha256_of": "original",
+      "working_copy": "1862_p192.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:42+00:00"
+  }
+}

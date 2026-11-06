@@ -1,0 +1,50 @@
+108 | St. Peters-Gasse.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+ |  |  | St. Peters-Gasse. | 
+2 | I. | 101 | Windeck. | Curiger, Meinrad.
+  Curiger, Meinrad, Buchbinder.
+4 | I. | 210 |  | Elsner-Hug, Johannes.
+  Elsner-Hug, Joh., Schuhmacher und Weinsticher.
+5 | I. | 220 | zur Vorgasse. | Haas-Franzin, Rudolf.
+  Haas-Franzin, Rudolf, Küfer.
+  Bächlin-Kupferschmied, Johann Jacob, Schreiber.
+6 | I. | 211 |  | Kaufmann, Gottlieb.
+  Kaufmann, Gottlieb, Schlosser.
+  Herzog-Lagot, Franz Xaver, Photograph.
+  Oppliger-Reichert, Daniel, Dessinateur.
+7 | I. | 221 | zum Scheurenberg. | Kircher-Merian, J.
+  Herzer-Reble, Hugo, Kaufmann.
+  Bernoulli-Respinger, Wb. Marg., Part.
+  Bernoulli, Mich., Dr. med.
+  Arlès, Alphons, Seidenagent.
+  Arlès, Gustav,
+  Chabrieres-Arles, P. M. A. M., Kaufm.
+8 | I. | 212 |  | Kaufmann, Gottlieb.
+  Baumgartner-Meyer, Wilhelm, Schlosser.
+9 | I. | 225 | zum Drachenfeld. | Senn-Jenni, Friedrich.
+  Senn-Jenni, Friedrich, Schreiner.
+  Schatz-Wassermann, Carl, Commis.
+10 | I. | 213 | z. schwarzen Pfahl. | Stutz-Wolff, Friedrich Gustav.
+  Stutz-Wolff, Friedrich Gustav, Spengler.
+11 | I. | 226 | z. goldnen Ring. | Hagenbach, Peter.
+  Hagenbach, Peter, Particular.
+12 | I. | 214 |  | Groß-Dürr, Emanuel.
+  Groß-Dürr, Emanuel, Zimmermann.
+  Lehmann-Groß, Johann, Schreiner.
+13 | I. | 227 |  | Birmann, Rudolf und Wilhelm, sel. Erben.
+15 | I. | 227 b |  | 
+  Stocker-Hoser, Johannes, Zimmermstr.
+  Mundwyler-Grieder, Jacob, Möbelhdl.
+16 | I. | 91 |  | Rapp-Wick, Conrad.
+  Siehe Nr. 1 St. Peters-Graben.
+18 | I. | 215–216 |  | Brüstlin-DuPasquier, Eduard.
+  Siehe Nr. 3 St. Peters-Graben.
+20 | I. | 217 |  | Deggeller-Stegmann, Bernhard.
+  Deggeller-Stegmann, Bernh., Schlosser.
+22 | I. | 218 |  | Schaffner-Maurer, Jacob Barthol.
+  Schaffner-Maurer, Jacob Bartholom., Fabrikarbeiter.
+23 | I. | 232 | Ringelhof. (Arbeit.-Kosthaus.) | Evangelische Gesellschaft.
+  Rickert-Diethelm, Heinrich Friedrich, Hausvater.
+24 | I. | 222 b |  | Holzach-Ronus, Wb. Margaretha. (Magazin.)

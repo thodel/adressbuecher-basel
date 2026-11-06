@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p376",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p376.jpg",
+    "bytes": 1594780,
+    "sha256": "316f2c910fad7b9498d4b841a5cba4a91a961db72723b0ca67c3290f2ea69ec0",
+    "sha256_of": "original",
+    "working_copy": "1862_p376.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 311\nLitsch, Carl Ferdinand, Commis. Untere Rhoz=landerer, Jac. Christ., Schneider. Sat= \nRheingasse 4.                     telgasse 5.\nLötscher=Adatte, Nikolaus, Knecht. Spalen= — LeGrand, Christ., Pfarrer. St. Leon= \nberg 31.                         hards=Strasse 4.\n— =Lötscher, Johannes, Taglöhner. Ham= — Leonhard, Posamentier. St. Peters= \nmerstrasse 67.                    Berg 25.\nLöw, Abraham, Hiob, Holzseker. Karthaus= — Maria Magdalena, Particular. Greisen= \ngäcklein 7.                       gasse 16.\n— =Baumann, Leonh., Schuhmacher. Nadel= — von Mechel, Wb. Judith, Part. St. \nberg 43.                          Peters=Berg 25.\n— =Bleuler, Heinrich, Commis. Schützen= — Rosine, Part. Heuberg 40.\ngasse 12.                         — Rudolf, Part. St. Leonhards=Strasse 34.\n— =Gesler, Johannes, Ferger. St. Jakobs= — =Specker, Emil, Kaufmann. Stifts= \nStrasse 21.                       gasse 5.\n— =Handschin, Wilhelm, Posamenter. Hut= — =Spörlin, Hiers., Kaufmann u. Pfund= \ngasse 7.                          zoller. Barfüsserplatz 25.\n— =Haesler, Friedrich, Commis. Aeschenvorstadt 54. — =Spruenglin, Wb. Susanne, Part. Tod= \ntentanz 14.\n— =Honesta, Joh., Commis. Steinen=Vor= — =Stiickelberger, Wb. Rosine, Particular. \nstadt 13.                         Schützengasse 12.\n— =Reyser, Joh. Jak., Eisenhändler. Gerbergasse 64. — =Wid, Wb. Maria, Part. St. Johann= \nVorstadt 34.\n— =Ost, Gottlieb, Bauführer. Spalenberg 13. — =Wölfflin, Ed., Cigarren= u. Tabakhdlg. \n— Rud., Tabakfabrikant. Klosterberg 23. Firma C. Loz u. Comp. Eisengasse 5. \n— Rud., Musiklehrer. Steinenthofstrasse 45. Ludwig-Eckenstein, Andreas, Eisenhandlung. \nLohner=Hagnauer, Theobald, Fabrikarbeiter. Roßhofgasse 6.\nHeuberg 44.                       — =Frey, Wb. Anna Elisab., Partikul. St. \nLoos=Donatz, Joh. Bernh., Commis. Blumen= Peters=Graben 55.\nrain 15.                          — =Neukomm, Heinrich, Kaufmann. St. \nLorch=Knapp, Jakob, Zimmermann. Neue Peters=Graben 55.\nVorstadt 25.                      — =Weitnauer, Emil, Käfer. Steinenvor= \nLorenz, Andreas, Taglöhner. Spalenberg 46. stadt 67.\n— Anna, Schneiderin. Münzgäcklein 24. Lüder, Bernhard, Postcommis. Gerbergasse 31.\n— =Schneider, Jos., Wirth. Untere Reb= Lüdin=Bay, Jac., Taglöhner. Trillengäcklein 6.\ngasse 1.                          — =Bitterli, Joh., Posamenter. Allschwyler \nLottenbach, Louise, Zettlerin. Greisengasse 29. Strasse 66.\n— Veronica, Zettlerin. Greisengasse 29. — =Büchlin, Gg., Maurer. Riehenthor= \nLoz u. Sieber, Albert u. Casp., Bandfabrikanten. Nauenstrasse 10. strasse 14.\n— =Baune, Adolf, Commis. Aeschengra= — =Göbelin, Wb. Susanne, Part. Fisch= \nben 14.                           markt 8.\n— =Bricar, Hierons., Kaufmann. Fisch= — =Ritzmann, Eduard, Milchhändler. Ham= \nmarkt 3.                          merstrasse 67.\n— Carl, Holzhändler. Kliichgäcklein 5. — =Roth, J. J., Commis. St. Elisabethen=Strasse 54.\n— Caspar Wernh., Agent. St. Leonhards= — =Schäfflin, Heinr., Posamenter. Klin= \nStrasse 34.                       gelthalstrasse 43.\n— =Eglin, Friedr., Zimmermeister. Reb= — =Sutter, Anna Barb., Schneiderin. Greisengasse 35.\ngasse 32.                         — =Wagner, Franz, Ferger. Gerbergasse 2. \n— Elisabeth, Part. Greisengasse 16. Lüppold=Meier, Ludw., Maler. St. Alban= \n— Emil, Commis. Barfüsserplatz 25. Thal 44.\n— =Gocht, Achilles, Seidenfärber. Rheingasse 31. Litscher, Daniel, Ziegler. Weiße Gasse 2.\n— =Heusler, Friedr., Bater, Part. Rheingasse 44. — =Gerster, Wb. Anna, Kostgeberin. Weiße Gasse 18.\n— =Holzach, Albert, Seidenfärber. Rheingasse 44. — =Mazinger, Melchior, Posamenter. Kronengasse 4.\n— =Roch, Wb. Barb., Zettlerin. Spalenberg 41. — =Pfertich, Friedr., Kleiderhandlung. Och= \n— =Riindig, Joh. Leonh., Schlosser. St. fengasse 1. \nLeonhards=Strasse 34.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9269,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3803,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 66.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:11:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p376",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p376.jpg",
+      "bytes": 1594780,
+      "sha256": "316f2c910fad7b9498d4b841a5cba4a91a961db72723b0ca67c3290f2ea69ec0",
+      "sha256_of": "original",
+      "working_copy": "1862_p376.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:11:28+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+Rheingasse.
+193
+Nene
+Haus=No. | Quar-
+tier. | Alte
+Haus=No. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+9 | VIII. | 9 | oberer Kilchmann. | Birmann=Brüderlin, Gedeon.
+| | | | Birmann=Brüderlin, Gedeon, Schlosser.
+| | | | Honegger, Selina, Corsetiere.
+10 | VIII. | 16 | zur Justitia. | Meyer=Best, Joh.
+| | | | Meyer=Best, Joh., Coiffeur.
+| | | | Maurice=Senn, Josef, Kaufmann.
+| | | | Comptoir.
+| | | | Tröndle=Faller, Ferd., Holzhändler.
+| | | | Uebelin=Mollinet, Gg., Dessinateur.
+11 | VIII. | 12 | z. blauen Stein. | Henz=Dömmelin, Niklaus.
+| | | | Henz=Dömmelin, Niklaus, Hafner.
+| | | | Sparren=Best.
+| | | | Weissenberger=Martin, Johs., Spezier.
+| | | | Schaefer=Rommann, Carl Frz., Commis.
+12 | VIII. | 17 | | Trauz, Adam.
+| | | | Trauz, Adam, Bäcker.
+13 | VIII. | 13 | z. blauen Spieß. | Wicki, Josef.
+| | | | Wicki=Gast, Josef, Kleiderreiniger.
+| | | | Mazinger, Barbara, Modiste.
+14 | VIII. | 30 | zum Brücklein. | Salathe=Haupt, Wb. Elisabeth.
+| | | | Salathe=Haupt, Wb. Elis., Wirthin.
+| | | | Unholz, Jakob, sel. Erben, in Kiehen.
+| | | | Meyer=Heinimann, Carl Rud., Schneid.
+15 | VIII. | 14 | zum Voehler. | Krafft=Meyer, Ernst Conrad.
+| | | | Krafft=Meyer, Ernst Conrad, Gastwirth.
+16 | VIII. | 31 | | Kühner=Aberle, Georg Bernhard.
+| | | | Kühner=Aberle, Georg Bernhard, Schuh-
+| | | | | macher.
+| | | | Schulé=Briner, Carl, Commis.
+| | | | Müller=Willin, Achill., Eisenbahnbeamt.
+17 | VIII. | 18—19 | z. schwarz. Bären. | Keller=Meyer, Georg Friedrich.
+| | | | Keller=Meyer, Georg Friedr., Handelsm.
+| | | | Buchner=Bröner, Peter, Schreiner.
+| | | | Baumgartner=Langhans, Lucas Rudolf,
+| | | | | Maler.
+18 | VIII. | 32 | | Hunziker=Leder, Samuel.
+| | | | Hunziker=Leder, Samuel, Wirth.
+| | | | Keller=Häfeli, Andreas, Schiffmann.
+| | | | Schütz, Peter, Uhrmacher.
+19 | VIII. | 28 | zur Linde. | Lenz=Schmidt, Johannes.
+| | | | Lenz=Schmidt, Joh., Seidenfärbergesell.
+| | | | Hecht, Heinrich, Uhrmacher.
+20 | VIII. | 33 | zum Traubenfeller. | Rutschmann=Berlinger, August.
+| | | | Rutschmann=Berlinger, August, Mechan.
+| | | | Duthaler, Dürrenberger, Eduard, Buch-
+| | | | | binder.
+| | | | Grollimund=Better, Wb. Johanna, Sattl.
+| | | | Kaiser=Stadelmann, Jakob.
+| | | | Kaiser=Stadelmann, Jakob, Kostgeber.
+21 | VIII. | 29 | zum Rosenkranz. | Meyer=Landolt, Johannes.
+| | | | Meyer=Landolt, Johannes, Ausschnitt-
+| | | | | waarhandlung.
+22 | VIII. | 34 | zum Henneberg. | 
+23 | VIII. | 36 | zum Kaiserstuhl. | 
+24 | VIII. | 35 | zum Falkenstein. | 
+13

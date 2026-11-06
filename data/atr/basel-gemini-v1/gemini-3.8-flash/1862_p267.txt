@@ -1,0 +1,55 @@
+202 | Riehenthorstraße.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+12 | VIII. | 116 | Karthhausecke. | Bernoulli-Baer, Leonhard.
+13 | VIII. | 119 | | Ruegg-Gräslin, F. Emil.
+  Ruegg-Gräslin, Joh. Emil, Maler.
+  Bregger-Koepfer, Ambrosius, Fuhr-
+  halter.
+  Straßer-Zurfluh, Wilh., Commis.
+14 | VIII. | 126 | | Stockmeyer-Rietschlin, Abraham.
+  Stockmeyer-Rietschlin, Abrah., Ellen-
+  waarengeschäft.
+15 | VIII. | 120 | | Kammerer, Simon, sel. Erben.
+  Stadelmann-Augsburger, Frz. Josef,
+  Particular.
+  Kaufmann-Augsburger, Ant., Fuhr-
+  halter.
+16 | VIII. | 125 | | Hecht-Gehrig, Wb. Gertrud.
+  Hecht-Gehrig, Wb. Gertrud, Wälder-
+  uhrenverkauf.
+  Burge-Schwarzwaelder, Moritz, Caffee-
+  wirth.
+  Bürge, Jacob, Kunstgärtner.
+17 | VIII. | 121 | zur Aberart. | Schmidlin-Naegelin, Jacob.
+  Schmidlin-Naegelin, Jacob, Maler.
+18 | VIII. | 124 | | Bresin-Knaus, Joh. Martin, sel.
+  Erben.
+  Bresin-Knaus, Wb. Judith, Bäcker.
+  Staab-Stelzer, Hch., Schiffmann.
+20 | VIII. | 123 | | Gisel-Murbach, Joh. Jac.
+  Gisel-Murbach, Joh. Jac., Fruchthdlr.
+  Müller-Bipp, Jac., Viehhändler.
+  Studer-Walliser, Josef, Fruchthändler.
+21 | VIII. | 122 | zum Zellenberg. | Bieler-Salathe, Joh. Jac.
+  Bieler-Salathe, Joh. Jac., Küfer.
+  Krebs-Etienne, Johs., Commis.
+22 | VIII. | 149 | zum hohen Wind. | Stoll-Nageleisen, Eberhard.
+  Stoll-Nageleisen, Eberhard, Fuhrhalter.
+  Otto, Emanuel, Rathsboſe.
+23 | VIII. | 146 | zum Dupf. | Gaß-Schlosser, Johannes.
+  Gaß-Schlosser, Johs., Bäcker.
+24 | VIII. | 148 | | Weiß-Gaß, Thomas.
+  Weiß-Gaß, Thomas, Spezierer und
+  Wirth.
+  Weiß, Abraham Jac., Bäcker.
+25 | VIII. | 145 | | Kempf-Strübin, Joh. Jac.
+  Kempf-Strübin, Joh. Jac., Bäcker u.
+  Wirth.
+26 | VIII. | 147 | zur kl. Augenweide. | Birmann, Niclaus Friedrich.
+  Birmann, Niclaus Friedr., Bäcker.
+  Sutter-Lüscher, Carl Friedr., Bäcker.
+27 | VIII. | 142 | zum Ochsen. | Maeglin-Müller, Christof.
+  Maeglin-Müller, Christof, Wirth u.
+  Metzger.

@@ -1,0 +1,56 @@
+70
+St. Johann-Vorstadt.
+Nro. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+3 | I. | 67 | zum Reinacherhof. | Burchardt-Wid, Ludw. August.
+Burchardt-Wid, Ludw. Aug., J. U. D.
+Burchardt, Henriette, Particular.
+4 | I. | 72 | zum Bockstecherhof. | Roth-Weiß, Wernhard u. Sohn.
+Roth-Weiß, Wernhard und Sohn,
+Schuhmacher.
+5 | I. | 64 B | zum mittlern Ulm. | Kern-Ryhiner, August.
+Kern-Ryhiner, August, Bandfabrikant.
+Ryhiner-Bischoff, Samuel, Rentier.
+Kern-Werthemann, Eduard, Bandfabr.
+6 | I. | 70 | | Zselin-deBary, Rudolf.
+Zselin-deBary, Rudolf, Particular.
+Zselin, Rudolf de Rudolf, Part.
+7 | I. | 64 A | zum mittlern Ulm. | LaRoche-Gemuseus, Carl.
+LaRoche-Gemuseus, Carl, Gutsbesitzer.
+8 | I. | 69 | | Scholp-Schaffner, Rudolf.
+Scholp-Schaffner, Rudolf, Kaufmann.
+Hürlemann, Wittwe, Rosina, Part.
+Hürlemann, David, Commis.
+9 | I. | 63 | | Maeglin, Benedikt de Anton.
+Maeglin, Benedikt de Anton, Kfm.
+10 | I. | 68 | | Müller-Hauser, Joh. Jacob.
+11 | I. | 62 | zur Schäferei. | Riggenbach, Fried. Wilhelm.
+Riggenbach, Fried. Wilh., Bäcker.
+Meilin-Riggenbach, Rud., Bildhauer.
+12 | I. | 65 | | Müller-Hauser, Joh. Jakob.
+13 | I. | 59 | zum Wildenstein. | Schoop-Lehr, Leonhard Carl.
+Schoop-Lehr, Leonh. Carl, Ferger.
+Kaufmann, Gottlieb Sam., Schlosser.
+Müller-Hauser, Joh. Jac., Seidenfärber.
+Müller, Joh. Jac., Sohn, Seidenf.
+14 | I. | 61 | | Dietzsch-Lichtenhahn, Joh.
+Coulere-Dubernoy, Civil-Ingenieur.
+Siegfried u. Comp., Band- u. Seidenhd.
+15 | I. | 58 | | Basler-Bernoulli, Wb. Anna Cath.
+Basler-Bernoulli, Wb. A. Cath., Part.
+16 | I. | 60 | zur leeren Flasche. | Burkhardt-Preiswerk, Wilhelm.
+Comptoir u. Bandfabrik von Lucas
+Preiswerk.
+17 | I. | 53 | Erlacherhof. | Dietzsch-Burckhardt, Joh. Jac., Bandfab.
+Jenny-Gattinger, Friedrich.
+Jenny-Gattinger, Fried., Definateur.
+Winfler-Kähni, Jakob, Spezierer.
+Friedli-Fleury, Eman., Eisenbahnbeamt.
+18 | I. | 56–57 | zur Meife. | Dietzsch-Lichtenhahn, Joh. Jac.
+Dietzsch-Lichtenhahn, J. J., Bandfabr.
+Dietzsch, Wilhelm, Bandfabrikant.
+Lichtenhahn, Hans Rud., Bandfabrik.
+Firma Hans Balth. Burkhardt u. Sohn.
+19 | I. | 50 | |

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p254",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p254.jpg",
+    "bytes": 1420611,
+    "sha256": "44415160097e0b142d0c289e968736476a30d8932426bd0448cc3082bf052048",
+    "sha256_of": "original",
+    "working_copy": "1862_p254.jpg"
+  },
+  "text": "Rebgasse.\t189\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n14 | VIII. | 197 | Burgvogtei od. zu d. 13 alt. Kanton. | Tester-Geßler, Josua.\n  Thommen-Meyer, Hans, Kaufmann.\n  Bell-Storck, Rudolf, Metzger.\n  Schabelitz-Lotz, Diet., Commis u. Bier-\n  wirth.\n  Meyer, Georg, Fuhrhalter.\n15 | VIII. | 180 | zum Dolder. | Renz-DeRoche, Carl.\n  Renz-DeRoche, Carl, Chemiker.\n  Renz, Marie, Lehrerin.\n  DeRoche, Paul Samuel, Chemiker.\n  Renz-Buser, Carl Ludw., Chemiker.\n16 | VIII. | 192 | zum Schaf. | Albrecht-Speiser, Joh. Conrad.\n  Albrecht-Speiser, Joh. Conr., Kfm.\n  Firma Albrecht-Dietschy, Spezerei-\n  handlung.\n  Eglinger, Dr. Eman., Thierarzt.\n  Miville-Socin, Wb. Marg., Rent.\n17 | VIII. | 178—79 |  | Horandt-Wohnlich, Martin.\n  Horandt = Wohnlich, Martin, Bandfa-\n  brikant.\n18 | VIII. | 189 | z. hint. Silberberg. | Walliser-Hägler, Wb. Judith.\n  Walliser-Hägler, Wb. Judith, Part.\n  Matzinger, Leonh. Friedr., Spengler.\n19 | VIII. | 174 |  | Speiser-Hauser, Wb. Esther.\n  Speiser-Hauser, Wb. Esther, Part.\n20 | VIII. | 188 | zum Klösterlein. | Huber, Hieronimus.\n  Huber, Hieronimus, Part.\n21 | VIII. | 172—73 | z. grün. Adler. | Siber-Lotz, Joh. Caspar.\n  Siber-Lotz, Joh. Casp., Part.\n22 | VIII. | 184 |  | Schneider, Jgfr. Salomea.\n  Schneider, Salomea, Part.\n  Stadelmann, Ursula, Modiste.\n23 | VIII. | 171 |  | Siber-Lotz, Joh. Casp.\n24 | VIII. | 183 |  | Weber-Wiesner, Heinrich.\n  Weber-Wiesner, Hch., Dessinateur.\n25 | VIII. | 170 |  | Dannacher, Paul.\n  Dannacher, Paul, Schreiner.\n26 | VIII. | 182 |  | Lotz-Heusler, Friedrich.\n27 | VIII. | 169 |  | Maeglin, Christof.\n  Maeglin, Christof, Gypser und Stuc-\n  cator.\n  Ranz-Wagner, Wendolin, Dessinateur.\n  Guth-Himmely, Rud., Part.\n28 | VIII. | 177 | zum Paradies. | Burckhardt-Bernet, Daniel.\n  Burckhardt-Bernet, Daniel, Baumeister.\n  Oswald, Mathias, Altrathsherr, Rent.\n29 | VIII. | 168 |  | Vetterlin, Heinrich.\n  Vetterlin, Heinrich, Wirth.\n  Bell-Bolliger, Emanuel, Fischer.\n  Karle-Morf, Johann Friedrich, Küb-\n  ler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8146,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2053,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p254",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p254.jpg",
+      "bytes": 1420611,
+      "sha256": "44415160097e0b142d0c289e968736476a30d8932426bd0448cc3082bf052048",
+      "sha256_of": "original",
+      "working_copy": "1862_p254.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:47+00:00"
+  }
+}

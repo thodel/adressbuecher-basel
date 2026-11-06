@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p222",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p222.jpg",
+    "bytes": 1411409,
+    "sha256": "577ef11688a516a5f574404dde730892827118e0f02476d8f51aea4fbadf551c",
+    "sha256_of": "original",
+    "working_copy": "1862_p222.jpg"
+  },
+  "text": "Stiftsgasse. — Streitgasse. 157\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n7 | II. | 561 | | Bauer-Felber, Jacob.\n  Zu Nr. 35 u. 37 St. Petersgraben.\n9 | II. | 562 | Pfarrhaus. | Staat.\n  Stückelberger-Usteri, Joh., Pfarrer.\n  Zu Nr. 33 St. Petersgraben.\n11 | II. | 563 | | Reber-Geilinger, Joh. Jak.\n  Zu Nr. 31 St. Petersgraben.\n\nStreitgasse.\n1 | IV. | 1087 | z. obern Hindin. | Hottensen-Wehrle, Carl Wilhelm.\n  Hottensen-Wehrle, Carl Wilh., Coiffeur.\n2 | IV. | 1192 | zum Ortenberg. | Raillard-Weiß, Wb. Maria.\n  Raillard-Weiß, Wb. Maria, Uhrenhdlg.\n  Raillard, Theodor de Theodor, „\n  Buchbinderei v. Meyer-Thurneysen, Th.\n3 | IV. | 1088 | zur Hündin. | Giesen-Müller, Wb. Marg., sel. Erb.\n  Kündig, Heinrich, Buchbinder.\n  Rigassi, Giovanni, Glaser.\n4 | IV. | 1098 | z. goldenen Spieß. | Thommen, Carolina.\n  Thommen, Carolina, Part.\n  Geßler, Magdalena, Wollwaarenhdlg.\n5 | IV. | 1085 | zum Schlegel. | Eppens-Hug, Adolf Dietrich.\n6 | IV. | 1099 | | Plattner-Meyer, Wb. Maria Charl.\n  Plattner-Meyer, Wb. Mar. Charlotte,\n  Particular.\n7 | IV. | 1089 | z. gold. Mörser. | Meyer, Jakob Christof.\n  Meyer, Jakob Christof, Zuckerbäcker.\n  Müller, Dorothea, Rentiere.\n8 | IV. | 1100 | Pfannenberg. | Brenner-Schilling, Joh. Georg.\n  Brenner-Schilling, Joh. Georg, Ge-\n  schirrhandlung.\n9 | IV. | 1090 | | Schneider-Meyri, Wb. Rosina.\n  Schneider-Meyri, Wb. Rosina, Kostgeb.\n  Braegger, Friedr. Melch., Schneider.\n  Hiltmann-Gerspach, Chrysostomus,\n  Schneider.\n10 | IV. | 1101 | z. kl. grünen Ring. | Schuler-Bienz, Adam.\n  Schuler-Bienz, Adam, Wagner.\n11 | IV. | 1091 | z. obern Balchen. | Staehelin-Staehelin, Rudolf.\n  Staehelin-Staehelin, Rud., Kaufmann.\n  Firma Gebr. Staehelin, Colonialwaa-\n  renhandlung.\n12 | IV. | 1102 | z. kalten Brunnen. | Weiß-Bienz, Emanuel.\n  Weiß-Bienz, Emanuel, Kübler.\n  Rigassi, Daniel, Glaser.\n13 | IV. | 1092 | z. untern Balchen. | Ritter-Bräuning, Joh. Jak.\n  Ritter-Stahel, Joh. Jak., Metzger.\n  Fröhlicher, Urs. Jos., Sprachlehrer.\n  Meyerhofer-Jauslin, Johann Jacob,\n  Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8368,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2087,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p222",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p222.jpg",
+      "bytes": 1411409,
+      "sha256": "577ef11688a516a5f574404dde730892827118e0f02476d8f51aea4fbadf551c",
+      "sha256_of": "original",
+      "working_copy": "1862_p222.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:02+00:00"
+  }
+}

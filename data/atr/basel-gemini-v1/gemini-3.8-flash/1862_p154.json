@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p154",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p154.jpg",
+    "bytes": 1489554,
+    "sha256": "7e48de7e8278507f0ef8aa4614de9f6d7d703868f871c424f6a2431101f61518",
+    "sha256_of": "original",
+    "working_copy": "1862_p154.jpg"
+  },
+  "text": "Marktplatz. — St. Martins-Gäßlein. 89\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n5 | VI. | 1616 | Zunft zu Weinleut. | Corporationsgut.\n  Maeglin-Strub, Glassinner u. Buchhalt.\n  Levy, Abrah., Manufacturwaarenhdlg.\n6 | VI. | 1617 | zum Engel. | Seiler-Hubel, Carl.\n  Seiler-Hubel, Carl, Kaufmann.\n  Firma Leonh. Seiler, Eisenwaarenhdlg.\n  Massini-Seiler, Rudolf, Kaufmann.\n7 | VI. | 1643 | zur Laute. | Bäumlin-Gsell, Josef.\n  Bäumlin-Gsell, Josef, Victualienhdlg.\n8 | VI. | 1644 | zur Taube. | Brüderlin-Schmid, Wb. Ursula.\n  Brüderlin-Schmid, Wb. Ursula, Rent.\n  Brüderlin-Christmann, Nik. Rud., Kfm.\n  Firma Nikl. Brüderlin, Ellenw.-Hdlg.\n9 | VI. | 1729 | zum Käpplein. | Bäumlin-Gsell, Josef.\n  Wespi-Häfelsinger, Joh. Jak., Zimmstr.\n10 | VI. | 1730 | zur fetten Henne. | Hübscher, Joh. Conrad.\n  Hübscher, Joh. Conrad, Lederhändler.\n  Ott-Went, Joh. Jakob, Drechsler.\n11 | VI. | 1731 | | Scherzmar-Bloch, Anton.\n  Scherzmar-Bloch, Ant., Manufacturwhd.\n  Mähly-Schermar, Jak., Dr. Phil., Lehrer.\n12 | VI. | 1732 | z. ob. Brunnenfels. | Burckhardt-Kündig, Wb. Rosine.\n  Burckhardt, Gustav, Kaufmann.\n  Bureau d. Handwerkerbank.\n13 | VI. | 1733 | z. unt. Brunnenfels. | Burckhardt-Kündig, Wb. Rosina.\n  Burckhardt-Kündig, Wb. Rosina, Mehl-\n  handlg. v. Burckhardt-Kündig sel. Wb.\n14 | VI. | 1734 | zum Runs. | Hübscher, Joh. Conrad.\n  Jordan-Jenny, Wb. Cath., Lingeriehdlg.\n  Hastreuter-Weniger, Magd., Geschirrh.\n  Bindschädler-Zuppinger, Casp., Commis.\n15 | VI. | 1735 | z. kleinen Rinslein. | Schneider-Wirz, Wilhelm.\n  Schneider-Wirz, Wilhelm, Traiteur.\n16 | VI. | 1574 | zur alten School. | Buser-Gerber, Johann.\n  Buser-Gerber, Johann, Wirth.\n  Bucher-Huber, Josef, Schneider.\n17 | VI. | 1734 A | zum Runs gehörend. | Hübscher, Joh. Conrad.\n  Hastreuter-Weniger, Magd., Geschirrhd.\n18 | VI. | 1575 | zum Pfaueneck. | Vogt, J. Gg.\n  Vogt, J. Gg., Kaufmann.\n  Spiegelhalder, Fidel, Commis.\n  Tritschler-Spiegelhalder, Jos., Commis.\n  Spiegelhalder, Eduard, Commis,\n  Firma J. G. Vogt u. Comp., Por-\n  zellan- und Glashandlung.\n\nSt. Martins-Gäßlein.\n\n1 | VI. | 1603 | zum Agtstein. | Paravicini, Leonhard.\n  Siehe Nro. 3 Sporengasse.\n2 | VI. | 1607 | zum Arm. | Riggenbach-Burckhardt, Fritz.\n  Siehe Nro. 9 Sporengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9299,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2288,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:48:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p154",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p154.jpg",
+      "bytes": 1489554,
+      "sha256": "7e48de7e8278507f0ef8aa4614de9f6d7d703868f871c424f6a2431101f61518",
+      "sha256_of": "original",
+      "working_copy": "1862_p154.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:37+00:00"
+  }
+}

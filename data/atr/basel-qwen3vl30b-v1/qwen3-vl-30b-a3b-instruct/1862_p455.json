@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p455",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p455.jpg",
+    "bytes": 1529821,
+    "sha256": "20e13c2274691ef87376ba3d56a4086e304f56abd543f33a781071d4c6065684",
+    "sha256_of": "original",
+    "working_copy": "1862_p455.jpg"
+  },
+  "text": "390\nVerzeichnis der Berufsarten.\nPlattner=Jenny, Mart. St. Leonhards-\nBerg 16.\nPlattner=Martin. Rheingasse 38.\nProffer, Christ. Todtentanz 5.\nSandreuter, Joh. Jat. Schneidergasse 5.\nSchardt, Math. Utengasse 22.\nScherb, Friedr. Webergasse 32.\nSteinmann, Jakob. Freie Straße 14.\nStockmeyer, Em. Gerbergasse 35.\nStraumann, Heinr. Malzgasse 15.\nStuk, Friedr. Gustav. St. Peters-Gasse 10.\nTschopp, Heinr. Gellertstraße 22.\nWertenberg, Ed. Münsterberg 8.\nWild, Jacob. Blumenrain 20.\nSpezereihandlungen.\nAckermann, Joh. Spalenberg 26.\nAllenbach=Rudin, Joach. St. Albanvor-\nstadt 45.\nAuer, Carl Jacob. Utengasse 39.\nBader=Schäfer, Joh. Gerbergasse 42.\nBaumann, Heinr. Gerbergäcklein 28.\nBieder, Elisabeth. Neichenvorstadt 59.\nBleiler, Jacob. Weiße Gasse 21.\nBloh, Rud. Gerbergasse 22.\nBohny, Ambr. Gerbergasse 2.\nBrolly, Martin. Klosterberg 19.\nChrist=Kybur, J. J. Neichenvorstadt 8.\nCramer, Wb. Mar. Sal. sel. Erben. Rhein-\ngasse 1.\nEdenstein, J. St. Elisabethen-Straße 58.\nEisenlohr, Wb. Greifengasse 17.\nErh, Ed. Spalenberg 33.\nGekler, Rud. Steinenvorstadt 1.\nGlaser, Alois. Steinthorstraße 5.\nGöttisheim, Fried. Neichenvorstadt 43.\nGroßmann, Rud. Steinenvorstadt 22.\nGrunauer, Seb. Gerbergäcklein 18.\nGutknecht, Joh. Adam. Schneidergasse 12.\nGyfin, Heinrich. Barfüsserplatz 21.\nHenz, Wb. Margar. Steinenvorstadt 49.\nHörlacher u. Hiltbrand. Eifengasse 9.\nHuschmied, Jac. St. Johann-Vorstadt 65.\nHuth, Philipp. Grenzacher-Straße 105.\nJenny, J. J. Sohn. Blumenrain 21.\nKromer, Wb. Suß. Gerbergasse 79.\nKrug, Casp. Freie Straße 8.\nKruze-Salathe, Friedr. Imbergäcklein 1.\nLichtenhahn, Carl Ben. Steinenthorstraße 8.\nLiebi, Chr. Utengasse 20.\nMadöri, Joh. St. Albanvorstadt 104.\nMäder, Wb. Anna Maria. Kümelinsplatz 3.\nMeyer, Joh. Gerbergäcklein 22.\nMeyer=Miller, Marie. St. Leonhards-\nstraße 20.\nMichaud, Ph. Horburgstraße 31.\nMüller=Schentel. Badergäcklein 12.\nOberriedt, J. G. Grünpfahlgäcklein 1.\nPack=Burckhardt, J. Spalenberg 22.\nPlattner=Oberer, Wb. Anna. Rheingasse 36.\nReindle, Alois. Webergasse 3.\nKepfinger, Gebr. Todtentanz 13.\nRiggenbach, Wb. zum Arm. Sporengasse 9.\nu. St. Clara-Straße 24.\nRimenperger, Carol. Kohlenberg 3.\nSchardt=Breiting, Carl. Spalenvorstadt 42.\nSchaub, Wb. Carol. Jos. Sattelgasse 22.\nSchaub=Miller, Joh. Jac. Gerbergasse 21.\nSchnewlin u. Comp. Greifengasse 38.\nSchönauer, Hier. Blumenrain 3.\nSenn=Weber, Rud. Pfluggäcklein 9.\nSiegfried, Nicol. Münsterberg 1.\nSiegriß, Joh. Hier. Steinenthorstraße 41.\nSommerhalder, Jac. Gerbergasse 47.\nStaenz, Conr. Neichenvorstadt 62.\nStehelin, Gottfr. Spalenvorstadt 43.\nStuder, Joh. Carl. St. Johann-Vorstadt 52.\nStumm u. Comp., F. Stadthausgasse 21.\nThommen=Ebner, Georg. Rebgaß 6.\nThommen=Gab, Jac. Rheingasse 43.\nTrueb, Rud. Greifengasse 9.\nTschopp=Winter, Maria Barbara. Pflug-\ngäcklein 12.\nUrech, David. Webergasse 15.\nBest, J. B. junior. Freie Straße 93.\nBon Brunn=Braun, Wb. Marg. Riehen-\nthorstraße 29.\nWall, Heinrich. Karthausgäcklein 1.\nWalter, Ch. Friedr. St. Alban-Vorstadt 59.\nWeiß, Thomas. Riehenthorstraße 24.\nWeissenberger, Joh. Spalenvorstadt 33.\nWenger, Jacob. Steinenthorstraße 43.\nWenzinger, Johann. St. Peters-Berg 21.\nWick, Martin. St. Andreasplatz 14.\nWinkler, Jacob. St. Johann-Vorstadt 18.\nZeugin, Jac. St. Elisabethen-Straße 34.\nSpiegelhandlungen.\nKiefer, Georg. Freie Straße 23.\nLang, Rud. Freie Straße 43.\nPeter, Ben. Kaufhausgasse 8.\nRath, Joh. Friedr. Freie Straße 52.\nRonus, Chr. Eifengasse 14.\nWildpret, Ferd. Gerbergasse 21.\nSpizen- und Tullehandlungen.\nDäntliker, Wb. Louise. Eifengasse 15.\nHoch u. Lie. Eifengasse 28.\nKündig, Carl. Eifengasse 11.\nOstermann u. Lie. Eifengasse 17.\nRieber, Carl. Eifengasse 32.\nSchultheß-Schneider, Ernst. Freie Straße 54.\nWölflin, Wilh. Rud. Gerbergasse 57.\nSprachlehrer.\nBamattre, Fr. Freie Straße 16.\nBaumgartner, Ferd. Blumenrain 14.\nBhström, Carlos de. St. Alban-Vorstadt 39.\nFröhlicher, Urf. Jos. Sattelgasse 7.\nGuise, Frl. Johanna. Neichenvorstadt 48.\nHergob, Joh. Ludw. St. Peters-Berg 5.\nHoff, Charles. Kronengasse 2.\nJocay-Zundt, Eug. St. Johann-Vorstadt 64.\nMayer, Adolf. Gerbergasse 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10569,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4028,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:24:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p455",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p455.jpg",
+      "bytes": 1529821,
+      "sha256": "20e13c2274691ef87376ba3d56a4086e304f56abd543f33a781071d4c6065684",
+      "sha256_of": "original",
+      "working_copy": "1862_p455.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:24:08+00:00"
+  }
+}

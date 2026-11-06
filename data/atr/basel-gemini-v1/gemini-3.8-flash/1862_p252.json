@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p252",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p252.jpg",
+    "bytes": 1404297,
+    "sha256": "8c5c604bf39954fe8eb37d5ec60edf214d15ecabcab69c5f7da6bd9df9f68dc4",
+    "sha256_of": "original",
+    "working_copy": "1862_p252.jpg"
+  },
+  "text": "Ochsengasse. — Rappoltshof. | 187\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n19 | VII. | 350 | | Faesch-Salathe, Jakob.\n  Kling, Camill, Spengler.\n21 | VII. | 336 | zum Brunnen. | Huber-Berny, Jak. Christof.\n  Huber-Berny, Jak. Christ., Seidenfär-\n  bergehülfe.\n23 | VII. | 348 | z. schwarz. Adler. | Bell-Schaefer, Jakob.\n  Bell-Schaefer, Joh. Jak., Metzger u.\n  Wirth.\n25 | VII. | 347 | Kamradmühle. | Bischoff-Weber, Johann.\n\nRappoltshof.\n1 | VII. | 269 | | Rees-Winkler, Willibald.\n  Rees-Winkler, Willibald, Fabrikarb.\n  Walter-Stadler, Joh., Maler.\n2 | VII. | 253 | | Boerlin-Moesner, Jak.\n  Boerlin-Moesner, Jak., Stuhlschreiner.\n3 | VII. | 254 | Rappoltshof. | Bertrand-Kaiser, J.\n4 | VII. | 253 | | Boerlin-Moesner, Jak.\n5 | VII. | 268 | | Jenzer-Kurz, Jos., sel. Erben.\n  Graeslin-Genter, Joh. Gg., Zimmerm.\n6 | VII. | 255 | | Schetty-Amann, Josef.\n  Schlueb-Scherrer, Joh. Jak., Commis.\n7 | VII. | 267 | | Kray-Loeliger, Wb. Maria.\n  Kray-Loeliger, Wb. Maria, Part.\n  Oppliger, Mar. Magdal., Modiste.\n8 | VII. | 256 | | Schetty-Amann, Josef.\n  Schetty-Ammann, Jos., Seidenfärber.\n9 | VII. | 266 | z. St. Rappoltshof. | Ryhiner u. Söhne.\n  Ryhiner u. Söhne, Floretspinnerei.\n10 | VII. | 257 | | Schetty-Amann, Josef.\n11 | VII. | 265 | z. St. Klaramühle. | Ryhiner u. Söhne.\n  Müry-Bolliger, Joh., Fabrik-Aufseher.\n12 | VII. | 257 a | | Schetty-Amann, Josef.\n  Vogt-Frey, Daniel, Wollwascher.\n13 | VII. | 264 B | | Diehl-Kestenholz, Joh. Jak.\n  Diehl-Kestenholz, Joh. Jak., Schleifer.\n14 | VII. | 258 | | Rühlin-Nauer, Joh. Georg.\n  Rühlin-Nauer, Joh. Georg, Wäscherei.\n15 | VII. | 264 A | | Erny, Pancratius.\n  Erny, Pancratius, Zimmermann.\n16 | VII. | 260 | Gerberei und Kalt- | Braun-Geßler, Andreas.\n  badanstalt. |\n17 | VII. | 263 | | Wenge-Multerer, Joh. Nep.\n  Wenge-Multerer, Joh. Nep., Kohlenhdlg.\n18 | VII. | 261 | | Ryhiner u. Söhne.\n  Ternez, Rudolf, Fabrik-Aufseher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8909,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1952,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p252",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p252.jpg",
+      "bytes": 1404297,
+      "sha256": "8c5c604bf39954fe8eb37d5ec60edf214d15ecabcab69c5f7da6bd9df9f68dc4",
+      "sha256_of": "original",
+      "working_copy": "1862_p252.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:30+00:00"
+  }
+}

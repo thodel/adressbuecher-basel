@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p119",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p119.jpg",
+    "bytes": 1284770,
+    "sha256": "7f01c94ebdfcdbb96084b97f56adbda7bbd0d87a3b7a1466585d2483c96cdef1",
+    "sha256_of": "original",
+    "working_copy": "1862_p119.jpg"
+  },
+  "text": "54 Gerbergaſſe.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauſes. | Namen der Hauſeigenthümer und Bewohner.\n\n56 | VI. | 666 | zur niedern Burg. | Schaub-Eichacker, David.\n  Schaub-Eichacker, David, Ferger.\n  Helg-Ruegg, J. A., Seidenwaarenhdlg.\n57 | IV. | 1161 | zur Ell u. d. 3 Bären. | Wölfflin-Mengis, Joh. Rud.\n  Wölfflin-Mengis, J.R., Polizeiger.-Präſ.\n  Wölfflin, Wilh. Rud., Sohn, Kaufmann.\n  Häfeli, Hermann Carl, Commis.\n58 | VI. | 667 | zur Oberburg. | Wohnlich-Biland, Wb. Sophia.\n  Wohnlich-Biland, Wb. S., Korbhandel.\n  Müller, Joh., Commis.\n59 | IV. | 1160 | zum Steinfels. | Wehrli, Heinrich.\n  Wehrli, Heinrich, Uhrenmacher.\n  Huber-Stäbler, Jacques, Handelsmann.\n  Reiniſch, Franz, Red. d. Basl.-Nachr.\n60 | VI. | 668 | zur langen Leiter. | Krug, Marcus.\n  Krug, Marcus, Buchbinder.\n61 | IV. | 1159 | zum Helfenſtein. | Leithardt-Götz, Heinrich.\n  Falkner-Möſch, Emanuel, Hutmacher.\n62 | VI. | 669 | Igelberg. | Koller-Wei, Wb. Roſina.\n  Koller-Wei, Wb. Roſina, Schuhhdlg.\n63 | IV. | 1158 | zum Neuenſtein. | Ammann-Neidhardt, Achilles.\n  Ammann-Neidhardt, Achilles, Sieb- u. Trommelmacher.\n  Weber-Dettlin, Anna Maria, Coiffeuſe.\n  Haaſe-Knell, Hugo, Commis.\n  Amsler-vonTobel, Rudolf, Corsetfabrkt.\n64 | VI. | 670 | zum grünen Stein. | Löw-Keiſer, Joh. Jakob.\n  Löw-Keiſer, J. J., Eiſenhandlung.\n  Sacher-Kyburz, Joſeph, Poſtcommis.\n65 | IV. | 1157 | zur Scherben. | Klingelfuß-Faber, Wb. Cath. Eliſe.\n  Klingelfuß-Faber, Wb. C. E., Part.\n  Tobler-Klingelfuß, Emilia, Modengeſch.\n66 | VI. | 671 | zum Hörnli. | Ammann-Neidhardt, Achilles.\n  Ammann, Achilles, Sohn, Siebmacher.\n67 | IV. | 1156 | zum Weinsperg. | Boſſardt-Wolleb, Wb. Helena.\n  Boſſardt-Wolleb, Wb. Helena, Part.\n68 | VI. | 672 | z. niedern Hoggen. | Stöcklin-Biſegger, Johs.\n  Stöcklin-Biſegger, J., Handelsmann.\n69 | IV. | 1155 | | Saladin-Kaiſer, Jacob.\n  Saladin-Kaiſer, Jacob, Schuhmacher.\n  Bär, Gottlieb, Photograph.\n70 | VI. | 673 | | Schoop-Zepf, Ulrich.\n  Schoop-Zepf, Ulrich, Schreiner.\n71 | IV. | 1154 | zum Wenkenberg. | Breiter, Joh. Jakob.\n  Breiter, J. J., Particular.\n72 | VI. | 674 | zum Schleiffſtein. | Hodel-Böninger, Amalia.\n  Hodel-Böninger, Amalia, Schneiderin.\n  Schaub, Matthias Joh., Schuhmacher.\n  Debret-Müller, Adolf, Coiffeur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10425,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2255,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p119",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p119.jpg",
+      "bytes": 1284770,
+      "sha256": "7f01c94ebdfcdbb96084b97f56adbda7bbd0d87a3b7a1466585d2483c96cdef1",
+      "sha256_of": "original",
+      "working_copy": "1862_p119.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:01+00:00"
+  }
+}

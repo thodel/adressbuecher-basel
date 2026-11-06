@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p407",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p407.jpg",
+    "bytes": 1428515,
+    "sha256": "785d77caf5b7a6f1aa77c977690ebf820b6f8a9e83a6f08eefb71e6487f62900",
+    "sha256_of": "original",
+    "working_copy": "1862_p407.jpg"
+  },
+  "text": "342\nVerzeichniß der Bürger und Einwohner.\nSchweizer=Boegeli, Susanna, Part. Aeschen= Sengelin, Henri, Commis. Aeschenvor-\nvorstadt 33. stadt 53.\n— Wittwe Cath. Susanna, Schneiderin. Senglet=Weiß, Marc. François, Commis.\nAeschenvorstadt 12. Freie Straße 28.\nSchwendemann=Schäuble, Jos., Zimmergeselle. Senn=Allemann, Jakob, Kunstmaler. Schna-\nRheingasse 59. belgäcklein 17.\nSchwenk=Musculus, Mb. Caroline Josephine, — Emanuel, Pojamenter. Gemsberg 1.\nHufschmiede. St. Alban=Vorstadt 86. — =Geist, Fried. Stadthausgasse 19.\nSchweri=Binder, Joseph, Unternehmer von — Gustav, Part. Stadthausgasse 19.\nErdarbeiten. Reb-gasse 40. — =Gyfin, D., Major und Kriegskommissär,\nSchwömmli=Siller, Fh., Schneider. Ger- Unternchmer des Packträger-Instituts.\nberggasse 29. Nonnenweg 51.\nSchwoer=Abry, Jean, Chorist. Schneider- — =Jenni, Friedrich, Schreiner. St. Peters-\ngasse 5. Gasse 9.\nSchwörer=Baumann, Georg, Gärtner. Aly- — =Jsenegger, J. J., Gastwirth. Blumen-\nbeckstraße 119. rain 8.\n— =Weber, Ludw., Metzger. Sattelgasse 11. — =Ketterer, Karl. Freie Straße 96.\nSeeber=Steinegger, Carl, Schneider u. Wirth. — =Nieder, Julius, Fabrikarbeiter. Hut-\nRheingasse 51. gasse 17.\nSegiser=Aesbach, Johann Fh., Zuckerbäcker. — Sufette, Wäscherin. Webergasse 31.\nNadelberg 31. — =Thommen, Ch., Holzhändler. Mittlere\n— =Bertsche, Cl. Fh., Kaufhausarbeiter. Straße 19.\nHägenheimer=Straße 6. — =Böllmy, Johann, Schneider. St. Leon-\nSehringer=Bonnet, J. G., Handelsmann. Spo- hards=Berg 10.\nrengasse 4. — =Weber, R., Spezierer. Pfluggäcklein 9.\nSeid=Belzung, Wittwe Maria. Greifen- — Wilhelm, Commis. Stadthausgasse 20.\ngasse 22. — =Zwicky, Heinrich, Flachmaler. Aeschen-\nSeidel=Biedert, Wilhelm, Fabrikarbeiter. vorstadt 37.\nSteinenvorstadt 65. Sept=Heitzelmann, J. J., Schneider und\n— =Füürstenberger, Fh., Part. Schoren- Trödler. St. Leonhards=Berg 3.\nweg 12. — =Treu, Carl, Taglöhner. Reb-gasse 13.\nSeidentrockungs=Anstalt in Zürich, Filial- — =Walter, Jakob, Tapezierer. Klingel-\nbureau. Rittergasse 29. bergstraße 30.\nSeifert=Abt, Fh., Maler. Kümelinsplatz 1. Serafini von Gent, Nicolo, Handelsmann\n— =Gyfin, Benjamin, Maler. Steinen- und Alabaster-Händler. St. Clara-\nthorstraße 11. Straße 25.\n— =Jenni, Anton, Kostgeber. Aeschenvor- Sefter, Wilhelm, Zahnarzt. Freie Straße 66.\nstadt 31. Settelen=Settelen, Franz Anton, Schneider.\n— =Thommen, Jakob, Metzger und Speise- Freie Straße 13.\nwirth. Barfüsserplatz 6. Seul=Guggenmos, J. C., Lithograph. Gems-\nSeiler=Dettwyler, N., Metzger. Rheingasse 3. berg 8.\n— =Dettwyler, Wittwe Serena, Part. — =Rousseau, Johann Franz, Schriftsetzer.\nStadthausgasse 23. Freie Straße 94.\n— =Giirtler, Emil, Kaufmann. Aeschen- Severin=Glunz, J. J., Magazinier. Kano-\nvorstadt 32. nengasse 7.\n— =Hubel, Carl, Firma Leonhard Seiler, — Samuel Fürchtgott, Brieftträger. Kano-\nEllenwaarenhandlung. Marktplatz 6. nengasse 7.\n— =Kauft, Wittwe Sibille, Part. Aly- Sevin=Hamberger, Wilhelm, Kaufmann. St.\nbeckstraße 45. Alban=Vorstadt 102.\n— =Wagner, Rudolf, Seidenfärbergeselle. Serauer, Adolph, Kaufmann. Schneider-\nRümelinsplatz 13. gasse 27.\n— =Wernli, Caspar, Part. Spalenberg 7. Seyfer=Seiler, Johann, Gastwirth. Rhein-\nSeitter=Schneider, Emanuel, Metzger. Spa- gasse 25.\nlenberg 39. Siber=Heusler, Friedrich, Kaufmann. St.\nSelingcr, Hyacinth, Commis. Spalenberg 40. Alban=Vorstadt 76.\nSelzer=Kölner, Georg, Buchbinder geselle. St. — =Lok, Joh. Caspar, Particular. Reb-\nPeterskirchplatz 10. gasse 21.\nSenft=Reichel, August Wilh., Vorsteher der — =Schmalzer, Rud., Goldarbeiter. Greifen-\nBrüdersocietät. Streitgasse 18. gasse 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9102,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3538,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:16:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p407",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p407.jpg",
+      "bytes": 1428515,
+      "sha256": "785d77caf5b7a6f1aa77c977690ebf820b6f8a9e83a6f08eefb71e6487f62900",
+      "sha256_of": "original",
+      "working_copy": "1862_p407.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:16:15+00:00"
+  }
+}

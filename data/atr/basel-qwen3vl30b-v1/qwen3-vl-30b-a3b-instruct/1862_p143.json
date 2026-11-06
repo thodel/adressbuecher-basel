@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p143",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p143.jpg",
+    "bytes": 1270640,
+    "sha256": "1f7e50be5fc2b41011039e730fdb68d4a1a7f4a33394e32ff9b8d694b0a4df2a",
+    "sha256_of": "original",
+    "working_copy": "1862_p143.jpg"
+  },
+  "text": "78\nKohlenberg. — Kohlenberggasse.\nNre.\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n5\tIII.\t758\tzum obern blauen\nHammer.\nStöffel, Theobald, fel. Erben.\nStöffel-Wiedmer, Wb. Maria, Wirthin.\nAlbert, Georg, Musiker.\nKoch, Emil, Musiker.\n6\tIII.\t744 B\t...............\tSaffi-Börlin, Daniel.\nSaffi-Börlin, Daniel, Notariatsgehilfe\nu. Schreiblehrer.\n7\tIII.\t757\tKohlenberg.\tStähelin, Gebrüder.\n8\tIII.\t744 A\t...............\tGaugler-Seid, Victor.\nGaugler-Seid, Victor, Waarencourtier.\nBohny, Ambrosius.\n9\tIII.\t755 A\tSenfsmühle.\tLindenmeyer-Müller, Friedrich.\n10\tIII.\t745\t...............\tStallung und Heubühne.\nRiggenbach, M. J., fel. Erben.\nRiggenbach=Jjelin, Albert, Kaufmann.\n11\tIII.\t755 a\t...............\tSchnell-Riggenbach, Johannes.\nSchnell-Riggenbach, Civilgerichts-Prä-\nsident u. Professor des Rechts.\n13\tIII.\t755\t...............\tWeingartner, Joseph.\nWeingartner, Joseph, Centralbahnan ge-\nstellter.\n15\tIII.\t754 F\t...............\tMieg, Joh. Jakob.\nMieg, Joh. Jakob, Professor, Med. u.\nChir. Dr.\nMieg, August, Commis.\n17\tIII.\t751\t...............\tLichtenhahn-Hagenbach, Joh. Rud.\nLichtenhahn-Hagenbach, Joh. Rudolf.\nFirma Lichtenhahn u. Burckhardt.\n19\tIII.\t751 A\tLindenhof.\tLangmesser-Paravicini, David.\nLangmesser-Paravicini, Dav., Weinhdlg.\n23\tIII.\t750 A\t...............\tMeyer-Breiter, Eduard.\nMeyer-Breiter, Ed., Bandfabrikant.\n25\tIII.\t750 B\t...............\tHeitz-Dewette, August.\nHeitz-Dewette, Aug., J. U. D., Notar.\nChegerichts- u. Waifengerichtschrbr.\n27\tIII.\t750 C\t...............\tHoll, Dietrich, Kaufmann.\nFleiner-Faesch, Wilhelm.\nFleiner-Faesch, Wilhelm, Kaufmann.\nFleiner, Eduard, Kaufmann.\n29\tIII.\t750 D\t...............\t\nKohlenberggasse.\n2\tIII.\t752\tMädchenschule von\nSt. Leonhardt.\nStadtgemeinde.\nBeck-Giejecke, Christian, Lehrer.\n4\tIII.\t752 A\t...............\tPlattner, Jakob, und Eduard\nBruckner.\n6\tIII.\t752 B\t...............\tPlattner, Jakob, und Eduard\nBruckner.\n7\tIII.\t768 b\t...............\tHosch-Breitenstein, Eduard.\nSiehe Nr. 12 Steinenbachgässlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6458,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2008,
+    "lines": 64,
+    "longest_char_run": 15,
+    "repeat_ratio": 0.0156,
+    "mean_line_chars": 30.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0075,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:39:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p143",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p143.jpg",
+      "bytes": 1270640,
+      "sha256": "1f7e50be5fc2b41011039e730fdb68d4a1a7f4a33394e32ff9b8d694b0a4df2a",
+      "sha256_of": "original",
+      "working_copy": "1862_p143.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:09+00:00"
+  }
+}

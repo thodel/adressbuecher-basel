@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p249",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p249.jpg",
+    "bytes": 1297851,
+    "sha256": "7ed1ffa6d4a561d8a057fa08414a1c72573f500f96a1798e6a6f8a6dea6a613f",
+    "sha256_of": "original",
+    "working_copy": "1862_p249.jpg"
+  },
+  "text": "184  Klybeckstraße. — Lindenberg.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n75 | VII. | 49 | | Bricar, Sam., sel. Erben.\n  Ostermann-Schneider, Joh., Kaufmann.\n  Schneider, Charlotte, Lehrerin.\n77 | VII. | 50 | | VonderMühll-Ryhiner, Johannes.\n  Sütterlin-Kiefer, Conrad, Lehenbeständer.\n81 | VII. | 51 | | Heußler-Thurneysen, Leonhard.\n83 | VII. | 51 b | | Heußler-Thurneysen, Leonhard.\n89 | VII. | 55 | | Zwilchenbart-Thompson, Rud.\n  Haefelin-Weber, Urs Josef, Lehenbest.\n101 | VII. | 57 | | Dreyfus, Isaak, Söhne.\n  Thalmann-Erlacher, Johs., Lehenbest.\n106 | VII. | 59 d | | Miville-Socin, Wb. Margaretha.\n107 | VII. | 60 | z. alt. Rheinburg. | Abt, Georg u. Carl.\n  Abt, Georg, Part.\n108 | VII. | 59 | | Miville-Socin, Wb. Margaretha.\n  Haefelin-Ammann, Urs, Lehenbeständer.\n109 | VII. | 59 e | | Miville-Socin, Wb. Margaretha.\n  Klausfelder = Lörtscher, Burksh., Marmorist.\n111 | VII. | 58 A | z. Klibeckschlößli. | Abt, Georg u. Carl.\n  Cadet-Abt, Romain, Part.\n  Weber-Bischoff, Friedr., Kupferstecher.\n113 | VII. | 58 | ehemal. Pfarrwohnung. | Heimlicher-Senn, Joh.. Jac.\n  Heimlicher-Senn, Joh. Jac., J. U. D., Statthalter des Landbezirks.\n119 | VII. | 58 B | | Abt, Georg u. Carl.\n  Schwoerer-Baumann, Gg., Lehenmann u. Gärtner.\n  Groß-Herzog, Rud., Gärtner.\n\nLindenberg.\n\n1 | VIII. | 97 | | Martin-Bulacher, Joh. Friedr.\n  Martin-Bulacher, Joh. Friedr., Fabrikarbeiter.\n  Hildebrandt-Ziegler, Herm., Commis.\n2 | VIII. | 90 | | Giezendanner-Thommen, Christof.\n  Giezendanner-Thommen, Christof, Fabrikarbeiter.\n3 | VIII. | 98 | | Wetzel-Wiedmer, Jak. Friedr.\n  Wetzel-Wiedmer, Jak. Friedr., Piqueur.\n  Breitenstein, Friedrich, Commis.\n4 | VIII. | 91 | | Stoecklin-Haberthür, Urs.\n  Stoecklin-Haberthür, Urs, Maurer.\n5 | VIII. | 99 | zur Linde. | Glättli-Mohler, Johannes.\n  Glättli-Mohler, Johs., Seidenfärberges.\n6 | VIII. | 92 | zum Backofen. | Landerer, Geschwister.\n  Landerer, Daniel Rud., Rheinarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10259,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1984,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p249",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p249.jpg",
+      "bytes": 1297851,
+      "sha256": "7ed1ffa6d4a561d8a057fa08414a1c72573f500f96a1798e6a6f8a6dea6a613f",
+      "sha256_of": "original",
+      "working_copy": "1862_p249.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:03+00:00"
+  }
+}

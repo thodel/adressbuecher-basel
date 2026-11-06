@@ -1,0 +1,54 @@
+60 | Heuberg.
+
+Neue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+6 | II. | 445 | Paradies. | Stähelin, Jgfr. Sal. sel. Erben
+  Heintz-Huber, Eduard, Commis.
+7 | II. | 441 | Spießhof. | Gesellsch. d. schweiz. Centralbahn.
+  Steinmann-Kammermann, Jak., Abwart.
+8 | II. | 444 |  | Salathé-Boßhardt, Joh.
+  Salathé-Boßhardt, Joh., Kaufmann.
+10 | II. | 443 | z. hintern Schaub. | Liebrich-Müller, J. Conrad.
+  Liebrich-Müller, J. C., Civilg.-Weibel.
+  Wagner-Liebrich, Joh., Org. u. Musikl.
+  Frutiger-Hoffmann, F., Handl.Commis.
+12 | II. | 442 | Arau. | Huber-Schnell, Mar. Sal., Pfr. Wb.
+  Huber-Schnell, M. S., Pfr. Wb., Part.
+13 | VI. | 422 | zum Kellerladen. | Frey-Schmid, Marg., Wb.
+  Frey-Schmid, Marg., Wittwe.
+  Jöpgen-Hohler, Wilh., Maler.
+14 | II. | 441 A. | zum Seidenhut. | Levy-Dulmont, Marcus.
+  Levy-Dulmont, M., J. U. L., Advok.
+  Himmeli-Meyer, Jacob, Commis.
+  Bertschmann, Johannes, Rentier.
+  Mann-Bertschmann, Christina, Part.
+15 | VI. | 423 | zum Sternenberg. | Schweickhardt-Dunkel, Em. Jac.
+  Schweickhardt-Dunkel, Em. Jac. Schuh-
+  macher.
+16 | II. | 440 |  | Burckhardt-Imhof, Wb. Sus.
+  Burckhardt-Imhof, Sus., Rentjere.
+  Burckhardt, Emanuel, Kaufmann.
+  Staehelin-Burckhardt, Sam., Kaufm.
+17 | VI. | 424 | zum Lorbeerkranz. | Goßwyler-Stoll, Conrad.
+  Goßwyler-Stoll, Conrad, Eselhalter.
+  Salathe-Müller, Rud. Wirth, Postfact.
+18 | II. | 439 | zum Engelberg. | Bernoulli-Werthemann, Joh. Jac.
+  Bernoulli-Werthemann, Joh. Jacob,
+  Phil. Dr. Alt-Apotheker.
+19 | VI. | 425 | zum Tröttlin. | Säuberlin-Hägelin, Wb. Sus. Barb.
+  Säuberlin-Hägelin, Wb. Sus. Bb., Part.
+  Säuberlin-Klausfelder, Hier., Brieftr.
+20 | II. | 438 | zum Helfenberg. | Stricker-Meyer, Lud. David.
+  Stricker-Meyer, L. D., Pintenwirth.
+  Hubsch, Georg Herm., Commis.
+  Thoma, Moritz, Commis.
+21 | VI. | 426 | Benken. | Biedert-Müller, Johannes.
+  Biedert-Müller, Johannes.
+22 | II. | 437 | zum Waldshut. | Bischoff-Keller, Andreas.
+  Bischoff-Keller, Andr., Kaufmann.
+23 | VI. | 427 |  | Lapp-Wollschlegel, Christian Friedr.
+  Lapp-Wollschlegel, Schlosser u. Mechanik.
+  Hurt-Heer, Conrad, Zimmermeister.
+24 | II. | 436 | zum Mörsberg. | Burckhardt-Preiswerk, Emanuel.
+  Burckhardt-Preiswerk, Em., Pfarrer.
+25 | VI. | 428 |  | Wassermann-Krebs, Rud.
+  Wassermann-Krebs, Rud., Kaminfeger.

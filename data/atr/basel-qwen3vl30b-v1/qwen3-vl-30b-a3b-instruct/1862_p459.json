@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p459",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p459.jpg",
+    "bytes": 1348051,
+    "sha256": "3aebe375f696aa53c0dce9959340bf162442fe75c79f2a0595ff48acace65f99",
+    "sha256_of": "original",
+    "working_copy": "1862_p459.jpg"
+  },
+  "text": "394\nVerzeichniß der Berufsarten.\nLeupin, Emilie. Rheingasse 70.\nLiithy = Stolz, Frau. Nechenvorstadt 26.\nMüller = Buchmann, Wb. Louise. Steinen-\nvorstadt 47.\nZahnarzt.\nPutnam, Carl. Schützengraben 43.\nRittmann, Peter. St. Peters-Gasse 26.\nSchief, Heinrich. Wallstraße 24.\nSefter, Wilhelm. Freie Straße 66.\nSiegmund Carl. Heuberg 4.\nSievers, Carl Aug. St. Peters-Platz 4.\nStohler, J. J. Untere Rheingasse 13.\nZeichnungslehrer.\nGeelhar, Heinr. Schützengasse 17.\nKelterborn = Märklin, L. A. Steinenberg 4.\nRosenfeld, Jos. Byfangweg 32.\nSchmidt = Montandon, Og. Michael. Blumen-\nrain 14.\nTeichmann, Carl. Steinenvorstadt 35.\nZiegler.\nEngler, Heinrich. Bachlettenstraße 15.\nHartmann, Heinrich. Holeeweg 15\nHegner, Steffan. St. Jakobs-Straße 3.\nHolzach, Friedr. Gellertstraße 14.\nJung, J. Grenzacher-Straße 100.\nSchaub, Jakob. Binninger-Straße 3.\nWölflin, J. G. Heumattstraße 14.\nZimmermeister.\nBlind, Georg. Hintere Bahnhofstraße 90.\nDiezi, Gebhard. St. Clara-Straße 22.\nEdlin = Holzach, Theodor. Missions-Straße 39.\nFrey, Joseph. Grenzacher-Straße 39.\nGasquet, Friedrich W. Sternengäßlein 33.\nGaf, Christian. Mittlere Straße 63.\nGötte, J. Spalenvorstadt 39.\nGundrum, Michael. Unterer Rheinweg 25.\nHaufer, Fridolin. Mostackerstraße 18.\nHübscher, Wilh. St. Johann-Vorstadt 88.\nKupferschmied = Häfelfinger, Wb. Unterer\nHeuberg 9.\nLinder = Seul, Wb. St. Clara-Straße 37.\nLoz, Friedrich. Rebgaße 32.\nMangold, Samuel. Steinenbachgäßlein 26.\nOtto, Johs. Nicl. Münsterberg 6.\nParavicini = Merian, Ludwig. Steinenthor-\nstraße 22.\n— = Meyer, Ludw. Steinenthorstraße 22.\nPlattner = Hofsch, Joh. St. Leonh.-Straße 24.\nRitter, Joh. Bapt. Hintere Bahnhofstr. 40.\nSchäffer, J. J. Aug. Utengasse 35.\nStehlin = Burchardt, Joh. Jac. Malzgasse 27.\nTefter, Josua. Kiechenthorstraße 31.\nWittlin, Georg. St. Elisabethen-Str. 32.\nZinngießer.\nSchnegg, J. J. Freie Straße 57.\nZuckerbäcker.\nBriiderlin, Ambrosius. Schneidergasse 4.\nBuchmann, Peter. Spalenberg 35.\nBurchardt, A. Freie Straße 26.\nCruffaire, Ludwig. Barflikerplatz 1.\nCruffaire, Victor. Schneidergasse 27.\nDoswald, C. Josef. Freie Straße 94.\nErzberger = Krayer, Wb. Freie Straße 33.\nGrether, Friedrich. Greifengasse 39.\nGysler, Adolf. Nechenvorstadt 53.\nHörler, J. J. Greifengasse 13.\nLuz, Eduard. St. Elisabethen-Straße 60.\nMeyer, Christof. Streitgasse 7.\nRochet, R. Schiffände 10.\nSegiser, Joh. Friedr. Nadelberg 31.\nSoultzener, Alexander. Eifengasse 3.\nTischhauser, Simon. Gerbergasse 34.\nBalair, Johs. Rud. Spalenberg 52.\nWirz, J. K. H. Freie Straße 10.\nWitzig, Georg. Spalenthormweg 4.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7063,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2524,
+    "lines": 77,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:24:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p459",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p459.jpg",
+      "bytes": 1348051,
+      "sha256": "3aebe375f696aa53c0dce9959340bf162442fe75c79f2a0595ff48acace65f99",
+      "sha256_of": "original",
+      "working_copy": "1862_p459.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:24:46+00:00"
+  }
+}

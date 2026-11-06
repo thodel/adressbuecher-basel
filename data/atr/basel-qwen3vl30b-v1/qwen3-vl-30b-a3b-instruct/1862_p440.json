@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p440",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p440.jpg",
+    "bytes": 1670463,
+    "sha256": "4df39ca679eb167623215023529295c739d5b1df331231ebda37e20528f82b28",
+    "sha256_of": "original",
+    "working_copy": "1862_p440.jpg"
+  },
+  "text": "Verzeichniß der Berufsarten.\n375\nHoldeneder=Meyer, Franz Joh. Heuberg 38. | Reber=Loz, Joh. Nauenstraße 13.\nKäfer=Müller, Joh. Gerbergäcklein 4. | Saladé=Rothenberger, Anton. Riehenthor-\nKaus=Brodbec, Martin. Nejchenvorstadt 61. | straße 7.\nLinder=Uebelin, S. J. Sternengäcklein 23. | Schäublin=Tsjudin, Jakob. Steinenvor-\nMartin, Gebrüder. Brunngäcklein 4. | stadt 61.\nKeeracher=Meyer, Mathias. Spalenberg 31. | Senn=Thommen, Chr. Mittlere Straße 19.\nRifer, Caspar. Gerbergasse 1. | Studer=Holinger, Nikl. Gerbergäcklein 2.\nSchumacher, Philipp Jak. Spitalstraße 7. | Stiiky=Hefti, Heinr. Nauenstraße 2.\nWezel, Joh. Konrad. Weiße Gasse 8. | \n| Holzwaarenhandlungen.\n| Siegrift, Abraham. Sattelgasse 11.\n| Wohlnich=Byland, Mb. Sophie. Gerber-\n| gasse 58.\n| Homöopathische Ärzte.\n| Bruckner, Dr. Th. Steinenvorstadt 67.\n| Siegrift, Dr. Albert St. Clara-Straße 5.\n| Hopfenhändler.\n| Edenstein, Eduard. Steinenthorstraße 16.\n| Meyenroß, Friedr. Riehenthorstraße 28.\n| Hutmacher.\n| Falkner=Miösch, Th. Eman. Gerbergasse 61.\n| Gauthier, Louis. Gerbergäcklein 21.\n| Geßler=Rosenmund. Fritz. Hutgasse 19.\n| Haas=Honold, Carl. Eifengasse 6.\n| Krug=Bader, Wilh. Eifengasse 36.\n| Leithardt=Hardy, Heinrich. Greifengasse 7.\n| Nicolai-Hindermann, Dl. Hutgasse 24.\n| Wyler=Thomas, Felix. Freie Straße 35.\n| Ingenieure.\n| Calame, Louis, provis. Bauinspektor. Eifen-\n| gasse 4.\n| Coulere=Duvernoy, Carl. St. Johann-Vor-\n| stadt 15.\n| Dollfuß=LeBret, Caspar. Rebgasse 1.\n| Gruner, Carl. St. Johann-Vorstadt 48.\n| Koller=Burchhardt, Gottl. Nejchenvorstadt 13.\n| Merian=Burchhardt, Rud. Rittergasse 20.\n| — Johs. Hafenberg 5.\n| Reber, Paul. Kanonengasse 19.\n| Rothpleß=Kychner, August. Nauenstraße 2.\n| Schaffner, Friedr. Kirchgasse 8.\n| Schmidt, Georg Michael. Blumenrain 14.\n| Stänz, Johs. Centralbahnpalz 6.\n| Sydler, Johs. St. Leonhards-Straße 28.\n| Instrumente, optische und mathem.\n| Zberg, Gottlieb. Freie Straße 60.\n| Kunz, Friedr. Freie Straße 17.\n| Linder, Gottl. Schnabelgäcklein 17.\n| Instrumentenmacher, chirurg.\n| Walter=Keller, Carl. Freie Straße 73.\n| Käsehandlungen.\n| Altenpach=Rudin, Joachim. St. Alban-Vor-\n| stadt 45.\n| Großmann=Byland, Carl. Steinenvorstadt 39.\n| Jenny, S. J., Sohn. Ochfengasse 3.\n| Imbach=Bitterlin, Leonz. Stadthausgasse 16.\n| Meyer=Linder, Philipp. St. Leonhards-\n| Graben 12.\n| Pac=Burchhardt, J. Spalenberg 22.\n| \n| Handfchuhmacher.\n| Schaub, S. J. Freie Straße 75.\n| \n| Handfchuhwaferinnen.\n| Frey, Mb. Kohlenberg 15.\n| Goldemann=Ketterer, Frau. Streitgasse 14.\n| Hänches=Strub, Frau. Mümelinsplaz 3.\n| \n| Hebammen.\n| Baur=Gyfin, Serena. Gemsberg 5.\n| Christen=Mangold, Wittwe Maria. Weiße\n| Gasse 18.\n| Dubois, Cath. St. Peters-Berg 7.\n| Elsner=Voigt, Chrisch. Friederike. Steinen-\n| vorstadt 23.\n| Falkner=Hibjcher, Wittwe Helena. Spalen-\n| vorstadt 8.\n| Flubacher, Magdalena. Steinenvorstadt 23.\n| Gyfin=Müller, M. Magdal. Barfiißerplaz 17.\n| Hindenlang=Suiger, Cath. Rheingasse 54.\n| Hug, Cath. Gerbergasse 25.\n| Kleinwitz=Schmidt, Wwe. Margaretha. Gerber-\n| gasse 19.\n| Lienhard=Hänger. Gerbergasse 10.\n| Taschner=Bertolf, Elisabetha. St. Clara-\n| Straße 9.\n| \n| Heuhändler.\n| Schäfer=Salathé, Jaaß. Steinenvorstadt 18.\n| \n| Huppenbäckerin.\n| Griebler, Elisabetha. Klosterberg 4.\n| \n| Holzhändler.\n| Abt=Tschopp, Jakob. Steinenvorstadt 47.\n| Altermatt=Hafenbüler, Georg. St. Peters-\n| Berg 22.\n| Balmer, Kaver. Utengasse 22.\n| Bohny, S. J. Unterer Rheinweg 32.\n| Briigger, Leonh. St. Clara-Straße 14.\n| Brunner, Christian. Unterer Heuberg 5.\n| Eberle, Benedikt. Klingenthalstraße 43.\n| Gerber=Brechbühl, Christian. Gerbergasse 28.\n| Gerspach, Felix. Oberer Rheinweg 91.\n| Glasler=Ritter, Friedr. Rheingasse 80.\n| Grob, Rudolf. St. Johann-Vorstadt 55.\n| Gschwend=Ebner, Joh. Gg. Wallstraße 5.\n| Huggentobler, Ulrich. Schützenmattstraße 4.\n| Hunziker=Hartmann, Jak. Spalenvorstadt 19.\n| Lautenschleger, Jac. Riehenteichweg 18.\n| Leuthardt=Kümbelin, Eduard. Roßhofgasse 7.\n| Loz, Carl. Kirchegäcklein 5.\n| Madöry=Reber, Wilh. Nauenstraße 1.\n| — =Riedinger, Friedr. Ochfengasse 5.\n| Dechslin=Riedtmann, Conrad. Rheingasse 86.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10613,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4053,
+    "lines": 117,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0427,
+    "mean_line_chars": 33.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:21:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p440",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p440.jpg",
+      "bytes": 1670463,
+      "sha256": "4df39ca679eb167623215023529295c739d5b1df331231ebda37e20528f82b28",
+      "sha256_of": "original",
+      "working_copy": "1862_p440.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:21:29+00:00"
+  }
+}

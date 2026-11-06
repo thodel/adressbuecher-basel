@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p255",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p255.jpg",
+    "bytes": 1254492,
+    "sha256": "b360acfd56d6b5e1c2f72bf1cb417f40552d29f36a537c61b08c3ffb67ec8e5e",
+    "sha256_of": "original",
+    "working_copy": "1862_p255.jpg"
+  },
+  "text": "190 Rebgasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n30 | VIII. | 176 | zum Paradies. | Staat.\n  Bischoff-Boehler, Joh. Jac., Pfarrer.\n31 | VIII. | 167 | | Geßler-Dannacher, Joh. Rudolf, sel. Erben.\n  Geßler-Dannacher, Wb. Brig., Gypser.\n  Geßler, Carl, Gypser.\n  Geßler, Eucharius Em., Bäcker.\n  Leuener-Jentsch, Christ., Schuhmacher.\n32 | VIII. | 175 d | zum Steinhof. | Lotz-Eglin, Friedrich.\n  Lotz-Eglin, Friedr., Zimmermeister.\n33 | VIII. | 163 | | Bohny-Glock, Samuel.\n  Tanner, Jac., Schreiner.\n  Ringele-Reig, Augustin, Kartoffel- u. Obsthändler.\n34 | VIII. | 175 | zum Steinhof. | Lotz-Eglin, Friedrich.\n35 | VIII. | 162 | | Bohny-Glock, Samuel.\n36 | VIII. | 166 | | Martin-Weiß, Joh. Jac.\n  Martin-Weiß, Joh. Jac., Weinsticher.\n  Martin-Krebs, Heinr., Maler.\n  Steffen-Burckhalter, Conrad, Commis.\n37 | VIII. | 161 | | Landerer-Feil, Carl Ludwig.\n  Landerer-Feil, Carl Lud., Fabrikschreiner.\n38 | VIII. | 165 | Pfarrhaus. | Staat.\n  Barth-Lotz, Franz Albert, Pfarrer.\n39 | VIII. | 157 | | Münch-Gengenbach, Wilh.\n  Münch-Gengenbach, Wilh., Med. et Chir. Dr., Arzt.\n40 | VIII. | 164 | | Aenishaenslin-Gränacher, Carl.\n  Aenishaenslin-Gränacher, Carl, Mecha- niker.\n  Müller-Scheer, Rud., Schreiner.\n  Füllemann-Madörin, Abrah., Schuh- macher.\n  Schweri-Binder, Jos., Unternehmer von Erdarbeiten.\n41 | VIII. | 156 | | Enzler-Märkt, Wb. Victoria.\n  Enzler-Märkt, Wb. Vict., Detaillantin.\n42 | VIII. | 160 | | Hug-Hoffmann, Daniel, sel. Erben.\n  Hug-Hoffmann, Wb. Barb., Nätherin.\n43 | VIII. | 155 | | Speiser-Schaffner, Wb. Barbara u. Fosseler, Maria.\n  Speiser-Schaffner, Wb. Barb., Seiden- winderin.\n44 | VIII. | 159 | | Bolliger, Samuel u. Christof.\n  Bolliger-ImHof, Samuel, Taglöhner.\n  Bolliger, Christof, Sohn, Schuhmacher.\n  Müller, Ludw. Wilh., Schlosser.\n45 | VIII. | 151 | | Maeglin-Weiß, Elisabeth.\n  Maeglin-Weiß, Isaac, Decorationsmal. und Photograph.\n  Moser-Haas, Jacob, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9640,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1975,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p255",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p255.jpg",
+      "bytes": 1254492,
+      "sha256": "b360acfd56d6b5e1c2f72bf1cb417f40552d29f36a537c61b08c3ffb67ec8e5e",
+      "sha256_of": "original",
+      "working_copy": "1862_p255.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:57+00:00"
+  }
+}

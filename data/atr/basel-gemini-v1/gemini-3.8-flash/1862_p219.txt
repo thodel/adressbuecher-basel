@@ -1,0 +1,48 @@
+154 Steinenvorstadt.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+39 | III. | 810 |  | Großmann-Byland, Conrad.
+  Großmann-Byland, Conrad, Käsehändl.
+  Fäsch, Maria Salomea, Rentiere.
+40 | III. | 785 |  | Binkert-Studer, Aloys.
+  Binkert-Studer, Aloys, Kutscher.
+41 | III. | 809 | z. schwarzen Adler. | Schenkel-Stöcklin, Samuel.
+42 | III. | 786 | z. rothen Oechslein. | Garnjobst-Haga, Joh. Ulrich.
+  Garnjobst-Haga, Joh. Ulrich, Briefträg.
+43 | III. | 808 |  | Schenkel-Stöcklin, Samuel.
+  Schenkel-Stöcklin, Samuel, Beamter am Niederlagshaus.
+44 | III. | 787 |  | Geyger, Rudolf.
+  Geyger, Rudolf, Schlosser.
+45 | III. | 807 | auf d. Steinenbruck. | Plattner-Mory, Wb. Elisabeth.
+  Plattner-Mory, Wb. Elisabeth, Part.
+46 | III. | 788 |  | Lehr-Speck, Joh. Jacob.
+  Lehr-Speck, Joh. Jacob, Schlosser.
+47 | III. | 806 | z. hintern Seidenhof. | Hof-Sarasin, Johannes.
+  Hof-Sarasin, Johannes, Weinhändler.
+  Abt-Tschopp, Jacob, Holzhändler.
+  Vogt-Falkner, Louis, Commis.
+48 | III. | 789 |  | Grimm-Schuler, Eduard.
+  Grimm-Schuler, Eduard, Parquetier.
+  Röstlin-Krebser, Jacob Rudolf, Commis.
+49 | III. | 805 |  | Henz-Bürgin, Wb. Margaretha.
+  Henz-Bürgin, Wb. Margaretha, Spezier.
+  Schöck, Susanna, Particular.
+50 | III. | 790 |  | Gaßler-Weber, Joseph.
+  Gaßler-Weber, Joseph, Schreiner.
+  Bolz-Manz, Joh. Jacob, Schmied.
+51 | III. | 804 | z. vord. Seidenhof. | Gysin-Vögtlin, Friedrich.
+  Gysin-Vögtlin, Friedrich, Bäcker.
+  Fricker-Giedemann, Emanuel, Musiker.
+52 | III. | 790 A |  | Brodmann-Lang, Peter.
+  Brodmann-Lang, Peter, Zimmerparlier.
+  Springer-Merz, Julius, Musiker.
+  Jäggi, Johannes, Uhrmacher.
+53 | III. | 803 | zum St. Gallen. | Burckhardt-Iselin, Carl, und Burckhardt, Albert.
+  Wirz-Meyer, Wb. Anna Margaretha, Partikularin.
+  Wirz, Hermann Adolf, Kaufmann.
+54 | III. | 790 B | zum Feigenbaum. | Meyer-Füllemann, Dietrich.
+  Meyer-Füllemann, Dietrich, Stuhlschreiner.
+  Müller-Petent, Johannes, Commis.
+  Bureau v. Forcart-Hoffmann sel. Erben.
+56 | III. | 791 |  | Kunz-Meyer, Rudolf.
+  Kunz-Meyer, Rudolf, Maler.

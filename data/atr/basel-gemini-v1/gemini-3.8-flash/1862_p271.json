@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p271",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p271.jpg",
+    "bytes": 1283805,
+    "sha256": "e7bd649af1234f2f11ac4d76354c13883b96f1d9d0995433a0e6ec5295224929",
+    "sha256_of": "original",
+    "working_copy": "1862_p271.jpg"
+  },
+  "text": "206 Utengasse.\n\nNeue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n4 | VIII. | 398 | | Geßler-Sieber, Andreas.\n  Sieber, Ludwig, Gymnasiallehrer.\n  Strübin-Frey, Achilles, Kaufmann.\n5 | VIII. | 400 | Gaishof. | Müller-Kleiling, Wb. Sibilla Maria.\n  Müller-Kleiling, Wb. Sibill. Maria, Part.\n  Müller, Gustav, Kaufmann.\n  Müller, Friedrich, Med. Dr.\n  Firma: Wb. Müller und Consorten,\n  Weinhandlung.\n6 | VIII. | 399 | | Treu, Rudolf.\n  Treu, Rudolf, Particular.\n7 | VIII. | 400 b | | Müller-Kleiling, Wb. Sibilla Maria.\n8 | VIII. | 401 | | Heusler-Thurneysen, Leonhard.\n10 | VIII. | 402 | | Trautz, Adam.\n11 | VIII. | 409 | zum Silberberg. | Löbl. Armencollegium d. Stadt Basel.\n  Widmer, Daniel, Vorsteher der Armen-\n  Arbeitsanstalt.\n  Ecklin, Lisette, Lehrerin.\n  Ecklin, Jenny, \"\n12 | VIII. | 403 | zum hintern Löwen. | Baumgartner-Müller, Samuel.\n  Baumgartner-Müller, Samuel, Maler.\n13 | VIII. | 410 | zum Silberberg. | Häring-Schmidt, Josef.\n  Häring-Schmidt, Jos., Seidenfärber.\n14 | VIII. | 404 | zum Bären. | Krafft-Meyer, Ernst.\n15 | VIII. | 415 | Silberberg. | Häring-Schmidt, Josef.\n16 | VIII. | 405 | | Bienz-Oeschger, Rudolf.\n17 | VIII. | 416 | | Lindenmeyer, Joh. Rudolf.\n18 | VIII. | 407 | | Lotz-Heusler.\n  Portmann-Selzer, Achilles, Schneider.\n19 | VIII. | 417 | | Lindenmeyer, Joh. Rudolf.\n  Lindenmeyer, Joh. Rud., S.M.C., Lehrer.\n  Truyen, Joh. August, Tapezierer.\n20 | VIII. | 408 | | Lieby-Bury, Chrysostomus.\n  Lieby-Bury, Chrysostomus, Spezierer.\n  Kleiner-Strub, Rudolf, Kartoffelhndlg.\n21 | VIII. | 420 | | Trueb-Preiswerk, Rudolf.\n22 | VIII. | 36 b | z. hint. Kaiserstuhl. | Kaiser-Stadelmann, Jakob.\n  Schardt-Eckert, Mathias, Spengler.\n  Krauer-Blind, Joseph, Schneider.\n  Balmer, Xaver, Holz- und Kohlenhdlr.\n23 | VIII. | 421 | zur Galeeren. | Haag-Kaim, Wb. Sophie Auguste.\n  Haag-Kaim, Wb. Soph. Auguste, Wirthin.\n24 | VIII. | 411 | | Seyser-Seiler, Johannes.\n25 | VIII. | 422 | | Hein-Weiß, Wb. Catharina.\n  Hein-Weiß, Wb. Catharina, Glätterin.\n26 | VIII. | 412 | Eingang zu Nro. 40 Rheingasse. | Vuilleumier-Schweizer, A. Virgil.\n27 | VIII. | 423 | | Käser-Rosenberger, Wb. Emerentia.\n  Käser-Rosenberger, Wb. Emer., Kostgeb.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9008,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2215,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:06:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p271",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p271.jpg",
+      "bytes": 1283805,
+      "sha256": "e7bd649af1234f2f11ac4d76354c13883b96f1d9d0995433a0e6ec5295224929",
+      "sha256_of": "original",
+      "working_copy": "1862_p271.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:16+00:00"
+  }
+}

@@ -1,0 +1,41 @@
+Bleicheweg. Burgweg. Hint. Burgweg. St. Clara-Graben. 167
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Burgweg.
+
+1 | VIII. | 49 | | Eggmann-Haller, Jacob.
+  Bertschi-Tschudi, Joh. Gg., Schreiner.
+7 | VIII. | 49 B | | Eggmann-Haller, Jacob.
+  Eggmann-Haller, Jac., Blattmacher.
+9 | VIII. | 49 B c | | Eggmann-Haller, Jacob.
+22 | VIII. | 48 A | Kinderspital. | Verwaltung des Kinderspitals.
+  Roth-Scheurer, Joh., Lehrer, Director d. Kinderspitals.
+
+Hinterer Burgweg.
+
+2 | VIII. | 49 D | | VonderCrone-Runge, Wb. Charl.
+  Von der Crone-Runge, Wb. Charl. Part.
+  Von der Crone, Hugo, Kaufmann.
+4 | VIII. | 49 E | auf der Burg. | Balmer-Rinck, Joh. Jac.
+  Balmer-Rinck, Joh. Jac., Phil. Dr., Lehrer.
+11 | VIII. | 52 | | Schaeffer-Euler, Aug.
+12 | VIII. | 52 B | | Siegmund-Weiß, Joh. Jac.
+  Siegmund-Weiß, Joh. Jac., Kunstmal.
+16 | VIII. | 52 D | Bierkeller. | Tester, Josua.
+
+St. Clara-Graben.
+
+9 | VIII. | 273 A | Drahtzug. | Hetzel-Wunderlin, Friedrich.
+11 | | | | Hetzel-Wunderlin, Friedr. Floretspinnerei
+13 | | | | Frey, Jac., Phil. Dr.
+  Heuberger-Schaar, Jac., Schreiner.
+15 | VIII. | 5 H | | Clavel-Linder, Alexander.
+17 | VIII. | 5 G | | Biedermann-Hunziker, Alois.
+  Biedermann-Hunziker, Alois, Wollwasch.
+  Bauchy-Dubuad, Paul, Rentier.
+  Kunz-Knup, Felix, Optiker.
+19 | VIII. | 5 E | | Penz-Spinnler, Heinrich.
+  Penz-Spinnler, Hch., Cartonnier.
+  Tripet-Fauck, Wb. Henriette, Part.
+  VonSpeyr, Magdalena, Part.

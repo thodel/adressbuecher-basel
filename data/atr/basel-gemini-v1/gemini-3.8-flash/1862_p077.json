@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p077",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p077.jpg",
+    "bytes": 1331747,
+    "sha256": "6bb5b0c49c884d9a9c7b9230ae8cbd3914143d6e2d2c834ca6bc14f9a94d9bcf",
+    "sha256_of": "original",
+    "working_copy": "1862_p077.jpg"
+  },
+  "text": "12  St. Alban-Graben. — St. Albankirchrain.\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\nSt. Alban-Graben.\n1 | V. | 1202 |  | Rognon-Landerer, Eugen.\n  Rognon-Landerer, Eugen, Kaufmann.\n  Rognon-Meyenrock, Eduard, Kaufm.\n2 | IV. | 1045 A | hint. Truchsesserhof. | Merian-Burckhardt, Marg., Wb.\n  Respinger-Stockmeyer, Leonh., Kaufm.\n4 | IV. | 1046 | zum Ernauerhof. | Merian-Burckhardt, Marg., Wb.\n  Merian-Burckhardt, Marg., Wb., Rent.\n5 | V. | 1203 A |  | Iselin-Roulet, Emilie, Wb.\n  Iselin-Roulet, Emilie, Wb., Rentiere.\n  Roulet, Jgfr. Georgina.\n  Vonder Mühll-Iselin, Emilie, Wb., Rent.\n6 | IV. | 1047 | zur Kammerei. | Sarasin, Wb. Julie sel., Erben.\n  Ehinger-Sarasin, Dr. Ludw.\n7 | V. | 1209 | zur Domprobstei. | Bachofen-Merian, Joh. Jacob.\n  Bachofen-Merian, Kaufmann.\n  Bachofen, J. J., D. J. u. Professor.\n  Passavant-Bachofen, Em., Banquier.\n8 | IV. | 1048 | Groß-Colmar. | Heusler-Christ, Daniel.\n  Imhof-Roschet, Wb. Barbara.\n  Heusler-Christ, Daniel, Bandfabrikant.\n  Heusler-Bischoff, Rud. desgl.\n10 | IV. | 1049 | ehem. Zehntensch. | Gehört zu Nro. 8. (1048)\n12 | V. | 1050 |  | Burckhardt-Forcart, Daniel.\n  (Remise und Stallung.)\n14 | V. | 1051 | Würtembergerhof. | Burckhardt-Forcart, Daniel.\n  Burckhardt-Forcart, Dan., Bandfabr.\n  Burckhardt-Thurneysen, Dan., Bandf.\n16 | V. | 1052 |  | Burckhardt-Forcart, Daniel.\n18 | V. | 1053 | zum Rieth. | Dobler, Schwestern.\n  Dobler, Jgfr. Catharina, Partikularin.\n  Dobler, Jgfr. Maria, \"\n20 | V. | 1054 |  | Burckhardt-Forcart, Wilhelm.\n  Burckhardt-Forcart, Wilhelm, Rentier.\n21 | V. | 1356 | Deutsches Haus. | Vischer-Burckhardt, Peter.\n23 | V. | 1356 | Deutsches Haus. | Vischer-Burckhardt, Peter.\n22 | V. | 1213 | Kleiner Burghof. | VonderMühll-Hoffmann, Emanl.\n  Köchlin-Burckhardt, Eug., Bandfabrik.\n  VonderMühll-Vischer, Fr., Stofffabr.\nSt. Albankirchrain.\n2 | V. | 1277 |  | Tschudi-Tschopp, J. J.\n  Tschudi-Tschopp, Joh. Jak., Bäcker und\n    Wirth.\n  Foure-Dezorme, Emil Jos., Dessinateur.\n  Vöglin-Jentsch, Julius, Schreiner.\n4 | V. | 1282 B-83 |  | Thurneisen-Fäsch, Ludw. Andr.\n  (Eingang zur Papierfabrik.)\n6 | V. | 1277 A |  | Bischoff-Respinger, Hieron.\n  (Magazin.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8630,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2209,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:36:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p077",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p077.jpg",
+      "bytes": 1331747,
+      "sha256": "6bb5b0c49c884d9a9c7b9230ae8cbd3914143d6e2d2c834ca6bc14f9a94d9bcf",
+      "sha256_of": "original",
+      "working_copy": "1862_p077.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:24+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p165",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p165.jpg",
+    "bytes": 1288180,
+    "sha256": "e36282c02a1f0549f99107bcce5bcb36b6ec11b810de82492d749def26bc6d47",
+    "sha256_of": "original",
+    "working_copy": "1862_p165.jpg"
+  },
+  "text": "100 Münzgäßlein. — Nadelberg.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n14 | VI. | 1708 | zum Dolder. | Geßler, Emanuel.\n  Siehe Nr. 11 Spalenberg.\n16 | VI. | 1715 | z. schwarzen Stern. | Preiswerk, Emanuel.\n17 | VI. | 1684 | Kuttelhaus. | Corporationsgut der Metzgernzunft.\n  Fischer-Schmutziger, Andreas, Kuttler.\n18 | VI. | 1693 | zum Weiberbad. | Gysin, Samuel.\n  Gysin, Samuel, Courtier.\n  Wiesner-Schwarz, Heinrich, Buchbinder.\n19 | VI. | 1685 | zur kleinen Fortuna. | Roth-Maler, Hugo.\n  Roth-Maler, Hugo, Fabrikarbeiter.\n20 | VI. | 1694 | zur Lehr. | Hürlemann-Ziegler, Wendolin.\n  Hürlemann-Ziegler, Wendolin, Trödler.\n22 | VI. | 1695 | | Gaßler, Leonh.\n24 | VI. | 1696 | zum Hungerstein. | Pffyffer-Lorenz, Joh. Jacob und Anna Lorenz.\n  Pffyffer-Lorenz, Joh. Jacob, Buchbinder.\n  Lorenz, Anna, Schneiderin.\n26 | VI. | 1697 | | Kientzi-Gögel, Wb.\n  Koch-Monnin, Carl, Dessinateur.\n  Siegrist, Wilhelm, Coiffeur.\n  Guth, Wb. Susanna, Matratzenmacherin.\n\nNadelberg.\n\n1 | II. | 557 | | Linder, Emilie, Jungfr.\n  Heß-Hoch, Joh., Alt-Spitalprediger.\n  Siehe Todtengäßlein Nr. 19.\n2 | II. | 565 | Knabenschulhaus. | Stadtgemeinde.\n  Bubeck-Kullen, Wilh. Friedr., Lehrer.\n  Siehe Stiftsgasse Nr. 2.\n  Hübtscher-Spahn, Joh. Martin, Lehrer.\n  Siehe Peterskirchplatz Nr. 5.\n3 | II. | 556 | | Linder-Hopf, Joh. Jacob.\n  Linder-Hopf, Joh. Jacob, Bandfabrikant.\n  Comptoir von J. J. Linder.\n  Gonin-Linder, Wb. Emilia, Particul.\n4 | II. | 553 | Engelhof. | La Roche-Bez, Emanuel.\n5 | II. | 555 | Mägdeburg. | Bollinger, Joh. Jacob.\n  Bollinger, Joh. Jacob, Ferger.\n  Schäfer, Christina Catharina, Lehrerin.\n6 | II. | 552 | zum Schönenhaus. | La Roche, Germann.\n  LaRoche, Germann, Alt-Deputat.\n  LaRoche-Burckhardt, Aug., Appellations-\n  rath, J. U. D.\n  Fischer-Baur, Joh. Ben., Postcommis.\n7 | II. | 554 | Löwenschlößlein. | Spreng, Joh. Jacob.\n  Spreng, Joh. Jacob, Particular.\n8 | II. | 551 | zum schönen Hof. | Eckhardt-Hoffmann, J. Conrad.\n  Eckhardt-Hoffmann, J. C., Manufactur-\n  waarenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12389,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2064,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:50:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p165",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p165.jpg",
+      "bytes": 1288180,
+      "sha256": "e36282c02a1f0549f99107bcce5bcb36b6ec11b810de82492d749def26bc6d47",
+      "sha256_of": "original",
+      "working_copy": "1862_p165.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:25+00:00"
+  }
+}

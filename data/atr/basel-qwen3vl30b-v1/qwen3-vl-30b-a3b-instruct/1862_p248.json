@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p248",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p248.jpg",
+    "bytes": 1422980,
+    "sha256": "9a1bf54e666a1a7aca1981e79ea6db67ff7c9460ac9aac27362da5dc25fd0e42",
+    "sha256_of": "original",
+    "working_copy": "1862_p248.jpg"
+  },
+  "text": "Klybeckstraße.\n183\nNre\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n31 | VII. | 23 | | Bachofen-Merian, Jacob.\n32 | VII. | 11 A a | | Schmid-Ritter, Wb. Soph. Mar.\n33 | VII. | 23 e | | Bachofen-Merian, Jacob.\n| | | | Sedendorn-Buser, Joh., Lehenbeständer.\n35 | VII. | 24 | | Bachofen-Merian, Jacob.\n37 | VII. | 25 | | Hauser-Wunderlin, Wb. Johanna.\n| | | | Hauser-Wunderlin, Wb. Joh., Part.\n| | | | Euler, Eucharius.\n39 | VII. | 26 | | Antoni-Faufel, Carl.\n41 | VII. | 27 | | Weber-Biirgin, Sam. Rud., Klavier-\n| | | | stimmer.\n| | | | Reitbahn von Antoni-Faufel.\n| | | | Rienle-Gauck, Ferdinand.\n| | | | Rienle-Gauck, Ferd., Bierbrauer und\n| | | | Wirth.\n43 | VII. | 29 | | Seiler-Dettwiler, Niclaus.\n| | | | Seiler-Kauff, Wb. Sybilla, Part.\n| | | | Latzcha-Schaefer, Johannes, Stuhls-\n| | | | chreiner.\n45 | VII. | 30 | | Klotz-Gutzwiller, Johs.\n47 | VII. | 32 | | Klotz, Friedrich.\n48 | VII. | 28 | | Stadelmann-Murg, Josef, Lehenbeständ.\n| | | | Klotz-Gutzwiller, Johs.\n| | | | Klotz-Gutzwiller, Johs., Gärtner.\n49 | VII. | 33 | | Klotz, Friedrich.\n50 | VII. | 31 | | Glor-Meng, Rudolf.\n51 | VII. | 34 | | Glor-Meng, Rud., Zimmermann.\n| | | | Frik, F. F. u. Mangold, Martin.\n| | | | Frik-Hoeckle, Joh. Jac., Zimmermann.\n| | | | Mangold-Fischer, Martin,\n| | | | \"\n53 | VII. | 35 | | Ramsperger-Hug, Eml.\n| | | | Klotz, Friedrich.\n55 | VII. | 36 | | Ramsperger-Hug, Eml.\n56 | VII | 37 | | |\n57 | VII. | 38 | | Hagenbach-Berger, Joh. Christ.\n59 | VII. | 40 u. 39 | | Bemmler-Fricke, Wb. Judith, Part.\n| | | | Thalmann, Jos., Gärtner.\n| | | | Hagenbach-Berger, Joh. Christ.\n| | | | Hagenbach-Berger, Johann Christian,\n| | | | Defonom.\n61 | VII. | 41 | | Boegelin-Boegle, Anton.\n| | | | Boegelin-Boegle, Anton, Gärtner.\n63 | VII. | 42 | | Rhyhiner-Heusler, Wilh.\n65 | VII. | 44 | | Koch-Geiger, Christian.\n64 | | | | Ramsperger-Hug, Eml.\n66 | VII. | 45 u. 46 | | Bohni-Gyfin, Wb. Serena, Part.\n69 | VII. | 48 | | Schmid-Zucker, Joh. Georg, Gärtner.\n| | | | Ostermann-Schneider, Margaretha.\n73 | VII. | 49 A | |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6283,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2065,
+    "lines": 57,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p248",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p248.jpg",
+      "bytes": 1422980,
+      "sha256": "9a1bf54e666a1a7aca1981e79ea6db67ff7c9460ac9aac27362da5dc25fd0e42",
+      "sha256_of": "original",
+      "working_copy": "1862_p248.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:36+00:00"
+  }
+}

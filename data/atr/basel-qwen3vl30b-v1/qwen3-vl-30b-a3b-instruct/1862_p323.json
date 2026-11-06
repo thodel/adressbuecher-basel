@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p323",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p323.jpg",
+    "bytes": 1449666,
+    "sha256": "1973f4c03574df756278a176596f2305c249c209d3cad2a5e850954b4f984070",
+    "sha256_of": "original",
+    "working_copy": "1862_p323.jpg"
+  },
+  "text": "258\nVerzeichniß der Bürger und Einwohner.\nBed=Pfannenschmied, Mich. Leonh., Schneider. Berge=Buek, Ludw. St. Alban=Thal 34.\n  =Barfüßerplatz 14.\n  =Schlageter, Jos. Ant., Landjäger und\n    Kostgeber. Schnabelgäßlein 15.\n  =Schmid, Joh. Kaufm. Steinenvorstadt 1.\n  =Seiffert, Hier., Hasner. Steinenvorstadt 32.\n  =Stadtmann, Wb. Gertrud, Part. Stei-\n    nenvorstadt 32.\nBecker=Geiger, Friedr., Gastwirth. Bahnhof-\n  straße 19.\n  =Weiß, Friedr., Lehrer. Oberer Rhein-\n  weg 96.\nBeetschen=Rarrer, Christ., Holzhacker. St.\n  Peters-Berg 28.\nBeglinger=Zwicky, Joh., Kaufm. Nauenstr. 8.\nBell=Bolliger, Emil., Fischer. Rebgaſse 29.\n  =Friedr., Eisenbahnbeamter. Wallstraße 5.\n  =Heinr., Fischer. Rheingasse 30.\n  =Hug, Heinr., Fischer. Untere Rhein-\n  gaſse 15.\n  =Hug, Wb. Mar. Magdal. Rheingasse 30.\n  =Jac. Christ., Schuster. Untere Rhein-\n  gaſse 15.\n  =Joh. Jac., Metzger u. Wirth. Ochsen-\n  gaſse 23.\n  =Stork, Rud., Metzger. Rebgaſse 14.\nBemler=Fricke, Wb. Judith, Part. Alybeck-\n  straße 59.\nBemmerer=Röchlin, Ludw., Spengler Freie\n  Straße 65.\nBendely=Ingold, Philipp, Schmid. Elsäßer-\n  Straße 8.\nBender, Joh. Gg., Schneider. Kirchgaſse 11.\nBendy=Pfafflin, Xaver Joh. Bapt., Schneid.\n  Hutgaſse 4.\nBenker=Stapfer, Friedr., Barbierer. Stei-\n  nenvorstadt 67.\nBenninger=Schieber, Wb. Maria, Borgün-\n  gerin. Lindenberg 6.\nBenz, Jos., Ladendiener. Unter Heuberg 5.\n  =Hartmann, Jos., Magazinmecht. Schna-\n  belgäßlein 5.\n  =Hit, Ludw., Seidenfärbergejelle. Untere\n  Rheingasse 10.\n  =Leuenberger, Joh., Landjägerlieutenant.\n  Steinenbachgäßlein 28.\n  =Eldin, Heinr., Dessinateur. Spalen-\n  vorstadt 41.\n  =Matter, Heinrich, Eisenbahnbeamter.\n  Spalenvorstadt 36.\n  =Sutter, Hier., Fabrikarbeiter. Gerber-\n  gaſse 62.\nBerchten=Steiner, Rud., Commis. Alybeck-\n  straße 17.\nBerchtold, Rud., Posamenter. Bei d. Wie-\n  fenſchanze 5.\nBerdeaur, Louise Judith, Part. Kiehenthor-\n  straße 27.\nBerger, Jos., Gärtner. Aeschenvorstadt 75.\n  =Wb. Carolina, Wirthin. Weiße Gaſse 24.\n  =Griininger, Friedr., Posamenter. Reb-\n  gaſse 40.\n  =Heine, Joh. Nep., Gutsbesitzer. Elsäf-\n  fer-Straße 29.\n  =Kiedtmann, Marg., Wirthin u. Ellen-\n  waarengeschäft. Todtentanz 2.\n  =Kueger, F. F., Commis. Spalenvor-\n  stadt 22.\nBerlauer=Ofer, Stefan, Wirth u. Metzger.\n  Steinenthorstraße 39.\nBerlinger, Jos. u. Alois, Gipser. St. Eli-\n  sabethen-Straße 32.\n  =Martin, Frau, Maurer. Bahnhof-\n  straße 31.\n  =Schwöri, Ed., Gipser. Kirchgaſse 5.\n  =Theodor, Schloffer. Kirchgaſse 9.\nBernhard, Abraham, Hufschmied. Johanniterstraße 7.\nBernoulli=Barth, Ed., Pfarrer. St. Peters-\n  Graben 49.\n  =Bär, Leonhard, Kaufmann. Sporen-\n  gaſse 1.\n  =Bernoulli, Sophia, Wb. Aeschengra-\n  ben 24.\n  =Berri, Niklaus, Notarius. St. Alban-\n  Vorstadt 3.\n  =Cailler, Emil., Bandfabrikant. Freie\n  Straße 81.\n  =Carl, J. U. D. Aeschenvorstadt 34.\n  =Daniel, Kaufmann. Bäumleingasse 1.\n  =Dicf, Johs., Alt-Posldirector. Aeschen-\n  vorstadt 34.\n  =Emil., Sohn, Seidenwaarenhandel. Freie\n  Straße 81.\n  =Friedr., Substit. d. Civilgerichtschreibers.\n  Schützengraben 17.\n  =Jac. Hier., Commis. Stadthausgaſse 17.\n  =Johann, Sohn, Kaufmann. Sporen-\n  gaſse 1.\n  =Kellermann, Emil, Kaufmann. Mis-\n  sionsstraße 3.\n  =Leonhard, Compt. d. Firma. Sporen-\n  gaſse 1.\n  =Marie, Kent. St. Elisabethen-Straße 30.\n  =Mathilde, Sgfr. Part. Aeschenvorstadt 34.\n  =Mazinger, Carl, Hilfslehrer an der\n  Realschule. Kirchgaſse 9.\n  =Niklaus de Hier. u. Sohn, Material- u.\n  Farbwaarenhdg. Freie Straße 18.\n  =Obermeyer, J. U. D. Bäumleingasse 1.\n  =Oswald, Gust., Seidenpinnerei. St. Ela-\n  ra-Straße 3.\n  =Paravicini, Christ. Professor. Missions-\n  straße 8.\n  =Reber, F. F. Phil. Dr. Kanonengasse 19.\n  =Respinger, Wb., Marg. St. Peters-\n  Gaſse 7.\n  =Riggenbach, Ed., Banquier. St. Elisa-\n  bethen-Straße 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10051,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3746,
+    "lines": 120,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0333,
+    "mean_line_chars": 28.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:03:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p323",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p323.jpg",
+      "bytes": 1449666,
+      "sha256": "1973f4c03574df756278a176596f2305c249c209d3cad2a5e850954b4f984070",
+      "sha256_of": "original",
+      "working_copy": "1862_p323.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:10+00:00"
+  }
+}

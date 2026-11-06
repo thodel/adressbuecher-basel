@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p305",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p305.jpg",
+    "bytes": 1504767,
+    "sha256": "0662fab77cdfed6521f78bf08e8e2a269cf284c2a0de40d59c2e3c2e216c2728",
+    "sha256_of": "original",
+    "working_copy": "1862_p305.jpg"
+  },
+  "text": "240\nVerzeichniß der Häuserbesitzer.\nMazinger=Munsch, Carl. Hammerstraße 57. 59. | Merian=Jselin, Rud. St. Alban-Vorstadt 83.\nMazinger=Wäffler, Bernh. Bysangweg 2. | — Grenzacher Straße 129.\nMechel, Achilles. Webergasse 40. | Merian=Köchlin, Ed. Aeschengraben 41. —\nMechel, Rud. Webergasse 9. — Untere Rhein- | St. Johann-Vorstadt 56.\ngasse 17. | Merian=LeGrand, Peter, sel. Erben. Bahnhofstraße 49.\nMechel=Röbel, Bernh. Steinenvorstadt 38. | Merian=Mahler, Alfred. St. Alban-Thal 23.\nMied, Johs. u. Carl. St. Alban-Vorstadt 41. | 26. 27.\nMeister, Heinr. Mittlere Straße 77. | Merian=Merian, Balth. Heuberg 28. — St.\nMeister=Erny, Henriette. Gerbergasse 16. | Leonhards=Graben 45.\nMeister=Lenz, Wb. Kunigunde. Münzgässlein 13. | Merian=Merian, St. Münsterplatz 10. —\nMeißner=Fischer, Marcus. Freie Straße 3. | Riehenstraße 94.\nMende=Hof, Friedr. Gottl. Schneidergasse 7. | Merian=Meyer, Anna Maria, Wb. Grenzacher Straße 133. — St. Leonhards=Verg 1.\nMenger=Weiker, Wb. Wilhelmine. St. Jakobs=Strasse 13. | — Lohnhofgässlein 14.\nMengis, Pet., sel. Erben. St. Elisabethen- | Merian=Miville, Wb., sel. Erb. Gemsberg 6.\nStraße 49. 51. 53. | Merian=Reber, Johs. Heuberg 2. — St. Leonhards=Graben 19. — Missionsstraße 29.\nMengis=Brand, Martin. St. Johann-Vorstadt 40. | Merian=Reber, Sam. Steingengraben 23.\nMenrich=Neuschwander, Heinr. Freie Straße 19. | Merian=Rejpinger, Carl Franz Josef. Schwabengasse 8. — Todtentanz 13.\nMerian, Amadeus. Sägergässlein 1. 3. — | Merian=Respinger, Wb. Anna Elis. Missionsstraße 5.\nUntere Rheingasse 12. | Merian=Ryhiner, Elis., sel. Erben. St. Alban-Vorstadt 10. — Riehenstraße 28. 30. 32. 36. 38.\nMerian, Ben. n. Dietrich, Luvw. Greifengasse 31. | Merian=Sarafin, Wilhelm. Grenzacher Straße 111. 113.\nMerian, Helene. Bäumleingasse 14. | Merian,Schwestern, Friederike u. Wilhelmine. Riehenstraße 16.18. 20.\nMerian=Bischoff, Eduard de J. J., sel. Erben. | Merian=Stierlin, Walter. Herbergsgasse 2.\nSt. Alban-Vorstadt 58. — Malzgasse 2. 6. | Merian=Seeber, Emil. Bahnhofstraße 7. 9. —\nMerian, J. J. Webergasse 17. | St. Clara=Straße 49. — Greifengasse 27.\nMerian, Ludwig, und Lok, Friedr. Hammerstraße 25. 27. | Merian=Thurneyßen, Alfred. Rittergasse 27. — Grenzacher Straße 45.\nMerian, Ludwig. Utengasse 31 | Merian=BonderMühll, Heinrich. St. Alban-Vorstadt 82. — Duttliweg 6. — Riehenstraße 54. 56. 58. 69. — Vogelsangweg 4. 10. 11. 13. 14.\nMerian, Marie. St. Peters=Graben 15. 21. | Merian=BonMechel, Wb. Aeschenvorstadt 56.\nMerian=Bernoulli, Rud. Aeschenvorstadt 41. | Merian=Weiß, Rud., sel. Erben. Barfüssergasse 2. — Freie Straße 80.\nMerian=Bischoff, Eduard, sel. Erben. Grenzacher Straße 62. — Malzgasse 2. | Merke, Franz Xaver. Nauenstraße 9.\nMerian=Bischoff, Sam. St. Alban-Vorstadt 42. | Merkle=Ripfel, Albert. Schützenmattstraße 49.\nMerian=Bister, H. Fischmarkt 9. — Keller= | Merz=Tellenbach, J. J. Aeschenvorstadt 18.\ngässlein 5. | Metzgern, Corporat. Ruttelhaus. Münzgässlein 17.\nMerian=Bloch, Maria Magd. Münsterberg 4. | Meyenroß=BonBrunn, Friedr. Kirchgasse 4. 6. — Riehenthorstraße 28.\nMerian=Brandmüller, Friedr. Heumattstraße 19. — Steinenthorstraße 23. | Meyer, Ludwig. Barfüsserplatz 5.\nMerian=Burchardt, Wb. Marg. St. Alban- | Meyer, J. Christof. Streitgasse 7.\nGraben 2. 4. — St. Elisabethen=Straße 16. | Meyer, Ursula. St. Peters=Verg 30.\n— Gellertstraße 40. | Meyer=Abt, Heinr. Christof. Hammerstraße 22.\nMerian=Burchardt, Wb. Baleria. Riehenstraße 75. | Meyer=Ackermann, Gerhard. Vorburgstraße 35.\nMerian=Burchardt, Christ., sel. Erben. Gellertstraße 40. — St. Jacob 1. 3. 4. 5. 6. — Münchensteiner=Straße 22. — In den Neufäzen 4. — Singerweg 2. 4. — Weidengasse 14. | Meyer=Alttorfer, Friedr. Gerbergässlein 11.22.\nMerian=Burchardt, J. J., sel. Erben. Münsterplatz 17. — Schorenweg 6. — St. Jakobs=Strasse 41. | Meyer=Brand, Dr. Friedr., Thierarzt. Herbergsgasse 4. 6. — Klybeckstraße 29.\nMerian=Christ, Benedikt. Aeschenvorstadt 20. | Meyer=Breiter, Ed. Kohlenberg 25.\nMerian=Frischmann, Rud. Im Davidsboden 20. — Mittlere Straße 50. 52. 56. 58. — St. Johann=Ringweg 40. — Schützengraben 20. — Spalenvorstadt 11. | Meyer=Etlin, Elis. Schneidergasse 29.\nMerian=Jselin, Carl. St. Elisabethen=Straße 26. — Grenzacher Straße 58. | Meyer=Fiechter, Peter. Schützenmattstraße 1.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11422,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4229,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 93.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:00:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p305",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p305.jpg",
+      "bytes": 1504767,
+      "sha256": "0662fab77cdfed6521f78bf08e8e2a269cf284c2a0de40d59c2e3c2e216c2728",
+      "sha256_of": "original",
+      "working_copy": "1862_p305.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:00:04+00:00"
+  }
+}

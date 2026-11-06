@@ -1,0 +1,44 @@
+Neue
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Kro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+1 | VII. | 354 | Roth=Ochsenmühle. | Kühlın=Kauer, Joh. Georg.
+3 | VII. | 247 | Blau=Eselmühle. | Braun=Rieffer, Johannes.
+5 | VII. | 247 a | | Braun=Rieffer, Johannes.
+7 | VII. | 248 | | Gaf=Kösln, Johannes.
+| | | | Gaf=Kösln, Johannes, Fabrikarbeiter.
+9 | VII. | 249 | | Braun, Samuel, sel. Erben.
+| | | | Braun, Andreas de Samuel, Rentier.
+21 | VIII. | 45 | | Delhafen, Sam. Jacob.
+| | | | Schmied=Hilzen, Felician, Gärtner.
+1 | VIII. | 131 A | St. Theodorshof. | Bernoulli=Bär, Leonhard.
+2 | VIII. | 131 A a | fl. St. Theodorshof | Bernoulli=Bär, Leonhard.
+| | | | Regenaf=Degerfeld, Heinrich, Commis.
+3 | VIII. | 137 A | Mädchen schule. | Stadtgemeinde.
+| | | | Fäsch=Schuhmacher, Friedrich, Lehrer.
+| | | | Pack, Jakob Georg, Rentier.
+4 | VIII. | 133 | Siegriftwohnung | Staat.
+| | | | Bulacher=Ofer, Hieronimus, Siegrift.
+5 | VIII. | | St. Theodorskirche. | Staat.
+6 | VIII. | | Rapelle. | Staat.
+7 | VIII. | 132 | Waifenhaus. | Inspection des Waifenhauses.
+| | | | Lichtenhahn=Stähelin, Friedr., Waifenvat.
+| | | | Roos, Friedrich Wilhelm, Lehrer.
+| | | | Christen, Johannes,
+| | | | Schmidlin, Otto,
+| | | | Buol, Paul,
+| | | | Dickenmann, Dorothea, Haushälterin.
+| | | | BonBrunn, Anna Maria, Lehrerin.
+| | | | Hirt, Elise,
+| | | | Hagist, Margaretha,
+| | | | Hermann, Louise,
+| | | | Jäck=Huber, Heinr., Pförtner u. Auffseher.
+1 | VIII. | 238 | Sternenecf. | Waffermann=Weber, Carl Rudolf.
+| | | | Erni=Handschin, Joh. Fridolin, Metzger.
+2 | VIII. | 397 | | Bienz=Deschger, Rudolf.
+3 | VIII. | 396 | Gelber Stern. | Müller=Kleiling, Wb. Sibil. Mar.

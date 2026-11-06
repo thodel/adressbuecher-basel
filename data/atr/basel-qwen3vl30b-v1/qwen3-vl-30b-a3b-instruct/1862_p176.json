@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p176",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p176.jpg",
+    "bytes": 1412533,
+    "sha256": "a8a936cc68d2524a513a6fd0e3a50101d727e8327959b76742048fb58681a076",
+    "sha256_of": "original",
+    "working_copy": "1862_p176.jpg"
+  },
+  "text": "St. Peters-Graben. 111\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n29 | II. | 564 | | Socin-Frey, Eduard.\n31 | II. | 563 | zur Rose. | Socin-Frey, Eduard, Kaufmann.\n33 | II. | 562 | Pfarrhaus. | Reber-Geilinger, Joh. Jakob.\n| | | | Reber-Geilinger, Joh. Jakob, Part.\n| | | | Staat.\n| | | | Stiidelberger-Usteri, Joh., Pfarrer.\n| | | | Siehe Stiftsgasse Kro. 9.\n35 | II. | 561 | Bärenfelsershof. | Bauer-Felber, Jacob.\n| | | | Bauer u. Comp., Agentur und Com-\n| | | | missionsgeschäft.\n| | | | Auberlen-Mienzel, C., Dr. Prof. d. Theol.\n| | | | Grunauer-Märklin, Christof, Alt-Pfarrer.\n| | | | Werkstätte von R. Ochsenbein, Büchjeum.\n37 | II. | 561 D | Bärenfelsershof. | Bauer-Felber, Jacob.\n| | | | Bauer-Felber, Jacob, Mechaniker und\n| | | | Eichmeister.\n| | | | Bauer, Friedrich, Kaufmann.\n39 | II. | 552 | | LaRoche, Hermann.\n| | | | Siehe Kr. 6 Nadelberg.\n41 | II. | 552 | | LaRoche, Hermann.\n| | | | (Gartenhaus.)\n42 | II. | 276 A | Polizeiposten. | Staat.\n43 | II. | 548 | | VonderMühl-Bischoff, Emanuel.\n| | | | Siehe Kr. 12 Nadelberg.\n44 | II. | 276 | Zeughaus. | Staat.\n| | | | Kriegskommissariat.\n| | | | Zeughausbureau.\n45 | II. | 549 | | Bischoff-Merian, Rudolf.\n| | | | (Gartenhaus.)\n46 | II. | 277 | Zeugwartwohnung. | Staat.\n| | | | Sauerbrey-Bogel, Valentin, Zeugwart\n| | | | und Büchsenmacher.\n47 | II. | 525 | | Häselin-Mohr, Wb. Salomea.\n| | | | Siehe Kr. 14 Nadelberg.\n48 | II. | 278 | ehemalige Stadt-\n| | | | schlosserei. | Schneider-Simmler, Wb. Anna, Part.\n49 | II. | 522 | zum Kaiser. | Jäslin-Stähelin, Conrad.\n| | | | Bernoulli-Barth, Eduard, Pfarrer.\n| | | | Siehe Kr. 18 Nadelberg.\n50 | II. | 279 | Gnadenthal. | Stadtgemeinde.\n51 | II. | 520 | | LaRoche-Stähelin, Benedict.\n| | | | Siehe Kr. 20 Nadelberg.\n52 | II. | 279 | Gnadenthal. | Stadtgemeinde.\n| | | | Uebelin-Trautwein, Joh. Jakob, Bau-\n| | | | schreiber.\n55 | II. | 473 A | zur Altane. | Holdenecker, Achilles.\n| | | | Holdenecker, Achilles, Buchhändler.\n| | | | Siehe Kr. 12 Koshofgasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6195,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2060,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0182,
+    "mean_line_chars": 36.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:44:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p176",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p176.jpg",
+      "bytes": 1412533,
+      "sha256": "a8a936cc68d2524a513a6fd0e3a50101d727e8327959b76742048fb58681a076",
+      "sha256_of": "original",
+      "working_copy": "1862_p176.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:41+00:00"
+  }
+}

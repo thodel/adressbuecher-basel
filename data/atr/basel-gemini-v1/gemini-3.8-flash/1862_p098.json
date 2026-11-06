@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p098",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p098.jpg",
+    "bytes": 1399948,
+    "sha256": "6e590514b9581f7a2edc7028dbb52d768f9bd3f0cade5cd6a927e7001ae6c639",
+    "sha256_of": "original",
+    "working_copy": "1862_p098.jpg"
+  },
+  "text": "Centralbahnplatz. Centralbahnstraße. Im Davidsboden. 33\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nCentralbahnplatz.\n4 | III. | 204 A | | Stouder, Joseph.\n  Stouder, Joseph, Wirth.\n5 | III. | 203 | | Recher, Joh. Jakob.\n  Recher, Joh. Jak., Café Restaurant.\n  Schütz-Hindenlang, Joh. Jak., Negociant.\n  Walcher-Brunner, Markus, Particulier.\n6 | III. | 202 | | Schirach-Hosacker, Wilhelm.\n  Schirach-Hosacker, Wilh., Restaurateur.\n  Stänz-Simmen, Joh. Rud., Ingenieur.\n10 | III. | 205 A | | Thommen-Clotu, Louis.\n  Thommen-Clotu, Ludwig, Küfer, Wein- und Essighändler.\n  Schmid-Hottensen, Eduard, Handelsreis.\n11 | III. | 205 | | Sartorius, Friedrich.\n  Sartorius, Friedrich, Baumeister.\n12 | III. | 202 F | | Euler-Brunner, Abraham.\n  Lendorf-Berri, Carl, Architekt.\n  Steinbrüchel-Frei, Wb.\n13 | III. | 202 E | | Euler-Brunner, Abraham.\n  Euler-Brunner, Abraham, Commis.\n  Uebelin-Geßler, Karl, Kaufmann.\n  Hellmann-Eisenlohr, Clara, Part.\n\nCentralbahnstraße.\n5 | III. | 198 | | Centralbahn-Gesellschaft.\n  Wencker-Houghues, Josef, Bahnhofsvorstand.\n  Durand-Wecher, Carl Sous-chef de gare.\n7 | III. | 198 A | | Simon, Franz Joseph.\n10 | III. | 199 | Bahnhof. | Centralbahn-Gesellschaft.\n  Bucher-Hoffmann, Fried. Portier.\n  Huß, Ch. Sous-chef de gare.\n  Braff, Victor, Insp. der Ostbahn.\n\nIm Davidsboden.\n1 | I. | 22 | | Bader-Rudin, Jakob.\n  Bader-Rudin, Jakob, Gutsbesitzer.\n2 | I. | 59 | | Merian-Frischmann, Rudolph.\n  Vogt-Gottenkieni, Joh., Lehenbest.\n10 | I. | 19 f | | Schneider-Scherb, Daniel.\n  Schneider-Scherb, Daniel, Gutsbesitzer.\n  Schneider-Krebs, Wilh., Commis.\n11 | I. | 19 a | | Schneider-Scherb, Daniel.\n  (Oekonomiegebäude mit Stallung.)\n12 | I. | 19 b | | Schneider-Scherb, Daniel.\n  (Stallungen und Remise.)\n14 | I. | 58 | | Senn, Joh. Jak. Gastg. z. 3 Königen\n  (Scheune und Remise.)\n\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8642,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1876,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p098",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p098.jpg",
+      "bytes": 1399948,
+      "sha256": "6e590514b9581f7a2edc7028dbb52d768f9bd3f0cade5cd6a927e7001ae6c639",
+      "sha256_of": "original",
+      "working_copy": "1862_p098.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:39+00:00"
+  }
+}

@@ -1,0 +1,57 @@
+Klybeckstraße.
+183
+Nre
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+31 | VII. | 23 | | Bachofen-Merian, Jacob.
+32 | VII. | 11 A a | | Schmid-Ritter, Wb. Soph. Mar.
+33 | VII. | 23 e | | Bachofen-Merian, Jacob.
+| | | | Sedendorn-Buser, Joh., Lehenbeständer.
+35 | VII. | 24 | | Bachofen-Merian, Jacob.
+37 | VII. | 25 | | Hauser-Wunderlin, Wb. Johanna.
+| | | | Hauser-Wunderlin, Wb. Joh., Part.
+| | | | Euler, Eucharius.
+39 | VII. | 26 | | Antoni-Faufel, Carl.
+41 | VII. | 27 | | Weber-Biirgin, Sam. Rud., Klavier-
+| | | | stimmer.
+| | | | Reitbahn von Antoni-Faufel.
+| | | | Rienle-Gauck, Ferdinand.
+| | | | Rienle-Gauck, Ferd., Bierbrauer und
+| | | | Wirth.
+43 | VII. | 29 | | Seiler-Dettwiler, Niclaus.
+| | | | Seiler-Kauff, Wb. Sybilla, Part.
+| | | | Latzcha-Schaefer, Johannes, Stuhls-
+| | | | chreiner.
+45 | VII. | 30 | | Klotz-Gutzwiller, Johs.
+47 | VII. | 32 | | Klotz, Friedrich.
+48 | VII. | 28 | | Stadelmann-Murg, Josef, Lehenbeständ.
+| | | | Klotz-Gutzwiller, Johs.
+| | | | Klotz-Gutzwiller, Johs., Gärtner.
+49 | VII. | 33 | | Klotz, Friedrich.
+50 | VII. | 31 | | Glor-Meng, Rudolf.
+51 | VII. | 34 | | Glor-Meng, Rud., Zimmermann.
+| | | | Frik, F. F. u. Mangold, Martin.
+| | | | Frik-Hoeckle, Joh. Jac., Zimmermann.
+| | | | Mangold-Fischer, Martin,
+| | | | "
+53 | VII. | 35 | | Ramsperger-Hug, Eml.
+| | | | Klotz, Friedrich.
+55 | VII. | 36 | | Ramsperger-Hug, Eml.
+56 | VII | 37 | | |
+57 | VII. | 38 | | Hagenbach-Berger, Joh. Christ.
+59 | VII. | 40 u. 39 | | Bemmler-Fricke, Wb. Judith, Part.
+| | | | Thalmann, Jos., Gärtner.
+| | | | Hagenbach-Berger, Joh. Christ.
+| | | | Hagenbach-Berger, Johann Christian,
+| | | | Defonom.
+61 | VII. | 41 | | Boegelin-Boegle, Anton.
+| | | | Boegelin-Boegle, Anton, Gärtner.
+63 | VII. | 42 | | Rhyhiner-Heusler, Wilh.
+65 | VII. | 44 | | Koch-Geiger, Christian.
+64 | | | | Ramsperger-Hug, Eml.
+66 | VII. | 45 u. 46 | | Bohni-Gyfin, Wb. Serena, Part.
+69 | VII. | 48 | | Schmid-Zucker, Joh. Georg, Gärtner.
+| | | | Ostermann-Schneider, Margaretha.
+73 | VII. | 49 A | |

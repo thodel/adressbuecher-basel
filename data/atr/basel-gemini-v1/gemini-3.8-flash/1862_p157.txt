@@ -1,0 +1,52 @@
+92 Missionsstraße.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+20 | I. | 95 | | Fäsch-Binet, Joh. von Joh.
+  Fäsch-Binet, Joh. von Joh., Rentier.
+21 | II. | 110 | Missionshaus. | Evangelische Missionsgesellschaft.
+  Josenhans-Geß, Fried. Jos., Inspector.
+  Braun-Gwinner, Theod., Bureauchef.
+  Geß-Eitel, Fried. Wolfgang, Pfarrer.
+  Peter-LaRoche, Carl, Pfarrer.
+  Kolb-Lauxmann, Christ., Hausvater.
+  Zaremba, Felician, Missionsprediger.
+  Ziegler, Jakob Friedr., Lehrer.
+  Dierlamm, Gottlob, Lehrer.
+  Schwarz, Gottlob, Lehrer.
+  Stolz, Caspar, Commis.
+  Hager, Beata, Hausmutter.
+22 | I. | 94 | | Preiswerk-Hunziker, Emanuel.
+  Preiswerk-Hunziker, Emanuel, Kfm.
+23 | II. | 112 | | Burckhardt-ImHof, Wb. Susanna.
+24 | I. | 93 | | Sandoz-Luya, Carl Aug.
+  Sandoz-Luya, Carl Aug., Kaufmann.
+26 | I. | 92 | | Sandoz-Luya, Carl Aug.
+  Sieber-Sulger, Wilhelm, Commis.
+27 | II. | 113 | | Preiswerk-Burckhardt, Eduard.
+  Preiswerk-Burckhardt, Eduard, Kfm.
+29 | II. | 114 | | Merian-Reber, Johannes.
+30 | I. | 91 | | Schilling, Rudolf.
+31 | II. | 115 | | Burckhardt-VonderMühll, Wb. A. Catharina.
+32 | I. | 90 | | Schilling, Rudolf.
+34 | I. | 89 | | Linder-Steinegger, Joh. Jac.
+  Weiß-Schmid, Friedr., Gärtner.
+35 | II. | 116 | | Staehelin-Stückelberger, Peter.
+  Staehelin-Stückelberger, Pet., Pfarrer.
+36 | I. | 88 | | Linder-Steinegger, Joh. Jac.
+  Linder-Steinegger, Joh. Jac., Bandfabr.
+  Firma J. J. Linder.
+37 | II. | 117 | | Cruffaire-Tollmann, Carl.
+  Cruffaire-Tollmann, Carl, Handelsm.
+39 | II. | 118 | | Ecklin-Holzach, Theodor.
+  Ecklin-Holzach, Theodor, Baumeister.
+  Uebelin-Stähelin, Wb. Mathilde, Rent.
+  Anstein, Rudolf, Spitalpfarrer.
+  Burckhardt, Johannes, Commis.
+41 | II. | 118 A | | Ecklin-Holzach, Theodor.
+43 | II. | 119 | | Ecklin-Holzach, Theodor.
+  Ecklin-Knutty, Gottfried Aug., Postbeam.
+  Knutty, Balth. Friedr., Part.
+44 | I. | 85 | | Trüb, Johannes.
+  Trüb-Greither, Verena Kunig, Gärtner.
+  Trüb-Nußbaumer, Anna Mar., Handelsgärtnerin.
+  Siehe Nr. 33 mittlere Straße.

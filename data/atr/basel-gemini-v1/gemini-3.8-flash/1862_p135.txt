@@ -1,0 +1,52 @@
+70 | St. Johann-Vorstadt.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+3 | I. | 67 | zum Reinacherhof. | Burckhardt-Wick, Ludw. August.
+  Burckhardt-Wick, Ludw. Aug., J. U. D.
+  Burckhardt, Henriette, Particular.
+4 | I. | 72 | zum Bockstecherhof. | Roth-Weiß, Wernhard u. Sohn.
+  Roth-Weiß, Wernhard und Sohn, Schuhmacher.
+5 | I. | 64 B | zum mittlern Ulm. | Kern-Ryhiner, August.
+  Kern-Ryhiner, August, Bandfabrikant.
+  Ryhiner-Bischoff, Samuel, Rentier.
+  Kern-Werthemann, Eduard, Bandfabr.
+6 | I. | 70 | | Iselin-de Bary, Rudolf.
+  Iselin-de Bary, Rudolf, Particular.
+  Iselin, Rudolf de Rudolf, Part.
+7 | I. | 64 A | zum mittlern Ulm. | LaRoche-Gemuseus, Carl.
+  LaRoche-Gemuseus, Carl, Gutsbesitzer.
+8 | I. | 69 | | Scholp-Schaffner, Rudolf.
+  Scholp-Schaffner, Rudolf, Kaufmann.
+  Hürlemann, Wittwe, Rosina, Part.
+  Hürlemann, David, Commis.
+9 | I. | 63 | | Maeglin, Benedikt de Anton.
+  Maeglin, Benedikt de Anton, Kfm.
+10 | I. | 68 | | Müller-Hauser, Joh. Jacob.
+11 | I. | 62 | zur Schäferei. | Riggenbach, Fried. Wilhelm.
+  Riggenbach, Fried. Wilh., Bäcker.
+  Meilin-Riggenbach, Rud., Bildhauer.
+12 | I. | 65 | | Müller-Hauser, Joh. Jakob.
+13 | I. | 59 | zum Wildenstein. | Schoop-Lehr, Leonhard Carl.
+  Schoop-Lehr, Leonh. Carl, Ferger.
+  Kaufmann, Gottlieb Sam., Schlosser.
+14 | I. | 61 | | Müller-Hauser, Joh. Jacob.
+  Müller-Hauser, Joh. Jac., Seidenfärber.
+  Müller, Joh. Jac., Sohn, Seidenf.
+15 | I. | 58 | | Dietschy-Lichtenhahn, Joh.
+  Couleru-Duvernoy, Civil-Ingenieur.
+  Siegfried u. Comp., Band- u. Seidenhd.
+16 | I. | 60 | zur leeren Flasche. | Basler-Bernoulli, Wb. Anna Cath.
+  Basler-Bernoulli, Wb. A. Cath., Part.
+17 | I. | 53 | Erlacherhof. | Burckhardt-Preiswerk, Wilhelm.
+  Comptoir u. Bandfabrik von Lucas Preiswerk.
+  Dietschy-Burckhardt, Joh. Jac., Bandfab.
+18 | I. | 56-57 | zur Meise. | Jenny-Gattinger, Friedrich.
+  Jenny-Gattinger, Fried., Dessinateur.
+  Winkler-Kähni, Jakob, Spezierer.
+  Friedli-Fleury, Eman., Eisenbahnbeamt.
+19 | I. | 50 | | Dietschy-Lichtenhahn, Joh. Jac.
+  Dietschy-Lichtenhahn, J. J., Bandfabr.
+  Dietschy, Wilhelm, Bandfabrikant.
+  Lichtenhahn, Hans Rud., Bandfabrik.
+  Firma Hans Balth. Burckhardt u. Sohn.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p198",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p198.jpg",
+    "bytes": 1462472,
+    "sha256": "114e4a735efe041a0cc770d527f54f7b70bd4522c6ce85ec3a8a80c7c581ab27",
+    "sha256_of": "original",
+    "working_copy": "1862_p198.jpg"
+  },
+  "text": "Spalenberg.                                                                                              133\nNre.      Quar-     Alte     Name des Hauses.     Namen der Hauseigenthümer\nHaus-Nr.  tler.     Haus-Nro.                            und Bewohner.\n13        VI.       1707     zur untern Allment.   Keller-Schäfer, Martin, Schreiner.\n                                                Grether-Görtzsch, Joh. Jacob, Schuhm.\n                                                Modespacher-Eckert, Alois.\n                                                Modespacher-Eckert, Alois, Kaufmann.\n                                                Wintsch-Stahl, Heinrich, Commis.\n                                                Löw-Ost, Gottlieb, Bauführer.\n14        II.       603      zur obern Hattstatt. Mäglin-Kuhn, Joh. Jacob.\n                                                Mäglin-Kuhn, Joh. Jacob, Küfer.\n                                                Buxtorf-Elssner, Wb. Elisabeth, Detail-\n                                                lantin.\n15        VI.       1706     zur obern Allment.   Grieder-Herzer, Jacob.\n                                                Grieder-Herzer, Jacob, Sattler.\n                                                Bienz-Fritschi, Johannes, Metzger.\n                                                Böglins-Euler, Carl, fel. Erben.\n                                                Böglins-Euler, Wb. Maria Magdalena,\n                                                Schreiner.\n                                                Sefti-Hilrner, Jacob Heinrich, Tabak-\n                                                und Cigarrenhandlung.\n                                                Holzach-Laubheim, Euchar., Lohndiener.\n17        VI.       1705     zum gelben Horn.     Hug-Knutt, Christof.\n                                                Hug-Knutt, Christof, Spengler.\n                                                Wisklin-Schmid, Franz Joseph, Maler.\n18        II.       605—606  zum obern u. untern Studt-Schwarz, Friedrich Ludwig.\n                                                Wildenstein.         Studt-Schwarz, Friedr. Ludw., Part.\n                                                Wegelin-Wohnlich, Joh. Rud., Wirth.\n                                                Spiek-Durift, Joh. Rudolf, Commis.\n                                                Weiß-Körner, Joseph Benedict, Musiklehr.\n19        VI.       1704     zum liechten Keller. Rudin-Schwarz, Johannes.\n                                                Rudin-Schwarz, Johannes, Ferger.\n                                                Rudin-Duttwiler, Johannes, Commis.\n                                                Meister-Studer, Dietrich, Detailiant.\n20        II.       607      zum Geyer.           Kehlstadt-Krauer, Adolf.\n                                                Kehlstadt-Krauer, Adolf, Tapezierer.\n                                                Fäjch-Dünner, Wb. Emma, Modewhdlg.\n21        VI.       608      ...................  Hegner-Schneider, Steffan.\n                                                Zäggi, Kaver, Fleckenpuzer.\n22        II.       490      zum Wolf.            Gyfin-Madöry, Ernst.\n                                                Gyfin-Madöry, Ernst, Handelsmann.\n                                                Firma: Pack-Burckhardt, F., Spezerei-,\n                                                Käse- und Branntweinhandlung.\n                                                Ueberegger, Rudolf, Sohn, Commis.\n23        II.       489      zum neuen Keller.    Kind, Wilhelm.\n                                                (Spalenapotheke.)    Kind, Wilhelm, Apotheker.\n                                                Schneider-Gysler, Joh. Jacob, Dessinat.\n24        II.       491      zum gelben Pfeil.    Falkner-Mazenbacher, Carl.\n                                                Falkner-Mazenbacher, Carl, Bannwart.\n25        II.       488      zum Pfeil.           Schimpf-Bender, J. Andreas.\n                                                Schimpf-Bender, J. Andr., Kunstmaler.\n                                                Meyer, Elise, Modiste.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6124,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4192,
+    "lines": 52,
+    "longest_char_run": 19,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0045,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p198",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p198.jpg",
+      "bytes": 1462472,
+      "sha256": "114e4a735efe041a0cc770d527f54f7b70bd4522c6ce85ec3a8a80c7c581ab27",
+      "sha256_of": "original",
+      "working_copy": "1862_p198.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:51+00:00"
+  }
+}

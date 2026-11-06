@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p381",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p381.jpg",
+    "bytes": 1478008,
+    "sha256": "fb83f14a71991dac7cbf9c24c411d52b9b8a051918e15fc8e3d129bcc4f6330c",
+    "sha256_of": "original",
+    "working_copy": "1862_p381.jpg"
+  },
+  "text": "316\nVerzeichniß der Bürger und Einwohner.\nMertian-Mahler, Alfred, Müller. St. Alban-Thal 23.\n— Marie, Rentiere. St. Peters-Graben 15.\n— =von Mechel, Part. Aeschenvorstadt 56.\n— =Mertian, Balthasar, Heuberg 28.\n— =Mertian, Samuel, Rentier. Münsterplatz 10.\n— =Meyer, Wb. Anna Maria, Bierbrauer. St. Leonhards-Berg 1.\n— Paul, Seiler. Aeschenvorstadt 56.\n— Peter Albert, Part. St. Leonhards-Graben 19.\n— =Reber, Johannes, Part. Heuberg 2.\n— =Reber, Sam., Pfarrer. Steinengrab. 23.\n— =Respinger, Carl Franz Josef, Kaufm. Todtentanz 13.\n— =Respinger, Remigius, Rentier. Bahnhofstraße 17.\n— =Respinger, Wb. Anna Elisabeth, Part. Missionsstraße 5.\n— =Ryhiner, Elisab., Rentiere. St. Alban-Vorstadt 10.\n— =Sarafin, Wilhelm, Landökonom. Augustiner-gasse 11.\n— =Seeber, Eman., Bierbrauer. St. Clara-Straße 49.\n— =Stierlin, Walter, J. U. C., Notar. Herbergsgasse 2.\n— =Süßert, Ludwig, Part. Steinenthorstraße 23.\n— Susanna, Rentiere. Rittergasse 21.\n— =Thurneyssen, Alfred, Kaufmann. Rittergasse 27.\n— =Thurneyssen, Peter, Rathsherr u. Professör. Münsterplatz 12.\n— =Sondermüll, H., Merian-Zielin, Rud. u. Erben von E. Merian-Bischoff sel., Comptoir. St. Alban-Vorstadt 58.\n— =Sonder-Müll, Heinrich, Rentier. St. Alban-Vorstadt 82.\nMerk-Schneider, Heinr., Pojam. Aeschenvorst. 63.\nMerke, Franz Xaver, Part. Nauenstraße 2.\nMerkhofer-Stüfele, Christ., Mechanikergeselle. Hammerstraße 92.\nMerkle-Klipfel, A., Kaufm. Spalenberg 65.\nMerkf-Benz, Joh., Taglöhner. Webergasse 17.\nMerz-Brotbeck, Balth., Maurer. Gotterbarmweg 20.\n— =Burchhardt, Gottlieb, Bäcker. Schafgäßlein 6.\n— =Christen, Jakob, Musterweber. Aeschenvorstadt 42.\n— Gottlieb, Schreiner. Reb-gasse 10.\n— =Müller, Jak., Holzhauer. Klosterberg 13.\n— =Rezler, Josef, Fabrikarbeiter. Reb-gasse 6.\n— =Tellenbach, Joh. Jak., Bäckermeister. Aeschenvorstadt 18.\nMesmer-Donatsch, Andreas, Ferger. Gartenstraße 70.\nMettauer-Hermann, Wb. Maria, Kostgeberin. Utengasse 44.\n— =Wagner, Theodor, Schiffmann. Rheingasse 76.\nMetzger, Balthasar, Lehrenmann. Mittlere Straße 51.\n— =Haug, Joh., Metzger. Weiße Gasse 3.\nMeuret-Bachlin, Gustav, Hausvater. Nonnenweg 20.\nMeyenburg-Stocker, Anselm Franz von, Eisenbahnbeamter. Neue Vorstadt 11.\nMeyenrock, Geschw. Louise u. Cath., Rentieres. Freie Straße 22.\n— =von Brunn, Friedr., Wein-, Branntwein-, Hopfenhandlung. Riechenthorstraße 28.\nMeyer-Abt, Heinrich Christof, Schuhmacher. Hammerstraße 22.\n— =Adermann, Gerhard, Sandfuhrmann. Horburgstraße 35.\n— =Altorfer, Friedrich. Firma Johannes Meyer, Spezerei u. Branntweinhdlg. Gerbergäcklein 22.\n— Amalia, Rentiere. St. Leonhards-Graben 18.\n— =Bader, Josef, Fabrikarbeiter. Gerbergasse 35.\n— Barbara, Borgängerin. St. Peterskirchplatz 14.\n— =Binkert, Daniel, Postbeamter. Sternengäcklein 29.\n— =Bischoff, Christian, Kaufmann. Untere Reb-gasse 4.\n— =Bohny, Jakob, Cigarrenmacher. Kap- peltshof 16.\n— =Brand, Friedrich, Thierarzt u. Wagenmeister. Herbergsgasse 4.\n— =Breitenstein, Christian, Seidenfärber. St. Johann-Vorstadt 53.\n— =Breiter, Ed., Bandfabrikant. Kohlenberg 25.\n— Bröddler, Donat, Maurer. Lindenberg 3.\n— =Brugger, Wb. Anna, Glätterin. Reb-gasse 36.\n— Caspar, Hausknecht. Nauenstraße 10.\n— =Eberwein, Hans Cour., Mechaniker. St. Alban-Thal 41.\n— =Ebner, Josef, Seidenfärber. Greifengasse 8.\n— Ed. u. Comp., Merceriehandlung. Sporen-gasse 15.\n— Elisa, Modiste. Spalenberg 25.\n— Emanuel, Manufacturwaarenhandlung. Barflikerplatz 5.\n— =Ettlin, Elis., Kostgeberin. Schneider-gasse 29.\n— =Fiechter, Peter, Metzger. Schlitzengattstraße 1.\n— =Francois, Joh. Jac., Part. Todtentanz 15.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9021,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3514,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:12:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p381",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p381.jpg",
+      "bytes": 1478008,
+      "sha256": "fb83f14a71991dac7cbf9c24c411d52b9b8a051918e15fc8e3d129bcc4f6330c",
+      "sha256_of": "original",
+      "working_copy": "1862_p381.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:12:13+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p240",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p240.jpg",
+    "bytes": 1482228,
+    "sha256": "d8bbdb00a8bf9af7561f6b6b1b7a7f07b4cdc98c23f7968e152ab941c6557047",
+    "sha256_of": "original",
+    "working_copy": "1862_p240.jpg"
+  },
+  "text": "Grenzacher-Straße. 175\nNro. | Quars tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n39 | VIII. | 50 b | | Frey, Josef.\n40 | VIII. | 52 A | | Schäffer, August.\n41 | VIII. | 50 D | | Wölfflin-Freyvogel, Georg, u. von Binzer, Friedr.\n43 | VIII. | 50 E | zum Fallgatter. | Wick-Keller, Wb. Anna, Part.\n44 | VIII. | 53 | z. Rosengarten. | Schwarzkopf-Ambrosius, Archim.\n45 | VIII. | 50 d | | Schwarzkopf-Ambrosius, Archim., Phil. Dr.\n48 | VIII. | 54 | | Ribbed-Bayer, Otto, Dr. Professör.\n52 | VIII. | 57 AB | Rheinburg. | Thurnhjlen-Kyhiner, Wb. Valeria.\n54 | VIII. | 57 | Biergarten. | Gueng-Welhausen, Franz.\n55 | VIII. | 55 | Grenzacherhof. | Thurneyfen-Kyhiner, Wb. Valeria.\n58 | VIII. | 58 | | Wezel-Steinhauer, Herm., Gärtner.\n62 | VIII. | 60 | | Bercher-Soulzener, Joh. Georg.\n72 | VIII. | 66 | | Bercher-Soulzener, Joh. Gg., Chemiker.\n73 | VIII. | 67 | z. Eben-Ezer. | Frey, Jacob, Med. Dr., Arzt.\n74 | VIII. | 68 | | Gaudenz-Seebert, Aug. Nap., Bierbr.\n76 | VIII. | 68 a | | Gaudenz-Seebert, Aug. Nap., Bierbr.\n80 | VIII. | 72 | zur Solitude. | Blind-Schaub, Georg, Zimmermeister.\n84 | VIII. | 73 | | Zumkehr-Baumann, Friedr., Schrein.\n85 | VIII. | 75 | zum Kutty. | Kern-Bischoff, Friedr., eidg. Oberst.\n86 | VIII. | 76 C | | Kern-Bischoff, Friedr., Bandfabrikant.\n88 | VIII. | 78 | | Merian-Zselin, Carl, Staatskassier.\n91 | VIII. | 77 | zum Rant. | Merian-Bischoff, Eduard sel. Erben.\n92 | VIII. | 78 b | | Boegtlin, Johannes, Gärtner.\n97 | VIII. | 69 | | Masselot-Riefer, Franz.\n| | | | | Masselot-Riefer, Franz, Gärtner.\n| | | | | Rothen-Naef, Johannes, Gutsbesitzer.\n| | | | | Läuchli-Huggenberger, Wb. Elisab.\n| | | | | Läuchli-Huggenberger, Wb. Elisabeth, Gärtner.\n| | | | | Faesch, Johannes, Kupferichmied.\n| | | | | Läuchli-Huggenberger, Wb. Elisab.\n| | | | | Hoffmann-Preiswerck, Wb. Helena.\n| | | | | Hoffmann-Preiswerck, Wb. Helena.\n| | | | | Delhafen, Samuel Jacob.\n| | | | | Madöry-Simmen, Jac., Posamenter.\n| | | | | Hoffmann-Preiswerck, Wb. Helena.\n| | | | | Hoffmann-Preiswerck, Wb. Helena.\n| | | | | Drehble-Elbe, Johs., Gärtner.\n| | | | | Baur-Fakler, Wb. Barbara.\n| | | | | Baur-Fakler, Wb. Barb., Gärtnerin.\n| | | | | Hoffmann-Preiswerck, Wb. Maria Helena.\n| | | | | Ewig, Joh. Georg u. Maria.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6563,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2256,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.093,
+    "mean_line_chars": 51.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p240",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p240.jpg",
+      "bytes": 1482228,
+      "sha256": "d8bbdb00a8bf9af7561f6b6b1b7a7f07b4cdc98c23f7968e152ab941c6557047",
+      "sha256_of": "original",
+      "working_copy": "1862_p240.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:49+00:00"
+  }
+}

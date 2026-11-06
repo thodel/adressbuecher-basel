@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p268",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p268.jpg",
+    "bytes": 1381443,
+    "sha256": "9635bbc310cbeff320d75c3c710402620e33961dec6efca41bb816b7d907b9f5",
+    "sha256_of": "original",
+    "working_copy": "1862_p268.jpg"
+  },
+  "text": "Riehenthorstraße. — Rosengartenweg. — Sägergäßlein. 203\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n28 | VIII. | 144 | | Meyenrock-VonBrunn, Friedrich.\n  Meyenrock-VonBrunn, Friedr., Kfm. Firma Meyenrock Sohn, Wein-, Brantwein-, Hopfenhandlung und Liqueurfabrik.\n29 | VIII. | 141 | zum Klösterli. | Braun, Andreas, sel. Erben.\n  VonBrunn-Braun, Wb. Margaretha, Speziererin.\n30 | VIII. | 143 | Spitaleck. | Gaß-Brunner, Jacob.\n  Gaß-Brunner, Jacob, Wirth.\n  Müller-Wenk, Joh. Rud., Farbholz-müller.\n31 | VIII. | 140 | zum Winkelried. | Tester, Josua.\n33 | | | |\n  Tester-Geßler, Josua, Zimmermeister.\n  Bohny-Holinger, Daniel, Kaufmann.\n  Geßler, Rudolf, Particular.\n32 | VIII. | 139 | Riehenthor. | Staat.\n\nRosengartenweg.\n\n1 | VIII. | 50 F | | VonBinzer, F. u. Woelfflin, G.\n  Schlueb-Mechel, Friedr., Part.\n  Rilliet-Lairé, Heinr. Ludw., Eisenbahn-beamter.\n3 | VIII. | 50 G | | VonBinzer, F. u. Woelfflin, G.\n5 | VIII. | 50 H | | VonBinzer, F. u. Woelfflin, G.\n\nSägergäßlein.\n\n1 | VII. | 358 b | Säge. | Merian, Amadeus.\n2 | VII. | 362 | z. untern Waldshut | Heusler-Merz, Friedrich.\n  Heusler-Merz, Friedrich, Spengler.\n3 | VII. | 358 | Säge. | Merian, Amadeus.\n  Merian, Amadeus, Architekt u. Stadtrath.\n4 | VII. | 361 | | Weber-Herzog, Jakob.\n  Weber-Herzog, Jakob, Kaufhausarbeiter.\n5 | VII. | 357 a | Farbholz u. Dro-gueriemühle. | Müller-Dietschy, Joh. Peter.\n  Frey-Honegger, Joh., Uebernehmer von Erdarbeiten.\n6 | VII. | 359 | | Heusler-Thurneysen, Leonhard.\n7 | VII. | 357 | | Müller-Dietschy, Joh. Peter.\n  Müller-Dietschy, Joh. Peter, Farbholz-müller.\n8 | VII. | 245 | | Rühlin-Rauer, Joh. Georg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7642,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1672,
+    "lines": 35,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:05:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p268",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p268.jpg",
+      "bytes": 1381443,
+      "sha256": "9635bbc310cbeff320d75c3c710402620e33961dec6efca41bb816b7d907b9f5",
+      "sha256_of": "original",
+      "working_copy": "1862_p268.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:47+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p197",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p197.jpg",
+    "bytes": 1268566,
+    "sha256": "44de7bfc6dfdab8d0b56316ef28098d4b64aab1e1df8c86f3b65ba715ff33899",
+    "sha256_of": "original",
+    "working_copy": "1862_p197.jpg"
+  },
+  "text": "132\nSingerweg. — Spalenberg.\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n2 | V. | 262 | | Merian-Burckhardt, Christof, sel. Erben.\n3 | V. | 263 d | | Kray-Rych, Christian, Lehenbeständer. Bachofen-Vischer, Wilhelm. (Defonomiegebäude.)\n4 | V. | 262 B | | Merian-Burckhardt, Christof, sel. Erben. (Lehenmannswohnung.)\nSpalenberg.\n1 | VI. | 1713 | 3. rothen Adler. | Geßler-Hübscher, Abr. Rudolf. Geßler-Hübscher, Abr. Rudolf, Glaser.\n2 | II. | 597 | zur Ente. | Preiswerk-Sulger, Carl. Preiswerk-Sulger, Carl, Kaufmann. Firma Eman. Preiswerk, Colonialwhdlg.\n3 | VI. | 1712 | schwarzer Adler. | Thommen-Wüller, Joh Jacob. Thommen-Wüller, Joh. Jacob, Gärtner. Stampjer-Otto, Wollwaarenhandlung. Diethelm-Wunderlin, Leonh., Schreiner. Beck, Joh. Jacob, Schloffer.\n4 | II. | 598 | zum kleinen Kirch- | Krayer-Loz, Leonhard Friedrich. garten. Krayer-Loz, Leonhard Friedrich, Küfer. Buillermet, Schwestern, Modistes. Faure-Bluntjchli, Math., Regenschirmfb. Haas-Reyser, Christian. Haas-Reyser, Christian, Wirth.\n5 | VI. | 1711 | zum Tämmlein. | Gyfin, Rudolf.\n6 | II. | 599 | zum Wildegg. | Seiler-Wernli, Caspar. Seiler Wernli, Caspar, Particular. Erb-Rübler, Maria Theresia, Schuhm.\n7 | VI. | 1710 | zum Gilgenberg. | Boffardt-Senn, Jacob. Boffardt-Senn, Jacob, Uhrmacher. Weiß, August Heinrich, Schuhmacher.\n8 | II. | 600 | zum niedern Licht. | Roschet, Emil. Roschet, Emil, Kürscher. Roschet, Carl, Bettwaarenhandlung. Roschet, Margaretha, Rentiere.\n9 | VI. | 1709 | zum Sperber. | Feindel-Bouchard, Wb. Francoise. Feindel-Bouchard, Wb. Franc., Schneid. Stiefel-Müller, Albert, Strumpfweber.\n10 | II. | 601 | 3. klein. Spalenhof. | Geßler-Vonklich, Emanuel. Geßler-Vonklich, Emanuel, Bierbrauer. Preiswerk, Alexander, Pfarrer. Bricar-Schaefer, Peter Carl, Partik.\n11 | VI. | 1708 | zum Dolder. | Schär-Haas, Joh. Jacob. Schär-Haas, Joh. Jacob, Schneider. Braunischweig-Levy, Jacq., Geldwechsel. Frey, Joh. Jacob, Möbelhändler.\n12 | II. | 602 | zum Spalenhof. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5673,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2010,
+    "lines": 27,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 73.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p197",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p197.jpg",
+      "bytes": 1268566,
+      "sha256": "44de7bfc6dfdab8d0b56316ef28098d4b64aab1e1df8c86f3b65ba715ff33899",
+      "sha256_of": "original",
+      "working_copy": "1862_p197.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:45+00:00"
+  }
+}

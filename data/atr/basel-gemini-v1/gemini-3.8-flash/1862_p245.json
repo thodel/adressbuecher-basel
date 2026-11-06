@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p245",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p245.jpg",
+    "bytes": 1268234,
+    "sha256": "54e9de19fcf934b138ae09a6056125b15764c8a8478e9e84de0ac4c6c4854c97",
+    "sha256_of": "original",
+    "working_copy": "1862_p245.jpg"
+  },
+  "text": "180 Karthausgäßlein. — Kirchgasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nKarthausgäßlein.\n1 | VIII. | 127 | | Wall-Denzer, Heinrich.\n  Wall-Denzer, Heinrich, Spezierer.\n  Wall, Heinrich, Vater, Part.\n  Oppliger-Degen, Casp., Gärtner.\n3 | VIII. | 128 | | Wall-Denzer, Heinrich.\n  Dill-Salathe, Wb. Marg., Part.\n4 | VIII. | 116 A | Carthauseckstall. | Bernoulli-Baer, Leonhard.\n5 | VIII. | 129 | | Glaser-Ritter, Friedrich.\n  Schwarz-Voegly, Phil. Hch., Flachmal.\n7 | VIII. | 130 | z. alten Gießhaus. | Aeschmann-Lichtenhahn, Daniel.\n  Aeschmann-Lichtenhahn, Dl., Schreiner.\n  Loew, Abraham Hiob, Holzsetzer.\n9 | VIII. | 131. | z. Wandersmann. | Fuchs-Grüninger, Wb. Apollonia.\n  Fuchs-Grüninger, Wb. Apoll., Part.\n  Jaecklin-Grüninger, Em., Baumeister.\n\nKirchgasse.\n1 | VIII. | 138 | ehem. Zieglerwohg. | Stadtgemeinde.\n  Müller-Grieshaber, Bernhard, Fuhr-\n  halter.\n2 | VIII. | 143 a b c | | Gaß-Brunner, Jakob.\n  Gaß-Brunner, Jakob, Pintenwirth.\n  Wenge-Hoechle, Jakob, Gärtner.\n3 | VIII. | 138 a | Scheune. | Stadtgemeinde.\n4 | VIII. | 137 | | Meyenrock-VonBrunn, Friedrich.\n6 | | | | Schaubhut, Carl Friedr., Kaufmann.\n5 | VIII. | 136 A | | Berlinger-Schwoeri, Eduard.\n  Berlinger-Schwoeri, Eduard, Gypser.\n  Kündig-Balmer, Johann, Dreher.\n8 | VIII. | 137 A | Knabenschulhaus zu St. Theodor. | Stadtgemeinde.\n  Schaffner-Schäffer, Friedrich, Ober-\n  lehrer.\n  Schaffner, Fritz, Ingenieur.\n  Hindermann-Landerer, Phil., Lehrer.\n9 | VIII. | 136 | | Berlinger-Schwoeri, Eduard.\n  Lang-Meyer, Sam., Schuhmacher.\n  Berlinger, Theodor, Schlosser.\n11 | VIII. | 135 | ehem. St. Theodors-Knabenschule. | Stadtgemeinde.\n  Bresin-Bender, Leonh. Mart., Feuer-\n  schaubeamter.\n  Bender, Joh. Georg, Schneider.\n13 | VIII. | 134 | dito dito | Stadtgemeinde.\n  Guise-Menzinger, Johanna.\n  Arvold, Carl, Telegraphist.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7279,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1873,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:02:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p245",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p245.jpg",
+      "bytes": 1268234,
+      "sha256": "54e9de19fcf934b138ae09a6056125b15764c8a8478e9e84de0ac4c6c4854c97",
+      "sha256_of": "original",
+      "working_copy": "1862_p245.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:27+00:00"
+  }
+}

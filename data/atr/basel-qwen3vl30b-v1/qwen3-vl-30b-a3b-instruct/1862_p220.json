@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p220",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p220.jpg",
+    "bytes": 1445875,
+    "sha256": "03af2311346633757ed46cd2c76c1f44efe672ea77c058b16c7620f14a0cfaec",
+    "sha256_of": "original",
+    "working_copy": "1862_p220.jpg"
+  },
+  "text": "Steinenvorstadt. — Sternengäßlein. 155\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n57 III. 802 ………………… Burckhardt=Jselin, Carl, und Burck-\nhardt, Albert.\n58 III. 796 zum Kohhof. Burckhardt=Jselin, Dr. J. U. Carl, Rathsherr.\nImHof=Forcart, Joh. Jacob.\n(Stallung.)\n59 III. 801 ………………… Bühler-Lehnis, Jacob Friedrich.\nBühler-Lehnis, Jacob Friedrich, Zim-\nmergefell.\n60 III. 796 Gerberei z. Kohhof. ImHof=Forcart, Joh. Jacob.\n61 III. 800 z. hohen gelb. Löwen. Dippel=DesGouttes, Friedrich, Kaufm.\nWeber=Faust, Emanuel.\nWeber=Faust, Emanuel, Desfinateur.\nFischer, Johannes, Musiker.\nSchäublin=Eschudin, Jacob, Holzhändl.\n63 III. 799 zum Mohrenkönig. Baumann, Gottlieb.\nBaumann, Gottlieb, Seidenfärber.\nBaumann=Schmidt, Wb. Magd., Part.\nDavid=Wattinger, Emanuel.\nDavid=Wattinger, Emanuel, Johannasch.\n65 III. 798 ………………… Ludwig=Weitnauer, Emil.\nLudwig=Weitnauer, Emil, Käfer.\nBenker=Stapfer, Friedrich, Barbier.\nSchneble=Sauereffig, Franz Joseph, Zoll-\nbeamter.\nBruckner, Theophil, Dr. Med., homöo-\npathischer Arzt.\n67 III. 797 A ………………… Ludwig=Weitnauer, Emil.\nLang und Ruef, Weinhändler.\n69 III. 797 …………………\nSternengäßlein.\n1–3 IV. 979 ………………… Wagner=Bogt, Jacob.\nWagner=Bogt, Jacob, Leinenweber.\n2 IV. 961 ………………… Sutter=Baumgartner, Joh. Jacob.\nTschopp=Basler, Carl, Piqueur.\n4 IV. 962 ………………… Freyburger=Salathe, Wb. Elisabeth.\nFreyburger=Salathe, Wb. Elisab., Trödl.\n6 IV. 963 ………………… Baumgartner, Johannes.\nBaumann, Hieronimus, Hafner.\n7 IV. 978 z. Sternen gehörend. Breiting=Heukler, Samuel.\nStallungen.\n8 IV. 964 ………………… Baumgartner, Johannes.\nBaumgartner, Joh., Schuhmacher.\n9 IV. 977 ………………… Ackermann=Schaub, Peter.\nAckermann=Schaub, Peter, Dekonom.\nOzzi=Maier, Friedrich, Schreiner.\n10 IV. 965 ………………… Herbel=Riedinger, Eberhard.\nHerbel=Riedinger, Eberh., Zimmergesell.\n11 IV. 976 ………………… Ackermann=Schaub, Peter.\nStallungen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5476,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1886,
+    "lines": 59,
+    "longest_char_run": 7,
+    "repeat_ratio": 0.0169,
+    "mean_line_chars": 30.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0037,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p220",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p220.jpg",
+      "bytes": 1445875,
+      "sha256": "03af2311346633757ed46cd2c76c1f44efe672ea77c058b16c7620f14a0cfaec",
+      "sha256_of": "original",
+      "working_copy": "1862_p220.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:00+00:00"
+  }
+}

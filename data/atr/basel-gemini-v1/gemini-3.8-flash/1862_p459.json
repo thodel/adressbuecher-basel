@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p459",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p459.jpg",
+    "bytes": 1348051,
+    "sha256": "3aebe375f696aa53c0dce9959340bf162442fe75c79f2a0595ff48acace65f99",
+    "sha256_of": "original",
+    "working_copy": "1862_p459.jpg"
+  },
+  "text": "394 Verzeichniß der Berufsarten.\n\nLeupin, Emilie. Rheingasse 70.\nLüthy-Stolz, Frau. Aeschenvorstadt 26.\nMüller-Buchmann, Wb. Louise. Steinen-\n  vorstadt 47.\n\nZahnarzt.\nPutnam, Carl. Schützengraben 43.\nRittmann, Peter. St. Peters-Gasse 26.\nSchieß, Heinrich. Wallstraße 24.\nSexter, Wilhelm. Freie Straße 66.\nSiegmund Carl. Heuberg 4.\nSievers, Carl Aug. St. Peters-Platz 4.\nStohler, J. J. Untere Rheingasse 13.\n\nZeichnungslehrer.\nGeelhar, Heinr. Schützengasse 17.\nKelterborn-Märklin, L. A. Steinenberg 4.\nRosenfeld, Jos. Bysangweg 32.\nSchmidt-Montandon, Gg. Michael. Blumen-\n  rain 14.\nTeichmann, Carl. Steinenvorstadt 35.\n\nZiegler.\nEngler, Heinrich. Bachlettenstraße 15.\nHartmann, Heinrich. Holeeweg 15\nHegner, Steffan. St. Jakobs-Straße 3.\nHolzach, Friedr. Gellertstraße 14.\nJung, J. Grenzacher-Straße 100.\nSchaub, Jakob. Binninger-Straße 3.\nWölflin, J. G. Heumattstraße 14.\n\nZimmermeister.\nBlind, Georg. Hintere Bahnhofstraße 90.\nDietzi, Gebhard. St. Clara-Straße 22.\nEcklin-Holzach, Theodor. Missions-Straße 39.\nFrey, Joseph. Grenzacher-Straße 39.\nGasquet, Friedrich W. Sternengäßlein 33.\nGaß, Christian. Mittlere Straße 63.\nGötte, J. Spalenvorstadt 39.\nGundrum, Michael. Unterer Rheinweg 25.\nHauser, Fridolin. Mostackerstraße 18.\nHübscher, Wilh. St. Johann-Vorstadt 88.\n\n[spalte 2]\nKupferschmied-Häfelfinger, Wb. Unterer\n  Heuberg 9.\nLinder-Seul, Wb. St. Clara-Straße 37.\nLotz, Friedrich. Rebgasse 32.\nMangold, Samuel. Steinenbachgäßlein 26.\nOtto, Johs. Nicl. Münsterberg 6.\nParavicini-Merian, Ludwig. Steinenthor-\n  straße 22.\n  -Meyer, Ludw. Steinenthorstraße 22.\nPlattner-Hosch, Joh. St. Leonh.-Straße 24.\nRitter, Joh. Bapt. Hintere Bahnhofstr. 40.\nSchäffer, J. J. Aug. Utengasse 35.\nStehlin-Burckhardt, Joh. Jac. Malzgasse 27.\nTester, Josua. Riehenthorstraße 31.\nWittlin, Georg. St. Elisabethen-Str. 32.\n\nZinngießer.\nSchnegg, J. J. Freie Straße 57.\n\nZuckerbäcker.\nBrüderlin, Ambrosius. Schneidergasse 4.\nBuchmann, Peter. Spalenberg 35.\nBurckhardt, A. Freie Straße 26.\nCrussaire, Ludwig. Barfüßerplatz 1.\nCrussaire, Victor. Schneidergasse 27.\nDoswald, C. Josef. Freie Straße 94.\nErtzberger-Krayer, Wb. Freie Straße 33.\nGrether, Friedrich. Greifengasse 39.\nGysler, Adolf. Aeschenvorstadt 53.\nHörler, J. J. Greifengasse 13.\nLutz, Eduard. St. Elisabethen-Straße 60.\nMeyer, Christof. Streitgasse 7.\nRochet, R. Schifflände 10.\nSegiser, Joh. Friedr. Nadelberg 31.\nSoultzener, Alexander. Eisengasse 3.\nTischhauser, Simon. Gerbergasse 34.\nValair, Johs. Rud. Spalenberg 52.\nWirz, J. X. H. Freie Straße 10.\nWitzig, Georg. Spalenthorweg 4.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9747,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2533,
+    "lines": 77,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:49:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p459",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p459.jpg",
+      "bytes": 1348051,
+      "sha256": "3aebe375f696aa53c0dce9959340bf162442fe75c79f2a0595ff48acace65f99",
+      "sha256_of": "original",
+      "working_copy": "1862_p459.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:49:19+00:00"
+  }
+}

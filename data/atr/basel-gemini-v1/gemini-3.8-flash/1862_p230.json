@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p230",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p230.jpg",
+    "bytes": 1450320,
+    "sha256": "7affd6b7d162e0d507c6cede124f4d00aa609411c1bdf02f781d2d7afda8428b",
+    "sha256_of": "original",
+    "working_copy": "1862_p230.jpg"
+  },
+  "text": "Bahnhofstraße. 165\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nBahnhofstraße.\n1 | VIII. | 18 A | | Jaeggi-Landbeck, Wilh.\n  Jaeggi-Landbeck, Wilh., Wirth.\n  Strebel-Broechin, Ludw., Part.\n3 | VIII. | 18 B | Extractfabrik. | Müller, Joh. Jakob u. Comp.\n  Schlumberger-Saxer, Jul. Albert, Che-\n  miker.\n  Müller-Pack, J. J., Fabr. v. chemischen\n  Farbstoffen.\n  Cornu, Felix, Chemiker.\n  Finsler, Heinrich, Chemiker.\n  Sieber, Dr. B., Chemiker.\n4 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.\n6 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.\n  Eckhardt, Friedr. Postmeister.\n7 | VII. | 7 Q | | Merian-Seeber, Emanuel.\n8 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.\n9 | VII. | 7 R | | Merian-Seeber, Emanuel.\n10 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.\n  VonDavans, Aug., Post- u. Eisenbahn-\n  cassier.\n11 | VII. | 7 S | | Schoellkopf-Schuhmacher, Gottl. F.\n12 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.\n  Wolff, Tobias, Ingenieurpractikant.\n  Malzacher, Wilh., Postpractikant.\n  Reiß, Albert, Güterexpeditor.\n  Eck, Anton, Telegraphist.\n13 | VII. | 7 T | | Schoellkopf-Schuhmacher, Gottl. F.\n15 | VII. | 7 U | | Schoellkopf-Schuhmacher, Gottl. F.\n17 | VII. | 80 A | | Bürgin, Em. u. Heinrich.\n  Grisard-Cheron, Wb. Mar. Elisabeth,\n  Tabakhandlung.\n  Merian-Respinger, Remigius, Part.\n  Böhl-Kohlbrügge, Ed., Dr. u. Privat-\n  Dozent.\n19 | VII. | 80 B | Gasthof zum Basler Hof. | Emde-Schoch, Christ. Friedr.\n  Becker-Geiger, Friedr., Gastwirth.\n  Schaaf, Adolf, Zollbeamter.\n23 | VII. | 81 A | | Grollimund-Rapp, Jacob.\n  Grollimund-Rapp, Jac., Wirth.\n31 | VII. | 82 A | | Berlinger-Martin, Frau.\n  Berlinger-Martin, Georg, Maurer.\n  Kenk-Faller, Philipp, Bildhauer.\n  Rink-Rohner, Wilh., Schreiner.\n33 | VII. | 82 B a | | VonBrunn-Matzinger, Simon.\n45 | VII. | 73 E | | Hetzel-VonBrunn, Wb. Angelika.\n47 | VII. | 66 | | Braun-Geßler, Andreas.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9026,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2005,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:00:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p230",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p230.jpg",
+      "bytes": 1450320,
+      "sha256": "7affd6b7d162e0d507c6cede124f4d00aa609411c1bdf02f781d2d7afda8428b",
+      "sha256_of": "original",
+      "working_copy": "1862_p230.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:00:08+00:00"
+  }
+}

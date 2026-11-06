@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p121",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p121.jpg",
+    "bytes": 1294992,
+    "sha256": "f7f1062633096c9fd304ccf0c4c73b828781cde30c0aea54cd67e76e3390b091",
+    "sha256_of": "original",
+    "working_copy": "1862_p121.jpg"
+  },
+  "text": "56\nGerbergässlein.\nNeue\nHaus-Nr.\nQuarz-\ntier.\nAlte\nHaus-Nr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n16 VI 634 ………………… Wiesendanger=Häfy, Wb. Sophia.\nWiesendanger=Häfy, Wb.S., Schneiderin.\nWiesendanger=Hägler, S. S. Fr., Ferger.\n17 VI 662 das alte Bad. Gaf=Thurneyfen, Wb. Friederika.\n18 VI 635 zur Niederburg. Grunauer=Mayer, Sebastian.\nGrunauer=Mayer, Sebastian, Kaufm.\nStöcklin=Walz, Georg Friedr., Commis.\nWild, Josua, Rentier.\n19 VI 663 ………………… Haller=Marfort, V.\n(Magazin.)\n20 VI 636 ………………… Müry=Rudin, Samuel.\nMüry=Rudin, Samuel, Kostgeber.\n21 VI 664 zum rothen Krebs. Singeisen, Joh. Jakob Daniel.\nGauthier, Louis, Hutmacher.\n22 VI 638 zum Königsberg. Meyer=Altorfer, Friedrich.\nMeyer=Altorfer, Friedr., Spezerei= und\nBranntweinhandlung.\n(Firma: Johannes Meyer.)\n23 VI 665 z. hangend. Stein. Thurneyfen, Ludwig.\nLeuenberger=Wyß, M. A., Wascherin.\n24 VI 677 zum Richtbrunnen. Maß=Pfannenschmied, Joh. Jakob.\nMaß=Pfannenschmied, S. S., Buchdrucker.\n25 VI 666 zur niedern Burg. Schaub=Eichacker, David.\nHötz=Wespi, Jacob, Fabrikarbeiter.\n26 VI 678 zur Birs. Buser=Schlegel, Jacob.\nBuser=Schlegel, Jacob, Schneider.\nBuser=Haufer, Carl, Commis.\n27 VI 667 ………………… Wohlnich=Biland, Wb. Sophia.\n(Magazin.)\n28 VI 679 zum Richtbrunnen. Baumann=Gerber, Heinrich, und\nGerber=Brechbühl, Christian.\nBaumann=Gerber, Heinrich, Spezierer.\nGerber=Brechbühl, Christian, Holz= u.\nKohlenhändler.\nWelti=Müller, Georg, Fuhrhalter.\n29 VI 668 z. langen Leiter. Krug, Mary.\nKrug, Mary.\n30 VI 680 ………………… Braun=Widler, Bernhard.\nBraun=Widler, Bernhard, Maurer.\n31 VI 669 ………………… Roller=Wei, Wb. Rosina.\nBaumgartner=Banier, Alois, Fabrikarb.\n32 VI 681 zum Mohrenkopf. Weiß=Fürst, Daniel Hieronimus.\nWeiß=Fürst, Daniel Hier., Brieftträger\nund Holzhändler.\n33 VI 670 zum grünen Stein. Löw=Reifer, Joh. Jakob.\nBölsclin=Hedler, S., Postangestellter.\n34 VI 682 zur Staufenburg. Gohl=Maag, Heinrich.\nGohl=Maag, Heinrich, Zimmermeister.\n35 VI 671 ………………… Ammann, Achilles.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6535,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1962,
+    "lines": 60,
+    "longest_char_run": 7,
+    "repeat_ratio": 0.0333,
+    "mean_line_chars": 31.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0036,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:36:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p121",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p121.jpg",
+      "bytes": 1294992,
+      "sha256": "f7f1062633096c9fd304ccf0c4c73b828781cde30c0aea54cd67e76e3390b091",
+      "sha256_of": "original",
+      "working_copy": "1862_p121.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:29+00:00"
+  }
+}

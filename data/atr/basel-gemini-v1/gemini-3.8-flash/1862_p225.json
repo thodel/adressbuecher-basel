@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p225",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p225.jpg",
+    "bytes": 1267648,
+    "sha256": "51351b98997985973dbc8310df552fc7ccd878e508363d7239a99167e742351d",
+    "sha256_of": "original",
+    "working_copy": "1862_p225.jpg"
+  },
+  "text": "160 Todtentanz. — Trillengäßlein. — Wallstraße.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n11 | I. | 79 | | Schöck-Hindenlang, Jak. Christof.\n  Schöck-Hindenlang, Jak. Christ., Kfm.\n12 | I. | 78 | zum Häsli. | Mieg-Keller, Rosina.\n  Schachtler-Moser, Joh. Jak., Gipser.\n13 | I. | 77 | zur Hölle. | Merian-Respinger, Carl Frz. Josef.\n  Merian-Respinger, Carl Franz Joseph, Kaufmann.\n14 | I. | 76 | | Wetzel-Keller, Sebastian.\n  Wetzel-Keller, Sebastian, Magazinier.\n15 | I. | 75 | | Meyer-François, Joh. Jak.\n  Meyer-François, Joh. Jak., Part.\n16 | I. | 74 | z. goldenen Türkis. | Hasler-Sutermeister, Wb. Elise.\n  Hasler-Sutermeister, Wb. Elise, Partikularin.\n  Hasler, Joh. Martin, Commis.\n17 | I. | 71 | Bockstecherhof. | Iselin-LaRoche, Joh. Jak.\n  Iselin-LaRoche, Joh. Jak., Rentier.\n18 | I. | | | Iselin-LaRoche, Joh. Jakob.\n  Remise.\n19 | I. | 71 | französische Kirche. | Staat.\n\nTrillengäßlein.\n\n1 | VI. | 611 | z. obern Straßburg. | Schneider-Thommen, Joh. Jak.\n  Schneider-Thommen, Joh. Jak., Schrein.\n  Kuntz-Jenni, Joh. Peter, Buchbinder.\n  VonGunten-Meyer, Christ., Viktualienhändler.\n3 | VI. | 410 | | Schmidlin-Zumsteg, Joh. Baptist.\n  Schmidlin, Jakob, Schneider.\n  Biri-Hinden, Pius, Schreiner.\n4 | VI. | 412 | | Bonin, Georg.\n5 | VI. | 409 | | Häberlin-Schlageter, Franz.\n  Häberlin-Schlageter, Franz, Schuhmach.\n6 | VI. | 411 | | Holdenecker, Franz Johann und Wädenschwiler, Sebastian.\n  Flubacher-Speiser, J. Jak., Schuhmach.\n8 | VI. | 415 | zum grünen Helm. | Baur, Samuel.\n  Malerwerkstätte.\n\nWallstraße.\n\n2 | IV. | | | Stadtgemeinde. Spritzenhaus.\n4 | IV. | 896 G | | Stentz-May, Conrad.\n  Schaefer-Wunderlin, Vincenz, Zimmermann.\n  Schaefer-Kaiser, Christian, Zimmerm.\n  Spieler-Wertenberg, Adolf, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9598,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1792,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p225",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p225.jpg",
+      "bytes": 1267648,
+      "sha256": "51351b98997985973dbc8310df552fc7ccd878e508363d7239a99167e742351d",
+      "sha256_of": "original",
+      "working_copy": "1862_p225.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:28+00:00"
+  }
+}

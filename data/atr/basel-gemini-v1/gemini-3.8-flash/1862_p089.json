@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p089",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p089.jpg",
+    "bytes": 1309550,
+    "sha256": "80353e54ddd0856e8cc179355ee3495f4920f44ee84f553787d79bb380174fc0",
+    "sha256_of": "original",
+    "working_copy": "1862_p089.jpg"
+  },
+  "text": "24 | Bachlettenstraße. — Bäumleingasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n19 | III. | 181 a | Weinzollstätte. | Engler-Preisentanz, Heinrich.\n  Jordan-Weiersmüller, Conr., Zollbeamt.\n21 | III. | 181 A |  | Bertsche-David, Samuel.\n  Bertsche-David, Samuel, Papierfabrik.\n  Steinbrüchel-Nägeli, Gustav, Papierf.\n23 | III. | 183 | Wasserhaus. | Stadtgemeinde.\n  Biedert-Gutzwiler, Jakob, Wasserknecht.\n\nBäumleingasse.\n\n1 | IV. | 1383 | zum Kameel. | Bernoulli-Obermeyer, Daniel.\n  Bernoulli-Obermeyer, Daniel, J. U. D.\n  Bernoulli, Daniel, Kaufmann.\n2 | IV. | 1076 | zum goldenen Ort. | Wagner-Mayr, Wb. Elise.\n  Wagner-Mayr, Wb. Elise, Leinwdhdlg.\n  Bertholet-Wagner, Felix, Lehrer.\n3 | IV. | 1382 | Pfäzzerhof. | Staat, Gerichtshaus.\n  Tschann-Salathe, Bernhard, Weibel u.\n    Abwart.\n4 | IV. | 1193 | z. nied. Mehlbaum. | Wettstein-Hoffmann, Wb. Sophie.\n  Wettstein-Hoffmann, Wb. Soph., Apoth.\n  Thamm, Ferd., Apotheke-Verwalter.\n5 | IV. | 1381 A | z. unt. Sternenfels. | Socin-Werthemann, Christoph.\n  Socin-Werthemann, Christoph, Kaufm.\n  Socin, Christoph, Sohn, Mechaniker.\n  Kündig-von Speyr, Aug. Theod., Ph. Dr.\n6 | IV. | 1194 | zum blauen Berg. | Wettstein-Hoffmann, Wb. Sophia.\n  Schaffner-Düring, Wihelm, Commis.\n  Kellenberger, Adolf, Zeichner.\n7 | IV. | 1381 | oberer Sternenfels. | Ehinger-LaRoche, Wb. Anna Cath.\n  Ehinger-LaRoche, Wb. Anna Cath., Part.\n  Bischoff-Ehinger, Andr., Handelsmann.\n8 | IV. | 1195 | zur Traube. | Pöhls-Müller, Lucas.\n  Pöhls-Müller, Lucas, Schlosser.\n9 | IV. | 1380 | St. Johannes. | Ehinger-LaRoche, Wb. Anna Cath.\n  Streckeisen-Ehinger, Carl, Dr. M. u. Prof.\n10 | IV. | 1196 | zum Haidweiler. | Geering, Geschwister.\n  Geering, Emil Ludwig, V. D. M.\n  Geering, Schwestern.\n  Firma: Felix Schneiders Buchhandlung,\n    Buchdruckerei und Antiquariat.\n11 | IV. | 1379 | Lehrerwohnung. | Staat.\n  Fechter-Hanhart, Dr. Dan. Alb., Conrect.\n12 | IV. | 1197 | z. Maulbeerbaum. | Salathe-Geßler, Jakob.\n  Salathe-Geßler, Jakob, Tapezierer.\n  Zucker-Müller, Benedict, Organist.\n  Salathe-Bärwart, Hieron., Dessinateur.\n  Papierhandlung von J. F. Studer.\n13 | IV. | 1378 | zum Pharisäer. | Anstein-Wölfflin, Wb. Margaretha.\n  Anstein-Wölfflin, Wb. Marg., Part.\n  Wirz-Streicher, Joh. Jak., Küfer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9160,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2301,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p089",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p089.jpg",
+      "bytes": 1309550,
+      "sha256": "80353e54ddd0856e8cc179355ee3495f4920f44ee84f553787d79bb380174fc0",
+      "sha256_of": "original",
+      "working_copy": "1862_p089.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:19+00:00"
+  }
+}

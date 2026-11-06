@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p228",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p228.jpg",
+    "bytes": 1369699,
+    "sha256": "9f77d2e7f49674b6324c0f4d4f9231685c79aeb9489fa30a12dcacfdbae68d74",
+    "sha256_of": "original",
+    "working_copy": "1862_p228.jpg"
+  },
+  "text": "Weise-Gasse.\n163\nNro. | Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n16 | IV. | 1138 | zum Paradies. | Gak-Früh, Joh. Jak. | Gak-Früh, Joh. Jak., Kostgeber.\n17 | IV. | 1109 | zum neuen Haus. | Krüsi-Zahler, Christian. | Leithardt, Peter, Schuhmacher.\n18 | IV. | 1139 | zum Delbaum. | Christen-Mangold, Wb. Maria. | Christen-Mangold, Wb. M., Gebamme. | Mangold, Adam, Mechaniker.\n19 | IV. | 1108 | Heitwiller. | Krüsi-Zahler, Christian. | Krüsi-Zahler, Christian, Buchdrucker. | Dickenmann, August, Tapezierer.\n20 | IV. | 1140 | zum St. Peter. | Heckel-Hug, Joh. Jak. | Heckel-Hug, Joh. Jak., Typograph.\n21 | IV. | 1107 | zum Glückrad. | Hindermann-Schöll, Friedrich. | Hindermann-Schöll, Friedr. Kfm. | Firma Jakob Bleiler, Spezerei- u. Colonialwaarenhandlung.\n22 | IV. | 1141 | zur Gipsmühle. | Strub-Becker, Lukas. | Strub-Becker, Lukas, Metzger. | Strub-Wassermann, Wilh., Commis. | Leimbacher-Hasler, Melch., Zimmern.\n24 | IV. | 1142 | zum St. Niklaus. | Berger-Brandt, Wb. Carolina. | Berger-Brandt, Wb. Carolina, Birthsch.\n26 | IV. | 1143 | zum Uriftier. | Münkle, Johannes, Straßenwart. | Hug-Loz, Wb. Agnes, Part.\n28 | IV. | 1144—45 | 3. Gasthof 3. Schiff. | Ritter, Rudolf. | Bohny, Gebrüder, Kleidermagazin.\n—46\n11 *",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4250,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1285,
+    "lines": 15,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 84.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p228",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p228.jpg",
+      "bytes": 1369699,
+      "sha256": "9f77d2e7f49674b6324c0f4d4f9231685c79aeb9489fa30a12dcacfdbae68d74",
+      "sha256_of": "original",
+      "working_copy": "1862_p228.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:45+00:00"
+  }
+}

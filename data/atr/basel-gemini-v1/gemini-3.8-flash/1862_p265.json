@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p265",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p265.jpg",
+    "bytes": 1288885,
+    "sha256": "bfa0c691878d20df5203bf1386f9894390ec3b4101ae9c549310540b4d246d6f",
+    "sha256_of": "original",
+    "working_copy": "1862_p265.jpg"
+  },
+  "text": "200 | Riehenstraße.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n29 | VII. | 29 A | | Kaufhauscommission.\n30 | VIII. | 26 | | Merian-Ryhiner, Wb. Elisabeth.\n32 | VIII. | 27 | | Merian-Ryhiner, Wb. Elisabeth.\n36 | VIII. | 28—30 | | Merian-Ryhiner, Wb. Elisabeth.\n  Dettwiler-Brüderlin, Wb. Anna Cath., Lehenfrau.\n38 | VIII. | 28 a | | Merian-Ryhiner, Wb. Elisabeth.\n41 | VII. | | Kap. d. St. Theodors Gottesacker. | Bann St. Theodor.\n47 | VII. | 35 | | LeGrand, Christof u. Maria.\n49 | VII. | 35 a | | LeGrand, Christof u. Maria.\n54 | VIII. | 36 | | Merian-VonderMühll, Heinrich.\n  Daucher-Kermgott, Phil., Gärtner.\n56 | VIII. | 36 i | | Merian-VonderMühll, Heinrich.\n57 | VII. | 37 | | Lützelmann-Schaffner, Hans Jac.\n  Rolin-Lützelmann, Lucien Alexander, Chemiker.\n58 | VIII. | 36 k | | Merian-VonderMühll, Heinrich.\n59 | VII. | 39 a | | Oswald-Hindermann, Mathias.\n  Fenner-Rudloff, Rud., Werkführer.\n  Ilg-Armand, Aug., Eisenbahnbeamter.\n  Oehl, Heinrich, Kaufmann.\n60 | VIII. | 39 A b | | VonderMühll-Vischer, Friedrich.\n61 | VII. | 39 | | Oswald-Hindermann, Mathias.\n  Fabrik von H. Magallon u. Comp.\n62 | VIII. | 39 A | z. Zedern-Hof. | VonderMühll-Vischer, Friedrich.\n  Blank-Rom, Joh. Christ., Gärtner.\n  Joecker-Kienberger, Urs, Lehenbeständer.\n  Vest, Christof, Part.\n68 | VIII. | 87 D | | Zimmerlin-VonSpeyr, August.\n69 | VII. | 40 | | Merian-VonderMühll, Heinrich.\n70 | VIII. | 86 A | zum Heimathland. | Zimmerlin-VonSpeyr, Aug.\n  Brestler-Haeseli, Jos., Lehenbeständer.\n74 | VIII. | 89 A | z. Hirschenbrunnen. | Vischer-Burckhardt, Peter.\n75 | VII. | 88 | z. klein. Surinam. | Merian-Burckhardt, Wb. Valeria.\n  Bader-Osiander, Lehenmann.\n76 | VIII. | 89 | z. Hirschenbrunnen. | Vischer-Burckhardt, Peter.\n  Roethlisperger-Müller, Friedr., Lehenbeständer.\n  Diüller-Huber, Johs., Gärtner.\n94 | VIII. | 94 | zum Bäumlihof. | Merian-Merian, Samuel.\n  Salathe, Josef, Lehenmann.\n  Hupfer-Hutterle, Joh. Georg, Gärtner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7726,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1988,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:05:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p265",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p265.jpg",
+      "bytes": 1288885,
+      "sha256": "bfa0c691878d20df5203bf1386f9894390ec3b4101ae9c549310540b4d246d6f",
+      "sha256_of": "original",
+      "working_copy": "1862_p265.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:22+00:00"
+  }
+}

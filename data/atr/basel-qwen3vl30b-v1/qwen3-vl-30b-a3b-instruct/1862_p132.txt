@@ -1,0 +1,57 @@
+St. Jakobs-Straße.
+67
+Nre
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+9 | V. | 255 A. | | Fininger-Eglin, Leonhard.
+| | | | Fininger-Eglin, Leonhard, Rathsherr.
+10 | IV. | 223 | | Bischer, Jgfr. Salome.
+11 | V. | 255 | | Von Speyr=Jselin, Carl,
+| | | | Von Speyr=Jselin, Carl, Kaufmann.
+12 | IV. | 224 | | Wehrly-Himmely, Carl.
+| | | | Wehrly-Himmely, Carl, Ferger.
+| | | | Siegrist Frey, Wittwe Candine, Part.
+13 | V. | 254 | | Menger=Weiker, Wilhelmine.
+| | | | Menger=Weiker, Wb. Wilh., Rentiere.
+| | | | Rühniner=Menger, Em., Stadtrath.
+| | | | Birgy-Rieggardt, Em., Bandfabrikant.
+14 | IV. | 225 | | Jselin, Adèle.
+| | | | Jselin, Jungfr. Adèle, Rentiere.
+16 | IV. | 227 | | Burkhardt, Wb. Rosina.
+17 | V. | 252 A. | | Kufmaul, Michael u. Schmid, Xaver.
+18 | IV. | 228 | | Burkhardt=Bernoulli, Wb. Charl.
+19 | V. | 252 | | Schmid=Kloz, Xaver u. Kufmaul,
+| | | | Michael.
+| | | | Schmid=Kloz, Xaver, Chirurg.
+20 | IV. | 229 | | Bischoff=Bischoff, Hieronimus.
+21 | V. | 251 A. | | Löw=Geßler, Johannes.
+| | | | Löw=Geßler, Johannes, Ferger.
+22 | IV. | 229 b. | | Bischoff=Bischoff, Hieronimus.
+| | | | Dörflinger=Herzog, Casp., Gärtner.
+| | | | Rühniner=Bischoff, Carl.
+23 | V. | 251 | | Vonder Mühl=Bischoff, Em.
+24 | V. | 230 | | Günther=Schaub, Jacob.
+| | | | Günther=Schaub, Jacob, Particular.
+25 | V. | 250 u. | | Günther=Schaub, Jacob.
+27 | V. | 250 a. | | Sutter=Zürcher, Johannes, Roßgeber.
+29 | V. | 249 | | Ehinger=LaRoche, Wb. Catharina,
+| | | | Rentiere.
+| | | | Dettwyler=Boegeli, Heinr., Gärtner.
+31 | V. | 248 | | Bischer=Christ, Rudolf.
+| | | | Gerber=Eisenlohr, F. F., Gärtner.
+33 | V. | 247 b. u. | | Merian=Burkhardt, J. J. sel. Erb.
+35 | | 247 | | Heinimann=Probst, Heinr., Lehnenbest.
+41 | V. | 259 | | Fürstenberger=Debary, Wb. Julie.
+| | | | Dörflinger=Primborgne, Fried., Gärtner.
+42 | V. | 258 u. c. | | Rühniner-Werthemann, Wb. Suf.
+44 | | | | Bachofen=Bischer, Wilhelm.
+| | | | Bueß, Jacob, Gärtner.
+46 | V. | 260 | | Gysin, Heinrich.
+53 | V. | 263 | | Erzenberger=Dürrenberger, J., Schrein.
+54 | V. | 261 | zum Obstgarten. | 5*

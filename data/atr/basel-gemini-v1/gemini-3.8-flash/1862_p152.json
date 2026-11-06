@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p152",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p152.jpg",
+    "bytes": 1477216,
+    "sha256": "bae6ffecb8947832a55d1aaa42ffc005951c51fb57deb03b2dd513cb8eef6830",
+    "sha256_of": "original",
+    "working_copy": "1862_p152.jpg"
+  },
+  "text": "Luftgäßlein. — Malzgasse. | 87\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n4 | V. | 1200 d | | Hindermann-Merian, Joh. Jakob.\n5 | V. | 1204 A | Knabenschule. | Stadtgemeinde.\n  Oser-Müller, Leonh., S. M. C., Oberl.\n9 | V. | 1203 | | Heusler-Ryhiner, Andreas.\n  Heusler-Ryhiner, And., Professor.\n  Heusler, Andreas, Sohn, J. U. D.\n\nMalzgasse.\n\n1 | V. | 1259 | | Wacker-Müller, Friedrich.\n  Wacker-Müller, Fried., Kostgeber.\n  Erdmann-Frey, Carl, Schreiner.\n2 | V. | 1239 | zum Brigittathor. | Merian, Jgfr. Henriette u. Anna.\n  Merian-Bischoff, Wb. Pauline, Rentiere.\n3 | V. | 1258 | | ImHof-Motsch, Joh. Friedrich.\n  ImHof, Joh. Friedrich, Schuhmacher.\n  Frey-ImHof, Joh. Michael, Piqueur.\n4 | V. | 1239 b | | VonderMühll-Hoffmann, Leonhard,\n  sel. Erben.\n5 | V. | 1257 A | | Sarasin u. Comp.\n  Schäfer-Hittpoldt, Friedr., Fabrikmstr.\n6 | V. | 1230 h | | VonderMühll-Hoffmann, Leonhard,\n  sel. Erben. (Remise.)\n7 | V. | 1257 | | Siegrist-Kündig, Wb. Johanna.\n  Siegrist-Kündig, Wb. Johanna, Part.\n  Siegrist-Marquart, Carl, Schreiner.\n9 | V. | 1256 | alt Beginenhaus. | Thommen, Bernhard.\n  Thommen, Bernh., Decorationsmaler.\n  Speiser-Schardt, Joh., Dessinateur.\n  Perrot-Betard, Joh., Bildhauer.\n  Teichmann, Carl, Agent f. mechan. Ge-\n    genstände u. Zeichnungslehrer.\n10 | V. | 1242 | | VonderMühll-Hoffmann Leonhard,\n  sel. Erben.\n  Straumann-Wertenberg, J. Rud., Ferg.\n11 | V. | 1255 | | Desarnaud, Franz.\n  Desarnaud, Franz, Liseur.\n  Faure, Jean, Liseur.\n12 | V. | 1243 | | VonderMühll-Hoffmann, Leonhard,\n  sel. Erben.\n13 | V. | 1254 | | Thierry-Lenzi, Wb. Margaretha.\n  Zimmermann, Joh. Conr., Schuhmach.\n14 | V. | 1244 | | Heußler-Thurneysen, Daniel.\n  (Remise und Stallung.)\n15 | V. | 1253 | | Strübin-Hunziker, Wb. Agnes.\n  Rähmi-Meuri, Jean, Gärtner.\n  Straumann, Heinrich, Spengler.\n16 | V. | 1244 A | | Berri-Burckhardt, Wb. Margareth.\n  Berri-Burckhardt, Wb. Margr., Baumst.\n17 | V. | 1251—52 | | Dobler, Maria.\n  Stehlin-Dobler, Georg, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8972,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2027,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0392,
+    "mean_line_chars": 37.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:48:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p152",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p152.jpg",
+      "bytes": 1477216,
+      "sha256": "bae6ffecb8947832a55d1aaa42ffc005951c51fb57deb03b2dd513cb8eef6830",
+      "sha256_of": "original",
+      "working_copy": "1862_p152.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:19+00:00"
+  }
+}

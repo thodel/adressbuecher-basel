@@ -1,0 +1,55 @@
+20 St. Alban-Vorstadt. — Allschwyler Straße.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+94 | V. | 1274 A | | Heußler-Thurneysen, Daniel.
+  Heußler-Thurneysen, Daniel, Rentier.
+  Vischer-Heußler, Dr. Wilhelm.
+95 | V. | 1276 Aa | | Bischoff-Respinger, Hieronymus.
+96 | V. | 1274 a | | Heußler-Thurneysen, Daniel.
+  (Magazin.)
+97 | V. | 1276 A | | Bischoff-Respinger, Hieronymus.
+  (Magazin.)
+98 | V. | 1274 | zur Zosse. | Heußler-Thurneysen, Daniel.
+  Rössiger-Grandvaux, Jh.Wilh.,Kutscher.
+  Huber-Rummler, Wb. Emma Amalia,
+  Strickbaumw.- u. Baumwolltuch-Hdlg.
+99 | V. | 1276 B | | Bischoff-Respinger, Hieronymus.
+  (Magazin.)
+100 | V. | 1274 C | | Heußler-Thurneysen, Dan.
+  (Magazin.)
+101 | V. | 1276 | St. Albanthor. | Staat.
+102 | V. | 1274 E | | Sevin-Hamberger, Wilhelm.
+  Sevin-Hamberger, Wilhelm, Kaufm.
+  Ryssel, Reinh., Kaufmann.
+104 | V. | 1275 a | | Keller-Harder, Samuel.
+  Keller-Harder, Samuel, Kübler.
+  Madöry-Biehlmann, Joh., Spezierer.
+106 | V. | 1275 B | | Burckhardt und Vonder-Mühll.
+  (Magazin und Stallung.)
+108 | V. | 1275 C | | Ringwald-Bölger, Christian.
+  Ringwald-Bölger, Christian, Kaufm.
+110 | V. | 1275 | | Iselin, Frau Susanna sel. Erben.
+  (Stallung und Remise.)
+112 | V. | 1275 b | | Handmann-Howald, Louis, Partic.
+
+Allschwyler Straße.
+
+7 | II. | 102 A | | Fischer-Trautvetter, Karl. Reinh.
+  Fischer-Trautvetter, C. R., Landökonom.
+  Bohny, J., Sattler u. Malerwerkstätte.
+  Danner, Jacob, Particular.
+9 | II. | 102 B | | Fichter-Venez, Abraham.
+  Rueffer-Altenbach, Jacob, Gärtner.
+  Eglinger-Fürstenberger, Emanuel, Pfar-
+  rer der Strafanstalt.
+  Sanzi-Bienz, Joh. Gottlieb, Commis.
+11 | II. | 102 C | | Fichter-Venez, Abraham.
+  Sutter-Ronus, Rudolf, Commis.
+13 | II. | 102 D | | Fichter-Venez, Abraham.
+  Fichter-Venez, Abraham, Schreiner.
+  Stumm-deBoer, Carl,Agt.inCol.-Waar.
+  Burckhardt-Wick, Wb. Fanny, Part.
+15 | II. | 102 E | | Gaßler, Xaver.
+  Gaßler, Xaver, Schreiner.
+  Ungerer-Jundt, August, Kaufmann.

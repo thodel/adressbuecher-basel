@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p109",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p109.jpg",
+    "bytes": 1282286,
+    "sha256": "bd3920f12448f4ffee343e785924df2228ef23650e8f72ca3a3777d13fd9a6b2",
+    "sha256_of": "original",
+    "working_copy": "1862_p109.jpg"
+  },
+  "text": "44 Freie Straße.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n41 | V. | 1441 | zum Kupferthurm. | Ramsperger-Hug, Emanuel.\n  Freyvogel-Ramsperger, Ernst, Agent.\n  Mojon-Schlumberger, Ros. Wb., Pri-\n  vat-Mädchenschule.\n  Sandreuter, Rudolph, Commis.\n42 | IV. | 1179 | zum Reuschenberg. | Jordan, Joh. Leonhard.\n  Jordan, Joh. Leonhard, Ferger.\n  Jordan-Monvillier, Carl Dav., Kaufm.\n  Bargätzi-Eisenlohr, Peter, Schneider.\n43 | V. | 1440 | zur rothen Fahne. | Lang, Rudolph.\n  Lang, Rudolph, Quinquaill.- u. Kunsth.\n  Lang, Henry, Commis.\n  Lang, Joh. Nikl., Commis.\n  Recordon, François, Lehrer.\n44 | IV. | 1180 | zum rothen Thurm. | Simmler-Schmalz, J. Heinr.\n  Simmler-Schmalz, J. Heinr., Schachtel-\n  macher.\n  Gall-Fischer, Susanna, Wittwe.\n  Gall, Friederike, Jgfr., Stickereigeschäft.\n45 | V. | 1439 | zur Mücke. | Beck-Krauer, Joseph.\n  Beck-Krauer, Jos., Glas. u. Glashandlg.\n  Krauer-Köchlin, Magdal. Wb., Part.\n46 | IV. | 1181 | zum Heiden. | Sulger-Staehelin, Andreas.\n  Pfannenschmied-Schweizer, Barb. Wb.,\n  Damenschneiderin.\n47 | V. | 1438 | zum Abel. | Tschopp-Holzach, Heinrich.\n  Jordan-Tschopp, J. J., Desinateur.\n  Tschopp-Essig, Wittwe, Chrischona.\n  Schenk-Leutzinger, August, Coiffeur.\n  Schenk, Georg, Commis.\n  Hägler-Erni, Friedrich, Schumacher.\n48 | IV. | 1182 | zum blauen Mann. | Sulger-Stähelin, Andreas.\n  Sulger, Andr. u. Rudolf, Tabakhandlg.\n  und Comptoir.\n  Sulger-Dobler, Louise Wb., Rent.\n  Brenner-Sulger, Louise, Rent.\n  Sulger, Rudolph, Kaufmann.\n49 | V. | 1437 | zum Falkenkeller. | Paravicini-Vonder Mühll, Jul. Wb.\n  Magazin der Eisenhandlg. L. Paravicini.\n50 | IV. | 1183 | Zunft zu Rebleuten. | Corporationsgut.\n  Hegar-des Gouttes, Aug., Musik.- und\n  Instrumentenhändler.\n  Hauswirth, Georg, Leihbibl. u. Buchhlg.\n  Hug-Fürbringer, August, Commis.\n51 | V. | 1436 | zum Falkenberg. | Paravicini-Vonder Mühll, Jul. Wb.\n  Paravicini-Vonder Mühll, J. Wb., Rent.\n  Paravicini, Em., Sohn, Kaufmann.\n52 | VI. | 1184 | Schuhmacherzunft | Corporationsgut.\n  Rath-Plattner, J. Fried., Vergolder.\n53 | V. | 1434 | z. Schwarzenberg. | Beaudroi-Böcklin, Wittwe.\n  Beaudroi-Böcklin, Wb., Charcutiere.\n  Hahn, Friedrich, Metzger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9614,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2222,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:41:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p109",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p109.jpg",
+      "bytes": 1282286,
+      "sha256": "bd3920f12448f4ffee343e785924df2228ef23650e8f72ca3a3777d13fd9a6b2",
+      "sha256_of": "original",
+      "working_copy": "1862_p109.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:23+00:00"
+  }
+}

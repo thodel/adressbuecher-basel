@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p190",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p190.jpg",
+    "bytes": 1434926,
+    "sha256": "29ecd6634053e47a4b1c141ac401e02b20a6535ea950a31a766c00036d871993",
+    "sha256_of": "original",
+    "working_copy": "1862_p190.jpg"
+  },
+  "text": "Schneidergasse.                                                                                          125\nNeue     Quars-    Alte     Name des Hauses.     Namen der Hauseigenthümer\nHaus-Nr.  tier.     Haus-Nro.                                       und Bewohner.\n9        VI.     1563     3. Nägeligarten.     Brändlin=Schaal, Franz.\n                                                              Brändlin=Schaal, Franz, Metzger.\n10       II.      578     zur Vereinigung.      Boecklin=Schneker, Joh. Jak.\n                                                              Boecklin=Schneker, Joh. Jak., Wirth.\n                                                              David=Graeflin, Leonhard, Glaser.\n11       VI.     1564     3. mittl. Scheere.    Gschwind=Schaffner, Wb. Urjula.\n                                                              Gschwind=Schaffner, Wb. Urjula, Modiste.\n12       II.      579     3. mittler. Thurm-   Gutknecht=Heer, Joh. Adam.\n                       schale.              Gutknecht=Heer, Joh. Adam, Spezier.\n                                                              u. Münzantiquar.\n13       VI.     1565     ...................  Heitz, Cath. Elisabeth.\n                                                              Heitz, Cath. Elisabeth, Particular.\n14       II.      580     3. mittler. Thurm-   Hottenjen=Kapp, Frau Barbara.\n                       schale.              Hottenjen=Dunkel, Friedr. Aug., Gerber.\n                                                              Mazinger=Wirz, Gottl. Rud., Kappenm.\n                                                              Schweizer=Breticher, Friedrich August,\n                                                              Telegraphist.\n                                                              Horner, Joh. Heinrich, Schneider.\n                                                              Koch=Renaux, Johannes.\n15       VI.     1566     zum Stamm.           Koch=Renaux, Johannes, Commis.\n                                                              Hirth=Fischer, Wb. Louise, Schneiderin.\n16       II.      581     zur obern Thurm-     Steib=Ostell, Joh. Michael.\n                       schale.              Steib=Ostell, Joh. Michael, Bürstenmacher.\n17       VI.     1567     ...................  Bär=Fritsche, Abraham.\n                                                              Bär=Fritsche, Abraham, Coiffeur.\n18       II.      582     3. klein. Esfringen. Brunner=von Arx, Daniel.\n                                                              Brunner=von Arx, Daniel, Schneider.\n                                                              Caillat, Urjula, Gejchirrhändlerin.\n19       VI.     1750     3. langen Leiter.    Waldner=Zuber, Joh. Heinrich.\n                                                              Waldner=Zuber, Joh. Heinr., Schuhm.\n20       II.      589     3. unt. Restlach.    Lindner=Forcart, Joh. Eduard.\n                                                              Lindner=Forcart, Wilh. Ed., Buchbind.\n                                                              Steiger, J. J., sei. Erben, Lederlifabr.\n                                                              Braun=Steiger, Rud., Waagmeister.\n21       VI.     1751     zur Eiche.           Detwiler=Wernli, Emanuel.\n                                                              Detwiler=Wernli, Eman., Kostgeber.\n                                                              Chryst, Ludwig, Schuhmacher.\n22       II.      590     ...................  Cruffaire=Pfau, Wb. Margaretha.\n                                                              Cruffaire=Pfau, Wb. Marg., Part.\n                                                              Cruffaire, Louis, Particular.\n                                                              Hunziker=Cruffaire, Friedr., Baumwol-\n                                                              lenwaarenhandlung.\n23       VI.     1752—53 3. armen Herberge.  Zimmermann=Früh, Wb. Elisabeth.\n                                                              Zimmermann=Früh, Wb. Elisab., Uhren-\n                                                              macher.\n                                                              Zimmermann, Ludwig, Commis.\n                                                              Zimmermann, Friederike Elise, Modiste.\n24       II.      591     zum Steinkeller.     Leithardt=Voet, Heinrich.\n                                                              Pfaff, Jacob Heinrich, Bürstenmacher.\n                                                              Ungerer=Hausmann, Jac., Handelsm.\n                                                              Kormann=Leithardt, August, Schneider.\n                                                              Magazin Nro. 82 Freie Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6785,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4838,
+    "lines": 55,
+    "longest_char_run": 19,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0039,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p190",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p190.jpg",
+      "bytes": 1434926,
+      "sha256": "29ecd6634053e47a4b1c141ac401e02b20a6535ea950a31a766c00036d871993",
+      "sha256_of": "original",
+      "working_copy": "1862_p190.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:05+00:00"
+  }
+}

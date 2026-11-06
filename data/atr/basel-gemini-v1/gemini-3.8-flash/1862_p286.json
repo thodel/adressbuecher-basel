@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p286",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p286.jpg",
+    "bytes": 1660442,
+    "sha256": "5404e7a7c5c0881190af03870d07270940231f07f1ebbdde98c2bf61fa842842",
+    "sha256_of": "original",
+    "working_copy": "1862_p286.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 221\n\nRose, z. St. Petersgraben Nr. 31.\nRose, z. Spalenberg Nr. 52.\nRose, z. Rebgasse Nr. 7.\nRose, z. goldenen Stadthausgasse Nr. 18.\nRose, z. rothen. Stadthausgasse Nr. 21.\nRose, z. weißen. Stadthausgasse Nr. 23.\nRosenberg, z. Spalenvorstadt Nr. 20.\nRosenberg, z. Pfluggäßlein Nr. 1.\nRosenberg, z. Ochsengasse Nr. 8.\nRosenfeld. Freie Straße Nr. 40.\nRosenfeld. Rümelinsplatz Nr. 7.\nRosenfels, z. Steinenvorstadt Nr. 10.\nRosengarten, z. St. Leonhardstraße Nr. 5.\nRosengarten, z. Grenzacherstraße Nr. 44.\nRosengarten. St. Leonhardsgraben Nr. 10.\nRosengarten, z. vord. St. Leonhardstr. Nr. 6. 8.\nRosenkranz, z. Spalenvorstadt Nr. 18.\nRosenkranz, z. Schifflände Nr. 9.\nRosenkranz, z. Rheingasse Nr. 21.\nRosenkranz, z. kleinen. Schifflände Nr. 7.\nRosenstock, z. Eisengasse Nr. 36.\nRosenthal z. Mattweg Nr. 2 u. 4.\nRoßhof. Nadelberg Nr. 20.\nRoßhof. Nadelberg Nr. 22.\nRoßhof, hinterer. Roßhofgasse Nr. 8.\nRotbergerhof. Rittergasse Nr. 25.\nRothbergerhof. Rittergasse Nr. 15.\nRothenburg z. Unterer Heuberg Nr. 1.\nRotheneck, z. Heuberg Nr. 27.\nRotheneck, z. Seevogelstraße Nr. 1.\nRothenflue, z. untern. Freie Straße Nr. 92.\nRoti'schen Gut, z. alten. Mittlere Straße Nr. 86.\nRuderbach, z. Gerbergasse Nr. 53.\nRupf, z. Aeschenvorstadt Nr. 11.\nRückenberg, z. Gerbergasse Nr. 20.\nRüden, z. schwarzen. Rüdengäßlein. Nr. 3.\nRümelinsmühle. Rümelinsplatz Nr. 1.\nRuns, z. gehörend. Marktplatz Nr. 17.\nRuns, z. Marktplatz Nr. 14.\nSaarberg, z. großen. Schneidergasse Nr. 6.\nSaarberg, z. kleinen. Schneidergasse Nr. 4.\nSäge, z. Sägergäßlein Nr. 3.\nSäge, z. Riehenstraße Nr. 1.\nSägemühle, z. Untere Rheingasse Nr. 14.\nSafran, z. alten. Gerbergasse Nr. 12.\nSafran, Zunft z. Gerbergasse Nr. 11.\nSalmen, z. Rheingasse Nr. 63.\nSalmen, z. Rheingasse Nr. 44.\nSalmen, z. Marktplatz Nr. 4.\nSalmen, z. rothen. Eisengasse Nr. 22.\nSalzberg, z. Fischmarkt Nr. 13.\nSamson, z. Fischmarkt Nr. 16.\nSamson. St. Petersgraben Nr. 18.\nSamson, z. Neue Vorstadt Nr. 1.\nSamson, z. Spalenvorstadt Nr. 15.\nSandgrube, z. Vogelsangweg Nr. 3.\nSandgrube, z. Vogelsangweg Nr. 4.\nSandhof, z. Rebgasse Nr. 5.\nSausen, z. Blumenrain Nr. 28.\nSausenburg Schloß, z Hutgasse Nr. 8.\n[spalte 2]\nSausewind, z. St. Alban-Vorstadt Nr. 5.\nSchäferei, z. St. Johann-Vorstadt Nr. 11.\nSchär, z. obern. Schneidergasse Nr. 31.\nSchaf, z. Schafgäßlein Nr. 14.\nSchaf, z. Rebgasse Nr. 16.\nSchaf, z. großen. Spalenberg Nr. 29.\nSchaltenbrand, z. Freie Straße Nr. 81.\nSchaltenbrand, z. Münsterberg Nr. 5.\nSchaub, z. hinterv. Heuberg Nr. 10.\nSchaub, z. hintern. St. Leonhardsgraben Nr. 2.\nSchauenburg, z. St. Alban-Vorstadt, Nr. 13.\nSchaufel u. Spieß, z. Münsterberg Nr. 2.\nScheibenhaus. Schützenmattstraße Nr. 58.\nScherben, z. Gerbergasse Nr. 65.\nSchere, z. Freie Straße Nr. 4.\nSchere, z. mittlern. Schneidergasse Nr. 11.\nScheuer, z. kleinen. Greifengasse Nr. 40.\nScheuren, z. Gemsberg Nr. 9.\nScheuren, z. Rebgasse Nr. 2.\nScheuren, z. Rebgasse Nr. 6.\nScheurenberg, z. St. Petersgasse Nr. 7.\nSchießstand. Schützenmattstraße Nr. 56.\nSchiff, z. Baarfüßerplatz Nr. 3.\nSchild, z. grünen. Hutgasse Nr. 24.\nSchildeck, z. Sattelgasse Nr. 4.\nSchillingshaus. Steinenvorstadt Nr. 9.\nSchilteck, z. hohen Thurm. Barfüßerplatz Nr. 5.\nSchilthof, z. Freie Straße Nr. 96.\nSchlatthof, z. Untere Rebgasse Nr. 3.\nSchlatthof, z. Greifengasse Nr. 35.\nSchlatthof, z. Greifengasse Nr. 37.\nSchlegel, z. Streitgasse Nr. 5.\nSchlegel, z. Freie Straße Nr. 68.\nSchlegel, z. Rheingasse Nr. 26.\nSchleife, z. neuen. Untere Rebgasse Nr. 10.\nSchleife, z. neuen. Münzgäßlein Nr. 3.\nSchleifmühle, z. neuen. Sattelgasse Nr. 14.\nSchleifstein, z. Gerbergasse Nr. 72.\nSchleifstein, z. Gerbergäßlein Nr. 41.\nSchlüssel, Zunft z. Freie Straße Nr. 25.\nSchlüssel, Zunft z. Schlüsselberg Nr. 1.\nSchmelze, z. Webergasse Nr. 15.\nSchmiede, z. Webergasse Nr. 12.\nSchmieden, Zunft z. Rümelinsplatz Nr. 6.\nSchnabelwaide, z. Hasenberg Nr. 5.\nSchneck, z. gelben. Rheingasse Nr. 76.\nSchneckenhöflein, z. Klosterberg Nr. 4.\nSchneidern, Zunft z. Gerbergäßlein Nr. 3.\nSchneidern, Zunft z. Gerbergasse Nr. 36.\nSchönau, z. Greifengasse Nr. 15.\nSchönauerhof. Rittergasse Nr. 2.\nSchöneck, z. St. Alban-Vorstadt Nr. 49.\nSchönenberg, z. St. Petersberg Nr. 23.\nSchool, z. alten. Marktplatz Nr. 16.\nSchorenbrucke, z. Schorenweg Nr. 7.\nSchraube, z. gelben. Imbergäßlein Nr. 8.\nSchüler, z. Hutgasse Nr. 13.\nSchützenhaus. Schützenmattstraße Nr. 54.\nSchützenmatt, z. Barfüßerplatz Nr. 29.\nSchuh, z. schwarzen. Schafgäßlein Nr. 10.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 16779,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4425,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:09:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p286",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p286.jpg",
+      "bytes": 1660442,
+      "sha256": "5404e7a7c5c0881190af03870d07270940231f07f1ebbdde98c2bf61fa842842",
+      "sha256_of": "original",
+      "working_copy": "1862_p286.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:43+00:00"
+  }
+}

@@ -1,0 +1,47 @@
+Riehenstraße. | 199
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+5 | VIII. | 9 | | Lindenmeyer, Georg, sel. Erben.
+  Lindenmeyer-Boehler, Wb. Catharina, Wascherin.
+7 | VIII. | 10 | | Spahn-Jost, Conrad.
+  Spahn-Jost, Conrad, Magazinknecht.
+8 | VIII. | 19 | | Eglin-Wegner, Wb. Maria Magdalena.
+  Eglin-Wegner, Wb. Mar. Magdalena, Rentiere.
+9 | VIII. | 11 | | Labram-Böcklin, Wb. Marg.
+  Labram-Böcklin, Wb. Marg., Part.
+10 | VIII. | 20 a | | Staehelin-Zimmerlin, Joh. Jac.
+  Simmler-Frauenfelder, Johs., Gärtner.
+11 | VIII. | 12 | | Klein-Schmidlin, Joh. Jac.
+  Klein-Schmidlin, Joh. Jac., Wascher.
+12 | VIII. | 20 | | Staehelin-Zimmerlin, Joh. Jac.
+13 | VIII. | 13 | | Müller-Fritz, Jacob.
+  Müller-Fritz, Jacob, Wascher.
+14 | VIII. | 20 c | | Staehelin-Zimmerlin, Joh. Jac.
+15 | VIII. | 14 | Spritzenhaus. | Stadtgemeinde.
+  Holzach-Aehrenbolz, Joh. Leonh., Bannwart.
+16 | VIII. | 21 | | Merian, Friederike u. Wilhelmine.
+  Barth-VonderCrone, Aug., Kaufmann.
+  Barth-Bernoulli, Samuel, Pfarrer.
+17 | VIII. | 16 | | Bertsche-Schardt, Heinrich.
+18 | VIII. | 21 a | | Merian, Friederike u. Wilhelmine.
+19 | VIII. | 15 | | Bertsche-Schardt, Heinrich.
+  Bertsche-Schardt, Heinrich, Bandfabrikant.
+  Rossel-Braun, Ludwig, Kaufmann.
+  Gysin-Müller, Joh., Commis.
+20 | VIII. | 21 b | | Merian, Friederike u. Wilhelmine,
+  Schilling, Marcus, Lehenbeständer.
+  Früh, Joh. Georg, Gärtner.
+21 | VIII. | 15 A | | Bienz-Naegelin, Jacob.
+  Bienz-Naegelin, Jacob, Dessinateur.
+  Burger, Franz, Zollamtsgehülfe.
+  Beutler, Julius, Zollamtsgehülfe.
+22 | VIII. | 23 | | Großh. bad. Eisenbahnverwaltung.
+23 | VIII. | 17 | | Stampfer-Otto, Wilhelm.
+  Stampfer-Otto, Wilh., Kaufmann.
+  Brenzinger, August, Architekt.
+  Holzmüller, Adolf, Part.
+25 | VIII. | 18 | | David, Rudolf.
+  David, Rudolf, Seidenfärbergehülfe.
+26 | VIII. | 24 | | Großh. bad. Eisenbahnverwaltung.
+  Abele, Ludwig, Zollinspector.
+28 | VIII. | 25 a | | Merian-Ryhiner, Wb. Elisabeth.

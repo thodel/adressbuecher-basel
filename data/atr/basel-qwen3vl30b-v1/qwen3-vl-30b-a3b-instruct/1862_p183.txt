@@ -1,0 +1,60 @@
+118
+Mittergasse. — Nofhofgasse.
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+26 | V. | 1212 | St. Alban schwibbog. | Stadtgemeinde und Staat.
+27 | V. | 1361 | zum Olspergerhof, | Merian-Thurneyfen, Alfred.
+| | | oder Tiger. | Merian-Thurneyfen, Alfred, Kaufm.
+| | | zur Kapelle. | Bischer-Bilsinger, Wilhelm.
+| | | | Filial-Bureau der Seidentrocknungs-
+| | | | Anstalt in Zürich.
+29 | V. | 1360 | | Bischer-Bilsinger, Wilhelm.
+| | | | Bischer-Bilsinger, Dr. Wilh., Profess.
+| | | | Fürstenberger-Bischer, Georg, Kaufm.
+| | | | BonderMihll, Valeria, Particular.
+31 | V. | 1358—59 | Deutschord.-Kapelle | Bischer-Bilsinger, Wilhelm.
+| | | | Bischer-Bilsinger, Dr. Wilh., Profess.
+| | | | Fürstenberger-Bischer, Georg, Kaufm.
+| | | | BonderMihll, Valeria, Particular.
+33 | V. | 1357 | | Zselin-Burckhardt, Isaac.
+| | | | Trüdinger u. Comp., Bandfabrike.
+35 | V. | 1356 b | deutsches Haus. | Bischer-Burckhardt, Peter.
+Nofhofgasse.
+3 | II. | 513 | | Vogel-Strittmatter, Christian.
+| | | | Vogel-Strittmatter, Christ., Schuhm.
+| | | | Hirsch-Studer, Dorothea, Modiste.
+4 | II. | 516 a c | | LaRoche-Staehelin, Benedict.
+6 | | | | Eisenhandlg. v. Ludwig-Eckenstein, Andr.
+5 | II. | 514 | | Oswald-Keller, Michael.
+| | | | Oswald-Keller, Michael, Maler.
+| | | | Woelfle-Heer, Johannes, Schreiner.
+| | | | Jäggi, Jakob, Schreiner.
+| | | | Liechti, Johannes, Malerwerkstätte.
+7 | II. | 515 | zur Eremitage. | Leuthardt-Rümbelin, Eduard.
+| | | | Leuthardt-Rümbelin, Ed., Holzhändler.
+| | | | Picard-Bloch, Leon, Bandhandlung.
+| | | | Bloch-Riefer, Alex., Pferdehändler.
+8 | II. | 516 | hinterer Nofhof. | LaRoche-Staehelin, Benedict.
+| | | | Hindermann-Hauser, Franz, Rentier.
+| | | | Faesch-Zaeslin, Joh. Jakob, Alt-Spi-
+| | | | talverwalter, J. U. Dr.
+9 | II. | 459 | Brunnwerkhof. | Stadtgemeinde.
+| | | | Bureau d. Brunnmeisters, Werkstätte u.
+| | | | Magazin des Brunnenwerks.
+10 | II. | 458 | zur Harmonie. | Müller-Schmidt, Joh. Nepomuk.
+| | | | Müller-Schmidt, Joh. Nep., Wirth.
+| | | | Engler, Emanuel, Schlosser.
+| | | | Engler, Franz, Musiker.
+11 | II. | 460 | | Schärer-Amsler, Leonhard.
+| | | | Schärer-Amsler, Leonhard, Metzger.
+12 | II. | 463 A. | zur Altane. | Holdenacker, Achilles.
+| | | | Siehe St. Petersgraben Nr. 55.
+13 | II. | 461 | | Leuze-Kies, Wb.
+| | | | Leuze-Kies, Wb., Schuhmacher.
+15 | II. | 463 | | Mangold-Müller, Catharina, Frau.
+| | | | Mangold-Müller, Johann, Spezierer.
+| | | | Hirt-Fehr, Pius, Schneider.

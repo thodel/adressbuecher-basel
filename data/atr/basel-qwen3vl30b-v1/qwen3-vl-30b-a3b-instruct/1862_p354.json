@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p354",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p354.jpg",
+    "bytes": 1611428,
+    "sha256": "c4842de9c4aed673065b1830a1e0f28a6ecf706fa7f2f3b4f9283b6bb6e13be2",
+    "sha256_of": "original",
+    "working_copy": "1862_p354.jpg"
+  },
+  "text": "Berzeichnis der Bürger und Einwohner. 289\nHäfelfinger=Berner, Lukas, Taglöhner. Unterer Heuberg 5.\n— Carl, Materialhdlg. Spalenvorstadt 17.\n— Carl, Materialist. St. Leonhards-Gra- ben 22.\n— Charlotte, Part. St. Leonhards-Gra- ben 2.\n— Elisabeth, Wb. u. Sohn, Aeschenvor- stadt 12.\n— Friedrich, Fabrikarbeiter. St. Andreas- platz 12.\n— =Geiger, Heinr., Ferger. St. Leonhards- Graben 22.\n— =Hummel, Wb. Elisabeth, Part. Stei- nenvorstadt 51.\n— J. J. Christian, Taglöhner. St. An- dreasplatz 10.\n— =Leist, Friedrich, Fabrikarbeiter. Ochsen- gasse 4.\n— =Kupp, J. Rud., Commis. Kohlenberg- gasse 10.\nHäfeli, Hermann Carl, Commis. Gerber- gasse 57.\nHäfelin=Ammann, Urs, Lehrenbeständer. Kly- beckstraße 108.\n— =Briner, Rudolf, Posamenter. Riehen- Straße 59.\n— =Mohr, Wb. Salomea, Partikul. Nadel- berg 14.\n— =Bonloh, Wb. Maria, Partik. Nauen- straße 13.\n— =Weber, Urs Josef, Lehrenmann. Klybeck- straße 89.\nHäfelinge=Strubin, Jacob, Geldwechsler. Stadthausgasse 12.\nHäfler=Bürgin, Heinr., Malergeselle. Unterer Heuberg 9.\nHäfliger=Algayer, Joh., Steiumez. Kanonen- gasse 9.\n— =Keller, Josef, Taglöhner. Riehenthor- straße 26.\n— =Pfeiffer, Johannes, Bauamtangestellter. Sägergäklein 8.\nHägi, Johann, Landjäger. Freiburger Straße 2.\nHägler, August, Müller. St. Alban-Thal 1.\n— =Brand, Hans Jacob, Seiler. Weise Gasse 8.\n— =Calomius, Rud., Fabrikarbeiter. Klimelinsplatz 11.\n— =Erny, Friedrich, Schuhmacher. Freie Straße 47.\n— =Frey, Rudolf, Posamenter. Barfüsser- platz 22.\n— Joh. Jak., Schreiber. St. Leonhards- Graben 6.\n— =Laub, Math., Ladengehilfe. St. Leon- hards-Graben 6.\n— Samuel, Commis. St. Leonhards-Gra- ben 6.\nHägler=Schweizer, Wb. Susanna, Zettlerin. Sternengäklein 29.\n— =Spitteler, Seb. St. Alban- Thal 10.\nHämmerlin=Baumgartner, Michael, Gärtner. St. Jakobs-Straße 4.\nHänches=Strub, Frau, Seide-u. Wollwascherin. Klimelinsplatz 3.\n— =Strub, Jacob, Schneider. Klimelinsplatz 3.\nHäner=Leuenberger, Joh., Landjäger. Schnei- dergasse 16.\nHänger=Baumgartner, Samuel, Gärtner. Weiße Gasse 8.\n— =Rudin, Emanl., Posamenter. Bei der Wiefenschanze 32.\n— =Bogt, Johann, Posamenter. Garten- straße 70.\nHäni=Hilgin, Josef, Part. Heumattstraße 8.\nHänfeler=Rittschin, Andreas, Posamenter. Gerbergasse 64.\nHäny=Schwarz, Jakob, Postfaktor. Freie Straße 47.\nHärdi=Härdi, David, Bahnwart. Gellert- straße 52.\n— =Muster, Johannes, Taglöhner. Ger- bergäklein 24.\n— Samuel, Schuhmacher geselle. Schwanen- gasse 14.\n— Serena, Zettlerin. Imbergäklein 22.\n— =Wanner, Rud., Schuhmacher. Imber- gäklein 23.\nHäring, Elisabeth, Taglöhnerin. Lindenberg 9.\n— Heinrich Oskar, Kaufhausarbeiter. Im- bergäklein 31.\n— Joh. Heinr., Buchdrucker, Sohn. Im- bergäklein 31.\n— Josef, Seidenfärbcr. Utengasse 13.\n— =Schaub, Heinrich, Posamenter. Sattel- gasse 18.\n— =Schmidt, J., Seidenfärbcr. Utengasse 13.\n— Schweizer, Wb. Maria. Steinenvor- stadt 9.\n— =Ziegler, August, Polizeihauptm. Stei- nenvorstadt 27.\nHärle=Grieshaber, Christof, Steinhauer. Spa- lenberg 12.\nHärry=Waldmeyer, Wb., Wäscherin. St. Peter-Berg 36.\nHäseli=Butz, Josef, Wirth und Kostgeber. St. Johann-Vorstadt 71.\nHässig, Wilhelm, Commis. Hirschgasse 15.\nHäufel=Albietz, Wb. Susanna, Taglöhnerin. Schneidergasse 28.\n— =Dörflinger, Friedr., Kostgeber. Spalen- berg 18.\nHäufelmann=Kunz, Friedrich, Schlossergeselle. Rheingasse 84.\nHäufermann=Roth, Conrad. Malzgasse 15.\n19",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8995,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3307,
+    "lines": 66,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.12,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:08:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p354",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p354.jpg",
+      "bytes": 1611428,
+      "sha256": "c4842de9c4aed673065b1830a1e0f28a6ecf706fa7f2f3b4f9283b6bb6e13be2",
+      "sha256_of": "original",
+      "working_copy": "1862_p354.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:01+00:00"
+  }
+}

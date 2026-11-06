@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p144",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p144.jpg",
+    "bytes": 1411230,
+    "sha256": "4b1dfa7d00f2274d0b524fc52cdb985f6f80288b99bd65f933eaa9b2d01bb0ee",
+    "sha256_of": "original",
+    "working_copy": "1862_p144.jpg"
+  },
+  "text": "Kohlenberggasse. — Kronengasse. 79\nNre\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n8 | III. | 754 | | Gesler=Martin, Albert.\n| | | | Gesler=Martin, Albert, Maler.\n| | | | Rey=Rey, Josef Anton, Stuccator.\n| | | | Schneider=Bühler, Erhard, Lehrer.\n| | | | Feigenwinter, Joh., Commis.\n9 | III. | 770 | zum Knebel. | Bienz, Joh. Rudolf.\n| | | | Siehe Steinenbachgässlein Nr. 14.\n10 | III. | 754 A | | Oser, Adam, fel. Erben.\n| | | | Hüfelsinger=Rupp, Joh. Rud., Commis.\n| | | | Bureau von Joh. Werensels=Herzog,\n| | | | Weinhändlung.\n| | | | Mathieu, Antoine.\n11 | III. | 771 A b | | Knecht=Laule, Johannes.\n13 | III. | 773 | | Gsell=Walz, Christian, Bauuithrer.\n| | | | Knecht=Laule, Joh., Maler.\n| | | | Siehe Nr. 18. Steinenbachgässlein.\n15 | III. | 776 | | Fischer, Elias.\n| | | | Welti=Oyfin, Carl Gottfried, Schrein.\n21 | III. | 778 | | Mangold=Runz, Samuel.\n| | | | Siehe Nr. 26 Steinenbachgässlein.\n22 | III. | 754 D | | Buxtorf Andreas u. Christoph.\n23 | III. | 779 | | Benz=Leuenberger, Johannes.\n| | | | Siehe Nr. 28 Steinenbachgässlein.\n| | | | Buxtorf, Andreas u. Christoph.\n| | | | Band-Fabrikgebäude.\n24 | III. | 754 G u. H | | Zimmermann, Gabriel, fel. Erb.\n| | | | Bürgin=Zimmermann, Friedr., Buchdr.\n29 | III. | 794 | | Hug=Bäry, Adolf.\n| | | | Hug=Bäry, Adolf.\n| | | | Hug=Bäry, Adolf, Müller.\n30 | III. | 795 B | zur Steinenmühle. | \n32 | III. | 795 A | zur Steinenmühle. | \nKronengasse.\n2 | VI. | 127 | 3. gold. Schwanen. | Hoff=Schrenk, Charles.\n| | | | Hoff=Schrenk, Charles, Lehrer der eng-\n| | | | lischen Sprache u. der Stenographie.\n| | | | Kunsthandlung von Chr. Friedr. Beck.\n3 | VI. | 1541 | | Buri, Leonz.\n| | | | Zu Nr. 16 Eifengasse gehörig.\n4 | VI. | 128 | | Lüscher=Maizinger, Melchior.\n| | | | Lüscher=Maizinger, Melch., Posamenter.\n| | | | Hirzel=Müller, Salomon, Kaufmann u.\n| | | | Wagengarniturenhandlung.\n| | | | Landolt, Carl, Dr. Juris.\n5 | VI. | 1529 | zum Mayen. | Steib=Anstein, Mathias.\n| | | | Steib=Anstein, Mathias, Schloffer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7093,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2049,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:39:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p144",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p144.jpg",
+      "bytes": 1411230,
+      "sha256": "4b1dfa7d00f2274d0b524fc52cdb985f6f80288b99bd65f933eaa9b2d01bb0ee",
+      "sha256_of": "original",
+      "working_copy": "1862_p144.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:16+00:00"
+  }
+}

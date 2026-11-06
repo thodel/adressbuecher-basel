@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p243",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p243.jpg",
+    "bytes": 1282744,
+    "sha256": "8cbe9620c0404f321a62e3ef2ebc5b9b49b4073cec6b28c8ef91b23875de260a",
+    "sha256_of": "original",
+    "working_copy": "1862_p243.jpg"
+  },
+  "text": "178 Hammerstraße. — Herrenmattweg.\nNre\nHaus=Mr. | Quar-\ntier. | Alte\nHaus=Mr. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n60 VII. 71 | | Zeder=Malzacher, Jacob.\nZeder=Malzacher, Jacob, Landwirth.\n65 VII. 68 | | Brefin=Weiß, Martins, sel. Erben.\nBrefin=Weiß, Wb. Suf., Gärtnerin.\n66 VII. 73 | | Hezel=VonBrunn, Wb. Angelika.\nHezel=VonBrunn, Wb. Angelika, Part.\nFreuler, Anna, Part.\nSchuster=Spengler, Aug., Musiklehrer.\nHaas=Georg, Joh. Jac., Kaufmann.\n67 VII. 68 A | | Loeffler=Kaufmann, Jacob.\nLoeffler=Kaufmann, Jacob, Maurermeistr.\nHartmann=Kromer, Karl, Schreiner.\nLüdin=Ritzmann, Ed., Milchhändler.\n69 VII. 68 B | | Loeffler=Kaufmann, Jacob.\nHoppe=Heuser, Ignaz, Dr. Med. et Chir.,\nProfessior.\n70 VII. 66 a | | Braun=Geßler, Andreas.\n76 VII. 70 A | | Bienz=Deschger, Rudolf.\nScheune.\n80 VII. 70 | | Bertrand=Raifer, Josef.\nSoller=Bertrand, Sch., Commis.\n82 VII. 65 | | Bertrand=Raifer, Josef.\n85 VII. 65 A | | Schmied=Ritter, Wb. Sophia.\n88 VII. 64 E | | Wintsch=Lorin, J. Rudolf.\nWintsch=Lorin, J. Rud., Holzhändler.\n92 VII. 64 A | | Graeslin, Jacob.\nBauer=Meister, Conrad, Gasner.\n96 VII. 64 D | | Graeslin, Jacob.\nLacher=Ruef, Joh. Jac., Appreteur.\n98 VII. 64 B | | Thüringer=Streule, Anton.\nThüringer=Streule, Ant., Kaufhaus-\narbeiter.\n100 VII. 64 F | | Troesch=Runz, Carl.\nTroesch=Runz, Carl, Mechaniker.\n102 VII. 64 G | | Teufel=Martin, Friedrich.\nTeufel=Martin, Friedr., Gutsbesitzer.\nKoch=Gaier, Christ., Maurer.\n106 VII. 64 C | | Raegi=Wohlgemuth, Joh. Sch.\nRaegi=Wohlgemuth, Joh. Sch., Seiden-\nfärbergeselle.\nAebi=Müller, Ferd., Eisenbahnbeamter.\nHartmann=Erzenberger, Joh., Zollbe-\namter.\n108 VII. 64 | Scheune. | Pfander, Joh. Jak., sel. Erben.\nHerrenmattweg.\n1 VIII. 44 | | Christ=Sarasin, Adolf.\n22 VIII. 45 | | Delhafen, Saml. Jakob.\nWiesner-Frey, Jac., Postamentermstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5713,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1807,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p243",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p243.jpg",
+      "bytes": 1282744,
+      "sha256": "8cbe9620c0404f321a62e3ef2ebc5b9b49b4073cec6b28c8ef91b23875de260a",
+      "sha256_of": "original",
+      "working_copy": "1862_p243.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:08+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p241",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p241.jpg",
+    "bytes": 1285788,
+    "sha256": "385b3465560024fdab1390daf2b8dbf90b00103f02cc48dd19bffe44c8bc0c33",
+    "sha256_of": "original",
+    "working_copy": "1862_p241.jpg"
+  },
+  "text": "176\nGrenzacher-Straße — Hammerstraße.\nNro. | Quars- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nr. | | und Bewohner.\n100 | VIII. | 80 | zum Rebened. | Jung-Baumgartner, Jacob.\n| | | | Jung-Baumgartner, Jacob, Ziegler.\n| | | | Kammerer-Eljässer, Johs., Ziegler.\n| | | | Bertische-Schlotterbeck, Joh. Jac., Tho-\n| | | | coladefabrikant.\n105 | VIII. | 81 | zum Rank. | Huth-Frey, Philipp.\n| | | | Huth-Frey, Philipp, Sattler.\n| | | | Steinbach-Sulz, Felician, Part.\n111 | VIII. | 82 | zum Rankhof. | Merian-Sarasin, Wilhelm.\n| | | | Kammer-Strub, Victor, Lehenbeständer.\n113 | VIII. | 82 A | zum Rankhof. | Merian-Sarasin, Wilhelm.\n123 | VIII. | 93 | Belle Rive. | Ewig, Joh. Georg u. Maria.\n| | | | Ewig-Thurnehsen, Joh. Georg, Guts-\n| | | | besitzer.\n| | | | Blattner, Rudolf und Maria, Pächter.\n129 | VIII. | 92 | 3. schön, Aussicht. | Merian-Zselin, Rudolf.\n| | | | Nußbaumer-Kammerer, Felix, Lehen-\n| | | | beständer.\n133 | VIII. | 96 | Bierburg. | Merian-Meyer, Wb. Anna.\n| | | | Witt-Kling, Friedr., Bortenwirker.\n| | | | Spöri-Meyer, Bernh. Lorenz, Gärtner.\nHammerstraße.\n1 | VIII. | 1 | | Richter-Dölli, Carl.\n| | | | Altwegg-Richter, Wb. Wilhelmina, Part.\n| | | | Lohmühle u. Heu-Corporationsgut der Zunft zu\n| | | | wage. | Gerbern.\n| | | | Schäfer-Zemp, Ant., Lohmüller.\n2) | VIII. | 2 | | Richter-Dölli, Carl.\n4) | | | | Richter-Dölli, Carl, Bandfabrikant.\n| | | | Richter-Linder, Jac., Bandfabrikant.\n3 | VIII. | 1 B | | Richter-Linder, Jac.\n5 | VIII. | 3 | | Richter-Linder, Jac.\n7 | VIII. | 4 | | Robin-Chretien, August.\n| | | | Robin-Chretien, Aug., Appreteur.\n| | | | Amans, Josef, Part.\n| | | | Bastadi-Weik, J. R., Commis.\n11 | VIII. | 5 A | | Chretien-Bivier, Claude, Delikatessen-\n| | | | händler.\n13 | VIII. | 5 B | | Landerer-Champrenaud, Carl.\n| | | | Landerer-Champrenaud, Carl, Cigarren-\n| | | | fabrikant.\n| | | | Albäck-Schwab, Jac. Sch., Kfm.\n15 | VIII. | 5 C | | Neufomm-Erismann, Franz.\n| | | | Neufomm-Erismann, Franz, Viseur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5746,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1991,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p241",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p241.jpg",
+      "bytes": 1285788,
+      "sha256": "385b3465560024fdab1390daf2b8dbf90b00103f02cc48dd19bffe44c8bc0c33",
+      "sha256_of": "original",
+      "working_copy": "1862_p241.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:55+00:00"
+  }
+}

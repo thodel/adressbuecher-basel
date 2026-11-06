@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p286",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p286.jpg",
+    "bytes": 1660442,
+    "sha256": "5404e7a7c5c0881190af03870d07270940231f07f1ebbdde98c2bf61fa842842",
+    "sha256_of": "original",
+    "working_copy": "1862_p286.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 221\nRöse, z. St. Petersgraben Nr. 31.\nRöse, z. Spalenberg Nr. 52.\nRöse, z. Rebgaſse Nr. 7.\nRöse, z. goldenen Stadthausgaſse Nr. 18.\nRöse, z. rothen. Stadthausgaſse Nr. 21.\nRöse, z. weiſen. Stadthausgaſse Nr. 23.\nRosenberg, z. Spalenvorſtadt Nr. 20.\nRosenberg, z. Pfluggäklein Nr. 1.\nRosenberg, z. Ochjengaſse Nr. 8.\nRosenfeld. Freie Straße Nr. 40.\nRosenfeld. Kümelinsplaz Nr. 7.\nRosenfels, z. Steinenvorſtadt Nr. 10.\nRosen Garten, z. St. Leonhardsſtraße Nr. 5.\nRosen Garten, z. Grenzacherſtraße Nr. 44.\nRosen Garten. St. Leonhardsgraben Nr. 10.\nRosen Garten, z. vord. St. Leonhardsſtr. Nr. 6. 8.\nRosenkranz, z. Spalenvorſtadt Nr. 18.\nRosenkranz, z. Schifflände Nr. 9.\nRosenkranz, z. Rheingaſse Nr. 21.\nRosenkranz, z. kleinen. Schifflände Nr. 7.\nRosenktof, z. Eisengaſse Nr. 36.\nRosen thal z. Mattweg Nr. 2 u. 4.\nRozhof. Nadelberg Nr. 20.\nRozhof. Nadelberg Nr. 22.\nRozhof, hinterer. Rozhofgaſse Nr. 8.\nRotbergerhof. Rittergaſse Nr. 25.\nRotbergerhof. Rittergaſse Nr. 15.\nRothenburg z. Unterer Heuberg Nr. 1.\nRothenecf, z. Heuberg Nr. 27.\nRothenecf, z. Seevogelftraße Nr. 1.\nRothenflue, z. untern. Freie Straße Nr. 92.\nRoti'chen Gut, z. alten. Mittlere Straße Nr. 86.\nRuderbach, z. Gerbergaffe Nr. 53.\nRupf, z. Nejchenvorſtadt Nr. 11.\nRüickenberg, z. Gerbergaffe Nr. 20.\nRiiden, z. schwarzen. Riidengäklein. Nr. 3.\nKümelinsmühle. Kümelinsplaz Nr. 1.\nKuns, z. gehörend. Marktplaz Nr. 17.\nKuns, z. Marktplaz Nr. 14.\nSaarberg, z. großen. Schneidergaſse Nr. 6.\nSaarberg, z. kleinen. Schneidergaſse Nr. 4.\nSäge, z. Sägergäklein Nr. 3.\nSäge, z. Riehenſtraße Nr. 1.\nSägemühle, z. Untere Rheingaſse Nr. 14.\nSafran, z. alten. Gerbergaffe Nr. 12.\nSafran, Zunft z. Gerbergaffe Nr. 11.\nSalmen, z. Rheingaſse Nr. 63.\nSalmen, z. Rheingaſse Nr. 44.\nSalmen, z. Marktplaz Nr. 4.\nSalmen, z. rothen. Eisengaſse Nr. 22.\nSalzberg, z. Fischmarkt Nr. 13.\nSamfon, z. Fischmarkt Nr. 16.\nSamfon. St. Petersgraben Nr. 18.\nSamfon, z. Neue Vorſtadt Nr. 1.\nSamfon, z. Spalenvorſtadt Nr. 15.\nSandgrube, z. Vogelfangweg Nr. 3.\nSandgrube, z. Vogelfangweg Nr. 4.\nSandhof, z. Rebgaſse Nr. 5.\nSauſen, z. Blumenrain Nr. 28.\nSauſenburg Schloß, z. Hutgaſse Nr. 8.\nSauſewind, z. St. Alban=Vorſtadt Nr. 5.\nSchäferei, z. St. Johann=Vorſtadt Nr. 11.\nSchär, z. oben. Schneidergaſse Nr. 31.\nSchaf, z. Schafgäklein Nr. 14.\nSchaf, z. Rebgaſse Nr. 16.\nSchaf, z. großen. Spalenberg Nr. 29.\nSchaltenbrand, z. Freie Straße Nr. 81.\nSchaltenbrand, z. Münfterberg Nr. 5.\nSchaub, z. hintern. Heuberg Nr. 10.\nSchaub, z. hintern. St. Leonhardsgraben Nr. 2.\nSchauenburg, z. St. Alban=Vorſtadt, Nr. 13.\nSchaufel u. Spieß, z. Münfterberg Nr. 2.\nScheibenhaus. Schützenmattſtraße Nr. 58.\nScherben, z. Gerbergaffe Nr. 65.\nSchere, z. Freie Straße Nr. 4.\nSchere, z. mittlern. Schneidergaſse Nr. 11.\nScheuer, z. kleinen. Greifengaſse Nr. 40.\nScheuren, z. Gemsberg Nr. 9.\nScheuren, z. Rebgaſse Nr. 2.\nScheuren, z. Rebgaſse Nr. 6.\nScheurenberg, z. St. Petersgaſse Nr. 7.\nSchiefstand. Schützenmattſtraße Nr. 56.\nSchiff, z. Baarfiikerplaz Nr. 3.\nSchild, z. grünen. Hutgaſse Nr. 24.\nSchilded, z. Sattelgaſse Nr. 4.\nSchillingshaus. Steinenvorſtadt Nr. 9.\nSchilted, z. hohen Thurm. Barfiikerplaz Nr. 5.\nSchilthof, z. Freie Straße Nr. 96.\nSchlatthof, z. Untere Rebgaſse Nr. 3.\nSchlatthof, z. Greifengaſse Nr. 35.\nSchlatthof, z. Greifengaſse Nr. 37.\nSchlegel, z. Streitgaſse Nr. 5.\nSchlegel, z. Freie Straße Nr. 68.\nSchlegel, z. Rheingaſse Nr. 26.\nSchleife, z. neuen. Untere Rebgaſse Nr. 10.\nSchleife, z. neuen. Münzgäklein Nr. 3.\nSchleifmühle, z. neuen. Sattelgaſse Nr. 14.\nSchleifstein, z. Gerbergaffe Nr. 72.\nSchleifstein, z. Gerbergäklein Nr. 41.\nSchliessel, Zunft z. Freie Straße Nr. 25.\nSchliessel, Zunft z. Schliisselberg Nr. 1.\nSchmelze, z. Webergaffe Nr. 15.\nSchmiede, z. Webergaffe Nr. 12.\nSchmieden, Zunft z. Kümelinsplaz Nr. 6.\nSchuabelwaide, z. Hasenberg Nr. 5.\nSchneef, z. gelben. Rheingaſse Nr. 76.\nSchneckenhöflein, z. Klosterberg Nr. 4.\nSchneidern, Zunft z. Gerbergäklein Nr. 3.\nSchneidern, Zunft z. Gerbergaffe Nr. 36.\nSchönau, z. Greifengaſse Nr. 15.\nSchönauerhof. Rittergaſse Nr. 2.\nSchöneck, z. St. Alban=Vorſtadt Nr. 49.\nSchönenberg, z. St. Petersberg Nr. 23.\nSchool, z. alten. Marktplaz Nr. 16.\nSchorenbrücke, z. Schorenweg Nr. 7.\nSchraube, z. gelben. Imbergäklein Nr. 8.\nSchüler, z. Hutgaſse Nr. 13.\nSchützenhaus. Schützenmattſtraße Nr. 54.\nSchützenmatt, z. Barfiikerplaz Nr. 29.\nSchuh, z. schwarzen. Schafgäklein Nr. 10.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12737,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4414,
+    "lines": 121,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:56:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p286",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p286.jpg",
+      "bytes": 1660442,
+      "sha256": "5404e7a7c5c0881190af03870d07270940231f07f1ebbdde98c2bf61fa842842",
+      "sha256_of": "original",
+      "working_copy": "1862_p286.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:26+00:00"
+  }
+}

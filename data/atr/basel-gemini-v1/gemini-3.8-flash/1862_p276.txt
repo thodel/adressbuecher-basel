@@ -1,0 +1,94 @@
+Verzeichniß der Häuser nach ihren Benennungen.
+
+Abel, z. Freie Straße Nr. 47.
+Abendstern, z. Seevogelstraße Nr. 11.
+Abt, z. Unterer Heuberg Nr. 5. 7. 9.
+Abwart, zur. Riehenthorstraße Nr. 17.
+Adler, z. grünen. Rebgasse Nr. 21.
+Adler, z. rothen. Spalenberg Nr. 1.
+Adler, z. rothen. Münzgäßlein Nr. 4.
+Adler, z. schwarzen. Steinenvorstadt Nr. 41.
+Adler, z. schwarzen. Ochsengasse Nr. 23.
+Adler, z. schwarzen. Spalenberg Nr. 3.
+Adler, z. schwarzen. Webergasse Nr. 10.
+Adler, z. weißen. Barfüßerplatz Nr. 19.
+Adler, z. weißen. Lohnhofgäßlein Nr. 2.
+Aeger, z. Gerbergäßlein Nr. 6.
+Affen, z. Sporengasse Nr. 8.
+Agtstein, z. Sporengasse Nr. 7.
+Agtstein, z. St. Martinsgäßlein Nr. 1.
+Agtstein, z. Schiffslände Nr. 10.
+St. Albankirche. St. Albankirchrain Nr. 11.
+St. Albankloster. Mühlenberg Nr. 20. 22. 24.
+St. Albanschwibbogen. Rittergasse Nr. 26.
+St. Albanthor. St. Alban-Vorstadt Nr. 101.
+Allment, z. obern. Spalenberg Nr. 15.
+Allment, z. untern. Spalenberg Nr. 13.
+Allmenthäuschen. Bäumlinhofweg Nr. 5.
+Almosenmühle, z. St. Alban-Thal Nr. 23.
+Almosenschaffnei. Nadelberg Nr. 23.
+Altane, z. Roßhofgasse Nr. 12.
+Altane, z. St. Petersgraben Nr. 55.
+Altkirch, z. Blumenrain Nr. 23.
+Alumneum. Neue Vorstadt Nr. 17.
+Andlauerhof. Münsterplatz Nr. 17.
+Andlauerhof. St. Petersgasse Nr. 38.
+Andlauerhof. St. Petersgasse Nr. 36.
+St. Andreas, z. St. Andreasplatz Nr. 15.
+St. Andreas, z. Steinenthorstraße Nr. 22.
+Anker, z. Blumenrain Nr. 14.
+Anker, z. Stadthausgasse Nr. 17.
+Anker, z. Rheingasse Nr. 52.
+Antistitium. Münsterhof Nr. 2.
+St. Antonierhof (Klösterlein). St. Johann-Vor-
+  stadt Nr. 33.
+St. Antonierhof, Gerberei z. Utengasse Nr. 34.
+St. Antonierhof, z. innern. St. Johann-Vor-
+  stadt Nr. 31.
+[spalte 2]
+St. Antonierhof, oberer. Rheingasse Nr. 43.
+St. Antonierhof, unterer. Rheingasse Nr. 39.
+Apotheke, z. goldenen. Rüdengäßlein Nr. 1.
+Appenzell, z. Freie Straße Nr. 1.
+Arau, z. Heuberg Nr. 12.
+Arau, z. St. Leonhardsgraben Nr. 29.
+Arm, z. Sporengasse Nr. 9.
+Arm, z. St. Martinsgäßlein Nr. 2.
+Ast, z. dürren. Rheingasse Nr. 84.
+Asyl, z. St. Leonhardsberg Nr. 16.
+Attiswyl, z. Spalenberg Nr. 37.
+Augenweide, z. Rheinsprung Nr. 20.
+Augenweide, z. kleinen. Rheinsprung Nr. 22.
+Augenweid, z. kleinen. Riehenthorstraße Nr. 26.
+Augenweide, z. kleinen. Rheingasse Nr. 34.
+Augustinerhof, z. Augustinergasse Nr. 19.
+Aussicht, z. St. Elisabethenstraße Nr. 58.
+Aussicht, z. schönen. Grenzacherstraße Nr. 129.
+Backofen, z. Lindenberg Nr. 6.
+Bad, z. alten. Badergäßlein Nr. 1.
+Bad, z. alten, Gerbergäßlein Nr. 17.
+Bad, d. alte. Gerbergasse Nr. 48.
+Badeanstalt. Ochsengasse Nr. 13.
+Badenhof, z. Utengasse Nr. 35. 37.
+Badenhof, z. Utengasse Nr. 33.
+Baderbehausung. Barfüßerplatz Nr. 6.
+Bären, z. rothen. Freie Straße Nr. 28.
+Bären, z. schwarzen. Aeschenvorstadt Nr. 41.
+Bären, z. schwarzen. Aeschenvorstadt Nr. 67.
+Bären, Gasthof z. schwarzen. Rheingasse Nr. 17.
+Bären, Hinterh. z. schwarzen. Utengasse Nr. 14.
+Bären, z. weißen. Schlüsselberg Nr. 5.
+Bären, z. weißen. Schlüsselberg Nr. 9.
+Bärenfels, z. kleinen. St. Elisabethenstraße
+  Nr. 26.
+Bärenfels, z. St. Elisabethenstraße Nr. 22.
+Bärenfelserhof. St. Petersgraben Nr. 35 u. 37.
+Bärenfelserhof. St. Martinsgasse Nr. 18.
+Bärenloch, z. Münsterberg Nr. 40.
+Bäumlihof, z. Riehenstraße Nr. 94.
+Bahnhof. Centralbahnstraße Nr. 10.
+Bahnhof, badischer. Bahnhofstraße Nr. 4.
+Bahnhof, badischer. Bahnhofstraße Nr. 6.
+Bahnhof, badischer. Bahnhofstraße Nr. 8.
+Bahnhof, badischer. Bahnhofstraße Nr. 10.
+14*

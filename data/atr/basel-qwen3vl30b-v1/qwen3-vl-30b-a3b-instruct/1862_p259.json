@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p259",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p259.jpg",
+    "bytes": 1285315,
+    "sha256": "93620422456557d3894f63d256f90c36a90df9ca9dc61eb75e8787830a31ae52",
+    "sha256_of": "original",
+    "working_copy": "1862_p259.jpg"
+  },
+  "text": "194\nAheingasse.\nNene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n25 VIII. 39 zur Sonne. Seyfer-Seiler, Johannes.\nSeyfer-Seiler, Joh., Gastwirth.\nAubry-Richenaud, Nic. Conft., Schleif.\n26 VIII. 37 zum Schlegel. Schmid-Bötschin, Joseph.\nSchmid-Bötschin, Joseph, Schuhmacher.\nSchneider-Lürder, Lorenz, Schiffmann.\nHug-Häfeli, Matth., Schwimmlehrer.\n27 VIII. 40 zum Roggenburg. Vuilleumier-Schweizer, Aug. Virgil.\nVuilleumier-Schweizer, Aug. Virgil, Bäck.\n28 VIII. 38 Uehlinger-Uehlinger, Jakob.\nUehlinger-Uehlinger, Jakob, Glaser.\n29 VIII. 41 Schweizer-Sfenegger, Ludwig.\nSchweizer-Sfenegger, Ludwig, Maler.\nGrollimund-Schweizer, Emanuel, Kfm.\n30 VIII. 42 Bell-Hug, Heinrich, fel. Erben.\nBell-Hug, Wb. Maria Magdal., Part.\nBell, Heinrich, Fischer.\nSchönenberger-Baumgartner, Caspar,\nUhrmacher.\nGölzlin, Friedrich, Schneider u. Flecken-\npuzer.\n31 VIII. 46 der Ziegelhof. Lok-Gocht, Achilles.\nLok-Gocht, Achilles, Seidenfärber.\n32 VIII. 43 Zentgraff, Wilhelm.\nZentgraff, Wilhelm, Kaufmann.\n33 VIII. 47—48 der Ziegelhof. Lok-Gocht, Achilles u. Lok, Albert.\nGlunz-Seyfried, Carl, Seidenfärber.\n34 VIII. 44 z. klein. Augenweide. Küpfer-Mähly, Heinrich.\nKüpfer-Mähly, Heinrich, Schreiber.\nRebjamin-Bieler, Barbara, Lehrerin.\n35 VIII. 49 Eglin-Wegner, Wb. Mar. Magdal.\nEglin-Wegner, Wb. Maria Magdalena,\nPartiful.\n36 VIII. 45 Herzog-Thommen, Joh. Friedrich.\nHerzog-Thommen, Joh. Friedr., Feilenh.\nPlattner-Oberer, Wb. Anna, Spezier.\nSchultheiß-Schluep, Heinr., Eisenbahn-\nbeamter.\n37 VIII. 49 a Eglin-Wegner, Wb. Mar. Magdal.\n38 VIII. 50 Gürtler-Heckle, Peter.\nGürtler-Heckle, Peter, Maurermeister.\nWüst-Heckle, Joh. Baptist, Commis.\nPlattner, Martin, Spengler.\n39 VIII. 61 A Gerberei z. untern Raillard-Stähelin, August.\nAntonierhof.\n40 VIII. 51 zum rothen Thurm. Widler-Konnenmacher, Jakob.\nWidler-Konnenmacher, Jakob, Posam.\nSchwarz-Krumm, Leonhard, Schreiner.\n42 VIII. 52 Lok-Heusler, Friedrich.\nPortmann-Schmidt, Anton, Hausknecht.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5517,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1975,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p259",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p259.jpg",
+      "bytes": 1285315,
+      "sha256": "93620422456557d3894f63d256f90c36a90df9ca9dc61eb75e8787830a31ae52",
+      "sha256_of": "original",
+      "working_copy": "1862_p259.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:45+00:00"
+  }
+}

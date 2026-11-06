@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p137",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p137.jpg",
+    "bytes": 1326465,
+    "sha256": "18395b922d1d6096820f6835d9a392c76c7f97a9eac4316f023b98ca81f099a4",
+    "sha256_of": "original",
+    "working_copy": "1862_p137.jpg"
+  },
+  "text": "72\nSt. Johann-Vorstadt.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n39 I. 23 B zum Kränzlein. Werthemann=VonderMühl, And.\n40 I. 37 Mengis=Brand, Martin.\nMengis=Brand, Martin, Part.\n41 I. 23 A Wächtershof. Werthemann=VonderMühl, And.\nWerthemann=VonderMühl, And., Kfm.\n42 I. 35 Ziegler, Cäcilia, in Zürich.\n43 I. 22 Wächtershof. Wick=Hindermann, Carl, alt Pfar., Rent.\nThurneyfen, Hans Rudolf, u. Jac.\nChristof.\nThurneyfen=Spahr, Hans Rud., Part.\nThurneyfen, Jak. Christof, Particular.\n44 I. 33 Jäcklin=Proehl, Johannes.\nGlanner, Georg, Kaufmann.\nWoringer, Emil, Kaufmann.\n45 I. 22 A zum Irrgarten. Zäslin=Thurneyfen, Heinrich.\nZäslin=Thurneyfen, Heinrich, Kfm.\nFirma Zäslin u. Baumann.\n46 I. 32 Jäcklin=Proehl, Johannes.\nJäcklin=Proehl, Joh., Möbelschreiner.\nReuille, Constant, Sprachlehrer.\nDesgrand=Sargnon, Paul, Seidenhdlg.\n48 I. 31 Siegfried=Flubacher, Phil. Jacob\nfel. Erben.\nSiegfried=Flubacher, Wb. Anno Mar=\ngaretha, Geometers.\nvon Ticharner, Fried., Part.\n49 I. 11 zum Schweizerhäus=\nlein. Schaffner=Weitnauer, Friedrich.\nSchaffner=Weitnauer, Fr., Weinschenk.\n50 I. 28 Blank=Krug, David.\nBlank=Krug, David, Kaufmann.\nQuinche=Beaujon, Hr., französ. Pfarrer.\n51 I. 10 Riggenbach=Rienzy, Johannes.\nRiggenbach=Rienzy, Johannes, Maler.\nMalibas=Marbach, Johann, Commis.\n52 I. 27 Studer=Ruhn, Johann Carl.\nStuder=Ruhn, Joh. Carl, Spezerei u.\nCigarrenhandlung.\nWiesner=Uhlmann, Johann, Appr.Geh.\nMiville=Martin, Andreas, Commis.\n53 I. 9 B Riggenbach=Rienzy, Joh.\nAdamann=Roth, Anton, Schneider.\nEglin=Grieder, Gg., Fuhrhalter.\n54 I. 26 Roehlin=Burchhardt, Samuel.\nStallung u. Remise.\n55 I. 9 A Jenny=Eprecht, Joh. Friedr.\nJenny=Eprecht, Joh. Friedr., Schreiner.\nGrob, Rudolf, Holzhandlung.\n56 I. 25 zur Susanna. Merian=Köchlin, Eduard.\nMüller=Hezel, Albr., Phil. Dr. Geolog.\nSalis=Weitnauer, Joh. Jac., Dir. der\nStrafanstalten.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6360,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1882,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p137",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p137.jpg",
+      "bytes": 1326465,
+      "sha256": "18395b922d1d6096820f6835d9a392c76c7f97a9eac4316f023b98ca81f099a4",
+      "sha256_of": "original",
+      "working_copy": "1862_p137.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:22+00:00"
+  }
+}

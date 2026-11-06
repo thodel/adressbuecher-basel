@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p219",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p219.jpg",
+    "bytes": 1307034,
+    "sha256": "45c962e4b71cf723b9084cff62985ea64536a8cd8a6080deb8dff93f05439e95",
+    "sha256_of": "original",
+    "working_copy": "1862_p219.jpg"
+  },
+  "text": "154 Steinenvorstadt.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n39 | III. | 810 |  | Großmann-Byland, Conrad.\n  Großmann-Byland, Conrad, Käsehändl.\n  Fäsch, Maria Salomea, Rentiere.\n40 | III. | 785 |  | Binkert-Studer, Aloys.\n  Binkert-Studer, Aloys, Kutscher.\n41 | III. | 809 | z. schwarzen Adler. | Schenkel-Stöcklin, Samuel.\n42 | III. | 786 | z. rothen Oechslein. | Garnjobst-Haga, Joh. Ulrich.\n  Garnjobst-Haga, Joh. Ulrich, Briefträg.\n43 | III. | 808 |  | Schenkel-Stöcklin, Samuel.\n  Schenkel-Stöcklin, Samuel, Beamter am Niederlagshaus.\n44 | III. | 787 |  | Geyger, Rudolf.\n  Geyger, Rudolf, Schlosser.\n45 | III. | 807 | auf d. Steinenbruck. | Plattner-Mory, Wb. Elisabeth.\n  Plattner-Mory, Wb. Elisabeth, Part.\n46 | III. | 788 |  | Lehr-Speck, Joh. Jacob.\n  Lehr-Speck, Joh. Jacob, Schlosser.\n47 | III. | 806 | z. hintern Seidenhof. | Hof-Sarasin, Johannes.\n  Hof-Sarasin, Johannes, Weinhändler.\n  Abt-Tschopp, Jacob, Holzhändler.\n  Vogt-Falkner, Louis, Commis.\n48 | III. | 789 |  | Grimm-Schuler, Eduard.\n  Grimm-Schuler, Eduard, Parquetier.\n  Röstlin-Krebser, Jacob Rudolf, Commis.\n49 | III. | 805 |  | Henz-Bürgin, Wb. Margaretha.\n  Henz-Bürgin, Wb. Margaretha, Spezier.\n  Schöck, Susanna, Particular.\n50 | III. | 790 |  | Gaßler-Weber, Joseph.\n  Gaßler-Weber, Joseph, Schreiner.\n  Bolz-Manz, Joh. Jacob, Schmied.\n51 | III. | 804 | z. vord. Seidenhof. | Gysin-Vögtlin, Friedrich.\n  Gysin-Vögtlin, Friedrich, Bäcker.\n  Fricker-Giedemann, Emanuel, Musiker.\n52 | III. | 790 A |  | Brodmann-Lang, Peter.\n  Brodmann-Lang, Peter, Zimmerparlier.\n  Springer-Merz, Julius, Musiker.\n  Jäggi, Johannes, Uhrmacher.\n53 | III. | 803 | zum St. Gallen. | Burckhardt-Iselin, Carl, und Burckhardt, Albert.\n  Wirz-Meyer, Wb. Anna Margaretha, Partikularin.\n  Wirz, Hermann Adolf, Kaufmann.\n54 | III. | 790 B | zum Feigenbaum. | Meyer-Füllemann, Dietrich.\n  Meyer-Füllemann, Dietrich, Stuhlschreiner.\n  Müller-Petent, Johannes, Commis.\n  Bureau v. Forcart-Hoffmann sel. Erben.\n56 | III. | 791 |  | Kunz-Meyer, Rudolf.\n  Kunz-Meyer, Rudolf, Maler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8799,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2098,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p219",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p219.jpg",
+      "bytes": 1307034,
+      "sha256": "45c962e4b71cf723b9084cff62985ea64536a8cd8a6080deb8dff93f05439e95",
+      "sha256_of": "original",
+      "working_copy": "1862_p219.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:36+00:00"
+  }
+}

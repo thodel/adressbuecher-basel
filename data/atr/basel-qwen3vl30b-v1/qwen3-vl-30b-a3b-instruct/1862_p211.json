@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p211",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p211.jpg",
+    "bytes": 1305762,
+    "sha256": "5411005d69780790246c7bd1d64ee070497faa7e2dce859550e10b527fc5f1d1",
+    "sha256_of": "original",
+    "working_copy": "1862_p211.jpg"
+  },
+  "text": "146\nStapfelberg. — Steinenbachgäßlein.\nNro. | Neues Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n4 | V. | 1449 | zum Jäfklein. | Spittler, Christian Friedrich. | Spittler, Chrift. Friedr., Buchhändler.\n | | | | | Spittler, Mark. Friedr., Cand. Theol. | Jäger, Louis, Buchhändler.\n | | | | | Müller, Carl, Commis. | Rober, Paul, Commis.\n5 | V. | 1626—27 | | | Eingang zu Nr. 17 u. 19 Freie Straße.\n7 | V. | 1490 | | | Bischoff, Gebrüder.\nSteinenbachgäßlein.\n6 | III. | 763 A | | | Borgognon=Blöch, Constant.\n | | | | | Neubecker=Mark, Joseph, Schneider.\n7 | III. | 766 | zum schwarz. Horn. | | Strub=Löw, Rudolf und Hindermann, J. Wilhelm.\n | | | | | Siehe Nr. 12 Steinenvorstadt.\n8 | III. | 767 B | | | Stäublin=Weiß, Remigius.\n10 | III. | 767 | | | Stäublin=Weiß, Remigius.\n | | | | | Stäublin=Weiß, Remig., Zimmermann.\n12 | III. | 768 | | | Hosch=Breitenstein, Eduard.\n | | | | | Bögelin, Jacob, Lithograph.\n | | | | | Sutter=Zimmermann, Ignaz, Maler.\n14 | III. | 770 | | | Bienz, Johann Rudolf.\n | | | | | Siehe Nr. 16 Steinenvorstadt.\n15 | III. | 772 | | | Fischer=Bulacher, Joh. Balthasar.\n | | | | | Siehe Nr. 20 Steinenvorstadt.\n16 | III. | 771 A | | | Mathieu=Saner, Antoine.\n | | | | | Mathieu=Saner, Antoine, Mechaniker.\n17 | III. | 773 | | | Großmann=Heinzelmann, Rudolf.\n | | | | | Siehe Nr. 22 Steinenvorstadt.\n18 | III. | 773 A | | | Knecht=Laule, Johannes.\n | | | | | Siehe Nr. 13 Achlenberggasse.\n19 | III. | 774 | | | Henz=Rukmaul, Ludwig.\n | | | | | Siehe Nr. 24 Steinenvorstadt.\n20 | III. | 776 | | | Fischer=Horner, Elias.\n | | | | | Siehe Nr. 15 Kohlenberggasse.\n21 | III. | 775 | | | Fischer=Horner, Elias.\n | | | | | Siehe Nr. 26 Steinenvorstadt.\n22 | III. | 777 | | | Schlumpf=Dettling, Joh. Rudolf.\n | | | | | Schlumpf=Dettling, Joh. Rudolf, Musterweber.\n | | | | | Meyer=Häfeli, Wilhelm Daniel, Schrein.\n | | | | | Uster=Reimann, Daniel, Schneider.\n23 | III. | 780 | | | Brodbeck=Spitteler, Friedrich.\n | | | | | Siehe Nr. 28 Steinenvorstadt.\n25 | III. | 781 | | | Bultier=Mathiot, Fidor.\n | | | | | Siehe Nr. 30 Steinenvorstadt.\n26 | III. | 778 | | | Mangold=Kunz, Samuel.\n | | | | | Mangold=Kunz, Samuel, Zimmermstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6410,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2197,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p211",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p211.jpg",
+      "bytes": 1305762,
+      "sha256": "5411005d69780790246c7bd1d64ee070497faa7e2dce859550e10b527fc5f1d1",
+      "sha256_of": "original",
+      "working_copy": "1862_p211.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:08+00:00"
+  }
+}

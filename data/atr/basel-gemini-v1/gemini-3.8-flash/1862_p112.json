@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p112",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p112.jpg",
+    "bytes": 1449728,
+    "sha256": "4bab056eb06caf2e3dc7da86af4bd206329945fd250dee6d9bff61b5a67eb5d4",
+    "sha256_of": "original",
+    "working_copy": "1862_p112.jpg"
+  },
+  "text": "Freie Straße. 47\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n85 | V. | 1391 | zum hohen Steg. | Beurmann-Felber, Georg Fried.\n  Stöcklin-Jenny, Ludw., Quartierschr.\n  Dürr, Rudolf, Pelzwaarenhandlung.\n86 | IV. | 1061 | | Baumann-Scherb, Ulrich,\n  Baumann-Scherb, Ulrich, Uhrenmacher.\n  Kübler-Walser, Rud., Schuhmacher.\n87 | V. | 1390 | zum Würtemberg. | Sandreuter-Oser, Emanuel.\n  Sandreuter-Oser, Em., Hdlg. i. Südfrcht.\n88 | IV. | 1060 | | Bourgnon-Ankli, Joseph.\n  Bourgnon-Ankli, Jos., Ladendiener.\n  Brunner, Jakob, Schneider.\n89 | V. | 1389 | | Heusler-Hegy, Helene, Wittwe.\n  Heusler-Hegy, Hel., Wb., Kostgeberin.\n90 | IV. | 1059 | zum Gejäg. | Heusler-Geigy, Elise, Wb.\n  Heusler-Geigy, Elise, Wittwe.\n  Heusler-Abel, Kfm., Farbwaarenhdlg.\n  Heusler, Wilh., „ „\n  Heusler, Ed., J. U. D., Anwalt u. Notar.\n  Advokatur u. Notariatsbureau v. Lich-\n  tenhahn u. Heusler.\n  Ohmgeldschreiberei.\n91 | V. | 1387 | zur Spitalschmiede. | Schultheß-Tschannen, Paul.\n  | | 1388 | | Schultheß-Tschannen, Tapez. u. Meuble-\n  handlung.\n  Jordan, Adam, Buchhalter.\n  Mori, Stephan, Cigarrenhandlung.\n92 | IV. | 1058 | z. unt. Rothenflue. | Heusler-Geigy, Elise, Wb.\n  (Siehe Nro. 90)\n93 | V. | 1386 | zum Fälklein, zum Grünstein. | Tschientschy-Krebser, Catharina.\n  Tschientschy-Krebser, Carl, Kaufmann.\n  Futterer, Carl, Kaufmann.\n94 | IV. | 1057 | z. obern Rothenflue. | Doßwald-Seul, Joseph.\n  Doßwald-Seul, Joseph, Confiseur.\n95 | V. | 1385 | zum Bernau. | Tschientschy-Krebser, Frau Cathar.\n  Krebs-Koelner, Hier., Clavierstimmer.\n96 | IV. | 1055 | zum Schilthof. | Maring, Ludwig, und Heimlicher, Joh. Jakob, Dr.\n  | | 1056 | | Senn-Ketterer, Carl, Restaurateur.\n  Geigy, Wilh. u. Comp., Comptoir.\n  Burckhardt, Achilles u. Comp., „\n  Maring, L., Architekt, Bureau.\n  Heimlicher-Senn, Joh. Jak., Dr., Statt-\n  halter des Landbezirks.\n  Merian, Emil, J. U. D.\n97 | V. | 1384 | zum Kupferberg. | Best-Piton, J. Rudolph.\n  Best-Piton, J. Rud., Buchbinder, Pa-\n  pierhdlg. u. Schreibmaterialien.\n99 | V. | 1075 | zum blauen Stein. | Frietschi-Wäffler, J.\n  Waeffler, Christian. Jak.\n  Frietschi-Wäffler, Jos., Feilenhauer.\n  Ranz, G. Josef, Schmied.\n  Wahl, G. Rud., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10189,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2234,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:41:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p112",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p112.jpg",
+      "bytes": 1449728,
+      "sha256": "4bab056eb06caf2e3dc7da86af4bd206329945fd250dee6d9bff61b5a67eb5d4",
+      "sha256_of": "original",
+      "working_copy": "1862_p112.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:51+00:00"
+  }
+}

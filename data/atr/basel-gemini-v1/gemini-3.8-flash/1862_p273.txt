@@ -1,0 +1,53 @@
+208
+Vogelsangweg. — Webergasse.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Vogelsangweg.
+
+3 | VIII. | 33 | zur Sandgrube. | LeGrand, Geschwister.
+  LeGrand, Christof u. Maria, Rent.
+  Bolzkieler, Alois, Lehenbeständer.
+4 | VIII. | 32 | zur Sandgrube. | Merian-VonderMühll, Heinrich.
+  Nußbaumer-Haefeli, Joh., Lehenbeständ.
+8 | VIII. | 32 B | | Gaß-Schlosser, Johannes.
+  Kaufmann-Hoeferlin, Wilh., Commis.
+10 | VIII. | 84 | zum Vogelsang. | Merian-VonderMühll, Heinrich.
+  Brunner, Urs Victor, Lehenbeständer.
+11 | VIII. | 40 | | Merian-VonderMühll, Heinrich.
+13 | VIII. | 85 | | Merian-VonderMühll, Heinrich.
+14 | VIII. | 84 c | | Merian-VonderMühll, Heinrich.
+  Baader-Tschann, Urs Josef, Maurer.
+
+Webergasse.
+
+1 | VII. | 322 | zum rothen Stein. | Schäfer-Müller, Joh. Heinrich.
+  Schäfer-Müller, Joh. Heinr., Schuhm.
+2 | VII. | 323 | Ortmühle. | Buchmann-Fäsch, Rudolf.
+  Buchmann-Fäsch, Rudolf, Müller.
+3 | VII. | 332 | | Dörflinger, Carol.
+  Dörflinger, Carol., Part.
+  Reindle, Alois, Spezierer.
+4 | VII. | 331 | Ortheck. | Sulger-Stähelin, Andreas.
+5 | VII. | 333 | | Fäsch-Salathe, Jakob.
+  Fäsch-Salathe, Jakob, Bäcker.
+6 | VII. | 335 | | Schuler, Emanuel.
+  Schuler, Emanuel, Schmied.
+  Martin-Furler, Joh., Schmied.
+7 | VII. | 334 | | Müller-Schwarz, Samuel.
+  Müller-Schwarz, Sam., Bäcker u. Wirth.
+  Bolleg-Deez, Wilh. Friedr., Schneider.
+8 | VII. | 336 b | | Huber, Jakob Christof.
+  Huber-Berni, Jakob Christof, Seiden-
+    färbergeselle.
+  Bürki-Straßer, Joh., Kaminfeger.
+9 | VII. | 337 | | Mechel, Rudolf.
+10 | VII. | 340 | z. schwarzen Adler. | Bell, Jakob.
+11 | VII. | 338 | | Uehlinger-Neukomm, Joh. Georg.
+  Uehlinger-Neukomm, Joh. Georg, Trödl.
+12 | VII. | 343 | zur Schmiede. | Bienz, Rudolf.
+13 | VII. | 339 | | Frey-Thommen, Joh. Lucas.
+  Frey-Thommen, Joh. Lucas, Bäcker u.
+    Polizeigerichtsweibel.
+  Neuhauser, Constantin, Bäcker.
+  Frey-Marbach, Beat. Hercules, Schneid.

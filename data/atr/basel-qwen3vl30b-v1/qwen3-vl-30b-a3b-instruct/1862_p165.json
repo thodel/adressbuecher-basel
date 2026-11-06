@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p165",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p165.jpg",
+    "bytes": 1288180,
+    "sha256": "e36282c02a1f0549f99107bcce5bcb36b6ec11b810de82492d749def26bc6d47",
+    "sha256_of": "original",
+    "working_copy": "1862_p165.jpg"
+  },
+  "text": "100 Münzgäßlein. — Mädelberg.\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n14 | VI. | 1708 | zum Dolder. | Geßler, Emanuel.\n16 | VI. | 1715 | z. schwarzen Stern. | Preiswerk, Emanuel.\n17 | VI. | 1684 | Ruttelhaus. | Corporationsgut der Meggernzunft.\n| | | | Fischer-Schmuziger, Andreas, Ruttler.\n18 | VI. | 1693 | zum Weiberbad. | Gyfin, Samuel.\n| | | | Gyfin, Samuel, Courtier.\n| | | | Wiesner-Schwarz, Heinrich, Buchbinder.\n19 | VI. | 1685 | zur kleinen Fortuna. | Roth-Maler, Hugo.\n| | | | Roth-Maler, Hugo, Fabrikarbeiter.\n20 | VI. | 1694 | zur Lehr. | Hürlemann-Ziegler, Wendolin.\n| | | | Hürlemann-Ziegler, Wendolin, Trödler.\n22 | VI. | 1695 | | Gakler, Leonh.\n24 | VI. | 1696 | zum Hungerstein. | Pfysfer-Lorenz, Joh. Jacob und\n| | | | Anna Lorenz.\n| | | | Pfysfer-Lorenz, Joh. Jacob, Buchbinder.\n| | | | Lorenz, Anna, Schneiderin.\n26 | VI. | 1697 | | Rientzi-Gögel, Wb.\n| | | | Koch-Monin, Carl, Dessinateur.\n| | | | Siegrift, Wilhelm, Coiffeur.\n| | | | Guth, Wb. Susanna, Matrakenmacherin.\nMädelberg.\n1 | II. | 557 | | Linder, Emilie, Jungfr.\n| | | | Sek-Hoch, Joh., Alt-Spitalprediger.\n| | | | Siehe Todtengäßlein Nr. 19.\n2 | II. | 565 | Knabenschulhaus. | Stadtgemeinde.\n| | | | Bubek-Rullen, Wilh. Friedr., Lehrer.\n| | | | Siehe Stiftsgasse Nr. 2.\n| | | | Hübscher-Spahn, Joh. Martin, Lehrer.\n| | | | Siehe Peterskirchplatz Nr. 5.\n3 | II. | 556 | | Linder-Hopf, Joh. Jacob.\n| | | | Linder-Hopf, Joh. Jacob, Bandfabrikant.\n| | | | Comptoir von F. F. Linder.\n| | | | Sonin-Linder, Wb. Emilia, Particul.\n4 | II. | 553 | Engelhof. | La Roche-Bez, Emanuel.\n5 | II. | 555 | Mägdeburg. | Bollinger, Joh. Jacob.\n| | | | Bollinger, Joh. Jacob, Ferger.\n| | | | Schäfer, Christina Catharina, Lehrerin.\n6 | II. | 552 | zum Schönenhaus. | La Roche, German.\n| | | | La Roche, German, Alt-Deputat.\n| | | | La Roche-Burchardt, Aug., Appellations-\n| | | | rath, J. U. D.\n| | | | Fischer-Baur, Joh. Ben., Postcommis.\n7 | II. | 554 | Löwenschlößlein. | Spreng, Joh. Jacob.\n| | | | Spreng, Joh. Jacob, Particular.\n8 | II. | 551 | zum schönen Hof. | Echardt-Hoffmann, J. Conrad.\n| | | | Echardt-Hoffmann, J. C., Manufactur-\n| | | | waarenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7407,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2219,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:42:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p165",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p165.jpg",
+      "bytes": 1288180,
+      "sha256": "e36282c02a1f0549f99107bcce5bcb36b6ec11b810de82492d749def26bc6d47",
+      "sha256_of": "original",
+      "working_copy": "1862_p165.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:39+00:00"
+  }
+}

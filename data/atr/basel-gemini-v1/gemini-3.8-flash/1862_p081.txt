@@ -1,0 +1,55 @@
+16 St. Alban-Vorstadt.
+
+Neue Haus-Nr. | Quar= tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+3 | V. | 1353 | | Bernoulli, Niklaus.
+  Bernoulli-Berri, Nikl., Notarius.
+5 | V. | 1352 | zum Sausewind. | Thurneysen-Merian, Emil.
+  Thurneysen-Merian, Emil, Bandfabr.
+6 | V. | 1216 | | VonderMühll-Hoffmann, Wb. A. C.
+  Burckhardt, Jgfr. Marg. u. Charl., Part.
+7 | V. | 1351 | | Kummer-Siegrist, Conrad.
+  Kummer-Siegrist, Conr., Liseur.
+8 | V. | 1217 | | LaRoche-Heußler, Rekt., Wb. Cath.
+  LaRoche-Heußler, Rekt. Wb., Cath. Part.
+9 | V. | 1350 | | Burckhardt-Burckhardt, Wb.
+10 | V. | 1218 | Neuhof. | Merian-Ryhiner, Wb. Elise.
+  Merian-Ryhiner, Wb. Elise, Rent,
+11 | V. | 1349 | | Burckhardt-Burckhardt, Wb.
+12 | V. | 1219 | | Hoffmann-Eglin, Eman.
+  Firma Eml. Hoffmann, Bandfabrik.
+13 | V. | 1348 | Schauenburg. | Wieland-Bischoff, Eleonora. Wb.
+  Wieland-Bischoff, Elen., Wb., Part.
+14 | V. | 1220 | | Hoffmann-Preiswerk, Wb. Hel.
+  Hoffmann-Preiswerk, Wb. Hel.
+  Hoffmann-Eglin, Eml., Bandfabrikant.
+  Hoffmann, Emanuel.
+  Hoffmann-Burckhardt, Alb., Tuchhandlg.
+15 | V. | 1347 | | Bischoff, Carl.
+  Bischoff, Carl, Kaufmann.
+16 | V. | 1221 | | Geigy-Lichtenhahn, Wilhelm.
+  Geigy, Wilhelm, Vater, Fabrikant, resp.
+  Baumwollspinnerei u. mech. Weberei.
+17 | V. | 1346 | zum Geist. | Bischoff-Iselin, Christof.
+  Bischoff-Iselin, Chr., Fabrikant.
+  Bischoff, Gustav, desgl.
+  Bischoff, Alphons, desgl.
+  Comptoir von Chr. u. Joh. Bischoff.
+18 | V. | 1222 | | Bischoff-Respinger, Hieron.
+19 | V. | 1345 | zur Fortuna. | Burckhardt, Carl sel., Erben.
+  Burckhardt-VonderMühll, Carl Felix,
+  J. U. Dr. und Bürgermeister.
+  Burckhardt-Burckhardt, Eml., Kaufm.
+20 | V. | 1223 | | Völmy-Glaser, Jak.
+  Völmy-Glaser, Jak., Fabrikarbeiter.
+21 | V. | 1344 | zum Zank. | Bischoff-Preiswerk, Joh. sel., Erb.
+  Bischoff-Preiswerk, Wb. M., Rent.
+  Bischoff, Eduard, Kaufmann.
+  Bischoff, Alfred, J. U. D.
+22 | V. | 1224 | | Bischoff-Respinger, Hieron.
+  Jenny-Wunderlin, Fried., Appreteurgeh.
+  Dietrich, Andr., Schreiner.
+23 | V. | 1343 | | Bischoff-Preiswerk, J. sel., Erben.
+  Wieland-Bischoff, Hans, eidg. Oberst.
+24 | V. | 1225 | | VonderMühll-Merian, Karl.
+  VonderMühll-Merian, K., Handelsmann

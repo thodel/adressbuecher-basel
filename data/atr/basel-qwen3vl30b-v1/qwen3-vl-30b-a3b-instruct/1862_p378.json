@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p378",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p378.jpg",
+    "bytes": 1629862,
+    "sha256": "27558d64f019a62d188a3565ec90e68df711a21e7e9197c9658f80803c0b3579",
+    "sha256_of": "original",
+    "working_copy": "1862_p378.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 313\nMärklin-Huber, Pet. Euchar., Feger. St. Elisabethen-Straße 2.\n— Joh. Jak., Part. Untere Rheingasse 6.\n— Johanna, Partikul. Untere Rheingasse 6.\n— =Schweizer, Heinrich, Posamenter. St. Leonhards-Berg 1.\nMärky-Bell, J. J., Seidenfärber. Rheingasse 30.\n— Heinrich, Fabrikarbeiter, Lindenberg 1.\n— =Ristler, Joh. Jacob, Fabrikausseher. Untere Rheingasse 19.\n— =Rüfer, Carl, Handlung in Seidenstoffen. Klingenenthalstraße 39.\nMagallon-Faurat, Hypolite. Bandfabrikant. St. Johann-Vorstadt 31.\nMajor-Schmerber, Wb. Emilie, Partikularin. Missionsstraße 41.\nMalibas-Marbach, Johan., Commis. St. Johann-Vorstadt 51.\n— =Rietzki, Wb. Christina, Schneiderin. Schwanengasse 3.\nMalzach-Nebel, Joseph, Taglöhner. In der Breite 13.\nMalzacher, Wilhelm, Postpracticant. Bahnhofstraße 12.\nMangold, Adam, Mechaniker. Weiße Gasse 18.\n— =Bienz, Wb. Christina. Zettlerin. Webergasse 11.\n— =Fischer, Martin, Zimmermann. Altenbeckstraße 53.\n— =Greis, Joh. Wilhelm, Schuhmacher. Gerbergäklein 8.\n— =Hersperger, Heinrich, Posamenter. Imbergäklein 11.\n— =Kunz, Samuel, Zimmermeister. Steinenbachgäklein 26.\n— =Müller, Esther. Eisengasse 10.\n— =Müller, Johann, Spezierer. Roshofgasse 15.\n— Nägelin, Anna, Taglöhnerin. Untere Rheingasse 21.\n— =Tröndle, Jakob, Lehrenmann. Schützenmattstraße 41.\nMann-Bertschmann, Christina, Part. Heuberg 14.\nMantel-Sträser, Heinrich, Gerbergesell. St. Peters-Berg 9.\nManz-Gloor, Eduard, Flachmaler. Todten­tanz 7.\n— =Jenni, Johannes, Maler. Binninger Straße 15.\nMarbach, Dorothea, Glätterin. Spalenberg 45.\n— Gyfin, Wb. Anna, Klirchner. Spalenberg 45.\n— Louije, Ladengehilfin. Spalenberg 45.\nMarbet-Mauch, Augustin, Posamenter. Kie­henthorstraße 17.\nMarfort, Anton, Commis. Freie Straße 37.\n— =Braun, Rosina. Sägergäklein 4.\nMarfort-Flury, Wb. Salomea, Part. Freie Straße 37.\n— =von Speyr, Albert, Sattler. Freie Straße 37.\nMargret J. Emil, Kaufm., Blumenrain 14.\nMaring-DeBary, Joh. Jak., Kanzleisekretär. Sattelgasse 1.\n— Emanuel, Commis. Blumenrain 20.\n— =Wierz, Lud., Architekt. Freie Straße 70.\n— Salomea und Maria, Merceriehandlg, Braut- u. Todtenfränze u. Todtenröcke. Sattelgasse 1.\n— =Inkel, Wb. Cath., Nätherin. Rheingasse 59.\nMarolf-Kunkler, Franz, Lehrer. Rüchegäklein 3.\nMaroneto-Bigo, Peter, Posamentermeister. Fabrikstraße 19.\nMarrer, Raimund, Hausknecht. St. Andreasplatz 10.\nMarthaler-Merat, Jac., Kutscher. St. Elisabethen-Straße 32.\nMartin-Bulacher, Joh. Friedr., Fabrikarbeit. Lindenberg 1.\n— Charlotte, Part. St. Peters-Platz 15.\n— =Dietrich, Joh. Heinr., Flachmaler. Steinenhorstraße 2.\n— =Döbelin, Georg, Taglöhner. Gerbergasse 47.\n— =Dolt, Hans, Bäcker u. Wirth. Steinenhorstraße 45.\n— Emanuel, Agent. St. Elisabethen-Straße 36.\n— =Frey, Heinrich, Feger. Steinenstadt 19.\n— =Furler, Johs., Schmied. Webergasse 6.\n— Gabriel, Zolleinnehmer. Nauenstraße 5.\n— =Haas, Heinr., Seidenfärber. Todtentanz 6.\n— Heinr. Ludwig, Commis. Spalenberg 46.\n— Joh. Jac., Kaufhausarbeiter. Imbergäklein 22.\n— Johannes, Hafner. Brunngäklein 4.\n— =Kleinknecht, Rud., Notargehilfe. Spalenvorstadt 12.\n— =Krebs, Heinr., Maler. Rebgasse 36.\n— Marie Adelheid, Lehrerin. Kiehenthorstraße 5.\n— =Mattenberger, Joh., Posamenter. Mühl­enberg 18.\n— =Reber, Rud., Fabrikarbeiter. Todtentanz 12.\n— =Schaffner, Johs., Posamenter. Mühl­enberg 18.\n— =Schaub, Wb. Urjula, Part. Steinen­thorstraße 45.\n— =Schmerber, Franz, Rentier. Missionsstraße 12.\n— =Stauch, Heinr., Ausläufer. Bei der Wiefenschranze 32.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8925,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3437,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:11:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p378",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p378.jpg",
+      "bytes": 1629862,
+      "sha256": "27558d64f019a62d188a3565ec90e68df711a21e7e9197c9658f80803c0b3579",
+      "sha256_of": "original",
+      "working_copy": "1862_p378.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:11:46+00:00"
+  }
+}

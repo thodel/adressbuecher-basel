@@ -1,0 +1,53 @@
+194 | Rheingasse.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+25 | VIII. | 39 | zur Sonne. | Seyßer-Seiler, Johannes.
+  Seyßer-Seiler, Joh., Gastwirth.
+  Aubry-Richenaud, Nic. Const., Schleif.
+26 | VIII. | 37 | zum Schlegel. | Schmid-Bötschin, Joseph.
+  Schmid-Bötschin, Joseph, Schuhmacher.
+  Schneider-Lürder, Lorenz, Schiffmann.
+  Hug-Häfeli, Matth., Schwimmlehrer.
+27 | VIII. | 40 | zum Roggenburg. | Vuilleumier-Schweizer, Aug. Virgil.
+  Vuilleumier-Schweizer, Aug. Virgil, Bäck.
+28 | VIII. | 38 | | Uehlinger-Uehlinger, Jakob.
+  Uehlinger-Uehlinger, Jakob, Glaser.
+29 | VIII. | 41 | | Schweizer-Isenegger, Ludwig.
+  Schweizer-Isenegger, Ludwig, Maler.
+  Grollimund-Schweizer, Emanuel, Kfm.
+30 | VIII. | 42 | | Bell-Hug, Heinrich, sel. Erben.
+  Bell-Hug, Wb. Maria Magdal., Part.
+  Bell, Heinrich, Fischer.
+  Schönenberger-Baumgartner, Caspar,
+    Uhrmacher.
+  Gölzlin, Friedrich, Schneider u. Flecken-
+    putzer.
+31 | VIII. | 46 | der Ziegelhof. | Lotz-Gocht, Achilles.
+  Lotz-Gocht, Achilles, Seidenfärber.
+32 | VIII. | 43 | | Zentgraff, Wilhelm.
+  Zentgraff, Wilhelm, Kaufmann.
+33 | VIII. | 47—48 | der Ziegelhof. | Lotz-Gocht, Achilles u. Lotz, Albert.
+  Glunz-Seyfried, Carl, Seidenfärber.
+34 | VIII. | 44 | z. klein. Augenweide. | Küpfer-Mähly, Heinrich.
+  Küpfer-Mähly, Heinrich, Schreiber.
+  Rebsamen-Bieler, Barbara, Lehrerin.
+35 | VIII. | 49 | | Eglin-Wegner, Wb. Mar. Magdal.
+  Eglin-Wegner, Wb. Maria Magdalena,
+    Partikul.
+36 | VIII. | 45 | | Herzog-Thommen, Joh. Friedrich.
+  Herzog-Thommen, Joh. Friedr., Feilenh.
+  Plattner-Oberer, Wb. Anna, Spezier.
+  Schultheiß-Schluep, Heinr., Eisenbahn-
+    beamter.
+37 | VIII. | 49 a | | Eglin-Wegner, Wb. Mar. Magdal.
+38 | VIII. | 50 | | Gürtler-Heckle, Peter.
+  Gürtler-Heckle, Peter, Maurermeister.
+  Wüst-Heckle, Joh. Baptist, Commis.
+  Plattner, Martin, Spengler.
+39 | VIII. | 61 A | Gerberei z. untern Antonierhof. | Raillard-Stähelin, August.
+40 | VIII. | 51 | zum rothen Thurm. | Widler-Nonnenmacher, Jakob.
+  Widler-Nonnenmacher, Jakob, Posam.
+  Schwarz-Krumm, Leonhard, Schreiner.
+42 | VIII. | 52 | | Lotz-Heusler, Friedrich.
+  Portmann-Schmidt, Anton, Hausknecht.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p191",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p191.jpg",
+    "bytes": 1282494,
+    "sha256": "21acc054cb75a34317fd4d491935d695cae1ebfeef3b4ab286a9a135bb130b98",
+    "sha256_of": "original",
+    "working_copy": "1862_p191.jpg"
+  },
+  "text": "126 Schneidergasse. — Schnurenweg. — Schützengasse.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n25 VI. 1754 ................. Enderly=Kieder, Leonz.\nEnderly-Kieder, Leonz, Schneider.\nKieder, Adolf, Kaufmann.\n26 II. 592 zum Marbach. Burckhardt-Mantel, Johannes.\nBurckhardt-Mantel, Johannes, Metzger.\n27 VI. 1755 3. obernweiß. Haus. Cruffaire-Durand, Victor.\nCruffaire-Durand, Victor, Zuckerbäcker.\nPiechioni-Troxler, Ludwig, Professor.\nSerauer, Adolf, Kaufmann.\n28 II. 593 zum Haupt. Lefer-Karger, Adolf.\nLefer-Karger, Adolf, Polizeisecretair.\nScharpf-Weizmann, Alois, Lehrer.\nHef-Ryff, Andreas, Photograph.\nHoner, Franziska, Matrazzenmacherin.\nZweig-Wolber, Ferdinand, Trödler.\nSiehe Imbergäcklein Nr. 10.\n29 VI. 1756 zur Sonne. Meyer-Ettlin, Elisabeth.\nMeyer-Ettlin, Elisabeth, Kostgeberin.\n30 II. 594 zum Eichhörnlein. Schneider-Faesch, Friedrich.\nSchneider-Faesch, Friedr., Schreiner.\nBuser-Rufenach, Wb. Carolina, Modiste.\n31 VI. 1757 3. obern Schär. Wagner, J. J. Peter.\nWagner, J. J. Peter, Kleiderhändler.\nPetion-Ortlieb, Ernst, Bergolder.\n32 II. 595 ..................... Wilhelm-Jaillet, Joh. Christian.\nWilhelm-Jaillet, J. Christn., Detailiant.\nFroehlicher-Ruhlmann, Aug., Agent.\nBranger-deGaillier, Jacob, Particular.\nGodenzi-Bosig, Giovanni, Zollbeamter.\n33 VI. 1758—59 Rechberg. Fischer-Grunauer, Heinrich.\nFischer-Grunauer, Heinr., Buchbinder.\nH. Fischer u. Comp., Kunst-, Papier- u.\nSchreibmaterialienhandlung.\n34 II. 596 zur Gans. Hagenbach-Merian, Friedrich.\nHagenbach Merian, Friedrich, Partikul.,\nStadtrath.\nLussi-Obriß, Joh. Jac., Tabak- u. Ci-\ngarrenhandlung.\nSchnurenweg.\n30 IV. 208 ..................... Thommen-Simmen, Georg.\n32 IV. 208 A ..................... Thommen-Simmen, Georg.\nSchützengasse.\n2 II. 354 C ..................... Henz-Erzberger, Joh.\nRemise.\n10 II. 357 ..................... Brunner, Daniel u. Conforten.\nZuber-Doerflinger, Jacob, Gantruser.\nSacher-Leiner, Josef, Kaufmann.\nWalz, Friedrich, Kunsthändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5325,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "repetitive",
+    "chars": 2001,
+    "lines": 58,
+    "longest_char_run": 21,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0105,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p191",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p191.jpg",
+      "bytes": 1282494,
+      "sha256": "21acc054cb75a34317fd4d491935d695cae1ebfeef3b4ab286a9a135bb130b98",
+      "sha256_of": "original",
+      "working_copy": "1862_p191.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:10+00:00"
+  }
+}

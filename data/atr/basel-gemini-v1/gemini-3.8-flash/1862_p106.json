@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p106",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p106.jpg",
+    "bytes": 1417274,
+    "sha256": "1e9504105f6a17b5a534b5eba0bb7da5cec0d60b71a385a9f93ec83751dc57a3",
+    "sha256_of": "original",
+    "working_copy": "1862_p106.jpg"
+  },
+  "text": "Freie Straße. 41\n\nNeue Haus-Nr. | Quar=tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nFreie Straße.\n1 | VI. | 1618 | zum Appenzell. | Schneider-Grisanti, Rudolph.\n  Schneider-Grisanti, Rud., Uhrmacher.\n  Märklin, Andreas, Handlungreisender.\n2 | VI. | 1639 | zum rothen Thurm. | Imhoff-Falkner, Hieronimus.\n  Imhoff-Falkner, Hieron., Wollwaaren-\n  und Mercerie-Handlung.\n  Almandi-Ehinger, Wb. Julie, Rent.\n3 | VI. | 1619 | zum Halbmond. | Meißner-Fischer, Marcus.\n  Meißner-Fischer, Marcus, Apotheker.\n  Meißner, Adolph, Apothekergehülfe.\n  Trüdinger, Georg, Kaufmann.\n4 | VI. | 1638 | zur Schere. | Burckhardt-Mieg, Joh. Jac.\n  Burckhardt-Mieg, Joh. Jak., Kaufmann.\n  Quincaillerie, Parfumerie.\n  Firma Christof v. Christof Burckhardt.\n5 | VI. | 1620 | zur goldenen Lilie. | Riedtmann-Erlacher, Wilhelm.\n  Riedtmann-Erlacher, Wilh., Kaufmann.\n6 | VI. | 1637 | z. Himmelsporten. | Stierlin-Schwab, Emanuel.\n  Philippi-Stierlin, Wilhelm Rud. Franz,\n  Kaufmann.\n7 | VI. | 1621 | z. schwarzen Haus. | Bloch, Peter.\n  Bloch, Peter, Seiler.\n8 | VI. | 1636 | zur Himmelspforte. | Kirsch, J. C. sel. Wb. Chrisch. Marg.\n  Kirsch-Lindenmeyer, Wb. Chrisch. Marg.\n  Kaufm., Spezerei u. Comestiblegesch.\n  z. schmal. Sonne. | Firma Casp. Krug.\n  Kirsch, J. C., Agenturgeschäft.\n  Kirsch, Peter, Kaufmann.\n  Kirsch, Arnold, Kaufmann.\n9 | VI. | 1622 | z. goldenen Falken. | Pernaux-Müller, Victor.\n  Pernaux-Müller, Victor, Kaufmann.\n  Schütz-Chabrol, Emil, Commis.\n10 | VI. | 1635 | | Georg-Neukirch, Heinrich.\n  Georg-Neukirch, Heinr., Buchhändler.\n  Neukirch'sche Buch- u. Kunsthandlung.\n  Bischoff u. Kündig, Advokatur und No-\n  tariatsbureau. Polizeigerichtskanzlei.\n  Blanchet, Jeanne Sus. Paul., Rent.\n11 | VI. | 1623 | | Oswald, Gebrüder.\n  Wolf-Meyer, Benjamin, Kaufmann.\n12 | VI. | 1634 | Post. | Staat.\n  Maurer-Wölfflin, Joh., Postdirector.\n  Sulzer, Jakob Wilhelm, Kaufmann.\n13 | VI. | 1624 | zum Hermelin. | Settelen-Settelen, Frz. Anton.\n  Settelen-Settelen, Frz. Ant., Schneider-\n  meister u. Kleiderhandlung.\n14 | VI. | 1633 | zum Frauenstein. | Steinmann-Vonwiler, Jakob.\n  Steinmann-Vonwiler, Jakob, Spengler.\n  Ulmann-David, Felix, Kaufmann in\n  Weißwaaren u. Broderien.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8173,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2214,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:40:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p106",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p106.jpg",
+      "bytes": 1417274,
+      "sha256": "1e9504105f6a17b5a534b5eba0bb7da5cec0d60b71a385a9f93ec83751dc57a3",
+      "sha256_of": "original",
+      "working_copy": "1862_p106.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:54+00:00"
+  }
+}

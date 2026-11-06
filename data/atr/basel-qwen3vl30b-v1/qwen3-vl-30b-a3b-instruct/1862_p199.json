@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p199",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p199.jpg",
+    "bytes": 1368634,
+    "sha256": "495d9d51d105f99bfcf12e434d0436d12646076274aa6d17c6a240829fb406d6",
+    "sha256_of": "original",
+    "working_copy": "1862_p199.jpg"
+  },
+  "text": "134\nSpalenberg.\nNrn\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n26 II. 492—493 zum halben Rad. Ackermaun=Dudli, Johannes.\nAckermaun=Dudli, Johannes, Spezerei=\nund Packtuchhandlung.\n27 II. 487 zur kleinen Tanne. Wolf=Reutlinger, Simon.\nWolf=Reutlinger, Simon, Handelsmann.\nWeyer=Wolf, Abraham, Particular.\n28 II. 494 zum Kernenbrod. Locher, Johannes und Emanuel.\nLocher, Johannes, Uhrenmacher.\nLocher, Emanuel, Musiker.\n29 II. 486 zum großen Schaaf. Schmaßmann=Rech, Wb. Walburga.\nSchmaßmann=Rech, Wb. Walburga,\nKrawattenmacherin.\nSchmaßmann, Heinrich, Krawattenmacher\nund Ausläufer.\nGamper=Soland, Johann, Telegraphist.\nKieffer, Magdalena, Victualienhandlung.\n30 II. 495 zum Morgenstern. Sulzmann=Rieny, Wilhelm.\nSulzmann=Rieny, Wilhelm, Schuhmach.\nSulzmann, Friedr. Julius, Briefträger.\n31 II. 485 zum oberen Pfeiler. Basler=Barny, Johannes.\nBasler=Barny, Johannes, Anecht.\nKeeacker=Weyer, Mathias, Hafner.\n32 II. 496 zur blauen Glocke. Albiez=Rehlin, Melchior.\nAlbiez=Rehlin, Melchior, Schneider.\nSinger, Friedrich, Dessinateur.\n33 II. 484 zur untern Tanne. Waffermann=Waffermann, Joh.\nErb=Freyvogel, Eduard, Spezierer.\nWaffermann=Waffermann, Joh., Schnei=\nder und Postfactor.\n34 II. 497 Schloß Dürmenach. Tschientsch=Kißlig, Wb. Susanna\nCatharina.\nTschientsch=Kißlig, Wb. Susanna Catha=\nrina, Drehßler.\nKißlig, Samuel, Schuhmacher.\nGrieder=Hug, Friedrich, Victualienhdlg.\nSträkle=Herzog, Joh. Jacob, Zimmerm.\n35 II. 483 z. lebenden Heurling. Buchmann=Caspar, Peter.\nBuchmann=Caspar, Peter, Zuckerbäcker.\nLadmann, Sophia, Modiste.\n36 II. 498 z. Bannwartschütte. Wülf=Binder, Remigius.\nWülf=Binder, Remigius, Schuhmacher.\n37 II. 482 zum Attiswyl. Träris=Müller, Friedrich.\nTräris=Müller, Friedrich, Kälser.\nMüller=Niedermeyer, Carl, Kälser.\n38 II. 499 Bannwartschauß. Schmid=Wunderlich, Friedrich, Uhr=\nmacher.\n39 II. 481 zum grünen Kränzle. Seitter=Schneider, Emanuel,\nSeitter=Schneider, Emanuel, Mezger.\n40 II. 479 zum oberen Pflug. Scharpf, Maria Anna.\nScharpf, Maria Anna, Particularin.\nBeindy=Pfäfflin, Joh. Baptist, Schneid.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5810,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2085,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p199",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p199.jpg",
+      "bytes": 1368634,
+      "sha256": "495d9d51d105f99bfcf12e434d0436d12646076274aa6d17c6a240829fb406d6",
+      "sha256_of": "original",
+      "working_copy": "1862_p199.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:57+00:00"
+  }
+}

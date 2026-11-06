@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p277",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p277.jpg",
+    "bytes": 1494746,
+    "sha256": "eaaaf9b3503ec881b73f6df38b7e29032215e6035d55a7ba153c2d74002665a5",
+    "sha256_of": "original",
+    "working_copy": "1862_p277.jpg"
+  },
+  "text": "212 Verzeichniß der Häuser nach ihren Benennungen.\nBahnhof, badischer. Bahnhofstraße Nr. 12. | Bläserhof. Untere Rebgaſse Nr. 19.\nBahnwartshäuschen. Bäumlinhofweg Nr. 3. | Bläfithor. Untere Rebgaſse Nr. 21.\nBahnwartshäuschen. Gottenbarmweg Nr. 10. | Blauenſtein, z. Rheingaſse Nr. 11.\nBahnwartshäuschen. Horburgstraße Nr. 24. | Blauenſtein, z. Untere Rebgaſse Nr. 20.\nBalchen, z. Steinenthorſtraße Nr. 37. | Bleiche, z. alten. Hintere Bahnhofſtraße Nr. 8.\nBalchen, z. oberen. Streitgaſse Nr. 11. | Bleiche, z. alten. Hintere Bahnhofſtraße Nr. 12.\nBalchen, z. untern. Streitgaſse Nr. 13. | Blömlenkaſerne. Steinenberg Nr. 9.\nBallenhaus. Theaterſtraße Nr. 10. | Blozheim, z. Greiffengaſse Nr. 6.\nBallenhaus. Theaterſtraße Nr. 12. | Blume, z. goldenen. Schwanengaſse Nr. 4.\nBank. Marktplatz Nr. 3. | Blume, hintere. St. Petersberg Nr. 37.\nBannwartzhaus. Nadelberg Nr. 47. | Blumenberg, z. untern. Imbergäklein Nr. 26.\nBannwartzhaus. Klingenthal Nr. 14. | Blumenberg, z. obern. Imbergäklein Nr. 28.\nBannwartzhitte, z. Spalenberg Nr. 36. | Blumenschmiede. Schwanengaſse Nr. 3.\nBarbe, z. St. Petersberg Nr. 16. | Blumenschmiede, z. alten. Blumenrain Nr. 1.\nBarbe, z. Schwanengaſse Nr. 10. | Blutegelweihcr, z. Lehennattweg Nr. 40.\nBart, z. Schifflände Nr. 1. | Bock, z. rothen. Freie Straße Nr. 63.\nBartened, z. Barfüßerplatz Nr. 4. | Bock, z. weißen. Freie Straße Nr. 61.\nBaslerhof, z. Bahnhofſtraße Nr. 19. | Bockstecherhof. St. Johann-Vorſtadt Nr. 4.\nBatterie, z. Horburgstraße Nr. 39. | Bodeſtcecherhof. Todtentanz Nr. 17.\nBau, z. neuen. Aeſchenvorſtadt Nr. 14. | Böcken, zu d. drei. Gerbergaffe Nr. 10.\nBau, z. neuen. Aeſchenvorſtadt Nr. 16. | Böcken, zu d. drei. Münzgäklein Nr. 11.\nBau, z. neuen. St. Alban-Thal Nr. 44. | Böhler, z. Rheingaſse Nr. 15.\nBaubureau, städtisches. Brodlaube. Stadt- | Böhler, z. hintern. Webergaffe Nr. 34.\n  hausgaſſe Nr. 1. | Brandeck, z. Greiffengaſse Nr. 4.\nBaugarten, z. Schanzenſtraße Nr. 21. | Brauer, z. Rheinsprung Nr. 14.\nBauverwalterwohnung. Spalenvorſtadt Nr. 16. | Brief, z. blauen. Stadthausgaſse Nr. 10.\nBeginenhaus, alt. Malzgaſse Nr. 9. | Brigitthor, z. Malzgaſse Nr. 2.\nBellerive, Grenzacher Straße Nr. 123. | Brigitthor, z. St. Alban-Vorſtadt Nr. 58.\nBenfen, z. Heuberg Nr. 21. | Brodbecken, Zunft zu. Freie Straße Nr. 26.\nBerg, z. blauen. Barfüßergaffe Nr. 2. | Brodhaus, ehemal., nun Schlachthaus. Weiße\n  Gasse Nr. 7.\nBerg, z. blauen. Bäumleingaffe Nr. 6. | Bruck, z. untern. Stadthausgaſse Nr. 7.\nBerg, z. blauen. Münsterberg Nr. 15. | Brücklein, z. Rheingaſse Nr. 14.\nBerg, z. grünen. Eifengaffe Nr. 14. | Brünnlein, z. wilden. Steinenthorſtraße Nr. 19.\nBerg, z. schönen. Schliffelberg Nr. 13. | Brunnen, z. St. Petersberg Nr. 1.\nBergen, zu d. 3 grünen. Heuberg Nr. 4. | Brunnen, z. Dchfengaffe Nr. 21.\nBergen, zu d. 3 grünen. Spalenberg Nr. 46. | Brunnen, z. kalten. Streitgaſse Nr. 12.\nBergen, zu den 3 grünen. St. Leonhards- | Brunnenfels, z. obcrn. Marktplatz Nr. 12.\n  graben Nr. 21. | Brunnenfels, z. untern. Marktplatz Nr. 13.\nBergen, zu d. 3 rothen. Spiegelgaſse Nr. 6. | Brunnenhaus, z. Rieheustraße Nr. 3.\nBernaü, z. Freie Straße Nr. 95. | Brunnenwerkhoſ. Rochhofgaſse Nr. 9.\nBerner, z. Freie Straße Nr. 23. | Bubeneck, z. Fischmarkt Nr. 12.\nBerner, z. Stapfelberg Nr. 1. | Buche, z. unteren. Stadthausgaſse Nr. 14.\nBefenftiel, z. Steinenthorſtraße Nr. 1. | Bürgerpital. Neue Vorſtadt Nr. 2.\nBestätereı, ehemalige, des Rheinlagerhauses. | Bülten, z. blauen. Blumenrain Nr. 26.\n  Schifflände Nr. 8. | Burg, auf. Münsterplatz Nr. 4.\nBethaus der Methodiſten. Wallſtraße Nr. 14. | Burg, auf der. Hinterer Burgweg Nr. 4.\nBiberach. St. Petersberg Nr. 30. | Burg, z. niedern. Gerbergäklein Nr. 25.\nBiberstein, z. Gerbergaffe Nr. 5. | Burg, z. niedern. Gerbergaffe Nr. 56.\nBieber, z. Greiffengaffe Nr. 28. | Burghof, z. Schliffelberg Nr. 17.\nBienz'che Haus, d. Nadelberg Nr. 16. | Burghof, z. kleinen. St. Alban-Graben Nr. 22.\nBierburg. Grenzacher Straße Nr. 133. | Burgvogtei. Rebgaſse Nr. 12.\nBiergarten, z. St. Jakobs-Straße Nr. 3. | Burgvogtei oder zu den 13 alten Kantonen.\nBiergarten. Grenzacher-Straße Nr. 54. | Rebgaſse Nr. 14.\nBierkeller. Hinterer Burgweg Nr. 16. | Byfang, z. kleinen. Horburgstraße Nr. 4.\nBinzheim, z. Fischmarkt Nr. 1. | Byfang, z. St. Andreasplatz Nr. 1.\nBirs, z. Gerbergäklein Nr. 26. | Cambrinus, z. Kimmelinsplatz Nr. 5.\nBirseck, z. Steinenvorſtadt Nr. 25. | Capelle, z. Münsterplatz Nr. 1.\nBirseck, z. großen. Nadelberg Nr. 28. | Capitelhaus. Münsterhof Nr. 4.\nBischofshof. Münsterhof Nr. 1. | Cardinal, z. Freie Straße Nr. 36.\nBläserhof. Untere Rebgaſse Nr. 17. | spalte 2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12716,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4561,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 72.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:54:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p277",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p277.jpg",
+      "bytes": 1494746,
+      "sha256": "eaaaf9b3503ec881b73f6df38b7e29032215e6035d55a7ba153c2d74002665a5",
+      "sha256_of": "original",
+      "working_copy": "1862_p277.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:36+00:00"
+  }
+}

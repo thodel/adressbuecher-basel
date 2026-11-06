@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p096",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p096.jpg",
+    "bytes": 1383385,
+    "sha256": "9c3efdaac0684b15dc245d641278d679b95673dfb2f0a23dcc5c7ab8d78558af",
+    "sha256_of": "original",
+    "working_copy": "1862_p096.jpg"
+  },
+  "text": "In der Breite. Brückliberg. Bruderholzstr. Bruderholzweg. 31\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nIn der Breite.\n\n1 | V. | 334 | Arbeiterwohnungen | Actien-Gesellschaft f. Arbeiterwohn.\n3 | V. | 334 A | desgl. | Actien-Gesellschaft f. Arbeiterwohn.\n  Hoffmann-Oltiger, Jacob, Schreiner.\n5 | V. | 334 B | desgl. | Actien-Gesellschaft f. Arbeiterwohn.\n7 | V. | 334 C | desgl. | desgl.\n9 | V. | 357 | desgl. | desgl.\n11 | V. | 358 | desgl. | desgl.\n13 | V. | 359 | desgl. | desgl.\n19 | V. | 349 | | Spindler-Wahl, Jacob.\n21 | V. | 350 | | Sept-Schneider, Joh. Jakob.\n23 | V. | 351 | | Buser-Bienz, Jacob.\n  Buser-Bienz, Jacob, Posamenter.\n25 | V. | 352 | | Geitlinger-Schafter, Jacob.\n  Geitlinger-Schafter, Jakob, Magazinkn.\n27 | V. | 353 | | Rieder-Nestli, Martin.\n  Rieder-Nestli, Martin, Fabrikarbeiter.\n29 | V. | 354 | | Koller-Koller, Caspar.\n  Koller-Koller, Caspar, Posamenter.\n31 | V. | 355 | | Wiesner-Schweizer, Johannes.\n  Wiesner-Schweizer, Joh., Posamenter.\n33 | V. | 356 | | Büchle-Wagner, Rudolf.\n  Büchle-Wagner, Rudolf, Holzmüller.\n\nBrückliberg.\n\n7 | V. | 313 | zur Säge. | Stehlin, Joh. Jakob, Architekt.\n  Wagner-Haas, Friedrich, Schreiner.\n  Lüthy-Widmann, Rudolf, Sägermeister.\n\nBruderholzstraße.\n\n6 | IV. | 209 | | Thommen-Simmen, Georg.\n  Thommen-Simmen, Gg., Weinhändler.\n  Müller-Kübler, Louis, Centralb.-Angest.\n  Handschi-Gihr, Heinr., Materialverwal-\n  ter der Centralbahn.\n  Schmid-Ulrich, Carl, Commis.\n22 | IV. | 239 B | | Hartmann-Schaub, Jakob.\n  Hartmann-Schaub, Jakob, Landwirth.\n\nBruderholzweg.\n\n4 | IV. | 239 A | | Bischoff-Merian, Wilh.\n6 | IV. | 239 C | | Bischoff-Merian, Wilhelm.\n  Bolander, Amadeus, Lehenm. u. Gärtnr.\n10 | IV. | 242 | | Madöry-Winzeried, Friedrich.\n  Madöry-Winzenried, Fr., Landwirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8015,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1813,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p096",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p096.jpg",
+      "bytes": 1383385,
+      "sha256": "9c3efdaac0684b15dc245d641278d679b95673dfb2f0a23dcc5c7ab8d78558af",
+      "sha256_of": "original",
+      "working_copy": "1862_p096.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:22+00:00"
+  }
+}

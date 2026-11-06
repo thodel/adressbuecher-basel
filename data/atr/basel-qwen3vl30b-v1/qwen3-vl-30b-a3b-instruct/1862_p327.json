@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p327",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p327.jpg",
+    "bytes": 1453245,
+    "sha256": "ff1b46ab0783df73c5c6daa1fe39c5ceb7cfe7962550d67b325be507893b06d0",
+    "sha256_of": "original",
+    "working_copy": "1862_p327.jpg"
+  },
+  "text": "262\nVerzeichniß der Bürger und Einwohner.\nBohny, Gebrüder, Kleidermagazin. Freie Bolliger=Thommen, Joh., Posamenter. Rhein-\nStraße 65. gasse 49.\n— =Glock, Sam., Schmied u. Mechaniker. — =Walter, Jac., Zimmermann. Duttli-\nRebgasse 7. weg 6.\n— =Gyfin, Wb. Serena, Part. Klybeck= Bollinger, Carl Friedr., Seifenfieder. Riehen-\nstraße 69. teichweg 12.\n— =Hoffmann, Friedr., Schneider. Spalen- — =Chret, Jac., Fabrikarbeiter. Säger-\nvorstadt 37. gäcklein 8.\n— =Holinger, Daniel, Kaufmann. Riehen- — Joh. Jac., Ferger. Nadelberg 5.\nthorstraße 31. — =Scheffmacher, Christof, Beinknopfmascher.\n— =Holzach, Wb. Marg., Part. Horburg- Riehenteichweg 12.\nstraße 31. — =Schmid, Conrad, Bandaufzieher. Blu-\n— S. S., Wirth u. Holzhändler. Unterer menrain 30.\nRheinweg 32. Bolly=Keller, Melch., Appreteur. St. Johann=\n— =Krumm, Wb., Spezierer. Gerbergasse 2. Vorstadt 31.\n— Maria Magdal., Firma S. S. Bohny, — =Matzinger, Heinr., Seidenfärbiergehilfe.\nTabak- u. Cigarrenhandel. Greifen- St. Johann-Vorstadt 46.\ngasse 22. Bolzfieler, Alois, Lehenbeständer. Vogelsang-\n— =Kuep, Heinr., Musterweber. Imber- weg 3.\ngäcklein 33. Bommer=Hügin, Salomon, Holzfcker. Stadt-\nBohrer=Brofi, Adam, Eisenbahnangestelltr. hausgasse 16.\nMalzgasse 20. Bonfico=Spiek, Sebast., Mechaniker. Weiße\n— =Pfau, Wb. Anna Magdal., Haararbei- Gasse 2.\nterin. Unterer Heuberg 31. Bonin=Degen, Georg, Fuhrhalter. Theater-\n— Therefia, Fabrikarbeiterin. Utengasse 41. straße 16.\nBoillat=Stihl, Cölestin, Schreiner. Aufstraße 50. Bonnet, Sam., Schuhmacher. Heuberg 46.\n— =Stihl, Eugen, Sattler. St. Peters= Boos=Meier, Heinr., Schlosser. Kanonen-\nBerg 37. gasse 5.\nBolander, Amad., Gärtner. Bruderholzweg 6. Borach, Gustav, Kaufmann. Hutgasse 15.\n— =Meyer, Jos., Gärtner. Holeeweg 5. — =Lang, Leopold, Kfm. Hutgasse 15.\nBolleg=Deez, Wilh. Friedr., Schneider. We- Borer=Kaltenbach, Beda, Landmann. Burg-\nbergasse 7. felder=Straße 6.\nBoller, Friedr., Posamenter. Gerbergäcklein 20. — =Stöcklin, Urs, Kaufhausarbeiter. Ger-\nBolletter=Lieron, Heinr., Schneider. Imber- bergäcklein 28.\ngäcklein 27. — =Thommen, Jos. Urs, Posamenter. Gel-\nBolli=Diggelmann, Alexander, Rutscher. Schüt- lertstraße 46.\nzenmattstraße 14. Borgognon=Bloch, Conft. Steinenvorstadt 6.\nBollier=Tschopp, Mart., Posamenter. Heu- Borst=Ott, Aug., Schneider. Spalenthorweg 4.\nmattstraße 13. — =Schäublin, Adolf, Malergehilfe. Nadel-\n— =Welte, Georg, Posamenter. Heuberg 23. berg 36.\nBolliger=Amster, Sam., Taglöhner. Greifen- — =Schluep, Aug., Commis. St. Elisabethen=Straße 2.\ngasse 36. Bofer=Bertolf, Mathias, Zollcontroleur. El-\n— Christof, John, Schuhmacher. Reb- säffer=Straße 37.\ngasse 44. Boffardt, Sufette, Part. Aeschenvorstadt 38.\n— Friedr., Landjäger. Freiburger=Straße 2. — Emanuel, Liseur. Sternengäcklein 29.\n— =Hartmann, Daniel, Wirth. Sternen- — =Gaupp, Johs. Conr., Wirth. Lindenberg 19.\ngäcklein 34. — Joh. Heinrich, Cigarrenhandlg. Gerbergasse 36.\n— =Hauri, Rud., Wirth. Wallstraße 6. — =Kraeer, Wb. Salomea, Kostgeberin. Steinenthorstraße 34.\n— Jac., Fabrikarbeiter. Steinenbachgäcklein 26. — =Märklin, Rudolf, Grabmacher. Platzgäcklein 7.\n— =Imhof, Sam. Vater, Taglöhner. Reb- — Rosina, Fabrikarbeiterin. Schützenmattstraße 17.\ngasse 44. — =Senn, Jakob, Uhrenmacher. Spalenthorweg 8.\n— =Miville, J., Lingeriehandlung. Eisen- — =Wehrmann, Mar. Magdalena, Wa-\ngasse 26. scherin. Schützenmattstraße 17.\n— =Schneider, Heinr., Zimmermann. Grei-\nfengasse 27.\n— =Spec, Sam. Posamenter. Steinenbach-\ngäcklein 20.\n— =Thommen, Casp., Arbeiter. Steinen-\nvorstadt 13.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9275,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3492,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:03:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p327",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p327.jpg",
+      "bytes": 1453245,
+      "sha256": "ff1b46ab0783df73c5c6daa1fe39c5ceb7cfe7962550d67b325be507893b06d0",
+      "sha256_of": "original",
+      "working_copy": "1862_p327.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:48+00:00"
+  }
+}

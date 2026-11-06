@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p132",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p132.jpg",
+    "bytes": 1458412,
+    "sha256": "2b34d276879f35645f5fc158d539f06fe30c346694017b6202aa035b3acd0f76",
+    "sha256_of": "original",
+    "working_copy": "1862_p132.jpg"
+  },
+  "text": "St. Jakobs-Straße.\n67\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n9 | V. | 255 A. | | Fininger-Eglin, Leonhard.\n| | | | Fininger-Eglin, Leonhard, Rathsherr.\n10 | IV. | 223 | | Bischer, Jgfr. Salome.\n11 | V. | 255 | | Von Speyr=Jselin, Carl,\n| | | | Von Speyr=Jselin, Carl, Kaufmann.\n12 | IV. | 224 | | Wehrly-Himmely, Carl.\n| | | | Wehrly-Himmely, Carl, Ferger.\n| | | | Siegrist Frey, Wittwe Candine, Part.\n13 | V. | 254 | | Menger=Weiker, Wilhelmine.\n| | | | Menger=Weiker, Wb. Wilh., Rentiere.\n| | | | Rühniner=Menger, Em., Stadtrath.\n| | | | Birgy-Rieggardt, Em., Bandfabrikant.\n14 | IV. | 225 | | Jselin, Adèle.\n| | | | Jselin, Jungfr. Adèle, Rentiere.\n16 | IV. | 227 | | Burkhardt, Wb. Rosina.\n17 | V. | 252 A. | | Kufmaul, Michael u. Schmid, Xaver.\n18 | IV. | 228 | | Burkhardt=Bernoulli, Wb. Charl.\n19 | V. | 252 | | Schmid=Kloz, Xaver u. Kufmaul,\n| | | | Michael.\n| | | | Schmid=Kloz, Xaver, Chirurg.\n20 | IV. | 229 | | Bischoff=Bischoff, Hieronimus.\n21 | V. | 251 A. | | Löw=Geßler, Johannes.\n| | | | Löw=Geßler, Johannes, Ferger.\n22 | IV. | 229 b. | | Bischoff=Bischoff, Hieronimus.\n| | | | Dörflinger=Herzog, Casp., Gärtner.\n| | | | Rühniner=Bischoff, Carl.\n23 | V. | 251 | | Vonder Mühl=Bischoff, Em.\n24 | V. | 230 | | Günther=Schaub, Jacob.\n| | | | Günther=Schaub, Jacob, Particular.\n25 | V. | 250 u. | | Günther=Schaub, Jacob.\n27 | V. | 250 a. | | Sutter=Zürcher, Johannes, Roßgeber.\n29 | V. | 249 | | Ehinger=LaRoche, Wb. Catharina,\n| | | | Rentiere.\n| | | | Dettwyler=Boegeli, Heinr., Gärtner.\n31 | V. | 248 | | Bischer=Christ, Rudolf.\n| | | | Gerber=Eisenlohr, F. F., Gärtner.\n33 | V. | 247 b. u. | | Merian=Burkhardt, J. J. sel. Erb.\n35 | | 247 | | Heinimann=Probst, Heinr., Lehnenbest.\n41 | V. | 259 | | Fürstenberger=Debary, Wb. Julie.\n| | | | Dörflinger=Primborgne, Fried., Gärtner.\n42 | V. | 258 u. c. | | Rühniner-Werthemann, Wb. Suf.\n44 | | | | Bachofen=Bischer, Wilhelm.\n| | | | Bueß, Jacob, Gärtner.\n46 | V. | 260 | | Gysin, Heinrich.\n53 | V. | 263 | | Erzenberger=Dürrenberger, J., Schrein.\n54 | V. | 261 | zum Obstgarten. | 5*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7763,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2107,
+    "lines": 57,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p132",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p132.jpg",
+      "bytes": 1458412,
+      "sha256": "2b34d276879f35645f5fc158d539f06fe30c346694017b6202aa035b3acd0f76",
+      "sha256_of": "original",
+      "working_copy": "1862_p132.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:47+00:00"
+  }
+}

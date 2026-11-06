@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p189",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p189.jpg",
+    "bytes": 1283857,
+    "sha256": "4611700c6c5699a9b9fe97adaf5dd2957827fca3b2d82cc09853f913216c6098",
+    "sha256_of": "original",
+    "working_copy": "1862_p189.jpg"
+  },
+  "text": "124\nSchnabelgäßlein. — Schneidergasse.\n\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Kro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n--- | --- | --- | --- | ---\n8 | VI. | 610 | Schnabelstall. | Staat.\n9 | VI. | 1706—05 | | Ausgänge von Kro. 15 und 17 am\n| | | | Spalenberg.\n10 | VI. | 611 | | Schneider=Thommen, Joh. Jac.\n| | | | Schneider=Thommen, J. Jac., Schreiner.\n| | | | Kunz=Jenni, Johannes, Buchbinder.\n| | | | von Gunten=Frilden, Christian, Victua-\n| | | | lienhändler.\n11 | VI. | 1700 | | Brand=Urecht, Friedrich.\n| | | | Brand=Urecht, Carl Friedr., Schuhmacher.\n12 | VI. | 612 | untern Straßburg. | Bon Arz=Erzberger, Johannes.\n| | | | Bon Arz=Erzberger, Johs., Particular.\n| | | | Graf=Portmann, Anton, Schuhmacher.\n| | | | Baumgartner, Franziska, Obsthändlerin.\n13 | VI. | 1695 A. | | Jäckle=Revellio Sam., fel. Erben.\n| | | | Jäckle=Revellio, Wb. Elij., Drechsler.\n15 | VI. | 1699 | 3. graden Herzen. | Beck=Schlageter, Jos. Anton.\n| | | | Beck=Schlageter, Jos. Anton, Landjäger.\n| | | | Kusenberger=Wegmann, Joh., Milch-\n| | | | händler.\n17 | VI. | 1698 | 3. großen Christoffel. | Linder=Strub, Gottlieb Nicolaus.\n| | | | Linder=Strub, Gottl. Nicolaus, Mechanik.\n| | | | Senp=Allemann, Jacob, Kunstmaler.\n\nSchneidergasse.\n1 | VI. | 1559 | 3. großen Stetten. | Linder=Engressat, Joh. Ludw.\n| | | | Linder=Engressat, Joh. L., Messerschmied,\n| | | | Präsident des Marktamts.\n| | | | Linder, Joh. Ludw., Commis.\n| | | | Linder, Jacob David, Definateur.\n2 | II. | 574 | Pompierarsenal. | Stadtgemeinde.\n3 | VI. | 1560 | 3. kleinen Stetten. | Dettwyler=Meylan, Joh. Jakob.\n| | | | Dettwyler=Meylan, Joh. Jak., Schneider.\n4 | II. | 575 | 3. klein. Saarberg. | Brüderlin=Wild, Ambrosius.\n| | | | Brüderlin=Wild, Ambros., Zuckerbäcker.\n5 | VI. | 1561 | zum Solothurn. | Sandreuter=Christ, Joh. Jac.\n| | | | Sandreuter=Christ, Joh. Jac., Spengler.\n| | | | Schwörer=Abry, Jean, Colorist.\n| | | | Abry, Louise, Lingerie= u. Corsethdgl.\n6 | II. | 576 | 3. groß. Saarberg. | Baumann=Plüß, Jac. Samuel.\n| | | | Baumann=Plüß, Jac.Sam., Weizwhdgl.\n7 | VI. | 1562 | zum Effringen. | Mende=Hof, Friedr. Gottlieb.\n| | | | Mende=Hof, Friedr. Gottl., Antiquar.\n| | | | Mahinger, Elisabeth, Korbhändlerin.\n| | | | Gutzwyler=Waldmeyer, Ignaz, Maler.\n| | | | Mende, Julius Gottfr., Kaufmann.\n8 | II. | 577 | | Thurneyssen=Iffenthaler, Joh. Pet.\n| | | | Thurneyssen=Iffenthaler, Johann Peter,\n| | | | Drechsler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6799,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2413,
+    "lines": 56,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p189",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p189.jpg",
+      "bytes": 1283857,
+      "sha256": "4611700c6c5699a9b9fe97adaf5dd2957827fca3b2d82cc09853f913216c6098",
+      "sha256_of": "original",
+      "working_copy": "1862_p189.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:58+00:00"
+  }
+}

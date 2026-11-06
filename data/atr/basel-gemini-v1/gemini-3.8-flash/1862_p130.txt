@@ -1,0 +1,56 @@
+Hutgasse. 65
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+3 | VI. | 1668 | zum blauen Wind. | Scheuble-Schlageter, August.
+  Scheuble-Schlageter, Aug., Ellenw.Lager.
+  Haubensack-Reiter, Fried., Saamenhdl.
+  Roos-Schneider, Albr., Metzger.
+4 | VI. | 1727 | zum Räpplin. | Küstler-Knorr, Joh. Jacob.
+  Küstler-Knorr, Joh. Jac., Schuhmacher.
+  Wetzler-Frey, Ferd., Kürschner.
+5 | VI. | 1669 | zum Wind. | Geßler-Tanner, Leonhard.
+  Geßler-Tanner, L., Buchb. u.Linieranstalt.
+6 | VI. | 1726 | zum Krayel. | Haug, Johannes.
+  Haug, Johannes, Schuhmacher.
+7 | VI. | 1760 | z. unt. Pfannenberg | Studer-Brüderlin, Joh. Jacob.
+  Studer-Brüderlin, Joh. Jac., Schuhmach.
+  Petri-Scherb, Em., Part.
+8 | VI. | 1725 | Schloß Sausenburg | Bohny-Düring, Joh. Jakob.
+  Bohny-Düring, Joh. Jak., Werkzeughdg.
+9 | VI. | 1671 | | Bauer, Joh., Getreidehdlg.
+10 | VI. | 1724 | zur Glocke. | Saladin-Frey, Johannes.
+  Saladin-Frey, J., Criminal-G.Weibel.
+  Scheuch, Jakob, Schneidermeister.
+11 | VI. | 1672 | | Sutter-Baumgartner, Jakob.
+  Ganz-Baltiser, Joh., Trödler.
+  Weber-Guggenbühler, Joh., Schreiner.
+  Kiefer-Weber, Ens., Schlosser.
+12 | VI. | 1723 | z. grünen Thurm. | Geßler-Ankelin, Heinrich.
+  Geßler-Ankelin, Heinrich, Metzger.
+13 | VI. | 1673 | zum Schuler. | Sigg-Lenzi, Johann.
+  Sigg-Lenzi, Joh., Schuhmacher.
+14 | VI. | 1721 u. 22 | zum Pflugberg. | Schweizer-Dettwiler, Heinr.
+  Schweizer-Dettwiler, H., Kupferschmied.
+  Blum-Weil, Sal., Vorbeter d. isr. Gem.
+15 | VI. | 1674 | z. schwarzen Stern. | Braunschweig-Borach, Moses, u. Borach-Lang, Leopold.
+  Braunschweig-Borach, Moses, Kfm.
+  Borach-Lang, Leopold, Kaufmann.
+  Borach, Gustav, „
+  Braunschweig, Emanuel, „
+  Firma Naphtali Braunschweig, Manu-
+    facturwaaren en gros et détail.
+16 | VI. | 1720 | zum Steinbogen. | Keller-Plattner, Joh. Georg.
+  Keller-Plattner, J. G., Schuhmacher.
+17 | VI. | 1675—76 | zur untern u. obern Laßburg. | Branger, Jakob.
+  Schenk-Schlageter, Gottl., Wirth.
+  Lentwyler-Schneider, Magd., Gemüsehdg.
+  Senn-Rieder, Julius, Fabrikarbeiter.
+  Bebler-Meyri, Christian, Ausläufer der
+    Centralbahngesellschaft.
+18 | VI. | 1719 | zum hintern Hüter. | Hosch-Breitenstein, Eduard.
+  Hosch-Breitenstein, Ed., Spengler.
+19 | VI. | 1677 | z. weißen u. schwarz. Widder. | Geßler-Rosenmund, Fritz.
+  Geßler-Rosenmund, Fritz, Hutmacher.
+  Doppler-Kramer, Heinr., Schneider.
+5

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p234",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p234.jpg",
+    "bytes": 1446999,
+    "sha256": "2c758ed06f3c49b09676c0dccf6f93f982686f906e05be5e1893da511a0c7bc1",
+    "sha256_of": "original",
+    "working_copy": "1862_p234.jpg"
+  },
+  "text": "St. Clara=Strasse. 169\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n11 VII. 7 G\nBuiser=Tschiudin, Friedr. MechaniIer.\nBuiser=Tschiudin, Friedr., Mechaniler.\nHediger, Joh. Carl. Aug. Bandfabrikant.\nStengelen=Bloch, Jonathan, Wagner.\nSoder=Buiser, Aug., Sekret. der Polizei-\ndirektion.\n13 VII. 6 H\n14 VIII. 5 P\nLoz, Friedr., u. Merian, Ludwig.\nBärwart=Strittmatter, Theobald.\nBärwart=Strittmatter, Theob., Bäcker.\nBrügger, Leonz, Holzhändler.\n15 VII. 6 J\n17 VII. 6 K\nRech, Louis.\nSchaffner, Joh. Jakob.\nSchaffner, Joh. Jakob.\n18 VIII. 5 L\nSchudel=Jörin, Mary.\nSchudel=Jörin, Mary, Wirth.\n19 VII. 7\nClarabad.\nStünzi=Steiger, Carl.\nStünzi=Steiger, Carl, Badwirth.\n20 VIII. 5 M\nHerzog, Bernhard.\nHerzog, Bernhard, Clavierhändler.\n22 VIII. 5 N\nErdin=Deichger, Johannes.\nErdin=Deichger, Johannes, Bäcker.\nRichter=Welte, Wilh., Part.\nDanzeisen=Miiller, Christ., Eisenbahnb.\nDieki=Diinner, Gebhard, Zimmermstr.\n24 VIII. 6 D\nRiggenbach=Burckhardt, Franz.\nFilialgeschäft v. Wb. Riggenbach z. Arm.\nSchoenberger=Soller, Joh. Gottfried\nOctavian, Architect.\nZaeslin=Miiller, Theod., Kaufmann.\nHeim, Friedrich, Commis.\n25 VII. 7 N\nStünzi=Steiger, Carl.\nSerafini=BonGent, Nicol., Alabasterhdl.\n27 VII. 7 O\nStünzi=Steiger, Carl.\n29 VII. 7 H\nRech=Häslin, Theobald.\nRech=Häslin, Theobald, Part.\nWild=BonderCrone, Ch., Seidenfärber.\nSimonius, Carl Ludw., Kaufmann.\nSimonius u. Bard, Seidenhändler.\nBard, Charles Marie Vict., Kfm.\n31 VII. 7 I\nRech=Haeslin, Theobald.\nBulacher, Carl Emil., Dr. Ph., Chemiker.\nFischer=Goek, Wilh. Aug., Commis.\nBrosi-Frey, Xaver, Controleur.\n32 VIII. 6 a\nGötz u. Ecklin.\nGötz-Ecklin, Bandfabrike.\nEcklin, Wilh., Part.\nEcklin, Carl, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5146,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1699,
+    "lines": 73,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0411,
+    "mean_line_chars": 22.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p234",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p234.jpg",
+      "bytes": 1446999,
+      "sha256": "2c758ed06f3c49b09676c0dccf6f93f982686f906e05be5e1893da511a0c7bc1",
+      "sha256_of": "original",
+      "working_copy": "1862_p234.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:15+00:00"
+  }
+}

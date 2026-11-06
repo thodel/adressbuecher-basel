@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p239",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p239.jpg",
+    "bytes": 1310397,
+    "sha256": "9d91803b349cd534fdca38dd31fc6e27ba892544c1424263bdaebbdf60f00379",
+    "sha256_of": "original",
+    "working_copy": "1862_p239.jpg"
+  },
+  "text": "174 Greifengasse. — Grenzacher-Straße.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n32 | VIII. | 225 | zum Lenzburg. | David, Joh. Melch. sel., Erben.\n  David-Kurz, Wb. Elisabeth, Metzger.\n33 | VII. | 223 | | Holzreuter-Keller, Eugen.\n  Holzreuter-Keller, E., Seidenfärbergeh.\n  Sommer-Hermann, Sim., Uhrmacher.\n34 | VIII. | 222 | | Oeschger, Ignaz.\n  Oeschger, Ignaz, Bäcker.\n35 | VII. | 220 | zum Schlatthof. | Bertrand-Kaiser, Joseph.\n36 | VIII. | 221 | | Zaeslin-Weber, Franz.\n  Zaeslin-Weber, Franz, Part.\n  Vest-Bühlmann, Georg, Schreiber.\n  Rudin, Julie, Modiste.\n37 | VII. | 218–219 | zum Schlatthof. | Bertrand-Kaiser, Joseph.\n  Bertrand-Kaiser, Joseph, Wirth, Lohn-\n  kutscher u. Spezierer.\n  Honegger-Baumgartner, Carl, Buchbin.\n38 | VIII. | 217 | zur Tanne. | Schnewlin-Willin Carl, u. Sautter, Michael.\n  Schnewlin-Willin, Carl, Kaufmann.\n  Sautter-Keck, Michael, Kaufmann.\n  Firma Schnewlin u. Comp., Com-\n  mission, Spedition u. Spezereihdlg.\n  Leuze-Leuze, Wb. Clara Magdal., Rent.\n39 | VII. | 214 | | Grether-Trösch, Friedrich.\n  Grether-Trösch, Friedrich, Zuckerbäcker.\n40 | VIII. | 216 | z. klein. Scheuer. | Müller-Wespy, Heinrich.\n  Müller-Wespy, Heinrich, Schlosser.\n\nGrenzacher-Straße.\n\n2 | VIII. | 41 | | Soller-Keller, Friedr.\n4 | VIII. | 42 B | | Soller-Keller, Friedr.\n6 | VIII. | 42 A | | Soller-Keller, Friedr.\n  Soller-Keller, Friedr., Part.\n8 | VIII. | 42 | | Staehelin-Hagenbach, Ernst.\n12 | VIII. | 43 | | Christ-Sarasin, Adolf.\n24 | VIII. | 48 | | Verwaltung des Kinderspitals.\n  Schmauch-Salzmann, Hiers., Gärtner.\n25 | VIII. | 50 c | | Wölfflin-Freivogel, Georg.\n35 | VIII. | 50 | | Gueng-Welhausen, Franz.\n  Gueng-Welhausen, Franz, Kaufmann.\n  Welhausen, Christ. Ludw., Preuß. Ar-\n  tillerie-Major a. D.\n37 | VIII. | 50 a | | Frey-Mühlefluh, Josef.\n  Frey-Mühlefluh, Jos., Zimmermeister.\n38 | VIII. | 51 | Gesellschaftsgarten. | Bohny-Glock, Sam. u. Schmid-Ha-\n  senböhler, Wilh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8936,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1977,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:01:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p239",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p239.jpg",
+      "bytes": 1310397,
+      "sha256": "9d91803b349cd534fdca38dd31fc6e27ba892544c1424263bdaebbdf60f00379",
+      "sha256_of": "original",
+      "working_copy": "1862_p239.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:26+00:00"
+  }
+}

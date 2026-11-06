@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p140",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p140.jpg",
+    "bytes": 1436850,
+    "sha256": "e27a0cf22361b25437fdd980d70405daad180abc7d3dbe4a8b567e04e64e8fb6",
+    "sha256_of": "original",
+    "working_copy": "1862_p140.jpg"
+  },
+  "text": "Kaufhausgasse. — Kellergäßlein. 75\nNrn\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nKaufhausgasse.\n1 | IV. | 1083 A | | Siegrist=Baader, Rudolf.\n  | | | | Siegrist=Baader, Rudolf, Kaufmann.\n  | | | | Comptoir v. Siegrist u. Fender.\n  | | | | Holzbacher=Marian, Wb. Maria, Kent.\n  | | | | Krayer=Ramsperger, Ed., Kaufmann.\n2 | IV. | 1084 A | | Kühner=Heusler, Wilhelm.\n  | | | | Kühner=Heusler, Wilh., Floretspinnerei.\n3 | IV. | 1083 B | | Landerer=Heusler, Wb. Valeria.\n  | | | | Landerer=Heusler, Wb. Valeria, Kent.\n  | | | | Socin=Best, Wb. Barbara, Rentiere.\n4 | IV. | 1084 B | | Steigmeyer, Johannes.\n  | | | | Steigmeyer, Johannes, Handelsmann.\n  | | | | Walter=Fastlinger, Aug., Musikdirector.\n5 | IV. | 1083 C | | Stehlin=Marian, Carl Rudolf.\n  | | | | Stehlin=Marian, Carl Rud., Dr. Jur.,\n  | | | | Notar u. Advokat.\n  | | | | Marian, Heimlicher u. Stehlin, Notariats=und Advokatur=Bureau.\n  | | | | Bischer=Valentin, Wb. Phil. Maurice.\n6 | IV. | 1084 C | | Stoer=Berner, Otto.\n  | | | | Stoer=Berner, Otto, Agent.\n  | | | | Zwilchenbart, And., Auswand.=Bur.\n  | | | | Pfau, Johann, Commis.\n  | | | | Troll, Louise, Lehrerin.\n  | | | | Troll, Julius, Dessinateur.\n  | | | | Hartmann, Rosine u.Cath., Lehrerinnen.\n7 | IV. | 1083 D | | Dreyfus, Samuel u. Jacques.\n  | | | | Freund, Josef Ant., Sohn, Commissio-\n  | | | | när u. Spediteur.\n  | | | | Dreyfus=Zeidels, Jac., Bandfabrikant.\n  | | | | Dreyfus=Neumann, Sam., \"\n  | | | | Grether=Maler, Mathias, Rentier.\n8 | IV. | 1084 D | | Schaefer=Schneider, Emanuel.\n  | | | | Schaefer=Schneider, Emanuel, Commis.\n  | | | | Lang=Straumann, Andreas, Commis.\n  | | | | Keller=Zeller, Friedrich, Unterbestäter.\n  | | | | Weiß=Kling, Wb. A. Marg., Part.\n  | | | | Spiegelmagazin von Ben. Peter.\nKellergäßlein.\n2 | 1. | 154 a u. b. | | Betulius, Carl.\n5 | 1. | 156 C | | Marian=Bister, Heinrich.\n  | | | | Kiefterer=Streulin, Ludw., Lohndiener.\n6 | 1. | 244 | Pfarrhaus. | Staat.\n  | | | | Edin=Reymond, Theop. Wilh., Pfarrer.\n7 | 1. | 245 | | Eglinger, Susanna.\n  | | | | Burckhardt=Haller, Rud., Dr. med.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7208,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2103,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p140",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p140.jpg",
+      "bytes": 1436850,
+      "sha256": "e27a0cf22361b25437fdd980d70405daad180abc7d3dbe4a8b567e04e64e8fb6",
+      "sha256_of": "original",
+      "working_copy": "1862_p140.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:49+00:00"
+  }
+}

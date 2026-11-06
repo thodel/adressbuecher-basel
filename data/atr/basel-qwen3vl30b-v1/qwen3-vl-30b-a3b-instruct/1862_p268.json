@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p268",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p268.jpg",
+    "bytes": 1381443,
+    "sha256": "9635bbc310cbeff320d75c3c710402620e33961dec6efca41bb816b7d907b9f5",
+    "sha256_of": "original",
+    "working_copy": "1862_p268.jpg"
+  },
+  "text": "Niehenthorfstraße. — Rosengartenweg. — Sägergässlein. 203\nNro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nr. | | und Bewohner.\n---|---|---|---|---\n28 | VIII. | 144 | | Meyenroch=VonBrunner, Friedrich.\n| | | | Meyenroch=VonBrunner, Friedr., Amt.\n| | | | Firma Meyenroch Sohn, Wein-,\n| | | | Brantwein-, Hopfenhandlung und\n| | | | Liqueurfabrik.\n29 | VIII. | 141 | zum Klösterli. | Braun, Andreas, sel. Erben.\n| | | | VonBrunner=Braun, Wb. Margaretha,\n| | | | Speziererin.\n30 | VIII. | 143 | Spitaläck. | Gaf=Brunner, Jacob.\n| | | | Gaf=Brunner, Jacob, Wirth.\n| | | | Müller=Wenk, Joh. Rud., Farbholz-\n| | | | müller.\n31 | VIII. | 140 | zum Winkelfried. | Tefter, Josua.\n33 | | | | Tefter=Gefler, Josua, Zimmermeister.\n| | | | Bohny=Holinger, Daniel, Kaufmann.\n| | | | Gefler, Rudolf, Particular.\n32 | VIII. | 139 | Niehenthor. | Staat.\nRosengartenweg.\n1 | VIII. | 50 F | | VonBinzer, F. u. Woelfflin, G.\n| | | | Schlueb=Mechel, Friedr., Part.\n| | | | Killiet=Lairé, Heinr. Ludw., Eisenbahn-\n| | | | beamter.\n3 | VIII. | 50 G | | VonBinzer, F. u. Woelfflin, G.\n5 | VIII. | 50 H | | VonBinzer, F. u. Woelfflin, G.\nSägergässlein.\n1 | VII. | 358 b | Säge. | Merian, Amadeus.\n2 | VII. | 362 | z. untern Waldshut | Heusler=Merz, Friedrich.\n| | | | Heusler=Merz, Friedrich, Spengler.\n| | | | Säge. | Merian, Amadeus.\n| | | | Merian, Amadeus, Architekt u. Stadtrath.\n3 | VII. | 358 | | Weber=Herzog, Jakob.\n| | | | Weber=Herzog, Jakob, Kaufhausarbeiter.\n4 | VII. | 361 | | Farbholz u. Dro-\n| | | | gueriemühle. | Müller=Dietzsch, Joh. Peter.\n| | | | Frey=Honegger, Joh., Uebernehmer von\n| | | | Erdarbeiten.\n5 | VII. | 357 a | | Heusler=Thurneysen, Leonhard.\n6 | VII. | 359 | | Müller=Dietzsch, Joh. Peter.\n7 | VII. | 357 | | Müller=Dietzsch, Joh. Peter, Farbholz-\n| | | | müller.\n8 | VII. | 245 | | Kühlín=Nauer, Joh. Georg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5689,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1860,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0222,
+    "mean_line_chars": 40.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p268",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p268.jpg",
+      "bytes": 1381443,
+      "sha256": "9635bbc310cbeff320d75c3c710402620e33961dec6efca41bb816b7d907b9f5",
+      "sha256_of": "original",
+      "working_copy": "1862_p268.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:36+00:00"
+  }
+}

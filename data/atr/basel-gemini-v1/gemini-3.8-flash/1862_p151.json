@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p151",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p151.jpg",
+    "bytes": 1308058,
+    "sha256": "07098e4c429da297ebf54a9a4a3b17613062af99cf5d7cae46a520605b8f57be",
+    "sha256_of": "original",
+    "working_copy": "1862_p151.jpg"
+  },
+  "text": "86 St. Leonhards-Straße. — Lohnhofgäßlein. — Luftgäßlein.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n20 | II. | 388 | | ImHof, Hans Bernhard.\n  ImHof, Hans Bernhard, Rentier.\n21 | III. | 154 B | | Linder-Courvoisier, Theophil.\n  Linder-Courvoisier, Theophil, Agent in\n    Rohseide.\n  Linder, Jgfr. Elise, Part.\n22 | II. | 389 | | Wertenberg-Gürtler, Joh. Jac.\n  Wertenberg-Gürtler, Joh. Jac., Maurer.\n  Meyer-Müller, Maria, Speziererin.\n24 | III. | 152 B | | Plattner-Hosch, Joh.\n  Plattner-Hosch, Joh., Zimmermeister.\n  Burckhardt-Iselin, Wb. Cath.\n25 | III. | 154 | | Geßler-Plattner, Emil.\n  Geßler-Plattner, Emil, Baumeister.\n  Keller-Keller, Paul, Commis.\n  Fäsch-Hauser, Ludwig, Partikular.\n26 | III. | 152 A | | Plattner-Hosch, Joh.\n  Hurter-Steiner, Felix Jak., Baumstr.\n27 | III. | 153 B | | Labhardt-Schubiger, Ferdinand.\n28 | III. | 153 | | Hinden-Schelling, Joh.\n  Hinden-Schelling, Joh., Bäcker u. Wirth.\n  Haunz, Louis, Bauführer.\n  Loebe-Ackermann, Bernhard, Musiker.\n  Sydler, Joh., Ingenieur.\n  Friedrich, Daniel, Kaufmann.\n34 | III. | 153 C | | Lotz-Kündig, Joh. Leonhard.\n  Lotz-Kündig, Joh. Leonhard, Schlosser.\n  Näf-Müller, Friedrich, Eisenbahnbeamt.\n  Lotz, Wernh. Casp., Agent.\n\nLohnhofgäßlein.\n4 | III. | 709 | z. weißen Rößlein. | Lindenmeyer, Carl.\n  Fritsche-Schudel, Franz, Liseur.\n6 | III. | 710 | | Lindenmeyer, Carl.\n  Kamber-Schupp, Jos., Ausläufer.\n8 | III. | 711 | | Rudin-Meyer, Heinrich.\n  Rudin-Meyer, Heinrich, Particulat.\n10 | III. | 704 B | | Schmidt-Bloch, Rudolf.\n14 | III. | 696-701 | | Merian-Meyer, Wb. Anna Maria.\n\nLuftgäßlein.\n1 | V. | 1205 | zum Kroneck. | Christ-Sarasin, Adolf.\n  Christ-Sarasin, Ad., Bandf. u. Rathsh.\n2 | V. | 1200 | zum Luft. | Hindermann-Merian, Joh. Jakob.\n  Hindermann-Merian, Joh. Jakob, Band-\n    fabrikant.\n  Eysin-Hindermann, Conr., Banquier.\n3 | V. | 1204 | | Respinger-Isenegger, Fried., sel. Erb.\n  Respinger-Senn, Friedr., Kaufmann.\n  Respinger-Isenegger, Wb. Sal., Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9227,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2015,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:48:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p151",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p151.jpg",
+      "bytes": 1308058,
+      "sha256": "07098e4c429da297ebf54a9a4a3b17613062af99cf5d7cae46a520605b8f57be",
+      "sha256_of": "original",
+      "working_copy": "1862_p151.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:10+00:00"
+  }
+}

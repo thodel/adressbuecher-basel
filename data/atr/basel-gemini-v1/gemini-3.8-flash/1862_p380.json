@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p380",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p380.jpg",
+    "bytes": 1610362,
+    "sha256": "8941ce39d849953f9c140ae34ac239713a2d18915badecfa46d81f08358afa6f",
+    "sha256_of": "original",
+    "working_copy": "1862_p380.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 315\n\nMayr-Schenk, Sabina Rosina, Part. Bar-\n  füßergasse 12.\nMechel-David, Achilles, Küfer. Webergasse 40.\n— -Heusler, Modenhandlung. Fischmarkt 16.\n— -Hindermann, Wb. Salomea. Untere\n  Rheingasse 17.\n— -Köbel, Bernh., Polizeibureaulist. Stei-\n  nenvorstadt 38.\n— -Müller, Rudolf. Untere Rheingasse 17.\nMeck-Schellenberg, Carl, Commis. St. Al-\n  ban-Vorstadt 41.\n— -Schellenberg, Johs., Commis. St. Al-\n  ban-Vorstadt 41.\nMeilin-Riggenbach, Rud., Bildhauer. St.\n  Johann-Vorstadt 11.\nMeily, Wilhelm, Commis. Spalenvorstadt 40.\nMeiri, Jacob, Knecht. Unterer Heuberg 9.\nMeirin-Vipp, Joh. Gg., Zimmermann. Uten-\n  gasse 60.\nMeister-Allemann, Urs Victor, Kaufhausarb.\n  Spalenberg 7.\n— -Beck, Alois, Seidenfärbergeselle. We-\n  bergasse 28.\n— -Bernhard, Joh. Heinr., Lehrer. Hard-\n  straße 60.\n— -Erni, Henriette, Gasthofbesitzerin. Ger-\n  bergasse 16.\n— Georg, Postangestellter. Rüdengäßlein 9.\n— -Morand, Georg, Piqueur. Gerber-\n  gasse 43.\n— -Plattner, Samuel, Seidenfärbergeselle.\n  Hammerstraße 92.\n— -Ryff, Max, Koch. Ochsengasse 21.\n— -Stäublin, Jos., Steindrucker. Steinen-\n  bachgäßlein 10.\n— -Studer, Dietr., Detaillant. Spalen-\n  berg 19.\n— -Wasmer, Dominik, Kutscher. St. Mar-\n  tins-Gasse 12.\nMeisterheim-Oeschwander, Alex., Taglöhner.\n  Trillengäßlein 4.\nMeißner, Adolf, Apothekergehülfe. Freie\n  Straße 3.\n— -Augsburger, Friedr., Lehrer. Kano-\n  nengasse 7.\n— -Fischer, Marcus, Apotheker. Freie\n  Straße 3.\n— -Marechal, Daniel Friedr., Professor.\n  St. Jakobs-Straße 6.\nMende-Hof, Friedr. Gottlieb, Antiquar. Schnei-\n  dergasse 7.\n— Jul. Gottfried, Kaufmann. Schneider-\n  gasse 7.\nMeng-Holinger, Peter, Heizer. Bei d. Wie-\n  senschanze 34.\nMenger-Weißer, Wb. Wilh. Rentiere. St.\n  Jakobs-Straße 13.\nMengis-Brand, Martin, Part. St. Johann-\n  Vorstadt 40.\n\n[spalte 2]\nMengis, Fräulein Maria, Part. St. Elisa-\n  bethen-Straße 49.\nMenrich-Hasler, Conr., Zimmerparl. Aeschen-\n  vorstadt 52.\n— -Neuschwander, Heinr., Schneider. Freie\n  Straße 19.\nMerian, Adolf, Gutsbesitzer. Münster-\n  platz 17.\n— Amadeus, Stadtrath, Architekt. Säger-\n  gäßlein 3.\n— Anna Cath., Part. Gemsberg 6.\n— -Bernoulli, Rudolf, Prof. d. Mathema-\n  tik. Aeschenvorstadt 41.\n— -Bischoff, Wb. Pauline, Rentiere. Malz-\n  gasse 2.\n— -Bischoff, Sam., Kaufm. St. Alban-\n  Vorstadt 42.\n— -Bister, H., Manufacturwaaren- u. Ta-\n  petenlager. Fischmarkt 9.\n— -Bloch, Maria Magd., Part. Münster-\n  berg 4.\n— -Burckhardt, Rudolf, Ingenieur. Ritter-\n  gasse 20.\n— -Burckhardt, Wb. Marg., Rentiere. St.\n  Alban-Graben 4.\n— -Burckhardt, Wb. Valeria, Rentiere. Mün-\n  sterplatz 17.\n— -Christ, Benedict, Sattler. Aeschen-\n  vorstadt 20.\n— Daniel, Kaufm. St. Peters-Graben 22.\n— Daniel Albert, Kaufmann. Spalenvor-\n  stadt 11.\n— Eman., Apotheker. Gemsberg 6.\n— Emil, J. U. D. Freie Straße 96.\n— -Forcart, I., Banquier. St. Elisabethen-\n  Straße 27.\n— -Frischmann, Rudolf, Kaufm. Spalen-\n  vorstadt 11.\n— -Gerster, Emanuel, Bierbrauer. St.\n  Jakobs-Straße 3.\n— -Häusler, Benjamin, Bierbrauer. Greifen-\n  gasse 31.\n— Jgfr. Helena, Part. Bäumleingasse 14.\n— Henriette Anna, Rentiere. Malzgasse 2.\n— -Herzog, Walter, Notar. Herbergsgasse 2.\n— Joh., Kantons-Ingenieur. Hasenberg 5.\n— Joh. Jak., Dr. Phil. Münsterplatz 17.\n— Joh. Jak., Part. Webergasse 17.\n— Joh. Ludw., Kaufmann. St. Elisabethen-\n  Straße 60.\n— -Iselin, Carl, Staatskassier. St. Elisa-\n  bethen-Straße 26.\n— -Iselin, Rudolf, Rentier. St. Alban-\n  Vorstadt 83.\n— -Jung, Wb. Barbara, Part. Kloster-\n  berg 25.\n— -Köchlin, Eduard, Kaufmann. Aeschen-\n  graben 41.\n— -Löw, Wagner. Aeschenvorstadt 56.\n— Ludwig, Baumeister. Hammerstraße 25.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12603,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3595,
+    "lines": 121,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0165,
+    "mean_line_chars": 27.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:31:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p380",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p380.jpg",
+      "bytes": 1610362,
+      "sha256": "8941ce39d849953f9c140ae34ac239713a2d18915badecfa46d81f08358afa6f",
+      "sha256_of": "original",
+      "working_copy": "1862_p380.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:31:36+00:00"
+  }
+}

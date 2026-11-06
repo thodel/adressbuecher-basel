@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p087",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p087.jpg",
+    "bytes": 1288659,
+    "sha256": "44ec64bd58693ab6cfe72865205f9cb347fe38d9b61a26129481520442709b53",
+    "sha256_of": "original",
+    "working_copy": "1862_p087.jpg"
+  },
+  "text": "22 | St. Andreasplatz. — Augustinergasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n10 | II. | 547 B a | | Butz-Rieder, Josef Franz.\n  (Magazin.)\n11 | II. | 547 C a | | Butz-Rieder, Josef Franz.\n  Weiß-Klarren, Wilhelm, Knecht.\n12 | II. | 547 C b | | Butz-Rieder, Josef Franz.\n  (Magazin.)\n13 | II. | 547 a | | Wiesendanger-Peter, Adam.\n  Wiesendanger-Peter, Adam, Schuhm.\n  Brauneisen, Theresia, Modiste.\n14 | II. | 588 | zum hintern Sessel. | Schweitzer, Nikl., Schreiner und Frau S. Weber-Berbert.\n  Weber-Berbert, J. Friedr., Kaufmann.\n  Wick-Burggraf, Mart., Spezierer.\n  Sutter-Glor, Rud., Schreiner.\n  Koch-Joerz, Joseph, Schreiner.\n  Hunziker-Hartmann, Jak., Holzhändler.\n15 | II. | 587 | zum St. Andreas. | Follenweider, Gebr.\n  Follenweider, Adolf, Porträtmaler.\n  Follenweider, Albert Rud., Kaufmann, Cigarren- u. Tabakhandlung,\n16 | II. | 586 | z. Hofstätten. | Schwander-Schneider, Matth.\n  Schwander-Schneider, Matth., Kaufhsarb.\n  Schwander, M., Sohn, Commis.\n17 | II. | 585 | z. hint. Thurnschaale | Steib, J. Michael.\n  Sandreuter-Reinhard, Wb. Jakobea Catharina, Schneiderin.\n18 | II. | 582 | zum kl. Efringen. | Brunner-von Arx, Dan.\n  Siehe Nro. 18, Schneidergasse.\n\nAugustinergasse.\n1 | V. | 1484 | z. hohen Sonnenlust | DeBary-Sarasin, Joh.\n  DeBary-Sarasin, Joh., Bandfabrikant.\n  DeBary, Aug., Bandfabrikant.\n2 | V. | 1489 | Museum. | Staat.\n  Gerlach, Franz Doroth., Prof. u. Ober- bibliothekar.\n  Kaufmann-Marbach, Franz, Abwart des Museums und Buchbinder.\n3 | V. | 1483 | | DeBary-Sarasin, Joh.\n  DeBary-Burckhardt, Joh., Bandfabrikt.\n4 | V. | 1488 | Morituro sat. | Bachofen-Merian, Joh. Jak.\n  Moergelin, Joh., Tabakfabrikant.\n5 | V. | 1482 | zum gold. Stauffen | Bischoff-Burckhardt, Wilh.\n  Bischoff-Sarasin, Alb., Bandfabrikant.\n6 | V. | 1473 B | Reinacherhof. | Burckhardt-Keller, Johann Rudolf.\n  (Stallung, Remise u. Kutscherwohn.)\n7 | V. | 1481 | zum Rappenfels. | Fischer-Burckhardt, Heinrich.\n  Fischer-Burckhardt, Heinr., Schreiner.\n8 | V. | 1473 A | Reinacherhof. | Burckhardt-Keller, Johann Rudolf.\n  VonderMühll-Bürgy, Wb. Mar., Rent.\n  Frey-Stähelin, Wb. Doroth., Rent.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10775,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2178,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0213,
+    "mean_line_chars": 44.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p087",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p087.jpg",
+      "bytes": 1288659,
+      "sha256": "44ec64bd58693ab6cfe72865205f9cb347fe38d9b61a26129481520442709b53",
+      "sha256_of": "original",
+      "working_copy": "1862_p087.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:00+00:00"
+  }
+}

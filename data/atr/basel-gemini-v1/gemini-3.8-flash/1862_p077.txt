@@ -1,0 +1,51 @@
+12  St. Alban-Graben. — St. Albankirchrain.
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+St. Alban-Graben.
+1 | V. | 1202 |  | Rognon-Landerer, Eugen.
+  Rognon-Landerer, Eugen, Kaufmann.
+  Rognon-Meyenrock, Eduard, Kaufm.
+2 | IV. | 1045 A | hint. Truchsesserhof. | Merian-Burckhardt, Marg., Wb.
+  Respinger-Stockmeyer, Leonh., Kaufm.
+4 | IV. | 1046 | zum Ernauerhof. | Merian-Burckhardt, Marg., Wb.
+  Merian-Burckhardt, Marg., Wb., Rent.
+5 | V. | 1203 A |  | Iselin-Roulet, Emilie, Wb.
+  Iselin-Roulet, Emilie, Wb., Rentiere.
+  Roulet, Jgfr. Georgina.
+  Vonder Mühll-Iselin, Emilie, Wb., Rent.
+6 | IV. | 1047 | zur Kammerei. | Sarasin, Wb. Julie sel., Erben.
+  Ehinger-Sarasin, Dr. Ludw.
+7 | V. | 1209 | zur Domprobstei. | Bachofen-Merian, Joh. Jacob.
+  Bachofen-Merian, Kaufmann.
+  Bachofen, J. J., D. J. u. Professor.
+  Passavant-Bachofen, Em., Banquier.
+8 | IV. | 1048 | Groß-Colmar. | Heusler-Christ, Daniel.
+  Imhof-Roschet, Wb. Barbara.
+  Heusler-Christ, Daniel, Bandfabrikant.
+  Heusler-Bischoff, Rud. desgl.
+10 | IV. | 1049 | ehem. Zehntensch. | Gehört zu Nro. 8. (1048)
+12 | V. | 1050 |  | Burckhardt-Forcart, Daniel.
+  (Remise und Stallung.)
+14 | V. | 1051 | Würtembergerhof. | Burckhardt-Forcart, Daniel.
+  Burckhardt-Forcart, Dan., Bandfabr.
+  Burckhardt-Thurneysen, Dan., Bandf.
+16 | V. | 1052 |  | Burckhardt-Forcart, Daniel.
+18 | V. | 1053 | zum Rieth. | Dobler, Schwestern.
+  Dobler, Jgfr. Catharina, Partikularin.
+  Dobler, Jgfr. Maria, "
+20 | V. | 1054 |  | Burckhardt-Forcart, Wilhelm.
+  Burckhardt-Forcart, Wilhelm, Rentier.
+21 | V. | 1356 | Deutsches Haus. | Vischer-Burckhardt, Peter.
+23 | V. | 1356 | Deutsches Haus. | Vischer-Burckhardt, Peter.
+22 | V. | 1213 | Kleiner Burghof. | VonderMühll-Hoffmann, Emanl.
+  Köchlin-Burckhardt, Eug., Bandfabrik.
+  VonderMühll-Vischer, Fr., Stofffabr.
+St. Albankirchrain.
+2 | V. | 1277 |  | Tschudi-Tschopp, J. J.
+  Tschudi-Tschopp, Joh. Jak., Bäcker und
+    Wirth.
+  Foure-Dezorme, Emil Jos., Dessinateur.
+  Vöglin-Jentsch, Julius, Schreiner.
+4 | V. | 1282 B-83 |  | Thurneisen-Fäsch, Ludw. Andr.
+  (Eingang zur Papierfabrik.)
+6 | V. | 1277 A |  | Bischoff-Respinger, Hieron.
+  (Magazin.)

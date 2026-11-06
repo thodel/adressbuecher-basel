@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p241",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p241.jpg",
+    "bytes": 1285788,
+    "sha256": "385b3465560024fdab1390daf2b8dbf90b00103f02cc48dd19bffe44c8bc0c33",
+    "sha256_of": "original",
+    "working_copy": "1862_p241.jpg"
+  },
+  "text": "176 Grenzacher-Straße — Hammerstraße.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n100 | VIII. | 80 | zum Rebeneck. | Jung-Baumgartner, Jacob.\n  Jung-Baumgartner, Jacob, Ziegler.\n  Kammerer-Elsässer, Johs., Ziegler.\n  Bertsche-Schlotterbeck, Joh. Jac., Cho-\n    coladefabrikant.\n105 | VIII. | 81 | zum Rank. | Huth-Frey, Philipp.\n  Huth-Frey, Philipp, Sattler.\n  Steinbach-Sulz, Felician, Part.\n111 | VIII. | 82 | zum Rankhof. | Merian-Sarasin, Wilhelm.\n  Kamber-Strub, Victor, Lehenbeständer.\n113 | VIII. | 82 A | zum Rankhof. | Merian-Sarasin, Wilhelm.\n123 | VIII. | 93 | Belle Rive. | Ewig, Joh. Georg u. Maria.\n  Ewig-Thurneysen, Joh. Georg, Guts-\n    besitzer.\n  Blattner, Rudolf und Maria, Pächter.\n129 | VIII. | 92 | z. schön. Aussicht. | Merian-Iselin, Rudolf.\n  Nußbaumer-Kammerer, Felix, Lehen-\n    beständer.\n133 | VIII. | 96 | Bierburg. | Merian-Meyer, Wb. Anna.\n  Witt-Kling, Friedr., Bortenwirker.\n  Spöri-Meyer, Bernh. Lorenz, Gärtner.\n\nHammerstraße.\n1 | VIII. | 1 | | Richter-Dölli, Carl.\n  Altwegg-Richter, Wb. Wilhelmina, Part.\n2 | VIII. | 2 | Lohmühle u. Heu- | Corporationsgut der Zunft zu\n4 | | | wage. | Gerbern.\n  Schäfer-Zemp, Ant., Lohmüller.\n3 | VIII. | 1 B | | Richter-Dölli, Carl.\n  Richter-Dölli, Carl, Bandfabrikant.\n  Richter-Linder, Jac., Bandfabrikant.\n5 | VIII. | 3 | | Richter-Linder, Jac.\n7 | VIII. | 4 | | Richter-Linder, Jac.\n11 | VIII. | 5 A | | Robin-Chretien, August.\n  Robin-Chretien, Aug., Appreteur.\n  Amans, Josef, Part.\n  Bastadi-Weiß, J. R., Commis.\n  Chretien-Vivier, Claude, Delikatessen-\n    händler.\n13 | VIII. | 5 B | | Landerer-Champrenaud, Carl.\n  Landerer-Champrenaud, Carl, Cigarren-\n    fabrikant.\n  Albäck-Schwab, Jac. Hch., Kfm.\n15 | VIII. | 5 C | | Neukomm-Erismann, Franz.\n  Neukomm-Erismann, Franz, Liseur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9247,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1828,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:01:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p241",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p241.jpg",
+      "bytes": 1285788,
+      "sha256": "385b3465560024fdab1390daf2b8dbf90b00103f02cc48dd19bffe44c8bc0c33",
+      "sha256_of": "original",
+      "working_copy": "1862_p241.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:45+00:00"
+  }
+}

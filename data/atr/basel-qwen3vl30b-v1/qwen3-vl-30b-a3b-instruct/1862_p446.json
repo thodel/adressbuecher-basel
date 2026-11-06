@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p446",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p446.jpg",
+    "bytes": 1710430,
+    "sha256": "796ec4ff901ad234336c6b5decc0f7718f6bc5c8c0e619586bbf7d0bb01973b4",
+    "sha256_of": "original",
+    "working_copy": "1862_p446.jpg"
+  },
+  "text": "Verzeichniß der Berufsarten.\n381\nBogt=Ruff, Celestin. Unt. Heuberg 23.\nBultier=Bingler, Eugen. Fabrikstraße 19.\nBultier=Mathiot, Isidor. Steinenvorstadt 30.\nWahl u. Socin. Seevogelstraße 7.\nWeber=Schaffner, Wilh. Aeschenvorstadt 47.\nZürcher=Ruchemann, Joh. Bei d. Wiefen-\nschänze 30.\nMehlhandlungen.\nBurchhardt=Riindig, Wittwe Rosina. Markt-\nplatz 13.\nFischer=Miville, Emil. Gerbergasse 38 und\nPfluggäcklein 8.\nRaus=Brodbek, Martin. Aeschenvorstadt 61.\nOberriedt, J. G. Grünpfahlgäcklein 1.\nSiegfried, N. B. Münsterberg 1.\nSteffan, Rud. Steinenvorstadt 5.\nThommen, Jac. Unterer Heuberg 31.\nWinfler, Jacob. St. Johann-Vorstadt 18.\nMerceriehandlungen.\nBaumann, Sophie. Gerbergasse 4.\nBohny, Ambrosius. Gerbergasse 2.\nBrenner=Fäsch. Blumenrain 24.\nFröhlicher=Fleuriel, J. Eifengasse 4.\nGefler, And., en gros. Rheingasse 7.\nHoffmann, Joh. Steinenringweg 15.\nHojch=Roth, Rosalie. Gerbergasse 49.\nImhof=Weck. Freie Straße 2.\nKübler, Melchior. Untere Rheingasse 2.\nRiindig, Karl. Eifengasse 11.\nLinder, älter, J. Schwanengasse 16.\nMaring, Marie u. Salome. Sattelgasse 1.\nMeyer u. Cie., Ed. Sporengasse 15.\nPortmann=Thoma, Jacob. Schwanengasse 14.\nRieber, Carl. Eifengasse 32.\nRonus, Christ., en gros. Eifengasse 14.\nSchaub, J. J. Freie Straße 75.\nSiegfried u. Cie. St. Johann-Vorstadt 15.\nSpörlin, Wwe. u. Cie. Barfüsserplatz 25.\nStampfer=Otto, Wilh. Spalenberg 3.\nStriibin=Roduner. Sporengasse 14.\nSutter=Kaiser, J. J. Gerbergasse 23.\nMesserschmiede.\nBirmann=Meniger, Gottf. Stadthausgasse 14.\nBurchhardt, J. J. Münzgäcklein 3.\nLinder=Engressat, Johs. Ludw. Schneider-\ngasse 1.\nWalter=Keller, Carl. Freie Straße 73.\nZäslin=Aeschpacher, Wwe. Elisabeth. Kronen-\ngäcklein 12.\nMekger.\nBachofen=Fininger, Samuel. St. Peters-\nPlatz 3.\nBeaudroi, Wb. Sal. Gertr. Freie Straße 53.\nBell, J. J. Dchjengasse 23.\nBell=Stork, Rud. Rebgaß 14.\nBerlauer=Ofer, Stefan. Steinenthorstraße 39.\nBienz=Fritschi, Joh. Spalenberg 15.\nBienz, Gabriel. Steinenthorstraße 37.\nBienz=Dejchger, Rud. Greifengasse 18.\nBienz=Pad, Rud. Greifengasse 18.\nBirmann=Leuenberger, Johs. Lindenberg 18.\nBrändlin=Schaał, Franz. Schneidergasse 9.\nBreiting=Schardt, Peter. Aeschenvorstadt 46.\nBurchhardt=Mantel, Johs. Schneidergasse 26.\nChrist=Hartmann, Jeremias. Spalenvor-\nstadt 26.\nDavid, Christof. Webergasse 38.\nDavid, Georg. Rheingasse 78.\nDavid=Kurz, Wb. Elis. Greifengasse 32.\nDavid, Rudolf. Lindenberg 19.\nDeck=Spichti, Melchior. Blumenrain 25.\nErni=Handschin, Joh. Fridol. Utengasse 1.\nFininger, Heinrich. Webergasse 42.\nFischer=Schmuziger, Andreas. Münzgäcklein 17.\nGaf=Walter, Friedr. Gerbergasse 48.\nGerber=Roch, Joh. Spalenvorstadt 23.\nGefler=Ankelin, Heinrich. Hutgasse 12.\nGefler, Carl Samuel. Aeschenvorstadt 65.\nGefler=Rutter, Wb. Maria. Weiße Gasse 3.\nGrauwiler, Jacob. Aeschenvorstadt 49.\nZäggi, Adolf. Aeschenvorstadt 71.\nMäglin=Baumann, Ludw. Schafgäcklein 2.\nMäglin=Müller, Christof. Riehenthorstraße 27.\nMeyer=Fiechter, Peter. Schiikennattstraße 1.\nMeyer=Linin, Jacob. Münzgäcklein 9.\nRitter=Stahel, J. J. Streitgasse 13.\nRoth=Weiß, H. Blumenrain 1.\nSalathe=Hunziker, J. G. Gerbergasse 18.\nSchärer=Umsler, Leonhard. Rochhofgasse 11.\nSchardt=Affal, Joh. Ulrich. Utengasse 29.\nSchneider=Ofer, Friedr. Steinenvorstadt 23.\nSchwörer=Weber, Ludw. Sattelgasse 11.\nSeifert=Thommen, Jac. Barfüsserplatz 6.\nSeiler=Dettwylcr, Niklaus. Rheingasse 3.\nSeitter=Schneider, Emil. Spalenberg 39.\nStehle=Jourdan, Alb. Steinenthorstraße 36.\nStrub=Becker, Lucas. Weiße Gasse 22.\nStrub=Löw, Ed. Steinenvorstadt 9.\nStriibin=Loz, Niklaus. Spalenvorstadt 45.\nTschudin=Weber, Jac. St. Alban-Vorstadt 43.\nVonKilch, Benedikt. Hutgasse 21.\nVonKilch=Vögtlin, Gg. Gerbergäcklein 6.\nWeber=Engel, Jac. Unt. Rebgaß 22.\nWeber=Marfort, Rud. Steinenthorstraße 29.\nWeitnauer=Fischer, Rud. Aeschenvorstadt 1.\nWeitnauer=Krug, H. F. Freie Straße 30.\nWörmag=Bartenbach, C. Freie Straße 63.\nMilchhändler.\nDiriwächter, Hans. Heumattstraße 9.\nGlanzmann, Andreas. Fabrikstraße 25.\nLidin, Ed. Hammerstraße 67.\nPfister, Jakob. Weiße Gasse 4.\nRusenberger, Johs. Schnabelgäcklein 15.\nSchelder, Mathias. Steinenvorstadt 37.\nMineralwasserhandlung.\nRamsperger, C. Freie Straße 39.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11040,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4099,
+    "lines": 118,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:22:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p446",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p446.jpg",
+      "bytes": 1710430,
+      "sha256": "796ec4ff901ad234336c6b5decc0f7718f6bc5c8c0e619586bbf7d0bb01973b4",
+      "sha256_of": "original",
+      "working_copy": "1862_p446.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:22:34+00:00"
+  }
+}

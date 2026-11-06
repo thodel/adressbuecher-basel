@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p384",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p384.jpg",
+    "bytes": 1599176,
+    "sha256": "b1f31c18316053c44edb8363a40e0de79da98435d8d04977ce3c23ea777d0e48",
+    "sha256_of": "original",
+    "working_copy": "1862_p384.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 319\nMöcklin=Maï, Heinr., Gärtner. Mittlere|Montfort u. Fabhardt, Tuchhandlung. St.\nStraße 44. |Elisabethen-Straße 11.\n— Sebastian, Gärtner. Mittlere Straße 44. Moos, Rudolf, Bäckermeister. St. Alban=\n— =Senn, Johs. Rud., Wirth. Breite |Vorstadt 63.\nStraße 33. |Morath, Apollonia, Kostgeberin. Hammer=\n|straße 92.\nMöhl=Schneider, J. Ulrich, Posamenter. Grei-|Morf=Allibert, Heinr., Schuhmacher. St. Jo=\nfengasse 36. |hanna-Vorstadt 63.\nMöhlin=Raupp, Fridolin, Spanner. Bei d. |— Susanna, Rätherin. Schneidergasse 10.\nWiejenschanze 33. |Morgenthaler=Freivogel, Heinr., Kostgeber.\nMönch=Winkler, Carl Christ. Friedr., Schrift-|St. Alban-Vorstadt 104.\ngießergehilfe. Webergasse 35. |Mori, Stefan, Cigarrenhandlung. Freie\nMörgelin, Johs., Tabakfabrikant. Augustiner-|Straße 91.\ngasse 4. |Mory=Meier, A. Elisab., Krankenwärterin.\nMösch=Martin, Daniel, Fabrikarbeiter. We-|Spalenvorstadt 30.\nbergasse 14. |Mosemann=Hüser, Joh. Heinr., Seidenfär-\n— =Stiibi, Anton, Fabrikarbeiter. Schnei-|bergeseffle. Webergasse 23.\ndergasse 25. |Moser=Frijsch, Michael, Fabrikarbeiter. Nejchen=\n— =Stumpf, Josef, Seidenfärbergeselle. Uten-|vorstadt 47.\ngasse 50. |— =Haas, Jac., Schuhmacher. Nebgasse 45.\n— Wendolin, Centralbahnportier. Garten-|— Heinrich, Commis. Barfüsserplatz 17.\nstraße 68. |— =Roller, Conrad, Commis. Barfüsser=\nMöschinger, Heinr., Mechaniker. Kanonen-|platz 17.\ngasse 5. |— Louije, Johannkochin. Sattelgasse 22.\n— =Müller, Martin, Taglöhner. Lohnhof-|— =Müller, Martin, Spannermstr. Schützen=\ngäsklein 14. |graben 19.\nMöschlin=Gros, Friedr., Fabrikarbeit. Nejchen=|— =Mürrner, Andr., Gipser. St. Peters=\nvorstadt 17. |Berg 31.\nMoffard, Maria Elisab., Schneiderin. Lin-|— =Neuschwander, David, Taglöhner. Klin=\ndenberg 13. |gelbergstraße 35.\nMohler=Brotbeck, Johs., Seidenfärbergeselle. |— Valeria, Schneiderin. Schneidergasse 10.\nUnterer Rheinweg 25. |Mosley, Henry, Sprachlehrer. St. Elisabe=\n— =Märklin, Jacob, Posamenter. Klybeck-|then-Straße 8.\nstraße 41. |Mossakowski=Rieter, Joh., Maler u. Tape=\n— =Mathä, Martin, Fabrikarbeiter. Rhein-|zierer. Hägenheimer Straße 7.\n— =Mundwiler, Joh. Jac., Buchdrucker. |Müd=Hug, Georg, Magazinarbeiter. Stei=\nKronengasse 6. |nenvorstadt 38.\n— =Schardt, Jacob, Bäcker. Spalenvor-|Mühlenthaler=Jenny, Erhard, Posamentermstr.\nstadt 35. |Spalenvorstadt 35.\n— =Schmidlin, Peter, Posamenter. Rhein-|— =Meyer, Abrah., Musterweber. Spa=\ngasse 23. |lenvorstadt 29.\n— =Schönberger, Posamenter. Imbergäsz-|— =Müller, Jacob, Posamenter. Gerber=\nlein 20. |gasse 24.\n— =Spiller, Friedr., Posamenter. Gerber-|Müf=Lehnis, Johs., Taglöhner. Utengasse 54.\ngasse 42. |Mülle=Arglist, Johannes, Seidenfärbergeselle.\n— =Wieland, Elisab., Kostgeberin. Schwa-|Kiehenhorstraße 15.\nnengasse 8. |Müller=Bader, Magdal., Part. Barfüsser=\nMojon=Schlumberger, Wb. Rosina, Privat-|platz 14.\nmädchenschule. Frce Straße 41. |— Balthasar, Lehnenbeständer. Missions=\nMoll, Wilhelmine, Schneiderin. Stiftsgasse 4. |straße 60.\nMollenkopf, Joh. Georg, Zimmergeselle. Neb-|— Barbara, Kostgeberin. Webergasse 22.\ngasse 35. |— =Baumgartner, Carl Rud. Cour., Fa=\nMollinet=Glaz, Wilh., Fakfinner u. Seiler. |brikarbeiter. Fabrikstraße 25.\nBinninger-Straße 21. |— =Bipp, Jacob, Viehhändler. Kiehen=\nMondet, Joh. Bapt., Commis. Kanonen-|thorstraße 20.\ngasse 5. |— =Böhrl, Rud., Posamenter. Imbergäszl.21.\nMontandon=Heintzler, Abrah. Friedr., Litho-|— =Boll, Daniel Achilles, Commis. Bar=\ngraph. Fischmarkt 2. |füßergasse 1.\nMontfort, J., Kaufmann. St. Elisabethen-|— =Breschbihl, Sam., Posamenter. Matt=\nStraße 11. |weg 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9543,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3557,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:12:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p384",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p384.jpg",
+      "bytes": 1599176,
+      "sha256": "b1f31c18316053c44edb8363a40e0de79da98435d8d04977ce3c23ea777d0e48",
+      "sha256_of": "original",
+      "working_copy": "1862_p384.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:12:41+00:00"
+  }
+}

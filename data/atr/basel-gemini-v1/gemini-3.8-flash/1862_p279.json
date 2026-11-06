@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p279",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p279.jpg",
+    "bytes": 1478049,
+    "sha256": "ea7bbaef9311ca06e1c9098f72f4d39bcb48ec23879757288429cf755eaf6195",
+    "sha256_of": "original",
+    "working_copy": "1862_p279.jpg"
+  },
+  "text": "214 Verzeichniß der Häuser nach ihren Benennungen.\n\nFahne, z. rothen. Freie Straße Nr. 43.\nFalken z. goldenen. Freie Straße Nr. 9.\nFalkenberg, z. Freie Straße Nr. 51.\nFalkenkeller, z. Freie Straße Nr. 49.\nFalkenstein, z. Pfluggäßlein Nr. 12.\nFalkenstein, z. Rheingasse Nr. 24.\nFalkensteinerhof (Gewerbeschule). Münsterplatz\n  Nr. 11.\nFallgatter, z. Grenzacherstraße Nr. 43.\nFasan, z. Spalenvorstadt Nr. 35.\nFeierabend, z. Mostackerstraße Nr. 36.\nFeigenbaum, z. Steinenvorstadt Nr. 54.\nFeuerglocke, z. Heuberg Nr. 32.\nFischern, Zunft zu. Fischmarkt Nr. 10.\nFischgrath, z. Gerbergasse Nr. 22.\nFischwaage, z. Rheingasse Nr. 68.\nFlachsländerhof. St. Petersgraben Nr. 19.\nFlachsländerhof. St. Petersgasse Nr. 46.\nFlasche, z. leeren. St.Johann-Vorstadt Nr. 16.\nFlora, z. Engelgasse Nr. 57.\nFluh, z. oberen rothen. Freie Straße Nr. 94.\nFörsterhaus, z. Breite Straße Nr. 43.\nFormonterhof. St. Johann-Vorstadt Nr. 27.\nFortuna, z. St. Johann-Vorstadt Nr. 58.\nFortuna, z. St. Leonhardsberg Nr. 3.\nFortuna, z. St. Alban-Vorstadt Nr. 19.\nFortuna, z. kleinen. Münzgäßlein Nr. 19.\nFrau, z. äußern lieben. Spalenvorstadt Nr. 38.\nFrouenstein, z. Freie Straße Nr. 14.\nFreiburg, z. obern. Münsterberg Nr. 16.\nFreiburg, z. untern. Münsterberg Nr. 14.\nFreienstraße, z. hintern. Gerbergasse Nr. 23.\nFreudenquelle, z. Hammerstraße Nr. 28.\nFriedberg, z. St. Petersberg Nr. 25.\nFrieden, z. St. Petersgasse Nr. 13.\nFrieden, z. gehörend. Spiegelgasse Nr. 12.\nFrieden, z. kleinen. St. Leonhardsberg Nr. 12.\nFriedenau, z. klein. St.Leonhardsgraben Nr. 4.\nFriedhof. St. Petersgraben Nr. 11.\nFriedhof. St. Petersgasse Nr. 34.\nFriedolt, z. Spalenvorstadt Nr. 1.\nFriedolt, z. St. Leonhardsgraben Nr. 2.\nFrieseck, z. Gerbergasse Nr. 43.\nFuchs, z. Steinenvorstadt Nr. 29.\nFuchs, z. Steinenvorstadt Nr. 31.\nFuchs, z. Freie Straße Nr. 30.\nFürstenberg, z. Gerbergasse Nr. 50.\nFürstenberg, z. Gerbergasse Nr. 75.\nFussisches Haus. St. Alban-Thal Nr. 20.\nGaishof. Utengasse Nr. 5.\nGaleeren, z. Utengasse Nr. 23.\nSt. Gallen, z. Steinenvorstadt Nr. 53.\nGans, z. Schneidergasse Nr. 34.\nGans, Hinterhaus z. Imbergäßlein Nr. 12.\nGans, Hinterhaus z. Imbergäßlein Nr. 13.\nGarten, z. botanischen. St. Jakobsstraße Nr. 4.\nGarten, z. botanischen. St.Jakobsstraße Nr. 6.\nGärtnern, Zunft zu. Gerbergasse Nr. 38.\nGärtnern, Hinterhaus d. Zunft zu. Gerber-\n  gäßlein Nr. 5.\n[spalte 2]\nGasanstalt. Gasstraße Nr. 6.\nGasfabrik, z. alten. Binninger Straße Nr. 12.\nGasometer. Hintere Bahnhofstraße Nr. 4.\nGeist, z. St. Alban-Vorstadt Nr. 17.\nGejäg, z. Freie Straße Nr. 90.\nGemar, z. Rittergasse Nr. 14.\nGemeindeschule zu St. Peter. Stiftsgasse Nr. 2.\nGemsberg, z. Gemsberg Nr. 7.\nGeorg, St. z. Ritter. Sattelgasse Nr. 21.\nGeorg, St. z. Ritter. Aeschenvorstadt Nr. 2.\nGeorgenbrunnen, St. z. Sattelgasse Nr. 8.\nGerbern, Zunft zu. Gerbergäßlein Nr. 15.\nGesellenhaus, z. St. Alban-Thal Nr. 18.\nGesellschaftsgarten. Grenzacherstraße Nr. 38.\nGesellschaftshaus, z. neuen. Rheingasse Nr. 4.\nGesellschaftshaus, z. neuen. Greiffengasse Nr. 2.\nGewerbhalle, ehem. Rheinlagerhaus. Schiff-\n  lände Nr. 6.\nGeyer, z. Spalenberg Nr. 20.\nGießerei, z. neuen. Birsigstraße Nr. 26.\nGießhaus, z. alten. Karthausgäßlein Nr. 7.\nGilgenberg, z. Spalenberg Nr. 7.\nGilgenberg, Hinterhaus z. Münzgäßlein Nr. 10.\nGlocke, z. Fischmarkt Nr. 11.\nGlocke, z. Hutgasse Nr. 10.\nGlocke, z. blauen. Spalenberg Nr. 32.\nGlocke, z. obern. Weiße Gasse Nr. 11.\nGlocke, z. obern. Weiße Gasse Nr. 13.\nGlücksrad, z. Weiße Gasse Nr. 21.\nGnadenthal. St. Petersgraben Nr. 50.\nGnadenthal. St. Petersgraben Nr. 52.\nGold, z. St. Martinsgäßlein Nr. 4.\nGold, z. Sporengasse Nr. 11.\nGoldbächlein, z. Schwanengasse Nr. 14.\nGoldgrube, z. Rheingasse Nr. 45.\nGrabeneck, z. St. Petersplatz Nr. 20.\nGreifen, z. Steinenvorstadt Nr. 14.\nGreifen, z. hintern. Gerbergäßlein Nr. 11.\nGreifen, z. vordern. Gerbergasse Nr. 42.\nGreifenstein, z. Stadthausgasse Nr. 20.\nGreiffen, z. Greiffengasse Nr. 31.\nGreiffen, z. goldenen. Greiffengasse Nr. 29.\nGrenzacherhof. Grenzacherstraße Nr. 55.\nGriebhof. Nadelberg Nr. 12.\nGundoldingen, z. mittlern. Gundoldinger-\n  straße Nr. 8.\nGurtnau, z. Greiffengasse Nr. 3.\nGutenhof, z. St.Elisabethenstraße Nr. 13. 15.\nGuthof, d. kleine. St.Elisabethenstraße Nr. 11.\nGuttenberg, z. Mostackerstraße Nr. 25.\nGypsmühle, z. Weiße Gasse Nr. 22.\nGyrengarten, z. St. Petersplatz Nr. 12.\nHasen, z. Marktplatz Nr. 2.\nHasen, z. hintern. St. Martinsgasse Nr. 4.\nHägen-Egerten, z. Aeschenvorstadt Nr. 73.\nHäsli, z. Todtentanz Nr. 12.\nHahn, z. schwarzen, u. Sevenbaum. Sattel-\n  gasse Nr. 6.\nHahnen, z. rothen. Gerbergäßlein Nr. 10.\nHaindweiler, z. Bäumleingasse Nr. 10.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 17115,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4558,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:07:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p279",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p279.jpg",
+      "bytes": 1478049,
+      "sha256": "ea7bbaef9311ca06e1c9098f72f4d39bcb48ec23879757288429cf755eaf6195",
+      "sha256_of": "original",
+      "working_copy": "1862_p279.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:07:55+00:00"
+  }
+}

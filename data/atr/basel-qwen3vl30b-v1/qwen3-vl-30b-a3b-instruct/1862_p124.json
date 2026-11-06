@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p124",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p124.jpg",
+    "bytes": 1403310,
+    "sha256": "c7fcc1b2329f7dbb2e06445d112cb245731db9a3460a906b1f7a9604cb3c0572",
+    "sha256_of": "original",
+    "working_copy": "1862_p124.jpg"
+  },
+  "text": "Neue\nGauß-Nr.\nQuars\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n60\tV.\t304\tz. Landwaifenhaus.\tStiftung der landwirthschaftlichen\nArmenschule.\nMeister=Bernhard, Joh. Heinrich, Lehrer\nund Hausvater.\n70\tV.\t305\t\tVischer=Marian, Carl.\nFried-Witschy, Joh., Gärtner.\n72\tV.\t305 A\t\tVischer=Marian Carl.\nHafenberg.\n5\tIII.\t158\tzur Schnabelweid.\tSchlöth=Georg, Friedrich Ludwig.\nSchlöth=Georg, F. E., Schlosser u. Ofenfab.\nMerian, Johannes, Kantonsingenieur.\nTschudi=Haag, Christof, Kaufmann.\n7\tIII.\t157 b\t\tHaas=Georg, August.\nWaschhaus.\n9\tIII.\t157\tzur Hafenburg.\tHaas=Georg, August.\nHaas=Georg, August, Particular.\n12\tIII.\t156\t\tDubied=Pfannenschmid, G. Ludw.\nGaf=Schreuer, Rudolf, Brieftträger.\nHerbergsgasse.\n1\tI.\t229 A\t\t\tSiegfried=Marian, Albert.\nSiegfried=Marian, Albert, Weinhandlg.\nParavicini=Jäslin, Th. Em. de Felix,\nHandelsmann.\n2\tI.\t229\tzum Mönchhof.\tMerian=Stierlin, Walther.\nMerian=Stierlin, Walth., J. U. C., Notar.\nMerian=Herzog, Walther, Notar.\nSauvain=Stehlin, Salomon, Kaufmann.\n4\tI.\t229 B\tzum Mönchhof.\tMeyer=Brand, Friedrich.\nMeyer=Brand, Friedrich, Thierarzt u.\nWaffenmeister.\nGirard=Jan, Wb. Irma.\nRittimeyer=Fankhauser, Carl Ludwig,\nProfessör der Medizin.\n6\tI.\t229 B. b\t\t\tMeyer=Brand, Friedrich.\nEinfahrt.\n7\tI.\t224 B\t\t\tRyhiner=Bischoff, Carl.\nRyhiner=Bischoff, Carl, Kaufmann.\nHenberg.\n1\tII.\t473 B\t\t\tFlubacher=Oyfin, Emanuel.\n2\tII.\t448\tzur Löwengrube.\tMerian=Reber, Johannes.\nMerian=Reber, Joh., Particular.\nMerian, Peter Albert, Sohn, Commis.\n3\tII.\t441\tSpießhof.\tGesellschaft d. schweiz. Centralbahn.\nEinfahrt.\n4\tII.\t446\tz. d. 3 grün. Bergen\tFrey=Sandreuter, Jacob.\nFrey=Sandreuter, Jacob, Desfinateur.\nSiegmund, Carl, Dr., Zahnarzt.\nRudin, Carl, Schloffer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5961,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1701,
+    "lines": 57,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0175,
+    "mean_line_chars": 28.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:36:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p124",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p124.jpg",
+      "bytes": 1403310,
+      "sha256": "c7fcc1b2329f7dbb2e06445d112cb245731db9a3460a906b1f7a9604cb3c0572",
+      "sha256_of": "original",
+      "working_copy": "1862_p124.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:47+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p196",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p196.jpg",
+    "bytes": 1479700,
+    "sha256": "0e6752720283475cb78ba1c48d6e4a1cf135200551627b36ab00d716cc88b370",
+    "sha256_of": "original",
+    "working_copy": "1862_p196.jpg"
+  },
+  "text": "Schwanengasse. — Seevogelstraße. — Singerweg. 131\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n4 | I. | 142 | z. gold. Blume. | Leibzig-Stöhr, Peter Anton.\n  Leibzig-Stöhr, Peter Anton, Gastwirth.\n5 | VI. | 147 | zum Schwanen. | Glaser-Ritter, Jacob Friedrich.\n  Maddrin-Glaser, Friedrich, Gastwirth.\n7 | VI. | 147 | Stallung z. Gasthof. |\n6 | I. | 143 | z. schwarzen Stern. | Krattiger-Mäglin, Heinrich.\n  Krattiger-Mäglin, Heinrich, Kaufmann.\n8 | I. | 144 | z. schwarzen Rad. | Merian-Respinger, Franz Josef.\n  Schär-Datt, Benedict, Schneider.\n  Heller, Heinrich, Commis.\n10 | I. | 145 | zur Barbe. | Sutter-Hänggi, Gregor.\n  Sutter-Hänggi, Gregor, Wirth.\n11 | VI. | 138 A b | zum Kannenbaum. | Schalch-Baur, sel. Erben.\n  Schalch-Baur, Wb. Salom. Elisabeth, Goldschmied.\n12 | I. | 146 | zur alten Waage. | Siegmund, Benjamin.\n  Siebert-Jäck, Dominik, Coiffeur.\n  Schaffner, Heinrich, Schneider.\n14 | I. | 148 | zum Goldbächlein. | Portmann-Thoma, Jacob.\n  Portmann-Thoma, Jacob, Mercerie-waarenhandlung.\n  Härdy, Samuel, Schuhmacher.\n16 | I. | 149 | z. weißen Löwen. | Linder-Stehlin, Jacob Ludwig.\n  Linder-Stehlin, Jacob Ludwig, Mercerie-waarenhandlung.\n  Nordmann, Elie, Kaufmann.\n18 | I. | 149 A | | Viblinger-Haeffler, Marie.\n  Siehe Nr. 8 St. Petersberg.\n20 | I. | 150 | zum Lützelstein. | Knopf-Gaß, Friedrich.\n  Siehe Nr. 6 St. Petersberg.\n\nSeevogelstraße.\n\n1 | V. | 306 B | zum Rotheneck. | Vischer-Iselin, Joh. Jacob.\n  Vischer-Iselin, Joh. Jacob, J. U. D., Kriminalgerichtspräsident.\n5 | V. | 306 C | | Holzach-Eck, Friedrich.\n7 | V. | 302 A | | Wahl-Spitteler, Friedrich.\n  Wahl-Spitteler, Friedrich, Mechaniker.\n  Spitteler-Christen, Jacob, Particular.\n  Aemmer, Abr. Gottfr. Ferd., Commis.\n11 | V. | 302 C | zum Abendstern. | Stuckert-Lepper, Friedrich Wilhelm.\n  Stuckert-Lepper, Friedr. Wilhelm, Kfm.\n  Ridecker-Linder, Georg, Commis.\n\nSingerweg.\n\n1 | V. | 263 d | | Bachofen-Vischer, Wilhelm.\n  Siehe Nr. 53 St. Jakobsstraße.\n9*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9077,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2010,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:55:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p196",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p196.jpg",
+      "bytes": 1479700,
+      "sha256": "0e6752720283475cb78ba1c48d6e4a1cf135200551627b36ab00d716cc88b370",
+      "sha256_of": "original",
+      "working_copy": "1862_p196.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:17+00:00"
+  }
+}

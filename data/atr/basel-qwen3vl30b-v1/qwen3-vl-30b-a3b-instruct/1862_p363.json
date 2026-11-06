@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p363",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p363.jpg",
+    "bytes": 1443048,
+    "sha256": "acf9cf9f3147623daef22ec9de831ead1119c2ae7835e90a42d4906dd13754c3",
+    "sha256_of": "original",
+    "working_copy": "1862_p363.jpg"
+  },
+  "text": "298\nVerzeichniß der Bürger und Einwohner.\nHug-Breiting, Wb. Cath., Spengler. Weiße Gasse 12.\n— Cath., Hebamme. Gerbergasse 25.\n— =Fürbringer, August, Commis. Freie Straße 50.\n— =Häfeli, Math., Schwimmlehrer. Rheingasse 26.\n— =Heusler, Wb. Maria, Part. Klosterberg 2.\n— =Hoffmann, Wb. Barb., Rätherin. Nebgasse 42.\n— =Hummel, Jac. Eman., Linierer. Hutgasse 14.\n— =Knutty, Christof, Spengler. Spalenberg 17.\n— =Kolz, Wb. Agnes, Part. Weiße Gasse 26.\n— Louise, Modiste. Hutgasse 14.\n— =Pfister, Wb. Louise, Taglöhnerin. Schnabelgässlein 12.\n— =Recher, J. J., Maurer. Utengasse 60.\n— =Schäfer, Johs., Posamenter. Hammerstraße 96.\n— Schwestern, Glätterin und Schneiderin. Streitgasse 12.\n— =Stohler, Heinr., Posamenter. Fabrikstraße 25.\nHugentobler, Ulrich, Holz- u. Turbenverkauf. Schützenmattstraße 4.\nHuggenberger=Walter, Johs. Heinr., Eilenwaarenhandlung. Barfüsserplatz 17.\nHuguenin=Wilthrich, Maria Magdal., Schuhvervändlerin. Spalenberg 18.\nHugo, Gebrüd., Tabakfabrik. St. Alban-Thal 35.\nHumbel=Müller, Heinr., Maurer. Sattelgasse 12.\n— =Ruegger, Heinr., Zimmermann. Binninger Straße 19.\nHunold=Koth, Anton, Musikalienhandlung u. Musikalienleihanstalt. Gerbergasse 33.\nHunziker=Cruffaire, Friedr., Baumwollenhdlg. Schneidergasse 22.\n— =Gloor, Wt. Anna Maria, Zettlerin. Reb-gasse 13.\n— =Hartmann, Jacob, Holzhändler. Spalenvorstadt 19.\n— =Haufer, Rudolf, Fabrikarbeiter. Sattelgasse 17.\n— Jacob, Seidenfärbcr. Blumenrain 23.\n— =Stin, Elisab., Fabrikarbeiterin. Mittlere Straße 19.\n— =Keller, Johann, Fabrikarbeiter. Greifengasse 29.\n— =Leder, Samuel, Wirth. Rheingasse 20.\n— =Maurer, Jac., Eisenbahnarbeiter. Binninger Straße 23.\n— =Ochsner, Rud., Commis. Johanniterstraße 15.\n— Rudolf, Kostgeber. Steinenvorstadt 22.\nHunziker=Siegrist, Sam. Johs., Piqueur. Binninger Straße 7.\n— Cusanna, Rätherin. Imbergässlein 21.\n— =Sutter, Jacob, Lehrenbeständer. Lehennattweg 16.\n— =Sutter, Samuel, Taglöhner. Steinen-vorstadt 41.\n— =Thoma, Heinrich, Seidenfärberegeselle. Untere Reb-gasse 14.\n— Serena, Part. Imbergässlein 10.\n— =Weber, Carl David, Part. Spalenthornweg 8.\n— =Weiß, Sam., Posamenter. Gellertstraße 46.\nHupfer=Hutterle, J. G., Gärtner. Kiechenstraße 94.\nHurt=Heer, Conrad, Zimmermeister. Heuberg 23.\nHurter=Fäsch, Heinr., Ausläufer. Ochsen-gasse 7.\n— =Steiner, Felix Jac., Baumeister. St. Leonhards-Straße 26.\nHuf, Charles, Sous-chef de gare. Centralbahnstraße 10.\nHuth=Frei, Ph., Sattler u. Spezierer. Grenzacher-Straße 105.\nHuttinger, Heinr., Rutscher. Schliengraben 20.\n— =Schäfer, Wb. Louise, Kostgeberin. Hammerstraße 13.\nJäck=Hosle, Joh., Taglöhner. Utengasse 44.\n— =Huber, Heinr., Pförtner u. Aufseher. St. Theodorskirchplatz 7.\n— =Keller, Georg, Rutscher. St. Alban-Vorstadt 82.\nJäcklin=Baur, Rud., Mechaniker. Elfässer Straße 4.\n— Daniel, Sekretair der Stadtkanzlei. Spalenberg 60.\n— =Gruninger, Eman., Baumeister. Karthausgässlein 9.\n— =Pröhl, Johs., Möbelschreiner. St. Johann-Vorstadt 46.\n— =Seutter, Philipp, Kanzleibote. Hagenheimer Straße 4.\nJäger=Bauer, Wb. Part. Steinenvorstadt 5.\n— Ludw., Buchhändler. Stapfelsberg 4.\nJägg, Frau, Wascherin. Aeschenvorstadt 52.\nJäggi=Az, Wb. Cathar., Rätherin. Unterer Heuberg 25.\n— =Frey, August, Fabrikarbeiter. Malzgasse 13.\n— Jacob, Schreiner. Roschhofgasse 5.\n— Johannes, Uhrenmacher. Steinenvorstadt 52.\n— =Jundt, Adolf, Mezger u. Pintenwirth. Aeschenvorstadt 71.\n— =Landbeck Wilhelm, Wirth. Bahnhofstraße 1.\n— Ludwig, Kunstmaler. Spitalstraße 7.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9060,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3411,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:09:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p363",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p363.jpg",
+      "bytes": 1443048,
+      "sha256": "acf9cf9f3147623daef22ec9de831ead1119c2ae7835e90a42d4906dd13754c3",
+      "sha256_of": "original",
+      "working_copy": "1862_p363.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:26+00:00"
+  }
+}

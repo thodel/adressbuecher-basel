@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p362",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p362.jpg",
+    "bytes": 1603939,
+    "sha256": "6ae01e0efdfb7b04a98129e74a9e7919f5cdc3575279ad042e899770be733888",
+    "sha256_of": "original",
+    "working_copy": "1862_p362.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 297\nHottinger = Nilly, Wilh., Portier. Hintere Huber-Streifelien, Johann Jacob, Missionar.\nSpitalgasse 13. Schliżenmattstraße 20.\nHoz-Müller, Rudolf, Lehrer. St. Martins- =Strittmatter, Georg, Zimmermann.\nGasse 16. Freie Straße 5.\n— =Wespi, Jakob, Fabrikarbeiter. Gerbergäßlein 25. — =Tröndle, Wb. Maria, Kostgeberin. Rebgasse 33.\nHubel-Thommen, Rudolf, Schreiner. Neue — =Unbekannt, Wb. Cath., Part. Gerbergäßlein 2.\nBorstadt 10. — =Bernet, Wb. Louise, Part. Missionsstraße 50.\nHuber-Agster, Johann, Taglöhner. Weber- — =Wirz, Rudolf, Kunstmaler. Altschwiler Straße 29.\ngasse 12. — =Beck, Wb. Susanna, Rentiere. St. Leonhards-Straße 1.\n— =Berti, Jaf. Christof, Seidenfärbgergehilfe. Hubsch, Georg Herm., Commis. Heuberg 20.\nDchfengasse 21. Hiibner, Christ. Moriz, Architekt. Steinen- thorstraße 19.\n— =Burchhardt, Joh. Jakob, Kaufmann. Hiibfcher, Adolf, Commis. Barfussergasse 14.\nFreie Straße 77. — Adolf, Pelzhandlung. Eifengasse 21.\n— Franz, Buchdrucker. Steinenbachgäßl. 36. — =Falkner, Wb. Valeria, Rentiere. Wallstraße 17.\n— =Frauenknecht, Joh. Martin, Posamenter. — =Herzog, Friedr., Kaufmann. St. Margarethen-Straße 9.\nSt. Johann-Borstadt 32. — Joh. Conr., Lederhändler. Marktplatz 10.\n— =Frommherz, Stefan, Taglöhner. Mif- — =Keller, Rud., Lederhändler. Gerbergasse 37.\nfionsstraße 11. — =Kleiber, Emil, Kaufmann. Eifengasse 6.\n— Hans Heinrich, Schuhmacher. Rheingasse 65. — =Lichtenhahn, Wilh., Zimmermeister. St. Johann-Borstadt 88.\n— Heinrich, Straßenpflasterer. Steinenbachgäßlein 36. — Rudolf, Spengler. Marktplatz 14.\n— Hieronimus, Part. Rebgaſse 20. — =Spahn, Joh. Mart., Lehrer. St. Peterskirchplatz 5.\n— Jacob, Fabrikarbeiter. Greifengasse 37. — =ConSpeyr, Charlotte, Part. St. Peters-Gasse 34.\n— =Raifer, Sofi, Magazinknecht. St. Andreasplatz 10. Hügin-Bokardt, Lorenz, Seidenfärbter. Steinenvorstadt 40.\n— =Kummler, Wb. Strickbaumwolle und — =Hängi, Martin, Zimmergeselle. St. Johann-Borstadt 63.\nBaumwolltuchhandlung. St. Alban- — =Herbel, Peter, Maurergeiell. Sternengäßlein 10.\nBorstadt 98. — =Hofmeyer, Wb. Franziska, Lohnwäscherin. Imbergäßlein 10.\n— =Krummacher, Fridolin, Kaufmannsarbeit. Hürlemann, David, Commis. St. Johann-Borstadt 8.\nSteinenvorstadt 43. — =Rieder, Caspar, Heizer. Rheingasse 38.\n— =Martin, Caspar, Schriftgieker. St. — Wb. Rosina, Part. St. Johann-Borstadt 8.\nLeonhards-Graben 24. — Sophia, Schneiderin. Unterer Heuberg 1.\n— Michael, Maurergeiell. St. Leonhards- — =Ziegler, Wendelin, Trödler. Münzgäßlein 20.\nBerg 8. Hürst-Stopfer, Christ., Landjägerwachtmeister. u. Abwart der Bank. Marktplatz 3.\n— =Molitor, J. J., Apotheker. Eifengasse 2. Hüffer-Schmidlin, Bernhard, Fabrikarbeiter. Riechenthorstraße 14.\n— =Müller, Andreas, Maurer. Untere Hufschmid-Bokardt, Johs., Taglöhner. Weidengasse 24.\nRheingasse 25. — =Hartmann, Jacob, Spezierer. St. Johann-Borstadt 65.\n— =Ritter, David, Seidenfärbgergeiell. Ba- — =Thommen, Joh., Posamenter. Uten-gasse 27.\ndergäßlein 6. Hug-Bäry, Adolf, Müller. Kohlenberggasse 32.\n— =Schnell, Wb. Salomea, Part. Heuberg 12.\n— =Schreck, Jacob, Gärtner. Schliżenmattstraße 43.\n— =Sommer, Heinr., Seidenfärbgergeiell. Riehenteichweg 32.\n— =Sommerhalder, Jacob, Blattmacher. Heuberg 27.\n— =Spengler, Babette, Modiste, Pfluggäßlein 4.\n— =Spengler, Jacob, Fabrikarbeiter. Pfluggäßlein 4.\n— =Stäbler, Jacque, Handelsmann. Gerbergasse 59.\n— =Stehelin, Emilie, Rentiere. Neue Borstadt 27.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8918,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3399,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 72.91,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:09:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p362",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p362.jpg",
+      "bytes": 1603939,
+      "sha256": "6ae01e0efdfb7b04a98129e74a9e7919f5cdc3575279ad042e899770be733888",
+      "sha256_of": "original",
+      "working_copy": "1862_p362.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:17+00:00"
+  }
+}

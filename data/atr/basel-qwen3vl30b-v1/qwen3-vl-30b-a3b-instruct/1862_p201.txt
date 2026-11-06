@@ -1,0 +1,51 @@
+136
+Spalenberg. — Spalenthorweg.
+Nro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer
+Haus-Nr. | tier. | Haus-Nr. | | und Bewohner.
+-----|-------|------|----------------|---------------------------
+57 | II. | 452 | | Hartmann=Reck, Gottlieb.
+58 | II. | 466 | zur hohen Sonne. | Hartmann=Reck, Gottlieb, Spengler.
+59 | II. | 453 | zum rothen Helm. | Glok=Scherb, Peter.
+60 | II. | 465 | | Glok=Scherb, Peter, Küfer u. Wirth.
+61 | II. | 454 | zur Spinnwieden. | Uebelin=Viollinet, Heinrich, Commis.
+62 | II. | 464 | zum Mehlhaus. | Henke=Salathe, Wb. Catharina.
+63 | II. | 455 | zum Rayfersberg. | Henke=Salathe, Wb. Catharina, Part.
+65 | II. | 456 | | Levy-Levy, David, Kaufmann.
+| | | | Erlacher=Loz, Johannes.
+| | | | Brodbeck=Sutter, Wtb. Anna, Partif.
+| | | | Erlacher=Loz, Johannes, Commis.
+| | | | Jädlín, Daniel, Sekretär d. Stadtkanzlei.
+| | | | Erlacher, Anna, Kleinkinderjchule.
+| | | | Güller=Degelmann, Heinrich.
+| | | | Güller=Degelmann, Heinrich, Schneider.
+| | | | Buser, Hieronimus.
+| | | | Wipf=Bader, Rudolf, Tapezierer.
+| | | | Dreyfus=Hirsch, Leopold.
+| | | | Dreyfus=Hirsch, Leopold, Kaufmann.
+| | | | Jfelin=Rüttimeyer, Friedrich, Lehrer.
+| | | | Landerer und Merkle.
+| | | | Merkle=Klipfel, Albert,
+| | | | Landerer=Maring, Ludw., | Agentur.
+Spalenthorweg.
+2 | II. | 102 | | Bürgin=Wülf, Jakob.
+4 | II. | 101 E | | Stähle=Sollberger, Wb. Babette, Stroh-
+6 | II. | 101 D | | hutfabrif.
+8 | II. | 101 C | | Sommer=Walter, Melchior.
+| | | | Flick, Joh. Rudolf, Spengler.
+| | | | Borst=Ott, August, Schneider.
+| | | | Schjenbein, Rudolf, Bütchenschmied.
+| | | | Wik=Bonnet, Georg, Zuckerbäcker.
+| | | | Schneider=Buille, Friedrich, Commis.
+| | | | Baumberger=Rieder, Hans, Particular.
+| | | | Honesta=Weber, Georg.
+| | | | Honesta=Weber, Georg, Commis.
+| | | | Stumm=Schabelig, Gustav, Kaufmann.
+| | | | Zehntner=Weber, Heinrich, Redactor d.
+| | | | Basler Nachrichten.
+| | | | Dubied=Pfannenschmied, Georg
+| | | | Ludwig.
+| | | | Dubied=Pfannenschmied, Georg Ludwig,
+| | | | Commis.
+| | | | Fäsch, Rudolf, Secretär der Zeughaus-
+| | | | kammer.
+| | | | Hunziger=Weber, Carl David, Part.

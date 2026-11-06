@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p099",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p099.jpg",
+    "bytes": 1260833,
+    "sha256": "c2c126c19e20e308f7d2e7aec5ef5a264d0a1faa36eaa8b965edff338a379f5b",
+    "sha256_of": "original",
+    "working_copy": "1862_p099.jpg"
+  },
+  "text": "34 | Davidsgasse. — Eisengasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nDavidsgasse.\n1 | I. | 273 A | | Schöllkopf-Schumacher, Gottlieb Friedrich.\n  Schöllkopf-Schumacher, Gottl. Friedrich, Maurermeister.\n  Strub-Thommen, Fried., Wirth.\n  Heitz-Erismann, Joh. Jak., Kaufhausang.\n2 | I. | 274 A b | | Müller-Hauser, Joh. Jak. (Remise).\n4 | I. | 274 C. | | Iselin-DeBary, Rudolf.\n  (Remise und Stallung.)\n5 | I. | 273 B | | Bürgy u. Comp. Emanuel.\n17 | I. | 275 N | | Müller-Staehelin, Johs. Baumeist.\n  von Salis-Kern, Vinz. Kaufmann.\n  Kern-Schwerber, Louise, Wtwe. Part.\n  Kern, Emanuel, Kaufmann.\n\nEisengasse.\n1 | VI. | 1519 | Polizeiposten. | Staat.\n2 | VI. | 1533 | zum Landeck. | Huber-Molitor, Joh. Jakob.\n  Huber-Molitor, Joh. Jak., Apotheker.\n  Dürschner, Karl, Kaufmann.\n3 | VI. | 1518 | zum Rheineck. | Soultzener-Widmer, Alexander.\n  Soultzener-Widmer, Alexand., Conditor.\n4 | VI. | 1534 | zum Morgenstern. | Wié, Jgfr. Nanette.\n  Wié, Jgfr. Nanette, Maison garnie.\n  Fröhlicher-Fleuriel, Franz Josef, Merceriehandlung.\n  Calame, Louis, Architekt.\n5 | VI. | 1589 | pinnwetternzunft. | Corporationsgut.\n  Lotz-Wölfflin, Daniel Eduard, Tabak- und Cigarren Handlung.\n  Wolf, Elie, Papier- u. Antiquitätenhdlg.\n  Elsner-Jahreis, Joh. Jak., Zunftabwart.\n6 | VI. | 1535 | | Haas-Honold, Carl.\n  Haas-Honold, Carl, Hutmacher.\n  Hübscher-Kleiber, Emil, Kaufmann.\n  Andres-Nägeli, Joh. Jak., Post-Cassier.\n7 | VI. | 1590 | zum Kauz. | Best-Theubet, Emanuel.\n  Best-Theubet, Emanuel, Kaufm. u. eidgenöß. Zoll-Controleur.\n  Theubet-d'Elgger, Victor, Oberst, Part.\n8 | VI. | 1536 | zum Pilger. | Reinhardt-Lotz, J. Conrad.\n  Reinhardt-Lotz, J. Conr., Handelsmann.\n  Comptoir von Rahn u. Trog, Agentur.\n  Rahn, Anton, Kaufmann.\n9 | VI. | 1591 | | Sulger-Stähelin, Andreas.\n  Sulger-Stähelin, Andr., Kaufmann u. Director der Centralbahn.\n  Schaub, J., Spezereihandlung.\n  Müller, Geschwister, Weißwaarenhdlg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8890,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1972,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p099",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p099.jpg",
+      "bytes": 1260833,
+      "sha256": "c2c126c19e20e308f7d2e7aec5ef5a264d0a1faa36eaa8b965edff338a379f5b",
+      "sha256_of": "original",
+      "working_copy": "1862_p099.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:48+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p364",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p364.jpg",
+    "bytes": 1630630,
+    "sha256": "38428e4a615d0b62fca4b097575cd9d34da5a52da0b7071aeb4e54e598688a15",
+    "sha256_of": "original",
+    "working_copy": "1862_p364.jpg"
+  },
+  "text": "Berzeichnis der Bürger und Einwohner. 299\nSäggi=Schöpflin, Theod., Bannwart. Engelgasse 64.\n— Kaver, Fleckenpuzer. Gemsberg 1.\nSäggy=Schaub, Wb. Barbara, Taglöhnerin. Aeschenvorstadt 27.\nSäfle=Revellio, Wb. Elis., Dreschler. Schnabelgässlein 13.\nSahn, Carl Gustav, Agent. Greifengasse 1.\nSaillet=Balizet, Hypolite, Mechaniker. Untere Rebgaſse 16.\nSaus=Faſch, Wb. Judith, Part. Aeschenvorſtadt 2.\nSaufele, Eman., Taglöhner. St. Peterskirchplatz 14.\nSauslin=Buſiger, Gg., Färbergeſelle. Gerbergässlein 2.\n— =Satty, Friedr., Commis. Hintere Spitalgasse 9.\n— =Schaub, Rosina, Part. Steinenbachgässlein 12.\nSauz=Siegel, Martin, Gasarbeiter. Rebgaſse 7.\nSavelle, Jean Claude, Desſinateur. St. Elisabethen-Straße 62.\nSberg, Gottlieb, Optiker und Mechaniker. Freie Straße 60.\nSeannot=Bailod, Jacob, Commis. Heumattstraße 12.\nSehl=Kanftein, J. G., Wirth. Hutgasse 2.\nSeisy, Agnes, Part. St. Peters-Gasse 48.\n— Franz, Päcer. St. Alban-Vorstadt 39.\nSenni, Barbara, Zettlerin. St. Leonhards-Berg 15.\n— =Bufer, Daniel, Fabrikarbeiter. Spalenvorstadt 39.\n— Elisab. Wascherin. Aeschenvorstadt 14.\n— =Erlacher, Wb. Cathar., Part. Freie Straße 59.\n— Franz, Papierer. St. Alban-Thal 28.\n— =Holinger, Martin, Fabrikmeister. Konnenweg 39.\n— =Jäck, Heinrich, Spedter. Unterer Henberg 5.\n— =Kellerhals, Martin, Zolleinnehmer. Bahnhofstraße 67.\nSenny=Bedert, Friedr., Kaufmann. Aeschenvorstadt 40.\n— =Berthel, Jacob, Kaufhausarbeiter. Aeschenvorstadt 77.\n— =Börlin, Joh. Jakob, Quartierschreiber, Firma F. F. Senny Sohn. Ochfengasse 3.\n— =Buri, Adam, Posamenter. Riehenthorweg 32.\n— =Eprecht, J. Friedrich, Schreiner. St. Johann-Vorstadt 55.\n— =Frey, Jacob, Posamenter. Steinenbachgässlein 26.\n— Friedr. Wilhelm, Lehrer. Untere Rheingasse 17.\nSenny=Gattinger, Friedr., Desſinateur. St. Johann-Vorstadt 18.\n— Jacob, Flachmaler. Aeschenvorstadt 39.\n— Jacob, Fabrikarbeiter. Nauenstraße 13.\n— =Senny, Johannes, Kaufhausarbeiter. Gerbergässlein 4.\n— Joh. Aug., Lehrer. Ochfengasse 3.\n— F. F. u. Geschw. Elisabeth u. Catharina, Spezereihandlg. Blumenrain 21.\n— F. F., Sohn, Käse- u. Colonialwaarenhandlung. Ochfengasse 3.\n— =Leder, Martin, Gutsbesitzer. Hagenheimer Straße 14.\n— =Roth, Johs., eidg. Zollbeamter. Ochfengasse 3.\n— =Siegriſt, Martin, Magazinarbeiter. Schützenmattstraße 12.\n— =Stöcklin, F. F., Musterweber. Utengasse 54.\n— =Thommen, Jac., Posamenter. Rheingasse 67.\n— =Thommen, Martin, Kaufhausarbeiter. Aeschenvorstadt 75.\n— =Tschaun, Joh., Taglöhner, Webergasse 13.\n— =Weininger, Johannes, Kutscher. Hintere Spitalgasse 1.\n— =Wernly, Daniel, Kaufmann. Greifengasse 5.\n— =Wulschlegel, Joh., Kaufhausarbeiter. Spalenberg 62.\n— =Wunderlin, Friedrich, Appreturgehilfe. St. Alban-Vorstadt 22.\nSentsch, August, Fabrikarbeiter. Heumattstraße 5.\nSenker=Kunz, Wb., Schreiner. Rappolts- hof 5.\nSeffonig=Miller, Wb., Part. St. Alban-Vorstadt 98.\nSezler=Klein, Heinrich, Kaufmann. Aeschenvorstadt 3.\nSfert, Barbara, Zettlerin. St. Peters-Gasse 22.\nSff=Buchser, Ulrich, Posamenter. Binninger Straße 23.\nSffenthaler=Schölli, Ludw., Schuhmacher. Freie Straße 82.\n— Wb., Part. St. Elisabethen-Straße 13.\nSfm=Säggi, Carl, Malergehilfe. Aeschenvorstadt 27.\nSfg=Arnaud, August, Eisenbahnbeamter. Kiehen-Straße 59.\nSmbach=Bitterli, Leonz, Käsehändler. Stadthausgasse 16.\nSmHof=Bell, Saml., Commis. Gemsberg 2.\n— Benedikt, Alt-Zoller. Spalenvorstadt 29.\n— =Boyer, Wb. Elisabeth, Part. Spalenvorstadt 43.\n— =Forcart, Joh. Jac., Kaufmann. Sporengasse 16.\n— Friedrich, Schuhmacher. Malzgasse 3.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9197,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3458,
+    "lines": 68,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:09:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p364",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p364.jpg",
+      "bytes": 1630630,
+      "sha256": "38428e4a615d0b62fca4b097575cd9d34da5a52da0b7071aeb4e54e598688a15",
+      "sha256_of": "original",
+      "working_copy": "1862_p364.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:35+00:00"
+  }
+}

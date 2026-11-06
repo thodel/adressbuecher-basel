@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p369",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p369.jpg",
+    "bytes": 1425130,
+    "sha256": "4095d9f28353aef43959891ee7348b5de95d241cea0c9f866f419d0257b8cde5",
+    "sha256_of": "original",
+    "working_copy": "1862_p369.jpg"
+  },
+  "text": "304\nVerzeichniß der Bürger und Einwohner.\nKleiber, Johs., Postconductor. Barfüßer-|Knecht-Schaffmacher, Joh. Mich., Appreteur\n  platz 22.                |  gehülfe. St. Peters-Gasse 22.\n  — Schwester, Helena u. Cath., Reinwasche-|— Valentín, Fabrikarbeiter. Riehenteich-\n    rinnen. Gerbergasse 72.  |  weg 32.\nKleimt, J., Uhrenmacher. Fischmarkt 13. |— Wezel, Joh. Rud., Posamenter. Reb-\nKlein-Langenhardt, Wb. Serena, Taglöhnerin. |  gasse 43.\n  Riehen-Straße 11.         |— Wydler, Johs., Posamenter. Weiße\n  — Salis, Wb. An. Cath., Part. Aeschenvor-|  Gasse 14.\n    stadt 3.                 |Knechtlí-Behr, Rud., Fabrikarbeiter. Weiße\n  — Schabelitz, Wilh., Redactor d. Volks-|  Gasse 14.\n    freunds. Mostackerstraße 54. |— Salome, Fabrikarbeiterin. Aeschenvor-\n  — Schmidlin, J. J., Wascher. Riehen-|  stadt 66.\n    Straße 11.               |Kneuß-Geiser, Christ., Zimmermann. Klin-\n  — Weber, Jean, Gastwirth. Stadthaus-|  gelbergstraße 32.\n    gasse 25.                |Knickmeyer-Malzacher, Wb. Friederika, Gold-\nKleiner-Bieder, Jacob, Seidenfärbergeselle. |  schmied. Gerbergasse 6.\n  Schneidergasse 7.        |Knobel, Carl Josef, Commis. Barfüßerplatz 1.\n  — Strub, Rud., Kartoffelhandlung. Uten-|— Gmünder, Joh. Jac., Baudfabrikant.\n    gasse 20.                |  St. Peters-Platz 15.\nKleinert, Franz Rud., Färbergeselle. Rhein-|Knörzer-Schaffner, Wb. Agathe, Koslgeberin.\n  gasse 48.                |  Heuberg 44.\n  — Wb. Judith Barb. Rheingasse 48. |Knoll-Dobler, Wb. Ottilie, Wascherin. St.\nKleinwitz-Schmidt, Wb. Marg., Sebamm. |  Peters-Berg 28.\n  Gerbergasse 19.          |Knop-Dechslin, Wb. Magdal., Part. St.\n  — Sus. Marg., Schneiderin. Schützen-|  Leonhards-Straße 28.\n    mattstraße 17.          |— Turbet, Valent. Balth. Adolf, Uhren-\nKlent-Kapp. Joh. Friedr., Maurer. Gems-|  macher. Hutgasse 22.\n  berg 8.                  |Knopf-Gas, Friedr., Wirth. Schwanen-\nKlett-Schwarz, Casp., Fabrikarbeiter. St. |  gasse 20.\n  Peters-Berg 33.          |Knutty, Balth. Friedr., Part. Missions-\nKling, Camillus, Spengler. Dohjengasse 19. |  straße 43.\n  — Koch, Eugen, Gastwirth. Schützenmatt-|— Schmid, Elisabeth, Part. Missions-\n    straße 2.                |  straße 43.\n  — Riibenstahl, Joh. Melch., Ferger. Spa-|— Tschudy, Friedr., Posamenter. Stei-\n    lenthorweg 14.          |  nenvorstadt 25.\nKlingelsuß-Faber, Wb. Cath. Elij., Part. |Kober-Herzog, Andreas, Baumeister. St. Al-\n  Gerbergasse 65.          |  banthorgraben 4.\n  — Langmesser, Anna, Trödlerin. Rhein-|— Paul, Commis. St. Leonhards-Stapfel-\n    sprung 4.                |  berg 4.\nKlingensuß-Bed, Irlula, Part. Spalenthor-|Koch, Christ. Friedr., Commis. Schützen-\n  weg 12.                  |  graken 45.\nKlingler, Felix, Landmann. Hägenheimer |— Emil, Musiker. Kohlenberg 5.\n  Straße 14.               |— Gaier, Christ., Maurerlnfr. Hammer-\n  — Jsch, Ruprecht, Kutscher. Allschwyler|  straße 102.\n    Straße 68.               |— Jörz, Jos., Schreiner. St. Andreas-\n  — Ranz, Wb. Cath., Koslgeberin. Weber-|  platz 14.\n    gasse 24.                |— Kaiser, Jacob, Fabrikarbeiter. Im-\nKlipfel-Born, G. Heinr., Weinhandlung. St. |  bergäklein 12.\n  Johann-Vorstadt 70.      |— Kuster, Joh., Buchdrucker. Gerber-\nKloor-Grimm, Jac., Musterweber. St. Pe-|  gäklein 42.\n  ters-Gasse 42.           |— Lotz, Franz Nepom., Part. Schützen-\nKlotz-Gutzwiller, Johs., Gärtner. Alybed-|  gasse 12.\n  straße 49.               |— Marg., Jgfr. Schuhverbändlerin. Aeschenv-\nKlump-Seiler, Heinr., Silberarbeiter. Grei-|  vorstadt 14.\n  fengasse 15.             |— Monnin, Carl, Desfinateur. Mlinz-\nKnecht, Josef, Ladendiener. Riehenteichweg 32. |  gäklein 26.\n  — Laub, Johs., Maler. Kohlenberggasse 13. |— Renaur, Johs., Commis. Schneider-\n  — Marrer, Peter, Knecht. Imbergäk-|  gasse 15.\n    lein 25.                |— Schieferlin, Heinr., Spengler. Nadel-\n                              |  berg 16.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9724,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3871,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 59.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:10:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p369",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p369.jpg",
+      "bytes": 1425130,
+      "sha256": "4095d9f28353aef43959891ee7348b5de95d241cea0c9f866f419d0257b8cde5",
+      "sha256_of": "original",
+      "working_copy": "1862_p369.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:22+00:00"
+  }
+}

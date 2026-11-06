@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p120",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p120.jpg",
+    "bytes": 1456695,
+    "sha256": "5da6fb1357e5dabb318aaebe10da23b48a1beecdf24851837d116d13a33406ec",
+    "sha256_of": "original",
+    "working_copy": "1862_p120.jpg"
+  },
+  "text": "Gerbergasse. — Gerbergässlein. 55\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n73 | IV. | 1153 | zum Pruntrut. | Ackermann=Kapp, Daniel.\n | | | | Ackermann=Kapp, Daniel, Spengler.\n | | | | Altermatt=Weikhaupt, Jof., Gipfer.\n74 | VI. | 675 | 3. goldenen Knopf. | Uehlinger=Schneider, Carl.\n | | | | Uehlinger=Schneider, Carl, Schneider.\n | | | | Speitel=Schoch, Jof., Tapetenhandlung.\n | | | | Winizki=Meyer, Conft., Buchhalter.\n75 | IV. | 1152 | zum Fürstenberg. | Schardt=Roth, Adolf.\n | | | | Schardt=Roth, Adolf, Kaufmann.\n | | | | Schorer, Geschw., Tapetenhandlung.\n77 | IV. | 1151 | zur Kerze. | Droz=Stierlin, Friedrich.\n | | | | Droz=Stierlin, F., Woll- u. Baumw.-Hdl.\n79 | IV. | 1150 | | Oser=Fischer, Wb. Catharina.\n | | | | Oser=Fischer, Wb. Catharina, Part.\n | | | | Kromer=Kübler, Wb. Sus., Spezereihdlg.\nGerbergässlein.\n1 | VI. | 628 | zum Mannenbad. | Siegmund=Bloch, Benjamin.\n | | | | Siegmund=Bloch, Benjamin, Zahnarzt,\n | | | | Med. et Chir. Dr.\n2 | VI. | 625 | zum Mühleecf. | Huber=Unbekannt, Wb. Catharina.\n | | 626 | | Huber=Unbekannt, Wb. Cath., Part.\n | | | | Reck=Epple, Theobald, Spengler.\n | | | | Studer=Holinger, Niels, Holzhändler.\n3 | VI. | 643 | Hinterhaus d. Zunft zu Schneidern. | Corporationsgut.\n | | | | Schaffner=Schrenk, Wb. Wilhelmine,\n | | | | Räucherbäder.\n4 | VI. | 627 | zum Ramsbach. | Müller, Felix sel., Erben.\n | | | | Plattner=Hasler, Wb. Rahel, Part.\n | | | | Käfer=Müller, Joh., Hafner.\n5 | VI. | 642 | Hinterhaus d. Zunft zu Gärtnern. | Corporationsgut.\n6 | VI. | 629 | zum Ager. | \n8 | VI. | 630 | | Bonfilsch=Böglin, Georg Daniel.\n | | | | Bonfilsch=Böglin, G. D., Metzger.\n9 | VI. | 641 | 3. St. Niklaus. | Mangold=Greis, Johann Wilhelm.\n | | | | Mangold=Greis, Joh. Wilh., Schuhm.\n | | | | Trübner=Wolfensberger, Ludwig.\n | | | | Schmidlin=Linck, Wb. Barb., Schachtelm.\n10 | VI. | 631 | zum rothen Hahnen. | Weiß=Brefin, Wb. Ursula.\n | | | | Weiß=Brefin, Wb. U., Bettmacherin.\n11 | VI. | 640 | 3. hintern Greifen. | Meyer=Altorfer, Friedrich.\n | | | | Magazin.\n12 | VI. | 632 | | Tschudin=Häufer, Wb. Elisabeth.\n | | | | Tschudin=Häufer, Wb. Elisabeth, Part.\n13 | VI. | 639 | zum Ritter. | Mieg, Joh. Jakob.\n | | | | Magazin.\n14 | VI. | 633 | zum weisen Mann. | Buser=Kuster, Mathias.\n | | | | Buser=Kuster, Mathias, Ferger.\n | | | | Weixenberger=Lang, Peter, Schneider.\n15 | VI. | 637 | Zunft zu Gerbern. | Corporationsgut.\n | | | | Bruder=Bürgin, Wb.A°. Mar., lith.Aust.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8718,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2489,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0192,
+    "mean_line_chars": 46.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:36:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p120",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p120.jpg",
+      "bytes": 1456695,
+      "sha256": "5da6fb1357e5dabb318aaebe10da23b48a1beecdf24851837d116d13a33406ec",
+      "sha256_of": "original",
+      "working_copy": "1862_p120.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:22+00:00"
+  }
+}

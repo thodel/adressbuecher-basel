@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p398",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p398.jpg",
+    "bytes": 1566498,
+    "sha256": "1f2b024997b28bf7c5f76d628b678d47b7b1a160bde17f4536db854745acdc3f",
+    "sha256_of": "original",
+    "working_copy": "1862_p398.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 333\nSalathe=Madörn, Posamenter. Untere Rhein-|Sartorius, Friedrich, Baumeister. Central-\ngasse 11. | bahuplatz 11.\n— =Müller, Rudolf, Wirth u. Postfaktor. Saffi=Börlin, Daniel, Notariatsgehilfe und\nHeuberg 17. | Schreiblehrer. Kohlenberg 6.\n— =Schneckenburger, Agathe, Part. Heu-|Sauerbeck=Walter, Jakob, Kutscher. Kart-\nberg 34. | hausgäcklein 4.\n— Spinnler, Samuel, Werkmeister. Fa-|Sauerbren=Bogel, Valentin, Bichfenschmied\nbriststraße 14. | u. Zeugwart. St. Peters=Graben 46.\nSalis=Weitnauer, J. J., Direktor d. Straf-|Saufer=Hersperger, Dan. Ludw., Mechaniker.\nanstalten. St. Johann=Vorstadt 56. | St. Clara=Graben 11.\nSandmeyer=Amstler, Rud., Posamenter. Stei-|Sauter=Christen, Conrad, Metalldreher. Ger-\nnenvorstadt 53. | berggasse 29.\n— =Merz, Jacob, Fabrikarbeiter. Malz-|Sautter=Reck, Michael, Handelsmann. Greifen-\ngasse 5. | gasse 38.\n— =Seiler, Wb. Friederika, Nätherin. St. | — =Rein, David, Maschinist. Kronengasse 4.\nPeters=Bergr 17. | Sauvain=Stehlin, Salomon, Kaufmann.\nSandreuter=Christ, J. J., Spengler u. Gas-|Herbergsgasse 2.\nbeleuchtungsunternehmer. Schneider-|Sager=Rehr, Joh. Friedr., Taglöhner. Bader-\ngasse 5. | gäcklein 12.\n— Fischer, Emanuel, Taglöhner. Spalen-|Schaad=Braun, Jacob, Fabrikarbeiter. St.\nberg 41. | Leonhards=Stapfelberg 2.\n— =Frey, Heinrich, Thurmbläser im Min-|— Johannes, Bauführer. Wallstraße 5.\nster. St. Martinskirchplatz 2. | — =Spinnler, Jonas, Taglöhner. In der\n— =Graf, Rud., Postfactor u. Wirth. Spa-|Breite 9.\nlenvorstadt 38. | Schaaf, Adolf, Zollamtsgehilfe. Bahnhof-\n— Wb. Jakobea Christina, Schneiderin. | straße 19.\nSt. Andreasplatz 17. | — Wb. Friederika, Part. Wallstraße 22.\n— =Langmeffer, Rud., Briefträger. Spa-|Schaarschmidt=Hagist, Aug., Maurermeister.\nlenvorstadt 38. | Klingenthalstraße 43.\n— Marie, Glätterin. Freie Straße 41. | Schabelitz=Flick, J. C., Buchbinderei u. Schreib-\n— =Oser, Emanuel, Südfriichtenhandlung. | materialien=Handlung, Firma H. Schä-\nFreie Straße 87. | belitz. Freie Straße 71.\n— Rudolf, Commis. Freie Straße 41. | — =Loz, Dietr. Friedr., Commis u. Bier-\nSandoz=Luha, Carl August, Kaufmann. Mij-|wirth. Rebgaße 14.\nfionsstraße 24. | Schaber=Kutz, Wb. Cathar., Nätherin. Uten-\nSaner, Anton, Lehenbeständer. Gundoldin-|gasse 41.\nger=Straße 4. | Schächter=Moser, J. J., Gipser. Todten-\nSanzi=Vienz, Joh. Gottl., Bank-Commis. Al-|tanz 12.\nschwyler Straße 9. | Schädele, Franziska, Lehrerin. Riehenthor-\n— =Egler, Gottlieb, Fabrikarbeiter. Kronen-|straße 5.\ngasse 9. | Schäfer, Posamenter. Greifengasse 22.\nSarasin=Brunner, Rosalie, Wb. St. Alban-|— Christina Catharina, Lehrerin. Nadel-\nVorstadt 49. | berg 5.\n— u. Comp., Bandfabrikation. St. Alban-|— Emanuel Friedrich. Ochsenstraße 4.\nVorstadt 93. | — =Hajenmeyer, Emanuel, Seidenfärberei.\n— Elije, Part. Malzgasse 30. | Ochsenstraße 4.\n— =Forcart, Adolf, Pfarrer. Malzgasse 30. | — =Hiltpoldt, Friedr., Fabrikmeister. Malz-\n— Hans Franz, Bandfabrikanten, Comptoir. | gasse 5.\nRheinprung 16. | — =Körin, Jakob, Stuhlschreiner. Gott-\n— =Heusler, Wb. Salomea, Rent. St. | erbarmweg 15.\nAlban=Vorstadt 90. | — =Kaiser, Christian, Zimmermann. Wall-\n— u. Heusler, Felix, Comptoir von. St. | straße 4.\nAlban=Vorstadt 49. | — =Kuriger, Johann Georg, Magazinier.\n— =Sauvain, Karl, Bandfabrikant u. Raths-|Kümelinsplatz 4.\nherr. St. Alban=Vorstadt 90. | — Mathias, Commis. Aeschenvorstadt 37.\n— =Stehlin, Rudolf, Bandfabrikant. St. | — =Müller, Joh. Heinrich. Schuhmacher.\nAlban=Vorstadt 91. | Webergasse 1.\n— Theodor, Kaufmann. Malzgasse 30. | — Niclaus, gew. Schuhmacher. Untere\nSartorius=Burckhardt, Achilles Wilh. Carl, | Rheingasse 21.\nPfarrer. Steinenberg 7.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9666,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3635,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 58.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:14:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p398",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p398.jpg",
+      "bytes": 1566498,
+      "sha256": "1f2b024997b28bf7c5f76d628b678d47b7b1a160bde17f4536db854745acdc3f",
+      "sha256_of": "original",
+      "working_copy": "1862_p398.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:14:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p406",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p406.jpg",
+    "bytes": 1621266,
+    "sha256": "9eec70f2eb836d8d33be1ab464eae91d165d95aca60511b2b2a0542eb9eab798",
+    "sha256_of": "original",
+    "working_copy": "1862_p406.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 341\nSchultheiß-Schluep, Heinrich, Eisenbahngestellter. Rheingasse 36.\nSchultheß, Geschw. Bertha und Margaretha, Modiste. Freie Straße 41.\n— =Schmidt, Dieth., Notarius. Steinenberg 12.\n— =Schneider, Ernst, Lingerie- u. Modehdlg. Freie Straße 54.\n— =Tschannen, Paul, Tapezierer u. Möbelhandlung. Freie Straße 91.\nSchultze, Karl Friedrich, Buchdrucker, Firma Bahumeiers Buchdruckerei. Barfüßer-gasse 3.\nSchulz-Landerer, Josef, Baumeister. Missionsstraße 14.\nSchulz-Reiner, Heinrich, Koch. St. Clara-Straße 18.\n— =Walliser, Seraphin Vincenz, Färbergejelle. Riehenthofstraße 13.\nSchupp-Weibel, Wb. Maria, Part. Fabrikstraße 37.\nSchuppli-Zandt, J. J., Knecht. St. Andreasplatz 18.\nSchuster-Pischl, Georg, Stadtgärtner. St. Peters-Platz 7.\n— =Spengler, August, Musiklehrer. Hammerstraße 66.\nSchwab-Düring, J. J., Gerichtsamtmann. Schliesselberg 5.\n— =Preiswerk, Johs., Dr. med. Freie Straße 58.\nSchwander-Arber, Wb. Elisabeth, Wäscherin. Rheingasse 72.\n— Johannes, alt Spannermeister. Gerbergasse 48.\n— Mathias, Commis. St. Andreasplatz 16.\n— =Schneckenburger, Saml., Schlossermeistr. Klosterberg 21.\n— =Schneider, Mathias, Kaufhausarbeiter. St. Andreasplatz 16.\n— =Bogt, Wb. Suf. Salomea, Schneiderin. Spalenvorstadt 37.\nSchwarz-Schitz, Friedolin, Posamenter. Sembergäklein 23.\nSchwarz, Andreas, Seidenfärbergeselle. Riehenthofstraße 14.\n— =Böglh, Philipp Heinrich, Flachmaler. Karthausgäklein 5.\n— =Däschler, Caspar, Landjäger. Freie Straße 67.\n— =Ernst, Johannes, Seidenfärbergeselle. St. Johann-Vorstadt 11.\n— Eßther, Part. Freie Straße 94.\n— Gottlob, Lehrer. Missionsstraße 21.\n— =Haufer, Christian, Kaufmann. Aeschengraben 12.\n— u. Hermann, Rohseidehandel u. Commission. Aeschengraben 12.\n— =Hoch, Hans Heinrich, Papierer. St. Alban-Thal 37.\nSchwarz-Krumm, Leonh., Schreiner. Rheingasse 40.\n— =Rostina Maria, Schneiderin. Spalenvorstadt 37.\n— =Schlag, Rud., Commis. Mostackerstraße 62.\n— =Schweizer, Heinrich, Metzger. Rheingasse 63.\n— Wittwe Eßther, Part. Freie Straße 94.\nSchwarzenbach-Wybert, Heinrich, Musiker. Gemsberg 9.\nSchwarzkopf-Ambrosius, Archimedes, Dr. Phil. und Docent an der Universität. Grenzacher-Straße 43.\n— =Klein, Wilh., Kuttscher. St. Alban-Vorstadt 86.\nSchweickert, Friederike, Taglöhnerin. Reb-gasse 33.\nSchweichhardt-Dunkel, C. Fried., Schuhmacher. Heuberg 15.\nSchweighauser'sche Sortimentsbuchhandlung. Schwanengasse 2.\n— Verlagsbuchhandlung. Schwanengasse 2.\n— Buchdruckerei. Spiegelgasse 13.\nSchweizer-Bodmer, Lucas Ben., Kaufmann. St. Elisabethen-Straße 18.\n— =Brand, Nikl., Schreiner und Holzmeffer. Spalenvorstadt 18.\n— =Brettscher, Aug., Telegraphist. Schneidergasse 14.\n— =Brodmann, Joh., Trödler. Imbergäklein 6.\n— =Dettwiler, Sch., Kupferschmied. Hutgasse 14.\n— Elisabeth, Rostgeberin. Schnabelgäklein 5.\n— =Enderlin, Rud., Taglöhner. Hammerstraße 92.\n— =Fluck, Johannes, Färbergejelle. Rheingasse 45.\n— =Fluck, Joh., Seidenfärbergeselle. Riehenteichweg 18.\n— =Grosz, Heinrich, Fabrikarbeiter. St. Alban-Vorstadt 46.\n— =Hilgin, Ignaz, Zimmermanngeselle. St. Johann-Vorstadt 63.\n— =Sfenegger, Wb. Anna Maria, Maler. Rheingasse 29.\n— =Wiesch, Gottl., Feger. Untere Rheingasse 15.\n— =Rechner, H., Posamenter. Mattweg 9.\n— =Riedtmann, Rud., Feger. Missionsstraße 50.\n— =Saffe, Fritz, Bäcker. Spalenvorstadt 39.\n— =Schäfer, Johannes, Fabrikarbeiter St. Peters-Berg 3.\n— =Spinnler, Samuel, Posamenter. Lindenber 20.\n— =Thommen, Heinrich, Posamenter. Reb-gasse 31.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8731,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3429,
+    "lines": 64,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 52.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:16:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p406",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p406.jpg",
+      "bytes": 1621266,
+      "sha256": "9eec70f2eb836d8d33be1ab464eae91d165d95aca60511b2b2a0542eb9eab798",
+      "sha256_of": "original",
+      "working_copy": "1862_p406.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:16:06+00:00"
+  }
+}

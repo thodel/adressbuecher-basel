@@ -1,0 +1,52 @@
+156 Sternengäßlein. — Stiftsgasse.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+12 | IV. | 966 | | Schaub-Ruetschy, Wtb., Cathar.
+  Pfaff-Ruetschy, Andreas, Zimmermstr.
+17 | IV. | 975 | im Panorama. | Hauser-Oser, Rudolf.
+  Comptoir v. Rudolf Hauser-Oser, Wein- und Spirituosenhandlung.
+18 | IV. | 967 | | Roth-Ecklin, Peter.
+  Roth-Ecklin, Peter, Maler.
+19 | IV. | 974 | im Panorama. | Hauser-Oser, Rudolf.
+  Hauser-Oser, Rudolf, Kaufmann.
+20 | IV. | 912 | | Bischoff-Kestner, Joh. Jacob.
+  Magazin.
+21 | IV. | 973 | im Panorama. | Hauser-Oser, Rudolf.
+  Herzog-Wybert, Wb. Margaretha, Part.
+23 | IV. | 972 | zum Unkelin. | Linder-Uebelin, Joh. Jacob.
+  Linder-Uebelin, Johan. Jacob, Ofen- fabrikant.
+27 | IV. | 972 A | | Linder-Uebelin, Joh. Jacob.
+  Burckhardt-Bischoff, Christof, Dr. med.
+  Heusler-Sarasin, Andreas, Dr. J. U.
+29 | IV. | 971 | | Epple-Stücklin, Christian.
+31 | | | | Liechti-Bayer, Ulrich, Schreiner.
+  Schmidlin-Saladin, Jcob, Schreiner.
+  Meyer-Binker?, Daniel, Postbeamter.
+  Steckle, Jacob, Kriminalgerichtsweibel.
+33 | IV. | 970 | zum Unkelt. | Gasquet-Siegrist, Friedrich Wilh.
+  Gasquet-Siegrist, Friedrich Wilhelm, Zimmermeister.
+  Gerster-Völlmy, Alexander, Maler.
+  Weber-Salathe, Friedrich, Bandfabrikt.
+  Schultheß, Margaretha und Bertha, Modistes.
+34 | IV. | 968 | | Bolliger-Hartmann, Daniel.
+  Bolliger-Hartmann, Daniel, Wirth.
+36 | IV. | 969 | | Fichter und Söhne.
+38 | IV. | 907 | zum Löwen. | Holzwarth-Schweickert, Jacob.
+  Holzwarth-Schweickert, Jacob, Schrein.
+  Wolfisberg-Krieg, Peter, Wirth.
+
+Stiftsgasse.
+
+1 | II. | 553 | kleiner Engelhof. | LaRoche-Bez.
+  LaRoche-Bez, Eman., Banquier.
+2 | II. | 565 | Gemeindeschule zu St. Peter. | Stadtgemeinde.
+  Bubeck-Kullen, Wilh. Friedr., Lehrer.
+3 | II. | 558 | z. kleinen Engelhof. | LaRoche-Bez, Emanuel.
+  Schaffter-Seiler, Isaac, Kaufmann.
+  Schaffter-Moll, Aug., Commis.
+4 | II. | 560 | St. Petersstift. | Stadtgemeinde.
+  Weiß-Buxtorf, J. Christ., S.M.C., Lehr.
+5 | II. | 559 | zum Neuenhof. | Lichtenhahn-Glock, Em. Friedrich.
+  Lichtenhahn-Glock, Em. Friedr., Maler.
+  Lotz-Specker, Emil, Commis.

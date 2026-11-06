@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p102",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p102.jpg",
+    "bytes": 1443987,
+    "sha256": "c590b297acac610daeaa47910a9fbca0a6580b74ec5d04dd912a01cfa20acc43",
+    "sha256_of": "original",
+    "working_copy": "1862_p102.jpg"
+  },
+  "text": "St. Elisabethen Straße. 37\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n13 | IV. | 918 A. | z. Gutenhof gehörig. | Meyer-Vest, Gedeon.\n  Iffenthaler-Mohler, Cath. Elisab., Wb.\n14 | IV. | | neue Kirche. |\n15 | IV. | 918 | der Gutehof. | Meyer-Vest, Gedeon.\n  Meyer-Vest, Gedeon, Notarius.\n  Kespinger-Gemuseus, Bened., Handelsm.\n16 | IV. | 924 | Kleinkinder - Schul-haus. | Merian-Burckhardt, Wb. Marg.\n  Wartner, Carl, Bauführer.\n  Hodel, Jgfr. Sus. Amalia, Lehrerin.\n  Lindenmeyer, Jgfr. Ursula, \"\n17 | IV. | 917 | Rebscheuer. | Fiechter-Freivogel, Johannes.\n  Fiechter-Freivogel, Johannes, Commis.\n18 | IV. | 888—90 | | Salathe, Joh., Tapezierer u. Abrah. Brüderlin, Zuckerbeck.\n  Schilling-Wilhelm, Peter, Schneider.\n  Studer-Chatti, J. F., Kaufmann.\n  Schweizer-Bodmer, Luc. Bened., Kaufm.\n19 | IV. | 916 | | Paravicini-Vischer, Rudolf.\n  Paravicini-Vischer, Rudolf, Bandfabkt. und eidgen. Oberst.\n20 | IV. | 891 | z. obern Widderlin. | Werthemann, Andreas und Sohn. (Magazin.)\n21 | IV. | 915 | | Paravicini-Vischer, Rudolf. (Fabrike.)\n22 | IV. | 892 | zum Bärenfels. | Burckhardt-Iselin, Hieronimus.\n  Burckhardt-Iselin, Hier., Stadtr., Kaufm.\n23 | IV. | 914 | | Gnoepff-Renich, Achilles.\n  Gnoepff-Renich, Achilles, Schmied u. Thierarzt.\n25 | IV. | 913 | | Wiesendanger, Adam, Schuhmacher.\n  Zäch-Gschwind, Wb. B., Merceriehdlg.\n  Löbe-Ackermann, Ludw., Tab.- u. Cigarh.\n  Pfeiffer-Elmiger, Conrad, Commis.\n26 | IV. | 893 A | z. klein. Bärenfels. | Merian-Iselin, Carl.\n  Merian-Iselin, Carl, Staatskassier.\n27 | IV. | 912 | großer Kirschgarten. | Bischoff-Kestner, Joh. Jak.\n  Bischoff-Kestner, Joh. Jak., Banquier.\n  Charras-Kestner, Joh. Bapt., Oberst.\n28 | IV. | 893 B | | Meyer-Lüb, Leopold.\n  Meyer-Lüb, Leopold, Bandhändler.\n  Meyer-Schmoll, Emanuel, Bandhändler.\n29 | IV. | 911 | kleiner Kirschgarten. | Bischoff-Kestner, Joh. Jakob.\n  Breck-Breck, Ludwig, Tabakfabrikant.\n30 | IV. | 894 | | Zimmermann-Bernoulli, Dr. C. Fr.\n  Zimmermann = Bernoulli, Dr. Carl Friedr., V. D. M., Gymnasiallehrer.\n  Bernoulli-Riggenbach, Eduard, Banquier\n  Bernoulli, Fräulein Marie, Rentiere.\n32 | IV. | 894 A | | Berlinger, Gebrüder Jos. u. Alois.\n  Berlinger, Joseph u. Alois, Gipser.\n  Wittlin-Wenger, Georg, Zimmermeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9294,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2284,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:40:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p102",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p102.jpg",
+      "bytes": 1443987,
+      "sha256": "c590b297acac610daeaa47910a9fbca0a6580b74ec5d04dd912a01cfa20acc43",
+      "sha256_of": "original",
+      "working_copy": "1862_p102.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:19+00:00"
+  }
+}

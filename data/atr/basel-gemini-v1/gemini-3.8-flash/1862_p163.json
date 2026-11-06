@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p163",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p163.jpg",
+    "bytes": 1271628,
+    "sha256": "22811353c5c60a54b9618d8d8015e91cba90ea82a5b325db5940126dce4819b3",
+    "sha256_of": "original",
+    "working_copy": "1862_p163.jpg"
+  },
+  "text": "98 Münsterhof. — Münsterplatz.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nMünsterhof.\n1 | V. | 1372 | Bischofshof. | Staat.\n  Bureaux des Bau-Collegiums, der Bau-\n  polizeicommission v. Basel-Stadt und\n  des Kantonsingenieur.\n2 | V. | 1405 | Antistitium. | Staat.\n  Preiswerk-Faber, Sam., Antistes.Th.Dr.\n  Preiswerk, Rudolf, Commis.\n  Preiswerk, Gustav Adolf, Commis.\n4 | V. | 1406 | Capitelhaus. | Staat.\n\nMünsterplatz.\n1 | V. | 1471 | Capelle. | Bischoff, Fräulein Louise.\n  Bischoff, Fräulein Louise, Rentiere.\n2 | V. | 1470 | St. Johannscapelle. | Burckhardt-His, Martin.\n  Burckhardt-His, Martin, Dr. Med.\n  Burckhardt-Stefani, Joh. Jacob, Part.\n3 | V. | 1470 a | St. Johannscapelle. | Burckhardt-His, Martin.\n  Durchfahrt.\n4 | V. | 1468 | auf Burg. | Burckhardt, Adolf.\n  Burckhardt, Adolf, J. U. D.\n  Burckhardt-Burckhardt, Carl, J. U. D.,\n  Ehegerichtspräsident.\n  Steffensen-Burckhardt, Dr. Carl, Prof.\n5 | V. | 1467 | | Burckhardt, Adolf.\n6 | V. | 1465 | | Stückelberger, Wb. Ernestine.\n  Stückelberger, Wb. Ernestine, Part.\n  Raillard-Stähelin, Rudolf, Stempel-\n  kommissär.\n7 | V. | 1463 a | Lesegesellschaft (Ne- bengebäude). | Allgemeine Lesegesellschaft.\n  (Bürger- und Jugendbibliothek.)\n8 | V. | 1463 | Lesegesellschaft. | Allgemeine Lesegesellschaft.\n  Düring-Kühn, Johann, Bibliothekar.\n9 | V. | 1412 | Münsterkirche. | Staat.\n10 | V. | 1404 | Regisheimerhof. | Merian-Merian, Samuel.\n  Merian-Merian, Samuel, Rentier.\n  Geigy-Merian, Joh. Rudolf, Kaufmann.\n11 | V. | 1403 | Falkensteinerhof. (Gewerbschule.) | Staat.\n  Autenheimer-Jäckle, Friedrich, Rector\n  der Gewerbschule.\n12 | V. | 1402 | Domhof. | Burckhardt-Schrickel, Eduard.\n  Burckhardt-Schrickel, Eduard, Raths-\n  herr, Rentier.\n  Merian-Thurneysen, Peter, Rathsherr,\n  Professor u. Rentier.\n13 | V. | 1413 | Siegristenwohnung. | Staat.\n  Wohnlich-Krayer, Joh. Friedr., Siegrist\n  und Schneider.\n14 | V. | 1462 | Mäntelinhof. | Staat.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8051,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1981,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:50:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p163",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p163.jpg",
+      "bytes": 1271628,
+      "sha256": "22811353c5c60a54b9618d8d8015e91cba90ea82a5b325db5940126dce4819b3",
+      "sha256_of": "original",
+      "working_copy": "1862_p163.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:04+00:00"
+  }
+}

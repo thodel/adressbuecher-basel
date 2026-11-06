@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p289",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p289.jpg",
+    "bytes": 1490300,
+    "sha256": "cd295662c1cb4e1d38e841946ba2db2b8c9c38e32b98dc7b7e97c0b13742fbdd",
+    "sha256_of": "original",
+    "working_copy": "1862_p289.jpg"
+  },
+  "text": "224 Verzeichniß der Häuser nach ihren Benennungen.\n\nUlrichskapelle, St. Rittergasse Nr. 3.\nUlrichskirchhöflein, St. Rittergasse Nr. 5.\nUnkeli, z. Sternengäßlein Nr. 33.\nUnkelin, z. Sternengäßlein Nr. 23.\nUnkelin, z. Hirschgäßlein Nr. 5.\nUrbanseck, St. Blumenrain Nr. 17.\nUristier, z. Weißegasse Nr. 26.\nUrsula, St. z. Schwanengasse Nr. 1.\nVenedig, z. (Freimaurerloge) Schlüsselbg. Nr. 3.\nVereinigung, z. Schneidergasse Nr. 10.\nVergnügen, z. Bäumleingasse Nr. 14.\nVigilanz. Stapfelberg Nr. 3.\nVigilanz, z. Freie Straße Nr. 21.\nViolenhof. St. Petersgraben Nr. 23.\nViolenhof. St. Petersgraben Nr. 21.\nViolenhof. St. Peterskirchplatz Nr. 9.\nVogel, z. Spalenvorstadt Nr. 39.\nVogelsang, z. Vogelsangweg Nr. 10.\nVogelsang, z. obern. Münsterberg Nr. 6.\nVorgasse, z. St. Petersgasse Nr. 5.\nWachholderbaum, z. Gerbergasse Nr. 21.\nWacker, z. Spalenberg Nr. 41.\nWächtershaus od. Wächterhof, z. St. Jo-\n  hann-Vorstadt, Nr. 43.\nWächtershof, z. St. Johann-Vorstadt Nr. 41.\nWändlein, z. Rümelinsplatz Nr. 8.\nWage, z. alten. Schwanengasse Nr. 12.\nWage, z. rothen. St. Petersberg Nr. 13.\nWaisenhaus. St. Theodorskirchplatz Nr. 7.\nWaisenhaus. Riehenthorstraße Nr. 4. 6. 8.\nWaldeck, z. Todtentanz Nr. 8.\nWaldeck, z. Greifengasse Nr. 1.\nWaldeck, z. kleinen. Gerbergasse Nr. 29.\nWaldshut, z. St. Leonhardsgraben Nr. 39.\nWaldshut, z. Heuberg Nr. 22.\nWaldshut, z. hintern. Rüdengäßlein Nr. 2.\nWaldshut, z. untern. Sägergäßlein Nr. 2.\nWandersmann, z. Karthausgäßlein Nr. 9.\nWarteck, z. Clarastraße Nr. 49.\nWartenberg, z. Spalenberg Nr. 48.\nWasenmeisterei, z. Hegenheimerstraße Nr. 33.\nWasserhaus, z. Bachlettenstraße Nr. 23.\nWebern, Zunft z. Steinenvorstadt Nr. 23.\nWeiberbad, z. Münzgäßlein Nr. 18.\nWeidenruthe, z. St. Petersberg Nr. 21.\nWeiher, z. Aeschenvorstadt Nr. 57.\nWeiler, z. hohen. St. Leonhardsgraben Nr. 42.\nWeinberg, z. Freie Straße Nr. 77.\nWeinleuten, Zunft z. Marktplatz Nr. 5.\nWeinsperg, z. Gerbergasse Nr. 67.\nWeinzollstätte, z. Bachlettenstraße Nr. 19.\nWeißenstein, z. Freie Straße Nr. 55.\nWeitnau, z. Greifengasse Nr. 27.\nWelt, z. Freie Straße Nr. 73.\nWelt, z. oberen, Freie Straße Nr. 75.\nWendelsdörfer-Hof. Rheinsprung Nr. 18.\nWendelsdörfer-Hof. St. Martinsgasse Nr. 3.\nWenkenberg. z. Gerbergasse Nr. 71.\nWertenberg, z. Steinenvorstadt Nr. 18.\n[spalte 2]\nWidder, z. weißen. Steinenvorstadt Nr. 2.\nWidder, z. schwarzen. Steinenvorstadt Nr. 4.\nWidder, z. weißen u. schwarzen. Hutgasse Nr. 19.\nWidder, z. kleinen. Klosterberg Nr. 9.\nWidderlin, z. Klosterberg Nr. 15.\nWidderlin, z. Klosterberg Nr. 11.\nWidderlin, z. kleinen. Klosterberg Nr. 25.\nWidderlin, z.obern. St.Elisabethenstraße Nr.20.\nWiesenbannwartswohnung. Horburgstr. Nr. 49.\nWildegg, z. Spalenberg Nr. 6.\nWildenstein, z. St. Johann-Vorstadt Nr. 13.\nWildenstein, z. ob. u. unt. Spalenberg Nr. 18.\nWildenmann, Gasthof z. Freie Straße Nr. 35.\nWind, z. Hutgasse Nr. 5.\nWind, z. blauen. Steinenthorstraße Nr. 25.\nWind, z. blauen. Hutgasse Nr. 3.\nWind, z. äußeren blau. Steinenthorstr. Nr. 27.\nWind, gelben u. goldenen Lamm z. Gerber-\n  gasse Nr. 2.\nWind, z. goldenen. Hutgasse Nr. 1.\nWind, z. hohen. Riehenthorstraße Nr. 22.\nWind, z. obern. St. Leonhardsberg Nr. 14.\nWind, z. stillen. Lindenberg Nr. 21.\nWindeck. St. Petersgasse Nr. 2.\nWindgesäß. Steinenthorstraße Nr. 13.\nWindhund, z. weißen. Gerbergasse Nr. 40.\nWinkeli, z. Aeschenvorstadt Nr. 24.\nWinkeli, z. St. Elisabethenstraße Nr. 5,\nWinkelin, z. Aeschenvorstadt Nr. 62.\nWinkelried, z. Riehenthorstraße Nr. 31.\nWittenberg, z. Stadthausgasse Nr. 12.\nWog, z. Aeschenvorstadt Nr. 37.\nWolf, z. Spalenberg Nr. 22.\nWolfsbrunnen. St. Petersberg Nr. 40.\nWolfsbrunnen, z. St. Petersberg Nr. 36.\nWorms, z. freien Stadt. Weiße Gasse Nr. 14.\nWühlen, z. Lindenberg Nr. 19.\nWürtemberg, z. Freie Straße Nr. 87.\nWürtembergerhof, z St. Alban-Graben Nr. 14.\nWürtemberger-Hof, z. hintern. Brunngäßlein\n  Nr. 11.\nYmp, z. Elsässerstraße Nr. 3.\nZank, z. St. Alban-Vorstadt Nr. 21.\nZedel, z. Webergasse Nr. 35.\nZedernhof, z. Riehenstraße Nr. 62.\nZeisig, z. Rümelinsplatz Nr. 13.\nZellenberg, z. Riehenthorstraße Nr. 21.\nZerkindenhof, (Hof z. Heggendorn.) Nadel-\n  berg Nr. 10.\nZeughaus. St. Petersgraben Nr. 44.\nZeughaus, großes. St. Petersplatz Nr. 1.\nZeugwartswohnung. St. Petersgraben Nr. 46.\nZiegelhof, z. Rheingasse Nr. 33.\nZiegelhof, d. Rheingasse Nr. 31.\nZiegelhof, z. Utengasse Nr. 30.\nZiegelmühle. Untere Rheingasse Nr. 19.\nZollgebäude. Hintere Bahnhofstraße Nr. 13.\nZosse, z. St. Alban-Vorstadt Nr. 98.\nZwinger, z. St. Elisabethenstraße Nr. 9.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 15561,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4436,
+    "lines": 120,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:10:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p289",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p289.jpg",
+      "bytes": 1490300,
+      "sha256": "cd295662c1cb4e1d38e841946ba2db2b8c9c38e32b98dc7b7e97c0b13742fbdd",
+      "sha256_of": "original",
+      "working_copy": "1862_p289.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:30+00:00"
+  }
+}

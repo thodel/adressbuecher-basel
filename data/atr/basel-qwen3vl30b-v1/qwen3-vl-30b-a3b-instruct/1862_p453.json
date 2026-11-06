@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p453",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p453.jpg",
+    "bytes": 1523990,
+    "sha256": "e91036f0e4867c9621795b2458cf62d46c3871518969f09e89e757cf05533c92",
+    "sha256_of": "original",
+    "working_copy": "1862_p453.jpg"
+  },
+  "text": "388\nVerzeichniß der Berufszarten.\nOppliger, Rud. Mostackerstrafe 52.\nOsiander, Joh. Aug. Brunn Gäflein 13.\nPuppikofer, Friedrich. Nadelberg 30.\nRink, Wilhelm. Bahnhofstrafe 31.\nKometzch, Gottfried. Hirschgäflein 15.\nRoth, Martin. Lindenberg 9.\nRothenhäusler, Alois. Spalenberg 48.\nSalade, Anton. Riechenthorstrafe 7.\nSchaßmann, Rud. St. Albanrheinweg 110.\nSchaub, J. G. Kanonengaffe 11.\nSchimpf, Niklaus. Todtentanz 4.\n— Sebastian. Schlißfelberg 3.\nSchmidt, Carl. St. Leonhards=Strafe 16.\nSchmidlin, Jakob. Sternengäflein 29.\nSchmied, Elias. Aeschenvorftadt 71.\nSchneider, Fried. Schneidergaffe 30.\n— J. J. Trillengäflein 1.\n— Rud. St. Clarahofweg 15.\nSchoop, Ulrich. Gerbergaffe 70.\nSchwarz, Leonhard. Rheingaffe 40.\nSchweizer, Nik. Spalenvorftadt 18.\nSenn, Friedr. St. Peters=Gaffe 9.\nSiegriß, Carl. Malzgaffe 7.\nSteinmann, F. Friedrich. Spalenvorft. 22.\nStoll, Fritz Johannes. Spitalstrafe 7.\nSütterlin, Friedrich. St. Alban=Vorft. 72.\nSutter, Rudolph. St. Andreasplaz 14.\nTanner, Jakob. Rebaffe 33.\nThommen, Heinrich. Ochfengaffe 8.\nUrech, Jacob. Brunn Gäflein 4.\nVonBraun, Simon. Hammerstrafe 44.\nWagner, Friedrich. Brüdcliweg 7.\nWassermann, Andr. St. Peters=Berq 38.\nWeitnauer, Friedrich. Birfigstrafe 15.\nWelti, Carl Gottfried. Kohlenberggaffe 15.\nWiedmer, Johann. Aeschenvorftadt 72.\nWilhelm, Samuel. Klosterberg 4.\nWuchner, Peter. Rheingaffe 19.\nWürt=Hilgin, Leonhard. Außtrafe 32.\nZumkehr, Friedr. Grenzacher=Strafe 54.\nSchriftgießer.\nHaas'che Gießerei. Mostackerstr. 25.\nSchöpferin.\nObrist=Haas, Wb. Barb. Riechenthorstrafe 3.\nSchuhmacher.\nBader, Philipp. St. Johann=Vorftadt 71.\nBär, Conrad. Spalenberg 40.\nBonnct, Jöhs. Sam. Heuberg 46.\nBrand, Carl Friedr. Schnabelgäflein 11.\nBrand, Heinrich. Davidsgaffe 1.\nBretfcher, Jakob. Weife Gaffe 2.\nBürgin, J. J. Blumcrrain 30.\nBurchhardt, Sam. Schafgäflein 14.\nChrift, Christian. St. Leonhards=Stapfel-\nberg 5.\nChrift, Ludwig. Imbergäflein 10.\nDunkel, Alexander. St. Peters=Berq 1.\nEglin, Jöhs. Aeschenvorftadt 24.\nElsner, Jöhs. St. Peters=Gaffe 4.\nErb=Riibler, Wb. M. Th. Spalenberg 7.\nEuler, Rudolf. Rheingaffe 69.\nFeierabend, Wb. Serena. Aeschenvorftadt 68.\nFlubacher, J. J. Trillengäflein 6.\nFülleman, Peter Jakob. Utengaffe 39.\nFüllenmann, Abrab. Rebaffe 40.\nGraf, Anton. Schnabelgäflein 12.\nGrether, J. J. Spalenberg 12.\nGrimm, Lukas Rud. Nadelberg 41.\nGsell, Rudolf. Kronengaffe 8.\nGuggenbühl, Heinrich. St. Peters=Berq 9.\nHäberlin, Franz. Trillengäflein 5.\nHägler, Friedrich. Freie Strafe 47.\nHafner, J. J. Rheingaffe 67.\nHaufer, Jakob. Klosterberg 31.\nHill, Jöhs. Rud. Miinfterberg 15.\nHofch, Lukas. St. Johann=Vorftadt 59.\nHuber, Jöhs. Heinrich. Rheingaffe 65.\nImHof, Friedrich. Malzgaffe 3.\nKappeler, J. J. St. Leonhards=Stapfel-\nberg 2.\nKeller, Mathias. Utengaffe 56.\nKiflig, Samuel. Spalenberg 34.\nKlaiber, Andreas. Miinzgäflein 3.\nKramer, Jöhs. Klimelinsplaz 9.\nKübler, Rudolf. Steinenvorftadt 27.\nKühner, Georg Bernh. Rheingaffe 18.\nKüftler, J. J. Hutgaffe 4.\nLang, Samuel. Kirchgaffe 9.\nLangmeffer, Wilhelm. Plazgäflein 7.\nLeuener, Christian. Rebaffe 31.\nLeutze=Ries, Wb. Kofthofgaffe 13.\nLittiger, Gregor. Imbergäflein 19.\nMackler, Jöhs. Friedr. Untere Rebaffe 19.\nMangold, Jöhs. Wilh. Gerbergäflein 8.\nMazinger, Benedict. Weife Gaffe 6.\nMeyerhofer, J. J. Streitgaffe 13.\nMorf, Heinrich. St. Johann=Vorftadt 63.\nMoser, Jakob. Rebaffe 45.\nMüller, Rudolf. Imbergäflein 25.\nNovack, Heinrich. Badergäflein 1.\nOppliger, Rudolf. Utengaffe 56.\nPeyer, Jöhs. Spalenberg 41.\nPfeiffer, Jakob. St. Andreasplaz 11.\nRoth, Bernhardt, Jöhn. St. Johann=Vor-\nftadt 4.\nSchar, Andreas. St. Peters=Berq 37.\nSchärer, Jofef. St. Leonhards=Berq 2.\nSchärer, A. M. Pfluggäflein 14.\nSchäublin, J. J. Gerbergaffe 36.\nSchaub, Jakob. Steinenvorftadt 15.\nSchaub, Jöhs. Math. Gerbergaffe 72.\nScheffmacher, Jöhs. Hint. Bahnhofstrafe 50.\nSchellmann, Franz. Aeschenvorftadt 12.\nSchmid, Jofef. Rheingaffe 26.\nSchneebcrger, Rudolf. Badergäflein 12.\nSchneider, Samuel. Barfikerplaz 12.\nSchumacher, Gottl. Friedr. Webergaffe 22.\nSchweichardt, Em. Friedr. Heuberg 15.\nStalder, Johann. Miithlenberg 21.\nTschudi, Heinrich. Todtengäflein 5.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11059,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4071,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:23:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p453",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p453.jpg",
+      "bytes": 1523990,
+      "sha256": "e91036f0e4867c9621795b2458cf62d46c3871518969f09e89e757cf05533c92",
+      "sha256_of": "original",
+      "working_copy": "1862_p453.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:23:47+00:00"
+  }
+}

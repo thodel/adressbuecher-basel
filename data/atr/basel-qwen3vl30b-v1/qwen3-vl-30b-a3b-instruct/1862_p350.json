@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p350",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p350.jpg",
+    "bytes": 1618102,
+    "sha256": "85114f72f2c1fb93e838ace411ff7724403af87ef054b372aa14b2d0408e8553",
+    "sha256_of": "original",
+    "working_copy": "1862_p350.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 285\nGonin=Linder, Wb. Emilia, Part. Nadelberg 3.\nGonfer=Schäufelin, Joh. Jak., Müller. Klingenthal 5.\nGoppelsröder, Christof Friedrich, Dr. Phil., öffentlicher Chemiker. Freie Straße 56.\n— =von Speyr, G. Friedrich, Kaufmann. Freie Straße 56.\nGoskweiler=Jenny, Andreas Heinrich, Handelscommis. Ochsen-gasse 3.\n— =Steiner, Rudolf, Seidenfärbler. Greifengasse 8.\n— =Stoll, Conrad, Efelhalter. Heuberg 17.\nGoskwiler=Brög, Ludw., Magazinier. Schützengasse 12.\nGraber=Alenipach, Ed., Posamenter. Steinen-thorstraße 38.\n— Gyfin, Jakob, Fabrikarbeiter. Mattweg 16.\n— Marie, Taglöhnerin. Greifengasse 26.\nGräf=Fäsch, Phil., Coiffeur. Gerbergasse 53.\nGräflin, Friedr., Taglöhner. Koßhoigasse 13.\n— Salomea, Glätterin. St. Peters-Berg 7.\nGrämlisch=Roth, Jak., Steinhauer-geselle. Freie Straße 67.\nGrünacher=Hans, Fridolin, Lehrenmann. Mis-fionsstraße 66.\nGräslin=Geuter, Joh. Georg, Zimmermann. Rappoltshof 5.\n— =Grether, Jakob, Fuhrhalter. Hammerstraße 53.\n— =Jörin, Joh. Georg, Zimmerm. Fabrikstraße 9.\nGraf=Alt, Joh. Jak., Bahnwart. St. Alban-Vorstadt 29.\n— =Börlin, Rudolf, Zimmermann. Gellertstraße 52.\n— =Hefendorn, Joh., Eisenbahnangestellter. Gerbergasse 68.\n— =Hodel, Wb. Barbara , Taglöhnerin. St. Peters-Gasse 10.\n— =Ludwig, Josef, Orgelbauer. Steinen-thorstraße 8.\n— =Portmann, Ant., Schuhmacher. Schnabelgäßlein 12.\n— =Streicher, Joh. Jak., Maler. Streitgasse 20.\n— =Winter, Rud., Magazin-knecht. Ochsen-gasse 6.\nGraf=Lips, Wb. Barb., Part. Weiße Gasse 6.\nGrauwiler=Albiez, Joh., Posamenter. Imbergäßlein 20.\n— Jakob, Metzger. Aeschenvorstadt 49.\n— Joh. Caspar, Posamenter. Hammerstraße 98.\n— =Lipp, Christian, Posam. Webergasse 23.\nGreiffenberg=Münch, Wb. Sophia, Rentiere. St. Leonhards-Straße 1.\nGreiner=Zunghäni, Joh. Jakob, Taglöhner. Münzgäßlein 5.\nGrell, Mathias, Graveur. Mittl. Straße 40.\nGremmer=Mokovitzki, Sophie, Johntöchin. Untere Reb-gasse 14.\nGretener=Jäggi, Jakob, Bett- u. Federnhdlg. Gerbergasse 41.\nGrether, Anna Catharina, Nudelmacherin. Münsterberg 8.\n— Catharina, Kostgeberin. Spiegelgasse 10.\n— =Görtich, Joh. Jakob, Schuhmacher. Spalenberg 12.\n— =Gresbach, Wilhelm, Zimmergesell. St. Johann-Vorstadt 11.\n— =Huber, Wb. Catharina, Taglöhner. Mittlere Straße 28.\n— F. u. Comp., Band- u. Modehandlung. Aeschengraben 27.\n— =Maler, Math., Rentier. Kaufhausgasse 7.\n— =Scholer, F., Kaufm. Aeschengraben 27.\n— =Trösch, Friedrich, Conditor. Greifengasse 39.\n— =Widmayer, Ernst Friedrich, Commis. Nadelberg 39.\nGrethner, Babette, Schneiderin. St. Peterskirchplatz 14.\nGreuter=Engel, Friedr., Materialist. Steinen-thorstraße 39.\nGreutert=Gisling, Joh., Taglöhner. Sternengäßlein 9.\nGrey, Anna Maria, Strickerin. St. Petersgasse 44.\nGrieder=Bollier, Melch., Posamenter. Hammerstraße 96.\n— =Buek, Dan., Posamenter. Burgweg 7.\n— =Dalang, Friedrich, Posamenter. Gellertstraße 52.\n— =Elmer, Daniel, Fabrikarbeiter. Däsen-gasse 12.\n— =Fridlin, Joh. Jak., Taglöhner. Spalenberg 62.\n— =Hausmann, Daniel, Posamenter. Gemberg 8.\n— =Herzer, Jakob, Sattler. Spalenberg 15.\n— =Husschmied, Joh. Rudolf, Posamenter. Untere Rheingasse 9.\n— =Hug, Friedr., Victualienhändler. Spalenberg 34.\n— Johann, Lehrenbeständer. Gundoldingen Straße 21.\n— =Keller, Joh., Posamenter. Schafgäßl. 8.\n— =Meyer, Posamenter. Rheingasse 65.\n— =Kaes, Gottlieb, Musterweber. Davidsgasse 1.\n— =Kickenbach, Joh., Schreiner. Gellertstraße 52.\n— =Schaub, Jak., Biqueur. Sporengasse 14.\nGriesbaum, Baptist, Steinhauer. Münzgäßlein 20.\nGrieshaber, Cath., Pflegerin. Reb-gasse 42.\n— =Sager, Tobias, Zimmergeselle. Uten-gasse 3.\n— Ursula Margar., Zettlerin. Kirchgasse 1.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9262,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3578,
+    "lines": 71,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:07:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p350",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p350.jpg",
+      "bytes": 1618102,
+      "sha256": "85114f72f2c1fb93e838ace411ff7724403af87ef054b372aa14b2d0408e8553",
+      "sha256_of": "original",
+      "working_copy": "1862_p350.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:07:24+00:00"
+  }
+}

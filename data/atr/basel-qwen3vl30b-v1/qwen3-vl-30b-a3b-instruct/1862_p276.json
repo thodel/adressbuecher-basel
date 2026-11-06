@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p276",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p276.jpg",
+    "bytes": 1508951,
+    "sha256": "dedd6f6a58d3cca11aac0feb813c4b16e18f43efd298f34f851cb16fcccfc192",
+    "sha256_of": "original",
+    "working_copy": "1862_p276.jpg"
+  },
+  "text": "Verzeichniss der Häuser nach ihren Benennungen.\n\nAbel, z. Freie Straße Nr. 47.\nAbendstern, z. Seevogelstraße Nr. 11.\nAbt, z. Unterer Heuberg Nr. 5. 7. 9.\nAbwart, zur. Riehenthorfstraße Nr. 17.\nAdler, z. grünen. Rebgaſse Nr. 21.\nAdler, z. rothen. Spalenberg Nr. 1.\nAdler, z. rothen. Müinzgäklein Nr. 4.\nAdler, z. schwarzen. Spalenberg Nr. 3.\nAdler, z. schwarzen. Ochfengasse Nr. 23.\nAdler, z. schwarzen. Steinenvorſtadt Nr. 41.\nAdler, z. schwarzen. Webergasse Nr. 10.\nAdler, z. weißen. Barfüßerplatz Nr. 19.\nAdler, z. weißen. Lohnhofgäklein Nr. 2.\nAerger, z. Gerbergäklein Nr. 6.\nAffen, z. Sporengasse Nr. 8.\nAgststein, z. Sporengasse Nr. 7.\nAgststein, z. St. Martinsgäklein Nr. 1.\nAgststein, z. Schifflände Nr. 10.\nSt. Albankirche. St. Albankirchrain Nr. 11.\nSt. Albankloster. Mühlenberg Nr. 20. 22. 24.\nSt. Albanſchwibbogen. Kittergasse Nr. 26.\nSt. Albanthor. St. Alban-Vorſtadt Nr. 101.\nAllment, z. oberen. Spalenberg Nr. 15.\nAllment, z. untern. Spalenberg Nr. 13.\nAllmenthäuschen. Bäumlinhofweg Nr. 5.\nAlmofenmühle, z. St. Alban-Thal Nr. 23.\nAlmofenschaffnei. Radelberg Nr. 23.\nAltane, z. Koshofgaſse Nr. 12.\nAltane, z. St. Petersgraben Nr. 55.\nAltſirch, z. Blumenrain Nr. 23.\nAlumneum. Neue Vorſtadt Nr. 17.\nAndlauerhof. Münsterplatz Nr. 17.\nAndlauerhof. St. Petersgaſse Nr. 38.\nAndlauerhof. St. Petersgaſse Nr. 36.\nSt. Andreas, z. St. Andreasplatz Nr. 15.\nSt. Andreas, z. Steinenthorſtrasse Nr. 22.\nAnker, z. Blumenrain Nr. 14.\nAnker, z. Stadthausgaſse Nr. 17.\nAnker, z. Rheingaſse Nr. 52.\nAntistitium. Münsterhof Nr. 2.\nSt. Antonierhof (Klösterlein). St. Johann-Vor-\nſtadt Nr. 33.\nSt. Antonierhof, Gerberei z. Utengasse Nr. 34.\nSt. Antonierhof, z. innern. St. Johann-Vor-\nſtadt Nr. 31.\nSt. Antonierhof, oberer. Rheingaſse Nr. 43.\nSt. Antonierhof, unterer. Rheingaſse Nr. 39.\nApotheke, z. goldenen. Riedengäklein Nr. 1.\nAppenzell, z. Freie Straße Nr. 1.\nArau, z. Heuberg Nr. 12.\nArau, z. St. Leonhardsgraben Nr. 29.\nArm, z. Sporengasse Nr. 9.\nArm, z. St. Martinsgäklein Nr. 2.\nAst, z. dürren. Rheingaſse Nr. 84.\nAihl, z. St. Leonhardsberg Nr. 16.\nAttiswyl, z. Spalenberg Nr. 37.\nAugenweide, z. Rheinsprung Nr. 20.\nAugenweide, z. kleinen. Rheinsprung Nr. 22.\nAugenweid, z. kleinen. Riehenthorfstraße Nr. 26.\nAugenweide, z. kleinen. Rheingaſse Nr. 34.\nAugustinerhof, z. Augustinergaſse Nr. 19.\nAusficht, z. St. Elisabethenstraße Nr. 58.\nAusficht, z. schönen. Grenzacherstraße Nr. 129.\nBadkosen, z. Lindenberg Nr. 6.\nBad, z. alten. Badergäklein Nr. 1.\nBad, z. alten, Gerbergäklein Nr. 17.\nBad, d. alte. Gerbergasse Nr. 48.\nBadanftalt. Ochfengasse Nr. 13.\nBadenhof, z. Utengasse Nr. 35. 37.\nBadenhof, z. Utengasse Nr. 33.\nBaderbehausung. Barfüßerplatz Nr. 6.\nBären, z. rothen. Freie Straße Nr. 28.\nBären, z. schwarzen. Aeschenvorſtadt Nr. 41.\nBären, z. schwarzen. Aeschenvorſtadt Nr. 67.\nBären, Gasthof z. schwarzen. Rheingaſse Nr. 17.\nBären, Hinterh. z. schwarzen. Utengasse Nr. 14.\nBären, z. weißen. Schliisselberg Nr. 5.\nBären, z. weißen. Schliisselberg Nr. 9.\nBärenfels, z. kleinen. St. Elisabethenstraße\nNr. 26.\nBärenfels, z. St. Elisabethenstraße Nr. 22.\nBärenfelsershof. St. Petersgraben Nr. 35 u. 37.\nBärenfelsershof. St. Martinsgaſse Nr. 18.\nBärenloch, z. Münsterberg Nr. 40.\nBäumlihof, z. Riehenstraße Nr. 94.\nBahnhof. Centralbahnhstraße Nr. 10.\nBahnhof, badischer. Bahnhofstraße Nr. 4.\nBahnhof, badischer. Bahnhofstraße Nr. 6.\nBahnhof, badischer. Bahnhofstraße Nr. 8.\nBahnhof, badischer. Bahnhofstraße Nr. 10.\n14*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9758,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3425,
+    "lines": 92,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:54:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p276",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p276.jpg",
+      "bytes": 1508951,
+      "sha256": "dedd6f6a58d3cca11aac0feb813c4b16e18f43efd298f34f851cb16fcccfc192",
+      "sha256_of": "original",
+      "working_copy": "1862_p276.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:24+00:00"
+  }
+}

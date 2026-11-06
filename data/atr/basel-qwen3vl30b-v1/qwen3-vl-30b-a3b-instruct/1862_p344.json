@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p344",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p344.jpg",
+    "bytes": 1633773,
+    "sha256": "06b9c9786369d714acf282befc20820f32bc5976a91ee3ec776ec3d86fbc43a0",
+    "sha256_of": "original",
+    "working_copy": "1862_p344.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 279\nFrey-Hoze, Daniel, Zollbeamter. Steinen=thorstraße 30.\n— Jakob, Dr. Grenzacher Straße 52.\n— Jak., Philosoph. St. Clara-Graben 11.\n— Joh., Fabrikarb. Steinenbachgäßl. 38.\n— Joh. Jak., Möbelhändler. Spalenberg 12.\n— =Kalt, Wb., Bandpukerln. Kohlenberg 5.\n— =Raufmann, Franz, Schriftseker. Webergasse 36.\n— =Keller, Cour., Landjäger. Fischmarkt 13.\n— =Laudier, Jeremias, Knopfma cher und Weinsticher. St. Peters-Berg 13.\n— =Lithy, Carl, Fabrikausseher. St. Johann=Vorstadt 20.\n— =Lithy, Ulrich, Zimmermann. Freie Straße 86.\n— =Mähr, Jean, Geschäftsmann. Untere Reb gaffe 1.\n— =Marbach, Beat. Hercules, Schneider. Webergasse 13.\n— Maria, Schneiderin. St. Johann-Vorstadt 65.\n— =Miithlefluh, Jos., Zimmermeister. Grenzacher-Straße 37.\n— =Müller, Georg, Posamenter. Herrenmattweg 22.\n— =Obrist, Wb. Maria, Fabrikarbeiterin. Kiehenthofstraße 3.\n— =Oswald, Steinhauerparlier. Badergäßlein 14.\n— =Pfister, Joh. Ulrich, Kostgeber. Nebgasse 29.\n— =Reiser, Jakob Melchior, Courier und Portier. Spitalstraße 11.\n— =Rudin, Rud., Fabrikarbeiter. Schnabelgäßlein 5.\n— =Knetzch, Christian, Polizeiwachtmeister. Steinenthorstraße 42.\n— =Kryff, Peter Hans, Ausläufer. Grünpfahlgäßlein 8.\n— =Salathe, Adolf, Kliser und Fassinner. St. Andreasplatz 8.\n— =Sandreuter, Jakob, Desfinateur. Heuberg 4.\n— =Schäublin, Ulrich, Hausknecht. Münsterberg 13.\n— =Schmid, Wb. Margaretha, Part. Heuberg 13.\n— =Schram, Jakob, Landjägerwachtmeister. Dchjengasse 18.\n— =Schupple, Wb. Barb., Krankenwärterin. Rheingasse 69.\n— =Schweizer, Barbara, Taglöhnerin. St. Andreasplatz 16.\n— =Stähelin, Wb. Dorothea, Rentiere. Augustinergasse 8.\n— =Stückelberger, Joh. Rudolf, Senfal. St. Alban-Vorstadt 40.\n— =Suter, Hans Jak., Waffenknecht. Hagenheimer Straße 33.\nFrey-Thommen, Joh. Lucas, Bäcker und Polizeigerichtswaibel. Webergasse 13.\n— =Thurneyfen u. Chrift, Zettlerei und Winderei. Aeschengraben 25.\n— =Thurneyfen u. Chrift, Bandfabrilation. Rittergaffe 12.\n— Uhr., Musterweber. St. Johann-Vorft. 11.\n— =Ulrich, Heinrich, Kutscher. St. Alban=Thal 48.\n— Victor, Straßenwart. Trillengäßlein 3.\n— =Vögelin, Wb. Margaretha, Wascherin. Rheingaffe 19.\n— =Weitnauer, Friedr., Baumeister. Neue Vorstadt 11.\n— Wb., Handschuhwascherin. Kohlenberg 15.\n— =Wirz, Lucas, Fabrikarb. Theaterstraße 6.\nFreyburger, Salomea, Part. Untere Reb gaffe 20.\n— =Salathé, Wb. Elisabeth, Trödlerin. Sternengäßlein 4.\nFreyler, Theodor, Desfinateur. Aeschen vorstadt 48.\nFreyvogel=Imhof, Friedrich, Bandfabrikant. Mühlenberg 20. Firma Freyvogel u. Heusler.\n— =Rampferger,Ernst,Agent.FreieStraße41. Firma E. Freyvogel.\nFric, Joh., Commis. St. Johann-Vorft. 2.\n— =Riedtmann, Anna Cath., Modewaarenhandlung. Heuberg 40.\n— =Witsch, Joh., Gärtner. Hardstraße 70.\nFricke, Anna Maria, Kostgeb. Schafgäßl. 8.\n— =Siedemann, Eman., Musiker. Steinen vorstadt 51.\n— Joh., Fabrikarbeiter. Heuberg 21.\n— =Miche, Heinrich, Buchdrucker. Imbergäßlein 23.\n— =Harring, Ludwig. Austraße 48.\n— =Müller, Wilhelm, Eisenbahnarbeiter. Kohlenberg 5.\n— =Pfister, Gottfried, Kaufhausarbeiter. Gerbergäßlein 8.\n— =Wespi, Joh. Jakob, Seidenfärbergeselle. Utengasse 10.\nFriedli=Fleury, Emanuel, Eisenbahnbeamter. St. Johann-Vorstadt 18.\n— Jakob, Spedter. Weiße Gasse 3.\nFriedlin=Bokhardt, Joh. Jak., Commis. Hintere Spitalgasse 9.\n— Chr., Taglöhner u. Grabmacher. Klosterberg 21.\nFriedrich, Daniel, Kaufmann. St. Leonhards Straße 28.\n— =Hug, Leonhard, Baumeister. Aeschen graben 11.\n— =Knapp, Joh. Jakob, Unternehmer von Erdarbeiten u. Entleerungsübernehmer. Schützenmattstraße 37.\n— Rosina, Lehrerin. Kiehenthofstraße 5.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9223,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3561,
+    "lines": 68,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:06:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p344",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p344.jpg",
+      "bytes": 1633773,
+      "sha256": "06b9c9786369d714acf282befc20820f32bc5976a91ee3ec776ec3d86fbc43a0",
+      "sha256_of": "original",
+      "working_copy": "1862_p344.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:28+00:00"
+  }
+}

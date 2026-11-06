@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p122",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p122.jpg",
+    "bytes": 1432038,
+    "sha256": "03fd0aefad9f971d1b769533ff475e5b6efcf2dc9623072e30ee95083e4bee0d",
+    "sha256_of": "original",
+    "working_copy": "1862_p122.jpg"
+  },
+  "text": "Gerbergäßl. Grünpfahlgäßlein. Güterstraße. Gundold.-Straße. 57\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n37 | VI. | 672 | zur niedern Hoggen. | Stöcklin-Bisegger, Johannes.\n  Stöcklin-Bisegger, Joh., Handelsmann.\n39 | VI. | 673 | | Schoop-Zepf, Ulrich.\n40 | VI. | 676 | | Brugger-Schwarz, Conrad.\n  Brugger-Schwarz, C., Posamenter.\n41 | VI. | 674 | zum Schleifstein. | Hodel-Böninger, Wb. A. Maria.\n42 | VI. | 697 | zum rothen Thurm. | Koch-Kuster, Johannes.\n  Koch-Kuster, Johannes, Buchdrucker.\n44 | VI. | 698 | | Meyer-Haury, Niclaus.\n  Meyer-Haury, Niklaus, Färber.\n\nGrünpfahlgäßlein.\n\n1 | VI. | 623 | Judenschule. | Bucherer-Parmentier, Wb. Salome.\n  Bucherer-Parmentier, Wb. S., Spezereih.\n  Firma J. G. Oberriedt.\n  Reinbold, Theodor, Kaufmann.\n  Spahr, Daniel, Kaufmann.\n2 | VI. | 1652 | zum Hammeneck. | Roth-Georg, Rudolf.\n  Bürgin-Georg, Wb. Mar. Cath., Modiste.\n4 | VI. | 1692 | | Schmitt, Carolina.\n  Kottmann-Bischoff, Conr. Fried., Bierbr.\n  Egli-Hausammann, Wb. Maria, Back-\n  waarenhandlung.\n5 | VI. | 622 | zum kl. Mühleſtein. | Reuschwander-Hurth, Jakob.\n  Reuschwander-Hurth, Jakob, Wirth.\n6 | VI. | 1691 | zum grünen Pfahl. | Schwander-Schneckenburger, Sam.\n  Schwander-Schneckenburger, S., Schloss.\n8 | VI. | 1690 | zum Stollenberg. | Gaßler-Theodor, Leonz.\n  Gaßler-Theodor, Leonz, Hafner.\n\nGüterstraße.\n\n21 | III. | | Lagerhaus. | Schweizerische Eidgenossenschaft.\n23 | III. | | id. | Kaufhauscommission.\n25 | III. | | id. | Dieselbe.\n\nGundoldinger-Straße.\n\n2 | IV. | 238 g | | Ostertag-von Speyr, Albert, Dr.\n4 | IV. | 238 | | Ostertag-von Speyr, Albert, Dr.\n  Von Brunn-Von Speyr, Wb. Elisab., Part.\n6 | IV. | 238 d | Lagerhaus. | Ostertag-von Speyr, Albert, Dr.\n  Saner, Anton, Lehenbeständer.\n8 | IV. | 239 | z. mit. Gundoldingen | Spitalpflegamt.\n  Thommen-Thommen, Joh., Landwirth.\n10 | IV. | 239 d | | Spitalpflegamt.\n  AWengen, Johannes, Kunstmaler.\n12 | IV. | 240 | zum Baumgarten. | Spitalpflegamt.\n  Meyer, H., Particulier.\n14 | IV. | 241 | | Spitalpflegamt.\n  Buser-Schwander, Hans, Lehenbeständer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10021,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2098,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p122",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p122.jpg",
+      "bytes": 1432038,
+      "sha256": "03fd0aefad9f971d1b769533ff475e5b6efcf2dc9623072e30ee95083e4bee0d",
+      "sha256_of": "original",
+      "working_copy": "1862_p122.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:29+00:00"
+  }
+}

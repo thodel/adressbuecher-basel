@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p397",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p397.jpg",
+    "bytes": 1403642,
+    "sha256": "27a740a0ce8a5454ec0ccbac48b628b0e62253484ed6a032943f0dd8eac4f81d",
+    "sha256_of": "original",
+    "working_copy": "1862_p397.jpg"
+  },
+  "text": "332\nVerzeichniß der Bürger und Einwohner.\nRumpf, Joh. Bernh., Med. et Chir. Dr. Stadthausgasse 18.\n— =Salathé, Carl, Postcommis. Gerbergasse 18.\n— =Schellenberg, Carl Christian, Fabrikant von feidenen Unterkleidern. Schützenmattstraße 11.\n— Sujanna, Glätterin. Sattelgasse 3.\nRupper, Joh., Chef des eidg. Grenzdienstes. Schützenmattstraße 10.\nRupplin-Brotbeck, Eman., Bäcker. Spalenvorstadt 37.\nRuprecht-Hartdorn, Stefan, Taglöhner. Rheingasse 63.\nRusch, Gabriel, Posamenter. Bei der Wiesen- schanze 4.\nRus-Jetter, Wb. Cath., Wascherin. Teichgässlein 7.\nRusenberger-Wegmann, Joh., Milchhändler. Schnabelgässlein 15.\nRutishauser, Joh., Griefer. Webergasse 33.\nRutschmann-Berlinger, August, Mechaniker. Rheingasse 22.\nRych-Ortlieb, Sebast., Posamenter. Steinen- vorstadt 50.\n— =Widmer, Wb. Cath., Lehensfrau. Elsässer- Straße 24.\nRychner-Bemmler, Carl, Architekt. Schützen- mattstraße 7.\nRyff, Heinr., Seidenfärbergeselle. Utengasse 38.\n— =Linfin, Gotthardt, Seidenfärbergeselle. Hintere Bahnhofstraße 50.\n— Marie, Kostgeberin. St. Peters-Berg 1.\nRyffel, Reinh., Kaufmann. St. Alban-Vorstadt 102.\nRyhiner-Bischoff, Carl, Kaufmann. Herbergsgasse 7.\n— =Bischoff, Sam., Rentier. St. Johann- Vorstadt 5.\n— Carl, Kaufmann. Neichenvorstadt 4.\n— =Hermann, Heinr., Part. Rittergasse 17.\n— =Heusler, Wilh., Floretspinnerei. Kaufhausgasse 2.\n— Julius, Kaufmann. Neichenvorstadt 5.\n— Julius u. Comp. Hintere Bahnhofstr. 12.\n— =Menger, Ed., Stadtrath. St. Jakobs- Straße 13.\n— =Merian, Valeria, Rentiere. Neichenvorstadt 4.\n— =Schönauer, Andr., Rentier. Blumen- rain 5.\n— =Streckerfen, Wb. Anna Paulina, Part. Rittergasse 17.\n— u. Söhne, Floretspinnerei. Rappoltschhof 9.\n— =Werthemann, Wb. Susanna, Rentiere. Neichenvorstadt 5.\nRytter-Viithi, Cath., Wascherin. Imbergässli.26.\nSacher, Adolf, Schuhmacher. Rümelinsplatz 2.\n— Bernhard, Eisenbahnbeamter. Gemberg 8.\nSacher-Gaß, Wb. Christina, Part. Utengasse 46.\n— Josef, Cigarrenhndlg. Barfüsserplatz 3.\n— =Kyburz, Josef, Postangestellter. Gerbergasse 64.\n— =Slitterlin, Anton, Ellenwaarenhandlg. Barfüsserplatz 34.\n— =Bögelin, Augustin, Tabakmittler. Untere Rheingasse 19.\n— =Bogt, Wb. Magdal., Wascherin. Riechenteichweg 16.\n— =Wirz, Roman, Kondukteur. Schneidergasse 8.\nSäng-Hellstern, Hermann, Lumpenhändler. Spalenberg 56.\nSänger-Ruppinger, Johs., Magazinier. Weiße Gasse 3.\n— =Wöhrer, Jacob Friedr., Fabrikarbeiter. Steinenthorstraße 3.\nSäuberlin-Fritz, Salomon, Posamenter und Kostgeber. Rebgasse 29.\n— =Hägelin, Wb. Susanna Barbara, Part. Heuberg 19.\n— =Stin, Joh. Rudolf, Posamenter. Greifengasse 22.\n— =Klausfelder, Hieronimus, Brieftträger. Heuberg 19.\n— =Schwertfeger, Joh. Jak., Taglöhner. St. Leonhards-Berg 3.\nSagnol-Erlacher, Jean Marie, Appreteur. Hammerstraße 17.\n— =Meiller, Wb. Jeanne Marie, Commerce de spiritueux et distillerie à vapeur. Hammerstraße 17.\nSaladé-Rothenberger, Anton, Schreiner u. Holzhändler. Riechenthorstraße 7.\nSaladin, Anna Maria, Obsthändlerin. Bäumleinhofweg 10.\n— =Frey, Johs., Criminalgerichtsweibel. Hutgasse 10.\n— Johannes. Hammerstraße 46.\n— Josef, Posamenter. Greifengasse 22.\n— =Raifer, Jakob, Schuhmacher. Gerbergasse 69.\nSalathé-Bärwart, Hieronimus, Dessinateur. Bäumleingasse 12.\n— =Bokhardt, Joh., Kaufmann. Heuberg 8.\nSalathe, Christof, Part. Karthausgässlein 3.\n— Emanuel, Kiifer. Schützenmattstraße 6.\n— =Gesler, Jakob, Tapezierer. Bäumleingasse 12.\n— =Haupt, Wb. Elisabeth, Wirthschaft. Rheingasse 15.\n— =Heid, Schmied. Breite Straße 33.\n— =Hunziker, J. G., Metzger. Gerbergasse 18.\n— Jacob, Lehensbeständer. Flybechstraße 16.\n— Josef, Lehennann. Riehen-Straße 94.\n— =Keller, Abrah., Kaufhausarbeiter. Untere Rebgasse 14.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9962,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3615,
+    "lines": 71,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:14:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p397",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p397.jpg",
+      "bytes": 1403642,
+      "sha256": "27a740a0ce8a5454ec0ccbac48b628b0e62253484ed6a032943f0dd8eac4f81d",
+      "sha256_of": "original",
+      "working_copy": "1862_p397.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:14:43+00:00"
+  }
+}

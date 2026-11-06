@@ -1,0 +1,53 @@
+Centralbahnplatz. Centralbahnstraße. Im Davidsboden. 33
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Centralbahnplatz.
+4 | III. | 204 A | | Stouder, Joseph.
+  Stouder, Joseph, Wirth.
+5 | III. | 203 | | Recher, Joh. Jakob.
+  Recher, Joh. Jak., Café Restaurant.
+  Schütz-Hindenlang, Joh. Jak., Negociant.
+  Walcher-Brunner, Markus, Particulier.
+6 | III. | 202 | | Schirach-Hosacker, Wilhelm.
+  Schirach-Hosacker, Wilh., Restaurateur.
+  Stänz-Simmen, Joh. Rud., Ingenieur.
+10 | III. | 205 A | | Thommen-Clotu, Louis.
+  Thommen-Clotu, Ludwig, Küfer, Wein- und Essighändler.
+  Schmid-Hottensen, Eduard, Handelsreis.
+11 | III. | 205 | | Sartorius, Friedrich.
+  Sartorius, Friedrich, Baumeister.
+12 | III. | 202 F | | Euler-Brunner, Abraham.
+  Lendorf-Berri, Carl, Architekt.
+  Steinbrüchel-Frei, Wb.
+13 | III. | 202 E | | Euler-Brunner, Abraham.
+  Euler-Brunner, Abraham, Commis.
+  Uebelin-Geßler, Karl, Kaufmann.
+  Hellmann-Eisenlohr, Clara, Part.
+
+Centralbahnstraße.
+5 | III. | 198 | | Centralbahn-Gesellschaft.
+  Wencker-Houghues, Josef, Bahnhofsvorstand.
+  Durand-Wecher, Carl Sous-chef de gare.
+7 | III. | 198 A | | Simon, Franz Joseph.
+10 | III. | 199 | Bahnhof. | Centralbahn-Gesellschaft.
+  Bucher-Hoffmann, Fried. Portier.
+  Huß, Ch. Sous-chef de gare.
+  Braff, Victor, Insp. der Ostbahn.
+
+Im Davidsboden.
+1 | I. | 22 | | Bader-Rudin, Jakob.
+  Bader-Rudin, Jakob, Gutsbesitzer.
+2 | I. | 59 | | Merian-Frischmann, Rudolph.
+  Vogt-Gottenkieni, Joh., Lehenbest.
+10 | I. | 19 f | | Schneider-Scherb, Daniel.
+  Schneider-Scherb, Daniel, Gutsbesitzer.
+  Schneider-Krebs, Wilh., Commis.
+11 | I. | 19 a | | Schneider-Scherb, Daniel.
+  (Oekonomiegebäude mit Stallung.)
+12 | I. | 19 b | | Schneider-Scherb, Daniel.
+  (Stallungen und Remise.)
+14 | I. | 58 | | Senn, Joh. Jak. Gastg. z. 3 Königen
+  (Scheune und Remise.)
+
+3

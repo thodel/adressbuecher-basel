@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p454",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p454.jpg",
+    "bytes": 1667379,
+    "sha256": "023bf9c866a0dc9b74c74e8197262b012eeb15a213666ca129a143fff9d227a1",
+    "sha256_of": "original",
+    "working_copy": "1862_p454.jpg"
+  },
+  "text": "Verzeichniß der Berufsarten. 389\n\nVogel, Christian. Roßhofgasse 3.\nWassermann, Johs. St. Peters-Berg 38.\nWeiß, August Hch. Spalenberg 8.\nWiesner, Samuel. Gemsberg 8.\nWüst, Remigius. Spalenberg 36.\nZimmermann, Conrad. Malzgasse 13.\nZüllig, Johs. Steinenvorstadt 13.\nZurMühle, Jakob. Weiße Gasse 11.\n\nSchuhmacher mit Schuhhandlungen.\nAckermann, Joh. Freie Straße 105.\nBell, Jak. Christ. Untere Rheingasse 15.\nBolliger, Christ. Sohn. Rebgasse 44.\nChrist, Johannes. Stadthausgasse 3.\nChrist, Ludw. Schneidergasse 21.\nEppens, A. Freie Straße 68.\nFahm, Andr. Ochsengasse 6.\nHaug, Johannes. Hutgasse 6.\nIffenthaler, Ludw. Freie Straße 82.\nKeller, J. G. Hutgasse 16.\nKoller, Wb. Rosina. Gerbergasse 62.\nKramer, Martin. Spalenberg 48.\nKühn, J. J. Aeschenvorstadt 38.\nLeuthardt, P. Weiße Gasse 17.\nLöw, Leonhard. Nadelberg 43.\nMeyer, Heinr. Christ. Hammerstraße 22.\nRoth, Rudolf. St. Alban-Vorstadt 29.\nRüger, Joh. Gg. Rebgasse 46.\nSaladin, Jakob. Gerbergasse 69.\nSchäfer, Heinrich. Webergasse 1.\nSchmidt, Wilh. Stadthausgasse 9.\nSigg, Johann. Hutgasse 13.\nSoller, Wilh. Fischmarkt 14.\nStuder, J. J. Hutgasse 7.\nSulzmann, Wilh. Spalenberg 30.\nWaldner, Joh. Heinrich. Schneidergasse 19.\nWiesendanger, Pet. St. Elisabethen-Straße 25.\nWohnlich-Byland, Wb. Sophia. (Holzschuhe.)\n  Gerbergasse 58.\n\nSeidenfärber.\nBaumann, Gottlieb. Steinenvorstadt 63.\nClavel-Linder, Alex. Unt. Rebgasse 25.\nDiener, J. Rümelinbachweg 5.\nHäring, Jos. Utengasse 13.\nLotz-Gocht, Achilles. Rheingasse 31.\nMasarey-Gruber, Franz. Unt. Rebgasse 18.\n--Bertrand, Franz. Webergasse 30.\nMieg-Assal, Th. Riehenteichweg 26.\nMüller-Hauser, J. J. St. Johann-Vor-\n  stadt 14.\nSchetty, Jos. Rappoltshof 10.\n\nSeidehandlungen.\nAmans, H. u. C. Heuberg 32.\nArlés Dufour u. Comp. St. Peters-Gasse 7.\nDesgrand père & fils. St. Johann-Vor-\n  stadt 46.\n\nSeidestofffabriken.\nBischoff, Christ. u. Johann. St. Alban-Vor-\n  stadt 17.\nBondermühl, Gebr. St. Alban-Vorstadt 36.\n\n[spalte 2]\nSeidentrocknungsanstalt in Zürich.\nFilialbureau. Rittergasse 29.\n\nSeidene Unterkleiderfabrik.\nRumpf-Schellenberg, Carl Christ. Schützen-\n  mattstraße 11.\n\nSeidewaaren und Chales.\nBrenner-Guéniard, Wwe. Ad. FreieStraße 69.\nBrolly und Albiez. Freie Straße 29.\nReinhardt, J. C. Eisengasse 8.\nSchaffter und Dietiker. Freie Straße 22.\nTröndle-Faller, Fr. Rheingasse 10.\nWeiß-Fürst, Daniel Hieronimus. Gerber-\n  gasse 32.\nWintsch-Lorin, Rud. Hammerstraße 88.\n\nSeide- und Wollwascher.\nHänches-Strub, Frau. Rümelinsplatz 3.\nRaup-Wiegertsmüller, Wb. Anna Maria.\n  Unt. Rebgasse 22.\nVogt-Frey, Dan. Rappoltshof 12.\nWeiß, Doroth. Aeschenvorstadt 16.\n\nSeidenzwirnerei.\nGröschel, C. in Bottmingen.\nRyhiner u. Comp. Hint. Bahnhofstraße 12.\n\nSeifensieder siehe unter Kerzenmacher und Seifen=\n  sieder.\n\nSeiler.\nBloch, Peter. Freie Straße 7.\nGlaser, Andr. St. Alban-Vorstadt 52.\nLangmesser, Carl. Fabrikstraße 27.\nLangmesser, Heinr. Greifengasse 21.\nMerian, Paul. Aeschenvorstadt 56.\nMollinet, Wilh. Binninger-Straße 21.\nRoschet, Hier. Mostackerstraße 44.\nUehlinger, Joh. Jac. Gerbergasse 43.\nWerenfels, Emil. Aeschenvorstadt 59.\n\nSenffabrikanten.\nBohny, Ambr. Gerbergasse 2.\nNabholz, Louis. Webergasse 19.\n\nSieb- und Trommelmacher.\nAmmann, Ach. Gerbergasse 63.\n-- Ach. Sohn. Gerbergasse 66.\n\nSpedition siehe unter Commission und Spedition.\n\nSpengler.\nAckermann, Dan. Gerbergasse 73.\nBader, Urs Jos. Barfüßerplatz 14.\nBemmerer, Ludw. Freie Straße 65.\nBöhme, Franz. Streitgasse 16.\nDubach, Georg. Steinenvorstadt 30.\nEisinger, Georg Joseph. Aeschenvorstadt 28.\nFlick, J. R. Spalenthorweg 4.\nHartmann, Georg. Spalenberg 57.\nHeußler, Friedr. Sägergäßlein 2.\nHöhn, Gottlieb. Weiße Gasse 12.\nHosch, Ed. Hutgasse 18.\nHug, Christof. Spalenberg 17.\nKeck, Theobald. Gerbergäßlein 2.\nKling, Camill. Ochsengasse 19.\nKoch, Heinrich. Nadelberg 16.\nMatzinger, Leonh. Friedr. Rebgasse 18.\nPelletier, Carl. Horburgstraße 45.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12452,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3818,
+    "lines": 121,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:48:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p454",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p454.jpg",
+      "bytes": 1667379,
+      "sha256": "023bf9c866a0dc9b74c74e8197262b012eeb15a213666ca129a143fff9d227a1",
+      "sha256_of": "original",
+      "working_copy": "1862_p454.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:48:12+00:00"
+  }
+}

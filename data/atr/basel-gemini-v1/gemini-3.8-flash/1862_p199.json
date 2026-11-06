@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p199",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p199.jpg",
+    "bytes": 1368634,
+    "sha256": "495d9d51d105f99bfcf12e434d0436d12646076274aa6d17c6a240829fb406d6",
+    "sha256_of": "original",
+    "working_copy": "1862_p199.jpg"
+  },
+  "text": "134 Spalenberg.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n26 | II. | 492—493 | zum halben Rad. | Ackermann-Dudli, Johannes.\n  Ackermann-Dudli, Johannes, Spezerei- und Packtuchhandlung.\n27 | II. | 487 | zur kleinen Tanne. | Wolf-Reutlinger, Simon.\n  Wolf-Reutlinger, Simon, Handelsmann.\n  Meyer-Wolf, Abraham, Particular.\n28 | II. | 494 | zum Kernenbrod. | Locher, Johannes und Emanuel.\n  Locher, Johannes, Uhrenmacher.\n  Locher, Emanuel, Musiker.\n29 | II. | 486 | zum großen Schaaf. | Schmaßmann-Rech, Wb. Walburga.\n  Schmaßmann-Rech, Wb. Walburga, Krawattenmacherin.\n  Schmaßmann, Heinrich, Kravattenmacher und Ausläufer.\n  Gamper-Soland, Johann, Telegraphist.\n  Kieffer, Magdalena, Victualienhandlung.\n30 | II. | 495 | zum Morgenstern. | Sulzmann-Kieny, Wilhelm.\n  Sulzmann-Kieny, Wilhelm, Schuhmach.\n  Sulzmann, Friedr. Julius, Briefträger.\n31 | II. | 485 | zum obern Pfeiler. | Basler-Barny, Johannes.\n  Basler-Barny, Johannes, Knecht.\n  Neeracher-Meyer, Mathias, Hafner.\n32 | II. | 496 | zur blauen Glocke. | Albiez-Rehlin, Melchior.\n  Albiez-Rehlin, Melchior, Schneider.\n  Singer, Friedrich, Dessinateur.\n33 | II. | 484 | zur untern Tanne. | Wassermann-Wassermann, Joh.\n  Erb-Freyvogel, Eduard, Spezierer.\n  Wassermann-Wassermann, Joh., Schneider und Postfactor.\n34 | II. | 497 | Schloß Dürmenach. | Tschientschy-Kißlig, Wb. Susanna Catharina.\n  Tschientschy-Kißlig, Wb. Susanna Catharina, Drechsler.\n  Kißlig, Samuel, Schuhmacher.\n  Grieder-Hug, Friedrich, Viktualienhdlg.\n  Sträßle-Herzog, Joh. Jacob, Zimmerm.\n35 | II. | 483 | z.lebenden Heurling. | Buchmann-Caspar, Peter.\n  Buchmann-Caspar, Peter, Zuckerbäcker.\n  Ladmann, Sophia, Modiste.\n36 | II. | 498 | z. Bannwartshütte. | Wüst-Binder, Remigius.\n  Wüst-Binder, Remigius, Schuhmacher.\n37 | II. | 482 | zum Attiswyl. | Träris-Müller, Friedrich.\n  Träris-Müller, Friedrich, Küfer.\n  Müller-Niedermeyer, Carl, Küfer.\n38 | II. | 499 | Bannwartshaus. | Schmid-Wunderlich, Friedrich, Uhrmacher.\n39 | II. | 481 | zum grünen Kränzle. | Seitter-Schneider, Emanuel,\n  Seitter-Schneider, Emanuel, Metzger.\n40 | II. | 479 | zum obern Pflug. | Scharpf, Maria Anna.\n  Scharpf, Maria Anna, Particularin.\n  Beindy-Pfäfflin, Joh. Baptist, Schneid.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9595,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2258,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:55:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p199",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p199.jpg",
+      "bytes": 1368634,
+      "sha256": "495d9d51d105f99bfcf12e434d0436d12646076274aa6d17c6a240829fb406d6",
+      "sha256_of": "original",
+      "working_copy": "1862_p199.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:43+00:00"
+  }
+}

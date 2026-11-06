@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p155",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p155.jpg",
+    "bytes": 1354054,
+    "sha256": "d78b224f1ad919e9244c1ae2fbeba8a59ed7acd00ec178b7f3b8053022d6bf50",
+    "sha256_of": "original",
+    "working_copy": "1862_p155.jpg"
+  },
+  "text": "90 St. Martins-Gässlein. Martins-Gasse. St. Martinskirchplatz.\nNre. | Qua- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nr. | und Bewohner.\n---|---|---|---|---\n3 | VI. | 1604 | | Sutter-Baumgartner, Jacob.\n4 | VI. | 1608 | zum Gold. | Buol-Gyfin, Eduard, Commis.\n| | | | Silbernagel-Scheidenberger, J. Jak.\n| | | | Siehe Nro. 11 Sporengasse.\nSt. Martins-Gasse.\n1. | VI. | 1509 | z. Reichensteinerhof. | Bischer, Carl u. Peter.\n| | | | Bischer-Merian, Carl, Bandfabrikant.\n| | | | Bischer-Burckhardt, Peter, Bandfabril.\n2 | VI. | 1496 | zum Eptingerhof. | Staat.\n| | | | Kehlstadt-David, Leonh., Oberstrathsd.\n3 | VI. | 1510 | Wendelsdörferhof. | Bachofen u. Sohn, Joh. Jakob.\n4 | VI. | 1495 | zum hinterm Hafen. | Sarasin, Hans Franz.\n| | | | Kuhn-Hohler, Aug., Handlungsdieners.\n5 | VI. | 1514 | | DeBary-Sarasin, Johannes.\n6 | VI. | 1494 | | Sarasin, Hans Franz.\n7 | VI. | 1511 | | Bischoff, Gebrüder. Magazin.\n8 | VI. | 1493 | | Sarasin, Hans Franz.\n9 | VI. | 1513 | | Bischoff-Burkorf, Wb. Adeline.\n| | | | Renife.\n10 | VI. | 1492 A | | Sarasin, Hans Franz.\n| | | | Waibel-Schneider, Heinr., Fabrikauflseher.\n11 | VI. | 1513 | | Bischoff-Burkorf, Wb. Adeline.\n| | | | Christ-Rybur, Wb. Anna Mar., Part.\n12 | VI. | 1492 | Ehrenfelferhof. | His-LaRoche, Eduard.\n| | | | His-LaRoche, Eduard, Appell.-Kath.\n14 | VI. | | | Eing. zu 3, 5, 9, Freie Straße.\n16 | VI. | 1491 | zur Eisenburg. | Bischoff, Gebrüder.\n| | | | Madöry-Thommen, Sch., Stuhlschreiner.\n| | | | Hoz-Müller, Rud., Lehrer.\n| | | | Schmid, Rud., Kanzleisecretär.\n18 | VI. | 1490 | Bärenfelferhof. | Bischoff, Gebrüder.\n| | | | Bischoff-Merian, Wilh., Bandfabrikant.\n20 | VI. | 1489 b | Museum. | Staat. Sprizenmagazin.\nSt. Martinskirchplatz.\n1 | VI. | 1501 | | Fender, Wilhelm\n| | | | Fender, Wilhelm, Kaufmann.\n2 | VI. | 1500 | Siegriffenwohnung. | Staat\n| | | | Kromer-Frey, David, Siegriff u. Che\n| | | | Gerichtsweibel.\n3 | VI. | 1499 | Pfarrhaus. | Staat.\n| | | | Stockmeyer-Burckhardt, Immanl.,Pfar.,\n| | | | Theol. Dr.\n| | | | Siehe Nr. 12 Rheinsprung.\n4 | VI. | 1498 | St. Martinskirche. | Staat.\n5 | VI. | 1605 | | Plattner, Emanuel Jacob.\n| | | | Plattner, Emanuel Jacob, Ferger.\n6 | VI. | 1604 | | Sutter-Baumgartner, Jacob.\n7 | VI. | 1606 | | Sutter-Baumgartner, Jacob.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7800,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2279,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:40:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p155",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p155.jpg",
+      "bytes": 1354054,
+      "sha256": "d78b224f1ad919e9244c1ae2fbeba8a59ed7acd00ec178b7f3b8053022d6bf50",
+      "sha256_of": "original",
+      "working_copy": "1862_p155.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p216",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p216.jpg",
+    "bytes": 1446419,
+    "sha256": "b0b1d7f3b46bcf2a64f98491124e3c6c8cc8608e8618b81ddd850dd012db6481",
+    "sha256_of": "original",
+    "working_copy": "1862_p216.jpg"
+  },
+  "text": "Steinenthorstraße. — Steinenvorstadt. 151\nNene\nHaus-Nr. | Quar-\ntir. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n39 | III. | 862 | | Berlauer=Ofer, Steffan.\n| | | | Berlauer=Ofer, Steffan, Wirth und\n| | | | Mezger.\n| | | | Greuter=Engel, Friedrich, Materialist.\n| | | | Eijenring=Krämer, Joseph, Bäcker.\n40 | III. | 857 A | | Bovald=Scherzer, Wb. Carolina.\n| | | | Bovald=Scherzer, Wb. Carolina, Wirth.\n41 | III. | 861 | 3. mittlern Traube. | Siegrist=Chyler, Joh. Hieronimus.\n| | | | Siegrist=Chyler, Joh. Hieron., Spezierer.\n| | | | Staat.\n42 | III. | 858 | Steinenthor.\n(Wachtstube.) | Wenger=Gäbely, Jacob.\n| | | | Wenger=Gäbely, Jacob, Spezierer und\n| | | | Käsehändler.\n43 | III. | 860 | | Speth, J. Ant. Nepomuk, Bildhauer.\n| | | | Martin=Dolt, Hans.\n45 | III. | 859 | | Martin=Dolt, Hans, Bäcker u. Wirth.\n| | | | Martin=Echaub, Wb. Ursula, Part.\n| | | | Löw, Rudolf, Musiklehrer.\n| | | | Dietrich=Martin, Carl, Kaufmann.\nSteinenvorstadt.\n1 | III. | 827 | | Geßler=Merian, Rudolf.\n| | | | Geßler=Merian, Rudolf, Spezierer.\n| | | | Beck=Schmid, Johannes, Kaufmann.\n2 | III. | 761 | 3. weifen Widder. | Geßler=Rych, Wb. Chrish. Dorothea.\n| | | | Geßler=Rych, Wb. Chrischona Dorothea,\n| | | | Bäcker.\n| | | | Geßler, Eduard, Commis.\n| | | | Schäublin=Meyer, Joh. Albert, Kauf-\n| | | | hausbeamter.\n3 | III. | 826 | zur Kirche. | Steffan=Dändlicher, Rudolf.\n| | | | Fäsch=Krebs, Rudolf, Commis.\n4 | III. | 762 | 3. schwarzen Widder. | Hindermann=Christ, Wilhelm.\n| | | | Hindermann=Christ, Wilhelm, Bäcker.\n5 | III. | 825 | zum Mildenberg. | Steffan=Dändlicher, Rudolf.\n| | | | Steffan=Dändlicher, Rudolf, Particular.\n| | | | Steffan=Falkner, Rudolf, Bäcker.\n| | | | Weiß=Wiesner, Andreas, Geschäfts-\n| | | | mann.\n6 | III. | 763 | zum schwarzen Rad. | Borgognon=Bloch, Constantin.\n| | | | Borgognon=Bloch, Constantin, Commis.\n7 | III. | 824 | zum Eichbaum. | Schmidt=Loz, Heinrich.\n| | | | Schmidt=Loz, Heinrich, Particular.\n| | | | Schultheß=Schmidt, Diethelm, Notar.\n8 | III. | 764 | zum Eichbäumlein. | Feurstein=Jaillet, Daniel, fel. Erb.\n| | | | Feurstein=Jaillet, Wb. Valeria, Parti-\n| | | | kularin.\n| | | | Pfister, Heinrich, Commissionär.\n| | | | Steiger=Hirzel, Friedrich, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6364,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2229,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p216",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p216.jpg",
+      "bytes": 1446419,
+      "sha256": "b0b1d7f3b46bcf2a64f98491124e3c6c8cc8608e8618b81ddd850dd012db6481",
+      "sha256_of": "original",
+      "working_copy": "1862_p216.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:36+00:00"
+  }
+}

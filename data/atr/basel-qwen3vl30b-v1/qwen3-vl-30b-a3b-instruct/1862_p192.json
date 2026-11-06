@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p192",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p192.jpg",
+    "bytes": 1407769,
+    "sha256": "0ec5cb0c71aecdfaed1d894d4723dd9bdfc49dff8aceb6b6230520c2a5c9b2d3",
+    "sha256_of": "original",
+    "working_copy": "1862_p192.jpg"
+  },
+  "text": "Schützengasse. — Schützengraben. 127\nNre\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n12 | II. | 357 A | | Goswiler-Brög, Ludwig.\nGoswiler-Brög, Ludwig, Magazinier.\nLoew-Bleuler, Heinrich, Commis.\nLotz-Stückelberger, Wb. Rosine, Part.\nSchützengraben.\n2 | II. | 363 A | | VonSpeyr u. Comp.\nKrebs-Stelzer, Joh. Hilarius, Maler.\n4 | II. | 362 | | VonSpeyr u. Comp.\nMagazin.\n6 | II. | 361 | | Meyer-Keller, Philipp.\nWirth, Johann, Zohnkutscher.\n7 | III. | 147 C | | Wick-Hindermann, Carl.\n8 | II. | 359 f | | Dietzsch-Faesch, Johannes.\nMagazin.\n9 | III. | 147 B | | Wick-Hindermann, Carl.\n11 | III. | 147 A | | Wick-Hindermann, Carl.\nZumBrunn, Heinrich, Kaufmann.\n12 | II. | 356 d | | Paravicini, Leonhard.\nEisenmagazin.\nHägler-Laub, Mathias, Ladengehilfe.\n13 | III. | 147 | | Wick-Hindermann, Carl.\n15 | III. | 146 B | | Geßler-VonKilch, Emanuel.\nKaufmann-Haueijen, Alfred, Kfm.\nRislig-Poiré, Rud., Commis.\n17 | III. | 146 A | | Georg-Kappeler, Franz.\nGeorg-Kappeler, Franz, Metzger.\nBernoulli, Friedrich, Substitut d. Ci-\nvilgerichtschreibers.\nGeelhaar-Streckeisen, Heinrich, Zeich-\nnungslehrer.\n18 | II. | 352 d | | Hindermann-Weiß, Joh. Jak.\nMagazin.\n19 | III. | 146 | | Moser-Müller, Martin.\nMoser-Müller, Martin, Spannermstr.\nKall-Wenk, Joh. Georg, Part.\n20 | II. | 350 F | | Merian-Frischmann, Rudolf.\n26 | II. | 336 a | | Emde-Schöch, Friedrich.\nStallungen.\n28 | II. | 335 | | Madeux, F.\nStallung u. Remise.\n30 | II. | 335 B | | Madeux, F.\nMagazin.\n32 | II. | 333 | | Zaeslin-Streckeisen Joh., sel. Erb.\nMagazin.\n34 | II. | 333 A | | Bischoff-Keller, Andreas.\nStallung.\n35 | II. | 139 E | | Schmid-Meyer, Andreas.\n37 | II. | 139 D | | Schmid-Meyer, Andreas.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5358,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1717,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0741,
+    "mean_line_chars": 30.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p192",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p192.jpg",
+      "bytes": 1407769,
+      "sha256": "0ec5cb0c71aecdfaed1d894d4723dd9bdfc49dff8aceb6b6230520c2a5c9b2d3",
+      "sha256_of": "original",
+      "working_copy": "1862_p192.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:16+00:00"
+  }
+}

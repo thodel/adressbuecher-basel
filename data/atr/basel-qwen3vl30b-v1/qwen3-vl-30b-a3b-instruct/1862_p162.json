@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p162",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p162.jpg",
+    "bytes": 1485485,
+    "sha256": "0510077eb92825ee3ca5ddb20de4f7c9dbab537edbb5cabb2f316f8c1f6d2f45",
+    "sha256_of": "original",
+    "working_copy": "1862_p162.jpg"
+  },
+  "text": "Münsterberg.\n97\nNeue\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Mr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nMünsterberg.\n1 | V. | 1419 | zum gelben Mönch. | Siegfried=Dörflinger, Nicl. Bened.\n  | | | | Siegfried=Dörflinger, Niclaus Benedict,\n  | | | | Grieger und Spezierer.\n  | | | | Siegfried, Nicl. Christian, Sohn, Kaufm.\n  | | | | Schmidt=Fürch, Th. Gottl., Verleger d.\n  | | | | Tagblatts = Bureau No. 30 Gerbergasse.\n2 | V. | 1393 | zur Schaufel und Spieß. | Fininger=Riedlin, Samuel.\n  | | | | Fininger=Riedlin, Samuel, Sattler.\n  | | | | Lipp=Wohnlich, Friedrich, Commis.\n  | | | | Fischer=Reckler, Jacob, Commis.\n3 | V. | 1418 | z. rothenThürmlein. | Debrunner=Zsché, Heinrich.\n  | | | | Debrunner=Zsché, Heinrich, Pfundzoller.\n4 | V. | 1394 | | Merian=Bloch, Wb. Maria Magdal.\n  | | | | Merian=Bloch, Wb. Maria Magd., Part.\n  | | | | Falkeijen, Joh. Jakob, Kunstmaler.\n  | | | | Niederer, Joh. Jacob, Amtsdiener.\n5 | V. | 1420 | zum Schaltenbrand. | Bernoulli=Cailler, Emanuel.\n  | | | | Bernoulli=Cailler, Emanuel, Particular.\n  | | | | Bernoulli, Emanuel, Sohn, Bandjabr.\n  | | | | (Siehe Nr. 81 Freie Straße.)\n6 | V. | 1395 | z. oberen Vogelsang. | Otto=Segifer, Johann Nicolaus.\n  | | | | Otto=Segifer, Joh. Nic., Zimmermeister.\n  | | | | Müller=Widmer, Julius, Regenschirmm.\n  | | | | Geigy=Merian, Rudolf.\n7 | V. | 1417 | | Preismwerk=Buxtorf, Carl, Seidenhändl.\n  | | | | Wertenberg=Grether, Eduard.\n8 | V. | 1396—97 | z. schwarz. Dechsl ein u. zum Plattfuß. | Wertenberg=Grether, Eduard, Spengler.\n  | | | | Geigy=Merian, Rudolf.\n  | | | | Bureau von F. K. Geigy und u.\n  | | | | Heusler, Droguerie= u. Farbwaaren.\n  | | | | Raillard=Fürstenberger, C., Med. Dr.\n9 | V. | 1416 A | | Byfelder, Wb. Maria.\n  | | | | Byfelder, Wb. Maria, Particularin.\n  | | | | Byfelder, Sgfr., Modiste.\n10 | V. | 1398 | zum Bärenloch. | Geigy, Carl, sel. Erben.\n  | | | | Geigy=Buxtorf, Wb. Susanna, Kent.\n11 | V. | 1416 | z. untern Hochberg. | Sibold=Häfeli, Joseph.\n  | | | | Sibold=Häfeli, Joseph, Magazinier.\n12 | V. | 1399 | zum Ehrenstein. | Dubach=Buser, Franz, Commis.\n  | | | | Duthaler=Bisegger, Ferdinand.\n  | | | | Duthaler=Bisegger, Ferdinand, Comm.\n  | | | | Schäublin=Wahl, Jacob, Maurer.\n13 | V. | 1415 | | Burckhardt, Hans Heinrich.\n  | | | | Burckhardt, Hans Heinrich, Kutscher.\n  | | | | Locher=Burckhardt, Caspar, Schreiner.\n14 | V. | 1400 | z. untern Freiburg. | Gally, Wb. Maria Anna.\n  | | | | Gally, Wb. Maria Anna, Particularin.\n  | | | | Hill=Martin, Joh. Rudolf, Schuhmacher.\n15 | V. | 1414 | zum blauen Berg. | Roth=Zandt, Abraham.\n  | | | | Roth=Zandt, Abraham, Schlosser.\n16 | V. | 1401 | z. oberen Freiburg. | 7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8862,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2647,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0476,
+    "mean_line_chars": 39.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:42:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p162",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p162.jpg",
+      "bytes": 1485485,
+      "sha256": "0510077eb92825ee3ca5ddb20de4f7c9dbab537edbb5cabb2f316f8c1f6d2f45",
+      "sha256_of": "original",
+      "working_copy": "1862_p162.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:19+00:00"
+  }
+}

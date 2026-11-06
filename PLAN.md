@@ -156,10 +156,33 @@ Register, 1862 Einwohner/Besitzer/Berufe: ~190 Seiten) der bessere Zweitleser (2
 statt Spaltensalat), kostet aber 100 s je Seite (~5 h für diese Seiten, ~22 h für alle)
 und bricht ohne Reasoning-Abschaltung auf einzelnen Seiten ab; Vorschlag: nach dem
 qwen3-vl-Lauf nur die zweispaltigen Seiten mit qwen3.8 nachlesen (`basel-2sp-qwen38-v1`).
-Beide Läufe gestartet 06.11.2026 14:42 (Gemini MCP-Job `20261106T134222-cb1e6c`,
-qwen3-vl CLI mit Log `data/vlm_test/basel-qwen3vl30b-v1.log`); erwartete Dauer Gemini
-~2 h, qwen3-vl ~1 h. Holen und weiterverarbeiten: `make fullrun-fetch fullrun-lines
-fullrun-parse`. `02_lines.csv` enthält vorerst die drei Probeleser (7 447 Zeilen).
+**Volllauf abgeschlossen 06.11.2026** (gestartet 14:42, Gemini MCP-Job
+`20261106T134222-cb1e6c` fertig 16:55, qwen3-vl CLI fertig 16:35): Gemini 798/798 Seiten,
+8,8 s und 2 078 Zeichen je Seite, keine abgeschnitten, nur die drei Einbandseiten leer;
+qwen3-vl 798/798, 6,6 s je Seite, **15 Seiten in Wiederholungsschleifen am Token-Deckel**
+(1841 PDF 31, 37, 49, 87, 113, 173, 195; 1850 PDF 145; 1862 PDF 50, 51, 61, 91, 102, 156,
+174). `02_lines.csv`: 124 526 Zeilen beider Leser. Wichtig für den Parser: im Volllauf
+rückt Gemini Folgeeinträge und Fortsetzungszeilen **nicht** mehr ein (in der Probe schon);
+der Parser erkennt sie darum inhaltlich (siehe Welle 2).
+
+**Welle 2, Volllauf** (`make fullrun-parse geo`, Gemini-Lesung aller Seiten, 06.11.2026):
+`04_entries.csv` **13 828 Adresszeilen** (1841: 3 485, 1850: 2 853, 1862: 7 490) mit 98 %
+«high», 263 «medium» (Firmen, unsichere Allianz-/Vornamen-Trennung im Register 1850,
+Adressen ohne Nummer), 5 «review». `04_berufe.csv` 2 933 Einträge des Berufsregisters
+1862 in 314 Rubriken (Unterrubriken «a) Für Bänder- und Seidewaaren» als «medium»).
+`05_buildings.csv` **7 986 Gebäude** (7 958 «high»; 1841: 2 151, 1850: 2 102, 1862: 3 733
+mit Grosser und Kleiner Stadt) und `05_residents.csv` 7 010 Bewohner. Neu gegenüber der
+Probe: das Register 1850 lässt den Familiennamen bei Folgeeinträgen weg und die Lesung
+rückt nicht ein — der Parser erkennt Folgeeinträge über Vorname/Stand/Abkürzung und
+akzeptiert als neue Familiennamen nur die längste alphabetisch nicht fallende Teilfolge
+der Seite (Register sind alphabetisch; 0 Brüche im Ergebnis); zwei Einträge in einer
+Lesungszeile werden getrennt, «Comptoir NNN» als zweite Adresse; 1841 Stern nach der
+Nummer, Hausname nach der Strasse («Freie Straße. Zunft der Hausgenossen»),
+Buchstabenfolgen «561 c d», Bereiche «931—933», «sel. Wittwe», Strasse ohne Nummer,
+Fortsetzungen ohne Einzug (reine Adresszeilen); Nummernbuch «No. 1 (St. Johannthor)»,
+Buchstaben nach dem Stern «399 * a», ½, Komma-Reihen, Ditto-Zeilen, Bewohner ohne Einzug,
+Leerseiten als Folgeseiten. 13 Gebäudenummern kommen in der Quelle doppelt vor (z. B.
+1841 Nr. 404) und bleiben doppelte `building_id`.
 
 **Welle 2, erster Stand** (`make probe-parse`, Gemini-Lesung der Probeseiten):
 `scripts/04_parse.py` löst auf den neun Registerseiten 426 Adresszeilen auf, 420 «high»,
@@ -206,11 +229,11 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 0 | Setup ✅ 06.11.2026 | Repo (`~/Repos/adressbuecher-basel`), Skripte aus Aarau, Seitenbilder byteidentisch (`data/pages/`, nicht im Git), `00_volumes.csv` mit SHA-256, Signatur, Permalink | erfüllt |
 | 0 | Seiten ✅ 06.11.2026 | `01_pages.csv` mit Abschnitt, gedruckter Seitenzahl, Satz, Spalten für alle 873 Seiten (Kontaktbögen à 20 Seiten durch vier Hilfsagenten, Grenzseiten auf der Einzelseite bestätigt) | erfüllt; Abschnittsfolge in Abschnitt 1 |
 | 1 | ATR Probe ✅ 06.11.2026 | 20 geschichtete Seiten (`data/csv/probe_pages.csv`) auf tei unter `data/nextcloud/adressbuecher-basel/probe/`; Gemini 3.8 Flash (MCP, `reasoning=low`), `qwen3-vl-30b-a3b-instruct` und `qwen3.8-27b` (GPUStack, CLI); 4 GT-Seiten; CER je Leser und Seitentyp | Befund in Abschnitt 2, Entscheid je Seitentyp |
-| 1 | ATR voll (läuft seit 06.11.2026) | 798 Seiten (alles ausser leer/Inserate) mit Gemini 3.8 Flash und qwen3-vl-30b; Läufe `basel-gemini-v1`, `basel-qwen3vl30b-v1` | `02_lines.csv` vollständig; Bericht je Band |
-| 2 | Einträge (erster Stand ✅ 06.11.2026 auf den Probeseiten) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
+| 1 | ATR voll ✅ 06.11.2026 | 798 Seiten (alles ausser leer/Inserate) mit Gemini 3.8 Flash und qwen3-vl-30b; Läufe `basel-gemini-v1`, `basel-qwen3vl30b-v1` | `02_lines.csv` vollständig (124 526 Zeilen); Befund in Abschnitt 2 |
+| 2 | Einträge (Volllauf ✅ 06.11.2026, Abnahme offen) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
 | 3 | Normalisierung, Identität | Berufe, Strassen (Basler Strassennamen 1841–1862 → heute), Heimatorte; Personen über die drei Bände; Gebäude über die Nummernkonkordanz 1862 | wie Aarau |
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
-| 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern) | wie Aarau |
+| 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern); Gebäudepunkte aus `05_buildings_geo.csv` (HGB, Abschnitt 4b) | wie Aarau |
 
 ### 4b. Verortung über das Historische Grundbuch Basel (HGB)
 
@@ -239,19 +262,23 @@ alte Nummer **innerhalb des Nummernraums** (Grossbasel, Kleinbasel ab 1, Bänne 
 die Kleinbasler Strassen kommen aus unseren eigenen Zwischentiteln), Dossiers mit
 mehreren Nummern oder mehrere Dossiers je Nummer als Schwerpunkt (`medium`), «Theil
 von»-Dossiers nachrangig. Ergebnis `05_buildings_geo.csv` (Schema in `docs/schema.md`).
-Stand 06.11.2026 auf dem laufenden Gemini-Volllauf (4 342 Gebäude):
+Stand 06.11.2026 auf dem vollständigen Gemini-Lauf (7 986 Gebäude):
 
-| Band | Gebäude | eindeutig | Schwerpunkt | Dossier ohne Standort | ohne Treffer |
-|---|---:|---:|---:|---:|---:|
-| 1841 | 2 151 | 1 271 | 648 | 25 | 207 |
-| 1850 | 2 087 | 1 176 | 650 | 24 | 252 |
-| 1862 (erst 89 Gebäude gelesen) | 89 | 58 | 6 | 21 | 4 |
+| Band | Gebäude | eindeutig (`high`) | Schwerpunkt / Hauptnummer | Dossier ohne Standort | ohne Treffer | verortet |
+|---|---:|---:|---:|---:|---:|---:|
+| 1841 | 2 151 | 1 321 | 746 | 37 | 47 | **96 %** |
+| 1850 | 2 102 | 1 226 | 794 | 30 | 52 | **96 %** |
+| 1862 | 3 733 | 2 041 | 596 (236 Mehrfachdossiers, 360 über die alte Nummer) | 601 | 495 | **71 %** |
 
-Prüfung der Konkordanz: bei 61 von 64 verorteten 1862er Gebäuden stimmt die alte Nummer
-unserer Tabelle mit `oldHousenumber` des HGB überein; die 3 Abweichungen sind
-Bereichsdossiers («Aeschengraben 4-16»). Die «ohne Treffer» (10 %) sind vor allem
-Nebengebäude, Magazine und Nummern mit Buchstabenzusätzen, die das HGB unter der
-Hauptnummer führt — Rückfall auf die Hauptnummer ist der nächste Schritt. Damit entfällt
+Prüfung der Konkordanz: bei 2 410 von 2 615 verorteten 1862er Gebäuden stimmt die alte
+Nummer unserer Tabelle mit `oldHousenumber` des HGB überein (189 Abweichungen, meist
+Bereichsdossiers wie «Aeschengraben 4-16» oder Teilhäuser). Die Lücke bei 1862 ist die
+Geometrie des HGB (4 353 von 6 057 Dossiers haben einen Punkt) und die Strassen ausserhalb
+der Mauern (Klybeck, Grenzacher-, Elsässer-, Hägenheimer-Strasse, Wege im Bann), die das
+HGB kaum erfasst; dort bleibt der Rückfall auf die Strassenmitte (Nominatim) wie im
+Aarauer Plan. Strassennamen werden über die Schreibvarianten der HGB-Serien
+(«Freie Strasse / Freiestrasse», th/t, y/i, Genitiv-s, «St.») abgeglichen; 10 Strassen
+des Bandes 1862 haben keine HGB-Serie. Damit entfällt
 für Basel die Strassenmitte-Ebene aus dem Aarauer Plan weitgehend; die Karte kann
 direkt auf Liegenschaften zeichnen, mit dem Löffelplan 1862 als WMS-Overlay wie bei
 [basler-liegenschaften-interaktiv](https://dhbern.github.io/basler-liegenschaften-interaktiv).

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p416",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p416.jpg",
+    "bytes": 1610789,
+    "sha256": "6764421d0a2475c611e09a09a00ff8d6dc1ec2611afb2941341abb8dd147c13e",
+    "sha256_of": "original",
+    "working_copy": "1862_p416.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 351\nThommen-Roth, Heinrich, Posamenter. Hut-gasse 6.\n- =Schaffner, Jacob, Eisenbahnarbeiter. Pfluggäßlein 8.\n- =Scherrer, Wittwe Catharina, Part. Imbergäßlein 7.\n- =Scherzer, Joh., Posamenter. Steinen-thorstraße 40.\n- =Schneider, Wilh., Bandpuzerim. Koh-lenberggasse 29.\n- =Schram, Hrč., Fabrikarbeiter. St. Clara-Straße 18.\n- =Seiler, Jacob, Fabrikarbeiter. Kloster-berg 21.\n- =Senn, Heinrich, Posamenter. Aeschen-vorstadt 27.\n- =Senn, Jakob, Fabrikarbeiter. Aeschen-vorstadt 29.\n- =Simmen, Georg, Weinhändler. Bruder-holzstraße 6.\n- =Stohler, Johannes, Seidenfärbereigeselle. Döfengasse 8.\n- =Theophil, Commis. Spalenvorstadt 9.\n- =Thommen, Heinrich, Fabrikarbeiter. Münsterberg 12.\n- =Thommen, Joh., Landwirth. Gundol-dinger-Straße 8.\n- =Wagner, Fried., Posamenter. Kloster-berg 27.\n- =Wagner, Martin, Posamenter. St. Peters-Berg 32.\n- =Walter, Wittwe Marg. Kostgeberin. Spalenberg 3.\n- =Wernli, Johann Jacob, Zimmermann. Reb-gasse 40.\n- =Wiesner, Wittwe Barbara, Haushäl-terin. Spalenvorstadt 9.\nThüring, Joseph, Zimmermann. Unterer Rheinweg 32.\n- Jacob, Sattler. Barfüsserplatz 28.\nThüringer-Streub, Anton, Kaufhausarbeiter. Hammerstraße 98.\nThürkauf-Bubendorf, Peter, Steinmetz und Wirth. Horburgstraße 25.\nThürler=Zermann, Nicolaus, Posamenter. Todtengäßlein 5.\nThurneyssen-Bell, Sch., Schneider. Steinen-vorstadt 35.\n- =Faesch, Ludw., Commandant und Papierfabrikant. St. Alban-Thal 34.\n- =Gaz, Wittwe Margaretha, Part. Freie Straße 75.\n- =Gemuseus, Eduard, J. U. D. Aeschen-vorstadt 22.\n- Gottlieb, Rentier. Untere Reb-gasse 22.\n- Hans Rud., Stabsmajor und Papier-fabrikant. St. Alban-Thal 34.\n- Helena, Part. Heuberg 34.\n- Jakob Christof, Partikular. St. Johann-Vorstadt 43.\nThurneyssen-Isfen thaler, Johann Peter, Drechs-ler. Schneidergasse 8.\n- Ludw., Commis. Freie Straße 75.\n- =Marian, Emil, Bandfabrikant. St. Alban-Vorstadt 5.\n- =Paravicini, Emil, Rentier. St. Alban-Vorstadt 25.\n- =Ryhiner, Valeria, Rent. Bäumleingasse 15.\n- =Schneider, Ludwig, Weißgerber. Ger-bergasse 54.\n- =Spahn, H. Rud., Part. St. Johann-Vorstadt 43.\nTischhauser-Geiger, Simon, Conditor. Ger-bergasse 34.\n- =Jenny, Chr., Profos. Neue Vorstadt 31.\nTobler-Klingelsuk, Emilie, Modengeschäft. Gerbergasse 65.\n- Silvester, Fabrikarbeiter. Heuberg 21.\n- =Bettcr, Johann, Bierbrauer. Hammer-strasse 19.\nTollmann-Weiß, Joh. Sam., Commis. Fabrikstraße 27.\nTouffaint, P., Kunstmaler. Freie Straße 61.\nTräris-Moser, Fch., Zimmergeselle. Schneider-gasse 12.\n- =Miiller, Fch., Kiißer. Spalenberg 37.\nTrago-Retterer, Magdalena, Vorgängerin. St. Peters-Berg 36.\nTrefzger-Augenstein, Wittwe Salomea, Part. St. Johann-Vorstadt 28.\n- Leonhard, Koch und Traiteur. St. Alban-thorgraben 4.\nTreu, Rud., Particular. Utengasse 6.\n- =Stegmüller, Lucas, Barbier u. Chirurg. Reb-gasse 2.\nTripet-Jand, Wittwe Wilh. H., Part. St. Clara-Graben 19.\nTritschler-Spiegelhalder, Joseph, Commis. Marktplatz 18.\nTroendle, Caspar, Ferger. Klingenthal 19.\n- =Dinkel, Sebastian, Malergeselle. Hof-hofgasse 13.\n- =Faller, F., Holzhändler. Rheingasse 10.\n- Maria, Weißnäherin. Todtentanz 6.\n- Wwe. Maria. Klingenthal 19.\nTrosch-Kunz, Carl, Mechanikergeselle. Hammerstraße 100.\nTröschcr-Kuppli, Michael, Ausläufer. Rümelinsplatz 13.\nTrog-Frey, Johann, Director der Central-bahn. Missionsstraße 1.\n- =Weibel, Julius, Agent. Heuberg 42.\nTroll, Julius, Dessinateur. Kaufhausgasse 6.\n- Louise, Lehrerin. Kaufhausgasse 6.\nTrost, Catharina, Corfetiere. St. Peters-Berg 4.\n- Cath., Corfetiere. Fischmarkt 14.\n- Trueb-Grether, Wittwe Serena Runigunda, Gärtner. Mittlere Straße 33.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8918,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3556,
+    "lines": 70,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:17:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p416",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p416.jpg",
+      "bytes": 1610789,
+      "sha256": "6764421d0a2475c611e09a09a00ff8d6dc1ec2611afb2941341abb8dd147c13e",
+      "sha256_of": "original",
+      "working_copy": "1862_p416.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:17:39+00:00"
+  }
+}

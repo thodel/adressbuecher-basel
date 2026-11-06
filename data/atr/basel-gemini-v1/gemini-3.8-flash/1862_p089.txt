@@ -1,0 +1,55 @@
+24 | Bachlettenstraße. — Bäumleingasse.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+19 | III. | 181 a | Weinzollstätte. | Engler-Preisentanz, Heinrich.
+  Jordan-Weiersmüller, Conr., Zollbeamt.
+21 | III. | 181 A |  | Bertsche-David, Samuel.
+  Bertsche-David, Samuel, Papierfabrik.
+  Steinbrüchel-Nägeli, Gustav, Papierf.
+23 | III. | 183 | Wasserhaus. | Stadtgemeinde.
+  Biedert-Gutzwiler, Jakob, Wasserknecht.
+
+Bäumleingasse.
+
+1 | IV. | 1383 | zum Kameel. | Bernoulli-Obermeyer, Daniel.
+  Bernoulli-Obermeyer, Daniel, J. U. D.
+  Bernoulli, Daniel, Kaufmann.
+2 | IV. | 1076 | zum goldenen Ort. | Wagner-Mayr, Wb. Elise.
+  Wagner-Mayr, Wb. Elise, Leinwdhdlg.
+  Bertholet-Wagner, Felix, Lehrer.
+3 | IV. | 1382 | Pfäzzerhof. | Staat, Gerichtshaus.
+  Tschann-Salathe, Bernhard, Weibel u.
+    Abwart.
+4 | IV. | 1193 | z. nied. Mehlbaum. | Wettstein-Hoffmann, Wb. Sophie.
+  Wettstein-Hoffmann, Wb. Soph., Apoth.
+  Thamm, Ferd., Apotheke-Verwalter.
+5 | IV. | 1381 A | z. unt. Sternenfels. | Socin-Werthemann, Christoph.
+  Socin-Werthemann, Christoph, Kaufm.
+  Socin, Christoph, Sohn, Mechaniker.
+  Kündig-von Speyr, Aug. Theod., Ph. Dr.
+6 | IV. | 1194 | zum blauen Berg. | Wettstein-Hoffmann, Wb. Sophia.
+  Schaffner-Düring, Wihelm, Commis.
+  Kellenberger, Adolf, Zeichner.
+7 | IV. | 1381 | oberer Sternenfels. | Ehinger-LaRoche, Wb. Anna Cath.
+  Ehinger-LaRoche, Wb. Anna Cath., Part.
+  Bischoff-Ehinger, Andr., Handelsmann.
+8 | IV. | 1195 | zur Traube. | Pöhls-Müller, Lucas.
+  Pöhls-Müller, Lucas, Schlosser.
+9 | IV. | 1380 | St. Johannes. | Ehinger-LaRoche, Wb. Anna Cath.
+  Streckeisen-Ehinger, Carl, Dr. M. u. Prof.
+10 | IV. | 1196 | zum Haidweiler. | Geering, Geschwister.
+  Geering, Emil Ludwig, V. D. M.
+  Geering, Schwestern.
+  Firma: Felix Schneiders Buchhandlung,
+    Buchdruckerei und Antiquariat.
+11 | IV. | 1379 | Lehrerwohnung. | Staat.
+  Fechter-Hanhart, Dr. Dan. Alb., Conrect.
+12 | IV. | 1197 | z. Maulbeerbaum. | Salathe-Geßler, Jakob.
+  Salathe-Geßler, Jakob, Tapezierer.
+  Zucker-Müller, Benedict, Organist.
+  Salathe-Bärwart, Hieron., Dessinateur.
+  Papierhandlung von J. F. Studer.
+13 | IV. | 1378 | zum Pharisäer. | Anstein-Wölfflin, Wb. Margaretha.
+  Anstein-Wölfflin, Wb. Marg., Part.
+  Wirz-Streicher, Joh. Jak., Küfer.

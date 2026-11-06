@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p128",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p128.jpg",
+    "bytes": 1411564,
+    "sha256": "d754bc5c77f62e6957fc6bccc6840dc3a41c8f581392b46f27174ef36a21b885",
+    "sha256_of": "original",
+    "working_copy": "1862_p128.jpg"
+  },
+  "text": "Unterer Heuberg. — Aeußere Heumattstraße. — Heumattstraße. 63\n\nNeue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n23 | VI. | 402 | | Riesterer-Jenter, Ferdinand.\n  Riesterer-Jenter, Ferd., Kutscher.\n  Vogt-Nuff, Cölestin, Mechaniker.\n25 | VI. | 401 | | Brodbeck-Gnehm, Johannes.\n  Brodbeck-Gnehm, Joh., Maler.\n27 | VI. | 399 B. | | Brodbeck-Gnehm, Johannes.\n  Gönnert-Gutherz, Urs., Part.\n29 | VI. | 399 A. | | Brodbeck-Gnehm, Johannes.\n  Lipp-Grollimund, Martin Emanuel, Buchbinder.\n31 | VI. | 399 | | Portmann-Noll, Jacob.\n  Portmann-Noll, Jac., Hausknecht.\n  Schaub-Martin, Heinr., Grabmacher.\n\nAeußere Heumattstraße.\n1 | IV. | 210 | | Centralbahnverwaltung.\n  Büreau der Material-Verwaltung.\n  Georg-Juillerat, Emil, S.-chef de gare.\n  Ecklin-Weber, Benjamin, \"\n  Plattner-Siegrist, Joh., Gepäckexpedient.\n  Hindenlang-Plattner, Hch., Einnehmer.\n21 | IV. | 206 | | Wölfflin-Freyvogel, Joh. Georg.\n  Buser-Schäffer, Mart., Ziegeleiausseher.\n\nHeumattstraße.\n5 | IV. | 215 A. b. | | Stüssy-Hesty, Heinrich.\n  Stüssy-Hesty, Heinrich, Holzhändler.\n  Suter, Christian, Commis.\n  Heß, Ulrich, Schlosser.\n  Märki-Rychner, Xaver, Part.\n  Rothpletz-Rychner, A., Eisenbahnbeamt.\n7 | IV. | 214 | | Weber-Waldmeyer, Jacob.\n  Weber-Waldmeyer, Jacob, Wirth.\n8 | III. | 203 D. | | Gloor-Zeller, John.\n  Gloor-Zeller, John, Detaillant.\n  Häni-Hitzin, Jos., Particular.\n9 | IV. | 213 A. | | Weber-Waldmeyer, Jacob.\n  Madöri-Scholl, Peter, Metzger.\n  Dirriwächter-Widmer, Hs., Milchhdlr.\n10 | III. | 203 C. | | Schmäb-Engesser, Felix.\n  Schmäh-Engesser, Fel., Parquetschreiner.\n  Burckhardt-Burckhardt, Carl Leonhard, Betriebsinspector der Centralbahn.\n12 | III. | 203 B. | | Pfaff-Jenzer, Martin.\n  Pfaff-Jenzer, Martin, Commis.\n  Jeannot-Baillod, Jacques, Commis.\n  Köhler-Fabbiani, Otto, Commis.\n13 | IV. | 213 | | Lotz, Albert, und Siber, Caspar.\n  Bollier-Tschopp, Martin, Posamenter.\n  Gebhardt-Mercier, Johannes, Gärtner.\n  Curriger, Benedict, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11808,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2000,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:44:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p128",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p128.jpg",
+      "bytes": 1411564,
+      "sha256": "d754bc5c77f62e6957fc6bccc6840dc3a41c8f581392b46f27174ef36a21b885",
+      "sha256_of": "original",
+      "working_copy": "1862_p128.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:24+00:00"
+  }
+}

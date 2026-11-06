@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p259",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p259.jpg",
+    "bytes": 1285315,
+    "sha256": "93620422456557d3894f63d256f90c36a90df9ca9dc61eb75e8787830a31ae52",
+    "sha256_of": "original",
+    "working_copy": "1862_p259.jpg"
+  },
+  "text": "194 | Rheingasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n25 | VIII. | 39 | zur Sonne. | Seyßer-Seiler, Johannes.\n  Seyßer-Seiler, Joh., Gastwirth.\n  Aubry-Richenaud, Nic. Const., Schleif.\n26 | VIII. | 37 | zum Schlegel. | Schmid-Bötschin, Joseph.\n  Schmid-Bötschin, Joseph, Schuhmacher.\n  Schneider-Lürder, Lorenz, Schiffmann.\n  Hug-Häfeli, Matth., Schwimmlehrer.\n27 | VIII. | 40 | zum Roggenburg. | Vuilleumier-Schweizer, Aug. Virgil.\n  Vuilleumier-Schweizer, Aug. Virgil, Bäck.\n28 | VIII. | 38 | | Uehlinger-Uehlinger, Jakob.\n  Uehlinger-Uehlinger, Jakob, Glaser.\n29 | VIII. | 41 | | Schweizer-Isenegger, Ludwig.\n  Schweizer-Isenegger, Ludwig, Maler.\n  Grollimund-Schweizer, Emanuel, Kfm.\n30 | VIII. | 42 | | Bell-Hug, Heinrich, sel. Erben.\n  Bell-Hug, Wb. Maria Magdal., Part.\n  Bell, Heinrich, Fischer.\n  Schönenberger-Baumgartner, Caspar,\n    Uhrmacher.\n  Gölzlin, Friedrich, Schneider u. Flecken-\n    putzer.\n31 | VIII. | 46 | der Ziegelhof. | Lotz-Gocht, Achilles.\n  Lotz-Gocht, Achilles, Seidenfärber.\n32 | VIII. | 43 | | Zentgraff, Wilhelm.\n  Zentgraff, Wilhelm, Kaufmann.\n33 | VIII. | 47—48 | der Ziegelhof. | Lotz-Gocht, Achilles u. Lotz, Albert.\n  Glunz-Seyfried, Carl, Seidenfärber.\n34 | VIII. | 44 | z. klein. Augenweide. | Küpfer-Mähly, Heinrich.\n  Küpfer-Mähly, Heinrich, Schreiber.\n  Rebsamen-Bieler, Barbara, Lehrerin.\n35 | VIII. | 49 | | Eglin-Wegner, Wb. Mar. Magdal.\n  Eglin-Wegner, Wb. Maria Magdalena,\n    Partikul.\n36 | VIII. | 45 | | Herzog-Thommen, Joh. Friedrich.\n  Herzog-Thommen, Joh. Friedr., Feilenh.\n  Plattner-Oberer, Wb. Anna, Spezier.\n  Schultheiß-Schluep, Heinr., Eisenbahn-\n    beamter.\n37 | VIII. | 49 a | | Eglin-Wegner, Wb. Mar. Magdal.\n38 | VIII. | 50 | | Gürtler-Heckle, Peter.\n  Gürtler-Heckle, Peter, Maurermeister.\n  Wüst-Heckle, Joh. Baptist, Commis.\n  Plattner, Martin, Spengler.\n39 | VIII. | 61 A | Gerberei z. untern Antonierhof. | Raillard-Stähelin, August.\n40 | VIII. | 51 | zum rothen Thurm. | Widler-Nonnenmacher, Jakob.\n  Widler-Nonnenmacher, Jakob, Posam.\n  Schwarz-Krumm, Leonhard, Schreiner.\n42 | VIII. | 52 | | Lotz-Heusler, Friedrich.\n  Portmann-Schmidt, Anton, Hausknecht.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9127,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2200,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:04:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p259",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p259.jpg",
+      "bytes": 1285315,
+      "sha256": "93620422456557d3894f63d256f90c36a90df9ca9dc61eb75e8787830a31ae52",
+      "sha256_of": "original",
+      "working_copy": "1862_p259.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:32+00:00"
+  }
+}

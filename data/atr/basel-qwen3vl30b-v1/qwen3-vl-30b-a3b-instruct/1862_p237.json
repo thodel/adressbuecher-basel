@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p237",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p237.jpg",
+    "bytes": 1329022,
+    "sha256": "76dbd4bd4cb3d64a5fdd94ad076ee661db31dd0aadc53d1a9d1946ef76f0bc05",
+    "sha256_of": "original",
+    "working_copy": "1862_p237.jpg"
+  },
+  "text": "172\nGreifengasse.\nNre\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n2 VIII. 1—2 z. neu. Gesellschafts-\nhaus.\nDie 3 C. C. Gesellschaften v. Klein-\nBasel.\nGubler=Huber, Albert, Wirth.\n3 VII. 379 zum Gurttau.\nMadörin=Glaser, Friedrich.\nMadörin=Glaser, Friedr., Cigarren- u.\nTabakhandlung.\n4 VIII. 4 zum Brandeck.\nDettwiler=Schlueb, Carl, Schneider.\nHindenlang=Ringier, Carl, Bierbrauer.\nWieckler=Bögt, Franz.\nWieckler=Bögt, Franz, Cigarrenhändler,\nHeusler, Carl, Dr. Phil.\n5 VII. 380 z. roth. Krebs.\nStaab=Riedtmann, Hch. Wilh.\nStaab=Riedtmann, Hch. Wilh., Coiffeur.\nJenni=Wernly, Daniel, Kaufmann.\n6 VIII. 381 z. Blozheim.\nGyfin=Merat, Friedrich.\nGyfin=Merat, Friedr., Wirth.\n7 VII. 383 z. Richtenberg.\nLeithardt=Hardy, Heinrich.\nLeithardt=Hardy, Heinrich, Hutmacher.\n8 VIII. 382 zum Thiergarten.\nBuser=Wertenberg, Joh. Jaf.\nBuser=Wertenberg, Joh. Jaf., Tabak-\nu. Spezereiwaarenhandlung.\n9 VII. 384\nTruob=Preiswerck, Rudolf.\nTruob=Preiswerck, Rudolf, Tabak- u.\nCigarrenhandlung.\nStöcklin=Truob, Niklaus, Desfinateur.\n10 VIII. 385 z. fl. gelben Löwen.\nBischoff=Gebhardt, Joseph.\nBischoff=Gebhardt, Joseph, Sattler.\n11 VII. 388 zum gelben Löwen.\nWeissenberger=Singeisen, Wb. Mag.\nWeissenberger=Singeisen, Wb. Magdal.,\nParticularin.\n12 VIII. 386 zum Mayen.\nDolt=Bonwylcr, Christof Friedrich,\nfel. Erben.\nDolt=Bonwylcr, Wb. Maria Elisabeth,\nEllenwaarenhandlung.\n13 VII. 389 zum gelben Löwen.\nHörler=Früh, Joh. Jaf.\nHörler=Früh, Joh. Jaf., Zuckerbäcker.\n14 VIII. 387 zum Rilchberg.\nSchmidt, Carl.\nSchmidt, Carl, Glaser.\n15 VII. 393 zum Schönau.\nGak, Friedrich.\nGak, Friedrich, Seidenfärber.\nKlump-Seiler, Heinr., Silberarbeiter.\n16 VIII. 390 z. Samariter=Good. Lok, Achilles, fel. Erben.\nLok, Maria Magdalena u. Mina, Part.\nBöcklin=Lippe, Friedr., Kaufmann.\nSchüg, Christian, Kaufmann.\nComptoir der Speditionsbndlg. Ach. Lok.\nEisenwaarenhndlg. v. Jenny u. Böcklin.\n17 VII. 394 klein Haltingen.\nEisenlohr=Fiechter, Carl, fel. Erben.\nBischoff=Fiechter, Arnold Theod., Post-\noffiziant.\nEisenlohr, Wb. Spezereihandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5883,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2054,
+    "lines": 78,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 25.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p237",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p237.jpg",
+      "bytes": 1329022,
+      "sha256": "76dbd4bd4cb3d64a5fdd94ad076ee661db31dd0aadc53d1a9d1946ef76f0bc05",
+      "sha256_of": "original",
+      "working_copy": "1862_p237.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:31+00:00"
+  }
+}

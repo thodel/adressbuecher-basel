@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p342",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p342.jpg",
+    "bytes": 1666916,
+    "sha256": "0941876f9a9e60c73464cb7e97b4ce09e30299f6f1c8ae1c8133b7f98f8f8691",
+    "sha256_of": "original",
+    "working_copy": "1862_p342.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 277\nFaust=David, Joh., Schneider. Aeschenvorft. 33. | Fidel=Aenderli, Joh., Maler. Gerbergasse 19.\n— =Killing, Wb. Anna Barb., Kostgeberin. Fiechter=Freybogel, Joh., Commis. St. Elisabethen=Strasse 17.\nWeisse Gasse 14.\nFaygelin=Hasler, Joh. Jak., Fabrikarbeiter. — =Flg, F., Wirth. Heumattstrasse 16.\nGreifengasse 28. Figi=Wunderli, Johann Ulrich, Taglöhner.\nFechter=Hanhardt, Daniel Albert, Conrector. Spalenberg 28.\nBäumleingasse 11. Fininger=Bader, Joh. Rud., Bäcker. Spalenvorstadt 20.\nFedderjen=Poffenti, Peter, Redactor. Klosterberg 25. — =Dietzsch, Wb. Barb., Part. Heuberg 12.\nFederer=Striibin, Anton, Seidenfärber. Weisse — =Eglin, Leonhard, des Rathes, Part.\nGasse 4. St. Jakobs=Strasse 9.\nFehlmann=Frey, Wb. Serena, Seidewinderin. — Heinrich, Metzger. Webergasse 42.\nRebgasse 36. — =Niedlin, Samuel, Sattler. Münsterberg 2.\nFehr, Johannes, Commis. Gerbergasse 32. Fink, Charlotte, Part. Freie Strasse 41.\n— Salomon, Papierer. St. Jakob 6. Finsler, Heinrich, Chemiker. Bahnhofstrasse 3.\n— =Wenziger, Caspar, Papierer. St. Alban= Fischbacher=Senn, Georg, Wirth u. Kostgeber.\nThal 30. 32. St. Peters=Bergh 8.\nFehrenbach=Kanz, Joh., Rutscher. Kohlen- Fischer=Affolter, Wb. Barb., Part. Spalenberg 41.\nberggasse 30. — =Baur, Joh. Benedict, Postcommis. Nadelberg 6.\nFeierabend=Haurh, Wb. Serena, Schuhmacher. — =Bulacher, Joh. Balth., Quartierschreiber.\nAeschenvorstadt 68. Steinenvorstadt 20.\nFeigenwinter=Friedrich, Jakob, Korbflechter. — =Burchhardt, Heinr., Schreiner. Nonnenweg 39.\nFabrikstrasse 9. Catharina, Schneiderin. Sattelgasse 6.\n— Joh., Commis. Ranonengasse 7. — =Eberle, Hans, Tuchhandlung. Freie\nFeindel=Bouchard, Wb. Francoise, Schneiderin. Spalenberg 10. Strasse 72. Firma J. Fischer.\nFeler=Feler, Alois, Maurer. Sattelgasse 3. — =Götz, Wilh. Aug., Commis. St. Clara=Strasse 31.\nFelber, Daniel, Entleerungsunternehmer. St. — =Grunauer, Buchbinder= und Schreibmaterialiengeschäft. Schneidergasse 33.\nAlban=Vorstadt 62. Firma H. Fischer u. Comp.\n— =Etter, Joseph, Gerbergejelle. Rheingasse 45. — =Horner, Elias, Part. Steinenvorft. 26.\nFelder=Binder, Ant., Maurer. Spalenberg 36. — Joh., Musiker. Steinenvorstadt 61.\nFellmann=Weilemann, Ludwig, Schreiner. — Joh. Jak., Schloffer. St. Alban=Vorstadt 60.\nSt. Peters=Bergh 15. — =Jörin, Simon, Taglöhner. Sternengässlein 29.\nFender, Theresia, Part. St. Martinskirch- — =Kedler, Jak., Commis. Münsterberg 2.\nplatz 1. — =Lindenmeyer, Andreas, Bäcker. Steinenvorstadt 26.\n— Wilh., Kaufm. St. Martinskirchplatz 1. — Lucas, Portier. Münsterhof 1.\nFent=Wetter, Joh. Heinr., Posamenter. Hutgasse 19. — Maria, Modiste. Grünpfahlgässlein 8.\nFenner=Kunz, Jakob, Schriftseker. Weisse — =Miville, Emil, Mehlhändler u. Wirth. Gerbergasse 38.\nGasse 8. — =Dechslin, Dan., Kiifer. Sattelgasse 8.\n— =Rudloff, Rudolf, Werkführer. Riehenstrasse 59. — =Kupp, Heinrich, Fabrikarbeiter. Rheingasse 27.\nFernsemer=Häberle, Balthasar, Geistlicher. — =Schmuziger, Andreas, Ruttler. Münzgässlein 17.\nSpalenvorstadt 12. — =Sutter, Johann, Zimmermann. St. Leonhards-Berg 14.\nFekler, Josef, Bahnwart. Riehenteichweg 16. — =Trautvetter, Carl Reinhard, Landökonom. Allschwylor Strasse 7.\nFeurstein, Wb. Valeria, Part. Steinenvorstadt 8. — =Bollenweider, Wb. Maria Louise, Part. Spalenberg 11.\nFichter=Benez, Abraham, Schreiner. Allschwylor Strasse 13. — =Weiß, Rud., Fabrikarbeiter. Hammerstrasse 67.\n— Joh. Jak., Bandfabrikant. St. Elisabethen=Strasse 45. Firma: Fichter und Söhne.\n— Julie, Part. St. Elisabethen=Strasse 45.\n— =Seiler, Benedict, Bandfabrikant. St. Elisabethen=Strasse 41.\n— u. Söhne, Bandfabrik. St. Elisabethen=Strasse 41.\nFicus=Arlen, Niklaus, Fabrikarbeiter. Spalenvorstadt 41.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9487,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3672,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 73.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:06:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p342",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p342.jpg",
+      "bytes": 1666916,
+      "sha256": "0941876f9a9e60c73464cb7e97b4ce09e30299f6f1c8ae1c8133b7f98f8f8691",
+      "sha256_of": "original",
+      "working_copy": "1862_p342.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:09+00:00"
+  }
+}

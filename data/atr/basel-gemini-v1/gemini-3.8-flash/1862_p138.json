@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p138",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p138.jpg",
+    "bytes": 1467869,
+    "sha256": "91ba96155511c6b11406921306de29cd7c4113b87c2cbba43ff795a54ba6c45e",
+    "sha256_of": "original",
+    "working_copy": "1862_p138.jpg"
+  },
+  "text": "St. Johann-Vorstadt. | 73\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n58 | I. | 24 | zur Fortuna. | Koechlin-Burckhardt, Samuel.\n  Koechlin-Burckhardt, Samuel, Rentier.\n  Koechlin, Eduard, Bandfabrikant.\n59 | I. | 9 | | Hübscher-Lichtenhahn, Wilhelm und Sprünglin, David.\n  Kienzy-Schweizer, Leonh., Fuhrhalter.\n  Abt-Abt, Heinrich, Kostgeber.\n  Hosch-Frey, Lucas, Schuhmacher.\n  Gysin-Kaiser, Heinrich, Maurer.\n60 | I. | 21 | | Kocherhans-Trinnler, Hans.\n  Kocherhans-Trinnler, Hans, Part.\n  Strübin-Siegrist, Wb. Cath., Kinderlehr.\n61 | I. | 6 | | Kienzy-Oswald, Wb. Judith.\n  Kienzy-Oswald, Wittwe Judith, Part.\n  Kienzy, Johannes, Bäcker.\n62 | I. | 20 | z. weißen Himmel. | Weiß-Sütterlin, Johann Heinr.\n  Weiß-Sütterlin, Joh. Heinr., Bäcker.\n63 | I. | 4 | | Vöglin-Beurmann, August.\n  Vöglin-Beurmann, August, Bäcker.\n  Brudermann-Dettwyler, Mart., Appret.\n64 | I. | 19 | zum schwarzen Kopf. | Gerber-Hack, Joh.\n  Gerber-Hack, Johannes, Wirth.\n  Focay-Fundt, Eugen, Lehrer.\n65 | I | 3 | | Hufschmied-Hartmann, Jacob.\n  Hufschmied-Hartmann, Jacob, Spezier.\n66 | I. | 18 | | Kienast, Rudolf.\n  Kienast, Rudolf, Seidenfärbergeselle.\n  Fosseler, J. U. Agent.\n67 | I. | 2 C | | Hübscher u. Sprünglin.\n  Heß-Frey, Joh. Jakob, Weinhändler.\n68 | I. | 17 | | Tschopp, Joh. Jacob.\n  Tschopp-Erb, Joh. Jacob, Stuhlschreiner.\n  Tschopp, Joh. Jacob, Particular.\n69 | I. | 2 B | | Hübscher u. Sprünglin.\n  Hegetschwyler, Joh., Cigarrenfabrikant.\n  Mieg-Roos, Wb. Rosina, Rentiere.\n70 | I. | 15—16 | | Klipfel-Born, Gg. Heinrich.\n  Klipfel-Born, Gg. Heinrich, Weinhdlg.\n71 | I. | 2 A | | Häfeli-Butz, Joseph.\n  Haefeli-Butz, Joseph, Wirth u. Kostgeb.\n  Bader, Philipp, Schuhmacher.\n72 | I. | 14 | | Zaeslin-Roelly, Wb. Catharina.\n  Zaeslin-Roelly, Wb. Cath., Part.\n73 | | | Kapelle. | Corporationsgut. (Bann v. St. Peter und St. Leonhard.)\n74 | I. | 12 | | Ecklin-v. Mechel, Wb. Verena Barb.\n  Ecklin-v. Mechel, Wb. Verena Barb., Rent.\n76 | I. | 8 | | Gerber-Mangold, Joh. Jac.\n  Gerber-Mangold, J. J., Wirth u. Kostg.\n78 | I. | 7 | | Klipfel-Born, G. Heinrich.\n  Remise und Stallung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9683,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2137,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:46:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p138",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p138.jpg",
+      "bytes": 1467869,
+      "sha256": "91ba96155511c6b11406921306de29cd7c4113b87c2cbba43ff795a54ba6c45e",
+      "sha256_of": "original",
+      "working_copy": "1862_p138.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:00+00:00"
+  }
+}

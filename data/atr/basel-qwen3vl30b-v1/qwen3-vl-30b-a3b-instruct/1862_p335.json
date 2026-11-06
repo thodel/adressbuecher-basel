@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p335",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p335.jpg",
+    "bytes": 1445526,
+    "sha256": "a98a30c4176c94ed26cd4f66f85c417711ae207a9e02296094d5e7bfa682aea3",
+    "sha256_of": "original",
+    "working_copy": "1862_p335.jpg"
+  },
+  "text": "270\nVerzeichniß der Bürger und Einwohner.\nChrist-Tschopp, Christ., Schneider. Rheingasse 45.\n— =Uebelin, Balth., Commis. Missionsstraße 51.\n— Ursula Elisabeth, Schneiderin. Rheingasse 59.\n— =Wild, Jean, Schuhmacher. Stadthausgasse 3.\nChristen-Amsler, Magdalena, Zettlerin. Gerbergäßlein 20.\n— Emanuel, Cand. d. Theologie. St. Peters-Platz 11.\n— =Euler, Nicolaus, Seidenfensal. St. Peters-Platz 11.\n— =Gerber, Heinr., Posamenter. Imbergäßlein 33.\n— =Haury, Alexander Heinr., Conducteur. Aeschenvorstadt 73.\n— Johannes, Lehrer. St. Theodorskirchplatz 7.\n— =Mangold, Mb. Maria, Gebamme. Weiße Gasse 18.\n— =Preiswerk, Peter, Commis. Klosterberg 17.\n— =Rieder, Math., Wascher. Vadergässlein 2.\n— Schwestern, Kleinkinderschule. Freie Straße 33.\nChristmann-Steinmann, Jos., Weinhandlung. Fischmarkt 3.\nClamaron-Baud, Jean, Appreteur-Gehilfe. Spalenberg 12.\nClaffen-Steiger, Conrad, Commis. Schützenmattstraße 2.\nClavel-Linder, Alex., Seidenfärbner. Untere Reb-gasse 25.\n— Louise Magdalena, Cigarrenmacherin. Spiegelgasse 14.\nCloßmann-Pombard, Aug. von, Literat. Reb-gasse 5.\nCobat-Monin, Victor. Weinhändler. Wallstraße 18.\nCoblenz-Christen, Ignaz, Koch. St. Clara-Straße 20.\nCollin-Bernoulli, Bernh., Kaufmann. Spalenberg 55.\nConradi, Christina Dorothea, Musiklehrerin. Barfüsserplatz 9.\nCordelier-Eberle, Peter, Rutscher. Steintorstraße 5.\nCornu, Felix, Chemiker. Bahnhofstraße 3.\nCoulern-Duvernoy, Carl, Civil-Ingenieur. St. Johann-Vorstadt 15.\nCourvoisier, Aug., Rentier. Spalenthorweg 12.\n— =Loundes, Og. Ludw. Firma G. Courvoisier u. Comp. Commission in Effekten, sowie Eigenverkauf von Thee u. feinen Weinen. St. Peters-Berg 29.\n— =BonderMühl, Ludw., Part. St. Leonhards-Straße 10.\nCramer, Eduard, Commis. Rheingasse 1.\n— Gustav, Kaufmann. Rheingasse 1.\n— =Schnepp, Jos., Abwart. Steinenberg 14.\n— =Senn, Spezerei-handlung. Rheingasse 1.\n— =Sieveking, Gabriel Franz, Pfarrer. St. Peters-Gasse 30.\nTrousaz-Fröhlich, Jac., Maler. Klimelinsplatz 15.\nTruffaire-Durand, Vict., Zuckerbäcker. Schneidgasse 27.\n— =Mougin, Wb. Marg., Part. Missionsstraße 37.\n— =Pfau, Wb. Marg., Part. Schneidergasse 22.\n— =Tollmann, Ths., Tapetenlager. Freie Straße 94.\n— =Tollmann, Carl, Handelsmann. Missionsstraße 37.\n— =Wahr, Ludw., Conditor. Barfüsserplatz 1. Curiger, Bened., Schreiner. Heumattstraße 13.\n— Meinrad, Buchbinder. St. Peters-Gasse 2.\nCuttat-Stapping, Carl, Fabrikarbeiter. Blumenrain 26.\nCyprian-Ernst, Benedict, Hausknecht. St. Peters-Berg 33.\nDändliker-Ulch, Anna, Cath., Taglöhnerin. Schneidergasse 9.\nDäniken von, Jos., Fabrikarbeiter. Spalenvorstadt 39.\nDäntliker-Schleiniger, Mb. Louise, Modewarenhandlung. Eifengasse 15.\nDäschler-Böhler, Simon, Claviermacher. Klosterberg 31.\n— Caspar, Taglöhner. Weidengasse 24.\nDalang-Andres, Heinr., Bäcker und Wirth. Rheingasse 56.\n— =Heger, Eduard, Ferger u. Weinagent. Webergasse 38.\nDalcher-Schlegel, Heinr., Saatträger. St. Johann-Vorstadt 18.\nDannacher-Thommen, Jacob, Färbergesele. Bahnhofstraße 33.\nDanner, Jac., Part. Allschwyler Straße 7.\nDanzas, Leveque u. Minet, Commissionairs. Schiffände 5.\nDanzeisen-Müller, Christ., bad. Bahnhofangestellter. St. Clara-Straße 22.\nDaucher-Kermgott, Ph., Gärtner. Kiehenstraße 54.\nDavans von, Aug., Post- u. Eisenbahncaissier. Bahnhofstraße 10.\nDavid-Bithler, Wilh., Fabrikarb. Kanongasse 7.\n— =Burchardt, Heinr., Kaufmann. Missionsstraße 48.\n— Christof Dietr., Mezger. Webergasse 38.\n— =Day, Achiles Albrecht, Bäcker. Rheingasse 5.\n— Georg, Mezger. Rheingasse 78.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8698,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3460,
+    "lines": 67,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.66,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:05:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p335",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p335.jpg",
+      "bytes": 1445526,
+      "sha256": "a98a30c4176c94ed26cd4f66f85c417711ae207a9e02296094d5e7bfa682aea3",
+      "sha256_of": "original",
+      "working_copy": "1862_p335.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:03+00:00"
+  }
+}

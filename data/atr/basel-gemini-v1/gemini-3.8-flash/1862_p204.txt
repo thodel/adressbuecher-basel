@@ -1,0 +1,53 @@
+Spalenvorstadt. | 139
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+25 | II. | 322 | | Stauber-Delaquis, Rudolf.
+  Stauber-Delaquis, Rud., Bäcker.
+  Modespacher-Schmidt, Val., Briefträger.
+  Orelli-Fischer, Giuseppe, Glaser.
+26 | II. | 291 | | Bohny-Fausel, Joh.
+  Christ-Hartmann, Jeremias, Metzger.
+27 | II. | 321 | | ImHof-Maerky, Andreas.
+  ImHof-Maerky, Andreas, Bäcker.
+  ImHof-Hoch, Andreas, Part.
+  ImIof, Melchior, Commis.
+28 | II. | 292 | | Gysin-Weber, Daniel.
+  Gysin-Weber, Daniel, Sattler.
+29 | II. | 320 | | ImHof-Maerky, Andreas.
+  ImHof, Benedikt, Altzoller.
+30 | II. | 293 | | Krug'sches Fideikommiß.
+31 | II. | 319 | zum hohen Haus. | Rohr-Schmidt, Johannes.
+  Rohr-Schmidt, Johannes, Kaufmann.
+32 | II. | 294 | | Schneider-Wirz, Wb. Barbara.
+  Schneider-Wirz, Wb. Barbara, Part.
+  Wernli-Meyer, Rudolf, Wirth.
+33 | II. | 318 | zum Oestreich. | Weißenberger-Martin, Johannes.
+  Weißenberger-Martin, Johannes, Spe-
+    zierer.
+  Walter, Joh. Georg, Telegraphist.
+34 | II. | 295 | zum rothen Hut. | Ziegler, Elisabeth.
+  Hauschild-Alsleben, Ernst, Gesanglehrer,
+    Phil. Dr.
+35 | II. | 317 | zum Fasan. | Mohler-Schardt, Jakob.
+  Mohler-Schardt, Jakob, Bäcker.
+  Brotbeck-Haenggi, J. Rud., Commis.
+  Brotbeck, Emanuel, Commis.
+36 | II. | 296 | z. Rätzdorf. | Henz-Kiefer, Eucharius.
+  Henz-Kiefer, Eucharius, Holzsetzer.
+37 | II. | 316 | z. weißen Rößli. | Brotbeck-Gnehm, Wb. Magdalena.
+  Brotbeck-Gnehm, Wb. Magdal., Part.
+  Rupplin-Brotbeck, Em., Bäcker.
+  Bohny-Hoffmann, Friedr., Schneider.
+38 | II. | 297 | zur äußern lieben Frau. | Sandreuter-Langmesser, Rudolf.
+  Sandreuter-Langmesser, Rud., Brieftr.
+  Sandreuter-Graf, Rud., Postfactor u.
+    Wirth.
+39 | II. | 315 | zum Vogel. | Goette-Waser, Johannes.
+  Goette-Waser, Johannes, Zimmermstr.
+  Schweizer-Sasse, Fritz, Bäcker.
+  Kestenholz-Brunner, Joh. Anton, Des-
+    sinateur.
+40 | II. | 298 | | Schardt-Breiting, Carl.
+  Meily, Wilhelm, Commis.
+  Walter, Friedr., Commis.

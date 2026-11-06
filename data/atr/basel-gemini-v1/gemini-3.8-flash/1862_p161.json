@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p161",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p161.jpg",
+    "bytes": 1349771,
+    "sha256": "8f9ac1aa6c07314813004ee84d5a45212b346db99f160b80b0cdcd18701a14cb",
+    "sha256_of": "original",
+    "working_copy": "1862_p161.jpg"
+  },
+  "text": "96 Mühlenberg. — Münchensteiner-Straße.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nMühlenberg.\n1 | V. | 1328 | | Schilling-Dietschy, Wb. Anna Marg.\n  Schilling-Dietschy, Wb. Anna Marga-\n  retha, Particularin.\n3 | V. | 1327 | zur Eiche. | Oser-Paravicini, Carl.\n  Oser-Paravicini, Carl, Wechselsensal.\n  Hermann-Matzinger, Theodor, Agent.\n  Matzinger-Eger, Wb. u. Jgfr. Eger, Rent.\n4 | V. | 1316 C | | Rohner-Wertenberg, Johann.\n  (Siehe Nr. 57 St. Alban-Vorstadt.)\n6 | V. | 1323 | | Preiswerk-Fürstenberger, Wb. Soph.\n  Preiswerk-Fürstenberger, Wb. Sophia,\n  Particularin.\n10 | V. | 1324 | | Nidecker-Linder, Johannes Mathias.\n  Nidecker-Linder, Joh. Math., Handelsm.\n12 | V. | 1325 | Pfarrhaus. | Staat.\n  Preiswerk-Stähelin, Samuel, Pfarrer.\n18 | V. | 1309 B | | Freyvogel-ImHof, Friedrich.\n19 | V. | 1308 | zur vordern Mühle. | Wehrli-Rudin, Joh. Jacob.\n  Wehrli-Rudin, Joh. Jacob, Ferger.\n  Schöttli-Hilpert, Jacob, Schleifer.\n20 | V. | 1309 d | St. Albankloster. | Freyvogel-ImHof, Friedrich.\n  Freyvogel-Imhof, Friedr., Bandfabrikant.\n21 | V. | 1308 | zur vordern Mühle. | Wehrli-Rudin, Joh. Jacob.\n  Stalder-Lapp, Johann, Schuhmacher.\n22 | V. | 1309 a | St. Albankloster. | Freyvogel-ImHof, Friedrich.\n  Heusler-Iselin, Daniel, Bandfabrikant.\n24 | V. | 1309 | St. Albankloster. | Freyvogel-ImHof, Fried. (Fabrik.)\n\nMünchensteiner-Straße.\n1 | V. | 232 | zum Sommercasino. | Casinogesellschaft.\n  Dürr-Früh, Albert, Traiteur.\n2 | IV. | 230 | | VonderMühl-Bischoff, Emanuel.\n3 | V. | 232 A | | Casinogesellschaft.\n  Hasler-Vöglin, Bartholomäus, Gärtner.\n4 | IV. | 230 A | | Burckhardt-Sarasin, Wilhelm.\n  Burckhardt-Sarasin, Wilhelm, Rentier.\n  Höchner-Oechslin, Jacob, Gärtner.\n8 | IV. | 233 | | Sarasin, Felix, sel. Erben.\n  Hasler-Berger, Adam, Gärtner.\n9 | V. | 234 A | | Weitnauer-Fischer, Friedrich.\n11 | V. | 234 | | Wirz, Heinrich, sel. Erben.\n  Wirz, Carl, Blattmacher.\n  Henz, Joh. Jacob, Weinzoller.\n  Amberger, Gustav Adolf, Kunstmaler.\n13 | V. | 234 b | | Wirz, Heinrich, sel. Erben.\n  Hauser-Grieder, Joh., Blattmacher.\n22 | IV. | 246 | zum Dreispitz. | Merian-Burckhardt, Christ., sel. Erb.\n23 | | | | Keßler-Müller, Wb. Magdalena, Part.\n25 | V. | | Pulvermagazine. | Staat.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9318,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2257,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p161",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p161.jpg",
+      "bytes": 1349771,
+      "sha256": "8f9ac1aa6c07314813004ee84d5a45212b346db99f160b80b0cdcd18701a14cb",
+      "sha256_of": "original",
+      "working_copy": "1862_p161.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:47+00:00"
+  }
+}

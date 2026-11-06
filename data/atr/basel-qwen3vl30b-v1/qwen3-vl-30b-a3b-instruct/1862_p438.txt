@@ -1,0 +1,122 @@
+Verzeichniss der Berufsarten.
+373
+Egli-Kern, Jac. Heuberg 36.
+Eichbach-Baur, Sam. St. Albanrheinweg 102.
+Eichbach-Garnaus, Eman. Weidengasse 22.
+Frick-Witschy, Johs. Hardstrasse 70.
+Fürbringer-Göttschin, Wilh. Aeschenvorstadt 10.
+Gebhardt-Mercier, Johs. Heumattstrasse 13.
+Gerber-Eisenlohr, J. J. St. Jakobs-Strasse 35.
+Gernhardt, Adolf. Gatterbarmweg 15.
+Geyger-Schmocker, Math. Horburgstrasse 3.
+Gilgin-Bell, Fridolin. Hammerstrasse 28.
+Glanzmann, Joh. Hintere Bahnhofstrasse 50.
+Glatz-Zeller, Jac. Binninger Strasse 23.
+Grosz-Herzog, Rud. Alybeckstrasse 119.
+Hämmerlin-Baumgartner, Mich. St. Jakobs-
+Strasse 4.
+Hänger-Baumgartner, Sam. Weisse Gasse 8.
+Hasler-Berger, Ad. MünchensteinerStrasse 8.
+Hasler-Böglin, Barthol. Münchensteiner
+Strasse 3.
+Heiz-Baumann, Gust. Horburgstrasse 18.
+Hierholzer-Meyer, Jos. Fabrikstrasse 27.
+Hinter-Bögt, Panfrat. Malzgasse 18.
+Höchner-Dechslin, Jacob. Münchensteiner
+Strasse 4.
+Horlacher, Jac. Gundoldinger Strasse 21.
+Huber-Schreck, Jac. Schützenmattstrasse 43.
+Hupfer-Hutterle, J. G. Riehen-Strasse 94.
+Ißlinger-Moser, Johs. Klosterberg 13.
+Keller-Sehringer, Chr. Alybeckstrasse 17.
+Klotz-Gutzwiler, Johs. Alybeckstrasse 49.
+Kull-Höbel, Heinrich. In d. Neujäzen 5.
+Landis-Felber, Heinr. Gellertstrasse 19.
+Läuchli-Huggenberger, Wb. Grenzacher-
+Strasse 76.
+Mäglin-Pfister, Jac. Riehenthofstrasse 2.
+Maffelot-Kiefer, Franz. Grenzacher-Strasse 72.
+Meyer-Wälty, Jacob. St. Alban-Ringweg 21.
+Möcklin-Mai, Heinr. Mittlere Strasse 44.
+Möcklin-Mai, Sebalt. Mittlere Strasse 44.
+Müller-Huber, Johann. Riehen-Strasse 76.
+Opplinger-Degen, Casp. Karthausgäblein 1.
+Payot-Grummler, Jac. Blumenrain 16.
+Rähmi-Meuri, Joh. Malzgasse 15.
+Rueffer-Altenbach, Jac. Allschwyler Strasse 9.
+Scheidegger-Kramer, Johs. Gellertstrasse 29.
+Schmauz-Salzmann, Hieronym. Grenzacher-
+Strasse 24.
+Schmid-Hilzin, Friedr. Herrenmattweg 26.
+Schmied-Zucker, J. G. Alybeckstrasse 69.
+Schuster-Pischl, Og., Stadtgärtner. St. Pe-
+ters-Platz 7.
+Schwörer-Baumann, Og. Alybeckstrasse 119.
+Siegriß-Eckert, Rud. Alybeckstrasse 21.
+Simmler-Frauenfelder, Johannes. Riehen-
+Strasse 12.
+Spöri-Meyer, Bernh. Grenzacher-Strasse 133.
+Stäubli-Scholl, Bernh. Austrasse 48.
+Thalmann, Jos. Alybeckstrasse 59.
+Theiler-Bürgy, Heinrich. Gerbergasse 19.
+Thommen-Müller, J. J. Spalenberg 3.
+Trieb-Nußbaumer, Wb. Anna. Mittlere
+Strasse 33.
+Tschopp, Rud. Alybeckstrasse 19.
+Bögele-Bögle, Anton. Alybeckstrasse 63.
+Bögtlin, Johs. Grenzacher-Strasse 62.
+Walter, Emil. Schützenmattstrasse 31.
+Walter-Zurflüh, Ludw. Alybeckstrasse 27.
+Weber-Walte, Friedr. Aeschenvorstadt 77.
+Behrli-Dobler, Gabriel. Gerbergäblein 33.
+Weihrauch, Geschw. Herrenmattweg 26.
+Weiß-Schmid, Friedr. Missionsstrasse 34.
+Wenge-Höchle, Johs. Kirchgasse 2.
+Wekel-Steinhauer, Hermann. Grenzacher-
+Strasse 48.
+Willin, Johs. Lehennattweg 32.
+Galvanoplastische Anstalt.
+Haas'che Gießerei. Mostackerstrasse 25.
+Gasbeleuchtungs-Unternehmer.
+Dollfus, Caspar. Rebgaſse 1.
+Sandreuter, J. J. Schneidergasse 5.
+Bultier, Eugen. Fabrikstrasse 19.
+Gastwirthe.
+Becker-Geiger, Friedr. Bahnhofstrasse 19.
+(Zum Basler Hof.)
+Brack-Weister, J. J. Freie Strasse 35.
+(Zum wilden Mann.)
+Breiting-Heusler, Sam. Aeschenvorstadt 44.
+(Zum goldenen Stern.)
+Flüel, Caspar. Ochsen-gasse 10.
+(Zum rothen Ochsen.)
+Sfenhut-Braun, Ed. Schiffände 3.
+(Zum goldenen Kopf.)
+Kling-Roch, Eugen. Schützenmattstrasse 2.
+(Zum schwarzen Ochsen.)
+Klein-Weber, Johs. Stadthausgasse 25.
+(Zum Storchen.)
+Krafft, Ernst. Rheingasse 17.
+(Zum schwarzen Bären.)
+Leipzig-Stör, P. A. Schwanengasse 4.
+(Zur goldenen Blume.)
+Lindenmeyer-Müller, Friedr. Schiffände 5.
+(Zur Krone.)
+Madörin-Glajer, Friedr. Schwanengasse 5.
+(Zum Schwanen.)
+Meister-Erni, Henriette. Gerbergasse 16.
+(Zur Post.)
+Pfister-Zetter, Andr. Rheingasse 8.
+(Zum weissen Kreuz.)
+Ritter, Rud. Barfüsserplatz 3.
+(Zum Schiff.)
+Senn-Isenegger, J. J. Blumenrain 8.
+(Zu drei Königen.)
+Sejfer-Seiler, Johann. Rheingasse 25.
+(Zur Sonne.)
+Stöckel-Blender. Spalenvorstadt 3.
+(Zum Engel.)
+Ulmann, Reg. u. Soph. Spalenvorft. 3.
+(Zur Kanne.)
+Walter-Jägg, Joseph. Aeschenvorstadt 67.
+(Zum schwarzen Bären.)

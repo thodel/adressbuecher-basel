@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p166",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p166.jpg",
+    "bytes": 1476718,
+    "sha256": "a352936500a8d4560c509d52eee516425c0a41ac54c8b2637608f9262eaf9a9e",
+    "sha256_of": "original",
+    "working_copy": "1862_p166.jpg"
+  },
+  "text": "Nadelberg. | 101\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n9 | II. |  |  | Eingang zu Nr. 9 u. 11 Todten-\n  gäßlein.\n10 | II. | 549 | Zerkindenhof. | Bischoff-Merian, Rudolf.\n  Bischoff-Merian, Rudolf, Kaufmann.\n  Bischoff, Benedict, Tuchhandlung.\n11 | II. | 552 A |  | LaRoche, Germann.\n12 | II. | 548 | Griebhof. | VonderMühll-Bischoff, Emanuel.\n  VonderMühll-Bischoff, Emanuel, Part.\n14 | II. | 525 |  | Häfelin-Mohr, Wb. Salomea.\n  Häfelin-Mohr, Wb. Salomea, Part.\n  Theiler, Josef Eduard, Kaufmann.\n15 | II. | 550 | zur alten Treue. | Schieferli-Weiß, Friedr. Wilhelm.\n  Schieferli-Weiß, Fr. Wilh., Sägenseiler.\n16 | II. | 523 | d. Bienz'sche Haus. | Koch-Schieferli, Heinrich.\n  Koch-Schieferli, Heinrich, Spengler.\n17 | II. | 547 A | zur alten Treue. | Burckhardt-Iselin, Wb. Dorothea.\n  Burckhardt-Iselin, Wb. Dor., Rentiere.\n  Burckhardt-Iselin, August, Kaufmann.\n18 | II. | 522 | zum Kaiser. | Zäslin-Stähelin, Conrad.\n  Zäslin-Stähelin, Conrad, Handelsmann.\n  Firma J. J. Frey, Commission und\n  Spedition.\n  Kürsteiner-Berri, Wb. Apollonia, Part.\n19 | II. | 546 |  | Stückelberger-Berri, Wb. Salom.\n  Stückelberger, Rud. Math., Part.\n20 | II. | 520 | Roßhof. | LaRoche-Stehelin, Benedict.\n  LaRoche-Stehelin, Benedict, Banquier.\n  Firma: Benedict LaRoche.\n21 | II. | 524 |  | Heckel-Salathe, Helena.\n  Heckel-Salathe, Helena, Trödlerin.\n22 | II. | 520 | Roßhof. | LaRoche-Stehelin, Benedict.\n23 | II. | 521 | Almosenschaffnei. | Almosenamt der Stadt Basel.\n  Herzog-Eguet, Joh., Almosenschaffner\n  und Notar.\n  Herzog, Adolf, Notariatsgehülfe.\n  Herzog, Emil, Kaufmann.\n24 | II. | 511 | zur Platte. | Fürstenberger-Debary, Wb. Julie.\n  Fürstenberger-Debary, Wb. Julie.\n  Fürstenberger, Albert, Wollhändler.\n25 } | II. | 519 |  | Fürstenberger, Hans Georg.\n27 } |  |  |  | \n28 | II. | 507 A | z. großen Birseck. | Brenner-Stehelin, Joh.\n  Brenner-Stehelin, Joh., Kaufmann.\n  Lützelmann-Schaffner, Joh. Jac., Kaufm.\n  Firma: J. J. Lützelmann, Farb-\n  und Materialienhandlung.\n29 | II. |  |  | Schär, Joh. Jacob.\n  (Eingang zu Nr. 12 Spalenberg.)\n30 | II. | 505 | zur Liebburg. | Puppikofer-Landolt, Friedrich.\n  Puppikofer-Landolt, Friedr., Schreiner.\n  Basler, Anton, Stuhlschreiner.\n  Hörner-Frey, Julius, Friseur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8977,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2290,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:50:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p166",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p166.jpg",
+      "bytes": 1476718,
+      "sha256": "a352936500a8d4560c509d52eee516425c0a41ac54c8b2637608f9262eaf9a9e",
+      "sha256_of": "original",
+      "working_copy": "1862_p166.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:34+00:00"
+  }
+}

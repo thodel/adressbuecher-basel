@@ -1,0 +1,48 @@
+150 Steinenthorstraße.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+22 | III. | 853 | zum St. Andreas. | Paravicini-Meyer, Joh. Ludwig.
+  Paravicini-Meyer, Joh. Ludwig, Zimmermannsmeister.
+  Paravicini-Merian, Ludwig, Zimmermeister, Particular.
+23 | III. | 870 | | Merian-Brandmüller, Friedrich.
+  Merian-Brandmüller, Friedrich, Bierbr.
+  Merian-Süffert, Ludwig, Particular.
+  Brandmüller-Eckenstein, Joh. Heinrich, Particular.
+25 | III. | 869 | zum blauen Wind. | Riggenbach-Huber, Wb. Charlotte.
+  Riggenbach-Huber, Wb. Charlotte, Part.
+  Riggenbach-Holzach, Johan., Professor Dr. der Theologie.
+27 | III. | 868 | z. äuß. blauen Wind. | Oppermann-Landerer, Carl.
+  Oppermann-Landerer, Carl, Flachmaler.
+  Oppermann, Carl, Sohn, Flachmaler.
+  Sommer-Müller, Rudolf, Bäcker.
+  Munzinger-Landerer, Wb. Margaretha, Particularin.
+29 | III. | 867 | | Weber-Marfort, Rudolf.
+  Weber-Marfort, Rudolf, Metzger.
+  Müller-Herport, Anton, Eisenbahnbeamt.
+  Harder, Sophie, Privatschule.
+  Hösl-Heerele, Friedrich, Concertmeister.
+30 | III. | 854 | | Bürgin, Heinrich.
+  Bürgin, Heinrich, Seifen- und Lichterfabrikant.
+  Frey-Hotze, Daniel, Zollbeamter.
+  Luttringshausen-Cuat, Eduard, Commis.
+31 | III. | 866 | zur Laterne. | Müller-Pfau, Joh. Jacob.
+  Müller-Pfau, Joh. Jacob, Brunnmstr.
+32 | III. | 855 | Hinterhaus. | Deck-Ernst, Wilhelm Peter.
+  Stingelin-Seiler, Jacob, Maler.
+  Bölmy-Rieder, Heinrich, Mechaniker.
+33 | III. | 865 | | Röslin-Härry, Johann Rudolf.
+  Röslin-Härry, Johan. Rudolf, Fabrikarbeiter.
+  Röslin, Rud., Ausläuf. b. Baucollegium.
+34 | III. | 855 | | Deck-Ernst, Wilhelm Peter.
+  Neukomm-Weiß, Joh. Georg, Wirth.
+35 | III. | 864 | | Früh-Bölsterli, Friedrich.
+  Früh-Bölsterli, Friedrich, Commis.
+36 | III. | 856 | | Stehle-Jourdan, Albert.
+  Stehle-Jourdan, Albert, Metzger.
+37 | III. | 863 | zum Balchen. | Hartmann-Schäublin, Johannes.
+  Hartmann-Schäublin, Joh., Bäcker.
+  Hartmann, Eduard, Dessinateur.
+  Bienz, Gabriel, Metzger.
+38 | III. | 857 | | Roth-Rothmund, Jacob.
+  Roth-Rothmund, Jacob, Fabrikmeister.
+  Studer-Kuhn, J. C., Spezierer.

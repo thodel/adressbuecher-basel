@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p076",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p076.jpg",
+    "bytes": 1411438,
+    "sha256": "569eb616187ebe6cf4b0a22d699d53d0765182c4353cf780dd158a8e61ec466a",
+    "sha256_of": "original",
+    "working_copy": "1862_p076.jpg"
+  },
+  "text": "Aeschenvorstadt. | 11\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n65 | IV. | 1009 |  | Geßler-Fischer, Karl Samuel.\n  Ackermann, Maria, Kostgeberin.\n  Ludwig-Muspach, Mar., Wb., Part.\n66 | IV. | 994 |  | Gull, Jean.\n  Gull, J., Locomotivführer.\n  Kocherhans, Jakob, Bäcker.\n67 | IV. | 1008 | z. schwarzen Bären. | Walter-Jägg, Joseph.\n  Walter-Jägg, Joseph, Gastwirth.\n  Dietschy, Michael, Posthalter.\n68 | IV. | 995 |  | Feierabend-Haury, Wb. Verena.\n  Feierabend-Haury, V., Wb., Schuhmach.\n69 | IV. | 1007 |  | Walter-Jägg, Joseph.\n  Kaus-Brodbeck, Martin, Hafner.\n  Fäs-Driösel, Kaspar, Maurerparlier.\n  Fäs-Jundt, Jakob, Commis.\n71 | IV. | 1006 | zum Rebstock. | Jäggi-Jundt, Adolf.\n  Jäggi-Jundt, Adolf, Metzger u. Speise-\n  wirth.\n  Schmied, Elias, Möbelschreiner.\n72 | IV. | 996-997 |  | Kußmaul-Schlack, Michael.\n  Ole Andersen-Iselin, Baumeister.\n  Kehlstadt-Stocker, Joh. Ludw., Quartier-\n  schreiber und Weinsticher.\n  Widmer-Widenkeller, Joh., Schreiner.\n73 | IV. | 1005 | zur Hägen-Egerten. | Böhme-Brotbeck, Jacob Benedict.\n  Böhme-Brotbeck, J. B., Schreiner.\n  Strehler-Weiß, Joh., Mechaniker.\n74 | IV. | 998 |  | Mähly-Fininger, Jacob.\n  Mähly-Fininger, Jacob, Küfer.\n75 | IV. | 1004 | zum Thurm. | Braun-Steiger, Rudolf.\n  Braun-Steiger, Rud., Heuwaagmeister.\n  Stingelin-Dettwiler, Friedrich, Stuhl-\n  schreiner.\n  Müller, Carl, Gürtler.\n  Hesse, Frau Margaretha, Part.\n  Berger, Joseph, Gärtner.\n  Jenny-Thommen, Mart., Kaufhausarb.\n  Gemperlin-Eid, Joh. Ottmar, Barbier.\n77 | IV. | 1003 | zum Hauenstein. | Strub-Löw, Eduard.\n  Schmied-Bachmann, Jak., Pintenwirth.\n  Bachmann, Jgfrn., Haushälterinnen.\n  Bachmann-Fäsch, Emanuel, Ferger.\n  Zipfel-Widmer, Joh. Gerog, Zimmer-\n  mann.\n  Weber-Walte, Friedr., Gärtner.\n79 | IV. | 1002 |  | Welti-Heusler, Heinrich.\n  Welti-Heusler, H., Spezierer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7745,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1875,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:36:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p076",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p076.jpg",
+      "bytes": 1411438,
+      "sha256": "569eb616187ebe6cf4b0a22d699d53d0765182c4353cf780dd158a8e61ec466a",
+      "sha256_of": "original",
+      "working_copy": "1862_p076.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:15+00:00"
+  }
+}

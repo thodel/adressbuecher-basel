@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p183",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p183.jpg",
+    "bytes": 1304491,
+    "sha256": "dc5e9a488b9e194ef1e9a0f08eeeff78821f4b51a392838a35b700c0fdb13ab2",
+    "sha256_of": "original",
+    "working_copy": "1862_p183.jpg"
+  },
+  "text": "118\nMittergasse. — Nofhofgasse.\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n26 | V. | 1212 | St. Alban schwibbog. | Stadtgemeinde und Staat.\n27 | V. | 1361 | zum Olspergerhof, | Merian-Thurneyfen, Alfred.\n| | | oder Tiger. | Merian-Thurneyfen, Alfred, Kaufm.\n| | | zur Kapelle. | Bischer-Bilsinger, Wilhelm.\n| | | | Filial-Bureau der Seidentrocknungs-\n| | | | Anstalt in Zürich.\n29 | V. | 1360 | | Bischer-Bilsinger, Wilhelm.\n| | | | Bischer-Bilsinger, Dr. Wilh., Profess.\n| | | | Fürstenberger-Bischer, Georg, Kaufm.\n| | | | BonderMihll, Valeria, Particular.\n31 | V. | 1358—59 | Deutschord.-Kapelle | Bischer-Bilsinger, Wilhelm.\n| | | | Bischer-Bilsinger, Dr. Wilh., Profess.\n| | | | Fürstenberger-Bischer, Georg, Kaufm.\n| | | | BonderMihll, Valeria, Particular.\n33 | V. | 1357 | | Zselin-Burckhardt, Isaac.\n| | | | Trüdinger u. Comp., Bandfabrike.\n35 | V. | 1356 b | deutsches Haus. | Bischer-Burckhardt, Peter.\nNofhofgasse.\n3 | II. | 513 | | Vogel-Strittmatter, Christian.\n| | | | Vogel-Strittmatter, Christ., Schuhm.\n| | | | Hirsch-Studer, Dorothea, Modiste.\n4 | II. | 516 a c | | LaRoche-Staehelin, Benedict.\n6 | | | | Eisenhandlg. v. Ludwig-Eckenstein, Andr.\n5 | II. | 514 | | Oswald-Keller, Michael.\n| | | | Oswald-Keller, Michael, Maler.\n| | | | Woelfle-Heer, Johannes, Schreiner.\n| | | | Jäggi, Jakob, Schreiner.\n| | | | Liechti, Johannes, Malerwerkstätte.\n7 | II. | 515 | zur Eremitage. | Leuthardt-Rümbelin, Eduard.\n| | | | Leuthardt-Rümbelin, Ed., Holzhändler.\n| | | | Picard-Bloch, Leon, Bandhandlung.\n| | | | Bloch-Riefer, Alex., Pferdehändler.\n8 | II. | 516 | hinterer Nofhof. | LaRoche-Staehelin, Benedict.\n| | | | Hindermann-Hauser, Franz, Rentier.\n| | | | Faesch-Zaeslin, Joh. Jakob, Alt-Spi-\n| | | | talverwalter, J. U. Dr.\n9 | II. | 459 | Brunnwerkhof. | Stadtgemeinde.\n| | | | Bureau d. Brunnmeisters, Werkstätte u.\n| | | | Magazin des Brunnenwerks.\n10 | II. | 458 | zur Harmonie. | Müller-Schmidt, Joh. Nepomuk.\n| | | | Müller-Schmidt, Joh. Nep., Wirth.\n| | | | Engler, Emanuel, Schlosser.\n| | | | Engler, Franz, Musiker.\n11 | II. | 460 | | Schärer-Amsler, Leonhard.\n| | | | Schärer-Amsler, Leonhard, Metzger.\n12 | II. | 463 A. | zur Altane. | Holdenacker, Achilles.\n| | | | Siehe St. Petersgraben Nr. 55.\n13 | II. | 461 | | Leuze-Kies, Wb.\n| | | | Leuze-Kies, Wb., Schuhmacher.\n15 | II. | 463 | | Mangold-Müller, Catharina, Frau.\n| | | | Mangold-Müller, Johann, Spezierer.\n| | | | Hirt-Fehr, Pius, Schneider.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6868,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2513,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.05,
+    "mean_line_chars": 40.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p183",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p183.jpg",
+      "bytes": 1304491,
+      "sha256": "dc5e9a488b9e194ef1e9a0f08eeeff78821f4b51a392838a35b700c0fdb13ab2",
+      "sha256_of": "original",
+      "working_copy": "1862_p183.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:21+00:00"
+  }
+}

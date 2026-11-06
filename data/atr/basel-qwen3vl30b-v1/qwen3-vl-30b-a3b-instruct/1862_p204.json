@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p204",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p204.jpg",
+    "bytes": 1466354,
+    "sha256": "dad9fc60e1ef12362378db9a08377a199c49bd30cf57d35f340a7df4197b5a23",
+    "sha256_of": "original",
+    "working_copy": "1862_p204.jpg"
+  },
+  "text": "Spalenvorstadt.\n139\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n25 II. 322 Stauber-Delaquis, Rudolf.\nStauber-Delaquis, Rud., Bäcker.\nModespacher-Schmidt, Bal., Brieftträger.\nDrelli-Fischer, Giuseppe, Glaser.\n26 II. 291 Bohny-Fausel, Joh.\nChrist-Hartmann, Jeremias, Meßger.\n27 II. 321 ImHof-Maerky, Andreas.\nImHof-Maerky, Andreas, Bäcker.\nImHof-Hoch, Andreas, Part.\nImHof, Melchior, Commis.\n28 II. 292 Gysin-Weber, Daniel.\nGysin-Weber, Daniel, Sattler.\n29 II. 320 ImHof-Maerky, Andreas.\nImhof, Benedikt, Altzoller.\n30 II. 293 zum hohen Haus. Krug'sches Fideikomiß.\n31 II. 319 Rohr-Schmidt, Johannes.\nRohr-Schmidt, Johannes, Kaufmann.\nSchneider-Wirz, Wb. Barbara.\nSchneider-Wirz, Wb. Barbara, Part.\nWernli-Meyer, Rudolf, Wirth.\n32 II. 294 Weissenberger-Martin, Johannes.\nWeissenberger-Martin, Johannes, Spe-\nzierer.\nWalter, Joh. Georg, Telegraphist.\n33 II. 318 zum Ostreich. Ziegler, Elisabeth.\nHauschild-Alsleben, Ernst, Gejanglehrer,\nPhil. Dr.\n34 II. 295 zum rothen Hut. Mohler-Schardt, Jakob.\nMohler-Schardt, Jakob, Bäcker.\nBrotbeck-Haenggi, F. Rud., Commis.\nBrotbeck, Emanuel, Commis.\n35 II. 317 zum Fasan. Henz-Riefer, Eucharius.\nHenz-Riefer, Eucharius, Holzseker.\n36 II. 296 z. Räzdorf. Brotbeck-Gnehm, Wb. Magdalena.\nBrotbeck-Gnehm, Wb. Magdal., Part.\nRupplin-Brotbeck, Em., Bäcker.\nBohny-Hoffmann, Friedr., Schneider.\n37 II. 316 z. weißen Köpfi. Sandreuter-Langmesser, Rudolf.\nSandreuter-Langmesser, Rud., Brieft.\nSandreuter-Graf, Rud., Postfactor u.\nWirth.\n38 II. 297 zur äußern lieben Frau. Goette-Waser, Johannes.\nGoette-Waser, Johannes, Zimmermstr.\nSchweizer-Saffe, Fritz, Bäcker.\nKestenholz-Brunner, Joh. Anton, Des-\nfinateur.\n39 II. 315 zum Bogel. Schardt-Breiting, Carl.\nMeily, Wilhelm, Commis.\nWalter, Friedr., Commis.\n40 II. 298",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5348,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1796,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p204",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p204.jpg",
+      "bytes": 1466354,
+      "sha256": "dad9fc60e1ef12362378db9a08377a199c49bd30cf57d35f340a7df4197b5a23",
+      "sha256_of": "original",
+      "working_copy": "1862_p204.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:28+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p251",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p251.jpg",
+    "bytes": 1280388,
+    "sha256": "5ed6c1fd97d74490fee19c67a952701431f3c86ac056628b4061042663cccfee",
+    "sha256_of": "original",
+    "working_copy": "1862_p251.jpg"
+  },
+  "text": "186\nOchfengasse.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nOchfengasse.\n1 | VII. | 395 | | Widmer, Martin.\n| | | | Widmer=Marchand, Martin, Cigarren-\n| | | | u. Tabakhandlung.\n3 | VII. | 239 | zum Vechenberg. | Jenny=Boerlin, Joh. Jak.\n| | | | Jenny=Boerlin, Joh. Jak., Quartier-\n| | | | schreiber, Firma J. J. Jenny Sohn,\n| | | | Käse- u. Colonialwaarenhandlung.\n| | | | Jenny=Roth, Johannes, Zollbeamter.\n| | | | Jenny, Joh. August, Lehrer.\n| | | | Gofwylcr=Jenny, Andr. Sch., Commis.\n4 | VII. | 241 | 3. schönen Keller. | Lenzy=Bohny, Sophia.\n| | | | Lenzy=Bohny, Leonz, Metzger u. Wirth.\n5 | VII. | 240 | | Madoeri=Riedinger, Friedrich.\n| | | | Madoeri-Riedinger, Friedr., Wirth.\n| | | | Litscher=Pferfich, Friedr., Schneider.\n6 | VII. | 244 | | Fahm=Kloz, Andreas.\n| | | | Fahm=Kloz, Andreas, Schuhmacher.\n7 | VII. | 242 | zum Steinbock. | Neukomm=Hurter, Joh. Heinrich.\n| | | | Neukomm=Hurter, Joh. Sch., Bäcker.\n8 | VII. | 244 A | zum Rosenberg. | Rauz=Friedmann, Joh. Michael.\n| | | | Rauz=Friedmann, Johann Michael,\n| | | | Schneid.\n| | | | Thommen=Bertschmann, Sch., Schrein.\n9 | VII. | 243 | | Heusler=Thurneyssen, Leonhard.\n10 | VII. | 246 | 3. rothen Ochsen. | Flüe, Caspar.\n| | | | Flüe, Caspar, Gastwirth.\n11 | VII. | 245 | | Rühlín=Nauer, Joh. Georg.\n12 | VII. | 354 | Rothochsenmühle. | Rühlín, Joh. Georg.\n| | | | Stoll=Rühlín, Franz, Müller.\n| | | | Siehe 354 Teichgässlein.\n13 | VII. | 356 | Badanstalt. | Dickenmann=Rübler, Emil., sel. Erb.\n| | | | Dickenmann=Rübler, Wb. Hel., Part.\n| | | | Dickenmann, Emanuel Sohn, Vater.\n14 | VII. | 352 | Schwarzeselmühle. | Binzegger=Schetti, Carl.\n| | | | Binzegger=Schetti, Carl, Mühlebauer u.\n| | | | Mechaniker.\n| | | | Zündel=Schöndelmeyer, Conr., Müller.\n15 | VII. | 355 | | Müller=Dietzch, Joh. Peter.\n16 | VII. | 349 | | Sch aerer=Schlachter, Peregrin., sel.\n| | | | Erben.\n| | | | Sch aerer=Schlachter, Wb. Mar. Urfula,\n| | | | Part.\n| | | | Weiß, Judith, Modiste.\n17 | VII. | 351 | Ochsenhäuslein. | Weber, Tobias Leonhard.\n| | | | Weber, Tobias Leonhard, Part.\n| | | | Weber=Klein, Tobias, Hufschmied.\n18 | VII. | 298 | zum Karrenec. | Schramm=Bell, Rudolf.\n| | | | Schramm=Bell, Rud., Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6441,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2219,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0167,
+    "mean_line_chars": 36.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p251",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p251.jpg",
+      "bytes": 1280388,
+      "sha256": "5ed6c1fd97d74490fee19c67a952701431f3c86ac056628b4061042663cccfee",
+      "sha256_of": "original",
+      "working_copy": "1862_p251.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:57+00:00"
+  }
+}

@@ -1,0 +1,59 @@
+92
+Missionsstraße.
+Neue
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+20 | I. | 95 | | Fäsch=Binet, Joh. von Joh.
+21 | II. | 110 | Missionshaus. | Fäsch=Binet, Joh. von Joh., Rentier.
+| | | | Evangelische Missionsgesellschaft.
+| | | | Fosenhans=Geß, Fried. Jof., Inspector.
+| | | | Braun=Gwinner, Theod., Bureauchef.
+| | | | Geß=Citel, Fried. Wolfgang, Pfarrer.
+| | | | Peter=LaRoche, Carl, Pfarrer.
+| | | | Kolb=Laurmann, Christ., Hausvater.
+| | | | Barembe, Felician, Missionsprediger.
+| | | | Ziegler, Jakob Friedr., Lehrer.
+| | | | Dierlamm, Gottlob, Lehrer.
+| | | | Schwarz, Gottlob, Lehrer.
+| | | | Stolz, Caspar, Commis.
+| | | | Hager, Beata, Hausmutter.
+22 | I. | 94 | | Preiswerk=Hunziker, Emanuel.
+| | | | Preiswerk=Hunziker, Emanuel, Kfm.
+23 | II. | 112 | | Burchhardt=Imhof, Wb. Susanna.
+24 | I. | 93 | | Sandoz=Luya, Carl Aug.
+| | | | Sandoz=Luya, Carl Aug., Kaufmann.
+26 | I. | 92 | | Sandoz=Luya, Carl Aug.
+| | | | Sieber= Sulger, Wilhelm, Commis.
+27 | II. | 113 | | Preiswerk=Burchhardt, Eduard.
+| | | | Preiswerk=Burchhardt, Eduard, Kfm.
+29 | II. | 114 | | Merian=Reber, Johannes.
+30 | I. | 91 | | Schilling, Rudolf.
+31 | II. | 115 | | Burchhardt=VonderMühl, Wb. A.
+| | | | Catharina.
+| | | | Schilling, Rudolf.
+32 | I. | 90 | |inder=Steinegger, Joh. Jac.
+34 | I. | 89 | | Weiß=Schmid, Friedr., Gärtner.
+| | | | Staehelin=Stückelberger, Peter.
+35 | II. | 116 | | Staehelin=Stückelberger, Pet., Pfarrer.
+| | | | Linder=Steinegger, Joh. Jac., Bandfabr.
+| | | | Firma J. J. Linder.
+36 | I. | 88 | | Linder=Steinegger, Joh. Jac.
+| | | | Firma J. J. Linder.
+37 | II. | 117 | | Cruffaire=Tollmann, Carl.
+| | | | Cruffaire=Tollmann, Carl, Handelsm.
+39 | II. | 118 | | Ecklin=Holzach, Theodor.
+| | | | Ecklin=Holzach, Theodor, Baumeister.
+| | | | Uebelin=Stühelin, Wb. Mathilde, Rent.
+| | | | Anstein, Rudolf, Spitalpfarrer.
+| | | | Burchhardt, Johannes, Commis.
+41 | II. | 118 A | | Ecklin=Holzach, Theodor.
+43 | II. | 119 | | Ecklin=Holzach, Theodor.
+| | | | Ecklin=Knutty, Gottfried Aug., Postbeam.
+| | | | Knutty, Balth. Friedr., Part.
+44 | I. | 85 | | Triib, Johannes.
+| | | | Triib=Grether, Serena Kunig, Gärtner.
+| | | | Triib=Rufbaumer, Anna Mar., Han-
+| | | | delsgärtnerin.
+| | | | Siehe Nr. 33 mittlere Straße.

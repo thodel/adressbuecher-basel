@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p160",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p160.jpg",
+    "bytes": 1495875,
+    "sha256": "2efa8f2e27d4486eed21ac70e60b5aaecffdb7bee4f2bfd1005ad0a1a5cbfac5",
+    "sha256_of": "original",
+    "working_copy": "1862_p160.jpg"
+  },
+  "text": "Moostackerstraße. 95\nNre. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus=Nr. | tier. | Haus=Kro. | | und Bewohner.\n----- | ----- | ----- | ----- | -----\n19 | III. | 152 A a | | Hauser=Wertenberg, Friedl., Zimmermft.\n20 | III. | 153 B | | Weber, Anton, Alt=Gerichtspräsident.\n| | | | Plattner=Hofch, Jakob.\n| | | | Labhardt=Schubiger, Ferdinand.\n| | | | Labhardt=Schubiger, Ferdinand, Kaufm.\n| | | | Firma Bernoulli u. Labhardt, Manu-\n| | | | facturwaarenhandlung.\n21 | III. | 152 A. c | | Plattner=Hofch, Jakob.\n25 | III. | 154 A | zum Guttenberg. | Stuckert=Schaub, Og. Otto Eugen.\n| | | | Stuckert=Schaub, Og. OttoEug., Schrift-\n| | | | gießer. Firma: Haas'sche Gießerei.\n| | | | Brotbeck=Walser, Carl.\n| | | | Brotbeck=Walser, Carl, Kaufmann.\n| | | | Walser=Hurter, H. F. Wr., Part.\n26 | III. | 153 A | | Brotbeck=Walser, Carl, Kaufmann.\n| | | | Plattner=Hofch, Johann.\n| | | | Plattner=Schlatter, Heinr., Zimmergeh.\n| | | | Walser=Walser, Alois, Lehnenbeständer.\n31 | III. | 155 | | Gekler=Wirz, Daniel,\n| | | | Baumann=Haufer, Heinrich, Schreiner.\n| | | | Tschan=Bergi, Napoleon.\n32 | III. | 166 | | Tschan=Bergi, Napoleon, Gutsbesitzer.\n| | | | Tschan, Philipp Joseph, Maurer.\n36 | III. | 165 | zum Feierabend. | Schilling=Weitnauer, Wb. Marg.\n| | | | Gehring=Schliephacke, Traugott, Pfarr.\n| | | | Roschet=Mangold, Hieronimus.\n42 | III. | 164 A | | Roschet=Mangold, Hieronimus, Seiler.\n| | | | Weniger=Sauerbrey, Rud., Part.\n44 | III. | 164 | | Steib=Unstein, Mathias.\n| | | | Ernst=Rudin, Johannes.\n| | | | Ernst=Rudin, Johannes, Jeger.\n| | | | Opplinger, Rudolf, Schreiner.\n48 | III. | 163 A | | Munding=Zimmerli, Joh., Eisenbahnbttr.\n52 | III. | 162 A | | Klein=Schabelitz, Wilhelm.\n| | | | Klein=Schabelitz, Wilh., Redact.d.Volksf.\n| | | | Kölner=Rummer, Adolf, Desfinateur.\n| | | | Glaser=Hechler, Emanuel.\n54 | III. | 162 B | | Glaser=Hechler, Emanuel, Taglöhner.\n| | | | Bollenhals=Abt, Friedrich.\n56 | III. | 161 | | Bollenhals=Abt, Friedrich, Feuerwerker.\n| | | | Gisin-Eidin, Wernh., Eisenbahnbeamter.\n58 | III. | 161 B | | Schneider=Schlag, Johann.\n| | | | Schneider=Schlag, Joh., Lehrer.\n| | | | Schwarz=Schlag, Rudolf, Commis.\n| | | | Gysin, Friedrich, Commis.\n62 | III. | 161 A | | Schlöth, Louis.\n| | | | (Magazin.)\n| | | | Schneider, Erhard.\n67 | III. | 158 a | | Zselin, Geschwister.\n72 | III. | 160 | | Zselin, Joseph, Therefeu.Eva,Landwirth.\n78 | III. | 159 | | Burckhardt=Zselin, Franz.\n84 | III. | 159 A a b | | Burckhardt=Zselin, Franz.\n86 | III. | 159 A f | |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8361,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2509,
+    "lines": 57,
+    "longest_char_run": 5,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:42:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p160",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p160.jpg",
+      "bytes": 1495875,
+      "sha256": "2efa8f2e27d4486eed21ac70e60b5aaecffdb7bee4f2bfd1005ad0a1a5cbfac5",
+      "sha256_of": "original",
+      "working_copy": "1862_p160.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:02+00:00"
+  }
+}

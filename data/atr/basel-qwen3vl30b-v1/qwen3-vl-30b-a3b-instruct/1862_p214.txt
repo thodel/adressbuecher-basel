@@ -1,0 +1,57 @@
+Steinenthorstraße. 149
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+5 | III. | 841 | | Cordelier-Eberle, Peter.
+| | | | Cordelier-Eberle, Peter, Kutscher.
+| | | | Kull-Bercher, Rudolf, Commis.
+| | | | Glaser-Werfele, Alois, Spezierer.
+6 | III. | 838 | zum Steined. | Hablitzel-Ballon, Carl.
+| | | | Hablitzel-Ballon, Carl, Zollbeamter.
+| | | | Wiederkehr-Denger, Heinrich, Wirth.
+7 | III. | 842 | zum Paradies. | Gyfin-Spreyermann, Joh. Conrad.
+| | | | Gyfin-Spreyermann, Joh.Conr., Comm.
+8 | III. | 849 | zum gelben Stern. | Lichtenhahn-Hirzel, Carl Benedict.
+| | | | Lichtenhahn-Hirzel, Carl Bened., Spezier.
+| | | | Graf-Ludwig, Joseph, Orgelbauer.
+10 | III. | 850 | 3. gelb. gold. Stern. | Schuler, Adam und Leonhard.
+| | | | Schuler, Adam, Rothgerber.
+| | | | Schuler-Lohri, Leonhard, Rothgerber.
+11 | III. | 843 | | Himmely-Seifert, Frau Marg.
+| | | | Schmied-Leik, Joh., Wirth u. Drechsler.
+| | | | Seifert-Gyfin, Benjamin, Maler.
+12 | III. | 851 | zur goldenen Krone. | Burtorf-Burtorf, Rudolf.
+| | | | Burtorf-Burtorf, Rudolf, Kaufmann.
+13 | III. | 875 | zum Windgefäß. | Bachofen-Brenner, Joh. Matthäus.
+| | | | Bachofen-Brenner, Joh.Matthäus, Tuch-
+| | | | scheerer.
+| | | | Bachofen, Joh. Jacob, Tuch scheerer.
+14 | III. | 851 A | | Burtorf-Burtorf, Rudolf.
+| | | | Burtorf-Merian, J. L., Ffiniksfabrik
+| | | | und Farbenhandlung.
+15 | III. | 874 | | Labhardt-Miville, Joh. Caspar.
+| | | | Labhardt-Miville, Joh. Caspar, Kaufm.
+16 | III. | 852 | | Imhoff-Schumacher, Heinrich.
+| | | | Imhoff-Schumacher, Heinrich, Schmied
+| | | | und Wagenfabrikant.
+| | | | Comptoir v. Eckenstein, Ed., Hopfenhdlg.
+| | | | Schneider-Plattner, Wb. Louise, Part.
+| | | | Kübler-Uebelin, Wb. Carolina.
+| | | | Uebelin-Schweizer, Wb. Carolina.
+| | | | Spiller-Kübler, Carl, Commis.
+17 | III. | 873 | | Müller-Stengelen, Carl Friedrich.
+| | | | Brojg-Kuenbühler, Joh. Joseph, Eisen-
+| | | | bahnbeamter.
+18 | III. | 852 A | | Imhoff-Schumacher, Heinrich.
+| | | | Schütz-Döbelin, Regina, Geschirrladen.
+19 | III. | 872 | 3.wilden Brünnlein. | Müller-Stengelen, Carl Friedrich.
+| | | | Müller-Stengelen, Carl Friedr., Gypser
+| | | | und Stuccator.
+| | | | Maas-Krug, Rudolf, Kaufmann.
+| | | | Hübner, Christian Moritz, Architect.
+20 | III. | 853 A | | Paravicini-Meyer, Joh. Ludwig.
+| | | | Geiger-Wagner, Heinrich, Lisieur.
+21 | III. | 871 | | Beurmann-Herzog, Friedr. Emil.
+| | | | Beurmann-Herzog, Friedr. Emil, Tapez.

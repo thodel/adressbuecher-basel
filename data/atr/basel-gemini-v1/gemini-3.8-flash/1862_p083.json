@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p083",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p083.jpg",
+    "bytes": 1265610,
+    "sha256": "4de308166b49e066c5de5a4b8f33eefd961a3bb566c433e61cf7193911d72d39",
+    "sha256_of": "original",
+    "working_copy": "1862_p083.jpg"
+  },
+  "text": "18 | St. Alban-Vorstadt.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n45 | V. | 1330 | | Allenspach-Rudin, Joachim.\n  Allenspach-Rudin, Joach., Kaufmann.\n46 | V. | 1233 | | Schweizer-Groß, Heinrich.\n  Schweizer-Groß, H., Fabrikarbeiter.\n  Rudin-Weber, Adolf, Liseur.\n47 | V. | 1329 | | Blendinger-Sandreuter, Joh. Jakob\n  Blendinger-Sandreuter, Joh. Jak., Zollb.\n48 | V. | 1234 | | Rublin, Konrad.\n  Rublin, Konrad, Zimmermann.\n  Rudin-Rublin, Jakob, Musterweber.\n49 | V. | 1320 A | zum schönen Eck. | Sarasin, Felix, sel., Erben.\n  Sarasin-Brunner, Julia Charl. Rosalie,\n  Felix sel. Wb., Bürgermeisters.\n  Bureau und Magazine der Firma\n  Felix Sarasin und Heusler.\n50 | V. | 1235 | | Ritter-Fischer, Joh. Jakob.\n  Ritter-Fischer, Joh. Jakob, Metzger.\n51 | V. | 1319 | | Sarasin, Felix sel., Erben.\n  (Stallung und Remise.)\n52 | V. | 1236 | | Glaser-Andres, Andreas.\n  Glaser-Andres, Andreas, Seiler.\n53 | V. | 1318 | | Froß, Georg Jakob.\n  Froß, Friedrich, Fabrikarbeiter.\n54 | V. | 1237 | | Gemuseus-Respinger, Wilhelm.\n55 | V. | 1317 | | Rohner-Wertenberg, Joh., Bäcker.\n  Erb-Wagner, Johannes, Magazinknecht.\n56 | V. | 1238 | das Klösterlein. | Gemuseus-Respinger, Wilhelm.\n  Gemuseus-Respinger, Wilh., Kaufmann.\n57 | V. | 1316 | | Rohner-Wertenberg, Johannes.\n  Rohner-Wertenberg, Joh., Bäcker.\n58 | V. | 1239 | zum Brigittathor. | Merian, Henriette und Anna.\n  Merian-Bischoff, Wittwe Pauline, Rent.\n  Comptoir der Herren H. Merian-Von-\n  derMühll, Rud. Merian-Iselin u. der\n  Erben v. Hrn. E. Merian-Bischoff sel.\n59 | V. | 1315 | | Walter-Bienz, Chr. Fr.\n  Walter-Bienz, Ch. Friedrich, Magazin-\n  arbeiter und Spezierer.\n60 | V. | 1260 | | Fischer, Joh. Jakob.\n  Fischer, Joh. Jakob, Schlosser.\n61 | V. | 1314 | | Bischoff, Karl.\n  Stingelin-Abt, Joh., Ferger.\n62 | V. | 1261 | | Felber, Daniel.\n  Felber, Daniel, Senkgruben-Entleerer.\n63 | V. | 1313 | zur Ehrenburg. | Moos-Brugger, Rudolf.\n  Moos-Brugger, Rudolf, Bäcker.\n64 | V. | 1262 | zur rothen Tanne. | Nidecker-Salathe, Carl Leonh.\n  Nidecker-Salathe, C. L., Siegrist zu\n  St. Alban.\n  Heusler-Gelzer, Adolph, Bäcker.\n  Vortisch, Marie u. Pauline, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9230,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2183,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:37:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p083",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p083.jpg",
+      "bytes": 1265610,
+      "sha256": "4de308166b49e066c5de5a4b8f33eefd961a3bb566c433e61cf7193911d72d39",
+      "sha256_of": "original",
+      "working_copy": "1862_p083.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:21+00:00"
+  }
+}

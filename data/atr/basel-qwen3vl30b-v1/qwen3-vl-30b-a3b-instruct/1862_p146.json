@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p146",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p146.jpg",
+    "bytes": 1487213,
+    "sha256": "66c6206bd06d642c49e67395520229bac395bc96e4c7c9225d5d5daec40f4b5d",
+    "sha256_of": "original",
+    "working_copy": "1862_p146.jpg"
+  },
+  "text": "Lehenmattweg. Leimenstr. Leonhards-Berg. Leonhards-Grab. 81\nNro. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n22 | V. | 341 | | Heusler=Fatio, C. fel. Erben.\n24 | V. | 348 | | Forcart=Weiß u. Burckhardt=Wild.\n32 | V. | 384 | | Willin, Johannes.\n34 | V. | 343 | | Willin, Johannes. Scheune.\n36 | V. | 344 | | Wehrlin, Joh. Jakob. Scheune.\n| | | | Willin, Johannes, Gärtner.\n| | | | Stierlin, Benj., u. Joh. Baur.\n40 | V. | 285 | z. Blutegelweiher. | \nLeimenstraße.\n41 | III. | 172 C | | Zäslin=Streckeisen, Joh., fel. Erb.\n43 | III. | 172 D | | Zäslin=Streckeisen, Wb. Louise, Part.\n| | | | Friedrich u. Adam, Baumeister.\n| | | | Genufeus=Bonbrunn, Joh. R., Part.\nSt. Leonhards-Berg.\n1 | III. | 702 | zum obern Känel. | Merian=Meyer, Wb. Anna Maria.\n| | | | Merian=Meyer, Wb. Anna Maria, Bierbrauerei.\n| | | | Meyer=Märklin, Anton, Bierbrauer.\n2 | VI. | 699 | | Schärer=Säuberlin, Joseph.\n| | | | Schärer=Säuberlin, Jos., Schuhmacher.\n3 | III. | 700 | zur Fortuna. | Sept=Heitzelmann, Joh. Jacob.\n| | | | Sept=Heitzelmann, J. J., Schneider u. Trödler.\n4 | VI. | 698 | | Meyer=Haurv, Niclaus.\n| | | | Meyer=Haurv, Niclaus, Färbergeh.\n6 | VI. | 697 | z. rothen Thurm. | Koch=Ruster, Johann.\n| | | | Koch=Ruster, Johann, Buchdrucker.\n8 | VI. | 687 | z. untern Sennenhof. | Zmmler=Felber, Niclaus Wilh.\n10 | VI. | 687 A | z. untern Sennenhof. | Zmmler=Felber, Niclaus Wilh.\n| | | | Zmmler=Felber, Nicl. Wilh., Schreiner.\n| | | | Riefer=Zörlin, Particular.\n12 | VI. | 688 | zum kleinen Frieden. | Bauhardt, Johann Joseph.\n| | | | Bauhardt, Joh. Joseph, Seidenerlefer.\n14 | VI. | 689 | zum obern Wind. | Fichter, Abraham.\n| | | | Sträkli=Bühler, Joh. Gg., Zimmergef.\n| | | | Tanner=Oyfin, Jacob, Metzger.\n15 | VI. | 692 | | Käser=Jenny, Johannes.\n| | | | Käser=Jenny, Johannes, Eisenbahnarh.\n16 | VI. | 690 | zum Asyl. | Plattner=Jenny, Martin.\n| | | | Plattner=Jenny, Martin, Spengler und Blechofenfabrik.\nSt. Leonhards-Grab.\n1 | II. | 456 A | | Landerer u. Merkle.\n| | | | Hausamann, Peter, Kaufmann.\n2 | II. | 354 b | zum Fridolt. | Henz=Erzberger, Johannes.\n| | | | Henz=Erzberger, Joh., Bäcker u. Kornhausschreiber.\n| | | | Stüdelerberger=Bloch, Reinh., Kornmesser.\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7671,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2210,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:39:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p146",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p146.jpg",
+      "bytes": 1487213,
+      "sha256": "66c6206bd06d642c49e67395520229bac395bc96e4c7c9225d5d5daec40f4b5d",
+      "sha256_of": "original",
+      "working_copy": "1862_p146.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:31+00:00"
+  }
+}

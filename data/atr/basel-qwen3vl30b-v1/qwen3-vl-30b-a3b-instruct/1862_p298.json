@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p298",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p298.jpg",
+    "bytes": 1667905,
+    "sha256": "5a8b84b14157962421bbb98351aade5af59d96be10524a1ff6f3bbf0364a5500",
+    "sha256_of": "original",
+    "working_copy": "1862_p298.jpg"
+  },
+  "text": "Berzeichnis der Häuserbesitzer.\n233\nGerber=Koch, Joh. Spalenvorstadt 23. | Gloor, Oskar. Rheingasse 63.\nGerber=Mangold, Jac. St. Johann=Vorstadt 76. | Gloor=Zeller, Joh. Heumattstrasse 8.\nGermann=Baumgartner, Johs. Georg. Bar- | Glunz, Joh. Conr. Utengasse 40.\nflißergasse 12. | Gnoepff=Landolt, C. Aeschenvorstadt 2.\nGernler=Eich, Joh. Leonh. Heumattstrasse 21. | Gnoepff=Renich, Achilles. St. Elisabethen-\nGernler, Wb. Rosine. St. Alban=Vorstadt 31. | Straße 23.\nGesellschaft, evangelische. St. Peters=Gasse 23. | Goetti=Wafer, Johs. Schützengraben 40. —\nGesellschaften d. 3 C. C. Klein=Basel. Bäum- | Spalenvorstadt 39.\nleinhofweg 11. — Greifengasse 2. — Rhein- | Goettisheim=Reifer, Friedr. Aeschenvorstadt 43.\ngasse 4. | Götz u. Ecklin. St. Clara=Strasse 32.\nGesellschaft des Guten und Gemeinnützigen. | Götz, Emil., sel. Erben. Hammerstrasse 28.\nBruderholzweg 22. | Götz=Fininger, Balth. Steinenvorstadt 29. 31.\nGefler=Dannacher, Rud., sel. Erben. Reb- | Götz=Haujer, Rud. Heinr. Aeschengraben 4. 6.\ngasse 31. | Götz=Linder, Wb. Marg. Aeschenvorstadt 58.\nGefler, Caspar. Nidengäßlein 7. | Gohl=Maag, Heinr. Gerbergässchen 34.\nGefler, Samuel Carl. Aeschenvorstadt 65. | Goldemann=Miller, Mart. St. Alban=Vor-\nGefler=Anklin, Heinr. Hutgasse 12. | stadt 72.\nGefler=Hilbscher, Abrah. Rud. Münzgäßlein 4. | Goldenmann=Retterer, Abrah. Streitgasse 14.\n— Spalenberg 1. | Goskwiler=Brög, Ludw. Schützengasse 12.\nGefler=Rutter, Wb. Mar. Weiße Gasse 3. | Goskwiler=Stoll, Conr. Unterer Heuberg 6.\nGefler=Martin, Albert. Kohlenberggasse 8. | — Heuberg 17.\nGefler=Merian, Rud. Schützenmattstrasse 31. | Gräf=Faesch, Philipp. Gerbergasse 53.\n— Steinenvorstadt 1. | Gräslin, Jacob. Hammerstrasse 92. 96.\nGefler=Meyer, Jac. Rud. Schützengraben | Gräslin=Jörin, Joh. Georg. Fabrikstrasse 9.\n42. — Spalenvorstadt 41. | Graf=Streicher, Joh. Jac. Streitgasse 20.\nGefler=Pfannenschmid, Eman. Hutgasse 23. | — Ringgäßlein 5.\nGefler=Plattner, Sjaac Emil. St. Leonhards- | Grauwiler, Jac. Aeschenvorstadt 49.\nStraße 25. — Mostackerstrasse 23. | Gretener=Zäggi, Jac. Gerbergasse 41.\nGefler=Rosenmund, Fritz. Hutgasse 19. | Grether, Friedrich. Greifengasse 39.\nGefler=Rych, Wb. Trischona Dorothea. Stei- | Grether=Scholer, S. Aeschengraben 27.\nnenvorstadt 2. | Grether=Wiedmeyer, Ernst Friedrich. Nadel-\n| berg 39.\nGefler=Sieber. Rheingasse 7. — Utengasse 4. | Grieder, Jac. Allschwyler Strasse 69.\nGefler=Tanner, Leonh. Hutgasse 5. | Grieder=Herzer, Jac. Spalenberg 15.\nGefler=BonKilch, Emil. Münzgäßlein 14. — | Grillo=BonGunten, Luc. Friedr. Sattelgasse 12.\nSchützengraben 15. — Spalenberg 11. | Grimm, Ed. Steinenvorstadt 48.\nGefler=Weiz, Daniel. Barfüßerplatz 29. | Grimm=Wezel, Joh. Gerbergasse 23.\nGefler=Wierz, Daniel. Austraße 24. 26. 28. | Grisanti=Hartmann, David. St. Elisabethen-\n— Mostackerstrasse 32. | Straße 62.\nGefler=Zeller, S. Sattelgasse 17. — Spa- | Groben, Jakob, sel. Erben. Freie Strasse 21.\nlenvorstadt 8. 19. | — Stapfelberg 3.\nGeyger, Rud. Steinenvorstadt 44. | Grollimund=Binz, Joh. Jac. Steinenvor-\nGeyger, Achilles. Barfüßerplatz 2. | stadt 21.\nGeymüller=Märklin, Hier. Spalenberg 50. | Grollimund=Rapp, Jac. Bahnhofstrasse 23.\nGewerbsinteressenten. Schorenweg 24. | Gros=Diirr, Emil. St. Peters=Gasse 12.\nGiesen=Müller, Wb. Margaretha, sel. Erben. | Grosmann=Byland, C. Steinenvorstadt 37. 39.\nStreitgasse 3. | Grosmann=Heinzelmann, Rud. Steinenbach-\nGießendanner, Christof. Lindenberg 2. | gäßlein 17. — Steinenvorstadt 22.\nGirard=Blumer, Chr. F. Missionsstrasse 52. | Grosmann=Schaub, Casp. St. Claraplatz 1.\nGisel=Murbach, Joh. Jac. Riehenthofstrasse 20. | Gruber=Mick, Johs. Allschwyler Strasse 68.\nGlättli, Joh. Lindenberg 5. | Grübler=Meyer, Gottfried, sel. Erben. Thea-\nGlafer, Andreas. St. Alban=Vorstadt 52. | terstrasse 6.\nGlafer, Jacob. Lindenberg 7. | Grunauer, Sebastian. Gerbergäßlein 18.\nGlafer=Hechler, Emil. Mostackerstrasse 56. | Grunauer=Haeft, Aug. Sattelgasse 20.\nGlafer=Ritter, Friedr. Karthausgäßlein 5. — | Grunauer=Miller, Rud. Rebgasse 2.\nRheingasse 80. — Schwanengasse 5. 7. | Grüninger, Joh. Ant. Gemsberg 9.\nGlaz, Peter, sel. Erben. Binninger=Strasse 17. | Grüninger=Beaudroi, Rud. Klingenthal 2. 4.\n19. 21. 23. | 6. 8.\nGlock=Scherb, Peter. Spalenberg 58. | Grüninger=Dehninger, Rudolf. Unter. Heu-\nGloor=Haas, Johs. Wallstrasse 20. | berg 13. — Rümelinsplatz 7.\nGloor=Meng, Rud. Alybeckstrasse 51. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11657,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4342,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 67.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:58:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p298",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p298.jpg",
+      "bytes": 1667905,
+      "sha256": "5a8b84b14157962421bbb98351aade5af59d96be10524a1ff6f3bbf0364a5500",
+      "sha256_of": "original",
+      "working_copy": "1862_p298.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:43+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p103",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p103.jpg",
+    "bytes": 1293890,
+    "sha256": "c878cfefadbd4932509eb4453ea760287443f64073f8d21df2063894b8638e87",
+    "sha256_of": "original",
+    "working_copy": "1862_p103.jpg"
+  },
+  "text": "38 | St. Elisabethen Straße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n33 | IV. | 910 | | Lichtenhahn-Haas, Joh. Rudolf.\n  Lichtenhahn-Haas, Joh. Rud., Schreiner.\n  Ott, Henri, Coiffeur.\n34 | IV. | 894 B | | Zeugin-Frisch, Jacob.\n  Zeugin-Frisch, Jacob, Spezierer.\n35 | IV. | 909 | | Bienz, Jacob.\n  Bienz, Jacob, Kaminfeger.\n36 | IV. | 895 | | Day-Beck, Wb. Catharina.\n  Day-Beck, Wb. Catharina, Part.\n  Martin, Emanuel, Kaufmann.\n  Krapf-v. Reding, Johannes, Major.\n37 | IV. | 908 | | Wohnsiedel-Günther, Ulrich.\n  Wohnsiedel-Günther, Ulrich, Commis.\n38 | IV. | | | Siegrist und Kußmaul.\n40 | IV. | | | Siegrist und Kußmaul.\n41 | IV. | 906 | | Fichter und Söhne.\n  Fichter-Seiler, Benedict, Bandfabrikant.\n  Comptoir von Fichter u. Söhne.\n42 | IV. | | | Siegrist und Kußmaul.\n43 | IV. | 905 | | Schweizerische Eidgenossenschaft.\n  Schimpf-Nei, Dr. Karl Ferd., Zolldir.\n45 | IV. | 904 | | Fichter-Schneider, Joh. Jakob.\n  Fichter, Joh. Jakob, Bandfabrikant.\n  Brugger-Fichter, Joseph, Bandfabrikt.\n  Fichter, Frau Julie.\n47 | IV. | 903 | | Fichter, Joh. Jakob.\n  Bürgin-Meyer, Jacob, Posamenter.\n  Zurbruck-Heitz, Samuel, Packer.\n  Wierz-Handschin, Friedrich, Hausknecht.\n49 | IV. | 902 | | Mengis, Peter sel., Erben.\n  Mengis, Jgfr. Maria, Particularin.\n51 | IV. | 901 | | Mengis, Peter sel., Erben.\n  Rublin, Heinrich, Eisenbahnangestellter.\n53 | IV. | 900 | | Mengis, Peter sel., Erben.\n  (Magazin.)\n54 | IV. | 897 A | | Oppliger, Abraham Rudolf.\n  Oppliger, Abr. Rud., Handelscommis.\n  Lüdin-Roth, J. J., Commis.\n  Kahnt, Moritz, Musiker.\n  Bueß-Gysin, Adolf, Eisenbahnbeamter.\n55 | IV. | 900 B | Gottesackerkapelle. | Corporationsgut.\n56 | IV. | 897 B | | Tschopp-Schwab, Wb. Marg. Dor.\n  Lichtenhahn-Hauser, Wilhelm, Notar.\n58 | IV. | 897 C | zur Aussicht. | Grisanti-Hartmann, David.\n  Gürtler-Grisanti, Kreispostcontroleur.\n59 | IV. | 900 A | Leichenhaus. | E. E. Bann der Münstergemeinde.\n  Ernst-Eger, Balthasar, Fabrikarbeiter u. Aufseher auf d. St. Elis.Gottesacker.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8472,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2044,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:40:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p103",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p103.jpg",
+      "bytes": 1293890,
+      "sha256": "c878cfefadbd4932509eb4453ea760287443f64073f8d21df2063894b8638e87",
+      "sha256_of": "original",
+      "working_copy": "1862_p103.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:28+00:00"
+  }
+}

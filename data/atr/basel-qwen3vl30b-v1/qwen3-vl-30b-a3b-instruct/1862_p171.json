@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p171",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p171.jpg",
+    "bytes": 1318876,
+    "sha256": "1395ee2a7dbf3e67749584612920a64956ae120ac09290cfa794e9cb27bb7d14",
+    "sha256_of": "original",
+    "working_copy": "1862_p171.jpg"
+  },
+  "text": "106\nSt. Peters-Berg.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n6 I. 150 zum Lükelftein. Knopf=Gaß, Friedrich.\nKnopf=Gaß, Friedrich, Wirth.\nHaas, Hieronimus Rudolf, Dessinateur.\nSiehe Nr. 20 Schwanengasse.\n7 I. 177 z. blauen Stern. Probst=Wyß, Stephan.\nProbst=Wyß, Stephan, Wirth.\nDubois=Sinninger, Rud., Lohnbedienter.\n8 I. 149 A …………… Biblinger, Maria.\nFischbacher=Senn, Georg, Wirth.\nSiehe Nr. 18 Schwanengasse.\n9 I. 178 …………… Beck=Caspar, Christof.\nBeck=Caspar, Christof, Stadtambour.\nBeck=Caspar, Anna, Mägdeverdingerin.\nBeck, Joh. Friedrich, Commis.\nGuggenbühl-Schweizer, Heirr., Schuhm.\n10 I. 149 …………… Vinder=Stehlin, Jacob Ludwig.\nSiehe Nr. 16 Schwanengasse.\n11 I. 179 z. rothen Schwert. Tschudy=Wanner, Wb. Anna.\nTschudy=Wanner, Wb. Anna, Glätterin.\nWeber=Hek, Wb. Susanna Catharina,\nKrankenwärterin.\nKupferschmied=Tschudin, Lucas, Schlosser.\n12 I. 148 …………… Portmann=Thoma, Jacob.\nSiehe Nr. 14 Schwanengasse.\n13 I. 180 z. rothen Waage. Frey=Laudier, Jeremias.\nFrey=Laudier, Jeremias, Knopfmascher\nund Weinsticher.\n14 I. 146 …………… Siegmund=Bloch, Benjamin.\nSiehe Nr. 14 Schwanengasse.\n15 I. 183 z. kleinen Schwib-\nbogen. Weilemann=Bertsche, Wb. Catha-\nrina und Kinder.\nWeilemann, August, Fabrikarbeiter.\nFellmann=Weilemann, Ludw., Schreiner.\n16 I. 145 zur Barbe. Sutter=Hänggi, Gregor.\nSiehe Nr. 10 Schwanengasse.\n17 I. 185 zum Merz. Sandmeyer=Seiler, Wb. Friederika.\nSandmeyer=Seiler, Wb. Friederika, Näh.\n19 I. 186 zur Meerfaze. Breitenstein, Ambrosius, sel. Erben.\nBreitenstein=Koch, Joh., Wirth.\n20 I. 143 …………… Eingang zu Nr. 6 Schwanengasse.\n21 I. 189 zur Weidenruth. Wenzinger=Suter, Johann.\nWenzinger=Suter, Joh., Spezierer.\nFrey=Ferrard, Eduard, Commis.\nWittmer=Maßinger, Franz, Schriftseker.\n22 I. 200 …………… Ründig=Stämpfli, Wb. Johanna.\nRündig=Stämpfli, Wb. Johanna, Part.\nBüchi=Locher, Felix, Commis.\n23 I. 190 zum Schönenberg. Eckert=Jäsch, Joseph.\nEckert=Jäsch, Joseph, Prof. d. Mathem.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6683,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1964,
+    "lines": 61,
+    "longest_char_run": 5,
+    "repeat_ratio": 0.0164,
+    "mean_line_chars": 31.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0025,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:43:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p171",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p171.jpg",
+      "bytes": 1318876,
+      "sha256": "1395ee2a7dbf3e67749584612920a64956ae120ac09290cfa794e9cb27bb7d14",
+      "sha256_of": "original",
+      "working_copy": "1862_p171.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:21+00:00"
+  }
+}

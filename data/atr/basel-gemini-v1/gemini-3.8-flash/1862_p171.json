@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p171",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p171.jpg",
+    "bytes": 1318876,
+    "sha256": "1395ee2a7dbf3e67749584612920a64956ae120ac09290cfa794e9cb27bb7d14",
+    "sha256_of": "original",
+    "working_copy": "1862_p171.jpg"
+  },
+  "text": "106 | St. Peters-Berg.\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n6 | I. | 150 | zum Lützelstein. | Knopf-Gaß, Friedrich.\n  Knopf-Gaß, Friedrich, Wirth.\n  Haas, Hieronimus Rudolf, Dessinateur.\n  Siehe Nr. 20 Schwanengasse.\n7 | I. | 177 | z. blauen Stern. | Probst-Wyß, Stephan.\n  Probst-Wyß, Stephan, Wirth.\n  Dubois-Sinninger, Rud., Lohnbedienter.\n8 | I. | 149 A | | Biblinger, Maria.\n  Fischbacher-Senn, Georg, Wirth.\n  Siehe Nr. 18 Schwanengasse.\n9 | I. | 178 | | Beck-Caspar, Christof.\n  Beck-Caspar, Christof, Stadttambour.\n  Beck-Caspar, Anna, Mägdeverdingerin.\n  Beck, Joh. Friedrich, Commis.\n  Guggenbühl-Schweizer, Heinr., Schuhm.\n10 | I. | 149 | | Linder-Stehlin, Jacob Ludwig.\n  Siehe Nr. 16 Schwanengasse.\n11 | I. | 179 | z. rothen Schwert. | Tschudy-Wanner, Wb. Anna.\n  Tschudy-Wanner, Wb. Anna, Glätterin.\n  Weber-Heß, Wb. Susanna Catharina,\n  Krankenwärterin.\n  Kupferschmied-Tschudin, Lucas, Schlosser.\n12 | I. | 148 | | Portmann-Thoma, Jacob.\n  Siehe Nr. 14 Schwanengasse.\n13 | I. | 180 | z. rothen Waage. | Frey-Laudier, Jeremias.\n  Frey-Laudier, Jeremias, Knopfmacher\n  und Weinsticher.\n14 | I. | 146 | | Siegmund-Bloch, Benjamin.\n  Siehe Nr. 14 Schwanengasse.\n15 | I. | 183 | z. kleinen Schwib-bogen. | Weilemann-Bertsche, Wb. Catharina und Kinder.\n  Weilemann, August, Fabrikarbeiter.\n  Fellmann-Weilemann, Ludw., Schreiner.\n16 | I. | 145 | zur Barbe. | Sutter-Hänggi, Gregor.\n  Siehe Nr. 10 Schwanengasse.\n17 | I. | 185 | zum Merz. | Sandmeyer-Seiler, Wb. Friederika.\n  Sandmeyer-Seiler, Wb. Friederika, Näth.\n19 | I. | 186 | zur Meerkatze. | Breitenstein, Ambrosius, sel. Erben.\n  Breitenstein-Koch, Joh., Wirth.\n20 | I. | 143 | | Eingang zu Nr. 6 Schwanengasse.\n21 | I. | 189 | zur Weidenruthe. | Wenzinger-Suter, Johann.\n  Wenzinger-Suter, Joh., Spezierer.\n  Frey-Ferrard, Eduard, Commis.\n  Wittmer-Mazinger, Franz, Schriftsetzer.\n22 | I. | 200 | | Kündig-Stämpfli, Wb. Johanna.\n  Kündig-Stämpfli, Wb. Johanna, Part.\n  Büchi-Locher, Felix, Commis.\n23 | I. | 190 | zum Schönenberg. | Eckert-Fäsch, Joseph.\n  Eckert-Fäsch, Joseph, Prof. d. Mathem.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8967,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2131,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 40.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:51:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p171",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p171.jpg",
+      "bytes": 1318876,
+      "sha256": "1395ee2a7dbf3e67749584612920a64956ae120ac09290cfa794e9cb27bb7d14",
+      "sha256_of": "original",
+      "working_copy": "1862_p171.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:18+00:00"
+  }
+}

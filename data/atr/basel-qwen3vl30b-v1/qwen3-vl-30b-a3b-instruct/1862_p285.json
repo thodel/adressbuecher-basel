@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p285",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p285.jpg",
+    "bytes": 1485971,
+    "sha256": "903e05c8fb962ae09fb150a8326a3a3b3b4d23143ed2fa5586e6e70c2bb4e239",
+    "sha256_of": "original",
+    "working_copy": "1862_p285.jpg"
+  },
+  "text": "220 Verzeichniß der Häuser nach ihren Benennungen.\nPilger, z. Gerbergasse Nr. 8.\nPilger, z. Eifengasse Nr. 8.\nPilger, z. Eifengasse Nr. 10.\nPilgerstab, z. Eifengasse Nr. 25.\nPlatte, z. Nadelberg Nr. 24.\nPolizeiposten. St. Petersgraben Nr. 42.\nPolizeiposten. St. Claraplatz Nr. 4.\nPolizeiposten. Unterer Rheinweg Nr. 20.\nPolizeiposten. Eifengasse Nr. 1.\nPomeranzenbaum, z. Steinenvorstadt Nr. 24.\nPompiermagazin, großes. Schneidergasse Nr.2.\nPost. Freie Straße Nr. 12.\nPost, Gasthof z. Gerbergasse Nr. 16.\nPost, Hinterhaus, Gasthof z. Münzgäklein Nr. 13.\nPostgebäude, hinteres. Gerbergasse Nr. 15.\nPräsenzerhof. Bäumleingasse Nr. 3.\nProsofenwohnung. Neue Vorstadt Nr. 31.\nProvisorei. St. Peterskirchplatz Nr. 5.\nPruntrut, z. Gerbergasse Nr. 73.\nQuartier, z. neuen. Spitalstraße Nr. 13.\nQuartier, z. neuen. Heumattstraße Nr. 14.\nNaben, z. Aeschenvorstadt Nr. 15.\nRad, z. gelben. Aeschenvorstadt Nr. 56.\nRad, z. goldenen od. Schafschmiede. Rebgaſſe Nr. 10.\nRad, z. halben. Spalenberg Nr. 26.\nRad, z. schwarzen. Steinenvorstadt Nr. 6.\nRad, z. schwarzen. Schwanengasse Nr. 8.\nRad, z. schwarzen. Untere Rheingasse Nr.6.\nKäpplein, z. Marktplatz Nr. 9.\nKäpplein, z. Hutgasse Nr. 4.\nRahmenhaus, großes u. kleines. Theaterstraße Nr. 17.\nRamsbach, z. Gerbergäklein Nr. 4.\nRamsteinerhof, großer. Rittergasse Nr. 17.\nRamsteinerhof, d. vord. Rittergasse Nr. 22.24.\nRanf, z. Grenzacherstraße Nr. 91.\nRanf, z. Grenzacherstraße Nr. 100.\nRanfhof, z. Grenzacherstraße Nr. 111.\nRanfhof, z. Grenzacherstraße 113.\nKappenfels, z. Augustinergasse Nr. 7.\nRappoltshof, St. z. Rappoltshof Nr. 9.\nRappoltshof, z. Rappoltshof Nr. 3.\nRappoltshofeck. Untere Rebgaſse Nr. 12.\nRathhaus. Marktplatz Nr. 1.\nRebeneck, z. Schanzenstraße Nr. 19.\nRebeneck, z. Grenzacherstraße Nr. 100.\nRebhaus. Kiehenthofstraße Nr. 11.\nRebhäusli. Im Davidsboden Nr. 2.\nRebleuten, Zunft z. Freie Straße Nr. 50.\nRebscheuer. St. Elisabethenstraße Nr. 17.\nRebstock, z. Aeschenvorstadt Nr. 71.\nRebstock, z. Ringgäklein Nr. 5.\nRebstock, z. Sporengasse Nr. 13.\nRebstock, z. Rappoltshof Nr. 19.\nRebstock, z. Webergasse Nr. 25.\nRebstock, z. alten. Sattelgaſse Nr. 11.\nRechberg, z. Blumenrain Nr. 27.\nRechberg, z. St. Petersberg Nr. 4.\nRechberg. Schneidergasse Nr. 33.\nRechen, z. Sattelgaſse Nr. 3.\nRechberg, z. Fischmarkt Nr. 14.\nRedersdorf. Spalenvorstadt Nr. 36.\nRegenbogen, z. Sattelgasse Nr. 5.\nRegenbogen, z. Eifengasse Nr. 12.\nRehstein, z. Eifengasse Nr. 38.\nReichensteinerhof. Rheinsprung Nr. 16.\nReichensteinerhof, z. St. Martinsgasse Nr. 1.\nReinach, z. oben. St Leonhardsstapfelsberg Nr. 3.\nReinacherhof. Münsterplatz Nr. 18.\nReinacherhof. Spitalstraße Nr. 2.\nReinacherhof, z. Augustinergasse Nr. 8.\nReinacherhof, z. Augustinergasse Nr. 6.\nReischacherhof. Münsterplatz Nr. 16.\nReuschenberg, z. Freie Straße Nr. 42.\nRheinacherhof. St. Johann-Vorstadt Nr. 3.\nRheinburg, z. alten. Rhybeckstraße Nr. 107.\nRheined, z. Eifengasse Nr. 3.\nRheinfähre, z. untern. Unterer Rheinweg Nr.32.\nRheinhaldenhof. Rittergasse Nr. 19.\nRheinhof, z. St. Alban-Vorstadt Nr. 25.\nRheinluft z. Oberer Rheinweg Nr. 92.\nRichtbrunnen, z. Gerbergäklein Nr. 24.\nRichtbrunnen, z. Gerbergäklein Nr. 28.\nRiedschnepf, z. Aeschenvorstadt. Nr. 60.\nRiedy, z. St. Alban-Graben Nr. 18.\nRiehenthor. Riehenthorstraße Nr. 32.\nRiefen, z. Fischmarkt Nr. 3.\nRiefenhof, z. Lindenberg Nr. 7.\nRindsfub, z. Hutgasse Nr. 21.\nRing, z. blauen. Barfüßerplatz Nr. 22.\nRing, z. goldenen. St. Petersgasse Nr. 11.\nRing, z. goldenen. Fischmarkt Nr. 9.\nRing, z. grünen. Freie Straße Nr. 56.\nRing, z. kleinen grünen. Streitgasse Nr. 10.\nRing, z. oben weizen. Spalenberg Nr. 45.\nRingelhof, (Arbeiter-Rosthaus.) St. Petersgasse Nr. 28.\nRinslein, z. kleinen. Marktplatz Nr. 15.\nRitter, z. Gerbergasse Nr. 44.\nRitter, z. schwarzen. Unterer Heuberg Nr.2.4.\nRitterhof. Rittergasse Nr. 29.\nRodenburg, z. St. Alban-Vorstadt Nr. 34.\nKölinseck, z. Aeschenvorstadt Nr. 30.\nKöklein, z. Eifengasse Nr. 18.\nKöklein, z. rothen. Kronengäklein Nr. 9.\nKöklein, z. weizen. Kronengäklein Nr. 11.\nKöklein, z. weizen. Rheingasse Nr. 5.\nKöklein, z. weizen. Lohuhofgäklein Nr. 4.\nKößli, z. weizen. Spalenvorstadt Nr. 37.\nKößlinmiühle, z. Klingenthal Nr. 2.\nKoggenburg, z. Rheingasse Nr. 27.\nKoggenburg, z. Utengasse Nr. 26.\nKohrhäuslein. Schützenmattstraße Nr. 52.\nRollerhof. Münsterplatz Nr. 20.\nRollerhof, hinterer. Augustinergasse Nr. 4.\nRofe, z. Aeschenvorstadt Nr. 36.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11843,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4332,
+    "lines": 115,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:56:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p285",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p285.jpg",
+      "bytes": 1485971,
+      "sha256": "903e05c8fb962ae09fb150a8326a3a3b3b4d23143ed2fa5586e6e70c2bb4e239",
+      "sha256_of": "original",
+      "working_copy": "1862_p285.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:13+00:00"
+  }
+}

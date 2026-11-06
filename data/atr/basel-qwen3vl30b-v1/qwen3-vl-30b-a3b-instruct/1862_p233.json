@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p233",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p233.jpg",
+    "bytes": 1274955,
+    "sha256": "34b7af4950f20430cedefd607ea50863a6423ddcc449d44c2430f3805a555a4a",
+    "sha256_of": "original",
+    "working_copy": "1862_p233.jpg"
+  },
+  "text": "168 St. Clarahofweg. — St. Claraplaß. — St. Clara=Strafe.\nNene\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nSt. Clarahofweg.\n5 | VIII. | 5 D a | | Voz=Eglin, Friedr.\n7 | VIII. | 5 D | | Voz=Eglin, Friedr.\n15 | VIII. | 7 D a | | Delhasen, Jac. Sam. u. Riggenbach.\n| | | | | Schneider=Heubi, Rud., Schreiner.\n17 | VIII. | 7 D | | Delhasen, Jac. Samuel u. Riggen-\n| | | | | bach.\nSt. Claraplaß.\n1 | VII. | 206 A | | Großmann=Schaub, Caspar.\n| | | | | Großmann=Schaub, Casp., Kaufmann.\n| | | | | Döbbel= u. Bettwaarenhandlung.\n2 | VII. | 203 | | Wegner=Dünner, J. Rud.\n| | | | | Wegner=Dünner, J. Rud., Stadtrath.\n| | | | | Heusler=Wegner, C. Leonh., Kfm.\n3 | VII. | 203 a | | Wegner=Dünner, J. Rud.\n4 | VII. | 205 | Wacht u. Spritzenh. | Staat.\n| | | Polizeigebäude. | Reithaar=Barth, Leonz, Landjägerfour.\n| | | Clarakirche. | Staat.\nSt. Clara=Strafe.\n1 | VII. | 7 E | | Oswald=Linder, Joh. Peter.\n| | | | | Oswald=Linder, Joh. Peter, Kaufmann.\n2 | VII. | 5 F | Clara=Bierbrauerei | Wohlich=Rünzli, Joh.\n| | | | | Wohlich=Rünzli, Joh., Bierbrauer.\n3 | VII. | 7 A | | Bernoulli=Oswald, Gustav.\n| | | | | Bernoulli=Oswald, Gust., Seidenspin.\n4 | VII. | 5 I | | Rudin=Zehntner, Johannes.\n| | | | | Rudin=Zehntner, Johs., Mechaniker.\n| | | | | Genhard=Roth, Sch., Part.\n| | | | | Mieg=Meyer, Wb. Julie, Part.\n| | | | | Rudin=Rudin, Johannes, Part.\n5 | VII. | 7 B | | Pratteler=Waldkirch, Jacob.\n| | | | | Pratteler=Waldkirch, Jac., Part.\n| | | | | Siegrist=Dehninger, Albert, Med. Dr.\n| | | | | Siegrist=Breyer, Anna Mar., Part.\n6 | VII. | 5 K | | G. Calame, D. Bohny, S. Holinger,\n| | | | | Calame=Bohny u. Comp., Droguerie-\n| | | | | waarenhandlung.\n7 | VII. | 7 F | | Böcklin=Müller, Walter.\n| | | | | Böcklin=Müller, Walter, Hafner.\n9 | VII. | 7 M | | Taschner=Bertolf, Jacob.\n| | | | | Taschner=Bertolf, Jacob, Schlosser.\n| | | | | Taschner=Bertolf, Elis., Hebamme.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5709,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1912,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p233",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p233.jpg",
+      "bytes": 1274955,
+      "sha256": "34b7af4950f20430cedefd607ea50863a6423ddcc449d44c2430f3805a555a4a",
+      "sha256_of": "original",
+      "working_copy": "1862_p233.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:10+00:00"
+  }
+}

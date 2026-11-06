@@ -1,0 +1,55 @@
+Nadelberg. | 101
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+9 | II. |  |  | Eingang zu Nr. 9 u. 11 Todten-
+  gäßlein.
+10 | II. | 549 | Zerkindenhof. | Bischoff-Merian, Rudolf.
+  Bischoff-Merian, Rudolf, Kaufmann.
+  Bischoff, Benedict, Tuchhandlung.
+11 | II. | 552 A |  | LaRoche, Germann.
+12 | II. | 548 | Griebhof. | VonderMühll-Bischoff, Emanuel.
+  VonderMühll-Bischoff, Emanuel, Part.
+14 | II. | 525 |  | Häfelin-Mohr, Wb. Salomea.
+  Häfelin-Mohr, Wb. Salomea, Part.
+  Theiler, Josef Eduard, Kaufmann.
+15 | II. | 550 | zur alten Treue. | Schieferli-Weiß, Friedr. Wilhelm.
+  Schieferli-Weiß, Fr. Wilh., Sägenseiler.
+16 | II. | 523 | d. Bienz'sche Haus. | Koch-Schieferli, Heinrich.
+  Koch-Schieferli, Heinrich, Spengler.
+17 | II. | 547 A | zur alten Treue. | Burckhardt-Iselin, Wb. Dorothea.
+  Burckhardt-Iselin, Wb. Dor., Rentiere.
+  Burckhardt-Iselin, August, Kaufmann.
+18 | II. | 522 | zum Kaiser. | Zäslin-Stähelin, Conrad.
+  Zäslin-Stähelin, Conrad, Handelsmann.
+  Firma J. J. Frey, Commission und
+  Spedition.
+  Kürsteiner-Berri, Wb. Apollonia, Part.
+19 | II. | 546 |  | Stückelberger-Berri, Wb. Salom.
+  Stückelberger, Rud. Math., Part.
+20 | II. | 520 | Roßhof. | LaRoche-Stehelin, Benedict.
+  LaRoche-Stehelin, Benedict, Banquier.
+  Firma: Benedict LaRoche.
+21 | II. | 524 |  | Heckel-Salathe, Helena.
+  Heckel-Salathe, Helena, Trödlerin.
+22 | II. | 520 | Roßhof. | LaRoche-Stehelin, Benedict.
+23 | II. | 521 | Almosenschaffnei. | Almosenamt der Stadt Basel.
+  Herzog-Eguet, Joh., Almosenschaffner
+  und Notar.
+  Herzog, Adolf, Notariatsgehülfe.
+  Herzog, Emil, Kaufmann.
+24 | II. | 511 | zur Platte. | Fürstenberger-Debary, Wb. Julie.
+  Fürstenberger-Debary, Wb. Julie.
+  Fürstenberger, Albert, Wollhändler.
+25 } | II. | 519 |  | Fürstenberger, Hans Georg.
+27 } |  |  |  | 
+28 | II. | 507 A | z. großen Birseck. | Brenner-Stehelin, Joh.
+  Brenner-Stehelin, Joh., Kaufmann.
+  Lützelmann-Schaffner, Joh. Jac., Kaufm.
+  Firma: J. J. Lützelmann, Farb-
+  und Materialienhandlung.
+29 | II. |  |  | Schär, Joh. Jacob.
+  (Eingang zu Nr. 12 Spalenberg.)
+30 | II. | 505 | zur Liebburg. | Puppikofer-Landolt, Friedrich.
+  Puppikofer-Landolt, Friedr., Schreiner.
+  Basler, Anton, Stuhlschreiner.
+  Hörner-Frey, Julius, Friseur.

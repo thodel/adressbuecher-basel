@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p261",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p261.jpg",
+    "bytes": 1285594,
+    "sha256": "8cc83416a19eac94929ab7357a26d6ffc8653e3cf81515267de78d40ea033c8c",
+    "sha256_of": "original",
+    "working_copy": "1862_p261.jpg"
+  },
+  "text": "196\nRheingasse.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n59 VIII. 83 z. vordern Henne. Christ, Ursula Elisabeth.\nChrist, Ursula Elisabeth, Schneiderin.\n60 VIII. 63 Bienz-Mohler, Wb. Anna Elisab.\nBienz-Mohler, Wb. Anna Elisab., Part.\n61 VIII. 84 Vogt-Gocht, Achilles.\n62 VIII. 64 Bonfilsch-Landerer, Sebast., fel. Erb.\nBonfilsch-Landerer, Wb. Catharina, Part.\nBonfilsch, Sebastian Richard, Commis.\n63 VIII. 85 zum Salmen. Gloor, Oscar.\nSchwarz-Schweizer, Heinr., gew. Metzger.\n64 VIII. 65 Thommen, Johannes, fel. Erben.\nThommen, Joh. Jakob, Bestäter.\nSuter-Muston, Heinrich, Weinhändler.\n65 VIII. 94 Huber, Joh. Heinrich.\nHuber, Joh. Heinrich, Schuhmacher.\n66 VIII. 69 Schnell-Burckhardt, Wb. Maria Sal.\n67 VIII. 95 Hasner-Tschudin, Joh. Jakob.\nHasner-Tschudin, Joh. Jakob, Schuhm.\nDegen-Kreis, Johann, Schneider.\n68 VIII. 70 zur Fischwage. Winckler-Schütz, Wb. Elisabeth.\nWinckler-Schütz, Elisabeth, Schiffmann.\nKorneli-Wagner, Johannes, Gipser.\n69 VIII. 96 zum schönen Eck. Euler, Wilhelm Rudolf.\nEuler, Wilhelm Rudolf, Schuhmacher.\n70 VIII. 72 Leupin-Scherberger, Wb. Emilie\nFriederike.\nLeupin-Scherberger, Wb. Emilie, Part.\nLeupin, Sgfr. Emilie, Wollwascherin.\nLeupin, Sgfr. Friederika, Modiste.\n72 VIII. 73 Mazinger, Peter, fel. Erben.\nMazinger-Siegel, Wb. Friederika Wil-\nhelmine, Fischhandl.\n74 VIII. 77 Riedtmann-Rebsamen, Joh. Heinr.\nRiedtmann-Rebsamen, Joh. Heinrich,\neidg. Zolleinnehmer.\nWeber-Riedtmann, Wb. Maria, Detail-\nhandlung.\nKölner-Langmesser, Joh. Rudolf, Ge-\nschäftsmann.\nKölner, Joh. Emil, Commis.\n76 VIII. 78 zum gelben Schneid. Winckler-Mettauer, Wb. Elisabeth.\nWinckler-Mettauer, Wb. Elisab., Part.\nMettauer-Wagner, Theod., Schiffmann.\n78 VIII. 79 David, Schwefern.\nDavid, Judith und Anna Maria, Part.\nDavid, Georg, Metzger.\nFlury-Lüthardt, Jos. Barth., Lehrer.\n80 VIII. 80 zur Trotte. Glasier-Ritter, Friedrich.\nGlasier-Ritter, Friedrich, Fischer und\nHolzhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5418,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1946,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p261",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p261.jpg",
+      "bytes": 1285594,
+      "sha256": "8cc83416a19eac94929ab7357a26d6ffc8653e3cf81515267de78d40ea033c8c",
+      "sha256_of": "original",
+      "working_copy": "1862_p261.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:56+00:00"
+  }
+}

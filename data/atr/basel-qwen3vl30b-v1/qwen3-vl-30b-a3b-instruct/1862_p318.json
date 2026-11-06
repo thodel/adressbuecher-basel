@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p318",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p318.jpg",
+    "bytes": 1531546,
+    "sha256": "925a885d84a3f68e26b88edc500d73cf58199122e5613ce4d7e33cef4833ae19",
+    "sha256_of": "original",
+    "working_copy": "1862_p318.jpg"
+  },
+  "text": "Alphabetisches Verzeichniss der Bürger und Einwohner\nder Stadt Basel.\n\nAbele, Ludw., Zollinspecteur. Riehenstr. 26.\nAberle=Geffel, Wb. Maria Cath., Taglöhnerin.\nLindenberg 9.\nAberli=Haas, Franz, Schriftsetzer. Schwanengasse 6.\nAberlin=Seiler, Jaf., Straßenarbeiter. Sattelgasse 16.\nAbig=Müller, Eml., Spengler. Rheingasse 58\nAbry, Hippolite, Deffinateur. Schneidergasse 5.\n— Louife, Lingere und Corfetschneiderin.\nSchneidergasse 5.\nAbsonderungshaus und Verforgungsanstalt.\nSpitalstraße 3.\nAbt=Abt, Heinrich, Koftgeber. St. Johann-Vorstadt 59.\n— =Albert, Postbeamter. Austraße 47.\n— Cath., Schneiderin. Streitgaffe 10.\n— Georg, Part. Rhybeckstraße 107.\n— =Grieder, Joh., Eisenbahnbeamter. Spalenberg 62.\n— =Langmesser, J., Ferger. Greifengaffe 21.\n— =Mohler, Elisabeth, Taglöhnerin. Hutgaffe 10.\n— =Müller, Joh. Jakob, Seidenfärbergeselle. Hammerstraße 21.\n— =Rottweil, Wb. Elisab., Glätterin. Schafgäßlein 1.\n— =Schneider, Daniel, Eisenbahnbeamter. Steinenthorfstraße 37.\n— =Siegriß, Wb. Salomea, Taglöhnerin. Spalenvorstadt 20.\n— =Tschopp, Daniel, Arbeiter. Steinenthorfstraße 37.\n— =Tschopp, Jakob, Holzhändler. Steinenvorstadt 47.\n— =Went, Carl, Wirth. Hintere Bahnhofstraße 16.\nAcker=Abt, Carl, Schreiner. Birgigstraße 26.\nAdermann=Dudli, Joh., Spezerei- u. Packtuchhandlung. Spalenberg 26.\n— Joh., Schuhmacher. Freie Straße 105.\n— =Keller, Jakob, Posamenteur. Sternengäßlein 29. 31.\nAdermann, Maria, Kostgeb. Aeschenvorstadt 65.\n— =Rapp, Dan., Spengler. Gerbergasse 73.\n— =Rueff, Carl, Malergef. Utengasse 28.\n— =Schaub, Alois, Appretcur. Nadelberg 36.\n— =Schaub, Pet., Defon. Sternengäßlein 9.\nAdamann=Roth, Anton, Schneider. St. Johann-Vorstadt 53.\nAdler, Christian, Kutscher. St. Peters-Gasse 2.\n— Maria Magdal., Zettlerin. St. Peters-Berg 34.\n— =Studhalter, Joh., Maurer. Utengasse 41.\nAdolf, Barbara, Taglöhnerin. Greifengasse 26.\nAebi=Müller, Ferdinand. Eisenbahnbeamter. Hammerstraße 106.\nAebi, Chr. Th., J. U. D. In den Neufäzen 4.\n— =Hartmann, Wb. Cath., Lehnenbeständer. In den Neufäzen 4.\nAegerter=Bühler, Joh., Schreiner. Hammerstraße 46.\nAemmer, Abraham Gottfried Ferd., Commis. Seevogelstraße 7.\nAenishänsli=Breu, Heinrich, Fabrikarbeiter. St. Johann-Vorstadt 63.\n— =Gränacher, Carl Friedrich, Mechaniker. Rebgaße 40.\nAerni, Wilhelmine, Schneid. Streitgasse 14.\nAeschbach, Heinrich, Banddrucker. St. Clara-Straße 9.\n— =Madöri, Heinr., Posamenteur. Riechenteichweg 14.\nAeschmann=Brothet, Friedrich, Fabrilarbeiter. Utengasse 27.\n— =Lichtenhahn, Daniel, Schreiner. Karthausgäßlein 7.\n— Margaretha. Rheingasse 52.\nAichner=Burchardt, Rud., Baumeister. Steuenthorberg 14.\nAlbäck=Schwab, Jakob Heinrich, Kaufmann. Hammerstraße 13.\n— — Bureau. Fabrikstraße 35.\nAlber, Philipp, Fabrikarb. Aeschenvorstadt 64.\n— =Aufmaul, Wb. Barbara, Taglöhnerin. Aeschenvorstadt 64.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7414,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2777,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:02:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p318",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p318.jpg",
+      "bytes": 1531546,
+      "sha256": "925a885d84a3f68e26b88edc500d73cf58199122e5613ce4d7e33cef4833ae19",
+      "sha256_of": "original",
+      "working_copy": "1862_p318.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:22+00:00"
+  }
+}

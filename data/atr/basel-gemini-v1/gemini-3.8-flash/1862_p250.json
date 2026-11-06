@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p250",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p250.jpg",
+    "bytes": 1440332,
+    "sha256": "fd02176c13696c93cbb5da47f43d438ecbe7ac1b2589f51d90d2f90759b3b50c",
+    "sha256_of": "original",
+    "working_copy": "1862_p250.jpg"
+  },
+  "text": "Lindenberg. — Mattweg. 185\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n7 | VIII. | 101 | zum Riesenhof. | Glaser-Flamm, Jakob.\n  Glaser-Flamm, Jakob, Zimmermann.\n8 | VIII. | 93 c | | LaRoche-Bez, Emanuel.\n9 | VIII. | 102 | | Bühler-Bürgin, Jak. Friedrich.\n  Bühler-Bürgin, Jak. Fr., Kaminfeger.\n11 | VIII. | 103 A | | Asmus-Kaufmann, C. Friedr.\n12 | VIII. | 106 | Pfarrwohnung. | Katholische Gemeinde.\n  Furt, Burkart, Pfarrer.\n  Flury, Niclaus, Vikar.\n  Günther, Urs Joseph, Prof. u. Vikar.\n  Brey, Carl, Vikar.\n  Goepp, Mich. Joseph, Lehrer.\n  Kaeser, Jakob, Lehrer.\n  Scheel, Ignaz, Lehrer.\n13 | VIII. | 103 | z. schwarz. Kanne. | Zürcher-Stohler, Joh. Heinrich.\n  Zürcher-Stohler, Joh. Hch., Schneider.\n15 | VIII. | 104 | | Faesch, Leonhard.\n  Faesch, Leonhard, Organist.\n17 | VIII. | 105 | | Verein z. Bildung weibl. Dienstbot.\n  Habicht, Anna Barb., Hausmutter.\n18 | VIII. | 110 | | Birmann-Leuenberger, Johann.\n  Birmann-Leuenberger, Joh., Metzger.\n19 | VIII. | 107 | zur Mühlen. | David, Rudolf.\n  David, Rudolf, Metzger.\n  Bossard-Gaupp, Joh. Conr., Wirth.\n20 | VIII. | 110 A | | Weber-Lüttner, Sebastian.\n  Bannier, Eduard, Commis.\n21 | VIII. | 108 | z. stillen Wind. | Hartmann-Brotbeck, Sam. Friedr.\n  Hartmann-Brotbeck, Sam. Fr., Commis.\n  Bastady-Witschin, Joh. Jak., Dessinat.\n23 | VIII. | 109 | zur Hirzburgeck. | ImHof-Forcart, Joh. Jak.\n\nMattweg.\n2 | VII. | 76 C | zum Rosenthal. | Wahl-Rey, Joh. Heinrich.\n4 | | | | Wahl-Rey, Joh. Heinr.\n  Günzhofer-Kuhn, Ludw., Güterexpe-\n  ditionsgehülfe.\n6 | VII. | 77 b | | Preiswerk, Wilhelm von Lukas.\n9 | VII. | 77 C | | Ritter, Joh. Baptist.\n10 | VII. | 77 | der kleine Horburg. | Preiswerk Wilhelm von Lucas.\n  Eggenberger-Binder, Johs., Lehenbestdr.\n11 | VII. | 77 D | | Ritter, Joh. Baptist.\n14 | VII. | 77 B | | Steffen-Schweler, Johannes.\n  Steffen-Schweler, Joh., Seidenfärber-\n  geselle.\n  Gut-Schneider, Joh. Jac., Postbeamter.\n16 | VII. | 77 E | | Bader-Wilhelm, Franz Fidel.\n  Bader-Wilhelm, Franz Fidel, Gärtner.\n| | 77 J | | Merian, Remigius.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8576,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2077,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p250",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p250.jpg",
+      "bytes": 1440332,
+      "sha256": "fd02176c13696c93cbb5da47f43d438ecbe7ac1b2589f51d90d2f90759b3b50c",
+      "sha256_of": "original",
+      "working_copy": "1862_p250.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:12+00:00"
+  }
+}

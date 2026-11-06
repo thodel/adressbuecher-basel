@@ -1,0 +1,52 @@
+St. Alban-Vorstadt. | 19
+Neue Haus-Nr. | Quartier. | Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+65 | V. | 1325 d | Pfarrhaus. | Staat.
+  Preiswerk-Stähelin, Samuel, Pfarrer.
+66 | V. | 1263 | | David-Stähelin, Reinhard sel. Erb.
+  David-Stähelin, Wittwe Cölestine.
+  Gysin-Tschudin, Johannes, Wirth.
+  Schmid-Leiß, Johs., Drechsler.
+68 | V. | 1264 | | Iselin, Rudolf u. Wilhelm.
+  (Magazin.)
+69 | V. | 1312 | | Iselin-Christ, Rud., u. Iselin, Wilh.
+  Iselin-Christ, Rudolf, Tuchhändler.
+70 | V. | 1265 | | Heusler-Bischoff, Rud.
+  (Remise und Stallung.)
+71 | V. | 1312 b | | Iselin, Wilh., u. Iselin-Christ., Rud.
+  Iselin, Wilhelm, Tuchhändler.
+72 | V. | 1266 | | Goldenmann-Müller, Martin.
+  Goldenmann-Müller, Martin, Wirth.
+  Sütterlin-Brüllmann, Fr., Schreiner.
+74 | V. | 1267 | | Haag-Kraus, Leonhard.
+  Haag-Kraus, Leonhard, Hufschmied.
+  Schär, Friedrich, Kunstmaler.
+76 | V. | 1268 | | Siber-Heusler, Friedrich.
+78 | V. | 1269 | | Sulger u. Stückelberger.
+  (Bandfabrik.)
+80 | V. | 1269 c | | Sulger u. Stückelberger.
+  (Bandfabrik.)
+81 | V. | 1311 B | Spritzenhaus. | Staat.
+82 | V. | 1270 | | Merian-Bonder Mühll, Heinrich.
+  Merian-Bonder Mühll, Heinrich, Rentier.
+83 | V. | 1311 C | | Merian-Iselin, Rudolf.
+  Merian-Iselin, Rud., Rentier, d. Raths.
+85 | V. | 1311 Aa | | Vischer-Handmann, Wb.
+  (Remise und Stallung.)
+86 | V. | 1271 | z. Schweizerbund. | Weitnauer, Rudolf.
+  Schwenk-Musculus, Wb. Carolina
+  Josepha, Hufschmied.
+87 | V. | 1311 A | | Vischer-Handmann, Wb. An. Maria.
+  Vischer-Handmann, Wb., A. M., Partic.
+  Bachofen-Vischer, Wilh., Bandfabrikant.
+88 | V. | 1272 | z. vorderen Klösterl. | Oser, Rudolf.
+  Oser, Rudolf, Thierarzt.
+90 | V. | 1273 | zum Fälklein. | Sarasin-Sauvain, Karl.
+  Sarasin-Sauvain, Karl, Bandfabrikant
+  und Rathsherr.
+  Sarasin-Heusler, Wittwe, Salomea.
+91 | V. | 1311 E | | Sarasin u. Comp.
+  Sarasin-Stehlin, Rud., Bandfabrikant.
+92 | V. | 1273 A | zum Fälklein. | Sarasin-Sauvain, Karl.
+  Gelzer-Sarasin, Heinrich, Dr. u. Prof.
+93 | V. | 1311 D | | Sarasin u. Comp.
+  Comptoir von Sarasin u. Cie., Bandfab.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p197",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p197.jpg",
+    "bytes": 1268566,
+    "sha256": "44de7bfc6dfdab8d0b56316ef28098d4b64aab1e1df8c86f3b65ba715ff33899",
+    "sha256_of": "original",
+    "working_copy": "1862_p197.jpg"
+  },
+  "text": "132 — Singerweg. — Spalenberg.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n2 | V. | 262 | | Merian-Burckhardt, Christof, sel. Erben.\n  Kray-Rych, Christian, Lehenbeständer.\n3 | V. | 263 d | | Bachofen-Vischer, Wilhelm.\n  (Oekonomiegebäude.)\n4 | V. | 262 B | | Merian-Burckhardt, Christof, sel. Erben.\n  (Lehenmannswohnung.)\n\nSpalenberg.\n1 | VI. | 1713 | z. rothen Adler. | Geßler-Hübscher, Abr. Rudolf.\n  Geßler-Hübscher, Abr. Rudolf, Glaser.\n2 | II. | 597 | zur Ente. | Preiswerk-Sulger, Carl.\n  Preiswerk-Sulger, Carl, Kaufmann.\n  Firma Eman. Preiswerk, Colonialwhdlg.\n3 | VI. | 1712 | schwarzer Adler. | Thommen-Müller, Joh. Jacob.\n  Thommen-Müller, Joh. Jacob, Gärtner.\n  Stampfer-Otto, Wollwaarenhandlung.\n  Diethelm-Wunderlin, Leonh., Schreiner.\n  Beck, Joh. Jacob, Schlosser.\n4 | II. | 598 | zum kleinen Kirschgarten. | Krayer-Lotz, Leonhard Friedrich.\n  Krayer-Lotz, Leonhard Friedrich, Küfer.\n  Vuillermet, Schwestern, Modistes.\n  Faure-Bluntschli, Math., Regenschirmfb.\n5 | VI. | 1711 | zum Lämmlein. | Haas-Keyser, Christian.\n  Haas-Keyser, Christian, Wirth.\n6 | II. | 599 | zum Wildegg. | Eysin, Rudolf.\n7 | VI. | 1710 | zum Gilgenberg. | Seiler-Wernli, Caspar.\n  Seiler-Wernli, Caspar, Particulier.\n  Erb-Kübler, Maria Theresia, Schuhm.\n8 | II. | 600 | zum niedern Licht. | Bossardt-Senn, Jacob.\n  Bossardt-Senn, Jacob, Uhrmacher.\n  Weiß, August Heinrich, Schuhmacher.\n9 | VI. | 1709 | zum Sperber. | Roschet, Emil.\n  Roschet, Emil, Kürschner.\n  Roschet, Carl, Bettwaarenhandlung.\n  Roschet, Margaretha, Rentiere.\n10 | II. | 601 | z. klein. Spalenhof. | Feindel-Bouchard, Wb. Françoise.\n  Feindel-Bouchard, Wb. Franç., Schneid.\n  Stiefel-Müller, Albert, Strumpfweber.\n11 | VI. | 1708 | zum Dolder. | Geßler-Vonkilch, Emanuel.\n  Geßler-Vonkilch, Emanuel, Bierbrauer.\n  Preiswerk, Alexander, Pfarrer.\n  Bricar-Schaefer, Peter Carl, Partik.\n12 | II. | 602 | zum Spalenhof. | Schär-Haas, Joh. Jacob.\n  Schär-Haas, Joh. Jacob, Schneider.\n  Braunschweig-Levy, Jacq., Geldwechsl.\n  Frey, Joh. Jacob, Möbelhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8036,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2082,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:55:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p197",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p197.jpg",
+      "bytes": 1268566,
+      "sha256": "44de7bfc6dfdab8d0b56316ef28098d4b64aab1e1df8c86f3b65ba715ff33899",
+      "sha256_of": "original",
+      "working_copy": "1862_p197.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:25+00:00"
+  }
+}

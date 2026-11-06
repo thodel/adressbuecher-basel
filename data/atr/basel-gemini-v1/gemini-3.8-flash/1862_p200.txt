@@ -1,0 +1,53 @@
+Spalenberg. 135
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+  |   |   |   | Bär, Conrad, Schuhmacher.
+  |   |   |   | Selinger, Hyacinth, Commis.
+41 | II. | 477 | zum Wacker. | Fischer-Affolter, Wb. Barbara.
+  |   |   |   | Fischer-Affolter, Wb. Barbara, Part.
+  |   |   |   | Peyer, Johannes, Schuhmacher.
+42 | II. | 478 |   | Weibel-Haga, Heinrich.
+  |   |   |   | Weibel-Haga, Heinrich, Fabrikarbeiter.
+43 | II. | 476 | zum Kaiserschwert. | Buser, Hieronimus, S. M. C.
+  |   |   |   | Stiefel-Knoblauch, Frz. Jos., Schreiner.
+44 | II. | 475 | zum Steinkeller. | Buser, Hieronimus, S. M. C.
+  |   |   |   | Buser, Hieronimus, Cand. d. Theol.
+45 | II. | 474 | z. obern weißen Ring | Marbach-Gysin, Isaak, sel. Erben.
+  |   |   |   | Marbach-Gysin, Wb. Anna, Kürschner.
+  |   |   |   | Oetiker-Kropf, Emil, Buchbinder.
+46 | II. | 472 | zu den drei grünen Bergen. | Lang-Hauser, Adam.
+  |   |   |   | Lang-Hauser, Adam, Musiker.
+  |   |   |   | Martin, Heinr. Ludw., Commis.
+47 | II. | 473 | zum schönen Mann. | Flubacher-Gysin, Emanuel.
+  |   |   |   | Porte-Turnherr, Elias, Sprachlehrer.
+48 | II. | 471 | zum Wertenberg. | Kramer-Schmid, Martin.
+  |   |   |   | Kramer-Schmid, Martin, Schuhmacher.
+  |   |   |   | Rothenhäusler-Schaier, Alois, Schrein.
+  |   |   |   | Bromberger, Leo, Lehrer.
+49 | II. | 447 | zum Meerwunder. | Lex, Felix Joseph.
+  |   |   |   | Lex, Felix Joseph, Alt-Notar und Ge-
+    schäftsmann.
+50 | II. | 470 | zum Löwenberg. | Geymüller-Maerklin, Hieronim.
+  |   |   |   | Geymüller-Maerklin, Hieronim., Kfm.
+  |   |   |   | Wiederkehr, Mathias, Sattler.
+  |   |   |   | Brunner-Walser, Andreas, Schneider.
+51 | II. | 449 | zum Limburg. | Stehelin-Merian, Georg Emil.
+  |   |   |   | Stehelin-Merian, Georg Emil, Dr. Med.
+52 | II. | 469 | zur Rose. | Nitzmann-Vollenweider, Beat.
+  |   |   |   | Nitzmann-Vollenweider, Beat., Commis.
+  |   |   |   | Valair-Meisner, Joh. Rud., Zuckerbäck.
+53 | II. | 450 | zur Tanne. | Stähelin-Bischoff, Christof.
+  |   |   |   | Stähelin, Christof, Sohn, Bandfa-
+    brikant.
+54 | II. | 468 | zum Kränzlein. | Weber-Stierli, Friedrich.
+  |   |   |   | Weber-Stierli, Friedrich, Seidenagent.
+  |   |   |   | Völmli-Raas, Joh. Ludwig, Schneider.
+55 | II. | 451 | zum Pelikan. | Lichtenhahn-Merian, Jacob.
+  |   |   |   | Lichtenhahn-Merian, Jacob, Stuccator
+    und Gipser.
+  |   |   |   | Collin-Bernoulli, Bernhard, Kaufmann.
+  |   |   |   | Burckhardt, Eduard, Stuccator.
+56 | II. | 467 | zum Löwenstein. | Saeng-Hellstern, Hermann.
+  |   |   |   | Saeng-Hellstern, Hermann, Knochen-,
+    Lumpen- und Papierhändler.
+  |   |   |   | Bussinger-Oberst, Heinrich, Schreiner.

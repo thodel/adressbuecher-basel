@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p226",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p226.jpg",
+    "bytes": 1448196,
+    "sha256": "84056868e534c75dce9a1ffc34859cb47b905a48da29e0ee32329a9c6cc531cf",
+    "sha256_of": "original",
+    "working_copy": "1862_p226.jpg"
+  },
+  "text": "Wallstraße. — Weidengasse. 161\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n5 | IV. | 898 D | | Gschwend-Ebner, Joh. Georg.\n  Gschwend-Ebner, Joh. Georg, Holzhändl.\n  Schaad, Johannes, Bauführer.\n  Gschwend-Täschler, Joseph, Maurer.\n6 | IV. | 896 H | | Bolliger-Hauri, Rudolf.\n  Bolliger-Hauri, Rudolf, Wirth.\n  Bais, Theophil, franz. Eisenbahnkassier.\n  Sutermeister, Stefan, Rentier.\n14 | IV. | | Methodistenbethaus | Nippert-Lindemann, Ludwig.\n  Nippert-Lindemann, Ludwig, Prediger.\n15 | IV. | 898 | | Holzach-Lippe, Franz.\n16 | IV. | | | Riggenbach-Iselin, Albert.\n17 | IV. | 897 H | | Holzach-Lippe, Franz.\n  Holzach-Lippe, Franz, Kaufmann.\n  Firma Hans Jakob de Georg Müller Colonialwaarenhandlung.\n  Hübscher-Falkner, Wb. Valeria, Rent.\n18 | IV. | 899 B | | Riggenbach-Iselin, Albert.\n  Gobat-Monin, Viktor, Agenturgeschäft.\n  Oser-Vest, Wb. Elisabeth, Part.\n20 | IV. | 899 C | | Glor-Haas, Johannes.\n  Glor-Haas, Johannes, Cassier der Fuhrbeamtung.\n  Buser, Jakob, Commis.\n  Eckert, Peter Paul, Zollbeamter.\n22 | IV. | 899 D | | Völlmy-Zutt, Joh. Jak.\n  Völlmy-Zutt, Joh. Jak., Commis.\n  Völlmy, Lukas, Lehrer.\n  Rapp-Uebelin, Joach., Bauunternehmer.\n  Schaaf, Wb. Friederika, Part.\n24 | IV. | 899 F | | Schäublin-Voegtlin, Joh. Jak.\n  Schäublin-Voegtlin, Joh. Jak., Lehrer.\n  Walter-Wehrle, Emanuel, Commis.\n  Schieß-Gemuseus, Heinrich., Dr. med. Zahnarzt.\n\nWeidengasse.\n2 | V. | 324 a | | Stehlin-Burckhardt, Joh. Jakob.\n4 | V. | 323 | | Stehlin-Burckhardt, Joh. Jakob.\n  Wütherich-Dettwyler, Friedr., Leherbest.\n8 | V. | 321 | | Stehlin-Burckhardt, Joh. Jak.\n14 | V. | 319 u. 320 | | Merian-Burckhardt, Christ., sel. Erben.\n22 | V. | 318 | | Eschbach-Garnaus, Emanuel.\n  Eschbach-Garnaus, Emanuel, Gärtner.\n24 | V. | 317 | | Hersperger-Hersperger, Isaak.\n  Hersperger-Hersperger, Isaak, Spetter.\n  Spahn-Reinhardt, Heinrich, Schneider.\n\n11",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7992,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1912,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p226",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p226.jpg",
+      "bytes": 1448196,
+      "sha256": "84056868e534c75dce9a1ffc34859cb47b905a48da29e0ee32329a9c6cc531cf",
+      "sha256_of": "original",
+      "working_copy": "1862_p226.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:36+00:00"
+  }
+}

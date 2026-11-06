@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p169",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p169.jpg",
+    "bytes": 1334025,
+    "sha256": "3da85b576ffb42191b59bdcfdf43fb96b583ceb2ec168f24f87c2e580a5cc04d",
+    "sha256_of": "original",
+    "working_copy": "1862_p169.jpg"
+  },
+  "text": "104 Neue Vorstadt.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n8 | I. | 257 B | | Bienz-Pfaff, Wb. Margaretha.\n  Bienz-Pfaff, Wb. Marg., Particularin.\n9 | I. | 249 d | | His-Burckhardt, Friedrich.\n10 | I. | 258-259 | | Hubel-Thommen, Rudolf.\n  Hubel-Thommen, Rudolf, Schreiner.\n11 | I. | 259 A | | Frey-Weitnauer, Friedrich.\n13 | I. | 259 A a | | Frey-Weitnauer, Friedrich, Baumeister.\n  | I. | 259 A b | | von Meyenburg-Stockar, Anselm Franz, Secretär der Centralbahn.\n12 | I. | 260 | Taubadelerhof. | Simonius-Oschwald, Paul.\n  Lieb-Holl, Fr., Kaufmann.\n14 | I. | 260 A | | LaRoche-Bernoulli, Wb. Catharina.\n  LaRoche-Bernoulli, Wb. Cath., Part.\n  LaRoche, Andreas, Particular.\n  LaRoche, Theophil, Kaufmann.\n15 | I. | 259 B | | Zäslin-Falkeisen, Conrad.\n  Zäslin-Falkeisen, Conrad, Kaufmann und Appellationsrath.\n  Holzhalb-Wolf, David, Particular.\n16 | I. | 261 | | Buxtorf-Preiswerk, Joh. Rudolf.\n  Buxtorf-Preiswerk, Joh. Rud., Pfarrer im Waisenhaus.\n17 | I. | 264 | Alumneum. | Verwaltung des theol. Alumneums.\n  LeGrand, Wilh., Pfarrer u. Inspector.\n18 | I. | 262 | | Buxtorf-Preiswerk, Joh. Rudolf.\n  Buxtorf-Preiswerk, Joh. Rud., Pfarrer.\n19 | I. | 267 A | | AWengen-Hindermann, Jacob.\n21 | I. | 267 A | | AWengen-Hindermann, Jacob, Baumstr.\n  Bernoulli-Natzinger, Carl, Schullehrer.\n20 | I. | 263 | | Lindenmeyer, Samuel.\n  Comptoir u. Fergstube von Hediger u. Comp., Bandfabrikanten.\n  Schardt-Huber, Rudolf, Commis.\n22 | I. | 265 | | Küntzy-Lotz, Friedrich.\n  Küntzy-Lotz, Friedrich, Commis.\n23 | I. | 267 B | | Pettermand-Landerer, Ami Constant.\n  Pettermand-Landerer, Ami Const., Kaufm.\n  Schmidt-AWengen, Joh., Kaufmann.\n24 | I. | 266 | | Falkner-Haller, Wb. Barbara.\n  Falkner-Haller, Wb. Barbara, Partikul.\n25 | I. | 268 | | Cappeler-Hindenlang, Joh. Abrah.\n  Cappeler-Hindenlang, Joh. Abrah., Hafn.\n26 | I. | 267 | zur alten Treu. | Kern-deCroufaz, Elias.\n  Kern-deCroufaz, Elias, Stadtrath.\n27 | I. | 269 A | Holsteinerhof. | Huber-Stehelin, Emilie.\n  Huber-Stehelin, Emilie, Rentiere.\n  Siebenmann-Huber, Fried. Wilh., Kaufm.\n28 | I. | 269 C | | Burckhardt-Gemuseus, Wb. Emilie.\n  Stehelin-Koch, Jerôme, Kaufmann.\n  Comptoir der Firma Jerôme Stehelin, Agentur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8901,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2243,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:51:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p169",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p169.jpg",
+      "bytes": 1334025,
+      "sha256": "3da85b576ffb42191b59bdcfdf43fb96b583ceb2ec168f24f87c2e580a5cc04d",
+      "sha256_of": "original",
+      "working_copy": "1862_p169.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:01+00:00"
+  }
+}

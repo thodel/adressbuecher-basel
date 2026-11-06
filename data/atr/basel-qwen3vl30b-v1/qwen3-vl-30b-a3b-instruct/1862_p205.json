@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p205",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p205.jpg",
+    "bytes": 1261965,
+    "sha256": "0a7a215c5c864b2920a1bf579364ea5f73e2976d94155cc376da8201301b4200",
+    "sha256_of": "original",
+    "working_copy": "1862_p205.jpg"
+  },
+  "text": "140\nSpalenvorstadt. — Spiegelgasse.\nNro. | Quarte. | Alte Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n41 | II. | 314 | | Geßler=Meyer, Jac. Rudolf.\n| | | | Geßler=Meyer, Jac. Rud., Bäcker.\n| | | | Benz=Liidin, Heinrich, Desfinateur.\n| | | | Preiswerk=Meyer, Rud., Commis.\n| | | | Baumann, Joh. Samuel, Desfinateur.\n42 | II. | 299 | | Schardt=Breiting, Carl.\n| | | | Schardt=Breiting, Carl, Kaufmann.\n| | | | Prévost, Ludwig, Kunstmalер.\n43 | II. | 313 | zum Engelsguß. | Stehelin, Gottfried.\n| | | | Firma: Gottfried Stehelin, Colonialwaarenhandlung.\n| | | | Stehelin, Gottfried, Kaufmann.\n| | | | Stehelin=ImHof, Ed., Kaufmann.\n| | | | Stehelin, Cecile, Part.\n| | | | ImHof=Boyer, Wb. Elisabeth, Part.\n44 | II. | 300 | z. scharfen Ed. | Parmentier=Lüscher, Benedict.\n| | | | Parmentier=Lüscher, Benedict, Wirth.\n45 | II. | 312 | | Strübin=Loz, Niclaus.\n| | | | Strübin=Loz, N., Fleischhauer.\n| | | | Wieland=Schmalzer, Em., Part.\n| | | | Kübenstahl=Ebner, Joh. Rud., Wirth.\n46 | II. | 311 | Spalenthor. | Staat.\n| | | | Herzog, Wtb, Wascherin.\nSpiegelgasse.\n1 | I. | 116 | Großhüningen. | Zimmerlin=VonSpeyr.\n| | | | Zimmerlin=VonSpeyr, Aug., Kaufm.\n| | | | Bader=Maehly, Friedr., Straßeninspect.\n2 | I. | 209 | Spiegelhof. | Senn=Jsenegger, Joh. Jac.\n| | | | Dependenz zu den 3 Königen.\n3 | I. | 117 | zur Laterne. | Dubois=Hilzinger, Louis.\n| | | | Siehe Nr. 9 am Blumenrain.\n4 | I. | 208 | | Lang, Isaac.\n| | | | Meyer, Johannes, Wirth.\n| | | | Störkle=Parison, Peter, Schneider.\n| | | | Burtin=Déforme, Franz Benj., Commis.\n5 | I. | 118 | | Hasler=VonMechel, Gottlieb.\n| | | | Zu Nr. 7 Blumenrain gehörend.\n6 | I. | 207 | zu den drei rothen Bergen. | Müller=Müller, Wb. Elisabeth.\n| | | | Müller=Müller, Wb. Elisabeth, Bandpuckerin.\n7 | I. | 204 | | Hasler=VonMechel, Gottlieb.\n8 | I. | 206 | z. schwarzen Horn. | Meyer=Meyer, Gottl. Rudolf.\n| | | | Meyer=Meyer, Gottl. Rud., Kübler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5609,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1915,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p205",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p205.jpg",
+      "bytes": 1261965,
+      "sha256": "0a7a215c5c864b2920a1bf579364ea5f73e2976d94155cc376da8201301b4200",
+      "sha256_of": "original",
+      "working_copy": "1862_p205.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:33+00:00"
+  }
+}

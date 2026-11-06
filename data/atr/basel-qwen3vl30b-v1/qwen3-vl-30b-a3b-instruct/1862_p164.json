@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p164",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p164.jpg",
+    "bytes": 1438313,
+    "sha256": "791a2e4f40be7f5497b7bb2ed821eac2ca9bdd3e9db44ff6754e10de5dfcb352",
+    "sha256_of": "original",
+    "working_copy": "1862_p164.jpg"
+  },
+  "text": "Münsterplaz. — Münzgässlein. 99\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n15 | V. | 1461 | Gymnasium. (Schule auf Burg.) | Staat.\n16 | V. | 1460 | Reischacherhof. | Staat.\n17 | V. | 1459 | Andlauerhof. | Merian=Burckhardt, Joh. Jacob, fel. Erben.\n18 | V. | 1458 | Reinacherhof. | Merian=Burckhardt, Wb. Baleria. Merian, Joh. Jacob, Dr. phil. Merian, Adolf, Gutsbesitzer.\n19 | V. | 1458 | ehem. Oberstpfarr- haus. | Staat.\n20 | V. | 1472 | Rollerhof. | Frey=Freyvogel, Heinrich, Rektor der Realschule. Frey, Hans, Dr. phil. Rosenburger=Rapp, Wb. Anna Elis. Riggenbach= Sulger, Christof, Architect. Rosenburger=Rapp, Wb. Anna Elis. Rosenburger=Rapp, Wb. Anna Elisabeth, Rentiere. Rosenburger, Arnold, Dr. Med. Rosenburger, Elise, Partikularin.\nMünzgässlein.\n3 | VI. | 1679 | zur neuen Schleife. | Burckhardt=Leuthold, Joh. Jacob. Burckhardt=Leuthold, Joh. Jacob, Schleifer und Messerschmied. Klaiber=Tschopp, Andreas, Schuhmacher. Altermatt=Birer, Nicolaus, Schneider.\n4 | VI. | 1713 | zum rothen Adler. | Gekler=Hübscher, Abraham Rudolf. (Siehe Nr. 1 Spalenberg.)\n5 | VI. | 1680 | | Schoch, Erhard.\n6 | VI. | 1712 | | Thommen=Müller, Joh. Jacob. (Siehe Nr. 3 Spalenberg.)\n8 | VI. | 1711 B | zum Lämmlein. | Haas=Reyser, Christian. (Siehe Nr. 5 Spalenberg.)\n9 | VI. | 1681 | zur alten Münz. | Schoch, Erhard.\n10 | VI. | 1710 | zum Gilgenberg (Hinterhaus). | Meyer=Lienin, Jacob, Metzger. Seiler, Caspar. (Siehe Nr. 7 Spalenberg.)\n11 | VI. | 1682 | zu d. drei Böcken. | Breithaupt=Krayer, Jacob. Breithaupt=Krayer, Jacob, Fabrikarb. Guerne=Breithaupt, Albert, Commis.\n12 | VI. | 1719 | zum Sperber. | Roschet, Emil. (Siehe Nr. 9 Spalenberg.)\n13 | VI. | 1658 | 3. Gasthof 3. Post. | Meister=Lenz, Wb. Kunigunde. (Siehe Nr. 16 Gerbergasse.)\n15 | VI. | 1683 | | Grüninger=Rueger, Emanuel. GrüningerRueger, Emanuel, Trödler.\n7*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6430,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1883,
+    "lines": 21,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 88.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:42:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p164",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p164.jpg",
+      "bytes": 1438313,
+      "sha256": "791a2e4f40be7f5497b7bb2ed821eac2ca9bdd3e9db44ff6754e10de5dfcb352",
+      "sha256_of": "original",
+      "working_copy": "1862_p164.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:32+00:00"
+  }
+}

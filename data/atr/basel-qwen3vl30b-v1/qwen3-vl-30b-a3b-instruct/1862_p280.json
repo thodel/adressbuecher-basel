@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p280",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p280.jpg",
+    "bytes": 1647177,
+    "sha256": "aa6aabeeae9720391737c2439311b0090ed757df5b7c8b06ce660b4bd5c68241",
+    "sha256_of": "original",
+    "working_copy": "1862_p280.jpg"
+  },
+  "text": "Verzeichniss der Häuser nach ihren Benennungen. 215\nHalbmond, z. Freie Straße Nr. 3.\nHaltingen, z. klein. Greiffengasse Nr. 17.\nHammened, z. Gerbergasse Nr. 26.\nHammer, z. gelben. Klosterberg Nr. 19.\nHammer, z. obern blauen. Kohlenberg Nr. 5.\nHammer, z. untern blauen. Kohlenberg Nr. 3.\nHammerwerk, z. Gerbergasse Nr. 28.\nHammerwerk, z. Grünpfahlgäcklein Nr. 2.\nHarmonie, z. Roschofgasse Nr. 10.\nHafelburg, z. St. Elisabethenstraße Nr. 6.\nHafen, zu den drei. Aeschenvorstadt Nr. 40.\nHafen, z. vordern. Aeschenvorstadt Nr. 38.\nHafenburg, z. Hafenberg Nr. 9.\nHattstatt, z. niedern. Hutgasse Nr. 22.\nHattstatt, z. obern. Spalenberg Nr. 14.\nHattstatt, z. hintern. Nadelberg Nr. 31.\nHattstätterhof, unterer. Ob. Rheinweg Nr. 91.\nHauenstein, z. Schnabelgäcklein Nr. 1.\nHauenstein, z. Aeschenvorstadt Nr. 77.\nHaupt, z. Schneidergasse Nr. 28.\nHaus, deutsches. Rittergasse Nr. 35.\nHaus, z. deutschen gehörend. St. Alban-\nGraben Nr. 21. 23.\nHaus, z. untern freien. Stadthausgasse Nr. 15.\nHaus, z. hohen. Spalenvorstadt Nr. 31.\nHaus, z. neuen. Weiße Gasse Nr. 17.\nHaus, z. neuen. Eisengasse Nr. 11.\nHaus, z. neuen. Eisengasse Nr. 13.\nHaus, Hinterhaus z. neuen. St. Martins-\nkirchplatz Nr. 14.\nHaus, Hinterhaus z. neuen. St. Martins-\nkirchplatz Nr. 15.\nHaus, z. rothen. Sporengasse Nr. 3.\nHaus, rothes. Brunn Gäcklein Nr. 13.\nHaus, z. schönen. Nadelberg Nr. 6.\nHaus, z. schwarzen. Freie Straße Nr. 7.\nHaus, z. weißen. Kümelinsplatz Nr. 4.\nHaus, z. oberen weißen. Schneidergasse Nr. 27.\nHausgenossen, Zunft zu, z. grauen Bären.\nFreie Straße Nr. 34.\nHebelhaus. Neue Vorstadt Nr. 3.\nHegischeimerhof. Münsterplatz Nr. 10.\nHeiden, z. Freie Straße Nr. 46.\nHeimathland, z. Riehenstraße Nr. 70.\nHeitwiler, z. Weiße Gasse Nr. 19.\nHelsenberg, z. St. Leonhardsgraben Nr. 37.\nHelsenberg, z. Heuberg Nr. 20.\nHelsenstein, z. Gerbergasse Nr. 61.\nHelm, z. Fischmarkt Nr. 4.\nHelm, z. grünen. St. Leonhardsgraben Nr. 9.\nHelm, z. grünen. Trillengäcklein Nr. 8.\nHelm, z. grünen. Gemsberg Nr. 5.\nHelm, z. rothen. Spalenberg Nr. 59.\nHelm, z. schwarzen. Eisengasse Nr. 26.\nHenne, z. fetten. Marktplatz Nr. 10.\nHenne, z. rothen. Gerbergasse Nr. 39.\nHenne, z. rothen. Nadelberg Nr. 36.\nHenne, z. schwarzen. Pfluggäcklein Nr. 10.\nHenne, z. vordern. Rheingasse Nr. 59.\nHenneberg, z. Rheingasse Nr. 22.\nHennenbrunnen, z. Gerbergasse Nr. 6.\nHentschenberg, z. Gerbergasse Nr. 24.\nHerberge, z. armen. Schneidergasse Nr. 23.\nHerbergmühle, z. St. Alban-Thal Nr. 25.\nHerbergmühle, z. St. Alban-Thal Nr. 27.\nHerbst, z. vollen. Rebgasse Nr. 8.\nHermelin, z. Freie Straße Nr. 13.\nHermelin, z. obern. Freie Straße Nr. 15.\nHerrenschmiede, z. Spalenvorstadt Nr. 24.\nHertenstein, z. Aeschenvorstadt Nr. 7.\nHeu-Häusli. Im Davidsboden Nr. 3.\nHeurling, z. lebenden. Spalenberg Nr. 35.\nHimmel, Zunft z. Freie Straße Nr. 33.\nHimmel, Zunft z. Schliisselberg Nr. 8.\nHimmel, z. weißen. St. Johann-Vorstadt\nNr. 62.\nHimmelspforte, z. Freie Straße Nr. 6.\nHimmelspforte, z. Freie Straße Nr. 8.\nHimmelspforte, z. Utengasse Nr. 31.\nHindin, z. oberen. Streitgasse Nr. 1.\nHirsch, z. springenden. Barfüsserplatz Nr. 30.\nHirschen, z. Aeschenvorstadt Nr. 50.\nHirschen, z. Stadthausgasse Nr. 22.\nHirschenbrunnen, z. Riehenstraße Nr. 74.\nHirschenbrunnen, z. Riehenstraße Nr. 76.\nHirschenchmiede, z. Hirschgäcklein Nr. 3.\nHirschenchmiede, z. Aeschenvorstadt Nr. 52.\nHirzburg. Riehenthorstraße Nr. 9.\nHirzburg, z. Sporengasse Nr. 15.\nHirzburged, z. Lindenberg Nr. 23.\nHirzenhörnli, z. Aeschenvorstadt Nr. 55.\nHirzlimühle, z. St. Albankirchrain Nr. 12.\nHochberg, z. untern. Münsterberg Nr. 11.\nHölle, z. Todtentanz Nr. 13.\nHölle, z. Rheinsprung Nr. 19.\nHöllmühle, ehemal. Webergasse Nr. 17.\nHörnli, z. Gerbergasse Nr. 66.\nHof, im. St. Alban-Vorstadt Nr. 36.\nHof, z. neuen. St. Alban-Vorstadt Nr. 10.\nHof, z. schönen. Nadelberg Nr. 8.\nHoffnung, z. frohen. Klingenthalstraße Nr. 37.\nHofftätten, z. St. Andreasplatz Nr. 16.\nHoggen, z. niedern. Gerbergasse Nr. 68.\nHoggen, z. niedern. Gerbergäcklein Nr. 37.\nHoheneck, z. St. Leonhardsstraße Nr. 1.\nHolfsteinerhof. Neue Vorstadt Nr. 27.\nHolfsteinerhof. Neue Vorstadt Nr. 30.\nHolfsteinerhof. Neue Vorstadt Nr. 32.\nHorburg, z. Horburgstraße Nr. 18.\nHorburg, z. Horburgstraße Nr. 20.\nHorburg, z. kleinen. Mattweg Nr. 10.\nHorn, z. gelben. Spalenberg Nr. 17.\nHorn, z. schwarzen. Steinenvorstadt Nr. 12.\nHorn, z. schwarzen. Spiegelgasse Nr. 8.\nHorn, z. schwarzen. Steinenbachgäcklein Nr. 7.\nHornberg, z. Barfüsserplatz Nr. 34.\nHündin, z. Freie Straße Nr. 66.\nHündin, z. Streitgasse Nr. 3.\nHüningen, Groß. Spiegelgasse Nr. 1.\nHüningen, Groß. Blumenrain Nr. 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12272,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4520,
+    "lines": 121,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0083,
+    "mean_line_chars": 36.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:55:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p280",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p280.jpg",
+      "bytes": 1647177,
+      "sha256": "aa6aabeeae9720391737c2439311b0090ed757df5b7c8b06ce660b4bd5c68241",
+      "sha256_of": "original",
+      "working_copy": "1862_p280.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:13+00:00"
+  }
+}

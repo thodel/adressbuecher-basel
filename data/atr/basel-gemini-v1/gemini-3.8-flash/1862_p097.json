@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p097",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p097.jpg",
+    "bytes": 1274307,
+    "sha256": "5e1e8b2ecc79a1a336ff64072e588dbb9f57babb9a633e7c3d190e44466e616f",
+    "sha256_of": "original",
+    "working_copy": "1862_p097.jpg"
+  },
+  "text": "32 | Brunngäßlein. — Burgfelder-Straße. — Byfangweg.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nBrunngäßlein.\n4 | IV. | 1019 | zum roth. Löwen. | Martin, Gebrüder.\n  Martin-Zeug, Rudolph, Hafnermeister.\n  Martin, Johannes, Hafnermeister.\n  Bueß-Hofer, Wilhelm, Mechaniker.\n  Urech-Mohler, Jakob, Schreiner.\n5 | IV. | 1024 | | Bulacher, Wb. Salome.\n7 | IV. | 1023 | | Forcart-Hoffmann sel., Erben.\n  Biry, Verena, Wittwe, Partikularin.\n6/8 | IV. | 1020 | | Joh. Rud. Geigy u. Heusler.\n  (Magazin.)\n11 | IV. | 1022 | hint. Würtemb. Hof | Wackernagel-Sarasin, Wilh.\n  Wackernagel, Wilhelm, Dr. u. Prof.\n13 | V. | 1021 | rothes Haus. | Sarasin-Forcart, Pfarrer u. Jgfr.\n  Elise Forcart gemeinschaftlich.\n  Osiander-Feierabend, Johann August,\n  Schreiner.\n24/26 | IV. | 1006 B u C | | Koechlin u. Söhne.\n  Koechlin u. Söhne, Bandfabriken.\n\nBurgfelder-Straße.\n6 | I. | 71 | | Borer-Kaltenbach, Beda.\n  Borer-Kaltenbach, Beda, Landmann.\n12 | I. | 75 A | | Schneider-Wiesner, Elis. Wb.\n  Schneider-Wiesner, Elisab. Wb., Guts-\n  besitzerin.\n16 | I. | 75 B | | Schneider-Schweighauser, Martin.\n  Schneider-Schweighauser, Mart., Guts-\n  besitzer.\n20 | I. | 77 | Zollanmeldngspost. | Staat.\n22 | I. | 76 | | Gürtler-Vogt, Joseph.\n  Gürtler-Vogt, Joseph, Gutsbesitzer.\n\nByfangweg.\n2 | II. | 168 A | | Matzinger-Wäffler, Bernhard.\n  Matzinger-Wäffler, Bernhard, Commis.\n  Rosenmund-Bohny, Fr., Zollbeamter.\n4 | II. | 172 A | | Beck-Berlinger, Joh. Jakob.\n  Beck-Berlinger, Joh. Jakob, Schlosser.\n  Bachmann-Weil, Conrad, Commis.\n32 | II. | 161 E u D | | Schneider-Wirz, Wilhelm.\n  Rosenfeld-Muntzinger, Josef Eduard,\n  Kunstmaler.\n  Hibbert-Hoyle, Robert, Particular.\n34 | II. | 161 D | | Schneider-Wirz, Wilhelm.\n  Peter, Johanna u. Verena, Particul.\n  Jünemann-Apitz, Hermann, Gießerei-\n  Factor.\n  Milliet-Groobey, Franz Ludw., Kohlen-\n  handlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8150,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1900,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p097",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p097.jpg",
+      "bytes": 1274307,
+      "sha256": "5e1e8b2ecc79a1a336ff64072e588dbb9f57babb9a633e7c3d190e44466e616f",
+      "sha256_of": "original",
+      "working_copy": "1862_p097.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:30+00:00"
+  }
+}

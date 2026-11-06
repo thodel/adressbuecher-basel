@@ -1,0 +1,44 @@
+Fabrikstr. Fischerweg. Freiburger-Straße. Gotterbarmweg. 171
+Nene
+Haus=Nr. | Quars
+tier. | Alte
+Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+33 | VII. | 86 G | | Stohler=Hofer, Adolf.
+35 | VII. | 86 H | | Stohler=Hofer, Adolf, Ferger.
+37 | VII. | 86 J | | Zeller=Viegh, Friedr., Kunstmaler.
+39 | VII. | 86 K | | Gubler=Langmeyer, Jacob.
+41 | VII. | 86 L | | Gubler=Langmeyer, Jacob, Blattmacher.
+58 | VII. | 84 A | | Albäck=Schwab, F. Heinr., Raujmann.
+61 | VII. | | | Gundrum=Degen, Michael.
+| | | | Gundrum=Degen, Michael.
+| | | | Gundrum=Degen, Michael.
+| | | | Müller=Pac, Joh. Jac.
+| | | | Rohner=Imhof, Marcus.
+Fischerweg.
+2 | VIII. | 49 A | | Bullschleger=Hagist, Gottfried.
+| | | | Bullschleger=Hagist, Gottfr., Blattmacher.
+| | | | Hagist, Joh. Jac., Lehenbeständer.
+9 | VIII. | 52 | | Schäffer=Elser, August.
+11 | VIII. | 52 C | | Burchhardt=Bernet, Daniel.
+Freiburger-Straße.
+1 | VII. | 63 A | | Zsler, Joh. Rudolf, Blattmacher.
+2 | VII. | 62 A | Landjägerposten. | Eidgenossenschaft.
+| | | Zulanmeldung=
+gebäude. | Bolliger, Friedrich, Landjäger.
+| | | | Haegi, Johann,
+3 | VII. | 63 | | Socin=Streif, Peter.
+| | | | Socin=Streif, Peter, Wirth.
+Gotterbarmweg.
+10 | VIII. | | Bahwarkhäuschen. Großh. bad. Eisenbahnverwaltung.
+15 | VIII. | 86 | | Schäfer=Jörin, Jacob.
+| | | | Schäfer=Jörin, Jac., Stuhlschreiner.
+| | | | Bernhardt, Adolf, Gärtner.
+20 | VIII. | 87 | | Ponder Mühl=Bischer, Friedr.
+| | | | Bürkli=Alt, Wb. Cath., Part.
+Greisengasse.
+1 | VII. | 378 | zum Waldeck. | Schlueb=Otto, Philipp.
+| | | | Schlueb=Otto, Philipp, Wirth.
+| | | | Calame, A. Ludw., Bauinspektor.
+| | | | Jahn, Carl Gustav, Agent.
+| | | | Nordmann-Dietesheim, Elie, Kfm.

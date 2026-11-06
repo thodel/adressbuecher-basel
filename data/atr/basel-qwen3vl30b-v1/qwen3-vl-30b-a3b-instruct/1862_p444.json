@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p444",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p444.jpg",
+    "bytes": 1680303,
+    "sha256": "f77ed0a0fe642c0f25ebcf56fdc7e828bb40a5fc1570de6644221eb7816fa263",
+    "sha256_of": "original",
+    "working_copy": "1862_p444.jpg"
+  },
+  "text": "Verzeichniß der Berufszarten.\n379\nBingeriehandlungen.\nBolliger=Miville. Eisengasse 26.\nFrischnecht=Crismann, J. J. Pfluggäßl. 3.\nJordan=Jenny, Wittwe Cath. Marktplatz 14.\nRoch=Renaux, Johs. Schneidergasse 15.\nMüller, Geschwister. Eisengasse 9.\nOstermann und Cie. Eisengasse 17.\nSchultheß=Schneider, Ernst. Freie Straße 54.\nSchwör=Abry, Jeanette. Schneidergasse 5.\nLinirer.\nGefler, Leonh. Hutgasse 5.\nHug=Hummel, Jac. Em. Hutgasse 14.\nLiqueursfabriken.\nMeyenroch=Sohn. Riehenthorfstraße 28.\nSagnol=Meiler, Wwe. Jean. Maria. Hammerstraße 17.\nUrech=Frey, David. Untere Webergasse 15.\nLiseurs.\nDesfacieur, Ant. Oberer Rheinweg 96.\nFritsche, Franz. Johannsgäßlein 4.\nKummer, Cour. St. Alban-Vorstadt 7.\nTschopp, Alb. Steinenthorfstraße 39.\nLithographen.\nBruder=Biirgin, Wwe. A. M. Gerbergässlein 15.\nHasler=von Mechel, Gottl. Blumenrain 7.\nHindermann=Baumli, Eml. Weiße Gasse 5.\nHofch, Niklaus. Nadelberg 33.\nMontandon=Heintzler, Abrah. Fischmarkt 2.\nSeul, J. C. Gemsberg 8.\nStauber=Haufer, Joh. Rheingasse 54.\nBögelin, Jac. Steinbachgäßlein 12.\nWolf=Dietisheim, Georg. Unterer Heuberg 2. 4.\nZemp u. Cie., A. St. Peterskirchplatz 2.\nLohnmüller.\nSchäfer=Zemp, Anton. Hammerstraße 2. 4.\nLohndiener.\nBieler=Chodat, J. Fischmarkt 2.\nCarle=Dietrich, Rud. Steinenvorstadt 22.\nDubois, Rudolf. St. Peters-Berg 7.\nFrey=Frey, Reinb. St. Peters-Berg 36.\nHerzog, Em. St. Peters-Platz 16.\nHolzach=Laubheim, Euch. Spalenberg 16.\nRienzi=Tschopp, J. J. Spalenthormweg 8.\nRieferer=Streulin, Ludw. Kellergäßlein 5.\nLohnkühninen.\nGremmer=Mokovitski. Untere Reb-gasse 14.\nKalbfell, Wwe. Elisabeth. St. Peters-Berg 19.\nMofer, Louiſe. Sattelgasse 22.\nPfaff, Salomea. Lindenberg 19.\nPfeiffer=Sanfer, Wwe. Urs. Rheingasse 52.\nLohnkutscher fehe Fuhrhalter.\nLohn= und Reinwascher.\nBaudel, Celestine. Steinenthorfstraße 16.\n— *Pfohl, Maria Anna. St. Peterskirchplatz 13.\nChristen=Rieder, Math. Badergäßlein 2.\nDavid=Mattinger, Em. Steinenvorstadt 65.\nDriissel, J. G. St. Johann-Vorstadt 66.\nGarnjobst, Schwe stern. Nechenvorstadt 46.\nGerber=Gerber, Wwe. Anna Maria. Spalenberg 16.\nHilfer=Kalt, Math. Steinenthorfstraße 16.\nKiefer=Bay, Wwe. St. Alban-Thal 40.\nKleiber, Hel. u. Cath. Gerbergasse 72.\nKlein=Schmidlin, J. J. Riehen-Straße 11.\nLipp=Zundt, Anna. Gerbergasse 12.\nMazingcr=Wezel, Heinr. St. Alban-Thal 44.\nMüller, Fritz Jac. Riehenthorfstraße 13.\nReide, Theref. Reb-gasse 48.\nRohrer, Anna Barb. St. Peters-Gasse 2.\nRiihlin, J. G. Rappoltshof 14.\nSchmidlin=Straub, Barb. Spalenberg 28.\nSchneider=Müller, Jac. Klingenthal 19.\n— =Wiift, Joh. Riehenteichweg 18.\nSchott, Cath. Klingenthal 10.\nSenn, Suzette. Webergasse 31.\nSpengler, Wwe. Genof. Weiße Gasse 14.\nSteinmann=Wertenberg, Wwe. Ursula. Klimelinsplatz 1.\nStohler=Selzer, Margar. St. Peterskirch-Platz 10.\nThoma=Müller, Bonifaz. Webergasse 33.\nThommen=Bufer, Math. Bahnhofstraße 33.\nWeber=Zuber. Rappoltshof 19.\nLumpenhändler fehe Knochen- und Lumpenhändler.\nLumpensammler.\nBörlin=Tschudin, Ed. Hammerstraße 80.\nDollmann, Franz Jos. Trillengäßlein 5.\nWürgler, Casp. Sam. Lindenberg 19.\nMägdeverdingcrinnen.\nBeck, Anna. St. Peters-Berg 9.\nHeckendorf=Kron, Wwe. Louise. Neue Vorstadt 8.\nMeyer, Ursula. St. Peters-Berg 30.\nKees=Demus, Friederika. St. Peters-Berg 42.\nMaison garnie.\nBie, Nanette. Eisengasse 4.\nMaler\nAlinger=Schneider, J. H. St. Alban-Th. 12.\nBaumgartner=Müller, D. Utengasse 12.\nBaur, Samuel. Gemsberg 5.\nBlumenthal, Carl. St. Peters-Gasse 13.\nBrändlin=Nörbel, Wwe. M. C. St. Leonhards-Graben 36.\nBrotbeck=Gnehm, Johs. Unterer Heuberg 25.\nBurchhardt-Grüninger, Wwe. M. u. Nadelberg 45.\nCrouaz=Fröhlich, Jac. Klimelinsplatz 15.\nGerster=Böllmy, Alex. Sternengäßlein 33.\nGefler=Martin, A. Mostackerstraße 23.\nGraf=Streicher, Jac. Streitgasse 20.\nGyfin, Emil. Freie Straße 75.\nJenny, Jacob. Nechenvorstadt 39.\nJöppgen-Hohler, Wilh. Heuberg 13.\nKindweiler, Fritz. Gartenstraße 64.\nKnecht=Laule, Johs. Kohlenberggasse 13.\nKohler, Theophil. Platzgäßlein 3.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10409,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3893,
+    "lines": 111,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:22:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p444",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p444.jpg",
+      "bytes": 1680303,
+      "sha256": "f77ed0a0fe642c0f25ebcf56fdc7e828bb40a5fc1570de6644221eb7816fa263",
+      "sha256_of": "original",
+      "working_copy": "1862_p444.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:22:12+00:00"
+  }
+}

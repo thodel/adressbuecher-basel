@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p229",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p229.jpg",
+    "bytes": 1194967,
+    "sha256": "0eb71e39f852a711005b1290443349fa910c0b0eab65858f5d620090eb9004ba",
+    "sha256_of": "original",
+    "working_copy": "1862_p229.jpg"
+  },
+  "text": "Kleine Stadt.\n\nBadergäßlein. — Bäumleinhofweg.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n1 | VII. | 330 | das alte Bad. | Christen-Rieder, Matthias.\n  Nowack Ebner, Hch., Schuhmacher.\n2 | VII. | 324 | | Christen-Rieder, Matthias.\n  Christen-Rieder, Matthias, Wäscher.\n3 | VII. | 329 | z. kleinen Löwen. | Degen-Schlittler, Heinrich.\n  Degen-Schlittler, Hch.. Zimmermann.\n5 | VII. | 327—328 | | Buchmann-Faesch, Rudolf.\n6 | VII. | 325 | | Huber-Ritter, David.\n  Huber-Ritter, David, Seidenfärberges.\n8 | VII. | 326 A | | Mast-Mäehly, Joh. Jak.\n  Mast-Mäehly, Joh. Jak., Postfactor.\n10 | VII. | | | Raillard-Staehelin, August.\n12 | VII. | 326 | | Saxer-Kehr, Joh. Friedr.\n  Saxer-Kehr, Joh. Friedr., Taglöhner.\n14 | VII. | 353 | | Schneeberger-Huber, Rudolf.\n  Schneeberger-Huber, Rud., Schuhmach.\n  Müller-Schenkel, Spezierer.\n\nBäumleinhofweg.\n5 | VIII. | 74 | Bahnwarthäuschen. | Großh. bad. Eisenbahnverwaltung.\n7 | VIII. | 90 | | Dill, Joh. Heinrich.\n  Dill, Joh. Hch., Gutsbesitzer.\n  Dill-Schwob, Wb. Elis. Part.\n10 | VIII. | 91 | auf d. Bohner. | Spitalpflegamt.\n  Saladin, Anna Mar., Obsthändlerin.\n11 | VIII. | 95 | Almenthäuschen. | 3 Ehren Gesellschaften Kl. Basels.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8347,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1238,
+    "lines": 28,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0024,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p229",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p229.jpg",
+      "bytes": 1194967,
+      "sha256": "0eb71e39f852a711005b1290443349fa910c0b0eab65858f5d620090eb9004ba",
+      "sha256_of": "original",
+      "working_copy": "1862_p229.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:59+00:00"
+  }
+}

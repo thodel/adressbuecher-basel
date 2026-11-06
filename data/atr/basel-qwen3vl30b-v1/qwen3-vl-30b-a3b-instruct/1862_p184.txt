@@ -1,0 +1,65 @@
+Niedengässlein. — Nümelinbachweg. — Nümelinsplaz. 119
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+1 | VI. | 1169 | 3. gold. Apotheke. | Geiger, Friedrich.
+| | | | Geiger, Friedr., Dr. u. Apotheker.
+2 | VI. | 1651 | 3. hint. Waldshut. | Lang-Klingele, Bernhard.
+| | | | Lang-Klingele, Bernhard, Wirth.
+| | | | Lipp, Rudolf, Commis.
+3 | VI. | 1168 | 3. schwarz. Rüden. | Baur-Sprenger, Joh. Georg.
+| | | | Baur-Sprenger, Joh. Georg, Buchdruck.
+5 | VI. | 645 A | Wachthaus d. Gas-
+anzünder. | Stadtgemeinde.
+7 | VI. | 646 | | Gekler-Guggenbühl, Caspar.
+| | | | Gekler-Guggenbühl, Casp., Rothenberger.
+| | | | Lederhandlung von A. Braun-Gekler.
+9 | VI. | 647 | | Lutz-Merker, Jacob.
+| | | | Lutz-Merker, Jacob, Kleiderhandlung.
+| | | | Meister, Georg, Postbeamter.
+Niedengässlein.
+1 | VI. | 1169 | 3. gold. Apotheke. | Geiger, Friedrich.
+| | | | Geiger, Friedr., Dr. u. Apotheker.
+2 | VI. | 1651 | 3. hint. Waldshut. | Lang-Klingele, Bernhard.
+| | | | Lang-Klingele, Bernhard, Wirth.
+| | | | Lipp, Rudolf, Commis.
+3 | VI. | 1168 | 3. schwarz. Rüden. | Baur-Sprenger, Joh. Georg.
+| | | | Baur-Sprenger, Joh. Georg, Buchdruck.
+5 | VI. | 645 A | Wachthaus d. Gas-
+anzünder. | Stadtgemeinde.
+7 | VI. | 646 | | Gekler-Guggenbühl, Caspar.
+| | | | Gekler-Guggenbühl, Casp., Rothenberger.
+| | | | Lederhandlung von A. Braun-Gekler.
+9 | VI. | 647 | | Lutz-Merker, Jacob.
+| | | | Lutz-Merker, Jacob, Kleiderhandlung.
+| | | | Meister, Georg, Postbeamter.
+Nümelinbachweg.
+3 | III. | 189 a | | Baumann, Joh. Hch., sel. Erben.
+| | | | Wachshaus u. Magazin.
+4 | III. | 188 | | Burchhardt-Ecklin, Franz.
+| | | | Burchhardt-Ecklin, Franz, Mechaniker.
+5 | III. | 189 | | Baumann, Joh. Hch., sel. Erben.
+| | | | Baumann-Moser, Wb. Rosina, Part.
+| | | | Diener-Haller, Joh., Seidenfärberei.
+6 | III. | 187 | | Burchhardt-Ecklin, Franz.
+| | | | Mechanische Werkstätte.
+7 | III. | 189 bu. c | | Baumann, Joh. Hch., sel. Erben.
+| | | | Färberei.
+8 | III. | 186 | | Burchhardt-Ecklin, Franz.
+| | | | Ecklin-Loz, Wb. Salomea, Part.
+| | | | Ziegler, Theodor, Werkführer.
+10 | III. | 185 a | | Thurneyssen'sche Papierfabrik.
+| | | | Wilhelm-Kauch, Adolf, Werkführer.
+12 | III. | 185 | | Thurneyssen'sche Papierfabrik.
+18 | III. | 184 | 3. Tabakstampe. | Bischoff-Reitner, J. J. u. Comp.
+| | | | Holliger-Weibel, Jacob, Tabakmüller.
+Nümelinsplaz.
+1 | VI. | 621 | Nümelinsmühle. | Seifert-Abt, Heinrich.
+| | | | Seifert-Abt, Heinrich, Müller.
+2 | VI. | 1689 | 3. rothen Kopf. | Sacher, Adolf.
+| | | | Sacher, Adolf, Schuhmacher.
+| | | | Ballmer-Asch, Anton, Kappenmacher.
+| | | | Meyenfisch, Gotthard, Kammmacher.

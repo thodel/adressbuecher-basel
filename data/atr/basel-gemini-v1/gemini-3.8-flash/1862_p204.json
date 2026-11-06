@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p204",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p204.jpg",
+    "bytes": 1466354,
+    "sha256": "dad9fc60e1ef12362378db9a08377a199c49bd30cf57d35f340a7df4197b5a23",
+    "sha256_of": "original",
+    "working_copy": "1862_p204.jpg"
+  },
+  "text": "Spalenvorstadt. | 139\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n25 | II. | 322 | | Stauber-Delaquis, Rudolf.\n  Stauber-Delaquis, Rud., Bäcker.\n  Modespacher-Schmidt, Val., Briefträger.\n  Orelli-Fischer, Giuseppe, Glaser.\n26 | II. | 291 | | Bohny-Fausel, Joh.\n  Christ-Hartmann, Jeremias, Metzger.\n27 | II. | 321 | | ImHof-Maerky, Andreas.\n  ImHof-Maerky, Andreas, Bäcker.\n  ImHof-Hoch, Andreas, Part.\n  ImIof, Melchior, Commis.\n28 | II. | 292 | | Gysin-Weber, Daniel.\n  Gysin-Weber, Daniel, Sattler.\n29 | II. | 320 | | ImHof-Maerky, Andreas.\n  ImHof, Benedikt, Altzoller.\n30 | II. | 293 | | Krug'sches Fideikommiß.\n31 | II. | 319 | zum hohen Haus. | Rohr-Schmidt, Johannes.\n  Rohr-Schmidt, Johannes, Kaufmann.\n32 | II. | 294 | | Schneider-Wirz, Wb. Barbara.\n  Schneider-Wirz, Wb. Barbara, Part.\n  Wernli-Meyer, Rudolf, Wirth.\n33 | II. | 318 | zum Oestreich. | Weißenberger-Martin, Johannes.\n  Weißenberger-Martin, Johannes, Spe-\n    zierer.\n  Walter, Joh. Georg, Telegraphist.\n34 | II. | 295 | zum rothen Hut. | Ziegler, Elisabeth.\n  Hauschild-Alsleben, Ernst, Gesanglehrer,\n    Phil. Dr.\n35 | II. | 317 | zum Fasan. | Mohler-Schardt, Jakob.\n  Mohler-Schardt, Jakob, Bäcker.\n  Brotbeck-Haenggi, J. Rud., Commis.\n  Brotbeck, Emanuel, Commis.\n36 | II. | 296 | z. Rätzdorf. | Henz-Kiefer, Eucharius.\n  Henz-Kiefer, Eucharius, Holzsetzer.\n37 | II. | 316 | z. weißen Rößli. | Brotbeck-Gnehm, Wb. Magdalena.\n  Brotbeck-Gnehm, Wb. Magdal., Part.\n  Rupplin-Brotbeck, Em., Bäcker.\n  Bohny-Hoffmann, Friedr., Schneider.\n38 | II. | 297 | zur äußern lieben Frau. | Sandreuter-Langmesser, Rudolf.\n  Sandreuter-Langmesser, Rud., Brieftr.\n  Sandreuter-Graf, Rud., Postfactor u.\n    Wirth.\n39 | II. | 315 | zum Vogel. | Goette-Waser, Johannes.\n  Goette-Waser, Johannes, Zimmermstr.\n  Schweizer-Sasse, Fritz, Bäcker.\n  Kestenholz-Brunner, Joh. Anton, Des-\n    sinateur.\n40 | II. | 298 | | Schardt-Breiting, Carl.\n  Meily, Wilhelm, Commis.\n  Walter, Friedr., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8926,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2012,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:56:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p204",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p204.jpg",
+      "bytes": 1466354,
+      "sha256": "dad9fc60e1ef12362378db9a08377a199c49bd30cf57d35f340a7df4197b5a23",
+      "sha256_of": "original",
+      "working_copy": "1862_p204.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:27+00:00"
+  }
+}

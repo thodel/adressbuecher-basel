@@ -1,0 +1,56 @@
+Kaufhausgasse. — Kellergäßlein. 75
+Nrn
+Haus=Mr.
+Quar-
+tier.
+Alte
+Haus=Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Kaufhausgasse.
+1 | IV. | 1083 A | | Siegrist=Baader, Rudolf.
+  | | | | Siegrist=Baader, Rudolf, Kaufmann.
+  | | | | Comptoir v. Siegrist u. Fender.
+  | | | | Holzbacher=Marian, Wb. Maria, Kent.
+  | | | | Krayer=Ramsperger, Ed., Kaufmann.
+2 | IV. | 1084 A | | Kühner=Heusler, Wilhelm.
+  | | | | Kühner=Heusler, Wilh., Floretspinnerei.
+3 | IV. | 1083 B | | Landerer=Heusler, Wb. Valeria.
+  | | | | Landerer=Heusler, Wb. Valeria, Kent.
+  | | | | Socin=Best, Wb. Barbara, Rentiere.
+4 | IV. | 1084 B | | Steigmeyer, Johannes.
+  | | | | Steigmeyer, Johannes, Handelsmann.
+  | | | | Walter=Fastlinger, Aug., Musikdirector.
+5 | IV. | 1083 C | | Stehlin=Marian, Carl Rudolf.
+  | | | | Stehlin=Marian, Carl Rud., Dr. Jur.,
+  | | | | Notar u. Advokat.
+  | | | | Marian, Heimlicher u. Stehlin, Notariats=und Advokatur=Bureau.
+  | | | | Bischer=Valentin, Wb. Phil. Maurice.
+6 | IV. | 1084 C | | Stoer=Berner, Otto.
+  | | | | Stoer=Berner, Otto, Agent.
+  | | | | Zwilchenbart, And., Auswand.=Bur.
+  | | | | Pfau, Johann, Commis.
+  | | | | Troll, Louise, Lehrerin.
+  | | | | Troll, Julius, Dessinateur.
+  | | | | Hartmann, Rosine u.Cath., Lehrerinnen.
+7 | IV. | 1083 D | | Dreyfus, Samuel u. Jacques.
+  | | | | Freund, Josef Ant., Sohn, Commissio-
+  | | | | när u. Spediteur.
+  | | | | Dreyfus=Zeidels, Jac., Bandfabrikant.
+  | | | | Dreyfus=Neumann, Sam., "
+  | | | | Grether=Maler, Mathias, Rentier.
+8 | IV. | 1084 D | | Schaefer=Schneider, Emanuel.
+  | | | | Schaefer=Schneider, Emanuel, Commis.
+  | | | | Lang=Straumann, Andreas, Commis.
+  | | | | Keller=Zeller, Friedrich, Unterbestäter.
+  | | | | Weiß=Kling, Wb. A. Marg., Part.
+  | | | | Spiegelmagazin von Ben. Peter.
+Kellergäßlein.
+2 | 1. | 154 a u. b. | | Betulius, Carl.
+5 | 1. | 156 C | | Marian=Bister, Heinrich.
+  | | | | Kiefterer=Streulin, Ludw., Lohndiener.
+6 | 1. | 244 | Pfarrhaus. | Staat.
+  | | | | Edin=Reymond, Theop. Wilh., Pfarrer.
+7 | 1. | 245 | | Eglinger, Susanna.
+  | | | | Burckhardt=Haller, Rud., Dr. med.

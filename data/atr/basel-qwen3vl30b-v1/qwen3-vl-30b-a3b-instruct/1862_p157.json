@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p157",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p157.jpg",
+    "bytes": 1338842,
+    "sha256": "24df662bedd19279ebcd9823e0fa34ff333fc7a9b383e06a3b3d5fa8cc01f780",
+    "sha256_of": "original",
+    "working_copy": "1862_p157.jpg"
+  },
+  "text": "92\nMissionsstraße.\nNeue\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n20 | I. | 95 | | Fäsch=Binet, Joh. von Joh.\n21 | II. | 110 | Missionshaus. | Fäsch=Binet, Joh. von Joh., Rentier.\n| | | | Evangelische Missionsgesellschaft.\n| | | | Fosenhans=Geß, Fried. Jof., Inspector.\n| | | | Braun=Gwinner, Theod., Bureauchef.\n| | | | Geß=Citel, Fried. Wolfgang, Pfarrer.\n| | | | Peter=LaRoche, Carl, Pfarrer.\n| | | | Kolb=Laurmann, Christ., Hausvater.\n| | | | Barembe, Felician, Missionsprediger.\n| | | | Ziegler, Jakob Friedr., Lehrer.\n| | | | Dierlamm, Gottlob, Lehrer.\n| | | | Schwarz, Gottlob, Lehrer.\n| | | | Stolz, Caspar, Commis.\n| | | | Hager, Beata, Hausmutter.\n22 | I. | 94 | | Preiswerk=Hunziker, Emanuel.\n| | | | Preiswerk=Hunziker, Emanuel, Kfm.\n23 | II. | 112 | | Burchhardt=Imhof, Wb. Susanna.\n24 | I. | 93 | | Sandoz=Luya, Carl Aug.\n| | | | Sandoz=Luya, Carl Aug., Kaufmann.\n26 | I. | 92 | | Sandoz=Luya, Carl Aug.\n| | | | Sieber= Sulger, Wilhelm, Commis.\n27 | II. | 113 | | Preiswerk=Burchhardt, Eduard.\n| | | | Preiswerk=Burchhardt, Eduard, Kfm.\n29 | II. | 114 | | Merian=Reber, Johannes.\n30 | I. | 91 | | Schilling, Rudolf.\n31 | II. | 115 | | Burchhardt=VonderMühl, Wb. A.\n| | | | Catharina.\n| | | | Schilling, Rudolf.\n32 | I. | 90 | |inder=Steinegger, Joh. Jac.\n34 | I. | 89 | | Weiß=Schmid, Friedr., Gärtner.\n| | | | Staehelin=Stückelberger, Peter.\n35 | II. | 116 | | Staehelin=Stückelberger, Pet., Pfarrer.\n| | | | Linder=Steinegger, Joh. Jac., Bandfabr.\n| | | | Firma J. J. Linder.\n36 | I. | 88 | | Linder=Steinegger, Joh. Jac.\n| | | | Firma J. J. Linder.\n37 | II. | 117 | | Cruffaire=Tollmann, Carl.\n| | | | Cruffaire=Tollmann, Carl, Handelsm.\n39 | II. | 118 | | Ecklin=Holzach, Theodor.\n| | | | Ecklin=Holzach, Theodor, Baumeister.\n| | | | Uebelin=Stühelin, Wb. Mathilde, Rent.\n| | | | Anstein, Rudolf, Spitalpfarrer.\n| | | | Burchhardt, Johannes, Commis.\n41 | II. | 118 A | | Ecklin=Holzach, Theodor.\n43 | II. | 119 | | Ecklin=Holzach, Theodor.\n| | | | Ecklin=Knutty, Gottfried Aug., Postbeam.\n| | | | Knutty, Balth. Friedr., Part.\n44 | I. | 85 | | Triib, Johannes.\n| | | | Triib=Grether, Serena Kunig, Gärtner.\n| | | | Triib=Rufbaumer, Anna Mar., Han-\n| | | | delsgärtnerin.\n| | | | Siehe Nr. 33 mittlere Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7674,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2285,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0169,
+    "mean_line_chars": 37.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:41:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p157",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p157.jpg",
+      "bytes": 1338842,
+      "sha256": "24df662bedd19279ebcd9823e0fa34ff333fc7a9b383e06a3b3d5fa8cc01f780",
+      "sha256_of": "original",
+      "working_copy": "1862_p157.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:39+00:00"
+  }
+}

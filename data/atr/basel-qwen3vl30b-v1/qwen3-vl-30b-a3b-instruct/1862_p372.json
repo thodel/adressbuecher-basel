@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p372",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p372.jpg",
+    "bytes": 1592744,
+    "sha256": "bbcacdf1513ee2934913561fd0766ea58aa3234a281b51ea85e32b897a9f0ead",
+    "sha256_of": "original",
+    "working_copy": "1862_p372.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 307\nKugler-Amster, Johs., Fabrikchef. Missionsstraße 54. | Kupferschmied-Häfelfinger, Wb., Zimmermann. Unterer Heuberg 9.\nKuhn-Boscardt, Ludw., Fabrikarbeiter. Freie Straße 85. | =Tjchudin, Lucas, Schlosser. St. Peters-Berg 11.\n— Hohler, August, Handlungsdienener. St. Martins-Gasse 4. | Kuriger=Benedikt, Schreiner. Heumattstraße 13.\n— Jacob Leonz, Strohutfabrik u. Wascherei. Steinenvorstadt 14. | =Spahn, Christian, Magazinier. Hammerstraße 66.\n— =Schlueb, Johann, Seidenfärber. Kiechenthorstraße 7. | Kuster=Rusli, Jos. Thomas, Schreiner. Klingenthal 1.\n— =Sommerhalder, Wb.Theresia, Wascherin. Greifengasse 21. | =Schneider, J. J., Sekretär der Niederlassungs-Commissio. Freie Straße 59.\nKuhni-Rapp, Heinrich, Zimmermann. Imbergäcklein 28. | Kufsmaul=Lauer, Wb. Maria Josefa, Part. St. Alban-Vorstadt 86.\nKull-Baumgartner, Jak., Posamenter. St. Alban-Vorstadt 29. | =Schlack, Michael, Mechaniker. St. Albanthorgraben 54.\n— Bercher, Rud., Commis. Steinenthorstraße 5. | Knyburz-Kaiser, Samuel, Zimmermann. Freie Straße 59.\n— Höbel, Heinrich, Gärtner. In den Neufüßen 5. | =Luthy, Wb. Elisabeth, Wascherin. Kap- poltshof 7.\n— =Huber, J. J., Hausvater. Schorenweg 7. | Labhard-Miville, Joh. Caspar, Kaufmann. Steinenthorstraße 15.\n— Hitbelin, Samuel, Mechanikergesell. Mostackerstraße 56. | Labhardt-Schubiger, Ferdinand, Firma Bernoulli u. Labhardt, Manufakturwaaren- handlung. Mostackerstraße 20.\n— =Meyer, Samuel, Fabrikarbeiter. Spalenberg 43. | Labram=Böcklin, Wb. Margar., Part. Kiechenthorstraße 9.\nKummer, Elisabeth, Wb. Part. Aeschenvorstadt 18. | Lacher=Dettwyler, Heinrich, Schneider. Fischmarkt 5.\n— =Dtt, Wb. Crescentia, Partikul. Neue Vorstadt 8. | =Dettwyler, Jakob, Dessinateur. Untere Rheingasse 4.\n— =Siegfrist, Conrad, Lisieur. St. Alban-Vorstadt 7. | =Ruef, Joh. Jacob, Appreteur. Hammerstraße 96.\nKumpf-Frey, Christ. Friedr., Fabrikarbeiter. Rheingasse 26. | Lachner-Krafft, Carolina, Glätterin. Greifengasse 3.\nKunkler-Miesch, Johannes, Part. Hammerstraße 23. | Ladmann, Sophia, Modiste. Spalenberg 35.\nRunz, Elisabeth, Schneiderin. Steinenvorstadt 56. | Lämmli-Gättelin, Heinr., Taglöhner. Unterer Heuberg 5.\n— =Ernst, Georg, Fabrikarbeiter. St. Peterskirchplatz 10. | Lämmli-Berthel, Wb. Judith, Part. Reb-gasse 50.\n— Friedrich, Handlung optischer und mathematischer Instrumente. Freie Straße 17. | Läubin-Werth, Ignaz, Fabrikarbeiter. Greifengasse 29.\n— =Jenni, Johann Peter, Buchbinder. Trillengäcklein 1. | Läuchlin-Fäs, Wb. Elisabeth, Taglöhnerin. Webergasse 14.\n— =Knup, Felix, Optiker. St. Clara-Gra- ben 17. | =Huggenberger, Elisabeth, Gärtnerin. Grenzacher-Straße 76.\n— =Meyer, Rudolf, Maler. Steinenvorstadt 56. | Läupin-Kull, Johs., Mechaniker. Horburgstraße 31.\n— =Sitterlin, Wb. Maria Barbara. Untergasse 10. | Landerer-Briefer, Ludw., Partikular. Kohlenberggasse 3.\n— =Weibel, Wb. Ursula, Zettlerin. Hintere Bahnhofstraße 40. | =Champrenaud, Carl, Cigarrenfabrikant. Hammerstraße 13.\n— =Zimmermann, Carl Friedr., Portier. Gellertstraße 47. | =Daniel Rudolf, Rheinarbeiter. Lindenberg 6.\nKunzelmann-Sufa, Wb. Maria, Wascherin. Rheingasse 76. | =Feil, Carl Ludwig, Fabriksschreiner. Reb-gasse 37.\nKunzmann-Bauert, Gallus, Fabrikarbeiter. Schwanengasse 6. | =Heusler, Wb. Valeria. Rentiere. Raufhausgasse 3.\n | =Kleisler, Friedr., Seidenfärber gehülfe Rappoltshof 16.\n20*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8544,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3345,
+    "lines": 32,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 103.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:10:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p372",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p372.jpg",
+      "bytes": 1592744,
+      "sha256": "bbcacdf1513ee2934913561fd0766ea58aa3234a281b51ea85e32b897a9f0ead",
+      "sha256_of": "original",
+      "working_copy": "1862_p372.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:50+00:00"
+  }
+}

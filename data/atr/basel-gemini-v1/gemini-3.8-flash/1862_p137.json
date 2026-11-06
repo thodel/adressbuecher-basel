@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p137",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p137.jpg",
+    "bytes": 1326465,
+    "sha256": "18395b922d1d6096820f6835d9a392c76c7f97a9eac4316f023b98ca81f099a4",
+    "sha256_of": "original",
+    "working_copy": "1862_p137.jpg"
+  },
+  "text": "72 | St. Johann-Vorstadt.\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n39 | I. | 23 B | zum Kränzlein. | Werthemann-Vonder Mühll, And.\n40 | I. | 37 | | Mengis-Brand, Martin.\n  Mengis-Brand, Martin, Part.\n41 | I. | 23 A | Wächtershof. | Werthemann-Vonder Mühll, And.\n  Werthemann-Vonder Mühll, And., Kfm.\n42 | I. | 35 | | Ziegler, Cäcilia, in Zürich.\n  Wick-Hindermann, Carl, alt Pfar., Rent.\n43 | I. | 22 | Wächtershof. | Thurneysen, Hans Rudolf, u. Jac. Christof.\n  Thurneysen-Spahr, Hans Rud., Part.\n  Thurneysen, Jak. Christof, Particular.\n44 | I. | 33 | | Jäcklin-Proehl, Johannes.\n  Glarner, Georg, Kaufmann.\n  Woringer, Emil, Kaufmann.\n45 | I. | 22 A | zum Irrgarten. | Zäslin-Thurneysen, Heinrich.\n  Zäslin-Thurneysen, Heinrich, Kfm.\n  Firma Zäslin u. Baumann.\n46 | I. | 32 | | Jäcklin-Proehl, Johannes.\n  Jäcklin-Proehl, Joh., Möbelschreiner.\n  Reuille, Constant, Sprachlehrer.\n  Desgrand-Sargnon, Paul, Seidenhdlg.\n48 | I. | 31 | | Siegfried-Flubacher, Phil. Jacob sel. Erben.\n  Siegfried-Flubacher, Wb. Anna Margaretha, Geometers.\n  von Tscharner, Fried., Part.\n49 | I. | 11 | zum Schweizerhäuslein. | Schaffner-Weitnauer, Friedrich.\n  Schaffner-Weitnauer, Fr., Weinschenk.\n50 | I. | 28 | | Blank-Krug, David.\n  Blank-Krug, David, Kaufmann.\n  Quinche-Beaujon, Hrch., französ. Pfarrer.\n51 | I | 10 | | Riggenbach-Kienzy, Johannes.\n  Riggenbach-Kienzy, Johannes, Maler.\n  Malibas-Marbach, Johann, Commis.\n52 | I. | 27 | | Studer-Kuhn, Johann Carl.\n  Studer-Kuhn, Joh. Carl, Spezerei- u. Cigarrenhandlung.\n  Wiesner-Uhlmann, Johann, Appr.Geh.\n  Miville-Martin, Andreas, Commis.\n53 | I. | 9 B | | Riggenbach-Kienzy, Joh.\n  Adammann-Roth, Anton, Schneider.\n  Eglin-Grieder, Gg., Fuhrhalter.\n54 | I. | 26 | | Koechlin-Burckhardt, Samuel.\n  Stallung u. Remise.\n55 | I. | 9 A | | Jenny-Eprecht, Joh. Friedr.\n  Jenny-Eprecht, Joh. Friedr., Schreiner.\n  Grob, Rudolf, Holzhandlung.\n56 | I. | 25 | zur Susanna. | Merian-Köchlin, Eduard.\n  Müller-Hetzel, Albr., Phil. Dr. Geolog.\n  Salis-Weitnauer, Joh. Jac., Dir. der Strafanstalten.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8732,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2092,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:45:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p137",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p137.jpg",
+      "bytes": 1326465,
+      "sha256": "18395b922d1d6096820f6835d9a392c76c7f97a9eac4316f023b98ca81f099a4",
+      "sha256_of": "original",
+      "working_copy": "1862_p137.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:50+00:00"
+  }
+}

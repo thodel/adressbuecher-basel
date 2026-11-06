@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p164",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p164.jpg",
+    "bytes": 1438313,
+    "sha256": "791a2e4f40be7f5497b7bb2ed821eac2ca9bdd3e9db44ff6754e10de5dfcb352",
+    "sha256_of": "original",
+    "working_copy": "1862_p164.jpg"
+  },
+  "text": "Münsterplatz. — Münzgäßlein. | 99\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n15 | V. | 1461 | Gymnasium. | Staat.\n  (Schule auf Burg.) | Burckhardt-Burckdorf, Joh. Rud., Rektor\n  des humanistischen Gymnasiums.\n16 | V. | 1460 | Reischacherhof. | Staat.\n  Rumpf-Imhof, Wilhelm, Rektor des\n  Realgymnasiums.\n17 | V. | 1459 | Andlauerhof. | Merian-Burckhardt, Joh. Jacob,\n  sel. Erben.\n  Merian-Burckhardt, Wb. Valeria.\n  Merian, Joh. Jacob, Dr. phil.\n  Merian, Adolf, Gutsbesitzer.\n18 | V. | 1458 | Reinacherhof. | Staat.\n  Frey-Freyvogel, Heinrich, Rektor der\n  Realschule.\n  Frey, Hans, Dr. phil.\n19 | V. | 1458 | ehem. Oberstpfarr- | Rosenburger-Rapp, Wb. Anna Elis.\n  haus. | Riggenbach-Sulger, Christof, Architect.\n20 | V. | 1472 | Rollerhof. | Rosenburger-Rapp, Wb. Anna Elis.\n  Rosenburger-Rapp, Wb. Anna Elisabeth,\n  Rentiere.\n  Rosenburger, Arnold, Dr. Med.\n  Rosenburger, Elise, Partikularin.\n\nMünzgäßlein.\n\n3 | VI. | 1679 | zur neuen Schleife. | Burckhardt-Leuthold, Joh. Jacob.\n  Burckhardt-Leuthold, Joh. Jacob, Schlei-\n  fer und Messerschmied.\n  Klaiber-Tschopp, Andreas, Schuhmacher.\n  Altermatt-Birer, Nicolaus, Schneider.\n4 | VI. | 1713 | zum rothen Adler. | Geßler-Hübscher, Abraham Rudolf.\n  (Siehe Nr. 1 Spalenberg.)\n5 | VI. | 1680 | | Schoch, Erhard.\n6 | VI. | 1712 | | Thommen-Müller, Joh. Jacob.\n  (Siehe Nr. 3 Spalenberg.)\n8 | VI. | 1711 B | zum Lämmlein. | Haas-Keyser, Christian.\n  (Siehe Nr. 5 Spalenberg.)\n9 | VI. | 1681 | zur alten Münz. | Schoch, Erhard.\n  Meyer-Lienin, Jacob, Metzger.\n10 | VI. | 1710 | zum Gilgenberg | Seiler, Caspar.\n  (Hinterhaus). | (Siehe Nr. 7 Spalenberg.)\n11 | VI. | 1682 | zu d. drei Böcken. | Breithaupt-Krayer, Jacob.\n  Breithaupt-Krayer, Jacob, Fabrikarb.\n  Guerne-Breithaupt, Albert, Commis.\n12 | VI. | 1719 | zum Sperber. | Roschet, Emil.\n  (Siehe Nr. 9 Spalenberg.)\n13 | VI. | 1658 | z. Gasthof z. Post. | Meister-Lenz, Wb. Kunigunde.\n  (Siehe Nr. 16 Gerbergasse.)\n15 | VI. | 1683 | | Grüninger-Rueger, Emanuel.\n  Grüninger-Rueger, Emanuel, Trödler.\n\n7*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9046,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2077,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:50:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p164",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p164.jpg",
+      "bytes": 1438313,
+      "sha256": "791a2e4f40be7f5497b7bb2ed821eac2ca9bdd3e9db44ff6754e10de5dfcb352",
+      "sha256_of": "original",
+      "working_copy": "1862_p164.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:13+00:00"
+  }
+}

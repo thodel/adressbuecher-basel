@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p150",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p150.jpg",
+    "bytes": 1501423,
+    "sha256": "d85c95dd9566163363facebf0c962e1703b0ce042ab83bac96c0d6c219fe18d8",
+    "sha256_of": "original",
+    "working_copy": "1862_p150.jpg"
+  },
+  "text": "Leonhardskirchplaz. Leonhards=Stapfelberg. Leonhards=Straze. 85\nNre\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n4 III. St. Leonhardskirche. Staat.\n5 III. 693 A Diaconatshaus. Staat.\nKespinger=Schnell, Joh. Rud., Pfarrer.\nSt. Leonhards=Stapfelberg.\n1 III. 684 ImHof, Friedrich.\nImHof=Grob, Fried., Buchbinder.\n2 III. 683 zur Klaufe. Erhardt=Wittmer, Carl.\nErhardt=Wittmer, Carl, Zimmermann.\nKappeler=Mast, Johann, Schuhmacher.\n3 III. 685 z. obern Reinach. Köhler, Wb. Catharina.\nKöhler=Fritschi, Wb. Cath., Kostgeberin.\n4 III. 687 z. unt. Sennenhof. Zmmler=Felber, Niclaus Wilh.\n5 III. 686 zum Leuchter. Christ, Christian.\nChrist, Christian, Schuhmacher.\nSt. Leonhards=Straze.\n1 III. 750 zur hohen Eck. Probst=Münch, Samuel.\nProbst=Münch, Samuel, Handelsmann.\nGreiffenberg=Münch, Wb. Sophia, Rent.\nFirma Greiffenberg u. Probst,\nGeign, Jungfrau, Sophia.\nGeign, Sophia, Rentiere.\n2 II. 383 LeGrand, Joh. Lucas.\nLeGrand, Joh. Luc., Volontär im Mis-\nsionshaus.\n3 II. 384 Loz-LeGrand, Christof, V. D. M.\nKespinger=Burckhardt, Wb. Marg.\n4 II. 384 5 III. 749 A zum Rosengarten. Burckhardt=Burckhardt, Carl, Dr.\nMagazin von R. Bloch.\n6–8 II. 385 u. a. z.vord.Rosengarten. Burckhardt=Burckhardt, Carl, Dr.\nBurckhardt=Burckhardt, Carl, Dr.\n9 III. 747 A Langmesser=Paravicini, David.\nMagazin v. Keller u. Höues.\n10 II. 386 zum Rosengarten. VonSpeyr, Joh.\nVonSpeyr, Joh., Kaufmann.\nCourvoisier=ConderMühl, Louis, Rent.\n11 III. 747 Stähelin=Marian, Wb. Maria.\nStähelin=Marian, Wb. Maria, Rent.\nBurckhardt=Stähelin, Rudolf, Graveur.\n12 II. 386 A Nörbel=Geymüller, Hier.\nNörbel=Geymüller, Hier., Küfer.\n13 III. 748 Liechtenhan=Hagenbach, Joh. Rud.\nMagazin.\n14) II. 387 Bruckner, Eduard, u. I. Merian,\nBaumeister.\n16) II. 387 17 III. 748 b Liechtenhan=Hagenbach, Joh. Rud.\nMagazin.\n18 II. 387 A Schmidt=Stengelen, Carl.\nSchmidt=Stengelen, Carl, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6585,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1887,
+    "lines": 58,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0172,
+    "mean_line_chars": 31.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:40:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p150",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p150.jpg",
+      "bytes": 1501423,
+      "sha256": "d85c95dd9566163363facebf0c962e1703b0ce042ab83bac96c0d6c219fe18d8",
+      "sha256_of": "original",
+      "working_copy": "1862_p150.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:01+00:00"
+  }
+}

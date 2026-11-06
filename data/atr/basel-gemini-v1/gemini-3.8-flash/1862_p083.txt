@@ -1,0 +1,55 @@
+18 | St. Alban-Vorstadt.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+45 | V. | 1330 | | Allenspach-Rudin, Joachim.
+  Allenspach-Rudin, Joach., Kaufmann.
+46 | V. | 1233 | | Schweizer-Groß, Heinrich.
+  Schweizer-Groß, H., Fabrikarbeiter.
+  Rudin-Weber, Adolf, Liseur.
+47 | V. | 1329 | | Blendinger-Sandreuter, Joh. Jakob
+  Blendinger-Sandreuter, Joh. Jak., Zollb.
+48 | V. | 1234 | | Rublin, Konrad.
+  Rublin, Konrad, Zimmermann.
+  Rudin-Rublin, Jakob, Musterweber.
+49 | V. | 1320 A | zum schönen Eck. | Sarasin, Felix, sel., Erben.
+  Sarasin-Brunner, Julia Charl. Rosalie,
+  Felix sel. Wb., Bürgermeisters.
+  Bureau und Magazine der Firma
+  Felix Sarasin und Heusler.
+50 | V. | 1235 | | Ritter-Fischer, Joh. Jakob.
+  Ritter-Fischer, Joh. Jakob, Metzger.
+51 | V. | 1319 | | Sarasin, Felix sel., Erben.
+  (Stallung und Remise.)
+52 | V. | 1236 | | Glaser-Andres, Andreas.
+  Glaser-Andres, Andreas, Seiler.
+53 | V. | 1318 | | Froß, Georg Jakob.
+  Froß, Friedrich, Fabrikarbeiter.
+54 | V. | 1237 | | Gemuseus-Respinger, Wilhelm.
+55 | V. | 1317 | | Rohner-Wertenberg, Joh., Bäcker.
+  Erb-Wagner, Johannes, Magazinknecht.
+56 | V. | 1238 | das Klösterlein. | Gemuseus-Respinger, Wilhelm.
+  Gemuseus-Respinger, Wilh., Kaufmann.
+57 | V. | 1316 | | Rohner-Wertenberg, Johannes.
+  Rohner-Wertenberg, Joh., Bäcker.
+58 | V. | 1239 | zum Brigittathor. | Merian, Henriette und Anna.
+  Merian-Bischoff, Wittwe Pauline, Rent.
+  Comptoir der Herren H. Merian-Von-
+  derMühll, Rud. Merian-Iselin u. der
+  Erben v. Hrn. E. Merian-Bischoff sel.
+59 | V. | 1315 | | Walter-Bienz, Chr. Fr.
+  Walter-Bienz, Ch. Friedrich, Magazin-
+  arbeiter und Spezierer.
+60 | V. | 1260 | | Fischer, Joh. Jakob.
+  Fischer, Joh. Jakob, Schlosser.
+61 | V. | 1314 | | Bischoff, Karl.
+  Stingelin-Abt, Joh., Ferger.
+62 | V. | 1261 | | Felber, Daniel.
+  Felber, Daniel, Senkgruben-Entleerer.
+63 | V. | 1313 | zur Ehrenburg. | Moos-Brugger, Rudolf.
+  Moos-Brugger, Rudolf, Bäcker.
+64 | V. | 1262 | zur rothen Tanne. | Nidecker-Salathe, Carl Leonh.
+  Nidecker-Salathe, C. L., Siegrist zu
+  St. Alban.
+  Heusler-Gelzer, Adolph, Bäcker.
+  Vortisch, Marie u. Pauline, Part.

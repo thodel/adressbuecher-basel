@@ -1,0 +1,55 @@
+Schneidergasse.                                                                                          125
+Neue     Quars-    Alte     Name des Hauses.     Namen der Hauseigenthümer
+Haus-Nr.  tier.     Haus-Nro.                                       und Bewohner.
+9        VI.     1563     3. Nägeligarten.     Brändlin=Schaal, Franz.
+                                                              Brändlin=Schaal, Franz, Metzger.
+10       II.      578     zur Vereinigung.      Boecklin=Schneker, Joh. Jak.
+                                                              Boecklin=Schneker, Joh. Jak., Wirth.
+                                                              David=Graeflin, Leonhard, Glaser.
+11       VI.     1564     3. mittl. Scheere.    Gschwind=Schaffner, Wb. Urjula.
+                                                              Gschwind=Schaffner, Wb. Urjula, Modiste.
+12       II.      579     3. mittler. Thurm-   Gutknecht=Heer, Joh. Adam.
+                       schale.              Gutknecht=Heer, Joh. Adam, Spezier.
+                                                              u. Münzantiquar.
+13       VI.     1565     ...................  Heitz, Cath. Elisabeth.
+                                                              Heitz, Cath. Elisabeth, Particular.
+14       II.      580     3. mittler. Thurm-   Hottenjen=Kapp, Frau Barbara.
+                       schale.              Hottenjen=Dunkel, Friedr. Aug., Gerber.
+                                                              Mazinger=Wirz, Gottl. Rud., Kappenm.
+                                                              Schweizer=Breticher, Friedrich August,
+                                                              Telegraphist.
+                                                              Horner, Joh. Heinrich, Schneider.
+                                                              Koch=Renaux, Johannes.
+15       VI.     1566     zum Stamm.           Koch=Renaux, Johannes, Commis.
+                                                              Hirth=Fischer, Wb. Louise, Schneiderin.
+16       II.      581     zur obern Thurm-     Steib=Ostell, Joh. Michael.
+                       schale.              Steib=Ostell, Joh. Michael, Bürstenmacher.
+17       VI.     1567     ...................  Bär=Fritsche, Abraham.
+                                                              Bär=Fritsche, Abraham, Coiffeur.
+18       II.      582     3. klein. Esfringen. Brunner=von Arx, Daniel.
+                                                              Brunner=von Arx, Daniel, Schneider.
+                                                              Caillat, Urjula, Gejchirrhändlerin.
+19       VI.     1750     3. langen Leiter.    Waldner=Zuber, Joh. Heinrich.
+                                                              Waldner=Zuber, Joh. Heinr., Schuhm.
+20       II.      589     3. unt. Restlach.    Lindner=Forcart, Joh. Eduard.
+                                                              Lindner=Forcart, Wilh. Ed., Buchbind.
+                                                              Steiger, J. J., sei. Erben, Lederlifabr.
+                                                              Braun=Steiger, Rud., Waagmeister.
+21       VI.     1751     zur Eiche.           Detwiler=Wernli, Emanuel.
+                                                              Detwiler=Wernli, Eman., Kostgeber.
+                                                              Chryst, Ludwig, Schuhmacher.
+22       II.      590     ...................  Cruffaire=Pfau, Wb. Margaretha.
+                                                              Cruffaire=Pfau, Wb. Marg., Part.
+                                                              Cruffaire, Louis, Particular.
+                                                              Hunziker=Cruffaire, Friedr., Baumwol-
+                                                              lenwaarenhandlung.
+23       VI.     1752—53 3. armen Herberge.  Zimmermann=Früh, Wb. Elisabeth.
+                                                              Zimmermann=Früh, Wb. Elisab., Uhren-
+                                                              macher.
+                                                              Zimmermann, Ludwig, Commis.
+                                                              Zimmermann, Friederike Elise, Modiste.
+24       II.      591     zum Steinkeller.     Leithardt=Voet, Heinrich.
+                                                              Pfaff, Jacob Heinrich, Bürstenmacher.
+                                                              Ungerer=Hausmann, Jac., Handelsm.
+                                                              Kormann=Leithardt, August, Schneider.
+                                                              Magazin Nro. 82 Freie Straße.

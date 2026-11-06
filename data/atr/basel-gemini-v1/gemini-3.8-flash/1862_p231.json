@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p231",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p231.jpg",
+    "bytes": 1287864,
+    "sha256": "fa7aef250e2485d96fec72582026a260272127f9e2d3ec833109e28edad8b032",
+    "sha256_of": "original",
+    "working_copy": "1862_p231.jpg"
+  },
+  "text": "166 Bahnhofstraße. Hintere Bahnhofstr. St. Blasien-Ringweg.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n49 | VII. | 66 A | | Merian-Legrand, Peter., sel. Erben.\n65 | VII. | 67 A | | Eurich-Scholer, Jac. Friedrich.\n  Eurich-Scholer, Jac. Friedr., Wein-\n  händler.\n67 | VII. | 67 | | Jenni-Kellerhals, Martin.\n  Jenni-Kellerhals, Martin, Zollbeamter.\n\nHintere Bahnhofstraße.\n\n3 | VII. | 74 A u | | Großh. bad. Eisenbahnverwaltung.\n4 | VII. | | Gasometer. | Stadtgemeinde.\n5 | VII. | 74 A s | | Großh. bad. Eisenbahnverwaltung.\n7 | VII. | 74 A q | | „ „ „\n8 | VII. | 75 a | z. alten Bleiche. | Ryhiner-Bischoff, Julius.\n12 | VII. | 75 | z. alten Bleiche. | Ryhiner-Bischoff, Julius.\n  Ryhiner, Julius u. Comp., Seiden-\n  zwirnerei.\n15 | VII. | 74 A m n | | Großh. bad. Eisenbahnverwaltung.\n16 | VII. | 76 A | | Abt-Wenk, Carl.\n  Abt-Wenk, Carl, Wirth.\n  Zeller, Anton, Grenzaufseher.\n  Prinz, Friedrich, Revisor.\n17 | VII. | 74 A o p | | Großh. bad. Eisenbahnverwaltung.\n19 | VII. | 74 A l | | „ „ „\n21 | VII. | 74 A k | | „ „ „\n40 | VII. | 77 A | | Ritter, Joh. Baptist.\n  Ritter, Joh. Baptist, Zimmermeister.\n  Schmieder, Fried., Eisenbahnwerkführer.\n48 | VII. | 77 F | | Thalmann, Niklaus.\n  Thalmann, Niklaus, Fabrikangestellter.\n50 | VII. | 77 G | | Thalmann, Josef, Gärtner.\n  Glanzmann, Johs., Gärtner.\n  Scheffmacher-Schäfer, Johs., Schuhm.\n  Eberle, Benedikt, Holzhändler.\n90 | VII. | 77 K | | Blind-Schaub, Georg Michael.\n92 | VII. | 77 L | | Blind-Schaub, Georg Michael.\n\nBleicheweg.\n\n4 | VII. | 75 f | | Ryhiner-Bischoff, Julius.\n12 | VII. | 76 c u. d. | | Stöhr, Elisabeth.\n  Fritz-Stöhr, Paul, Landmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7670,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1675,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:00:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p231",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p231.jpg",
+      "bytes": 1287864,
+      "sha256": "fa7aef250e2485d96fec72582026a260272127f9e2d3ec833109e28edad8b032",
+      "sha256_of": "original",
+      "working_copy": "1862_p231.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:00:16+00:00"
+  }
+}

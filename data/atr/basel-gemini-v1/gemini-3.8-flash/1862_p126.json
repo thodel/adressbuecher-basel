@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p126",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p126.jpg",
+    "bytes": 1444868,
+    "sha256": "1431c97d789afa80930fc952b8bf3390cec668de4bd82dda90194928344760a0",
+    "sha256_of": "original",
+    "working_copy": "1862_p126.jpg"
+  },
+  "text": "Heuberg. | 61\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n26 | II. | 435 | | Hosch, Albert.\n  Hosch, Albert, Agent.\n  Hosch, Ursula, Porzellanmalerin.\n27 | VI. | 398 | zum rothen Eck. | Huber-Sommerhalder, Jakob.\n  Huber-Sommerhalder, Jak., Blatt- u. Zahnmacher.\n28 | II. | 434 A. | Truchſesser-Hof. | Merian-Merian, Balthasar.\n  Merian-Merian, Balth., Kaufmann.\n29 | VI. | 394 | | Geigy-Burckorf, Susette, Wittwe.\n  (Remise u. Stallung.)\n30 | II. | 434 | | Stähelin-Zimmerlin, Joh. Jacob.\n  Stähelin-Zimmerlin, Joh. Jacob, Dr. u. Professor der Theologie.\n  Siehe St. Leonhards-Graben Nr. 107.\n31 | VI. | 691 B. | | Frey-Grynäische Stiftung.\n  (Fidei-Commiß.)\n  Magazin zum Sennenhof gehörig.\n  Vermiether: Prof. Hagenbach.\n  Beständer: Rud. Geßler, Spezierer.\n32 | II. | 433 | zur Feuerglocke. | Amans-Cadet, Heinrich.\n  Amans-Cadet, Heinrich, Kaufmann.\n  Firma: H. u. C. Amans.\n  Koenig, Moriz, Fabrikant.\n  Doebelin, Maria, Particularin.\n33 | VI. | 691 | zu den 3 Mönchen. (Sennenhof.) | Frey-Grynäische Stiftung.\n  (Fidei-Commiß.)\n  Hagenbach-Geigy, Dr. Karl Rudolf, als Lector d. Institutes, Prof. d. Theologie.\n34 | II. | 432 | | Schaub-Brodbeck, Joh. Rudolph.\n  Schaub-Brodbeck, J. R., Buchbinder.\n  Salathe-Schneckenburger, Agathe, Part.\n  Thurneysen, Hel., Jgfr., Part.\n36 | II. | 431 | | Stauber-Wiesner, Rudolf.\n  Stauber-Wiesner, Rud., Appreteur.\n  Eggli-Kern, Jac., Gärtner.\n38 | II. | 430 | zum Däublin. | Holdenecker-Meyer, Frz. Joh.\n  Holdenecker-Meyer, Fr. J., Hafner.\n  Hirzel-Weber, Ben., Straßen-Pflästerer.\n  Hirzel-Holer, Gottl., „\n40 | II. | 429 | | Mislap-Pöhls, Adolf.\n  Frick-Riedtmann, Anna Cath., Modewaarenhandlung.\n  Lotz, Rosina, Particularin.\n42 | II. | 397 | zum rothen Mann. | Mislap-Pöhls, Adolf.\n  Mislap-Pöhls, Adolf, Kaufmann.\n  Trog-Weibel, Julius, Agent.\n44 | II. | 396 | zum Sonderstorf. | Steiner-Lohner, Joh. Jacob.\n  Steiner-Lohner, J. J., Fabrikarbeiter.\n46 | II. | 395 | | Bonnet, J. Samuel.\n  Bonnet, J. Sam., Schuhmacher.\n50 | II. | 392 | zum Engelkopf. | Staat.\n  Thommen-Minder, Joh. Ulrich, Ausläuf.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10025,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2111,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 39.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:44:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p126",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p126.jpg",
+      "bytes": 1444868,
+      "sha256": "1431c97d789afa80930fc952b8bf3390cec668de4bd82dda90194928344760a0",
+      "sha256_of": "original",
+      "working_copy": "1862_p126.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:03+00:00"
+  }
+}

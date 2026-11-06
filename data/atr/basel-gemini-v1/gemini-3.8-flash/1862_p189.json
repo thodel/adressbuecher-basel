@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p189",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p189.jpg",
+    "bytes": 1283857,
+    "sha256": "4611700c6c5699a9b9fe97adaf5dd2957827fca3b2d82cc09853f913216c6098",
+    "sha256_of": "original",
+    "working_copy": "1862_p189.jpg"
+  },
+  "text": "124 Schnabelgäßlein. — Schneidergasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n8 | VI. | 610 | Schnabelstall. | Staat.\n9 | VI. | 1706—05 | | Ausgänge von Nro. 15 und 17 am Spalenberg.\n10 | VI. | 611 | | Schneider-Thommen, Joh. Jac.\n  Schneider-Thommen, J. Jac., Schreiner.\n  Kuntz-Jenni, Johannes, Buchbinder.\n  von Gunten-Früden, Christian, Victua-\n  lienhändler.\n11 | VI. | 1700 | | Brand-Urecht, Friedrich.\n  Brand-Urecht, Carl Friedr., Schuhmach.\n12 | VI. | 612 | unterm Straßburg. | Von Arx-Erzberger, Johannes.\n  Von Arx-Erzberger, Johs., Particular.\n  Graf-Portmann, Anton, Schuhmacher.\n  Baumgartner, Franziska, Obsthändlerin.\n13 | VI. | 1695 A. | | Jäkle-Revellio Sam., sel. Erben.\n  Jäkle-Revellio, Wb. Elis., Drechsler.\n15 | VI. | 1699 | z. graden Kerzen. | Beck-Schlageter, Jos. Anton.\n  Beck-Schlageter, Jos. Anton, Landjäger.\n  Rußenberger-Wegmann, Joh., Milch-\n  händler.\n17 | VI. | 1698 | z. großen Christoffel. | Linder-Strub, Gottlieb Niclaus.\n  Linder-Strub, Gottl. Niclaus, Mechanik.\n  Senn-Allemann, Jacob, Kunstmaler.\n\nSchneidergasse.\n\n1 | VI. | 1559 | z. großen Stetten. | Linder-Engressat, Joh. Ludw.\n  Linder-Engressat, Joh. L., Messerschmied,\n  Präsident des Marktamts.\n  Linder, Joh. Ludw., Commis.\n  Linder, Jacob David, Dessinateur.\n2 | II. | 574 | Pompierarsenal. | Stadtgemeinde.\n3 | VI. | 1560 | z. kleinen Stetten. | Dettwyler-Meylan, Joh. Jakob.\n  Dettwyler-Meylan, Joh. Jak., Schneider.\n4 | II. | 575 | z. klein. Saarberg. | Brüderlin-Wild, Ambrosius.\n  Brüderlin-Wild, Ambros., Zuckerbäcker.\n5 | VI. | 1561 | zum Solothurn. | Sandreuter-Christ, Joh. Jac.\n  Sandreuter-Christ, Joh. Jac., Spengler.\n  Schwörer-Abry, Jean, Colorist.\n  Abry, Louise, Lingerie- u. Corsethdlg.\n6 | II. | 576 | z. groß. Saarberg. | Baumann-Plüß, Jac. Samuel.\n  Baumann-Plüß, Jac. Sam., Weißwhdlg.\n7 | VI. | 1562 | zum Effringen. | Mende-Hof, Friedr. Gottlieb.\n  Mende-Hof, Friedr. Gottl., Antiquar.\n  Matzinger, Elisabeth, Korbhändlerin.\n  Gutzwyler-Waldmeyer, Ignaz, Maler.\n  Mende, Julius Gottfr., Kaufmann.\n8 | II. | 577 | | Thurneysen-Iffenthaler, Joh. Pet.\n  Thurneysen-Iffenthaler, Johann Peter,\n  Drechsler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 17999,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2193,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:54:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p189",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p189.jpg",
+      "bytes": 1283857,
+      "sha256": "4611700c6c5699a9b9fe97adaf5dd2957827fca3b2d82cc09853f913216c6098",
+      "sha256_of": "original",
+      "working_copy": "1862_p189.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:13+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p244",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p244.jpg",
+    "bytes": 1427124,
+    "sha256": "6d7b30e365ff162fd821835f9a2fd3ac024f476b7503c6070ec9b0b98d25a083",
+    "sha256_of": "original",
+    "working_copy": "1862_p244.jpg"
+  },
+  "text": "Herrenmattweg. — Vorburgstraße. 179\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n24 | VIII. | 45 B | | Delhafen, Saml. Jakob.\n| | | | Müller-Keller, Urs, Bichsfenmacher.\n26 | VIII. | 45 A | | Delhafen, Saml. Jakob.\n| | | | Weihrauch, Geschwister, Gärtner.\n| | | | Müller-Stierlin, Balth., Schloffer.\n| | | | Schmid-Hilzin, Felician, Gärtner.\n28 | VIII. | 46 | | Binz-Eichacker, Samuel.\n| | | | Binz-Eichacker, Samuel, Gärtner.\nVorburgstraße.\n1 | VII. | 53 | z. den drei Rosen. | Zwilchenbart-Thompson, Rudolf.\n| | | | Zellweger-Ryhiner, Ulrich, Banquier.\n3 | VII. | 53 B | | Zwilchenbart-Thompson, Rudolf.\n| | | | Genger-Schmocker, Mathias, Gärtner.\n4) | VII. | 61 A | | Emmenegger-Jecker, Josef.\n6) | | | | Emmenegger-Jecker, Josef, Dekonom.\n| | | | Schorer, Agnes, Part.\n| | | | Lang, Angelika, Part.\n12 | VII. | 61 | | Rauch-Gubler, Georg.\n18 | VII. | 62 | zur Vorburg. | Heiz-Baumann, Gustav.\n| | | | Heiz-Baumann, Gustav, Kunstgärtner.\n| | | | Kiener-Tschopp, Sch. Rudolf.\n| | | | Kiener-Tschopp, Sch. Rud., Landwirth.\n| | | | Schmidlin-Baumann, Wilh., Zollbeamte.\n| | | | Frizon-Géfrière, Hubertine, Part.\n20 | VII. | 62 B | | Kiener-Tschopp, Sch. Rudolf.\n| | | | Thürkauf-Bubendorf, Peter.\n| | | | Thürkauf-Bubendorf, Peter, Wirth u. Steinmetz.\n24 | VII. | 62 B d | | \n25 | VII. | 63 D | | \n26 | VII. | 74 A y | Bahnwarthäuschen. | Großh. bad. Eisenbahnverwaltung.\n| | | | Bromberger-Beau, Paul, Bahnwart.\n27 | VII. | 63 K | | Ritter, Joh. Bapt.\n31 | VII. | 63 G | | Michaud-Tschopp, Philipp.\n| | | | Michaud-Tschopp, Philipp, Marbrier u. Detailhandel.\n| | | | Bohny-Holzach, Wb. Margaretha, Part.\n| | | | Munzinger-Steffen, Wb. Maria Marg., Particularin.\n35 | VII. | 63 H | | Meyer-Ackermann, Gerhard.\n| | | | Meyer-Ackermann, Gerhard, Sandhändl.\n39 | VII. | 63 F | zur Batterie. | Rebjamen-Striha, Hironimus.\n| | | | Rebjamen-Striha, Hieronimus, Dessinateur und Wirth.\n45 | VII. | 63 E | | Roth-Walz, Friedrich.\n| | | | Roth-Walz, Friedrich, Seifenfieder.\n| | | | Pelletier, Carl, Spengler.\n49 | VII. | 63 B | Bannwartwohnung | Stadtgemeinde.\n| | | | Walter-Roth, Joh. Georg, Wiefenbannwart.\n12*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6189,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2163,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p244",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p244.jpg",
+      "bytes": 1427124,
+      "sha256": "6d7b30e365ff162fd821835f9a2fd3ac024f476b7503c6070ec9b0b98d25a083",
+      "sha256_of": "original",
+      "working_copy": "1862_p244.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:14+00:00"
+  }
+}

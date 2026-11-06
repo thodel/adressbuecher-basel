@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p086",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p086.jpg",
+    "bytes": 1438386,
+    "sha256": "45192d3fc4fc923f02ed38dc08d7a16b10385a063f9f022a3bc1eb4882f3b6af",
+    "sha256_of": "original",
+    "working_copy": "1862_p086.jpg"
+  },
+  "text": "Allschwyler Straße. — St. Andreasplatz. 21\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n25 | II. | 102 K | | Schaub-Fricker, Benedict.\n  Schaub-Fricker, Benedict, Commis.\n  Laur-Zäslin, Wb. Maria.\n  Laur, Arnold, Spitalverwalter.\n27 | II. | 102 L | | Walz-Kuthuf, Johannes.\n  Walz-Kuthuf, Johannes, Kutscher.\n  Sulzberger, Arnold, Missionar.\n  Schneider, Carl, Commis.\n29 | II. | 102 M | | Huber-Wirz, Rudolf.\n  Huber-Wirz, Rudolf, Kunstmaler.\n  Kägi-Braun, Johann, Lehrer.\n  Miville-Strub, Joh., Polizeiburalist.\n31 | II. | 102 N | | Schulz, Jos., und Carl Schmieder.\n  Burri-Brodtmann, Fr. Math., Part.\n52 | II. | 128 | | Müller-Bruckner, Heinrich.\n  Müller-Bruckner, Heinrich, Partikular.\n  Bruckner-Eckenstein, Joh. Jak., dito.\n53 | II. | 129 | | Schmidt-Fäsch, Jacob Christoph.\n  Schmidt-Fäsch, J. Ch., Weinhändler und des Raths.\n  Fäsch, Jgfr. Marie.\n58 | II. | 130 | | Müller, Jac. Phil., Cand. theol.\n  (Sommerwohnung.)\n66 | II. | 135 | | Friedrich u. Adam, Baumeister.\n  (Arbeiterwohnungen.)\n68 | II. | 134 | | Gruber-Mick, Johannes.\n  Gruber-Mick, Joh., Fabrikmeister.\n69 | II. | 133 | | Grieder, Jacob.\n  Bader-Habegger, Jacob, Lehenbeständer.\n76 | II. | 132 | | Dürst-Habegger, Joh. Georg.\n  Dürst-Habegger, Joh. Gg., Gutsbesitzer.\n77 | II. | 131 | | Probst-Märklin, Jacob.\n  Probst-Märklin, Jac., Gutsbesitzer, Organist und Klavierlehrer.\n  Heß-Germann, Leonh., Commis.\n\nSt. Andreasplatz.\n1 | II. | 584 | zum Biesan. | Lindner-Forcart, Wilh. Ed.\n3 | II. | 541 | | Reuschwander-Lutz, Daniel.\n  Reuschwander-Lutz, Dan., Pintenwirth.\n4 | II. | 542 | | Brodmann, Rudolf.\n  Schweizer-Brodmann, Joh., Trödler.\n5 | II. | 543 | z. gelben Schraube. | Frey-Salathe, Adolf.\n  Frey-Salathe, Adolf, Küfermeister.\n7 | II. | 547 B | zum Imberhof. | Butz-Rieder, Josef Franz.\n8 | II. | 547 C | | Butz-Rieder, Joseph Franz.\n  Butz-Rieder, Josef Franz, Gypsermstr.\n  Tschopp-Jordan, Emanuel, Commis.\n  Pfeiffer-Rieder, Jakob, Schuhmacher.\n  Rieder-Wertenberg, Joh., Zimmermstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9960,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2034,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:37:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p086",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p086.jpg",
+      "bytes": 1438386,
+      "sha256": "45192d3fc4fc923f02ed38dc08d7a16b10385a063f9f022a3bc1eb4882f3b6af",
+      "sha256_of": "original",
+      "working_copy": "1862_p086.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:49+00:00"
+  }
+}

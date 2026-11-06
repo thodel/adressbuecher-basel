@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p210",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p210.jpg",
+    "bytes": 1436216,
+    "sha256": "274bd951ab706bff828b22e0f1817cd38b8c63db504224c296f4918275cd3fe3",
+    "sha256_of": "original",
+    "working_copy": "1862_p210.jpg"
+  },
+  "text": "Stadthausgasse. — Stapfelberg. 145\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n13 | I. | 173 | Stadthaus. | Stadtgemeinde.\n  | | | | Stadtkanzlei.\n  | | | | Burchhardt-Brenner, Hans, J. U. D.,\n  | | | | Stadtschreiber u. Kanzleivorsteher.\n  | | | | Burchhardt-Jacot, Wb. Lucie, Part.\n14 | VI. | 170 | zur untern Buche. | Birmann-Weniger, Gottfried.\n  | | | | Birmann-Weniger, Gottf., Mefferschmied.\n15 | I. | 169 | zum untern freien Haus. | Stadtgemeinde.\n  | | | | Schmidtmann-Stingelin, Martin, städti- scher Bauführer.\n16 | VI. | 166 | z. kleinen Tanne. | Bischoff'sche Stiftung.\n  | | | | Imbach-Bitterli, Leonz., Käsehändler.\n  | | | | Bischoff-Oser, Hier., Schneider.\n17 | I. | 168 | zum Anker. | Bernoulli, Jacob Hier.\n  | | | | Bernoulli, Jacob Hier., Commis.\n  | | | | Oswald-Neth, Leopold, Fuhrhalter.\n18 | VI. | 165 | z. goldenen Rose. | Rumpf-Dietschy, Daniel.\n  | | | | Rumpf-Dietschy, Daniel, Amtmann.\n  | | | | Rumpf, Bernh. Joh., Dr. med. chir.\n19 | I. | 167 | z. gold. Schwan. | Geist-Gaß, Wb. Anna.\n  | | | | Geist-Gaß, Wb. Anna, Part.\n  | | | | Senn-Geist, Friedr., Fergcr.\n  | | | | Senn, Gustav, Commis.\n20 | VI. | 162 | zum Greifenstein. | Früh-Zurich, J. Caspar.\n  | | | | Früh-Zurich, J. Caspar, Buchbinder.\n  | | | | Cifelin, Raphael, Commis.\n  | | | | Senn, Friedr. Wilh., Commis.\n21 | I. | 164 | zur rothen Rose. | Stumm-Montandon, J. Friedr.\n  | | | | Stumm-Montandon, J. Friedr., Kaufm.\n  | | | | Firma F. Stumm u. Comp., Com- mission, Spedition u. Spezereihdlg.\n22 | VI. | 160 | zum Hirrschen. | Vogt-Cordier, Friedrich.\n  | | | | Vogt-Cordier, Friedr., Schneider.\n  | | | | Thimé, Heinrich, Coiffeur.\n23 | I. | 163 | zur weissen Rose. | Siegrist-Seiler, Joh.\n  | | | | Siegrist-Seiler, Joh., Waarencourtier.\n  | | | | Wehrle, Theodor, Commis.\n25 | I. | 157—161 | zum Storchen. | Klein-Weber, Johannes.\n  | | | | Klein-Weber, Johannes, Gastwirth.\n  | | | | Briffaud, Aug. Emil, Commissionär.\n  | | | | Müller-Dtt, Enoch, Privatlehrer.\nStapfelberg.\n1 | VI. | 1629 | zum Berner. | Riefer-Bär, Georg.\n  | | | | Siehe Nr. 23 Freie Straße.\n2 | V. | 1449 | zum Fällklein. | Spittler, Christ. Friedrich.\n  | | | | Christ-Noerbel, Wb., Part.\n3 | VI. | 1628 | zur Bigilanz. | Groben, Jakob fel. Erben.\n  | | | | Wybert, Eman., Arzt, Dr. med.\n10",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6692,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2327,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p210",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p210.jpg",
+      "bytes": 1436216,
+      "sha256": "274bd951ab706bff828b22e0f1817cd38b8c63db504224c296f4918275cd3fe3",
+      "sha256_of": "original",
+      "working_copy": "1862_p210.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:01+00:00"
+  }
+}

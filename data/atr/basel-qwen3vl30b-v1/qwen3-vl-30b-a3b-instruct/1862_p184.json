@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p184",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p184.jpg",
+    "bytes": 1427700,
+    "sha256": "cd7c0d69c8dafef0e61a3639e8d993dbb7490cfb484a5dbf3ce2f1ed0f679b81",
+    "sha256_of": "original",
+    "working_copy": "1862_p184.jpg"
+  },
+  "text": "Niedengässlein. — Nümelinbachweg. — Nümelinsplaz. 119\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n1 | VI. | 1169 | 3. gold. Apotheke. | Geiger, Friedrich.\n| | | | Geiger, Friedr., Dr. u. Apotheker.\n2 | VI. | 1651 | 3. hint. Waldshut. | Lang-Klingele, Bernhard.\n| | | | Lang-Klingele, Bernhard, Wirth.\n| | | | Lipp, Rudolf, Commis.\n3 | VI. | 1168 | 3. schwarz. Rüden. | Baur-Sprenger, Joh. Georg.\n| | | | Baur-Sprenger, Joh. Georg, Buchdruck.\n5 | VI. | 645 A | Wachthaus d. Gas-\nanzünder. | Stadtgemeinde.\n7 | VI. | 646 | | Gekler-Guggenbühl, Caspar.\n| | | | Gekler-Guggenbühl, Casp., Rothenberger.\n| | | | Lederhandlung von A. Braun-Gekler.\n9 | VI. | 647 | | Lutz-Merker, Jacob.\n| | | | Lutz-Merker, Jacob, Kleiderhandlung.\n| | | | Meister, Georg, Postbeamter.\nNiedengässlein.\n1 | VI. | 1169 | 3. gold. Apotheke. | Geiger, Friedrich.\n| | | | Geiger, Friedr., Dr. u. Apotheker.\n2 | VI. | 1651 | 3. hint. Waldshut. | Lang-Klingele, Bernhard.\n| | | | Lang-Klingele, Bernhard, Wirth.\n| | | | Lipp, Rudolf, Commis.\n3 | VI. | 1168 | 3. schwarz. Rüden. | Baur-Sprenger, Joh. Georg.\n| | | | Baur-Sprenger, Joh. Georg, Buchdruck.\n5 | VI. | 645 A | Wachthaus d. Gas-\nanzünder. | Stadtgemeinde.\n7 | VI. | 646 | | Gekler-Guggenbühl, Caspar.\n| | | | Gekler-Guggenbühl, Casp., Rothenberger.\n| | | | Lederhandlung von A. Braun-Gekler.\n9 | VI. | 647 | | Lutz-Merker, Jacob.\n| | | | Lutz-Merker, Jacob, Kleiderhandlung.\n| | | | Meister, Georg, Postbeamter.\nNümelinbachweg.\n3 | III. | 189 a | | Baumann, Joh. Hch., sel. Erben.\n| | | | Wachshaus u. Magazin.\n4 | III. | 188 | | Burchhardt-Ecklin, Franz.\n| | | | Burchhardt-Ecklin, Franz, Mechaniker.\n5 | III. | 189 | | Baumann, Joh. Hch., sel. Erben.\n| | | | Baumann-Moser, Wb. Rosina, Part.\n| | | | Diener-Haller, Joh., Seidenfärberei.\n6 | III. | 187 | | Burchhardt-Ecklin, Franz.\n| | | | Mechanische Werkstätte.\n7 | III. | 189 bu. c | | Baumann, Joh. Hch., sel. Erben.\n| | | | Färberei.\n8 | III. | 186 | | Burchhardt-Ecklin, Franz.\n| | | | Ecklin-Loz, Wb. Salomea, Part.\n| | | | Ziegler, Theodor, Werkführer.\n10 | III. | 185 a | | Thurneyssen'sche Papierfabrik.\n| | | | Wilhelm-Kauch, Adolf, Werkführer.\n12 | III. | 185 | | Thurneyssen'sche Papierfabrik.\n18 | III. | 184 | 3. Tabakstampe. | Bischoff-Reitner, J. J. u. Comp.\n| | | | Holliger-Weibel, Jacob, Tabakmüller.\nNümelinsplaz.\n1 | VI. | 621 | Nümelinsmühle. | Seifert-Abt, Heinrich.\n| | | | Seifert-Abt, Heinrich, Müller.\n2 | VI. | 1689 | 3. rothen Kopf. | Sacher, Adolf.\n| | | | Sacher, Adolf, Schuhmacher.\n| | | | Ballmer-Asch, Anton, Kappenmacher.\n| | | | Meyenfisch, Gotthard, Kammmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7566,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2662,
+    "lines": 65,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.2308,
+    "mean_line_chars": 39.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p184",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p184.jpg",
+      "bytes": 1427700,
+      "sha256": "cd7c0d69c8dafef0e61a3639e8d993dbb7490cfb484a5dbf3ce2f1ed0f679b81",
+      "sha256_of": "original",
+      "working_copy": "1862_p184.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:28+00:00"
+  }
+}

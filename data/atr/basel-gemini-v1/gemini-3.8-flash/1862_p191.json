@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p191",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p191.jpg",
+    "bytes": 1282494,
+    "sha256": "21acc054cb75a34317fd4d491935d695cae1ebfeef3b4ab286a9a135bb130b98",
+    "sha256_of": "original",
+    "working_copy": "1862_p191.jpg"
+  },
+  "text": "126 Schneidergasse. — Schnurenweg. — Schützengasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n25 | VI. | 1754 | | Enderly-Rieder, Leonz.\n  Enderly-Rieder, Leonz, Schneider.\n  Rieder, Adolf, Kaufmann.\n26 | II. | 592 | zum Marbach. | Burckhardt-Mantel, Johannes.\n  Burckhardt-Mantel, Johannes, Metzger.\n27 | VI. | 1755 | z. obern weiß. Haus. | Crussaire-Durand, Victor.\n  Crussaire-Durand, Victor, Zuckerbäcker.\n  Piechioni-Troxler, Ludwig, Professor.\n  Serauer, Adolf, Kaufmann.\n28 | II. | 593 | zum Haupt. | Leser-Karger, Adolf.\n  Leser-Karger, Adolf, Polizeisecretair.\n  Scharpf-Weizmann, Alois, Lehrer.\n  Heß-Ryff, Andreas, Photograph.\n  Honer, Franziska, Matrazzenmacherin.\n  Zweig-Wolber, Ferdinand, Trödler.\n  Siehe Imbergäßlein Nr. 10.\n29 | VI. | 1756 | zur Sonne. | Meyer-Ettlin, Elisabeth.\n  Meyer-Ettlin, Elisabeth, Kostgeberin.\n30 | II. | 594 | zum Eichhörnlein. | Schneider-Faesch, Friedrich.\n  Schneider-Faesch, Friedr., Schreiner.\n  Buser-Rusenach, Wb. Carolina, Modiste.\n31 | VI. | 1757 | z. obern Schär. | Wagner, J. J. Peter.\n  Wagner, J. J. Peter, Kleiderhändler.\n  Petion-Ortlieb, Ernst, Vergolder.\n32 | II. | 595 | | Wilhelm-Jaillet, Joh. Christian.\n  Wilhelm-Jaillet, J. Christn., Detaillant.\n  Froehlicher-Kuhlmann, Aug., Agent.\n  Branger-deGaillier, Jacob, Particular.\n  Godenzi-Bossig, Giovanni, Zollbeamter.\n33 | VI. | 1758—59 | Rechberg. | Fischer-Grunauer, Heinrich.\n  Fischer-Grunauer, Heinr., Buchbinder.\n  H. Fischer u. Comp., Kunst-, Papier- u.\n    Schreibmaterialienhandlung.\n34 | II. | 596 | zur Gans. | Hagenbach-Merian, Friedrich.\n  Hagenbach Merian, Friedrich, Partikul.,\n    Stadtrath.\n  Lussi-Obrist, Joh. Jac., Tabak- u. Ci-\n    garrenhandlung.\n\nSchnurenweg.\n30 | IV. | 208 | | Thommen-Simmen, Georg.\n32 | IV. | 208 A | | Thommen-Simmen, Georg.\n\nSchützengasse.\n2 | II. | 354 C | | Hentz-Erzberger, Joh.\n  Remise.\n10 | II. | 357 | | Brunner, Daniel u. Consorten.\n  Zuber-Doerflinger, Jacob, Gantrufer.\n  Sacher-Leiner, Josef, Kaufmann.\n  Walz, Friedrich, Kunsthändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7878,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2070,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:54:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p191",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p191.jpg",
+      "bytes": 1282494,
+      "sha256": "21acc054cb75a34317fd4d491935d695cae1ebfeef3b4ab286a9a135bb130b98",
+      "sha256_of": "original",
+      "working_copy": "1862_p191.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:33+00:00"
+  }
+}

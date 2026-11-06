@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p382",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p382.jpg",
+    "bytes": 1617382,
+    "sha256": "eb7262d195b53396ae49a3f1a3299145d5728b0f06c5a9a3ce4f4315eeabfe28",
+    "sha256_of": "original",
+    "working_copy": "1862_p382.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 317\nMeyer-Frey, Steffan, Commis. St. Peters-Platz 16.\n  =Füllemann, Dietr., Stuhlschreiner. Steinenvorstadt 54.\n  =Gentner, Anton, Zimmergeselle. St. Martinskirchplatz 7.\n  =Georg, Kanzleibote. MittlereStrasse 44.\n  =Georg, Fuhrhalter. Rebgasse 14.\n  =Georg, Wb. Dorothea, Part. Spiegelgasse 8.\n  =Götti, Jos., Hausnegerelle. Aeschen-vorstadt 10.\n  =Gräflin, Jos., Steinhauser. Pfluggäblein 10.\n  =Grebler, Joh., Taglöhner. Webergasse 23.\n  =Häfeli, Wilh. Dan., Schreiner. Steinenbachgäblein 22.\n  =Haury, Niclaus, Färber. St. Leonhards-Berg 4.\n  =Heinimann, Carl Rud., Schneider. Rheingasse 16.\n  =Heinrich, Part. Gundoldinger Straße 12.\n  =Heinzelmann, Ed., Zeughausarbeiter. Steinenvorstadt 22.\n  =Hefinger, Heinr., Schreiner. Greifengasse 6.\n  =Hek, Anton, Eisenbahnarbeiter. Horburgstraße 45.\n  =Heusler, Johann, Coiffeur. Freie Straße 103.\n  =Hiltbold, Bernh., Rutscher. St. Johann-Vorstadt 61.\n  =u. Hindenlang, Agentur u. Commission. Aeschengraben 7.\n  =Hinterskirch, Urban, Taglöhner. Klingenhalstrasse 43.\n  =Hirzeler, Alex., Maurer. Grünpfahlgäblein 5.\n  =Hoffmann, Daniel. ElsässerStraße 3.\n  =Horni, Heinr., Posamenter. RebGasse 29.\n  =J., Wirth. Spiegelgasse 4.\n  =Jacob, Christof, Zuckerbäcker. Streitgasse 7.\n  =Jac. Hiers., Holzseker. Rheingasse 10.\n  =Jenny, Carl, Magazinier. Gerbergasse 50.\n  =Johannes, Musterweber. Riehenthorstraße 9.\n  =Kappeler, Xaver, Diechaniker. St. Alban-Thal 50.\n  =Keller, Philipp, Kaufmann. St. Leonhards-Graben 12.\n  =Kestenholz, Wb. Charlotte, Glätterin. Schafgäblein 1.\n  =Kehfer, Michael, Maurer. Spalenberg 5.\n  =Kiefer, Straßenpflästerer. Riehenthorstraße 17.\nMeyer-Rienzli, Wb. Elisab., Rudelmacherin. Webergasse 1.\n  =Knecht, Caspar, Rutscher. Heumattstraße 5.\n  =Kraus, Benedict, Oberlehrer. Kanonengasse 1.\n  =Kraus, Heinrich, Gymnasial-Lehrer. Augustinergasse 13.\n  =Kiifer, Jac., Kaufhausarbeiter. Spalenvorstadt 18.\n  =Landolt, Johs., Ausschnittwaarenhdlg. Rheingasse 24.\n  =Lauby, Johs., Zollrevisor. Utengasse 40.\n  =Lichtenhahn, Remigius, Lehrer a. Gymnasium. Augustinergasse 9.\n  =Lienin, Jacob, Metzger. Münzgäblein 9.\n  =Ludw., Kaufmann. Barfüsserplatz 5.\n  =Lüib, Leopold, Bandhändler. St. Elisabethen-Straße 28.\n  =Lüdin, Martin, Posamenter. Steinen-thorstraße 18.\n  =Lüthy, Alois, Kaufhausarbeiter. Greifengasse 26.\n  =Märklin, Anton, Bierbrauer. St. Leonhards-Berg 1.\n  =Margaretha, Strickerin. Platzgäblein 11.\n  =Maria, Wascherin. Riehenteichweg 14.\n  =Mathias, Zimmergeselle. Hutgasse 9.\n  =Mentschin, Sebastian, Posamenter. Krongasse 7.\n  =Marian, Daniel, Bandfabrikant. St. Johann-Vorstadt 27.\n  =Marian, Eman., Kaufmann. Steinen-graben 19.\n  =Marian, Rud. Friedr., Wagner. Klosterberg 25.\n  =Marian, Theod., Dr. Med., Spital-director. Neue Vorstadt 2.\n  =Meyer, Gottl. Rud., Rübler. Spiegelgasse 8.\n  =Mieg, Wb. Maria, Part. St. Leonhards-Graben 18.\n  =Mohler, Johs., Commis. Gerbergasse 48.\n  =Monhart, Jacob, Posamenter. Rheingasse 38.\n  =Müller, Johs., Part. Aeschengraben 37.\n  =Müller, Jos., Schreinergehilfe. Steinenhorstraße 36.\n  =Müller, Maria, Speziererin. St. Leonhards-Straße 20.\n  =Müller, Paul, Rutscher. Malzgasse 13.\n  =Nägelin, Jacob, Fabrikarbeiter. Steinenvorstadt 40.\n  =Notburga, Weißnäherin. Rheingasse 63.\n  =Oberer, Joh., Posamenter. Webergasse 8.\n  =Opplinger, Wb. Louise, Part. Marktplatz 9.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8987,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3332,
+    "lines": 68,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:12:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p382",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p382.jpg",
+      "bytes": 1617382,
+      "sha256": "eb7262d195b53396ae49a3f1a3299145d5728b0f06c5a9a3ce4f4315eeabfe28",
+      "sha256_of": "original",
+      "working_copy": "1862_p382.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:12:22+00:00"
+  }
+}

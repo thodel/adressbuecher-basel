@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p420",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p420.jpg",
+    "bytes": 1640217,
+    "sha256": "b7f4003cccb96602bb27d832cc58da1b5a8f43acaba9ad2de6f21229148bb15b",
+    "sha256_of": "original",
+    "working_copy": "1862_p420.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 355\nVonderMühl=Jselin, Frau Emilie, Rentiere. Wagner, Agnes, Weißnätherin. Nadelberg 30.\nSt. Alban-Graben 5. — Albert, Zeichner. St. Clara-Straße 35.\n— Keller, Wwe. Margaretha, Rentiere. — Anna Maria, Krankenwärterin. Rhein-\nStadthausgasse 2. gasse 88.\n— Merian, Carl, Handelsmann. St. Al- — Dépenoit, Johann B., Finkenmacher.\nban-Vorstadt 24. Spiegelgasse 10.\n— Kyhiner, Johann, Kaufmann. Eisen- — Ehrsam, Conrad, Laternencontroleur.\ngasse 23. St. Clara-Straße 35.\n— und Söhne, Seidenwaaren-Handlung. — Elisabeth, Lehrerin. Nadelberg 36.\nEisengasse 23. — Haas, Friedr., Schreiner. Brückliberg 7.\n— Baleria, Part. Rittergasse 31. — Haubenjach, Martin, Samenhändler.\n— Bischer, Friedrich, Stofffabrikant. St. Imbergäklein 26.\nAlban-Graben 22. — Hoffmann, Johs., Klavierstimmer. Bar-\nfüssergasse 14.\nVon Gunten=Meyer, Christian, Victualien- — Johann, Eisenbahnbeamter. Riechen-\nhändler. Trillengäklein 1. Straße 26.\nVon Kilch-Alt, Georg, Part. Hutgasse 21. — F. F. Peter, Kleiderhändler. Schnei-\n— Benedict, Metzger. Hutgasse 21. dergasse 31.\n— Landerer, Wittwe Catharina, Part. — F. C., Eisenbahnbeamter. Austraße 32.\nRheingasse 62. — Recheisen, Christoph, Bauführer. Gel-\n— Sebastian Richard, Commis. Rhein- lertstraße 47.\ngasse 62. — Liebrich, Johannes, Organist u. Musik-\n— Voegtlin, Dan. Georg, Metzger. Ger- lehrer. Henberg 10.\nbergäklein 6. — Lupsiger, Joh., Part. Steinengraben 21.\nVonritt=Liithe, Andreas, Maurerparlier. Reb- — Mathias, Gutsbesitzer. Eljäffer-Straße 42.\ngasse 45. — Mayr, Wwe. Elisa, Leinwandhandlg.\nVon Speyr und Cie., Banquiers. Freie Bäumleingasse 2.\nStraße 56. — Meister, Gottlieb, Fabrikarbeiter. Ein-\n— Johannes, Kaufmann. St. Leonhards- denberg 11.\nStraße 10. — Mundwiler, Fch., Posamenter. St. Pe-\n— Jselin, Carl, Kaufmann. St. Jakobs- ters-Gasse 20.\nStraße 11. — Plattner, Jacob, Landmann. Eljäffer-\n— Magdalena, Part. St. Clara-Graben 19. Straße 42.\n— Kyhiner, Eduard, Banquier. Aeschen- — Ruef, Jacob, Posamenter. Steinen-\nvorstadt 55. vorstadt 37.\nVortisch, Maria und Pauline, Part. St. Al- — Satter, Adam, Bauführer. Klingen-\nban-Vorstadt 64. thal 19.\nBüllermet, soeurs, Modisten. Spalenberg 4. — Vogt, Jacob, Leinenweber. Sternen-\nBulleumier=Schweizer, Aug. Virgil, Bäcker. gäklein 1.\nRheingasse 27. Wahl, G. Rud., Commis. Freie Straße 99.\nBultier=Bingler, Eugen, Mechaniker, Roth- — Müller, Heinrich, Taglöhner. In der\ngieker u. Gasbeleuchtungsunternehmer. Breite 3.\nFabrikstraße 19. — Rey, Johann Heinrich, Posamenter.\n— Mathiot, Isidor, Mechaniker. Steinen- Mattweg 4.\nvorstadt 30. — Schaefer, Jacob, Mechaniker. In der\nWäcker, Beata Dorothea, Wascherin. Rhein- Breite 11.\ngasse 14. — und Socin, mechanische Werkstätte.\n— Müller, Friedrich, Kostgeber. Malz- Kennweg 1.\ngasse 1. — Spitteler, Fch., Mechaniker. Seevogel-\nWackernagel=Sarasin, Wilhelm, Dr. u. Pro- straße 7.\nfessor. Brunngäklein 11. — Wiedmer, Rudolf, Stuhlschreiner. In\nWächter=Dettwyler, Joh., Posamenter. Rhein- der Breite 11.\ngasse 21. — Zimmermann, Heinrich, Posamenter. Wahr=Béné, Carl, u. Wahr, Philipp, Tuch-\nIn der Breite 19. handlung. Freie Straße 31. Firma\nWäffler=Fininger, Samuel, Posamentierer. Gebrüder Wahr.\nGerbergasse 27. — Jacob Christian, Feilenhauer. Freie\n— Wäschli=Minder, Samuel, Schreinergeselle. Straße 99.\nSpalenberg 15. — Friedrich, Posamenter. Rappoltshof 14.\n— Schneider, Heinrich, Fabrikausseher. St.\nMartins-Gasse 10.\n23 *",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8750,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3396,
+    "lines": 62,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 53.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:18:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p420",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p420.jpg",
+      "bytes": 1640217,
+      "sha256": "b7f4003cccb96602bb27d832cc58da1b5a8f43acaba9ad2de6f21229148bb15b",
+      "sha256_of": "original",
+      "working_copy": "1862_p420.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:18:15+00:00"
+  }
+}

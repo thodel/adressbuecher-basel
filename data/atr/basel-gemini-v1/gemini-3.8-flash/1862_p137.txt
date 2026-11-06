@@ -1,0 +1,48 @@
+72 | St. Johann-Vorstadt.
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+39 | I. | 23 B | zum Kränzlein. | Werthemann-Vonder Mühll, And.
+40 | I. | 37 | | Mengis-Brand, Martin.
+  Mengis-Brand, Martin, Part.
+41 | I. | 23 A | Wächtershof. | Werthemann-Vonder Mühll, And.
+  Werthemann-Vonder Mühll, And., Kfm.
+42 | I. | 35 | | Ziegler, Cäcilia, in Zürich.
+  Wick-Hindermann, Carl, alt Pfar., Rent.
+43 | I. | 22 | Wächtershof. | Thurneysen, Hans Rudolf, u. Jac. Christof.
+  Thurneysen-Spahr, Hans Rud., Part.
+  Thurneysen, Jak. Christof, Particular.
+44 | I. | 33 | | Jäcklin-Proehl, Johannes.
+  Glarner, Georg, Kaufmann.
+  Woringer, Emil, Kaufmann.
+45 | I. | 22 A | zum Irrgarten. | Zäslin-Thurneysen, Heinrich.
+  Zäslin-Thurneysen, Heinrich, Kfm.
+  Firma Zäslin u. Baumann.
+46 | I. | 32 | | Jäcklin-Proehl, Johannes.
+  Jäcklin-Proehl, Joh., Möbelschreiner.
+  Reuille, Constant, Sprachlehrer.
+  Desgrand-Sargnon, Paul, Seidenhdlg.
+48 | I. | 31 | | Siegfried-Flubacher, Phil. Jacob sel. Erben.
+  Siegfried-Flubacher, Wb. Anna Margaretha, Geometers.
+  von Tscharner, Fried., Part.
+49 | I. | 11 | zum Schweizerhäuslein. | Schaffner-Weitnauer, Friedrich.
+  Schaffner-Weitnauer, Fr., Weinschenk.
+50 | I. | 28 | | Blank-Krug, David.
+  Blank-Krug, David, Kaufmann.
+  Quinche-Beaujon, Hrch., französ. Pfarrer.
+51 | I | 10 | | Riggenbach-Kienzy, Johannes.
+  Riggenbach-Kienzy, Johannes, Maler.
+  Malibas-Marbach, Johann, Commis.
+52 | I. | 27 | | Studer-Kuhn, Johann Carl.
+  Studer-Kuhn, Joh. Carl, Spezerei- u. Cigarrenhandlung.
+  Wiesner-Uhlmann, Johann, Appr.Geh.
+  Miville-Martin, Andreas, Commis.
+53 | I. | 9 B | | Riggenbach-Kienzy, Joh.
+  Adammann-Roth, Anton, Schneider.
+  Eglin-Grieder, Gg., Fuhrhalter.
+54 | I. | 26 | | Koechlin-Burckhardt, Samuel.
+  Stallung u. Remise.
+55 | I. | 9 A | | Jenny-Eprecht, Joh. Friedr.
+  Jenny-Eprecht, Joh. Friedr., Schreiner.
+  Grob, Rudolf, Holzhandlung.
+56 | I. | 25 | zur Susanna. | Merian-Köchlin, Eduard.
+  Müller-Hetzel, Albr., Phil. Dr. Geolog.
+  Salis-Weitnauer, Joh. Jac., Dir. der Strafanstalten.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p376",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p376.jpg",
+    "bytes": 1594780,
+    "sha256": "316f2c910fad7b9498d4b841a5cba4a91a961db72723b0ca67c3290f2ea69ec0",
+    "sha256_of": "original",
+    "working_copy": "1862_p376.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 311\n\nLötsch, Carl Ferdinand, Commis. Untere\nRheingasse 4.\nLötscher-Adatte, Nikolaus, Knecht. Spalen-\nberg 31.\n— -Lötscher, Johannes, Taglöhner. Ham-\nmerstraße 67.\nLöw, Abraham, Hiob, Holzsetzer. Karthaus-\ngäßlein 7.\n— -Baumann, Leonh., Schuhmacher. Nadel-\nberg 43.\n— -Bleuler, Heinrich, Commis. Schützen-\ngasse 12.\n— -Geßler, Johannes, Ferger. St. Jakobs-\nStraße 21.\n— -Handschin, Wilhelm, Posamenter. Hut-\ngasse 7.\n— -Hasler, Friedrich, Commis. Aeschen-\nvorstadt 54.\n— -Honesta, Joh., Commis. Steinen-Vor-\nstadt 13.\n— -Keyser, Joh. Jak., Eisenhändler. Gerber-\ngasse 64.\n— -Ost, Gottlieb, Bauführer. Spalenberg 13.\n— Rud., Tabakfabrikant. Klosterberg 23.\n— Rud., Musiklehrer. Steinenthorstraße 45.\nLohner-Hagnauer, Theobald, Fabrikarbeiter.\nHeuberg 44.\nLoos-Donaz, Joh. Bernh., Commis. Blumen-\nrain 15.\nLorch-Knapp, Jakob, Zimmermann. Neue\nVorstadt 25.\nLorentz, Andreas, Taglöhner. Spalenberg 46.\n— Anna, Schneiderin. Münzgäßlein 24.\n— -Schneider, Jos., Wirth. Untere Reb-\ngasse 1.\nLottenbach, Louise, Zettlerin. Greifengasse 29.\n— Veronica, Zettlerin. Greifengasse 29.\nLotz u. Sieber, Albert u. Casp., Bandfabri-\nkanten. Nauenstraße 10.\n— -Baune, Adolf, Commis. Aeschengra-\nben 14.\n— -Bricar, Hierons., Kaufmann. Fisch-\nmarkt 3.\n— Carl, Holzhändler. Küchegäßlein 5.\n— Caspar Wernh., Agent. St. Leonhards-\nStraße 34.\n— -Eglin, Friedr., Zimmermeister. Reb-\ngasse 32.\n— Elisabeth, Part. Greifengasse 16.\n— Emil, Commis. Barfüsserplatz 25.\n— -Gocht, Achilles, Seidenfärber. Rhein-\ngasse 31.\n— -Heusler, Friedr., Vater, Part. Rhein-\ngasse 44.\n— -Holzach, Albert, Seidenfärber. Rhein-\ngasse 44.\n— -Koch, Wb. Barb., Zettlerin. Spalen-\nberg 41.\n— -Kündig, Joh. Leonh., Schlosser. St.\nLeonhards-Straße 34.\n[spalte 2]\nLotz-Landerer, Jac. Christ., Schneider. Sat-\ntelgasse 5.\n— LeGrand, Christ., Pfarrer. St. Leon-\nhards-Straße 4.\n— Leonhard, Posamentier. St. Peters-\nBerg 25.\n— Maria Magdalena, Partikular. Greifen-\ngasse 16.\n— von Mechel, Wb. Judith, Part. St.\nPeters-Berg 25.\n— Rosine, Part. Heuberg 40.\n— Rudolf, Part. St. Leonhards-Straße 34.\n— -Specker, Emil, Kaufmann. Stifts-\ngasse 5.\n— -Spörlin, Hiers., Kaufmann u. Pfund-\nzoller. Barfüsserplatz 25.\n— -Sprünglin, Wb. Susanne, Part. Tod-\ntentanz 14.\n— -Stückelberger, Wb. Rosine, Particular.\nSchützengasse 12.\n— -Wick, Wb. Maria, Part. St. Johann-\nVorstadt 34.\n— -Wölfflin, Ed., Cigarren- u. Tabakhdlg.\nFirma E. Lotz u. Comp. Eisengasse 5.\nLudwig-Eckenstein, Andreas, Eisenhandlung.\nRosshofgasse 6.\n— -Frey, Wb. Anna Elisab., Partikul. St.\nPeters-Graben 55.\n— -Neukomm, Heinrich, Kaufmann. St.\nPeters-Graben 55.\n— -Weitnauer, Emil, Küfer. Steinenvor-\nstadt 67.\nLüber, Bernhard, Postcommis. Gerber-\ngasse 31.\nLüdin-Bay, Jac., Taglöhner. Trillengäß-\nlein 6.\n— -Bitterli, Joh., Posamenter. Allschwyler\nStraße 66.\n— -Büchlin, Gg., Maurer. Riehenthor-\nstraße 14.\n— -Göbelin, Wb. Susanne, Part. Fisch-\nmarkt 8.\n— -Ritzmann, Eduard, Milchhändler. Ham-\nmerstraße 67.\n— -Roth, J. J., Commis. St. Elisabe-\nthen-Straße 54.\n— -Schälllin, Heinr., Posamenter. Klin-\ngelthalstraße 43.\n— -Sutter, Anna Barb., Schneiderin. Grei-\nfengasse 35.\n— -Wagner, Franz, Ferger. Gerbergasse 2.\nLüppold-Meyer, Ludw., Maler. St. Alban-\nThal 44.\nLüscher, Daniel, Ziegler. Weiße Gasse 2.\n— -Gerster, Wb. Anna, Kostgeberin. Weiße\nGasse 18.\n— -Matzinger, Melchior, Posamenter. Kro-\nnengasse 4.\n— -Pfersich, Friedr., Kleiderhandlung. Och-\nsengasse 1.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12819,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3402,
+    "lines": 122,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0328,
+    "mean_line_chars": 26.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:30:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p376",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p376.jpg",
+      "bytes": 1594780,
+      "sha256": "316f2c910fad7b9498d4b841a5cba4a91a961db72723b0ca67c3290f2ea69ec0",
+      "sha256_of": "original",
+      "working_copy": "1862_p376.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:30:46+00:00"
+  }
+}

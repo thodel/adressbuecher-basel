@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p136",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p136.jpg",
+    "bytes": 1488479,
+    "sha256": "ef064bd0e7f97f9f8db52ef697aa1a8f934b8941add1bf81a8194b0bb6eb7cb0",
+    "sha256_of": "original",
+    "working_copy": "1862_p136.jpg"
+  },
+  "text": "St. Johann-Vorstadt. 71\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n20 | I. | 54-55 | | Burckhardt-Preiswerk, Wilhelm.\n  (Fabrikgebäude v. Lucas Preiswerk.)\n  Frey-Lüthy, Carl, Fabrikaufseher.\n22 | I. | 51 | | Preiswerk-Keller, Dietrich.\n  Preiswerk-Keller, Dietrich, Kaufmann.\n23 | I. | 46 | | Preiswerk-Bischoff, Wilhelm.\n  Preiswerk-Bischoff, Wilhelm, Kaufm.\n24 | I. | 49 | | Dietschy-Lichtenhahn, J. J.\n  Fabrik zu Nr. 19.\n25 | I. | 43 | zum Kreuz. | Hosch-Mengis, Hieronimus.\n  Hosch-Mengis, Hieronimus, Sensal.\n  Hosch, Alfred, Kaufmann.\n26 | I. | 48 | | Dietschy-Lichtenhahn, Joh. Jac.\n  Remise.\n27 | I. | 41 | Formonter Hof. | Meyer-Merian, Daniel.\n  Meyer-Merian, Daniel, Bandfabrikant.\n  Fabrik in Sulz, (haut Rhin) Specialität\n  von schwarzem Tafetas Nr. 1/2 à 40,\n  unis et petit façonnés.\n28 | I. | 47 | | Schaub-Kuhn, Joh. Jakob.\n29 | I. | 38 | zur Mägd. | Corporationsgut.\n  Schmidt-Bolly, Carl, Wirth.\n  Lieberknecht, Fritz, Commis.\n30 | I. | 45 | | Schölly-Schölly, Samuel.\n  Schölly-Bruckner, Wb. Sus., Part.\n  Müller-Schölly, Wb. Maria, Part.\n31 | | 30 B | zum innern St. Antonierhof. | Magallon-Faurat, Hypolite.\n  Magallon-Faurat, Hypolite.\n  Bolly-Keller, Melch., Appreteur.\n32 | I. | 44 | | Strübin-Kaiser, Wb. Secunda.\n  Strübin-Kaiser, Wb. Secunda, Taglöhn.\n  Morf-Alibert, Heinrich, Schuhmacher.\n33 | I. | 30 A | St. Antonierhof (Klösterli). | Gengenbach-Labhardt, Gustav.\n  Gengenbach-Labhardt, Gustav, Kaufm.\n  Perrochet-Meyri, Wb. Dorothea, Part.\n34 | I. | 42 | | Schmidt-Haas, Rudolf.\n  Schmidt-Haas, Rudolf, Handelsmann.\n  Lotz-Wick, Wb. Maria, Particularin.\n35 | I. | 30 C | zum Klösterlein. | Mäglin-Strub, Gustav.\n  Thierry, Joseph, Tabakfabrikant.\n  Day-L'Hoste, Beda, Tapezierer.\n36 | I. | 40 | | Buxtorf-Falkeisen, Carl.\n  Buxtorf-Falkeisen, C., Dr.Phil., Lehrer.\n37 | I. | 29 | zum Eber. | Delhasen-Dreyer, Saml. Jakob.\n  Delhasen-Dreyer, Sam. Jak., Mechanik.\n  Götz-Mähly, Wilhelm, Commis.\n38 | I. | 39 | | Siegrist-Jäcklin, Emanuel.\n  Siegrist-Jäcklin, Emanuel, Commis.\n  Geigy-Winkler, Wb. Rosina, Particular.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12399,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2112,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:45:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p136",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p136.jpg",
+      "bytes": 1488479,
+      "sha256": "ef064bd0e7f97f9f8db52ef697aa1a8f934b8941add1bf81a8194b0bb6eb7cb0",
+      "sha256_of": "original",
+      "working_copy": "1862_p136.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:42+00:00"
+  }
+}

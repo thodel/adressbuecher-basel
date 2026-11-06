@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p078",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p078.jpg",
+    "bytes": 1410271,
+    "sha256": "f21904e90e959bf3d675135660d796070582fa4977d57fc0ab49cdb1c771218a",
+    "sha256_of": "original",
+    "working_copy": "1862_p078.jpg"
+  },
+  "text": "St. Albanrheinweg, St. Albanringweg, St. Alban-Thal. 13\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n8 | V. | 1276 B |  | Bischoff-Respinger, Hieron.\n  (Magazin.)\n10 | V. | 1311 E |  | Sarasin und Comp.\n  (Bandfabrike.)\n  Müller-Hersperger, Jak. Fabrikmeister.\n11 | V. | 1310 | St. Albankirche. | Staat.\n12 | V. | 1306 | Hirzlimühle. | Stadtgemeinde Basel.\n  Roche, Wb. Cath., Zwirnerin.\n14 | V. | 1306 A |  | Wetzel-Voll, Joh. Jak.\n  Wetzel-Voll, Joh. Jak., Ferger.\n\nSt. Albanrheinweg.\n\n102 | V. | 314 |  | Kußmaul-Schlack, Michael.\n  Eschbach-Baur, Sam., Gärtner.\n104 | V. | 314 A |  | Kußmaul-Schlack, Michael.\n110 | V. | 315 |  | Hediger-Weber, Hans Rudolf.\n  Hediger-Weber, Hs. Rud., Landwirth.\n  Schatzmann-Müller, Rud., Schreiner.\n112 | V. | 315 A |  | Hediger-Weber, Hans Rudolf.\n\nSt. Albanringweg.\n\n21 | V. | 288 |  | Meyer-Wälti, Jacob.\n  Meyer-Wälty, Jacob, Gärtner.\n23 | V. | 289 |  | Sutter-Kaufmann, J. Rudolf.\n  Sutter-Kaufmann, J. R., Landwirth.\n\nSt. Alban-Thal.\n\n1 | V. | 1303 | die Lippismühle. | Hägler, August.\n  Hägler, August, Müller.\n2 | V. | 1304 | Steinenkl. - Mühle. | Forcart-Weiß.\n  Schaub-Kiefer, J. J., Müller.\n4 | V. | 1305 | die Spittelmühle. | Steinmann, Gebrüder.\n  Steinmann, Joh. Melchior, Müller.\n  Steinmann, Eduard, Müller.\n6 | V. | 1304 B |  | Forcart-Weiß.\n  (Scheune und Stallung.)\n8 | V. | 1300 |  | Thurneysen-Fäsch, L. A., Command.\n  Müller-Thurneysen, Mich. Heinr., Pa-\n  pierfabrikant.\n10 | V. | 1299 |  | Hägler, August.\n  Hägler-Spitteler, Seb., Particular.\n12 | V. | 1298 |  | VonderMühll, Gebrüder.\n  Tschopp-Brugger, Friedr., Fabrikarb.\n  Alinger-Schneider, Joh. Heinr., Maler.\n14 | V. | 1297 | Das neue Haus. | VonderMühll, Gebrüder.\n  Gaß-Bechtold, Jacob, Fabrikmeister.\n  Wunderlin-Mesmer, Aug., Zimmerm.\n  Wunderlin, Aug., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10071,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1847,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:36:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p078",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p078.jpg",
+      "bytes": 1410271,
+      "sha256": "f21904e90e959bf3d675135660d796070582fa4977d57fc0ab49cdb1c771218a",
+      "sha256_of": "original",
+      "working_copy": "1862_p078.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:34+00:00"
+  }
+}

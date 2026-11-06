@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p174",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p174.jpg",
+    "bytes": 1443891,
+    "sha256": "1627f082773ddab916b88cd429c0e29630701a3b02769d5f180befa328d94230",
+    "sha256_of": "original",
+    "working_copy": "1862_p174.jpg"
+  },
+  "text": "St. Peters-Gasse. 109\n\nNeue Haus-Nr. | Quar=tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n26 | I. | 219 | z. vorder. Kohlerhof. | Rittmann-Wohnlich, Peter.\n  Rittmann-Wohnlich, Peter, Zahnarzt.\n  Linder-Stehlin, Heinrich, Particular.\n28 | I. | 222 | Kohlerhof. | Holzach-Ronus, Wb. Margaretha.\n  Holzach-Ronus, Wb. Margaretha, Part.\n  Siehe Nr. 7 St. Peters-Graben.\n30 | I. | 223 | Kohlerhof. | Französisches Consistorium.\n  Cramer-Sieveking, Gabriel, Pfarrer.\n  Siehe Nr. 9 St. Peters-Graben.\n32 | I. | 224 a |  | Zimmerlin-vonSpeyr, August.\n  (Magazin.)\n34 | I. | 224 | Friedhof. | Zimmerlin-vonSpeyr, August.\n  Hübischer-vonSpeyr, Charlotte, Part.\n  Holzach-Honegger, E. F., Seidenagent.\n  Tabakfabrike von August Zimmerlin.\n36 | I. | 228 d | Andlauerhof. | LeGrand, Adolf, sel. Erben.\n  Comptoir von Niclaus LeGrand, Ban=\n  quier und Baumwollspinner.\n38 | I. | 228 | Andlauerhof. | LeGrand, Adolf, sel. Erben.\n  LeGrand-Werthemann, Wb. Marg., Rent.\n  Schlumberger-LeGrand, Oscar, Kaufm.\n40 | I. | 231 | Offenburgerhof. | Surgand-Stehle, Franz Ignaz.\n  Surgand-Stehle, Franz Ignaz, Rent.\n  de Villoutreys, Vicomte Carl, franz.\n  Consul.\n  Burckhardt-Huber, Achilles, Wechselsensal.\n42 | I. | 231 A | Offenburgerhof. | Gysin-Garnaus, Wb. Emma Cath.\n  Gysin-Garnaus, Wb. Emma Catharina,\n  Particularin.\n  Stähelin, Christof, Kaufmann.\n44 | I. | 233 |  | Zeller-Frauenfelder, Dionysius.\n  Zeller-Frauenfelder, Dionysius, Schneid.\n46 | I. | 234 | Flachsländerhof. | Scheuchzer-von Rosenkampf, Math.\n  und Scheuchzer-Dür, August.\n  Scheuchzer-von Rosenkampf, Mathias,\n  Eisenhändler.\n  Scheuchzer-Dür, August, Eisenhändler.\n  Schmolz, C. Ferdinand, Stadtmissionar.\n48 | I. | 235 | St. Peters-Berg. | Schilling-Weitnauer, Wb. Margar.\n  Elisabeth.\n  Schilling-Weitnauer, Wb. Margaretha\n  Elisabeth, Maler.\n50 | I. | 236 |  | Bruckner-Kurz, Joh. Jacob.\n  Bruckner-Kurz, Joh. Jacob, Schreiner,\n  Packtuchverkauf.\n52 | I. | 237 a |  | Tschudi-Werlin, Jacob.\n  Baumüller, Carl, Architect.\n54 | I. | 238 | Siegristenwohnung. | Staat.\n  Bücher-Baumann, Johannes, Siegrist.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8665,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2100,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:51:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p174",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p174.jpg",
+      "bytes": 1443891,
+      "sha256": "1627f082773ddab916b88cd429c0e29630701a3b02769d5f180befa328d94230",
+      "sha256_of": "original",
+      "working_copy": "1862_p174.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:46+00:00"
+  }
+}

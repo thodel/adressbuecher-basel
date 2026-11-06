@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p124",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p124.jpg",
+    "bytes": 1403310,
+    "sha256": "c7fcc1b2329f7dbb2e06445d112cb245731db9a3460a906b1f7a9604cb3c0572",
+    "sha256_of": "original",
+    "working_copy": "1862_p124.jpg"
+  },
+  "text": "Hardstraße. — Hasenberg. — Herbergsgasse. — Heuberg. 59\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n60 | V. | 304 | z. Landwaisenhaus. | Stiftung der landwirthschaftlichen Armenschule.\n  Meister-Bernhard, Joh. Heinrich, Lehrer und Hausvater.\n70 | V. | 305 | | Vischer-Merian, Carl.\n  Frick-Witschy, Joh., Gärtner.\n72 | V. | 305 A | | Vischer-Merian Carl.\n\nHasenberg.\n5 | III. | 158 | zur Schnabelweid. | Schlöth-Georg, Friedrich Ludwig.\n  Schlöth-Georg, F. L., Schlosser u. Ofenfab.\n  Merian, Johannes, Kantonsingenieur.\n  Tschudi-Haag, Christof, Kaufmann.\n7 | III. | 157 b | | Haas-Georg, August.\n  Waschhaus.\n9 | III. | 157 | zur Hasenburg. | Haas-Georg, August.\n  Haas-Georg, August, Particular.\n12 | III. | 156 | | Dubied-Pfannenschmid, G. Ludw.\n  Gaß-Scheurer, Rudolf, Briefträger.\n\nHerbergsgasse.\n1 | I. | 229 A | | Siegfried-Merian, Albert.\n  Siegfried-Merian, Albert, Weinhandlg.\n  Paravicini-Zäslin, Th. Em. de Felix, Handelsmann.\n2 | I. | 229 | zum Mönchhof. | Merian-Stierlin, Walther.\n  Merian-Stierlin, Walth., J.U.C., Notar.\n  Merian-Herzog, Walther, Notar.\n  Sauvain-Stehlin, Salomon, Kaufmann.\n4 | I. | 229 B | zum Mönchhof. | Meyer-Brand, Friedrich.\n  Meyer-Brand, Friedrich, Thierarzt u. Wasenmeister.\n  Girard-Jan, Wb. Irma.\n  Rütimeyer-Fankhauser, Carl Ludwig, Professor der Medizin.\n6 | I. | 229 B. b | | Meyer-Brand, Friedrich.\n  Einfahrt.\n7 | I. | 224 B | | Ryhiner-Bischoff, Carl.\n  Ryhiner-Bischoff, Carl, Kaufmann.\n\nHeuberg.\n1 | II. | 473 B | | Flubacher-Gysin, Emanuel.\n2 | II. | 448 | zur Löwengrube. | Merian-Reber, Johannes.\n  Merian-Reber, Joh., Particular.\n  Merian, Peter Albert, Sohn, Commis.\n3 | II. | 441 | Spießhof. | Gesellschaft d. schweiz. Centralbahn.\n  Einfahrt.\n4 | II. | 446 | z. d. 3 grün. Bergen | Frey-Sandreuter, Jacob.\n  Frey-Sandreuter, Jacob, Dessinateur.\n  Siegmund, Carl, Dr., Zahnarzt.\n  Rudin, Carl, Schlosser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7436,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1926,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0222,
+    "mean_line_chars": 40.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p124",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p124.jpg",
+      "bytes": 1403310,
+      "sha256": "c7fcc1b2329f7dbb2e06445d112cb245731db9a3460a906b1f7a9604cb3c0572",
+      "sha256_of": "original",
+      "working_copy": "1862_p124.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:44+00:00"
+  }
+}

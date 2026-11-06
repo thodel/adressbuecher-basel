@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p123",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p123.jpg",
+    "bytes": 1243196,
+    "sha256": "d9cc351a2a786dd5740f483462d08ebb0e057447dcee423decbbc61994974728",
+    "sha256_of": "original",
+    "working_copy": "1862_p123.jpg"
+  },
+  "text": "58 Gundoldinger-Straße. Hägenheimer-Straße. Hardstraße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n16 | IV. | 243 c | | Christ, Gustav.\n  Dettwyler-Dannmeyer, Jac., Lehenbest.\n18 | IV. | 243 | | Christ, Gustav.\n20 | IV. | 245 | | Gemuseus, Charlotte.\n21 | IV. | 244 | | Gemuseus, Charlotte.\n  Grieder, Joh., Lehenbeständer.\n  Horbacher, Jacob, Gärtner.\n\nHägenheimer-Straße.\n2 | II. | 81 | zum Milchhäuslein. | Schmid-Tschopp, Jacob.\n  Schmid-Tschopp, Jacob, Wirth.\n4 | II. | 81 B. | | Zäcklin-Seitter, Phil., Stadtbote.\n6 | II. | 81 C. | | Segiser-Bertsche, Carl Friedrich.\n  Segiser-Bertsche, C. F., Kaufhausbeamt.\n7 | II. | 122 A. b | | Vögtlin-Langmesser, Ludwig.\n  Mosakowski-Nieter, Joh., Maler und\n  Tapezierer.\n8 | II. | 81 D. | | Schmid-Tschopp, Jacob.\n10 | II. | 81 E. | | Schmid-Tschopp, Jacob.\n  Höpli-Birchmeyer, Johannes, Kutscher.\n14 | II. | 124 | | Jenny-Leder, Martin.\n  Jenny-Leder, Martin, Gutsbesitzer.\n  Klingler, Felix, Landmann.\n  Hindermann, Margaretha, Partikul.\n21 | II. | 125 | | Kamber-Erlacher, Joseph.\n  Kamber-Erlacher, Jos., Gutsbesitzer.\n29 | II. | 125 C. | | Ungerer-Hausmann, Jac. Conrad.\n  (Schopf.)\n31 | II. | 125 D. | | Säng-Hellstern, Hermann.\n  (Magazin.)\n33 | II. | 125 B. | Wasenmeisterei. | Staat.\n  Frey-Suter, Hans Jac., Wasenknecht.\n\nHardstraße.\n36 | V. | 303 a. | | Gysin, Wittwe, Elisabeth.\n  (Scheune).\n37 | V. | 302 | | Trüdinger = Nusser, Philipp und Weber, Friedrich.\n38 | V. | 303 | | Gysin, Wb. Elisabeth.\n  Gysin, Wb. Elisabeth, Particularin.\n  Gysin, Jakob, Schreiner.\n  Säger-Boillot, Schneider.\n39 | V. | 302 a. | | Trüdinger = Nusser, Philipp und Weber Friedrich.\n  (Scheune.)\n51 | V. | 311 | | LaRoche, Emanuel.\n53 | V. | 311 A. | | LaRoche, Emanuel.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7657,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1774,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p123",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p123.jpg",
+      "bytes": 1243196,
+      "sha256": "d9cc351a2a786dd5740f483462d08ebb0e057447dcee423decbbc61994974728",
+      "sha256_of": "original",
+      "working_copy": "1862_p123.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:37+00:00"
+  }
+}

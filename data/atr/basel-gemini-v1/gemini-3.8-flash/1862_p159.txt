@@ -1,0 +1,53 @@
+94 | Mittlere Straße. — Mostackerstraße.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+28 | I. | 44 | | Weitnauer-Hoffmann, Wb. Marg.
+30 | I. | 45 u. 45 A | | Weitnauer-Hoffmann, Wb. Marg.
+  | | | | Weitnauer-Hoffmann, Wb. Marg., Rent.
+  | | | | Hoffmann-Nestel, Rud., Polizeihauptm.
+32 | I. | 46 | | Caumont-Humbert, Louis Friedr.
+33 | I. | 85 A | | Trüb, Johannes.
+  | | | | Trüb, Johannes, Gärtner.
+  | | | | Trüb-Nußbaumer, Wb. Anna Maria,
+  | | | | Handelsgärtnerinn.
+  | | | | Trüb-Grether, Wb. Bern. Kunig., Gärtn.
+34 | I. | 46 b | | Caumont-Humbert, Friedr. Louis.
+  | | | | Caumont-Humbert, Friedr. L., Lehrer.
+35 | I. | 84 c | | Uehlinger-Bulacher, Joh. Jakob.
+36 | I. | 47 A | | Hagenbach-Merian, Friedrich.
+37 | I. | 83 D | | Uehlinger-Bulacher, Joh. Jakob.
+  | | | | Singeisen-Buser, Jacob, Postfactor.
+38 | I. | 47 | | Hagenbach-Merian, Friedrich.
+40 | I. | 48 A | | Bürgin-Rudin, Joh. Jac.
+  | | | | Bürgin-Rudin, Joh. Jac., Bäcker und
+  | | | | Bannwart.
+  | | | | Grell, Mathias, Graveur.
+42 | I. | 48 | | Bürgin-Rudin, Joh. Jac.
+44 | I. | 49 | | Möcklin, Heinrich, u. Sebastian.
+  | | | | Möcklin, Sebastian, Gärtner.
+  | | | | Möcklin-May, Heinrich, Gärtner.
+  | | | | Meyer, Georg, Stadtbote.
+46 | I. | 50 a | | Brüderlin-Schmied, Wb. Ursula.
+50 | I. | 61 | | Merian-Frischmann, Rud.
+51 | I. | 68 | | Dreyfuß, Isaac, Söhne.
+  | | | | Mezger, Balthasar, Lehenmann.
+52 | I. | 62 a | Rebhäuslein. | Merian-Frischmann, Rud.
+53 | I. | 68 A | | Dreyfuß, Isaac, Söhne.
+56 | I. | 63 | | Merian-Frischmann, Rud.
+  | | | | Vogt-Gottentieni, Joh., Lehenbeständer.
+58 | I. | 63 a | | Merian-Frischmann, Rud.
+63 | I. | 70 | | Gaß-Eglin, Christian.
+  | | | | Gaß-Eglin, Christian, Zimmermeister.
+77 | I. | 67 | | Meister, Heinrich.
+  | | | | Liechti-Neuschwander, Ulr., Lehenbest.
+  | I. | 65 | | Schaub-Schaub, Jacob.
+82 | | | | Schaub-Schaub, Jacob, Gutsbesitzer.
+86 | I. | 66 | zum alten Rotischen Gut. | Spitalpflegamt.
+  | | | | Dettwyler-Gerber, Martin, Lehenmann.
+
+Mostackerstraße.
+17 | III. | 152 A b | | Plattner-Hosch, Jakob.
+18 | III. | 152 | | Gürtler, Gebr. Friedr. u. Heinrich.
+  | | | | Gürtler-Wertenberg, Fridol., Schreiner.
+  | | | | Gürtler, Heinrich, Schreiner.

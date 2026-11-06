@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p203",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p203.jpg",
+    "bytes": 1342576,
+    "sha256": "bbf2a4473b86dad94e7ac13445dee52a52db31742411fcbaf793a6e5dc246baf",
+    "sha256_of": "original",
+    "working_copy": "1862_p203.jpg"
+  },
+  "text": "138\nSpalenvorstadt.\nNro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tler. | Haus-Nr. | | und Bewohner.\n----- | ----- | ----- | ----- | -----\n8 | II. | 282 | | Gesler=Zeller, Johannes.\n| | | | Gesler=Zeller, Johannes, Bäcker.\n| | | | Häckler=Spiller, Peter, Ferger.\n| | | | Falkner=Hübscher, Wb.Helene, Hebamme.\n9 | II. | 351 | 3. kleinen Lützelhof. | Boehme=Gesler, Wilh. Ulrich.\n| | | | Boehme=Gesler, Wilh. Ulr., Schloffer.\n| | | | Uebelin=Abt, Rud., Waarencourtier.\n| | | | Buchmann=Meyer, Jakob, Schreiner.\n| | | | Thommen, Theophil, Commis.\n10 | II. | 283 | 3. Mühlleisen. | Simmoth=Speiser, Julius Otto.\n| | | | Simmoth=Speiser, Jul. Otto, Kaufm.\n| | | | Simmoth, J. D., Tabak- u. Cigarren-\n| | | | handlung.\n| | | | Burchardt, Gustav, Kaufmann.\n11 | II. | 350 | Lützelhof. | Merian=Frishmann, Rudolf.\n| | | | Merian=Frishmann, Rud., Kaufmann.\n| | | | Merian, Daniel Albert, Kaufmann.\n12 | II. | 284 | | Scherb, Emanuel, sel. Erben.\n| | | | Scherb, Christina Magdalena, Part.\n| | | | Fernsemer=Haerberle, Balth., Geistlicher.\n13 | II. | 349 | Gesellschaftshaus 3. | Wohlich=Hagenbach, Franz, Kaufmann.\n| | | | Krähe. | Stadtgemeinde.\n14 | II. | 285 | Mueshaus. | Schilling=Jenni, Joh. Rudolf.\n15 | II. | 348 | zum Samson. | Schilling=Jenni, Joh. Rud., Hufschmied.\n| | | | | Stadtgemeinde.\n16 | II. | 286 | Bauverwalterwoh- | Barth-Ulrich, Daniel, Bauverwalter.\n| | | | nung. | Kling-Roch, Eugen.\n17 | II. | 326 | 3. schwarz. Dchfen. | Kling-Roch, Eugen, Gastwirth.\n| | | | | Haefelsinger, Carl, Materialhdgl.\n18 | II. | 287 | zum Rosenfranz. | Schweizer=Brand, Niclaus.\n| | | | | Schweizer=Brand, Niclaus, Schreiner\n| | | | | u. Holzmeffer.\n| | | | | Gundrum=Gyger, J. Heinr., Kunstmaler.\n19 | II. | 325 | | Gesler=Zeller, Johs.\n| | | | | Wenk=Miller, Martin, Mechaniker.\n| | | | | Neuhauer=Adermann, Const., Bäcker.\n20 | II. | 288 | zum Rosenberg. | Finninger=Bader, Joh. Rudolf.\n| | | | | Finninger=Bader, Joh. Rud., Bäcker.\n21 | II. | 324 | | Gyfin=Kaiser, Joh. Dietrich.\n| | | | | Gyfin=Kaiser, Joh. Dietrich, Schloffer.\n| | | | | Hatt-Kleinlin, Joh. Jak., Lithograph.\n22 | II. | 289 | | Steinmann=Scholer, Friedr.\n| | | | | Steinmann=Scholer, Friedr., Schreiner.\n| | | | | Berger-Rilger, Joh. Friedr., Commis.\n23 | II. | 323 | | Gerber=Roch, Johannes.\n| | | | | Gerber=Roch, Johannes, Metzger.\n24 | II. | 290 | Herrenschmiede. | Bohny=Fausel, Johannes.\n| | | | | Bohny=Fausel, Johannes, Hufschmied u.\n| | | | | Wagenfabrikant.\n| | | | | Weibrecht=Klemm, Theodor, Candidat\n| | | | | u. Sekretär des Missionshauses.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7088,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2565,
+    "lines": 57,
+    "longest_char_run": 5,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p203",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p203.jpg",
+      "bytes": 1342576,
+      "sha256": "bbf2a4473b86dad94e7ac13445dee52a52db31742411fcbaf793a6e5dc246baf",
+      "sha256_of": "original",
+      "working_copy": "1862_p203.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:22+00:00"
+  }
+}

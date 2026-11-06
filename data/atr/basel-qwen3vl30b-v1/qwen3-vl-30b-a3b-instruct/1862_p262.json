@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p262",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p262.jpg",
+    "bytes": 1426002,
+    "sha256": "0636d0373666bfcfb037b9417b853cdd544e6d1a331d46c8735454f5549605f2",
+    "sha256_of": "original",
+    "working_copy": "1862_p262.jpg"
+  },
+  "text": "Rheingasse. — Untere Rheingasse. 197\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n82 | VIII. | 81 | Trottenhaus. | Wizig=Speifer, Martin.\n84 | VIII. | 86 | zum dürren Ast. | Wizig=Speifer, Martin, Seidenfärbergef.\n86 | VIII. | 87 | | Hindenlang=Müry, Rudolf.\n88 | VIII. | 88 | zur' Meise. | Hindenlang=Müry, Rudolf, Schiffmann.\n90 | VIII. | 89 | | Crismann-Hindenlang, Caspar Christof\n| | | | Adolf, Postbeamter.\n| | | | Scherer, Ludwig, Bäcker.\n| | | | Schmid=Heusler, Jakob, Schiffmann.\n| | | | Dechslin=Riedtmann, Joh. Conrad.\n| | | | Dechslin=Riedtmann, Joh. Conrad, Holzhändler und Schiffmann.\n| | | | Hauser=Buxinger, Joh. Jakob, Bandfabrikant.\n| | | | Mazinger, Anna Elisabeth.\n| | | | Mazinger, Anna Elisabeth, Part.\n| | | | Schmidlin=Müller, Jakob.\n| | | | Schmidlin=Müller, Jakob, Zimmerpart.\nUntere Rheingasse.\n1 | VIII. | 378 | zum Waldeck. | Schluab=Otto, Philipp.\n2 | VIII. | 376 | | Siehe Greifengasse Nr. 1.\n3 | VIII. | 377 | Schlachthaus. | Kübler=Troll, Melchior.\n4 | VIII. | 375 | zum Ochsenstein. | Wintsch=Gottfried, Commis.\n| | | | Suter=Bröchin, August, Kaufmann.\n| | | | Emelin, Heinrich, Architect.\n| | | | Stadtgemeinde.\n5 | VIII. | 373 | z. vord. Rupferthurm | Preiswerk, Emanuel, fel. Erben.\n6 | VIII. | 374 | z. schwarzen Rad. | Rieber=Dettwyler, Eduard, Commis.\n| | | | Ramus=Schneider, A., Kaufmann.\n| | | | Lacher=Dettwyler, Jakob, Dessinateur.\n| | | | Lötich, Carl Ferdinand, Commis.\n| | | | Kellermann, Emil.\n| | | | Kellermann, Emil, Apotheker.\n| | | | Märklin, Geschwister.\n| | | | Märklin, Joh. Jakob, Partikular.\n| | | | Märklin, Johanna,\n| | | | Crismann=Müry, Jakob, Commis.\n7 | VIII. | 372 | | Raillard=Stähelin, August.\n| | | | Raillard=Stähelin, August, Roßgerber.\n8 | VIII. | 368—369 | | Heusler=Thurneyssen, Leonhard.\n| | | | Heusler=Thurneyssen, Leonhard, Kfm.\n| | | | Firma: Leonhard Heusler u. Comp.,\n| | | | Colonial- u. Farbwaarengeschäft.\n9 | VIII. | 371 | zum Sennheim. | Hasler, Joh. Nicolaus.\n| | | | Hasler, Joh. Nicolaus, Bäcker.\n| | | | Soller=Fischer, Johannes Hieronimus, Partikular.\n10 | VIII. | 367 | | Heusler=Thurneyssen, Leonhard.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6024,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2155,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p262",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p262.jpg",
+      "bytes": 1426002,
+      "sha256": "0636d0373666bfcfb037b9417b853cdd544e6d1a331d46c8735454f5549605f2",
+      "sha256_of": "original",
+      "working_copy": "1862_p262.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:03+00:00"
+  }
+}

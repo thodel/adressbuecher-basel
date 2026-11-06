@@ -1,0 +1,63 @@
+Münsterberg.
+97
+Neue
+Haus=Mr.
+Quar-
+tier.
+Alte
+Haus=Mr.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Münsterberg.
+1 | V. | 1419 | zum gelben Mönch. | Siegfried=Dörflinger, Nicl. Bened.
+  | | | | Siegfried=Dörflinger, Niclaus Benedict,
+  | | | | Grieger und Spezierer.
+  | | | | Siegfried, Nicl. Christian, Sohn, Kaufm.
+  | | | | Schmidt=Fürch, Th. Gottl., Verleger d.
+  | | | | Tagblatts = Bureau No. 30 Gerbergasse.
+2 | V. | 1393 | zur Schaufel und Spieß. | Fininger=Riedlin, Samuel.
+  | | | | Fininger=Riedlin, Samuel, Sattler.
+  | | | | Lipp=Wohnlich, Friedrich, Commis.
+  | | | | Fischer=Reckler, Jacob, Commis.
+3 | V. | 1418 | z. rothenThürmlein. | Debrunner=Zsché, Heinrich.
+  | | | | Debrunner=Zsché, Heinrich, Pfundzoller.
+4 | V. | 1394 | | Merian=Bloch, Wb. Maria Magdal.
+  | | | | Merian=Bloch, Wb. Maria Magd., Part.
+  | | | | Falkeijen, Joh. Jakob, Kunstmaler.
+  | | | | Niederer, Joh. Jacob, Amtsdiener.
+5 | V. | 1420 | zum Schaltenbrand. | Bernoulli=Cailler, Emanuel.
+  | | | | Bernoulli=Cailler, Emanuel, Particular.
+  | | | | Bernoulli, Emanuel, Sohn, Bandjabr.
+  | | | | (Siehe Nr. 81 Freie Straße.)
+6 | V. | 1395 | z. oberen Vogelsang. | Otto=Segifer, Johann Nicolaus.
+  | | | | Otto=Segifer, Joh. Nic., Zimmermeister.
+  | | | | Müller=Widmer, Julius, Regenschirmm.
+  | | | | Geigy=Merian, Rudolf.
+7 | V. | 1417 | | Preismwerk=Buxtorf, Carl, Seidenhändl.
+  | | | | Wertenberg=Grether, Eduard.
+8 | V. | 1396—97 | z. schwarz. Dechsl ein u. zum Plattfuß. | Wertenberg=Grether, Eduard, Spengler.
+  | | | | Geigy=Merian, Rudolf.
+  | | | | Bureau von F. K. Geigy und u.
+  | | | | Heusler, Droguerie= u. Farbwaaren.
+  | | | | Raillard=Fürstenberger, C., Med. Dr.
+9 | V. | 1416 A | | Byfelder, Wb. Maria.
+  | | | | Byfelder, Wb. Maria, Particularin.
+  | | | | Byfelder, Sgfr., Modiste.
+10 | V. | 1398 | zum Bärenloch. | Geigy, Carl, sel. Erben.
+  | | | | Geigy=Buxtorf, Wb. Susanna, Kent.
+11 | V. | 1416 | z. untern Hochberg. | Sibold=Häfeli, Joseph.
+  | | | | Sibold=Häfeli, Joseph, Magazinier.
+12 | V. | 1399 | zum Ehrenstein. | Dubach=Buser, Franz, Commis.
+  | | | | Duthaler=Bisegger, Ferdinand.
+  | | | | Duthaler=Bisegger, Ferdinand, Comm.
+  | | | | Schäublin=Wahl, Jacob, Maurer.
+13 | V. | 1415 | | Burckhardt, Hans Heinrich.
+  | | | | Burckhardt, Hans Heinrich, Kutscher.
+  | | | | Locher=Burckhardt, Caspar, Schreiner.
+14 | V. | 1400 | z. untern Freiburg. | Gally, Wb. Maria Anna.
+  | | | | Gally, Wb. Maria Anna, Particularin.
+  | | | | Hill=Martin, Joh. Rudolf, Schuhmacher.
+15 | V. | 1414 | zum blauen Berg. | Roth=Zandt, Abraham.
+  | | | | Roth=Zandt, Abraham, Schlosser.
+16 | V. | 1401 | z. oberen Freiburg. | 7

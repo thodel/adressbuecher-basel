@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p255",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p255.jpg",
+    "bytes": 1254492,
+    "sha256": "b360acfd56d6b5e1c2f72bf1cb417f40552d29f36a537c61b08c3ffb67ec8e5e",
+    "sha256_of": "original",
+    "working_copy": "1862_p255.jpg"
+  },
+  "text": "190\nNebgasse.\nNro. | Neues Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n30 | VIII. | 176 | zum Paradies. | Staat.\n31 | VIII. | 167 | | Bischoff-Boehler, Joh. Jac., Pfarrer.\n32 | VIII. | 175 d | zum Steinhof. | Geßler-Dannacher, Joh. Rudolf, sel. Erben.\n33 | VIII. | 163 | | Geßler-Dannacher, Wb. Brig., Gypper.\n34 | VIII. | 175 | zum Steinhof. | Geßler, Carl, Gypper.\n35 | VIII. | 162 | | Geßler, Eucharius Em., Bäcker.\n36 | VIII. | 166 | | Leuenen-Zentsch, Christ., Schuhmacher.\n37 | VIII. | 161 | | Lok-Eglin, Friedrich.\n38 | VIII. | 165 | Pfarrhaus. | Lok-Eglin, Friedr., Zimmermeister.\n39 | VIII. | 157 | | Bohny-Glock, Samuel.\n40 | VIII. | 164 | | Tanner, Jac., Schreiner.\n41 | VIII. | 156 | | Ringele-Reig, Augustin, Kartoffel- u. Obsthändler.\n42 | VIII. | 160 | | Lok-Eglin, Friedrich.\n43 | VIII. | 155 | | Bohny-Glock, Samuel.\n44 | VIII. | 159 | | Martin-Weiß, Joh. Jac.\n45 | VIII. | 151 | | Martin-Weiß, Joh. Jac., Weinfischer.\n46 | VIII. | 150 | | Martin-Krebs, Heinr., Maler.\n47 | VIII. | 149 | | Steffen-Burckhalter, Conrad, Commis.\n48 | VIII. | 148 | | Landerer-Feil, Carl Ludwig.\n49 | VIII. | 147 | | Landerer-Feil, Carl Lud., Fabrikschreiner.\n50 | VIII. | 146 | | Staat.\n51 | VIII. | 145 | | Barth-Lok, Franz Albert, Pfarrer.\n52 | VIII. | 144 | | Münch-Gengenbach, Wilh.\n53 | VIII. | 143 | | Münch-Gengenbach, Wilh., Med. et Chir. Dr., Arzt.\n54 | VIII. | 142 | | Venishaenslin-Gränacher, Carl.\n55 | VIII. | 141 | | Venishaenslin-Gränacher, Carl, Mechaniker.\n56 | VIII. | 140 | | Müller-Scheer, Rud., Schreiner.\n57 | VIII. | 139 | | Füllemann-Madörin, Abrah., Schuhmacher.\n58 | VIII. | 138 | | Schweri-Binder, Jos., Unternehmer von Erdarbeiten.\n59 | VIII. | 137 | | Enzler-Märkt, Wb. Victoria.\n60 | VIII. | 136 | | Enzler-Märkt, Wb. Vict., Detaillantin.\n61 | VIII. | 135 | | Hug-Hoffmann, Daniel, sel. Erben.\n62 | VIII. | 134 | | Hug-Hoffmann, Wb. Barb., Rätherin.\n63 | VIII. | 133 | | Speiser-Schaffner, Wb. Barbara u. Fosseler, Maria.\n64 | VIII. | 132 | | Speiser-Schaffner, Wb. Barb., Seidenwinderin.\n65 | VIII. | 131 | | Bolliger, Samuel u. Christof.\n66 | VIII. | 130 | | Bolliger-Imhof, Samuel, Taglöhner.\n67 | VIII. | 129 | | Bolliger, Christof, Sohn, Schuhmacher.\n68 | VIII. | 128 | | Müller, Ludw. Wilh., Schlosser.\n69 | VIII. | 127 | | Maeglin-Weiß, Elisabeth.\n70 | VIII. | 126 | | Maeglin-Weiß, Jac., Decorationsmal. und Photograph.\n71 | VIII. | 125 | | Moser-Haas, Jacob, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7193,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2463,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 53.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p255",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p255.jpg",
+      "bytes": 1254492,
+      "sha256": "b360acfd56d6b5e1c2f72bf1cb417f40552d29f36a537c61b08c3ffb67ec8e5e",
+      "sha256_of": "original",
+      "working_copy": "1862_p255.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:21+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p247",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p247.jpg",
+    "bytes": 1261435,
+    "sha256": "c31691dabf98ffbbe2447b8f87e2b742a866db71e7352bfa4d5345a5496d735a",
+    "sha256_of": "original",
+    "working_copy": "1862_p247.jpg"
+  },
+  "text": "182 Klingenthalstraße. — Klybeckstraße.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n39 | VII. | 82 E | | Burckhardt, Daniel.\n43 | VII. | 82 G | | Schaarschmidt-Hagist, August.\n  Schaarschmidt-Hagist, Aug., Maurer.\n  Dussi-Deck, Jacob, Marmorist.\n45 | VII. | | | Schaarschmidt-Hagist, August.\n47 | VII. | | | Gundrum-Degen, Michael.\n\nKlybeckstraße.\n\n1 | VII. | 1 | | Bricar-Stilli, Wb. Maria.\n  Bricar-Stilli, Wb. Maria, Part.\n3 | VII. | 2 | | Pfirter-Weber, Wb. Elisabeth.\n  Zündel-Buchmann, Gottlieb, Part.\n7 | VII. | 5 | | Zaeslin-Bleyenstein, Wb. Marg., sel. Erben.\n9 | VII. | 6 | | Zaeslin-Bleyenstein, Wb. Marg., sel. Erben.\n11 | VII. | 8 | | Matzinger-Isenegger, Samuel.\n  Matzinger-Isenegger, Sam., Commis.\n15 | VII. | 9 | | Schmid-Ritter, Wb. Soph. Mar.\n16 | VII. | 7 | | Schmid-Ritter, Wb. Soph. Mar.\n  Salathe, Jacob, Lehenbeständer.\n17 | VII. | 11 | | Keller-Sehringer, Christof.\n  Keller-Sehringer, Christof, Gärtner.\n  Berchten-Steiner, Rud., Commis.\n  Langmesser, J. U., Part.\n  Best, Lucas, Rentier.\n18 | VII. | 10 | | Raillard-Brenner, Peter, sel. Erb.\n  Raillard-Brenner, Wb. Maria Elisab., Part.\n19 | VII. | 12 | | Tschopp-Frayder, Wb. Agathe.\n  Tschopp-Frayder, Wb. Agathe, Part.\n  Tschopp, Rudolf, Gärtner.\n21 | VII. | 13 | | Schmidt-Klotz, Wb. Magdalena.\n  Wurst, Wb. Magd., Speziererin.\n  Siegrist-Eckert, Rudolf, Gärtner.\n23 | VII. | 14 | | Krauer-Treu, Rud.\n  Krauer-Treu, Rud., Part.\n24 | VII. | 10 d | | Raillard-Brenner, Peter, sel. Erb.\n  Schenk-Hählen, Friedr., Mechaniker.\n26 | VII. | 11 A | | Schmid-Ritter, Wb. Soph. Mar.\n  Müller-Walliser, Joh. Gg., Commis.\n27 | VII. | 17 | | Thüring, Josef, Zimmermeister.\n  Walter-Zurfluh, Ludwig, Gärtner.\n29 | VII. | 18 | | Meyer, Dr. Friedrich, Thierarzt.\n  Brand-Mengis, Leonh., Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8149,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1819,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:02:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p247",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p247.jpg",
+      "bytes": 1261435,
+      "sha256": "c31691dabf98ffbbe2447b8f87e2b742a866db71e7352bfa4d5345a5496d735a",
+      "sha256_of": "original",
+      "working_copy": "1862_p247.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:44+00:00"
+  }
+}

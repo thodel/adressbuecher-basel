@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p185",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p185.jpg",
+    "bytes": 1267327,
+    "sha256": "5c64cebc807f2178fb92806466faca39d41c5d81dba64781b97fc275bfed859a",
+    "sha256_of": "original",
+    "working_copy": "1862_p185.jpg"
+  },
+  "text": "120 Rümelinsplatz. — Sattelgasse.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n3 | VI. | 620 | | Mäder-Weber, Wb. Anna Maria.\n  Mäder-Weber, Wb. Anna Maria, Spe-\n  zereihandlung.\n  Hänches-Staub, Jacob, Schneider.\n4 | VI. | 1688 | z. weißen Haus. | Frey-Grieder, Johann Elias.\n  Frey-Grieder, Joh. Elias, Fabrikarb.\n  Grieder, Balth. Conrad, Schneider.\n  Kraus-Faller, Bernhard, Stuhlschreiner.\n5 | VI. | 619 | zum Cambrinus. | Paravicini-DeBary, Fritz.\n  Paravicini-DeBary, Fritz, Bierbrauer.\n6 | VI. | 1687 | Zunft z. Schmieden. | Corporationsgut.\n  Allgemeines Arbeiterkosthaus.\n  Weiß-Müller, Wb. Ursula, Abwart.\n7 | VI. | 618 | zum Rosenfeld. | Grüninger-Dehninger, Rudolf.\n  Grüninger-Dehninger, Rud., Küfer.\n8 | VI. | 1686 | zum Wändlein. | Scheidecker, Georg u. Carl.\n  Gaßmann-Schwarz, Heinr., Commis.\n9 | VI. | 617 | | Kramer-Schmid, Johannes.\n  Kramer-Schmid, Joh., Schuhmacher.\n11 | VI. | 616 | zum Karspach. | Stoecklin-Baumgartner, J. Ulrich.\n  Stoecklin-Baumgartner, Joh. Ulrich,\n  Zettlermeister.\n  Stoecklin'sche Kleinkinderschule.\n  Stoecklin, Jonathan, Klaviermacher.\n13 | VI. | 615 | zum Zeisig. | Müller-Nußbaum, Joh. Em.\n  Müller-Nußbaum, Joh. Em., Kübler.\n15 | VI. | 614 | | Neidhaar-Barth, Leonz.\n  Crousaz-Froelich, Jacob, Maler.\n  Rieder-Restli, Martin, Spezierer.\n17 | VI. | 613 | | Schneider-Schlaefly, Franz.\n  Schneider-Schlaefly, Franz, Lohnkutsch.\n\nSattelgasse.\n1 | VI. | 1736 | | Maring-DeBary, Joh. Jak.\n  Maring-DeBary, Joh. Jak., Kanzleisec.\n  Maring, Geschwister, Merceriehandlung.\n  Emmel-Hof, Josef, Seckler.\n3 | VI. | 1737 | zum Rechen. | Hauser-Georg, Jakob Friedrich.\n  Hauser-Georg, Jak. Friedr., Wirth.\n4 | VI. | 1573 | zum Schildeck. | Burckhardt-Pfunder, Sebastian.\n  Burckhardt-Pfunder, Sebast., Wirth.\n5 | VI. | 1738 | zum Regenbogen. | Landerer, Niklaus, sel. Erben.\n  Lotz-Landerer, Jak. Christian, Schneider.\n6 | VI. | 1572 | zum schwarz. Hahn u. Sevenbaum. | Vest-Gengenbach, Wb. Helena.\n  Vest-Gengenbach, Wb. Helena, Part.\n  Taschetta, Giovanni, Glaser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9892,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2067,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:53:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p185",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p185.jpg",
+      "bytes": 1267327,
+      "sha256": "5c64cebc807f2178fb92806466faca39d41c5d81dba64781b97fc275bfed859a",
+      "sha256_of": "original",
+      "working_copy": "1862_p185.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:27+00:00"
+  }
+}

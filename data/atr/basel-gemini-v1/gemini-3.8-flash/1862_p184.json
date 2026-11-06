@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p184",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p184.jpg",
+    "bytes": 1427700,
+    "sha256": "cd7c0d69c8dafef0e61a3639e8d993dbb7490cfb484a5dbf3ce2f1ed0f679b81",
+    "sha256_of": "original",
+    "working_copy": "1862_p184.jpg"
+  },
+  "text": "Rüdengäßlein. — Rümelinbachweg. — Rümelinsplatz. 119\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nRüdengäßlein.\n1 | VI. | 1169 | z. gold. Apotheke. | Geiger, Friedrich.\n  Geiger, Friedr., Dr. u. Apotheker.\n2 | VI. | 1651 | z. hint. Waldshut. | Lang-Klingele, Bernhard.\n  Lang-Klingele, Bernhard, Wirth.\n  Lipp, Rudolf, Commis.\n3 | VI. | 1168 | z. schwarz. Rüden. | Baur-Sprenger, Joh. Georg.\n  Baur-Sprenger, Joh. Georg, Buchdruck.\n5 | VI. | 645 A | Wachthaus d. Gas-anzünder. | Stadtgemeinde.\n7 | VI. | 646 | | Geßler-Guggenbühl, Caspar.\n  Geßler-Guggenbühl, Casp., Rothgerber.\n  Lederhandlung von A. Braun-Geßler.\n9 | VI. | 647 | | Lutz-Merker, Jacob.\n  Lutz-Merker, Jacob, Kleiderhandlung.\n  Meister, Georg, Postbeamter.\n\nRümelinbachweg.\n3 | III. | 189 a | | Baumann, Joh. Hch., sel. Erben.\n  Waschhaus u. Magazin.\n4 | III. | 188 | | Burckhardt-Ecklin, Franz.\n  Burckhardt-Ecklin, Franz, Mechaniker.\n5 | III. | 189 | | Baumann, Joh. Hch., sel. Erben.\n  Baumann-Moser, Wb. Rosina, Part.\n  Diener-Haller, Joh., Seidenfärber.\n6 | III. | 187 | | Burckhardt-Ecklin, Franz.\n  Mechanische Werkstätte.\n7 | III. | 189 b u. c | | Baumann, Joh. Hch., sel. Erben.\n  Färberei.\n8 | III. | 186 | | Burckhardt-Ecklin, Franz.\n  Ecklin-Lotz, Wb. Salomea, Part.\n  Ziegler, Theodor, Werkführer.\n10 | III. | 185 a | | Thurneysen'sche Papierfabrik.\n  Wilhelm-Rauch, Adolf, Werkführer.\n12 | III. | 185 | | Thurneysen'sche Papierfabrik.\n18 | III. | 184 | z. Tabackstampfe. | Bischoff-Kestner, J. J. u. Comp.\n  Holliger-Weibel, Jacob, Tabakmüller.\n\nRümelinsplatz.\n1 | VI. | 621 | Rümelinsmühle. | Seifert-Abt, Heinrich.\n  Seifert-Abt, Heinrich, Müller.\n2 | VI. | 1689 | z. rothen Kopf. | Sacher, Adolf.\n  Sacher, Adolf, Schuhmacher.\n  Ballmer-Asch, Anton, Kappenmacher.\n  Meyenfisch, Gotthard, Kammmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9992,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1845,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:53:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p184",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p184.jpg",
+      "bytes": 1427700,
+      "sha256": "cd7c0d69c8dafef0e61a3639e8d993dbb7490cfb484a5dbf3ce2f1ed0f679b81",
+      "sha256_of": "original",
+      "working_copy": "1862_p184.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:17+00:00"
+  }
+}

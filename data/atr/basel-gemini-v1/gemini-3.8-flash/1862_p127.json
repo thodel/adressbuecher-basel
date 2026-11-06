@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p127",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p127.jpg",
+    "bytes": 1281867,
+    "sha256": "a03ac95c1bdb6b28cedabe46fdc8873d3a6e80f1753db0f370d189b41bd111ec",
+    "sha256_of": "original",
+    "working_copy": "1862_p127.jpg"
+  },
+  "text": "62 | Unterer Heuberg.\n\nNeue Haus-Nr | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nUnterer Heuberg.\n1 | VI. | 413 | zur Rothenburg. | Maas-Müller, Dr. Rudolf.\n  Bloch, Sam., Handelsmann.\n  Carstanjen-Bader, Theodor, Commis.\n2 | VI. | 419 | z. schwarzen Ritter. | Wolf-Meyer, Babetta, Wittwe.\n4 | | | | Wolf-Meyer, Bab., Wb., Part.\n  Wolf-Dietisheim, Georg, Lithograph.\n  Wolf, Felix, Geschäftsmann.\n  Bußinger, Heinr., Schreinerwerkstätte.\n  Rickenbacher, Gottl., Büchsenmacherwrkst.\n3 | VI. | 408 | zum scharfen Eck. | Roth-Herzog, Caspar.\n  Roth-Herzog, Casp., Particular.\n  Kehlstadt-Munzinger, Maria, Wb., Part.\n5 | VI. | 407 B. | | Kupferschmied-Häfelfinger, Joh. Hch.\n  sel., Erben.\n  Hiltmann, Johannes, Schneider.\n6 | VI. | 424 | | Goßwyler-Stoll, Conr., Eselhalter.\n  Siehe Heuberg Nr. 17.\n7 | VI. | 407 A. | | Kupferschmied-Häfelfinger, Joh. Hch.\n  sel., Erben.\n  Brunner, Christian, Holzhändler.\n8 | VI. | 425 | zum Tröttlin. | Säuberlin-Hägelin, Wb. Susanna.\n  Remise von Hunziker, Jac., Holzhändler.\n9 | VI. | 407 | zum Abt. | Kupferschmied-Häfelfinger, Joh. Hch.\n  sel., Erben.\n  Kupferschmied-Häfelfinger, Wb. Dorothea\n  Magdalena, Zimmermanns.\n10 | VI. | 421 B. | | Preiswerk, Em., Colonialw.-Hdlg.\n  (Waaren-Magazin.)\n11 | VI. | 406 | | Stähelin-Zimmerlin, Joh. Jac., Prof.\n  Eglin-Butscher, Fr. Wilh., Commis.\n12 | VI. | 427 C. | | Lapp-Wollschlegel, Christian Friedr.\n  Lapp-Wollschlegel, Chr. Fr., Schlosser\n  u. Mechaniker. (Eing. zur Werkstätte.)\n13 | VI. | 405 | | Grüninger-Oehninger, Rud., Küfer.\n14 | VI. | 427 | | Tschudy-Merian, Sam., Baumeist.\n  (Magazin.)\n15 | VI. | 619 | | Paravicini-Debary, Friedr.\n  (Magazin.)\n16 | VI. | 427 A. | | Tschudy-Merian, Samuel.\n  Tschudy-Merian, S., Baumeister.\n17 | VI. | 404 | | Meyer-Weißer, Christian Jacob.\n  Meyer-Weißer, Chr. Jac., Schreiner.\n18 | VI. | 400 | | Obermüller-Lehmann, J. Peter.\n  Obermüller-Lehmann, J. P., Fabrikarb.\n19 | VI. | 631 | | Durchgang, Allment.\n  Eingang zu Nr. 6 und 10 Gerber-\n  gäßlein, 17 und 21 Heuberg.\n21 | VI. | 403 | Synagoge. | Jüdische Gemeinde.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8620,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2097,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0588,
+    "mean_line_chars": 39.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:44:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p127",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p127.jpg",
+      "bytes": 1281867,
+      "sha256": "a03ac95c1bdb6b28cedabe46fdc8873d3a6e80f1753db0f370d189b41bd111ec",
+      "sha256_of": "original",
+      "working_copy": "1862_p127.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:12+00:00"
+  }
+}

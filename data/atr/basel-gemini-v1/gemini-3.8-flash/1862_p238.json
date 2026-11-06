@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p238",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p238.jpg",
+    "bytes": 1458831,
+    "sha256": "eaa770c636fcf7c09777695c08010a20753c7f98a8da8a87ab063e998fb48174",
+    "sha256_of": "original",
+    "working_copy": "1862_p238.jpg"
+  },
+  "text": "Greifengasse. | 173\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n18 | VIII. | 391—392 | z. rothen Löwen. | Bienz-Oeschger, Rudolf.\n  Bienz-Oeschger, Rudolf, Metzger.\n  Bienz-Pack, Rudolf, Metzger.\n  Oeschger-Langmesser, Joh., Wirth.\n19 | VII. | 236 | zur Traube. | Wohnlich-Rusterholz, Wb. Cath.\n  Wohnlich-Rusterholz, Wb. Cath., Bäcker.\n20 | VIII. | 237 | | Baumgartner-Burckhardt, Frz. Hch.\n  Baumgartner-Burckhardt, Franz Hch., Schneider.\n21 | VII. | 235 | | Langmesser-Meyer, Heinrich.\n  Langmesser-Meyer, Hch., Seiler.\n22 | VIII. | 232 | z. kleinen Stern. | Bohny, Marie Magdalena.\n  Bohny, Maria Magdalena, Cigarren- u. Tabakhdlg., Firma J. J. Bohny.\n23 | VII. | 234 | z. rothen Eichhorn. | Effinger-Gutzwiller, Carl Friedrich.\n  Effinger-Gutzwiller, C. Friedr., Kfm.\n  Gutzwiller-Grummler, Seb., Kunstmal.\n24 | VIII. | 231 | zum Sternenberg. | Faesch-Kienle, Ludwig.\n  Faesch-Kienle, Ludw., Bierbrauer.\n25 | VII. | 233 | zum Eichhorn. | Bienz-Pfirter, Frau Elisabeth.\n  Pfirter-Weber, Wb. Elis., Part.\n  Winkler-Berger, Johs., Commis.\n  Bureau u. Magazin v. Doelli Bercher u. Comp. Chemiker.\n  Münch-Wenk, Christian, Commis.\n26 | VIII. | 230 | | Schmidt-Kromer, Daniel.\n  Schmidt-Kromer, Daniel, Kübler.\n27 | VII. | 229 | zum Weitnau. | Merian-Seeber, Nicl. Emanuel.\n  May-Seeber, Martin, Bierwirth.\n  Seeber-Brugger, Carl, Commis.\n28 | VIII. | 227 | zum Biber. | Bulacher-Heußler, Johannes.\n  Bulacher-Heußler, Johs., Stadtbote.\n  Starke-Weißenburger, Rudolf Peter, Cigarrenhändler.\n  Wirz-Kirchhofer, Ed., Schirmfabrikant.\n  Munzinger-Imhof, Em., Maler.\n29 | VII. | 228 | z. gold. Greifen. | Wohnlich-Fuchs, Rudolf.\n  Wohnlich-Fuchs, Rudolf, Bäcker.\n30 | VIII. | 226 | | Widmann, Ludw. u. Neukomm, Joh.\n  Widmann-Hartmann, Ludw., Dr. med. Arzt.\n  Schmoll-Dreyfuß, Sal., Leder-u. Fellhdl.\n  Siber-Schmalzer, Rud., Goldschmied.\n31 | VII. | 224 | zum Greifen. | Merian, Andr. Benj. u. Ludwig Dietrich.\n  Merian-Hänsler, Andreas Benjamin, Bierbrauer.\n  Fausel-Strub, Gottlieb, Kaufmann.\n  Hottinger-Knoechel, J. E., Straßenpflast.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12427,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2097,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:01:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p238",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p238.jpg",
+      "bytes": 1458831,
+      "sha256": "eaa770c636fcf7c09777695c08010a20753c7f98a8da8a87ab063e998fb48174",
+      "sha256_of": "original",
+      "working_copy": "1862_p238.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:17+00:00"
+  }
+}

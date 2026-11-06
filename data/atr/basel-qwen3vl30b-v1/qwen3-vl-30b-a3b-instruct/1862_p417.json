@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p417",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p417.jpg",
+    "bytes": 1452344,
+    "sha256": "343e519789b5d5c95e39c6b14b16c482d31e9f5a180ce440d7e5f320766111f7",
+    "sha256_of": "original",
+    "working_copy": "1862_p417.jpg"
+  },
+  "text": "352\nBerzeichniss der Bürger und Einwohner.\nTrueb, Johannes, Gärtner. Mittlere Straße 33.\nTriß=Kufbaumer, Wb. Anna Maria, Handelsgärtner. Mittlere Straße 33.\n— =Preiswerk, Rudolf, Spezereiwaarenhandlung en gros et en détail u. Handlung in Blättertabaken en gros. Greifengasse 9.\nTrißbner=Felber, Wb. Dorothea. Eiſengasse 24.\n— =Wolfsensberger, Ludwig, Buchbinder. Gerbergasse 40.\nTrißdinger u. Comp., Bandfabrikant. Rittergasse 33.\n— Georg, Kaufmann. Freie Straße 3.\n— =Kuffer, Philipp, Bandfabrikant. Kennweg 2.\n— =Sehringer, Joh. Gg., Kaufmann. Sporengasse 4.\nTruhen, F. Aug., Tapezierer. Utengasse 19.\nTschann=Ber gi, Napoleon, Gutsbesitzer, Maurer u. Feuerwerker. Mostackerstraße 36.\n— Philipp Josef, Maurer. Mostackerstraße 36.\n— =Salathe, Bernhard, Weibel u. Abwart. Bäumleingasse 3.\nTschanner von, Carolina, Part. St. MartinsGasse 12.\nTschientschy=Rislig, Wb. Susan. Catharina, Drehslcr. Spalenberg 34.\n— =Krebjer, Carl, Commis. Freie Straße 93.\nTschopp=Balmer, Jacob, Cassier. Fabrikstraße 29.\n— =Basler, Carl, Piqueur. Sternengäßlein 2.\n— =Brudermann, Albert, Lifeur. Steinen-thorstraße 39.\n— =Brugger, Friedr., Fabrikarbeiter. St. Alban-Thal 12.\n— =Erb, F. F., Stuhlschreiner. St. Johann=Vorstadt 68.\n— =Effig, Wb., Part. Freie Straße 47.\n— =Frayder, Wb. Agatha, Part. Klybeckstraße 19.\n— Helena, Borgängerin. Greifengasse 28.\n— =Holzach, Heinr., Spengler, Lampist u. Ofenfabrikant. Gellertstraße 22.\n— =Hunziker, Joh., Posamenter. Sattelgasse 15.\n— Joh. Jac., Part. St. Johann=Vorstadt 68.\n— Jordan, Eman., Commis. St. Andreasplatz 8.\n— =Kromer, Rud., Seidenfärberegeselle. Rebgasse 9.\n— =Lautenschlager, Jeremias, Posamenter. Riehenteichweg 18.\n— =Koßinger, Wb. Cath., Kätherin. Webergasse 30.\n— Rudolf, Gärtner. Klybeckstraße 19.\nTschopp=Schmid, Johannes, Flachmalergeselle. Lohnhofgäßlein 10.\n— =Schwab, sel. Erb., Firma F. Tschopp=Schwab, Materialhandlung. Steinen-thorstraße 1.\n— =Winter, Wb. Maria Barb., Spezerei-handlung. Pfluggäßlein 12.\n— Wb. Part. Dchjengasse 19.\nTschudi, Barbara, Glätterin. St. Peters-Graben 35.\n— =Gyfin, Carl, Posamenter. Theaterstraße 6.\n— =Haag, Christ., Kaufmann. Hasenberg 5.\n— =Obrist, Johann, Posamenter. Ochsen-gasse 21.\n— =Ramstein, Heinr., Schuhmacher. Todtengäßlein 5.\n— =Tschopp, F. F., Bäcker u. Wirth. St. Albankirchrain 2.\n— =Werlin, Jac., Rathsbote. St. Peters-firchplatz 14.\nTschudin=Burri, F. F., Fabrikarbeiter. Kilden-gäßlein 2.\n— =Buser, Peter, Fabrikarbeiter. Missionsstraße 59.\n— =Jenny, Wb., Seidenwinderin. St. Johann=Vorstadt 13.\n— =Thommen, Jacob, Posament. Aeschenvorstadt 68.\n— =Weber, Jacob, Meßger. St. Alban-Vorstadt 43.\nTschudy, Gebr., Joh. Jac. u. Adam. Rhein-gasse 59.\n— =Häufer, Wb. Elisab. Gerbergäßlein 12.\n— =Merian, Sam., Baumeister. Unterer Heuberg 16.\n— =Wanner, Wb. Anna, Mangerin. St. Peters-Berg 11.\nTuchschmid=Spinnler, Heinrich, Posamenter. In der Breite 11.\n— =Wierz, Jac., Maurerparlier. Steinen-thorstraße 4.\nTurgi, Joseph, Hausknecht. Klosterberg 21.\nUebelhardt, Johann, Commis. FreieStraße 57.\nUebelin=Abt, Rudolf, Waarencourtier. Spalenvorstadt 9.\n— =Gekler, Carl, Kaufmann. Centralbahnhofplatz 13.\n— Joh. Friedr., Zettlermeister. Kohlenberg 4.\n— =Marbach, Wb. Elisab., Glätterin. Kohlenberg 4.\n— =Mollinet, Georg, Dessinateur. Rheingasse 10.\n— =Mollinet, Heinr., Commis. Spalenberg 58.\n— =Schweizer, Wb. Carolina. Steinen-thorstraße 16.\n— =Stähelin, Wb. Mathilde, Part. Missionsstraße 39.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8828,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3383,
+    "lines": 66,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:17:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p417",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p417.jpg",
+      "bytes": 1452344,
+      "sha256": "343e519789b5d5c95e39c6b14b16c482d31e9f5a180ce440d7e5f320766111f7",
+      "sha256_of": "original",
+      "working_copy": "1862_p417.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:17:48+00:00"
+  }
+}

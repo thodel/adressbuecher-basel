@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p170",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p170.jpg",
+    "bytes": 1439736,
+    "sha256": "97fc5c7722aa1334a8eaf87a649d92a2202b7716d08407f08c13a06be342aecd",
+    "sha256_of": "original",
+    "working_copy": "1862_p170.jpg"
+  },
+  "text": "Neue Vorstadt. In den Neufäken. Nonnenweg. Peters-Berg. 105\nNro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nr. | | und Bewohner.\n29 | I. | 275 C | | Staat.\n30 | I. | 269 Ba | Holsteinerhof. | Burchardt=Gemuseus, Wb. Emilie.\n31 | I. | 275 C a b | Prosofenwohnung. | Burchardt=Gemuseus, Wb. Emilie, Kent.\n32 | I. | 269 B | Holsteinerhof. | Staat.\n| | | | Tischhauer=Jenny, Christian, Profos.\n| | | | Burchardt=Gemuseus, Wb. Emilie.\nIn den Neufäken.\n1 | V. | 269 | | Halter=Jäsch, Niclaus.\n2 | V. | 267 | | Halter=Jäsch, Niclaus.\n| | | | Halter=Jäsch, Niclaus, Kaufmann.\n3 | V. | 271 B | | BonderMühl=Fürstenberger, Alfred.\n4 | V. | 275 | | Merian=Burchardt, Christoph, fel.\n| | | | Erben.\n| | | | Aebi=Hartmann, Wb. Catharina, Lehens-\n| | | | beständerin.\n| | | | Aebi, Christof Theodor, J. U. D.\n5 | V. | 273 | | BonderMühl=Fürstenberger, Alfred.\n| | | | Rull=Höbel, Heinrich, Gärtner.\nNonnenweg.\n20 | II. | 110 A | Missionsknabens. | Missionsgesellschaft.\n| | | | Menret=Bächlin, Gustav, Pfarrer und\n| | | | Hausvater.\n| | | | Ganfer, Paul Emil, Lehrer.\n33 | II. | 119 E | | Fischer=Burchardt, Heinrich.\n35 | II. | 119 D | | Fischer=Burchardt, Heinrich.\n37 | II. | 119 C | | Fischer=Burchardt, Heinrich.\n| | | | Hill=Bieder, Alexander, Metzger.\n| | | | Fischer=Burchardt, Heinrich.\n39 | II. | 119 B | | Kradofer=Bisegger, Joh., Commis.\n51 | II. | 119 A | | Senn=Gyfin, Daniel.\n| | | | Senn=Gyfin, Daniel, Major u. Kriegs-\n| | | | kommissär.\nSt. Peters-Berg.\n1 | I. | 174 | zum Brunnen. | Amstein=Schäffer, Joh. Heinrich.\n| | | | Amstein=Schäffer, Joh. Heinrich, Vater.\n| | | | Dunkel=Biirgin, Alexander, Schuhmach.\n3 | I. | 175 | | Schweizer=Schäfer, Joh.\n| | | | Schweizer=Schäfer, Joh., Fabrikarbeiter.\n4 | I. | 151 | zum Rechberg. | Soller=Frey, Wilhelm.\n| | | | Soller=Frey, Wilhelm, Schuhmacher.\n| | | | Siehe Nr. 12 Fischmarkt.\n5 | I. | 176 | | Hergob, Geschwister.\n| | | | Hergob, Joh. Ludwig, Sprachlehrer.\n| | | | Hergob, Philippine, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6987,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1992,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:43:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p170",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p170.jpg",
+      "bytes": 1439736,
+      "sha256": "97fc5c7722aa1334a8eaf87a649d92a2202b7716d08407f08c13a06be342aecd",
+      "sha256_of": "original",
+      "working_copy": "1862_p170.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:15+00:00"
+  }
+}

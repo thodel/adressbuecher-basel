@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p145",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p145.jpg",
+    "bytes": 1285799,
+    "sha256": "73e230eab1a60487a8d89cedd73c4df1fc7bc44ecb4d3a5e81d899b7b534800e",
+    "sha256_of": "original",
+    "working_copy": "1862_p145.jpg"
+  },
+  "text": "80  Kronengasse. — Küchegäßlein. — Lehenmattweg.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n6 | VI. | 129 | z. niedern Meerring. | Halter, Joh. Niclaus.\n  Mohler-Mundwyler, J. J., Buchdruck.\n  Magazin von J. J. Halter.\n7 | VI. | 1528 | z. gelben Mönch. | Scherb-Jauslin, Georg.\n  Scherb-Jauslin, Gg., Dr. med. et chir.\n8 | VI. | 130 | zum obern Mohren. | Heitz-Dewette, Aug., Dr. u. Notar.\n  Gsell, Rudolf, Schuhmacher.\n  Kaiser, Schwestern, Haarflechterinnen.\n9 | VI. | 1527 | zum rothen Rößlein. | Fuß-Kalbfell, Carl.\n  Fuß-Kalbfell, Carl, Schneider.\n10 | VI. | 131 | zu den drei Klauen. | Leithardt-Loos, Joseph.\n  Leithardt-Loos, Joseph, Schlosser.\n11 | VI. | 1526 | z. weißen Rößlein. | Halter, Joh. Niclaus.\n  Halter-Plattner, Wb. Elisabeth, Part.\n  Firma J. J. Halter, Bettfedernhdlg.\n12 | VI. | 132 |  | Zäslin-Aeschbacher, Wb. Mar. Elis.\n  Zäslin-Aeschbacher, Wb. Maria Elis.,\n    Messerschmiedwaarenhandl. u. Schleife.\n14 | VI. | 133 |  | Preiswerk-Oser, Joh. Jakob.\n  Waschhaus.\n16 | VI. | 134 |  | Kürner-Mundwiler, Ludw. Heinr.\n  Kürner-Mundwiler, L.H., Kupferschmied.\n\nKüchegäßlein.\n1 | III. | 202 A |  | Burckhardt-Stähelin, Friedrich.\n  Burckhardt-Stähelin, Friedr., Kaufm.\n  Gemuseus-Riggenbach, J. Rud. Wilh.,\n    Kaufmann.\n3 | III. | 202 A a |  | Burckhardt-Stähelin, Friedrich.\n  Barbe, Jean, Auswanderungsbureau.\n  Marolf-Kunkler, Carl Franz, Lehrer.\n5 | III. | 196 A |  | Wenger-Gaebele, Jacob.\n  Kaiser-Schleiniger, Aug., Schreiner.\n7 | III. | 196 B |  | Denzler-David, Rudolf.\n  Denzler-David, Rudolf, Hafner.\n  Eckenstein-Schermar, Ed., Hopfenhndlg.,\n    Comptoir Nro. 16 Steinenthorstraße.\n9 | III. | 202 G | Schopf. | Sartorius, Friedrich.\n14 | III. | 198 B |  | Simon-Vogt, Franz Joseph.\n  Simon-Vogt, Franz Joseph, Wirth.\n  Hirschi-Keller, Christian, Zugmeister.\n  Karth-Oppermann, Joh. Nicl., Dessin.\n\nLehenmattweg.\n8 | V. | 347 | Heuscheune. | Forkart-Iselin.\n16 | V. | 340 |  | Heusler-Fatio, E., sel. Erben.\n  Hunziker-Suter, Jacob, Lehenbeständer.\n18 | V. | 340 b |  | Heusler-Fatio, E. sel. Erben.\n20 | V. | 340 c |  | Heusler-Fatio, E. sel. Erben.\n  Stallung und Remise.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10903,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2170,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:47:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p145",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p145.jpg",
+      "bytes": 1285799,
+      "sha256": "73e230eab1a60487a8d89cedd73c4df1fc7bc44ecb4d3a5e81d899b7b534800e",
+      "sha256_of": "original",
+      "working_copy": "1862_p145.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:02+00:00"
+  }
+}

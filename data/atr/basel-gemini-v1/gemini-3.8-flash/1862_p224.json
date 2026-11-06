@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p224",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p224.jpg",
+    "bytes": 1433631,
+    "sha256": "cd94fcb389adcc1b1f310b9776568d211688dd595f15d8963c8fd2a8f6dc2e40",
+    "sha256_of": "original",
+    "working_copy": "1862_p224.jpg"
+  },
+  "text": "Todtengäßlein. — Todtentanz. 159\n\nNeue Haus-Nr. | Quar= tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nTodtengäßlein.\n3 | II. | 571 | zum Sessel. | Staat.\n  Burckhardt-Raillard, Wittwe Louise.\n5 | II. | 570 | | Bär-Martin, Rudolf.\n  Bär-Martin, Rudolf, Coiffeur.\n  Tschudi-Ramstein, Heinrich, Schuhmach.\n7 | II. | 569 | | Stadelmann-Ulmy, Joseph.\n  Stadelmann-Ulmy, Joseph, Schneider.\n9 | II. | 568 | zum obern Jäger. | Köhler-Grießer, Wb. Elisabeth.\n  Köhler-Grießer, Wb. Elisabeth, Kostgeb.\n  Zürcher-Sutter, Joh. Jacob, Lebkuchen-\n  krämer.\n11 | II. | 567 | zum obern Jäger. | Köhler=Grießer, Wb. Elisabeth.\n  Vaterlaus-Erismann, Heinr., Steinmetz.\n13 | II. | 555 A | | Bollinger, Joh. Jacob.\n  Siehe Nr. 5 am Nadelberg.\n\nTodtentanz.\n1 | I. | 90 | | AWengen-Treu, Rudolf.\n  AWengen-Treu, Rudolf, Part.\n2 | I. | 89 | | Danzeisen-Berger, Ludwig.\n  Berger-Riedtmann, Wb. Margaretha,\n  Wirthin u. Ellenwaarengeschäft.\n3 | I. | 88 | | Frank, Schwestern.\n  Frank, Schwestern, Christine Zettlerin,\n  Louise Nätherin, Lisette Glätterin.\n  Müller, Heinrich, Schlosser.\n4 | I. | 87 | | Rieder-Frey, Samuel.\n  Rieder-Frey, Samuel, Steinmetz.\n  Liebrich-Frey, Heinrich, Commis.\n  Schimpf-Holniger, Niklaus, Schreiner.\n5 | I. | 86 | | Mazinger-Deggeller, Joh. Jac.\n  Mazinger-Deggeller, Joh. Jac., Commis.\n  Prosser-Mazinger, Christof, Spengler.\n6 | I. | 85 | | Oberlin, Susanna, Jungfr.\n  Oberlin, Susanna, Part.\n7 | I. | 84 | | Krayer-Roth, Samuel.\n  Krayer-Roth, Samuel, Zollrevisor.\n  Manz-Gloor, Ed., Flachmaler.\n8 | I. | 83 | zum Waldeck. | Kissel-Miville, Johannes.\n  Kissel-Miville, Johannes, Dr. med., Arzt.\n9 | I. | 82 | | Schoenauer-Bernoulli, Wb. Cath.\n  Schoenauer-Bernoulli, Wb. Cath., Part.\n10 | I. | 81—80 | | Respinger-Passavant, Wilhelm.\n  Respinger-Passavant, Wilh., Kaufmann.\n  Socin-Johannot, Friederike Elis., Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7593,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1865,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p224",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p224.jpg",
+      "bytes": 1433631,
+      "sha256": "cd94fcb389adcc1b1f310b9776568d211688dd595f15d8963c8fd2a8f6dc2e40",
+      "sha256_of": "original",
+      "working_copy": "1862_p224.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:18+00:00"
+  }
+}

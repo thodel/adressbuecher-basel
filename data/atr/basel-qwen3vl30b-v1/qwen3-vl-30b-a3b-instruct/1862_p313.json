@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p313",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p313.jpg",
+    "bytes": 1490234,
+    "sha256": "952f338850165d32eda83c7e0bc0c8068374ae332c0129a734fea7bd57929782",
+    "sha256_of": "original",
+    "working_copy": "1862_p313.jpg"
+  },
+  "text": "248\nVerzeichniß der Häuserbesitzer.\nStähelin=Merian, Wb. Maria. St.Leonhards=Stöcklin, Urs. Lindenberg 4.\nStraße 11. Stöcklin=Georg, Eman. Sporengasse 13.\nStähelin=Stähelin, Rud. Streitgasse 11. Stöhr, Elisabeth. Bleicheweg 12.\nStähelin, Wb. sel. Erben. Heuberg 24. Stör=Berner, Otto. Kaufhausgasse 6.\nStähelin, Pfarrer Johs., sel. Erben. St. Leonhards=Grabens 41. Stöffel, F. F., sel. Erben. Spalenvorstadt 3.\nStähelin=Stiickelberger, Peter. Missionsstraße 35. Stöffel, Theobald, sel. Erb. Kohlenberg 5.\nStähelin=Zimmerlin, Joh. Jakob, Profess. Heuberg 30. — Unterer Heuberg 11. — Stohler=Höfer, Adolf. Fabrikstraße 33.\nSt. Leonhards=Grabens 47. — Riehen=Str. 10. 12. 14. — Steinenberg 1. Stoll, Eberhard. Riehenthorstraße 22.\nStänz=May, Conrad. Aeschenvorstadt 62. — Stouder, Josef. Centralbahnpiaz 4.\nWallstraße 4. Stricker=Meyer, Louis David. Heuberg 20. —\nStäubli=Scholl, Bernh. Austraße 48. St. Leonhards=Grabens 37.\nStäublin=Weiß, Remigius. Steinenbachgäßlein 8. 10. Strub=Becker, Lucas. Weiße Gasse 22.\nStampfer=Otto, Wilh. Riehen=Straße 23. Strub=Löw, Ed. u. Hindermann, J. W. Steinenbachgäßlein 7. — Steinenvorstadt 12.\nStauber=Delauis, Rud. Spalenvorstadt 25. Striibin=Hunzicker, Wb. Agnes. Malzgasse 15.\nStauber=Wiesner, Rud. Heuberg 36. — St. Striibin=Kaiser, Sekunda. St. Johann-Vorstadt 32.\nLeonhards=Grabens 53. Stritt, F. F. Blumenrain 20.\nSteffan=Dündlifer, Rud. Steinenvorstadt 3. 5. Stuber, Johs. Rheingasse 50.\nSteffen=Kriigel, Ant. Fabrikstraße 25. Studert=Lepper, Friedrich Wilhelm. Seevogelstraße 11.\nSteffen=Schweler, Johs. Mattweg 14. Studert=Schaub, Otto Eugen. Mostackerstraße 25.\nStehelin, Gottfried. Schützengraben 44. 46. Studi=Schwarz, Friedr. Ludw. Spalenberg 18.\n— Schützenmattstraße 16. 22. — Spalenvorstadt 43. Studer, F. F. Hutgasse 7.\nStiehelin=Merian, Gg. Emil. St. Leonhards=Grabens 17. — Spalenberg 51. Studer=Erb, Celestin. Klingelbergstraße 7. 9.\nStehle=Jourdan, Albert. Steinenthorstraße 36. Studer=Ruhn, Joh. Carl. St. Johann-Vorstadt 52.\nStehlin=Burckhardt, F. F. Brückliweg 7. — Studer=Wyß, Rud. Riehenteichweg 16.\nBreite Straße 1. — Malzgasse 27. — Weidengasse 2. 4. 8. Stiickelberger=Burckhardt, P. Carl. Steinenvorstadt 11.\nStehlin=Merian, Carl. Kaufhausgasse 5. Stiickelberger, Wb. Ernestine. Münsterplatz 6.\nSteib=Anstein, Mathias. Kronengasse 5. — Stiinzi=Steiger, Carl. St. Clara-Straße 19. 25. 27.\nMostackerstraße 46. 48. Stiiki=Hefti, Heinrich. Heumattstraße 5. —\nSteib=Gjell, Joh. Mich. St. Andreasplatz 17. — Schneidergasse 16. Nauenstraße 2. 4.\nSteigmeyer, Joh. Kaufhausgasse 4. Stumm, F. F. u. Comp. Hint. Spitalgasse 4.\nSteigmeyer=Meyer, Josepha. Utengasse 46. Stumm=Montandon, F. Friedr. Stadthausgasse 21.\nSteiner=David, Wb. Ursula. Webergasse 34. Stupanus, Christof. Missionsstraße 60.\nSteiner=Lohner, F. F. Heuberg 44. — St. Stutz=Wolf, Friedr. Gust. St. Peters=Gasse 10.\nLeonhards=Grabens 61. Sulger=Heusler, Joh. Malzgasse 21.\nSteinmann, Johs Melch. u. Eduard. St. Alban=Thal 4. — Breite Straße 40. Sulger=Stähelin, Andr. Untere Rheingasse 19.\nSteinmann=Scholer, Friedr. Spalenvorstadt 22. — Webergasse 4. — Eifengasse 9. — Freie Straße 46. 48.\nSteinmann=Bonwiler, Jac. Fischmarkt 2. — Freie Straße 14. Sulger u. Stiickelberger. St. Alban=Vorstadt 78. 80.\nStierlin, Benjamin u. Joh. Bauer. Lehennattweg 40. Sulzmann=Rieny, Wilh. Spalenberg 30.\nStierlin=Schwab, Emil. Freie Straße 6. Surgand=Stehlé, Franz Ignaz. St. Peters=Gasse 40.\nStockmeyer=Rietzchlin, Abrah. Riehenthorstraße 14. Sutter, Joh. Jakob. Utengasse 56.\nStockmeyer=Roth, Emil. Gerbergasse 35. Sutter=Baumgartner, Jac. Freie Straße 62.\nStöcklin=Baumgartner, Joh. Ulrich. Riemelinsplatz 11. — Hutgasse 11. — St. Martinskirchplatz 6. 7. — St. Martins=Gäßlein 3. — Sporengasse 5. — Sternengäßlein 2. — Utengasse 56.\nStöcklin=Bisegger, F. Gerbergasse 68. — Gerbergäßlein 37. Sutter=Hänggi, Gregor. St. Peters=Berg 16. — Schwanengasse 10.\nStöcklin=Ruppli, Wb. Elisabeth. Barflikerplatz 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10674,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3914,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 84.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:01:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p313",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p313.jpg",
+      "bytes": 1490234,
+      "sha256": "952f338850165d32eda83c7e0bc0c8068374ae332c0129a734fea7bd57929782",
+      "sha256_of": "original",
+      "working_copy": "1862_p313.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:34+00:00"
+  }
+}

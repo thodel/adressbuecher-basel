@@ -1,0 +1,50 @@
+132 — Singerweg. — Spalenberg.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+2 | V. | 262 | | Merian-Burckhardt, Christof, sel. Erben.
+  Kray-Rych, Christian, Lehenbeständer.
+3 | V. | 263 d | | Bachofen-Vischer, Wilhelm.
+  (Oekonomiegebäude.)
+4 | V. | 262 B | | Merian-Burckhardt, Christof, sel. Erben.
+  (Lehenmannswohnung.)
+
+Spalenberg.
+1 | VI. | 1713 | z. rothen Adler. | Geßler-Hübscher, Abr. Rudolf.
+  Geßler-Hübscher, Abr. Rudolf, Glaser.
+2 | II. | 597 | zur Ente. | Preiswerk-Sulger, Carl.
+  Preiswerk-Sulger, Carl, Kaufmann.
+  Firma Eman. Preiswerk, Colonialwhdlg.
+3 | VI. | 1712 | schwarzer Adler. | Thommen-Müller, Joh. Jacob.
+  Thommen-Müller, Joh. Jacob, Gärtner.
+  Stampfer-Otto, Wollwaarenhandlung.
+  Diethelm-Wunderlin, Leonh., Schreiner.
+  Beck, Joh. Jacob, Schlosser.
+4 | II. | 598 | zum kleinen Kirschgarten. | Krayer-Lotz, Leonhard Friedrich.
+  Krayer-Lotz, Leonhard Friedrich, Küfer.
+  Vuillermet, Schwestern, Modistes.
+  Faure-Bluntschli, Math., Regenschirmfb.
+5 | VI. | 1711 | zum Lämmlein. | Haas-Keyser, Christian.
+  Haas-Keyser, Christian, Wirth.
+6 | II. | 599 | zum Wildegg. | Eysin, Rudolf.
+7 | VI. | 1710 | zum Gilgenberg. | Seiler-Wernli, Caspar.
+  Seiler-Wernli, Caspar, Particulier.
+  Erb-Kübler, Maria Theresia, Schuhm.
+8 | II. | 600 | zum niedern Licht. | Bossardt-Senn, Jacob.
+  Bossardt-Senn, Jacob, Uhrmacher.
+  Weiß, August Heinrich, Schuhmacher.
+9 | VI. | 1709 | zum Sperber. | Roschet, Emil.
+  Roschet, Emil, Kürschner.
+  Roschet, Carl, Bettwaarenhandlung.
+  Roschet, Margaretha, Rentiere.
+10 | II. | 601 | z. klein. Spalenhof. | Feindel-Bouchard, Wb. Françoise.
+  Feindel-Bouchard, Wb. Franç., Schneid.
+  Stiefel-Müller, Albert, Strumpfweber.
+11 | VI. | 1708 | zum Dolder. | Geßler-Vonkilch, Emanuel.
+  Geßler-Vonkilch, Emanuel, Bierbrauer.
+  Preiswerk, Alexander, Pfarrer.
+  Bricar-Schaefer, Peter Carl, Partik.
+12 | II. | 602 | zum Spalenhof. | Schär-Haas, Joh. Jacob.
+  Schär-Haas, Joh. Jacob, Schneider.
+  Braunschweig-Levy, Jacq., Geldwechsl.
+  Frey, Joh. Jacob, Möbelhändler.

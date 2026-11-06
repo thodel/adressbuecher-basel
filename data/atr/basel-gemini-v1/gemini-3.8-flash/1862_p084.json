@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p084",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p084.jpg",
+    "bytes": 1406222,
+    "sha256": "e6fef172735c59cdb35d7e18732488db437053c35fc246b08dcac654a778dde0",
+    "sha256_of": "original",
+    "working_copy": "1862_p084.jpg"
+  },
+  "text": "St. Alban-Vorstadt. | 19\nNeue Haus-Nr. | Quartier. | Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n65 | V. | 1325 d | Pfarrhaus. | Staat.\n  Preiswerk-Stähelin, Samuel, Pfarrer.\n66 | V. | 1263 | | David-Stähelin, Reinhard sel. Erb.\n  David-Stähelin, Wittwe Cölestine.\n  Gysin-Tschudin, Johannes, Wirth.\n  Schmid-Leiß, Johs., Drechsler.\n68 | V. | 1264 | | Iselin, Rudolf u. Wilhelm.\n  (Magazin.)\n69 | V. | 1312 | | Iselin-Christ, Rud., u. Iselin, Wilh.\n  Iselin-Christ, Rudolf, Tuchhändler.\n70 | V. | 1265 | | Heusler-Bischoff, Rud.\n  (Remise und Stallung.)\n71 | V. | 1312 b | | Iselin, Wilh., u. Iselin-Christ., Rud.\n  Iselin, Wilhelm, Tuchhändler.\n72 | V. | 1266 | | Goldenmann-Müller, Martin.\n  Goldenmann-Müller, Martin, Wirth.\n  Sütterlin-Brüllmann, Fr., Schreiner.\n74 | V. | 1267 | | Haag-Kraus, Leonhard.\n  Haag-Kraus, Leonhard, Hufschmied.\n  Schär, Friedrich, Kunstmaler.\n76 | V. | 1268 | | Siber-Heusler, Friedrich.\n78 | V. | 1269 | | Sulger u. Stückelberger.\n  (Bandfabrik.)\n80 | V. | 1269 c | | Sulger u. Stückelberger.\n  (Bandfabrik.)\n81 | V. | 1311 B | Spritzenhaus. | Staat.\n82 | V. | 1270 | | Merian-Bonder Mühll, Heinrich.\n  Merian-Bonder Mühll, Heinrich, Rentier.\n83 | V. | 1311 C | | Merian-Iselin, Rudolf.\n  Merian-Iselin, Rud., Rentier, d. Raths.\n85 | V. | 1311 Aa | | Vischer-Handmann, Wb.\n  (Remise und Stallung.)\n86 | V. | 1271 | z. Schweizerbund. | Weitnauer, Rudolf.\n  Schwenk-Musculus, Wb. Carolina\n  Josepha, Hufschmied.\n87 | V. | 1311 A | | Vischer-Handmann, Wb. An. Maria.\n  Vischer-Handmann, Wb., A. M., Partic.\n  Bachofen-Vischer, Wilh., Bandfabrikant.\n88 | V. | 1272 | z. vorderen Klösterl. | Oser, Rudolf.\n  Oser, Rudolf, Thierarzt.\n90 | V. | 1273 | zum Fälklein. | Sarasin-Sauvain, Karl.\n  Sarasin-Sauvain, Karl, Bandfabrikant\n  und Rathsherr.\n  Sarasin-Heusler, Wittwe, Salomea.\n91 | V. | 1311 E | | Sarasin u. Comp.\n  Sarasin-Stehlin, Rud., Bandfabrikant.\n92 | V. | 1273 A | zum Fälklein. | Sarasin-Sauvain, Karl.\n  Gelzer-Sarasin, Heinrich, Dr. u. Prof.\n93 | V. | 1311 D | | Sarasin u. Comp.\n  Comptoir von Sarasin u. Cie., Bandfab.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9433,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2092,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0385,
+    "mean_line_chars": 38.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:37:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p084",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p084.jpg",
+      "bytes": 1406222,
+      "sha256": "e6fef172735c59cdb35d7e18732488db437053c35fc246b08dcac654a778dde0",
+      "sha256_of": "original",
+      "working_copy": "1862_p084.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:30+00:00"
+  }
+}

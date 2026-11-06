@@ -1,0 +1,47 @@
+Neue Vorstadt. In den Neufäken. Nonnenweg. Peters-Berg. 105
+Nro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer
+Haus-Nr. | tier. | Haus-Nr. | | und Bewohner.
+29 | I. | 275 C | | Staat.
+30 | I. | 269 Ba | Holsteinerhof. | Burchardt=Gemuseus, Wb. Emilie.
+31 | I. | 275 C a b | Prosofenwohnung. | Burchardt=Gemuseus, Wb. Emilie, Kent.
+32 | I. | 269 B | Holsteinerhof. | Staat.
+| | | | Tischhauer=Jenny, Christian, Profos.
+| | | | Burchardt=Gemuseus, Wb. Emilie.
+In den Neufäken.
+1 | V. | 269 | | Halter=Jäsch, Niclaus.
+2 | V. | 267 | | Halter=Jäsch, Niclaus.
+| | | | Halter=Jäsch, Niclaus, Kaufmann.
+3 | V. | 271 B | | BonderMühl=Fürstenberger, Alfred.
+4 | V. | 275 | | Merian=Burchardt, Christoph, fel.
+| | | | Erben.
+| | | | Aebi=Hartmann, Wb. Catharina, Lehens-
+| | | | beständerin.
+| | | | Aebi, Christof Theodor, J. U. D.
+5 | V. | 273 | | BonderMühl=Fürstenberger, Alfred.
+| | | | Rull=Höbel, Heinrich, Gärtner.
+Nonnenweg.
+20 | II. | 110 A | Missionsknabens. | Missionsgesellschaft.
+| | | | Menret=Bächlin, Gustav, Pfarrer und
+| | | | Hausvater.
+| | | | Ganfer, Paul Emil, Lehrer.
+33 | II. | 119 E | | Fischer=Burchardt, Heinrich.
+35 | II. | 119 D | | Fischer=Burchardt, Heinrich.
+37 | II. | 119 C | | Fischer=Burchardt, Heinrich.
+| | | | Hill=Bieder, Alexander, Metzger.
+| | | | Fischer=Burchardt, Heinrich.
+39 | II. | 119 B | | Kradofer=Bisegger, Joh., Commis.
+51 | II. | 119 A | | Senn=Gyfin, Daniel.
+| | | | Senn=Gyfin, Daniel, Major u. Kriegs-
+| | | | kommissär.
+St. Peters-Berg.
+1 | I. | 174 | zum Brunnen. | Amstein=Schäffer, Joh. Heinrich.
+| | | | Amstein=Schäffer, Joh. Heinrich, Vater.
+| | | | Dunkel=Biirgin, Alexander, Schuhmach.
+3 | I. | 175 | | Schweizer=Schäfer, Joh.
+| | | | Schweizer=Schäfer, Joh., Fabrikarbeiter.
+4 | I. | 151 | zum Rechberg. | Soller=Frey, Wilhelm.
+| | | | Soller=Frey, Wilhelm, Schuhmacher.
+| | | | Siehe Nr. 12 Fischmarkt.
+5 | I. | 176 | | Hergob, Geschwister.
+| | | | Hergob, Joh. Ludwig, Sprachlehrer.
+| | | | Hergob, Philippine, Part.

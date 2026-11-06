@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p257",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p257.jpg",
+    "bytes": 1284656,
+    "sha256": "f9e36c6ccce789269e241db7dcb0ae6115070b5b6fc492abbd405c7340adf604",
+    "sha256_of": "original",
+    "working_copy": "1862_p257.jpg"
+  },
+  "text": "192\nUntere Nebgasse. — Rheingasse.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n17 VII. 249 A …………… Braun=Geßler, Andreas de Samuel.\nBraun=Geßler, Andr., Rothgerber.\n18 VII. 270 …………… Masarey=Gruber, Franz.\nMasarey=Gruber, Franz, Seidenfärber.\nWirz=Haberthuel, Jac., Zwirnermstr.\n19 VII. 251 …………… Maßler=Tanner, Joh. Friedrich.\nMaßler=Tanner, Joh. Fried., Schuhm.\n20 VII. 271 Blauenstein. Ramsperger=Hug, Eman.\nZeender=Raifer, Ludw., Geschäftsdieners.\n21 VII. 281 …………… Clavel=Linder, Alexander.\n22 VII. 272 Egringerhof. Weber=Engel, Joh. Jak.\nWeber=Engel, Joh. Jak., Metzger u.\nWirth.\nNaegelin-Brunner, Christn., sel. Wb.,\nBuchbinder u. Tapezierer.\nThurneysen, Gottlieb, Rentier.\n23 VII. 274 g Bläserhof. Clavel=Linder, Alexander.\n24 VII. 272 a Egringerhof. Weber=Engel, Joh. Jak.\nWeber=Kray, Alfred, J.U.D., Advokat.\nClavel=Linder, Alexander.\n25 VII. 274 Bläserhof. Clavel=Linder, Alexander, Seidenfärber.\nOswald, Carl Theodor Math., Seiden-\nfabrikant.\nLaube=Landerer, Rud., Contremaitre.\n27 VII. 273 Bläfithor. Staat.\nRheingasse.\n1 VIII. 5 zum Meyenberg. Cramer=Senn, C. F., sel. Erben.\nSpezereihdlg. Firma C. F. Cramer\nsel. Wb.\nCramer, Gustav, Kaufmann.\nCramer, Eduard, Commis.\n2 VIII. 3 zum Schwalbennest. Faufel, Gottlieb.\nFaufel, Gottlieb, Straßenpflasterer.\nSprenger=Multner, Jacob Friedrich,\nKaufmann.\nAntoni=Faufel, Carl, Bereiter.\n3 VIII. 6 zum Rupferthurm. Seiler=Dettwyler, Niklaus.\nSeiler=Dettwyler, Nikl., Metzger.\nAssal=Stocker, Jak., Bäcker.\n4 VIII. 10 3. neu. Gesellschaft. Die 3 Gesellschaften d. mind. Stadt.\nSubler=Huber, Albert, Cafe=u. Speise-\nwirth.\n5 VIII. 7 3. weiß. Kößlein. David=Day, Achilles Albrecht.\nDavid=Day, Achilles, Albr., Bäcker.\n7 VIII. 8 3. mittl. Kilchmann. Geßler=Sieber, Andreas.\nGeßler=Sieber, Andreas, Kaufmann.\n8 VIII. 15 Gasthof 3. weißen Pfister=Zetter, Andreas.\nKreuz. Pfister=Zetter, Andreas, Gastwirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5445,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1906,
+    "lines": 59,
+    "longest_char_run": 5,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0026,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p257",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p257.jpg",
+      "bytes": 1284656,
+      "sha256": "f9e36c6ccce789269e241db7dcb0ae6115070b5b6fc492abbd405c7340adf604",
+      "sha256_of": "original",
+      "working_copy": "1862_p257.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:32+00:00"
+  }
+}

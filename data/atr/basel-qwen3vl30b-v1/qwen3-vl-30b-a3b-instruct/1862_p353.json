@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p353",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p353.jpg",
+    "bytes": 1449709,
+    "sha256": "9a2dfe5ace6790b5797d82299dc068e2c7f46d1d62ea72fd93e91d961b930ad6",
+    "sha256_of": "original",
+    "working_copy": "1862_p353.jpg"
+  },
+  "text": "288\nVerzeichniß der Bürger und Einwohner.\nGyfin-Lehmann, Alexander, Irrenauffeher. Haag-Kraus, Leonh., Hufschmied. St. Alban-\nNeue Vorstadt 2. Vorstadt 74.\n— =Lohner, Joh. Jakob, Fabrikarbeiter. — =Leuchti, Joh. Baptist, Zimmergeselle.\nUnterer Heuberg 29. Sternengäßlein 13.\n— =Lüdin, Hs. Jacob, Taglöhner. Weber- Haagen, Schweft. Margar. und Serena, Man-\ngasse 28. gerinnen. Gerbergasse 25.\n— =Lüdin, Bernhard, Eisenbahnbeamter. Haas-Baumann, Jacob, Schriftgießer. Stei-\nMostackerstraße 58. nenvorstadt 16.\n— =Lüthy, Achilles, Ausläufer. Missions- — =Beil, Gustav, Schreinergeselle. Heu-\nstraße 63. berg 50.\n— =Madörn, Ernst, Kaufmann, Firma S. — =Franzin, Rudolf, Kiifer. St. Peters-\nPac-Burckhardt. Spalenberg 22. Gasse 5.\n— Maria, Partiful. St. Jakobs-Straße 54. — =Georg, Adolf, Part. Hasenberg 9.\n— Maria u. Salomea, Nätherinnen. Spa- — =Georg, Joh. Jak., Kaufmann. Hammer-\nlenberg 47. straße 66.\n— =Meirin, Friedrich, Schriftfeger. Todten- — Hieron. Rud., Dessinateur. St. Peters-\ntanz 5. Berg 6.\n— =Mérat, Friedrich, Wirth u. Kostgeber. — =Honold, C., Hutmacher. Eisengasse 6.\nGreifengasse 6. — =Kestenholz, Heinr., Posamenter. Rhein-\n— =Müller, Heinrich, Posamenter. Weber- gasse 21.\ngasse 28. — =Rehjer, Christian, Wirth. Spalenberg 5.\n— =Müller, F., Commis. Kiehen-Straße 19. — Louise, Josephine u. Anna, Schwestern.\n— =Müller, Mar. Magdalena, Hebamme. Schneiderinnen. Hutgasse 1.\nBarfüßerplaz 17. — =Martin, Andr., Fabrikarbeiter. Lin-\n— =Obrist, Franz Jerem., Schreiber. St. denberg 5.\nLeonhards-Graben 18. — =Morgen, Etienne, Schirmmacher. Hut-\n— =Peter, Christian, Posamenter. Uten- gasse 1.\ngasse 41. — =Müller, Josef, Seidenfärbcr. Streit-\n— =Plattner, Daniel, Posamenter. Johan- gasse 20.\nniterstraße 15. — =Scherzer, Joh., Posamenter. Steinen-\n— =Rücher, Georg, Posamenter. Rhein- thorstraße 40.\ngasse 26. Haase-Kuell, Hugo, Commis. Gerbergasse 63.\n— =Reichenbach, F., Polizeicommisfär. Fisch- Habegger, Verena, Taglöhnerin. Spiegel-\nmarkt 2. gasse 8.\n— Rudolf, Metzger. Spalenberg 6. Haberkorn, Jean, Schreiner. Utengasse 38.\n— Samuel, Courtier. Münzgäßlein 18. Haberstock-Enderli, Joh. Baptist, Ausläufer.\n— =Seifert, Rudolf, Kiifer. Steinenvor- Spalenberg 12.\nstadt 19. Haberthür, Joh. Jos., Zimmergeselle. Neb-\n— Schwest. Sophie u. Sujette, Lehrerinnen. gasse 35.\nBreite Straße 33. Habicht, Anna Barbara, Hausmutter. Lin-\n— =Sprehermann, Joh. Conrad, Commis. denberg 17.\nSteinenthorstraße 7. Hablikzel-Hindermaun, Heinr., Zimmergeselle,\n— Tschudin, Johannes, Wirth. St. Alban- St. Peters-Berg 1.\nBorstadt 66. — =Ballon, Carl, eidg. Zollbeamter. Stei-\n— =Bögtlin, Friedr., Bäcker. Steinenvor- nenthorstraße 6.\nstadt 51. Habrecht-Heinz, Adolf Moritz, Preuß. Ber-\n— =Weber, Daniel, Sattler. Spalenvor- eins-Inspektor. Gartenstraße 64.\nstadt 28. Hackenmacher, Magdalena, Freie Straße 1.\nGyßler, Adolf, Conditor. Aeschenvorstadt 53. Hacker, Josef, Eisenbahnbeamter. Kiehen-\n— =Handmann, Wb. Maria, Rentiere. Blu- Straße 26.\nmenrain 17. Häberlin-Schlageter, Franz, Schuhmacher.\n— Jgfr. Anna Maria, Rentiere. Blumen- Trillengäßlein 5.\nrain 17. Häßler-Büchli, Georg, Seidenspinner. Schaf-\n— Jgfr. Maria, Part. Aeschenvorstadt 53. gäßlein 2.\n— =Schardt, Wb. Anna Maria, Partiful. — =Spiller, Peter, Ferger. Spalenvor-\nKanonengasse 13. stadt 8.\nGyffendörfer, Heinr., Kanzleisekretär. Aeschen- Häbener-Müller, Joh., Posamenter. Imber-\ngraben 37. gäßlein 23.\nHaag-Raim, Wb. Sophie Auguste, Wirthin. Häfelsfinger-Bachmann, Heinr., Fabrikarbeit,\nUtengasse 23. Spiegelgasse 14.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8954,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3485,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 55.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:07:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p353",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p353.jpg",
+      "bytes": 1449709,
+      "sha256": "9a2dfe5ace6790b5797d82299dc068e2c7f46d1d62ea72fd93e91d961b930ad6",
+      "sha256_of": "original",
+      "working_copy": "1862_p353.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:07:52+00:00"
+  }
+}

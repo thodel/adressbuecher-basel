@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p227",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p227.jpg",
+    "bytes": 1305300,
+    "sha256": "8b65b4e1ac754f9c85739dfee8c8a10fa90ad692477e03e64cc8821438809d38",
+    "sha256_of": "original",
+    "working_copy": "1862_p227.jpg"
+  },
+  "text": "162 | Weidengasse. — Weiße-Gasse.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n28 | V. | 318 a | | Eschbach-Garnaus, Emanuel.\n  Oekonomiegebäude.\n32 | V. | 316 | | Bretscher-Schöllkopf, Joh.sel.Erben.\n  Bretscher-Schöllkopf, Wb. Barb., Näth.\n\nWeiße-Gasse.\n1 | IV. | 1119 | | Detloff-Lafontaine, Carl Albert.\n2 | IV. | 1131 | z. kleinen Konstanz. | Bretscher-Bretscher, Jakob.\n  Bretscher-Bretscher, Jakob, Schuhmacher.\n  Bousico-Spieß, Sebastian, Mechaniker.\n3 | IV. | 1118 | zum neuen Keller. | Geßler-Kutter, Carl.\n  Geßler-Kutter, Wb. Maria, Metzger.\n  Metzger-Hang, Johannes, Metzger.\n4 | IV. | 1132 | | Federer-Strübin, Anton.\n  Federer-Strübin, Anton., Seidenfärber.\n  Pfister-Weber, Jakob, Milchhändler.\n5 | IV. | 1117 | zur Leiter. | Hindermann-Bäumli, Emanuel.\n  Hindermann-Bäumli, Em., Lithograph.\n6 | IV. | 1133 | | Wüst, Leonhard.\n  Matzinger-Schöitli, Bened., Schuhmach.\n  Gasser-Mesmer, Jakob, Schreiner.\n7 | IV. | 1115—16 | ehemal. Brodhaus, nun Schlachthaus. | Stadtgemeinde.\n8 | IV. | 1134 | zur Tafel Mosis. | Ottenburg, Joh. Heinrich.\n  Ottenburg, Joh. Heinrich, Kaufmann.\n  Hägler-Brand, Heinr. Jak., Seiler.\n  Büchly-Bruder, Johannes, Hafner.\n  Hänger-Baumgartner, Sam., Gärtner.\n  Wetzel, Johann Conrad, Hafner.\n10 | IV. | 1135 | | Kübler, Rudolf.\n  Kübler, Rudolf, Zimmermann.\n  Gehrig, Engelbert, Nadler.\n11 | IV. | 1114 | zur obern Glocke. | ZurMühle-Wernli, Jakob.\n  ZurMühle-Wernli, Jakob, Schuhmach.\n12 | IV. | 1136 | zur Trotte. | Hug-Breiting, Wb. Catharina.\n  Hug-Breiting, Wb. Cath., Spengler.\n  Höhn-Hug, Gottlieb, Spengler.\n13 | IV. | 1113 | zur obern Glocke. | Spreyermann-Schwarz, J. Georg.\n  Spreyermann-Schwarz, J. G., Schneid. u. Geschirrhandlung.\n  Hartmann, Elisabeth, Obsthändlerin.\n14 | IV. | 1137 | zur freien Stadt Worms. | Krebs-Mangold, Franz.\n  Krebs-Mangold, Franz, Schriftsetzer.\n15 | IV. | 1112 | | Brüdersocietät.\n  Spreyermann-Schwarz, Joh. Georg, Schneidermeister.\n  Haider, Otto Julius, Vorsteher der Brüdersocietät.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8114,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2032,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p227",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p227.jpg",
+      "bytes": 1305300,
+      "sha256": "8b65b4e1ac754f9c85739dfee8c8a10fa90ad692477e03e64cc8821438809d38",
+      "sha256_of": "original",
+      "working_copy": "1862_p227.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:44+00:00"
+  }
+}

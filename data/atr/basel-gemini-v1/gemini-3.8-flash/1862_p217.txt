@@ -1,0 +1,46 @@
+152 Steinenvorstadt.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+9 | III. | 823 | Schillingshaus. | Strub-Löw, Eduard.
+  Strub-Löw, Eduard, Metzger.
+10 | III. | 765 | zum Rosenfels. | Ancklin, Joseph, sel. Erben.
+  Ancklin, Joseph, Schreiner.
+  Nordemann-Schwob, Bernhard, Geschäftsmann.
+  Leitner, Robert, Klavierstimmer.
+11 | III. | 822 | zur Kirche. | Stückelberger-Burckhardt, Pet. Carl.
+  Stückelberger-Burckhardt, Peter Carl, Schlosser.
+12 | III. | 766 | z. schwarzen Horn. | Hindermann-Christ, Wilhelm und Strub-Löw, Eduard.
+  Bloch, Gebr., u. Comp., Hauthändler.
+  Züllig, Pancratius, Wollfärber.
+13 | III. | 821 | zum Neuenburg. | Erlacher, Jacob, sel. Erben.
+  Fuchs-Sticher, Theodor, Wirth.
+  Löw-Honesta, Johannes, Commis.
+  Züllig-Häfliger, Johannes, Schuhmacher.
+14 | III. | 769 | zum Greifen. | Rübenstahl-Röslin, Wb. Anna Mar.
+  Rübenstahl-Röslin, Wb. Anna Maria, Particularin.
+  Lang, Georg, Musiker.
+  Gailing, Joseph, Musiker.
+  Schaub-Kuhn, Jakob.
+  Kuhn, Joh. Leonz.
+  Schaub und Kuhn, Strohhutfabrikation und Wäscherei.
+15 | III. | 820 | | Günther-Schaub, Jacob.
+  Schaub-Bury, Jacob, Schuhmacher.
+  Müller-Meier, Joh. Adam, Blattmach.
+16 | III. | 770 | zum Knöbel. | Bienz-Durand, Joh. Rudolf.
+  Bienz-Durand, Joh. Rudolf, Schreiner.
+  Haas-Baumann, Jacob, Schriftgießer.
+  Gaßler, Thomas, Drechsler.
+17 | III. | 819 | zum weißen wilden Mann. | Schaffner, Geschwister.
+  Schaffner, Maria Elisabeth u. Barbara, Schneiderin und Modiste.
+18 | III. | 771 | zum Wertenberg. | Streicher-Häring, Johann.
+  Streicher-Häring, Johann, Küfer.
+  Schäfer-Salathe, Isaac, Heuhändler.
+19 | III. | 818 | | Gysin-Seifert, Rudolf.
+  Gysin-Seifert, Rudolf, Küfer.
+20 | III. | 772 | | Fischer-Bulacher, Joh. Balthasar.
+  Fischer-Bulacher, Joh. Balth., Quartierschreiber.
+21 | III. | 817 | | Grollimund-Binz, Joh. Jacob.
+  Grollimund-Binz, Joh. Jacob, Ferger.
+22 | III. | 773 | | Großmann-Heinzelmann, Rudolf.
+  Großmann-Heinzelmann, Rud., Spezier.
+  Carle-Dietrich, Rudolf, Lohndiener.

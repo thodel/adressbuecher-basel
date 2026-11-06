@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p179",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p179.jpg",
+    "bytes": 1289362,
+    "sha256": "86deae94935600cba11a6cf396ed01a64e12ad56e02e04d25b03771a91b6dc9e",
+    "sha256_of": "original",
+    "working_copy": "1862_p179.jpg"
+  },
+  "text": "114 Pfluggäßlein. — Platzgäßlein.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n3 | IV. | 1130 | z. großen Constanz. | Frischknecht-Erismann, Joh. Jacob.\n  Frischknecht-Erismann, Joh. Jacob, Be-\n  reiter.\n  Weißwaarenhandlung u. Hemdenfabrik.\n  Rimensperger, Valentin, Particular.\n4 | VI. | 1120 | zum Mohrenkopf. | Lüthy-Bürgin, Joh. Ulrich.\n  Lüthy-Bürgin, Joh. Ulrich, Bandagist.\n  Huber-Spengler, Babette, Modiste.\n5 | IV. | 1129 | | Wehrli-Helde, Jacob.\n  Wehrli-Helde, Jacob, Landjägergefreiter.\n  Helde-Rumbach, Wb. Eva, Gemüse-\n  händlerin.\n6 | VI. | 1121 | zum Sonnenberg. | Gemuseus-Stähelin, Wb. Salomea.\n7 | IV. | 1128 | zum Hut. | Hecht-Heering, Jacob.\n  Hecht-Heering, Jacob, Trödler.\n8 | VI. | 1122 | | Kiefer-Keller, Ignaz.\n  Kiefer-Keller, Ignaz, Fabrikarbeiter.\n  Mehlhandlung von Emil Fischer.\n9 | IV. | 1127 | z. untern Eisenhut. | Senn-Weber, Rudolf.\n  Senn-Weber, Rudolf, Spezierer.\n10 | VI. | 1123 | z. schwarz. Henne. | Schmid-Flury, Wb. Catharina.\n  Schmid-Flury, Wb. Catharina, Part.\n  Spieß-Frey, Wb. Margaretha, Bettm.\n12 | VI. | 1124 | z. Falkenstein. | Tschopp-Winter, Wb. Maria Barb.\n  Tschopp-Winter, Wb. Maria Barbara,\n  Spezierer.\n14 | VI. | 1125 | z. hintern Cardinal. | Schärer-Frey, Wb. Anna Maria.\n  Schärer-Frey, Wb. Anna Maria,\n  Schuhmacher.\n16 | VI. | 1126 | zum rothen Hut u. schönen Vieh. | Deck-Ernst, Peter Wilhelm.\n  Deck-Ernst, Peter Wilhelm, Rothgießer.\n\nPlatzgäßlein.\n\n1 | II. | 290 | | Bohny-Fausel, Johannes.\n  Bohny-Fausel, Johannes.\n  Siehe Nro. 24 Spalenvorstadt.\n3 | II. | 304 | | Gysin-Weber, Daniel.\n  Kohler, Theophil, Maler.\n  Siehe Nro. 28 Spalenvorstadt.\n5 | II. | 303 | | Krug’sches Fideicommiß.\n  Siehe Nro. 30 Spalenvorstadt.\n7 | II. | 302 | | Schneider-Wirz, Wb. Barbara.\n  Langmesser-Schaad, Wilhelm, Schuhm.\n  Strübin, Johannes, Maler.\n  Siehe Nro. 32 Spalenvorstadt.\n9 | II. | 295 | z. rothen Hut. | Ziegler, Elisabeth, sel. Erben.\n  Siehe Nro. 34 Spalenvorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8460,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1994,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p179",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p179.jpg",
+      "bytes": 1289362,
+      "sha256": "86deae94935600cba11a6cf396ed01a64e12ad56e02e04d25b03771a91b6dc9e",
+      "sha256_of": "original",
+      "working_copy": "1862_p179.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:32+00:00"
+  }
+}

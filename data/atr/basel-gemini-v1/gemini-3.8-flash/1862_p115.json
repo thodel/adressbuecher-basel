@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p115",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p115.jpg",
+    "bytes": 1255943,
+    "sha256": "4c7e2d48c47e67feacc1c9e6479021c5f114a1b52c417888611570d2bfdeb102",
+    "sha256_of": "original",
+    "working_copy": "1862_p115.jpg"
+  },
+  "text": "50 Gellertstraße. — Gemsberg. — Gerbergasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n46 | V. | 265 | | Debary, J., und Söhne.\n  (Arbeiterwohnung.)\n47 | V. | 276 | | Debary, J., und Söhne.\n  Böcklin-Lippe, Friedr., Fabrikdirector.\n48 | V. | 266 | | Debary, J., und Söhne.\n  (Arbeiterwohnung.)\n49 | V. | 277 | | Debary, J., und Söhne.\n  (Fabrikgebäude.)\n52 | V. | 274 A. | | Friedrich, Leonhard.\n\nGemsberg.\n\n1 | VI. | 608 | zum Pflug. | Hegner-Schneider, Stephan.\n  Schneider-Wagner, Martin, Part.\n  Krause-Huber, Niklaus, Schneider.\n  Hollinger-Grimm, Friedr., Pintenwirth.\n2/4 } | II. | 416 | zum Löwen Zorn. | Noetzlin-Langmesser, Joh. Ulrich.\n  Noetzlin-Langmesser, J. U., Kaufmann.\n  Firma: Langmesser jünger.\n  Imhof-Bell, Samuel, Commis.\n5 | VI. | 415 | zum grünen Helm. | Baur, Samuel, Sohn.\n  Baur, Samuel, Maler.\n  Baur-Gysin, Sam., Kanzlei-Secretär.\n  Halle-Hoffmann, Hermann, Agentur f.\n  Band- und Seidewaaren.\n  Schirrmeister-Kling, Carl, Commis.\n6 | II. | 417 | zum dürren Sod. | Merian-Miville, Wb. Rosine Eli-\n  sabeth sel., Erben.\n  Merian, Emanuel, Apotheker.\n  Merian, Jgfr. Anna Cath., Part.\n7 | VI. | 414 | zum Gemsberg. | Comité der Freunde Israels.\n  Hemann-Bauer, David, Proselytenlehrer.\n8 | II. | 418 | zum Liebenstein. | Seul-Guggenmos, J. Christian.\n  Seul-Guggenmos, J. Chr., Lithograph.\n  Brunner-Ernst, Christian, Holzhändler.\n  Wiesner-Müller, Samuel, Schuhmach.\n9 | VI. | 420 | zur Scheuren. | Grüninger, Johann Anton.\n  Grüninger, Joh. Anton, Küfermeister.\n  Roth, Joh. Christoph, Agent.\n  Schwarzenbach-Wybert, Heinr., Musiker.\n11 | VI. | 421 | | Burckhardt-Kündig, Wb. Maria Ros.\n  (Magazin.)\n\nGerbergasse.\n\n1 | VI. | 1645 | zum Stern. | Lang, Alois.\n  Lang, Alois, Restaurateur.\n  Ryser, Caspar, Hafner.\n  Denicola-Moretti, Peter Paul, Glaser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9285,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1845,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0213,
+    "mean_line_chars": 36.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:42:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p115",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p115.jpg",
+      "bytes": 1255943,
+      "sha256": "4c7e2d48c47e67feacc1c9e6479021c5f114a1b52c417888611570d2bfdeb102",
+      "sha256_of": "original",
+      "working_copy": "1862_p115.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:19+00:00"
+  }
+}

@@ -1,0 +1,51 @@
+130
+Schüzenmattstraße. — Schwanengasse.
+Nro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer
+Haus-Nr. | tier. | Haus-Nro. | | und Bewohner.
+------ | ----- | ----- | ------------- | ----------------------
+27 | III. | 144 | | Meyer=Best, Gedeon.
+31 | III. | 142 | | Geßler=Marian, Rudolf.
+33 | III. | 141 | | Maß=Stehelin, Johann.
+ | | | | Maß=Stehelin, Johann, Maler.
+ | | | | Klaiber=Dettinger, Louis, Kaufmann.
+ | | | | Schneider=Weihrauch, Gust., Präparator.
+37 | III. | 140 A | | Zaeslin=Falkelsen, Conrad.
+ | | | | Friedrich=Knapp, Joh. Jak., Unternehmer
+ | | | | von Entleerungs- und Erdarbeiten.
+41 | III. | 140 C | | Müller=Mathis, Wilhelm.
+ | | | | Mangold=Tröndle, Jakob, Lehennann.
+43 | III. | 140 | | Ludwig=Edenstein, Andreas.
+ | | | | Hill, Philipp Andreas, Blattmacher.
+ | | | | Huber=Schreck, Jakob, Gärtner.
+ | | | | Joos=Cavin, Franz Jos., Gießer.
+ | | | | Schneider=Jung, Martin, Bannwart.
+ | | | | Ludwig=Edenstein, Andreas.
+ | | | | Eisengießerei.
+45 | III. | 140 B | | Merkle=Klipsel, Albert.
+49 | III. | 170 | | Simmoth=Speifer, Julius Otto.
+51 | III. | 171 | | Stadtgemeinde. (Spritzenhaus.)
+54 | II. | 173 | Bohrhäuslein. | LeGrand=Werthemann, Wb. Marg.
+55 | III. | 172 A | | Ammann, Georg, Lehennann.
+ | | | | Stadtgemeinde.
+56 | II. | 174 | Schützenhaus. | Keller=Seifert, Ulrich, Wirth.
+ | | | | LeGrand=Werthemann, Wb. Marg.
+57 | III. | 172 | | Schützengesellschaft.
+58 | II. | 174 B | Schießstand. | Schützengesellschaft.
+60 | II. | 174 c | Scheibenhaus. | Schützengesellschaft.
+64 | II. | 178 | Schützmattenscheune | Stadtgemeinde.
+65 | III. | 179 | | LeGrand=Werthemann, Wb. Marg.
+Schwanengasse.
+1 | VI. | 140 | zur St. Ursula. | Roschet=Hindermann, Hieronimus.
+ | | | | Roschet=Hindermann, Hieronim., Sattler.
+ | | | | Heidegger=Hartmann, Friedrich, Seiden-
+ | | | | fensal.
+2 | I. | 139 | zum Korb. | Wieland=Landerer, Wb. Babette.
+ | | | | Schweighauser'sche Sortimentsbuchhand-
+ | | | | lung (H. Amberger).
+ | | | | Schweighauser'sche Verlagsbuchhandlung
+ | | | | und Buchdruckerei.
+ | | | | Redaction und Expedition der Basler
+ | | | | Nachrichten.
+ | | | | Flersheim u. Comp., Bandhändler.
+3 | VI. | 141 | Blumenschmiede. | Früh=Hörler, Ludwig.
+ | | | | Früh=Hörler, Ludwig, Schmied.

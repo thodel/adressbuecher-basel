@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p439",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p439.jpg",
+    "bytes": 1506623,
+    "sha256": "4e3632e8f158877f9189f06aa1b7887c3299cd7e9a16f48f271c2116fa4ed49e",
+    "sha256_of": "original",
+    "working_copy": "1862_p439.jpg"
+  },
+  "text": "374\nVerzeichniß der Berufszarten.\nGeschenkstofffabrikant.\nModespacher, Alois. Spalenberg 13.\nGestügelhändler.\nBäumlein, Jos. Marktplatz 7.\nKirsch, J. C. Freie Straße 8.\nGeldwechsler.\nBraunschweig-Levy, Jak. Spalenberg 12.\nHäfelingcr=Striibin, Jak. Stadthausgasse 12.\nGemüsehändlerinnen.\nHelde=Rumbach, Eva. Pfluggässlein 5.\nLeutwiler=Schneider, Magdal. Hutgasse 17.\nGeometer.\nFalkner=Bridel, Rud. Missionsstraße 18.\nLöffel, Ludwig. St. Clara=Straße 33.\nWeindel, Josef. Reb-gasse 2.\nGerber.\nBraun=Geßler, Andr. Untere Reb-gasse 17.\nHottenfen=Dunkel, Friedr. Aug. Schneider-gasse 14.\nImhof, Melchior u. Söhne. Sporengasse 16.\nRaillard=Stähelin, Aug. Rheingasse 39.\nSchuler, Leonh. Steinen-thorstraße 10.\nSchuler, Adam. Webergasse 15.\nThurneyssen, Ludw. Gerbergasse 54.\nGesanglehrer. Siehe Musiklehrer.\nGeschäftsmänner.\nBulacher, Hier. St. Theodorskirchplatz 4.\nDreyfus, Eman. St. Peters=Platz 15.\nGyfin, Samuel. Münzgässlein 18.\nHorlacher=Reindle. Johanniterstraße 15.\nKölner=Langmesser, Johs. Rud. Rheingasse 74.\nLer, Felix Josef. Spalenberg 49.\nSpahn, Adam. Missionsstraße 61.\nStüffert, Gustav. Steinenvorstadt 24.\nWeiß-Wiesner, Andreas. Barfüsserplatz 13.\nGeschirrhandlungen.\nBrenner=Schilling, Joh. Og. Streitgasse 8.\nCaillat, Ursula. Schneidergasse 18.\nHaftreuter=Beniger, Magdal. Marktplatz 14.\nSchütz=Döbelin, Regina. Steinen-thorstraße 18.\nSpreyermann=Schwarz, Johs. Og. Weiße Gasse 13.\nGetreidehändler.\nRaff, Johs. Aug. St. Leonhards=Graben 4.\nSteinmann, Gebrüder. St. Albanthal 4.\nGlafer.\nBeck=Krauer, J. Freie Straße 45.\nBurchhardt, Vater u. Sohn, Bernh. Nadel-berg 34.\nDavid=Gräflin, Leonh. Schneidergasse 10.\nDenicola=Domenga, Seb. Gerbergasse 3.\n—=Moritti, Peter Paul. Gerbergasse 1.\nFrey=Uch, Bernhard, Joseph. Nauenstr. 5.\nGeßler=Hübscher, Abraham Rudolf. Spalen- berg 1.\nDrelli=Fischer, Giuseppe. Spalenvorstadt 25.\nRigaffi, Dl. Streitgasse 12.\n— Giovanni. Streitgasse 3.\nRoth=Ofer. Gerbergasse 25.\nSchmidt, Carl. Greifengasse 14.\nTaschetta, Giovanni. Sattelgasse 6.\nUehlinger-Uehlinger, Jakob. Rheingasse 28.\nGlaswaarenhandlungen.\nGroben, Geschwister. Freie Straße 21.\nVogt, J. G. u. Cie. Marktplatz 18.\nGlockengießer.\nSchegg, Joh. Jacob. Freie Straße 57.\nGoldschmiede.\nHandmann-Mahr, J. J. Stadthausgasse 8.\nKnickmeyer=Malzacher, Wittwe Friederika. Gerbergasse 6.\nSchalch-Bauer, Wittwe Salome Cl. Fisch- markt 15.\nSiber-Schmalzer, Rud. Greifengasse 30.\nWengi, A. Freie Straße 55.\nGraveure.\nBurchhardt=Stähelin, Rud. St. Leonhards- Straße 11.\nBurger-Haller, Christian. Gerbergasse 47.\nGrell, Mathias. Mittlere Straße 40.\nKüfer, J. G. Klosterberg 7.\nGriefer. Siehe Mehldhandlungen.\nGuanohandlung.\nGeßler, Emanuel. Hutgasse 23.\nGürtler.\nMüller-Scherrer, Carl. Gartenstraße 70.\nGypher.\nBerlinger, Eduard. Kirchgasse 5.\n— Jos. und Alois. St. Elisabethen-Str. 32.\nBux-Rieder, Frz. Jos. St. Andreasplatz 11.\nGeßler, Carl. Reb-gasse 31.\nKöchlin, G. R. Freie Straße 32.\nKorneli=Wagner, Joh. Rheingasse 68.\nLichtenhahn-Merian, Jakob. Spalenberg 55.\nMäglin, Christof. Reb-gasse 27.\nMoscr=Wiirner, Andreas. St. Peters-Berg 31.\nMüller=Stengelen, Cl. Friedrich. Steinen- thorstraße 19.\nSchachler=Moser, Joh. Jak. Todtentanz 12.\nSchumacher=Ruti, Jakob. St. Elisabethen- Straße 62.\nHaararbeiter.\nBohrer=Pfau, Wittwe A. Magdal. Unterer Heuberg 31.\nRaifer, Geschwister. Kronengasse 8.\nTriibner, Louise. Eisengasse 24.\nHäferhandlungen.\nGnöpff, Ach. u. Carl. Neichenvorstadt 2.\nRaff, Joh. Aug. St. Leonhards=Graben 4.\nHafner.\nBauer=Meister, Conrad. Hammerstraße 92.\nBaumann, Hieronimus. Sternengässlein 6.\nBeck=Seiffert, Hieronimus. Steinenvorst. 32.\nBöcklin=Müller, Walter. St. Clara=Straße 7.\nBitchly=Bruder, Joh. Weiße Gasse 8.\nCappeler=Hindenlang, Abrah. Neue Vorstadt 25.\nDenzler=David, Rud. Küchenässlein 7.\nGaßler, Leonz. Grünpfahlgässlein 8.\nHenck=Dömmelin, Will. Rheingasse 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9967,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3783,
+    "lines": 111,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:21:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p439",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p439.jpg",
+      "bytes": 1506623,
+      "sha256": "4e3632e8f158877f9189f06aa1b7887c3299cd7e9a16f48f271c2116fa4ed49e",
+      "sha256_of": "original",
+      "working_copy": "1862_p439.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:21:19+00:00"
+  }
+}

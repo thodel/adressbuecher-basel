@@ -1,0 +1,53 @@
+Steinenvorstadt. 153
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+23 | III. | 816 | Zunft zu Webern. | Corporationsgut.
+  Elsner-Voigt, Wb. Ch. Friederika Do-
+    rothea, Hebamme.
+  Flubacher, Magdalena, Hebamme.
+  Schneider-Oser, Friedrich, Metzger.
+24 | III. | 774 | zum Pommeranzen-
+baum. | Henz-Kußmaul, Louis.
+  Süffert-Deck, Gustav, Geschäftsmann.
+  Bürger-Hoegel, Georg, Agent.
+  Schönenberger-Spinnler, Jacob, Bäcker.
+25 | III. | 815 | zum Birseck. | Weiß-Börlin, Johannes.
+  Weiß-Börlin, Johannes, Tapezierer.
+26 | III. | 775 | z. schlafenden Jacob. | Fischer-Horner, Elias.
+  Fischer-Horner, Elias, Partikular.
+  Fischer-Lindenmeyer, Andreas, Bäcker.
+27 | III. | 814 |  | David-Holzach, Wb. Margaretha.
+  Caillat-Beck, Jacob, Buchbinder.
+  Häring-Ziegler, August, Polizeihaupt-
+    mann.
+28 | III. | 780 |  | Brotbeck-Spitteler, Friedrich.
+  Brotbeck-Spitteler, Friedrich, Commis.
+29 | III. | 813 A | zum Fuchs. | Götz-Fininger, Balthasar.
+  Götz-Fininger, Balthasar, Färber.
+  Götz, Balthasar, Sohn, Färber.
+30 | III. | 781 |  | Bultier-Mathiot, Isidor.
+  Bultier-Mathiot, Isidor, Mechaniker.
+  Dubach-Elsner, Georg, Spengler.
+  Deck-Braun, Friedrich, Mechaniker.
+31 | III. | 813 | zum Fuchs. | Götz, Balthasar.
+  Linder-Ort, Emanuel, Kaufmann.
+32 | III. | 782 |  | Beck-Seifert, Hieronimus.
+  Beck-Seifert, Hieronimus, Hafner.
+  Kübler-Vetter, Caspar, Schreiner.
+33 | III. | 812 A |  | Schuler, Rudolf und Maria.
+  Schuler, Rudolf, Particular.
+  Schuler, Abraham, Kaufmann.
+  Schuler, Maria, Particularin.
+35 | III. | 812 | zum Sternenfels. | Baur-Weiß, Carl.
+  Baur-Weiß, Carl, Bäcker.
+  Thurneysen-Bell, Heinrich, Schneider.
+  Teichmann, Carl, Zeichnungslehrer.
+36 | III. | 783 | zum Löwenfels. | Brändlin, Gustav, sel. Erben.
+  Brändlin-Drissel, Rudolf, Bierbrauer.
+  Brändlin-Falkeisen, Wb. Maria Sa-
+    lome, Partikularin.
+37 | III. | 811 |  | Großmann-Byland, Conrad.
+  Schelker-Bader, Math., Milchhändler.
+38 | III. | 784 | z. äußern Löwenfels. | Mechel-Koebel, Bernhard.
+  Mechel-Koebel, Bernhard, Polizei-
+    buralist.

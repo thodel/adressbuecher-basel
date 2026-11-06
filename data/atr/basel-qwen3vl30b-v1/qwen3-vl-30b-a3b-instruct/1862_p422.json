@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p422",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p422.jpg",
+    "bytes": 1623137,
+    "sha256": "b707bd2e53664859c524a5c0c6f163d2d05611e2eb120a9e3c0357f3506f3871",
+    "sha256_of": "original",
+    "working_copy": "1862_p422.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 357\nWeber-Heinemann, Jakob, Posamenter. Freie Straße 6.\n— =Herzog, Jakob, Kaufhausarbeiter. Sägergäßlein 4.\n— =Heß, Susanna Cath., Krankenwärterin. St. Peters-Berg 11.\n— Jakob, Magazinier. Rheingasse 38.\n— Josef, Café- und Speisewirth. Gerbergasse 26.\n— Joh., Fuhrhalter. Hirschgasse 5.\n— =Klein, Tobias, Hufschmied. Ochsen-gasse 17.\n— =Kray, Alfred, Advokat. Unt. Reb-gasse 24.\n— =Littner, Seb.ast., Handelsmann. Lindenberg 20.\n— =Mäder, Wb. Anna Maria, Speziererin. Rümelinsplatz 3.\n— =Mangold, Sam., Landwirth. Gellertstraße 28.\n— =Marfort, Rud., Metzger. Steinenthorstraße 29.\n— Maria, Schneiderin. Kohlenberg 4.\n— =Meyer, Joh., Tabak- u. Cigarrenhdlg. Aeschenvorstadt 37.\n— =Meyer, Frz., Taglöhner. Wallstraße 5.\n— =Müller, Sam., Ellenwaarenhandlung. Gerbergasse 20.\n— =Dettlin, Anna Maria, Coiffeuse. Gerbergasse 63.\n— Paul, Ferger. Spalenberg 45.\n— =Rieder, Rudolf, Taglöhner. St. Leonhards-Stapfelberg 2.\n— =Riedtmann, Wb. Maria, Detailhandel. Rheingasse 74.\n— =Rietschi, Ludw., Wirth. St. Jakob 4.\n— =Salathé, Hieron. Friedr., Bandfabrikt. Sternengäßlein 33.\n— =Schaffner, Wilh., Mechaniker. Aeschenvorstadt 47.\n— =Schweizer, Joh., Fabrikarbeiter. Mattweg 16.\n— Secunda, Glätterin. Unt. Rheingasse 10.\n— =Spochel, Othmar, Kostgeber. Kirchgasse 5.\n— =Stierli, Friedrich, Seidenagent. Spalenberg 54.\n— Tobias Leonhard, Part. Ochsen-gasse 17.\n— U. Josef, Postconductor. Grünpfahl-gäßlein 5.\n— =Wächter, Wb. Augusta, Glätterin. Utengasse 41.\n— =Waldmeyer, Jak., Wirth. Heumattstr. 7.\n— =Walte, Friedr., Gärtner. Aeschenvorstadt 77.\n— =Wiesner, Heinr., Dessinateur u. Kostgeber. Reb-gasse 24.\n— =Zuber, Wb. Anna, Wascherin. Kap-poltshof 19.\nWeerli-Heim, Jak. Ulrich, Mechaniker. Gerbergasse 32.\nWegelin-Wohnlich, J. Rud., Wirth u. Blattmacher. Spalenberg 18.\nWegner-Diinner, J. Rud., Stadtrath. St. Clara-Platz 2.\nWehrle, Theodor, Commis. Stadthausgasse 23.\n— Wallburga, Taglöhnerin. Utengasse 46.\nWehrlen-Gysin, Friedrich, Appreteur. Klingenthal 18.\nWehrli, Heinr., Uhrenmacher. Gerbergasse 59.\n— =Helde, Jak., Landjägergefreiter. Pflug-gäßlein 5.\n— =Mohler, Gabriel, Gärtner. Imbergäßlein 33.\n— =Stöcklin, Rudolf, Hausknecht. Aeschenvorstadt 24.\nWehrlin-Wehrlin, Wb. Anna, Kostgeberin. Münzgäßlein 22.\nWehrly-Biedert, Wb. Elisab., Part. Fabrikstraße 9.\n— =Gilbert, Joh. Jak., Kaufhausbeamter. Klosterberg 29.\n— =Himmely, Carl, Ferger. St. Jakobs-Straße 12.\n— Jakob Andr., Sohn, Ferger. Mühlenberg 19.\n— =Müller, Emanuel, Commis. Klosterberg 29.\n— =Rudin, Joh. Jak., Ferger. Mühlenberg 19.\nWeibel, Daniel Adolf, Kaffee-wirth. Schiff-lände 9.\n— Friedrich, Commis. Steinenberg 3.\n— =Gerster, Wb. Cathar., Partif. Schiff-lände 7.\n— =Gesler, Jak., Postcommis. St. Peters-firchplatz 12.\n— =Glafer, Jakob Ludwig, Commis. Gerbergasse 31.\n— =Gysin, Heinrich, Posamenter. Aeschenvorstadt 19.\n— =Haga, Heinrich, Fabrikarbeiter. Spalenberg 42.\n— =Haufer, Rudolf, Commis. Steinenberg 3.\n— =Meyer, Rudolf, Kaufmann. Steinenberg 3.\n— =Koth, Jakob, Posamenter. Trillengäßlein 4.\n— =Stückelberger, Jakob, Posam. Ochsen-gasse 7.\n— =Bogt, Jakob, Fabrikarbeiter. Imbergäßlein 29.\n— =Weibrecht-Klemm, Theod., Commis im Mis-fionshaus. Spalenvorstadt 24.\nWeidmann-Fesler, Ulrich, Maschinist. Fabrikstraße 14.\nWeilemann, Aug., Fabrikarbeiter. St. Peters-Berg 15.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8751,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3282,
+    "lines": 67,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:18:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p422",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p422.jpg",
+      "bytes": 1623137,
+      "sha256": "b707bd2e53664859c524a5c0c6f163d2d05611e2eb120a9e3c0357f3506f3871",
+      "sha256_of": "original",
+      "working_copy": "1862_p422.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:18:34+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p220",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p220.jpg",
+    "bytes": 1445875,
+    "sha256": "03af2311346633757ed46cd2c76c1f44efe672ea77c058b16c7620f14a0cfaec",
+    "sha256_of": "original",
+    "working_copy": "1862_p220.jpg"
+  },
+  "text": "Steinenvorstadt. — Sternengäßlein. 155\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n57 | III. | 802 | | Burckhardt-Iselin, Carl, und Burck-\n  hardt, Albert.\n  Burckhardt-Iselin, Dr. J. U. Carl, Rathsschr.\n58 | III. | 796 | zum Lohhof. | ImHof-Forcart, Joh. Jacob.\n  (Stallung.)\n59 | III. | 801 | | Bühler-Lehnis, Jacob Friedrich.\n  Bühler-Lehnis, Jacob Friedrich, Zim-\n  mergesell.\n60 | III. | 796 | Gerberei z. Lohhof. | ImHof-Forcart, Joh. Jacob.\n  Dippel-DesGouttes, Friedrich, Kaufm.\n61 | III. | 800 | z. hohen gelb. Löwen. | Weber-Faust, Emanuel.\n  Weber-Faust, Emanuel, Dessinateur.\n  Fischer, Johannes, Musiker.\n  Schäublin-Tschudin, Jacob, Holzhändl.\n63 | III. | 799 | zum Mohrenkönig. | Baumann, Gottlieb.\n  Baumann, Gottlieb, Seidenfärber.\n  Baumann-Schmidt, Wb. Magd., Part.\n65 | III. | 798 | | David-Wattinger, Emanuel.\n  David-Wattinger, Emanuel, Lohnwasch.\n67 | III. | 797 A | | Ludwig-Weitnauer, Emil.\n  Ludwig-Weitnauer, Emil, Küfer.\n  Benker-Stapfer, Friedrich, Barbier.\n  Schneble-Saueressig, Franz Joseph, Zoll-\n  beamter.\n  Bruckner, Theophil, Dr. Med., homöo-\n  pathischer Arzt.\n69 | III. | 797 | | Ludwig-Weitnauer, Emil.\n  Lang und Ruef, Weinhändler.\n\nSternengäßlein.\n1–3 | IV. | 979 | | Wagner-Vogt, Jacob.\n  Wagner-Vogt, Jacob, Leinenweber.\n2 | IV. | 961 | | Sutter-Baumgartner, Joh. Jacob.\n  Tschopp-Basler, Carl, Piqueur.\n4 | IV. | 962 | | Freyburger-Salathe, Wb. Elisabeth.\n  Freyburger-Salathe, Wb. Elisab., Trödl.\n6 | IV. | 963 | | Baumgartner, Johannes.\n  Baumann, Hieronimus, Hafner.\n7 | IV. | 978 | z. Sternen gehörend. | Breiting-Heußler, Samuel.\n  Stallungen.\n8 | IV. | 964 | | Baumgartner, Johannes.\n  Baumgartner, Joh., Schuhmacher.\n9 | IV. | 977 | | Ackermann-Schaub, Peter.\n  Ackermann-Schaub, Peter, Oekonom.\n  Oziki-Maser, Friedrich, Schreiner.\n10 | IV. | 965 | | Herbel-Riedinger, Eberhard.\n  Herbel-Riedinger, Eberh., Zimmergesell.\n11 | IV. | 976 | | Ackermann-Schaub, Peter.\n  Stallungen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8124,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1993,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 37.66,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p220",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p220.jpg",
+      "bytes": 1445875,
+      "sha256": "03af2311346633757ed46cd2c76c1f44efe672ea77c058b16c7620f14a0cfaec",
+      "sha256_of": "original",
+      "working_copy": "1862_p220.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:44+00:00"
+  }
+}

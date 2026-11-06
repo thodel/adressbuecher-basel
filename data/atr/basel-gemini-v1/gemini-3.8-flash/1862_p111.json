@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p111",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p111.jpg",
+    "bytes": 1291882,
+    "sha256": "c5f65246ec00f8776961c88ccdec1e5a9d91965b5e1eeef8ebeebf5ef1b800ae",
+    "sha256_of": "original",
+    "working_copy": "1862_p111.jpg"
+  },
+  "text": "46 Freie Straße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n70 | IV. | 1084 | zum Jakobs-Keller. | Kiefer-Weibel, Joh. Heinrich.\n  Kiefer-Weibel, Joh. Heinrich, Kaufm.\n  Maring-Wierz, Ludwig, Architekt.\n71 | V. | 1425 | Zunft z. gold. Stern. | Corporationsgut.\n  Schabelitz-Flick, J. Christ., Buchbinder.\n  Firma J. C. Schabelitz, Papier-, Schreib-\n    u. Zeichnungsmaterialien-Handlung.\n  Chretien-Vivier, M., magasin de vin\n    et comestibles.\n  Lichtensteiger, Friedrich, Postbeamter.\n72 | IV. | 1083 | zum Sodeck. | Fischer-Eberle, Hans.\n  Fischer-Eberle, Hans, Tuchhandlung.\n73 | V. | 1424 | zur Welt. | Walter-Keller, Karl.\n  Walter-Keller, K., Fabr. chirur. Instr.\n74 | IV. | 1082 | | Bihrer-Bregger, Louis.\n  Bihrer-Bregger, Louis, Uhrenmacher.\n  Rommel, Philipp, Commis.\n75 | V. | 1423 | zur obern Welt. | Schaub-Gysin, Joh. Jacob.\n  Schaub-Gysin, Joh. Jac., Handschuh-\n    macher u. Siegrist bei St. Elisabethen.\n  Thurneysen-Gaß, Wittwe, Margaretha.\n  Thurneysen, Louis, Commis.\n  Lehr, Wilhelm, Uhrenmacher, Arbeits-\n    local Nr. 10. Streitgasse.\n76 | IV. | 1081 | zum Eichhörnlein. | Müller, Wittwe sel. Erben.\n  Breisch, Fried., Ellenwaarenhandlung.\n77 | V. | 1422 | zum Weinberg. | Biedert u. Comp.\n  Huber-Burckhardt, Joh. Jak., Kaufmann.\n  Biedert, J. Heinrich, Eisenhandlung.\n78 | IV. | 1080 | zum Eichhorn. | Christ-Socin, Hermann.\n  Christ-Hoffmann, Christine, Wittwe.\n  Christ-Socin, Hermann, Civil-Gerichts-\n    schreiber, J. U. D.\n  Heusler, Aug., J.U.D., Notariatsbureau.\n79 | V. | 1421 | zum St. Jacob. | Müller-Stolz, Conrad.\n  Müller-Stolz, Conrad, Schuhmacher.\n80 | IV. | 1079 | | Merian-Weiß, Rud. sel. Erben.\n  Holweg-Weiß, A. Maria Wb., Modiste.\n81 | V. | 1420 | zum Schaltenbrand. | Bernoulli-Cailler, Emanuel.\n  Bernoulli-Cailler, Em., Bandfabrication\n    u. Seidenwaarenhandlung.\n  Bernoulli, Emanuel, Sohn.\n82 | IV. | 1063 | | Iffenthaler-Schölli, Ludwig.\n  Iffenthaler-Schölli, L., Schuhmacher.\n83 | V. | 1492 | zur Krippe. | Beck-Kaiser, Chrischona, Wittwe.\n  Beck-Kaiser, Chrischona, Wb., Rentiere.\n  Bachmann-Bell, Joh. Fried., Pintenwth.\n84 | IV. | 1062 | zum Ehrenfels. | Schneider-Frey, Heinrich.\n  Schneider-Frey, Heinrich, Particular.\n  Kuster-Schneider, Joh. Jak., Secretär\n    der Niederlassungs-Commission.\n  Rigiani, Peter u. Rudolf.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8263,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2346,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:41:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p111",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p111.jpg",
+      "bytes": 1291882,
+      "sha256": "c5f65246ec00f8776961c88ccdec1e5a9d91965b5e1eeef8ebeebf5ef1b800ae",
+      "sha256_of": "original",
+      "working_copy": "1862_p111.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:41+00:00"
+  }
+}

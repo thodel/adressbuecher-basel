@@ -1,0 +1,43 @@
+200 | Riehenstraße.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+29 | VII. | 29 A | | Kaufhauscommission.
+30 | VIII. | 26 | | Merian-Ryhiner, Wb. Elisabeth.
+32 | VIII. | 27 | | Merian-Ryhiner, Wb. Elisabeth.
+36 | VIII. | 28—30 | | Merian-Ryhiner, Wb. Elisabeth.
+  Dettwiler-Brüderlin, Wb. Anna Cath., Lehenfrau.
+38 | VIII. | 28 a | | Merian-Ryhiner, Wb. Elisabeth.
+41 | VII. | | Kap. d. St. Theodors Gottesacker. | Bann St. Theodor.
+47 | VII. | 35 | | LeGrand, Christof u. Maria.
+49 | VII. | 35 a | | LeGrand, Christof u. Maria.
+54 | VIII. | 36 | | Merian-VonderMühll, Heinrich.
+  Daucher-Kermgott, Phil., Gärtner.
+56 | VIII. | 36 i | | Merian-VonderMühll, Heinrich.
+57 | VII. | 37 | | Lützelmann-Schaffner, Hans Jac.
+  Rolin-Lützelmann, Lucien Alexander, Chemiker.
+58 | VIII. | 36 k | | Merian-VonderMühll, Heinrich.
+59 | VII. | 39 a | | Oswald-Hindermann, Mathias.
+  Fenner-Rudloff, Rud., Werkführer.
+  Ilg-Armand, Aug., Eisenbahnbeamter.
+  Oehl, Heinrich, Kaufmann.
+60 | VIII. | 39 A b | | VonderMühll-Vischer, Friedrich.
+61 | VII. | 39 | | Oswald-Hindermann, Mathias.
+  Fabrik von H. Magallon u. Comp.
+62 | VIII. | 39 A | z. Zedern-Hof. | VonderMühll-Vischer, Friedrich.
+  Blank-Rom, Joh. Christ., Gärtner.
+  Joecker-Kienberger, Urs, Lehenbeständer.
+  Vest, Christof, Part.
+68 | VIII. | 87 D | | Zimmerlin-VonSpeyr, August.
+69 | VII. | 40 | | Merian-VonderMühll, Heinrich.
+70 | VIII. | 86 A | zum Heimathland. | Zimmerlin-VonSpeyr, Aug.
+  Brestler-Haeseli, Jos., Lehenbeständer.
+74 | VIII. | 89 A | z. Hirschenbrunnen. | Vischer-Burckhardt, Peter.
+75 | VII. | 88 | z. klein. Surinam. | Merian-Burckhardt, Wb. Valeria.
+  Bader-Osiander, Lehenmann.
+76 | VIII. | 89 | z. Hirschenbrunnen. | Vischer-Burckhardt, Peter.
+  Roethlisperger-Müller, Friedr., Lehenbeständer.
+  Diüller-Huber, Johs., Gärtner.
+94 | VIII. | 94 | zum Bäumlihof. | Merian-Merian, Samuel.
+  Salathe, Josef, Lehenmann.
+  Hupfer-Hutterle, Joh. Georg, Gärtner.

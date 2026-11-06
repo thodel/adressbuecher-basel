@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p279",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p279.jpg",
+    "bytes": 1478049,
+    "sha256": "ea7bbaef9311ca06e1c9098f72f4d39bcb48ec23879757288429cf755eaf6195",
+    "sha256_of": "original",
+    "working_copy": "1862_p279.jpg"
+  },
+  "text": "214 Verzeichniß der Häuser nach ihren Benennungen.\nFahne, z. rothen. Freie Straße Nr. 43. | Gasanstalt. Gasstraße Nr. 6.\nFalken z. goldenen. Freie Straße Nr. 9. | Gasfabrik, z. alten. Binninger Straße Nr. 12.\nFalkenberg, z. Freie Straße Nr. 51. | Gasometer. Hintere Bahnhofstraße Nr. 4.\nFalkenfeller, z. Freie Straße Nr. 49. | Geist, z. St. Alban-Vorstadt Nr. 17.\nFalkenstein, z. Pfluggäcklein Nr. 12. | Gejäg, z. Freie Straße Nr. 90.\nFalkenstein, z. Rheingasse Nr. 24. | Gemur, z. Rittergasse Nr. 14.\nFalkensteinerhof (Gewerbeschule). Münsterplatz | Gemeindeschule zu St. Peter. Stiftsgasse Nr. 2.\nNr. 11. | Gemsberg, z. Gemsberg Nr. 7.\nFalgatter, z. Grenzacherstraße Nr. 43. | Georg, St. z. Kitter. Sattelgasse Nr. 21.\nFasan, z. Spalenvorstadt Nr. 35. | Georg, St. z. Kitter. Aeschenvorstadt Nr. 2.\nFeierabend, z. Mostackerstraße Nr. 36. | Georgenbrunnen, St. z. Sattelgasse Nr. 8.\nFeigenbaum, z. Steinenvorstadt Nr. 54. | Gerbern, Zunft zu. Gerbergäcklein Nr. 15.\nFeuerglocke, z. Heuberg Nr. 32. | Gesellenhaus, z. St. Alban-Thal Nr. 18.\nFischern, Zunft zu. Fischmarkt Nr. 10. | Gesellschaftsgarten. Grenzacherstraße Nr. 38.\nFischgrath, z. Gerbergasse Nr. 22. | Gesellschaftshaus, z. neuen. Rheingasse Nr. 4.\nFischwaage, z. Rheingasse Nr. 68. | Gesellschaftshaus, z. neuen. Greiffengasse Nr. 2.\nFlachsländerhof. St. Petersgraben Nr. 19. | Gewerbehalle, ehem. Rheinlagerhaus. Schiff-\nFlachsländerhof. St. Petersgasse Nr. 46. | lände Nr. 6.\nFlasche, z. leeren. St. Johann-Vorstadt Nr. 16. | Geyer, z. Spalenberg Nr. 20.\nFlora, z. Engelgasse Nr. 57. | Gießerei, z. neuen. Birgigstraße Nr. 26.\nFluh, z. oberen rothen. Freie Straße Nr. 94. | Gießhaus, z. alten. Karthausgäcklein Nr. 7.\nFörsterhaus, z. Breite Straße Nr. 43. | Gilgenberg, z. Spalenberg Nr. 7.\nFormonterhof. St. Johann-Vorstadt Nr. 27. | Gilgenberg, Hinterhaus z. Münzgäcklein Nr. 10.\nFortuna, z. St. Johann-Vorstadt Nr. 58. | Glocke, z. Fischmarkt Nr. 11.\nFortuna, z. St. Leonhardsberg Nr. 3. | Glocke, z. Hutgasse Nr. 10.\nFortuna, z. St. Alban-Vorstadt Nr. 19. | Glocke, z. blauen. Spalenberg Nr. 32.\nFortuna, z. kleinen. Münzgäcklein Nr. 19. | Glocke, z. oberen. Weiße Gasse Nr. 11.\nFrau, z. äußern lieben. Spalenvorstadt Nr. 38. | Glocke, z. oberen. Weiße Gasse Nr. 13.\nFrauenstein, z. Freie Straße Nr. 14. | Glücksrad, z. Weiße Gasse Nr. 21.\nFreiburg, z. obern. Münsterberg Nr. 16. | Gnadenthal. St. Petersgraben Nr. 50.\nFreiburg, z. untern. Münsterberg Nr. 14. | Gnadenthal. St. Petersgraben Nr. 52.\nFreienstraße, z. hintern. Gerbergasse Nr. 23. | Gold, z. St. Martinsgäcklein Nr. 4.\nFreudenuelle, z. Hammerstraße Nr. 28. | Gold, z. Sporengasse Nr. 11.\nFriedberg, z. St. Petersberg Nr. 25. | Goldbäcklein, z. Schwanengasse Nr. 14.\nFrieden, z. St. Petersgasse Nr. 13. | Goldgrube, z. Rheingasse Nr. 45.\nFrieden, z. gehörend. Spiegelgasse Nr. 12. | Grabenek, z. St. Petersplatz Nr. 20.\nFrieden, z. kleinen. St. Leonhardsberg Nr. 12. | Greifen, z. Steinenvorstadt Nr. 14.\nFriedenau, z. klein. St. Leonhardsgraben Nr. 4. | Greifen, z. hintern. Gerbergäcklein Nr. 11.\nFriedhof. St. Petersgraben Nr. 11. | Greifen, z. vordern. Gerbergasse Nr. 42.\nFriedhof. St. Petersgasse Nr. 34. | Greifenstein, z. Stadthausgasse Nr. 20.\nFriedolt, z. Spalenvorstadt Nr. 1. | Greiffen, z. Greiffengasse Nr. 31.\nFriedolt, z. St. Leonhardsgraben Nr. 2. | Greiffen, z. goldenen. Greiffengasse Nr. 29.\nFriesek, z. Gerbergasse Nr. 43. | Grenzacherhof. Grenzacherstraße Nr. 55.\nFuchs, z. Steinenvorstadt Nr. 29. | Griebhof. Nadelberg Nr. 12.\nFuchs, z. Steinenvorstadt Nr. 31. | Gundoldingen, z. mittlern. Gundoldinger-\nFuchs, z. Freie Straße Nr. 30. | straße Nr. 8.\nFürstenberg, z. Gerbergasse Nr. 50. | Gurttau, z. Greiffengasse Nr. 3.\nFürstenberg, z. Gerbergasse Nr. 75. | Gutenhof, z. St. Elisabethenstraße Nr. 13. 15.\nFussisches Haus. St. Alban-Thal Nr. 20. | Guthof, d. kleine. St. Elisabethenstraße Nr. 11.\nGaishof. Utengasse Nr. 5. | Guttenberg, z. Mostackerstraße Nr. 25.\nGaleeren, z. Utengasse Nr. 23. | Gypsmühle, z. Weiße Gasse Nr. 22.\nSt. Gallen, z. Steinenvorstadt Nr. 53. | Gygengarten, z. St. Petersplatz Nr. 12.\nGans, z. Schneidergasse Nr. 34. | Hafen, z. Marktplatz Nr. 2.\nGans, Hinterhaus z. Imbergäcklein Nr. 12. | Hafen, z. hintern. St. Martinsgasse Nr. 4.\nGans, Hinterhaus z. Imbergäcklein Nr. 13. | Hägen-Egerten, z. Aeschenvorstadt Nr. 73.\nGarten, z. botanischen. St. Jakobsstraße Nr. 4. | Häslı, z. Todtentanz Nr. 12.\nGarten, z. botanischen. St. Jakobsstraße Nr. 6. | Hahn, z. schwarzen, u. Sevenbaum. Sattel-\nGartnern, Zunft zu. Gerbergasse Nr. 38. | gasse Nr. 6.\nGartnern, Hinterhaus d. Zunft zu. Gerbergäcklein Nr. 5. | Hahnen, z. rothen. Gerbergäcklein Nr. 10.\n| Haidweiler, z. Bäumleingasse Nr. 10.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12360,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4668,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 75.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:55:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p279",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p279.jpg",
+      "bytes": 1478049,
+      "sha256": "ea7bbaef9311ca06e1c9098f72f4d39bcb48ec23879757288429cf755eaf6195",
+      "sha256_of": "original",
+      "working_copy": "1862_p279.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:01+00:00"
+  }
+}

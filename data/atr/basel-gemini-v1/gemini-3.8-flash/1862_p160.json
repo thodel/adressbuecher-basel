@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p160",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p160.jpg",
+    "bytes": 1495875,
+    "sha256": "2efa8f2e27d4486eed21ac70e60b5aaecffdb7bee4f2bfd1005ad0a1a5cbfac5",
+    "sha256_of": "original",
+    "working_copy": "1862_p160.jpg"
+  },
+  "text": "Mostackerstraße. 95\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n | | | | Hauser-Wertenberg, Friedr., Zimmermst.\n  Weber, Anton, Alt-Gerichtspräsident.\n19 | III. | 152 A a | | Plattner-Hosch, Jakob.\n20 | III. | 153 B | | Labhardt-Schubiger, Ferdinand.\n  Labhardt-Schubiger, Ferdinand, Kaufm.\n  Firma Bernoulli u. Labhardt, Manu-\n  facturwaarenhandlung.\n21 | III. | 152 A. c | | Plattner-Hosch, Jakob.\n25 | III. | 154 A | zum Guttenberg. | Stuckert-Schaub, Gg. Otto Eugen.\n  Stuckert-Schaub, Gg. Otto Eug., Schrift-\n  gießer. Firma: Haas’sche Gießerei.\n26 | III. | 153 A | | Brotbeck-Walser, Carl.\n  Brotbeck-Walser, Carl, Kaufmann.\n  Walser-Hurter, H. J. Ulr., Part.\n31 | III. | 155 | | Plattner-Hosch, Johann.\n  Plattner-Schlatter, Heinr., Zimmergeh.\n  Walser-Walser, Alois, Lehenbeständer.\n32 | III. | 166 | | Geßler-Wirz, Daniel,\n  Baumann-Hauser, Heinrich, Schreiner.\n36 | III. | 165 | zum Feierabend. | Tschann-Vergi, Napoleon.\n  Tschann-Vergi, Napoleon, Gutsbesitzer.\n  Tschann, Philipp Joseph, Maurer.\n42 | III. | 164 A | | Schilling-Weitnauer, Wb. Marg.\n  Gehring-Schliephacke, Traugott, Pfarr.\n44 | III. | 164 | | Roschet-Mangold, Hieronimus.\n  Roschet-Mangold, Hieronimus, Seiler.\n  Weniger-Sauerbrey, Rud., Part.\n48 | III. | 163 A | | Steib-Anstein, Mathias.\n52 | III. | 162 A | | Ernst-Rudin, Johannes.\n  Ernst-Rudin, Johannes, Ferger.\n  Oppliger, Rudolf, Schreiner.\n  Munding-Zimmerli, Joh., Eisenbahnbr.\n54 | III. | 162 B | | Klein-Schabelitz, Wilhelm.\n  Klein-Schabelitz, Wilh., Redact. d. Volksf.\n  Kölner-Kummer, Adolf, Dessinateur.\n56 | III. | 161 | | Glaser-Hechler, Emanuel.\n  Glaser-Hechler, Emanuel, Taglöhner.\n58 | III. | 161 B | | Bollenhals-Abt, Friedrich.\n  Bollenhals-Abt, Friedrich, Feuerwerker.\n  Gisin-Lüdin, Wernh., Eisenbahnbeamter.\n62 | III. | 161 A | | Schneider-Schlag, Johann.\n  Schneider-Schlag, Joh., Lehrer.\n  Schwarz-Schlag, Rudolf, Commis.\n  Gysin, Friedrich, Commis.\n67 | III. | 158 a | | Schlöth, Louis.\n72 | III. | | | (Magazin.)\n | | 160 | | Schneider, Erhard.\n78 | III. | 159 | | Iselin, Geschwister.\n  Iselin, Joseph, Therese u. Eva, Landwirth.\n84 | III. | 159 A a b | | Burckhardt-Ecklin, Franz.\n86 | III. | 159 A f | | Burckhardt-Ecklin, Franz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8879,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2255,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p160",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p160.jpg",
+      "bytes": 1495875,
+      "sha256": "2efa8f2e27d4486eed21ac70e60b5aaecffdb7bee4f2bfd1005ad0a1a5cbfac5",
+      "sha256_of": "original",
+      "working_copy": "1862_p160.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:38+00:00"
+  }
+}

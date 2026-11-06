@@ -1,0 +1,52 @@
+St. Johann-Vorstadt. 71
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+20 | I. | 54-55 | | Burckhardt-Preiswerk, Wilhelm.
+  (Fabrikgebäude v. Lucas Preiswerk.)
+  Frey-Lüthy, Carl, Fabrikaufseher.
+22 | I. | 51 | | Preiswerk-Keller, Dietrich.
+  Preiswerk-Keller, Dietrich, Kaufmann.
+23 | I. | 46 | | Preiswerk-Bischoff, Wilhelm.
+  Preiswerk-Bischoff, Wilhelm, Kaufm.
+24 | I. | 49 | | Dietschy-Lichtenhahn, J. J.
+  Fabrik zu Nr. 19.
+25 | I. | 43 | zum Kreuz. | Hosch-Mengis, Hieronimus.
+  Hosch-Mengis, Hieronimus, Sensal.
+  Hosch, Alfred, Kaufmann.
+26 | I. | 48 | | Dietschy-Lichtenhahn, Joh. Jac.
+  Remise.
+27 | I. | 41 | Formonter Hof. | Meyer-Merian, Daniel.
+  Meyer-Merian, Daniel, Bandfabrikant.
+  Fabrik in Sulz, (haut Rhin) Specialität
+  von schwarzem Tafetas Nr. 1/2 à 40,
+  unis et petit façonnés.
+28 | I. | 47 | | Schaub-Kuhn, Joh. Jakob.
+29 | I. | 38 | zur Mägd. | Corporationsgut.
+  Schmidt-Bolly, Carl, Wirth.
+  Lieberknecht, Fritz, Commis.
+30 | I. | 45 | | Schölly-Schölly, Samuel.
+  Schölly-Bruckner, Wb. Sus., Part.
+  Müller-Schölly, Wb. Maria, Part.
+31 | | 30 B | zum innern St. Antonierhof. | Magallon-Faurat, Hypolite.
+  Magallon-Faurat, Hypolite.
+  Bolly-Keller, Melch., Appreteur.
+32 | I. | 44 | | Strübin-Kaiser, Wb. Secunda.
+  Strübin-Kaiser, Wb. Secunda, Taglöhn.
+  Morf-Alibert, Heinrich, Schuhmacher.
+33 | I. | 30 A | St. Antonierhof (Klösterli). | Gengenbach-Labhardt, Gustav.
+  Gengenbach-Labhardt, Gustav, Kaufm.
+  Perrochet-Meyri, Wb. Dorothea, Part.
+34 | I. | 42 | | Schmidt-Haas, Rudolf.
+  Schmidt-Haas, Rudolf, Handelsmann.
+  Lotz-Wick, Wb. Maria, Particularin.
+35 | I. | 30 C | zum Klösterlein. | Mäglin-Strub, Gustav.
+  Thierry, Joseph, Tabakfabrikant.
+  Day-L'Hoste, Beda, Tapezierer.
+36 | I. | 40 | | Buxtorf-Falkeisen, Carl.
+  Buxtorf-Falkeisen, C., Dr.Phil., Lehrer.
+37 | I. | 29 | zum Eber. | Delhasen-Dreyer, Saml. Jakob.
+  Delhasen-Dreyer, Sam. Jak., Mechanik.
+  Götz-Mähly, Wilhelm, Commis.
+38 | I. | 39 | | Siegrist-Jäcklin, Emanuel.
+  Siegrist-Jäcklin, Emanuel, Commis.
+  Geigy-Winkler, Wb. Rosina, Particular.

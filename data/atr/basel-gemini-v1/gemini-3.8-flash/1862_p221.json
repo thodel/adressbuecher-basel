@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p221",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p221.jpg",
+    "bytes": 1276768,
+    "sha256": "3008e88159b853968eec5a3dee3db3d86f65eedfc277b3da9432667c5cb322af",
+    "sha256_of": "original",
+    "working_copy": "1862_p221.jpg"
+  },
+  "text": "156 Sternengäßlein. — Stiftsgasse.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n12 | IV. | 966 | | Schaub-Ruetschy, Wtb., Cathar.\n  Pfaff-Ruetschy, Andreas, Zimmermstr.\n17 | IV. | 975 | im Panorama. | Hauser-Oser, Rudolf.\n  Comptoir v. Rudolf Hauser-Oser, Wein- und Spirituosenhandlung.\n18 | IV. | 967 | | Roth-Ecklin, Peter.\n  Roth-Ecklin, Peter, Maler.\n19 | IV. | 974 | im Panorama. | Hauser-Oser, Rudolf.\n  Hauser-Oser, Rudolf, Kaufmann.\n20 | IV. | 912 | | Bischoff-Kestner, Joh. Jacob.\n  Magazin.\n21 | IV. | 973 | im Panorama. | Hauser-Oser, Rudolf.\n  Herzog-Wybert, Wb. Margaretha, Part.\n23 | IV. | 972 | zum Unkelin. | Linder-Uebelin, Joh. Jacob.\n  Linder-Uebelin, Johan. Jacob, Ofen- fabrikant.\n27 | IV. | 972 A | | Linder-Uebelin, Joh. Jacob.\n  Burckhardt-Bischoff, Christof, Dr. med.\n  Heusler-Sarasin, Andreas, Dr. J. U.\n29 | IV. | 971 | | Epple-Stücklin, Christian.\n31 | | | | Liechti-Bayer, Ulrich, Schreiner.\n  Schmidlin-Saladin, Jcob, Schreiner.\n  Meyer-Binker?, Daniel, Postbeamter.\n  Steckle, Jacob, Kriminalgerichtsweibel.\n33 | IV. | 970 | zum Unkelt. | Gasquet-Siegrist, Friedrich Wilh.\n  Gasquet-Siegrist, Friedrich Wilhelm, Zimmermeister.\n  Gerster-Völlmy, Alexander, Maler.\n  Weber-Salathe, Friedrich, Bandfabrikt.\n  Schultheß, Margaretha und Bertha, Modistes.\n34 | IV. | 968 | | Bolliger-Hartmann, Daniel.\n  Bolliger-Hartmann, Daniel, Wirth.\n36 | IV. | 969 | | Fichter und Söhne.\n38 | IV. | 907 | zum Löwen. | Holzwarth-Schweickert, Jacob.\n  Holzwarth-Schweickert, Jacob, Schrein.\n  Wolfisberg-Krieg, Peter, Wirth.\n\nStiftsgasse.\n\n1 | II. | 553 | kleiner Engelhof. | LaRoche-Bez.\n  LaRoche-Bez, Eman., Banquier.\n2 | II. | 565 | Gemeindeschule zu St. Peter. | Stadtgemeinde.\n  Bubeck-Kullen, Wilh. Friedr., Lehrer.\n3 | II. | 558 | z. kleinen Engelhof. | LaRoche-Bez, Emanuel.\n  Schaffter-Seiler, Isaac, Kaufmann.\n  Schaffter-Moll, Aug., Commis.\n4 | II. | 560 | St. Petersstift. | Stadtgemeinde.\n  Weiß-Buxtorf, J. Christ., S.M.C., Lehr.\n5 | II. | 559 | zum Neuenhof. | Lichtenhahn-Glock, Em. Friedrich.\n  Lichtenhahn-Glock, Em. Friedr., Maler.\n  Lotz-Specker, Emil, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10199,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2154,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p221",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p221.jpg",
+      "bytes": 1276768,
+      "sha256": "3008e88159b853968eec5a3dee3db3d86f65eedfc277b3da9432667c5cb322af",
+      "sha256_of": "original",
+      "working_copy": "1862_p221.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:54+00:00"
+  }
+}

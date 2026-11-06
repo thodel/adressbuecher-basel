@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p166",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p166.jpg",
+    "bytes": 1476718,
+    "sha256": "a352936500a8d4560c509d52eee516425c0a41ac54c8b2637608f9262eaf9a9e",
+    "sha256_of": "original",
+    "working_copy": "1862_p166.jpg"
+  },
+  "text": "Madelberg. 101\nNeue Haus=No. | Quar= tier. | Alte Haus=No. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n9 | II. | | | Eingang zu Nr. 9 u. 11 Todten= gäßlein.\n10 | II. | 549 | Zerkindenhof. | Bischoff=Merian, Rudolf.\n| | | | Bischoff=Merian, Rudolf, Kaufmann.\n| | | | Bischoff, Benedict, Tuchhandlung.\n| | | | LaRoche, Hermann.\n11 | II. | 552 A | | VonderMühl=Bischoff, Emanuel.\n12 | II. | 548 | Griebhof. | VonderMühl=Bischoff, Emanuel, Part.\n| | | | Hüfelin=Mohr, Wb. Salomea.\n| | | | Hüfelin=Mohr, Wb. Salomea, Part.\n| | | | Theiler, Josef Eduard, Kaufmann.\n14 | II. | 525 | | Schieferli=Weiß, Friedr. Wilhelm.\n| | | | Schieferli=Weiß, Fr. Wilh., Sägenfeiler.\n| | | | Koch=Schieferli, Heinrich.\n15 | II. | 550 | zur alten Treue. | Koch=Schieferli, Heinrich, Spengler.\n16 | II. | 523 | d. Bienz'sche Haus. | Burckhardt=Jselin, Wb. Dorothea.\n| | | | Burckhardt=Jselin, Wb. Dor., Rentiere.\n| | | | Burckhardt=Jselin, August, Kaufmann.\n17 | II. | 547 A | zur alten Treue. | Zäslin=Stähelin, Conrad.\n| | | | Zäslin=Stähelin, Conrad, Handelsmann.\n| | | | Firma: J. J. Frey, Commission und Spedition.\n| | | | Kürsteiner=Berri, Wb. Apollonia, Part.\n18 | II. | 522 | zum Kaiser. | Stüickelberger=Berri, Wb. Salom.\n| | | | Stüickelberger, Rud. Math., Part.\n| | | | LaRoche=Stehelin, Benedict.\n| | | | LaRoche=Stehelin, Benedict, Banquier.\n| | | | Firma: Benedict LaRoche.\n19 | II. | 546 | | Heckel=Salathe, Helena.\n20 | II. | 520 | Koshof. | Heckel=Salathe, Helena, Trödlerin.\n| | | | LaRoche=Stehelin, Benedict.\n21 | II. | 524 | | Almosenamt der Stadt Basel.\n22 | II. | 520 | Koshof. | Herzog=Eguet, Joh., Almosen schaffner\n23 | II. | 521 | Almosen schaffnei. | und Notar.\n| | | | Herzog, Adolf, Notariatsgehülfe.\n| | | | Herzog, Emil, Kaufmann.\n24 | II. | 511 | zur Platte. | Fürstenberger=Debary, Wb. Julie.\n| | | | Fürstenberger=Debary, Wb. Julie.\n| | | | Fürstenberger, Albert, Wollhändler.\n| | | | Fürstenberger, Hans Georg.\n25 } | II. | 519 | | Brenner=Stehelin, Joh.\n27 } | | | | Brenner=Stehelin, Joh., Kaufmann.\n28 | II. | 507 A | z. großen Birseck. | Litzelmann=Schaffner, Joh. Jac., Kaufm.\n| | | | Firma: J. J. Litzelmann, Farb= und Materialienhandlung.\n| | | | Schär, Joh. Jacob.\n29 | II. | | | (Eingang zu Nr. 12 Spalenberg.)\n30 | II. | 505 | zur Liebburg. | Puppikoser=Landolt, Friedr.\n| | | | Puppikoser=Landolt, Friedr., Schreiner.\n| | | | Basler, Anton, Stuhlschreiner.\n| | | | Hörner=Frey, Julius, Friseur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8111,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2433,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 47.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:42:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p166",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p166.jpg",
+      "bytes": 1476718,
+      "sha256": "a352936500a8d4560c509d52eee516425c0a41ac54c8b2637608f9262eaf9a9e",
+      "sha256_of": "original",
+      "working_copy": "1862_p166.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:47+00:00"
+  }
+}

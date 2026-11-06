@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p412",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p412.jpg",
+    "bytes": 1587522,
+    "sha256": "4adc15c97ec6f39971be0878ecafe5dcb39e6f0ee9fb5edb1f81d45d96d87d07",
+    "sha256_of": "original",
+    "working_copy": "1862_p412.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 347\nSteinmann, Peter, Kutscher. Freie Straße 87. Stöckle=Balderweg, Magd., Zettlerin. Gerber-\n— =Scholer, Joh. Friedr., Schreiner. Spalenvorstadt 22.\n— =Bonwiller, Jakob, Spengler. Freie Straße 14.\n— =Wertenberg, Wb. Ursula, Reinwascherin. Rümelinsplatz 1.\nStelzer, Jgfr. Maria, Zettlerin. St. Albankirchrain 14.\n— =Schäubner, Cathar. Marg., Nätherin. Rheingasse 16.\nStempelmann=Schwander, Heinrich, Maler. Spiegelgasse 12.\nStengelen=Bloch, Jonathan, Wagner. St. Clara=Straße 11.\n— =Schneider, Wb. Susanna, Part. Reb-gasse 22.\nStenz=Mangold, Rudolf, Seidenfärbereigeselle. Rappoltshof 5.\nStern=Büchler, Christian, Kaufhausarbeiter. Spalenberg 7.\nSternenberger, Guf. Magd., Part. Lindenberg 18.\nStiefel=Bollinger, Wb. Elisab., Taglöhnerin. Aeschenvorstadt 75.\n— =Knoblauch, Franz Josef, Schreiner. Spalenberg 43.\n— =Müller, Albert, Strumpfweber. Spalenberg 10.\nStierlin, Eman., Wollwaaren= u. Blutigehandlung. Eisengasse 38.\n— =Mathes, Wb. Anna Dor., Schneiderin. Rheingasse 24.\nStihl=Martin, Friedrich, Commis. Blumenrain 1.\nStingelin=Abt, Joh., Feger. St. Alban=Vorstadt 61.\n— =Dettwiler, Friedrich, Stuhlschreiner. Aeschenvorstadt 75.\n— =Seiler, Jak., Maler. Steinenthofstr. 32.\nStirnemann, Frau, Taglöhnerin. Sternengäßlein 29.\nStocker=Erdin, Heinr., Schreinergeselle. Minzgäßlein 15.\n— =Gyfin, Erasmus, Taglöhner. Spalenthorweg 4.\n— =Gyfin, Joh. Paul, Schreinergeselle. Unt. Heuberg 5.\n— =Hedendorn, Wb. Maria, Fabrikarbeiterin. Neue Vorstadt 8.\nStocker=Hofer, Joh., Zimmermeister. St. Petersgasse 13.\n— =Marthaler, Marcel, Zimmergeselle. Heuberg 44.\nStockmeyer=Burckhardt, Imman., Th. Dr., Pfr. St. Martinskirchplatz 3.\n— Niclaus, Kaufmann. Marktplatz 4.\n— =Kietzchlin, Abraham, Ellenwaarengeschäft. Riehenthofstraße 14.\n— =Roth, Eman., Spengler. Gerbergasse 35.\nStöckle=Balderweg, Magd., Zettlerin. Gerbergäßlein 20.\nStöcklin, Anna Maria, Taglöhnerin. Webergasse 33.\n— =Baumgartner, Joh. Ulrich, Zettlermstr. Rümelinsplatz 11.\n— =Bisegger, J., Handelsmann. Gerbergasse 68.\n— Georg, Eman., Manufacturwaarenhdg. Sporengasse 13. Firma J. J. Georg.\n— =Haberthür, Urs, Maurer. Lindenberg 4.\n— =Huber, Seraphin, Brunnmacher. Hammerstraße 102.\n— =Jenny, Ludw., Quartierschreiber. Freie Straße 85.\n— Joh., Handelsmann. Gerbergäßlein 37.\n— Jonathan, Klaviermacher. Rümelinsplatz 11.\n— Leonhard, Fabrikausfseher. Steinenvorstadt 43.\n— =Meyer, Wb. Cath., Fabrikarbeiterin. Theaterstraße 16.\n— =Schweizer, Joh. Jak., Part. Sternengäßlein 29.\n— Sufette, Part. Sporengasse 13.\n— =Trueb, Niclaus, Desfinateur. Greisengasse 9.\n— =Walz, Georg Friedrich Eduard, Com-mis. Gerbergäßlein 18.\nStör=Berner, Otto, Agent. Kaufhausgasse 6.\nStörchlin=Gerber, Gustav, Fabrikarbeiter. Spalenberg 42.\nStörkel, Regina, Borgängerin. St. Leonhards=Graben 26.\nStörkle=Parison, Schneider. Spiegelgasse 4.\nStössel=Bender, Jean, Commis. Spalenvorstadt 3.\n— =Burk, Carl, Gastwirth. Spalenvorstadt 3.\n— =Nuxbaumer, Wb. Anna Maria, Part. Schwanengasse 6.\n— =Wiedmer, Wb. M., Wirthin. Rohlenberg 5.\nStoffer, Wb. Agatha, Taglöhnerin. Weiße Gasse 17.\n— =Wagner, Wb., Partiful. Bruderholzstraße 22.\nStohler=Buffinger, Wb. Elisab., Part. Lindenberg 13.\n— =Hofer, Adolf, Feger. Fabrikstraße 33.\n— Joh. Jacob, Zahnarzt. Untere Rheingasse 13.\n— =Meyer, Johs. Heinr., Posamenter. In der Breite 9.\n— =Neracher, Heinr., Posamenter. St. Johann=Vorstadt 80.\n— =Selzer, Margar., Reinwascherin. St. Peterskirchplatz 10.\n— =Thommen, Heinr., Feger. Rümelinsplatz 3.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8971,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3452,
+    "lines": 66,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:17:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p412",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p412.jpg",
+      "bytes": 1587522,
+      "sha256": "4adc15c97ec6f39971be0878ecafe5dcb39e6f0ee9fb5edb1f81d45d96d87d07",
+      "sha256_of": "original",
+      "working_copy": "1862_p412.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:17:02+00:00"
+  }
+}

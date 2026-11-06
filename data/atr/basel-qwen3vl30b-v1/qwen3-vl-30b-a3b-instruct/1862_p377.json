@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p377",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p377.jpg",
+    "bytes": 1459918,
+    "sha256": "0d90f1886ab3febb9659d3271523eac6f46ef5ea6987185cbbbed6fe443af15f",
+    "sha256_of": "original",
+    "working_copy": "1862_p377.jpg"
+  },
+  "text": "312 Verzeichniß der Bürger und Einwohner.\nLüsch=Stapfer, Carl, Kaufmann. Aeschengraben 16.\nLüff=Zuber, Alois, Kostgeber. Utengasse 58.\n— =Obrist, Joh. Jac., Tabak- u. Cigarrenhandlung. Schneidergasse 34.\nLüthi=Philipp, Johs., Knecht. Schorenweg 9.\n— =Stolz, Frau, Wollwascherei. Aeschenvorstadt 26.\n— =Widmann, Rud., Sägermeister. Brüttliberg 7.\nLüthy=Biirgin, Joh. Ulrich, Bandagist. Pfungägälein 4.\nLützelmann=Schaffner, J. J., Farb- u. Materialwaarenhandlung. Firma J. J. Lützelmann. Nadelberg 28.\nLützelschwab=Schmid, Ludwig, Conducteur. Heumattstraße 16.\nLupp, Christina, Borgängerin. St. Peters-Platz 15.\nLutiger=Bettig, Gregor, Schuster. Imbergägälein 19.\nLuttringhausen=Cuat, Ed., Commis. Steinenhorstraße 30.\nLuz, Eduard, Zuckerbäcker. St. Elisabethen-Straße 60.\n— =Eichenberger, Joh. Friedr., Ausläufer. St. Peters-Berg 36.\n— =Merker, Jacob, Kleiderhändler. Rüdengägälein 9.\n— =Mundwiler, Eduard, Kapellmeister. St. Elisabethen-Straße 60.\n— =Bögelin, Ulrich, Uhrenmacher. Klosterberg 13.\nMaag=Denzler, Wb. Ursula, Kostgeberin. Riehenteichweg 32.\n— =Haujer, Wb. Serena, Fabrikarbeiter. Utengasse 41.\nMaas=Day, Magd., Wärterin. Lindenberg 13.\n— =Krug, Rudolf, Kaufmann. Steinenthorstraße 19.\n— =Müller, Rudolf, Dr. med. et Chir. Barfüßerplatz 16.\nMachi=Hilpert, Joj., Gerbergeselle. Rheingasse 49.\nMack=Walz, Xaver, Mechaniker. Gartenstraße 68.\nMackler=Tanner, Friedrich. Unt. Reb-gasse 19.\nMadeur, Johannes, Kaufmann. Schützenmattstraße 24.\n— u. Wohlnlich, Commission u. Spedition. Schützenmattstraße 24.\nMadöry=Biehlmann, Joh., Spezierer. St. Alban-Vorstadt 104.\n— =Frey, Joh., Posamenter. Greifengasse 5.\n— =Glafer, Friedrich, Gastgeber. Schwanengasse 5.\n— =Glafer, Friedr., Tabak- u. Cigarenhdlg. Greifengasse 3.\n— =Gyfin, Jakob, Werkmeister. Fabrikstraße 14.\nMadöry=Harimann, Adam, Posamenter. Steinenvorstadt 45.\n— Hasler, Adolf, Posamenter. Gerbergasse 8.\n— =Jörin, Wilhelm, Zettlermeister. Riehenstraße 59.\n— Reber, Wilhelm. Nauenstraße 13.\n— =Riedinger, Friedr., Wirth. Ochsen-gasse 5.\n— Scholl, Peter, Mezer. Heumattstraße 9.\n— =Simmen, Jakob, Posamenter. Grenzacher-Straße 85.\n— =Simon, Joh., Zimmergesell. Steinen-thorstraße 43.\n— =Thommen, Friedrich, Posamenter. Hintere Bahnhofstraße 40.\n— =Thommen, Friedrich, Bandstuhlmacher. St. Martins-Gasse 16.\n— =Winzerried, Friedrich, Landwirth. Bruderholzweg 10.\nMäder, Peter, Knecht. Lindenberg 9.\nMäglin-Baumann, Joh. Ludwig de Abraham, Wirth u. Mezger. Schafgäklein 2.\n— Benedikt de Anton, Kaufm. St. Johann-Vorstadt 9.\n— Christof, Gipser u. Stuccator. Rebgasse 27.\n— Franziska, Wascherin. Rappoltshof 14.\n— =Kuhn, J. J., Küfer. Spalenberg 14.\n— =Müller, Jak. Christof, Wirth u. Mezger. Riehenthorstraße 27.\n— Paravicini, Friedr. Rudolf, Commis. Birsigstraße 15.\n— =Pfister, Jacob, Karthausgärtner. Riehenthorstraße 2.\n— =Sendramier, Rudolf, Commis. Rannengasse 9.\n— =Strub, Gustav, Commis u. Glasfinner. Marktplatz 5.\n— =Tschopp, Wb. Magdalena, Partikular. Steinenthorstraße 42.\n— =Weiß, Jacob, Dekorationsmaler. Reb-gasse 45.\nMähly, Friedr., Fabrikarbeiter. Weiße Gasse 6.\n— Jacob, Küfer. Aeschenvorstadt 74.\n— =Schaub, Friedr. Wilhelm, Conducteur. Gartenstraße 66.\n— =Schermar, Jacob, Dr. Phil., Lehrer. Marktplatz 11.\nMärki-Rychner, Xaver, Commis. Heumattstraße 5.\nMärklin, Andreas, Commis. Freie Straße 1.\n— =Bachmann, Joh. Jakob, Straßenwart. Streitgasse 20.\n— =Bitterlin, Jacob, Posamenter. Imbergägälein 5.\n— =Christ, Rud., Part. Spalenthorweg 20.\n— =Gnoepff, Wb. Dorothea, Kent. Spalenberg 50.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9095,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3480,
+    "lines": 68,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:11:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p377",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p377.jpg",
+      "bytes": 1459918,
+      "sha256": "0d90f1886ab3febb9659d3271523eac6f46ef5ea6987185cbbbed6fe443af15f",
+      "sha256_of": "original",
+      "working_copy": "1862_p377.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:11:37+00:00"
+  }
+}

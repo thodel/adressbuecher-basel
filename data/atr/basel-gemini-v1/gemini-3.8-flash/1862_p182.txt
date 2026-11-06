@@ -1,0 +1,51 @@
+Rittergasse. 117
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+4 | V. | 1374 | Obersthelferwohng. | Staat.
+  Burckhardt-Miville, Abel, Pfarrer.
+5 | V. | 1369 A | St. Ulrichskirchhöflein. | Vischer-Bischoff, Friedrich.
+  Magazin.
+6 | V. | 1375 | Lehrerwohnung. | Staat.
+  Bußinger-Mähly, Joh. Jak., Lehrer.
+7 | V. | 1366 C | Rothbergerhof. | Vischer, Salome.
+  Remise u. Stallung.
+8 | V. | | Dießbacherhof. | Staat, Bauplatz.
+9 | V. | 1369 | St. Ulrichseck. | Preiswerk, Wilhelm v. Lucas.
+10 | V. | 1377 | zum Delphin. | His-Heusler, Eduard.
+  His-Heusler, Eduard, Bandfabrikant.
+11 | V. | 1368 | | Christ, Remigius.
+  Magazin.
+12 | V. | 1206 | Eptingerhof. | Christ, Remigius.
+  Christ, Remigius, Alt Stadtrath.
+  Comptoir v. Frey, Thurneysen u. Christ, Bandfabrikanten.
+13 | V. | 1367 | | Christ, Remigius.
+14 | V. | 1207 | zum Gemar. | Frey, Thurneysen u. Christ.
+  Bandfabrik.
+15 | V. | 1366 | Rothbergerhof. | Vischer, Jungfr. Salome.
+  Vischer, Salome, Rentiere.
+16 | V. | 1208 | | Imhoff-Heitz, Ludwig.
+  Imhoff-Heitz, Ludw., Dr. med., Arzt.
+  Heitz-Eltester, Wb. Augusta, Part.
+17 | V. | 1365 | großer Ramsteinerhof. | Ryhiner-Hermann, Heinrich August.
+  Ryhiner-Hermann, Hch. August, Part.
+  Ryhiner-Streckeisen, A. Pauline, Part.
+18 | V. | 1209 D | Domprobstei. | Bachofen-Merian, Joh. Jakob.
+19 | V. | 1364 | Rheinhaldenhof. | Vischer-Bischoff, Friedrich.
+  Vischer-Bischoff, Friedrich, Kaufmann.
+  Bischoff, Achilles Vater, Rentier.
+  Bischoff, Friedrich, Agent.
+20 | V. | 1210 | Ritterhof. | Burckhardt-Vischer, Carl.
+  Burckhardt-Vischer, Carl, Rentier.
+  Merian-Burckhardt, Rud., Ingenieur.
+21 | V. | 1363 | zur hohen Sonne. | Hoffmann-Burckhardt, Albert.
+  Merian, Susanna, Rentiere.
+  Hoffmann-Gönner u. Comp., Tuchhdlg.
+22 | V. | 1211 und | der vordere Ramsteinerhof. | Iselin-Burckhardt, Isaac.
+  Iselin-Burckhardt, Isaac, Kaufmann.
+  Iselin-Bischoff, Isaac, Kaufmann.
+24 | | 1211 a | |
+23 | V. | 1362 A | zum Engel. | LaRoche-Merian, Carl Gustav.
+  Burckhardt-Vischer, Wb. Maria, Rent.
+  Passavant, Theophil, V. D. M.
+25 | V. | 1362 | Rothbergerhof. | LaRoche-Merian, Carl Gustav.
+  LaRoche-Merian, Carl Gustav.

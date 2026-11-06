@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p151",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p151.jpg",
+    "bytes": 1308058,
+    "sha256": "07098e4c429da297ebf54a9a4a3b17613062af99cf5d7cae46a520605b8f57be",
+    "sha256_of": "original",
+    "working_copy": "1862_p151.jpg"
+  },
+  "text": "86. St. Leonhards-Straße. — Lohnhofgäßlein. — Luftgäßlein.\nNre\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n20 II. 388 ………… Im Hof, Hans Bernhard.\nIm Hof, Hans Bernhard, Rentier.\n21 III. 154 B ………… Linder=Courvoisier, Theophil.\nLinder=Courvoisier, Theophil, Agent in\nRohseide.\nLinder, Jgfr. Elise, Part.\n22 II. 389 ………… Wertenberg=Giirtler, Joh. Jac.\nWertenberg=Giirtler, Joh. Jac., Maurer.\nMeyer=Miller, Maria, Speziererin.\n24 III. 152 B ………… Plattner=Hosch, Joh.\nPlattner=Hosch, Joh., Zimmermeister.\nBurchhardt=Kselin, Wb. Cath.\n25 III. 154 ………… Geßler=Plattner, Emil.\nGeßler=Plattner, Emil, Baumeister.\nKeller=Keller, Paul, Commis.\nFäsch=Haufer, Ludwig, Partikular.\nPlattner=Hosch, Joh.\n26 III. 152 A ………… Hurter=Steiner, Felix Jak., Baumfr.\n27 III. 153 B ………… Labhardt=Schubiger, Ferdinand.\n28 III. 153 ………… Hinden=Schelling, Joh.\nHinden=Schelling, Joh., Bäcker u. Wirth.\nHaunz, Louis, Bauführrer.\nLoebe=Ufermann, Bernhard, Musiker.\nSchdler, Joh., Ingenieur.\nFriedrich, Daniel, Kaufmann.\n34 III. 153 C ………… Loz=Riindig, Joh. Leonhard.\nLoz=Riindig, Joh. Leonhard, Schlosser.\nNäf=Miller, Friedrich, Eisenbahnbeamt.\nLoz, Bernh. Casp., Agent.\nLohnhofgäßlein.\n4 III. 709 z. weissen Kößlein. Lindenmeyer, Carl.\nFritsche=Schudel, Franz, Lisieur.\n6 III. 710 ………… Lindenmeyer, Carl.\nKamber=Schupp, Jos., Ausläufer.\n8 III. 711 ………… Rudin=Meyer, Heinrich.\nRudin=Meyer, Heinrich, Particular.\n10 III. 704 B ………… Schmidt=Bloch, Rudolf.\n14 III. 696—701 ………… Merian=Meyer, Wb. Anna Maria.\nLuftgäßlein.\n1 V. 1205 zum Kroned. Christ=Sarasin, Adolf.\nChrist=Sarasin, Ad., Bandf. u. Rathsh.\n2 V. 1200 zum Luft. Hindermann=Merian, Joh. Jakob.\nHindermann=Merian, Joh. Jakob, Band-\nfabrikant.\nGysin=Hindermann, Cour., Banquier.\n3 V. 1204 ………… Kespinger=Jsenegger, Fried., fel. Erb.\nKespinger=Senn, Friedr., Kaufmann.\nKespinger=Jsenegger, Wb. Sal., Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6550,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1881,
+    "lines": 58,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:40:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p151",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p151.jpg",
+      "bytes": 1308058,
+      "sha256": "07098e4c429da297ebf54a9a4a3b17613062af99cf5d7cae46a520605b8f57be",
+      "sha256_of": "original",
+      "working_copy": "1862_p151.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:07+00:00"
+  }
+}

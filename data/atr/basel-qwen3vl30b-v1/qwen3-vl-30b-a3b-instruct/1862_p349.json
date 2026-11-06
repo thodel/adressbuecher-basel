@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p349",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p349.jpg",
+    "bytes": 1444153,
+    "sha256": "bf039ef8c8f3c9dbb4ec137e5991f6d5f4f004e1d632090e9866dd437c50ee8e",
+    "sha256_of": "original",
+    "working_copy": "1862_p349.jpg"
+  },
+  "text": "284\nVerzeichniß der Bürger und Einwohner.\nGlaser=Solger, Rud., Landjäger. Lindenberg 7. | Gnöpff=Landolt, C., Bäckermeister. Aeschen-\n— =Werfele, Alois, Spezierer. Steinen- | vorstadt 2.\nthorstraße 5. | — Rudolf, Commis. Aeschenvorstadt 2.\nGlaz, Caspar, Part. Binninger Straße 17. | Godenzi=Bosig, Giovanni, eidgen. Zollbeamter.\n— =Gysin, Wb. Elisab., Part. Binninger | Schneidergasse 32.\nStraße 17. | Göbel, J. Fried., Seidenfärberei. Lindenberg 21.\n— =Hug, Wilh., Lehrer. Binninger Straße 17. | Gölzer=Grey, Wb. Barb., Nätherin. St.\n— =Zeller, Gärtner. Binninger Straße 23. | Leonhards-Berg 12.\nGlauser=Bogt, Magd. Cath., Taglöhnerin. | Gölzlin, Friedr., Schneider u. Fleckenpuzer.\nSchwanengasse 12. | Rheingasse 30.\nGloc, Eduard, Bierbrauerei. Aeschenvor- | Gönnert=Gutherz, Ursula, Part. Unterer\nstadt 45. | Heuberg 27.\n— Gustav, Kaufmann. Schiffslände 10. | Göpp, Michael Jos., Lehrer. Lindenberg 12.\n— u. Hübscher, Speditionsgeächt. Stei- | Görner, Carl, Commis. Blumenrain 20.\nnenberg 10. | Götte=Bärwart, Joh. Gottl., Fabrikarbeiter.\n— =Scherb, Peter, Küfer u. Wirth. Spa- | Schneidergasse 9.\nlenberg 58. | — =Majer, Johs., Zimmermeister. Spa-\n— =Wegner, Marg., Part. Austraße 30. | lenvorstadt 39.\nGloor=Hürdi, Rudolf, Bahnhofarbeiter. | Götti=Müller, Hiers., Bahnhofarbeiter. All-\nGellert- | schwylcr Straße 66.\nstraße 52. | Göttisheim=Breiting, Friedr., Redactor d. Tag-\n— =Latscha, Heinr., Gipser. Greifengasse 15. | blatts. Aeschenvorstadt 46.\n— Maria, Wb. Taglöhnerin. Sternen- | — =Reifer, Friedrich, Spezerei-handlung.\ngäßlein 31. | Aeschenvorstadt 43.\n— =Meng, Rud., Zimmergeselle. Alybech- | — =Schafter, Alois, Schreinerges. Fabrik-\nstraße 51. | straße 19.\n— Oscar. Rheingasse 63. | Götty=Weissenburger, Georg, Rathshoten=Bi-\n— =Plattner, Heinr.. Posamenter. Gellert- | car. Aeschenvorstadt 64.\nstraße 48. | Göz, Balthasar, Sohn, Färber. Steinen-\n— =Scherb, Jac., Ausläufer. St. Peters- | vorstadt 29.\nkirchplatz 10. | — =Buser, Wb. Anna Maria, Part. Ham-\n— =Bölmh, Rudolf, Posamenter. In der | merstraße 28.\nBreite 13. | — u. Eßlin, Bandfabrikanten. St. Clara-\n— =Zeller, Johs., Detailiant. Heumatt- | Straße 32.\nstraße 8. | — =Füninger, Balthasar, Färber. Steinen-\nGlor=Haas, Johannes, Fuhrbeamteungscaffier. | vorstadt 29.\nWallstraße 20. | — =Haufer, Rudolf Heinrich, Kaufmann.\nGllinkin=Hasner, Jacob, Holzarbeiter. Linden- | Aeschengraben 6.\nberg 3. | — =Linder, Wb. Margaretha, Part. Aeschen-\nGlunz, Geschwister, Bettmacherinnen. Gren- | vorstadt 58.\nzacher=Straße 52. | — =Mühly, Wilhelm, Commis. St. Jo-\n— =Haufer, Carl Ludw., Seidenfärberei. | hann=Vorstadt 37.\nRheingasse 90. | — =Suter, Joh., Commis. Klosterberg 25.\n— Joh. Conr., Seidenfärberegeselle. Uten- | — Wilhelm, Commis. Blumenrain 14.\ngasse 40. | Gökenberger, Friedr., bad. Eisenbahngestellt.\n— =Leininger, Ferd., Seidenfärberegeselle. | Reb-gasse 5.\nUtenzasse 40. | Gözinger, Max Wilhelm, Uhrmacher. Freie\n— =Seyfried, Carl, Contremaitre, Seiden- | Straße 61.\nfärbcr. Rheingasse 33. | Gohl=Maag, Heinrich, Zimmermeister. Ger-\n— Susanna und Maria, Schneiderinnen. | bergäßlein 34.\nSpiegelgasse 10. | Goldemann=Retterer, Abraham, Fabrikarbeiter.\n— Wilhelm, Commis. Spiegelgasse 10. | Streitgasse 14.\nGlur=Aberle, Jacob, Posamenter. Rhein- | — =Müller, Martin, Wirth. St. Alban-\ngasse 27. | Vorstadt 72.\nGmelin, Heinr., Architekt. Untere Rheingasse 2. | Goldfus, Carl Heinr. Aug. Ferdin., Agent.\nGnöpff, Achilles, Schmid u. Thierarzt. St. | Schützengraben 9.\nElisabethen=Straße 23. | Goll=Gugelmann, Jakob, Heizer. Aeschen-\n— Achilles u. Carl, Hasenhandlg. Aeschen- | vorstadt 49.\nvorstadt 2. | Gomter=Vernauer, Wb. Constant., Taglöhnerin\n— =Bauer, C., Kaufmann. Aeschenvor- | Hammerstraße 97.\nstadt 2. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9576,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3691,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:07:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p349",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p349.jpg",
+      "bytes": 1444153,
+      "sha256": "bf039ef8c8f3c9dbb4ec137e5991f6d5f4f004e1d632090e9866dd437c50ee8e",
+      "sha256_of": "original",
+      "working_copy": "1862_p349.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:07:15+00:00"
+  }
+}

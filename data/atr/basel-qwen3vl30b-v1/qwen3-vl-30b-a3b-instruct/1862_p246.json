@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p246",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p246.jpg",
+    "bytes": 1431251,
+    "sha256": "efa8d4ccf1413b429a73db1dd474f7adfa6b259822bad6afd3dc3987316f0ebe",
+    "sha256_of": "original",
+    "working_copy": "1862_p246.jpg"
+  },
+  "text": "Klingenthal. — Klingenthalgraben. — Klingenthalstraße. 181\nNro. Haus=Nr. | Quar= tier. | Alte Haus=Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n1 | VII. | 302 | zur Drachenmühle. | Kyhner u. Söhne.\n2 | VII. | 303 | zur Koflinmühle. | Kuster=Kusli, Jos. Thom., Schreiner.\n3 | VII. | 311a | hint. Klingenthal= mühle. | Grüninger=Beaudroi, Rudolf.\n4 | VII. | 303 B | | Grüninger=Beaudroi, Rudolf.\n5 | VII. | 311 | hint. Klingenthal= mühle. | Grüninger=Beaudroi, Rudolf.\n6 | VII. | 303 b | | Grüninger=Beaudroi, Rudolf.\n7 | VII. | 313 | vord. Klingenthal= mühle. | Grüninger=Beaudroi, Rudolf.\n8 | VII. | 304 | | Grüninger=Beaudroi, Rudolf.\n10 | VII. | 305 | | Kruse=Gamper, Wb. Margaretha.\n11 | VII. | 318 | | Kruse=Gamper, Wb. Marg., Glütterin.\n12 | VII. | 306 | | Minder=Merian, Samuel.\n13 | VII. | 317 | Pfarrwohnung. | Minder=Merian, Sam., Part.\n14 | VII. | 307 | | Kruse=Gamper, Wb. Margaretha.\n15 | VII. | 316 | | Staats.\n16 | VII. | 308 | | Staats.\n17 | VII. | 314—315 | | Minder=Zaeslin, Joh. Jak.\n18 | VII. | 308 A | | Sider=Miller, B.\n19 | VII. | 312 | klein Klingenthal. | Piaud=Seiler, Joh. Bapt., Dessinateur.\n20 | VII. | 309-309A | Bannwarts Haus. | Hindenlang=Seiler, Friedr., Commis.\n22 | | | | Chiror=Zurt, Andreas, Landwirth.\n21 | VII. | 310 K | Sprikenhaus. | Wagner=Sutter, Adam, Bauführer.\n23 | VII. | 310 | Klingenthalkirche. | Gamper, Caspar, Abwart.\n| | | | Sider=Miller, Victor.\n| | | | Sider=Miller, Victor, Appreteur.\n| | | | Stadtgemeinde.\n| | | | Staats.\nKlingenthalgraben.\n2 | VII. | 1 d | | Ostermann=Schneider, Johann.\nKlingenthalstraße.\n17 | VII. | 85 | | Bischer=Merian, Carl, und Bischer= Burckhardt, Peter.\n37 | VII. | 82 D | 3. froh. Hoffnung. | Baumann=Keller, Melchior.\n| | | | Baumann=Keller, Melchior, Bäcker u. Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5466,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1776,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p246",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p246.jpg",
+      "bytes": 1431251,
+      "sha256": "efa8d4ccf1413b429a73db1dd474f7adfa6b259822bad6afd3dc3987316f0ebe",
+      "sha256_of": "original",
+      "working_copy": "1862_p246.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:24+00:00"
+  }
+}

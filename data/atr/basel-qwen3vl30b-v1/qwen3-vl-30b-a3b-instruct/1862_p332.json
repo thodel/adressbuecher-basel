@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p332",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p332.jpg",
+    "bytes": 1640633,
+    "sha256": "443b02ae78d053222ac5680f7255254e29e709d969dabd2595125501d9b14dce",
+    "sha256_of": "original",
+    "working_copy": "1862_p332.jpg"
+  },
+  "text": "Berzeichnis der Bürger und Einwohner. 267\nBurchhardt=Bernet, Daniel, Baumeister. Reb= Burchhardt=Haller, Joh. Rudolf, Dr. med.\ngasse 28. Kellergäßlein 7.\n— =Bernoullÿ, Mb. Charlotte, Rentiere. — Henriette, Part. St. Johann-Vorstadt 3.\n— =Bischoff, Adolf, Kaufm. Malzgasse 23. — =Heusler, Carl Oberstlieut., Kent. Aeschen=\nAugustinergasse 17. vorstadt 13.\n— =Bischoff, Christof, Dr. med., Arzt. — =His, Martin, Dr. med. Arzt. Mün-\nSternengäßlein 27. sterplatz 2.\n— =Bred, J. U. D., Stadtrath. St. Leon- — =Huber, Achilles, Wechselfenjal. St. Pe=\nhards=Graben 38. ters=Gasse 40.\n— =Brenner, Dr. Fritz, Lehrer. Schlüssel- — Jac., Professör. St. Alban=Vorstadt 41.\nberg 17. — Jacob, Posamenter. Spalenberg 32.\n— =Brenner, Hans, J. U. D., Kanzleivorsteh- — =Jacot, Lucie, Part. Stadthausgasse 13.\nu. Stadtschreiber. Stadthausgasse 13. — Joh. Rud., J. U. D., Stadtrath. Freie\n— =Brotbeck, Magdalena, Spinnerin. Spa- Straße 18.\nlenberg 43. — Johannes, Commis. Missionsstraße 39.\n— =Burchhardt, Carl, J. U. D., Chegerichts- — Joh. Sohn Glaser. Nadelberg 34.\npräsident. Münsterplatz 4. — F. F., J. U. D. Aeschenvorstadt 7.\n— =Burchhardt, Emanuel, Kaufmann. St. — =Jnshof, Susanne, Kent. Heuberg 16.\nAlban=Vorstadt 19. — =Jselin, Aug., Kaufmann. Nadelberg 17.\n— =Burchhardt, Carl Leonh., Betriebsinspect. — =Jselin, Carl, Kathschreiber. Steinen=\nd. Centralbahn. Heumattstraße 10. vorstadt 57.\n— =Burchhardt, Rud., Dr. med. et Chir. — =Jselin, Heinr., Kaufmann. St. Elisa=\nSt. Leonhards=Graben 38. bethen=Strasse 22.\n— =Buxtorf, Joh. Rud., Rector des humani- — =Jselin, Mb. Cath., Rentiere. St. Leon=\nstischen Gymnasiums. Münsterplatz 15. hards=Strasse 24.\n— Charlotte, Kent. St. Alban=Vorstadt 6. — =Jselin, Mb. Dorothea, Rentiere. Nadel=\n— Christof von Christof, Quincaillerie= und berg 17.\nParfümerielager. Freie Straße 4. — Judith, Part. Marktplatz 12.\n— Christoph von Emanuel, Rentier. Db. — Jungfrauen Louise, Adele u. Marie, Kent.\nRheinweg 91. Blumenrain 19.\n— =Dief, Aug., Dr. med., Arzt. Schlüssel- — =Keller, Joh. Rud. Augustinergasse 19.\nberg 13. — =Kern, G., Lehrer. Sporengasse 14.\n— =Edenstein, Heinr., Kaufmann. Fisch- — =Klindig, Mb. Rosine, Part. Marktplatz 13.\nmarkt 12. — =Klindig, sel., Mb. Mehlhandlung. Markt\n— =Eßlin, Franz, Mechaniker. Riimelin- platz 13.\nbachweg 4. — =Leuthold, F. F., Schleifer. Minzgäßlein 3.\n— Eduard, Stufator. Spalenberg 55. — =Mantel, Joh., Metzger. Schneider=\n— =Eggenschwiler, Franz Xaver, Taglöhner. gasse 26.\nMarktplatz 16. — Margar., Kent. St. Alban=Vorstadt 6.\n— Emanuel, Kaufmann. Heuberg 16. — Maria, Rentiere. Steinenberg 5.\n— =Fäsch, Mb. Emilie, Part. Hintere Spi- — =Mieg, F. F., Kaufmann. Freie Straße 4.\ntalgasse 7. — =Miville, Abel, Pfarrer, Obersthelfer. Rit-\n— Forcart, Daniel, Bandfabrikant. St. tergasse 4.\nAlban=Graben 14. — =Miville, Achilles, Zucker= u. Pastetenbäck.\n— =Forcart, Ludwig, Kaufmann. Aeschen- Freie Straße 26.\nvorstadt 50. — =Pfunder, Seb., Wirth. Sattelgasse 4.\n— =Forcart, Wilh., Rentier. St. Alban- — =Piguet, Theophil, Lehrer a. Gymnasium.\nGraben 20. Augustinergasse 15.\n— Friedr., Commis. St. Johann=Vorstadt 88. — =Preiswerk. Wilh. St. Alban=Vorstadt 1.\n— =Fürstenberger, Eman., J. U. D., Rath= — =Preiswerk, Emanuel, Pfarrer. Heu-\nherr. St. Peters=Graben 27. berg 24.\n— =Gemuseus, Emilie. Neue Vorstadt 30. — =Raillard, Mb. Louise. Todtengäßlein 3.\n— Georg, Rentier. St. Elisabethen=Strasse 4. — Rosina. St. Elisabethen=Strasse 4.\n— =Grunz, Sam., Schuhmacher. Schaf- — =Roth, Mb. Marg., Part. St. Johann=\ngäßlein 14. Vorstadt 88.\n— Gottlieb, Dr. med. Barfüßergasse 12. — Rudolf, Lehrer. Schlüsselberg 17.\n— =Griininger, Mb. Ursula, Maler. Nadel- — =Ryhiner, Joh. Jac., Alt Bürgermeister,\nberg 45. J. U. D. Aeschenvorstadt 7.\n— Gustav, Kaufmann. Marktplatz 12. — Samuel, Part. Hammerstraße 19.\n— Hans Heinr., Kutscher. Münsterberg 14.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9998,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3812,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 61.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:04:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p332",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p332.jpg",
+      "bytes": 1640633,
+      "sha256": "443b02ae78d053222ac5680f7255254e29e709d969dabd2595125501d9b14dce",
+      "sha256_of": "original",
+      "working_copy": "1862_p332.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:36+00:00"
+  }
+}

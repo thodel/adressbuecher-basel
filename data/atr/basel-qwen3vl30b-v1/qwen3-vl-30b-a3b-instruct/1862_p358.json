@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p358",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p358.jpg",
+    "bytes": 1641981,
+    "sha256": "7002260db083b3e496afa59cb23f0cfe1009d7d003fd78702fe426b3dc67870e",
+    "sha256_of": "original",
+    "working_copy": "1862_p358.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 293\nHerrmann-Fischer, Heinrich, Bettwerkhandlung. St. Leonhards-Graben 7.\n— =Hubsch, Georg, Commis. Heuberg 20.\n— =Joh., Schneider. Sattelgasse 14.\n— =Klindig, Heinrich, Eisenbahnbeamter. Spalenthorweg 32.\n— =Louise, Lehrerin. St.Theodorskirchplatz 7.\n— =Mazinger, Theod., Agent. Mithlenberg 3.\n— =Stehlin, Friedrich, Schmied. Aeschen-vorstadt 60.\nHersperger, Barbara. St. Peters-Platz 18.\n— =Berner, Friedrich, Feger. Steinenvorstadt 3.\n— =Friedrich, Eisenbahnangestellter. Grün-pfahlgässlein 5.\n— =Hersperger, Isaak, Botenspedter. Weidengasse 24.\n— =Röchlin, Johannes, Eisenbahnarbeiter. Aeschenvorstadt 66.\nHertner, Heinrich, Wirth. Steinerringweg 17.\n— =Oberer, Jakob, Posamenter. St. Alban-Vorstadt 48.\nHerzer-Reble, Hugo, Kaufmann. St. Peters-Gasse 7.\nHerzog, Achilles Emanuel, Commis. St. Peters-Platz 16.\n— =Adolf, Notariatsgehilfe. Nadelberg 23.\n— =Bernhard, Klavierhändler. St. Clara-Strasse 20.\n— =Berri, Achilles, Kaufmann. Nauenstrasse 1.\n— =Charlotte Louise, Part. Nadelberg 23.\n— =Eguet, Johs., Almosen schaffner u. Notar. Nadelberg 23.\n— =Elisabeth, Nätherin. Zmbergässlein 28.\n— =Emil, Commis. Nadelberg 23.\n— =Franz Xaver, Photograph. Blumenrain 28.\n— =Häsler, Emanuel, Lohn diener. St. Peters-Platz 16.\n— =Henriette, Krankenwärterin. Gartenstrasse 65.\n— =Josepha, Nätherin. Spitalstrasse 13.\n— =Jtin, Joh. Rep., Taglöhnerin. Hammerstrasse 44.\n— =Kaister, Wb. Ursula, Wascherin. Gerbergässlein 16.\n— =Lagot, Franz Xaver. Photograph. St. Peters-Gasse 6.\n— =Lipp, Nicolaus, Fabrikarbeiter. Ochsen-gasse 21.\n— =Maria Elisabeth, Nätherin. Zmbergässlein 28.\n— =Reber, Emanuel, Rentier. Schlittsel-berg 11.\n— =Scheitlin, Achilles, Kaufmann. Gerbergasse 55.\n— =Thommen, Friedr., Feilenhauer. Rheingasse 36.\n— =Wiesler, Joh., Posamenter. Gerbergässlein 32.\nHerzog-Wybert, Wb. Margar., Part. Sternengässlein 21.\n— =Zimmermann, Xaver, Knecht. St.Peters-Platz 5.\nHesse, Frau Margaretha, Part. Aeschenvorstadt 75.\n— =Margareth., Nätherin. Spalenvorstadt 41.\nHek-Burckhardt, Joh., Lehrer am Gymnasium. Rheinsprung 17.\n— =Frey, J. J., Weinhändler. St. Johann-Vorstadt 67.\n— =German Leonh., Commis. Allschwyler Straße 77.\n— =Hasler, Friedr., Angestellter am bad. Bahnhof. Grenzacher-Straße 54.\n— =Hoch, Joh., Alt-Spitalprediger. Nadelberg 1.\n— =Rühner, Heinr., Posamenter. St. Alban-Vorstadt 29.\n— =Mugglin, Heinr. Rud., Lehrer und Handelscommis. Gerbergasse 5.\n— =Ryff, Andreas, Photograph. Schneidergasse 28.\n— =Ulrich, Schloffer. Heumattstraße 5.\n— =Borjell, Conrad, Taglöhner. Hammerstraße 44.\n— =Weber, Albert, Knecht. Untere Rheingasse 10.\nHezel-vonBrunn, Wb. Angelika, Part. Hammerstraße 66.\n— =Wunderlin, Friedr., Fabrikant u. Floretspinnerei. St. Clara-Graben 11.\nHeuberger-Schaar, Jacob, Schreiner. St. Clara-Graben 11.\nHeusler, Abel, Kaufmann. Freie Straße 90.\n— =Bischoff, Maria, Wb., Part. Untere Rheingasse 1.\n— =Bischoff, Rudolf, Bandfabrikant. St. Alban-Graben 8.\n— =Carl, Dr. Phil. Greifengasse 4.\n— =Chrifst, Daniel, Bandfabrikant. St. Alban-Graben 8.\n— =Eduard, Dr., Anwalt u. Notar. Freie Straße 90.\n— =Fatio, Wb. Ester, Rent. St. Alban-Thal 52.\n— =Friedrich, Rentier. Blumenrain 32.\n— =Geigh, Wb. Elise, Part. Freie Straße 90.\n— =Gelzer, Adolf, Bäckermeister. St. Alban-Vorstadt 64.\n— =Hegy, Wb. Helena, Kostgeberin. Freie Straße 89.\n— =Izelin, Daniel, Bandfabrikant. Mithlenberg 22.\n— =Leonhard, Colporteur. Untere Rheingasse 21.\n— =Lima, Carl, Part. Aeschenvorstadt 44.\n— =Merz, Friedrich, Spengler. Sägergässlein 2.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9110,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3480,
+    "lines": 70,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:08:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p358",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p358.jpg",
+      "bytes": 1641981,
+      "sha256": "7002260db083b3e496afa59cb23f0cfe1009d7d003fd78702fe426b3dc67870e",
+      "sha256_of": "original",
+      "working_copy": "1862_p358.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:39+00:00"
+  }
+}

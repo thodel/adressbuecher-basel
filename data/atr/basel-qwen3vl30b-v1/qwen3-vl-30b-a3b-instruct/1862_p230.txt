@@ -1,0 +1,44 @@
+Bahnhofstraße. 165
+Neue Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+1 | VIII. | 18 A | | Jaeggi=Landbeck, Wilh.
+| | | | | Jaeggi=Landbeck, Wilh., Wirth.
+| | | | | Strebel=Broechin, Ludw., Part.
+3 | VIII. | 18 B | Extractfabrik. | Müller, Joh. Jakob u. Comp.
+| | | | | Schumberger=Sager, Jul. Albert, Chemiker.
+| | | | | Müller=Pac, J. J., Fabr. v. chemischen Farbstoffen.
+| | | | | Cornu, Felix, Chemiker.
+| | | | | Finsler, Heinrich, Chemiker.
+| | | | | Seber, Dr. B., Chemiker.
+4 | VII. | 74 A | Bad. Bahnhof. | Grokh. bad. Eisenbahnverwaltung.
+6 | VII. | 74 A | Bad. Bahnhof. | Grokh. bad. Eisenbahnverwaltung.
+| | | | | Eckhardt, Friedr. Postmeister.
+7 | VII. | 7 Q | | Merian=Seeber, Emanuel.
+8 | VII. | 74 A | Bad. Bahnhof. | Grokh. bad. Eisenbahnverwaltung.
+9 | VII. | 7 R | | Merian=Seeber, Emanuel.
+10 | VII. | 74 A | Bad. Bahnhof. | Grokh. bad. Eisenbahnverwaltung.
+| | | | | VonDavans, Aug., Post- u. Eisenbahncasier.
+11 | VII. | 7 S | | Schoellkopf=Schuhmacher, Gottl. F.
+12 | VII. | 74 A | Bad. Bahnhof. | Grokh. bad. Eisenbahnverwaltung.
+| | | | | Wolff, Tobias, Ingenieurpractikant.
+| | | | | Malzacher, Wilh., Postpractikant.
+| | | | | Reiß, Albert, Güterexpeditor.
+| | | | | Ell, Anton, Telegraphist.
+| | | | | Schoellkopf=Schuhmacher, Gottl. F.
+13 | VII. | 7 T | | Schoellkopf=Schuhmacher, Gottl. F.
+15 | VII. | 7 U | | Bürgin, Em. u. Heinrich.
+17 | VII. | 80 A | | Grijard=Cheron, Wb. Mar. Elisabeth,
+| | | | | Tabakhandlung.
+| | | | | Merian=Respinger, Remigius, Part.
+| | | | | Böhl=Kohlbrügge, Ed., Dr. u. Privat-Dozent.
+19 | VII. | 80 B | Gasthof zum Basler Hof. | Emde=Schoch, Christ. Friedr.
+| | | | | Becker=Geiger, Friedr., Gastwirth.
+| | | | | Schaaf, Adolf, Zollbeamter.
+23 | VII. | 81 A | | Grollimund=Rapp, Jacob.
+| | | | | Grollimund=Rapp, Jac., Wirth.
+31 | VII. | 82 A | | Berlinger=Martin, Frau.
+| | | | | Berlinger=Martin, Georg, Maurer.
+| | | | | Kent=Faller, Philipp, Bildhauer.
+| | | | | Rink=Rohner, Wilh., Schreiner.
+33 | VII. | 82 B a | | VonBrunn=Maßinger, Simon.
+45 | VII. | 73 E | | Hezel=VonBrunn, Wb. Angelika.
+47 | VII. | 66 | | Braun=Geßler, Andreas.

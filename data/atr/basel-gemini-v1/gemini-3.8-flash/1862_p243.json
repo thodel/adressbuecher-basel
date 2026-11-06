@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p243",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p243.jpg",
+    "bytes": 1282744,
+    "sha256": "8cbe9620c0404f321a62e3ef2ebc5b9b49b4073cec6b28c8ef91b23875de260a",
+    "sha256_of": "original",
+    "working_copy": "1862_p243.jpg"
+  },
+  "text": "178 | Hammerstraße. — Herrenmattweg.\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n60 | VII. | 71 | | Zeder-Malzacher, Jacob.\n  Zeder-Malzacher, Jacob, Landwirth.\n65 | VII. | 68 | | Bresin-Weiß, Martins, sel. Erben.\n  Bresin-Weiß, Wb. Sus., Gärtnerin.\n66 | VII. | 73 | | Hetzel-VonBrunn, Wb. Angelika.\n  Hetzel-VonBrunn, Wb. Angelika, Part.\n  Freuler, Anna, Part.\n  Schuster-Spengler, Aug., Musiklehrer.\n  Haas-Georg, Joh. Jac., Kaufmann.\n67 | VII. | 68 A | | Loeffler-Kaufmann, Jacob.\n  Loeffler-Kaufmann, Jacob, Maurermstr.\n  Hartmann-Kromer, Karl, Schreiner.\n  Lüdin-Ritzmann, Ed., Milchhändler.\n69 | VII. | 68 B | | Loeffler-Kaufmann, Jacob.\n  Hoppe-Heuser, Ignaz, Dr. Med. et Chir., Professor.\n70 | VII. | 66 a | | Braun-Geßler, Andreas.\n76 | VII. | 70 A | | Bienz-Oeschger, Rudolf.\n  Scheune.\n80 | VII. | 70 | | Bertrand-Kaiser, Josef.\n  Soller-Bertrand, Hch., Commis.\n82 | VII. | 65 | | Bertrand-Kaiser, Josef.\n85 | VII. | 65 A | | Schmied-Ritter, Wb. Sophia.\n88 | VII. | 64 E | | Wintsch-Lorin, J. Rudolf.\n  Wintsch-Lorin, J. Rud., Holzhändler.\n92 | VII. | 64 A | | Graeslin, Jacob.\n  Bauer-Meister, Conrad, Hafner.\n96 | VII. | 64 D | | Graeslin, Jacob.\n  Lacher-Ruef, Joh. Jac., Appreteur.\n98 | VII. | 64 B | | Thüringer-Streule, Anton.\n  Thüringer-Streule, Ant., Kaufhaus-arbeiter.\n100 | VII. | 64 F | | Troesch-Kunz, Carl.\n  Troesch-Kunz, Carl, Mechaniker.\n102 | VII. | 64 G | | Teufel-Martin, Friedrich.\n  Teufel-Martin, Friedr., Gutsbesitzer.\n  Koch-Gaier, Christ., Maurer.\n106 | VII. | 64 C | | Kaegi-Wohlgemuth, Joh. Hch.\n  Kaegi-Wohlgemuth, Joh. Hch., Seiden-färbergeselle.\n  Aebi-Müller, Ferd., Eisenbahnbeamter.\n  Hartmann-Erzenberger, Joh., Zollbe-amter.\n108 | VII. | 64 | Scheune. | Pfander, Joh. Jak., sel. Erben.\nHerrenmattweg.\n1 | VIII. | 44 | | Christ-Sarasin, Adolf.\n22 | VIII. | 45 | | Oelhafen, Saml. Jakob.\n  Wiesner-Frey, Jac., Posamentermstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7885,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1931,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:02:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p243",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p243.jpg",
+      "bytes": 1282744,
+      "sha256": "8cbe9620c0404f321a62e3ef2ebc5b9b49b4073cec6b28c8ef91b23875de260a",
+      "sha256_of": "original",
+      "working_copy": "1862_p243.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:02+00:00"
+  }
+}

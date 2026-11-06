@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p126",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p126.jpg",
+    "bytes": 1444868,
+    "sha256": "1431c97d789afa80930fc952b8bf3390cec668de4bd82dda90194928344760a0",
+    "sha256_of": "original",
+    "working_copy": "1862_p126.jpg"
+  },
+  "text": "Heuberg.\n61\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n26 | II. | 435 | | Hosh, Albert.\n| | | | Hosh, Albert, Agent.\n| | | | Hosh, Ursula, Porzellanmalerin.\n27 | VI. | 398 | zum rothen Eck. | Huber-Sommerhalder, Jakob.\n| | | | Huber-Sommerhalder, Jak., Blatt- u.\n| | | | Zahnma cher.\n28 | II. | 434 A. | Truchseßer-Hof. | Merian-Merian, Balthasar.\n| | | | Merian-Merian, Balth., Kaufmann.\n29 | VI. | 394 | | Geigy-Burkorf, Sufette, Wittwe.\n| | | | (Remise u. Stallung.)\n30 | II. | 434 | | Stähelin-Zimmerlin, Joh. Jacob.\n| | | | Stähelin-Zimmerlin, Joh. Jacob, Dr. u.\n| | | | Professör der Theologie.\n| | | | Siehe St. Leonhards-Graben Nr. 107.\n31 | VI. | 691 B. | | Frey-Grynaïsche Stiftung.\n| | | | (Fidei-Commis.)\n| | | | Magazin zum Sennenhof gehörig.\n| | | | Vermiether: Prof. Hagenbach.\n| | | | Beständer: Rud. Geßler, Spezierer.\n32 | II. | 433 | zur Feuerglocke. | Amans-Cadet, Heinrich.\n| | | | Amans-Cadet, Heinrich, Kaufmann.\n| | | | Firma: H. u. C. Amans.\n| | | | Koenig, Moriz, Fabrikant.\n| | | | Doebelin, Maria, Particularin.\n33 | VI. | 691 | zu den 3 Mönchen. | Frey-Grynaïsche Stiftung.\n| | | | (Sennenhof.) | (Fidei-Commis.)\n| | | | Hagenbach-Geigy, Dr. Karl Rudolf, als\n| | | | Lector d. Institutes, Prof. d. Theologie.\n34 | II. | 432 | | Schaub-Brodbeck, Joh. Rudolph.\n| | | | Schaub-Brodbeck, J. R., Buchbinder.\n| | | | Salathe-Schneckenburger, Agathe, Part.\n| | | | Thurneyssen, Hel., Jgfr., Part.\n36 | II. | 431 | | Staubert-Wiesner, Rudolf.\n| | | | Staubert-Wiesner, Rud., Appreteur.\n| | | | Eggli-Kern, Jac., Gärtner.\n38 | II. | 430 | zum Däublin. | Holdenecker-Meyer, Frz. Joh.\n| | | | Holdenecker-Meyer, Fr. J., Hafner.\n| | | | Hirzel-Weber, Ben., Straßen-Pflästerer.\n| | | | Hirzel-Holer, Gottl.,\n| | | | Mislap-Pöhls, Adolf.\n| | | | Frid-Kiedtmann, Anna Cath., Mode-\n| | | | waarenhandlung.\n| | | | Lok, Rosina, Particularin.\n40 | II. | 429 | | Mislap-Pöhls, Adolf.\n| | | | Mislap-Pöhls, Adolf, Kaufmann.\n| | | | Trog-Weibel, Julius, Agent.\n42 | II. | 397 | zum rothen Mann. | Steiner-Lohner, Joh. Jacob.\n| | | | Steiner-Lohner, J. J., Fabrikarbeiter.\n44 | II. | 396 | zum Sonderstorf. | Bonnet, J. Samuel.\n| | | | Bonnet, J. Sam., Schuhmacher.\n46 | II. | 395 | | Staat.\n50 | II. | 392 | zum Engelkopf. | Thommen-Minder, Joh. Ulrich, Ausläuf.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7881,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2353,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p126",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p126.jpg",
+      "bytes": 1444868,
+      "sha256": "1431c97d789afa80930fc952b8bf3390cec668de4bd82dda90194928344760a0",
+      "sha256_of": "original",
+      "working_copy": "1862_p126.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:02+00:00"
+  }
+}

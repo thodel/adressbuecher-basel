@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p168",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p168.jpg",
+    "bytes": 1440236,
+    "sha256": "8095e90ddc989c6d314825553099f819b7189c83e8246d9c12067aad686e2d01",
+    "sha256_of": "original",
+    "working_copy": "1862_p168.jpg"
+  },
+  "text": "Nauenstraße. — Neubadstraße. — Neue Vorstadt. 103\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n5 | IV. | 215 F | | Frey-Asch, Bernhard Joseph.\n  Frey-Asch, Bernhard Joseph, Glaser.\n  Martin, Gabriel, Zollbeamter.\n  Aenishänsli, Christian, Commis.\n  Steinmann-Hesti, J. M., Getreidehändl.\n6 | IV. | 214 B | | Schneider-Schneider, Wb. Verena.\n  Schneider-Schneider, Wb. Verena, Part.\n  Vögelin-Wettstein, Heinrich, Commis.\n7 | IV. | 215 E | | Georg, Dr. Carl Ludwig.\n8 | IV. | 214 A | | Kachel-Vest, Lucas Heinrich.\n  Kachel-Vest, Lucas Heinrich, Particulier.\n  Beglinger-Zwicky, Joh., Kaufmann.\n  Schuler-Schwab, Conrad, Commis.\n9 | IV. | 215 D | | Merke, Franz Xaver.\n10 | IV. | 215 B | | Lotz-Holzach, Alb. u. Siber-Lotz, Cas.\n  Compt. v. Alb. Lotz u. Casp. Siber, Bandf.\n13 | IV. | 215 C | | Reber-Meyer, Samuel, Reber-Lotz, Joh., u. Madöry-Reber, Wilh.\n  Reber-Meyer, Samuel, Holzhändler.\n  Reber-Lotz, Joh., Holzhändler.\n  Madöry-Reber, Wilhelm, Holzhändler.\n26 | IV. | 236 | | Wieland-Rottmann, Carl.\n  Wieland-Rottmann, Carl, Part.\n\nNeubadstraße.\n5 | III. | 177 | Lettengut. | Spitalpflegamt.\n  Buser-Habegger, Jacob, Lehenmann.\n\nNeue Vorstadt.\n1 | I. | 256 d | zum Samson. | Fäsch-Paravicini, Wb. Margaretha.\n  (Einfahrt zu Nr. 18 St. Petersgraben.)\n2 | I. | 257 | Bürgerspital. | Spitalpflegamt.\n  Meyer-Merian, Theodor, Dr. Med., Spitaldirector.\n  Müller, Dr. Julius, Assistenzarzt.\n  Hagen, Dr. Hermann, \"\n  Naumann, Heinrich, Apotheker.\n  Gysin-Lehmann, Alexander, Irrenaufseh.\n3 | I. | 250 b u. c | Hebelhaus. | Linder, Emilie, Jungfr.\n  Brogle-Waldmeyer, Anton, Particulier.\n4 | I. | 257 | Markgräfl. Pallast. (Pfrundhaus.) | Spitalpflegamt.\n6 | I. | 257 A | | Spitalpflegamt.\n7 | I. | 249 A | | Ott, Carl Michael.\n  Ott, Carl Michael, Klaviermacher.\n  Socin, August, Dr. Med.\n  Ruttimann, Pauline, Musiklehrerin.\n  Comptoir von J. E. Marget, Agent.\n  \" v. Fried. Schäfer, Steinkohlenhdlg.\n  Widemann-Mitscherlich, Gustav Heinr., Professor der Physik.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8280,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2025,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:50:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p168",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p168.jpg",
+      "bytes": 1440236,
+      "sha256": "8095e90ddc989c6d314825553099f819b7189c83e8246d9c12067aad686e2d01",
+      "sha256_of": "original",
+      "working_copy": "1862_p168.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:52+00:00"
+  }
+}

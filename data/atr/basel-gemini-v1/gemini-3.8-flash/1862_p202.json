@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p202",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p202.jpg",
+    "bytes": 1444000,
+    "sha256": "39b444208c3c69b4a8657adaf734f5547199d63f4dd48cd7a23eb02b1537f49c",
+    "sha256_of": "original",
+    "working_copy": "1862_p202.jpg"
+  },
+  "text": "Spalenthorweg. — Spalenvorstadt. 137\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n10 | II. | 101 B | | ImHof-Meyer, Joh. Martin.\n  ImHof-Meyer, Joh. Martin, Buchhändl.\n  Hindenlang-Meyer, Benedict, Kaufm.\n12 | II. | 101 A | | Kling-Rübenstahl, Joh. Melchior.\n  Berenfels-Herzog, Jacob, Weinhändler.\n  Courvoisier, August, Rentier.\n14 | II. | 100 C | | Kling-Rübenstahl, Joh. Melchior.\n  Kling-Rübenstahl, Joh. Melchior, Ferger.\n  Stössel-Bender, Joh., Commis.\n16 | II. | 100 B | | Braunschweig, Naphtali.\n  Hauser-Wohnlich, Carl, Kaufmann.\n18 | II. | 100 | | Fäsch-Schneider, Leonhard.\n  Fäsch-Schneider, Leonh., V. D. M., Geistl.\n  Pfister-Kunz, Wilhelm, Commis.\n20 | II. | 100 A | | Märklin-Christ, Rudolf.\n  Märklin-Christ, Rudolf, Particular.\n32 | II. | 138 A | | Herrmann-Kündig, Heinrich.\n  Herrmann-Kündig, Heinrich, Cassier der\n  schweiz. Centralbahn.\n  Kündig-Fäsch, Andreas, Küfer.\n34 | II. | 138 B | | Brenner-Carew, Peter.\n  Brenner-Carew, Peter, Particular.\n36 | II. | 138 C | | ZumBrunn-Hindermann, Eduard.\n  ZumBrunn-Hindermann, Eduard, Kfm.\n53 | II. | 138 | | Burckhardt, Antistes, sel. Erben.\n  Blatter-Senn, Peter, Lehenmann.\n  Wasser-Gunti, Barbara, Matrazenmach.\n\nSpalenvorstadt.\n\n1 | II. | 354 | zum Friedolt. | Hentz-Erzberger, Johannes.\n  Siehe Nr. 2 am St. Leonhardsgraben.\n2 | II. | 280 | Kornhaus. | Stadtgemeinde.\n3 | II. | 353 | Gasthof z. Engel. | Stoessel, Joh., sel. Erben.\n  Stoessel-Burtz, Carl, Gastwirth.\n  Welti-Kratt, Josef, Fuhrhalter.\n5 | II. | 352 A | Gasthof z. Kanne. | Uhlmann, Regina u. Sophia.\n  Uhlmann, Regina u. Sophia, Gastgeber.\n6 | II. | 281 | zum Erker. | Hug, Wb., sel. Erben.\n  Ernst-Hug, Friedr., Ferger.\n7 | II. | 352 | z. Stadt Mülhausen | Hindermann-Weiß, Johann.\n  Hindermann-Weiß, Joh., Tuchscheerer.\n  Hindermann-Kling, Joh. Jak., Part.\n  Streckeisen-Hosch, Emanuel, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8322,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1893,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:56:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p202",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p202.jpg",
+      "bytes": 1444000,
+      "sha256": "39b444208c3c69b4a8657adaf734f5547199d63f4dd48cd7a23eb02b1537f49c",
+      "sha256_of": "original",
+      "working_copy": "1862_p202.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:08+00:00"
+  }
+}

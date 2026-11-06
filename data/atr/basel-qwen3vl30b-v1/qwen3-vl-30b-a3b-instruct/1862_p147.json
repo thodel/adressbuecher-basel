@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p147",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p147.jpg",
+    "bytes": 1328112,
+    "sha256": "4e0d6a0390e9f5a1d94a5d20ac0dc79ebc94d7f6a70c8fcaa867b8c7d47cd222",
+    "sha256_of": "original",
+    "working_copy": "1862_p147.jpg"
+  },
+  "text": "82 . St. Leonhards-Graben.\nNre\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n3 | II. | 456 B. | zum neuen Eck. | Raufmann=Neufirch, Rudolf.\n| | | | Raufmann=Neufirch, Rud., Raufmann.\n| | | | Bureau von Raufmann u. Ulischer,\n| | | | Agentur u. Bankgeschäft.\n4 | II. | 355 | zur klein. Friedenau. | Kaff, Joh. August.\n| | | | Kaff, Johann August, Getreidehändler.\n6 | II. | 356 | Eisenmagazin. | Paravicini, Leonhard.\n| | | | Hägler=Laub, Mathias, Ladendiener.\n| | | | Hägler, Samuel, Commis.\n7 | II. | 454 A | | Herrmann=Fischer, Heinrich.\n| | | | Herrmann=Fischer, Heinr., Möbel- und\n| | | | Bettwerkhandlung.\n8 | II. | 358 | | Picard=Dreyfus, Abraham.\n| | | | Picard=Dreyfus, Abraham, Raufmann.\n9 | II. | 453 | zum rothen Helm. | Henke=Salathe, Wb. Catharina.\n| | | | Siehe Nr. 59 Spalenberg.\n10 | II. | 359 | zum Neuhof. | Dietzsch=Faesch, Johannes.\n| | | | Dietzsch=Faesch, Joh., Wein- u. Spi-\n| | | | rituosenhandlung.\n| | | | Faesch, Ludw. Eduard, Raufmann.\n| | | | Bäslin=Faesch, Daniel,\n11 | II. | 452 | | Hartmann=Reck, Gottlob.\n| | | | Hartmann=Reck, Gottlob, Spengler.\n| | | | Siehe Nr. 57 Spalenberg.\n12 | II. | 361 | | Meyer=Keller, Philipp.\n| | | | Meyer=Keller, Philipp, Raufmann.\n| | | | Wirth, Johannes, Zohnkutscher.\n13 | II. | 451 | zum Pelikan. | Lichtenhahn=Merian, Jacob.\n| | | | Lichtenhahn=Merian, Jacob, Gypper u.\n| | | | Stuccator.\n| | | | Bürckhardt, Eduard, Stuccator.\n| | | | Siehe Nr. 55 Spalenberg.\n14 | II. | 362 | | BonSpeyr u. Comp.\n| | | | (Magazin.)\n15 | II. | 450 | zur Tanne. | Stähelin=Bischoff, Chr., Pfarrer in\n| | | | Riehen.\n| | | | Siehe Nr. 53 Spalenberg.\n16 | II. | 363 | | Hartmann=Merker, Heinrich.\n| | | | Hartmann=Merker, Heinrich, Schreiner.\n17 | II. | 449 | zum Limburg. | Stehelin=Merian, Georg Emil.\n| | | | Stehelin=Merian, Gg. Emil, Dr. med.\n| | | | Siehe Nr. 51 Spalenberg.\n18 | II. | 365 | | Meyer=Mieg, Wb. Maria.\n| | | | Meyer=Mieg, Wb. Maria, Rentiere.\n19 | II. | 448 | zur Löwengrube. | Merian=Reber, Johannes.\n| | | | Merian=Reber, Johannes, Particular.\n| | | | Ludwig=Frey, Wb. Anna Elisabeth.\n| | | | Scholer=Bühler, Niklaus, Commis.\n| | | | Wolf-Hunziker, Friedrich, Commis.\n20 | II. | 369 | | Rienzlin=Eichacker, Joh. Jac., Tapezier.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7693,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2285,
+    "lines": 58,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:39:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p147",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p147.jpg",
+      "bytes": 1328112,
+      "sha256": "4e0d6a0390e9f5a1d94a5d20ac0dc79ebc94d7f6a70c8fcaa867b8c7d47cd222",
+      "sha256_of": "original",
+      "working_copy": "1862_p147.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:39+00:00"
+  }
+}

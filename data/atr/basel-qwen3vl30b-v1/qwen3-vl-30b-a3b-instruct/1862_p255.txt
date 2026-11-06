@@ -1,0 +1,45 @@
+190
+Nebgasse.
+Nro. | Neues Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+30 | VIII. | 176 | zum Paradies. | Staat.
+31 | VIII. | 167 | | Bischoff-Boehler, Joh. Jac., Pfarrer.
+32 | VIII. | 175 d | zum Steinhof. | Geßler-Dannacher, Joh. Rudolf, sel. Erben.
+33 | VIII. | 163 | | Geßler-Dannacher, Wb. Brig., Gypper.
+34 | VIII. | 175 | zum Steinhof. | Geßler, Carl, Gypper.
+35 | VIII. | 162 | | Geßler, Eucharius Em., Bäcker.
+36 | VIII. | 166 | | Leuenen-Zentsch, Christ., Schuhmacher.
+37 | VIII. | 161 | | Lok-Eglin, Friedrich.
+38 | VIII. | 165 | Pfarrhaus. | Lok-Eglin, Friedr., Zimmermeister.
+39 | VIII. | 157 | | Bohny-Glock, Samuel.
+40 | VIII. | 164 | | Tanner, Jac., Schreiner.
+41 | VIII. | 156 | | Ringele-Reig, Augustin, Kartoffel- u. Obsthändler.
+42 | VIII. | 160 | | Lok-Eglin, Friedrich.
+43 | VIII. | 155 | | Bohny-Glock, Samuel.
+44 | VIII. | 159 | | Martin-Weiß, Joh. Jac.
+45 | VIII. | 151 | | Martin-Weiß, Joh. Jac., Weinfischer.
+46 | VIII. | 150 | | Martin-Krebs, Heinr., Maler.
+47 | VIII. | 149 | | Steffen-Burckhalter, Conrad, Commis.
+48 | VIII. | 148 | | Landerer-Feil, Carl Ludwig.
+49 | VIII. | 147 | | Landerer-Feil, Carl Lud., Fabrikschreiner.
+50 | VIII. | 146 | | Staat.
+51 | VIII. | 145 | | Barth-Lok, Franz Albert, Pfarrer.
+52 | VIII. | 144 | | Münch-Gengenbach, Wilh.
+53 | VIII. | 143 | | Münch-Gengenbach, Wilh., Med. et Chir. Dr., Arzt.
+54 | VIII. | 142 | | Venishaenslin-Gränacher, Carl.
+55 | VIII. | 141 | | Venishaenslin-Gränacher, Carl, Mechaniker.
+56 | VIII. | 140 | | Müller-Scheer, Rud., Schreiner.
+57 | VIII. | 139 | | Füllemann-Madörin, Abrah., Schuhmacher.
+58 | VIII. | 138 | | Schweri-Binder, Jos., Unternehmer von Erdarbeiten.
+59 | VIII. | 137 | | Enzler-Märkt, Wb. Victoria.
+60 | VIII. | 136 | | Enzler-Märkt, Wb. Vict., Detaillantin.
+61 | VIII. | 135 | | Hug-Hoffmann, Daniel, sel. Erben.
+62 | VIII. | 134 | | Hug-Hoffmann, Wb. Barb., Rätherin.
+63 | VIII. | 133 | | Speiser-Schaffner, Wb. Barbara u. Fosseler, Maria.
+64 | VIII. | 132 | | Speiser-Schaffner, Wb. Barb., Seidenwinderin.
+65 | VIII. | 131 | | Bolliger, Samuel u. Christof.
+66 | VIII. | 130 | | Bolliger-Imhof, Samuel, Taglöhner.
+67 | VIII. | 129 | | Bolliger, Christof, Sohn, Schuhmacher.
+68 | VIII. | 128 | | Müller, Ludw. Wilh., Schlosser.
+69 | VIII. | 127 | | Maeglin-Weiß, Elisabeth.
+70 | VIII. | 126 | | Maeglin-Weiß, Jac., Decorationsmal. und Photograph.
+71 | VIII. | 125 | | Moser-Haas, Jacob, Schuhmacher.

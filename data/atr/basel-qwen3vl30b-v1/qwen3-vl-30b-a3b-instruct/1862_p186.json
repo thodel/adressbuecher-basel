@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p186",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p186.jpg",
+    "bytes": 1426827,
+    "sha256": "2e12e50f1a42917b431df8bd802cf0f4e00006229617ae8438d39c774b73d572",
+    "sha256_of": "original",
+    "working_copy": "1862_p186.jpg"
+  },
+  "text": "Sattelgasse. — Schanzenstraße. 121\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n7 VI. 1739 zum Kupfernagel. Krez-Schmidlin, Burkardt.\nKrez-Schmidlin, Burkardt, Möbel- und\nBettwarenhandlung.\nFröhlicher, Urs Josef, Sprachlehrer.\n8 VI. 1571 zum St. Georgen-\nbrunnen. Fischer-Dechslin, Daniel.\nFischer-Dechslin, Daniel, Küfer.\n9 VI. 1740 Schneider-Wirz, Wilhelm.\n10 VI. 1570 Wolfisberg-Walker, Franz.\nWolfisberg-Walker, Franz, Schirmfab.\n11 VI. 1741 z. alten Rebstock. Siegrist-Kiefer, Abraham.\nSiegrist-Kiefer, Abraham, Korbhändler.\nSchwörer-Weber, Ludw., Metzger.\nHill-Bieder, Joh. Jak., Kaminsfeger.\n12 VI. 1742 zum Siebenthal. Grillo-vonGunten, Lucas.\nGrillo-vonGunten, Lucas, Küfer.\n13 VI. 1721-22 b Schweizer, Heinrich.\nSchuppen u. Eing. zu Nr. 14 Hutgasse.\n14 VI. 1743 zur neuen Schleif-\nmühle. Waessler, Jacob.\nHermann, Joh., Schneider.\nWülf-Bader, Andreas, Zimmermann.\n15 VI. 1744 z. hintern Eichhorn. Kromer, Joh. Peter.\nKromer, Joh. Peter, Schuhmacher.\n16 VI. 1745 z. mittl. Eichhorn. Schneider, Friedrich.\nHedendorf-Schweizer, Joh., Schlosser.\n17 VI. 1746 Gesler-Zeller, Johann.\nBlank-Leitherr, Zimmerparlier.\n18 VI. 1747 z. hint. Dolder. Gerber-Hack, Johannes.\nGerber-Hack, Johannes, Wirth.\nBaumann-Lehrer, Heinr., Schreiner.\n19 VI. 1748 z. vordern Dolder. Gerber-Hack, Johannes.\nEichbach-Uehlinger, Fritz, Metzger.\n20 VI. 1569 zum Vorbeerbaum. Grunauer-Haefi, August.\nGrunauer-Haefi, Aug., Part.\nGrunauer-Tschudi, Joh. Jak., Seckler u.\nKappenmacher.\n21 VI. 1749 z. Ritter St. Georg. Weiß, Innocenz.\nWeiß, Innocenz, Bierwirth.\n22 VI. 1568 Schaub-Müller, Jacob.\nGrunauer-Wirz, Theophil, Südfrüchten-\nhandlung.\nSchanzenstraße.\n19 I. 275 F zum Rebened. Müller, Leonhard, fel. Erben.\nWoringer-Choplin, Ludwig Alphons,\nGeistlicher.\n21 I. 275 B zum Baugarten. Müller-Staehelin, Johannes.\nMüller-Staehelin, Joh., Baumeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5526,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1878,
+    "lines": 58,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0172,
+    "mean_line_chars": 31.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p186",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p186.jpg",
+      "bytes": 1426827,
+      "sha256": "2e12e50f1a42917b431df8bd802cf0f4e00006229617ae8438d39c774b73d572",
+      "sha256_of": "original",
+      "working_copy": "1862_p186.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:39+00:00"
+  }
+}

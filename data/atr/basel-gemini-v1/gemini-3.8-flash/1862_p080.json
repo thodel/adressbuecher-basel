@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p080",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p080.jpg",
+    "bytes": 1411321,
+    "sha256": "9266d2b57d6226fb0de3cd28b82a290773a32faf603c5b4b54e5e94a718e86b1",
+    "sha256_of": "original",
+    "working_copy": "1862_p080.jpg"
+  },
+  "text": "St. Albanthorgraben. — St. Alban-Vorstadt. 15\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n46 | V. | 1279 | | Wetzel-Matzinger, J. J.\n48 | V. | 1278 E | | Heusler-Fatio, Wb. Esther.\n  Frey-Ulrich, Heinrich, Kutscher.\n50 | V. | 1278 D | | Heusler-Fatio, Wb. Esther.\n  Hasler-Bonesch, Ruprecht, Schreiner.\n  Meyer-Kappeler, Xaver, Mechaniker.\n52 | V. | 1278 | | Heusler-Fatio, Wb. Esther.\n  Heusler-Fatio, Wb. Esther, Rentiere.\n  Heusler, Richard, Kaufmann.\n  Heusler, Rudolf, Kaufmann.\n56 | V. | 1277 | | Tschudin-Tschopp, J. Jakob.\n  Schreinerwerkstatt von P. J. Vöglin.\n\nSt. Albanthorgraben.\n\n1 | IV. | 1001 | z. frohen Aussicht. | Banga-Pfaff, Rudolf.\n  Banga-Pfaff, Rudolf, Schneider.\n3 | IV. | 1000 | | Sprüngli-Schmidlin, David.\n  Sprüngli-Schmidlin, D., Baumeister.\n  Egger-Eggmann, Sam., Bauunternehm.\n4 | V. | 308 B | | Kober, Andreas, u. Theod. Ecklin.\n  Kober-Herzog, Andreas, Baumeister.\n  Trefzger, Leonhard, Koch (Traiteur).\n  Zutt-Fecht, Friedrich, D. J. u. Advokat.\n11 | IV. | 1006 A | | Köchlin-Geigy, Alphons.\n  Köchlin-Geigy, Alphons, Bandfabrikant.\n31 | V. | 1271 A | | Weitnauer-Fischer, Rudolf.\n  (Remise und Stallung.)\n35 | V. | 1273 A | | Sarasin-Sauvain, Carl.\n  (Remise und Stallung.)\n46 | V. | 307 | | Kußmaul-Schlack, Michael.\n  (Heuhäuschen.)\n52 | V. | 308 A | | Kußmaul-Schlack, Michael.\n  Schmidlin-Fischer, Wilhelm, Director\n  der Centralbahn.\n54 | V. | 308 | | Kußmaul-Schlack, Michael.\n  Kußmaul-Schlack, Michael, Mechaniker.\n62 | V. | 306 | | Kußmaul-Schlack, Michael.\n  (Gärtnerwohnung.)\n72 | V. | 306 A | | Bischoff und Söhne.\n  Bischoff-Geigy, Emil, Bandfabrikant.\n\nSt. Alban-Vorstadt.\n\n1 | V. | 1354 u. 55 | | Burckhardt-Preiswerk, Wilh.\n  Burckhardt-Preiswerk, W., Bandfabrik.\n2 | V. | 1214 | zum Nußbaum. | Vonder Mühll-Hoffmann, Wb., A.\n  Catharina.\n4 | V. | 1215 | zum Däublein. | Heußler-Wölfflin, Christof, Waisen-\n  hausverwalter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8973,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1936,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0208,
+    "mean_line_chars": 38.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:36:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p080",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p080.jpg",
+      "bytes": 1411321,
+      "sha256": "9266d2b57d6226fb0de3cd28b82a290773a32faf603c5b4b54e5e94a718e86b1",
+      "sha256_of": "original",
+      "working_copy": "1862_p080.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:52+00:00"
+  }
+}

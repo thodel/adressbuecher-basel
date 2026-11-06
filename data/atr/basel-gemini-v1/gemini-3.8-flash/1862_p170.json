@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p170",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p170.jpg",
+    "bytes": 1439736,
+    "sha256": "97fc5c7722aa1334a8eaf87a649d92a2202b7716d08407f08c13a06be342aecd",
+    "sha256_of": "original",
+    "working_copy": "1862_p170.jpg"
+  },
+  "text": "Neue Vorstadt. In den Neusäßen. Nonnenweg. Peters-Berg. 105\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n29 | I. | 275 C |  | Staat.\n30 | I. | 269 Ba | Holsteinerhof. | Burckhardt-Gemuseus, Wb. Emilie.\n  Burckhardt-Gemuseus, Wb. Emilie, Rent.\n31 | I. | 275 C a b | Profosenwohnung. | Staat.\n  Tischhauser-Jenny, Christian, Profos.\n32 | I. | 269 B | Holsteinerhof. | Burckhardt-Gemuseus, Wb. Emilie.\n\nIn den Neusäßen.\n1 | V. | 269 |  | Halter-Fäsch, Niclaus.\n2 | V. | 267 |  | Halter-Fäsch, Niclaus.\n  Halter-Fäsch, Niclaus, Kaufmann.\n3 | V. | 271 B |  | Vonder Mühll-Fürstenberger, Alfred.\n4 | V. | 275 |  | Merian-Burckhardt, Christoph, sel. Erben.\n  Aeby-Hartmann, Wb. Catharina, Lehenbeständerin.\n  Aeby, Christof Theodor, J. U. D.\n5 | V. | 273 |  | Vonder Mühll-Fürstenberger, Alfred.\n  Kull-Höbel, Heinrich, Gärtner.\n\nNonnenweg.\n20 | II. | 110 A | Missionsknabenhs. | Missionsgesellschaft.\n  Meuret-Bächlin, Gustav, Pfarrer und Hausvater.\n  Ganser, Paul Emil, Lehrer.\n33 | II. | 119 E |  | Fischer-Burckhardt, Heinrich.\n35 | II. | 119 D |  | Fischer-Burckhardt, Heinrich.\n37 | II. | 119 C |  | Fischer-Burckhardt, Heinrich.\n  Hill-Bieder, Alexander, Metzger.\n39 | II. | 119 B |  | Fischer-Burckhardt, Heinrich.\n  Kradolfer-Bisegger, Joh., Commis.\n51 | II. | 119 A |  | Senn-Gysin, Daniel.\n  Senn-Gysin, Daniel, Major u. Kriegskommissär.\n\nSt. Peters-Berg.\n1 | I. | 174 | zum Brunnen. | Amstein-Schäffer, Joh. Heinrich.\n  Amstein-Schäffer, Joh. Heinrich, Bader.\n  Dunkel-Bürgin, Alexander, Schuhmach.\n3 | I. | 175 |  | Schweizer-Schäfer, Joh.\n  Schweizer-Schäfer, Joh., Fabrikarbeiter.\n4 | I. | 151 | zum Rechberg. | Soller-Frey, Wilhelm.\n  Soller-Frey, Wilhelm, Schuhmacher.\n  Siehe Nr. 12 Fischmarkt.\n5 | I. | 176 |  | Hergob, Geschwister.\n  Hergob, Joh. Ludwig, Sprachlehrer.\n  Hergob, Philippine, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7853,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1869,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:51:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p170",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p170.jpg",
+      "bytes": 1439736,
+      "sha256": "97fc5c7722aa1334a8eaf87a649d92a2202b7716d08407f08c13a06be342aecd",
+      "sha256_of": "original",
+      "working_copy": "1862_p170.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:09+00:00"
+  }
+}

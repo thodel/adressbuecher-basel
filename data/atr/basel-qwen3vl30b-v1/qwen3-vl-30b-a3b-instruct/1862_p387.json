@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p387",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p387.jpg",
+    "bytes": 1442238,
+    "sha256": "117cdabc5b61722ee36eb778531fe6a9356ae69d497aeef93c16c67a5d5dfba3",
+    "sha256_of": "original",
+    "working_copy": "1862_p387.jpg"
+  },
+  "text": "322\nVerzeichniß der Bürger und Einwohner.\nMuggli, Barbara, Wascherin. St. Petersgasse 2.\n— Wiederkehr, Jacob, Landjäger. Elsässer Straße 42.\nMultner, Catharina, Taglöhnerin. Rebgasse 5.\nMund-Meister, Adolf Georg, Fabrikarbeiter. Schneidergasse 31.\nMunding-Zimmerli, Johannes, Eisenbahnbeamter. Mostackerstraße 52.\nMundwiler-Grieder, Jacob, Möbelhandlung. St. Petersgasse 13.\n— Th., Schuhmacher. Hirschgasse 5.\nMundwylerschneider, Jacob, Windermeister. Heuberg 4.\n— Th., Schuhmacher. Hirschgasse 5.\nMunzinger-Füsch, Wb., Catharina. Rentiere. Fischmarkt 12.\n— Zimhof, Emanuel, Maler. Greifengasse 28.\n— Vanderer, Wb., Margaretha. Steinenthorstraße 27.\n— Maring, Joh. Friedr., Cafébesitzer. Blumenrain 12.\n— Sigg, Sufette, Buchbinder. Untere Rheingasse 6.\n— Steffen, Wb. Maria Magdalena, Partikularin. Horburgstraße 31.\nMurbach-Stocker, Jacob, Rutscher, Aeschenvorstadt 59.\nMutterer-Roch, Joh. Martin, Spannermeister. Mattweg 2.\nMutz-Bischoff, Johannes, Schlossergeselle. Steinerringweg 17.\nMylius, Jonas Carl, Architect. Aeschengraben 27.\nMaas-Wittlin, Laurenz, Maurer. St. Johann-Vorstadt 66.\nRabholz-Rauchenstein, L., Kaufmann. Rangengasse 9.\n— Stucky, Jac. Ludwig, Wirth und Senffabrikant. Webergasse 19.\nRachbür-Luthy, Paul, Eisenbahnarbeiter. Steinenvorstadt 38.\n— Rieder, Johannes, Posamenter. Rheingasse 49.\nRadenbusch-Schneider, Wb., Glätterin. Streitgasse 12.\nNäf-Brunner, Rud., Lehrer. Schorenweg 14.\n— Müller, Friedrich, Eisenbahnbeamter. St. Leonhards-Straße 34.\nNägeli-Hoisch, Conrad, Wirth. Hammerstraße 19.\nNägelin-Brunner, Wb. Margaretha, Buchbinder u. Tapezierer. Untere Reb-gasse 22.\nNäher, Carl Ludwig, Commis, Breite Str. 43.\n— Dietzsch, Carl Ludwig, Förster. Breite Straße 43.\nRast-Wolf, Heinrich, Stuhlschreiner. Imbergässlein 7.\nRatter-Müller, Johannes, Posamenter. St. Petersgasse 8.\nNaumann, Heinrich, Apotheker, Gerbergasse 44.\nNeeracher-Meyer, Matthias, Hafner. Spalenberg 31.\nNees-Denus, Wb. Friederika, Mügdever-chaferin. St. Peters-Berg 42.\nNerl, Joh., Posamenter. Trillengässlein 3.\nNestel-Mundwylers, Jacob, Magazinarbeiter. Karthausgässlein 7.\nNestle-Schopfer, Bartholomäus, Maurer. Spalenberg 17.\nNeubecker-Mark, Joseph, Schreiner. Steinbachgässlein 6.\nNeuhauser-Ackermann, Constantin, Bäcker. Spalenvorstadt 19.\n— Constantin, Bäcker. Webergasse 13.\nNeuhofer, Georg, Musiker. Marktplatz 4.\nNeufirch-Flick, Wb. Elisabetha, Partikularin. Missionsstraße 16.\n— Georg, Partikular. Missionsstraße 16.\nNeufomm, Chrishona, Schneiderin. Sattelgasse 6.\n— Crismann, Franz, Liseur. Hammerstraße 15.\n— Hurter, Joh. Heinrich, Bäcker. Ochsen-gasse 7.\n— Johannes, Bater, Partikular. St. Peters-Graben 55.\n— Kaiser, Carl, Dessinateur. Reb-gasse 2.\n— Weiß, Joh. Georg, Wirth. Steinenthorstraße 34.\nNeumann-Bucher, Moritz, Landjägergefreiter. Heuberg 27.\nNeuschwander-Biirgin, Daniel, Postfactor. Gerbergasse 18.\n— Clara, Glätterin. Nadelberg 31.\n— Haab, Wb. Anna Elisabetha, Corjettmacherin. Hutgasse 4.\n— Hurth, Jacob, Wirth. Grünpfahlgäss 5.\n— Lutz, Daniel, Pintenwirth. St. Andreasplatz 4.\nNeustück, Heinr., Bildhauer. Barfüßerplatz 24.\n— Joh. Jac., Maler. Barfüßerplatz 24.\nNicolai-Hindemann, Christian Daniel, Hutmacher. Hutgasse 24.\nRideker, Carl Leonhard, Siegriff zu St. Alban. St. Alban-Vorstadt 64.\n— Joh. Jac., Amtsdieners. Münsterberg 4.\n— Linder, Georg, Commis. Hardstraße 31.\n— Einder, Joh. Math., Kaufmann. Milchlenberg 10.\nNiederhauser-Hoffmann, Andr., Fabrikarbeit. Aeschenvorstadt 59.\n— Sutter, Heinr., Posamenter. Rheingasse 45.\n— Tanner, Wb. Anna Maria, Lehensfrau. Mittlere Straße 37.\nNiederer-Laube, Joh. Jac., Posamenter. Reb-gasse 31.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8861,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3572,
+    "lines": 70,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0143,
+    "mean_line_chars": 50.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:13:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p387",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p387.jpg",
+      "bytes": 1442238,
+      "sha256": "117cdabc5b61722ee36eb778531fe6a9356ae69d497aeef93c16c67a5d5dfba3",
+      "sha256_of": "original",
+      "working_copy": "1862_p387.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:13:09+00:00"
+  }
+}

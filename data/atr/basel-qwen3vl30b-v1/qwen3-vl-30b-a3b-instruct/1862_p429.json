@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p429",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p429.jpg",
+    "bytes": 1380136,
+    "sha256": "aedfd17697e5a4b814f43f7bfc07d25e27d2a736a78c6796a2f993b107670fec",
+    "sha256_of": "original",
+    "working_copy": "1862_p429.jpg"
+  },
+  "text": "888\nAlphabetisches Verzeichniss der Berufsarten.\n\nAdvokaten und Notare.\nBernoulli, Daniel, J. U. D. Bäumleingasse 1.\nBernoulli, Nicolaus, J. U. D. St. Alban-Forststadt 3.\nBischof u. Riindig, J. U. D. Freie Straße 10. Schinger-Sarasin, Ludwig, J. U. D. Augustiner-gasse 11.\nHeitz, Aug., J. U. D. Kohlenberg 27.\nHerzog, Joh. Nadelberg 23.\nHeusler, August, J. U. D. Freie Straße 78. — Eduard, J. U. D. Freie Straße 90.\nMerian, Heimlicher und Stehlin, J. U. D. Kaufhausgasse 5.\n— =Herzog, Walter. Herberggasse 2.\n— =Stierlin, Walter, Sohn, J. U. D. Herberggasse 2.\nMeyer, Gedeon. St. Elisabethen-Straße 13.\nSchaub u. Zutt, J. U. D. Schliisselberg 15.\nSchmid, R. u. A., J. U. D. Barfüsserplatz 23.\nSchultheß, Diethelm. Steinenberg 12.\nWeber, Alfred. Untere Reb-gasse 24.\nWieland, Carl, J. U. C. Schliisselberg 17.\n\nAerzte.\nAebi, Dr. Christoph. In d. Neufäzen 4.\nBernoulli, Dr. Wilh. St. Peters-Gasse 7.\nBerri, Dr. Melchior. Eisengasse 19.\nBrenner, Prof. Dr. Friedr. Spitalstraße 1.\nBurchhardt, Dr. Achilles. Fischmarkt 8.\n— =Bischoff, Dr. Christ. Sternengäßlein 27.\n— =Burchhardt, Dr. Rudolf. St. Leonhards-Graben 38.\n— =Dief, Dr. Aug. Schliisselberg 13.\n— Dr. Gottlieb. Barfüsser-gasse 12.\n— =Haller, Dr. J. Rud. Keller-gäßlein 7.\n— =His, Dr. Martin. Münsterplatz 2.\nDewette, Dr. E. W., Physikus. Aeschen-vorstadt 55.\nEdlin, Dr. Daniel. Schliisselberg 4.\nGrimm, Dr. Christ. Aeschen-graben 17.\nHagen, Dr. Hermann. Neue Vorstadt 2.\nHis, Prof. Dr. Wilhelm. Augustiner-gasse 21.\nHoppe, Prof. Dr. Jg. Hammerstraße 69.\nImhoff-Heitz, Dr. Lud. Rittergasse 16.\nKselin, Dr. Heinr. Blumenrain 34.\nJung, Prof. Dr. C. Gust. St. Elisabethen-Straße 9.\nRiffel, Dr. Joh. Todtentanz 8.\nMaas, Dr. Rud. Barfüsserplatz 16.\nMeißner, Prof. Dr. Carl Fried. St. Jakobs-Straße 6.\nMeyer, Dr. Theod. Neue Vorstadt 2.\nMieg, Prof. Dr. J. J. Kohlenberg 17.\nMiescher, Prof. Dr. Fr. Augustiner-gasse 21.\nMüller, Dr. Friedr. Utengasse 5.\n— Dr. Julius. Neue Vorstadt 2.\nMiinch, Dr. Wilhelm. Reb-gasse 39.\nRaillard, Dr. C. Münsterberg 9.\nRosenburger, Dr. Arnold. Münsterplatz 20.\nRittimeyer, Prof. Dr. Ludw. Herbergsgasse 4.\nRumpf, Dr. J. Bernhard. Stadthausgasse 18.\nSchieß, Dr. H. Wallstraße 24.\nSiegmund, Dr. Benjam. Gerbergäßlein 1.\nSocin, Dr. Aug. Neue Vorstadt 7.\nStehelin, Dr. G. Emil. Spalenberg 51.\nStreckerisen, Prof. Dr. Carl. Bäumleingasse 9.\nWidmann, Dr. Ludw. Greifengasse 30.\nWybert, Dr. Em. Stapfelberg 3.\n\nAgenten.\na) Für Bänder- und Seidewaren.\nFlersheim u. Tie. Schwanengasse 2.\nHalle-Hoffmann, Herm. Gensberg 5.\nKiefer, J. Heinr. Freie Straße 70.\nKirch, J. C. Freie Straße 8.\nPhilippi, A. J. St. Leonhards-Graben 36.\nWiese, Georg. Freie Straße 54.\nb) Für rohe Baumwolle.\nBeglinger, J. Nauenstraße 8.\nHeusler, Ed. und Tie. St. Clara-Platz 2.\nKaufmann und Eischer. St. Leonhards-Graben 3.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7780,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2766,
+    "lines": 71,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:19:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p429",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p429.jpg",
+      "bytes": 1380136,
+      "sha256": "aedfd17697e5a4b814f43f7bfc07d25e27d2a736a78c6796a2f993b107670fec",
+      "sha256_of": "original",
+      "working_copy": "1862_p429.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:19:36+00:00"
+  }
+}

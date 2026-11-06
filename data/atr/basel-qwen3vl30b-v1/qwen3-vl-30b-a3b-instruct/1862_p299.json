@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p299",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p299.jpg",
+    "bytes": 1444771,
+    "sha256": "5e2f792da9a475110922dd70818ffef60719389f17f5a229fd9a0c3f1bc34a6d",
+    "sha256_of": "original",
+    "working_copy": "1862_p299.jpg"
+  },
+  "text": "234\nVerzeichniß der Häuserbesitzer.\nGriüninger=Rueger, Eml. Münzgäßlein 15. | Hagenbach=Berger, Joh. Christ. Alybecksstraße\nGschwind=Schaffner, Wb. Urjula. Schneider= | 59. 61.\ngasse 11. | Hagenbach=Geigh, Maria. St.Peters-Berg 27.\nGubler=Langmeyer, Jac. Fabrikstraße 35. | Hagenbach=Marian, Friedr. Imbergäcklein 12.\nGubler=Lobacher, Rud. Hammerstraße 21. | 13. — Mittlere Straße 36. 38. — Schneidergasse 34.\nGüller=Degelmann, Heinr. Spalenberg 61. | Haller=Marfort, Vict. Gerbergasse 50. — Gerbergäcklein 19. — St.Albanthorgraben 6. 8.\nGueng=Welhausen, Frz. Grenzacher Straße 35. | Haller=Walser, Vict. Breite Straße 13. 15.\nGiinther=Schaub, Jac. Steinenvorstadt 15. | Haller, Joh. Niclaus. Kronengasse 6. 11. —\n— St. Jakobs=Straße 12. | In den Neujäzen 1.2.\nGiirtler, Gebrüder, Fridol. u. Heinr. Most- | Handmann=Mahr, J. J. Stadthausgasse 8. 10.\nackerstraße 18. | Harder, Arnold. Birfigstraße 7.\nGiirtler=Heckle, Pet. Rheingasse 38. | Hartmann=Hirt, Heinr. Holeeweg 15.\nGull, Johs. Nejchenvorstadt 66. | Hartmann, Sam. Friedr. Lindenberg 21.\nGundrum=Merker, Mich. Klingenthalstraße 47. | Hartmann=Reß, Christine. St. Leonhards=Graben 11. — Spalenberg 57.\n— Unterer Rheinweg 25. — Fabrikstraße | Hartmann=Merker, Heinr. St.Leonhards=Graben 16.\n37. 39. 41. | Hartmann=Schaub, Jac. Bruderholzstraße 22.\nGutknecht=Heer, Joh. Ad. Schneidergasse 12. | Hartmann=Schäublin, Johann. Steinenthorstraße 37.\nGyfin, Achilles. Missionsstraße 63. | Hasler, Joh. Niclaus. Untere Rheingasse 9.\nGyfin, Wb. Elizabeth. Hardstraße 38. | Hasler=vonMechel, Gottl. Blumenrain 7. — Spiegelgasse 5. 7.\nGyfin, Friedr. Greifengasse 6. | Hasler=Sutermeister, Sebastian, sel. Erben. Todtentanz 16.\nGyfin, Heinr. Barfüßerplatz 21. — St.Jakobs=Straße 54. | Haug, Johs. Hutgasse 6.\nGyfin, Jakob. Hardstraße 36. | Hauser=Euler, Carl. Missionsstraße 9.\nGyfin, Maria Dorothea. Heuberg 1. — Spalenberg 47. | Hauser=Georg, Jac. Friedr. Sattelgasse 3.\nGyfin, Samuel. Münzgäßlein 18. | Hauser=Giirtler, David. Nejchenvorstadt 30.32.\nGyfin=Garnaus, Wb. Emma Cath. St.Peters-Gasse 42. | Hauser=Djer, Rud. Sternengäcklein 17. 19. 21.\nGyfin, Rudolf. Imbergäcklein 16. — Spalenberg 6. | Hauser=Wunderlin, Wb. Joh. Alybecksstraße 37.\nGyfin=Kaifer, Joh. Dietr. Spalenvorstadt 21. | Hauser, Caspar. Nadelberg 19.\nGyfin=Madöry, Ernst. Spalenberg 22. | Hecht, Gertrud. Kiehenthorstraße 16.\nGyfin=Seiffert, Rud. Steinenvorstadt 19. | Hecht=Heering, Jac. Pfluggäcklein 7.\nGyfin=Spreyermann, Joh. Cour. Steinen- | Heckel=Hug, Joh. Jac. Weiße Gasse 20.\nthorstraße 7. | Heckel=Salathe, Wb. Helena. Nadelberg 21.\nGyfin=Vöglin, Friedr. Steinenvorstadt 51. | Hediger=Weber, Hans Rud. St. Albanrheinweg 106.\nGyfin=Weber, Dan. Platzgäcklein 3. — Spalenvorstadt 28. | Heer=Tanner, Heinr. Gerbergasse 46.\nGysler, Adolf. Nejchenvorstadt 53. | Hegar, Friedrich. Schützengraben 39. 41.\nGysler, Margaretha. Sporengasse 15. | Hegnauer=Bolliger, Jac. Rheinprung 8.\nHaag, Wb. Sophie Aug. Utengasse 23. | Hegner=Schneider, Steffan. Gemsberg 1. — Schnabelgäcklein 2. 4. — Spalenberg 21.\nHaag=Kraus, Leonh. St.Alban=Vorstadt 74. | Heimberg, Johs. Nadelberg 36.\nHaas=Franzin, Rud. St. Peters=Gasse 5. | Heimers, Rud. H. W. St.Alban=Vorstadt 33.\nHaas, Georg. Hagenberg 7. 9. | Heimlicher=Senn, J. J. Alybecksstraße 113.\nHaas=Honold, Carl. Eisengasse 6. | Hein-Weiß, Wb. Cath. Utengasse 25.\nHaas=Reyser, Christ. Münzgäßlein 8. — Spalenberg 5. | Heinz=Huber, Eduard. Heuberg 6. — St. Leonhards=Graben 23.\nHaas=Morgen, Etienne. Hutgasse 1. | Heitz, Cath. Elis. Schneidergasse 13.\nHablitzel=Ballon, Carl. Steinenthorstraße 6. | Heitz=Baumann, Gust. Horburgstraße 18.\nHäberlin=Schlageter, Franz. Trillengäcklein 5. | Heitz=DeWette, A. Freie Straße 117. — Kohlenberg 27. — Kronengasse 8.\nHäselin, J. J., sel. Erben. Nadelberg 14. — St. Peters=Graben 47. | Heitz, Hieron. u. Bernhard. Freie Straße 15.\nHäselinger=Strübin, Jac. Stadthausgasse 12. | Henke=Salathe, Wb. Cath. Spalenberg 59.\nHüfliger=Allgayer, Johann. Kanonengasse 9. | St. Leonhards=Graben 9.\nHägler, August. St. Alban=Thal 1. 10. | Hentz=Erzberger, Johs. St.Leonhards=Graben 2. — Schützengasse 2. — Spalenvorstadt 1.\nHäring=Schmidt, Joh. Utengasse 13. 15.\nHafner, J. J. Rheingasse 67.\nHaga=Fullemann, Benedikt. Nadelberg 32.\nHagenbach, Peter. St. Peters=Berg 28. — St. Peters=Gasse 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11591,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4273,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 78.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:58:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p299",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p299.jpg",
+      "bytes": 1444771,
+      "sha256": "5e2f792da9a475110922dd70818ffef60719389f17f5a229fd9a0c3f1bc34a6d",
+      "sha256_of": "original",
+      "working_copy": "1862_p299.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:55+00:00"
+  }
+}

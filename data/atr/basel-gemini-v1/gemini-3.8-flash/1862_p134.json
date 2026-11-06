@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p134",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p134.jpg",
+    "bytes": 1467977,
+    "sha256": "a409268165925e84fc61c27be3825b3ff1c420657382563e12c8bfba27f3bb01",
+    "sha256_of": "original",
+    "working_copy": "1862_p134.jpg"
+  },
+  "text": "Jmbergäßl. Johannitterstr. St. Joh.-Ringweg. St. Joh.-Vorst. 69\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n25 | II. | 530 | | Knecht-Marrer, Peter.\n  Knecht-Marrer, Peter, Knecht.\n  Müller, Rudolf, Schuhmacher.\n26 | II. | 544 | z. unt. Blumenberg | Zollinger-Lüscher, Johannes.\n  Zollinger-Lüscher, Joh., Maler.\n  Kochta-Baumgartner, Anton, Schneider.\n27 | II. | 529 | zum Eichbaum. | Breu-Speiser, Daniel.\n  Breu-Speiser, Daniel, Fabrikarbeiter.\n  Speiser, Samuel, Commis.\n  Bolleter-Lieron, Heinrich, Schneider.\n28 | II. | 545 | z. ob. Blumenberg. | Wiesendanger-Frick, Ulrich.\n  Wiesendanger-Frick, Ulrich, Posament.\n  Wagner-Haubensack, Mart., Samenhdlg.\n29 | II. | 528 | | Follenweider, Rudolf.\n  Hoch-Bader, Johann, Kostgeber.\n30 | II. | 547 C | zum Jmber. | Butz-Rieder, Franz Josef.\n  Eingang zu Nr. 7 St. Andreasplatz.\n31 | II. | 527 | z. groß. Christoffel. | Kindhauser-Klett, Johannes.\n  Kindhauser-Klett, Johannes, Fabrikarb.\n33 | II. | 526 | | Christen-Gerber, Heinrich.\n  Christen-Gerber, Heinrich, Posamenter.\n  Wehrli-Mohler, Gabriel, Gärtner.\n\nJohanniterstraße.\n1 | I. | 2 | | Hübscher u. Sprünglin.\n3 | | | | Bots-Bernard, Abraham, Hufschmied.\n5 | I. | 2 | | Hübscher u. Sprünglin.\n7 | | | | Magazine.\n15 | I. | 9 D | | Reindle-Malzacher, Johannes.\n  Reindle-Malzacher, Joh., Pintenwirth.\n  Horlacher-Reindle, Abraham, Courtier.\n  Hunziker-Ochsner, Rudolf, Commis.\n  Fürst, Christian, Landjägerwachtmeister.\n17 | I. | 22 E | | Zäslin-Sulzberger und Zäslin-Thurneysen.\n  Comptoir u. Magazin von Zäslin u. Baumann.\n\nSt. Johann-Ringweg.\n6 | I. | 23 | | Keller, Xaver.\n14 | I. | 22 | | Bader, Jakob.\n39 | I. | 51 | | Brüderlin-Schmid, Wb., Ursula.\n  Brüderlin-Schmid, Wb. Urs., Part.\n40 | I. | 61 a | | Merian-Frischmann, Rud. (Schopf.)\n\nSt. Johann-Vorstadt.\n2 | I. | 73 | zum Kreuz. | Hindenlang, Carl u. Gottlieb.\n  Hindenlang-Mohn, Carl, Postbeamter.\n  Hindenlang, Gottlieb, Seiler.\n  Zimmerlin-Gräslin, Sam., Weinsch.\n  Frick, Johannes, Commis.\n  Blick, Johann Baptist, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8243,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2059,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:45:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p134",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p134.jpg",
+      "bytes": 1467977,
+      "sha256": "a409268165925e84fc61c27be3825b3ff1c420657382563e12c8bfba27f3bb01",
+      "sha256_of": "original",
+      "working_copy": "1862_p134.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:20+00:00"
+  }
+}

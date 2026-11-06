@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p437",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p437.jpg",
+    "bytes": 1490453,
+    "sha256": "842e76426388d9f1f6cab64346f451f87ae99ff6f95b1d958d78f64e9485be6a",
+    "sha256_of": "original",
+    "working_copy": "1862_p437.jpg"
+  },
+  "text": "372\nVerzeichniß der Berufsbarten.\nMeyer=Landolt, Joh. Rheingasse 24.\nSacher=Glitterlin, Ant. Barfüsserplatz 34.\nSchäuble=Schlageter, Aug. Hutgasse 3.\nStockmeyer=Rittschlin, Abrah. Riehenthorstraße 14.\nStiinz=May. Nechenvorstadt 62.\nWeber=Littner, Seb. Gerbergasse 39.\n— =Müller, Sam. Gerbergasse 20.\nEntleerungsübernehmer.\nFelber, Daniel. St. Alban-Vorstadt 62.\nFriedrich=Knapp, S. S. Schützenmattstraße 37.\nEnveloppenfabrikant.\nEwald=Roch, S. S. Steinenvorstadt 38.\nErdarbeitenübernehmer.\nFrey=Honegger, Joh. Sägergäßlein 5.\nFriedrich=Knapp, S. S. Schützenmattstraße 37.\nSchweri=Binder, Jos. Reb-gasse 40.\nEselhalter.\nGoskwyler, Conrad. Heuberg 17.\nFarbholzmühlen.\nMüller u. Comp., S. S. Bahnhofstraße 3.\nMüller=Dietzsch, S. P. Sägergäßlein 7.\nPetit=Cassal. Untere Reb-gasse 8.\nWeitnauer=Biefer, Friedr. Birgigstraße 15.\nFechtmeister.\nBauer=Maire, Ferd. Steinenberg 9.\nFeilenhauer.\nFritschi=Wäffler, Jos. Freie Straße 99.\nHerzog=Thommen, Friedr. Rheingasse 36.\nZell- und Hauthandlungen.\nBloch und Cie., Gebr. Steinenvorstadt 12.\nSchmoll=Dreyfus. Greifengasse 3.\nFeuerwerksmaterialhändler.\nKespingcr, Gebr. Todtentanz 13.\nSiegriß, Joh. Steinenthorstraße 41.\nVollenhals=Abt, Friedr. Mostackerstraße 58.\nFinkenmacher.\nGast, Franziska. Rheingasse 14.\nWagner=Dépenoit, Joh. B. Spiegelgasse 10.\nFirniskfabrik.\nBuxtorf=Merian. Steinenthorstraße 14.\nFischer.\nBell=Bolliger, Eman. Reb-gasse 29.\nBell=Hug, Heinr. Untere Rheingasse 15.\nBiiirgin, Sebast. Unterer Rheinweg 32.\nGlafer=Ritter, Friedr. Rheingasse 80.\nFischhandlungen.\nGlafer=Ritter, Friedr. Rheingasse 80.\nMäzinger=Siegel, Wb. Friederika. Rheingasse 72.\nFleckenreiniger.\nBrüllmann=Eggmann, Georg. Schützenmattstraße 2.\nGölzlin, Friedr. Rheingasse 30.\nZäggi, Xaver. Gemsberg 1.\nNonnenmacher=Degen, Barb. Weiße Gasse 20.\nSchmidt=Engressat, Melchior. Steinenvorstadt 50.\nWicki=Gast, Josef. Rheingasse 14.\nFloretpinnereien.\nAlioth u. Comp., in Arlesheim.\nBölger, Marcus. Nechenvorstadt 4.\nHezel u. Comp. St. Clara=Graben 9.11.13.\nRyhiner u. Söhne. Rappoltshof 9.\nFourniturenhandlungen.\nBohny, S. S. Hutgasse 8.\nBrenner=Fäsch. Blumenrain 24.\nFruchthändler.\nGisel=Marbach, S. S. Riehenthorstraße 20.\nSchaub, Eman. Freie Straße 55.\nStuder=Walliser, Jos. Riehenthorstraße 20.\nFuhrhalter.\nBauer, Josef. Streitgasse 20.\nBertrand=Raiser, Jos. Greifengasse 37.\nBirrer=Stähle. Greifengasse 35.\nBonin=Degen, Georg. Theaterstraße 16.\nBregger=Köpfer, Ambros. Riehenthorstraße 13.\nBrucker=Leopold. Schützenmattstraße 12.\nEglin=Grieder, Georg. St. Johann-Vorstadt 53.\nGräslin=Grether, Jacob. Hammerstraße 53.\nRaufmann=Augsburgcr, Anton. Riehenthorstraße 15.\nKeller, Rudolf. Steinenthorstraße 4.\nRienz=Schweizer, Leonh. St. Johann-Vorstadt 59.\nMeyer=Rohner, Heinrich. Missionsstraße 65.\nMüller=Grieshaber, Bernh. Kirchgasse 1.\nDetiker=Rosin, S. Schützenmattstraße 10.\nOswald=Neth, Leop. Stadthausgasse 17.\nSchneider=Schläfli, Franz. Kiimelinsplatz 17.\nStoll=Nageleisen, Eberh. Riehenthorstraße 22.\nUmmel, Christ. St. Peters-Gasse 13.\nWeber, Johs. Hirschgasse 5.\nWelti=Kratt, Josef. Spalenvorstadt 3.\nWirth, Johs. Schützengraben 6.\nGärtner.\nBader=Wilhelm, Franz Fidel. Mattweg 16.\nBaur=Fäxler, Wb. Barb. Grenzacher-Straße 91.\nBerger, Josef. Nechenvorstadt 75.\nBinz=Eichacker, Sam. Herrenmattweg 28.\nBlank=Rom, Johs. Christ. Riehen-Straße 62.\nBolander, Amadeus. Bruderholzweg 6.\nBolander=Merier, Jos. Holeeweg 5.\nBresin=Weiß, Wb. Suj. Hammerstraße 65.\nBrombach=Hierholzer, Rud. Spitalstraße 22.\nBuek, Jacob. St. Jakobs-Straße 53.\nBiiirge, Jacob. Riehenthorstraße 16.\nDaucher=Kermgott, Ph. Riehen-Straße 54.\nDettwiler=Bögeli, Heinr. St. Jacob-Straße 29.\nDörflinger=Herzog, Caspar. St. Jakobs-Straße 20.\nDörflinger=Primborgne, Friedr. St. Jakobs-Straße 42.\nDrechsle=Elbe, Johs. Grenzacher-Straße 92.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10041,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3728,
+    "lines": 108,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0185,
+    "mean_line_chars": 33.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:20:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p437",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p437.jpg",
+      "bytes": 1490453,
+      "sha256": "842e76426388d9f1f6cab64346f451f87ae99ff6f95b1d958d78f64e9485be6a",
+      "sha256_of": "original",
+      "working_copy": "1862_p437.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:20:58+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p093",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p093.jpg",
+    "bytes": 1280549,
+    "sha256": "481fd0bcb620b44c063854c424697f977dd10e75d528b9fc3a8237c41e62ebbc",
+    "sha256_of": "original",
+    "working_copy": "1862_p093.jpg"
+  },
+  "text": "28 Binninger-Straße. — Birsigstraße. — Blumenrain.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n5 | III. | 193 |  | Paravicini-Merian, Ludwig.\n7 | III. | 193 a |  | Paravicini-Merian, Ludwig.\n12 | III. | 191 | alte Gasfabrik. | Stadtgemeinde.\n  Willi-Herzog, Urs Eusebius, Abwart im Laboratorium d. obrigkeitl. Chemik.\n13 | III. | 193 d |  | Paravicini-Merian, Ludwig.\n  Brüngger-Kratt, Friedrich, Schreiner.\n15 | III. | 192 D |  | Wetter-Graf, Johannes.\n  Wetter-Graf, Johannes, Wirth.\n17 | III. | 192 C |  | Glatz, Peter sel. Erben.\n  Glatz-Gysin, Wb. Elisabeth, Part.\n  Glatz-Hug, Wilhelm. Lehrer.\n  Glatz, Caspar, Particular.\n19 | III. | 192 B |  | Glatz, Peter sel. Erben.\n21 | III. | 192 A |  | Glatz, Peter sel. Erben.\n  Baarfuß-Lüscher, Johannes, Schreiner.\n  Mollinet-Glatz, Wilh., Faßsinn. u. Seiler.\n23 | III. | 192 |  | Glatz, Peter sel. Erben.\n  Glatz-Zeller, Jacob, Gärtner.\n\nBirsigstraße.\n\n7 | III. |  |  | Harder, Arnold.\n  Harder, Arnold, Mechaniker.\n  Harder-DeBary, Wb. Ursula.\n10 | III. |  |  | Bürgy, Heinrich, Seifensieder.\n15 | III. | 182 |  | Weitnauer-Bieler, Friedrich.\n  Weitnauer-Bieler, Fr., Schreiner und Farbholzmüller.\n  Müller-Hug, Joh. Jak. Fr., Holzmüller.\n  Spengler-Frey, Heinr., Viktualienhdlg.\n  Mäglin-Paravicini, Fr. Rud., Commis.\n26 | III. | 159 A | z. neuen Gießerei. | Burckhardt-Ecklin, Franz, Mechan.\n  Kopp-Wullich, Barthol., Gießermeister.\n  Acker-Abt, Carl, Schreiner.\n\nBlumenrain.\n\n1 | I. | 121 | z. a. Blumenschmidte | Roth-Weiß, Heinrich.\n  Roth-Weiß, Heinrich, Metzger.\n  Stihl-Martin, Friedrich, Commis.\n  Fluck, Joh., Kostgeber.\n2 | I. | 123 |  | Ott-Sutter, Heinrich.\n  Ott-Sutter, Heinrich, Coiffeur.\n3 | I. | 120 | z. goldenen Laute. | Schönauer, Hieronimus.\n  Schönauer, Hieronimus, Spezereihdlg.\n4 | VI. | in 115 |  | Staat.\n  Durchgang zum Rhein in Nro. 8 neu.\n5 | I. | 119 |  | Ryhiner-Schönauer, Andreas.\n  Ryhiner-Schönauer, Andreas, Rentier.\n7 | I. | 118 | zum Kriechbaum. | Hasler-vonMechel, Gottlieb.\n  Hasler-vonMechel, Lithograph, Kunst- und Antiquitätenhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9583,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2093,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p093",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p093.jpg",
+      "bytes": 1280549,
+      "sha256": "481fd0bcb620b44c063854c424697f977dd10e75d528b9fc3a8237c41e62ebbc",
+      "sha256_of": "original",
+      "working_copy": "1862_p093.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:56+00:00"
+  }
+}

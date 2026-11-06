@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p196",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p196.jpg",
+    "bytes": 1479700,
+    "sha256": "0e6752720283475cb78ba1c48d6e4a1cf135200551627b36ab00d716cc88b370",
+    "sha256_of": "original",
+    "working_copy": "1862_p196.jpg"
+  },
+  "text": "Schwanengasse. — Seevogelstraße. — Singerweg. 131\nNene\nHaus=Nr. | Quar-\ntier. | Alte\nHaus=Kro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n4 | I. | 142 | 3. gold. Blume. | Leibzig=Stöhr, Peter Anton.\n5 | VI. | 147 | zum Schwanen. | Leibzig=Stöhr, Peter Anton, Gastwirth.\n7 | VI. | 147 | Stalling z. Gasthof. | Glaser=Ritter, Jacob Friedrich.\n6 | I. | 143 | 3. schwarzen Stern. | Madörin=Glaser, Friedrich, Gastwirth.\n8 | I. | 144 | 3. schwarzen Rad. | Krattiger=Mäglin, Heinrich.\n| | | | | Krattiger=Mäglin, Heinrich, Kaufmann.\n| | | | | Merian=Kespinger, Franz Josef.\n| | | | | Schär=Datt, Benedict, Schneider.\n| | | | | Heller, Heinrich, Commis.\n10 | I. | 145 | zur Barbe. | Sutter=Hänggi, Gregor.\n| | | | | Sutter=Hänggi, Gregor, Wirth.\n11 | VI. | 138 A b | zum Rannenbaum. | Schalch=Baur, sel. Erben.\n| | | | | Schalch=Baur, Wb. Salom. Elisabeth,\n| | | | | Goldschmied.\n12 | I. | 146 | zur alten Waage. | Siegmund, Benjamin.\n| | | | | Siebert=Jäck, Dominik, Coiffeur.\n| | | | | Schaffner, Heinrich, Schneider.\n14 | I. | 148 | zum Goldbächlein. | Portmann=Thoma, Jacob.\n| | | | | Portmann=Thoma, Jacob, Mercerie-\n| | | | | waarenhandlung.\n| | | | | Härdy, Samuel, Schuhmacher.\n16 | I. | 149 | 3. weissen Löwen. | Linder=Stehlin, Jacob Ludwig.\n| | | | | Linder=Stehlin, Jacob Ludwig, Mer-\n| | | | | ceriewaarenhandlung.\n| | | | | Nordmann, Elie, Kaufmann.\n18 | I. | 149 A | | Biblinger=Haeffler, Marie.\n| | | | | Siehe Nr. 8 St. Petersberg.\n20 | I. | 150 | zum Lügelfstein. | Knopf=Gäp, Friedrich.\n| | | | | Siehe Nr. 6 St. Petersberg.\nSeevogelstraße.\n1 | V. | 306 B | zum Rothenek. | Bischer=Jselin, Joh. Jacob.\n| | | | | Bischer=Jselin, Joh. Jacob, J. U. D.,\n| | | | | Kriminalgerichtspräsident.\n5 | V. | 306 C | | Holzach=Ed, Friedrich.\n7 | V. | 302 A | | Wahl=Spitteler, Friedrich.\n| | | | | Wahl=Spitteler, Friedrich, Mechaniker.\n| | | | | Spitteler=Christen, Jacob, Particular.\n| | | | | Aemmer, Abr. Gottfr. Ferd., Commis.\n11 | V. | 302 C | zum Abendstern. | Studert=Lepper, Friedrich Wilhelm.\n| | | | | Studert=Lepper, Friedr. Wilhelm, Kfm.\n| | | | | Nidecker=Linder, Georg, Commis.\nSingerweg.\n1 | V. | 263 d | | Bachofen=Bischer, Wilhelm.\n| | | | | Siehe Nr. 53 St. Jakobsstraße.\n9 *",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6484,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2211,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p196",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p196.jpg",
+      "bytes": 1479700,
+      "sha256": "0e6752720283475cb78ba1c48d6e4a1cf135200551627b36ab00d716cc88b370",
+      "sha256_of": "original",
+      "working_copy": "1862_p196.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:39+00:00"
+  }
+}

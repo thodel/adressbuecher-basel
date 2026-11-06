@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p113",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p113.jpg",
+    "bytes": 1300474,
+    "sha256": "cc1c7a811d8d1d5cf1339a17594e8414d812784741eeb1c913297db48c8a650c",
+    "sha256_of": "original",
+    "working_copy": "1862_p113.jpg"
+  },
+  "text": "48 | Freie Straße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n101 | V. | 1074 | zum Tannenwald. | Rumpf-Hartmann, Anna Mar. Wb.\n  Rumpf-Hartmann, Anna Maria, Wb., Bürstenmacher.\n103 | V. | 1072 | zur Nachtigall. | Meyer-Heusler, Johannes.\n | | 1073 | | Meyer-Heusler, Joh., Coiffeur.\n  Albrecht, Jakob Christof, Commis.\n105 | VI. | 1071 | zum vordern Maul- beerbaum. | Oser, Joh. Jakob.\n  Oser, Joh. Jakob, Schuhmacher.\n  Ackermann, Johann, Schuhmacher.\n  Schöner, Joh. Adam, Part.\n107 | V. | 1070 | zur Mohrin. | Wetzel-Schoelli, Joh. Fried.\n  Wetzel-Schoelli, Joh. Friedr., Bäcker.\n109 | V. | 1069 | zum Eichbaum. | Robert-Chevalier, Emil.\n  Robert-Chevalier, Emil, Wirth u. Cen- tralbahn-Angestellter.\n  Roth-Hunziker, Urs., Cigarrenhändler, (siehe Nro. 36).\n  Gysin, Eman., Commis.\n111 | V. | 1068 | z. niedern Schwelle. | Vogel-Hug, Maria Sal., Wittwe.\n  Vogel-Hug, Maria Sal., Part.\n  Meyer-Vogel, Casimir, Agent.\n113 | V. | 1067 | zum Kettenhof. | Riggenbach-Stehlin, Friedrich.\n  Riggenbach-Stehlin, Friedr., Banquier. (Firma F. Riggenbach.)\n115 | V. | 1066 | zum Kettenhof. | Riggenbach-Stehlin, Friedrich.\n  Stehlin-Hagenbach, Joh. Jakob, Bürger- meister u. Nationalrath.\n117 | V. | 1065 | | Heitz-Dewette, Aug., Notar. J. U. D.\n  Lardet u. Comp., Mathieu, maison de Commission et Exportation.\n\nGartenstraße.\n62 | IV. | 211 | | Schaub-Seiler, Jacob.\n  Schaub-Seiler, Jacob, Zettlermeister.\n  Oser-Iselin, Wilhelm, Amtsdiener.\n  Zimmermann, Oskar Friedrich, Pfarrer.\n64 | IV. | 211 B | | Epple-Stücklin, Christian.\n  Epple-Stücklin, Christian, Mechaniker.\n  Kindweiler, Fritz, Maler.\n  Matthys-Schauenburg, J. J., Commis.\n  Habrecht-Heintz, Adolf Moritz, Preuß. Ver.-Inspector.\n66 | IV. | 211 C | | Epple-Stücklin, Christian.\n  Jörin-Meyer, Johann, Restaurant.\n  Schorrer, Jgfrn. Elisabeth Margaretha u. Anna Maria.\n68 | IV. | 211 D | | Epple-Stücklin, Christian.\n  Mack-Walz, Xaver, Mechaniker.\n  Mösch, Wendolin, Portier b. d. Centralb.\n  Schaffner, Friedr., Centralb.-Angestellt.\n70 | IV. | 211 E | | Epple-Stücklin, Christian.\n  Müller-Scheerer, Carl, Gürtler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8944,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2137,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:42:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p113",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p113.jpg",
+      "bytes": 1300474,
+      "sha256": "cc1c7a811d8d1d5cf1339a17594e8414d812784741eeb1c913297db48c8a650c",
+      "sha256_of": "original",
+      "working_copy": "1862_p113.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:00+00:00"
+  }
+}

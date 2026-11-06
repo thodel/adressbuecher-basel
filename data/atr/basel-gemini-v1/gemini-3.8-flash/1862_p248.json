@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p248",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p248.jpg",
+    "bytes": 1422980,
+    "sha256": "9a1bf54e666a1a7aca1981e79ea6db67ff7c9460ac9aac27362da5dc25fd0e42",
+    "sha256_of": "original",
+    "working_copy": "1862_p248.jpg"
+  },
+  "text": "Klybeckstraße. 183\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n31 | VII. | 23 | | Bachofen-Merian, Jacob.\n32 | VII. | 11 A a | | Schmid-Ritter, Wb. Soph. Mar.\n33 | VII. | 23 e | | Bachofen-Merian, Jacob.\n  Heckendorn-Buser, Joh., Lehenbeständer.\n35 | VII. | 24 | | Bachofen-Merian, Jacob.\n37 | VII. | 25 | | Hauser-Wunderlin, Wb. Johanna.\n  Hauser-Wunderlin, Wb. Joh., Part.\n39 | VII. | 26 | | Euler, Eucharius.\n41 | VII. | 27 | | Antoni-Fausel, Carl.\n  Weber-Bürgin, Sam. Rud., Klavier-\n    stimmer.\n  Reitbahn von Antoni-Fausel.\n43 | VII. | 29 | | Kienle-Gauß, Ferdinand.\n  Kienle-Gauß, Ferd., Bierbrauer und\n    Wirth.\n45 | VII. | 30 | | Seiler-Dettwiler, Niclaus.\n  Seiler-Raust, Wb. Sybilla, Part.\n  Latscha-Schaefer, Johannes, Stuhl-\n    schreiner.\n47 | VII. | 32 | | Klotz-Gutzwiller, Johs.\n48 | VII. | 28 | | Lotz, Friedrich.\n  Stadelmann-Murg, Josef, Lehenbeständ.\n49 | VII. | 33 | | Klotz-Gutzwiller, Johs.\n  Klotz-Gutzwiller, Johs., Gärtner.\n50 | VII. | 31 | | Lotz, Friedrich.\n51 | VII. | 34 | | Glor-Meng, Rudolf.\n  Glor-Meng, Rud., Zimmermann.\n53 | VII. | 35 | | Fritz, J. J. u. Mangold, Martin.\n  Fritz-Hoeßle, Joh. Jac., Zimmermann.\n  Mangold-Fischer, Martin,   \"\n55 | VII. | 36 | | Ramsperger-Hug, Eml.\n56 | VII | 37 | | Lotz, Friedrich.\n57 | VII. | 38 | | Ramsperger-Hug, Eml.\n59 | VII. | 40 u. 39 | | Hagenbach-Berger, Joh. Christ.\n  Bemmler-Fricker, Wb. Judith, Part.\n  Thalmann, Jos., Gärtner.\n61 | VII. | 41 | | Hagenbach-Berger, Joh. Christ.\n  Hagenbach-Berger, Johann Christian,\n    Oekonom.\n63 | VII. | 42 | | Voegelin-Voegle, Anton.\n  Voegelin-Voegle, Anton, Gärtner.\n65 | VII. | 44 | | Ryhiner-Heusler, Wilh.\n64 | VII. | 45 u. 46 | | Koch-Geiger, Christian.\n66 | | | |\n69 | VII. | 48 | | Ramsperger-Hug, Eml.\n  Bohni-Gysin, Wb. Verena, Part.\n  Schmid-Jucker, Joh. Georg, Gärtner.\n73 | VII. | 49 A | | Ostermann-Schneider, Margaretha.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8702,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1923,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:02:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p248",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p248.jpg",
+      "bytes": 1422980,
+      "sha256": "9a1bf54e666a1a7aca1981e79ea6db67ff7c9460ac9aac27362da5dc25fd0e42",
+      "sha256_of": "original",
+      "working_copy": "1862_p248.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:53+00:00"
+  }
+}

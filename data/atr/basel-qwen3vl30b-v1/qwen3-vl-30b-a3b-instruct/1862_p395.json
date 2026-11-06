@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p395",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p395.jpg",
+    "bytes": 1427518,
+    "sha256": "31fafc4af39251cccb65bab3886024b258c971da12f29672538f1de73be68c55",
+    "sha256_of": "original",
+    "working_copy": "1862_p395.jpg"
+  },
+  "text": "330\nVerzeichniß der Bürger und Einwohner.\nRognon=Meyenroch, Ed., Kaufmann. St. Alban=Graben 1.\n— =Schölli, Baleria, Rentiere. St. Jakobs=Strasse 5.\nRohmann=Jöser, Erhardt, Seidenfärbergeseffe. St. Peters= Berg 21.\nRohmer=Lindenmeyer, Herm., Musiker. Klosterberg 25.\nRohner, Johs., Bäckermeister. St. Alban=Vorstadt 57.\n— =Imhof, Joh. Markus, Weinhandlung. Webergasse 27.\n— =Künzlin, Eman., Fergcr. Nebgasse 7.\n— =Ziniker, Christof, Seidenverlefer. Spalenvorstadt 28.\nRohr=Schmidt, Johs., Kaufmann. Spalen=vorstadt 31.\n— =Störchi, Johs., Steinhauer. Gerbergasse 53.\nRohrbach=Knopf, Johs., Zimmermann. Bei d. Wiejenschanze 33.\nRohrer, Anna Barb., Reintwascherin. St. Peters=Gasse 2.\n— =Mähly, Johs., Part. St. Jakobs=Strasse 54.\nRohweder=Bokardt, Peter, Hausmeister der Strafanstalt. St. Peters=Graben 2.\nRolle=Rudin, Johs., Posamenter. Spalen=berg 42.\nRomann, Joh., Fuhrmann. Rheingasse 49.\nRombach=Haug, Johs., Knecht. Spalenberg 26.\nRometich=Stählin, Gottfr., Schreinermeister. Hirschgasse 15.\nKommel, Philipp, Commis. Freie Straße 74.\nRonus, Ch., Quincailleriehandlung. Eisen=gasse 14.\n— =Gemuseus, Christof, Kaufmann. Blumenrain 22.\n— =von Speyr, Christof, Kaufmann. St. Leonhards=Graben 36.\nRoos, Friedr. Wilh., Lehrer. St. Theodors=Kirchplatz 7.\n— =Liiber, Heinrich, Appreteur. Gerbergasse 31.\n— =Schneider, Albrecht, Metzger. Hutgasse 3.\nRoost=Keller, Bernhard, Appretur=Auffeher. Spitalstraße 9.\nKoppel=Wiirmli, Sam., Maurer. Hutgasse 10.\nRoschet, Carl, Bettwaarenhandlung. Spalenberg 9.\n— Emil, Kürschner. Spalenberg 9.\n— =Hindermann, Hier., Sattler. Schwangasse 1.\n— =Mangold, Hier., Seiler. Mostacker=straße 44.\n— Margaretha, Rentiere. Spalenberg 9.\n— Rud. Christ., Conditor. Schiffände 10.\n— Sophia, Part. St. Leonhards=Graben 32.\nRosenberger=Ed, Joh. Jac., Hausknecht. St. Peters= Berg 28.\nRosenburger, Arnold, Dr. Med. Münsterplatz 20.\n— Elise. Münsterplatz 20.\n— =Rapp, Wb. Anna Elisab., Part. Münsterplatz 20.\nRosenfeld=Munzinger, Jos., Kunstmaler. Byfangweg 32.\nRosenmund=Bohny, Johs. Friedr., Zollbeamter. Byfangweg 2.\n— =Zeller, F. F., Kammnacher. Eisen=gasse 22.\nRössel=Braun, Ludwig., Kaufmann. Riehen=Strasse 19.\nRösklopf=Greiner, F. F., Portier. St. Alban=thorgraben 72.\nRoth, Balthasar, Sohn, Seidenagentur. Gerbergasse 49.\n— =Bürgin, Christof, Schlosser. Untere Rheingasse 13.\n— =Dunkel, Rud., Seidenfärbergeseffe. Uten=gasse 48.\n— =Ecklin, Peter, Maler. Sternengäßlein 18.\n— =Fischer, Achilles, Schmied. Aeschenvor=stadt 52.\n— =Georg, Rudolf, Glaser. Grünpfahl=gäßlein 2.\n— =Gigandet, Jacob, Postconducteur. Heuberg 21.\n— =Herzog, Caspar, Part. Unterer Heuberg 3.\n— =Hunziker, Urs, Afm. FreieStraße 36.\n— F. C., Agent. Gemsberg 9.\n— =Keller, Wb. Soph., Rostgeberin. Aeschen=vorstadt 25.\n— =Kirch, Friedr., Commis. Kennweg 2.\n— =Maler, Hugo, Fabrikarbeiter. Münzgäßlein 19.\n— Maria Margaretha, Stickerin. Kohlen=berggasse 23.\n— =Meyer, Wb. Margaretha, Wascherin. Spiegelgasse 6.\n— =Müller, Martin, Schreiner. Linden=berg 9.\n— =Ojer, Joh. Balthasar, Glaser. Gerbergasse 25.\n— =Rothmund, Jak., Fabrikmeister. Steinen=thorstraße 38.\n— Rudolf, Schuhmacher. St. Alban=Vorft. 29.\n— =Scheurer, Joh., Director des Kinder=spitals. Burgweg 22.\n— =Schweizer, Heinr., Posamenter. Steinen=thorstraße 38.\n— =Speck, Jak., Heizer. St. Peters=Gasse 2.\n— =Walz, Friedrich, Seifensieder. Horburg=straße 45.\n— =Weiß, Heinr., Metzger. Blumenrain 1.\n— =Weiß, Bernhard u. Sohn, Schuhmacher. St. Johann=Vorstadt 4.\n— Zandt, Abraham, Schlosser. Münster=berg 16.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9109,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3460,
+    "lines": 71,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:14:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p395",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p395.jpg",
+      "bytes": 1427518,
+      "sha256": "31fafc4af39251cccb65bab3886024b258c971da12f29672538f1de73be68c55",
+      "sha256_of": "original",
+      "working_copy": "1862_p395.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:14:24+00:00"
+  }
+}

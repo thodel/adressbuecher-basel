@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p288",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p288.jpg",
+    "bytes": 1659212,
+    "sha256": "2b3b0ab2d825fd9dc3c9e1aa780467dab247d195e6b7aa157bafd69cb414cf00",
+    "sha256_of": "original",
+    "working_copy": "1862_p288.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 223\nStein, z. guten. Gerbergasse Nr. 55. Tanne, z. Gerbergasse Nr. 33.\nStein, z. hangenden. Gerbergasse Nr. 54. Tanne, z. Spalenberg Nr. 53.\nStein, z. hangenden. Gerbergäklein Nr. 23. Tanne, z. Greifengasse Nr. 38.\nStein, z. rothen. Webergasse Nr. 1. Tanne, z. kleinen. Stadthausgasse Nr.16.\nSteinbock, z. Döhsengasse Nr. 7. Tanne, z. kleinen. Spalenberg Nr. 27.\nSteinbogen, z. Hutgasse Nr. 16. Tanne, z. rothen. St. Alban=Vorstadt Nr. 64.\nSteinbrunn, z. Schützenmattstraße Nr. 1. Tanne, z. untern. Spalenberg Nr. 33.\nSteinbrunnen, z. Blumenrain Nr. 25. Tannened, z. St. Petersberg Nr. 32.\nSteinenBruck, a. d. Steinenvorstadt Nr. 45. Tannenwald, z. Freie Straße Nr. 101.\nSteined, z. Steinenthorstraße Nr. 6. Tanz, z. Eifengasse Nr. 20.\nSteinenmühle, z. Kohlenberggasse Nr. 30 u. 32. Tanz, z. hintern. Fischmarkt Nr. 2.\nSteinenklostermühle, z. St. Alban=Thal Nr. 2. Taubadeler=Hof. Neue Vorstadt Nr. 12.\nSteinfels, z. Gerbergasse Nr. 59. Taube, z. Marktplatz Nr. 8.\nSteinhauer, z. Stadthausgasse Nr. 3. Taubenschlag, z. Rheingasse Nr. 54.\nSteinhof, z. Rebgasse Nr. 34. Tell, Wilhelm, z. Aeschenvorstadt Nr. 5.\nSteinhof, z. Rebgasse Nr. 32. Theater. Theaterstraße Nr. 9.\nSteinkeller, z. Spalenberg Nr. 44. Theodor, St. Schulhaus z. Kirchgasse Nr. 13.\nSteinkeller, z. Schneidergasse Nr. 24. Theodor, z. klein. St. Theodorskirchplatz Nr. 2.\nStern, z. Gerbergasse Nr. 1. Theodorshof, St., St. Theodorskirchplatz Nr. 1.\nStern, z. blauen. St. Petersberg Nr. 7. Theodorskirche, St. Theodorskirchplatz Nr. 5.\nStern, z. gelben. Utengasse Nr. 3. Thiergarten, z. Greifengasse Nr. 8.\nStern, z. gelben. Steinenthorstraße Nr. 8. Thorriickenberg, z. obern. Eifengasse Nr. 28.\nStern, goldenen Zunft z. Freie Straße Nr. 71. Thüre, z. eisernen. Bäumleingasse Nr. 16.\nStern, z. goldenen. Fischmarkt Nr. 8. Thürmlein, z. rothen. Münsterberg Nr. 3.\nStern, z. gelben gold. Steinenthorstraße Nr. 10. Thurm, z. Aeschenvorstadt Nr. 75.\nStern, z. kleinen. Aeschenvorstadt Nr. 46. Thurm, z. rothen. St. Leonhardsberg Nr. 6.\nStern, z. kleinen. Greifengasse Nr. 22. Thurm, z. rothen. Rheinsprung Nr. 8.\nStern, z. schwarzen. Gerbergasse Nr. 3. Thurm, z. rothen. Gerbergäklein Nr. 42.\nStern, z. schwarzen. Hutgasse Nr. 15. Thurm, z. rothen. Freie Straße Nr. 44.\nStern, z. schwarzen. Schwanengasse Nr. 6. Thurm, z. rothen. Rheingasse Nr. 40.\nStern, z. schwarzen untern. Nadelberg Nr. 43. Thurm, z. rothen. Rheingasse Nr. 40.\nSternen, z. Aeschenvorstadt Nr. 44. Thurm, z. grünen. Hutgasse Nr. 12.\nSternen, gehörend z. Sternengäklein Nr. 7. Thurm, z. schwarzen. Aeschenvorstadt Nr. 39.\nSternen, z. schwarzen. Münzgäklein Nr. 16. Thurmfschale, z. hint. St. Andreasplatz Nr. 17.\nSternenberg, z. Heuberg Nr. 15. Thurmfschale, z. mittlern. Schneidergasse Nr. 14.\nSternenberg, z. Greifengasse Nr. 24. Thurmfschale, z. mittl. Schneidergasse Nr. 12.\nSternened, z. Barfüßerplatz Nr. 2. Thurmfschale, z. obern. Schneidergasse Nr. 16.\nSternened, z. Utengasse Nr. 1. Traube, z. Bäumleingasse Nr. 8.\nSternenfels, z. Steinenvorstadt Nr. 35. Traube, z. Greifengasse Nr. 19.\nSternenfels, z. obern. Bäumleingasse Nr. 7. Traube, z. mittlern. Steinenthorstraße Nr. 41.\nSternenfels, z. untern. Bäumleingasse Nr. 5. Traubenfeller, z. Rheingasse Nr. 20.\nSternenmühle. Untere Reb gasse Nr. 8. Treibec, z. Blumenrain Nr. 10.\nStetten, z. großen. Schneidergasse Nr. 1. Treue, z. alten. Nadelberg Nr. 15.\nStetten, z. kleinen. Schneidergasse Nr. 3. Treue, z. alten. Nadelberg Nr. 17.\nStollenberg, z. Grünpfahlgäklein Nr. 8. Treu, z. alten. Neue Vorstadt Nr. 26.\nStorchen, z. Stadthausgasse Nr. 25. Treu, z. großen. Gerbergasse Nr. 47.\nStrafanstalt. St. Petersgraben Nr. 2. Tröttlin, z. Heuberg Nr. 19.\nStrasburg, z. obern. Trillengäklein Nr. 1. Trote, z. Weiße Gasse Nr. 12.\nStrasburg, z. untern. Schnabelgäklein Nr. 12. Trote, z. Schützenmattstraße Nr. 5.\nStraßburgerhof. St. Petersberg Nr. 29. Trote, z. Rheingasse Nr. 80.\nStrauß, z. Vogel. Barfüßerplatz Nr. 16. Trottenhaus, z. Rheingasse Nr. 82.\nStrauß, z. Nadelberg Nr. 39. Truchsfäfferhof. Aeschenvorstadt Nr. 1.\nStreit, z. Streitgasse Nr. 18. Truchsfäfferhof, z. hint. St. Albangrab en Nr. 2.\nSurinam, z. kleinen. Riehenstraße Nr. 75. Truchjesserhof. St. Leonhardsgraben Nr. 45.\nSusanna, z. St. Johann=Vorstadt Nr. 56. Truchjesserhof. Heuberg Nr. 28.\nSynagoge. Unterer Heuberg Nr. 21. Tiirkis, z. goldenen. Todtentanz Nr. 16.\nTabackstampe, z. Rümelinsbachweg Nr. 18. Ulm, z. mittlern. St. Johann=Vorstadt Nr. 5.\nTäuferkirche, z. Holeeweg Nr. 13. Ulm, z. mittlern. St. Johann=Vorstadt Nr. 7.\nTafel Mosis, z. Weiße Gasse Nr. 8. Ulmerhof, z. St. Peterskirchplatz Nr. 10.\nTanne, z. St. Leonhardsgraben Nr. 15. Ulrichsed, St. Rittergasse Nr. 9.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12578,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4692,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 74.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:56:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p288",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p288.jpg",
+      "bytes": 1659212,
+      "sha256": "2b3b0ab2d825fd9dc3c9e1aa780467dab247d195e6b7aa157bafd69cb414cf00",
+      "sha256_of": "original",
+      "working_copy": "1862_p288.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:50+00:00"
+  }
+}

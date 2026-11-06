@@ -1,0 +1,46 @@
+Greifengasse. | 173
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+18 | VIII. | 391—392 | z. rothen Löwen. | Bienz-Oeschger, Rudolf.
+  Bienz-Oeschger, Rudolf, Metzger.
+  Bienz-Pack, Rudolf, Metzger.
+  Oeschger-Langmesser, Joh., Wirth.
+19 | VII. | 236 | zur Traube. | Wohnlich-Rusterholz, Wb. Cath.
+  Wohnlich-Rusterholz, Wb. Cath., Bäcker.
+20 | VIII. | 237 | | Baumgartner-Burckhardt, Frz. Hch.
+  Baumgartner-Burckhardt, Franz Hch., Schneider.
+21 | VII. | 235 | | Langmesser-Meyer, Heinrich.
+  Langmesser-Meyer, Hch., Seiler.
+22 | VIII. | 232 | z. kleinen Stern. | Bohny, Marie Magdalena.
+  Bohny, Maria Magdalena, Cigarren- u. Tabakhdlg., Firma J. J. Bohny.
+23 | VII. | 234 | z. rothen Eichhorn. | Effinger-Gutzwiller, Carl Friedrich.
+  Effinger-Gutzwiller, C. Friedr., Kfm.
+  Gutzwiller-Grummler, Seb., Kunstmal.
+24 | VIII. | 231 | zum Sternenberg. | Faesch-Kienle, Ludwig.
+  Faesch-Kienle, Ludw., Bierbrauer.
+25 | VII. | 233 | zum Eichhorn. | Bienz-Pfirter, Frau Elisabeth.
+  Pfirter-Weber, Wb. Elis., Part.
+  Winkler-Berger, Johs., Commis.
+  Bureau u. Magazin v. Doelli Bercher u. Comp. Chemiker.
+  Münch-Wenk, Christian, Commis.
+26 | VIII. | 230 | | Schmidt-Kromer, Daniel.
+  Schmidt-Kromer, Daniel, Kübler.
+27 | VII. | 229 | zum Weitnau. | Merian-Seeber, Nicl. Emanuel.
+  May-Seeber, Martin, Bierwirth.
+  Seeber-Brugger, Carl, Commis.
+28 | VIII. | 227 | zum Biber. | Bulacher-Heußler, Johannes.
+  Bulacher-Heußler, Johs., Stadtbote.
+  Starke-Weißenburger, Rudolf Peter, Cigarrenhändler.
+  Wirz-Kirchhofer, Ed., Schirmfabrikant.
+  Munzinger-Imhof, Em., Maler.
+29 | VII. | 228 | z. gold. Greifen. | Wohnlich-Fuchs, Rudolf.
+  Wohnlich-Fuchs, Rudolf, Bäcker.
+30 | VIII. | 226 | | Widmann, Ludw. u. Neukomm, Joh.
+  Widmann-Hartmann, Ludw., Dr. med. Arzt.
+  Schmoll-Dreyfuß, Sal., Leder-u. Fellhdl.
+  Siber-Schmalzer, Rud., Goldschmied.
+31 | VII. | 224 | zum Greifen. | Merian, Andr. Benj. u. Ludwig Dietrich.
+  Merian-Hänsler, Andreas Benjamin, Bierbrauer.
+  Fausel-Strub, Gottlieb, Kaufmann.
+  Hottinger-Knoechel, J. E., Straßenpflast.

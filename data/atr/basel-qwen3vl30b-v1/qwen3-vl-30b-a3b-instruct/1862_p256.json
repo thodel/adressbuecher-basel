@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p256",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p256.jpg",
+    "bytes": 1412414,
+    "sha256": "1a65d3179b66eb419cee2a2ae101a737ceb6e4169588acc1291fa4d32624602c",
+    "sha256_of": "original",
+    "working_copy": "1862_p256.jpg"
+  },
+  "text": "Nebgasse. — Untere Nebgasse. 191\nNeue Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n46 | VIII. | 158 | | Rueger, Joh. Georg.\n47 | VIII. | 150 | zum Dupf. | Rueger-Schaerer, Joh. Og., Schuhmach.\n| | | | Gaf-Schloffer, Johannes.\n| | | | Gaf-Schloffer, Johannes, Bäcker.\n| | | | Gaf-Thurnerfen, Heinrich, Part.\n48 | VIII. | 154 | | Scherb-Schäfer, Joh. Jac.\n| | | | Scherb-Schäfer, Joh. Jac., Briefträger u. Barbier.\n50 | VIII. | 153 | | Lämmliin-Verthel, Wb. Judith.\n| | | | Lämmliin-Verthel, Wb. Judith, Part.\n52 | VIII. | 152 | | Alt-Bienz, Wb. Susanna.\n| | | | Alt-Bienz, Wb. Susanna, Bäcker.\n| | | | Hamma, Franz, Organist d. katholisch. Gemeinde.\n| | | | Lipp-Jordan, Sch., Postangestellter.\nUntere Nebgasse.\n1 | VII. | 213 | | Lorenz-Schneider, Josef.\n| | | | Lorenz-Schneider, Josef, Wirth.\n| | | | Frey-Maehr, Joh., Geschäftsmann.\n3 | VII. | 212 | Schlathhof. | Bertrand-Kaiser, Josef.\n4 | VII. | 206 | | Clavel-Linder, Alexander.\n| | | | Meyer-Bischoff, Christian, Kaufmann.\n5 | VII. | 211 | | Braun-Kieffer, Johannes.\n6 | VII. | 204 | | Clavel-Linder, Alexander.\n7 | VII. | 210 | | Braun-Kieffer, Johannes.\n8 | VII. | 250 | Sternenmühle. | Petit u. Schwestern Cassal.\n| | | | Petit-Kassal, Joh., Holz- u. Farbmiller.\n| | | | Braun-Kieffer, Johs., Tabakfabrikant.\n9 | VII. | 209 | | Braun-Kieffer, Johannes.\n10 | VII. | 252 | z. neu. Schleife. | Boerlin-Moesner, Jac.\n| | | | Boerlin-Moesner, Jac., Schleifer u. Stuhlschreiner.\n11 | VII. | 208 | | Braun-Kieffer, Johannes.\n12 | VII. | 277 | Rappolts hofeck. | Baumgartner-Zeller, Leonhard.\n| | | | Baumgartner-Zeller, Leonh., Kübler u. Holzjeker.\n| | | | Schaub-Degen, Joh. Og., Mechaniker.\n13 | VII. | 207 | | Braun-Kieffer, Johannes.\n14 | VII. | 276 | zum Kaiserberg. | Durst-Reichert, Carl Friedr.\n| | | | Durst-Reichert, Carl Friedr., Bäcker.\n| | | | Schaub-Hartmeyer, Jac.\n| | | | Schaub-Hartmeyer, Jac., Kaufmann.\n| | | | Firma Schaub u. Comp. Agentur-Commissionsgeschäft.\n| | | | Föhr-Huber, Georg, Kittmeister.\n15 | VII. | 249 B | | Weiß-Coelestin.\n| | | | Weiß-Coelestin, Part.\n16 | VII. | 275 | |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6030,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2115,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p256",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p256.jpg",
+      "bytes": 1412414,
+      "sha256": "1a65d3179b66eb419cee2a2ae101a737ceb6e4169588acc1291fa4d32624602c",
+      "sha256_of": "original",
+      "working_copy": "1862_p256.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:27+00:00"
+  }
+}

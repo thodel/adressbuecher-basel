@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p088",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p088.jpg",
+    "bytes": 1414545,
+    "sha256": "a4b160840f2fc72cad63c84ff523d5e916aee50569baff0d66325d2eebfe0497",
+    "sha256_of": "original",
+    "working_copy": "1862_p088.jpg"
+  },
+  "text": "Augustinergasse. — Austraße. — Bachlettenstraße. 23\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n9 | V. | 1480 | Lehrerwohnung. | Staat.\n  Meyer-Lichtenhan, Rem., Dr., Lehrer.\n11 | V. | 1479 | | Sarasin-Merian, Wb. Jul., s. Erb.\n  Merian-Sarasin, Wilh., Landökonom.\n  Raillard, Emma, Jgfr., Erzieherin.\n13 | V. | 1478 | Lehrerwohnung. | Staat.\n  Meyer-Kraus, Heinrich, V. D. M. Lehrer\n15 | V. | 1477 | Lehrerwohnung. | Staat.\n  Burckhardt-Piquet, Theophil, Lehrer.\n17 | V. | 1476 | | Burckhardt-Bernoulli, Charlotte.\n  Burckhardt-Bernoulli, Charl. Wb., Rent.\n19 | V. | 1475 | Augustinerhof. | Burckhardt-Keller, J. Rud.\n  Burckhardt-Keller, J. R., App.-Ger.-Präs.\n21 | V. | 1474 | | His-Laroche, Eduard.\n  Miescher-His, Friedr. Eduard, Dr. u. Prof.\n  His-Vischer, Wilh., Dr. und Prof.\n\nAustraße.\n\n24 | II. | 166 A | | Geßler-Wierz, Daniel.\n  Schneider, Geschw. Jul. u. Paul., Part.\n  Lutz-Hagnauer, Johann, Commis.\n26 | II. | 166 B | | Geßler-Wierz, Daniel.\n  Pfaunder-Carle, Wb. Margaretha, Part.\n  Pfaunder-Kaltenbach, Jacob, Part.\n  Schmidt, Johann Ulrich, Agent.\n28 | II. | 166 D | | Geßler-Wierz, Daniel.\n  Geßler-Wierz, Daniel, Part.\n30 | II. | 166 | | Widmann-Schweighauser, Heinrich.\n  Widmann-Schweighauser, Heinr., Lehrer.\n  Girard-Baretta, Friedrich, Centralbahn-\n  Beamter:\n32 | II. | 166 E | | Wüst-Hügin, Leonhard.\n  Wüst-Hügin, Leonhard, Schreiner.\n  Wagner, J. C., Chef d. Contr. d. Centralb.\n47 | II. | 168 | | Delhasen, Samuel, Mechaniker.\n  Abt, Albert, Postbeamter.\n48 | II. | 169 B | | Stäubli-Scholl, Bernhard.\n  Stäubli-Scholl, Bernhard, Gärtner.\n50 | II. | 169 | | Boillat-Stihl, Cölestin.\n  Boillat-Stihl, Cölestin, Schreiner.\n  Grob-Stengelen, Jakob, Cassier.\n71 | II. | 137 | | Bischoff-Burtorf, Wb. Adele.\n  Rickenbach, Jakob, Lehenbeständer.\n\nBachlettenstraße.\n\n10 | III. | | Pulvermagazin. | Staat.\n11 | III. | 180 | | Bürgin, Heinrich.\n  Schneider-Studer, Benedict, Ziegler.\n15 | III. | 181 | | Engler-Preisentanz, Heinrich.\n  Engler-Preisentanz, Heinrich, Ziegler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10041,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2059,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p088",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p088.jpg",
+      "bytes": 1414545,
+      "sha256": "a4b160840f2fc72cad63c84ff523d5e916aee50569baff0d66325d2eebfe0497",
+      "sha256_of": "original",
+      "working_copy": "1862_p088.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:10+00:00"
+  }
+}

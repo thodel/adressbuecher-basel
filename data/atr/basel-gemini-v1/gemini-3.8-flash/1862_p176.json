@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p176",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p176.jpg",
+    "bytes": 1412533,
+    "sha256": "a8a936cc68d2524a513a6fd0e3a50101d727e8327959b76742048fb58681a076",
+    "sha256_of": "original",
+    "working_copy": "1862_p176.jpg"
+  },
+  "text": "St. Peters-Graben. 111\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n29 | II. | 564 | | Socin-Frey, Eduard.\n  Socin-Frey, Eduard, Kaufmann.\n31 | II. | 563 | zur Rose. | Reber-Geilinger, Joh. Jakob.\n  Reber-Geilinger, Joh. Jakob, Part.\n33 | II. | 562 | Pfarrhaus. | Staat.\n  Stückelberger-Usteri, Joh., Pfarrer.\n  Siehe Stiftsgasse Nro. 9.\n35 | II. | 561 | Bärenfelserhof. | Bauer-Felber, Jacob.\n  Bauer u. Comp., Agentur und Com-\n    missionsgeschäft.\n  Auberlen-Menzel, C., Dr. Prof. d. Theol.\n  Grunauer-Märklin, Christof, Alt-Pfarrer.\n  Werkstätte von R. Ochsenbein, Büchsenm.\n37 | II. | 561 D | Bärenfelserhof. | Bauer-Felber, Jacob.\n  Bauer-Felber, Jacob, Mechaniker und\n    Eichmeister.\n  Bauer, Friedrich, Kaufmann.\n39 | II. | 552 | | LaRoche, Germann.\n  Siehe Nr. 6 Nadelberg.\n41 | II. | 552 | | LaRoche, Germann.\n  (Gartenhaus.)\n42 | II. | 276 A | Polizeiposten. | Staat.\n43 | II. | 548 | | Vonder Mühll-Bischoff, Emanuel.\n  Siehe Nr. 12 Nadelberg.\n44 | II. | 276 | Zeughaus. | Staat.\n  Kriegskommissariat.\n  Zeughausbureau.\n45 | II. | 549 | | Bischoff-Merian, Rudolf.\n  (Gartenhaus.)\n46 | II. | 277 | Zeugwartwohnung. | Staat.\n  Sauerbrey-Vogel, Valentin, Zeugwart\n    und Büchsenmacher.\n47 | II. | 525 | | Häfelin-Mohr, Wb. Salomea.\n  Siehe Nr. 14 Nadelberg.\n48 | II. | 278 | ehemalige Stadt-schlosserei. | Stadtgemeinde.\n  Schneider-Simmler, Wb. Anna, Part.\n49 | II. | 522 | zum Kaiser. | Zäslin-Stähelin, Conrad.\n  Bernoulli-Barth, Eduard, Pfarrer.\n  Siehe Nr. 18 Nadelberg.\n50 | II. | 279 | Gnadenthal. | Stadtgemeinde.\n51 | II. | 520 | | LaRoche-Stähelin, Benedict.\n  Siehe Nr. 20 Nadelberg.\n52 | II. | 279 | Gnadenthal. | Stadtgemeinde.\n  Uebelin-Trautwein, Joh. Jakob, Bau-\n    schreiber.\n55 | II. | 473 A | zur Altane. | Holdenecker, Achilles.\n  Holdenecker, Achilles, Buchhändler.\n  Siehe Nr. 12 Rosshofgasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12073,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1888,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 35.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p176",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p176.jpg",
+      "bytes": 1412533,
+      "sha256": "a8a936cc68d2524a513a6fd0e3a50101d727e8327959b76742048fb58681a076",
+      "sha256_of": "original",
+      "working_copy": "1862_p176.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:07+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p195",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p195.jpg",
+    "bytes": 1309692,
+    "sha256": "a2d7c0b04c07ded933be85f4269ad5bb2071d6da27ddb168a5dce34b7a7daf21",
+    "sha256_of": "original",
+    "working_copy": "1862_p195.jpg"
+  },
+  "text": "130 | Schützenmattstraße. — Schwanengasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n27 | III. | 144 | | Meyer-Vest, Gedeon.\n31 | III. | 142 | | Geßler-Merian, Rudolf.\n33 | III. | 141 | | Mast-Stehelin, Johann.\n  Mast-Stehelin, Johann, Maler.\n  Klaiber-Dettinger, Louis, Kaufmann.\n  Schneider-Weihrauch, Gust., Präparator.\n37 | III. | 140 A | | Zaeslin-Falkeisen, Conrad.\n  Friedrich-Knapp, Joh. Jak., Unternehmer\n    von Entleerungs- und Erdarbeiten.\n41 | III. | 140 C | | Müller-Mathis, Wilhelm.\n  Mangold-Tröndle, Jakob, Lehenmann.\n43 | III. | 140 | | Ludwig-Eckenstein, Andreas.\n  Hill, Philipp Andreas, Blattmacher.\n  Huber-Schreck, Jakob, Gärtner.\n  Foos-Cavin, Franz Jos., Gießer.\n  Schneider-Jung, Martin, Bannwart.\n45 | III. | 140 B | | Ludwig-Eckenstein, Andreas.\n  Eisengießerei.\n49 | III. | 170 | | Merkle-Klipfel, Albert.\n51 | III. | 171 | | Simmoth-Speiser, Julius Otto.\n54 | II. | 173 | Bohrhäuslein. | Stadtgemeinde. (Sprizenhaus.)\n55 | III. | 172 A | | LeGrand-Werthemann, Wb. Marg.\n  Ammann, Georg, Lehenmann.\n56 | II. | 174 | Schützenhaus. | Stadtgemeinde.\n  Keller-Seifert, Ulrich, Wirth.\n57 | III. | 172 | | LeGrand-Werthemann, Wb. Marg.\n58 | II. | 174 B | Schießstand. | Schützengesellschaft.\n60 | II. | 174 c | Scheibenhaus. | Schützengesellschaft.\n64 | II. | 178 | Schüzmattenscheune | Stadtgemeinde.\n65 | III. | 179 | | LeGrand-Werthemann, Wb. Marg.\n\nSchwanengasse.\n1 | VI. | 140 | zur St. Ursula. | Roschet-Hindermann, Hieronimus.\n  Roschet-Hindermann, Hieronim., Sattler.\n  Heidegger-Hartmann, Friedrich, Seiden-\n    sensal.\n2 | I. | 139 | zum Korb. | Wieland-Landerer, Wb. Babette.\n  Schweighauser'sche Sortimentsbuchhand-\n    lung (H. Amberger).\n  Schweighauser'sche Verlagsbuchhandlung\n    und Buchdruckerei.\n  Redaction und Expedition der Basler\n    Nachrichten.\n  Flersheim u. Comp., Bandhändler.\n3 | VI. | 141 | Blumenschmiede. | Früh-Hörler, Ludwig.\n  Früh-Hörler, Ludwig, Schmied.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9154,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1981,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:55:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p195",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p195.jpg",
+      "bytes": 1309692,
+      "sha256": "a2d7c0b04c07ded933be85f4269ad5bb2071d6da27ddb168a5dce34b7a7daf21",
+      "sha256_of": "original",
+      "working_copy": "1862_p195.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:08+00:00"
+  }
+}

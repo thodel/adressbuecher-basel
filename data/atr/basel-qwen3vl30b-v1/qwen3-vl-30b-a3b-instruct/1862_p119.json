@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p119",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p119.jpg",
+    "bytes": 1284770,
+    "sha256": "7f01c94ebdfcdbb96084b97f56adbda7bbd0d87a3b7a1466585d2483c96cdef1",
+    "sha256_of": "original",
+    "working_copy": "1862_p119.jpg"
+  },
+  "text": "54\nGerbergasse.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n56 VI. 666 zur niedern Burg. Schaub-Eichacker, David.\nSchaub-Eichacker, David, Feger.\nHelg-Kuegg, J. A., Seidenwaarenhdlg.\n57 IV. 1161 zur Ell u. d. 3 Bären. Wölfflin-Mengis, Joh. Rud.\nWölfflin-Mengis, J. R., Polizeiger.-Präf.\nWölfflin, Wilh. Rud., Sohn, Kaufmann.\nHäfeli, Hermann Carl, Commis.\n58 VI. 667 zur Oberburg. Wohnlisch-Biland, Wb. Sophia.\nWohnlisch-Biland, Wb. S., Korbbandel.\nMüller, Joh., Commis.\n59 IV. 1160 zum Steinfels. Wehrli, Heinrich.\nWehrli, Heinrich, Uhrenmacher.\nHuber-Stäbler, Jacques, Handelsmann.\nReinisch, Franz, Red. d. Basl.-Nachr.\n60 VI. 668 zur langen Leiter. Krug, Marcus.\nKrug, Marcus, Buchbinder.\n61 IV. 1159 zum Helfenstein. Leithardt-Götz, Heinrich.\nFalkner-Mösch, Emanuel, Gutmacher.\n62 VI. 669 Jgelberg. Roller-Wei, Wb. Rosina.\nRoller-Wei, Wb. Rosina, Schuhhdlg.\n63 IV. 1158 zum Neuenstein. Ammann-Reidhardt, Achilles.\nAmmann-Reidhardt, Achilles, Sieb- u.\nTrommelmacher.\nWeber-Dettlin, Anna Maria, Coiffeuse.\nHaase-Knell, Hugo, Commis.\nAmsler-von Tobel, Rudolf, Corsetfabrkt.\n64 VI. 670 zum grünen Stein. Löw-Reifer, Joh. Jakob.\nLöw-Reifer, J. J., Eisenhandlung.\nSacher-Ryburz, Joseph, Postcommis.\n65 IV. 1157 zur Scherben. Klingelfuß-Faber, Wb. Cath. Elise.\nKlingelfuß-Faber, Wb. C. E., Part.\nTobler-Klingelfuß, Emilia, Modengesch.\n66 VI. 671 zum Hörnli. Ammann-Reidhardt, Achilles.\nAmmann, Achilles, Sohn, Siebmacher.\n67 IV. 1156 zum Weinsperg. Bokardt-Wolleb, Wb. Helena.\nBokardt-Wolleb, Wb. Helena, Part.\n68 VI. 672 z. niedern Hoggen. Stöcklin-Bisegger, Johs.\nStöcklin-Bisegger, J., Handelsmann.\n69 IV. 1155 .................. Saladin-Kaiser, Jacob.\nSaladin-Kaiser, Jacob, Schuhmacher.\nBär, Gottlieb, Photograph.\n70 VI. 673 .................. Schoop-Zepf, Ulrich.\nSchoop-Zepf, Ulrich, Schreiner.\n71 IV. 1154 zum Wenkenberg. Breiter, Joh. Jakob.\nBreiter, J. J., Particular.\n72 VI. 674 zum Schleiffstein. Hodel-Böninger, Amalia.\nHodel-Böninger, Amalia, Schneiderin.\nSchaub, Matthias Joh., Schuhmacher.\nDebret-Müller, Adolf, Coiffeur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6817,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2087,
+    "lines": 60,
+    "longest_char_run": 18,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0086,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:36:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p119",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p119.jpg",
+      "bytes": 1284770,
+      "sha256": "7f01c94ebdfcdbb96084b97f56adbda7bbd0d87a3b7a1466585d2483c96cdef1",
+      "sha256_of": "original",
+      "working_copy": "1862_p119.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:14+00:00"
+  }
+}

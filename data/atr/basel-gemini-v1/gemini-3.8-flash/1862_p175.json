@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p175",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p175.jpg",
+    "bytes": 1292853,
+    "sha256": "a3c485015fbc73243e71966064b2e6e16ca34e37640c1a04fb920375a8726c19",
+    "sha256_of": "original",
+    "working_copy": "1862_p175.jpg"
+  },
+  "text": "110 St. Peters-Graben.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nSt. Peters-Graben.\n1 | I. | 91 | Schweizerhof. | Rapp-Wick, Johann Conrad.\n  Rapp-Wick, Johann Conrad, Particul.\n  Rapp, Rudolf, Kunstmaler.\n  Rapp, Wilhelm, Kaufmann.\n2 | I. | 271 | Strafanstalt. | Staat.\n  Rohweder-Bossardt, Peter, Hausmeister.\n  Hegerich, Caspar, Aufseher.\n3 | I. | 215–216 | | Brüstlein-DuPasquier, Eduard.\n  Brüstlein-DuPasquier, Eduard, Part.\n5 | I. | 217 | | Deggeller-Stegmann, Bernhard.\n  (Schlosserwerkstätte.)\n  Siehe Nr. 18 St. Peters-Gasse.\n6 | I. | 270 | ehemaliger Doctor-garten. | Spitalpflegamt.\n  (Anstalt für blödsinnige Kinder u. arme Herberge f. durchreis. Handwerksgesell.)\n  Erzenberger-Heckendorn, Johann Adam, Schneider.\n7 | I. | 222 | Kohlerhof. | Holzach-Ronus, Wb. Margaretha.\n  Siehe Nro. 28 St. Peters-Gasse.\n9 | I. | 223 | Kohlerhof. | Französisches Consistorium.\n  Siehe Nr. 30 St. Peters-Gasse.\n11 | I. | 224 A | Friedhof. | Zimmerlin-vonSpeyr, August.\n  Siehe Nr. 30 St. Peters-Gasse.\n13 | I. | 228 | | LeGrand, Adolf, sel. Erben.\n  Siehe Nr. 36 u. 38 St. Peters-Gasse.\n15 | I. | 224 C | neuer Offenburger Hof. | Merian, Marie, Jungfr.\n  Merian, Marie, Rentiere.\n17 | I. | 224 D | neuer Offenburger Hof. | Gemuseus-Legrand, Wb. Anna Mar.\n  Gemuseus-Legrand, Wb. Anna Maria, Rentiere.\n18 | I. | 256 | Samson. | Fäsch-Paravicini, Wb. Margaretha.\n  Reiter-Ehrmann, Ernst, Musikdirector.\n19 | I. | 234 f | Flachsländerhof. | Scheuchzer-vonRosenkampf, Math., und Scheuchzer-Dür, August.\n  (Magazin.)\n21 | I. | 242 B | Violenhof. | Merian, Maria.\n22 | I. | 255 A | | Keller, Carl.\n  Keller, Carl, Kaufmann.\n  Merian, Daniel, Kaufmann.\n23 | I. | 242 | Violenhof. | Falkner-LaRoche, sel. Erben.\n  Siehe St. Peterskirchplatz Nr. 9.\n24 | I. | 255 | z. König David. | Müller-Weitnauer, Joh. Jacob.\n  Müller-Weitnauer, Joh. Jacob, Kaufm.\n27 | II. | 566 | z. neuen Offenburger Kapelle. | Socin-LeGrand, Abel.\n  Socin-LeGrand, Abel, Kaufmann.\n  Socin und Sohn, Abel, Tuchhandlung.\n  Burckhardt-Fürstenberger, Eman., J.U.D. des Raths, Präsid. der Strafanstalt.\n  Siehe St. Peterskirchplatz Nr. 6.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8596,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2162,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0213,
+    "mean_line_chars": 43.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:51:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p175",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p175.jpg",
+      "bytes": 1292853,
+      "sha256": "a3c485015fbc73243e71966064b2e6e16ca34e37640c1a04fb920375a8726c19",
+      "sha256_of": "original",
+      "working_copy": "1862_p175.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:55+00:00"
+  }
+}

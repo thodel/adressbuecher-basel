@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p215",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p215.jpg",
+    "bytes": 1311964,
+    "sha256": "5711ae13138a73df070d90af1f229eb74fc79baaeee6ae3a1acbf6d5d229c4e3",
+    "sha256_of": "original",
+    "working_copy": "1862_p215.jpg"
+  },
+  "text": "150 Steinenthorstraße.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n22 | III. | 853 | zum St. Andreas. | Paravicini-Meyer, Joh. Ludwig.\n  Paravicini-Meyer, Joh. Ludwig, Zimmermannsmeister.\n  Paravicini-Merian, Ludwig, Zimmermeister, Particular.\n23 | III. | 870 | | Merian-Brandmüller, Friedrich.\n  Merian-Brandmüller, Friedrich, Bierbr.\n  Merian-Süffert, Ludwig, Particular.\n  Brandmüller-Eckenstein, Joh. Heinrich, Particular.\n25 | III. | 869 | zum blauen Wind. | Riggenbach-Huber, Wb. Charlotte.\n  Riggenbach-Huber, Wb. Charlotte, Part.\n  Riggenbach-Holzach, Johan., Professor Dr. der Theologie.\n27 | III. | 868 | z. äuß. blauen Wind. | Oppermann-Landerer, Carl.\n  Oppermann-Landerer, Carl, Flachmaler.\n  Oppermann, Carl, Sohn, Flachmaler.\n  Sommer-Müller, Rudolf, Bäcker.\n  Munzinger-Landerer, Wb. Margaretha, Particularin.\n29 | III. | 867 | | Weber-Marfort, Rudolf.\n  Weber-Marfort, Rudolf, Metzger.\n  Müller-Herport, Anton, Eisenbahnbeamt.\n  Harder, Sophie, Privatschule.\n  Hösl-Heerele, Friedrich, Concertmeister.\n30 | III. | 854 | | Bürgin, Heinrich.\n  Bürgin, Heinrich, Seifen- und Lichterfabrikant.\n  Frey-Hotze, Daniel, Zollbeamter.\n  Luttringshausen-Cuat, Eduard, Commis.\n31 | III. | 866 | zur Laterne. | Müller-Pfau, Joh. Jacob.\n  Müller-Pfau, Joh. Jacob, Brunnmstr.\n32 | III. | 855 | Hinterhaus. | Deck-Ernst, Wilhelm Peter.\n  Stingelin-Seiler, Jacob, Maler.\n  Bölmy-Rieder, Heinrich, Mechaniker.\n33 | III. | 865 | | Röslin-Härry, Johann Rudolf.\n  Röslin-Härry, Johan. Rudolf, Fabrikarbeiter.\n  Röslin, Rud., Ausläuf. b. Baucollegium.\n34 | III. | 855 | | Deck-Ernst, Wilhelm Peter.\n  Neukomm-Weiß, Joh. Georg, Wirth.\n35 | III. | 864 | | Früh-Bölsterli, Friedrich.\n  Früh-Bölsterli, Friedrich, Commis.\n36 | III. | 856 | | Stehle-Jourdan, Albert.\n  Stehle-Jourdan, Albert, Metzger.\n37 | III. | 863 | zum Balchen. | Hartmann-Schäublin, Johannes.\n  Hartmann-Schäublin, Joh., Bäcker.\n  Hartmann, Eduard, Dessinateur.\n  Bienz, Gabriel, Metzger.\n38 | III. | 857 | | Roth-Rothmund, Jacob.\n  Roth-Rothmund, Jacob, Fabrikmeister.\n  Studer-Kuhn, J. C., Spezierer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7854,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2125,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p215",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p215.jpg",
+      "bytes": 1311964,
+      "sha256": "5711ae13138a73df070d90af1f229eb74fc79baaeee6ae3a1acbf6d5d229c4e3",
+      "sha256_of": "original",
+      "working_copy": "1862_p215.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:00+00:00"
+  }
+}

@@ -1,0 +1,97 @@
+150
+Steinenthorfstraße.
+Nre
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+22
+III. 853
+zum St. Andreas.
+Paravicini-Meyer, Joh. Ludwig.
+Paravicini-Meyer, Joh. Ludwig, Zim-
+mermeister.
+Paravicini-Merian, Ludwig, Zimmer-
+meister, Particular.
+23
+III. 870
+Merian-Brandmüller, Friedrich.
+Merian-Brandmüller, Friedrich, Bierbr.
+Merian-Sliffert, Ludwig, Particular.
+Brandmüller-Eckenstein, Joh. Heinrich,
+Particular.
+25
+III. 869
+zum blauen Wind.
+Riggenbach-Huber, Wb. Charlotte.
+Riggenbach-Huber, Wb. Charlotte, Part.
+Riggenbach-Holzach, Johan., Professör
+Dr. der Theologie.
+27
+III. 868
+z. äuß. blauen Wind.
+Oppermann-Landerer, Carl.
+Oppermann-Landerer, Carl, Flachmaler.
+Oppermann, Carl, Sohn, Flachmaler.
+Sommer-Müller, Rudolf, Bäcker.
+Munzinger-Landerer, Wb. Margaretha,
+Particularin.
+29
+III. 867
+Weber-Marfort, Rudolf.
+Weber-Marfort, Rudolf, Metzger.
+Müller-Herport, Anton, Eisenbahnbeamt.
+Harder, Sophie, Privatschule.
+Höfl-Heerele, Friedrich, Concertmeister.
+30
+III. 854
+Bürgin, Heinrich.
+Bürgin, Heinrich, Seifen- und Lichter-
+fabrikant.
+Frey-Hoße, Daniel, Zollbeamter.
+Luttringshausen-Cuat, Eduard, Commis.
+31
+III. 866
+zur Laterne.
+Müller-Pfau, Joh. Jacob.
+Müller-Pfau, Joh. Jacob, Brunnenftr.
+32
+III. 855
+Hinterhaus.
+Deck-Ernst, Wilhelm Peter.
+Stingelin-Seiler, Jacob, Maler.
+Völmy-Kieder, Heinrich, Mechaniker.
+33
+III. 865
+Röslein-Härry, Johann Rudolf.
+Röslein-Härry, Johan. Rudolf, Fabrik-
+arbeiter.
+Röslein, Rud., Ausläuf. b. Baucollegium.
+34
+III. 855
+Deck-Ernst, Wilhelm Peter.
+Neufomm-Weiß, Joh. Georg, Wirth.
+35
+III. 864
+Früh-Bölsterli, Friedrich.
+Früh-Bölsterli, Friedrich, Commis.
+36
+III. 856
+Stehle-Jourdan, Albert.
+Stehle-Jourdan, Albert, Metzger.
+37
+III. 863
+zum Balchen.
+Hartmann-Schäublin, Johannes.
+Hartmann-Schäublin, Joh., Bäcker.
+Hartmann, Eduard, Dessinateur.
+Bienz, Gabriel, Metzger.
+38
+III. 857
+Roth-Rothmund, Jacob.
+Roth-Rothmund, Jacob, Fabrikmeister.
+Studer-Ruhn, J. C., Spezierer.

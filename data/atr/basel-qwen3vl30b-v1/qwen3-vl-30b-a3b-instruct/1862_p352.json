@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p352",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p352.jpg",
+    "bytes": 1665667,
+    "sha256": "61e674a31a2999b1be0cad42b73050c869ef0c78df370b3fdc109326b7d08544",
+    "sha256_of": "original",
+    "working_copy": "1862_p352.jpg"
+  },
+  "text": "Verzeichniss der Bürger und Einwohner. 287\nSchwind=Schaffner, Wb. Ursula, Modiste. Schneidergasse 11.\nSfell=Deck, Mathias, Seidenfärbner. Ochjengasse 6.\n— Rudolf, Schuhmacher. Kronengasse 8.\n— =Walz, Christian, Baujührer. Steinenbachgässlein 18.\nGubler=Huber, Albert, Café- u. Speisewirth. Greifengasse 2.\n— =Langmeyer, Jakob. Fabrikstraße 35.\n— =Lobacher, Rudolf, Seidenfärbiergefelle. Hammerstraße 21.\n— =Pfeiffer, Caspar, Maurerparlier. Simgässlein 7.\n— =Eichumper, Rudolf, Tapezierer. Hammerstraße 23.\nGüller=Degelmann, Heinr., Schneider. Spalenberg 61.\nGueng=Welhausen, Franz, Kaufmann. Grenzacher=Strasse 35.\nGiinther=Schaub, Jakob, Partikular. St. Jakobs=Strasse 12.\n— =Urs Josef, gewej. Professor, nun Vikar. Lindenberg 12.\nGiinzhofer=Ruhn, Ludwig, Güterexpeditionsgehilfe. Mattweg 2.\nGuerne=Breithaupt, Albert, Commis. Münzgässlein 11.\n— Henriette, Vorgängerin. Steinenvorst. 33.\nGiirtler=Grifanti, Joh., Kreispotcontroleur. St. Elisabethen=Strasse 58.\n— =Heckle, Peter, Maurermeister. Rheingasse 38.\n— Heinrich, Schreinermeister. Mostackerstraße 18.\n— =Schneider, Josef, Seidenfärbiergefelle. Utengasse 25.\n— =Bogt, Josef, Gutsbesitzer. Burgfelder=Strasse 22.\n— =Wertenberg, Fridolin, Schreinermeister. Mostackerstraße 18.\n— =Wild, Georg, Zimmermann. St. Leonhards=Strasse 20.\nGiis=Mager, Philipp, Maurerparlier. Unterer Heuberg 29.\nGugel=Zuillerat, Joh. Georg, Handlungsdienener. Rheinsprung 22.\nGugelmann=Marchand, Anna Maria, Schneiderin. Schneidergasse 7.\nGuggenbühl=Schweizer, Heinrich, Schuhmacher. St. Peters-Berg 9.\nGuise, Fräulein Johanna, Sprachlehrerin. Aeschenvorstadt 48.\n— =Munzinger, Johanna. Kirchgasse 13.\nGuldemann=Sieber, Wb. Maria, Arbeiterin. Bei der Wiefenschanze 30.\n— =Wahl, Joh., Magazinier. Aeschengraben 30.\nGull, Johannes, Lokomotivführer. Aeschenvorstadt 66.\nGundrum=Oyger, Joh. Heinrich, Decorationsmaler. Spalenvorstadt 18.\n— =Merker, Michael, Zimmermeister. Unt. Rheinweg 25.\nGunzenhauser=Manz, Heinrich, Fabrikarbeiter. Johanniterstraße 15.\nGut=Pfister, Wb. Ursula, Wascherin. Kiechenthorstraße 9.\n— =Schneider, Joh. Jakob, Postangestellter. Mattweg 14.\nGutekunst, Joh. Jak., Maurerparlier. Heuberg 23.\nGuth=Himmely, Rudolf, Part. Rebgaase 27.\n— Wb. Suz., Matrazenmacherin. Münzgässlein 26.\nGutknecht=Heer, Joh. Adam, Spezierer und Wünzantiquar. Schneidergasse 12.\nGutmann=Herzog, Robert, Seidenfärbiergefelle. Kiechenthorstraße 16.\n— =Roffe, Josef, Kuttscher. Steinenvorstadt 37.\nGutzwiler=Bürgin, Alexander, Posamenter. Binninger Straße 23.\n— =Grummler, Sebastian, Kunstmaler. Greifengasse 23.\n— Josef, Steinhauger. Hammerstr. 100.\n— =Waldmeyer, Ignaz, Kunstmaler. Schneidergasse 7.\nGyfin, Anna Christina, Glätterin. Schneidergasse 7.\n— Barbara, Part. Kiechenthorstraße 25.\n— =Blum, Wb. Magdalena, gew. Schullehrerin. Klingenthal 12.\n— Elisabeth, Schneiderin. Münzgässlein 19.\n— Elisabeth, Wb. Part. Hardstraße 38.\n— Eman., Commis. Freie Straße 109.\n— Emil, Maler. Freie Straße 75.\n— Friedrich, Commis. Mostackerstraße 62.\n— Friedrich, Dessinateur. Freie Straße 55.\n— Fritz, Briesträger. Freie Straße 75.\n— =Garnaus, Wb. Emma Cath., Part. St. Peters=Gasse 42.\n— =Grieder, Joh., Posam. Gellerstr. 48\n— =Gyfin, Friedr. Joh., Posamenter. St. Jakobs=Strasse 54.\n— Häring, Jak. Christof, Posam. Spalenthorweg 4.\n— Heinrich, Spezierer. Barfüsserplatz 21.\n— =Heuberger, Georg, Posamenter. Kiechenteichweg 14.\n— =Hindermand, Conrad, Banquier. Bäumleingasse 18.\n— =Hofer, Wb. Barbara, Part. Steinenvorstadt 51.\n— Jakob, Schreiner. Hardstraße 38.\n— Joh. Georg, Fabrikarb. Teichgäss. 3.\n— =Raifer, Heinrich, Maurermeister. St. Johann=Vorstadt 59.\n— =Raifer, Joh. Dietrich, Schlosser. Spalenvorstadt 21.\n— =Kalbfell, Jak., Posament. Plazgässlein 5.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9370,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3681,
+    "lines": 71,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:07:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p352",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p352.jpg",
+      "bytes": 1665667,
+      "sha256": "61e674a31a2999b1be0cad42b73050c869ef0c78df370b3fdc109326b7d08544",
+      "sha256_of": "original",
+      "working_copy": "1862_p352.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:07:43+00:00"
+  }
+}

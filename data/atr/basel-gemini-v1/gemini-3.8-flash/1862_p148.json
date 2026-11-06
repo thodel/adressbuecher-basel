@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p148",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p148.jpg",
+    "bytes": 1478059,
+    "sha256": "5134d869c3b0c7505af26a635af67bf6dbfab4804879612f720ad54b9e8a660d",
+    "sha256_of": "original",
+    "working_copy": "1862_p148.jpg"
+  },
+  "text": "St. Leonhards-Graben. | 83\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n21 | II. | 446 | z. d. 3 grün. Bergen. | Frey-Sandreuter, Joh. Jac.\n  Siehe Nr. 4 Heuberg.\n22 | II. | 370 | | Lindenmeyer-Störkel, Samuel.\n  Häfelfinger, Carl, Materialist.\n  Heinzgen, Jacob Emil, Commis.\n23 | II. | 445 | zum Paradies. | Stähelin, Salomea, sel. Erben.\n  Siehe Nr. 6 Heuberg.\n24 | II. | 371 | | Bärry = Ehemann, Heinr., Weinsch.\n  Bärry-Ehemann, Heinrich, Weinschenk.\n25 | II. | 444 | | Salathe-Boßhardt, Johannes.\n  Salathe-Boßhardt, Joh., Kaufmann.\n  Siehe Nr. 8 Heuberg.\n26 | II. | 372 | | Lindenmeyer-Störkel, Samuel.\n  Lindenmeyer-Störkel, Sam., Schreiner.\n27 | II. | 443 | zum hint. Schaub. | Liebrich-Müller, Joh. Conrad.\n  Siehe Nr. 10 Heuberg.\n28 | II. | 372 A | | Lindenmeyer-Störkel, Samuel.\n  Schreinerwerkstatt.\n29 | II. | 442 | Aarau. | Huber-Schnell, Wb. Maria Salom.\n  Siehe Nr. 12 Heuberg.\n30 | II. | 373 | | Braun-Weiß, Wb. Chrischona.\n31 | II. | 441 A | zum Seidenhut. | Levy, Marcus.\n  Siehe Nr. 14 Heuberg.\n32 | II. | 374 | | Braun-Weiß, Wb. Chrischona.\n  Braun-Weiß, Wb. Chrischona, Rent.\n33 | II. | 440 a | | Burckhardt-Imhof, Wb. Sus.\n  Siehe Nr. 16 Heuberg.\n34 | II. | 374 A | | Schmidt-Götz, Joh. Andreas.\n  Schmidt-Götz, Joh. Andreas, Rentier.\n  Beck-Götz, Judith, Particular.\n35 | II. | 439 | zum Engelberg. | Bernoulli-Werthemann, Joh. Jac.\n  Siehe Nr. 18 Heuberg.\n36 | II. | 375 | | Brändlin-Noerbel, Wb. Maria Elis.\n  Brändlin-Noerbel, Wb. Mar. Elis., Maler.\n  Ostertag-VonSpeyr, Albert, Dr.\n  Ronus-VonSpeyr, Christ., Kaufmann.\n  Philippi-Hagnier, Alb. Jacob, Agent.\n  Philippi, Ernst, Agent.\n37 | II. | 438 | zum Helfenberg. | Stricker-Meyer, Ludw. David.\n  Siehe Nr. 20 Heuberg.\n38 | II. | 376 | | Burckhardt-Ryhiner, Elias, sel. Erb.\n  Burckhardt-Breck, Elias, J. U. D.\n  Stadtrath.\n  Burckhardt-Burckhardt, Rud., Dr. med.\n  et Chir.\n39 | II. | 437 | zum Waldshut. | Bischoff-Keller, Andreas.\n  Siehe Nr. 22 Heuberg.\n40 | II. | 377 | | Stähelin-Bischoff, Benedict.\n  Stähelin-Linder, Benedict, Bandfabrikt.\n\n6*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11164,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2095,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.13,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:47:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p148",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p148.jpg",
+      "bytes": 1478059,
+      "sha256": "5134d869c3b0c7505af26a635af67bf6dbfab4804879612f720ad54b9e8a660d",
+      "sha256_of": "original",
+      "working_copy": "1862_p148.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:35+00:00"
+  }
+}

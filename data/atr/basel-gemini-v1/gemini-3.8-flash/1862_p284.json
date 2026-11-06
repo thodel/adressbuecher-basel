@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p284",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p284.jpg",
+    "bytes": 1642811,
+    "sha256": "debabd2e55d39d8c44f59c8c6ab597285fe55a50fe65b84b87337d85a0ce9c7a",
+    "sha256_of": "original",
+    "working_copy": "1862_p284.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 219\n\nMünze, z. hintern goldenen. St. Martins-\n  kirchplatz Nr. 8.\nMueshaus. Spalenvorstadt Nr. 14.\nMuschel, z. Freie Straße Nr. 58.\nMuseum. Augustinergasse Nr. 2.\nMutz, z. braunen. Barfüßerplatz Nr. 11.\n\nNachtigall, z. Freie Straße Nr. 103.\nNadelberg, z. Nadelberg Nr. 32.\nNarren, z. Barfüßerplatz Nr. 28.\nNägeli-Garten, z. Schneidergasse Nr. 9.\nNepper, z. Aeschenvorstadt Nr. 45.\nNeuenburg, z. Gerbergasse Nr. 18.\nNeuenburg, z. Steinenvorstadt Nr. 13.\nNeuenhof, z. Stiftsgasse Nr. 5.\nNeuenstein, z. Gerbergasse Nr. 63.\nNeuhof, z. St. Leonhards-Graben Nr. 10.\nNeu-Mühle. Untere Rheingasse Nr. 17.\nNiederburg, z. Gerbergäßlein Nr. 18.\nSt. Niklaus, z. Gerbergäßlein Nr. 9.\nSt. Niklaus, z. Gerbergasse Nr. 30.\nSt. Niklaus, z. Weiße Gasse Nr. 24.\nNirgau, z. untern. Webergasse Nr. 29.\nNußbaum, z. St. Alban-Vorstadt Nr. 2.\nNußbaum, z. St. Alban-Vorstadt Nr. 42.\nNußbaum, z. Gerbergasse Nr. 32.\n\nOberbruck, z. Stadthausgasse Nr. 5.\nOberburg, z. Gerbergasse Nr. 58.\nObersthelferwohnung. Rittergasse Nr. 4.\nOberstpfarrhaus, ehemal. Münsterplatz Nr. 19.\nObstgarten, z. St. Jakobsstraße Nr. 54.\nOchsen, rother. Ochsengasse Nr. 10.\nOchsen, z. Riehenthorstraße Nr. 27.\nOchsen, z. schwarzen. Spalenvorstadt Nr. 17.\nOchsen, z. schwarzen. Schützenmattstraße Nr. 2.\nOchsenhäuslein. Ochsengasse Nr. 17.\nOchsenmühle, Roth-. Ochsengasse Nr. 12.\nOchsenmühle, Roth-. Teichgäßlein Nr. 1.\nOchsenstein, z. Untere Rheingasse Nr. 4.\nOechslein, z. rothen. Steinenvorstadt Nr. 42.\nOechslein, z. schwarzen, und z. Plattfuß.\n  Münsterberg Nr. 8.\nOelbaum, z. Weiße Gasse Nr. 18.\nOestreich. z. Spalenvorstadt Nr. 33.\nOffenburgerhof. St. Petersgasse Nr. 40.\nOffenburgerhof. St. Petersgasse Nr. 42.\nOffenburgerhof, neuer. St. Petersgraben Nr. 15.\nOffenburgerhof, neuer. St. Petersgraben Nr. 17.\nOffenburger Capelle, z. neuen. St. Peterskirch-\n  platz Nr. 6.\nOffenburgercapelle, z. neuen. St. Petersgraben\n  Nr. 27.\nOlspergerhof, z., od. z. Tiger. Rittergasse Nr. 27.\nOppenheim, z. Hutgasse Nr. 2.\nOrt, z. goldenen. Bäumleingasse Nr. 2.\nOrtenberg, z. Freie Straße Nr. 64.\nOrtenberg, z. Streitgasse Nr. 2.\nOrtheck, z. Webergasse Nr. 4.\nOrtmühle. Webergasse Nr. 2.\n\n[spalte 2]\n\nPabst, z. Gerbergasse Nr. 31.\nPallast, Markgräflicher (Pfrundhaus) Neue\n  Vorstadt Nr. 4.\nPallast, z. Ringgäßlein, Nr. 2.\nPallast, z. Freie Straße Nr. 54.\nPallast, z. inner. Ringgäßlein Nr. 4.\nPalmbaum, Hinterhaus z. St. Martins-\n  kirchplatz Nr. 12\nPalmbaum, z. Eisengasse Nr. 17.\nPanorama, i. Sternengäßlein Nr. 21.\nPanorama, i. Sternengäßlein Nr. 19.\nPanorama, i. Sternengäßlein Nr. 17.\nPapagei, z. Webergasse Nr. 14.\nParadies, z. Steinenthorstraße Nr. 7.\nParadies, z. Rebgasse Nr. 28.\nParadies, z. Rebgasse Nr. 30.\nParadies, z. Klosterberg Nr. 8.\nParadies, z. Aeschenvorstadt Nr. 13.\nParadies, z. Weiße Gasse Nr. 16.\nParadies, z. Heuberg Nr. 6.\nPelikan, z. St. Leonhardsgraben Nr. 13.\nPelikan, z. Spalenberg Nr. 55.\nPeter, St. z. Weiße Gasse Nr. 20.\nPetersberg, St. z. St. Petersgasse Nr. 48.\nPeterskirche, St. St. Peterskirchplatz Nr. 7.\nPetersstift, St. Stiftsgasse Nr. 4.\nPfahl, z. grünen. Grünpfahlgäßlein Nr. 6.\nPfahl, z. schwarzen. St. Petersgasse Nr. 10.\nPfannenberg, z. Streitgasse Nr. 8.\nPfannenberg, z. untern. Hutgasse Nr. 7. 9.\nPfarrhaus. St. Martinskirchplatz Nr. 3.\nPfarrhaus, ehemal. Klybeckstraße Nr. 113.\nPfarrhaus. St. Leonhardsgraben Nr. 63.\nPfarrhaus. St. Petersgraben Nr. 33.\nPfarrrhaus. Kellergäßlein Nr. 6.\nPfarrhaus. Rheinsprung Nr. 12.\nPfarrhaus. St. Peterskirchplatz Nr. 8.\nPfarrhaus. Rebgasse Nr. 38.\nPfarrhaus. Steinenberg Nr. 7.\nPfarrhaus. Stiftsgasse Nr. 9.\nPfarrhaus z. St. Alban. Mühlenberg Nr. 12.\nPfarrwohnung. Lindenberg Nr. 12.\nPfarrwohnung. Klingenthal Nr. 26.\nPfauen, z. Sporengasse Nr. 14.\nPfauen, z. mittlern. Sporengasse Nr. 16.\nPfaueneck. Marktplatz Nr. 18.\nPfeil, z. Spalenberg Nr. 25,\nPfeil, z. gelben. Spalenberg Nr. 24.\nPfeiler, z. hohen. Stadthausgasse Nr. 11.\nPfeiler, z. obern. Spalenberg Nr. 31.\nPflug, z. Freie Straße Nr. 38.\nPflug, z. Untere Rheingasse Nr. 11.\nPflug, z. Schnabelgäßlein Nr. 2.\nPflug, z. Gemsberg Nr. 1.\nPflug, z. Schnabelgäßlein Nr. 4.\nPflug, z. obern. Spalenberg Nr. 40.\nPflug, z. rothen. Spiegelgasse Nr. 14.\nPflugberg, z. Hutgasse Nr. 14.\nPharisäer, z. Bäumleingasse Nr. 13.\nPicke, z. St. Elisabethenstraße Nr. 2.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 15897,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4278,
+    "lines": 120,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:09:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p284",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p284.jpg",
+      "bytes": 1642811,
+      "sha256": "debabd2e55d39d8c44f59c8c6ab597285fe55a50fe65b84b87337d85a0ce9c7a",
+      "sha256_of": "original",
+      "working_copy": "1862_p284.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:10+00:00"
+  }
+}

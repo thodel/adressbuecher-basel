@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p269",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p269.jpg",
+    "bytes": 1265688,
+    "sha256": "b7199882cc7d084dc29cadcad2ba26fd659e4fb0087d012efefa1894708f8efb",
+    "sha256_of": "original",
+    "working_copy": "1862_p269.jpg"
+  },
+  "text": "204\nSchafgässlein. — Schorenweg.\nNene\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nSchafgässlein.\n1 VIII. 20 Abt=Rottweil, Wb. Elisabeth.\n2 VII. 27 Abt=Rottweil, Wb. Elisabeth, Glätterin.\nMäglin=Baumann, Joh. Ludwig.\nMäglin=Baumann, Joh. Ludw., Wirth\nund Metzger.\n3 VIII. 21 Schleub=Hartmann, Hans, Bäcker.\nSommerhalder=Staub, Peter.\nSommerhalder=Staub, Peter, Blatt\nund Zahnmacher.\n4 VIII. 28 zur Linden. Keller=Meyer, Friedrich.\nKeller=Meyer, Friedrich, Kaufmann.\nSiehe Nro. 19 Rheingasse.\n5 VIII. 22 Kestenholz=Häfner, Wb. Elisabeth.\nKestenholz=Häfner, Wb. Elisab., Kostgeb.\nFricker, Ma. Josefa.\n6 VIII. 26 Merz=Burchhardt, Gottlieb, Bäcker.\nZimmermann=Stölle, Hermann.\nZimmermann=Stölle, Hermann, Wirth.\n7 VIII. 23 Fricker, Ma. Josefa.\nBonArz=Miiller, Joh. Jakob, Muster-\nweber.\n8 VIII. 25\n10 VIII. 24 z. schwarzen Schuh. Lok=Heusler, Friedrich.\n12 VIII. 406 zum Silberberg. Köbl.Armencollegium d. Stadt Basel.\nSiehe Nr. 11 Utengasse.\n14 VIII. 192 b zum Schaf. Albrecht=Speiser, Joh. Conrad.\nBurchhardt=Glunz, Samuel, Schuhm.\nSchorenweg.\n6 VII. 88 Merian=Burchhardt, Joh. Jac., sel.\nErben.\n7 VII. 78 Schorenbrücke. Actiengesellschaft der Mägdeher-\nberge.\nKull=Huber, Joh. Jac., Hausvater.\nDeValenti=Bonbrunn, Ernst, Part.\n9 VII. 78 A Renz, Carl.\n12 VII. 79 Richter=Linder.\nSeidel=Fürstenberger, Friedr., Part.\n14 VII. 79 a Richter=Linder.\nNäf=Brunner, Rud., Lehrer.\n15 VII. 79 B Stähelin=Zimmerlin, Joh. Jakob.\n16 VII. 79 A b Richter=Linder.\n18 VII. 79 A f Richter=Linder.\n19 VII. 79 C Waisenhausverwaltung.\n24 VII. Wuhrhäuslein. Gewerbsinteressenten.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4993,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1603,
+    "lines": 56,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p269",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p269.jpg",
+      "bytes": 1265688,
+      "sha256": "b7199882cc7d084dc29cadcad2ba26fd659e4fb0087d012efefa1894708f8efb",
+      "sha256_of": "original",
+      "working_copy": "1862_p269.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:41+00:00"
+  }
+}

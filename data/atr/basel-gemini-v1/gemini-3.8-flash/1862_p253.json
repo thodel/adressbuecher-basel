@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p253",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p253.jpg",
+    "bytes": 1277980,
+    "sha256": "8764540a40ee5b4bc1d7e12711ad2ee2321e58481c6fad5df717554e5269f225",
+    "sha256_of": "original",
+    "working_copy": "1862_p253.jpg"
+  },
+  "text": "188 | Rappoltshof. — Rebgasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n19 | VII. | 262 | zum Rebstock. | Weber-Zuber, Wb. Anna.\n  Weber-Zuber, Wb. Anna, Wäscherin.\n21 | VII. | 261 A | | Ryhiner u. Söhne.\n  Wettach-Müller, Joh. Valentin, Sei-\n  denfärber.\n\nRebgasse.\n1 | VIII. | 195 | St. Clarahof. | Dollfus-LeBret, Caspar.\n  Dollfus-LeBret, Caspar, Ingenieur.\n  Baumann, Wilh., Commis.\n2 | VIII. | 215 | zur Scheuren. | Grunauer-Müller, Rudolf.\n  Grunauer-Müller, Rud., Cigarren- u.\n  Tabakhandlung.\n  Hoffmann-Breitenstein, Louis, Uhrmach.\n  Neukomm-Kaiser, Carl, Dessinateur.\n  Weindel, Joseph, Geometer.\n3 | VIII. | 191 | | Dollfus, Caspar.\n4 | VIII. | 202 | zum Kiel. | Schardt-Alt, Benedikt.\n  Schardt-Alt, Benedikt, Küfer.\n  Schardt-Schoelly, Peter, Küfer.\n  Mieg-Fischer, Joh. Jak., Kaufmann.\n5 | VIII. | 190 | zum Sandhof. | Müller-Strübin, Joh.\n  Müller-Strübin, Joh., Kupferschmied.\n  Holinger, Jakob, Kupferschmied.\n  von Cloßmann-Lombard, Aug., Litterat.\n  Kasader-Mieg, Meinrad, Kaufmann.\n  Goetzenberger, Friedrich, Eisenbahn-\n  beamter.\n6 | VIII. | 201 | zur Scheuren. | Thommen-Ebner, Georg.\n  Thommen-Ebner, Georg, Spezierer.\n7 | VIII. | 187 | zur Rose. | Bohny-Glock, Samuel.\n  Bohny-Glock, Samuel, Schmied und\n  Mechaniker.\n8 | VIII. | 199 | z. vollen Herbst. | Calame-Reyenthaler, Gustav.\n  Calame-Reyenthaler, Gust., Kaufmann.\n9 | VIII. | 186 | | Kromer, Emanuel.\n  Kromer, Emanuel, Metzger.\n10 | VIII. | 198 | z. goldnen Rad u. zur Schaffschmiede. | Matzinger, Emanuel.\n  Matzinger, Emanuel, Schneider.\n  Matzinger-Zwicky, Carl, Buchdrucker.\n  Treu-Stegmüller, Lukas, Barbier.\n11 | VIII. | 185 | z. Michelfelden. | Walliser-Lüdin, Joh. Conrad.\n  Walliser-Lüdin, Johann Conrad,\n  Bäcker.\n  Scherflin-Benner, Rudolf, Bäcker.\n12 | VIII. | 197 a | Burgvogtei. | Tester-Geßler, Josua.\n13 | VIII. | 181 | | Krücker-Dopler, Johann.\n  Krücker-Dopler, Johann, Wagner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9338,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1949,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p253",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p253.jpg",
+      "bytes": 1277980,
+      "sha256": "8764540a40ee5b4bc1d7e12711ad2ee2321e58481c6fad5df717554e5269f225",
+      "sha256_of": "original",
+      "working_copy": "1862_p253.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:39+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p272",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p272.jpg",
+    "bytes": 1415048,
+    "sha256": "c60822bdfc0fcee36cd354379ab3f38d8ada1e71d3699c66c1e1a6b138ef8d64",
+    "sha256_of": "original",
+    "working_copy": "1862_p272.jpg"
+  },
+  "text": "Utengasse.\n207\nNeue Haus=Num. | Quar= tier. | Alte Haus=Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n28 | VIII. | 413 | | Schweizer=Jsenegger, Ludwig.\n29 | VIII. | 424 | | Schardt=Affal, Joh. Ulrich.\n| | | | Schardt=Affal, Joh. Ulrich, Mezger.\n30 | VIII. | 414 | Ziegelhof. | Vok=Goht, Achilles.\n31 | VIII. | 427—428 | zur Himmelspforte. | Merian, Ludwig.\n| | | | Merian, Ludwig, Baumeister.\n32 | VIII. | 418 | | Eglin=Wegner, Wb. Mar. Magdal.\n33 | VIII. | 431 A | Badenhof. | Schäffer=Euler, Joh. Jac. August.\n| | | | Schlachter=Fäsch, Elisabeth, Lehrerin.\n| | | | Gaf=Baumann, Rud. Conrad, Commis.\n| | | | Schäffer=Maxinger, Wb. Rosina.\n34 | VIII. | 419 | | Raillard=Stähelin, August.\n35 | VIII. | 431 | Badenhof. | Schäffer=Euler, August.\n37 | VIII. | 431 d | | Schäffer=Euler, Joh. Jac. August, Zim=mermeister.\n38 | VIII. | 425 | | Knff, Heinrich.\n| | | | Knff, Heinrich, Seidenfärbergefell.\n| | | | Maß=Knff, Jacob Friedrich, Commis.\n| | | | Haberkorn, Jean, Ebenist.\n39 | VIII. | 437 | | Auer=Schlegel, Carl Jacob.\n| | | | Auer=Schlegel, Carl Jacob, Spezierer.\n| | | | Füllemann-vonLos, Peter Jacob, Schuhm.\n40 | VIII. | 426 | | Glunz, Joh. Conrad.\n| | | | Glunz, Joh. Conrad, Seidenfärbergefell.\n| | | | Meyer=Lauby, Johannes, Zollbeamter.\n41 | VIII. | 100 | zur Linde. | Laudier=Maxinger, Simon Heinrich.\n| | | | Laudier=Maxinger, Simon, Zettlermftr.\n42 | VIII. | 66 | | Müller=Hasler, Emanuel.\n46 | VIII. | 430 | | Steigmeyer=Meyer, Josepha.\n48 | VIII. | 432 | | Schäffer=Euler, August.\n50 | VIII. | 433 | | Roth=Dunkel, Fr. Elisabeth.\n| | | | Roth=Dunkel, Rudolf, Seidenfärberge= hülfe.\n52 | VIII. | 434 | | Brüderlin=Lang, Joh.\n| | | | Brüderlin=Lang, Joh., Commis.\n54 | VIII. | 435 | | Jenny=Stöcklin, Joh. Jakob.\n| | | | Jenny=Stöcklin, Joh. Jakob, Musterweber.\n56 | VIII. | 436 | | Sutter, Joh. Jakob.\n| | | | Keller=Bühler, Mathias, Schuhmacher.\n| | | | Oppliger=Leibundgut, Rud., \"\n58 | VIII. | 438 | | Lüffi=Zuber, Alois.\n| | | | Lüffi=Zuber, Alois, Rostgeber.\n60 | VIII. | 439 | | Hug=Recher, Joh. Jakob.\n| | | | Hug=Recher, Joh. Jakob, Maurer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6166,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2083,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p272",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p272.jpg",
+      "bytes": 1415048,
+      "sha256": "c60822bdfc0fcee36cd354379ab3f38d8ada1e71d3699c66c1e1a6b138ef8d64",
+      "sha256_of": "original",
+      "working_copy": "1862_p272.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:58+00:00"
+  }
+}

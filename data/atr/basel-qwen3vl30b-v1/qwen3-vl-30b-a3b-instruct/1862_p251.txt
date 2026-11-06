@@ -1,0 +1,60 @@
+186
+Ochfengasse.
+Neue
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Kro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Ochfengasse.
+1 | VII. | 395 | | Widmer, Martin.
+| | | | Widmer=Marchand, Martin, Cigarren-
+| | | | u. Tabakhandlung.
+3 | VII. | 239 | zum Vechenberg. | Jenny=Boerlin, Joh. Jak.
+| | | | Jenny=Boerlin, Joh. Jak., Quartier-
+| | | | schreiber, Firma J. J. Jenny Sohn,
+| | | | Käse- u. Colonialwaarenhandlung.
+| | | | Jenny=Roth, Johannes, Zollbeamter.
+| | | | Jenny, Joh. August, Lehrer.
+| | | | Gofwylcr=Jenny, Andr. Sch., Commis.
+4 | VII. | 241 | 3. schönen Keller. | Lenzy=Bohny, Sophia.
+| | | | Lenzy=Bohny, Leonz, Metzger u. Wirth.
+5 | VII. | 240 | | Madoeri=Riedinger, Friedrich.
+| | | | Madoeri-Riedinger, Friedr., Wirth.
+| | | | Litscher=Pferfich, Friedr., Schneider.
+6 | VII. | 244 | | Fahm=Kloz, Andreas.
+| | | | Fahm=Kloz, Andreas, Schuhmacher.
+7 | VII. | 242 | zum Steinbock. | Neukomm=Hurter, Joh. Heinrich.
+| | | | Neukomm=Hurter, Joh. Sch., Bäcker.
+8 | VII. | 244 A | zum Rosenberg. | Rauz=Friedmann, Joh. Michael.
+| | | | Rauz=Friedmann, Johann Michael,
+| | | | Schneid.
+| | | | Thommen=Bertschmann, Sch., Schrein.
+9 | VII. | 243 | | Heusler=Thurneyssen, Leonhard.
+10 | VII. | 246 | 3. rothen Ochsen. | Flüe, Caspar.
+| | | | Flüe, Caspar, Gastwirth.
+11 | VII. | 245 | | Rühlín=Nauer, Joh. Georg.
+12 | VII. | 354 | Rothochsenmühle. | Rühlín, Joh. Georg.
+| | | | Stoll=Rühlín, Franz, Müller.
+| | | | Siehe 354 Teichgässlein.
+13 | VII. | 356 | Badanstalt. | Dickenmann=Rübler, Emil., sel. Erb.
+| | | | Dickenmann=Rübler, Wb. Hel., Part.
+| | | | Dickenmann, Emanuel Sohn, Vater.
+14 | VII. | 352 | Schwarzeselmühle. | Binzegger=Schetti, Carl.
+| | | | Binzegger=Schetti, Carl, Mühlebauer u.
+| | | | Mechaniker.
+| | | | Zündel=Schöndelmeyer, Conr., Müller.
+15 | VII. | 355 | | Müller=Dietzch, Joh. Peter.
+16 | VII. | 349 | | Sch aerer=Schlachter, Peregrin., sel.
+| | | | Erben.
+| | | | Sch aerer=Schlachter, Wb. Mar. Urfula,
+| | | | Part.
+| | | | Weiß, Judith, Modiste.
+17 | VII. | 351 | Ochsenhäuslein. | Weber, Tobias Leonhard.
+| | | | Weber, Tobias Leonhard, Part.
+| | | | Weber=Klein, Tobias, Hufschmied.
+18 | VII. | 298 | zum Karrenec. | Schramm=Bell, Rudolf.
+| | | | Schramm=Bell, Rud., Wirth.

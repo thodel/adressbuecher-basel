@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p107",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p107.jpg",
+    "bytes": 1310646,
+    "sha256": "a139ba9bee21d88afe12aa75b853607758748ebcc493cbf8046d88e1183fbcb5",
+    "sha256_of": "original",
+    "working_copy": "1862_p107.jpg"
+  },
+  "text": "42 Freie Straße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n15 | VI. | 1625 | z. obern Hermelin. | Heitz-Schwarz, Rosina, Wittwe.\n  Heitz-Schwarz, Ros., Quincailleriehdlg.\n  Heitz, Hieronimus, Geschäftsmann.\n  Heitz, Bernhard, Koch.\n16 | VI. | 1632 | | Wirz-Schneble, Joh. Heinr.\n  Wirz-Schneble, Joh. Heinr., Zuckerb.\n  Hartmann-Scherzer, Friedr., Maler und\n    Photograph.\n17 | VI. | 1626 | zur kleinen Sonne. | Langmesser, Joh. Jakob.\n  Langmesser, Joh. Jak. Sattler.\n  Braunschweig-Hirz, Raphael.\n  Kunz, Friedr, Hdlg. in opt. u. mathe-\n    matischen Instrumenten.\n18 | VI. | 1631 A | Stäblinsbrunnen. | Bernoully u. Sohn, Nikl. de Hieron.\n  Bernoully u. Sohn, Nikl. de Hieron.\n    Compt. u. Magaz., Mater- u. Farbwh.\n19 | VI. | 1627 | zur großen Sonne. | Menrich-Neuschwander, Heinr.\n  Menrich-Neuschwander, H., Schneider.\n  Wyler-Thomas, Sam. Fel., Hutmch.\n20 | VI. | 1631 | Stäblinsbrunnen. | Bernoully u. Sohn, Nikl. de Hier.\n  Bernoully u. Sohn, Nikl. de Hieron.\n    Compt. u. Magazin, Material- und\n    Farbwaarenhandlung.\n  Respinger-Bauer, Adolph, Kaufmann,\n  Burckhardt, Joh. Rud., Stadtr. J.U.Dr.\n21 | VI. | 1628 | zur Vigilanz. | Groben, Geschwister.\n  Groben, Geschwister, Glashandlung.\n  Wybert-Schmidt, Joh. Jak., Commis.\n  Wybert-Hug, Em., Dr. med., Eingang\n    Stapfelberg. (Siehe Stapfelberg Nr. 6.)\n22 | VI. | 1169 A | | Dieticker-David, Melchior.\n  Dieticker-David, Melch., Kfm. Seiden-\n    waarenhandlung.\n  Meyenrock, Louise u. Cath., Rent.\n  Schill-Ernst, Ed., Commis.\n  Pery-Krebs, Anna Elis. Wb., Particul.\n23 | VI. | 1629 | Berner | Kiefer-Bär, Georg.\n  Kiefer-Bär, Georg, Neg., Quincaillerie-\n    Waarenhdlg. (Siehe Stapfelberg Nr. 8.)\n24 | VI. | 1170 | zur Schwanenau. | Ganßer-Jordan, Wilhelm.\n  Ganßer-Jordan, Wilh., Pelzwaaren- u.\n    Huthandlung.\n  Düring-Hofmann, Mar. Wb., Modiste.\n25 | VI. | 1630 | Schlüssel-Zunft. | Corporationsgut.\n  Rumpf-Bachofen, Hier., Alt-Posthalter.\n  Ersparniß-Kasse-Bureau.\n  (Siehe Stapfelberg Nr. 1.)\n26 | VI. | 1171 | Zunft d. Brodbecken. | Corporationsgut.\n  Burckhardt-Miville, Achilles, Zucker- und\n    Pastetenbäcker.\n  Meyri, Christian, Buchhandlung.\n27 | V. | 1448 | zum Stäblin. | Respinger-Bernoully, Emanuel.\n  Respinger-Bernoully, E., Particular.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8804,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2289,
+    "lines": 55,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0182,
+    "mean_line_chars": 38.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:41:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p107",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p107.jpg",
+      "bytes": 1310646,
+      "sha256": "a139ba9bee21d88afe12aa75b853607758748ebcc493cbf8046d88e1183fbcb5",
+      "sha256_of": "original",
+      "working_copy": "1862_p107.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:03+00:00"
+  }
+}

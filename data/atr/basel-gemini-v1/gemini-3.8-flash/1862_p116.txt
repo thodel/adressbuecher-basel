@@ -1,0 +1,55 @@
+Gerbergasse. 51
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+2 | VI. | 1666 | z. gelben Wind u. | Schmid-Villiger, Christoph.
+  |   |   | z. gold. Lamm. |   Schmid-Villiger, Christoph, Metzger.
+  |   |   |   |   Bohny-Krumm, Wb. Anna Maria, Spezier.
+  |   |   |   |   Strickler-Krumm, Rudolf, Wirth.
+  |   |   |   |   Bohny, Eduard, Kaufmann.
+3 | VI. | 1647 | z. schwarz. Stern. | Horat-Zeller, Caspar.
+  |   |   |   |   Horat-Zeller, Caspar, Detailhändler.
+  |   |   |   |   Denicola-Domenga, Seb., Glaser.
+4 | VI. | 1665 | z. klein. gold. Löwen. | Baumann, Samuel.
+  |   |   |   |   Baumann, Sophie, Mercerie- u. Woll-
+  |   |   |   |   waarenhandlung.
+5 | VI. | 1648 | zum Biberstein. | Heß-Mugglin, Hans Rudolf.
+  |   |   |   |   Heß-Mugglin, H. R., Lehrer u. Kaufm.
+6 | VI. | 1664 | z. Hennenbrunnen. | Knickmeyer-Malzacher, Wb. Frieder.
+  |   |   |   |   Knickmeyer-Malzacher, Wb. F., Goldschm.
+7 | VI. | 1649 | z. Stadt Mülhausen. | Brüderlin-Schmid, Wb. Ursula.
+  |   |   |   |   Breiter-Brüderlin, Wilh., Kaufmann.
+8 | VI. | 1663 | zum Pilger. | Bargäzi, Peter.
+  |   |   |   |   Bargäzi, Peter, Schneider.
+  |   |   |   |   Ungerer-Weber, J. Fr., Schneider.
+10 | VI. | 1661-62 | zu den drei Böcken. | Bauer, Johann.
+  |   |   |   |   Bauer, Johann, Kaufmann.
+  |   |   |   |   Lienhardt-Hänger, Heinrich, Commis.
+  |   |   |   |   Lienhardt-Hänger, Frau, Hebamme.
+11 | VI. | 1650 | Zunft zu Safran. | Corporationsgut.
+  |   |   |   |   Baumann-Gebhardt, Jerome, Traiteur.
+  |   |   |   |   Simoninus u. Bard, Agentur.
+  |   |   |   |   Hegel-Gebner, Johann, Kaufmann.
+12 | VI. | 1660 | zum alten Safran. | Schoch, Erhard.
+  |   |   |   |   Schoch, Erhard, Eisenhandlung.
+  |   |   |   |   (Firma: Erhard und Jakob Schoch.)
+14 | VI. | 1659 | Zunft z. Kürschnern. | Corporationsgut.
+  |   |   |   |   Oswald, Gebr. u. Comp.
+  |   |   |   |   Comptoir d'escompte.
+  |   |   |   |   Butscher, Franz August, Commis.
+15 | VI. | 1634 E. | hint. Postgebäude. | Staat.
+16 | VI. | 1658 | Gasthof zur Post. | Meister-Erny, Henriette.
+  |   |   |   |   Meister-Erny, Henriette, Gastwirthin.
+18 | VI. | 1657 | zum Nauenberg. | Salathé-Hunziker, Joh. Georg.
+  |   |   |   |   Salathe-Hunziker, J. Gg., Metzger.
+  |   |   |   |   Rumpf-Salathe, Carl, Postcommis.
+19 | VI. | 648 |   | Theiler-Bürgy, Heinrich.
+  |   |   |   |   Theiler-Bürgy, Heinrich, Gärtner.
+  |   |   |   |   Kleintwitz-Schmidt, Wb. Margaretha,
+  |   |   |   |   Hebamme.
+  |   |   |   |   Aenderli, Joh., Maler.
+  |   |   |   |   Weisse-Schaaf, Heinrich, Graveur.
+20 | VI. | 1656 | zum Ruckenberg. | Bloch, Rudolf.
+  |   |   |   |   Schröter-Meyer, Aug., Musiker.
+  |   |   |   |   Vögelin, Joh. Jacob, Kaufmann.
+  |   |   |   |   Weber-Müller, Sam., Ellenwaarenhdlg.
+  |   |   |   | 4*

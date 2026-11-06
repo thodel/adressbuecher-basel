@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p288",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p288.jpg",
+    "bytes": 1659212,
+    "sha256": "2b3b0ab2d825fd9dc3c9e1aa780467dab247d195e6b7aa157bafd69cb414cf00",
+    "sha256_of": "original",
+    "working_copy": "1862_p288.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 223\n\nStein, z. guten. Gerbergasse Nr. 55.\nStein, z. hangenden. Gerbergasse Nr. 54.\nStein, z. hangenden. Gerbergäßlein Nr. 23.\nStein, z. rothen. Webergasse Nr. 1.\nSteinbock, z. Ochsengasse Nr. 7.\nSteinbogen, z. Hutgasse Nr. 16.\nSteinbrunn, z. Schützenmattstraße Nr. 1.\nSteinbrunnen, z. Blumenrain Nr. 25.\nSteinenbruck, a. d. Steinenvorstadt Nr. 45.\nSteineck, z. Steinenthorstraße Nr. 6.\nSteinenmühle, z. Kohlenberggasse Nr. 30 u. 32.\nSteinenklostermühle, z. St. Alban-Thal Nr. 2.\nSteinfels, z. Gerbergasse Nr. 59.\nSteinhauer, z. Stadthausgasse Nr. 3.\nSteinhof, z. Rebgasse Nr. 34.\nSteinhof, z. Rebgasse Nr. 32.\nSteinkeller, z. Spalenberg Nr. 44.\nSteinkeller, z. Schneidergasse Nr. 24.\nStern, z. Gerbergasse Nr. 1.\nStern, z. blauen. St. Petersberg Nr. 7.\nStern, z. gelben. Utengasse Nr. 3.\nStern, z. gelben. Steinenthorstraße Nr. 8.\nStern, goldenen Zunft z. Freie Straße Nr. 71.\nStern, z. goldenen. Fischmarkt Nr. 8.\nStern, z. gelben gold. Steinenthorstraße Nr. 10.\nStern, z. kleinen. Aeschenvorstadt Nr. 46.\nStern, z. kleinen. Greifengasse Nr. 22.\nStern, z. schwarzen. Gerbergasse Nr. 3.\nStern, z. schwarzen. Hutgasse Nr. 15.\nStern, z. schwarzen. Schwanengasse Nr. 6.\nStern, z. schwarzen untern. Nadelberg Nr. 43.\nSternen, z. Aeschenvorstadt Nr. 44.\nSternen, gehörend z. Sternengäßlein Nr. 7.\nSternen, z. schwarzen. Münzgäßlein Nr. 16.\nSternenberg, z. Heuberg Nr. 15.\nSternenberg, z. Greifengasse Nr. 24.\nSterneneck, z. Barfüßerplatz Nr. 2.\nSterneneck, z. Utengasse Nr. 1.\nSternenfels, z. Steinenvorstadt Nr. 35.\nSternenfels, z. obern. Bäumleingasse Nr. 7.\nSternenfels, z. untern. Bäumleingasse Nr. 5.\nSternenmühle. Untere Rebgasse Nr. 8.\nStetten, z. großen. Schneidergasse Nr. 1.\nStetten, z. kleinen. Schneidergasse Nr. 3.\nStollenberg, z. Grünpfahlgäßlein Nr. 8.\nStorchen, z. Stadthausgasse Nr. 25.\nStrafanstalt. St. Petersgraben Nr. 2.\nStrasburg, z. obern. Trillengäßlein Nr. 1.\nStrasburg, z. untern. Schnabelgäßlein Nr. 12.\nStraßburgerhof. St. Petersberg Nr. 29.\nStrauß, z. Vogel. Barfüßerplatz Nr. 16.\nStrauß, z. Nadelberg Nr. 39.\nStreit, z. Streitgasse Nr. 18.\nSurinam, z. kleinen. Riehenstraße Nr. 75.\nSusanna, z. St. Johann-Vorstadt Nr. 56.\nSynagoge. Unterer Heuberg Nr. 21.\nTabackstampfe, z. Rümelinsbachweg Nr. 18.\nTäuferkirche, z. Holeeweg Nr. 13.\nTafel Mosis, z. Weiße Gasse Nr. 8.\nTanne, z. St. Leonhardsgraben Nr. 15.\n[spalte 2]\nTanne, z. Gerbergasse Nr. 33.\nTanne, z. Spalenberg Nr. 53.\nTanne, z. Greifengasse Nr. 38.\nTanne, z. kleinen. Stadthausgasse Nr. 16.\nTanne, z. kleinen. Spalenberg Nr. 27.\nTanne, z. rothen. St. Alban-Vorstadt Nr. 64.\nTanne, z. untern. Spalenberg Nr. 33.\nTanneneck, z. St. Petersberg Nr. 32.\nTannenwald, z. Freie Straße Nr. 101.\nTanz, z. Eisengasse Nr. 20.\nTanz, z. hintern. Fischmarkt Nr. 2.\nTaubadeler-Hof. Neue Vorstadt Nr. 12.\nTaube, z. Marktplatz Nr. 8.\nTaubenschlag, z. Rheingasse Nr. 54.\nTell, Wilhelm, z. Aeschenvorstadt Nr. 5.\nTheater. Theaterstraße Nr. 9.\nTheodor, St. Schulhaus z. Kirchgasse Nr. 13.\nTheodor, z. klein. St. Theodorskirchplatz Nr. 2.\nTheodorshof, St., St. Theodorskirchplatz Nr. 1.\nTheodorskirche, St. Theodorskirchplatz Nr. 5.\nThiergarten, z. Greifengasse Nr. 8.\nThorrückenberg, z. obern. Eisengasse Nr. 28.\nThüre, z. eisernen. Bäumleingasse Nr. 16.\nThürmlein, z. rothen. Münsterberg Nr. 3.\nThurm, z. Aeschenvorstadt Nr. 75.\nThurm, z. rothen. St. Leonhardsberg Nr. 6.\nThurm, z. rothen. Rheinsprung Nr. 8.\nThurm, z. rothen. Gerbergäßlein Nr. 42.\nThurm, z. rothen. Freie Straße Nr. 44.\nThurm, z. rothen. Freie Straße Nr. 2.\nThurm, z. rothen. Rheingasse Nr. 40.\nThurm, z. grünen. Hutgasse Nr. 12.\nThurm, z. schwarzen. Aeschenvorstadt Nr. 39.\nThurmschale, z. hint. St. Andreasplatz Nr. 17.\nThurmschale, z. mittlern. Schneidergasse Nr. 14.\nThurmschale, z. mittl. Schneidergasse Nr. 12.\nThurmschale, z. obern. Schneidergasse Nr. 16.\nTraube, z. Bäumleingasse Nr. 8.\nTraube, z. Greifengasse Nr. 19.\nTraube, z. mittlern. Steinenthorstraße Nr. 41.\nTraubenkeller, z. Rheingasse Nr. 20.\nTreibeck, z. Blumenrain Nr. 10.\nTreue, z. alten. Nadelberg Nr. 15.\nTreue, z. alten. Nadelberg Nr. 17.\nTreu, z. alten. Neue Vorstadt Nr. 26.\nTreu, z. großen. Gerbergasse Nr. 47.\nTröttlin, z. Heuberg Nr. 19.\nTrotte, z. Weiße Gasse Nr. 12.\nTrotte, z. Schützenmattstraße Nr. 5.\nTrotte, z. Rheingasse Nr. 80.\nTrottenhaus, z. Rheingasse Nr. 82.\nTruchsässerhof. Aeschenvorstadt Nr. 1.\nTruchsässerhof, z. hint. St. Albangraben Nr. 2.\nTruchsesserhof. St. Leonhardsgraben Nr. 45.\nTruchsesserhof. Heuberg Nr. 28.\nTürkis, z. goldenen. Todtentanz Nr. 16.\nUlm, z. mittlern. St. Johann-Vorstadt Nr. 5.\nUlm, z. mittlern. St. Johann-Vorstadt Nr. 7.\nUlmerhof, z. St. Peterskirchplatz Nr. 10.\nUlrichseck, St. Rittergasse Nr. 9.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 15765,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4695,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:10:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p288",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p288.jpg",
+      "bytes": 1659212,
+      "sha256": "2b3b0ab2d825fd9dc3c9e1aa780467dab247d195e6b7aa157bafd69cb414cf00",
+      "sha256_of": "original",
+      "working_copy": "1862_p288.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:14+00:00"
+  }
+}

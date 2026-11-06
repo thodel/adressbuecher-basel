@@ -1,0 +1,54 @@
+Gerbergasse. 53
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+37 | VI. | 657 | zum Leuchtenberg. | Hübscher-Keller, Rudolf.
+  Hübscher-Keller, Rudolf Lederhändler.
+  Hübscher, Rudolf, Spengler.
+38 | VI. | 642 | Zunft zu Gartnern. | Corporationsgut.
+  Fischer-Miville, Emil, Mehlhdl. u. Wirth.
+39 | VI. | 658 | zur rothen Henne. | Ebner, gesch. Audran, Anna Maria.
+  Erdin-Ebner, Franz Joseph, Commis.
+  Altorfer-Weiß, Heinrich, Waagmeister.
+40 | VI. | 641 | z. weiß. Windhund. | Trübner-Wolfensberger, Ludwig.
+  Trübner-Wolfensberger, L., Buchbinder.
+41 | VI. | 659 | z. klein. Christoffel. | Grethener-Jäggi, Jacob.
+  Grethener-Jäggi, Jac., Bettfedernhdlg.
+42 | VI. | 640 | z. vordern Greifen. | Bader-Schäfer, Johannes.
+  Bader-Schäfer, Joh., Spezereihandlung.
+43 | VI. | 660 | zum Frieseck. | Uehlinger-Bulacher, Joh. Jakob.
+  Uehlinger-Bulacher, J. J., Seiler.
+  Rickenbacher, Gottlieb, Büchsenmacher.
+44 | VI. | 639 | zum Ritter. | Mieg, Joh. Jakob, Apotheker.
+  Mieg, J. J., Apotheker.
+  Artmann, Julius August, Agent.
+45 | IV. | 1167 | | Buser-Meyer, Wb. Sophia.
+  Buser-Meyer, Wb. Soph., Schuhmach.
+46 | VI. | 661 | zur Hutten. | Heer-Tanner, Heinrich.
+  Heer-Tanner, Heinr., Pelzwaaren-, Hut-
+    und Kappenlager.
+47 | IV. | 1166 | zur großen Treu. | Burger, Christian und Sommer-
+  halder, Jakob.
+  Sommerhalder-Burger, Jac., Spezierer.
+  Burger-Haller, Christian, Graveur.
+48 | VI. | 662 | das alte Bad. | Gaß-Thurneysen, Wb. Friederika.
+  Gaß-Walter, Friedrich, Metzger.
+  Meyer-Mohler, Joh., Commis.
+49 | IV. | 1165 | | Roth, Balthasar, Sohn.
+  Roth, Balthasar, Sohn, Seidenagent.
+  Firma u. Comptoir von Christen-Roth.
+  Hosch-Roth, Wb. Rosalie, Woll- und
+    Stickerei-Geschäft.
+50 | VI. | 663 | zum Fürstenberg. | Haller-Marfort, Victor.
+  Haller-Marfort, Victor, Küfer.
+51 | IV. | 1164 | z. schwarz. Kolben. | Ott-Stählin, Friedrich.
+  Ott-Stählin, Fr., Damenkleidermagazin.
+52 | VI. | 664 | zum rothen Krebs. | Singeisen-Schardt, Joh. Jak. Dan.
+  Singeisen-Schardt, J. J. D., Buchbind.
+53 | IV. | 1163 | zum Ruderbach. | Gräff-Fäsch, Philipp.
+  Gräff-Fäsch, Philipp, Coiffeur.
+54 | VI. | 665 | z. hangend. Stein. | Thurneysen-Schneider, Ludwig.
+  Thurneysen-Schneider, L., Weißgerber.
+55 | IV. | 1162 | zum guten Stein. | Herzog-Scheitlin, Achilles.
+  Herzog-Scheitlin, Ach., Leinwandhdlg.
+  Baumgartner-Scherrer, Wilh., Commis.
+  Brombacher, Carl, Commis.

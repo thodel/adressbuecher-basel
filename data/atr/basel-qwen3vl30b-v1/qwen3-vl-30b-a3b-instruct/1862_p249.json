@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p249",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p249.jpg",
+    "bytes": 1297851,
+    "sha256": "7ed1ffa6d4a561d8a057fa08414a1c72573f500f96a1798e6a6f8a6dea6a613f",
+    "sha256_of": "original",
+    "working_copy": "1862_p249.jpg"
+  },
+  "text": "184\nKlybeckstraße. — Lindenberg.\n\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n75 | VII. | 49 | | Bricar, Sam., fel. Erben.\n| | | | | Ostermann-Schneider, Joh., Kaufmann.\n| | | | | Schneider, Charlotte, Lehrerin.\n77 | VII. | 50 | | VonderMühl=Kyhiner, Johannes.\n| | | | | Sütterlin-Riefer, Conrad, Lehensbeständer.\n81 | VII. | 51 | | Heukler=Thurneyfen, Leonhard.\n83 | VII. | 51 b | | Heukler=Thurneyfen, Leonhard.\n89 | VII. | 55 | | Zwilchenbart=Thompson, Rud.\n| | | | | Haeefelin=Weber, Urs Josef, Lehensbest.\n| | | | | Dreyfus, Isaak, Söhne.\n| | | | | Thalmann-Erlacher, Johs., Lehensbest.\n101 | VII. | 57 | | Miville=Socin, Wb. Margaretha.\n106 | VII. | 59 d | | Miville=Socin, Wb. Margaretha.\n107 | VII. | 60 | z. alt. Rheinburg. | Abt, Georg u. Carl.\n| | | | | Abt, Georg, Part.\n108 | VII. | 59 | | Miville=Socin, Wb. Margaretha.\n| | | | | Haeefelin-Amman, Urs, Lehensbeständer.\n109 | VII. | 59 e | | Miville=Socin, Wb. Margaretha.\n| | | | | Klausfelder=Vörtscher, Burkh., Mar-\n| | | | | morift.\n111 | VII. | 58 A | z. Klybeckschlößli. | Abt, Georg u. Carl.\n| | | | | Cadet-Abt, Romain, Part.\n| | | | | Weber-Bischoff, Friedr., Kupferstecher.\n113 | VII. | 58 | ehemal. Pfarrwoh-\nnung. | Heimlicher=Senn, Joh. Jac.\n| | | | | Heimlicher=Senn, Joh. Jac., J. U. D.,\n| | | | | Statthalter des Landbezirks.\n119 | VII. | 58 B | | Abt, Georg u. Carl.\n| | | | | Schwoerer-Baumann, Gg., Lehennann\n| | | | | u. Gärtner.\n| | | | | Gros-Herzog, Rud., Gärtner.\n\nLindenberg.\n1 | VIII. | 97 | | Martin-Bulacher, Joh. Friedr.\n| | | | | Martin-Bulacher, Joh. Friedr., Fa-\n| | | | | brifarbeter.\n2 | VIII. | 90 | | Hildebrandt-Ziegler, Herm., Commis.\n| | | | | Siezendanner=Thommen, Christof.\n| | | | | Siezendanner=Thommen, Christof, Fa-\n| | | | | brifarbeter.\n3 | VIII. | 98 | | Wezel-Wiedmer, Jak. Friedr.\n| | | | | Wezel-Wiedmer, Jak. Friedr., Piqueur.\n| | | | | Breitenstein, Friedrich, Commis.\n4 | VIII. | 91 | | Stoecklin-Haberthür, Urs.\n| | | | | Stoecklin-Haberthür, Urs, Maurer.\n5 | VIII. | 99 | zur Linde. | Glättli-Mohler, Johannes.\n| | | | | Glättli-Mohler, Johs., Seidenfärbeges.\n6 | VIII. | 92 | zum Backofen. | Landerer, Geschwister.\n| | | | | Landerer, Daniel Rud., Rheinarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6542,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2264,
+    "lines": 56,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0179,
+    "mean_line_chars": 39.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p249",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p249.jpg",
+      "bytes": 1297851,
+      "sha256": "7ed1ffa6d4a561d8a057fa08414a1c72573f500f96a1798e6a6f8a6dea6a613f",
+      "sha256_of": "original",
+      "working_copy": "1862_p249.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:42+00:00"
+  }
+}

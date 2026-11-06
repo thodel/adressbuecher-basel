@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p328",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p328.jpg",
+    "bytes": 1614587,
+    "sha256": "fef8879acb9f620a564d19e1e25993a462ed036caa1cd42e8f8f1090a854357a",
+    "sha256_of": "original",
+    "working_copy": "1862_p328.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 263\nBosfardt=Wolleb, Wb. Helena, Part. Gerber=Bratteler=Tschiudi, Fritz, Seidenfäber. Kar= gasse 67.\nBosfert=Häring, Casp., Posamenter. Rüme=Braun, Andr. de Samuel, Rentier. Teich= linsplaz 13.\n— Ursula, Posamenterin. Rebgaſse 11.\nBosfhardt=Hef, S. Urr., Knecht. Schützenmatt= — Carolina, Part. Rheingasse 78.\nstraße 14. — =Baumgartner, Wb. Anna, Rentiere. Fischmarkt 9.\n— Jakob, Victualienhändler. Klosterberg 7. — =Freund, Wb. Cath., Taglöhnerin. Im- — =Keller, Jakob, Conducteur. St. Johann= berggäflein 13.\nVorstadt 13. — =Gekler, Andreas, Rothgerber. Untere — Wb. Maria, Part. Kohlenberggasse 19. Rebgaſse 17.\n— =Zimmermann, Heinrich, Taglöhner. — — A., Lederhandlung von. Riiden= Schneidergasse 9. gäflein 7.\nBots=Bernhard, Abrah., Hufschmied. Johan= — =Gwinner, Theodor, Bureauchef d. Mis= niterstraße 1. sionshauses. Missionsstraße 21.\nBourgnon=Anfli, Joseph, Laden diener. Freie — =Kieffer, Joh., Tabakfabrikant. Untere Straße 88. Rebgaſse 11.\nBowald=Scherzer, Wb. Carolina, Pinten= — =Mösch, Christian, Zimmerm. Sternen= wirthſchaft. Steinenthorfstraße 40. gäflein 2.\nBrack=Güttelin, Heinr., Posamenter. Klingel= — Rosina, Part., Sägergäflein 4.\nbergstraße 22. — =Schwär, Peter, Maurerparlier. Hintere — =Gyfin, Heinrich, Fabrikarbeiter. Weber= Spitalgasse 11.\ngasse 28. — =Steiger, Rud., Heuwaagmeister. Schnei= — =Meister, J. J., Gastgeber. Freie Straße 35. dergasse 20.\nBrägger, Melchior, Schneider. Streitgasse 9. — =Weiß, Wb. Chrischona, Rentiere. St. Bräm=Niederhauser, Heinrich, Heizer. Klybeck= Leonhards-Graben 32.\nstraße 51. — =Widler, Bernhard, Maurer. Gerber= Brändli=Fäsch, J. J., Postbeamter. Schützen= gäflein 30.\nmattstraße 14. Braunecker=Simonius, Otto, Part. Bar= Brändlin=Driffel, Rud., Bierbrauer. Steinen= fiisergasse 1. vorstadt 36. Brauneisen, Therefia, Modiste. St. Andreas= — =Falkeisen, Wb. Maria Salome, Part. plaz 10.\nSteinenvorstadt 36. Braunschweig=Borach, Moses, Kaufm. Hut= — =Knorp, Wb. Christina, Part. Greisen- gasse 15.\ngasse 15. — Emanuel, Kaufmann. Hutgasse 15.\n— =Mechel, Maria Magdal., Part. Fisch= — =S Hirz, Raphael, Kaufm. Freie Straße 17.\nmarkt 16. — =Levy, Jacques, Geldwechsler. Spalen= — =Nörbel, Wb. Maria Elisabeth, Maler. berg 12.\nSt. Leonhards-Graben 36. — Naphthali. Manufacturwaarenhandlung. — =Schaal, Franz, Metzger. Schneidergasse 9. Hutgasse 15.\n— =Zankeisen, Wb. Elisabeth, Taglöhnerin. Brefin=Bender, Leonh. Martin, Feuerschau= Imbergäflein 11. beamter. Kirchgasse 11.\nBräuchli, Johannes, Commis. Aeschenvor= — =Knaus, Wb. Judith, Bäcker. Kiechen= stadt 53. thorstraße 18.\nBraff, Victor, Inspector. Centralbahnstr. 10. — =Weiß, Wb. Susanna, Gärtnerin. Ham= Brand=Buser, Heinrich, Schuhmacher. Davids- merstraße 65.\ngasse 1. Bregger=Köpfer, Ambros., Fuhrhalter. Kiechen= — =Fries, Wb. Maria, Kerzenmach. Aeschen- thorstraße 13.\nvorstadt 47. Breisch=Magasfinier, Friedr. Freie Straße 76.\n— =Mengis, Leonh., Part. Klybeckstr. 29. Breitenstein, Friedr., Commis. Linden berg 3.\n— =Urecht, Carl Friedrich, Schuhmacher — =Kestenholz, Friedr., Posamenter. Gellert= Schnabelgäflein 11. straße 46.\nBrandenberger=Matzinger, Conrad, Kübler. — =Koch, Joh., Wirth. St. Peters-Berg 19.\nGerbergasse 31. — =Weber, Wb. Suf., Part. St. Johann= — =Tschudin, Sebastian, Kaufhausarbeiter. Vorstadt 63.\nSt. Johann-Vorstadt 68. Breiter, J. J., Part. Gerbergasse 71.\nBrandmüller=Eskenstein, Joh. Heinrich, Part. — =Briiderlin, Wilhelm, Kaufmann. Ger= Steinenthorfstraße 23. bergasse 7.\nBranger=deGaiilier, Jakob, Part. Schneider= — Rudolf Heinrich, Posamenter. Kiechen= gasse 32. thorstraße 18.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9341,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3576,
+    "lines": 35,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 101.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:03:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p328",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p328.jpg",
+      "bytes": 1614587,
+      "sha256": "fef8879acb9f620a564d19e1e25993a462ed036caa1cd42e8f8f1090a854357a",
+      "sha256_of": "original",
+      "working_copy": "1862_p328.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:57+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p186",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p186.jpg",
+    "bytes": 1426827,
+    "sha256": "2e12e50f1a42917b431df8bd802cf0f4e00006229617ae8438d39c774b73d572",
+    "sha256_of": "original",
+    "working_copy": "1862_p186.jpg"
+  },
+  "text": "Sattelgasse. — Schanzenstraße. 121\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n7 | VI. | 1739 | zum Kupfernagel. | Kretz-Schmidlin, Burkardt.\n  Kretz-Schmidlin, Burkardt, Möbel- und Bettwaarenhandlung.\n  Fröhlicher, Urs Josef, Sprachlehrer.\n8 | VI. | 1571 | zum St. Georgenbrunnen. | Fischer-Dechslin, Daniel.\n  Fischer-Dechslin, Daniel, Küfer.\n9 | VI. | 1740 | | Schneider-Wirz, Wilhelm.\n10 | VI. | 1570 | | Wolflisberg-Walker, Franz.\n  Wolflisberg-Walker, Franz, Schirmfab.\n11 | VI. | 1741 | z. alten Rebstock. | Siegrist-Kiefer, Abraham.\n  Siegrist-Kiefer, Abraham, Korbhändler.\n  Schwörer-Weber, Ludw., Metzger.\n  Hill-Bieder, Joh. Jak., Kaminfeger.\n12 | VI. | 1742 | zum Siebenthal. | Grillo-von Gunten, Lucas.\n  Grillo-von Gunten, Lucas, Küfer.\n13 | VI. | 1721-22 b | | Schweizer, Heinrich.\n  Schuppen u. Eing. zu Nr. 14 Hutgasse.\n14 | VI. | 1743 | zur neuen Schleifmühle. | Waeffler, Jacob.\n  Hermann, Joh., Schneider.\n  Wüst-Bader, Andreas, Zimmermann.\n15 | VI. | 1744 | z. hintern Eichhorn. | Kromer, Joh. Peter.\n  Kromer, Joh. Peter, Schuhmacher.\n16 | VI. | 1745 | z. mittl. Eichhorn. | Schneider, Friedrich.\n  Heckendorn-Schweizer, Joh., Schlosser.\n17 | VI. | 1746 | | Geßler-Zeller, Johann.\n  Blank-Leitherr, Zimmerparlier.\n18 | VI. | 1747 | z. hint. Dolder. | Gerber-Hack, Johannes.\n  Gerber-Hack, Johannes, Wirth.\n  Baumann-Lehrer, Heinr., Schreiner.\n19 | VI. | 1748 | z. vordern Dolder. | Gerber-Hack, Johannes.\n  Eschbach-Uehlinger, Fritz, Metzger.\n20 | VI. | 1569 | zum Lorbeerbaum. | Grunauer-Haesi, August.\n  Grunauer-Haesi, Aug., Part.\n  Grunauer-Tschudi, Joh. Jak., Seckler u. Kappenmacher.\n21 | VI. | 1749 | z. Ritter St. Georg. | Weiß, Innocenz.\n  Weiß, Innocenz, Bierwirth.\n22 | VI. | 1568 | | Schaub-Müller, Jacob.\n  Grunauer-Wirz, Theophil, Südfrüchtenhandlung.\n\nSchanzenstraße.\n\n19 | I. | 275 F | zum Rebeneck. | Müller, Leonhard, sel. Erben.\n  Woringer-Choplin, Ludwig Alphons, Geistlicher.\n21 | I. | 275 B | zum Baugarten. | Müller-Staehelin, Johannes.\n  Müller-Staehelin, Joh., Baumeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9490,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2082,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:53:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p186",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p186.jpg",
+      "bytes": 1426827,
+      "sha256": "2e12e50f1a42917b431df8bd802cf0f4e00006229617ae8438d39c774b73d572",
+      "sha256_of": "original",
+      "working_copy": "1862_p186.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:36+00:00"
+  }
+}

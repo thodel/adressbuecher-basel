@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p149",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p149.jpg",
+    "bytes": 1320976,
+    "sha256": "893839a9a25af337a67b17afb710365494fea956011777bfc87237347900b5ec",
+    "sha256_of": "original",
+    "working_copy": "1862_p149.jpg"
+  },
+  "text": "84 St. Leonhards-Graben. — St. Leonhardskirchplatz.\nNre\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n41 II. 436 zum Mörsberg. Burchardt=Preiswerk, Wb. Maria.\nBurchardt=Preiswerk, Em., Pfarrer.\nSiehe Nr. 28 Heuberg.\n42 II. 378 zum hohen Weiler. Stähelin=Bischoff, Benedict.\nStähelin=Bischoff, Benedict, Bandfab.\nHosch, Albert.\nSiehe Nr. 26 Heuberg.\n43 II. 435 Stähelin=Bischoff, Benedict.\n44 II. 378 b Truchsefferhof. Merian=Merian, Balthasar.\nSiehe Nr. 28 Heuberg.\n45 II. 434 A Geigy=Buxtorf, Wb. Sufette.\nBuxtorf=Bischoff, And., Particular.\n46 II. 379 Stähelin=Zimmerlin, Joh. Jac.\nStähelin=Zimmerlin, Theol. Dr. Prof.\n47 II. 434 Geigy=Buxtorf, Wb. Sufette.\nGeigy=Buxtorf, Wb. Sufette.\n48 II. 380 Amans, Heinrich.\nSiehe Nr. 32 Heuberg.\n49 II. 433 Schnell=Burchardt, Wb. Mar. Sal.\nSchnell=Burchardt, Wb. Mar. S., Part.\n50 II. 351 Schaub=Brotbeck, Johann Rudolf.\nSiehe Nr. 34 Heuberg.\n51 II. 432 a Müller=Mathis, Wilhelm.\nMüller=Mathis, Wilhelm, Particular.\n52 II. 382 Müller, Wilhelm, Sohn,\nStauber=Wießner, Rudolf.\nSiehe Nr. 36 Heuberg.\n53 II. 431 a Holdenecker=Meyer, Franz Johann.\nSiehe Nr. 38 Heuberg.\n55 II. 430 a Mislap=Pöhls, Adolf.\nSiehe Nr. 40 Heuberg.\n57 II. 429 b zum rothen Mann. Mislap=Pöhls, Adolf.\nSiehe Nr. 41 Heuberg.\n59 II. 397 zum Sonnenstorf. Steiner=Lohner, Jacob.\nSiehe Nr. 44 Heuberg.\n61 II. 396 Pfarrhaus. Staat.\nRündig=Stückelberger, Euch., Pfarrer.\nRündig, August, J. U. D., Notarius.\nSt. Leonhardskirchplatz.\n1 III. 391 Siegristenwohnung. Staat.\nFlubacher=Syfin, Em., Siegrist.\nFlubacher, Mar. Luise, Lehrerinn.\n2 III. 693 Diaconatshaus. Staat.\nBruckner=Eglinger, Abraham, Pfarrer.\nBruckner, Theophil, homöop. Arzt.\n3 III. 694 u. 695 Schloß Wildegg. Staat.\n(Lohnhof.)\nWirk, J., J. U. D., Polizeidirector.\nWinzenried=Pfannenschmied, Samuel,\nThurmwart.\nLips=Lohrer, Joh., Feldw. Landjägercorps.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6809,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1866,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0164,
+    "mean_line_chars": 29.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:39:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p149",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p149.jpg",
+      "bytes": 1320976,
+      "sha256": "893839a9a25af337a67b17afb710365494fea956011777bfc87237347900b5ec",
+      "sha256_of": "original",
+      "working_copy": "1862_p149.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:54+00:00"
+  }
+}

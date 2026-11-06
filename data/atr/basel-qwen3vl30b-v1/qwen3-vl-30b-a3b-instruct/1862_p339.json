@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p339",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p339.jpg",
+    "bytes": 1471358,
+    "sha256": "7fc7021b8868405604367978346ee539d952611d1091eb08cbee54480fb50f04",
+    "sha256_of": "original",
+    "working_copy": "1862_p339.jpg"
+  },
+  "text": "274\nVerzeichniß der Bürger und Einwohner.\nEckenstein=Schermar, Eduard, Hopfenhandlg. u. Malzfabrif. Steinenthorstraße 16.\nEckert=Dunkel, Peter, Mechanikergeselle. St. Clara-Graben 11.\n- =Fäsch, Joseph, Professör d. Mathematik. St. Peters-Berg 23.\n- =Kutrus, Fridolin, Knecht. Unt. Heuberg29.\n- Peter Paul, Zollbeamter. Wallstraße 20.\nEckhard=Hoffmann, J. C., Kaufm. Manuf. facturwaarenhdlg. Nadelberg 8.\nEcklin, Carl. St. Clara-Straße 32.\n- =Hezel, Dan., Dr. med., Arzt. Schliisselberg 4.\n- =Holzach, Theodor, Baumeister. Missionsstraße 39.\n- =Knutty, Gottfried August, Postbeamter. Missionsstraße 43.\n- Lijette u. Jenn, Lehrerinnen. Utengasse11.\n- =Loz, Wb. Salomea, Part. Rümelinbachweg 8.\n- Theophil Wilhelm, Pfr. Kellergässl. 6.\n- =von Niechel, Wb. Serena Barbara, Rentiere. St. Johann-Vorstadt 74.\n- =Wafer, Wb. Pauline, Part. Missionsstraße 45.\n- =Weber, Benj. Ernst, Sous-chef de gare. Neuere Heumattstraße 1.\n- Wilh., Baudfabrik. St. Clara-Straße 32.\nEdelmann=Trefzger, Wb. Anna Marg., Wäscherin. Utengasse 60.\nEßfinger=Gußwiller, Carl Friedr., Kaufmann. Greifengasse 23.\nEger=Maag, Joh. Georg, Schlosser. St. Leonhards-Straße 34.\nEgge=Bonderach, Benedict, Rutscher. Rheingasse 53.\nEggenberger=Binder, Johannes, Lehensbeständer. Mattweg 10.\nEggen schwiler=Otter, Jak., Posamenter. Spalenberg 29.\nEgger, Cath., Part. Mühlenberg 3.\n- =Eggmann, Samuel, Bauunternehmer. St. Albanthorgraben 3.\nEggli, Magdalena, Näherin. St. Peterskirchplatz 3.\n- Baleria, Borgängerin. St. Peterskirchplatz 3.\nEggmann=Haller, Jakob, Blattmacher. Burgweg 7.\n- =Hegetschwylr, Eg., Posamenter. Burgweg 7.\nEgli-Hägler, Wb. Anna, Seidenwaarenhändlerin. Freie Straße 62.\n- =Hausammann, Wb. Maria, Backwaarenhandlung. Griinpfahlgässlein 4.\n- =Kern, Jakob, Gärtner. Heuberg 36.\n- =Uster, Cath. Elis., Lehrerin. Klingen- thal 19.\nEglin=Butscher, Friedrich Wilh., Commis. Unterer Heuberg 11.\nEglin=Dulenkopf, Jac., Fabrikarbeiter. Gensberg 1.\n- =Grieder, Georg, Fuhrhalter. St. Johann-Vorstadt 53.\n- =Märky, Heinrich, Posamenter. Rheingasse 40.\n- =Modespacher, J. J., Schuhmacher. Aeschenvorstadt 24.\n- =Wegner, Wb. Maria, Rentiere. Riehenstraße 8.\nEglinger, Dr. Eman., Thierarzt. Rebgaſse 16.\n- =Füürstenberger, Eman., Pfr. der Strafanstalt. Allschwyler Straße 9.\n- Susanna. St. Peterskirchplatz 1.\nEhinger u. Comp., Bankgeschäft. Aeschenvorstadt 15.\n- =LaRoche, Wb. Anna Cath., Part. Bäumleingasse 7.\n- =Sarafin, Frau Julie, Rentiere. St. Alban-Graben 6.\n- =Sarafin, Dr. Ludwig, Notarius. Augustinergasse 11.\n- =von Spehr, Christoph Mathias, Banquier. Aeschenvorstadt 15.\nEhrenfeuchter=Frey, Gottl., Hausknecht. Unterer Heuberg 31.\nEhrenperger=Birrer, Conrad, Schriftseker. St. Leonhards-Graben 4.\nEhret=German, Georg, Posamenter. Aeschenvorstadt 24.\nEhrsam=Balmer, Jakob, Posamenter. In der Breite 9.\n- =Forster, Hieron., Posamenter. In der Breite 9.\n- J. J., Taglöhner. Schorenweg 9.\n- =Meister, Jac., Taglöhner. Schorenweg 9.\n- =Schneider, Eduard, Sattler. Eljäffer-Straße 8.\nEichelberger=Engel, Friedr., Schneider. Klosterberg 21.\nEichenberger=Freudig, Joh., Posamenter. Utengasse 54.\n- =Müller, Samuel. Aeschenvorstadt 27.\n- =Rozinger, Friedrich Dietrich, Fabrikarbeiter. Riehenthorfstraße 27.\n- =Züricher, Joh., Maurerhandlanger. Rebgaſse 37.\nEigenheer=Biedert, Ulrich, Posamenter. Fabrikstraße 9.\n- =Breger, Mathias, Zimmermann. Gensberg 1.\nEisenlohr, Wb., Spezereihandel. Greifengasse 17.\nEiselin=Maurer, J. Gottfried, Fabrikarbeiter. Spalenvorstadt 30.\n- Raphael, Commis. Stadthausgasse 20.\nEisenring=Kramer, Joseph, Bäcker. Steinen-thorstraße 39.\nEisinger, Georg Joseph, Spengler. Aeschenvorstadt 28.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9230,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3599,
+    "lines": 70,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:05:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p339",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p339.jpg",
+      "bytes": 1471358,
+      "sha256": "7fc7021b8868405604367978346ee539d952611d1091eb08cbee54480fb50f04",
+      "sha256_of": "original",
+      "working_copy": "1862_p339.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:40+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p237",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p237.jpg",
+    "bytes": 1329022,
+    "sha256": "76dbd4bd4cb3d64a5fdd94ad076ee661db31dd0aadc53d1a9d1946ef76f0bc05",
+    "sha256_of": "original",
+    "working_copy": "1862_p237.jpg"
+  },
+  "text": "172 Greifengasse.\n\nNeue Haus-Nr. | Quar=tier. | Alte Haus=Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n2 | VIII. | 1—2 | z. neu. Gesellschafts-haus. | Die 3. E. E. Gesellschaften v. Klein-Basel.\n  Gubler-Huber, Albert, Wirth.\n3 | VII. | 379 | zum Gurtnau. | Madörin-Glaser, Friedrich.\n  Madörin-Glaser, Friedr., Cigarren- u. Tabakhandlung.\n  Dettwiler-Schlueb, Carl, Schneider.\n  Hindenlang-Ringier, Carl, Bierbrauer.\n4 | VIII. | 4 | zum Brandeck. | Wießler-Vögt, Franz.\n  Wießler-Vögt, Franz, Cigarrenhändler.\n  Heusler, Carl, Dr. Phil.\n5 | VII. | 380 | z. roth. Krebs. | Staab-Riedtmann, Hch. Wilh.\n  Staab-Riedtmann, Hch. Wilh., Coiffeur.\n  Jenni-Wernly, Daniel, Kaufmann.\n6 | VIII. | 381 | z. Blozheim. | Gysin-Merat, Friedrich.\n  Gysin-Merat, Friedr., Wirth.\n7 | VII. | 383 | z. Lichtenberg. | Leithardt-Hardy, Heinrich.\n  Leithardt-Hardy, Heinrich, Hutmacher.\n8 | VIII. | 382 | zum Thiergarten. | Buser-Wertenberg, Joh. Jak.\n  Buser-Wertenberg, Joh. Jak., Tabak- u. Spezereiwaarenhandlung.\n9 | VII. | 384 | | Trueb-Preiswerck, Rudolf.\n  Trueb-Preiswerck, Rudolf, Tabak- u. Cigarrenhandlung.\n  Stöcklin-Trueb, Niklaus, Dessinateur.\n10 | VIII. | 385 | z. kl. gelben Löwen. | Bischoff-Gebhardt, Joseph.\n  Bischoff-Gebhardt, Joseph, Sattler.\n11 | VII. | 388 | zum gelben Löwen. | Weißenberger-Singeisen, Wb. Mag.\n  Weißenberger-Singeisen, Wb. Magdal., Particularin.\n12 | VIII. | 386 | zum Mayen. | Dolt-Bonwyler, Christof Friedrich, sel. Erben.\n  Dolt-Bonwyler, Wb. Maria Elisabeth, Ellenwaarenhandlung.\n13 | VII. | 389 | zum gelben Löwen. | Hörler-Früh, Joh. Jak.\n  Hörler-Früh, Joh. Jak., Zuckerbäcker.\n14 | VIII. | 387 | zum Kilchberg. | Schmidt, Carl.\n  Schmidt, Carl, Glaser.\n15 | VII. | 393 | zum Schönau. | Gaß, Friedrich.\n  Gaß, Friedrich, Seidenfärber.\n  Klump-Seiler, Heinr., Silberarbeiter.\n16 | VIII. | 390 | z. Samariter-Sood. | Lotz, Achilles, sel. Erben.\n  Lotz, Maria Magdalena u. Mina, Part.\n  Böcklin-Lippe, Friedr., Kaufmann.\n  Schütz, Christian, Kaufmann.\n  Comptoir der Speditionshndlg. Ach. Lotz.\n  Eisenwaarenhndlg. v. Jenny u. Böcklin.\n17 | VII. | 394 | klein Haltingen. | Eisenlohr-Fiechter, Carl, sel. Erben.\n  Bischoff-Fiechter, Arnold Theod., Postoffiziant.\n  Eisenlohr, Wb. Spezereihandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9588,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2243,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:01:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p237",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p237.jpg",
+      "bytes": 1329022,
+      "sha256": "76dbd4bd4cb3d64a5fdd94ad076ee661db31dd0aadc53d1a9d1946ef76f0bc05",
+      "sha256_of": "original",
+      "working_copy": "1862_p237.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:05+00:00"
+  }
+}

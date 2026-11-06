@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p182",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p182.jpg",
+    "bytes": 1451302,
+    "sha256": "b682f7c4d2a9b22d15759fb0631453d123f64965a077dc4063a84b042e4c9750",
+    "sha256_of": "original",
+    "working_copy": "1862_p182.jpg"
+  },
+  "text": "Rittergasse. 117\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n4 | V. | 1374 | Obersthelferwohng. | Staat.\n  Burckhardt-Miville, Abel, Pfarrer.\n5 | V. | 1369 A | St. Ulrichskirchhöflein. | Vischer-Bischoff, Friedrich.\n  Magazin.\n6 | V. | 1375 | Lehrerwohnung. | Staat.\n  Bußinger-Mähly, Joh. Jak., Lehrer.\n7 | V. | 1366 C | Rothbergerhof. | Vischer, Salome.\n  Remise u. Stallung.\n8 | V. | | Dießbacherhof. | Staat, Bauplatz.\n9 | V. | 1369 | St. Ulrichseck. | Preiswerk, Wilhelm v. Lucas.\n10 | V. | 1377 | zum Delphin. | His-Heusler, Eduard.\n  His-Heusler, Eduard, Bandfabrikant.\n11 | V. | 1368 | | Christ, Remigius.\n  Magazin.\n12 | V. | 1206 | Eptingerhof. | Christ, Remigius.\n  Christ, Remigius, Alt Stadtrath.\n  Comptoir v. Frey, Thurneysen u. Christ, Bandfabrikanten.\n13 | V. | 1367 | | Christ, Remigius.\n14 | V. | 1207 | zum Gemar. | Frey, Thurneysen u. Christ.\n  Bandfabrik.\n15 | V. | 1366 | Rothbergerhof. | Vischer, Jungfr. Salome.\n  Vischer, Salome, Rentiere.\n16 | V. | 1208 | | Imhoff-Heitz, Ludwig.\n  Imhoff-Heitz, Ludw., Dr. med., Arzt.\n  Heitz-Eltester, Wb. Augusta, Part.\n17 | V. | 1365 | großer Ramsteinerhof. | Ryhiner-Hermann, Heinrich August.\n  Ryhiner-Hermann, Hch. August, Part.\n  Ryhiner-Streckeisen, A. Pauline, Part.\n18 | V. | 1209 D | Domprobstei. | Bachofen-Merian, Joh. Jakob.\n19 | V. | 1364 | Rheinhaldenhof. | Vischer-Bischoff, Friedrich.\n  Vischer-Bischoff, Friedrich, Kaufmann.\n  Bischoff, Achilles Vater, Rentier.\n  Bischoff, Friedrich, Agent.\n20 | V. | 1210 | Ritterhof. | Burckhardt-Vischer, Carl.\n  Burckhardt-Vischer, Carl, Rentier.\n  Merian-Burckhardt, Rud., Ingenieur.\n21 | V. | 1363 | zur hohen Sonne. | Hoffmann-Burckhardt, Albert.\n  Merian, Susanna, Rentiere.\n  Hoffmann-Gönner u. Comp., Tuchhdlg.\n22 | V. | 1211 und | der vordere Ramsteinerhof. | Iselin-Burckhardt, Isaac.\n  Iselin-Burckhardt, Isaac, Kaufmann.\n  Iselin-Bischoff, Isaac, Kaufmann.\n24 | | 1211 a | |\n23 | V. | 1362 A | zum Engel. | LaRoche-Merian, Carl Gustav.\n  Burckhardt-Vischer, Wb. Maria, Rent.\n  Passavant, Theophil, V. D. M.\n25 | V. | 1362 | Rothbergerhof. | LaRoche-Merian, Carl Gustav.\n  LaRoche-Merian, Carl Gustav.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8879,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2191,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 41.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p182",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p182.jpg",
+      "bytes": 1451302,
+      "sha256": "b682f7c4d2a9b22d15759fb0631453d123f64965a077dc4063a84b042e4c9750",
+      "sha256_of": "original",
+      "working_copy": "1862_p182.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:58+00:00"
+  }
+}

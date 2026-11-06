@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p272",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p272.jpg",
+    "bytes": 1415048,
+    "sha256": "c60822bdfc0fcee36cd354379ab3f38d8ada1e71d3699c66c1e1a6b138ef8d64",
+    "sha256_of": "original",
+    "working_copy": "1862_p272.jpg"
+  },
+  "text": "Utengasse. 207\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n28 | VIII. | 413 | | Schweizer-Isenegger, Ludwig.\n29 | VIII. | 424 | | Schardt-Assal, Joh. Ulrich.\n  Schardt-Assal, Joh. Ulrich, Metzger.\n30 | VIII. | 414 | Ziegelhof. | Lotz-Gocht, Achilles.\n31 | VIII. | 427—428 | zur Himmelspforte. | Merian, Ludwig.\n  Merian, Ludwig, Baumeister.\n32 | VIII. | 418 | | Eglin-Wegner, Wb. Mar. Magdal.\n33 | VIII. | 431 A | Badenhof. | Schäffer-Euler, Joh. Jac. August.\n  Schlachter-Fäsch, Elisabeth, Lehrerin.\n  Gatz-Baumann, Rud. Conrad, Commis.\n  Schäffer-Matzinger, Wb. Rosina.\n34 | VIII. | 419 | | Raillard-Stähelin, August.\n35 | VIII. | 431 | Badenhof. | Schäffer-Euler, August.\n37 | | 431 d | | Schäffer-Euler, Joh. Jac. August, Zim-\n  mermeister.\n38 | VIII. | 425 | | Ryff, Heinrich.\n  Ryff, Heinrich, Seidenfärbergesell.\n  Mast-Ryff, Jacob Friedrich, Commis.\n  Haberkorn, Jean, Ebenist.\n39 | VIII. | 437 | | Auer-Schlegel, Carl Jacob.\n  Auer-Schlegel, Carl Jacob, Spezierer.\n  Füllemann-vonLos, Peter Jacob, Schuhm.\n40 | VIII. | 426 | | Glunz, Joh. Conrad.\n  Glunz, Joh. Conrad, Seidenfärbergesell.\n  Meyer-Lauby, Johannes, Zollbeamter.\n41 | VIII. | 100 | zur Linde. | Laudier-Matzinger, Simon Heinrich.\n  Laudier-Matzinger, Simon, Zettlermstr.\n42 | VIII. | 66 | | Müller-Hasler, Emanuel.\n46 | VIII. | 430 | | Steigmeyer-Meyer, Josepha.\n48 | VIII. | 432 | | Schäffer-Euler, August.\n50 | VIII. | 433 | | Roth-Dunkel, Fr. Elisabeth.\n  Roth-Dunkel, Rudolf, Seidenfärberge-\n  hülfe.\n52 | VIII. | 434 | | Brüderlin-Lang, Joh.\n  Brüderlin-Lang, Joh., Commis.\n54 | VIII. | 435 | | Jenny-Stöcklin, Joh. Jakob.\n  Jenny-Stöcklin, Joh. Jakob, Musterweber.\n56 | VIII. | 436 | | Sutter, Joh. Jakob.\n  Keller-Bühler, Mathias, Schuhmacher.\n  Oppliger-Leibundgut, Rud., „\n58 | VIII. | 438 | | Lüssi-Zuber, Alois.\n  Lüssi-Zuber, Alois, Kostgeber.\n60 | VIII. | 439 | | Hug-Recher, Joh. Jakob.\n  Hug-Recher, Joh. Jakob, Maurer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7971,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1969,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:06:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p272",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p272.jpg",
+      "bytes": 1415048,
+      "sha256": "c60822bdfc0fcee36cd354379ab3f38d8ada1e71d3699c66c1e1a6b138ef8d64",
+      "sha256_of": "original",
+      "working_copy": "1862_p272.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:24+00:00"
+  }
+}

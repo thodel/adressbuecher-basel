@@ -1,0 +1,122 @@
+390
+Verzeichnis der Berufsarten.
+Plattner=Jenny, Mart. St. Leonhards-
+Berg 16.
+Plattner=Martin. Rheingasse 38.
+Proffer, Christ. Todtentanz 5.
+Sandreuter, Joh. Jat. Schneidergasse 5.
+Schardt, Math. Utengasse 22.
+Scherb, Friedr. Webergasse 32.
+Steinmann, Jakob. Freie Straße 14.
+Stockmeyer, Em. Gerbergasse 35.
+Straumann, Heinr. Malzgasse 15.
+Stuk, Friedr. Gustav. St. Peters-Gasse 10.
+Tschopp, Heinr. Gellertstraße 22.
+Wertenberg, Ed. Münsterberg 8.
+Wild, Jacob. Blumenrain 20.
+Spezereihandlungen.
+Ackermann, Joh. Spalenberg 26.
+Allenbach=Rudin, Joach. St. Albanvor-
+stadt 45.
+Auer, Carl Jacob. Utengasse 39.
+Bader=Schäfer, Joh. Gerbergasse 42.
+Baumann, Heinr. Gerbergäcklein 28.
+Bieder, Elisabeth. Neichenvorstadt 59.
+Bleiler, Jacob. Weiße Gasse 21.
+Bloh, Rud. Gerbergasse 22.
+Bohny, Ambr. Gerbergasse 2.
+Brolly, Martin. Klosterberg 19.
+Christ=Kybur, J. J. Neichenvorstadt 8.
+Cramer, Wb. Mar. Sal. sel. Erben. Rhein-
+gasse 1.
+Edenstein, J. St. Elisabethen-Straße 58.
+Eisenlohr, Wb. Greifengasse 17.
+Erh, Ed. Spalenberg 33.
+Gekler, Rud. Steinenvorstadt 1.
+Glaser, Alois. Steinthorstraße 5.
+Göttisheim, Fried. Neichenvorstadt 43.
+Großmann, Rud. Steinenvorstadt 22.
+Grunauer, Seb. Gerbergäcklein 18.
+Gutknecht, Joh. Adam. Schneidergasse 12.
+Gyfin, Heinrich. Barfüsserplatz 21.
+Henz, Wb. Margar. Steinenvorstadt 49.
+Hörlacher u. Hiltbrand. Eifengasse 9.
+Huschmied, Jac. St. Johann-Vorstadt 65.
+Huth, Philipp. Grenzacher-Straße 105.
+Jenny, J. J. Sohn. Blumenrain 21.
+Kromer, Wb. Suß. Gerbergasse 79.
+Krug, Casp. Freie Straße 8.
+Kruze-Salathe, Friedr. Imbergäcklein 1.
+Lichtenhahn, Carl Ben. Steinenthorstraße 8.
+Liebi, Chr. Utengasse 20.
+Madöri, Joh. St. Albanvorstadt 104.
+Mäder, Wb. Anna Maria. Kümelinsplatz 3.
+Meyer, Joh. Gerbergäcklein 22.
+Meyer=Miller, Marie. St. Leonhards-
+straße 20.
+Michaud, Ph. Horburgstraße 31.
+Müller=Schentel. Badergäcklein 12.
+Oberriedt, J. G. Grünpfahlgäcklein 1.
+Pack=Burckhardt, J. Spalenberg 22.
+Plattner=Oberer, Wb. Anna. Rheingasse 36.
+Reindle, Alois. Webergasse 3.
+Kepfinger, Gebr. Todtentanz 13.
+Riggenbach, Wb. zum Arm. Sporengasse 9.
+u. St. Clara-Straße 24.
+Rimenperger, Carol. Kohlenberg 3.
+Schardt=Breiting, Carl. Spalenvorstadt 42.
+Schaub, Wb. Carol. Jos. Sattelgasse 22.
+Schaub=Miller, Joh. Jac. Gerbergasse 21.
+Schnewlin u. Comp. Greifengasse 38.
+Schönauer, Hier. Blumenrain 3.
+Senn=Weber, Rud. Pfluggäcklein 9.
+Siegfried, Nicol. Münsterberg 1.
+Siegriß, Joh. Hier. Steinenthorstraße 41.
+Sommerhalder, Jac. Gerbergasse 47.
+Staenz, Conr. Neichenvorstadt 62.
+Stehelin, Gottfr. Spalenvorstadt 43.
+Studer, Joh. Carl. St. Johann-Vorstadt 52.
+Stumm u. Comp., F. Stadthausgasse 21.
+Thommen=Ebner, Georg. Rebgaß 6.
+Thommen=Gab, Jac. Rheingasse 43.
+Trueb, Rud. Greifengasse 9.
+Tschopp=Winter, Maria Barbara. Pflug-
+gäcklein 12.
+Urech, David. Webergasse 15.
+Best, J. B. junior. Freie Straße 93.
+Bon Brunn=Braun, Wb. Marg. Riehen-
+thorstraße 29.
+Wall, Heinrich. Karthausgäcklein 1.
+Walter, Ch. Friedr. St. Alban-Vorstadt 59.
+Weiß, Thomas. Riehenthorstraße 24.
+Weissenberger, Joh. Spalenvorstadt 33.
+Wenger, Jacob. Steinenthorstraße 43.
+Wenzinger, Johann. St. Peters-Berg 21.
+Wick, Martin. St. Andreasplatz 14.
+Winkler, Jacob. St. Johann-Vorstadt 18.
+Zeugin, Jac. St. Elisabethen-Straße 34.
+Spiegelhandlungen.
+Kiefer, Georg. Freie Straße 23.
+Lang, Rud. Freie Straße 43.
+Peter, Ben. Kaufhausgasse 8.
+Rath, Joh. Friedr. Freie Straße 52.
+Ronus, Chr. Eifengasse 14.
+Wildpret, Ferd. Gerbergasse 21.
+Spizen- und Tullehandlungen.
+Däntliker, Wb. Louise. Eifengasse 15.
+Hoch u. Lie. Eifengasse 28.
+Kündig, Carl. Eifengasse 11.
+Ostermann u. Lie. Eifengasse 17.
+Rieber, Carl. Eifengasse 32.
+Schultheß-Schneider, Ernst. Freie Straße 54.
+Wölflin, Wilh. Rud. Gerbergasse 57.
+Sprachlehrer.
+Bamattre, Fr. Freie Straße 16.
+Baumgartner, Ferd. Blumenrain 14.
+Bhström, Carlos de. St. Alban-Vorstadt 39.
+Fröhlicher, Urf. Jos. Sattelgasse 7.
+Guise, Frl. Johanna. Neichenvorstadt 48.
+Hergob, Joh. Ludw. St. Peters-Berg 5.
+Hoff, Charles. Kronengasse 2.
+Jocay-Zundt, Eug. St. Johann-Vorstadt 64.
+Mayer, Adolf. Gerbergasse 30.

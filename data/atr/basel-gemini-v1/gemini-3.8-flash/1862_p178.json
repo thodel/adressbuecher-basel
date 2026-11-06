@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p178",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p178.jpg",
+    "bytes": 1424276,
+    "sha256": "156b7397e04cd5d5e96baafa72479d4e0b84a92a6430e67a8c1802419cdb75d0",
+    "sha256_of": "original",
+    "working_copy": "1862_p178.jpg"
+  },
+  "text": "St. Peters-Platz. — Pfluggäßlein. 113\n\nNeue Haus-Nr. | Quar tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n4 | II. | 307 | | Sievers, Carl August.\n  Sievers, Carl August, Zahnarzt.\n  (Mit Eingang zu Nr. 3.)\n5 | II. | 306 | | Herzog-Zimmermann, Franz Xaver.\n  Herzog-Zimmermann, Frz. Xaver, Knecht.\n6 | II. | 305 | | Wassermann-Mollinet, Joh.\n  Wassermann-Mollinet, Joh., Commis.\n7 | I. | 310 | Stadtthurm. | Stadtgemeinde.\n  Schuster-Pischl, Georg, Stadtgärtner.\n8 | I. | | Spritzenhaus. | Stadtgemeinde.\n9 | I. | 309 | Stachelschützenhaus | Stadtgemeinde.\n10 | I. | 309 A | | Sommer-Walter, Melchior.\n  Sommer-Walter, Melchior, Maler.\n11 | I. | 248 A | | Christen-Euler, Niclaus.\n  Christen-Euler, Niclaus, Seidensensal.\n  Christen, Immanuel, S. M. C.\n12 | I. | 248 | Ehrengarten. | Burckhardt-Werthemann, Wb. Char-\n  lotte.\n  Burckhardt-Werthemann, Wb. Charlotte,\n  Rentiere.\n13 | I. | 249 . | | His-Burckhardt, Friedrich.\n  His-Burckhardt, Friedrich, Rentier.\n14 | I. | 250 | | Linder, Emilie, Jungfrau.\n  Iselin-Iselin, Abraham, Hypothekar.\n15 | I. | 251 A | zum Kämmerlein. | Knobel-Gmünder, Joh. Jacob.\n  Bureau v. Knobel u. König, Bandfabr.\n  Knobel-Gmünder, Joh. Jacob, Bandfabr.\n  Martin, Charlotte, Particularin.\n  Kestner-Martin, Wb. Fanny, Rentiere.\n  Subit-Storck, Octave, Commis.\n  Dreyfus-Lang, Emanuel, Kaufmann.\n  Kreis, Joh. Jacob, Schreiner.\n16 | I. | 251 B | | Fäsch-Vinet, Johann de Johann.\n  Herzog-Häsler, Emanuel, Lohndiener.\n  Herzog, Achilles Emanuel, Commis.\n  Meyer-Frey, Peter Steffan, Commis.\n17 | I. | 252 | | Degen-Frey, Joh. Jacob.\n  Degen-Frey, Joh. Jacob, Ferger.\n  Dussi-Fischer, Jakob Eman., Commis.\n18 | I. | 253 | | Hersperger, Barbara.\n  Hersperger, Barbara, Particularin.\n19 | I. | 253 B | zum Eichhörnchen. | Birmann-Koger, Joh. Georg.\n  Birmann-Koger, Joh. Georg, Postbeamt.\n20 | I. | 254 | Grabeneck. | Hoffmann, Maria Salome, Jungfr.\n  Hoffmann, Maria Salome, Rentiere.\n\nPfluggäßlein.\n1 | IV. | 1178 c | Rosenberg. | Detloff-Lafontaine, Carl.\n  Stempelbureau.\n  Spiller, Joh. Jacob, Buchbinder.\n8",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8923,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2078,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p178",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p178.jpg",
+      "bytes": 1424276,
+      "sha256": "156b7397e04cd5d5e96baafa72479d4e0b84a92a6430e67a8c1802419cdb75d0",
+      "sha256_of": "original",
+      "working_copy": "1862_p178.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:24+00:00"
+  }
+}

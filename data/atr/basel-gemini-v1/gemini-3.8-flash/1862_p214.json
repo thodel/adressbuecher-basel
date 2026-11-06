@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p214",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p214.jpg",
+    "bytes": 1475571,
+    "sha256": "fc5f50ec347bdea29af2185baee448e59447a092792745dda2d97be0194eb76e",
+    "sha256_of": "original",
+    "working_copy": "1862_p214.jpg"
+  },
+  "text": "Steinenthorstraße. 149\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n5 | III. | 841 | | Cordelier-Eberle, Peter.\n  Cordelier-Eberle, Peter, Kutscher.\n  Kull-Bercher, Rudolf, Commis.\n  Glaser-Wersele, Alois, Spezierer.\n6 | III. | 838 | zum Steineck. | Hablützel-Ballon, Carl.\n  Hablützel-Ballon, Carl, Zollbeamter.\n  Wiederkehr-Denger, Heinrich, Wirth.\n7 | III. | 842 | zum Paradies. | Gysin-Spreyermann, Joh. Conrad.\n  Gysin-Spreyermann, Joh. Conr., Comm.\n8 | III. | 849 | zum gelben Stern. | Lichtenhahn-Hirzel, Carl Benedict.\n  Lichtenhahn-Hirzel, Carl Bened., Spezier.\n  Graf-Ludwig, Joseph, Orgelbauer.\n10 | III. | 850 | z. gelb. gold. Stern. | Schuler, Adam und Leonhard.\n  Schuler, Adam, Rothgerber.\n  Schuler-Lohri, Leonhard, Rothgerber.\n11 | III. | 843 | | Himmely-Seifert, Frau Marg.\n  Schmied-Leiß, Joh., Wirth u. Drechsler.\n  Seifert-Gysin, Benjamin, Maler.\n12 | III. | 851 | zur goldenen Krone. | Buxtorf-Buxtorf, Rudolf.\n  Buxtorf-Buxtorf, Rudolf, Kaufmann.\n13 | III. | 875 | zum Windgefäß. | Bachofen-Brenner, Joh. Matthäus.\n  Bachofen-Brenner, Joh. Matthäus, Tuch-\n  scheerer.\n  Bachofen, Joh. Jacob, Tuchscheerer.\n14 | III. | 851 A | | Buxtorf-Buxtorf, Rudolf.\n  Buxtorf-Merian, J. L., Firnißfabrik\n  und Farbenhandlung.\n15 | III. | 874 | | Labhardt-Miville, Joh. Caspar.\n  Labhardt-Miville, Joh. Caspar, Kaufm.\n16 | III. | 852 | | Imhoff-Schumacher, Heinrich.\n  Imhoff-Schumacher, Heinrich, Schmied\n  und Wagenfabrikant.\n  Comptoir v. Eckenstein, Ed., Hopfenhdlg.\n  Schneider-Plattner, Wb. Louise, Part.\n  Kübler-Uebelin, Wb. Carolina.\n  Uebelin-Schweizer, Wb. Carolina.\n  Spiller-Kübler, Carl, Commis.\n17 | III. | 873 | | Müller-Stengelen, Carl Friedrich.\n  Brosy-Kuenbühler, Joh. Joseph, Eisen-\n  bahnbeamter.\n18 | III. | 852 A | | Imhoff-Schumacher, Heinrich.\n  Schütz-Döbelin, Regina, Geschirrladen.\n19 | III. | 872 | z. wilden Brünnlein. | Müller-Stengelen, Carl Friedrich.\n  Müller-Stengelen, Carl Friedr., Gypser\n  und Stuccator.\n  Maas-Krug, Rudolf, Kaufmann.\n  Hübner, Christian Moritz, Architect.\n20 | III. | 853 A | | Paravicini-Meyer, Joh. Ludwig.\n  Geiger-Wagner, Heinrich, Liseur.\n21 | III. | 871 | | Beurmann-Herzog, Friedr. Emil.\n  Beurmann-Herzog, Friedr. Emil, Tapez.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9372,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2263,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:57:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p214",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p214.jpg",
+      "bytes": 1475571,
+      "sha256": "fc5f50ec347bdea29af2185baee448e59447a092792745dda2d97be0194eb76e",
+      "sha256_of": "original",
+      "working_copy": "1862_p214.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:57:52+00:00"
+  }
+}

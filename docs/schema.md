@@ -119,7 +119,7 @@ ist `occupation_raw` meist leer und die Rubrik trägt den Beruf.
 | `building_id`, `volume`, `street_raw`, `building_no`, `house_no_old` | aus `05_buildings.csv` |
 | `space` | Nummernraum: `gb` (Grossbasel), `kb` (Kleinbasel), `bann` |
 | `dossier_id`, `dossier_title` | HGB-Dossier(s) (`;`-getrennt, höchstens 5) und Titel = Adresse 1862 |
-| `match_method` | `street_no` (1862, genau ein Dossier mit genau dieser Nummer), `street_no_multi` (Dossier mit mehreren Nummern), `old_no` (alte Nummer eindeutig), `old_no_multi` (mehrere Dossiers, Schwerpunkt), `old_no_base` (Buchstabenzusatz weggelassen, Hauptnummer; `low`), `no_location` (Dossier ohne Standort), leer = kein Treffer |
+| `match_method` | `street_no` (1862, genau ein Dossier mit genau dieser Nummer), `street_no_multi` (Dossier mit mehreren Nummern), `old_no_1862` (1862 über die alte Nummer der Tabelle), `old_no` (alte Nummer eindeutig), `old_no_multi` (mehrere Dossiers, Schwerpunkt), `old_no_base` (Buchstabenzusatz weggelassen, Hauptnummer; `low`), `no_location` (Dossier ohne Standort), leer = kein Treffer |
 | `n_candidates` | Zahl der Dossiers hinter dem Punkt |
 | `e`, `n` | LV95 (EPSG:2056), bei mehreren Dossiers der Schwerpunkt |
 | `lat`, `lon` | WGS84 (swisstopo-Näherungsformel, ~1 m) |

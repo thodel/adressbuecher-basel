@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p209",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p209.jpg",
+    "bytes": 1265903,
+    "sha256": "80d5e014c2c51bd89b0b371b684e4c78be4581829c5023a8e59ac5c522d01ce7",
+    "sha256_of": "original",
+    "working_copy": "1862_p209.jpg"
+  },
+  "text": "144\nSporengasse. — Stadthausgasse.\nNene\nHaus=Nr | Quar-\ntier. | Alte\nHaus=Kro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n11 | VI. | 1608 | zum Gold. | Silbernagel=Schleidenberger, J. J.\nSilbernagel=Schleidenberger, Joh. Jac.,\nWirth.\n13 | VI. | 1609 | zum Rebstock. | Stoedlin=Georg, Emanuel.\nStoedlin=Georg, Emanuel, Manufac-\nturwaarenhdlg., Firma J. J. Georg.\n14 | VI. | 1577 | zum Pfauen. | Burckhardt=Kern, Samuel.\nBurckhardt-Kern, Samuel, Lehrer.\nStrübin=Roduner, J. Jak., Mercerie u.\nQuincailleriewaarenhandlung.\n15 | VI. | 1610 | zur Hirzburg. | Gyßler, Margaretha.\nWeyer, Ed. u. Comp., Merceriehdlg.\n16 | VI. | 1576 | z. mittlern Pfauen. | ImHof=Forcart, Joh. Jak.\nImHof=Forcart, Joh. Jak., Kaufmann\nund des Rathß.\nImHof, Hans Jacob, Kaufmann.\nFirma Welchior ImHof u. Söhne,\nLederhandlung.\nStadthausgasse.\n1 | VI. | 1583 A | städtisch. Baubureau (Brodlaube). | Stadtgemeinde.\n2 | VI. | 1553 | zum Lichtenstein. | BonderMühl=Keller, Wb. Marg.\nBonderMühl-Keller, Wb. Margaretha,\nRentiere.\n3 | VI. | 1554 | zum Steinhauer. | Christ=Wild, Johannes.\nChrist=Wild, Johannes, Schuhmacher.\n4 | VI. | 172 C | | Bär=Martin, Rudolf.\nBär=Martin, Rudolf, Coiffeur.\n5 | VI. | 1555 | zur obern Bruck. | Hirschmann, Maria Anna.\nHirschmann, Maria Anna, Part.\n6 | VI. | 172 B | zum Seufzer. | Stadtgemeinde.\nSpritzenhaus.\n7 | VI. | 1556 | zur untern Bruck. | Enholz=Sandreuter, Carl.\nEnholz-Sandreuter, Carl, Dekorations-\nmaler u. Bergolder.\n8 | VI. | 172 a | | Handmann=Mayr, Joh. Jac.\nBureau v. Handmann=Mayr, Joh. Jac.,\nJuwelier.\n9 | VI. | 1557 | | Schmidt=Oyfin, Wilhelm.\nSchmidt=Oyfin, Wilhelm, Schuhmacher.\n10 | VI. | 172 | zum blauen Brief. | Handmann=Mayr, Joh. Jac.\nHandmann=Mayr, Joh. Jac., Juwelier.\n11 | VI. | 1558 | zum hohen Pfeiler. | Ostertag=Brunner, Alois.\nOstertag=Brunner, Alois, Liseur. Ci-\ngarren= u. Tabakhdlg.\n12 | VI. | 171 | zum Wittenberg. | Haefelinger=Strübin, Jacob.\nHaefelinger=Strübin, J., Geldwechsler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5742,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1942,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.66,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p209",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p209.jpg",
+      "bytes": 1265903,
+      "sha256": "80d5e014c2c51bd89b0b371b684e4c78be4581829c5023a8e59ac5c522d01ce7",
+      "sha256_of": "original",
+      "working_copy": "1862_p209.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:55+00:00"
+  }
+}

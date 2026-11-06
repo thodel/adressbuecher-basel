@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p330",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p330.jpg",
+    "bytes": 1607433,
+    "sha256": "23275fc8cbe348c17a1cb27c80260940d9740535870cf5c81e402d46a14ed79e",
+    "sha256_of": "original",
+    "working_copy": "1862_p330.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 265\nBruckner, Theophil, homöopat. Arzt. Steinen-\nvorstadt 67.\nBruder=Biirgin, Maria Margaretha. Litho-\ngraphische Anstalt. Gerbergässlein 15.\n— =Durft, Alexand., Lithograph. Hammer-\nstraße 22.\nBrudermann, Daniel, Knecht. Spalenberg 32.\n— =Dettwyler, J. M., Appreteur. St. Jo-\nhann-Vorstadt 63.\nBrüchjel=Rodier, Heinrich, Steinhauer. Ra-\nnonengasse 9.\nBriiderlin-Baumann, Ludwig, Ausläufer.\nKronengasse 9.\n— =Christmann, Nicl. Rud. Marktplatz 8.\nFirma: Nicolaus Briiderlin, Ellen-\nwaarenhandlung.\n— =Lang, Joh., Commis. Utengasse 50.\n— =Schmid, Wb. Urjula, Rentiere. Markt-\nplatz 8.\n— =Wild, Ambrosius, Zuckerbäcker. Schnei-\ndergasse 4.\nBrügger, Leonz, Holzhändler. St. Clara-\nStraße 14.\n— =Müller, Basilius, Taglöhner. Hammer-\nstraße 96.\nBrühl, Geschw. Friedr., Maria, Marg., Cath.,\nFabrikarbeiter. Klosterberg 23.\n— =Klaus, Ulrich, Maurerparlier. Ochsen-\ngasse 16.\nBrüllmann=Eggmann, Georg, Fleckenreiniger.\nSchützenmattstraße 2.\n— =Müller, Franz, Posamenter. In der\nBreite 7.\nBrüngger=Kratt, Friedrich, Schreiner. Bin-\nninger Straße 13.\nBrüistlein=DuPasquier, Ed., Part. St. Peters-\nGraben 3.\nBrugger=Fichter, Josef. St. Elisabethen-\nStraße 45.\n— =Gersbach, Joh., Commis. Rheingasse 54.\n— Geschwister Judith u. Anna Hildegard,\nTaglöhnerinnen. Rheingasse 59.\n— =Meyer, Wb. Anna Maria, Glätterin.\nRebgasse 36.\n— =Schwarz, Conr., Posamenter. Gerber-\ngässlein 40.\nBrunner=Brunner, Georg, Magazinarbeiter.\nSteinenvorstadt 67.\n— Christian, Holzhändler. Unterer Heu-\nberg 5.\n— =Clymene, Part. Seevogelstraße 11.\n— =Ernst, Christian, Holzhändler. Gerns-\nberg 8.\n— =Fiechter, Joh., Fabrikarbeiter. Schwa-\nnengasse 14.\n— Franz, Knecht. Vogelsangweg 10.\n— =Fuchs, Urs Joseph, Taglöhner. St. An-\ndreasplatz 16.\n— =Gumper, Heinrich, Küfer. Rhein-\ngasse 43.\nBrunner=Hegetschwiler, Jakob, Knecht. Spie-\ngelgasse 14.\n— Jakob, Schneider. Freie Straße 88.\n— =März, Wb. Anna, Wascherin. Weiße\nGasse 3.\n— =Mohler, Wb. Elisab., Seidenwinderin,\nu. Sgfr. Elisabeth Brunner, Damen-\nschneiderin. Blumenrain 28.\n— Victor, Lehrenmann. Vogelsangweg 19.\n— =von Arx, Daniel, Schneider. Schneider-\ngasse 18.\n— =Walser, Andreas, Schneider. Spalen-\nberg 50.\n— =Wiesner, Jakob, Posamenter. Steinen-\nbachgässlein 12.\nBubec=Kullen, Wilh. Friedr., Lehrer. Stifts-\ngasse 2.\nBucher=Hofmann, Friedr., Portier. Central-\nbahnstraße 10.\n— =Huber, Jos., Schneider. Marktplatz 16.\n— =Morel, Joh., Kunstmaler u. Photograph.\nWebergasse 15.\n— =Bogt, Anton, Taglöhner. Streitgasse 3.\n— Wilh., Spitalportner. Neue Vorstadt 2.\nBucherer=Parmentier, Wb. Salome. Grün-\npfahlgässlein 1. Firma: J. G. Oberriedt.\nBuchmann=Caspar, Peter, Zuckerbäcker. Spa-\nlenberg 35.\n— =Fäsch, Rudolf, Müller. Webergasse 2.\n— =Meyer, J., Schreiner. Spalenvorstadt 9.\nBuchsen, Susanna, Glätterin. Spalen-\nberg 28.\nBuchter=Eglin, Rudolf, Taglöhner. Gerber-\ngässlein 12.\nBücher=Baumann, Joh., Siegrist. St. Peters-\nGasse 54.\n— =Wagner, Hans, Schuhmacher. Kanonen-\ngasse 3.\nBüchi=Locher, Felix, Commis. St. Peters-\nBerg 22.\nBüchle=Wagner, Rudolf, Holzmiller. In der\nBreite 33.\nBüchler=Gräslin, Pancratius, Zimmermann.\nSternengässlein 29. 31.\nBüchly=Bruder, Joh., Hafner. Weiße Gasse 8.\nBühler, Alois, Seidenfärbereijelle. Säger-\ngässlein 8.\n— Barbara Catharina u. Maria Susanna.\nSchützengasse 12.\n— =Bohrer, David, Hausknecht. Rhein-\ngasse 12.\n— =Bürgin, Jakob Friedrich, Kaminsfeger.\nLindenberg 9.\n— Christian, Schloffer. Spiegelgasse 14.\n— David Wilhelm, Fabrikarbeiter. Koh-\nlenberggasse 8.\n— =Lehuis, Jakob Friedrich, Zimmergesell.\nSteinenvorstadt 59.\n— =Meyer, Heinrich, Schreiner. St. Alban-\nVorstadt 26.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9243,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3573,
+    "lines": 121,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:04:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p330",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p330.jpg",
+      "bytes": 1607433,
+      "sha256": "23275fc8cbe348c17a1cb27c80260940d9740535870cf5c81e402d46a14ed79e",
+      "sha256_of": "original",
+      "working_copy": "1862_p330.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:16+00:00"
+  }
+}

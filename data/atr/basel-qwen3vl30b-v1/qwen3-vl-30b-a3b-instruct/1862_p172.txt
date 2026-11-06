@@ -1,0 +1,50 @@
+St. Peters-Berg.
+107
+Neue Haus-Nr. | Quartier. | Alte Haus-Kro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+25 | I. | 191 | zum Friedberg. | Lokz-vonMechel, Wb. Judith.
+| | | | | Lokz-vonMechel, Wb. Judith, Part.
+| | | | | Lokz, Leonhard, Posamentirer.
+| | | | | Beck-Lokz, Christian Friedrich, Kunsthändl.
+| | | | | Pfister-Lokz, Joh. Heinrich, Kaufmann.
+| | | | | Schönauer, Hieronimus.
+| | | | | (Magazin.)
+26 | I. | 182 | zur Meerfaze. | Hagenbach-Geigy, Wb. Maria.
+| | | | | Hagenbach-Geigy, Wb. Maria, Kent.
+| | | | | Hagenbach, Peter.
+| | | | | Bürkli-Bereuter, Gottl., Kochheerdfabril.
+27 | I. | 230 | zum Steglin. | Courvoisier-Lowndes, Georg Ludwig.
+| | | | | Courvoisier-Lowndes, Georg Ludwig, Kaufmann.
+| | | | | Firma: G. Courvoisier u. Comp., Commission in Effekten, sowie Eigenvverkauf von Thee u. feinen Weinen.
+28 | I. | 184 | zum Rämpfer. | Meyer, Ursula.
+| | | | | Meyer, Ursula, Magdeverdingerin.
+29 | I. | 192 | Straßburgerhof. | Brogle, Joh. Georg.
+| | | | | Brogle, Joh. Georg, Schreiner.
+| | | | | Moser-Müirner, Andreas, Gipser.
+| | | | | Martin-Binder, Georg.
+| | | | | Martin-Binder, Georg, Schreiner.
+| | | | | Spaeni-Outerjohn, Dominik, Kunstmaler.
+30 | I. | 187 | Biberach. | Klett-Schwarz, Caspar.
+| | | | | Klett-Schwarz, Caspar, Fabrikarbeiter.
+31 | I. | 196 | | Roth, Geschwister Wilhelmine und
+| | | | | Chrishona.
+32 | I. | 188 | zum Tannen-Ed. | Pfirter-Hegerich, Josef.
+| | | | | Pfirter-Hegerich, Josef, Particular.
+| | | | | Leuggenhager, Joh. Jacob, Maler.
+33 | I. | 197 | | Lauber-Rio, Fridolin.
+| | | | | Lauber-Rio, Fridolin, Ausläufer.
+34 | I. | 193 | zur Mischleten. | Frey-Frey, Reinhard, Lohndiener.
+| | | | | Trago-Retterer, Magdalena, Borgäng.
+35 | I. | 198 | zur schweren Last. | Boillat-Stihl, Eugen.
+| | | | | Boillat-Stihl, Eugen, Sattler.
+| | | | | Schär-Burckhardt, Andreas, Schuhmacher.
+36 | I. | 194 | z. Wolfsbrunnen. | Waffermann-Golde, Andreas.
+| | | | | Waffermann-Golde, Andreas, Schreiner.
+| | | | | Waffermann-Gernler, Joh., Schuhmacher.
+37 | I. | 201 | hintere Blume. | Lauber-Rio, Fridolin.
+| | | | | Eingang zu Nr. 36 St. Peters-Berg.
+38 | I. | 195 | zum Kohler. | Hottinger-Ekensperger, Barbara.
+| | | | | Hottinger-Ekensperger, Barbara, Kostgeberin.
+| | | | | Rees-Demus, Friederika, Magdeverding.
+| | | | | Schmid, Georg, Maler.
+40 | I. | 194 | z. Wolfsbrunnen. | Altermatt-Hafenböhler, Gg., Holzhändl.
+42 | I. | 199 | |

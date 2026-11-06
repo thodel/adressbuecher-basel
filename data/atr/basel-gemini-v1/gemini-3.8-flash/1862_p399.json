@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p399",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p399.jpg",
+    "bytes": 1400923,
+    "sha256": "44ba6601497b9e12e69a933a4a0dc084c6d3c3c88e110eca59bc47859e288b85",
+    "sha256_of": "original",
+    "working_copy": "1862_p399.jpg"
+  },
+  "text": "334\nVerzeichniß der Bürger und Einwohner\n\nSchäfer-Romann, Carl Franz, Commis.\nRheingasse 30.\n- -Salathe, Isaac, Heuhändler. Steinen-\nvorstadt 18.\n- Salomon, Nachtwächter. Nauenstraße 13.\n- -Schneider, Eml., Commis. Kaufhaus-\ngasse 8.\n- -Wunderlin, Vincenz, Zimmermann.\nWallstraße 4.\n- -Zemp, Anton, Lohmüller. Hammer-\nstraße 2.\nSchäffer-Euler, J. J. Aug., Zimmermeister.\nUtengasse 35.\n- -Matzinger, Wb. Rosina, Part. Uten-\ngasse 33.\n- -Schäfer, Saml., Ferger. Gerbergasse 50.\n- -Wössner, August, Part. Spalenvor-\nstadt 28.\nSchär-Bader, Conrad, Posamenter. Linden-\nberg 11.\n- -Burckhardt, Andreas, Schuhmacher.\nSt. Peters-Berg 37.\n- -Datt, Benedikt, Schneider, Schwanen-\ngasse 8.\n- Friedrich, Kunstmaler. St. Alban-Vor-\nstadt 74.\n- Haas, J. J., Schneider. Spalenberg 12.\nSchärer-Amsler, Leonhard, Metzger. Roß-\nhofgasse 11.\n- -Frey, Wb. Anna Maria, Schuhmacher.\nPfluggäßlein 14.\n- -Häfelfinger, Wb. Anna Barbara, Zett-\nlerin. Webergasse 26.\n- -Säuberlin, Joseph, Schuhmacher. St.\nLeonhards-Berg 2.\n- -Schärer, Joh. Pet. Anton, Posamenter.\nOchsengasse 16.\n- -Schlachter, Wb. Maria Ursula. Ochsen-\ngasse 16.\nSchäublin-Gerold, Saml. Rud., Bäcker. Ger-\nbergasse 36.\n- -Gruber, Heinrich, Bauamtsarbeiter.\nHutgasse 13.\n- Johannes, Fabrikarbeit. Kronengasse 10.\n- -Krayer, Joh. Jak., Schuhmacher. Ger-\nbergasse 36.\n- -Meyer, Joh. Abel, Eisenbahnbeamter.\nSteinenvorstadt 2.\n- -Ruesch, Wb. Elisabeth, Part. Schnei-\ndergasse 16.\n- -Seiffert, Cathar., Part. Steinenthor-\nstraße 11.\n- -Tschudin, Jacob, Holzhändler. Steinen-\nvorstadt 61.\n- -Vögtlin, J. J., Lehrer. Wallstraße 24.\n- -Wahl, Jacob, Maurer. Münsterberg 13.\nSchaffner-Düring, Wilh., Commis. Bäum-\nleingasse 6.\n- -Fäsch, Martin, Pfarrer. Klingenthal 13.\n\n[spalte 2]\nSchaffner-Frey, Sam., Polizeisekret. Elsässer-\nstraße 36.\n- Friedrich, Centralbahnbeamter. Garten-\nstraße 68.\n- Fritz, Ingenieur. Kirchgasse 8.\n- -Furrer, Elisabeth, Kostgeberin. Bach-\nlettenstraße 19.\n- -Gaß, Wb. Maria, Nätherin. St. Jo-\nhann-Vorstadt 11.\n- -Gasser, Remigius, Fabrikarbeiter. Spa-\nlenvorstadt 34.\n- Geschw. Anna, Elisabetha u. Barbara,\nSchneiderin u. Modisten. Steinenvor-\nstadt 17.\n- Heinrich, Schneider. Schwanengasse 12.\n- J. J. Wirth. St. Clara-Straße 17.\n- Rudolf, Seidenfärbergeselle. Münzgäß-\nlein 20.\n- -Maurer, Jac. Barth., Fabrikarbeiter.\nSt. Peters-Gasse 22.\n- -Schäffer, Friedr., Oberlehrer. Kirch-\ngasse 8.\n- -Schrenk, Wb. Wilhelmine, Aromatische\nRäucherbäder. Gerbergäßlein 3.\n- Sebastian, Kaufhausarbeiter. Aeschen-\nvorstadt 24.\n- -Weitnauer, Fritz, Weinschenk. St. Jo-\nhann-Vorstadt 49.\nSchaffter-Moll, August, Commis. Stifts-\ngasse 3.\n- -Seiler, Isaac, Kaufmann. Stifts-\ngasse 3.\nSchalch-Bauer, Wb. Elisab., Goldarbeiter.\nFischmarkt 15.\nSchardt-Alt, Benedikt, Küfer. Rebgasse 4.\n- -Assal, Joh. Ulrich, Metzger. Uten-\ngasse 29.\n- -Breiting, Carl, Kaufmann. Spalen-\nvorstadt 42.\n- Carolina, Erzieherin. Barfüßerplatz 9.\n- -Eckert, Mathias, Spengler. Uten-\ngasse 29.\n- -Follenweider, Lucas, Part. Malz-\ngasse 9.\n- -Huber, Rud., Commis. Neue Vor-\nstadt 20.\n- -Löliger, Daniel, Schuhmacher u. Trödler.\nBarfüßerplatz 32.\n- -Roth, Adolf, Kaufmann. Gerber-\ngasse 75.\n- -Schölly, Peter, Küfer. Rebgasse 4.\n- -Thurneysen, Eman., Buchbinder und\nSchreibmaterialienhandlung. Gerber-\ngasse 32.\n- -Wohnlich, Wb. Maria Magdal., Band-\nputzerin. Rheingasse 63.\nScharpf, Maria Anna, Part., Spalenberg 40.\n- -Weizmann, Alois, Lehrer. Schneider-\ngasse 28.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12875,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3383,
+    "lines": 121,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0413,
+    "mean_line_chars": 26.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:35:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p399",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p399.jpg",
+      "bytes": 1400923,
+      "sha256": "44ba6601497b9e12e69a933a4a0dc084c6d3c3c88e110eca59bc47859e288b85",
+      "sha256_of": "original",
+      "working_copy": "1862_p399.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:35:47+00:00"
+  }
+}

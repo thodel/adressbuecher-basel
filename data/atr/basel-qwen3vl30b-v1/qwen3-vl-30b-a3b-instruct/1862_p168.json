@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p168",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p168.jpg",
+    "bytes": 1440236,
+    "sha256": "8095e90ddc989c6d314825553099f819b7189c83e8246d9c12067aad686e2d01",
+    "sha256_of": "original",
+    "working_copy": "1862_p168.jpg"
+  },
+  "text": "Neuenstraße. — Neubadstraße. — Neue Vorstadt. 103\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n5 IV. 215 F ………… Frey=Asch, Bernhard Joseph.\nFrey=Asch, Bernhard Joseph, Glaser.\nMartin, Gabriel, Zollbeamter.\nAenishänslı, Christian, Commis.\nSteinmann=Sefti, J. M., Getreidehändl.\n6 IV. 214 B ………… Schneider=Schneider, Wb. Serena.\nSchneider=Schneider, Wb. Serena, Part.\nVögelin=Wettstein, Heinrich, Commis.\n7 IV. 215 E ………… Georg, Dr. Carl Ludwig.\n8 IV. 214 A ………… Rachel=Best, Lucas Heinrich.\nRachel=Best, Lucas Heinrich, Particular.\nBeglinger=Zwicky, Joh., Kaufmann.\nSchuler=Schwab, Conrad, Commis.\n9 IV. 215 D ………… Merke, Franz Xaver.\n10 IV. 215 B ………… Lok=Holzach, Alb. u. Siber=Lok, Cas.\nCompt. v. Alb. Lok u. Casp. Siber, Bandf.\n13 IV. 215 C ………… Reber=Meier, Samuel, Reber=Lok,\nJoh., u. Madöry=Reber, Wilh.\nReber=Meier, Samuel, Holzhändler.\nReber=Lok, Joh., Holzhändler.\nMadöry=Reber, Wilhelm, Holzhändler.\n26 IV. 236 ………… Wieland=Rottmann, Carl.\nWieland=Rottmann, Carl, Part.\nNeubadstraße.\n5 III. 177 Lettengut. Spitalpflegamt.\nBujer=Habegger, Jacob, Lehrenmann.\nNeue Vorstadt.\n1 I. 256 d zum Samson. Fäsch=Paravicini, Wb. Margaretha.\n(Einfahrt zu Nr. 18 St. Petersgraben.)\n2 I. 257 Bürgerspital. Spitalpflegamt.\nMeyer=Merian, Theodor, Dr. Med.,\nSpitaldirector.\nMüller, Dr. Julius, Assistenzarzt.\nHagen, Dr. Hermann,\nRaumann, Heinrich, Apotheker.\nGysin=Lehmann, Alexander, Irrenauffeh.\n3 I. 250 b u. c Hebelhaus. Linder, Emilie, Jungfr.\nBrogile=Waldmeyer, Anton, Particular.\n4 I. 257 Markgräfl. Pallast. Spitalpflegamt.\n(Pfrundhaus.)\n6 I. 257 A Spitalpflegamt.\n7 I. 249 A Ott, Carl Michael.\nOtt, Carl Michael, Klaviermacher.\nSocin, August, Dr. Med.\nRuttimann, Pauline, Musiklehrerin.\nComptoir von J. E. Margot, Agent.\n\" v. Fried. Schäfer, Steinkohlendlg.\nWidemann=Mitscherlich, Gustav Heinr.,\nProfessor der Physik.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6243,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1871,
+    "lines": 59,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:43:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p168",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p168.jpg",
+      "bytes": 1440236,
+      "sha256": "8095e90ddc989c6d314825553099f819b7189c83e8246d9c12067aad686e2d01",
+      "sha256_of": "original",
+      "working_copy": "1862_p168.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:00+00:00"
+  }
+}

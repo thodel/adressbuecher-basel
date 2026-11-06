@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p325",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p325.jpg",
+    "bytes": 1448735,
+    "sha256": "35f841934ea92296897802a8dfcde10c69cf3f9ad5e04b6931542d1a49198072",
+    "sha256_of": "original",
+    "working_copy": "1862_p325.jpg"
+  },
+  "text": "260\nVerzeichniß der Bürger und Einwohner.\nBinz=Eichader, Sam., Gärtner. Herrenmattweg 28.\n— =Heuser, Emil, Kaufmann. Sporengasse 6.\n— Joh.Ulrich, Ferger. Steinenvorstadt 21.\n— =Lorenz, Heinr., Taglöhner. Schneidergasse 29.\n— Magdalena, Schneiderin. Spalenvorstadt 28.\nBinzegger=Schetty, Carl, Mühlensbauer und Mechaniker. Ochsen-gasse 14.\nBircher, Johs., Schlosser. Austraße 48.\nBirchler, Stefan, Mechanikergesell. Mühlberg 19.\nBirkenmeyer=Selinger, Wb. Carolina, Part. Spalenberg 40.\nBirmann=Brüderlin, Gedeon, Schlosser. Rheingasse 9.\n— Friedr. Nicolaus, Bäcker. Riehenthorgasse 26.\n— =Rogers, Joh. Gg., Postcommis. St. Peters=Platz 19.\n— =Leuenberger, Joh., Metzger. Lindenberg 18.\n— =Weniger, Gottfr., Mefferschmidt. Stadthausgasse 14.\nBirrer=Schumacher, Wb. Cath., Part. Klingelbergstraße 20.\n— =Stähle, Alois, Fuhrhalter. Schliken-mattstraße 12.\nBirsfelder=Dettwiler, Andr., Spedter. Weiße Gasse 18.\nBiry, Cath., Taglöhnerin. Rheingasse 3.\n— Wb. Serena, Part. Brunnägklein 7.\n— =Fricke, Xaver, Seidenfärbgergeselle. St. Johann-Vorstadt 78.\n— =Rein, Josef, Eisenbahnarbeiter. Gerbergäklein 8.\nBischoff, Achilles, Bater, Rentier. Rittergasse 19.\n— Alfons, Fabrikant. St. Alban-Vorstadt 17.\n— Alfred, J. U. D. St. Alban-Vorstadt 21.\n— Benedict, Tuchhandlung. Nadelberg 10.\n— =Bischoff, Hier., Kaufmann. St. Alban-Vorstadt 34.\n— =Böhler, Johann Jacob, Pfarrer. Reb-gasse 30.\n— =Bostel, Joh., Kutscher. St. Peters-Gasse 8.\n— =Burchhardt, Wilh., Bandfabrik. Rheinsprung 20.\n— =Buxtoff sel., Wb. Adeline, Rentiere. Rheinsprung 24.\n— Carl, Kaufmann. St. Alban-Vorstadt 15.\n— Carl de Johann, Rentier. Rheinsprung 20.\n— Chr. u. Johs., Seidenstofffabrikant. St. Alban-Vorstadt 17.\n— Ed., Kaufmann. St. Alban-Vorstadt 21.\n— =Chinger, Andr., Handelsmann. Bäumleingasse 7.\nBischoff=Fiechter, Arnold Theod., Postoffiziant. Greifengasse 17.\n— Fritz, Agent. Rittergasse 19.\n— =Fürstenberger, Aug., Bandfabrik. Rheinsprung 21.\n— =Gebhardt, Jos., Sattler. Greifengasse 10.\n— =Geigy, Bandfabrikant. St. Albanthor-graben 72.\n— Gottlieb, J. U. D., Staats schreiber. Greifengasse 1.\n— =Graf, Cath. Magdal., Part. Spalenthorgweg 2.\n— Gust., Fabrikant. St. Alban-Vorstadt 17.\n— Gustav de Joh., Bandfabrikant. Firma Gebr. Bischoff. Rheinsprung 24.!\n— =Hottinger, Theod., Schneider. Grenzacher-Straße 85.\n— Johannes, Bandfabrikant. Firma Gebrüder Bischoff. Rheinsprung 24.\n— =Hselin, Christof, Fabrikant. St. Alban-Vorstadt 17.\n— =Keller, Andreas, Kaufmann. Heuberg 22.\n— =Kestner, J. J., Banquier. St. Elisabethen-Straße 27.\n— u. Kiindig, Advokatur u. Notariatsbureau. Freie Straße 10.\n— Louise, Rentiere. Münsterplatz 1.\n— =Marian, Rud., Kaufmann. Nadelberg 10.\n— =Marian, Wilh., Bandfabrikant. St. Martins-Gasse 18.\n— =Oser, Susanne, Nätherin. Greifengasse 33.\n— Peter, Rentier. Fischmarkt 2.\n— =Preiswerf, Wb. M., Rent. St. Alban-Vorstadt 21.\n— =Respinger, Präf.d.Stadtrath8. St. Alban-Vorstadt 30.\n— =Sarasin, Alb., Bandfabrikt. Augustiner-gasse 5.\n— =Weber, Joh. Const., Müller. Weber-gasse 21.\nBisikummer=Fischer, Johs. Michael, Handelsmann. Aeschenvorstadt 35.\nBitter=Zumsteg, Ant., Postillion. Schneidergasse 8.\nBitterli=Gyfin, Wb. Anna, Fabrikarbeiterin. Todtentanz 12.\n— =Deichger, Leonz, Posamenter. Karthausgäklein 5.\nBitterlin=Bolly, Jnaac, Feuerschau=Adjunkt. Blumenrain 26.\n— =Crismann, Joh. Jac., Fabrikarbeiter. Rheingasse 59.\n— =Gersler, Joh., Fabrikarbeit. Heuberg 38.\nBitterly=Schaub, Leonz, Taglöhner. Mostackerstraße 48.\nBlanchet, Jeanne u. Sujaune Pauline, Rentieres. Freie Straße 10.\nBlank=Gamper, Jos. Ant., Malergeselle. Unterer Heuberg 27.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9155,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3546,
+    "lines": 71,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:03:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p325",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p325.jpg",
+      "bytes": 1448735,
+      "sha256": "35f841934ea92296897802a8dfcde10c69cf3f9ad5e04b6931542d1a49198072",
+      "sha256_of": "original",
+      "working_copy": "1862_p325.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:29+00:00"
+  }
+}

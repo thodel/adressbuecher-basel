@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p117",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p117.jpg",
+    "bytes": 1328304,
+    "sha256": "6566192d56680d564e5c16aa617bb3b9698ef947994c956bc1b5b36838c52c13",
+    "sha256_of": "original",
+    "working_copy": "1862_p117.jpg"
+  },
+  "text": "52 | Gerbergaſſe.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauſes. | Namen der Hauſeigenthümer und Bewohner.\n\n21 | VI. | 649 | z. Wacholderbaum. | Wildpret-Rieſterer, Ferdinand.\n  Wildpret-Rieſterer, Ferd., Vergolder.\n  Schilling-Gnoepf, Wb. Suſanna, Part.\n  Schaub-Müller, Joh. Jac., Spezereihdlg.\n22 | VI. | 1655 | zum Fiſchgrath. | Bloch, Rudolf.\n  Bloch, Rudolf, Spezierer.\n  Heer-Neguet, Conrad, Poſtbeamter.\n23 | VI. | 650 | z. hint. Freienſtraße. | Grimm-Wetzel, Johannes.\n  Grimm-Wetzel, Joh., Zollbeamter.\n  Sutter-Kaiſer, Joſ., Merceriewaarenh.\n24 | VI. | 1654 | zum Hentſchenberg. | Staat.\n  Schaub-Stuber, Joh. Georg, Fabrikarb.\n25 | VI. | 651 | z. gold. Staufen u. z. grün. Mann. | Roth-Oſer, Joh. Balthaſar.\n  Roth-Oſer, Joh. Balthaſar, Glaſer.\n  Hug, Catharina, Hebamme.\n26 | VI. | 1653 | zum Hammeneck. | Roth-Georg, Rudolf.\n  Weber, Joh., Café- und Speiſewirth.\n27 | VI. | 652 | zum gold. Eglin. | Wäffler-Fininger, Samuel.\n  Wäffler-Fininger, Sam., Poſamentirer.\n  Luttiger-Gregor, Schuhhandlung.\n28 | VI. | 1652 | zum Hammeneck. | Roth-Georg, Rudolf.\n  Roth-Georg, Rudolf, Glaſer.\n29 | VI. | 653 | z. kleinen Waldeck. | Hindenlang-Hurter, Jacob Gottlieb.\n  Hindenlang-Hurter, J. G., Modenhdlg.\n  Schwömmli-Siller, Friedr., Schneider.\n30 | VI. | 624 | zum St. Niklaus. | Kehlſtadt, Johann Philipp.\n  Kehlſtadt, Joh. Philipp, Particular.\n  Schmidt, Gg. Theophil, Cigarrenhändl. u. Verleger des Tagblattes.\n  JmHof, J., Bäcker.\n  Mayer, Adolf, engl. Sprachlehrer.\n31 | VI. | 654 | zum Pabſt. | Meyer-Ziegler, Heinrich.\n  Meyer-Ziegler, H., Ellenwaarenhandlg.\n  Brandenberger-Matzinger, Conr., Kübler.\n  Lüber, Bernhard, Poſtcommis.\n  Weibel-Glaſer, Jac. Ludw., Commis.\n32 | VI. | 645 | zum Nußbaum. | Schardt-Thurneyſen, Emanuel.\n  Schardt-Thurneyſen, Eman., Buchbind.\n  Walſer-Bloch, Joh., Obſt- u. Eierhdlg.\n  Fehr, Joh., Commis.\n33 | VI. | 655 | zur Tanne. | Hunold-Roth, Anton.\n  Hunold-Roth, A., Muſikhdlg. u. Leihanſt.\n34 | VI. | 644 | zum Stättlerſhof. | Tiſchhauſer-Geiger, Simon.\n  Tiſchhauſer-Geiger, Simon, Conditor.\n  Müller-Schär, Heinrich, Schreiner.\n35 | VI. | 656 | zum Mond. | Stockmeyer-Roth, Emanuel.\n  Stockmeyer-Roth, Eman., Spengler.\n36 | VI. | 643 | Zunft z. Schneidern. | Corporationsgut.\n  Schäublin-Krayer, Joh. Jacob, Schuhmacher.\n  Schäublin-Gerold, Sam. Rud., Bäcker.\n  Boßardt, Heinrich, Cigarrenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10681,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2366,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:42:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p117",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p117.jpg",
+      "bytes": 1328304,
+      "sha256": "6566192d56680d564e5c16aa617bb3b9698ef947994c956bc1b5b36838c52c13",
+      "sha256_of": "original",
+      "working_copy": "1862_p117.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:40+00:00"
+  }
+}

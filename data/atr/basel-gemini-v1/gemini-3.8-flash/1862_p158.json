@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p158",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p158.jpg",
+    "bytes": 1484304,
+    "sha256": "9ce6c63ae6b42b142010edaead4851dcc4ad1fd6a91cd68f057b7509a83706cc",
+    "sha256_of": "original",
+    "working_copy": "1862_p158.jpg"
+  },
+  "text": "Missionsstraße. — Mittlere Straße. 93\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n45 | II. | 120 | | Ecklin-Waser, Pfarrer sel., Wb.\n  Ecklin-Waser, Wb. Pauline, Part.\n46 | I. | 84 | | Uehlinger-Bulacher, Joh. Jac.\n  Langmesser-Gaß, Sam., Part.\n48 | I. | 83 C | | David-Burckhardt, Heinrich.\n  David-Burckhardt, Hch., Kaufmann.\n  David, Lucas Traug., Staatscassasect.\n49 | II. | 121 B | | Christ-Uebelin, Balthasar.\n50 | I. | 83 | | Schweizer-Riedtmann, Rudolf.\n  Schweizer-Riedtmann, Rud., Ferger.\n  Schölli-Taverna, Franz, Lehrer.\n51 | II. | 121 A | | Christ-Uebelin, Balthasar.\n  Christ-Uebelin, Balthasar, Cassier.\n52 | I. | 83 A | | Girard-Blumer, Ch. François.\n  Girard-Blumer, Ch. François, Profes.\n  Speyermann-Baumgartner, Elias, Part.\n53 | II. | 121 | Missionstöchteranst. | Evangelische Missionsgesellschaft.\n  Scholz, Constantia, Vorsteherin.\n54 | I. | 83 | | Kugler-Amsler, Johann.\n  Kugler-Amsler, Johann, Fabrikmeister.\n  Arnold-Waldschmidt, Wilh., Professor.\n57 | II. | 122 A | | Bögtlin-Langmesser, Ludwig.\n  Bögtlin-Langmesser, Ludw., Part.\n59 | II. | 122 | | Bögtlin-Langmesser, Ludwig.\n60 | I. | 82 | | Stupanus, Christof.\n  Stupanus, Christof, Particular.\n  Müller, Balthasar, Lehenbeständer.\n61 | II. | 80 A | | Spahn-Sutter, Joh. Adam.\n  Spahn-Sutter, Joh. Ad., Fabrikarb.\n  Kündig-Jaiser, Philipp, Maler.\n  Spahn, Joh. Adam, Geschäftsmann.\n62 | I. | 81 A | | Zucker-Müller, Benedict.\n  Anstein-Reinhart, Kaufmann.\n63 | II. | 80 | | Gysin-Lüthy, Achilles.\n  Gysin-Lüthy, Achilles, Ausläufer.\n65 | II. | 79 | | Meyer-Rohner, Heinrich.\n  Meyer-Rohner, Heinrich, Fuhrhalter.\n66 | I. | 69 | | Schmid-Bloch, Rudolf.\n  Gräncher-Hans, Friedr., Lehenbeständer.\n  Krummenacher-Lerf, Anton, Lehenbest.\n\nMittlere Straße.\n1 | I. | 99 a | | Bischoff-Keller, Andreas.\n4 | I. | 41 | Leichenhaus. | Stadtgemeinde.\n19 | I. | 92 A | | Senn-Thommen, Christof.\n  Senn-Thommen, Christof, Holzhändler.\n24 | I. | 43 A | | Linder-Hopf, Joh. Jakob.\n  Bureau v. J. J. Linder, Bandfabrikant.\n26 | I. | 43 | | Linder-Hopf, Joh. Jakob.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9319,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2090,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p158",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p158.jpg",
+      "bytes": 1484304,
+      "sha256": "9ce6c63ae6b42b142010edaead4851dcc4ad1fd6a91cd68f057b7509a83706cc",
+      "sha256_of": "original",
+      "working_copy": "1862_p158.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:19+00:00"
+  }
+}

@@ -1,0 +1,62 @@
+60
+Heuberg.
+Neue
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+6 II. 445 Paradies. Stähelin, Jgfr. Sal. sel. Erben
+Heinz-Huber, Eduard, Commis.
+7 II. 441 Spießhof. Gesellisch. d. schweiz. Centralbahn.
+Steinmann-Kammermann, Jaf., Abwart.
+8 II. 444 Salathé-Bokhardt, Joh.
+Salathé-Bokhardt, Joh., Kaufmann.
+10 II. 443 z. hintern Schaub. Viebrich-Müller, F. Conrad.
+Viebrich-Müller, F. C., Civilg.-Weibel.
+Wagner-Viebrich, Joh., Org. u. Musikl.
+Frutiger-Hoffmann, F., Handl. Commis.
+12 II. 442 Arai. Huber-Schnell, Mar. Sal., Pfr. Wb.
+Huber-Schnell, M. S., Pfr. Wb., Part.
+13 VI. 422 zum Kellерladen. Frey-Schmid, Marg., Wb.
+Frey-Schmid, Marg., Wittwe.
+Köpgen-Hohler, Wilh., Maler.
+14 II. 441 A. zum Seidenhut. Levy-Dulmont, Marcus.
+Levy-Dulmont, M., J. U. L., Advok.
+Himmeli-Meyer, Jacob, Commis.
+Bertschmann, Johannes, Rentier.
+Mann-Bertschmann, Christina, Part.
+15 VI. 423 zum Sternenberg. Schweichardt-Dunkel, Em. Jac.
+Schweichardt-Dunkel, Em. Jac. Schuh-
+macher.
+16 II. 440 Burckhardt-Imhof, Wb. Suf.
+Burckhardt-Imhof, Suf., Rentiere.
+Burckhardt, Emanuel, Kaufmann.
+Staehelin-Burckhardt, Sam., Kaufm.
+17 VI. 424 zum Vorbeerfranz. Gofwyler-Stoll, Conrad.
+Gofwyler-Stoll, Conrad, Efelhalter.
+Salathe-Müller, Rud. Wirth, Postfact.
+18 II. 439 zum Engelberg. Bernoulli-Werthemann, Joh. Jac.
+Bernoulli-Werthemann, Joh. Jacob,
+Phil. Dr. Alt-Apotheker.
+19 VI. 425 zum Tröttlin. Säuberlin-Hägelin, Wb. Suf. Barb.
+Säuberlin-Hägelin, Wb. Suf. Bb., Part.
+Säuberlin-Klausfelder, Hier., Brieft.
+20 II. 438 zum Helfenberg. Stricker-Meyer, Lud. David.
+Stricker-Meyer, E. D., Pintenwirth.
+Hubsch, Georg Herm., Commis.
+Thoma, Moritz, Commis.
+21 VI. 426 Benfen. Biedert-Müller, Johannes.
+Biedert-Müller, Johannes.
+22 II. 437 zum Waldshut. Bischoff-Keller, Andreas.
+Bischoff-Keller, Andr., Kaufmann.
+23 VI. 427 Lapp-Wollschlegel, Christian Friedr.
+Lapp-Wollschlegel, Schlosser u. Mechanik.
+Hurt-Heer, Conrad, Zimmermeister.
+24 II. 436 zum Mörbsberg. Burckhardt-Preiswerk, Emanuel.
+Burckhardt-Preiswerk, Em., Pfarrer.
+25 VI. 428 Wassermann-Krebs, Rud.
+Wassermann-Krebs, Rud., Kaminfeger.

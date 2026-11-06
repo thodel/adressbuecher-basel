@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p396",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p396.jpg",
+    "bytes": 1596635,
+    "sha256": "b0f9e8ba66374c26bf9b64dd922f4c35fc0cce991d8ceda2fdff75af6c9c41b9",
+    "sha256_of": "original",
+    "working_copy": "1862_p396.jpg"
+  },
+  "text": "Berzeichnis der Bürger und Einwohner. 331\nRothen-Näf, Joh., Gutsbesitzer. Grenzacher- Kühnenstahl-Ebner, Joh. Rud., Wirth. St. Peter-\nStraße 73. Graben 55.\nRothenhäusler-Schaier, Alois, Schreiner. — =Köslin, Wb. Anna Maria, Part. Steinen-\nSpalenberg 48. vorstadt 14.\nRothpleg-Rychner, August, Ingenieur, Adjunkt Riide, Catharina, Taglöhnerin. Riehenteich-\nd. Centralbahn. Nauenstraße 2. weg 14.\nRottermann-Lehmann, Frz. Josef, Zimmer- Rueff, Anna Maria, Glätterin. Unterer Heu-\ngeselle. Steinenthorstraße 16. berg 13.\nRozinger, Conrad, Cartonnier. Münster- Rueffer-Altenbach, Jak., Gärtner. Allschwyler\nberg 10. Straße 9.\nRoulet, Jgfr. Georgina, Kent. St. Alban- Rueger-Häring, Wb., Fabrikarbeiterin. Streit-\nGraben 5. gasse 12.\nRubli-Bär, Joh., Fabrikarbeiter. Gerber- — =Herrmann, Conrad, Schlosser. Rhein-\ngasse 2. gasse 45.\nRublin, Conrad, Zimmermann. St. Alban- — =Müller, Joh. Jak., Musterweber. Nejchen-\nVorstadt 48. vorstadt 35.\n— Heinrich, Eisenbahnbeamter. St. Elisa- — =Schärer, Joh. Georg, Schuhmacher.\nbethen-Straße 51. Rebgasse 45.\nRudin-Bastady, Joh., Posamenter. Steinen- Ruegg, Barbara, Schneiderin. Barfüßer-\nvorstadt 46. platz 22.\n— Carl, Schlosser. Heuberg 4. — =Faller, Sam., Seidenfärbergeselle. Rap-\n— =Dunkel, Martin, Posamenter. Spalen- poltshof 1.\nberg 41. — =Gräflin, Joh. Emil, Maler. Riehenthor-\n— =Duttwiler, Joh., Commis. Spalenberg 19. straße 13.\n— =Gerster, Joh., Pintenwirth. St. Alban- Ruegger-Buser, Posamenter. Hintere Bahn-\nVorstadt 43. hofstraße 48.\n— =Grieder, Friedrich, Posamenter. Spalen- Ruegsegger-Sutter, Christian, Taglöhner.\nvorstadt 21. St. Peters-Gasse 22.\n— =Häring, Heinr., Magazinier. Steinen- Rühlín, F. G., Wascherei. Rappoltshof 14.\nthorstraße 18. Rüimelin-Bögt, Trudbert, Part. Malzgasse 18.\n— =Iffert, Friedr., Fabrikarb. Schneider- Rüimmelin-Stäublin, Carl, Ferger. Steinen-\ngasse 29. bachgässlein 10.\n— Joh., Ferger. Hardstraße 37. Ruep-Biedert, Barbara, Seidenwinderin. Im-\n— Julie, Modiste. Greisengasse 36. bergässlein 22.\n— =Restenholz, Theod., Posamenter. Spalen- Ruefsch-Karth, Gabr., Zimmermann. Hammer-\nberg 41. straße 96.\n— =Lang, Friedrich, Holzarbeiter. Spalen- — =Schlatter, Maria, Wascherin. Greisen-\nvorstadt 18. gasse 32.\n— =Meyer, Heinrich, Part. Johndhösgäßl. 8. Rüßler-Ludwig, Franz Math., Mechaniker-\n— =Mohl, Franz, Ferger. St. Johann- geselle. Steinenvorstadt 42.\nVorstadt 63. Rüttimann, Pauline, Musiklehrerin. Neue\n— =Rublin, Jak., Musterweber. St. Alban- Vorstadt 7.\nBorstadt 48. Rüttimeyer-Fankhauser, Carl Ludw., Prof. d.\n— =Rudin, Jakob, Windermeister. Malz- Medizin. Herbergsgasse 4.\ngasse 5. Rütschin, Mathias, Posam. Pfluggässlein 8.\n— =Rudin, Joh., Part. St. Clara-Straße 4. Rütschlin, Anna Maria, Posamenterin. Litt-\n— =Schwarz, Wb. Marg. Spalenberg 19. denberg 11.\n— =Sitz, Eman., Malergeselle. Johndhöf- — Christina, Nätherin. Lindenberg 11.\ngässlein 8. — Niklaus, Landjägerwachtmeister. Rhein-\n— =Steiger, Heinrich, Posamenter. Kar- gasse 47.\nthausgässlein 1. Ruh-Hofmann, Joh., Part. Freie Straße 19.\n— =Weber, Adolf, Eiscur. St. Alban-Vor- Rumpf-Bachofen, Hieronimus, Alt-Poßhalter.\nstadt 46. Freie Straße 25.\n— =Weber, Heinrich, Posamenter. Mittlere — =Dietzsch, Dan., Civilgerichtsamtmann.\nStraße 42. Stadthausgasse 18.\n— =Behntner, Joh., Mechaniker. St. Clara- — =Hartmann, Wb. A. Maria, Bürstenmacher.\nStraße 4. Freie Straße 101.\nRudloff-Benz, David, Seidenfärbergeselle. Schaf- — =Imhoff, Wilhelm, Rektor des Real-\ngässlein 10. gymnasiums. Münsterplatz 16.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9108,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3458,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:14:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p396",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p396.jpg",
+      "bytes": 1596635,
+      "sha256": "b0f9e8ba66374c26bf9b64dd922f4c35fc0cce991d8ceda2fdff75af6c9c41b9",
+      "sha256_of": "original",
+      "working_copy": "1862_p396.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:14:33+00:00"
+  }
+}

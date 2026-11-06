@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p319",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p319.jpg",
+    "bytes": 1458247,
+    "sha256": "85054dc933754cf5bea402d917669ec59b2f73059435270b19c2047050cd0a65",
+    "sha256_of": "original",
+    "working_copy": "1862_p319.jpg"
+  },
+  "text": "254\nVerzeichniß der Bürger und Einwohner.\nAlberer, Franz Anton, Grenzaufseher. Rie-henteichweg 16.\nAlbert, Georg, Musiker. Kohlenberg 5.\nAlbiez, Adolf, Kaufmann. Freie Straße 29.\n— =Rehlin, Melchior, Schneider. Spalen-berg 32.\n— =Stähle, Mb. Elisabeth, Part. Freie Straße 29.\nAlbrecht, Andreas, Rutscher. Altschwylers Traße 66.\n— Jaf. Christoph, Commis. Freie Straße 103.\n— =Speifer, Joh. Conrad, Kaufmann. Rebgasse 16.\nAlemandi-Ehinger, Mb. Julie, Kent. Freie Straße 2.\nAllinger, J. Rud., Rostgeber. Utengasse 4.\n— =Schneider, Joh. Heinrich, Maler. St. Alban-Thal 12.\nAllemann, Urs, Maurer. St. Andreasplatz 10.\nAllenpach-Rudin, Joachim, Kaufmann. St. Alban-Vorstadt 45.\nAllgemeines Arbeiterkosthaus. Kilmelinsplatz 6.\nAlt-Bienz, Mb. Sus., Bäcker. Rebgasse 52.\n— Ludwig, Bäcker. Rheingasse 47.\nAlternatt-Birer, Nils., Schneider. Stadthausgasse 5.\n— =Häfelfinger, Joh., Gypser. Gerbergasse 31.\n— =Hasenbüler, Georg, Holzhändler. St. Peters-Berg 42.\n— =Weixhaupt, Joseph, Gypser. Gerbergasse 73.\nAltorfer-Weiß, Heinrich, Waagmeister. Gerbergasse 39.\nAltwegg-Richter, Mb. Wilhelmine. Part. Hammerstraße 1.\nAmans-Cadet, Heinrich, Kaufm. Heuberg 32.\n— =Grollimund, Artur, Desfinateur. St. Clara-Straße 33.\n— H. u. C., Seidenagentur. Heuberg 32.\n— Joseph, Vater, Part. Hammerstraße 11.\n— =Madeux, Oscar Constant, Kaufmann. Schützenmattstraße 24.\nAmberg, Leonz, Polizeigefreiter. Rittergasse 26.\nAmberger, Gustav Adolf, Kunstmaler. Münchensteiner Straße 11.\n— =Schloffer, Herm., Buchhandl. Nauenstraße 1.\nAmmacher-Hotz, Jakob, Taglöhner. Bei der Wiefenschranze 33.\n— =Huber, Johann, Beinknopfsmacher. Bei der Wiefenschranze 32.\nAmmann, Achilles, Sohn, Siebmacher. Gerbergasse 66.\n— Anna Maria, Näherin. Neue Vorstadt 8.\n— Caspar, Seidenfärbegeselle. Rheingasse 15.\n— Georg, Lehrenmann. Schützenmattstr. 55.\n— Gottlob, Musiklehrer. Blumenrain 14.\nAmmann-Holzhauer, Mb. Anna Maria, Tag-löhnerin. Rheingasse 88.\n— =Reidhardt, Achilles, Sieb-und Trom-melmacher. Gerbergasse 63.\n— =Weissenberger, Mb., Wascherin. Weber-gasse 7.\nAmsler, Marie, Schneiderin. Schneidergasse 3.\n— =Schweizer, Jaf., Posamenter. Sternengässlein 38.\n— =von Tobel, Rudolf, Corsetfabrikant. Gerbergasse 63.\n— =Wenk, Rudolf, Schreiner. Augustiner-gasse 7.\nAmstein-Schäffer, Joh. Heinrich, Bader und Krankenwärter. St. Peters-Berg 1.\nAndersen-Istelin, Ole, Baumeister. Aeschen-vorstadt 72.\nAndres-Dalang, Lucas, Postcommis. Rheingasse 56.\n— =Nägeli, Joh. Jaf., Postbeamter. Eisen-gasse 6.\nAnklin, Jos., Schreiner. Steinenvorstadt 10.\nAnliser, Elisa u. Magdalena, Bettmacherin. Utengasse 22.\nAnsteln-Loz, Mb. Helena, Part. Missionsstraße 62.\n— Reinhard, Commis. Missionsstraße 62.\n— Rudolf, Spitalpfarrer. Missionsstraße 39.\n— =Wölflin, Mb. Margaretha, Part. Bäumleingasse 13.\nAntony-Faufel, Carl, Bereiter. Rheingasse 2.\nArber-Thut, Jakob, Posamenter. Greisengasse 32.\nArles, Alphons, Seidenhändler. St. Peters-Gasse 7.\n— Gustav, Seidenhändler. St. Peters-Gasse 7.\nArnold, Alb., Seidenfärbegeselle. Rebgasse 22.\n— Carl, Telegraphist. Kirchgasse 13.\n— Dorothea Elisabeth, Taglöhnerin. Rheingasse 24.\n— =Ernst, Jakob, Magazinknecht. Sternengässlein 1.\n— =Waldschmidt, Wilh., Professior. Missionsstraße 54.\n— =Zurfluh, Balthasar, Seidenfärbegeselle. Utengasse 56.\nAsch, Joh. Carl, Commis. Rheinsprung 14.\n— =Maag, Conrad, Fabrikarbeiter. Rheinsprung 14.\nAsmus-Kaufmann, Friedrich, Zimmerparlier. Webergasse 36.\nAssal-Lang, Mb. Barbara, Taglöhnerin. St. Leonhards-Berg 10.\n— =Stocker, Jakob, Bäcker. Rheingasse 3.\nAuberlen-Menzel, Carl, Prof. d. Theol. St. Peters-Graben 35.\nAubry-Richenaud, Nicol. Constant, Schleifer. Rheingasse 25.\nAuer-Kiefer, Carl, Seidenfärbcr. Sattelgasse 11.\n— =Schlegel, C. Jaf., Spezirer. Utengasse 39.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9345,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3686,
+    "lines": 75,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:02:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p319",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p319.jpg",
+      "bytes": 1458247,
+      "sha256": "85054dc933754cf5bea402d917669ec59b2f73059435270b19c2047050cd0a65",
+      "sha256_of": "original",
+      "working_copy": "1862_p319.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:32+00:00"
+  }
+}

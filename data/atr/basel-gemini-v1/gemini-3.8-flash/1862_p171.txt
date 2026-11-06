@@ -1,0 +1,50 @@
+106 | St. Peters-Berg.
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+6 | I. | 150 | zum Lützelstein. | Knopf-Gaß, Friedrich.
+  Knopf-Gaß, Friedrich, Wirth.
+  Haas, Hieronimus Rudolf, Dessinateur.
+  Siehe Nr. 20 Schwanengasse.
+7 | I. | 177 | z. blauen Stern. | Probst-Wyß, Stephan.
+  Probst-Wyß, Stephan, Wirth.
+  Dubois-Sinninger, Rud., Lohnbedienter.
+8 | I. | 149 A | | Biblinger, Maria.
+  Fischbacher-Senn, Georg, Wirth.
+  Siehe Nr. 18 Schwanengasse.
+9 | I. | 178 | | Beck-Caspar, Christof.
+  Beck-Caspar, Christof, Stadttambour.
+  Beck-Caspar, Anna, Mägdeverdingerin.
+  Beck, Joh. Friedrich, Commis.
+  Guggenbühl-Schweizer, Heinr., Schuhm.
+10 | I. | 149 | | Linder-Stehlin, Jacob Ludwig.
+  Siehe Nr. 16 Schwanengasse.
+11 | I. | 179 | z. rothen Schwert. | Tschudy-Wanner, Wb. Anna.
+  Tschudy-Wanner, Wb. Anna, Glätterin.
+  Weber-Heß, Wb. Susanna Catharina,
+  Krankenwärterin.
+  Kupferschmied-Tschudin, Lucas, Schlosser.
+12 | I. | 148 | | Portmann-Thoma, Jacob.
+  Siehe Nr. 14 Schwanengasse.
+13 | I. | 180 | z. rothen Waage. | Frey-Laudier, Jeremias.
+  Frey-Laudier, Jeremias, Knopfmacher
+  und Weinsticher.
+14 | I. | 146 | | Siegmund-Bloch, Benjamin.
+  Siehe Nr. 14 Schwanengasse.
+15 | I. | 183 | z. kleinen Schwib-bogen. | Weilemann-Bertsche, Wb. Catharina und Kinder.
+  Weilemann, August, Fabrikarbeiter.
+  Fellmann-Weilemann, Ludw., Schreiner.
+16 | I. | 145 | zur Barbe. | Sutter-Hänggi, Gregor.
+  Siehe Nr. 10 Schwanengasse.
+17 | I. | 185 | zum Merz. | Sandmeyer-Seiler, Wb. Friederika.
+  Sandmeyer-Seiler, Wb. Friederika, Näth.
+19 | I. | 186 | zur Meerkatze. | Breitenstein, Ambrosius, sel. Erben.
+  Breitenstein-Koch, Joh., Wirth.
+20 | I. | 143 | | Eingang zu Nr. 6 Schwanengasse.
+21 | I. | 189 | zur Weidenruthe. | Wenzinger-Suter, Johann.
+  Wenzinger-Suter, Joh., Spezierer.
+  Frey-Ferrard, Eduard, Commis.
+  Wittmer-Mazinger, Franz, Schriftsetzer.
+22 | I. | 200 | | Kündig-Stämpfli, Wb. Johanna.
+  Kündig-Stämpfli, Wb. Johanna, Part.
+  Büchi-Locher, Felix, Commis.
+23 | I. | 190 | zum Schönenberg. | Eckert-Fäsch, Joseph.
+  Eckert-Fäsch, Joseph, Prof. d. Mathem.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p185",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p185.jpg",
+    "bytes": 1267327,
+    "sha256": "5c64cebc807f2178fb92806466faca39d41c5d81dba64781b97fc275bfed859a",
+    "sha256_of": "original",
+    "working_copy": "1862_p185.jpg"
+  },
+  "text": "120 Kümelinsplatz. — Sattelgasse.\nRené\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n3 VI. 620 Mäder=Weber, Wb. Anna Maria.\nMäder=Weber, Wb. Anna Maria, Spe-\nzerei handlung.\nHänches=Staub, Jacob, Schneider.\n4 VI. 1688 3. weissen Haus. Frey=Grieder, Johann Elias.\nFrey=Grieder, Joh. Elias, Fabrikarb.\nGrieder, Balth. Conrad, Schneider.\nKraus=Faller, Bernhard, Stuhlschrein.\n5 VI. 619 zum Cambrinus. Paravicini=DeBary, Fritz.\nParavicini=DeBary, Fritz, Bierbrauer.\n6 VI. 1687 Zunft 3. Schmieden. Corporationsgut.\nAllgemeines Arbeiterkosthaus.\nWeiß=Müller, Wb. Urjula, Abwart.\n7 VI. 618 zum Rosenfeld. Grüninger=Dehninger, Rudolf.\nGrüninger=Dehninger, Rud., Küfer.\n8 VI. 1686 zum Wändlein. Scheidecker, Georg u. Carl.\nGakmann=Schwarz, Heinr., Commis.\n9 VI. 617 Kramer=Schmid, Johannes.\nKramer=Schmid, Joh., Schuhmacher.\n11 VI. 616 zum Karspach. Stoecklin=Baumgartner, J. Ulrich.\nStoecklin=Baumgartner, Joh. Ulrich,\nZettlermeister.\nStoecklin'che Kleinkinderschule.\nStoecklin, Jonathan, Klaviermacher.\n13 VI. 615 zum Zeisig. Müller=Nußbaum, Joh. Em.\nMüller=Nußbaum, Joh. Em., Kübler.\n15 VI. 614 Neidhaar=Barth, Leonz.\nCroufaz=Kroelich, Jacob, Maler.\nRieder=Restli, Martin, Spezierer.\n17 VI. 613 Schneider=Schlaefly, Franz.\nSchneider=Schlaefly, Franz, Lohnkutscher.\nSattelgasse.\n1 VI. 1736 Maring=DeBary, Joh. Jak.\nMaring=DeBary, Joh. Jak., Kanzleisee.\nMaring, Geschwister, Merceriehandlung.\nEmmel=Hof, Josef, Seckler.\n3 VI. 1737 zum Rechen. Hauser=Georg, Jakob Friedrich.\nHauser=Georg, Jak. Friedr., Wirth.\n4 VI. 1573 zum Schildck. Burckhardt=Pfunder, Sebastian.\nBurckhardt=Pfunder, Sebast., Wirth.\n5 VI. 1738 zum Regenbogen. Landerer, Niklaus, sel. Erben.\nVog=Landerer, Jak. Christian, Schneider.\n6 VI. 1572 zum schwarz. Hahn\nu. Sevenbaum. Best=Gengenbach, Wb. Helena.\nBest=Gengenbach, Wb. Helena, Part.\nTaschetta, Giovanni, Glaser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5462,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1874,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p185",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p185.jpg",
+      "bytes": 1267327,
+      "sha256": "5c64cebc807f2178fb92806466faca39d41c5d81dba64781b97fc275bfed859a",
+      "sha256_of": "original",
+      "working_copy": "1862_p185.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:34+00:00"
+  }
+}

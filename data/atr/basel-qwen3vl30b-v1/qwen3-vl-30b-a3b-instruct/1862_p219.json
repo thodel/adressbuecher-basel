@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p219",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p219.jpg",
+    "bytes": 1307034,
+    "sha256": "45c962e4b71cf723b9084cff62985ea64536a8cd8a6080deb8dff93f05439e95",
+    "sha256_of": "original",
+    "working_copy": "1862_p219.jpg"
+  },
+  "text": "154\nSteinenvorstadt.\nNene\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n39 III. 810 …………………… Groskmann=Byland, Conrad.\nGroskmannByland, Conrad, Käsehändl.\nFäsch, Maria Salomea, Rentiere.\n40 III. 785 …………………… Binkert=Studer, Aloys.\nBinkert-Studer, Aloys, Kutscher.\n41 III. 809 z. schwarzen Adler. Schenkel=Stöcklin, Samuel.\n42 III. 786 z. rothen Dechßlein. Garnjobst=Haga, Joh. Ulrich.\nGarnjobst-Haga, Joh. Ulrich, Briefträg.\nSchenkel=Stöcklin, Samuel, Beamter\nam Niederlagshaus.\n43 III. 808 …………………… Schenkel=Stöcklin, Samuel, Beamt\nam Niederlagshaus.\n44 III. 787 …………………… Genger, Rudolf.\nGenger, Rudolf, Schloffer.\n45 III. 807 auf d. Steinenbruck. Plattner=Mory, Wb. Elisabeth.\nPlattner-Mory, Wb. Elisabeth, Part.\nLehr=Spec, Joh. Jacob.\nLehr=Spec, Joh. Jacob, Schloffer.\n46 III. 788 …………………… Hof=Sarafin, Johannes.\nHof=Sarafin, Johannes, Weinhändler.\nAbt=Tschopp, Jacob, Holzhändler.\nBogt=Falkner, Louis, Commis.\n47 III. 806 z. hintern Seidenhof. Grimm=Schuler, Eduard.\nGrimm=Schuler, Eduard, Parquetier.\nKöstlin=Krebser, Jacob Rudolf, Commis.\n48 III. 789 …………………… Henz=Bürgin, Wb. Margaretha.\nHenz=Bürgin, Wb. Margaretha, Spezier.\nSchöck, Susanna, Particular.\n49 III. 805 …………………… Gakler=Weber, Joseph.\nGakler=Weber, Joseph, Schreiner.\nVolz=Manz, Joh. Jacob, Schmied.\n50 III. 790 …………………… Gyfin=Vögtlin, Friedrich.\nGyfin=Vögtlin, Friedrich, Bäcker.\nFricke=Giedemann, Emanuel, Musiker.\n51 III. 804 z. vord. Seidenhof. Brodmann=Lang, Peter.\nBrodmann=Lang, Peter, Zimmerparlier.\nSpringer=Merz, Julius, Musiker.\nJäggi, Johannes, Uhrmacher.\n52 III. 790 A …………………… Burckhardt=Iffelin, Carl, und Burck-\nhardt, Albert.\nWirz=Meyer, Wb. Anna Margaretha,\nPartikularin.\nWirz, Hermann Adolf, Kaufmann.\n53 III. 803 zum St. Gallen. Meyer=Füllemann, Dietrich.\nMeyer=Füllemann, Dietrich, Stuhl-\nschreiner.\nMüller=Petent, Johannes, Commis.\nBureau v. Forcart=Hoffmann sel. Erben.\n54 III. 790 B zum Feigenbaum. Kunz=Meyer, Rudolf.\nKunz=Meyer, Rudolf, Maler.\n56 III. 791 ……………………",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5825,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2007,
+    "lines": 62,
+    "longest_char_run": 8,
+    "repeat_ratio": 0.0161,
+    "mean_line_chars": 31.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p219",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p219.jpg",
+      "bytes": 1307034,
+      "sha256": "45c962e4b71cf723b9084cff62985ea64536a8cd8a6080deb8dff93f05439e95",
+      "sha256_of": "original",
+      "working_copy": "1862_p219.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:55+00:00"
+  }
+}

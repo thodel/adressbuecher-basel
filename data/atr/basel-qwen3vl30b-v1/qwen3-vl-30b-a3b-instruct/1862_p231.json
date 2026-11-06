@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p231",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p231.jpg",
+    "bytes": 1287864,
+    "sha256": "fa7aef250e2485d96fec72582026a260272127f9e2d3ec833109e28edad8b032",
+    "sha256_of": "original",
+    "working_copy": "1862_p231.jpg"
+  },
+  "text": "166 Bahnhofstraße. Hintere Bahnhofstr. St. Blasien-Mingweg.\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n49 VII. 66 A\nMerian-Legrand, Peter., sel. Erben.\n65 VII. 67 A\nEurich-Scholer, Jac. Friedrich.\nEurich-Scholer, Jac. Friedr., Wein-\nhändler.\n67 VII. 67\nJenni-Kellerhals, Martin.\nJenni-Kellerhals, Martin, Zollbeamter.\nHintere Bahnhofstraße.\n3 VII. 74 A u\nGroßh. bad. Eisenbahnverwaltung.\n4 VII. 74 A s\nGasometer.\nStadtgemeinde.\n5 VII. 74 A q\nGroßh. bad. Eisenbahnverwaltung.\n7 VII. 75 a\nz. alten Bleiche.\nRyhiner-Bischoff, Julius.\n8 VII. 75\nz. alten Bleiche.\nRyhiner-Bischoff, Julius.\nRyhiner, Julius u. Comp., Seiden-\nzwirnerei.\n12 VII. 75\nGroßh. bad. Eisenbahnverwaltung.\n15 VII. 74 A m n\nAbt-Wenk, Carl.\n16 VII. 76 A\nAbt-Wenk, Carl, Wirth.\nZeller, Anton, Grenzaufseher.\nPrinz, Friedrich, Revisor.\nGroßh. bad. Eisenbahnverwaltung.\n17 VII. 74 A o p\n\"\n\"\n19 VII. 74 A l\n\"\n\"\n21 VII. 74 A k\n\"\n\"\n40 VII. 77 A\nRitter, Joh. Baptist.\nRitter, Joh. Baptist, Zimmermeister.\nSchmieder, Fried., Eisenbahnwerkführer.\n48 VII. 77 F\nThalmann, Niklaus.\nThalmann, Niklaus, Fabrikangestellter.\n50 VII. 77 G\nThalmann, Josef, Gärtner.\nGlanzmann, Johs., Gärtner.\nScheffmacher-Schäfer, Johs., Schuhm.\nEberle, Benedikt, Holzhändler.\n90 VII. 77 K\nBlind-Schaub, Georg Michael.\n92 VII. 77 L\nBlind-Schaub, Georg Michael.\nBleicheweg.\n4 VII. 75 f\nRyhiner-Bischoff, Julius.\n12 VII. 76 c u. d.\nStöhr, Elisabeth.\nFritz-Stöhr, Paul, Landmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4721,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1463,
+    "lines": 75,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.16,
+    "mean_line_chars": 18.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p231",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p231.jpg",
+      "bytes": 1287864,
+      "sha256": "fa7aef250e2485d96fec72582026a260272127f9e2d3ec833109e28edad8b032",
+      "sha256_of": "original",
+      "working_copy": "1862_p231.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:00+00:00"
+  }
+}

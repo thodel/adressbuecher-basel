@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p281",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p281.jpg",
+    "bytes": 1488480,
+    "sha256": "0c4de3b9e88a42f6e74a591619e7b95007f774b4608d013388f4a1eec7618b54",
+    "sha256_of": "original",
+    "working_copy": "1862_p281.jpg"
+  },
+  "text": "216 Verzeichniß der Häuser nach ihren Benennungen.\n\nHülningen, z. kleinen. Blumenrain Nr. 17 u. 19.\nHütter, z. hintern. Hutgasse Nr. 18.\nHungerstein, z. Münzgäßlein Nr. 24.\nHut, z. Pfluggäßlein Nr. 7.\nHut, z. rothen. Platzgäßlein Nr. 9.\nHut, z. rothen. Spalenvorstadt Nr. 34.\nHut, z. rothen, und z. schönen Vieh. Pflug-\n  gäßlein Nr. 16.\nHutten, z. Gerbergasse Nr. 46.\nJacob, St. z. Freie Straße Nr. 79.\nJacob, z. schlafenden. Steinenvorstadt Nr. 26.\nJäger, z. obern. Todtengäßlein Nr. 9 u. 11.\nJagdberg, z. Webergasse Nr. 27.\nJakobskeller, z. Freie Straße Nr. 70.\nIgel, z. Freie Straße Nr. 57.\nIgelberg, z. Gerbergasse Nr. 62.\nImber, z. St. Andreasplatz Nr. 10.\nImber, z. St. Andreasplatz Nr. 11.\nImber, z. St. Andreasplatz Nr. 12.\nImber, z. Imbergäßlein Nr. 30.\nSt. Johannes, z. Bäumleingasse Nr. 9.\nSt. Johann, z. Eisengasse Nr. 15.\nSt. Johann, Hinterhaus z. St. Martins-\n  kirchplatz Nr. 13.\nSt. Johanniterhaus. St. Johann-Vorstadt\n  Nr. 84.\nSt. Johannscapelle. Münsterplatz Nr. 2.\nSt. Johannscapelle. Münsterplatz Nr. 3.\nSt. Johannthor. St. Johann-Vorstadt Nr. 81.\nSt. Johann-Schwibbogen. Blumenrain Nr. 29.\nIrrgarten, z. St. Johann-Vorstadt Nr. 45.\nJudenschule. Grünpfahlgäßlein Nr. 1.\nJustitia, z. Rheingasse Nr. 10.\nKämmerlein, z. St. Petersplatz Nr. 15.\nKämpfer, z. St. Petersberg Nr. 28.\nKämpfer, z. Freie Straße Nr. 69.\nKänel, z. Barfüßerplatz Nr. 23.\nKänel, z. obern. St. Leonhardsberg Nr. 1.\nKaiser, z. Nadelberg Nr. 18.\nKaiser, z. St. Petersgraben Nr. 49.\nKaisersberg, z. Webergasse Nr. 38.\nKaisersberg, z. Spalenberg Nr. 63.\nKaiserberg, z. Untere Rebgasse Nr. 14.\nKaiserschwert, z. Spalenberg Nr. 43.\nKaiserstuhl, z. Rheingasse Nr. 23.\nKaiserstuhl, z. hintern. Utengasse Nr. 22.\nKaltbadeanstalt. Rappoltshof Nr. 16.\nKameel, z. Bäumleingasse Nr. 1.\nKammradmühle. Webergasse Nr. 21.\nKammradmühle, Stallung z., Webergasse Nr. 18.\nKanne, Gasthof z. Spalenvorstadt Nr. 5.\nKanne, z. schwarzen. Lindenberg Nr. 13.\nKannenbaum, z. Schwanengasse Nr. 11.\nKannenbaum, z. Fischmarkt Nr. 15.\nKapelle. St. Johann-Vorstadt Nr. 73.\nKapelle. St. Elisabethenstraße Nr. 55.\nKapelle. St. Theodorskirchplatz Nr. 6.\nKapelle, z. Rittergasse Nr. 29.\nKarreneck, z. Ochsengasse Nr. 18.\nKarspach, z. Rümmelinsplatz Nr. 11.\n[spalte 2]\nKarthausecke. Riehenthorstraße Nr. 12.\nKarthauseckstall. Karthausgäßlein Nr. 4.\nKaufhaus. Steinenberg Nr. 8.\nKaufhaus. Steinenberg Nr. 10.\nKaufhaus. Steinenberg Nr. 12.\nKaufhaus, z. neuen. Barfüßerplatz Nr. 8.\nKauz, z. Eisengasse Nr. 7.\nKeller, z. liechten. Spalenberg Nr. 19.\nKeller, z. neuen, Spalenapotheke. Spalen-\n  berg Nr. 23.\nKeller, z. neuen. Weiße Gasse Nr. 3.\nKeller, z. schönen. St. Peterskirchplatz Nr. 1.\nKeller, z. schönen. Ochsengasse Nr. 4.\nKellerladen, z. Heuberg Nr. 13.\nKernenbrod, z. Spalenberg Nr. 28.\nKerze, z. Gerbergasse Nr. 77.\nKerzen, z. graden. Schnabelgäßlein Nr. 15.\nKestlach, z. untern. St. Andreasplatz Nr. 2.\nKestlach, z. untern. Schneidergasse Nr. 20.\nKestlach, z. hintern. Brunngäßlein Nr. 6. 8.\nKettenhof. Freie Straße Nr. 115.\nKettenhof, z. Freie Straße Nr. 113.\nKiel, z. Rebgasse Nr. 4.\nKienberg, z. Barfüßerplatz Nr. 12.\nKienberg, z. kleinen. Barfüßerplatz Nr. 13.\nKilchberg, z. Greifengasse Nr. 14.\nKilchmann, z. mittlern. Rheingasse Nr. 7.\nKilchmann, z. obern. Rheingasse Nr. 9.\nKinderspital. Burgweg Nr. 22.\nKirche, z. Steinenvorstadt Nr. 3.\nKirche, z. Steinenvorstadt Nr. 11.\nKirche. St. Jacob Nr. 2.\nKirche, französische. Todtentanz Nr. 19.\nKirche, neue. St. Elisabethenstraße Nr. 14.\nKirschgarten, Hinterhaus z. kleinen. Imber-\n  gäßlein Nr. 15.\nKirschgarten, z. kleinen. Spalenberg Nr. 4.\nKirschgarten, d. kleine. St. Elisabethenstraße\n  Nr. 29.\nKirschgarten, z. vorderen. St. Elisabethen-\n  straße Nr. 27.\nKlauen, zu d. drei. Kronengäßlein Nr. 10.\nKlause, z. St. Leonhardsstapfelberg Nr. 2.\nKlingenthal, klein. Klingenthal Nr. 20.\nKlingenthalkirche. Klingenthal Nr. 16.\nKlingenthalmühle, hintere. Klingenthal Nr. 3.\nKlingenthalmühle, hintere. Klingenthal Nr. 5.\nKlingenthalmühle, vordere. Klingenthal Nr. 7.\nKlösterlein, z. St. Alban-Vorstadt Nr. 56.\nKlösterlein, z. St. Johann-Vorstadt Nr. 35.\nKlösterlein, z. Rebgasse Nr. 20.\nKlösterlein, z. vorderen. St. Alban-Vorstadt\n  Nr. 88.\nKlösterli, z. Riehenthorstraße Nr. 29.\nKlybeckschlößli, z. Klybeckstraße Nr. 111.\nKnaben-Gemeindeschulhaus. Nadelberg Nr. 2.\nKnabenschulhaus von St. Leonhard. Kano-\n  nengasse Nr. 1.\nKnabenschule. Luftgäßlein Nr. 5.\nKnabenschule zu St. Theodor. Kirchgasse Nr. 8.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 15292,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4413,
+    "lines": 122,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:08:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p281",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p281.jpg",
+      "bytes": 1488480,
+      "sha256": "0c4de3b9e88a42f6e74a591619e7b95007f774b4608d013388f4a1eec7618b54",
+      "sha256_of": "original",
+      "working_copy": "1862_p281.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:25+00:00"
+  }
+}

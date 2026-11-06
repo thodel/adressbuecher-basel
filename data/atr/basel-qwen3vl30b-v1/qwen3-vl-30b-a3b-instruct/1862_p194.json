@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p194",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p194.jpg",
+    "bytes": 1412750,
+    "sha256": "ac43c7bf112d292092df7e4bc2efe99dda97b8d49724f74cbaf770a1f9b8893c",
+    "sha256_of": "original",
+    "working_copy": "1862_p194.jpg"
+  },
+  "text": "Schüzenmattstraße.                                                                 129\nNrn.     Quars.    Alte       Name des Hauses.      Namen der Hauseigenthümer\nHaus-Nr.  tier.    Haus-Kro.                           und Bewohner.\n           II.      343\n9          II.      329 A\n10         II.      342\n11         II.      329—330\n12         II.      340—341\n13         II.      331\n14         II.      339\n15         II.      332\n16         II.      338\n17         II.      331 C\n18         II.      337 a\n19         II.      333\n20         II.      337\n21         II.      334\n22         II.      336\n23         II.      335\n24         III.     145\n25\nSchilling, Abraham.\nStallung, Remise u. Magazin.\nHenz-Riefer, Georg Emanuel.\nHenz-Riefer, Georg Eml., Schriftsetzer.\nKupper, J., Chef d. eidg. Grenzdienstes.\nDetiker-Rosin, Jac., Spezerei-handlung.\nRumpf-Schellenberg, Carl Christian.\nRumpf-Schellenberg, Carl Christian,\nKreppstofffabrikant.\nHenz-Boehning, Georg.\nHenz-Boehning, Georg, Part.\nHofmann-Rebmann, Joh. Jak., Schrein.\nBrucker-Leopold, Frieor., Fuhrhalter.\nBirrer-Staehle, Alois, Fuhrhalter.\nBernoulli, Niclaus de Hier. u. Sohn.\nMagazin.\nSchmid-Faesch, Jakob Christof.\nSchmid-Faesch, Jak. Christof, Weinhndlg.\nKlaiber, Ludw. u. Comp., Agentur.\nBrändli-Faesch, Joh. Jak., Postbeamter.\nSirt, Joh. Jac., Maler.\nBarth-Gysin, Mathias.\nBarth-Gysin, Mathias, Nagelschmied.\nKilp-Sulger, Johann, Gaskontroleur.\nBarth-Walz, Gottfried, Rentier.\nStehelin, Gottfried.\nMagazin.\nStehelin, Adolf.\nKaufmann-Kleinwitz, Friedr., Schreiner.\nSchmid-Faesch, Jak. Christof.\nMagazin.\nMadeur u. Wohlich.\nMagazin.\nZaeslin-Streckeisen, Joh., sel. Erb.\nComptoir von Zaeslin, Joh., Spediteur\nu. Commission.\nHuber-Streckeisen, Joh. Jak., Missionar.\nBernoulli, Nicl. de Hier. u. Sohn.\nMagazin.\nStehelin, Gottfried.\nMagazin.\nBernoulli, Nicl. de Hier. u. Sohn.\nStallung u. Scheune.\nMadeur, Johannes.\nMadeur, Johannes, Kaufmann.\nComptoir v. Madeur u. Wohlich,\nSpeditions- u. Commissionsgeschäft.\nAmans-Madeur, Oscar. Const., Kaufm.\nWerenfels-Bloch, Franz.\nWerenfels-Bloch, Franz, Wirth.\nMostacker.\n9",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5586,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2083,
+    "lines": 73,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0959,
+    "mean_line_chars": 27.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p194",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p194.jpg",
+      "bytes": 1412750,
+      "sha256": "ac43c7bf112d292092df7e4bc2efe99dda97b8d49724f74cbaf770a1f9b8893c",
+      "sha256_of": "original",
+      "working_copy": "1862_p194.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:26+00:00"
+  }
+}

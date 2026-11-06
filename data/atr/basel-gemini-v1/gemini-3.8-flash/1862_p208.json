@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p208",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p208.jpg",
+    "bytes": 1440664,
+    "sha256": "928841bbfddc444f4ca40e2666d2a62ce05a2e30ef7f18a65bd42ee469fb74d8",
+    "sha256_of": "original",
+    "working_copy": "1862_p208.jpg"
+  },
+  "text": "Spitalstraße. — Sporengasse. 143\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n34 | I. | 29 h | | Delhafen-Dreyer, Samuel Jak.\n  Siehe Nr. 37 St. Johann-Vorstadt.\n40 | I. | 275 P | | Zäslin-Müller, Theodor.\n  Thierry, J., Tabak- und Cigarrenfab.\n\nSporengasse.\n1 | VI. | 1600 | zur gold. Münze. | Bernoulli-Bär, Leonhard.\n  Bernoulli-Bär, Leonhard, Kaufmann.\n  Bernoulli, Johannes, Sohn, Kaufmann.\n  Bernoulli, Wilhelm Leonhard, Sohn,\n  Kaufmann.\n  Firma: Leonhard Bernoulli, Droguerie-\n  und Materialwaarenhandlung.\n2 | VI. | 1582 | zum Kranich. | Dénéréaz-Wertenberg, Wb. Soph.\n  Dénéréaz-Wertenberg, Wb. Soph., Part.\n  Uhlmann-Glock, Georg, Kaufmann.\n  Bureau von J. Wild, Commissionär.\n3 | VI. | 1601 | zum rothen Haus. | Pfisterer-Salathe, Heinrich Rudolf.\n  Pfisterer-Salathe, Heinrich Rudolf, Pelz-\n  handlung.\n4 | VI. | 1581 | zum mittlern Laden. | Sehringer-Bonnet, Joh. Georg.\n  Sehringer-Bonnet, Joh. Georg, Kfm.\n  Trüdinger-Sehringer, Joh. Georg, Kfm.\n5 | VI. | 1602 | zum Lämmlein. | Sutter-Baumgartner, Jacob.\n  Sutter-Baumgartner, Jacob, Sattler\n  und Lederhändler.\n  Otter-Glor, Urs Josef, Sattler.\n  Wüst-Vonbrunn, Heinr. Leonz., Käshdlg.\n  Schaffner, Joh. Jacob, Cigarren- und\n  Tabakhandlung.\n6 | VI. | 1580 | zum Leopard. | Binz-Heuser, Emil.\n  Binz-Heuser, Emil, Kaufmann.\n  Binz u. Comp., Band- u. Modewaaren.\n7 | VI. | 1603 | zum Agtstein. | Paravicini, Leonhard.\n  Eisenhandlung.\n8 | VI. | 1579 | zum Affen. | Schneider-Lindenmeyer, Eduard.\n  Schneider-Lindenmeyer, Eduard, Quin-\n  caillerie-, Spielwaaren-, Blumen-\n  und Strohhuthandlung.\n9 | VI. | 1607 | zum Arm. | Riggenbach-Burckhardt, Franz.\n  Riggenbach-Burckhardt, Franz, Kaufm.\n  Firma: Riggenbach Wb., Handlung in\n  Colonialwaaren.\n10 | VI. | 1578 | Zunft zu Metzgern. | Corporationsgut.\n  Pfannenschmidt-Gunzenhauser, Lucas,\n  Wirth und Abwart.\n12 | VI. | 1578 | | Stadtgemeinde.\n  Metzge.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8364,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1933,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:56:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p208",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p208.jpg",
+      "bytes": 1440664,
+      "sha256": "928841bbfddc444f4ca40e2666d2a62ce05a2e30ef7f18a65bd42ee469fb74d8",
+      "sha256_of": "original",
+      "working_copy": "1862_p208.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:58+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p135",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p135.jpg",
+    "bytes": 1347421,
+    "sha256": "2a1fde8fb31e33c9195681be6ecc21d99b18b8fd239c56d866e9d88819334f17",
+    "sha256_of": "original",
+    "working_copy": "1862_p135.jpg"
+  },
+  "text": "70 | St. Johann-Vorstadt.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n3 | I. | 67 | zum Reinacherhof. | Burckhardt-Wick, Ludw. August.\n  Burckhardt-Wick, Ludw. Aug., J. U. D.\n  Burckhardt, Henriette, Particular.\n4 | I. | 72 | zum Bockstecherhof. | Roth-Weiß, Wernhard u. Sohn.\n  Roth-Weiß, Wernhard und Sohn, Schuhmacher.\n5 | I. | 64 B | zum mittlern Ulm. | Kern-Ryhiner, August.\n  Kern-Ryhiner, August, Bandfabrikant.\n  Ryhiner-Bischoff, Samuel, Rentier.\n  Kern-Werthemann, Eduard, Bandfabr.\n6 | I. | 70 | | Iselin-de Bary, Rudolf.\n  Iselin-de Bary, Rudolf, Particular.\n  Iselin, Rudolf de Rudolf, Part.\n7 | I. | 64 A | zum mittlern Ulm. | LaRoche-Gemuseus, Carl.\n  LaRoche-Gemuseus, Carl, Gutsbesitzer.\n8 | I. | 69 | | Scholp-Schaffner, Rudolf.\n  Scholp-Schaffner, Rudolf, Kaufmann.\n  Hürlemann, Wittwe, Rosina, Part.\n  Hürlemann, David, Commis.\n9 | I. | 63 | | Maeglin, Benedikt de Anton.\n  Maeglin, Benedikt de Anton, Kfm.\n10 | I. | 68 | | Müller-Hauser, Joh. Jacob.\n11 | I. | 62 | zur Schäferei. | Riggenbach, Fried. Wilhelm.\n  Riggenbach, Fried. Wilh., Bäcker.\n  Meilin-Riggenbach, Rud., Bildhauer.\n12 | I. | 65 | | Müller-Hauser, Joh. Jakob.\n13 | I. | 59 | zum Wildenstein. | Schoop-Lehr, Leonhard Carl.\n  Schoop-Lehr, Leonh. Carl, Ferger.\n  Kaufmann, Gottlieb Sam., Schlosser.\n14 | I. | 61 | | Müller-Hauser, Joh. Jacob.\n  Müller-Hauser, Joh. Jac., Seidenfärber.\n  Müller, Joh. Jac., Sohn, Seidenf.\n15 | I. | 58 | | Dietschy-Lichtenhahn, Joh.\n  Couleru-Duvernoy, Civil-Ingenieur.\n  Siegfried u. Comp., Band- u. Seidenhd.\n16 | I. | 60 | zur leeren Flasche. | Basler-Bernoulli, Wb. Anna Cath.\n  Basler-Bernoulli, Wb. A. Cath., Part.\n17 | I. | 53 | Erlacherhof. | Burckhardt-Preiswerk, Wilhelm.\n  Comptoir u. Bandfabrik von Lucas Preiswerk.\n  Dietschy-Burckhardt, Joh. Jac., Bandfab.\n18 | I. | 56-57 | zur Meise. | Jenny-Gattinger, Friedrich.\n  Jenny-Gattinger, Fried., Dessinateur.\n  Winkler-Kähni, Jakob, Spezierer.\n  Friedli-Fleury, Eman., Eisenbahnbeamt.\n19 | I. | 50 | | Dietschy-Lichtenhahn, Joh. Jac.\n  Dietschy-Lichtenhahn, J. J., Bandfabr.\n  Dietschy, Wilhelm, Bandfabrikant.\n  Lichtenhahn, Hans Rud., Bandfabrik.\n  Firma Hans Balth. Burckhardt u. Sohn.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9745,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2230,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.34,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:45:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p135",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p135.jpg",
+      "bytes": 1347421,
+      "sha256": "2a1fde8fb31e33c9195681be6ecc21d99b18b8fd239c56d866e9d88819334f17",
+      "sha256_of": "original",
+      "working_copy": "1862_p135.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:29+00:00"
+  }
+}

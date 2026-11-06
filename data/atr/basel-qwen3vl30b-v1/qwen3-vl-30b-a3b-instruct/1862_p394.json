@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p394",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p394.jpg",
+    "bytes": 1571356,
+    "sha256": "ebfc779e4a23cedd5dc41e1fd954d57bad254c846d65213154c175db27bc405c",
+    "sha256_of": "original",
+    "working_copy": "1862_p394.jpg"
+  },
+  "text": "Verzeichniss der Bürger und Einwohner. 329\nKiefen, Wilh., Uhrmacher. Freie Straße 32. Kinf, Wilh., Apotheker. Spalenberg 23.\nKiefer=Jörin, Math., Part. St. Leonhards=Kingele=Pfister, Franz Xaver, Taglöhner.\nBerg 10. Spiegelgasse 14.\nKieffer=Jöry, Math., Posamenter. Barfüsser=— =Reig, Augustin, Kartoffel- und Obst-\nplatz 22. händler. Rebgasse 33.\nKiefterer, Agnes, Schneiderin. Webergasse 7. Ringwald=Bölger, Christian, Kaufmann. St.\n— =Bader, Conrad, Zimmerparlier. Im Alban=Vorstadt 108.\nDavidshoden 1. Kinf=Rohner, Wilh., Schreiner. Bahnhof-\n— =Zenter, Ferd., Rutscher. Unterer Heu- straße 31.\nberg 23. Kifer, Caspar, Hafner. Gerbergasse 1.\n— =Streulin, Ludwig, Lohndiener. Keller=Kitter=Bräuning, Joh. Jac., Metzger. Streit-\ngäßlein 5. gasse 13.\n— =Vizellio, Ulrich, Packer. Reb-gasse 50. — =Fischer, S. S., Metzger. St. Alban=\nKietzchi=Habegger, Joh., Siegrift. St. Ja- Vorstadt 50.\nfob 1. — Joh. Bapt., Zimmermeister. Hintere\nKietzchin, Mathias, Posamenter. Pfluggäb- Bahnhofstraße 40.\nlein 8. — =Kohler, Anton, Magazinarbeiter. St.\nKietzchlin=Fichslin, Theophil, Färbergeseße. Leonhards=Graben 18.\nSt. Johann=Vorstadt 62. — =Müller, Sophia, Taglöhnerin. St.Pe-\n— Gottlieb, Taglöhner. Heuberg 50. ters=Platz 10.\nKietzlin=Müller, Conrad, Schreinergeseße. — Rudolf, Gasthofbesitzer. Barfüsserplatz 3.\nHammerstraße 102. Rittmann=Wohlich, Peter, Zahnarzt. St.\nRiffel, Reinhard, Kaufmann. St. Alban= Peters=Gasse 26.\nVorstadt 102. Ritzmann=Follenweider, Beat., Commis. Spa-\nlenberg 52.\nRigaffi, Daniel, Glaser. Streitgasse 12. — =Meyer, Jacob, Fabrikarbeiter. Dchsen-\n— Giovanni, Glaser. Streitgasse 3. gasse 18.\nRiggenbach=Augenstein, Ursula, Klingenthal= Robert=Chevalier, Emil, Wirth u. Eisenbahn-\narbeiterin. St. Peters=Berg 11. beamter. Freie Straße 109.\n— =Burchhardt, Franz, Kaufmann. Spor- — =Coufet, Wilh., Desfinateur. Freie\ngasse 9. Straße 73.\n— =Häring, Carl, Kaufmann. Theater- Robin=Amstler, Peter, Appreteur. Horburg-\nstraße 7. straße 4.\n— Heinrich, Comptoir. Theaterstraße 2. — =Chrétien, August, Appreteur. Hammer-\n— Holzach, Joh., Professör. Steinenthor- straße 11.\nstraße 25. — Chrétien, Etienne, Appreteur. Weber-\n— =Huber, Charlotte. Steinenthorstraße 25. gasse 37.\n— S., Banquier. Freie Straße 113.\n— =Jelín, Albert, Kaufmann. Wall= Roche de, Paul Sam., Chemiker. Reb-gasse 15.\nstraße 16. Roche, Wb. Cathar., Zwirnerin. St. Al-\n— =Rienzy, Johs., Maler. St. Johann= bankirchrain 12.\nVorstadt 51. Rodel=Chyfin, Jacob, Posamenter. Unterer\n— =Meili, Friedr. Wilh., Bäcker. St. Rheinweg 32.\nJohann=Vorstadt 11. Kösch=Etter, Heinr. Cour., Fabrikmeist. Kart-\n— =Koschet, Joh. Rud., Kaufmann. Thea- hausgäßlein 9.\nterstraße 2. Kößler, Margareth, Schneiderin. Rhein-\n— =Stehlin, Friedr., Kaufmann. Freie gasse 62.\nStraße 113. Kößlin=Härrí, Joh. Rudolf, Fabrikarbeiter.\n— =Sulger, Christof, Architekt. Münster- Steinenthorstraße 33.\nplatz 19. — =Krebsjer, Jac. Rud., Commis. Stei-\n— Wb., Filialgeschäft in Spezereiwaaren. nenvorstadt 48.\nSt. Clara=Straße 24. — Rudolf, Ausläufer b. Bancollegium. Stei-\nRigiani, P. R., Chocoladehändler. Freie nenthorstraße 33.\nStraße 84. Kößiger=Grandvaux, Johs. Wilh., Rutscher.\nKilliet=Lairé, Heinr. Ludw., Eisenbahnbeamt. St. Alban=Vorstadt 98.\nRosen Gartenweg 1. Köth=Sulzmann, Heinr., Musterweber. Spa-\nKilling=Bernhard, Conrad, Kostgeber u. Ar- lenvorstadt 34.\nbeiter a. d. Gasfabrik. Elsässer Straße 7. Koethlisperger=Miiller, Friedr., Lehenbeständer.\nRimenperger, Caroline, Spezereihandlung. Kiehen=Straße 76.\nKohlenberg 3. Kognou=Landerer, Eugen, Kaufmann. St.\n— Valentin, Part. Pfluggäßlein 3. Alban=Graben 1.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9329,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3566,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:14:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p394",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p394.jpg",
+      "bytes": 1571356,
+      "sha256": "ebfc779e4a23cedd5dc41e1fd954d57bad254c846d65213154c175db27bc405c",
+      "sha256_of": "original",
+      "working_copy": "1862_p394.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:14:14+00:00"
+  }
+}

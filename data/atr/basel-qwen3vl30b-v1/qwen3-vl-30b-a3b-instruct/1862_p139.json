@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p139",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p139.jpg",
+    "bytes": 1313438,
+    "sha256": "9a14ea2897081d6af36d260851b048c5fea1c544a600003af1890a73be09a6a2",
+    "sha256_of": "original",
+    "working_copy": "1862_p139.jpg"
+  },
+  "text": "74\nSt. Johann-Vorstadt. — Kanonengasse.\nNre\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n--------- | ----- | ---------- | -------------- | -----------------------------\n80 | I. | 5 | | Hindenlang, Carl u. Gottlieb.\n81 | l. | 1 | St. Johannthor. | Staat.\n84 | 1. | 1 E | St. Johanniterhaus | Hübsher-Lichtenhahn, Wilhelm.\n88 | 1. | 1 | | Hegar-Schmidt, Ernst, Clavierhändler.\n| | | | Oswald-Hindermand, Math., Architekt.\n| | | | Hübsher-Lichtenhahn, Wilh., Zimmer-\n| | | | meister.\n| | | | Burckhardt-Roth, Mb. Marg., Part.\n| | | | Burckhardt, Friedrich, Commis.\nKanonengasse.\n1 | lll. | 752 | Knabenschulhaus v. St. Leonhard. | Meyer-Kraus, Benedict, Oberlehrer.\n3 | lll. | 753 | | Boos-Meyer, Heinrich.\n| | | | Bücher-Wagner, Hans, Schuhmacher.\n| | | | Landerer-Brieger, Ludwig, Partikular.\n5 | lll. | 754 J | | Boos-Meyer, Heinrich.\n| | | | Boos-Meyer, Heinrich, Schlosser.\n| | | | Hauser-Bruckner, Emanuel, Commis.\n| | | | Mondet, Johann Baptist, Commis.\n| | | | Möschinger, Heinrich, Mechaniker.\n7 | lll. | 754 K | | Severin-Glunz, Joh. Jakob.\n| | | | Severin-Glunz, Joh. Jakob, Magazinier.\n| | | | Severin, Sam. Fürchtgott, Brieftträger.\n| | | | Meissner-Augsburger, Friedr., Lehrer.\n9 | lll. | 754 L | | Haefliger-Allgayer, Johann.\n| | | | Haefliger-Allgayer, Johann, Steinmeß.\n| | | | Nabholz-Rauchenstein, Leonhard, Kfm.\n| | | | Schmidt-Engressat, Melchior, Schneider\n| | | | u. Fleckenreiniger.\n| | | | Mäglin-Sendramier, Rudolf, Commis.\n11 | lll. | 754 M | | Schaub, Heinrich Georg.\n| | | | Schaub, Heinrich Georg, Möbelfabr.\n| | | | Fitting-Werkel, Hermann, Professor.\n13 | lll. | 754 P | | Bruckner-Merian, Eduard.\n| | | | Bruckner-Merian, Eduard, Baumeister.\n| | | | Gysler-Schardt, Wb. Anna Mar., Part.\n| | | | Linder-Merian, Wb. A. Cath., Part.\n15 | lll. | 754 Q | | Wengen-Müller, Carl.\n| | | | Wengen-Müller, Carl, Commis.\n17 | lll. | 754 N | | Reber-Sulger, Benedict.\n| | | | Reber-Sulger, Benedict, Kaufmann.\n19 | lll. | 754 O | | Reber-Sulger, Balthasar.\n| | | | Reber-Sulger, Balthasar, Professor.\n| | | | Reber, Paul, Ingenieur.\n| | | | Bernoulli-Reber, Joh. Jak., Phil. Dr.\n24 | lll. | | | Balmer u. Kiehm, Buchdruckerei\n| | | | und Verlagsbuchhandlung.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7187,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "repetitive",
+    "chars": 2243,
+    "lines": 55,
+    "longest_char_run": 29,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0129,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p139",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p139.jpg",
+      "bytes": 1313438,
+      "sha256": "9a14ea2897081d6af36d260851b048c5fea1c544a600003af1890a73be09a6a2",
+      "sha256_of": "original",
+      "working_copy": "1862_p139.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:42+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p177",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p177.jpg",
+    "bytes": 1251816,
+    "sha256": "31c4a058b8059290601ab9c97545dc64e80556434635374a37652ed4c8f60473",
+    "sha256_of": "original",
+    "working_copy": "1862_p177.jpg"
+  },
+  "text": "112 St. Peters-Graben. St. Peterskirchplatz. St. Peters-Platz.\nNene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n57 II. 457 ………… Ludwig-Frey, Wb. Anna Elisabeth.\nLudwig-Frey, Wb. Anna Elisabeth, Part.\nElsner-Ludwig, Wb. Julie, Wirth.\nLudwig-Neufomm, Heinrich, Kaufmann.\nNeufomm, Heinrich, Particular.\nSt. Peterskirchplatz.\n1 I. 246 z. schönen Keller. Eglinger, Susanna.\nEglinger, Susanna, Rentiere.\n2 I. 247 altes Schulhaus. Eglinger, Susanna.\nZemp-Haab, Anton, Lithograph.\nFirma: A. Zemp u. Comp.\n3 I. 246 z. schönen Keller. Eglinger, Susanna.\nEgglı, Valeria, Vorgängerin.\nEgglı, Magdalena, Nätherin.\nSiehe Nr. 9 Fischmarkt.\n5 II. 565 zum Stift.\n(Provisorei.)\nStadtgemeinde.\nHübscher-Spahn, Joh. Martin, Lehrer.\n6 II. 566 zur neuen Offen-\nburger Kapelle.\nSocin-LeGrand, Abel.\nSiehe Nr. 27 St. Peters-Graben.\n7 I. St. Peterskirche. Staat.\n8 I. 243 Pfarrhaus. Staat.\nMiville-Miville, Joh. Jacob, Pfarrer.\nMiville, Joh. Rudolf, Kaufmann.\n9 I. 242 Violenhof. Falkner, Wilhelm u. Frau Alioth=\nFalkner.\nFalkner, Wilhelm, Kaufmann.\nEwig, Ludwig u. Maria, Particulare.\n10 I. 241 zum Ulmerhof. Falkner, Wilhelm u. Frau Alioth=\nFalkner.\n12 I. 240 ……………. Frutiger, Joh. Abraham, fel. Erben.\nLiebrich-Frutiger, Rudolf, Flachmaler.\nFrutiger, Heinrich, Ferger.\nWeibel-Gekler, Jacob, Postbeamter.\n13 I. 239 ……………. Enholz-Sandreuter, Carl.\n14 I. 237 ……………. Tschudi-Werlin, Jacob.\nTschudi-Werlin, Jacob, Rathshote.\nSt. Peters-Platz.\n1 II. 276 großes Zeughaus. Staat.\n2 II. 276 Werkhofeinfahrt. Staat.\n3 II. 308 ……………. Bachofen-Fininger, Samuel.\nBachofen-Fininger, Samuel, Mezger u.\neidg. Oberst.\nMüller-Jelın, Georg, Rentier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4945,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1657,
+    "lines": 57,
+    "longest_char_run": 5,
+    "repeat_ratio": 0.0175,
+    "mean_line_chars": 28.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.003,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:44:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p177",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p177.jpg",
+      "bytes": 1251816,
+      "sha256": "31c4a058b8059290601ab9c97545dc64e80556434635374a37652ed4c8f60473",
+      "sha256_of": "original",
+      "working_copy": "1862_p177.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:46+00:00"
+  }
+}

@@ -13,7 +13,8 @@ Hausnummer («754 L») und einen Standort in LV95. Damit:
 Schreibt eine Zeile je Gebäude: building_id, dossier_id, dossier_title, match_method
 (`street_no` exakt, `street_no_multi` Dossier mit mehreren Nummern, `old_no` eindeutig,
 `old_no_multi` mehrere Dossiers mit derselben alten Nummer → Schwerpunkt, `old_no_base`
-Buchstabenzusatz weggelassen → Hauptnummer, Konfidenz `low`), lat, lon (WGS84),
+Buchstabenzusatz weggelassen → Hauptnummer, Konfidenz `low`; `old_no_1862` 1862 über die alte
+Nummer der Tabelle, wenn Strasse + neue Nummer kein Dossier trifft), lat, lon (WGS84),
 e, n (LV95), geo_confidence, check_old_no (1862: stimmt die alte Nummer mit dem HGB überein).
 """
 from __future__ import annotations
@@ -38,12 +39,26 @@ def lv95_to_wgs84(e: float, n: float) -> tuple[float, float]:
 
 
 def norm_street(s: str) -> str:
+    """Schreibvarianten 1862 ↔ heute auf einen Schlüssel: St. weg, th→t (Thal, Thor),
+    y→i (Allschwyler), ß→ss, Genitiv-s vor dem Grundwort weg (Johanns-/Johann-Vorstadt),
+    Bindestriche und Spatien weg, Straße→str, Gässlein→gaessl."""
     s = s.lower().replace("ß", "ss").replace("ä", "ae").replace("ö", "oe").replace("ü", "ue")
-    s = s.replace("strasse", "str").replace("gaesslein", "gaessl").replace("gässlein", "gaessl")
-    s = re.sub(r"\bst\.?\s*", "st", s)
+    s = re.sub(r"\bst\.\s*", "", s)
+    s = re.sub(r"\s*\(.*?\)", "", s)
+    s = s.replace("th", "t").replace("y", "i").replace("ck", "k")
     s = re.sub(r"[^a-z0-9]", "", s)
-    s = re.sub(r"s(?=str|gasse|graben|berg|platz|weg|vorstadt)", "", s)  # Johanns-Vorstadt / Johann-Vorstadt
+    s = s.replace("strasse", "str").replace("gaesslein", "gaessl").replace("gaessli", "gaessl")
+    s = re.sub(r"s(?=str|gasse|gaessl|graben|berg|platz|weg|vorstadt|tal|tor|ring|kirch|teich|rain|rhein|hof)", "", s)
+    s = re.sub(r"^(im|in|inden|inder|bei|beider|beim|an|ander|hinter|hintere|hinterer|vordere|vorderer|untere|unterer|obere|oberer|mittlere|aeussere|innere)(?=[a-z]{4})", "", s)
+    s = re.sub(r"ringweg$", "ring", s).replace("teichweg", "teich")
     return s
+
+
+def series_variants(title: str) -> list[str]:
+    """«Freie Strasse / Freiestrasse», «Leonhardsgraben / St. Leonhardsgraben (später …)» → alle Varianten."""
+    t = re.sub(r"\((?!Quartier)[^)]*\)", "", title)
+    parts = re.split(r"\s*/\s*|,\s*", t)
+    return [norm_street(p) for p in parts if p.strip()]
 
 
 def numbers_in_title(title: str) -> list[str]:
@@ -60,6 +75,7 @@ def old_numbers(s: str) -> list[str]:
 
 def load_hgb():
     series = {r["serieId"]: r["title"] for r in csv.DictReader(EXT.joinpath("stabs_serie.csv").open(encoding="utf-8"))}
+    series_norms = {k: series_variants(v) for k, v in series.items()}
     geo = {}
     for r in csv.DictReader(EXT.joinpath("dossiergeomshifted_202607151617.csv").open(encoding="utf-8")):
         m = re.match(r"POINT \(([\d.]+) ([\d.]+)\)", r["locationshifted"] or "")
@@ -71,6 +87,7 @@ def load_hgb():
             continue
         street = series.get(r["serieId"], "")
         d = {"id": r["dossierId"], "title": r["title"], "street": street, "street_norm": norm_street(street),
+             "street_norms": series_norms.get(r["serieId"], [norm_street(street)]),
              "new": numbers_in_title(r["title"]), "old": old_numbers(r["oldHousenumber"]),
              "old_raw": r["oldHousenumber"], "part": bool(re.search(r"Th(eil|\.)\s*v", r["title"] + " " + (r["oldHousenumber"] or ""))),
              "bann": bool(re.search(r"bann", r["oldHousenumber"] or "", re.I)),
@@ -100,12 +117,13 @@ def main() -> None:
     # die alten Nummern zählen in Grossbasel, Kleinbasel und in den Bännen je ab 1
     kb_streets = {norm_street(b["street_raw"]) for b in buildings if space_of_building(b) == "kb" and b["street_raw"]}
     for d in dossiers:
-        d["space"] = "bann" if d["bann"] else ("kb" if d["street_norm"] in kb_streets else "gb")
+        d["space"] = "bann" if d["bann"] else ("kb" if any(v in kb_streets for v in d["street_norms"]) else "gb")
     by_new: dict[tuple[str, str], list[dict]] = defaultdict(list)
     by_old: dict[tuple[str, str], list[dict]] = defaultdict(list)
     for d in dossiers:
         for n in d["new"]:
-            by_new[(d["street_norm"], n.lower())].append(d)
+            for v in d["street_norms"]:
+                by_new[(v, n.lower())].append(d)
         for o in d["old"]:
             by_old[(d["space"], o)].append(d)
 
@@ -120,6 +138,12 @@ def main() -> None:
                 cands, method = exact, "street_no"
             elif cands:
                 method = "street_no_multi"
+            elif b["house_no_old"]:                               # Rückfall: alte Nummer der Tabelle
+                old = re.sub(r"\s", "", b["house_no_old"]).upper()
+                sp = "kb" if b.get("quarter") in ("VII", "VIII") or b["city_part"].startswith("Klein") else "gb"
+                cands = [d for d in by_old.get((sp, old), []) if not d["part"]] or by_old.get((sp, old), [])
+                if cands:
+                    method = "old_no_1862"
         else:
             old = re.sub(r"\s", "", b["house_no_old"]).upper()
             sp = space_of_building(b)

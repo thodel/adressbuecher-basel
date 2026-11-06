@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p426",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p426.jpg",
+    "bytes": 1629135,
+    "sha256": "56a6cd6ab81c1a0f779eead2963d7ac0b364f980b9101785d633c1f178d20070",
+    "sha256_of": "original",
+    "working_copy": "1862_p426.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 361\nWintsch=Forin, Joh. Rud., Holzhändler. Ham-|Wittmer, Gottlieb, Zimmermann. Unterer\nmerstraße 88. | Rheinweg 33.\n— =Meith, Wb. Maria Cathar., Wascherin. | — =Mazinger, Franz, Schriftsetzer. St. Pe-\nMarktplatz 15. | ters-Berg 21.\n— =Stahl, Heinr., Commis. Spalenberg 13. | Witzig=Bonnet, Georg, Zuckerbäcker. Spalen-\n— =Würgler, Wb. Cath., Taglöhnerin. | thorweg 4.\nDohfengasse 5. | — =Bovet, David, Lehrer. Aeschengraben 14.\nWinzenried=Psannenschmidt, Sam., Thurm- | — =Naegelin, Jacob, Seidenfärbereigeselle.\nwart. St. Leonhardskirchplatz 3. | Webergasse 1.\nWinzer, Joh. Bapt., Fabrikarbeiter. St. | — =Speiser, Martin, Seidenfärbereigeselle.\nPeters-Berg 36. | Rheingasse 82.\nWipf=Bader, R., Tapezierer. Spalenberg 62. | Wöhrlin, Cath. Christ., Kostgeberin. Weber-\n— =Schnefker, Jacob, Fabrikarbeiter. Ham- | gasse 23.\nmerstraße 28. | Woelfle=Heer, Johannes, Schreiner. Koshof-\nWirth, Johann, Lohnkutscher. Schützen- | gasse 5.\ngraben 6. | Wölfflin=Freyvogel, F. G., Ziegler. Heumatt-\nWirz=Bowald, Margaretha, Part. Kloster- | straße 14.\nberg 14. | — =Loz, D. Wilhelm, Kaufmann. St. Eli-\n— =Bruttschi, F., Seidenfärbereigeselle. Hor- | sabethen-Straße 8.\nburgstraße 4. | — =Mengis, Joh. Rud., Polizeigerichtsprä-\n— Carl, Blattmacher. Münchensteiner- | sident. Gerbergasse 57.\nStraße 11. | — Wilhelm Rud., Sohn, Kaufmann. Ger-\n— =Ehrjam, M., Commis. Freie Straße 28. | bergasse 57.\n— =Eßbach, Sch., Seidenwinder. Greifengas- | Wörndli=Hoefer, Carl, Fabrikarb. Schwanen-\nsasse 7. | gasse 12.\n— =Furler, Anna, Fabrikarbeiterin. Spa- | Woerwag=Bartenbach, Con., Metzger. Freie\nlenberg 62. | Straße 63.\n— =Haberthuel, Jacob, Zwinrmeister. Un- | Wössner=Heizmann, Maurer. Gerbergäf-\ntere Rebasse 18. | lein 30.\n— =Handschin, Sebastian, Posam. Aeschen- | Wohlnich=Bylund, Wittwe Sophia, Schuh-,\nvorstadt 27. | Holz- und Korbwaarenhandlung. Ger-\n— Herm., Kaufmann. Steinenvorstadt 53. | bergasse 58.\n— Hermann, Wwe. Anna Maria, Part. | — =Fuchs, Rud., Bäcker. Greifengasse 29.\nSpalenvorstadt 15. | — =Hagenbach, Franz, Kaufmann. Spalen-\n— F. J. U. D., Polizeidirector. St. Leon- | vorstadt 13.\nhardskirchplatz 3. | — =Krayer, Joh. Fch., Siegrift u. Schneider.\n— =Kirchhofer, Eduard, Schirmfabrikant. | Münsterplatz 13.\nGreifengasse 28. | — =Künzli, Joh., Bierbrauer. St. Clara-\n— =Meyer, Wittwe Margaretha, Partic. | Straße 2.\nSteinenvorstadt 53. | — =Kusterholz, Wwe. Cathar., Bäckerin.\n— =Mohler, Daniel, Taglöhner. Rhein- | Greifengasse 19.\ngasse 43. | Wohnsiedel=Giünther, Ulrich, Commis. St.\n— =Müller, Wwe. Anna, Zettlerin. Reb- | Elisabethen-Straße 37.\ngasse 43. | Wolf Cath., Wascherin. Riehenteichweg 14.\n— =Schaub, Friedr., Posamenter. Freie | — =Dietisheim, Georg, Lithograph. Unterer\nStraße 62. | Heuberg 2.\n— =Schneble, F. H., Zuckerbäcker. Freie | — =Elie, Papier- und Antiquitätenhandlung.\nStraße 16. | Eisengasse 5.\n— =Streicher, Joh. F., Küfer. Bäumleins- | — Felix, Geschäftsmann. Unterer Heuberg 2.\ngasse 13. | — =Meyer, Benjamin, Kaufmann. Freie\n— =Wirz, Carl, Blattmacher. Riehenthor- | Straße 11.\nstraße 7. | — =Meyer, Wwe. Babette, Part. Unterer\nWitschin=Frey, Wwe. Barb., Wascherin. Lin- | Heuberg 2.\ndenberg 15. | — =Reutlinger, Simon, Kaufmann. Spalen-\nWitt=Kling, Friedrich, Bortenwirker. Gren- | berg 27.\nzacher=Straße 133. | — =Schuster, Wittwe Cathar., Kostgeberin.\nWittlin=Wenger, Georg, Zimmermeister. St. | Sägergäcklein 4.\nElisabethen-Straße 32. | — Tobias, Ingenieur. Bahnhofstraße 12.\nWittlinger=Christ, Johann, Magazinarbeiter. | Wolfsperger, Susanna, Schneiderin. Ger-\nKlosterberg 27. | bergasse 40.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9425,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3571,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:19:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p426",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p426.jpg",
+      "bytes": 1629135,
+      "sha256": "56a6cd6ab81c1a0f779eead2963d7ac0b364f980b9101785d633c1f178d20070",
+      "sha256_of": "original",
+      "working_copy": "1862_p426.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:19:10+00:00"
+  }
+}

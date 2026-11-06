@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p131",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p131.jpg",
+    "bytes": 1319519,
+    "sha256": "9fa60613e773fb99250f099d893363c22154c61d31b7e89149e3d4de55cd679a",
+    "sha256_of": "original",
+    "working_copy": "1862_p131.jpg"
+  },
+  "text": "66\nHutgasse. — St. Jakob. — St. Jakobs-Straße.\nNene\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n20 | VI. | 1718 | z. gold. Schwert. | Pfaff-Schaub, Johannes.\n21 | VI. | 1678 | zum Kindfuß. | Pfaff-Schaub, Johannes, Bürstenmacher.\n22 | VI. | 1717 | z. niedern Hattstadt. | BonKilch, Benedikt.\n23 | VI. | 1714 | zum Silberberg. | BonKilch, Benedikt, Metzger.\n| | | | | BonKilch-Alt, Georg, Particular.\n| | | | | Pfaff-Schaub, Johannes.\n| | | | | Knop, Emil, Uhrenmacher.\n| | | | | Geßler-Pfannenschmied, Emanuel.\n| | | | | Geßler-Pfannenschmied, Em., Tuchhdlg.\n| | | | | Niederlage von Peruanischem Guano.\n| | | | | Pfannenschmied, Leonhard, Particular.\n| | | | | Nicolai-Hindemann, Christ. Dan.\n| | | | | Nicolai-Hindemann, Chr. D., Hutmach.\n24 | VI. | 1716 | zum grünen Schild. | Nicolai-Hindemann, Chr. D., Hutmach.\nSt. Jakob.\n1 | V. | 281 | Krankenhaus. | Merian-Burckhardt, Christf. sel. Erb.\n| | | | | Rietzsch-Habegger, Joh., Siegrist.\n| | | | | Würgler, Pet., Lehenbeständer.\n2 | V. | | Kirche. | Corporationsgut. (Waifenhaus.)\n3 | V. | 279 | Ziegelhütte. | Merian-Burckhardt, Christf. sel. Erb.\n| | | | | Segner-Schneider, Stephan, Ziegler.\n4 | V. | 281 t. | ehemal. Zollhaus. | Merian-Burckhardt, Christf. sel. Erb.\n| | | | | Weber-Rietzsch, Ludwig, Wirth.\n5 | V. | 278 | | Merian-Burckhardt, Christf. sel. Erb.\n| | | | | Seidenzwirnerei von Richter-Linder.\n| | | | | Plitz-Hänni, Johannes, Hausvater.\n6 | V. | 278 c. | | Merian-Burckhardt, Christf. sel. Erb.\n| | | | | Fehr, Salomon, Papierer.\n| | | | | Papiermühle von Ofer u. Gemuseus.\nSt. Jakobs-Straße.\n2 | IV. | 221 | | Friedrich, Leonhard, Baumeister.\n3 | V. | 257 | zum Biergarten. | Merian-Gerster, Emanuel.\n| | | | | Merian-Gerster, Emanuel, Bierbrauer.\n| | | | | Hindenlang-Silbernagel, Emil, Commis.\n| | | | | Vienin, Max, Part.\n4 | IV. | 222 a. | zum botan. Garten. | Staat.\n| | | | | Hämmerlin-Baumgartner, Mich., Gärtn.\n5 | V. | 256 | | David-Schickler, Johannes.\n| | | | | David-Schickler, Joh., Wein- u. Brannt-\n| | | | | weinhandlung.\n| | | | | Rognon-Schoelly, Valeria, Rentiere.\n6 | IV. | 222 | zum botan. Garten. | Staat.\n| | | | | Meisner-Maréchal, Dan. Fried., Dr.\n| | | | | med. u. Professör.\n| | | | | Phené-Meisner, Ida Wittwe, Part.\n7 | V. | 255 B. | | Rauch-Gubler, Georg Carl.\n| | | | | Rauch-Gubler, Georg Carl, Apotheker.\n8 | IV. | 223 a. | | Bischer, Jgfr. Salome.\n| | | | | Thommen, Friedrich, Lehenmann.\n| | | | | Jöriu-Thommen, Fried., Beständer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8098,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2487,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p131",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p131.jpg",
+      "bytes": 1319519,
+      "sha256": "9fa60613e773fb99250f099d893363c22154c61d31b7e89149e3d4de55cd679a",
+      "sha256_of": "original",
+      "working_copy": "1862_p131.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:39+00:00"
+  }
+}

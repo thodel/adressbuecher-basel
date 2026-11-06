@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p232",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p232.jpg",
+    "bytes": 1394848,
+    "sha256": "ec5244a8c9f4c541d7888985330ee86ceff8b9f1a764bc90e5ac5fb46784a31c",
+    "sha256_of": "original",
+    "working_copy": "1862_p232.jpg"
+  },
+  "text": "Bleicheweg. Burgweg. Hint. Burgweg. St. Clara-Graben. 167\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nBurgweg.\n1 VIII. 49 ................. Eggmann-Faller, Jacob.\nVertsche-Tschudi, Joh. Og., Schreiner.\n7 VIII. 49 B ................. Eggmann-Haller, Jacob.\nEggmann-Haller, Jac., Blattmacher.\n9 VIII. 49 Bc ................. Eggmann-Haller, Jacob.\n22 VIII. 48 A Kinderspital. Verwaltung des Kinderpitals.\nRoth-Scheurer, Joh., Lehrer, Director\nd. Kinderpitals.\nHinterer Burgweg.\n2 VIII. 49 D .................. BonderCrone-Kunge, Wb. Charl.\nBonder Crone-Kunge, Wb. Charl. Part.\nBon der Crone, Hugo, Kaufmann.\n4 VIII. 49 E auf der Burg. Balmer-Kind, Joh. Jac.\nBalmer-Kind, Joh. Jac., Phil. Dr.,\nLehrer.\n11 VIII. 52 .................. Schaeffer-Euler, Aug.\n12 VIII. 52 B .................. Siegmund-Weiß, Joh. Jac.\nSiegmund-Weiß, Joh. Jac., Kunstmal.\n16 VIII. 52 D Bierkeller. Tester, Josua.\nSt. Clara-Graben.\n9 VIII. 273 A Drahtzug. Hezel-Wunderlin, Friedrich.\n11 Hezel-Wunderlin, Friedr. Floretspinnerei\n13 Frey, Jac., Phil. Dr.\nHeuberger-Schaar, Jac., Schreiner.\n15 VIII. 5 H .................. Clavel-Linder, Alexander.\n17 VIII. 5 G .................. Biedermann-Hunziker, Alois.\nBiedermann-Hunziker, Alois, Wollwasch.\nBaudhu-Dubuad, Paul, Rentier.\nKunz-Knup, Felix, Optiker.\n19 VIII. 5 E .................. Benz-Spinnler, Heinrich.\nBenz-Spinnler, Sch., Cartonnier.\nTripet-Jaud, Wb. Henriette, Part.\nBonSpeyr, Magdalena, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4254,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1479,
+    "lines": 44,
+    "longest_char_run": 18,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0122,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p232",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p232.jpg",
+      "bytes": 1394848,
+      "sha256": "ec5244a8c9f4c541d7888985330ee86ceff8b9f1a764bc90e5ac5fb46784a31c",
+      "sha256_of": "original",
+      "working_copy": "1862_p232.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:04+00:00"
+  }
+}

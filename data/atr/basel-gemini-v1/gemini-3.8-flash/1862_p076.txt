@@ -1,0 +1,51 @@
+Aeschenvorstadt. | 11
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+65 | IV. | 1009 |  | Geßler-Fischer, Karl Samuel.
+  Ackermann, Maria, Kostgeberin.
+  Ludwig-Muspach, Mar., Wb., Part.
+66 | IV. | 994 |  | Gull, Jean.
+  Gull, J., Locomotivführer.
+  Kocherhans, Jakob, Bäcker.
+67 | IV. | 1008 | z. schwarzen Bären. | Walter-Jägg, Joseph.
+  Walter-Jägg, Joseph, Gastwirth.
+  Dietschy, Michael, Posthalter.
+68 | IV. | 995 |  | Feierabend-Haury, Wb. Verena.
+  Feierabend-Haury, V., Wb., Schuhmach.
+69 | IV. | 1007 |  | Walter-Jägg, Joseph.
+  Kaus-Brodbeck, Martin, Hafner.
+  Fäs-Driösel, Kaspar, Maurerparlier.
+  Fäs-Jundt, Jakob, Commis.
+71 | IV. | 1006 | zum Rebstock. | Jäggi-Jundt, Adolf.
+  Jäggi-Jundt, Adolf, Metzger u. Speise-
+  wirth.
+  Schmied, Elias, Möbelschreiner.
+72 | IV. | 996-997 |  | Kußmaul-Schlack, Michael.
+  Ole Andersen-Iselin, Baumeister.
+  Kehlstadt-Stocker, Joh. Ludw., Quartier-
+  schreiber und Weinsticher.
+  Widmer-Widenkeller, Joh., Schreiner.
+73 | IV. | 1005 | zur Hägen-Egerten. | Böhme-Brotbeck, Jacob Benedict.
+  Böhme-Brotbeck, J. B., Schreiner.
+  Strehler-Weiß, Joh., Mechaniker.
+74 | IV. | 998 |  | Mähly-Fininger, Jacob.
+  Mähly-Fininger, Jacob, Küfer.
+75 | IV. | 1004 | zum Thurm. | Braun-Steiger, Rudolf.
+  Braun-Steiger, Rud., Heuwaagmeister.
+  Stingelin-Dettwiler, Friedrich, Stuhl-
+  schreiner.
+  Müller, Carl, Gürtler.
+  Hesse, Frau Margaretha, Part.
+  Berger, Joseph, Gärtner.
+  Jenny-Thommen, Mart., Kaufhausarb.
+  Gemperlin-Eid, Joh. Ottmar, Barbier.
+77 | IV. | 1003 | zum Hauenstein. | Strub-Löw, Eduard.
+  Schmied-Bachmann, Jak., Pintenwirth.
+  Bachmann, Jgfrn., Haushälterinnen.
+  Bachmann-Fäsch, Emanuel, Ferger.
+  Zipfel-Widmer, Joh. Gerog, Zimmer-
+  mann.
+  Weber-Walte, Friedr., Gärtner.
+79 | IV. | 1002 |  | Welti-Heusler, Heinrich.
+  Welti-Heusler, H., Spezierer.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p141",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p141.jpg",
+    "bytes": 1271465,
+    "sha256": "517f11bf93febd016392db397c2b55d7401eaca8c08ae752c9d487b4146eec89",
+    "sha256_of": "original",
+    "working_copy": "1862_p141.jpg"
+  },
+  "text": "76\nKlingelbergstraße. — Klosterberg.\nNre\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n7 | I. | 36 | | Studer-Erb, Cölestin. Fröhlicher-Städeli, Urs, Maurer.\n9 | I. | 35 A | | Studer-Erb, Cölestin. Studer-Erb, Cölestin, Asphalteur. Sept-Walter, Jacob, Tapezierer. Buser-Minder, Samuel, Buchhalter.\n15 | I. | 35 | | Buxtorf-Merian, fel. Erben. ChemischesLaboratorium u. Firnisküche. Tester, Josua.\n17 | I. | 34 | | Oser-Leber, Leonhard, Sattler. Ursprung, Peter, Fuhrhalter. Jost-Meyer, And., Schreiner. Winterle, Anton, Kunstmaler.\n21 | I. | 32 u. 33. | | Birrer-Schuhmacher, Wb. Cath. Birrer-Schuhmacher, Wb. Cath., Part. Stühelin-Estermann, Anna, Particular. Frutiger-Stohler, Johann. Frutiger-Stohler, Johann, Landmann. Gammer-Stettler, Rud. Mart., Schrein.\n25 | I. | 31 | | Bäumlein-Gfell, Joseph. Simon-Ammann, Alois, Landw.\n35 | I. | 30 | | \nKlingelbergstraße.\n2 | III. | 847 | | Hug-Heusler, Wb. Maria. Hug-Heusler, Wb. Maria, Particular.\n4 | III. | 846 | z. Schneckenhöflein. | Hug-Heusler, Wb. Maria. Wilhelm-Reuter, Saml., Schreiner\n6 | III. | 845 | | Tschopp-Schwab, Wb. Dorothea. Magazin.\n7 | IV. | 887 | | Vogt-Baumann, Josef, fel. Erben. Vogt-Baumann, Wb. Boshardt, Josef, Victualienhändler. Küfer, J. G., Graveur.\n8 | III. | 844 | zum Paradies. | Müller-Lindenmeyer, Wb. Magd. Müller-Lindenmeyer, Wb. M., Part. Palmert-Müller, Casp., Ferger.\n9 | IV. | 886 | zum kleinen Widder. | Buxtorf-Merian, Wb. Emma. Buxtorf-Merian, Wb. Emma, Kent.\n11 | IV. | 885 | zum Widderlin. | Mörgelin, Johannes. Tabak-Magazin.\n13 | V. | 884 | | Meyer-Streulin, Georg. Meyer-Streulin, Georg, Maurermeistr. Luk-Bögelin, Ulrich, Uhrenmacher. Jslinger-Moser, Joh., Gärtner.\n14 | III. | 843 | | Himmely-Seiffert, Samuel. Zu Nr. 11 Steinenthorstraße.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6242,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1805,
+    "lines": 25,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 71.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p141",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p141.jpg",
+      "bytes": 1271465,
+      "sha256": "517f11bf93febd016392db397c2b55d7401eaca8c08ae752c9d487b4146eec89",
+      "sha256_of": "original",
+      "working_copy": "1862_p141.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:55+00:00"
+  }
+}

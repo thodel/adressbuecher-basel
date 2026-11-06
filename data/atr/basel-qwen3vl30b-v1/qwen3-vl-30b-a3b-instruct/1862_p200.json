@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p200",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p200.jpg",
+    "bytes": 1502558,
+    "sha256": "8fc6d63952cb77ed0bba2b9de74860a7fad8b66a78d5ddb7ae81f5899c1bf3c2",
+    "sha256_of": "original",
+    "working_copy": "1862_p200.jpg"
+  },
+  "text": "Spalenberg.\n135\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n41 | II. | 477 | zum Wacker. | Bär, Conrad, Schuhmacher.\n | | | | Selinger, Hyacinth, Commis.\n | | | | Fischer-Affolter, Wb. Barbara.\n | | | | Fischer-Affolter, Wb. Barbara, Part.\n | | | | Peyer, Johannes, Schuhmacher.\n42 | II. | 478 | | Weibel-Haga, Heinrich.\n | | | | Weibel-Haga, Heinrich, Fabrikarbeiter.\n43 | II. | 476 | zum Kaiserschwert. | Buser, Hieronimus, S. M. C.\n | | | | Stiefel-Knoblauch, Frz. Josef, Schreiner.\n44 | II. | 475 | zum Steinfeller. | Buser, Hieronimus, S. M. C.\n | | | | Buser, Hieronimus, Cand. d. Theol.\n45 | II. | 474 | z. obern weissen Ring | Marbach-Gysin, Isaak, sel. Erben.\n | | | | Marbach-Gysin, Wb. Anna, Kirchner.\n | | | | Detiker-Kropf, Emil, Buchbinder.\n46 | II. | 472 | zu den drei grünen Bergen. | Lang-Hauser, Adam.\n | | | | Lang-Hauser, Adam, Musiker.\n | | | | Martin, Heinr. Ludw., Commis.\n47 | II. | 473 | zum schönen Mann. | Flubacher-Gysin, Emanuel.\n | | | | Porte-Turnherr, Elias, Sprachlehrer.\n48 | II. | 471 | zum Werthenberg. | Kramer-Schmid, Martin.\n | | | | Kramer-Schmid, Martin, Schuhmacher.\n | | | | Rothenhäusler-Schaier, Alois, Schrein.\n | | | | Bromberger, Leo, Lehrer.\n49 | II. | 447 | zum Meerwunder. | Lex, Felix Joseph.\n | | | | Lex, Felix Joseph, Alt-Notar und Geschäftsmann.\n50 | II. | 470 | zum Löwenberg. | Geymüller-Maerklin, Hieronim.\n | | | | Geymüller-Maerklin, Hieronim., Kfm.\n | | | | Wiederkehr, Mathias, Sattler.\n | | | | Brunner-Walser, Andreas, Schneider.\n51 | II. | 449 | zum Limburg. | Stehelin-Merian, Georg Emil.\n | | | | Stehelin-Merian, Georg Emil, Dr. Med.\n52 | II. | 469 | zur Rose. | Rizmann-Vollenweider, Beat.\n | | | | Rizmann-Vollenweider, Beat., Commis.\n | | | | Balair-Meisner, Joh. Rud., Zuckerbäck.\n | | | | Stähelin-Bischoff, Christof.\n | | | | Stähelin, Christof, Sohn, Bandfabrikant.\n53 | II. | 450 | zur Tanne. | Weber-Stierli, Friedrich.\n | | | | Weber-Stierli, Friedrich, Seidenagent.\n | | | | Bölmli-Kaas, Joh. Ludwig, Schneider.\n54 | II. | 468 | zum Kränzlein. | Lichtenhahn-Merian, Jacob.\n | | | | Lichtenhahn-Merian, Jacob, Stuccator und Gipser.\n | | | | Collin-Bernoulli, Bernhard, Kaufmann.\n | | | | Burckhardt, Eduard, Stuccator.\n55 | II. | 451 | zum Pelikan. | Saeng-Hellstern, Hermann.\n | | | | Saeng-Hellstern, Hermann, Knospen- und Papierhändler.\n | | | | Bussinger-Oberst, Heinrich, Schreiner.\n56 | II. | 467 | zum Löwenstein. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6679,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2462,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p200",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p200.jpg",
+      "bytes": 1502558,
+      "sha256": "8fc6d63952cb77ed0bba2b9de74860a7fad8b66a78d5ddb7ae81f5899c1bf3c2",
+      "sha256_of": "original",
+      "working_copy": "1862_p200.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:03+00:00"
+  }
+}

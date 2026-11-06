@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p090",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p090.jpg",
+    "bytes": 1441875,
+    "sha256": "6b9e5492d037cd19ba01f44d8fe091e8334d03ab7dd14499a8daaad58e83fd4d",
+    "sha256_of": "original",
+    "working_copy": "1862_p090.jpg"
+  },
+  "text": "Bäumleinstraße. — Barfüßergasse. 25\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n14 | IV. | 1198 | zum Vergnügen. | Merian, Jgfr. Helene.\n  Merian, Jgfr. Helene, Particularin.\n15 | IV. | 1377 | z. Delphin gehörend. | His-Heusler, Eduard.\n  His-Heusler, Eduard, Bandfabrikant.\n  Thurneysen-Ryhiner, Frau Valer., Rent.\n16 | IV. | 1199 | zur eisernen Thüre. | Vischer-Christ, Rudolf.\n  Vischer-Christ, Rudolf, Rentier.\n18 | IV. | 1200 | zum Luft. | Hindermann-Merian, Joh. Jakob.\n  Hindermann-Merian, Joh. Jak., Bandfab.\n  Gysin-Hindermann, Conrad, Banquier.\n  Peter, Friedr. Heinrich, Agent.\n  Peter-Rödel, Wb. Gertrud, Particul.\n20 | IV. | 1206 | zum Eptingerhof. | Christ, Remigius.\n  Christ, Remigius, alt Stadtrath.\n\nBarfüßergasse.\n1 | IV. | 1064 | zum Löchlein. | Spengler, Jacob.\n  Spengler, Jacob, Traiteur.\n  Müller-Voll, Daniel Achilles, Commis.\n  Schaub-Halter, Friedrich, Commis.\n  Braunecker-Simonius, Otto, Part.\n2 | IV. | 1078 | zum blauen Berg. | Holweg-Weiß, Anna Maria, Wb.\n  Holweg-Weiß, Wb. A. Maria, Modiste.\n3 | IV. | 1064 A |  | Schultze, Carl Friedrich.\n  Schultze, Carl Friedrich, Buchdrucker.\n  (Firma: Bahnmaiers Buchdruckerei.)\n  Peter-Simmler, J., Vergolder.\n4 | IV. | 1077 |  | Von Speyr, Emil.\n  Schmidt, Xaver, Chirurg (Rasierstube).\n6 | IV. | 1064 B | Spritzenhaus. | Stadtgemeinde.\n8 | IV. | 1077 A |  | Hindermann-Schölly, Friedrich.\n  (Magazin der Firma Jacob Bleiler.)\n10 | IV. | 1077 B |  | Geigy-Merian. Rudolf.\n  (Stallung und Remise.)\n12 | IV. | 1097 |  | Germann-Baumgartner, Joh. Georg\n  Germann-Baumgartner, Joh. Georg,\n  Nägelhandlung.\n  Burckhardt, Gottlieb, Dr. med.\n14 | IV. | 1096 A | Café de la douane. | Riedtmann-Ritter, Ludwig.\n  Riedtmann-Ritter, Ludw., Cafébesitzer.\n  Meyer-Ritter, Friedrich, Particular.\n  Hübscher, Adolf, Commis.\n  Wagner-Hoffmann, Joh., Klavierstimm.\n\nBarfüßerplatz.\n1 | IV. | 1149 | zur Schär. | Crussaire-Wahr, Ludwig.\n  Crussaire-Wahr, Ludwig, Conditor.\n  Knobel, Carl Joseph, Commis.\n2 | IV. | 1147—48 | zum Sterneneck. | Geyger, Achilles.\n  Geyger, Achilles, Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8850,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2104,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p090",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p090.jpg",
+      "bytes": 1441875,
+      "sha256": "6b9e5492d037cd19ba01f44d8fe091e8334d03ab7dd14499a8daaad58e83fd4d",
+      "sha256_of": "original",
+      "working_copy": "1862_p090.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:28+00:00"
+  }
+}

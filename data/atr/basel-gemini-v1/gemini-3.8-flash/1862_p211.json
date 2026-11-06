@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p211",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p211.jpg",
+    "bytes": 1305762,
+    "sha256": "5411005d69780790246c7bd1d64ee070497faa7e2dce859550e10b527fc5f1d1",
+    "sha256_of": "original",
+    "working_copy": "1862_p211.jpg"
+  },
+  "text": "146 | Stapfelberg. — Steinenbachgäßlein.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n4 | V. | 1449 | zum Fälklein. | Spittler, Christian Friedrich.\n  Spittler, Christ. Friedr., Buchhändler.\n  Spittler, Marz. Friedr., Cand. Theol.\n  Jäger, Louis, Buchhändler.\n  Müller, Carl, Commis.\n  Kober, Paul, Commis.\n5 | V. | 1626–27 | | Eingang zu Nr. 17 u. 19 Freie Straße.\n7 | V. | 1490 | | Bischoff, Gebrüder.\n\nSteinenbachgäßlein.\n6 | III. | 763 A | | Borgognon-Bloch, Constant.\n  Neubecker-Marz, Joseph, Schneider.\n7 | III. | 766 | zum schwarz. Horn. | Strub-Löw, Rudolf und Hinder-\n  mann, J. Wilhelm.\n  Siehe Nr. 12 Steinenvorstadt.\n8 | III. | 767 B | | Stäublin-Weiß, Remigius.\n10 | III. | 767 | | Stäublin-Weiß, Remigius.\n  Stäublin-Weiß, Remig., Zimmermann.\n12 | III. | 768 | | Hosch-Breitenstein, Eduard.\n  Vögelin, Jacob, Lithograph.\n  Sutter-Zimmermann, Ignaz, Maler.\n14 | III. | 770 | | Bienz, Johann Rudolf.\n  Siehe Nr. 16 Steinenvorstadt.\n15 | III. | 772 | | Fischer-Bulacher, Joh. Balthasar.\n  Siehe Nr. 20 Steinenvorstadt.\n16 | III. | 771 A | | Mathieu-Saner, Antoine.\n  Mathieu-Saner, Antoine, Mechaniker.\n17 | III. | 773 | | Großmann-Heinzelmann, Rudolf.\n  Siehe Nr. 22 Steinenvorstadt.\n18 | III. | 773 A | | Knecht-Laule, Johannes.\n  Siehe Nr. 13 Kohlenberggasse.\n19 | III. | 774 | | Henz-Kußmaul, Ludwig.\n  Siehe Nr. 24 Steinenvorstadt.\n20 | III. | 776 | | Fischer-Horner, Elias.\n  Siehe Nr. 15 Kohlenberggasse.\n21 | III. | 775 | | Fischer-Horner, Elias.\n  Siehe Nr. 26 Steinenvorstadt.\n22 | III. | 777 | | Schlumpf-Dettling, Joh. Rudolf.\n  Schlumpf-Dettling, Joh. Rudolf, Mu-\n  sterweber.\n  Meyer-Häfeli, Wilhelm Daniel, Schrein.\n  Uster-Reimann, Daniel, Schneider.\n23 | III. | 780 | | Brodbeck-Spitteler, Friedrich.\n  Siehe Nr. 28 Steinenvorstadt.\n25 | III. | 781 | | Vultier-Mathiot, Isidor.\n  Siehe Nr. 30 Steinenvorstadt.\n26 | III. | 778 | | Mangold-Kunz, Samuel.\n  Mangold-Kunz, Samuel, Zimmermstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8349,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1979,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:57:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p211",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p211.jpg",
+      "bytes": 1305762,
+      "sha256": "5411005d69780790246c7bd1d64ee070497faa7e2dce859550e10b527fc5f1d1",
+      "sha256_of": "original",
+      "working_copy": "1862_p211.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:57:25+00:00"
+  }
+}

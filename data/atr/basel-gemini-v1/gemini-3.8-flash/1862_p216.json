@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p216",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p216.jpg",
+    "bytes": 1446419,
+    "sha256": "b0b1d7f3b46bcf2a64f98491124e3c6c8cc8608e8618b81ddd850dd012db6481",
+    "sha256_of": "original",
+    "working_copy": "1862_p216.jpg"
+  },
+  "text": "Steinenthorstraße. — Steinenvorstadt. 151\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n39 | III. | 862 | | Berlauer-Oser, Steffan.\n  Berlauer-Oser, Steffan, Wirth und\n  Metzger.\n  Greuter-Engel, Friedrich, Materialist.\n  Eisenring-Krämer, Joseph, Bäcker.\n40 | III. | 857 A | | Bowald-Scherzer, Wb. Carolina.\n  Bowald-Scherzer, Wb. Carolina, Wirth.\n41 | III. | 861 | z. mittlern Traube. | Siegrist-Eyßler, Joh. Hieronimus.\n  Siegrist-Eyßler, Joh. Hieron., Spezierer.\n42 | III. | 858 | Steinenthor. (Wachtstube.) | Staat.\n43 | III. | 860 | | Wenger-Gäbely, Jacob.\n  Wenger-Gäbely, Jacob, Spezierer und\n  Käsehändler.\n  Speth, J. Ant. Nepomuk, Bildhauer.\n45 | III. | 859 | | Martin-Dolt, Hans.\n  Martin-Dolt, Hans, Bäcker u. Wirth.\n  Martin-Schaub, Wb. Ursula, Part.\n  Löw, Rudolf, Musiklehrer.\n  Dietrich-Martin, Carl, Kaufmann.\n\nSteinenvorstadt.\n1 | III. | 827 | | Geßler-Merian, Rudolf.\n  Geßler-Merian, Rudolf, Spezierer.\n  Beck-Schmid, Johannes, Kaufmann.\n2 | III. | 761 | z. weißen Widder. | Geßler-Rych, Wb. Chrisch. Dorothea.\n  Geßler-Rych, Wb. Chrischona Dorothea,\n  Bäcker.\n  Geßler, Eduard, Commis.\n  Schäublin-Meyer, Joh. Albert, Kauf-\n  hausbeamter.\n3 | III. | 826 | zur Kirche. | Steffan-Dändliker, Rudolf.\n  Fäsch-Krebs, Rudolf, Commis.\n4 | III. | 762 | z. schwarzen Widder. | Hindermann-Christ, Wilhelm.\n  Hindermann-Christ, Wilhelm, Bäcker.\n5 | III. | 825 | zum Mildenberg. | Steffan-Dändliker, Rudolf.\n  Steffan-Dändliker, Rudolf, Particular.\n  Steffan-Falkner, Rudolf, Bäcker.\n  Weiß-Wiesner, Andreas, Geschäfts-\n  mann.\n6 | III. | 763 | zum schwarzen Rad. | Borgognon-Bloch, Constantin.\n  Borgognon-Bloch, Constantin, Commis.\n7 | III. | 824 | zum Eichbaum. | Schmidt-Lotz, Heinrich.\n  Schmidt-Lotz, Heinrich, Particular.\n  Schultheß-Schmidt, Diethelm, Notar.\n8 | III. | 764 | zum Eichbäumlein. | Feurstein-Jaillet, Daniel, sel. Erb.\n  Feurstein-Jaillet, Wb. Valeria, Parti-\n  kularin.\n  Pfister, Heinrich, Commissionär.\n  Steiger-Hirzel, Friedrich, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8334,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2034,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.34,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p216",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p216.jpg",
+      "bytes": 1446419,
+      "sha256": "b0b1d7f3b46bcf2a64f98491124e3c6c8cc8608e8618b81ddd850dd012db6481",
+      "sha256_of": "original",
+      "working_copy": "1862_p216.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:08+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p201",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p201.jpg",
+    "bytes": 1290082,
+    "sha256": "016d94b886b082d7ef9b11a0f09e65e047ea8cb6cc61437a74bba820fc667ad0",
+    "sha256_of": "original",
+    "working_copy": "1862_p201.jpg"
+  },
+  "text": "136 Spalenberg. — Spalenthorweg.\n\nNeue Haus-Nr | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n57 | II. | 452 | | Hartmann-Keck, Gottlieb.\n  Hartmann-Keck, Gottlieb, Spengler.\n58 | II. | 466 | zur hohen Sonne. | Glock-Scherb, Peter.\n  Glock-Scherb, Peter, Küfer u. Wirth.\n  Uebelin-Viollinet, Heinrich, Commis.\n59 | II. | 453 | zum rothen Helm. | Henke-Salathe, Wb. Catharina.\n  Henke-Salathe, Wb. Catharina, Part.\n  Levy-Levy, David, Kaufmann.\n60 | II. | 465 | | Erlacher-Lotz, Johannes.\n  Brodbeck-Sutter, Wtb. Anna, Partik.\n  Erlacher-Lotz, Johannes, Commis.\n  Jäcklin, Daniel, Sekretär d. Stadtkanzlei.\n  Erlacher, Anna, Kleinkinderschule.\n61 | II. | 454 | zur Spinnwieden. | Güller-Degelmann, Heinrich.\n  Güller-Degelmann, Heinrich, Schneider.\n62 | II. | 464 | zum Mehlhaus. | Buser, Hieronimus.\n  Wipf-Bader, Rudolf, Tapezierer.\n63 | II. | 455 | zum Kaysersberg. | Dreyfus-Hirsch, Leopold.\n  Dreyfus-Hirsch, Leopold, Kaufmann.\n  Iselin-Rüttimeyer, Friedrich, Lehrer.\n65 | II. | 456 | | Landerer und Merkle.\n  Merkle-Klipsfel, Albert, Agentur.\n  Landerer-Maring, Ludw., Agentur.\n\nSpalenthorweg.\n\n2 | II. | 102 | | Bürgin-Wüst, Jakob.\n  Stähle-Sollberger, Wb. Babette, Stroh-\n  hutfabrik.\n4 | II. | 101 E | | Sommer-Walter, Melchior.\n  Flick, Joh. Rudolf, Spengler.\n  Borst-Ott, August, Schneider.\n  Ochsenbein, Rudolf, Büchsenschmied.\n  Witz-Bonnet, Georg, Zuckerbäcker.\n  Schneider-Buiſſe, Friedrich, Commis.\n  Baumberger-Rieder, Hans, Particular.\n6 | II. | 101 D | | Honesta-Weber, Georg.\n  Honesta-Weber, Georg, Commis.\n  Stumm-Schabelitz, Gustav, Kaufmann.\n  Zehntner-Weber, Heinrich, Redactor d.\n  Basler Nachrichten.\n8 | II. | 101 C | | Dubied = Pfannenschmied, Georg Ludwig.\n  Dubied-Pfannenschmied, Georg Ludwig,\n  Commis.\n  Fäsch, Rudolf, Secretär der Zeughaus-\n  kammer.\n  Hunziger-Weber, Carl David, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7335,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1864,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:56:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p201",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p201.jpg",
+      "bytes": 1290082,
+      "sha256": "016d94b886b082d7ef9b11a0f09e65e047ea8cb6cc61437a74bba820fc667ad0",
+      "sha256_of": "original",
+      "working_copy": "1862_p201.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:00+00:00"
+  }
+}

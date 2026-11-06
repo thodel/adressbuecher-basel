@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p251",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p251.jpg",
+    "bytes": 1280388,
+    "sha256": "5ed6c1fd97d74490fee19c67a952701431f3c86ac056628b4061042663cccfee",
+    "sha256_of": "original",
+    "working_copy": "1862_p251.jpg"
+  },
+  "text": "186 Ochſengaſſe.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauſes. | Namen der Hauſeigenthümer und Bewohner.\n\nOchſengaſſe.\n\n1 | VII. | 395 | | Widmer, Martin.\n  Widmer-Marchand, Martin, Cigarren-\n  u. Tabakhandlung.\n3 | VII. | 239 | zum Lerchenberg. | Jenny-Boerlin, Joh. Jak.\n  Jenny-Boerlin, Joh. Jak., Quartier-\n  ſchreiber, Firma I. I. Jenny Sohn,\n  Käſe- u. Colonialwaarenhandlung.\n  Jenny-Roth, Johannes, Zollbeamter.\n  Jenny, Joh. Auguſt, Lehrer.\n  Goßwyler-Jenny, Andr. Hch., Commis.\n4 | VII. | 241 | z. ſchönen Keller. | Lenzy-Bohny, Sophia.\n  Lenzy-Bohny, Leonz, Metzger u. Wirth.\n5 | VII. | 240 | | Madoeri-Riedinger, Friedrich.\n  Madoeri-Riedinger, Friedr., Wirth.\n  Lüſcher-Pſerſich, Friedr., Schneider.\n6 | VII. | 244 | | Fahm-Klotz, Andreas.\n  Fahm-Klotz, Andreas, Schuhmacher.\n7 | VII. | 242 | zum Steinbock. | Neukomm-Hurter, Joh. Heinrich.\n  Neukomm-Hurter, Joh. Hch., Bäcker.\n8 | VII. | 244 A | zum Roſenberg. | Kautz-Friedmann, Joh. Michael.\n  Kautz-Friedmann, Johann Michael,\n  Schneid.\n  Thommen-Bertſchmann, Hch., Schrein.\n9 | VII. | 243 | | Heusler-Thurneyſen, Leonhard.\n10 | VII. | 246 | z. rothen Ochſen. | Flück, Caſpar.\n  Flück, Caſpar, Gaſtwirth.\n11 | VII. | 245 | | Rühlin-Nauer, Joh. Georg.\n12 | VII. | 354 | Rothochſenmühle. | Rühlin, Joh. Georg.\n  Stoll-Rühlin, Franz, Müller.\n  Siehe 354 Teichgäßlein.\n13 | VII. | 356 | Badanſtalt. | Dickenmann-Kübler, Eml., ſel. Erb.\n  Dickenmann-Kübler, Wb. Hel., Part.\n  Dickenmann, Emanuel Sohn, Bader.\n14 | VII. | 352 | Schwarzſelmühle. | Vinzægger-Schetti, Carl.\n  Vinzegger-Schetti, Carl, Mühlebauer u.\n  Mechaniker.\n  Zündel-Schöndelmeyer, Conr., Müller.\n15 | VII. | 355 | | Müller-Dietſchy, Joh. Peter.\n16 | VII. | 349 | | Schaerer-Schlachter, Peregrin., ſel.\n  Erben.\n  Schaerer-Schlachter, Wb. Mar. Urſula,\n  Part.\n  Weiß, Judith, Modiſte.\n17 | VII. | 351 | Ochſenhäuslein. | Weber, Tobias Leonhard.\n  Weber, Tobias Leonhard, Part.\n  Weber-Klein, Tobias, Hufſchmied.\n18 | VII. | 298 | zum Karreneck. | Schramm-Bell, Rudolf.\n  Schramm-Bell, Rud., Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8927,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2045,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:03:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p251",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p251.jpg",
+      "bytes": 1280388,
+      "sha256": "5ed6c1fd97d74490fee19c67a952701431f3c86ac056628b4061042663cccfee",
+      "sha256_of": "original",
+      "working_copy": "1862_p251.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:03:21+00:00"
+  }
+}

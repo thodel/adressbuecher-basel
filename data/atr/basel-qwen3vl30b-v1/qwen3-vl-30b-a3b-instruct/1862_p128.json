@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p128",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p128.jpg",
+    "bytes": 1411564,
+    "sha256": "d754bc5c77f62e6957fc6bccc6840dc3a41c8f581392b46f27174ef36a21b885",
+    "sha256_of": "original",
+    "working_copy": "1862_p128.jpg"
+  },
+  "text": "Unterer Henberg. — Neuere Heumattstraße. — Heumattstraße. 63\nNeue Haus=Nr. | Quar= tier. | Alte Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n23 | VI. | 402 | | Riefterer=Zenter, Ferdinand.\n| | | | | Riefterer=Zenter, Ferd., Kutscher.\n| | | | | Bogt=Ruff, Coelestin, Mechaniker.\n25 | VI. | 401 | | Brodbeck=Onchm, Johannes.\n| | | | | Brodbeck=Onchm, Joh., Maler.\n27 | VI. | 399 B. | | Brodbeck=Onchm, Johannes.\n| | | | | Gönnert=Gutherz, Urs., Part.\n29 | VI. | 399 A. | | Brodbeck=Onchm, Johannes.\n| | | | | Lipp=Grollimund, Martin Emanuel,\n| | | | | Buchbinder.\n31 | VI. | 399 | | Portmann=Koll, Jacob.\n| | | | | Portmann=Koll, Jac., Hausknecht.\n| | | | | Schaub=Martin, Heinr., Grabmacher.\nNeuere Heumattstraße.\n1 | IV. | 210 | | Centralbahnverwaltung.\n| | | | | Bureau der Material-Verwaltung.\n| | | | | Georg=Juillerat, Emil, S.-chef de gare.\n| | | | | Eßlin=Weber, Benjamin,\n| | | | | Plattner=Siegriß, Joh., Gepäckexpedient.\n| | | | | Hindenlang=Plattner, Sch., Einnehmer.\n21 | IV. | 206 | | Wölfflin=Freyvogel, Joh. Georg.\n| | | | | Buser=Schälker, Mart., Ziegeleiaufseher.\nHeumattstraße.\n5 | IV. | 215 A. b. | | Stüsky=Hesty, Heinrich.\n| | | | | Stüsky=Hesty, Heinrich, Holzhändler.\n| | | | | Suter, Christian, Commis.\n| | | | | Sef, Ulrich, Schlosser.\n| | | | | Mürki=Rychner, Xaver, Part.\n| | | | | Rothplez=Rychner, A., Eisenbahnbeamt.\n7 | IV. | 214 | | Weber=Waldmeyer, Jacob.\n| | | | | Weber=Waldmeyer, Jacob, Wirth.\n8 | III. | 203 D. | | Gloor=Zeller, John.\n| | | | | Gloor=Zeller, John, Detailiant.\n| | | | | Hüní=Hitzin, Jos., Particular.\n9 | IV. | 213 A. | | Weber=Waldmeyer, Jacob.\n| | | | | Madöri-Scholl, Peter, Metzger.\n| | | | | Dirrwtächter=Widmer, Hs., Milchhölr.\n10 | III. | 203 C. | | Schmäh=Engesser, Felix.\n| | | | | Schmäh=Engesser, Fel., Parquetschreiner.\n| | | | | Burchhardt=Burchhardt, Carl Leonhard,\n| | | | | Betriebsinspectör der Centralbahn.\n12 | III. | 203 B. | | Pfaff=Zenker, Martin.\n| | | | | Pfaff=Zenker, Martin, Commis.\n| | | | | Jeannot=Bailod, Jacques, Commis.\n| | | | | Köhler=Fabbiani, Otto, Commis.\n13 | IV. | 213 | | Vok, Albert, und Sibер, Caspar.\n| | | | | Bollier=Tschopp, Martin, Posamenter.\n| | | | | Gebhardt=Mercier, Johannes, Gärtner.\n| | | | | Curriger, Benedict, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7424,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2258,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p128",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p128.jpg",
+      "bytes": 1411564,
+      "sha256": "d754bc5c77f62e6957fc6bccc6840dc3a41c8f581392b46f27174ef36a21b885",
+      "sha256_of": "original",
+      "working_copy": "1862_p128.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:17+00:00"
+  }
+}

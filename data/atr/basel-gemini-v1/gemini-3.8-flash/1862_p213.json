@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p213",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p213.jpg",
+    "bytes": 1252130,
+    "sha256": "f49f2e43ddd8f75cb96ff7d01a7304ed30f1f7919003b0c92ba584092bbd3a21",
+    "sha256_of": "original",
+    "working_copy": "1862_p213.jpg"
+  },
+  "text": "148  Steinengr. Müllerweg. Ringweg. Steinenthorstraße.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nSteinengraben.\n1 | II. | 374 a | | Braun-Weiß, Wb. Crischona.\n  Waschhaus.\n3 | II. | 375 b | | Braendlin-Noerbel, Wb. Elisabeth.\n  Remise.\n19 | III. | 751 B | | Meyer-Merian, Emanuel.\n  Meyer-Merian, Eman., Kaufmann.\n21 | III. | 754 R | | Wiedmer-Heckel, J. Christian.\n  Wiedmer-Heckel, Joh. Christian, Kauf-\n  mann.\n23 | III. | 754 S | | Merian-Reber, Samuel.\n  Merian-Reber, Samuel, Pfarrer.\n\nSteinenmüllerweg.\n10 | II. | 126 | | Ulmann-Matzinger, Abraham.\n  Matzinger, Lucas, Particular.\n  Tellenbach-Buchmann, Johann Jacob,\n  Commis.\n12 | II. | 126 A | | Ulmann-Matzinger, Abraham.\n  Ulmann-Matzinger, Abraham, Part.\n\nSteinenringweg.\n15 | III. | 172 B | | Hofmann-Strub, Johannes.\n  Hofmann-Strub, Joh., Quincaillerie-\n  u. Merceriehandlung.\n17 | III. | 158 B | zum Schweizerhaus | Hertner, Heinrich.\n  Hertner, Heinrich, Wirth.\n  Müller-Frey, Heinr., Obst- u. Brannt-\n  weinhandel.\n21 | III. | 158 A | | Schellenberg-Harder, Ludwig.\n  Schellenberg-Harder, Ludw., Agent.\n\nSteinenthorberg.\n14 | III. | | | Aichner, Rudolf, Baumeister.\n\nSteinenthorstraße.\n1 | III. | 848 | zum Besenstiel. | Tschopp-Schwab, Wb. Dorothea.\n  Tschopp-Schwab, Wb. Dorothea, Ma-\n  terialhandlung.\n2 | III. | 836 | | Martin-Dietrich, Joh. Heinrich.\n  Martin-Dietrich, Joh. Heinrich, Flach-\n  maler.\n  Augenstein-Kaiser, Philipp, Mechaniker.\n3 | III. | 840 | | Tschopp-Schwab, Wb. Dorothea.\n4 | III. | 837 | | Keller, Rudolf.\n  Keller, Rudolf, Fuhrhalter.\n  Dill-Tschan, Adolf, Bader.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8629,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1623,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:57:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p213",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p213.jpg",
+      "bytes": 1252130,
+      "sha256": "f49f2e43ddd8f75cb96ff7d01a7304ed30f1f7919003b0c92ba584092bbd3a21",
+      "sha256_of": "original",
+      "working_copy": "1862_p213.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:57:43+00:00"
+  }
+}

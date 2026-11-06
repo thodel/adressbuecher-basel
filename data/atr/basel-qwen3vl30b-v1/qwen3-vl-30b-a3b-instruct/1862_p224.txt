@@ -1,0 +1,49 @@
+Nene
+Haus=Nr. | Quar-
+tier. | Alte
+Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+3 | II. | 571 | zum Seffel. | Staat.
+5 | II. | 570 | | Burckhardt=Raillard, Wittwe Louife.
+7 | II. | 569 | | Bär=Martin, Rudolf.
+9 | II. | 568 | zum oberen Jäger. | Bär=Martin, Rudolf, Coiffeur.
+11 | II. | 567 | zum oberen Jäger. | Tschudi=Ramstein, Heinrich, Schuhmach.
+13 | II. | 555 A | | Stadelmann=Ulmy, Joseph.
+| | | | Stadelmann=Ulmy, Joseph, Schneider.
+| | | | Köhler=Grieker, Wb. Elisabeth.
+| | | | Köhler=Grieker, Wb. Elisabeth, Kostgeb.
+| | | | Zürcher=Sutter, Joh. Jacob, Lebtuchen-
+| | | | främer.
+| | | | Baterlaus=Crismann, Heinr., Steinmek.
+| | | | Bollinger, Joh. Jacob.
+| | | | Siehe Nr. 5 am Nadelberg.
+Zodtengäfklein.
+Zodtentanz.
+1 | I. | 90 | | AWengen=Treu, Rudolf.
+2 | I. | 89 | | AWengen=Treu, Rudolf, Part.
+3 | I. | 88 | | Danzeisen=Berger, Ludwig.
+4 | I. | 87 | | Berger=Riedtmann, Wb. Margaretha,
+| | | | Wirthin u. Ellenwaarengeschäft.
+5 | I. | 86 | | Frank, Schwestern.
+6 | I. | 85 | | Frank, Schwestern, Christine Zettlerin,
+| | | | Louife Rätherin, Lisette Glätterin.
+7 | I. | 84 | | Müller, Heinrich, Schlosser.
+8 | I. | 83 | zum Waldec. | Kieder=Frey, Samuel.
+9 | I. | 82 | | Kieder=Frey, Samuel, Steinmek.
+10 | I. | 81—80 | | Liebrich=Frey, Heinrich, Commis.
+| | | | Schimpf=Holniger, Niklaus, Schreiner.
+| | | | Mazinger=Deggeller, Joh. Jac.
+| | | | Mazinger=Deggeller, Joh. Jac., Commis.
+| | | | Proffer=Mazinger, Christof, Spengler.
+| | | | Oberlin, Susanna, Jungfr.
+| | | | Oberlin, Susanna, Part.
+| | | | Krayer=Roth, Samuel.
+| | | | Krayer=Roth, Samuel, Zollrevisor.
+| | | | Manz=Gloor, Ed., Flachmaler.
+| | | | Riffel=Miville, Johannes.
+| | | | Riffel=Miville, Johannes, Dr. med., Arzt.
+| | | | Schoenauer=Bernoulli, Wb. Cath.
+| | | | Schoenauer=Bernoulli, Wb. Cath., Part.
+| | | | Respinger=Paffavant, Wilhelm.
+| | | | Respinger=Paffavant, Wilh., Kaufmann.
+| | | | Socin=Johannot, Friederike Elis., Part.

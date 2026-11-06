@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p178",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p178.jpg",
+    "bytes": 1424276,
+    "sha256": "156b7397e04cd5d5e96baafa72479d4e0b84a92a6430e67a8c1802419cdb75d0",
+    "sha256_of": "original",
+    "working_copy": "1862_p178.jpg"
+  },
+  "text": "St. Peters-Platz. — Pfuggässlein. 113\nNene\nHaus=Kr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n4 II. 307 Sievers, Carl August.\nSievers, Carl August, Zahnarzt.\n(Mit Eingang zu Nr. 3.)\n5 II. 306 Herzog=Zimmermann, Franz Xaver.\nHerzog=Zimmermann, Frz. Xaver, Knecht.\n6 II. 305 Waffermann=Mollinet, Joh.\nWaffermann=Mollinet, Joh., Commis.\n7 I. 310 Stadtturm. Stadtgemeinde.\nSchuster=Piisch, Georg, Stadtgärtner.\n8 I. Sprizenhaus. Stadtgemeinde.\n9 I. 309 Stachelschützenhaus Stadtgemeinde.\n10 I. 309 A Sommer=Walter, Melchior.\nSommer=Walter, Melchior, Maler.\n11 I. 248 A Christen=Euler, Niclaus.\nChristen=Euler, Niclaus, Seidenfenfal.\nChristen, Immanuel, S. M. C.\n12 I. 248 Ehrengarten. Burckhardt=Werthemann, Wb. Char-\nlotte.\nBurckhardt=Werthemann, Wb. Charlotte,\nRentiere.\n13 I. 249 His=Burckhardt, Friedrich.\nHis=Burckhardt, Friedrich, Rentier.\n14 I. 250 Linder, Emilie, Jungfrau.\nJefelin=Jefelin, Abraham, Hypothekar.\n15 I. 251 A zum Rämmerlein. Knobel=Omiinder, Joh. Jacob.\nBureau v. Knobel u. König, Bandfabr.\nKnobel=Omiinder, Joh. Jacob, Bandfabr.\nMartin, Charlotte, Particularin.\nRestner=Martin, Wb. Fanny, Rentiere.\nSubit=Storck, Octave, Commis.\nDrehfus=Lang, Emanuel, Kaufmann.\nKreis, Joh. Jacob, Schreiner.\n16 I. 251 B Fäsch=Vinet, Johann de Johann.\nHerzog=Hässler, Emanuel, Lohndiener.\nHerzog, Achilles Emanuel, Commis.\nWeyer=Frey, Peter Steffan, Commis.\n17 I. 252 Degen=Frey, Joh. Jacob.\nDegen=Frey, Joh. Jacob, Ferger.\nDufti=Fischer, Jakob Eman., Commis.\n18 I. 253 Hersperger, Barbara.\nHersperger, Barbara, Particularin.\n19 I. 253 B zum Eichhörnchen. Birmann=Roger, Joh. Georg.\nBirmann=Roger, Joh. Georg, Postbeamt.\n20 I. 254 Grabened. Hoffmann, Maria Salome, Jungfr.\nHoffmann, Maria Salome, Rentiere.\nPfuggässlein.\n1 IV. 1178 c Rosenberg. Detloff=Lafontaine, Carl.\nStempelbureau.\nSpiller, Joh. Jacob, Buchbinder.\n8",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5349,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1865,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:44:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p178",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p178.jpg",
+      "bytes": 1424276,
+      "sha256": "156b7397e04cd5d5e96baafa72479d4e0b84a92a6430e67a8c1802419cdb75d0",
+      "sha256_of": "original",
+      "working_copy": "1862_p178.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:51+00:00"
+  }
+}

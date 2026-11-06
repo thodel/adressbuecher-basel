@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p188",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p188.jpg",
+    "bytes": 1417817,
+    "sha256": "7cfa07827a2a6df7e7246554f0f75831985b6f1acd172c037decb8ab2a42a0c5",
+    "sha256_of": "original",
+    "working_copy": "1862_p188.jpg"
+  },
+  "text": "Schlüsselberg. — Schnabelgäßlein. 123\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n8 | V. | 1445 A | Zunft z. Himmel. | Corporationsgut.\n  Erzberger-Krayer, Salomea, Zuckerbäck.\n  Christen, Sophia u. Sara, Kleinkindersch.\n  Siehe Freie Straße Nr. 33.\n9 | V. | 1452 | weißer Bär. | Buxtorf-Fetscherin, Friedrich.\n  Buxtorf-Fetscherin, Joh. Friedr., Wech-\n  selsensal.\n  Gengenbach-Buxtorf, Wb. Carol., Part.\n  Gengenbach, Carolina, Privatlehrerin.\n10 | V. | 1444 B | Gasthof z. Wilden- mann. | Brack, J. J.\n  Brack-Meister, J. J., Gastgeber.\n  Siehe Freie Straße Nr. 35.\n11 | V. | 1453 A | | Burckhardt-Dick, Aug.\n  Herzog-Reber, Emanuel, Rentier.\n12 | V. | 1443 | | Marfort-Flury, Wb. Salomea.\n  Siehe Freie Straße Nr. 37.\n13 | V. | 1453 | zum Schönenberg. | Burckhardt-Dick, Aug.\n  Burckhardt-Dick, Dr. med., Arzt.\n  Burckhardt, Aug., Commis.\n14 | V. | 1454 | zur Mücke. | Staat.\n  Realschule.\n15 | V. | 1455 | zum Landser. | Schaub-Kissel, Andreas.\n  Schaub-Kissel, Andr., J. U. D., Dienst-\n  botenrichter.\n  Schaub u. Zutt, Notariats- u. Advo-\n  katurbureau.\n  Hosch-Tschientschy, Ed., Eisenbahnbeamt.\n17 | V. | 1456 | Burghof. | Burckhardt-Brenner, Friedrich.\n  Burckhardt-Brenner, Dr. Friedr., Lehrer.\n  Burckhardt, Rud., Privatlehrer.\n  Notoriats- u. Advokaturbureau v. Dr.\n  Carl Wieland.\n\nSchnabelgäßlein.\n1 | VI. | 1703 | z. Hauenstein. | Dichtel-Bayer, Joh. Michael.\n  Dichtel-Bayer, Joh. Michael, Wirth.\n2 | VI. | 608 c | zum Pflug. | Hegner-Schneider, Steffan.\n  Schneider-Wagner, Martin, Wirth.\n3 | VI. | 1702 | | Weiß-Forster, Carl.\n  Weiß-Forster, Carl, Kübler.\n4 | VI. | 608 d | zum Pflug. | Hegner-Schneider, Steffan.\n5 | VI. | 1701 | | Frey-Rudin, Rudolf.\n  Frey-Rudin, Rud., Fabrikarbeiter.\n6 | VI. | 609 | | Levy, Abraham, sel. Erben.\n  Levy, Regine, Kleiderstoffhandlung.\n7 | VI. | 1701 A | | Best-Ditzler, Wb. Anna Maria Catharina.\n  Best-Ditzler, Wb. A. Mar. Cath., Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8952,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1957,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:53:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p188",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p188.jpg",
+      "bytes": 1417817,
+      "sha256": "7cfa07827a2a6df7e7246554f0f75831985b6f1acd172c037decb8ab2a42a0c5",
+      "sha256_of": "original",
+      "working_copy": "1862_p188.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:55+00:00"
+  }
+}

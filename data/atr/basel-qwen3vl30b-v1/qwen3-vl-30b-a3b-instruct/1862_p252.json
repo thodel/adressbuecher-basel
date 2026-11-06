@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p252",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p252.jpg",
+    "bytes": 1404297,
+    "sha256": "8c5c604bf39954fe8eb37d5ec60edf214d15ecabcab69c5f7da6bd9df9f68dc4",
+    "sha256_of": "original",
+    "working_copy": "1862_p252.jpg"
+  },
+  "text": "Ochfengasse. — Rappoltshof. 187\nNne\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=No.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n19 VII. 350\nzum Brunnen.\nFaesch=Salathe, Jakob.\nKling, Camill, Spengler.\n21 VII. 336\nz. schwarz. Adler.\nHuber=Berny, Jak. Christof.\nHuber=Berny, Jak. Christ., Seidenfär-\nbergehilfe.\n23 VII. 348\nRamradmühle.\nBell=Schaefar, Jakob.\nBell=Schaefar, Joh. Jak., Metzger u.\nWirth.\n25 VII. 347\nBischoff=Weber, Johann.\nRappoltshof.\n1 VII. 269\nRees=Winkler, Willibald.\nRees=Winkler, Willibald, Fabrikarb.\nWalter=Stadler, Joh., Maler.\n2 VII. 253\nBoerlin=Moessner, Jak.\nBoerlin=Moessner, Jak., Stuhlschreiner.\n3 VII. 254 Rappoltshof.\nBertrand=Kaiser, F.\n4 VII. 253\nBoerlin=Moessner, Jak.\n5 VII. 268\nZenker=Kurz, Jos., sel. Erben.\nGraeslin=Genter, Joh. Gg., Zimmerm.\nSchetty=Amann, Josef.\nSchlueb=Scherrer, Joh. Jak., Commis.\n6 VII. 255\nKray=Voeliger, Wb. Maria.\nKray=Voeliger, Wb. Maria, Part.\n7 VII. 267\nOpplinger, Mar. Magdal., Modiste.\nSchetty=Amann, Josef.\nSchetty=Amann, Jos., Seidenfärber.\n8 VII. 256\nSchetty=Amann, Josef.\n9 VII. 266\nz. St. Rappoltshof.\nKyhiner u. Söhne.\nKyhiner u. Söhne, Floretspinnerei.\n10 VII. 257\nz. St. Alaramühle.\nKyhiner u. Söhne.\n11 VII. 265\nMüry=Bolliger, Joh., Fabrik=Ausseher.\nSchetty=Amann, Josef.\n12 VII. 257 a\nBogt=Frey, Daniel, Wollwascher.\n13 VII. 264 B\nDiehl=Restenholz, Joh. Jak.\nDiehl=Restenholz, Joh. Jak., Schleifer.\n14 VII. 258\nKühlin=Nauer, Joh. Georg.\nKühlin=Nauer, Joh. Georg, Wascherei.\n15 VII. 264 A\nErny, Pancratiua.\nErny, Pancratiua, Zimmermann.\n16 VII. 260\nGerberei und Kalt=\nbadanstalt.\nBraun=Geßler, Andreas.\n17 VII. 263\nWenge=Multerer, Joh. Nep.\nWenge=Multerer, Joh. Nep., Kohlenhdlg.\n18 VII. 261\nKyhiner u. Söhne.\nTernck, Rudolf, Fabrik=Ausseher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5604,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1719,
+    "lines": 83,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0723,
+    "mean_line_chars": 19.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p252",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p252.jpg",
+      "bytes": 1404297,
+      "sha256": "8c5c604bf39954fe8eb37d5ec60edf214d15ecabcab69c5f7da6bd9df9f68dc4",
+      "sha256_of": "original",
+      "working_copy": "1862_p252.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:02+00:00"
+  }
+}

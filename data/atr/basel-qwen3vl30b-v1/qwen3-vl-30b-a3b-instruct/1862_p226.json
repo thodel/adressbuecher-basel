@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p226",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p226.jpg",
+    "bytes": 1448196,
+    "sha256": "84056868e534c75dce9a1ffc34859cb47b905a48da29e0ee32329a9c6cc531cf",
+    "sha256_of": "original",
+    "working_copy": "1862_p226.jpg"
+  },
+  "text": "Wallstraße. — Weidengasse. 161\nNrn. Haus-Nr. Quarti- Alte Name des Hauses. Namen der Hauseigenthümer\nHaus=No. tier. Haus=No. und Bewohner.\n5 IV. 898 D Gschwend-Ebner, Joh. Georg.\nGschwend-Ebner, Joh. Georg, Holzhändl.\nSchaad, Johannes, Bauführer.\nGschwend-Täjchler, Joseph, Maurer.\n6 IV. 896 H Bolliger-Hauri, Rudolf.\nBolliger-Hauri, Rudolf, Wirth.\nBais, Theophil, franz. Eisenbahnkassier.\nGutermeister, Stefan, Rentier.\n14 IV. Methodistenbethaus Nippert-Lindemann, Ludwig.\nNippert-Lindemann, Ludwig, Prediger.\n15 IV. 898 Holzach-Lippe, Franz.\n16 IV. Riggenbach-Jsclin, Albert.\n17 IV. 897 H Holzach-Lippe, Franz.\nHolzach-Lippe, Franz, Kaufmann.\nFirma Hans Jakob de Georg Müller\nColonialwaarenhandlung.\nHübscher-Falkner, Wb. Valeria, Rent.\n18 IV. 899 B Riggenbach-Jsclin, Albert.\nGobat-Monin, Viktor, Agenturgeschäft.\nOser-Best, Wb. Elisabeth, Part.\n20 IV. 899 C Glor-Haas, Johannes.\nGlor-Haas, Johannes, Cassier der\nFührbeamung.\nBujer, Jakob, Commis.\nEckert, Peter Paul, Zollbeamter.\n22 IV. 899 D Böllmy-Zutt, Joh. Jak.\nBöllmy-Zutt, Joh. Jak., Commis.\nBöllmy, Lukas, Lehrer.\nRapp-Uebelin, Joach., Bauunternehmer.\nSchaaf, Wb. Friederika, Part.\n24 IV. 899 F Schäublin-Boegtlin, Joh. Jak.\nSchäublin-Boegtlin, Joh. Jak., Lehrer.\nWalter-Wehrle, Emanuel, Commis.\nSchief-Gemuseus, Heinrich, Dr. med.\nBahnarzt.\nWeidengasse.\n2 V. 324 a Stehlin-Burdhardt, Joh. Jakob.\n4 V. 323 Stehlin-Burdhardt, Joh. Jakob.\nWütherich-Dettwyler, Friedr., Lehrbeff.\n8 V. 321 Stehlin-Burdhardt, Joh. Jak.\n14 V. 319 u. 320 Merian-Burdhardt, Christ., sel.\nErben.\n22 V. 318 Eßbach-Garnaus, Emanuel.\nEßbach-Garnaus, Emanuel, Gärtner.\nHerzperger-Herzperger, Jak.\nHerzperger-Herzperger, Jak, Spetter.\nSpahn-Reinhardt, Heinrich, Schneider.\n11",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5134,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1706,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p226",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p226.jpg",
+      "bytes": 1448196,
+      "sha256": "84056868e534c75dce9a1ffc34859cb47b905a48da29e0ee32329a9c6cc531cf",
+      "sha256_of": "original",
+      "working_copy": "1862_p226.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:34+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p264",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p264.jpg",
+    "bytes": 1409426,
+    "sha256": "eff7a9998ae8737937a085ff3892f321ece064ab4b28ead000c255dd91d7ad72",
+    "sha256_of": "original",
+    "working_copy": "1862_p264.jpg"
+  },
+  "text": "Niehenstraße.\n199\nNre\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n5 VIII. 9 . . . . . . . . . . . . . . Lindenmeyer, Georg, fel. Erben.\nLindenmeyer-Boehler, Wb. Catharina,\nWascherin.\n7 VIII. 10 . . . . . . . . . . . . . . Spahn-Jost, Conrad.\nSpahn-Jost, Conrad, Magazinknecht.\n8 VIII. 19 . . . . . . . . . . . . . . Eglin-Wegner, Wb. Maria Mag-\ndalena.\nEglin-Wegner, Wb. Mar. Magdalena,\nRentiere.\n9 VIII. 11 . . . . . . . . . . . . . . Labram-Böcklin, Wb. Marg.\nLabram-Böcklin, Wb. Marg., Part.\n10 VIII. 20 a . . . . . . . . . . . . . . Staehelin-Zimmerlin, Joh. Jac.\nSimmler-Frauenfelder, Johs., Gärtner.\n11 VIII. 12 . . . . . . . . . . . . . . Klein-Schmidlin, Joh. Jac.\nKlein-Schmidlin, Joh. Jac., Wascher.\n12 VIII. 20 . . . . . . . . . . . . . . Staehelin-Zimmerlin, Joh. Jac.\nMüller-Fritz, Jacob.\n13 VIII. 13 . . . . . . . . . . . . . . Müller-Fritz, Jacob, Wascher.\nStaehelin-Zimmerlin, Joh. Jac.\n14 VIII. 20 c . . . . . . . . . . . . . . Stadtgemeinde.\nHolzach-Aehrenbolg, Joh. Leonh., Bann-\nwart.\n15 VIII. 14 . . . . . . . . . . . . . . Sprikenhaus.\nMerian, Friederike u. Wilhelmine.\nBarth-BonderCrone, Aug., Kaufmann.\nBarth-Bernoulli, Samuel, Pfarrer.\n16 VIII. 21 . . . . . . . . . . . . . . Bertsche-Schardt, Heinrich.\nMerian, Friederike u. Wilhelmine.\n17 VIII. 16 . . . . . . . . . . . . . . Bertsche-Schardt, Heinrich.\n18 VIII. 21 a . . . . . . . . . . . . . . Bertsche-Schardt, Heinrich, Bandfabri-\nkant.\nRössel-Braun, Ludwig, Kaufmann.\nGyfin-Müller, Joh., Commis.\n19 VIII. 15 . . . . . . . . . . . . . . Merian, Friederike u. Wilhelmine.\nSchilling, Marcus, Lehrenbeständer.\nFriih, Joh. Georg, Gärtner.\n20 VIII. 21 b . . . . . . . . . . . . . . Bienz-Kaegelin, Jacob.\nBienz-Kaegelin, Jacob, Desfinateur.\nBurger, Franz, Zollamtsgehilfe.\nBeutler, Julius, Zollamtsgehilfe.\n21 VIII. 15 A . . . . . . . . . . . . . . Großh. bad. Eisenbahnverwaltung.\nStampfer-Otto, Wilhelm.\nStampfer-Otto, Wilh., Kaufmann.\nBrenzinger, August, Architekt.\nHolzmüller, Adolf, Part.\n22 VIII. 23 . . . . . . . . . . . . . . David, Rudolf.\nDavid, Rudolf, Seidenfärbiergehilfe.\n23 VIII. 17 . . . . . . . . . . . . . . Großh. bad. Eisenbahnverwaltung.\nAbele, Ludwig, Zollinspector.\n25 VIII. 18 . . . . . . . . . . . . . . Merian-Kyhiner, Wb. Elisabeth.\n26 VIII. 24 . . . . . . . . . . . . . . .\n28 VIII. 25 a . . . . . . . . . . . . . . .",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6822,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2369,
+    "lines": 63,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0159,
+    "mean_line_chars": 36.62,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p264",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p264.jpg",
+      "bytes": 1409426,
+      "sha256": "eff7a9998ae8737937a085ff3892f321ece064ab4b28ead000c255dd91d7ad72",
+      "sha256_of": "original",
+      "working_copy": "1862_p264.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:15+00:00"
+  }
+}

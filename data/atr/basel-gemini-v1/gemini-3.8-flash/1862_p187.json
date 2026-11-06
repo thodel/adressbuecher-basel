@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p187",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p187.jpg",
+    "bytes": 1272616,
+    "sha256": "311c14a7a3d1f44881ff61031bdaaf29eefdd14bd7bfb3e0b4f8340f09a18254",
+    "sha256_of": "original",
+    "working_copy": "1862_p187.jpg"
+  },
+  "text": "122 Schifflände. — Schlüsselberg.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nSchifflände.\n\n1 | VI. | 1533 | zum Bart. | Huber-Molitor, Joh. Jak.\n  Huber-Molitor, Joh. Jak., Apotheker.\n3 | VI. | 1531—32 | z. goldenen Kopf. | Isenhut-Braun, Eduard.\n  Isenhut-Braun, Ed., Gastwirth.\n  Wolf, J., amerikanischer Consul.\n  Weitnauer, Achilles, Cigarren- u. Ta-\n  bakhandlung.\n5 | VI. | 1530 | zur Krone. | Lindenmeyer-Müller, Friedrich.\n  Lindenmeyer-Müller, Fried., Gastwirth.\n  Danzas, Leveque u. Minet, Commis-\n  sion u. Spedition.\n6 | VI. | 126 A | Gewerbshalle ehem. | Staat.\n  Rheinlagerhaus. | Verkaufslokal des Handwerkervereins.\n7 | VI. | 125 A | z. klein. Rosenkranz. | Weibel, Daniel Adolf.\n  Weibel-Gerster, Wb. Cath., Part.\n  Lefebvre-Stark, Peter, Modenhandlung.\n  Weitnauer, Achilles, Commis.\n8 | VI. | 126 | ehem. Bestäterei d. | Staat.\n  Rheinlagerhaus. | Oswald-Falkner, Wilh. Eman., Kfm.\n9 | VI. | 125 | zum Rosenkranz. | Weibel, Daniel Adolf.\n  Weibel, Daniel Adolf, Cassewirth.\n  Gerspacher-Weibel, F. Alois, Cassewirth.\n10 | VI. | 124 | zum Agtstein. | Roschet, Christof Rudolf.\n  Roschet, Christof Rudolf, Conditor.\n  Glock, Gustav, Kaufmann.\n\nSchlüsselberg.\n\n1 | VI. | 1630 B | Zunft z. Schlüssel. | Corporationsgut.\n  Rumpf-Bachofen, Hier., Alt-Posthalter.\n  Siehe Freie Straße Nr. 25.\n2 | V. | 1448 B | | Respinger-Bernoulli, Emanuel.\n  Siehe Freie Straße Nro. 27.\n3 | V. | 1450 | zum Venedig. | Gesellschaft der Freimaurer.\n  Schimpf-Kunzelmann, Sebast., Schrein.\n  u. Abwart d. Freimaurerloge.\n4 | V. | 1447 A | zum Ehrenfels. | Brolly u. Albiez.\n  Brolly u. Albiez, Seidenwaarenhdlg.\n  Albiez-Staehle, Wb. Elis., Part.\n  Ecklin-Hetzel, Daniel, Dr. med., Arzt.\n  Albiez, Adolf, Kaufmann.\n  Siehe Freie Straße Nr. 29.\n5 | V. | 1451 | zu weiß. Bären. | Schwab-Düring, Joh. Jac.\n  Schwab-Düring, J. J., Gerichtsamtm.\n  Früh, Wb. Sophia, Rentiere.\n6 | V. | 1446 B | | Wahr, Carl u. Philipp.\n  Siehe Freie Straße Nr. 31.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10261,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2000,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:53:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p187",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p187.jpg",
+      "bytes": 1272616,
+      "sha256": "311c14a7a3d1f44881ff61031bdaaf29eefdd14bd7bfb3e0b4f8340f09a18254",
+      "sha256_of": "original",
+      "working_copy": "1862_p187.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:46+00:00"
+  }
+}

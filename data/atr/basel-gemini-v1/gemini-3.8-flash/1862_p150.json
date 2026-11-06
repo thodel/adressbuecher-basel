@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p150",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p150.jpg",
+    "bytes": 1501423,
+    "sha256": "d85c95dd9566163363facebf0c962e1703b0ce042ab83bac96c0d6c219fe18d8",
+    "sha256_of": "original",
+    "working_copy": "1862_p150.jpg"
+  },
+  "text": "Leonhardskirchplatz. Leonhards-Stapfelberg. Leonhards-Straße. 85\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n4 | III. |  | St. Leonhardskirche. | Staat.\n5 | III. | 693 A | Diaconatshaus. | Staat.\n  Respinger-Schnell, Joh. Rud., Pfarrer.\nSt. Leonhards-Stapfelberg.\n1 | III. | 684 |  | ImHof, Friedrich.\n  ImHof-Grob, Fried., Buchbinder.\n2 | III. | 683 | zur Klause. | Erhardt-Wittmer, Carl.\n  Erhardt-Wittmer, Carl, Zimmermann.\n  Kappeler-Mast, Johann, Schuhmacher.\n3 | III. | 685 | z. obern Reinach. | Löhler, Wb. Catharina.\n  Löhler-Fritschi, Wb. Cath., Kostgeberin.\n4 | III. | 687 | z. unt. Sennenhof. | Immler-Felber, Niclaus Wilh.\n5 | III. | 686 | zum Leuchter. | Christ, Christian.\n  Christ, Christian, Schuhmacher.\nSt. Leonhards-Straße.\n1 | III. | 750 | zur hohen Eck. | Probst-Münch, Samuel.\n  Probst-Münch, Samuel, Handelsmann.\n  Greiffenberg-Münch, Wb. Sophia, Rent.\n  Firma Greiffenberg u. Probst,\n2 | II. | 383 |  | Geigy, Jungfrau, Sophia.\n  Geigy, Sophia, Rentiere.\n4 | II. | 384 |  | LeGrand, Joh. Lucas.\n  LeGrand, Joh. Luc., Volontär im Mis-\n  sionshaus.\n  Lotz-LeGrand, Christof, V. D. M.\n  Respinger-Burckhardt, Wb. Marg.\n5 | III. | 749 A | zum Rosengarten. | Burckhardt-Burckhardt, Carl, Dr.\n  Magazin von R. Bloch.\n6–8 | II. | 385 u. a. | z. vord. Rosengarten. | Burckhardt-Burckhardt, Carl, Dr.\n  Burckhardt-Burckhardt, Carl, Dr.\n9 | III. | 747 A |  | Langmesser-Paravicini, David.\n  Magazin v. Keller u. Höues.\n10 | II. | 386 | zum Rosengarten. | VonSpeyr, Joh.\n  VonSpeyr, Joh., Kaufmann.\n  Courvoisier-VonderMühll, Louis, Rent.\n11 | III. | 747 |  | Stähelin-Merian, Wb. Maria.\n  Stähelin-Merian, Wb. Maria, Rent.\n  Burckhardt-Stähelin, Rudolf, Graveur.\n12 | II. | 386 A |  | Nörbel-Geymüller, Hier.\n  Nörbel-Geymüller, Hier., Küfer.\n13 | III. | 748 |  | Liechtenhan-Hagenbach, Joh. Rud.\n  Magazin.\n14 | II. | 387 |  | Bruckner, Eduard, u. L. Merian,\n16 | II. | 387 |  | Baumeister.\n17 | III. | 748 b |  | Liechtenhan-Hagenbach, Joh. Rud.\n  Magazin.\n18 | II. | 387 A |  | Schmidt-Stengelen, Carl.\n  Schmidt-Stengelen, Carl, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10729,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2120,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 40.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:48:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p150",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p150.jpg",
+      "bytes": 1501423,
+      "sha256": "d85c95dd9566163363facebf0c962e1703b0ce042ab83bac96c0d6c219fe18d8",
+      "sha256_of": "original",
+      "working_copy": "1862_p150.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:00+00:00"
+  }
+}

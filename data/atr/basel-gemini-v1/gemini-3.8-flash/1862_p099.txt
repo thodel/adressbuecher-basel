@@ -1,0 +1,48 @@
+34 | Davidsgasse. — Eisengasse.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Davidsgasse.
+1 | I. | 273 A | | Schöllkopf-Schumacher, Gottlieb Friedrich.
+  Schöllkopf-Schumacher, Gottl. Friedrich, Maurermeister.
+  Strub-Thommen, Fried., Wirth.
+  Heitz-Erismann, Joh. Jak., Kaufhausang.
+2 | I. | 274 A b | | Müller-Hauser, Joh. Jak. (Remise).
+4 | I. | 274 C. | | Iselin-DeBary, Rudolf.
+  (Remise und Stallung.)
+5 | I. | 273 B | | Bürgy u. Comp. Emanuel.
+17 | I. | 275 N | | Müller-Staehelin, Johs. Baumeist.
+  von Salis-Kern, Vinz. Kaufmann.
+  Kern-Schwerber, Louise, Wtwe. Part.
+  Kern, Emanuel, Kaufmann.
+
+Eisengasse.
+1 | VI. | 1519 | Polizeiposten. | Staat.
+2 | VI. | 1533 | zum Landeck. | Huber-Molitor, Joh. Jakob.
+  Huber-Molitor, Joh. Jak., Apotheker.
+  Dürschner, Karl, Kaufmann.
+3 | VI. | 1518 | zum Rheineck. | Soultzener-Widmer, Alexander.
+  Soultzener-Widmer, Alexand., Conditor.
+4 | VI. | 1534 | zum Morgenstern. | Wié, Jgfr. Nanette.
+  Wié, Jgfr. Nanette, Maison garnie.
+  Fröhlicher-Fleuriel, Franz Josef, Merceriehandlung.
+  Calame, Louis, Architekt.
+5 | VI. | 1589 | pinnwetternzunft. | Corporationsgut.
+  Lotz-Wölfflin, Daniel Eduard, Tabak- und Cigarren Handlung.
+  Wolf, Elie, Papier- u. Antiquitätenhdlg.
+  Elsner-Jahreis, Joh. Jak., Zunftabwart.
+6 | VI. | 1535 | | Haas-Honold, Carl.
+  Haas-Honold, Carl, Hutmacher.
+  Hübscher-Kleiber, Emil, Kaufmann.
+  Andres-Nägeli, Joh. Jak., Post-Cassier.
+7 | VI. | 1590 | zum Kauz. | Best-Theubet, Emanuel.
+  Best-Theubet, Emanuel, Kaufm. u. eidgenöß. Zoll-Controleur.
+  Theubet-d'Elgger, Victor, Oberst, Part.
+8 | VI. | 1536 | zum Pilger. | Reinhardt-Lotz, J. Conrad.
+  Reinhardt-Lotz, J. Conr., Handelsmann.
+  Comptoir von Rahn u. Trog, Agentur.
+  Rahn, Anton, Kaufmann.
+9 | VI. | 1591 | | Sulger-Stähelin, Andreas.
+  Sulger-Stähelin, Andr., Kaufmann u. Director der Centralbahn.
+  Schaub, J., Spezereihandlung.
+  Müller, Geschwister, Weißwaarenhdlg.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p379",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p379.jpg",
+    "bytes": 1433224,
+    "sha256": "42251e16371775da634238cf0fd46570f80e0c945b3b19f6a8d63e27bd0d8fae",
+    "sha256_of": "original",
+    "working_copy": "1862_p379.jpg"
+  },
+  "text": "314\nVerzeichniß der Bürger und Einwohner.\nMartin-Weiß, Joh. Jac., Weinsticher. Reb- | Maßinger, Friedr., Schneider. Rheingasse 50.\ngasse 36. | =Gerster, B. Christ., Fabrikarbeiter.\n— =Zeug, Rud., Hafner. Brunngäßlein 4. | Heuberg 38.\nMarty, Wb. Barbara, Taglöhnerin. Schüt- | =Gölzlin, Friedrich, Arbeiter. Rhein-\nzenmattstraße 17. | gasse 30.\nMasarey, Franz, Sohn, Seidenfärb. Weber- | =Joachim, Friedr., Zimmermann. Uten-\ngasse 30. | gasse 41.\n— =Gruber, Franz, Seidenfärb. Untere | =Sfenegger, G. Sam., Commis. Klybeck-\nRebgasse 18. | straße 11.\nMasselot-Kiefer, Franz, Gärtner. Grenz- | Leonhard Friedr., Spengler. Rebgaſse 18.\nacher Straße 72. | =Löw, Wb. Elisab., Part. Spalenvor-\nMaffini, Giovanni, Telegraphist. Blumen- | stadt 15.\nrain 25. | Lucas, Part. Steinenmillerweg 10.\n— =Seiler, Rud., Kaufmann. Marktplatz 6. | =Möschlin, Rud., Magazinarbeiter. Stei-\nMaßt, Jac., Färbergeselle. Hammerstraße 57. | nenvorstadt 67.\n— =Mähly, Joh. Jac., Postfactor. Vadder- | =Munich, Carl, Part. Hammerstraße 57.\ngäßlein 8. | =Schnäbelin, Wb. Christ. Dorothea, Nä-\n— =Müller, Wernh., Färber. Klingen- | therin. Rheingasse 50.\nthal 18. | =Schöttli, Bened., Schuhmacher. Weiße\n— =Pfannenschmid, J. J., Buchdruckerei- | Gasse 6.\nbesitzer. Gerbergäßlein 24. | =Siegel, Wb. Friederika Wilhelmine.\n— =Ryff, Jac. Friedr., Commis. Uten- | Rheingasse 72.\ngasse 38. | =Tschudi, Elisab., Zettlerin. Platzgäß-\n— =Stehelin, Joh., Maler. Schlitzennatt- | lein 3.\nstraße 33. | =Wäffler, Johs., Commis. Bisang-\n— Wilhelmine, Modiste. Webergasse 29. | weg 2.\nMathieu-Saner, Anton, Mechaniker. Stei- | =Wezel, Heinr., Kaminfeger u. Kohlen-\nneubachgäßlein 16. | wäscher. St. Alban-Thal 44.\n— =Winzler, Aug. Alex., Commis. Glä- | =Wirz, Gottlieb Rud., Kappenmacher.\nsäffer Straße 34. | Schneidergasse 14.\nMathys-Schauenburg, J. J., Commis. Gar- | =Wütherich, Emanuel, Feger. Freie\ntenstraße 64. | Straße 94.\n— =Waxmer, Wb. Marg., Part. Ger- | =Zwicky, Carl, Buchdrücker. Rebgaſse 10.\nbergäßlein 26. | Maul-Borf, Carl Alfred, Turnlehrer. Unterer\nMatt-Stadelmann, Alois, Taglöhner. In | Rheinweg 25.\nder Breite 11. | Maurer, Andreas, Commis. Rheinsprung 22.\nMatter-Chrijam, Johs., Seidenfärbergeselle. | =Haurv, Johs., Färbergeselle. Grenz-\nHammerstraße 100. | acher Straße 133.\n— =Müller, Johs., Fabrikarbeiter. Fabrik- | =Hediger, M., Schreinergeselle. Ger-\nstraße 19. | bergasse 70.\nMattes-Eisenhardt, Heinr., Eisenbahnauſseher. | =Siegrift, Elisab., Wascherin. Uten-\nSt. Clara-Straße 19. | gasse 39.\nMaßinger, Anna Elis., Part. Klybeckstraße 11. | =Wölfflin, Joh., Postdirector. Freie\n— Anna Elisab., Part. Rheingasse 88. | Straße 12.\n— Barbara, Rätherin. Spalenvorstadt 40. | Maurice-Gyfin, Jos., Wein- u. Agenturschäft. Barfüßergasse 3.\n— Barbara, Modiste. Rheingasse 14. | =Mac, Eugen, Gasarbeiter. Fabrik-\n— =Boller, Chr., Schriftseker. Schnabel- | straße 7.\ngäßlein 17. | May-Fäggi, Ludw., Portier. Stapfelsberg 7.\n— =Boller, Wb. Barbara, Fabrikarbeiterin. | =Seeber, Martin, Bierwirth. Greifengasse 27.\nSt. Peters-Platz 15. | Mayenfisch, Elisabeth, Rätherin. Rappolts-\n— =Buser, Christ., Magazinbeamter. Stei- | hof 5.\nnenberg 12. | =Gotthard, Kammnacher. Klimelins-\n— =Deggeler, Joh. Jac., Commis. Tod- | platz 2.\ntentanz 5. | Mayer, Adolf, englisch. Lehrer. Gerbergasse 30.\n— =Egger, Wb. Dorothea, Part. Mühlberg 3. | =Notburga, Kostgeberin. Grenzacher-\n— Elisabeth, Korbhändlerin. Schneider- | Straße 37.\ngasse 7. |\n— Emanuel, Schneider. Rebgaſse 10. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9184,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3441,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:11:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p379",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p379.jpg",
+      "bytes": 1433224,
+      "sha256": "42251e16371775da634238cf0fd46570f80e0c945b3b19f6a8d63e27bd0d8fae",
+      "sha256_of": "original",
+      "working_copy": "1862_p379.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:11:55+00:00"
+  }
+}

@@ -1,0 +1,54 @@
+St. Johann-Vorstadt.                                                                                       73
+Nene     Quarz-    Alte      Name des Hauses.    Namen der Hauseigenthümer
+Haus-Nr.  tier.     Haus-Nro.                                        und Bewohner.
+58       I.        24        zur Fortuna.        Roehlin=Burckhardt, Samuel.
+59       I.        9         . . . . . . . . .  Roehlin=Burckhardt, Samuel, Rentier.
+59       I.        9         . . . . . . . . .  Roehlin, Eduard, Bandfabrikant.
+59       I.        9         . . . . . . . . .  Hübscher=Lichtenhahn, Wilhelm und
+59       I.        9         . . . . . . . . .  Sprünglin, David.
+59       I.        9         . . . . . . . . .  Rienzy=Schweizer, Leonh., Fuhrhalter.
+59       I.        9         . . . . . . . . .  Abt=Abt, Heinrich, Kostgeber.
+59       I.        9         . . . . . . . . .  Hosh=Frey, Lucas, Schuhmacher.
+59       I.        9         . . . . . . . . .  Gysin=Raiser, Heinrich, Maurer.
+60       I.        21        . . . . . . . . .  Rocherhans=Trinnler, Hans.
+60       I.        21        . . . . . . . . .  Rocherhans=Trinnler, Hans, Part.
+60       I.        21        . . . . . . . . .  Strübin=Siegrist, Wb. Cath., Kinderlehr.
+61       I.        6         . . . . . . . . .  Rienzy=Oswald, Wb. Judith.
+61       I.        6         . . . . . . . . .  Rienzy=Oswald, Wittwe Judith, Part.
+61       I.        6         . . . . . . . . .  Rienzy, Johannes, Bäcker.
+62       I.        20        z. weisen Himmel.  Weiß=Sütterlin, Johann Heinr.
+62       I.        20        z. weisen Himmel.  Weiß=Sütterlin, Joh. Heinr., Bäcker.
+62       I.        20        z. weisen Himmel.  Böglin=Beurmann, August.
+63       I.        4         . . . . . . . . .  Böglin=Beurmann, August, Bäcker.
+63       I.        4         . . . . . . . . .  Brudermann=Dettwylcr, Mart., Appret.
+64       I.        19        zum schwarzen Kopf. Gerber=Hack, Joh.
+64       I.        19        zum schwarzen Kopf. Gerber=Hack, Johannes, Wirth.
+64       I.        19        zum schwarzen Kopf. Vocay=Zundt, Eugen, Lehrer.
+65       I.        3         . . . . . . . . .  Hufschmied=Hartmann, Jacob.
+65       I.        3         . . . . . . . . .  Hufschmied=Hartmann, Jacob, Spezier.
+66       I.        18        . . . . . . . . .  Rienast, Rudolf.
+66       I.        18        . . . . . . . . .  Rienast, Rudolf, Seidenfärbereijelle.
+66       I.        18        . . . . . . . . .  Fosseler, S. u. Agent.
+67       I.        2 C       . . . . . . . . .  Hübscher u. Sprünglin.
+67       I.        2 C       . . . . . . . . .  Hek=Frey, Joh. Jakob, Weinhändler.
+68       I.        17        . . . . . . . . .  Tschopp, Joh. Jacob.
+68       I.        17        . . . . . . . . .  Tschopp=Erb, Joh. Jacob, Stuhlschreiner.
+68       I.        17        . . . . . . . . .  Tschopp, Joh. Jacob, Particular.
+69       I.        2 B       . . . . . . . . .  Hübscher u. Sprünglin.
+69       I.        2 B       . . . . . . . . .  Hegetschwyler, Joh., Cigarrenfabrikant.
+69       I.        2 B       . . . . . . . . .  Mieg=Koos, Wb. Rosina, Rentiere.
+70       I.        15—16     . . . . . . . . .  Klipfel=Born, Gg. Heinrich.
+70       I.        15—16     . . . . . . . . .  Klipfel=Born, Gg. Heinrich, Weinhdlg.
+71       I.        2 A       . . . . . . . . .  Häfeli=Buz, Joseph.
+71       I.        2 A       . . . . . . . . .  Häfeli=Buz, Joseph, Wirth u. Kostgeb.
+71       I.        2 A       . . . . . . . . .  Bader, Philipp, Schuhmacher.
+72       I.        14        . . . . . . . . .  Zaeslin=Roelly, Wb. Catharina.
+72       I.        14        . . . . . . . . .  Zaeslin=Roelly, Wb. Cath., Part.
+73       .         .         Rapelle.            Corporationsgut. (Bann v. St. Peter
+73       .         .         Rapelle.            und St. Leonhard.)
+74       I.        12        . . . . . . . . .  Edlin=v. Mechel, Wb. Serena Barb.
+74       I.        12        . . . . . . . . .  Edlin=v. Mechel, Wb. Serena Barb., Kent.
+76       I.        8         . . . . . . . . .  Gerber=Mangold, Joh. Jac.
+76       I.        8         . . . . . . . . .  Gerber=Mangold, F. F., Wirth u. Kostg.
+78       I.        7         . . . . . . . . .  Klipfel=Born, G. Heinrich.
+78       I.        7         . . . . . . . . .  Remise und Stallung.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p212",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p212.jpg",
+    "bytes": 1435197,
+    "sha256": "cb006a5c38202f1c8bda338fe8514861736fcd27522a2fb77f3bad066d7c8309",
+    "sha256_of": "original",
+    "working_copy": "1862_p212.jpg"
+  },
+  "text": "Steinenbachgäßlein. — Steinenberg. 147\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n27 III. 782 Bed=Seifert, Hieronimus.\nSiehe Nr. 32 Steinenvorstadt.\n28 III. 779 Benz=Leuenberger, Johannes.\nBenz=Leuenberger, Joh., Landjägerlieut.\n35 III. 785 Binkert=Studer, Alois.\nSiehe Nr. 40 Steinenvorstadt.\n36 III. 792 Hoffmann, Joh. Jacob.\n38 III. 793 Müller=Frey, Joh. Jacob.\nMüller-Frey, Joh. Jacob, Fabrikarbeiter.\n40 III. 795 Hug, Johs., sel. Erben.\nHug=Baery, Adolf.\n42 III. 795 C Hug, Johs., sel. Erben.\n45 III. 791 A Kunz=Meyer, Rudolf.\nSteinenberg.\n1 IV. 931 Staehelin, F. Jak. Theol. Dr. u. Prof.\nStaehelin=Bucknor, Carl, Kaufmann.\nStaehelin=Hagenbach, Ernst, Pfarrer.\n3 IV. 934 Weibel=Meyer, Rudolf.\nWeibel=Meyer, Rudolf, Kaufmann.\nWeibel=Haufer, Rudolf, Commis.\nWeibel, Friedrich, Commis.\n4 III. 937 ehemalig. Mädchen-\nschulhaus.\nStadtgemeinde.\nKelterborn=Märklin, L. A., Zeichnungs-\nlehrer.\n5 IV. 935 Burckhardt, Maria, Jungfrau.\nBurckhardt, Maria, Rentiere.\n6 III. 937 A Zeich.=u. Modellirsch.\nStadtgemeinde.\n7 IV. 936 Pfarrhaus.\nStaat.\nSartorius=Burckhardt, Achilles Wilhelm\nCarl, Pfarrer.\n8 III. 937 B Kaufhaus.\nStadtgemeinde.\n9 IV. 828 Blömleinkaserne.\nStaat.\nHindenlang, Lucas, Oberstlieutenant.\nHoch=Schneider, Theodor, Lehrer.\nSchneider=Meyer, Daniel, Major.\nBauer=Maire, Ferdinand, Fehstmeister.\n10 III. 937 B d Kaufhaus.\nStadtgemeinde.\nCompt. v. Glock u. Hübscher, Speditions-\ngeschäft.\n12 III. 937 B Kaufhaus.\nStadtgemeinde.\nSchultheß=Schmidt, Diethel., Notariatsb.\nThommen, Joh., Sohn, Speditionsgech.\nKrajer=Alt, Em., Kaufhausinspector.\nMazinger=Bofer, Magazinbeamter.\nWeinzollbureau.\nHeuwagbureau.\n14 III. 733 Stadtcasino.\nCasinogesellschaft.\nCramer=Schnegg, Jos., Abwart.\n10*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5193,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1743,
+    "lines": 68,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0735,
+    "mean_line_chars": 24.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p212",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p212.jpg",
+      "bytes": 1435197,
+      "sha256": "cb006a5c38202f1c8bda338fe8514861736fcd27522a2fb77f3bad066d7c8309",
+      "sha256_of": "original",
+      "working_copy": "1862_p212.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:13+00:00"
+  }
+}

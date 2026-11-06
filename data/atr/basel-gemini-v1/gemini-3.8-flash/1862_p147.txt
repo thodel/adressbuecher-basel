@@ -1,0 +1,49 @@
+82 | St. Leonhards-Graben.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+3 | II. | 456 B | zum neuen Eck. | Kaufmann-Neukirch, Rudolf.
+  Kaufmann-Neukirch, Rud., Kaufmann.
+  Bureau von Kaufmann u. Lüscher, Agentur u. Bankgeschäft.
+4 | II. | 355 | zur klein. Friedenau. | Raff, Joh. August.
+  Raff, Johann August, Getreidehändler.
+6 | II. | 356 | Eisenmagazin. | Paravicini, Leonhard.
+  Hägler-Laub, Mathias, Ladendiener.
+  Hägler, Samuel, Commis.
+7 | II. | 454 A | | Herrmann-Fischer, Heinrich.
+  Herrmann-Fischer, Heinr., Möbel- und Bettwaarthandlung.
+8 | II. | 358 | | Picard-Dreyfus, Abraham.
+  Picard-Dreyfus, Abraham, Kaufmann.
+9 | II. | 453 | zum rothen Helm. | Henke-Salathe, Wb. Catharina.
+  Siehe Nr. 59 Spalenberg.
+10 | II. | 359 | zum Neuhof. | Dietschy-Faesch, Johannes.
+  Dietschy-Faesch, Joh., Wein- u. Spirituosenhandlung.
+  Faesch, Ludw. Eduard, Kaufmann.
+  Zäslin-Faesch, Daniel, "
+11 | II. | 452 | | Hartmann-Keck, Gottlob.
+  Hartmann-Keck, Gottlob, Spengler.
+  Siehe Nr. 57 Spalenberg.
+12 | II. | 361 | | Meyer-Keller, Philipp.
+  Meyer-Keller, Philipp, Kaufmann.
+  Wirth, Johannes, Lohnkutscher.
+13 | II. | 451 | zum Pelikan. | Lichtenhahn-Merian, Jacob.
+  Lichtenhahn-Merian, Jacob, Gypser u. Stuccator.
+  Burckhardt, Eduard, Stuccator.
+  Siehe Nr. 55 Spalenberg.
+14 | II. | 362 | | Von Speyr u. Comp.
+  (Magazin.)
+15 | II. | 450 | zur Tanne. | Stähelin-Bischoff, Chr., Pfarrer in Riehen.
+  Siehe Nr. 53 Spalenberg.
+16 | II. | 363 | | Hartmann-Merker, Heinrich.
+  Hartmann-Merker, Heinrich, Schreiner.
+17 | II. | 449 | zum Limburg. | Stehelin-Merian, Georg Emil.
+  Stehelin-Merian, Gg. Emil, Dr. med.
+  Siehe Nr. 51 Spalenberg.
+18 | II. | 365 | | Meyer-Mieg, Wb. Maria.
+  Meyer-Mieg, Wb. Maria, Rentiere.
+19 | II. | 448 | zur Löwengrube. | Merian-Reber, Johannes.
+  Merian-Reber, Johannes, Particular.
+20 | II. | 369 | | Ludwig-Frey, Wb. Anna Elisabeth.
+  Scholer-Bühler, Niklaus, Commis.
+  Wolf-Hunziker, Friedrich, Commis.
+  Kienzlin-Eichacker, Joh. Jac., Tapezier.

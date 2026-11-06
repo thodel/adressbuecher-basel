@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p267",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p267.jpg",
+    "bytes": 1251873,
+    "sha256": "738134d2dc75c45406cfa04261df3aac0d18006033aac29caad112750cb83cd7",
+    "sha256_of": "original",
+    "working_copy": "1862_p267.jpg"
+  },
+  "text": "202 | Riehenthorstraße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n12 | VIII. | 116 | Karthhausecke. | Bernoulli-Baer, Leonhard.\n13 | VIII. | 119 | | Ruegg-Gräslin, F. Emil.\n  Ruegg-Gräslin, Joh. Emil, Maler.\n  Bregger-Koepfer, Ambrosius, Fuhr-\n  halter.\n  Straßer-Zurfluh, Wilh., Commis.\n14 | VIII. | 126 | | Stockmeyer-Rietschlin, Abraham.\n  Stockmeyer-Rietschlin, Abrah., Ellen-\n  waarengeschäft.\n15 | VIII. | 120 | | Kammerer, Simon, sel. Erben.\n  Stadelmann-Augsburger, Frz. Josef,\n  Particular.\n  Kaufmann-Augsburger, Ant., Fuhr-\n  halter.\n16 | VIII. | 125 | | Hecht-Gehrig, Wb. Gertrud.\n  Hecht-Gehrig, Wb. Gertrud, Wälder-\n  uhrenverkauf.\n  Burge-Schwarzwaelder, Moritz, Caffee-\n  wirth.\n  Bürge, Jacob, Kunstgärtner.\n17 | VIII. | 121 | zur Aberart. | Schmidlin-Naegelin, Jacob.\n  Schmidlin-Naegelin, Jacob, Maler.\n18 | VIII. | 124 | | Bresin-Knaus, Joh. Martin, sel.\n  Erben.\n  Bresin-Knaus, Wb. Judith, Bäcker.\n  Staab-Stelzer, Hch., Schiffmann.\n20 | VIII. | 123 | | Gisel-Murbach, Joh. Jac.\n  Gisel-Murbach, Joh. Jac., Fruchthdlr.\n  Müller-Bipp, Jac., Viehhändler.\n  Studer-Walliser, Josef, Fruchthändler.\n21 | VIII. | 122 | zum Zellenberg. | Bieler-Salathe, Joh. Jac.\n  Bieler-Salathe, Joh. Jac., Küfer.\n  Krebs-Etienne, Johs., Commis.\n22 | VIII. | 149 | zum hohen Wind. | Stoll-Nageleisen, Eberhard.\n  Stoll-Nageleisen, Eberhard, Fuhrhalter.\n  Otto, Emanuel, Rathsboſe.\n23 | VIII. | 146 | zum Dupf. | Gaß-Schlosser, Johannes.\n  Gaß-Schlosser, Johs., Bäcker.\n24 | VIII. | 148 | | Weiß-Gaß, Thomas.\n  Weiß-Gaß, Thomas, Spezierer und\n  Wirth.\n  Weiß, Abraham Jac., Bäcker.\n25 | VIII. | 145 | | Kempf-Strübin, Joh. Jac.\n  Kempf-Strübin, Joh. Jac., Bäcker u.\n  Wirth.\n26 | VIII. | 147 | zur kl. Augenweide. | Birmann, Niclaus Friedrich.\n  Birmann, Niclaus Friedr., Bäcker.\n  Sutter-Lüscher, Carl Friedr., Bäcker.\n27 | VIII. | 142 | zum Ochsen. | Maeglin-Müller, Christof.\n  Maeglin-Müller, Christof, Wirth u.\n  Metzger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8563,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1992,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0377,
+    "mean_line_chars": 35.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:05:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p267",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p267.jpg",
+      "bytes": 1251873,
+      "sha256": "738134d2dc75c45406cfa04261df3aac0d18006033aac29caad112750cb83cd7",
+      "sha256_of": "original",
+      "working_copy": "1862_p267.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:40+00:00"
+  }
+}

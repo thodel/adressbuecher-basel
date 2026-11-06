@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p448",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p448.jpg",
+    "bytes": 1637112,
+    "sha256": "5301fc54eef06c96275374eb9b1c66d414051ff713541d7d130c991b015069bd",
+    "sha256_of": "original",
+    "working_copy": "1862_p448.jpg"
+  },
+  "text": "Verzeichniß der Berufsarten. 383\n\nMusiklehrerinnen.\nConradi, Christina Dorothea. Barfüßerplatz 9.\nKircher, Fräul. Aeschengraben 24.\nRüttimann, Pauline. Neue Vorstadt 7.\n\nNadler.\nGehrig, Engelbert. Weiße Gasse 10.\n\nNagelschmied.\nBarth, Math. Schützenmattstraße 15.\n\nNägel-Handlung.\nGermann, J. G. Barfüßergasse 12.\n(Siehe auch Eisenhandlungen.)\n\nNudelmacherinnen.\nDüring-Kohler, Wb. Verena. Rheingasse 90.\nErlacher-Degen, Magd. Imbergäßlein 5.\nGrether, Anna Cath. Münsterberg 8.\nStolz-Baumann, Anna. Spalenvorstadt 37.\n\nObsthändler.\nBaumgartner, Franzisca. Schnabelgäßlein 12.\nGrollimund-Bader, Wb. Imbergäßlein 9.\nHartmann, Elis. Weiße Gasse 13.\nMüller-Frey, Heinr. Steinenringweg 17.\nSaladin, Anna Mar. Bäumleinhofweg 10.\nWalser-Bloch, Joh. Gerbergasse 32.\n\nOfenfabrikanten.\nAckermann, Dan. Gerbergasse 73.\nBemmerer, Ludw. Freie Straße 65.\nCappeler, Abr. (Kachelofen). Neue Vor-\nstadt 25.\nDenzler, Rudolf (Kachelofen). Küchegäßlein 7.\nDubach, Georg. Steinenvorstadt 30.\nLinder, J. J. (Kachelofen). Sternengäßlein 23.\nPlattner, M. St. Leonhardsberg 16.\nSchlöth, Georg Friedr. Ludw. Hasenberg 5.\nStutz, Friedr. St. Peters-Gasse 10.\n\nOptiker.\nIberg, Gottl. Freie Straße 60.\nKunz, Friedr. Freie Straße 17.\n\nOrganisten.\nFaesch, Leonh. Lindenberg 15.\nHamma, Franz. Rebgasse 52.\nJucker, Bened. Bäumleingasse 12.\nLöw, Rudolf. Steinenthorstraße 45.\nProbst, Jak. Allschwyler Straße 77.\nRenz, Carl. Rebgasse 15.\nSchuster, Aug. Hammerstraße 66.\nWagner, Joh. Heuberg 10.\n\nOrgelbauer.\nGras, Ludw. Joh. Steinenthorstraße 8.\n\nPacktuch-Handlungen.\nFischer-Miville, Emil. Gerbergasse 38.\nMeister, Dietr. Spalenberg 19.\n\nPapier- und Schreibmaterial-Handlungen.\nFischer, H. u. Comp. Schneidergasse 33.\nFuchs, J. L. u. Comp. Marktplatz 2.\nSchabelitz, J. C. Freie Straße 71.\nSchardt, Em. Gerbergasse 32.\nStuder, J. F. Bäumleingasse 12.\nVest, J. R. Freie Straße 97.\nWolf, Elie. Eisengasse 5.\n\n[spalte 2]\nPapierfabriken.\nBertsche u. Steinbrüchel. Bachlettenstraße 21.\nOser u. Gemuseus. St. Albanthal 24.\nThurneysen'sche Papierfabrik. St. Alban-\nthal 34.\n\nParfümeriehändler.\n(Siehe auch unter Coiffeur.)\nBurckhardt, Chr. v. Chr. Freie Straße 4.\nGräf, Phil. Gerbergasse 53.\nKieser, Georg. Freie Straße 23.\nLang, Rud. Freie Straße 43.\nPhilippi-Stierlin. Freie Straße 6.\nStrübin-Roduner. Sporengasse 14.\n\nParquetschreiner.\nBienz, Joh. Georg. Byfangweg 8.\nGrimm, Eduard. Steinenvorstadt 48.\nSchmäh-Engesser, Felix. Heumattstraße 10.\nWepf, Felix. St. Margarethen-Straße 15.\n\nPastetenbäcker siehe Zuckerbäcker.\n\nPelzwaarenhändler.\nDürr, Rud. Freie Straße 85.\nGaußer, Wilh. Freie Straße 24.\nHeer, Heinr. Gerbergasse 46.\nHübscher, Adolf. Eisengasse 21.\nPfisterer, Heinr. Rud. Sporengasse 3.\nRoschet, Emil. Spalenberg 9.\nWetzler, Fr. Hutgasse 4.\n\nPerrukier siehe Coiffeur.\n\nPferdehändler.\nBloch, Alex. Roßhofgasse 7.\n\nPferdehaarhändler.\nHalter, J. J. Kronengasse 11.\nPreiswerk-Keller, Dietr. St. Johann-Vor-\nstadt 22.\nRoschet, Carl. Spalenberg 9.\n\nPflästerer.\nFausel, Gottl. Rheingasse 2.\nHottinger-Knöchel, El. Greifengasse 31.\n\nPhotographen.\nBaer, Gottl. Gerbergasse 69.\nBucher, Joh. Webergasse 15.\nHerzog, Franz Xaver. Blumenrain 28.\nHeß, Andr. Schneidergasse 28.\nHöslinger, J. Steinenvorstadt 24.\nMaeglin, Isaac. Rebgasse 45.\nParisel, Balth. Ferd. Barfüßerplatz 30.\nSchröter, Fried. Eisengasse 10.\n\nPolstermöbellager.\nBeurmann, Emil. Steinenthorstraße 21.\nKehlstadt, Adolf. Spalenberg 20.\nKienzlin, Joh. Jak. St. Leonhards-Graben 20.\nKoch, Franz. Weiße Gasse 28.\nSalathe, Jacob. Bäumleingasse 12.\nSchultheß, Paul. Freie Straße 91.\nWeiß, Joh. Steinenvorstadt 25.\n\nPorcellanhändler.\nGroben, Geschwister. Freie Straße 21.\nKieser, Georg. Freie Straße 23.\nVest, Eman. Eisengasse 7.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 13709,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3647,
+    "lines": 120,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0083,
+    "mean_line_chars": 29.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:46:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p448",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p448.jpg",
+      "bytes": 1637112,
+      "sha256": "5301fc54eef06c96275374eb9b1c66d414051ff713541d7d130c991b015069bd",
+      "sha256_of": "original",
+      "working_copy": "1862_p448.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:46:52+00:00"
+  }
+}

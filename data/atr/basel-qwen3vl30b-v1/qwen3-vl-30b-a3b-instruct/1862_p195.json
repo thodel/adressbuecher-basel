@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p195",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p195.jpg",
+    "bytes": 1309692,
+    "sha256": "a2d7c0b04c07ded933be85f4269ad5bb2071d6da27ddb168a5dce34b7a7daf21",
+    "sha256_of": "original",
+    "working_copy": "1862_p195.jpg"
+  },
+  "text": "130\nSchüzenmattstraße. — Schwanengasse.\nNro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nro. | | und Bewohner.\n------ | ----- | ----- | ------------- | ----------------------\n27 | III. | 144 | | Meyer=Best, Gedeon.\n31 | III. | 142 | | Geßler=Marian, Rudolf.\n33 | III. | 141 | | Maß=Stehelin, Johann.\n | | | | Maß=Stehelin, Johann, Maler.\n | | | | Klaiber=Dettinger, Louis, Kaufmann.\n | | | | Schneider=Weihrauch, Gust., Präparator.\n37 | III. | 140 A | | Zaeslin=Falkelsen, Conrad.\n | | | | Friedrich=Knapp, Joh. Jak., Unternehmer\n | | | | von Entleerungs- und Erdarbeiten.\n41 | III. | 140 C | | Müller=Mathis, Wilhelm.\n | | | | Mangold=Tröndle, Jakob, Lehennann.\n43 | III. | 140 | | Ludwig=Edenstein, Andreas.\n | | | | Hill, Philipp Andreas, Blattmacher.\n | | | | Huber=Schreck, Jakob, Gärtner.\n | | | | Joos=Cavin, Franz Jos., Gießer.\n | | | | Schneider=Jung, Martin, Bannwart.\n | | | | Ludwig=Edenstein, Andreas.\n | | | | Eisengießerei.\n45 | III. | 140 B | | Merkle=Klipsel, Albert.\n49 | III. | 170 | | Simmoth=Speifer, Julius Otto.\n51 | III. | 171 | | Stadtgemeinde. (Spritzenhaus.)\n54 | II. | 173 | Bohrhäuslein. | LeGrand=Werthemann, Wb. Marg.\n55 | III. | 172 A | | Ammann, Georg, Lehennann.\n | | | | Stadtgemeinde.\n56 | II. | 174 | Schützenhaus. | Keller=Seifert, Ulrich, Wirth.\n | | | | LeGrand=Werthemann, Wb. Marg.\n57 | III. | 172 | | Schützengesellschaft.\n58 | II. | 174 B | Schießstand. | Schützengesellschaft.\n60 | II. | 174 c | Scheibenhaus. | Schützengesellschaft.\n64 | II. | 178 | Schützmattenscheune | Stadtgemeinde.\n65 | III. | 179 | | LeGrand=Werthemann, Wb. Marg.\nSchwanengasse.\n1 | VI. | 140 | zur St. Ursula. | Roschet=Hindermann, Hieronimus.\n | | | | Roschet=Hindermann, Hieronim., Sattler.\n | | | | Heidegger=Hartmann, Friedrich, Seiden-\n | | | | fensal.\n2 | I. | 139 | zum Korb. | Wieland=Landerer, Wb. Babette.\n | | | | Schweighauser'sche Sortimentsbuchhand-\n | | | | lung (H. Amberger).\n | | | | Schweighauser'sche Verlagsbuchhandlung\n | | | | und Buchdruckerei.\n | | | | Redaction und Expedition der Basler\n | | | | Nachrichten.\n | | | | Flersheim u. Comp., Bandhändler.\n3 | VI. | 141 | Blumenschmiede. | Früh=Hörler, Ludwig.\n | | | | Früh=Hörler, Ludwig, Schmied.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6211,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "repetitive",
+    "chars": 2234,
+    "lines": 51,
+    "longest_char_run": 22,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0098,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p195",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p195.jpg",
+      "bytes": 1309692,
+      "sha256": "a2d7c0b04c07ded933be85f4269ad5bb2071d6da27ddb168a5dce34b7a7daf21",
+      "sha256_of": "original",
+      "working_copy": "1862_p195.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:32+00:00"
+  }
+}

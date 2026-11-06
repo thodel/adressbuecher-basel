@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p215",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p215.jpg",
+    "bytes": 1311964,
+    "sha256": "5711ae13138a73df070d90af1f229eb74fc79baaeee6ae3a1acbf6d5d229c4e3",
+    "sha256_of": "original",
+    "working_copy": "1862_p215.jpg"
+  },
+  "text": "150\nSteinenthorfstraße.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n22\nIII. 853\nzum St. Andreas.\nParavicini-Meyer, Joh. Ludwig.\nParavicini-Meyer, Joh. Ludwig, Zim-\nmermeister.\nParavicini-Merian, Ludwig, Zimmer-\nmeister, Particular.\n23\nIII. 870\nMerian-Brandmüller, Friedrich.\nMerian-Brandmüller, Friedrich, Bierbr.\nMerian-Sliffert, Ludwig, Particular.\nBrandmüller-Eckenstein, Joh. Heinrich,\nParticular.\n25\nIII. 869\nzum blauen Wind.\nRiggenbach-Huber, Wb. Charlotte.\nRiggenbach-Huber, Wb. Charlotte, Part.\nRiggenbach-Holzach, Johan., Professör\nDr. der Theologie.\n27\nIII. 868\nz. äuß. blauen Wind.\nOppermann-Landerer, Carl.\nOppermann-Landerer, Carl, Flachmaler.\nOppermann, Carl, Sohn, Flachmaler.\nSommer-Müller, Rudolf, Bäcker.\nMunzinger-Landerer, Wb. Margaretha,\nParticularin.\n29\nIII. 867\nWeber-Marfort, Rudolf.\nWeber-Marfort, Rudolf, Metzger.\nMüller-Herport, Anton, Eisenbahnbeamt.\nHarder, Sophie, Privatschule.\nHöfl-Heerele, Friedrich, Concertmeister.\n30\nIII. 854\nBürgin, Heinrich.\nBürgin, Heinrich, Seifen- und Lichter-\nfabrikant.\nFrey-Hoße, Daniel, Zollbeamter.\nLuttringshausen-Cuat, Eduard, Commis.\n31\nIII. 866\nzur Laterne.\nMüller-Pfau, Joh. Jacob.\nMüller-Pfau, Joh. Jacob, Brunnenftr.\n32\nIII. 855\nHinterhaus.\nDeck-Ernst, Wilhelm Peter.\nStingelin-Seiler, Jacob, Maler.\nVölmy-Kieder, Heinrich, Mechaniker.\n33\nIII. 865\nRöslein-Härry, Johann Rudolf.\nRöslein-Härry, Johan. Rudolf, Fabrik-\narbeiter.\nRöslein, Rud., Ausläuf. b. Baucollegium.\n34\nIII. 855\nDeck-Ernst, Wilhelm Peter.\nNeufomm-Weiß, Joh. Georg, Wirth.\n35\nIII. 864\nFrüh-Bölsterli, Friedrich.\nFrüh-Bölsterli, Friedrich, Commis.\n36\nIII. 856\nStehle-Jourdan, Albert.\nStehle-Jourdan, Albert, Metzger.\n37\nIII. 863\nzum Balchen.\nHartmann-Schäublin, Johannes.\nHartmann-Schäublin, Joh., Bäcker.\nHartmann, Eduard, Dessinateur.\nBienz, Gabriel, Metzger.\n38\nIII. 857\nRoth-Rothmund, Jacob.\nRoth-Rothmund, Jacob, Fabrikmeister.\nStuder-Ruhn, J. C., Spezierer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5586,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1951,
+    "lines": 97,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0206,
+    "mean_line_chars": 19.12,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p215",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p215.jpg",
+      "bytes": 1311964,
+      "sha256": "5711ae13138a73df070d90af1f229eb74fc79baaeee6ae3a1acbf6d5d229c4e3",
+      "sha256_of": "original",
+      "working_copy": "1862_p215.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:30+00:00"
+  }
+}

@@ -1,0 +1,49 @@
+Nebgasse.
+189
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+14 | VIII. | 197 | Burgvogtei od. zu d. 13 alt. Kanton. | Tester=Geßler, Josua.
+ | | | | Thommen=Meyer, Hans, Kaufmann.
+ | | | | Bell=Storck, Rudolf, Metzger.
+ | | | | Schabelik=Loz, Diet., Commis u. Bierwirth.
+15 | VIII. | 180 | zum Dolder. | Meyer, Georg, Fuhrhalter.
+ | | | | Renz=DeKoche, Carl.
+ | | | | Renz=DeKoche, Carl, Chemiker.
+ | | | | Renz, Marie, Lehrerin.
+ | | | | DeKoche, Paul Samuel, Chemiker.
+ | | | | Renz=Buser, Carl Ludw., Chemiker.
+16 | VIII. | 192 | zum Schaf. | Albrecht=Speiser, Joh. Conrad.
+ | | | | Albrecht=Speiser, Joh. Conr., Kfm.
+ | | | | Firma Albrecht=Dietzsch, Spezereihandlung.
+ | | | | Eglinger, Dr. Eman., Thierarzt.
+ | | | | Miville=Socin, Wb. Marg., Kent.
+17 | VIII. | 178—79 | | Horandt=Wohnlich, Martin.
+ | | | | Horandt=Wohnlich, Martin, Bandfabrifant.
+18 | VIII. | 189 | 3. hint. Silberberg. | Walliser=Hägler, Wb. Judith.
+ | | | | Walliser=Hägler, Wb. Judith, Part.
+ | | | | Mazinger, Leonh. Friedr., Spengler.
+19 | VIII. | 174 | | Speiser=Haufer, Wb. Esther.
+ | | | | Speiser=Haufer, Wb. Esther, Part.
+20 | VIII. | 188 | zum Klösterlein. | Huber, Hieronimus.
+ | | | | Huber, Hieronimus, Part.
+21 | VIII. | 172—73 | 3. grün. Adler. | Siber=Loz, Joh. Caspar.
+ | | | | Siber=Loz, Joh. Casp., Part.
+22 | VIII. | 184 | | Schneider, Jgfr. Salomea.
+ | | | | Schneider, Salomea, Part.
+ | | | | Stadelmann, Ursula, Modiste.
+23 | VIII. | 171 | | Siber=Loz, Joh. Casp.
+24 | VIII. | 183 | | Weber=Wiesner, Heinrich.
+ | | | | Weber=Wiesner, Hch., Dessinateur.
+25 | VIII. | 170 | | Dannacher, Paul.
+ | | | | Dannacher, Paul, Schreiner.
+26 | VIII. | 182 | | Loz=Heusler, Friedrich.
+27 | VIII. | 169 | | Maeglin, Christof.
+ | | | | Maeglin, Christof, Gypper und Stucator.
+ | | | | Ranz=Wagner, Wendolin, Dessinateur.
+ | | | | Guth=Himmely, Rud., Part.
+28 | VIII. | 177 | zum Paradies. | Burckhardt=Bernet, Daniel.
+ | | | | Burckhardt=Bernet, Daniel, Baumeister.
+ | | | | Oswald, Mathias, Ultrathsherr, Kent.
+29 | VIII. | 168 | | Betterlin, Heinrich.
+ | | | | Betterlin, Heinrich, Wirth.
+ | | | | Bell=Bolliger, Emanuel, Fischer.
+ | | | | Karle=Morf, Johann Friedrich, Kübler.

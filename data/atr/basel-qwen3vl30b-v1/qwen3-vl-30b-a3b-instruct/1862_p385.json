@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p385",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p385.jpg",
+    "bytes": 1457976,
+    "sha256": "50adc0cb4c2a1a04bc019a279a7d94a0682eebf003ad43f0e99f4616bfc81b35",
+    "sha256_of": "original",
+    "working_copy": "1862_p385.jpg"
+  },
+  "text": "320\nVerzeichniß der Bürger und Einwohner.\nMüller-Breitenstein, Margar., Musterzettlerin. Müller, Hans Georg, Professör der Theologie.\nGerbergäßlein 20. Hirschgasse 9.\n— =Bruckner, Heinrich, Part. Allschwylers Traße 52. — =Hardy, Wb. Maria, Wascherin. Im-\nbergässlein 18. bergässlein 26.\n— =Büchin, Heinrich, Musterweber. Schnei- — =Hasler, Eman., Seidenfärberegeselle u.\ndergasse 18. Kostgeber. Rheingasse 45.\n— =Buchmann, Wb. Louise, Wollwascherin. — =Haufer, Joh. Jak., Seidenfärbere. St.\nSteinenvorstadt 47. Johannvorstadt 14.\n— =Burdhardt, Christian, Posam. Karthaus- — Heinrich, Schloffer. Todtentanz 3.\ngässlein 5. — Heinrich, Fabrikarbeiter. Wallstraße 5.\n— =Burdhardt, Daniel, Taglöhner. Bin- — H. F. de Georg, Colonialwaarenhandl.\nninger Straße 5. Wallstraße 17.\n— Carl, Commis. Stapfelberg 4. — =Heinzgen, Wb. Elisabeth, Bandrouleaur-\n— Catharina, Rätherin. Henberg 36. macherin. St. Leonhards-Graben 2.\n— Wb. u. Conforten, Weinhändler, Comp- — =Herport, Ant., Eisenbahnbeamter. Stei-\ntoir. Utengasse 7. nenthorstraße 29.\n— =Dietzsch, Joh. Peter, Farbholzmüller. — =Hersperger, Jakob, Fabrikmeister. St.\nSägergässlein 7. Albankirchrain 10.\n— =Dill, Jakob, Fabrikarbeiter. Weiße — =Hezel, Albrecht, Phil. Dr., Geolog.\nGasse 10. St. Johann-Vorstadt 56.\n— Dorothea, Rentiere. Streitgasse 7. — =Hops, Franz, Dessinateur. Fischmarkt 1.\n— =Ebner, Joh., Fabrikarbeiter. Riehenthors Traße 15. — =Huber, Joh., Gärtner. Riehen-Straße 76.\n— =Eggmann, Fridolin, Posam. Steinen- — =Hug, Joh. Jak. Friedrich, Holzmüller.\nvorstadt 30. Virsigstraße 15.\n— =Eichelberger, Wb. Urjula, Zettlerin. — Jakob Philipp, S. M. C., Oberlehrer.\nImbergässlein 20. Schützenmattstraße 5.\n— Emma, Näth. St. Leonhards-Graben 20. — Jakob, Posamenter. Klingenthalstraße 37.\n— =Eng, Clemens, Fabrikarbeiter. Weiden- — =Kert, Sam., Posamenter. Klingenthal-\ngasse 24. straße 37.\n— =Frey, Joh. Jak., Fabrikarbeiter. Steinen- — Joh. Jakob, Sohn, Seidenfärbere. St.\nbachgässlein 38. Johann-Vorstadt 14.\n— =Frey, Heinrich, Obst- u. Branntwein- — Johannes, Commis. Gerbergasse 58.\nhandlung. Steinerringweg 17. — =Kselin, Georg, Rentier. St. Peters-\n— Friedrich, Dr. Med. Utengasse 5. Plaß 3.\n— =Fritz, Jak., Wäscher. Riehen-Straße 13. — Julius, Dr. med., Arzt. Neue Vorstadt 2.\n— =Füller, Wendolin, Mechaniker. Lindenberg 18. — =Kleiling, Wb. Sibille Maria, Part.\n— =Fux, Daniel, Metalldrucker. St. Peters- Utengasse 5.\nBerg 5. — =Kreider, Sam., Schneidergeselle. Imber-\n— =Gärtner, Wb. Wilh. Catharina, Part. gässlein 25.\nSpalenvorstadt 37. — =Kübler, Louis, Commis. Bruderholz-\n— =Gerspacher, Ign., Knecht. Spiegelgasse 14. straße 6.\n— =Gerster, Joh., Fabrikarbeiter. St. Johan- — =Lautweiler, Wb. Margaretha, Fabrik-\nnann-Vorstadt 4. arbeiter. Unterer Heuberg 17.\n— Geschwister, Eingeriehandl. Eijengasse 9. — Leonhard, Schloffer. Aeschenvorstadt 51.\n— =Geßler, Wb. Susanna, Part. Schützen- — =Lienhard, Rud., Ausläufer. St. Peters-\nmattstraße 5. Plaß 17.\n— =Gleichauf, Georg, Maurer. Rümelins- — =Lindenmeyer, Wb. Magdalena. Kloster-\nplaß 2. berg 8.\n— =Gleichauf, Joh., Färbergeselle. Rhein- — =Linder, Franz, Part. Aeschenvorstadt 57.\ngasse 63. — =Linf, Heinrich, Ausläufer. St. Peters-\n— =Grieshaber, Bernh., Fuhrhalter.\"Kirch- kirchplaß 13.\ngasse 1. — =Linder, Marg., Rätherin. Gerbergässlein 12.\n— =Grunauer, Wb. Maria Magd., Part. — Ludw. Wilhelm, Schloffermeister. Rebgasse 44.\nSternengässlein 2. — Margaretha, Part. Rheingasse 18.\n— =Glinthert, Mich., Maurergeselle. Trillen- — =Martin, Georg, Anatomiediener. Rhein-\ngässlein 4. sprung 7.\n— Gustav, Kaufm. Utengasse 5. Firma Wb. Müller u. Conforten, Weinhdlg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9396,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3586,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 59.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:12:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p385",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p385.jpg",
+      "bytes": 1457976,
+      "sha256": "50adc0cb4c2a1a04bc019a279a7d94a0682eebf003ad43f0e99f4616bfc81b35",
+      "sha256_of": "original",
+      "working_copy": "1862_p385.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:12:50+00:00"
+  }
+}

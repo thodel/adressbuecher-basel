@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p122",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p122.jpg",
+    "bytes": 1432038,
+    "sha256": "03fd0aefad9f971d1b769533ff475e5b6efcf2dc9623072e30ee95083e4bee0d",
+    "sha256_of": "original",
+    "working_copy": "1862_p122.jpg"
+  },
+  "text": "Gerbergässl. Grünpfahlgässlein. Güterstraße. Gundold.-Straße. 57\nRene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n37 VI. 672 zur niedern Hoggen. Stöcklin-Bisegger, Johannes.\nStöcklin-Bisegger, Joh., Handelsmann.\n39 VI. 673 Schoop=Zepf, Ulrich.\n40 VI. 676 Brugger=Schwarz, Conrad.\nBrugger=Schwarz, C., Posamenter.\n41 VI. 674 zum Schleiffstein. Hodel=Böninger, Wb. A. Maria.\n42 VI. 697 zum rothen Thurm. Koch=Ruster, Johannes.\nKoch=Ruster, Johannes, Buchdrucker.\n44 VI. 698 Meyer=Haury, Niclaus.\nMeyer-Haury, Niclaus, Färber.\nGrünpfahlgässlein.\n1 VI. 623 Judenschule. Bucherer=Parmentier, Wb. Salome.\nBucherer=Parmentier, Wb.S., Spezereih.\nFirma J. G. Oberriedt.\nReinbold, Theodor, Kaufmann.\nSpahr, Daniel, Kaufmann.\n2 VI. 1652 zum Hammeneck. Roth=Georg, Rudolf.\nBürgin=Georg, Wb. Mar.Cath., Modiste.\n4 VI. 1692 Schmitt, Carolina.\nKottmann=Bischoff, Conr. Fried., Bierbr.\nEgli=Hausamman, Wb. Maria, Back-\nwaarenhandlung.\n5 VI. 622 zum fl. Mühlestein. Neuschwander=Hurth, Jakob.\nNeuschwanderHurth, Jakob, Wirth.\n6 VI. 1691 zum grünen Pfahl. Schwander=Schneckenburger, Sam.\nSchwander=Schneckenburger, S., Schloß.\n8 VI. 1690 zum Stollenberg. Gafker=Theodor, Leonz.\nGafker=Theodor, Leonz, Hafner.\nGüterstraße.\n21 III. Lagerhaus. Schweizerische Eidgenossenschaft.\n23 III. id. Kaufhauscommission.\n25 III. id. Dieselbe.\nGundoldinger-Straße.\n2 IV. 238 g Oftertag=vonSpeyr, Albert, Dr.\n4 IV. 238 Oftertag=vonSpeyr, Albert, Dr.\nVonBrunn=VonSpeyr, Wb.Eliab., Part.\n6 IV. 238 d Lagerhaus. Oftertag=vonSpeyr, Albert, Dr.\nSaner, Anton, Lehenbeständer.\n8 IV. 239 z.mit.Gundoldingen Spitalpflegamt.\nThommen=Thommen, Joh., Landwirth.\n10 IV. 239 d Spitalpflegamt.\nAWengen, Johannes, Kunstmaler.\n12 IV. 240 zum Baumgarten. Spitalpflegamt.\nMeyer, H., Particular.\n14 IV. 241 Spitalpflegamt.\nBuser=Schwander, Hans, Lehenbeständer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6227,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1855,
+    "lines": 56,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:36:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p122",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p122.jpg",
+      "bytes": 1432038,
+      "sha256": "03fd0aefad9f971d1b769533ff475e5b6efcf2dc9623072e30ee95083e4bee0d",
+      "sha256_of": "original",
+      "working_copy": "1862_p122.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:35+00:00"
+  }
+}

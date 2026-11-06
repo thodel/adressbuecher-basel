@@ -63,7 +63,7 @@ TITLES = {"Dr.", "Dr. med.", "Dr. phil.", "Dr. jur.", "Prof.", "Regt.", "Pfr."}
 ADDR_RE = re.compile(r"^(?P<street>.+?)\s+(?P<no>\d+\s?[a-z]?\.?(?:\s?[a-z]\.?)?)\.?$")
 ROLE_RE = re.compile(r"^(Wohnung|Werkstätte|Geschäft|Magazin|Bureau|Laden|Comptoir|Atelier)\s*[:,]?\s*", re.I)
 ORIGIN_RE = re.compile(r"^(?:von|v\.)\s+(?P<place>.+?)(?:\s*\((?P<canton>[^)]+)\))?$")
-RUNNING_HEAD = re.compile(r"^\d+\s*$|^[—-]\s*\d+\s*[—-]$|^(\d+\s+(—\s+)?)?[A-ZÄÖÜ][\w-]+\.?\s+—\s+[A-ZÄÖÜ][\w-]+\.?(\s+\d+)?$|^Alphabetisches Verzeichni|^(\d+\s+)?Verzeichni(ß|ss|s)\b|^Nro\.$|^[A-ZÄÖÜ]\.$")
+RUNNING_HEAD = re.compile(r"^\d+\s*\*?$|^[—-]\s*\d+\s*[—-]$|^(\d+\s+(—\s+)?)?[A-ZÄÖÜ][\w-]+\.?\s+—\s+[A-ZÄÖÜ][\w-]+\.?(\s+\d+)?$|^Alphabetisches Verzeichni|^(\d+\s+)?Verzeichni(ß|ss|s)\b|^Nro\.$|^[A-ZÄÖÜ]\.$")
 FIRM_RE = re.compile(r"&\s*(Cie|Co|Comp|Sohn|Söhne)\b|\bCie\.|\bGebr(üder|\.)|\bSöhne\b|^\S*fabrik\.|\bAktiengesellschaft\b|\bA\.-G\.", re.I)
 IDEM_RE = re.compile(r"\b(id\.|idem|dito|do\.)\s*", re.I)
 
@@ -97,7 +97,9 @@ def page_to_entries(text: str, own_entry=None) -> list[tuple[int, int, str]]:
         # oder Kleinbuchstabe nach Trennstrich der Vorzeile
         if entries and not line.startswith("  ") and not own_entry and (
                 re.match(r"^\d{1,4}(?:\s?[a-z])?(?:\s*(?:u\.|und|bis|-|–|—)\s*\d{1,4})?\.?\s+[A-ZÄÖÜa-z][^\d]*\.?$", line.strip())
-                or (entries[-1][2].endswith("-") and line.strip()[:1].islower())):
+                or re.match(r"^(?:(?:St|Kl|Gr|Unt|Ob|Mittl|Vord|Hint)\.\s?)?[A-ZÄÖÜ][\wäöüß.\-]*(?:\s[A-ZÄÖÜa-z][\wäöüß.\-]*){0,2}\s\d{1,4}\s?[a-z]?\.?$", line.strip())
+                or (entries[-1][2].endswith("-") and line.strip()[:1].islower())
+                or (line.strip()[:1].islower() and "," not in line and not re.search(r"\d", line))):
             line = "  " + line.strip()
         if (line.startswith("  ") or line.startswith("\t")) and entries:
             lf, lt, t = entries[-1]

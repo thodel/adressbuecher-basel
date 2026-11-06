@@ -1,0 +1,60 @@
+Heuberg.
+61
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+26 | II. | 435 | | Hosh, Albert.
+| | | | Hosh, Albert, Agent.
+| | | | Hosh, Ursula, Porzellanmalerin.
+27 | VI. | 398 | zum rothen Eck. | Huber-Sommerhalder, Jakob.
+| | | | Huber-Sommerhalder, Jak., Blatt- u.
+| | | | Zahnma cher.
+28 | II. | 434 A. | Truchseßer-Hof. | Merian-Merian, Balthasar.
+| | | | Merian-Merian, Balth., Kaufmann.
+29 | VI. | 394 | | Geigy-Burkorf, Sufette, Wittwe.
+| | | | (Remise u. Stallung.)
+30 | II. | 434 | | Stähelin-Zimmerlin, Joh. Jacob.
+| | | | Stähelin-Zimmerlin, Joh. Jacob, Dr. u.
+| | | | Professör der Theologie.
+| | | | Siehe St. Leonhards-Graben Nr. 107.
+31 | VI. | 691 B. | | Frey-Grynaïsche Stiftung.
+| | | | (Fidei-Commis.)
+| | | | Magazin zum Sennenhof gehörig.
+| | | | Vermiether: Prof. Hagenbach.
+| | | | Beständer: Rud. Geßler, Spezierer.
+32 | II. | 433 | zur Feuerglocke. | Amans-Cadet, Heinrich.
+| | | | Amans-Cadet, Heinrich, Kaufmann.
+| | | | Firma: H. u. C. Amans.
+| | | | Koenig, Moriz, Fabrikant.
+| | | | Doebelin, Maria, Particularin.
+33 | VI. | 691 | zu den 3 Mönchen. | Frey-Grynaïsche Stiftung.
+| | | | (Sennenhof.) | (Fidei-Commis.)
+| | | | Hagenbach-Geigy, Dr. Karl Rudolf, als
+| | | | Lector d. Institutes, Prof. d. Theologie.
+34 | II. | 432 | | Schaub-Brodbeck, Joh. Rudolph.
+| | | | Schaub-Brodbeck, J. R., Buchbinder.
+| | | | Salathe-Schneckenburger, Agathe, Part.
+| | | | Thurneyssen, Hel., Jgfr., Part.
+36 | II. | 431 | | Staubert-Wiesner, Rudolf.
+| | | | Staubert-Wiesner, Rud., Appreteur.
+| | | | Eggli-Kern, Jac., Gärtner.
+38 | II. | 430 | zum Däublin. | Holdenecker-Meyer, Frz. Joh.
+| | | | Holdenecker-Meyer, Fr. J., Hafner.
+| | | | Hirzel-Weber, Ben., Straßen-Pflästerer.
+| | | | Hirzel-Holer, Gottl.,
+| | | | Mislap-Pöhls, Adolf.
+| | | | Frid-Kiedtmann, Anna Cath., Mode-
+| | | | waarenhandlung.
+| | | | Lok, Rosina, Particularin.
+40 | II. | 429 | | Mislap-Pöhls, Adolf.
+| | | | Mislap-Pöhls, Adolf, Kaufmann.
+| | | | Trog-Weibel, Julius, Agent.
+42 | II. | 397 | zum rothen Mann. | Steiner-Lohner, Joh. Jacob.
+| | | | Steiner-Lohner, J. J., Fabrikarbeiter.
+44 | II. | 396 | zum Sonderstorf. | Bonnet, J. Samuel.
+| | | | Bonnet, J. Sam., Schuhmacher.
+46 | II. | 395 | | Staat.
+50 | II. | 392 | zum Engelkopf. | Thommen-Minder, Joh. Ulrich, Ausläuf.

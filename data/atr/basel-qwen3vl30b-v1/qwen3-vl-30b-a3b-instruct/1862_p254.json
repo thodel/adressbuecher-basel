@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p254",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p254.jpg",
+    "bytes": 1420611,
+    "sha256": "44415160097e0b142d0c289e968736476a30d8932426bd0448cc3082bf052048",
+    "sha256_of": "original",
+    "working_copy": "1862_p254.jpg"
+  },
+  "text": "Nebgasse.\n189\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n14 | VIII. | 197 | Burgvogtei od. zu d. 13 alt. Kanton. | Tester=Geßler, Josua.\n | | | | Thommen=Meyer, Hans, Kaufmann.\n | | | | Bell=Storck, Rudolf, Metzger.\n | | | | Schabelik=Loz, Diet., Commis u. Bierwirth.\n15 | VIII. | 180 | zum Dolder. | Meyer, Georg, Fuhrhalter.\n | | | | Renz=DeKoche, Carl.\n | | | | Renz=DeKoche, Carl, Chemiker.\n | | | | Renz, Marie, Lehrerin.\n | | | | DeKoche, Paul Samuel, Chemiker.\n | | | | Renz=Buser, Carl Ludw., Chemiker.\n16 | VIII. | 192 | zum Schaf. | Albrecht=Speiser, Joh. Conrad.\n | | | | Albrecht=Speiser, Joh. Conr., Kfm.\n | | | | Firma Albrecht=Dietzsch, Spezereihandlung.\n | | | | Eglinger, Dr. Eman., Thierarzt.\n | | | | Miville=Socin, Wb. Marg., Kent.\n17 | VIII. | 178—79 | | Horandt=Wohnlich, Martin.\n | | | | Horandt=Wohnlich, Martin, Bandfabrifant.\n18 | VIII. | 189 | 3. hint. Silberberg. | Walliser=Hägler, Wb. Judith.\n | | | | Walliser=Hägler, Wb. Judith, Part.\n | | | | Mazinger, Leonh. Friedr., Spengler.\n19 | VIII. | 174 | | Speiser=Haufer, Wb. Esther.\n | | | | Speiser=Haufer, Wb. Esther, Part.\n20 | VIII. | 188 | zum Klösterlein. | Huber, Hieronimus.\n | | | | Huber, Hieronimus, Part.\n21 | VIII. | 172—73 | 3. grün. Adler. | Siber=Loz, Joh. Caspar.\n | | | | Siber=Loz, Joh. Casp., Part.\n22 | VIII. | 184 | | Schneider, Jgfr. Salomea.\n | | | | Schneider, Salomea, Part.\n | | | | Stadelmann, Ursula, Modiste.\n23 | VIII. | 171 | | Siber=Loz, Joh. Casp.\n24 | VIII. | 183 | | Weber=Wiesner, Heinrich.\n | | | | Weber=Wiesner, Hch., Dessinateur.\n25 | VIII. | 170 | | Dannacher, Paul.\n | | | | Dannacher, Paul, Schreiner.\n26 | VIII. | 182 | | Loz=Heusler, Friedrich.\n27 | VIII. | 169 | | Maeglin, Christof.\n | | | | Maeglin, Christof, Gypper und Stucator.\n | | | | Ranz=Wagner, Wendolin, Dessinateur.\n | | | | Guth=Himmely, Rud., Part.\n28 | VIII. | 177 | zum Paradies. | Burckhardt=Bernet, Daniel.\n | | | | Burckhardt=Bernet, Daniel, Baumeister.\n | | | | Oswald, Mathias, Ultrathsherr, Kent.\n29 | VIII. | 168 | | Betterlin, Heinrich.\n | | | | Betterlin, Heinrich, Wirth.\n | | | | Bell=Bolliger, Emanuel, Fischer.\n | | | | Karle=Morf, Johann Friedrich, Kübler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6283,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2222,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p254",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p254.jpg",
+      "bytes": 1420611,
+      "sha256": "44415160097e0b142d0c289e968736476a30d8932426bd0448cc3082bf052048",
+      "sha256_of": "original",
+      "working_copy": "1862_p254.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:14+00:00"
+  }
+}

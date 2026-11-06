@@ -1,0 +1,56 @@
+Augustinergasse. — Austraße. — Bachlettenstraße. 23
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+9 | V. | 1480 | Lehrerwohnung. | Staat.
+  Meyer-Lichtenhan, Rem., Dr., Lehrer.
+11 | V. | 1479 | | Sarasin-Merian, Wb. Jul., s. Erb.
+  Merian-Sarasin, Wilh., Landökonom.
+  Raillard, Emma, Jgfr., Erzieherin.
+13 | V. | 1478 | Lehrerwohnung. | Staat.
+  Meyer-Kraus, Heinrich, V. D. M. Lehrer
+15 | V. | 1477 | Lehrerwohnung. | Staat.
+  Burckhardt-Piquet, Theophil, Lehrer.
+17 | V. | 1476 | | Burckhardt-Bernoulli, Charlotte.
+  Burckhardt-Bernoulli, Charl. Wb., Rent.
+19 | V. | 1475 | Augustinerhof. | Burckhardt-Keller, J. Rud.
+  Burckhardt-Keller, J. R., App.-Ger.-Präs.
+21 | V. | 1474 | | His-Laroche, Eduard.
+  Miescher-His, Friedr. Eduard, Dr. u. Prof.
+  His-Vischer, Wilh., Dr. und Prof.
+
+Austraße.
+
+24 | II. | 166 A | | Geßler-Wierz, Daniel.
+  Schneider, Geschw. Jul. u. Paul., Part.
+  Lutz-Hagnauer, Johann, Commis.
+26 | II. | 166 B | | Geßler-Wierz, Daniel.
+  Pfaunder-Carle, Wb. Margaretha, Part.
+  Pfaunder-Kaltenbach, Jacob, Part.
+  Schmidt, Johann Ulrich, Agent.
+28 | II. | 166 D | | Geßler-Wierz, Daniel.
+  Geßler-Wierz, Daniel, Part.
+30 | II. | 166 | | Widmann-Schweighauser, Heinrich.
+  Widmann-Schweighauser, Heinr., Lehrer.
+  Girard-Baretta, Friedrich, Centralbahn-
+  Beamter:
+32 | II. | 166 E | | Wüst-Hügin, Leonhard.
+  Wüst-Hügin, Leonhard, Schreiner.
+  Wagner, J. C., Chef d. Contr. d. Centralb.
+47 | II. | 168 | | Delhasen, Samuel, Mechaniker.
+  Abt, Albert, Postbeamter.
+48 | II. | 169 B | | Stäubli-Scholl, Bernhard.
+  Stäubli-Scholl, Bernhard, Gärtner.
+50 | II. | 169 | | Boillat-Stihl, Cölestin.
+  Boillat-Stihl, Cölestin, Schreiner.
+  Grob-Stengelen, Jakob, Cassier.
+71 | II. | 137 | | Bischoff-Burtorf, Wb. Adele.
+  Rickenbach, Jakob, Lehenbeständer.
+
+Bachlettenstraße.
+
+10 | III. | | Pulvermagazin. | Staat.
+11 | III. | 180 | | Bürgin, Heinrich.
+  Schneider-Studer, Benedict, Ziegler.
+15 | III. | 181 | | Engler-Preisentanz, Heinrich.
+  Engler-Preisentanz, Heinrich, Ziegler.

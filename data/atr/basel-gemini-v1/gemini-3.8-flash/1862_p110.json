@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p110",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p110.jpg",
+    "bytes": 1495810,
+    "sha256": "ee1a03331cbc346f6b1c027876e42e8571c6b78110ca11119b965d88705a9fa7",
+    "sha256_of": "original",
+    "working_copy": "1862_p110.jpg"
+  },
+  "text": "Freie Straße. 45\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n54 | IV. | 1185 | zum Palast. | Schultheß-Schneider, W. Ernst Lud.\n  Schultheß-Schneider, Ernst, Modehdlg.\n  Wiese, Georg, Engroshandlung.\n  Siehe Ringgäßlein, Nr. 2.\n55 | V. | 1433 | zum Weißenstein. | Müller-Eisenlohr, Wb. Erst. sel. Erb.\n  Wengi, A., Goldschmied.\n  Schaub, Emanuel, Fruchthändler.\n56 | IV. | 1188 | zum grünen Ring. | Von Speyr u. Comp.\n  Goppelsröder-vonSpeyr, G. Fried., Kfm.\n  Goppelsröder, Dr. Christ. Fried., Sohn,\n    öffentlicher Chemiker.\n57 | V. | 1432 | zum Igel. | Schnegg-Merian, Wb. Margaretha.\n  Schnegg-Merian, Wb. Margth. Part.\n  Schnegg, Joh. Jak., Zinn- u. Glockengieß.\n  Uebelhardt, Joseph, Commis.\n58 | IV. | 1189 | zur Muschel. | Schwab-Preiswerk, Johannes.\n  Schwab-Preiswerk, Joh., Dr. med.\n59 | V. | 1431 | zum gelben Kopf. | Garnjobst-Senn, Joh. Hermann.\n  Garnjobst-Senn, Joh. Hermann, Säckler\n    u. Kappenmacher, Ehegerichtsamtm.\n60 | IV. | 1190 | zum Miltenberg. | Iberg, Gottlieb.\n  Iberg, Gottlieb, Mech. u. Optiker.\n61 | V. | 1430 | zum weißen Bock. | Bueß-Leisinger, Emanuel.\n  Bueß-Leisinger, Emanuel, Kaufmann.\n  Götzinger, Max. Wilh., Uhrenmacher.\n  Dumitsch-Peier, Ed., Schreiner.\n  Toussaint, Peter, Kunstmaler.\n62 | IV. | 1191 | | Sutter-Baumgartner, Jakob.\n  Eckenstein-Gerster, Barb. Wb., Modehdl.\n  Egli-Hägler, Anna Wb., Seidenhandl.\n63 | V. | 1429 | zum rothen Bock. | Woerwag-Bartenbach, Conrad.\n  Woerwag-Bartenbach, Conrad, Metzger.\n64 | IV. | 1192 | zum Ortenberg. | Raillard-Weiß, Wb. Theod. sel. Erb.\n  Raillard-Weiß, Wb. Maria, Uhrenhdlg.\n  Raillard, Theodor, Kaufmann.\n  Schultheß, Bertha u. Marg., Modisten.\n  Meyer-Thurneysen, Theod., Buchbinder.\n65 | V. | 1428 | z. großen Elephant. | Bemmerer-Köchlin, Louis.\n  Bemmerer-Köchlin, Ludw. Spengler.\n  Bohny, Gebrüder, Kleiderhandlung.\n66 | IV. | 1086 | zur Hündin. | Wolleb, Rud. sel. Erben.\n  Hohl, J. Rob., St. Gall. u. Appenzellwaar.\n  Sester, Wilh., Zahnarzt.\n67 | V. | 1427 | z. klein. Elephanten. | Treulin-Senn, Joh. Jacob.\n  Vögele, Joh. Jak., Material- u. Farbw-hlg.\n68 | IV. | 1085 | zum Schlegel. | Eppens-Hug, Adolf.\n  Eppens-Hug, Adolf, Schuhmacher.\n69 | V. | 1426 | zum Kämpfer. | Brenner-Guéniard, Adelh. Wb.\n  Brenner-Guéniard, Adelheid, Wittwe.\n    marchande de nouvautés.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10184,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2334,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:41:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p110",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p110.jpg",
+      "bytes": 1495810,
+      "sha256": "ee1a03331cbc346f6b1c027876e42e8571c6b78110ca11119b965d88705a9fa7",
+      "sha256_of": "original",
+      "working_copy": "1862_p110.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:33+00:00"
+  }
+}

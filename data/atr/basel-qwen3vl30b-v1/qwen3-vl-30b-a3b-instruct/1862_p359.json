@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p359",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p359.jpg",
+    "bytes": 1502591,
+    "sha256": "430313df85314e64d80465698cb6377128e802610232948346f682937843a289",
+    "sha256_of": "original",
+    "working_copy": "1862_p359.jpg"
+  },
+  "text": "294\nVerzeichniß der Bürger und Einwohner.\nHeusler, Richard, Kaufmann. St. Alban=Hindenlang, Lukas, Oberstlieutenant. Steinen\nThal 52. berg 9.\n— Rudolf, Kaufmann. St. Alban=Thal 52. — Meyer, Benedict, Kaufmann. Spalen-\n— Rhyhiner, Andreas, J. U. D., Professor. thorweg 10.\nLuftgäcklein 9. — Mohn, Carl, Commis. St. Johann=\n— Thurnehsen, Daniel, Rent. St. Alban= Vorstadt 2.\nBorstadt 94. — Miiry, Rudolf, Schiffmann. Rhein-\n— Wegner, Carl Leonhard, Kaufmann. gasse 84.\nSt. Clara=Platz 2. — Plattner, Heinr., Einnehmer. Neukere\n— Wilhelm, Kaufmann. Blumenrain 8. Heumattstraße 1.\n— Wilhelm, Kaufmann. Freie Straße 90. — Ringier, Carl, Bierbrauer. Greisen-\n— Wölfflin, Christof, Waisenhausverwal- gasse 3.\nter. St. Alban=Vorstadt 4. — Seiler, Friedrich, Geschäftsreisender.\nHeusler, Elise, Sgfr., Part. Barfüsserplatz 25. Klingenthal 18.\n— Sarasin, Andreas, J. U. D. Sternen- — Silbernagel, Emil, Kaufmann. St.\ngäcklein 27. Jakobs=Straße 3.\n— Thurnehsen, Leonh., Kaufmann. Firma — Sulger, Joh. Jak., Schiffmann. Rhein-\nLeonh. Heusler u. Comp. Untere Rhein- gasse 54.\ngasse 8. — Sufette, Detailantin. Freie Straße 84.\nHibbert-Hoyle, Robert, Part. Byfangweg 32. Hindermaun=Baumli, Emanuel, Lithograph.\nHierholzer, Magdalena, Fabrikarbeiterin. Grei- Weiße Gasse 5.\nfengasse 21. — Christ, Wilh., Bäcker. Steinenvorstadt 4.\n— Meyer, Gärtner. Fabrikstraße 27. — Hauser, Franz, Rentier. Rochhofgasse 8.\nHildebrand, Barbara, Nätherin. Klimelins- — Joh. Jakob, Wagner. Webergasse 29.\nplatz 6. — Kling, Joh. Jak., Part. Spalenvorft. 7.\n— Ziegler, Hermann, Buchhalter. Lin- — Landerer, Philipp, Lehrer. Kirchgasse 8.\ndenberg 1. — Marg., Part. Hagenheimer=Straße 14.\nHill=Bieder, Alexander, Metzger. Nonnen- — Merian, Joh. Jakob, Bandfabrikant.\nweg 37. Bäumleingasse 18.\n— Bieder, J. J., Kaminsjeger. Sattelgasse 11. — Schöly, Friedr., Kaufm. Weiße Gasse 21.\n— Hanna, Joh. Jac., Seidenverlefer. Stei- — Weiß, Joh., Tuchscheerer. Spalenvor-\nnenthorstraße 43. stadt 7.\n— Lüdin, Johann, Seidenjärber. Rhein- Hinter=Bögt, Pancrat., Gärtner. Malzgasse 18.\ngasse 82. Hintermann=Tritschler, Caspar, Steinhauer.\n— Martin, Joh. Rud., Schuhmacher. Mün- Freie Straße 9.\nsterberg 15. Hipp=Perch, Joh. Adam, Lithograph. St.\n— Philipp Andreas, Blattmacher. Schil- Leonhards=Berg 14.\nzenmattstraße 43. Hirsch=Studer, Wb. Dorothea, Modiste. Roch-\nHils, Georg, Zimmermann. Rheingasse 70. hofgasse 3.\nHilser=Ralt, Math., Lohnwäscher. Steinen- Hirsch=Keller, Christian, Zugmeister. Küche=\nthorstraße 16. gäcklein 14.\nHiltmann, Friedolin, Maurer. St. Jakob 1. Hirschmann, Maria Anna, Part. Stadthaus=\n— Gerjach, Christof., Schneider. Streit- gasse 5.\ngasse 9. Hirsch=Walter, Chr., Part. Freie Straße 2.\n— Johs., Schneider. Unterer Heuberg 5. Hirt, Elise, Lehrerin. St. Theodorskirchplatz 7.\nHimmeli=Meyer, Jacob, Commis. Heuberg 14. — Fehr, Pius, Schneider. Rochhofgasse 15.\n— Seifert, Wittwe, Wirth. Barfüsser- Hirth=Fischer, Wb. Louise, Schneiderin. Schnei-\nplatz 19. dergasse 15.\n— Urf. Kath., Schneiderin, Gerbergasse 35. — Roth, Niclaus, Arbeiter. Kohlenberg-\nHinden, Conr., Polizeimann. Webergasse 24. gasse 9.\n— Melchior, Taglöhner. Steinenbachgäf- Hirzel=Holer, Gottl., Straßenpflästerer. Heu-\nlein 28. berg 38.\n— Schelling, Joh., Bäcker u. Wirth. St. — Müller, Salomon, Wagengarnituren-\nLeonhard=Straße 28. handlung. Kronengasse 4.\nHindenlang, Elisab., Nätherin. Nadelberg 21. — Weber, Benedict, Straßenpflästerer. Heu-\n— Gottlieb, Seiler. St. Johann=Vorstadt 2. berg 38.\n— Hurter, J. Gottlieb, Modenhandlung. Hirzeler=Steiger, Rosina Christina, Modiste.\nGerbergasse 29. Spalenvorstadt 33.\n— Laubheim, Wb. Maria, Nätherin. Ka- His=Burchhardt, Friedr., Part. St. Peters=\nnonengasse 7. Platz 13.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9209,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3666,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 58.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:08:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p359",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p359.jpg",
+      "bytes": 1502591,
+      "sha256": "430313df85314e64d80465698cb6377128e802610232948346f682937843a289",
+      "sha256_of": "original",
+      "working_copy": "1862_p359.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:48+00:00"
+  }
+}

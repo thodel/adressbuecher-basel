@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p266",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p266.jpg",
+    "bytes": 1424129,
+    "sha256": "c1703d55ad8f47458b82a23b2c61931e25996c3113000a2711598f8dd4ac963b",
+    "sha256_of": "original",
+    "working_copy": "1862_p266.jpg"
+  },
+  "text": "Niehenteichweg. — Niehenthofstraße. 201\nNeue\nHaus=Nr\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nNiehenteichweg.\n12 VII. 34 D Bollinger=Scheffmacher, Christof.\nBollinger=Scheffmacher, Christ., Bein-\nKnopfma cher.\nBollinger, Carl Friedr., Seifenfieder.\n14 VII. 34 C Bollinger=Scheffmacher, Christof.\n16 VII. 34 A Studer=Wyß, Rud.\nStuder=Wyß, Rud., Seidenfärbcr.\n18 VII. 34 Gak, Johannes.\nLautenschlager, Jac., Holz= u. Kohlenhdlg.\n22 VII. 38 Lützelmann, Joh. Jac.\nLützelmann, Joh. Jac.\nChemisches Laboratorium.\n24 VII. 34 E i Mieg=Affal, Theophil.\n26 VII. 34 E Mieg=Affal, Theophil.\nMieg=Affal, Theophil, Seidenfärbcr.\n28 VII. 39 n Oswald=Hindermann, Mathias.\n32 VII. 39 o Oswald=Hindermann, Mathias.\n36 VII. 39 B a BonderMühl=Vischer, Friedrich.\n38 VII. 39 B BonderMühl=Vischer, Friedrich.\n40 VII. 39 B b c BonderMühl=Vischer, Friedrich.\n42 VII. 39 B d c BonderMühl=Vischer, Friedrich.\nNiehenthofstraße.\n2 VIII. 114 zur Karthaus. Waifenhausverwaltung.\nMaeglin=Pfister, Jac., Gärtner.\nDreyer=Probst, Martin, Schiffmann.\n3 VIII. 112 Peter=Kafer, Gottfried.\nPeter=Kafer, Gottfr., Magazin=Arb.\n4 Waifenhaus. Waifenhausverwaltung.\n6\n8\n5 VIII. 112 C Katholisches Mäd-\nchenschulhaus.\nKatholische Gemeinde.\nSchaele, Franziska, Lehrerin.\nSpitz, Victoria,\nFriedrich, Rosina,\nMartin, Mar. Adelheid,\nSurgand, Maria Eugenie, Lehrerin.\n7 VIII. 111 Saladé, Friedr. Anton.\nSalade=Rothenberger, Fr. Ant., Schrei-\nner u. Holzhändler.\nDeck, Maria, Modiste.\nWirk=Wirk, Carl, Blattmacher.\n9 VIII. 117 Hirzburg. Imhof=Forcart, Joh. Jac.\nThommen, Joh. Jac., Schneider.\nStädele=Raiser, J. Rud., Steinmek.\n10 VIII. 115 Sprikenhaus. Stadtgemeinde.\n11 VIII. 118 Rebhaus. Comité d. theologischen Pensionats.\nPreiswerk=Finder, Emil., Pfar., Hausvat.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5084,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1760,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p266",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p266.jpg",
+      "bytes": 1424129,
+      "sha256": "c1703d55ad8f47458b82a23b2c61931e25996c3113000a2711598f8dd4ac963b",
+      "sha256_of": "original",
+      "working_copy": "1862_p266.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:25+00:00"
+  }
+}

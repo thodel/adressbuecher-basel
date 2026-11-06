@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p223",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p223.jpg",
+    "bytes": 1286236,
+    "sha256": "b6086164fb24d0575f9b92f6c8e637ad3f1361777babb8e5c41e2f64489d419b",
+    "sha256_of": "original",
+    "working_copy": "1862_p223.jpg"
+  },
+  "text": "158 Streitgasse. — Theaterstraße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n14 | IV. | 1103 | z. großen Mailand. | Goldemann-Ketterer, Abraham.\n  Goldemann-Ketterer, A., Fabrikarbeiter.\n16 | IV. | 1104 | z. kleinen Mailand. | Böhme-Steinmann, Franz.\n  Böhme-Steinmann, Franz, Spengler.\n  Hoch-Weber, Johannes, Schreiner.\n  Meyer-Thurneysen, Theod., Buchbinder.\n  Siehe Streitgasse Nro. 2.\n18 | IV. | 1105 | zum Streit. | Brüdersocietät.\n  Senft-Reichel, Aug. Wilh., Vorsteher der Brüdersocietät.\n  Krafting, Pauline, Vorsteherin.\n20 | IV. | 1106 | zum Rebstock. | Graf-Streicher, Joh. Jak.\n  Graf-Streicher, Joh. Jak., Maler.\n  Zürcher-Bruderer, Joh., Buchbinder\n  Bauer, Josef, Fuhrhalter.\n\nTheaterstraße.\n\n2 | III. | 830 | | Riggenbach-Roschet, Joh. Rudolf.\n  Riggenbach-Roschet, Joh. Rud., Kaufm.\n  Comptoir v. Heinrich Riggenbach, Com- mission und Spedition.\n4 | III. | 830 a | | Riggenbach-Roschet, Joh. Rudolf.\n5 | III. | 828 A | | Staat.\n  Magazin.\n6 | III. | 831 | | Grübler-Meier, Gottfried, sel. Erb.\n  Grübler-Meier, Wb. Crescentia, Wirth.\n7 | III. | 829 | Großes u. kleines Rahmenhaus. | Riggenbach-Häring, Carl.\n  Riggenbach-Häring, Carl, Kaufmann.\n8 | III. | 832 | | Bichsel-Hindenlang, Wb. Salome.\n  Bichsel-Hindenlang, Wb. Salome, Näth.\n  Thomas-Haffur, Joh. Georg, Musiklehrer.\n9 | III. | | Theater. | Theatercommission.\n10 | III. | 833 | Schauhaus. | Stadtgemeinde.\n  Theaterbureau.\n11 | III. | 834 | Marstall. | Staat.\n  Schnell-Christ, Ulrich, Particular.\n  Schnell, August, Commis.\n  Lang, Simon, Musiker.\n  Lang, Andreas, \"\n12 | III. | 833 A | Ballenhaus. | Stadtgemeinde.\n  Schramberger-Kaufmann, Joseph, Thea- termeister.\n14 | III. | 835 | zur Engelsburg. | Huber, Achilles, sel. Erben.\n15 | III. | 834 C | | Staat.\n  Stallung.\n16 | III. | 835 D | zur Engelsburg. | Huber, Achilles, sel. Erben.\n  Bonin-Degen, Georg, Fuhrhalter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8458,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1918,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p223",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p223.jpg",
+      "bytes": 1286236,
+      "sha256": "b6086164fb24d0575f9b92f6c8e637ad3f1361777babb8e5c41e2f64489d419b",
+      "sha256_of": "original",
+      "working_copy": "1862_p223.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:11+00:00"
+  }
+}

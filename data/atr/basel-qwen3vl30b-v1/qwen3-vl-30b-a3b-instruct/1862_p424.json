@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p424",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p424.jpg",
+    "bytes": 1636571,
+    "sha256": "37400032d0ff4319a51d14cf190689a5c1f31ce9e13a22d90e187a9de74d6797",
+    "sha256_of": "original",
+    "working_copy": "1862_p424.jpg"
+  },
+  "text": "Verzeichniss der Bürger und Einwohner. 359\nWenk-Schuler, Wb. Sophia, Kleinkinder=Wezel-Steinhauer, Herm., Gärtner. Grenz-\nschule. Webergasse 15. acher-Straße 48.\nWenzinger-Suter, Joh., Spezierer. St. Peter=berg 21. — Wiedmer, Jak. Friedr., Piqueur. Linden-\nberg 3.\nWenzler, Catharina, Taglöhnerin. Ritter-Wezler-Freu, Ferdinand, Kiirchner. Hut-\ngasse 2. gasse 4.\nWepp, Felix, Parquetier. St. Margarethen=Weid-Burggraf, Martin, Uhrenmacher. St.\nStraße 15. Andreasplatz 14.\nWerenfels-Bloch, Franz, Wein- u. Speisewirth. Schützenmattstraße 25. — Emil, Part. Blumenrain 28.\n— Herzog, Jak., Weinhändler. Mostacker- — Hindermann, Carl, Rentier. St. Jo-\nstraße 42. hann-Vorstadt 42.\n— Mäglin, Eman., Maler. Hirschgasse 5. — Keller, Wb. Anna Cath., Part. Grenz-\n— Mäglin, Wb. Susanna, Marg., Part. Wicker-Meyerhofer, Jak., Posamenter. Hut-\nNadelberg 5. gasse 19.\n— Speiser, Emil, Seiler. Aeschenvor- Widti-Gast, Josef, Kleiderreiniger. Rhein-\nstadt 59. gasse 14.\nWermuth, Bernhard, Lehrer. Schafgäklein 12. Widemann-Mitscherlich, Gust. Heinr., Prof.\n— Zimmermann, Wb. Cath., Fabrikar- d. Physik. Neue Vorstadt 7.\nbeiterin. Klingelbergstraße 20. Widler-Konnenmacher, Jak., Posament. Rhein-\nWerne-Zumsteg, Paul, Posamenter. Uten- gasse 40.\ngasse 40. Widmann-Hartmann, Dr. Med. Greifen-\nWernli-Baumann, Abrah., Taglöhner. Heu- gasse 30.\nberg 1. — Schweighauser, Heinr., Lehrer. Au-\n— Meyer, Rud., Wirth. Spalenvorstadt 32. straße 30.\n— Weiß, Jacob, Posamenter. Utengasse 22. Widmer, Daniel, Vorsteher d. Armenanstalt\nWertenberg, Adolf, Kaufmann. Missions- zum Silberberg. Utengasse 11.\nstraße 18. — Griener, Sam., Posamenter. Kiehen-\n— Barbara, Part. Spalenvorstadt 33. thorstraße 23.\n— Grether, Ed., Spengler. Münsterberg 8. — Hofmann, Heinr., Fabrikarbeiter. Spa-\n— Gürtler, Jac., Maurermeister. St. lenberg 1.\nLeonhards-Straße 22. — Kaufmann, Caspar, Taglöhner. Hut-\n— Gustav, Kaufmann. Missionsstraße 18. gasse 11.\n— Isgfr. Marg., Rentiere. Aeschenvor- — Marchand, Martin, Cigarren- u. Tab-\nstadt 16. bakhandlung. Ochsen-gasse 1.\nWerthemann-Von der Mühll, A., Kaufmann. — Widmer, Jak., Landwirth. Elsässer\nSt. Johann-Vorstadt 41. Straße 24.\n— Isgfr. Marg., Rent. Aeschenvorstadt 16. Wié, Nanette, maison garnie, chambres\n— u. Sohn, Andr., Farbwaarenhandlung. meublée à louer. Eisengasse 4.\nAeschenvorstadt 16. Wiederkehr-Denger, Heinr., Zettlermeister u.\nWespi-Häfelfinger, Hans Jac., Zimmermstr. Wirth. Steinenthorfstraße 6.\nMarktplatz 9. — Giger, Johannes, Seidenfärberegeselle.\nWettach-Harner, Jos. Ant., Steinhauerparlier. Greifengasse 36.\nSchneidergasse 22. — Mathias, Sattler. Spalenberg 50.\n— Müller, Joh. Bal., Seidenfärbcr. Kap- Wiedler-Böcklin, Heinr., Fabrikarbeiter. Ger-\npoltshof 21. bergasse 61.\nWetter-Graf, Johs., Wirth. Binninger — Raster, Heinrich, Fabrikarbeiter. Spal-\nStraße 15. lenberg 62.\nWettstein-Hofmann, Wb. Sophia, Apotheken= Wiedmer-Grad, Mart., Posamenter. Grei-\nbesitzerin. Bäumleingasse 4. fengasse 5.\nWezel-Boll, S. S., Jeger. St. Albankirch- — Heckel, Jak. Christ., Kaufm. Steinen-\nrain 14. ben 21.\n— Gatschoud, Hier., Papierer. Münster- — Widenfeller, Johs., Schreiner. Aeschen-\nberg 10. vorstadt 72.\n— Joh. Conrad, Hafner. Weiße Gasse 8. Wieland-Bischoff, Hans, eidgen. Oberst. St.\n— Keller, Sebastian, Magazinier. Tod- Alban-Vorstadt 23.\ntentanz 14. — Bischoff, Wb. Eleonore, Part. St.\n— Mazingcr, J. S., Part. St. Alban- Alban-Vorstadt 13.\nThal 44. — Dietzsch, Carl, J. U. C., Notar u. Advok.\n— Schölln, J. Fr., Bäcker. FreieStraße107. Spitalstr. 14, Bureau Schliisselberg 17.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9021,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3507,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:18:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p424",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p424.jpg",
+      "bytes": 1636571,
+      "sha256": "37400032d0ff4319a51d14cf190689a5c1f31ce9e13a22d90e187a9de74d6797",
+      "sha256_of": "original",
+      "working_copy": "1862_p424.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:18:52+00:00"
+  }
+}

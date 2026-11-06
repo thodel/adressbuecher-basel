@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p423",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p423.jpg",
+    "bytes": 1457169,
+    "sha256": "31fe7e1b2e9e876549bb67cb55b2df93dde845691cb6e54fd237e4178ce38a88",
+    "sha256_of": "original",
+    "working_copy": "1862_p423.jpg"
+  },
+  "text": "358\nVerzeichniß der Bürger und Einwohner.\nWeilemann-BonArz, Caspar, Magazinier. Weiß-Sulger, Joh. Jakob, Kaufhausarbeiter.\nSpalenberg 10. Kümelinsplatz 9.\nWeiler-Kaiser, Fidel, Knecht. Rheingasse 14. — Ursula Maria, Nätherin. Stadthaus-\nWeindel, Jos., Geometer. Rebgaſse 2. gaſse 11.\nWeingand, Arbogast Gallus, Gasbrenner. — Wiefner, Andreas, Geschäftsagent. Bar-\nMattweg 9. fiſcherplatz 13.\nWeingartner, Josef, Commis. Kohlenberg 15. Weissenberger-Lang, Peter, Schneider. Ger-\n— Kunzmann, Wb. Maria, Wascherin. bergäklein 14.\nRiidengäklein 3. — Martin Johannes, Spezierer. Spalen-\nWeisling-Seiler, Joh., Spinner. Weber- vorstadt 33.\ngaſse 22. — Sam. Johs., Seidenfärber. Barfiſcher-\nplaz 22.\nWeiß, Abraham Jakob, Bäcker. Riehenthor-\nstraße 24. — Singeisen, Wb. Anna Magdal., Part.\n— Adams, Jakob, Componist. Schützen- Greisengaffe 11.\ngraben 41. Weissenburger, Carl, Commis. Aeschenvor-\n— Ammann, Maria Ida, Zettlerin. Ochsen- stadt 61.\ngaffe 16. — Riggenbach, J. J., Bäckermeistr. Aeschen-\n— Aug. Hieron., Schuhmacher. Spalen- vorstadt 10.\nberg 8. Weixendorn, Wilhelmine, Schneiderin. St.\n— Bienz, Eman., Kiibler. Streitgaffe 12. Johann-Vorstadt 64.\n— Börlin, Joh., Tapezierer. Steinenvorst.25. Weißkopf-Stutz, Jakob, Taglöhner. Heu-\n— Bresin, Wb. Ursula, Bettmacherin. berg 23.\nGerbergäklein 10. Weitnauer, A., Commis. Schiffände 7.\n— Buxtorf, Chr., S. M. C., Lehrer. Stifts- — Achilles, Cigarren- u. Tabakhandlung.\ngaffe 4. Schiffände 3.\n— Cölestin, Part. Untere Rebgaſse 16. — Bieler, Friedr., Schreiner u. Farbholz-\n— Dorothea, Wollwascherin. Aeschenvor- müller. Birgigstraße 15.\nstadt 16. — Fischer, Rudolf, Metzger u. Pintenwirth.\n— Fischer, Carl Benedict, Kaufm. Aeschen- Aeschenvorstadt 1.\nvorstadt 1. — Hoffmann, Wb. Margaretha, Rentiere.\n— Forster, Carl, Kiiblermeister. Schnabel- Mittlere Straße 30.\ngäklein 3. — Krug, Heinr. Friedr., Metzger. Freie\n— Fürst, Dan. Hier., Briefträger u. Holz- Straße 30.\nhändler. Gerbergäklein 32. Welhausen, Carl Christ. Ludw., Königl. Preuß.\n— Gatz, Thomas, Spezierer und Wirth. Artillerie-Major a. D. Grenzacher-\nRiehenthorstraße 24. Straße 35.\n— Grillo, Wb. Gertrud, Nätherin. Imber- Welterlin-Rammerer, Heinr., Zimmermann.\ngaffe 11. Imbergäklein 12.\n— Innocenz, Bierwirth. Sattelgaffe 21. Welti-Gyfin, Carl Gottfr., Schreiner. Koh-\n— Judith, Modiste. Ochsen-gaffe 16. lenberggaffe 15.\n— Klaren, Wilhelm, Hausknecht. St. An- — Heusler, Heinr., Spezierer. Aeschen-\ndreasplatz 11. vorstadt 79.\n— Kling, Wb. Anna Maria, Part. Kauf- — Kratt, Josef, Fuhrhalter. Spalenvor-\nhausgaffe 8. stadt 3.\n— Körner, Benedict Josef, Musiklehrer. — Müller, Georg, Fuhrhalter. Gerber-\nSpalenberg 18. gäklein 28.\n— Müller, Wb. Ursula, Abwart. Küme- Wender-Houghes, Josef, Bahnhofvorstand.\nlinsplatz 6. Centralbahnstraße 5.\n— Paynard, Adam, Appreteur. Malzgaffe 5. Wendnagel-Mäglin, Wb. Elise, Part. Spa-\n— Rudolf, Auffeher. Schnabelgäklein 12. lenvorstadt 20.\n— Schmid, Friedrich, Gärtner. Missions- Wenge-Höchle, Johannes, Gärtner. Kirch-\nstraße 34. gaffe 2.\n— Schneider, Rud., Fabrikarbeiter. Aeschen- — Mülterer, Joh. Nep., Kohlenhandel.\nvorstadt 42. Rappoltshof 17.\n— Schweizer, Wb. Barb., Part. Nadel- Wenger-Häbely, Jak., Käse- u. Spezereihdtg.\nberg 30. Steinenthorstraße 43.\n— Siegrift, Joh., Taglöhner. Utengaffe 22. Weniger-Sauerbrey, Rud., Part. Mostacker-\n— Glitterlin, Joh. Heinr., Bäcker. St. Straße 44.\nJohann-Vorstadt 62. Wenk-Reiniger, Joh. Georg, Schneidergeselle.\nKümelinsplatz 15.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8975,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3428,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 53.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:18:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p423",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p423.jpg",
+      "bytes": 1457169,
+      "sha256": "31fe7e1b2e9e876549bb67cb55b2df93dde845691cb6e54fd237e4178ce38a88",
+      "sha256_of": "original",
+      "working_copy": "1862_p423.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:18:43+00:00"
+  }
+}

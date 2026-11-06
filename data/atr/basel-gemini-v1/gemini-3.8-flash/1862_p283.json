@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p283",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p283.jpg",
+    "bytes": 1465712,
+    "sha256": "ee49d5182596dd2e29bbeaa851034ec19c3d15027a94344ba8608530eccae4c7",
+    "sha256_of": "original",
+    "working_copy": "1862_p283.jpg"
+  },
+  "text": "218 Verzeichniß der Häuser nach ihren Benennungen.\n\nLöwen, z. rothen. Greifengasse Nr. 18.\nLöwen, z. rothen. Aeschenvorstadt Nr. 49.\nLöwen, Hinterhaus z. rothen. Brunngäßlein\n  Nr. 4.\nLöwen, z. weißen. Schwanengasse Nr. 16.\nLöwenberg, z. Aeschenvorstadt Nr. 28.\nLöwenberg, z. Aeschenvorstadt Nr. 35.\nLöwenberg, Hinterhaus z. St. Martinskirch-\n  platz Nr. 11.\nLöwenberg, z. Spalenberg Nr. 50.\nLöwenberg, z. mittleren. Aeschenvorstadt Nr. 26.\nLöwenburg, z. Eisengasse Nr. 19. 36.\nLöwenfels, z. Steinenvorstadt Nr.\nLöwenfels, z. äußeren. Steinenvorstadt Nr. 38.\nLöwengrube, z. Heuberg Nr. 2.\nLöwengrube, z. St. Leonhards-Graben Nr. 19.\nLöwenschlößlein, z. Nadelberg Nr. 7.\nLöwenschmiede. Untere Rheingasse Nr. 15.\nLöwenstein, z. Spalenberg Nr. 56.\nLöwen Zorn, z. Gemsberg, Nr. 2. 4.\nLohhof, Gerberei z. Steinenvorstadt Nr. 58.\nLohmühle u. Heuwaage. Hammerstraße Nr. 2. 4.\nLohnhof oder z. Schloß Wildegg im Leimen-\n  thal. St. Leonhardskirchplatz Nr. 3.\nLorbeerbaum z. Sattelgasse Nr. 20.\nLorbeerkranz, z. Heuberg Nr. 17.\nLützelhof. Spalenvorstadt Nr. 9.\nLützelhof, z. kleinen. Spalenvorstadt Nr. 11.\nLützelstein, z. St. Petersberg Nr. 6.\nLützelstein, z. Schwanengasse Nr. 20.\nLuft, z. Bäumleingasse Nr. 18.\nLuft, z. Luftgäßlein Nr. 2. 4.\nLysbüchel, auf'm. Elsässerstraße Nr. 41.\nLysbüchel, Hauptzollstätte. Elsässerstraße Nr.\n  37. 39.\nMaaser, z. Eisengasse Nr. 21.\nMädchenschulhaus d. Münstergemeinde. Ritter-\n  gasse Nr. 1.\nMädchenschulhaus, ehemaliges. Zeichnungs-\n  u. Modellirschule. Steinenberg Nr. 4.\nMädchenschulhaus. St. Theodorskirchplatz Nr. 3.\nMädchenschulhaus, katholisches. Riehenthor-\n  straße Nr. 5.\nMägd, z. St. Johann-Vorstadt Nr. 29.\nMägdeburg. Nadelberg Nr. 5.\nMäntelinhof. Münsterplatz Nr. 14.\nMailand, z. großen. Streitgasse Nr. 14.\nMailand, z. kleinen. Streitgasse Nr. 16.\nMann, z. blauen. Freie Straße Nr. 48.\nMann, z. rothen. St. Leonhards-Graben\n  Nr. 59.\nMann, z. rothen. Heuberg Nr. 42.\nMann, z. schönen. Spalenberg Nr. 47.\nMann, z. weißen. Gerbergäßlein Nr. 14.\nMann, z. wilden. Rheinsprung Nr. 6.\nMann, z. weißen wilden. Steinenvorstadt\n  Nr. 17.\nMannenbad, z. Gerbergäßlein Nr. 1.\nMarbach, z. Schneidergasse Nr. 26.\nMarder, z. Barfüßerplatz Nr. 33.\n[spalte 2]\nMarstall, z. Theaterstraße Nr. 11.\nSt. Martinskirche. St. Martinskirchplatz Nr. 4.\nMaterialverwaltung, Bureau der. Aeußere\n  Heumattstraße Nr. 1.\nMaulbeerbaum, z. Bäumleingasse Nr. 12.\nMaulbeerbaum, z. vorderen. Freie Straße\n  Nr. 105.\nMayen, z. Greifengasse Nr. 12.\nMayen, z. Kronengäßlein Nr. 5.\nMeerkatze, z. St. Petersberg Nr. 19.\nMeerkatze, z. St. Petersberg Nr. 26.\nMeerring, z. niedern. Kronengäßlein Nr. 6.\nMeerwunder, z. Spalenberg Nr. 49.\nMehlbaum, z. niedern. Bäumleingasse Nr. 4.\nMehlhaus, z. Spalenberg Nr. 62.\nMeise, z. St. Johann-Vorstadt Nr. 18.\nMeise, z. Rheingasse Nr. 88.\nMenzenau, z. Blumenrain Nr. 21.\nMerz, z. St. Petersberg Nr. 17.\nMetzgern, Zunft zu. Sporengasse Nr. 10. 12.\nMichelselden, z. Rebgasse Nr. 11.\nMilchhäuslein, z. Hägenheimer Straße Nr. 2.\nMildenberg, z. Steinenvorstadt Nr. 5.\nMiltenberg, z. Freie Straße Nr. 60.\nMischlete, z. St. Petersberg Nr. 34.\nMissionsknabenhaus. Nonnenweg Nr. 20.\nMissionshaus. Missionsstraße Nr. 21.\nMissionstöchteranstalt. Missionsstraße Nr. 49.\nMöhren, z. Freie Straße Nr. 107.\nMönch, z. gelben. Kronengäßlein Nr. 7.\nMönch, z. gelben. Münsterberg Nr. 1.\nMönchen, zu d. drei, u. Sennenhof. Heuberg\n  Nr. 33.\nMönchhof. Herbergsgasse Nr. 2.\nMönchhof. Herbergsgasse Nr. 4. 6.\nMörsberg, z. St. Leonhardsgraben Nr. 41.\nMörsberg, z. Heuberg Nr. 24.\nMörser, z. goldenen. Streitgasse Nr. 7.\nMohren, z. obern. Kronengäßlein Nr. 8.\nMohrenkönig, z. Steinenvorstadt Nr. 63.\nMohrenkopf, z. Gerbergäßlein Nr. 32.\nMohrenkopf. z. Pfluggäßlein Nr. 4.\nMond, z. Gerbergasse Nr. 35.\nMorgenstern, z. Eisengasse Nr. 4.\nMorgenstern, z. Spalenberg Nr. 30.\nMorituro sat. Augustinergasse Nr. 4.\nMostacker. Schützenmattstraße Nr. 25.\nMücke, z. (Realschule.) Schlüsselberg Nr. 14.\nMücke, z. Freie Straße Nr. 45.\nMühle, z. vordern. Mühlenberg Nr. 19.\nMühle, z. vordern. Mühlenberg Nr. 21.\nMühleberg, z. St. Alban-Vorstadt Nr. 43.\nMühleeck, z. Gerbergäßlein Nr. 2.\nMühleisen, z. Spalenvorstadt Nr. 10.\nMühlestein, z. kleinen. Grünpfahlgäßlein Nr. 5.\nMülhausen, z. Stadt. Spalenvorstadt Nr. 7.\nMülhausen, z. Stadt. Gerbergasse Nr. 7.\nMünsterkirche. Münsterplatz Nr. 9.\nMünz, z. alten. Münzgäßlein Nr. 9.\nMünze, z. goldenen. Sporengasse Nr. 1.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 13425,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4363,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:08:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p283",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p283.jpg",
+      "bytes": 1465712,
+      "sha256": "ee49d5182596dd2e29bbeaa851034ec19c3d15027a94344ba8608530eccae4c7",
+      "sha256_of": "original",
+      "working_copy": "1862_p283.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:55+00:00"
+  }
+}

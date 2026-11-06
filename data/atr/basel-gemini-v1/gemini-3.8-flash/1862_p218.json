@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p218",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p218.jpg",
+    "bytes": 1439544,
+    "sha256": "5b8e5a7412d95b88f5e18f9d378f410708a2f161667875be8357a1423679516b",
+    "sha256_of": "original",
+    "working_copy": "1862_p218.jpg"
+  },
+  "text": "Steinenvorstadt. 153\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n23 | III. | 816 | Zunft zu Webern. | Corporationsgut.\n  Elsner-Voigt, Wb. Ch. Friederika Do-\n    rothea, Hebamme.\n  Flubacher, Magdalena, Hebamme.\n  Schneider-Oser, Friedrich, Metzger.\n24 | III. | 774 | zum Pommeranzen-\nbaum. | Henz-Kußmaul, Louis.\n  Süffert-Deck, Gustav, Geschäftsmann.\n  Bürger-Hoegel, Georg, Agent.\n  Schönenberger-Spinnler, Jacob, Bäcker.\n25 | III. | 815 | zum Birseck. | Weiß-Börlin, Johannes.\n  Weiß-Börlin, Johannes, Tapezierer.\n26 | III. | 775 | z. schlafenden Jacob. | Fischer-Horner, Elias.\n  Fischer-Horner, Elias, Partikular.\n  Fischer-Lindenmeyer, Andreas, Bäcker.\n27 | III. | 814 |  | David-Holzach, Wb. Margaretha.\n  Caillat-Beck, Jacob, Buchbinder.\n  Häring-Ziegler, August, Polizeihaupt-\n    mann.\n28 | III. | 780 |  | Brotbeck-Spitteler, Friedrich.\n  Brotbeck-Spitteler, Friedrich, Commis.\n29 | III. | 813 A | zum Fuchs. | Götz-Fininger, Balthasar.\n  Götz-Fininger, Balthasar, Färber.\n  Götz, Balthasar, Sohn, Färber.\n30 | III. | 781 |  | Bultier-Mathiot, Isidor.\n  Bultier-Mathiot, Isidor, Mechaniker.\n  Dubach-Elsner, Georg, Spengler.\n  Deck-Braun, Friedrich, Mechaniker.\n31 | III. | 813 | zum Fuchs. | Götz, Balthasar.\n  Linder-Ort, Emanuel, Kaufmann.\n32 | III. | 782 |  | Beck-Seifert, Hieronimus.\n  Beck-Seifert, Hieronimus, Hafner.\n  Kübler-Vetter, Caspar, Schreiner.\n33 | III. | 812 A |  | Schuler, Rudolf und Maria.\n  Schuler, Rudolf, Particular.\n  Schuler, Abraham, Kaufmann.\n  Schuler, Maria, Particularin.\n35 | III. | 812 | zum Sternenfels. | Baur-Weiß, Carl.\n  Baur-Weiß, Carl, Bäcker.\n  Thurneysen-Bell, Heinrich, Schneider.\n  Teichmann, Carl, Zeichnungslehrer.\n36 | III. | 783 | zum Löwenfels. | Brändlin, Gustav, sel. Erben.\n  Brändlin-Drissel, Rudolf, Bierbrauer.\n  Brändlin-Falkeisen, Wb. Maria Sa-\n    lome, Partikularin.\n37 | III. | 811 |  | Großmann-Byland, Conrad.\n  Schelker-Bader, Math., Milchhändler.\n38 | III. | 784 | z. äußern Löwenfels. | Mechel-Koebel, Bernhard.\n  Mechel-Koebel, Bernhard, Polizei-\n    buralist.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10219,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2101,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:58:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p218",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p218.jpg",
+      "bytes": 1439544,
+      "sha256": "5b8e5a7412d95b88f5e18f9d378f410708a2f161667875be8357a1423679516b",
+      "sha256_of": "original",
+      "working_copy": "1862_p218.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:58:27+00:00"
+  }
+}

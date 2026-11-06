@@ -1,0 +1,51 @@
+Bahnhofstraße. 165
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Bahnhofstraße.
+1 | VIII. | 18 A | | Jaeggi-Landbeck, Wilh.
+  Jaeggi-Landbeck, Wilh., Wirth.
+  Strebel-Broechin, Ludw., Part.
+3 | VIII. | 18 B | Extractfabrik. | Müller, Joh. Jakob u. Comp.
+  Schlumberger-Saxer, Jul. Albert, Che-
+  miker.
+  Müller-Pack, J. J., Fabr. v. chemischen
+  Farbstoffen.
+  Cornu, Felix, Chemiker.
+  Finsler, Heinrich, Chemiker.
+  Sieber, Dr. B., Chemiker.
+4 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.
+6 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.
+  Eckhardt, Friedr. Postmeister.
+7 | VII. | 7 Q | | Merian-Seeber, Emanuel.
+8 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.
+9 | VII. | 7 R | | Merian-Seeber, Emanuel.
+10 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.
+  VonDavans, Aug., Post- u. Eisenbahn-
+  cassier.
+11 | VII. | 7 S | | Schoellkopf-Schuhmacher, Gottl. F.
+12 | VII. | 74 A | Bad. Bahnhof. | Großh. bad. Eisenbahnverwaltung.
+  Wolff, Tobias, Ingenieurpractikant.
+  Malzacher, Wilh., Postpractikant.
+  Reiß, Albert, Güterexpeditor.
+  Eck, Anton, Telegraphist.
+13 | VII. | 7 T | | Schoellkopf-Schuhmacher, Gottl. F.
+15 | VII. | 7 U | | Schoellkopf-Schuhmacher, Gottl. F.
+17 | VII. | 80 A | | Bürgin, Em. u. Heinrich.
+  Grisard-Cheron, Wb. Mar. Elisabeth,
+  Tabakhandlung.
+  Merian-Respinger, Remigius, Part.
+  Böhl-Kohlbrügge, Ed., Dr. u. Privat-
+  Dozent.
+19 | VII. | 80 B | Gasthof zum Basler Hof. | Emde-Schoch, Christ. Friedr.
+  Becker-Geiger, Friedr., Gastwirth.
+  Schaaf, Adolf, Zollbeamter.
+23 | VII. | 81 A | | Grollimund-Rapp, Jacob.
+  Grollimund-Rapp, Jac., Wirth.
+31 | VII. | 82 A | | Berlinger-Martin, Frau.
+  Berlinger-Martin, Georg, Maurer.
+  Kenk-Faller, Philipp, Bildhauer.
+  Rink-Rohner, Wilh., Schreiner.
+33 | VII. | 82 B a | | VonBrunn-Matzinger, Simon.
+45 | VII. | 73 E | | Hetzel-VonBrunn, Wb. Angelika.
+47 | VII. | 66 | | Braun-Geßler, Andreas.

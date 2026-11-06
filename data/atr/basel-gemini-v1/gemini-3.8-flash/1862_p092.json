@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p092",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p092.jpg",
+    "bytes": 1430306,
+    "sha256": "efd0a7f63423dcdd24bfaef5e569b9dd346bd140b95df6f5b26227cbc490d171",
+    "sha256_of": "original",
+    "working_copy": "1862_p092.jpg"
+  },
+  "text": "Barfüßerplatz. — Binninger-Straße. 27\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n19 | III. | 707 | zum weißen Adler. | Lindenmeyer, Carl.\n  Lindenmeyer, Carl, Weinhändler.\n  Wirthschaft v. Sam. Himmely-Seifert.\n20 | III. | 706 | zum Lämmlein. | Lindenmeyer, Carl.\n  Himmely-Seifert, Samuel, Wirth.\n21 | III. | 705 | | Gysin, Heinrich.\n  Gysin, Heinrich, Spezierer.\n22 | III. | 704 | zum blauen Ring. | Hofer, Carl.\n  Hofer, Carl, Kerzenfabrikant.\n23 | III. | 703 | zum Känel. | Schmid-Bloch, Rudolf.\n  Schmid-Bloch, Rudolf, J. U. D., Notar.\n  Schmid, Adolf, J. U. D., Notar u. Advoc.\n  Gen.-Agent. d. Northern Ass. Comp. in London. Firma: R. u. A. Schmid.\n  Schmid-Hindenlang, Joh. Rud., Kaufm.\n  Schmid, Ludwig Emanuel, Kaufmann.\n24 | III. | 723 | zum grünen Eck. | Neustück, Gebrüder.\n  Neustück, Joh. Jakob, Maler.\n  Neustück, Heinrich, Bildhauer.\n25 | III. | 712 | zum weißen Eck. | Lotz-Spörlin, Hieronimus.\n  Lotz-Spörlin, Hieron. Kaufmann und Pfundzoller.\n  Lotz, Emil, Commis.\n  Spörlin-Merian, Wb. Sara, Part.\n  Heusler, Jgfr. Elise, Part.\n26 | III. | 713 | | Lotz-Spörlin, Hieronimus.\n  (Magazin).\n27 | III. | 714 | z. hintern Reinach. | Hosch-Peter, Isaac Jacob.\n  Hosch-Peter, Is. Jak., Adjunkt bei der eidg. Zolldirektion.\n  Hosch, Schwestern, Modistes.\n28 | III. | 715 | zum Narren. | Thüring, Joseph, Sattler.\n29 | III. | 716 | zur Schützenmatte. | Geßler-Weiß, Daniel.\n  Geßler-Weiß, Daniel, Hutmacher.\n30 | III. | 717 | z. springend. Hirsch. | Stöcklin-Rupli, Wb. Elisabeth.\n  Stöcklin-Rupli, Wb. Elisabeth, Part.\n  Schnäbelin-Rupli, Adam, Küfer.\n  Parisel, Balth. Ferdinand, Photograph.\n31 | III. | 718 | | Beck-Ernst, Samuel Leonhard.\n  Beck-Ernst, Sam. Leonhard, Schneider.\n32 | III. | 719 | | Schardt-Löliger, Daniel.\n  Schardt-Löliger, Daniel, Schuhmacher und Trödler.\n33 | III. | 720 | zum Marder. | Frey-Gamper, Wb. Anna.\n  Frey-Gamper, Wb. Anna, Modiste.\n34 | III. | 721—22 | zum Hornberg. | Sacher-Sütterlin, Anton.\n35 | | | | Sacher-Sütterlin, Anton, Ellenwaaren-handlung.\n\nBinningerstraße.\n3 | III. | 194 | | Schaub-Buser, Jacob.\n  Schaub-Buser, Jacob, Ziegler u. Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9645,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2161,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:38:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p092",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p092.jpg",
+      "bytes": 1430306,
+      "sha256": "efd0a7f63423dcdd24bfaef5e569b9dd346bd140b95df6f5b26227cbc490d171",
+      "sha256_of": "original",
+      "working_copy": "1862_p092.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:46+00:00"
+  }
+}

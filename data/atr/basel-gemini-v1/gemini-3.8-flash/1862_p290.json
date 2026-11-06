@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p290",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p290.jpg",
+    "bytes": 1526558,
+    "sha256": "c53e489caee79534e355593383bd48daaee89187889ce028330101a5dcd82b92",
+    "sha256_of": "original",
+    "working_copy": "1862_p290.jpg"
+  },
+  "text": "Alphabetisches Verzeichniß der Häuserbesitzer der\nStadt Basel.\n\nAbig, Emanuel. Rheingasse 58.\nAbt, Carl u. Georg. Klybeckstraße 107. 111. 119.\nAbt-Rottweil, Wb. Elisab., Schafgäßlein 1.\nAbt-Wenk, Carl. Hint. Bahnhofstraße 16.\nAckermann-Dudli, Johs. Spalenberg 26.\nAckermann-Rapp, Daniel. Gerbergasse 73.\nAckermann-Schaub, Pet. Sternengäßlein 9. 11.\nActiengesellschaft d. Mägdeherberge. Schoren-\n  weg 7.\nActiengesellschaft für Arbeiterwohnungen. In\n  der Breite 1. 3. 5. 7. 9. 11. 13.\nAegerter-Bühler, Joh. Hammerstraße 44.\nAenishänslin-Gränacher, Carl. Rebgasse 40.\nAeschmann, Daniel. Karthausgäßlein 7.\nAeschmann, Margaretha. Rheingasse 52.\nAichner, Rudolf. Steinenthorberg 14.\nAlbiez-Rehlin, Melchior. Spalenberg 32.\nAlbrecht-Speiser, Joh. Conr. Rebgasse 16. —\n  Schafgäßlein 14.\nAllenspach-Rudin, Joachim. St. Alban-Vor-\n  stadt 45.\nAlmosenamt. Nadelberg 23.\nAlt, Ludwig, Bäcker. Rheingasse 47.\nAlt, Wb. Susanna. Rebgasse 52.\nAlumneums, des theol., Verwaltung. Neue\n  Vorstadt 17.\nAmans-Cadet, Heinrich. Heuberg 32. — St.\n  Leonhards-Graben 49.\nAmans = Grollimund, Artus. St. Clara-\n  Straße 33.\nAmberger-Schlosser, Herm. Nauenstraße 1.\nAmmann-Neithardt, Achilles. Gerbergasse\n  63. 66. — Gerbergäßlein 35.\nAmsler, Rudolf. Augustinergasse 7.\nAmstein-Schaeffer, J. H. St. Peters-Berg 1.\nAnklin, Jos., sel. Erben. Steinenvorstadt 10.\nAnstein-Wölfflin, Wb. Marg. Bäumlein-\n  gasse 13.\nAntoni-Fausel, Carl. Klybeckstraße 41.\nArmen-Collegium d. Stadt Basel. Schafgäß-\n  chen 12. Utengasse 11.\nArmenschulstiftung, landwirthschaftliche. Hard-\n  straße 60.\n[spalte 2]\nAsmus-Kaufmann, Friedr. Lindenberg 11. —\n  Webergasse 36.\nAuer-Schlegel, Carl Jac. Utengasse 39.\nAwengen-Hindermann, Jac. Neue Vorstadt\n  19. 21.\nAwengen-Müller. Kanonengasse 15.\nAwengen-Rübenstahl, Albert. Elsässer-Straße 5.\nAwengen-Treu, Rudolf. Todtentanz 1.\nBachofen-Brenner, Joh. Math. Steinenthor-\n  straße 13.\nBachofen-Fininger, Samuel. Eisengasse 38. —\n  St. Peters-Platz 3.\nBachofen-Merian, J. J. St. Alban-Graben 7.\n  Augustinergasse 4. — Rittergasse 18. —\n  Klybeckstraße 31. 33. 35.\nBachofen, Joh. Jac. u. Sohn. St. Martins-\n  Gasse 3. — Rheinsprung 18.\nBachofen-Vischer, Wilhelm. St. Jakobs-Straße\n  53. — Singerweg 1. 3.\nBader-Döbelin, Urs Jos. Barfüsserplatz 14.\nBader, Jakob. St. Johann-Ringweg 14.\nBader-Rudin, Jakob. Im Davidsboden 1.\nBader-Schäfer, Johs. Gerbergasse 42.\nBader-Wilhelm, Franz Fidel. Mattweg 16.\nBaer-Fritsche, Abraham. Schneidergasse 17.\nBär-Martin, Rudolf. Stadthausgasse 4. —\n  Todtengäßlein 5.\nBärwart-Carle, Johs. St. Alban-Vorstadt 37.\nBärwart-Strittmatter, Theobald. St. Clara-\n  Straße 14.\nBäry-Ehemann, Heinrich. St. Leonhards-Gra-\n  ben 24.\nBäumlen-Gsell, Jos. Klingelbergstraße 35. —\n  Marktplatz 7. 9.\nBalmer-Rinck, Joh. Jac. Hinter. Burgweg 4.\nBalmer u. Riehm, Kanonengasse 24.\nBanga-Pfaff, Rudolf. St. Albanthorgraben 1.\nBank-Gesellschaft in Basel. Marktplatz 3.\nBann des Münsters. St. Elisabethen-Straße 55.\n  u. 59. — St. Peter u. St. Leonhard, St.\n  Johann-Vorstadt 73. — Missionsstraße 2.\n  — St. Theodor, Riehenstraße 41.\nBargätzi, Peter. Gerbergasse 8.\n\n15",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 13248,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3074,
+    "lines": 90,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:10:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p290",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p290.jpg",
+      "bytes": 1526558,
+      "sha256": "c53e489caee79534e355593383bd48daaee89187889ce028330101a5dcd82b92",
+      "sha256_of": "original",
+      "working_copy": "1862_p290.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:43+00:00"
+  }
+}

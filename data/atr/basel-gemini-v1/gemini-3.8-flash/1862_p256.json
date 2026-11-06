@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p256",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p256.jpg",
+    "bytes": 1412414,
+    "sha256": "1a65d3179b66eb419cee2a2ae101a737ceb6e4169588acc1291fa4d32624602c",
+    "sha256_of": "original",
+    "working_copy": "1862_p256.jpg"
+  },
+  "text": "Rebgasse. — Untere Rebgasse. 191\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n46 | VIII. | 158 | | Rueger, Joh. Georg.\n  Rueger-Schaerer, Joh. Gg., Schuhmach.\n47 | VIII. | 150 | zum Dupf. | Gaß-Schlosser, Johannes.\n  Gaß-Schlosser, Johannes, Bäcker.\n  Gaß-Thurneysen, Heinrich, Part.\n48 | VIII. | 154 | | Scherb=Schäfer, Joh. Jac.\n  Scherb-Schäfer, Joh. Jac., Briefträger u. Barbier.\n50 | VIII. | 153 | | Lämmlin-Berthel, Wb. Judith.\n  Lämmlin-Berthel, Wb. Judith, Part.\n52 | VIII. | 152 | | Alt-Bienz, Wb. Susanna.\n  Alt-Bienz, Wb. Susanna, Bäcker.\n  Hamma, Franz, Organist d. katholisch. Gemeinde.\n  Lipp-Jordan, Hch., Postangestellter.\n\nUntere Rebgasse.\n\n1 | VII. | 213 | | Lorentz-Schneider, Josef.\n  Lorentz-Schneider, Josef, Wirth.\n  Frey-Maehr, Joh., Geschäftsmann.\n3 | VII. | 212 | Schlatthof. | Bertrand-Kaiser, Josef.\n4 | VII. | 206 | | Clavel-Linder, Alexander.\n  Meyer-Bischoff, Christian, Kaufmann.\n5 | VII. | 211 | | Braun-Kieffer, Johannes.\n6 | VII. | 204 | | Clavel-Linder, Alexander.\n7 | VII. | 210 | | Braun-Kieffer, Johannes.\n8 | VII. | 250 | Sternenmühle. | Petit u. Schwestern Cassal.\n  Petit-Kassal, Joh., Holz- u. Farbmüller.\n9 | VII. | 209 | | Braun-Kieffer, Johannes.\n  Braun-Kieffer, Johs., Tabakfabrikant.\n10 | VII. | 252 | z. neu. Schleife. | Boerlin-Moesner, Jac.\n  Boerlin-Moesner, Jac., Schleifer u. Stuhlschreiner.\n11 | VII. | 208 | | Braun-Kieffer, Johannes.\n12 | VII. | 277 | Rappoltshofeck. | Baumgartner-Zeller, Leonhard.\n  Baumgartner-Zeller, Leonh., Kübler u. Holzsetzer.\n  Schaub-Degen, Joh. Gg., Mechaniker.\n13 | VII. | 207 | | Braun-Kieffer, Johannes.\n14 | VII. | 276 | zum Kaiserberg. | Durst-Reichert, Carl Friedr.\n  Durst-Reichert, Carl Friedr., Bäcker.\n15 | VII. | 249 B | | Schaub-Hartmeyer, Jac.\n  Schaub-Hartmeyer, Jac., Kaufmann. Firma Schaub u. Comp. Agentur- Commissionsgeschäft.\n  Föhr-Huber, Georg, Rittmeister.\n16 | VII. | 275 | | Weiß-Coelestin.\n  Weiß-Coelestin, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8239,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1985,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:04:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p256",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p256.jpg",
+      "bytes": 1412414,
+      "sha256": "1a65d3179b66eb419cee2a2ae101a737ceb6e4169588acc1291fa4d32624602c",
+      "sha256_of": "original",
+      "working_copy": "1862_p256.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:05+00:00"
+  }
+}

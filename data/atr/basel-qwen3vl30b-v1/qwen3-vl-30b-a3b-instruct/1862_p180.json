@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p180",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p180.jpg",
+    "bytes": 1412023,
+    "sha256": "a05605570bce32cef155ce306dc4152a99fda9621f3e981f7fc472e4bd697ef1",
+    "sha256_of": "original",
+    "working_copy": "1862_p180.jpg"
+  },
+  "text": "Platzgässlein. — Rennweg. — Rheinsprung. 115\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n11 | II. | 301 | | Henz-Renner, Eucharius. Siehe Nro. 36 Spalenvorstadt.\n13 | II. | 297 | | Sandreuter-Langmesser, Rudolf. Siehe Nro. 13 Spalenvorstadt.\n15 | II. | 298 | | Schardt-Breiting, Carl. Siehe Nro. 15 Spalenvorstadt.\n17 | II. | 299 | | Schardt-Breiting, Carl. Siehe Nr. 17 Spalenvorstadt.\nRennweg.\n1 | V. | 302 A c | | Wahl-Spitteler, Friedrich. (Mechanische Werkstätte von Wahl und Socin.)\n2 | V. | 302 B | zum Morgenstern. | Trüdinger-Ruffer, Philipp. Trüdinger-Ruffer, Philipp, Bandfabr. Diehl-Wolf, Ferdinand, Tabakfabrikant. Roth-Kirsch, Friedrich, Commis.\n3 | V. | 302 A f | | Wahl-Spitteler, Friedrich. (Remise.)\n8 | V. | 302 A d | | Wahl-Spitteler, Friedrich. (Magazin.)\n15 | V. | 290 | | Oberer, Sebastian.\n17 | V. | 290 A | | Schmid, Wilhelm.\nRheinsprung.\n1 | VI. | 1517 | zur Sonne. | Burtorf-Preiswerk, Chr., sel. Erb. Burtorf, August, Wechselfenjal. Burtorf, Carl, Kaufmann. Burchhardt u. Burtorf, Tabak- u. Spezerei-handlung.\n2 | VI. | 1507 | zum Sonnenfroh. | Hosch-Spörlin, Johann. Hosch-Spörlin, Joh., Schneider.\n3 | VI. | 1516 | zum Rheinsprung. | Kleimt, Joseph. Brombach-Kuriger, Bernh., Bergolder.\n4 | VI. | 1506 | | Langmesser, Joh. Jakob. Klingelkuf-Langmesser, Wb. Anna, Trödlerin.\n5 | VI. | 1515 | zum Franichstreit. | Forcart-Respinger, Lucas. Forcart-Respinger, Lucas, Kaufmann.\n6 | VI. | 1505 | z. wilden Mann. | Scherb-Thut, Wb. Johanna. Scherb-Thut, Wb. Johanna, Trödlerin. Dietrich-Uehlinger, Eml. Th., Schneider.\n7 | VI. | 1508 | Universitätsgebäud. u. Anatomie. | Staat. Bed-Hoch, Emanuel, Pedell. Müller-Martin, Georg, Anatomiediener.\n8 | VI. | 1504 | z. rothen Thurm. | Hegnauer-Bolliger, Jacob. Hegnauer-Bolliger, Jacob, Taglöhner. 8*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5481,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1830,
+    "lines": 22,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 82.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p180",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p180.jpg",
+      "bytes": 1412023,
+      "sha256": "a05605570bce32cef155ce306dc4152a99fda9621f3e981f7fc472e4bd697ef1",
+      "sha256_of": "original",
+      "working_copy": "1862_p180.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:02+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p258",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p258.jpg",
+    "bytes": 1439708,
+    "sha256": "9817f50fa45f90519e8e3966e7b882c23c4c5e667893e2715473ffc6b84efdd0",
+    "sha256_of": "original",
+    "working_copy": "1862_p258.jpg"
+  },
+  "text": "Rheingasse.\n193\nNene\nHaus=No. | Quar-\ntier. | Alte\nHaus=No. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n9 | VIII. | 9 | oberer Kilchmann. | Birmann=Brüderlin, Gedeon.\n| | | | Birmann=Brüderlin, Gedeon, Schlosser.\n| | | | Honegger, Selina, Corsetiere.\n10 | VIII. | 16 | zur Justitia. | Meyer=Best, Joh.\n| | | | Meyer=Best, Joh., Coiffeur.\n| | | | Maurice=Senn, Josef, Kaufmann.\n| | | | Comptoir.\n| | | | Tröndle=Faller, Ferd., Holzhändler.\n| | | | Uebelin=Mollinet, Gg., Dessinateur.\n11 | VIII. | 12 | z. blauen Stein. | Henz=Dömmelin, Niklaus.\n| | | | Henz=Dömmelin, Niklaus, Hafner.\n| | | | Sparren=Best.\n| | | | Weissenberger=Martin, Johs., Spezier.\n| | | | Schaefer=Rommann, Carl Frz., Commis.\n12 | VIII. | 17 | | Trauz, Adam.\n| | | | Trauz, Adam, Bäcker.\n13 | VIII. | 13 | z. blauen Spieß. | Wicki, Josef.\n| | | | Wicki=Gast, Josef, Kleiderreiniger.\n| | | | Mazinger, Barbara, Modiste.\n14 | VIII. | 30 | zum Brücklein. | Salathe=Haupt, Wb. Elisabeth.\n| | | | Salathe=Haupt, Wb. Elis., Wirthin.\n| | | | Unholz, Jakob, sel. Erben, in Kiehen.\n| | | | Meyer=Heinimann, Carl Rud., Schneid.\n15 | VIII. | 14 | zum Voehler. | Krafft=Meyer, Ernst Conrad.\n| | | | Krafft=Meyer, Ernst Conrad, Gastwirth.\n16 | VIII. | 31 | | Kühner=Aberle, Georg Bernhard.\n| | | | Kühner=Aberle, Georg Bernhard, Schuh-\n| | | | | macher.\n| | | | Schulé=Briner, Carl, Commis.\n| | | | Müller=Willin, Achill., Eisenbahnbeamt.\n17 | VIII. | 18—19 | z. schwarz. Bären. | Keller=Meyer, Georg Friedrich.\n| | | | Keller=Meyer, Georg Friedr., Handelsm.\n| | | | Buchner=Bröner, Peter, Schreiner.\n| | | | Baumgartner=Langhans, Lucas Rudolf,\n| | | | | Maler.\n18 | VIII. | 32 | | Hunziker=Leder, Samuel.\n| | | | Hunziker=Leder, Samuel, Wirth.\n| | | | Keller=Häfeli, Andreas, Schiffmann.\n| | | | Schütz, Peter, Uhrmacher.\n19 | VIII. | 28 | zur Linde. | Lenz=Schmidt, Johannes.\n| | | | Lenz=Schmidt, Joh., Seidenfärbergesell.\n| | | | Hecht, Heinrich, Uhrmacher.\n20 | VIII. | 33 | zum Traubenfeller. | Rutschmann=Berlinger, August.\n| | | | Rutschmann=Berlinger, August, Mechan.\n| | | | Duthaler, Dürrenberger, Eduard, Buch-\n| | | | | binder.\n| | | | Grollimund=Better, Wb. Johanna, Sattl.\n| | | | Kaiser=Stadelmann, Jakob.\n| | | | Kaiser=Stadelmann, Jakob, Kostgeber.\n21 | VIII. | 29 | zum Rosenkranz. | Meyer=Landolt, Johannes.\n| | | | Meyer=Landolt, Johannes, Ausschnitt-\n| | | | | waarhandlung.\n22 | VIII. | 34 | zum Henneberg. | \n23 | VIII. | 36 | zum Kaiserstuhl. | \n24 | VIII. | 35 | zum Falkenstein. | \n13",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6769,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2506,
+    "lines": 64,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.12,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p258",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p258.jpg",
+      "bytes": 1439708,
+      "sha256": "9817f50fa45f90519e8e3966e7b882c23c4c5e667893e2715473ffc6b84efdd0",
+      "sha256_of": "original",
+      "working_copy": "1862_p258.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:39+00:00"
+  }
+}

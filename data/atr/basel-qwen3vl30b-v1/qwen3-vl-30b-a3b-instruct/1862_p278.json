@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p278",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p278.jpg",
+    "bytes": 1681526,
+    "sha256": "515b6108e98909d6680660a2a0bbd700b5ca76bdbf1f940c07fa29d24864c953",
+    "sha256_of": "original",
+    "working_copy": "1862_p278.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 213\nCardinal, z. hintern. Pfluggäklein Nr. 14. Ehrenburg, z. St. Alban-Vorstadt Nr. 63.\nChristoffel, z. großen. Schnabelgäklein Nr. 17. Ehrenfels, z. Schliisselberg Nr. 4.\nChristoffel, z. großen. Imbergäklein Nr. 31. Ehrenfels, z. Freie Straße Nr. 29.\nChristoffel, z. kleinen. Gerbergasse Nr. 41. Ehrenfels, z. Freie Straße Nr. 84.\nSt. Clarabad. St. Clarastraße Nr. 19. Ehrenfelsershof. St. Martinsgasse Nr. 12.\nClarabierbrauerei. St. Clarastraße Nr. 2. Ehrenstein, z. Münsterberg Nr. 12.\nSt. Clarahof. Rebgasse Nr. 1. Eichbaum, z. Steinenvorstadt Nr. 7.\nSt. Clarakirche. St. Claraplatz Nr. 5. Eichbaum, z. Imbergäklein Nr. 27.\nSt. Claramiühle, z. Rappoltshof Nr. 11. Eichbaum, z. Freie Straße Nr. 109.\nCollegium u. Anatomie. Rheinsprung Nr. 7. Eichbäumlein, z. Steinenvorstadt Nr. 8.\nColmar, Groß=. St. Alban-Graben Nr. 8. Eiche, z. Schneidergasse Nr. 21.\nConstanz, z. großen. Pfluggäklein Nr. 3. Eiche, z. Mühlenberg Nr. 3.\nDäublein, z. St. Alban-Vorstadt Nr. 4. Eichhorn, z. Freie Straße Nr. 78.\nDäublin, z. St. Leonhards-Graben Nr. 55. Eichhorn, z. Greisengasse Nr. 25.\nDäublin, z. Heuberg Nr. 38. Eichhorn, z. hintern. Sattelgasse Nr. 15.\nDavid, z. König. St. Petersgraben Nr. 24. Eichhorn, z. mittlern. Sattelgasse Nr. 16.\nDelphin, z. Rittergasse Nr. 10. Eichhorn, z. rothen. Greisengasse Nr. 23.\nDeutschordenskapelle. Rittergasse Nr. 31. Eichhörnchen, z. St. Petersplatz Nr. 19.\nDiafonatshaus. St. Leonhardskirchplatz Nr. 2. Eichhörnlein, z. Freie Straße Nr. 76.\nDiafonatswohnung. St. Leonhardskirchplatz Nr. 5. Eichhörnlein, z. Schneidergasse Nr. 30.\nDocketenkänsterli. Eijengasse Nr. 24. Eisenburg, z. St. Martinsgasse Nr. 16.\nDoktorgarten, ehem., Anstalt f. blödsin. Kinder u. Armen-Herberge. St. Petersgraben Nr. 6. Eisenhut, z. Freie Straße Nr. 39.\nDolder, z. Münzgäklein Nr. 14. Eisenhut, z. untern. Pfluggäklein Nr. 9.\nDolder, z. Spalenberg Nr. 11. Elephant, z. großen. Freie Straße Nr. 65.\nDolder, z. Rebgaße Nr. 15. Elephanten, z. kleinen. Freie Straße Nr. 67.\nDolder, z. hintern. Sattelgasse Nr. 18. St. Elisabethenkirche. St. Elisabethenstr. Nr. 10.\nDolder, z. hohen. St. Alban-Vorstadt Nr. 35. Ell, z., und d. 3 Bären. Gerbergasse Nr. 57.\nDolder, z. vordern. Sattelgasse Nr. 19. Engel, Gasthof z. Spalenvorstadt Nr. 3.\nDomhof. Münsterplatz Nr. 12. Engel, z. Rittergasse Nr. 23.\nDomprobstei. Rittergasse Nr. 18. Engel, z. Marktplatz Nr. 6.\nDomprobsteh, z. St. Alban-Graben Nr. 7. Engel, z. grünen. Klosterberg Nr. 31.\nDrachen, z. Neischenvorstadt Nr. 22. Engelberg, z. Heuberg Nr. 18.\nDrachen, z. grünen. Freie Straße Nr. 37. Engelberg, z. St. Leonhards-Graben Nr. 35.\nDrachenfeld, z. St. Petersgasse Nr. 9. Engelhof, z. Nadelberg Nr. 4.\nDrachenmühle, z. Klingenthal Nr. 1. Engelkopf, z. Heuberg Nr. 50.\nDrathzug. St. Claragrabcn Nr. 11. Engelsburg, z. Theaterstraße Nr. 14.\nDreispitz, z. Münchensteiner Straße Nr. 22. Engelsburg, z. Theaterstraße Nr. 16.\nDroschkenanstalt. Elsässerstraße Nr. 4. Engelsburg, z. Nadelberg Nr. 34.\nDouane, z. Barfüßergasse Nr. 14. Engelsgruß, z. Spalenvorstadt Nr. 43.\nDürmenach, Schloß. Spalenberg Nr. 34. Ente, z. Spalenberg Nr. 2.\nDupf, z. Rebgaße Nr. 45. Ente, Hinterhaus z. Imbergäklein Nr. 14.\nDupf, z. Riehenthofstraße Nr. 23. Eptingerhof. Rittergasse Nr. 12.\nDuttili, z. Duttlieweg Nr. 6. Eptingerhof. St. Martinsgasse Nr. 2.\nEbenEzer, z. Grenzacher Straße Nr. 73. Eptingerhof, z. gehörend. Bäumleingasse Nr. 20.\nEber, z. St. Johann-Vorstadt Nr. 37. Erfer, z. Spalenvorstadt Nr. 6.\nEd, z. grünen. Barfüßerplatz Nr. 24. Erlacherhof. St. Johann-Vorstadt Nr. 17.\nEd, z. neuen. St. Leonhardsgraben Nr. 3. Erlacherhof, hinterer. Spitalstraße Nr. 14.\nEd, z. scharfen. Unterer Heuberg Nr. 3. Ermitage, z. Roschhofgasse Nr. 7.\nEd, z. scharfen. Spalenvorstadt Nr. 44. Ernauerhof, z. St. Alban-Graben Nr. 4.\nEd, z. schönen. Rheingasse Nr. 69. Eselmiühle, Blau=. Teichgäklein Nr. 3.\nEd, z. weißen. Barfüßerplatz Nr. 25. Eselmiühle, Schwarz=. Schjengasse Nr. 14.\nEchweiber, z. Neischenvorstadt Nr. 47. Extractfabrik. Bahnhofstraße Nr. 3.\nEfringen, z. Schneidergasse Nr. 7. Fällklein, z., u. z. Grünstein. Freie Straße Nr. 93.\nEfringen, z. kleinen. Schneidergasse Nr. 18. Fällklein, z. Stapfelberg Nr. 2.\nEfringen, z. kleinen. St. Andreasplatz Nr. 18. Fällklein, z. St. Alban-Vorstadt Nr. 92.\nEglin, z. goldenen. Gerbergasse Nr. 27. Fällklein, z. St. Alban-Vorstadt Nr. 90.\nEgringerhof. Untere Rebgaße Nr. 22. Fällklein, z. Stapfelberg Nr. 4.\nEgringerhof. Untere Rebgaße Nr. 24.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12118,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4469,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 74.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:54:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p278",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p278.jpg",
+      "bytes": 1681526,
+      "sha256": "515b6108e98909d6680660a2a0bbd700b5ca76bdbf1f940c07fa29d24864c953",
+      "sha256_of": "original",
+      "working_copy": "1862_p278.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:49+00:00"
+  }
+}

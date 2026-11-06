@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p419",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p419.jpg",
+    "bytes": 1458204,
+    "sha256": "f9745f02c0ae92fd1dd5f54f7ef443950cae8187768c928875941bb80bb2bf90",
+    "sha256_of": "original",
+    "working_copy": "1862_p419.jpg"
+  },
+  "text": "354\nVerzeichnis der Bürger und Einwohner.\nBögelin, J. Zac., Kaufmann. Gerbergasse 20. Bogt, Anton, Postenführer. Bahnhofstraße 4.\n— Jacob, Lithographie. Steinenbachgäß-\nlein 12.\n— =Jordi, Emil, Posamenter. Rheingasse 40.\n— Martin, Commis. Aeschenvorstadt 53.\n— =Schaub, Joh., Magazinarbeiter. Spital-\nstraße 13.\n— =Stump, Johann, Taglöhner. Neb-\ngasse 46.\n— =Wettstein, Heinrich, Commis. Nauen-\nstraße 6.\n— Wittwe, Part. Aeschenvorstadt 60.\nBögtlin, Johannes, Gärtner. Grenzacher-\nStraße 62.\n— =Langmesser, Ludwig, Part. Missions-\nstraße 57.\nBoelcklin=Heckler, Sch., Postangestellter. Ger-\nbergäklein 33.\nBölmli=Raas, Johann Ludwig, Schneider.\nSpalenberg 54.\nBölm=Biirgin, Sch., Fabrikarbeiter. St. Pe-\nters=Gasse 12.\n— =Degen, Wwe. Maria, Part. Hut-\ngasse 21.\n— =Flubacher, Johann Georg, Posamenter.\nHammerstraße 98.\n— =Glafer, Jakob, Fabrikarbeiter. St. Al-\nban=Vorstadt 20.\n— =Hug, J. J., Stuhlschreiner. St. Al-\nban=Thal 16.\n— Jgf. Susanna, Fabrikarbeiterin. Aeschen-\nvorstadt 17.\n— Lucas, Lehrer. Wallstraße 22.\n— =Rieder, Heinrich, Mechaniker. Steinen-\nthorstraße 32.\n— =Schaub, Heinrich, Fabrikarbeiter. Mitt-\nlere Straße 19.\n— =Schaubhut, Johann, Taglöhner. Weber-\ngasse 5.\n— =Boegelin, Johann, Zettlermeister. Fa-\nbriffstraße 29.\n— =Wildenstein. Sch., Posamenter. Ham-\nmerstraße 59.\n— =Zutt, J. J., Commis. Wallstraße 22.\nBogel=Aichler, Anton, Part. St. Peters-\nBerg 8.\n— Maria Magdalena, Taglöhnerin. Rhein-\ngasse 90.\n— =Meyer, Johannes, Conducteur. Spalen-\nberg 9.\n— =Schäublin, Friedr., Fabrikarb. Aeschen-\nvorstadt 60.\n— =Strittmatter, Christian, Schuhmacher.\nRothofgasse 3.\nBogelsanger=Wiefer, Conrad, Maurer. Rhein-\ngasse 3.\nBogler=Riesler, Adrian, Commis. Schützen-\ngraben 45.\n— =Wiel, Sch., Magazinarbeiter. Weiße\nGasse 12.\n— =Baumann, Wittwe. Klosterberg 7.\n— =Christen, Wwe., Fabrikarbeiterin. Kii-\ndengäklein 2.\n— und Tie., Porzellan- und Glashandlung.\nMarktplatz 18.\n— =Tordier, Fch., Schneider. Stadthaus-\ngasse 22.\n— =Dieterle, Friedrich, Maurer. Spalen-\nberg 18.\n— =Falkner, Ludw., Commis. Steinen-\nvorstadt 47.\n— =Frey, Daniel, Wollwäscher. Rappolts-\nhof 12.\n— =Frehler, J., Ferger. Aeschenvorstadt 48.\n— =Gottenfieni, Joh., Lehennann. Mittlere\nStraße 58.\n— =Haberthür, Johann, Maurergeselle. Im-\nbergäklein 13.\n— Sch., Posamenter. Sternengäklein 29.\n— =Holzwart, Ludwig, Kutscher. St. Jo-\nhann=Vorstadt 67.\n— =Kozinger, Samuel, Ferger. Uten-\ngasse 35.\n— =Rubly, Jacob, Taglöhner. St. Leon-\nhards=Berg 6.\n— =Ruff, Celestin, Mechaniker. Unterer\nHeuberg 23.\nBolkart=Higgin, J. J., Schreiner. Freie\nStraße 62.\nBolkhart=Aeberli, H. Sch., Seidenfärberegeselle.\nRheingasse 49.\nBollenhals=Abt, Fch., Feuerwerker. Mostacker-\nstraße 58.\n— Michael, Papierer. St. Alban=Thal 18.\nBolz, Dietrich, Postenführer. Bahnhofstraße 4.\n— =Manz, Johann Jac., Schmied. Steinen-\nvorstadt 50.\nBon Arr=Erzberger, Joh., Part. Schnabel-\ngäklein 12.\n— =Müller, J. J., Musterweber. Schaf-\ngäklein 8.\nBonBraun, Anna Maria, Lehrerin. St.Theo-\ndorskirchplatz 7.\n— =Braun, Wittwe Margaretha, Spezerei-\nhandlung. Kiehenthorstraße 29.\n— =Mazinger, Simon, Schreiner. Hammer-\nstraße 44.\n— =Bon Speyr, Wwe., Part. Sundol-\ndinger=Straße 4.\nBonderasch, Genofeva, Glätterin. Rheingasse 16.\nBonderMühl=Bischoff, Emanuel. Nadelberg 12.\n— =Biirgy, Frau M., Rentiere. Augustiner-\ngasse 8.\n— =Fürstenberger, Alfred, Seidenstofffabri-\nkant. St. Alban=Vorstadt 36.\n— Gebrüder, Seidenstofffabrik. St. Alban-\ngraben 22.\n— =Hoffmann, Frau A. Cathar., Rentiere.\nSt. Alban=Vorstadt 36.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9080,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3456,
+    "lines": 121,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0083,
+    "mean_line_chars": 27.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:18:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p419",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p419.jpg",
+      "bytes": 1458204,
+      "sha256": "f9745f02c0ae92fd1dd5f54f7ef443950cae8187768c928875941bb80bb2bf90",
+      "sha256_of": "original",
+      "working_copy": "1862_p419.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:18:07+00:00"
+  }
+}

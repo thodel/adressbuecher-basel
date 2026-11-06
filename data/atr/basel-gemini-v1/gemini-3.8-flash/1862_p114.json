@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p114",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p114.jpg",
+    "bytes": 1433005,
+    "sha256": "47bc51e533074ac5f9f27b67d11d7bc440d41676a7e2b5b0875b71795127b0af",
+    "sha256_of": "original",
+    "working_copy": "1862_p114.jpg"
+  },
+  "text": "Gartenstraße. — Gasstraße. — Gellertstraße. 49\n\nNeue Haus-Nr. | Quar tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n72 | IV. | 211 F | | Epple-Stücklin, Christian.\n  Bieler-Groß, Jacob Friedrich, Kaufm.\n  Dinkel-Brüderlin, Franz, Architekt.\n  Schaub-Lehnherr, Jac. Fr., Cassier be-\n    der Centralbahn.\n\nGasstraße.\n7 | I. | 7 | | Dollfus, Caspar.\n7 | I. | 6 | Gasanstalt. | Stadtgemeinde.\n  Grunner, Carl Heinrich, Ingenieur.\n  Bußmann, Bernh. Gottl. Alb., Chemiker.\n  Ullmann, Jakob Rudolf, Aufseher.\n\nGellertstraße\n2 | V. | 300 A. | | Burckhardt-Schönauer, Ludwig.\n  Burckhardt-Schönauer, L., Kunstmaler.\n5 | V. | 301 | | Bischoff-Iselin, Christoph.\n  (Sommerwohnung.)\n6 | V. | 299 B. | | Wieland-Gemuseus, Emil.\n7 | V. | 300 | | Bischoff-Iselin, Christoph.\n  (Remise und Stallung.)\n13 | V. | 299 | | Burckhardt-Preiswerk, Wilhelm.\n  Meyer-Wälti, Jacob, Gärtner.\n14 | V. | | | Holzach-Eck, Friedrich.\n  Holzach-Eck, Fr., Ziegelfabrikant.\n15 | V. | 298 | | Burckhardt-Preiswerk, Wilhelm.\n  (Remise und Stallung.)\n16 | V. | | | Gemuseus-Riggenbach, Rud. Wilh.\n  Gemuseus-Riggenbach, R. W., Papierfkt.\n19 | V. | 297 | | Bischoff, Carl.\n  Laudis-Felber, Heinrich, Gärtner.\n22 | V. | 298 A. | | Tschopp-Holzach, Heinrich.\n  Tschopp-Holzach, Heinrich, Spengler.\n  Stückelberger-Speiser, Andr., Bandfbkt.\n23 | V. | 293 | | Burckhardt-Schrickel, Eduard.\n  Buser-Müry, Jacob, Lehenbeständer.\n28 | V. | 296 | | Pfander-Carlé, J. J. sel., Erben.\n  Weber-Mangold, Samuel, Landwirth.\n29 | V. | 286 | | Burckhardt-Schrickel, Eduard.\n  Scheidegger-Kramer, Joh., Gärtner.\n30 | V. | 296 A. | | Pfander-Carlé, Joh. Jac. sel., Erben.\n  (Scheune.)\n31 | V. | 286 b. | | Burckhardt-Schrickel, Eduard.\n  (Sommerwohnung.)\n40 | V. | 827 | | Merian-Burckhardt, Wb. Margar.\n  (Scheune.)\n43 | V. | 282 | | Sutter-Kaufmann, Joh. Rudolf.\n  Sutter-Kaufmann, J. R., Landwirth.\n\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8925,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1886,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0612,
+    "mean_line_chars": 36.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:42:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p114",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p114.jpg",
+      "bytes": 1433005,
+      "sha256": "47bc51e533074ac5f9f27b67d11d7bc440d41676a7e2b5b0875b71795127b0af",
+      "sha256_of": "original",
+      "working_copy": "1862_p114.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:09+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p155",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p155.jpg",
+    "bytes": 1354054,
+    "sha256": "d78b224f1ad919e9244c1ae2fbeba8a59ed7acd00ec178b7f3b8053022d6bf50",
+    "sha256_of": "original",
+    "working_copy": "1862_p155.jpg"
+  },
+  "text": "90 St. Martins-Gäßlein. Martins-Gasse. St. Martinskirchplatz.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n3 | VI. | 1604 |  | Sutter-Baumgartner, Jacob.\n  Buol-Gyſin, Eduard, Commis.\n4 | VI. | 1608 | zum Gold. | Silbernagel-Scheidenberger, J. Jak.\n  Siehe Nro. 11 Sporengasse.\n\nSt. Martins-Gasse.\n1 | VI. | 1509 | z. Reichensteinerhof. | Vischer, Carl u. Peter.\n  Vischer-Merian, Carl, Bandfabrikant.\n  Vischer-Burckhardt, Peter, Bandfabrikt.\n2 | VI. | 1496 | zum Eptingerhof. | Staat.\n  Kehlstadt-David, Leonh., Oberstrathsb.\n3 | VI. | 1510 | Wendelsdörferhof. | Bachofen u. Sohn, Joh. Jakob.\n4 | VI. | 1495 | zum hintern Hasen. | Sarasin, Hans Franz.\n  Kuhn-Hohler, Aug., Handlungsdiener.\n5 | VI. | 1514 |  | De Bary-Sarasin, Johannes.\n6 | VI. | 1494 |  | Sarasin, Hans Franz.\n7 | VI. | 1511 |  | Bischoff, Gebrüder. Magazin.\n8 | VI. | 1493 |  | Sarasin, Hans Franz.\n9 | VI. | 1513 |  | Bischoff-Buxtorf, Wb. Adeline.\n  Remise.\n10 | VI. | 1492 A |  | Sarasin, Hans Franz.\n  Waibel-Schneider, Heinr., Fabrikaufseher.\n11 | VI. | 1513 |  | Bischoff-Buxtorf, Wb. Adeline.\n  Christ-Kyburt, Wb. Anna Mar., Part.\n12 | VI. | 1492 | Ehrenfelserhof. | His-La Roche, Eduard.\n  His-La Roche, Eduard, Appell.-Rath.\n14 | VI. |  |  | Eing. zu 3, 5, 9, Freie Straße.\n16 | VI. | 1491 | zur Eisenburg. | Bischoff, Gebrüder.\n  Mäddry-Thommen, Hch., Stuhlschreiner.\n  Hotz-Müller, Rud., Lehrer.\n  Schmid, Rud., Kanzleisecretär.\n18 | VI. | 1490 | Bärenfelserhof. | Bischoff, Gebrüder.\n  Bischoff-Merian, Wilh., Bandfabrikant.\n20 | VI. | 1489 b | Museum. | Staat. Spritzenmagazin.\n\nSt. Martinskirchplatz.\n1 | VI. | 1501 |  | Fender, Wilhelm\n  Fender, Wilhelm, Kaufmann.\n2 | VI. | 1500 | Siegristenwohnung. | Staat\n  Kromer-Frey, David, Siegrist u. Ehe-\n  Gerichtsweibel.\n3 | VI. | 1499 | Pfarrhaus. | Staat.\n  Stockmeyer-Burckhardt, Immanl., Pfar.,\n  Theol. Dr.\n  Siehe Nr. 12 Rheinsprung.\n4 | VI. | 1498 | St. Martinskirche. | Staat.\n5 | VI. | 1605 |  | Plattner, Emanuel Jacob.\n  Plattner, Emanuel Jacob, Ferger.\n6 | VI. | 1604 |  | Sutter-Baumgartner, Jacob.\n7 | VI. | 1606 |  | Sutter-Baumgartner, Jacob.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 16217,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2151,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.12,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:48:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p155",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p155.jpg",
+      "bytes": 1354054,
+      "sha256": "d78b224f1ad919e9244c1ae2fbeba8a59ed7acd00ec178b7f3b8053022d6bf50",
+      "sha256_of": "original",
+      "working_copy": "1862_p155.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:53+00:00"
+  }
+}

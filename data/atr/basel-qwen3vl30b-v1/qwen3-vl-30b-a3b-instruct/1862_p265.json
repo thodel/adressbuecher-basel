@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p265",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p265.jpg",
+    "bytes": 1288885,
+    "sha256": "bfa0c691878d20df5203bf1386f9894390ec3b4101ae9c549310540b4d246d6f",
+    "sha256_of": "original",
+    "working_copy": "1862_p265.jpg"
+  },
+  "text": "200\nNiehenstraße.\nNrn\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n29\nVII.\n29 A\nKaufhauscommission.\n30\nVIII.\n26\nMarian-Kyhiner, Wb. Elisabeth.\n32\nVIII.\n27\nMarian-Kyhiner, Wb. Elisabeth.\n36\nVIII.\n28—30\nMarian-Kyhiner, Wb. Elisabeth.\nDettwiler-Brüderlin, Wb. Anna Cath.,\nLehenfrau.\n38\nVIII.\n28 a\nMarian-Kyhiner, Wb. Elisabeth.\n41\nVII.\nKap. d. St. Theo-\ndors Gottesacker.\nBann St. Theodor.\n47\nVII.\n35\nLeGrand, Christof u. Maria.\n49\nVII.\n35 a\nLeGrand, Christof u. Maria.\n54\nVIII.\n36\nMarian-VonderMühl, Heinrich.\nDaucher-Kermgott, Phil., Gärtner.\n56\nVIII.\n36 i\nMarian-VonderMühl, Heinrich.\n57\nVII.\n37\nLitzelmann-Schaffner, Hans Jac.\nNolin-Litzelmann, Lucien Alexander,\nChemiker.\n58\nVIII.\n36 k\nMarian-VonderMühl, Heinrich.\n59\nVII.\n39 a\nOswald-Hindermann, Mathias.\nFenner-Rudloff, Rud., Werkführer.\nSlg-Armand, Aug., Eisenbahnbeamter.\nDehl, Heinrich, Kaufmann.\n60\nVIII.\n39 A b\nVonderMühl-Bischer, Friedrich.\n61\nVII.\n39\nOswald-Hindermann, Mathias.\nFabrik von H. Magallon u. Comp.\n62\nVIII.\n39 A\nz. Zedern-Hof.\nVonderMühl-Bischer, Friedrich.\nBlank-Rom, Joh. Christ., Gärtner.\nZoecker-Rienberger, Urs, Lehenbeständer.\nBest, Christof, Part.\n68\nVIII.\n87 D\nZimmerlin-VonSpeyr, August.\n69\nVII.\n40\nMarian-VonderMühl, Heinrich.\n70\nVIII.\n86 A\nzum Heimathland.\nZimmerlin-VonSpeyr, Aug.\nBrestler-Haefeli, Jos., Lehenbeständer.\n74\nVIII.\n89 A\nz. Hirschhenbrunnen.\nBischer-Burchardt, Peter.\n75\nVII.\n88\nz. klein. Surinam.\nMarian-Burchardt, Wb. Valeria.\nBader-Osiander, Lehenmann.\n76\nVIII.\n89\nz. Hirschhenbrunnen.\nBischer-Burchardt, Peter.\nRoethlisperger-Müller, Friedr., Lehen-\nbeständer.\nWüller-Huber, Johs., Gärtner.\n94\nVIII.\n94\nzum Bäumlihof.\nMarian-Merian, Samuel.\nSalathe, Josef, Lehenmann.\nHupfer-Hutterle, Joh. Georg, Gärtner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5397,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1757,
+    "lines": 129,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.2636,
+    "mean_line_chars": 12.63,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p265",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p265.jpg",
+      "bytes": 1288885,
+      "sha256": "bfa0c691878d20df5203bf1386f9894390ec3b4101ae9c549310540b4d246d6f",
+      "sha256_of": "original",
+      "working_copy": "1862_p265.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:20+00:00"
+  }
+}

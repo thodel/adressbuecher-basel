@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p235",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p235.jpg",
+    "bytes": 1292258,
+    "sha256": "8809207efe3329e433af60034bb51e816197d464b10b456e65da3b45fb98272f",
+    "sha256_of": "original",
+    "working_copy": "1862_p235.jpg"
+  },
+  "text": "170 St. Clara-Straße. — Duttliweg. — Fabrikstraße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n33 | VII. | 7 K | | Amans-Grollimund, Artur.\n  Amans-Grollimund, Artur, Dessinat.\n  Löffel, Ludw., Geometer.\n  Preiswerk-Klingler, Wb. Ros., Part.\n35 | VII. | 7 L | | Wagner-Ehrsam, Conrad.\n  Wagner-Ehrsam, Conr., Beleuchtungs-\n    Controleur.\n  Wagner, Albert, Zeichner.\n37 | VII. | 7 C | | Linder-Seul, Wb. Sus. Val.\n  Linder-Seul, Wb. Sus. Val., Zimmer-\n    meisters.\n49 | VII. | 7 P | zum Warteck. | Merian-Seeber, Eml.\n  Merian-Seeber, Eml., Bierbrauer.\n\nDuttliweg.\n\n6 | VIII. | 83 | zum Duttli. | Merian-VonderMühll.\n  Bolliger-Walter, Jakob, Zimmermann.\n\nFabrikstraße.\n\n2 | VII. | 88 | | Schmid-Ritter, Wb. Soph. Mar.\n  Schmid-Ritter, Wb. Sophia Maria,\n    Rentiere.\n7 | VII. | 86 B | | Oswald-Kurz, Wb. Johanna Bar-\n    bara.\n  Oswald-Kurz, Wb. Joh. Barb., Part.\n9 | VII. | 86 | | Gräslin-Jörin, Joh. Georg.\n  Gräslin-Jörin, Joh. Georg., Zimmer-\n    meister.\n14 | VII. | 83 A | | Sarasin, Hans Franz.\n  Grimm-Ballmer, Christ., Fabrikmstr.\n19 | VII. | 86 A | | Bultier-Bingler, Eugen.\n  Bultier-Bingler, Eugen, Mechaniker.\n25 | VII. | 86 D | | Steffen-Krügel, Anton.\n  Steffen-Krügel, Anton, Pflästerer.\n  Glanzmann, Andreas, Milchhändler.\n27 | VII. | 86 C | | Langmesser-Gebhard, Carl.\n  Langmesser-Gebhard, Carl, Seiler.\n  Tollmann-Weiß, J. Samuel, Commis.\n  Hierholzer-Meyer, Joseph, Gärtner.\n29 | VII. | 86 E | | Tschopp-Ballmer, Jakob.\n  Tschopp-Balmer, Jakob, Commis.\n  Bulacher, Achilles, Partikular.\n31 | VII. | 86 F | | Winter-Rächer, Friedrich.\n  Winter-Rächer, Friedr., Part.\n  Maurice-Gysin, Josef, Weingeschäft.\n  Rettig-Schweizer, Friedr., Bauführer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8381,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1730,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:00:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p235",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p235.jpg",
+      "bytes": 1292258,
+      "sha256": "8809207efe3329e433af60034bb51e816197d464b10b456e65da3b45fb98272f",
+      "sha256_of": "original",
+      "working_copy": "1862_p235.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:00:47+00:00"
+  }
+}

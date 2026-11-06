@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p282",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p282.jpg",
+    "bytes": 1655063,
+    "sha256": "96d1dad35ef8eec38c56373fbf3582d020af56e16dabf0bad2a76445ab38eefb",
+    "sha256_of": "original",
+    "working_copy": "1862_p282.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 217\nKnabenschulhaus, ehemaliges, Zeichnungs- u. Lämmlein, z. Aeschenvorstadt Nr. 32.\nModellirschule. Steinenberg Nr. 6. Lämmlein, z. Sporengasse Nr. 5.\nKnopf, z. goldenen. Gerbergasse Nr. 74. Lämmlein, z. Spalenberg Nr. 5.\nKnopf, z. rothen. Nadelberg Nr. 49. Lämmlein, z. Barfüsserplatz Nr. 20.\nKönigen, zu d. drei. Blumenrain Nr. 8. Landef, z. Eisengasse Nr. 2.\nKönigen, Café zu d. drei. Blumenrain Nr. 12. Landfer, z. Schliisselberg Nr. 15.\nKönigsberg, z. Gerbergäklein Nr. 22. Laßt, z. schweren. St. Petersberg Nr. 35.\nKönigisches Haus. St. Alban-Thal Nr. 16. Laßburg, z. untern u. obern. Hutgasse Nr. 17.\nKörblein, z. Aeschenvorstadt Nr. 6. Laterne, z. Blumenrain Nr. 9.\nKohler, z. St. Petersberg Nr. 38. Laterne, z. Steinenthorstraße Nr. 31.\nKohlerhof. St. Petersgraben Nr. 9. Laterne, z. Spiegelgasse Nr. 3.\nKohlerhof. St. Petersgasse Nr. 28. Laufenburg, z. Stadt. Blumenrain Nr. 24.\nKohlerhof. St. Petersgasse Nr. 30. Laute, z. Marktplatz Nr. 7.\nKohlerhof, z. vorderm. St. Petersgasse Nr. 26. Laute, z. goldenen. Blumenrain Nr. 3.\nKolben, z. schwarzen. Gerbergasse Nr. 51. Lautengarten, z. Malzgasse Nr. 28.\nKonstan, z. kleinen. Weiße Gasse Nr. 2. Lautengarten, z. Malzgasse Nr. 30.\nKopf, z. gelben. Freie Straße Nr. 59. Lehr, z. Münzgäklein Nr. 20.\nKopf, z. goldenen. Schifflände Nr. 3. Lehrerwohnung. Rittergasse Nr. 6.\nKopf, z. rothen. Rümmelinsplatz Nr. 2. Leiter, z. Weiße Gasse Nr. 5.\nKopf, z. schwarzen. St. Johann-Borstadt Nr. 64. Leiter, z. langen. Gerbergasse Nr. 60.\nKorb, z. Schwanengasse Nr. 2. Leiter, z. langen. Gerbergäklein Nr. 29.\nKornhaus. Spalenvorstadt Nr. 2. Leiter, z. langen. Schneidergasse Nr. 19.\nKrähe, Gesellschaftshaus z. Spalenvorstadt Nr. 13. Lenzburg, z. Greiffengasse Nr. 32.\nKränzlein, z. Spalenberg Nr. 54. St. Leonhardskirche. St. Leonhardskirchplatz\nKränzlein, z. St. Johann-Borstadt Nr. 39. Nr. 4.\nKränzle, z. grünen. Spalenberg Nr. 39. Leopard, z. Sporengasse Nr. 6.\nKranich, z. Sporengasse Nr. 2. Lerchenberg, z. Ochsenkasse Nr. 3.\nKranichstrei z. Rheinsprung Nr. 5. Letten, z. Neubadstraße Nr. 5.\nKrayel, z. Hutgasse Nr. 6. Leuchtenberg, z. Gerbergasse Nr. 37.\nKrebs, z. rothen. Aeschenvorstadt Nr. 18. Leuchter, z. St. Leonhardsstapfelberg Nr. 5.\nKrebs, z. rothen. Gerbergasse Nr. 52. Licht, z. niedern. Spalenberg Nr. 8.\nKrebs, z. rothen. Gerbergäklein Nr. 21. Lichtenberg, z. Greiffengasse Nr. 7.\nKrebs, z. rothen. Greiffengasse Nr. 5. Lichtenecf, z. St. Elisabethenstraße Nr. 1.\nKreuz, Gasthof z. weißen. Rheingasse Nr. 8. Lichtenstein, z. Stadthausgasse Nr. 2.\nKreuz, z. St. Johann-Borstadt Nr. 2. Liebburg, z. Nadelberg Nr. 30.\nKreuz, z. St. Johann-Borstadt Nr. 25. Liebenstein, z. Gemsberg Nr. 8.\nKriebbaum, z. Blumenrain Nr. 7. Lilie, z. Freie Straße Nr. 32.\nKrippe, z. Freie Straße Nr. 83. Lilie, z. goldenen. Freie Straße Nr. 5.\nKröbel, z. Steinenvorstadt Nr. 16. Limburg, z. St. Leonhards-Graben Nr. 17.\nKröbel, z. Kohlenberggasse Nr. 9. Limburg, z. Spalenberg Nr. 51.\nKrone, z. Schifflände Nr. 5. Lindau, z. Rheingasse Nr. 48.\nKrone, z. goldenen. Steinenthorstraße Nr. 12. Linde, z. Eisengasse Nr. 23.\nKroned, z. Luftgäklein Nr. 1. Linde, z. Lindenberg Nr. 5.\nKronenberg, z. untern. Eisengasse Nr. 32. Linde, z. Rheingasse Nr. 19.\nKürschner, Zunft zu. Gerbergasse Nr. 14. Linde, z. Utengasse Nr. 41.\nKugel, z. schwarzen. Barfüsserplatz Nr. 15. Linden, z. Schafgäklein Nr. 4.\nKupferberg, z. Freie Straße Nr. 97. Lindenhof, z. Kohlenberg Nr. 19.\nKupfernagel, z. Sattelgasse Nr. 7. Lippis-Mühle, die. St. Alban-Thal Nr. 1.\nKupferthurm, z. Freie Straße Nr. 41. Löchlein, z. Barfüsserplatz Nr. 1.\nKupferthurm, z. Eisengasse Nr. 16. Löwen, z. Sternengäklein Nr. 38.\nKupferthurm, z. Rheingasse Nr. 3. Löwen, z. gelben. Steinenvorstadt Nr. 61.\nKupferthurm, z. vorderm. Untere Rheingasse Nr. 5. Löwen, z. gelben. Greiffengasse Nr. 11.\nLöwen, z. gelben. Greiffengasse Nr. 13.\nLöwen, z. goldenen. Aeschenvorstadt Nr. 4.\nLöwen, z. hintern. Utengasse Nr. 12.\nLöwen, z. kleinen. Aeschenvorstadt Nr. 51.\nLöwen, z. kleinen. Badergäklein Nr. 3.\nLöwen, z. kleinen gelben. Greiffengasse Nr. 10.\nLöwen, z. kleinen goldenen. Gerbergasse Nr. 4.\nLöwen, z. kleinen rothen. Freie Straße Nr. 31.\nKuttelhaus. Münzgäklein Nr. 17.\nKutty, z. Grenzacher Straße Nr. 85.\nLachs, z. Fischmarkt Nr. 7.\nLaden, z. mittleren. Sporengasse Nr. 4.\nLämmerei, z. St. Alban-Graben Nr. 6.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12076,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4349,
+    "lines": 66,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 64.91,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:55:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p282",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p282.jpg",
+      "bytes": 1655063,
+      "sha256": "96d1dad35ef8eec38c56373fbf3582d020af56e16dabf0bad2a76445ab38eefb",
+      "sha256_of": "original",
+      "working_copy": "1862_p282.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:55:37+00:00"
+  }
+}

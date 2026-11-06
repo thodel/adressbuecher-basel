@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p206",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p206.jpg",
+    "bytes": 1372367,
+    "sha256": "cb59507444f30ab1f16b17d5199706c42b1f2bc644dac964e2160851bd00551c",
+    "sha256_of": "original",
+    "working_copy": "1862_p206.jpg"
+  },
+  "text": "Spiegelgasse. — Hintere Spitalgasse. — Spitalstraße. 141\nNene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n10 | I. | 205 | | Gaffert-Bürgin, Wb. Barbara.\n| | | | Gaffert-Bürgin, W'. Barb., Part.\n| | | | Glunz, Wilhelm, Commis.\n11 | I. | 119 B | | Rychiner-Schönauer, Andreas.\n12 | I. | 203 | zum Frieden. | Birmann, Rud. u. Wilh., sel. Erb.\n| | | | Stöcker-Hofer, Joh., Zimmermeister.\n| | | | Mundwiler-Grieder, Joh. Jak., Möbel-\n| | | | händler.\n| | | | Stempelmann-Schwander, Heinr. Maler.\n13 | I. | 139 A | | Wieland-Landerer, Wb. Babette.\n| | | | Siehe Nr. 2 Schwanengasse.\n14 | I. | 202 | 3. rothen Pflug. | Bühler, Christian.\n| | | | Bühler, Christian, Schlossermeister.\nHintere Spitalgasse.\n2 | I. | 275 J u. K | | Courvoisier u. Comp. in Liquidation.\n| | | | (Magazine von J. R. Gemujeus und\n| | | | Ed. Theiler u. Comp.)\n4 | I. | 275 O | | Stumm u. Comp., Joh. Friedr.\n| | | | (Magazin.)\n7 | I. | 275 M | | Müller-Stähelin, Johannes.\n| | | | Lieb-Lieb, Ludwig, Kaufmann.\n| | | | Burckhardt-Fäsch, Wb. Emilie, Part.\n9 | I. | 275 H | | Kestenholz-Dunkel, Joh. Jacob.\n| | | | Kestenholz-Dunkel, Joh. Jac., Cartonnier.\n| | | | Jauslin-Gatty, Friedrich, Commis.\n| | | | Friedlin-Bokhardt, Joh. Jac., Commis.\n11 | I. | 275 B | | Müller-Stähelin, Johannes.\n| | | | Braun-Schwär, Peter, Maurerparlier.\n13 | I. | 275 G | | Müller, Leonhard, sel. Erben.\nSpitalstraße.\n1 | I. | 272 | Alt Pfarrhaus. | Spitalpflegamt.\n| | | | Brenner-Kern, Joh. Friedrich, Med. Dr.,\n| | | | Professor und Irrenarzt.\n2 | I. | 67 e | Reinacherhof. | Burckhardt-Wick, Ludwig August.\n3 | I. | 272 A | Absonderungs- und | Spitalpflegamt.\n| | | | Versorgungshaus. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5161,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1687,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p206",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p206.jpg",
+      "bytes": 1372367,
+      "sha256": "cb59507444f30ab1f16b17d5199706c42b1f2bc644dac964e2160851bd00551c",
+      "sha256_of": "original",
+      "working_copy": "1862_p206.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:38+00:00"
+  }
+}

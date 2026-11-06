@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p250",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p250.jpg",
+    "bytes": 1440332,
+    "sha256": "fd02176c13696c93cbb5da47f43d438ecbe7ac1b2589f51d90d2f90759b3b50c",
+    "sha256_of": "original",
+    "working_copy": "1862_p250.jpg"
+  },
+  "text": "Lindenberg. — Mattweg.                                                                 185\nNene\nHaus=Nr.  Quarz-  Alte    Name des Hauses.   Namen der Hauseigenthümer\n          tier.   Haus=Nro.                     und Bewohner.\n7  VIII. 101    zum Riefenhof.   Glaser=Flamm, Jakob.\n8  VIII. 93 c               . . . . . . . . . . Glaser=Flamm, Jakob, Zimmermann.\n9  VIII. 102               . . . . . . . . . . LaRoche=Bez, Emanuel.\n11 VIII. 103 A               . . . . . . . . . . Bühler=Bür gin, Jak. Friedrich.\n12 VIII. 106   Pfarrwohnung.    Bühler=Bür gin, Jak. Fr., Raminfeger.\n                 . . . . . . . . . . Asmus=Raufmann, C. Friedr.\n                 . . . . . . . . . . Katholische Gemeinde.\n                 . . . . . . . . . . Zurt, Burkart, Pfarrer.\n                 . . . . . . . . . . Flury, Niclaus, Bifar.\n                 . . . . . . . . . . Glünther, Urs Joseph, Prof. u. Bifar.\n                 . . . . . . . . . . Breh, Carl, Bifar.\n                 . . . . . . . . . . Soepp, Mich. Joseph, Lehrer.\n                 . . . . . . . . . . Kaefer, Jakob, Lehrer.\n                 . . . . . . . . . . Scheel, Ignaz, Lehrer.\n13 VIII. 103   z. schwarz. Kanne. Zürcher=Stohler, Joh. Heinrich.\n15 VIII. 104               . . . . . . . . . . Zürcher=Stohler, Joh. Sch., Schneider.\n17 VIII. 105               . . . . . . . . . . Faesch, Leonhard.\n                 . . . . . . . . . . Faesch, Leonhard, Organist.\n18 VIII. 110               . . . . . . . . . . Verein z. Bildung weibl. Dienstbot.\n                 . . . . . . . . . . Habicht, Anna Barb., Hausmutter.\n19 VIII. 107   zur Wühlen.      Birmann=Leuenberger, Johann.\n                 . . . . . . . . . . Birmann=Leuenberger, Joh., Mezger.\n                 . . . . . . . . . . David, Rudolf.\n                 . . . . . . . . . . David, Rudolf, Mezger.\n                 . . . . . . . . . . Bokard=Gaupp, Joh. Conr., Wirth.\n20 VIII. 110 A               . . . . . . . . . . Weber=Lüt tner, Sebastian.\n                 . . . . . . . . . . Bannier, Eduard, Commis.\n21 VIII. 108   z. stillen Wind. Hartmann=Brotbeck, Sam. Friedr.\n                 . . . . . . . . . . Hartmann=Brotbeck, Sam. Fr., Commis.\n                 . . . . . . . . . . Bastady-Witschin, Joh. Jak., Dessinat.\n23 VIII. 109   zur Hirzburgek.  Imhof=Forcart, Joh. Jak.\nMattweg.\n2) VII. 76 C    zum Rosenthal.   Wahl=Rey, Joh. Heinrich.\n4)                 . . . . . . . . . . Wahl=Rey, Joh. Heinr.\n                 . . . . . . . . . . Glünzhofer=Ruhn, Ludw., Glitterexpe-\n                 . . . . . . . . . . ditionsgehilfe.\n6  VII. 77 b               . . . . . . . . . . Preiswerk, Wilhelm von Lucas.\n9  VII. 77 C               . . . . . . . . . . Ritter, Joh. Baptist.\n10 VII. 77    der kleine Horburg. Preiswerk Wilhelm von Lucas.\n                 . . . . . . . . . . Eggenberger=Binder, Johs., Lehrenbestdr.\n                 . . . . . . . . . . Ritter, Joh. Baptist.\n11 VII. 77 D               . . . . . . . . . . Steffen=Schweler, Johannes.\n14 VII. 77 B               . . . . . . . . . . Steffen=Schweler, Joh., Seidenfärbere-\n                 . . . . . . . . . . geselle.\n                 . . . . . . . . . . Gut=Schneider, Joh. Jac., Postbeamter.\n16 VII. 77 E               . . . . . . . . . . Bader=Wilhelm, Franz Fidel.\n                 . . . . . . . . . . Bader=Wilhelm, Franz Fidel, Gärtner.\n                 . . . . . . . . . . Merian, Remigius.\n                 . . . . . . . . . . 77 J",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7882,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3433,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 54.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p250",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p250.jpg",
+      "bytes": 1440332,
+      "sha256": "fd02176c13696c93cbb5da47f43d438ecbe7ac1b2589f51d90d2f90759b3b50c",
+      "sha256_of": "original",
+      "working_copy": "1862_p250.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:50+00:00"
+  }
+}

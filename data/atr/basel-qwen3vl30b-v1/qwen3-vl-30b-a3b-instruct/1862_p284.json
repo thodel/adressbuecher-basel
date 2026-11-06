@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p284",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p284.jpg",
+    "bytes": 1642811,
+    "sha256": "debabd2e55d39d8c44f59c8c6ab597285fe55a50fe65b84b87337d85a0ce9c7a",
+    "sha256_of": "original",
+    "working_copy": "1862_p284.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 219\nMünze, z. hintern goldenen. St. Martins-|Pabst, z. Gerbergasse Nr. 31.\nkirchplatz Nr. 8. |Pallast, Markgräflicher (Pfrundhaus) Neue\n|Borstadt Nr. 4.\nMueshaus. Spalenvorstadt Nr. 14. |Pallast, z. Ringgäßlein, Nr. 2.\nMuschel, z. Freie Straße Nr. 58. |Pallast, z. Freie Straße Nr. 54.\nMuseum. Augustinergasse Nr. 2. |Pallast, z. inner. Ringgäßlein Nr. 4.\nMuz, z. braunen. Barfüßerplatz Nr. 11. |Palmbaum, Hinterhaus z. St. Martins-\n|kirchplatz Nr. 12\nNachbigall, z. Freie Straße Nr. 103. |Palmbaum, z. Eisengasse Nr. 17.\nNadelberg, z. Nadelberg Nr. 32. |Panorama, i. Sternengäßlein Nr. 21.\nKarren, z. Barfüßerplatz Nr. 28. |Panorama, i. Sternengäßlein Nr. 19.\nNägeli-Garten, z. Schneidergasse Nr. 9. |Panorama, i. Sternengäßlein Nr. 17.\nNepper, z. Aeschenvorstadt Nr. 45. |Papagei, z. Webergasse Nr. 14.\nNeuenberg, z. Gerbergasse Nr. 18. |Paradies, z. Steinenthorstraße Nr. 7.\nNeuenburg, z. Steinenvorstadt Nr. 13. |Paradies, z. Reb-gasse Nr. 28.\nNeuenhof, z. Stiftsgasse Nr. 5. |Paradies, z. Reb-gasse Nr. 30.\nNeuenstein, z. Gerbergasse Nr. 63. |Paradies, z. Klosterberg Nr. 8.\nNeuhof, z. St. Leonhards-Graben Nr. 10. |Paradies, z. Aeschenvorstadt Nr. 13.\nNeu-Mühle. Untere Rheingasse Nr. 17. |Paradies, z. Weiße Gasse Nr. 16.\nNiederburg, z. Gerbergässlein Nr. 18. |Paradies, z. Heuberg Nr. 6.\nSt. Niklaus, z. Gerbergässlein Nr. 9. |Pelikan, z. St. Leonhardsgraben Nr. 13.\nSt. Niklaus, z. Gerbergasse Nr. 30. |Pelikan, z. Spalenberg Nr. 55.\nSt. Niklaus, z. Weiße Gasse Nr. 24. |Peter, St. z. Weiße Gasse Nr. 20.\nNirgau, z. untern. Webergasse Nr. 29. |Petersberg, St. z. St. Petersgasse Nr. 48.\nRuzbaum, z. St. Alban-Borstadt Nr. 2. |Peterskirche, St. St. Peterskirchplatz Nr. 7.\nRuzbaum, z. St. Alban-Borstadt Nr. 42. |Petersstift, St. Stiftsgasse Nr. 4.\nRuzbaum, z. Gerbergasse Nr. 32. |Pfahl, z. grünen. Grünpfahlgässlein Nr. 6.\n|Pfahl, z. schwarzen. St. Petersgasse Nr. 10.\nOberbruck, z. Stadthausgasse Nr. 5. |Pfannenberg, z. untern. Hutgasse Nr. 7. 9.\nOberburg, z. Gerbergasse Nr. 58. |Pfarrhaus. St. Martinskirchplatz Nr. 3.\nOberstheiferwohnung. Rittergasse Nr. 4. |Pfarrhaus, ehemal. Klybeckstraße Nr. 113.\nOberstpfarrhaus, ehemal. Münsterplatz Nr. 19. |Pfarrhaus. St. Leonhardsgraben Nr. 63.\nObstgarten, z. St. Jakobsstraße Nr. 54. |Pfarrhaus. St. Petersgraben Nr. 33.\nOchsen, rother. Ochfengasse Nr. 10. |Pfarrhaus. Kellergässlein Nr. 6.\nOchsen, z. Riehenthorstraße Nr. 27. |Pfarrhaus. Rheinsprung Nr. 12.\nOchsen, z. schwarzen. Spalenvorstadt Nr. 17. |Pfarrhaus. St. Peterskirchplatz Nr. 8.\nOchsen, z. schwarzen. Schützenmattstraße Nr. 2. |Pfarrhaus. Reb-gasse Nr. 38.\nOchsenhäuslein. Ochfengasse Nr. 17. |Pfarrhaus. Steinenberg Nr. 7.\nOchsenmühle, Roth-. Ochfengasse Nr. 12. |Pfarrhaus. Stiftsgasse Nr. 9.\nOchsenmühle, Roth-. Teichgässlein Nr. 1. |Pfarrhaus z. St. Alban. Mühlenberg Nr. 12.\nOchsenstein, z. Untere Rheingasse Nr. 4. |Pfarrwohnung. Lindenberg Nr. 12.\nDechslain, z. rothen. Steinenvorstadt Nr. 42. |Pfarrwohnung. Klingenthal Nr. 26.\nDechslain, z. schwarzen, und z. Plattfuß. |Pfauen, z. Sporengasse Nr. 14.\nMünsterberg Nr. 8. |Pfauen, z. mittlern. Sporengasse Nr. 16.\nDelbaum, z. Weiße Gasse Nr. 18. |Pfauenek. Marktplatz Nr. 18.\nDestrich. z. Spalenvorstadt Nr. 33. |Pfeil, z. Spalenberg Nr. 25,\nOffenburgerhof. St. Petersgasse Nr. 40. |Pfeil, z. gelben. Spalenberg Nr. 24.\nOffenburgerhof. St. Petersgasse Nr. 42. |Pfeiler, z. hohen. Stadthausgasse Nr. 11.\nOffenburgerhof, neuer. St. Petersgraben Nr. 15. |Pfeiler, z. oberen. Spalenberg Nr. 31.\nOffenburgerhof, neuer. St. Petersgraben Nr. 17. |Pflug, z. Freie Straße Nr. 38.\nOffenburger Capelle, z. neuen. St. Peterskirch-|Pflug, z. Untere Rheingasse Nr. 11.\nplatz Nr. 6. |Pflug, z. Schnabelgässlein Nr. 2.\nOffenburgerkapelle, z. neuen. St. Petersgraben|Pflug, z. Gemsberg Nr. 1.\nNr. 27. |Pflug, z. Schnabelgässlein Nr. 4.\nOlspergerhof, z., od. z. Tiger. Rittergasse Nr. 27. |Pflug, z. oberen. Spalenberg Nr. 40.\nOppenheim, z. Hutgasse Nr. 2. |Pflug, z. rothen. Spiegelgasse Nr. 14.\nOrt, z. goldenen. Bäumleingasse Nr. 2. |Pflugberg, z. Hutgasse Nr. 14.\nOrtenberg, z. Freie Straße Nr. 64. |Pharijäer, z. Bäumleingasse Nr. 13.\nOrtenberg, z. Streitgasse Nr. 2. |Pide, z. St. Elisabethenstraße Nr. 2.\nOrthed, z. Webergasse Nr. 4.\nOrtmühle. Webergasse Nr. 2.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11964,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4277,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 68.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:56:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p284",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p284.jpg",
+      "bytes": 1642811,
+      "sha256": "debabd2e55d39d8c44f59c8c6ab597285fe55a50fe65b84b87337d85a0ce9c7a",
+      "sha256_of": "original",
+      "working_copy": "1862_p284.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:01+00:00"
+  }
+}

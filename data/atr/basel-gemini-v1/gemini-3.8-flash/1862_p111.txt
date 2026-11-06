@@ -1,0 +1,55 @@
+46 Freie Straße.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+70 | IV. | 1084 | zum Jakobs-Keller. | Kiefer-Weibel, Joh. Heinrich.
+  Kiefer-Weibel, Joh. Heinrich, Kaufm.
+  Maring-Wierz, Ludwig, Architekt.
+71 | V. | 1425 | Zunft z. gold. Stern. | Corporationsgut.
+  Schabelitz-Flick, J. Christ., Buchbinder.
+  Firma J. C. Schabelitz, Papier-, Schreib-
+    u. Zeichnungsmaterialien-Handlung.
+  Chretien-Vivier, M., magasin de vin
+    et comestibles.
+  Lichtensteiger, Friedrich, Postbeamter.
+72 | IV. | 1083 | zum Sodeck. | Fischer-Eberle, Hans.
+  Fischer-Eberle, Hans, Tuchhandlung.
+73 | V. | 1424 | zur Welt. | Walter-Keller, Karl.
+  Walter-Keller, K., Fabr. chirur. Instr.
+74 | IV. | 1082 | | Bihrer-Bregger, Louis.
+  Bihrer-Bregger, Louis, Uhrenmacher.
+  Rommel, Philipp, Commis.
+75 | V. | 1423 | zur obern Welt. | Schaub-Gysin, Joh. Jacob.
+  Schaub-Gysin, Joh. Jac., Handschuh-
+    macher u. Siegrist bei St. Elisabethen.
+  Thurneysen-Gaß, Wittwe, Margaretha.
+  Thurneysen, Louis, Commis.
+  Lehr, Wilhelm, Uhrenmacher, Arbeits-
+    local Nr. 10. Streitgasse.
+76 | IV. | 1081 | zum Eichhörnlein. | Müller, Wittwe sel. Erben.
+  Breisch, Fried., Ellenwaarenhandlung.
+77 | V. | 1422 | zum Weinberg. | Biedert u. Comp.
+  Huber-Burckhardt, Joh. Jak., Kaufmann.
+  Biedert, J. Heinrich, Eisenhandlung.
+78 | IV. | 1080 | zum Eichhorn. | Christ-Socin, Hermann.
+  Christ-Hoffmann, Christine, Wittwe.
+  Christ-Socin, Hermann, Civil-Gerichts-
+    schreiber, J. U. D.
+  Heusler, Aug., J.U.D., Notariatsbureau.
+79 | V. | 1421 | zum St. Jacob. | Müller-Stolz, Conrad.
+  Müller-Stolz, Conrad, Schuhmacher.
+80 | IV. | 1079 | | Merian-Weiß, Rud. sel. Erben.
+  Holweg-Weiß, A. Maria Wb., Modiste.
+81 | V. | 1420 | zum Schaltenbrand. | Bernoulli-Cailler, Emanuel.
+  Bernoulli-Cailler, Em., Bandfabrication
+    u. Seidenwaarenhandlung.
+  Bernoulli, Emanuel, Sohn.
+82 | IV. | 1063 | | Iffenthaler-Schölli, Ludwig.
+  Iffenthaler-Schölli, L., Schuhmacher.
+83 | V. | 1492 | zur Krippe. | Beck-Kaiser, Chrischona, Wittwe.
+  Beck-Kaiser, Chrischona, Wb., Rentiere.
+  Bachmann-Bell, Joh. Fried., Pintenwth.
+84 | IV. | 1062 | zum Ehrenfels. | Schneider-Frey, Heinrich.
+  Schneider-Frey, Heinrich, Particular.
+  Kuster-Schneider, Joh. Jak., Secretär
+    der Niederlassungs-Commission.
+  Rigiani, Peter u. Rudolf.

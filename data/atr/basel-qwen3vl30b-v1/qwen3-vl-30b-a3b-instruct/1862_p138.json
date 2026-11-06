@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p138",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p138.jpg",
+    "bytes": 1467869,
+    "sha256": "91ba96155511c6b11406921306de29cd7c4113b87c2cbba43ff795a54ba6c45e",
+    "sha256_of": "original",
+    "working_copy": "1862_p138.jpg"
+  },
+  "text": "St. Johann-Vorstadt.                                                                                       73\nNene     Quarz-    Alte      Name des Hauses.    Namen der Hauseigenthümer\nHaus-Nr.  tier.     Haus-Nro.                                        und Bewohner.\n58       I.        24        zur Fortuna.        Roehlin=Burckhardt, Samuel.\n59       I.        9         . . . . . . . . .  Roehlin=Burckhardt, Samuel, Rentier.\n59       I.        9         . . . . . . . . .  Roehlin, Eduard, Bandfabrikant.\n59       I.        9         . . . . . . . . .  Hübscher=Lichtenhahn, Wilhelm und\n59       I.        9         . . . . . . . . .  Sprünglin, David.\n59       I.        9         . . . . . . . . .  Rienzy=Schweizer, Leonh., Fuhrhalter.\n59       I.        9         . . . . . . . . .  Abt=Abt, Heinrich, Kostgeber.\n59       I.        9         . . . . . . . . .  Hosh=Frey, Lucas, Schuhmacher.\n59       I.        9         . . . . . . . . .  Gysin=Raiser, Heinrich, Maurer.\n60       I.        21        . . . . . . . . .  Rocherhans=Trinnler, Hans.\n60       I.        21        . . . . . . . . .  Rocherhans=Trinnler, Hans, Part.\n60       I.        21        . . . . . . . . .  Strübin=Siegrist, Wb. Cath., Kinderlehr.\n61       I.        6         . . . . . . . . .  Rienzy=Oswald, Wb. Judith.\n61       I.        6         . . . . . . . . .  Rienzy=Oswald, Wittwe Judith, Part.\n61       I.        6         . . . . . . . . .  Rienzy, Johannes, Bäcker.\n62       I.        20        z. weisen Himmel.  Weiß=Sütterlin, Johann Heinr.\n62       I.        20        z. weisen Himmel.  Weiß=Sütterlin, Joh. Heinr., Bäcker.\n62       I.        20        z. weisen Himmel.  Böglin=Beurmann, August.\n63       I.        4         . . . . . . . . .  Böglin=Beurmann, August, Bäcker.\n63       I.        4         . . . . . . . . .  Brudermann=Dettwylcr, Mart., Appret.\n64       I.        19        zum schwarzen Kopf. Gerber=Hack, Joh.\n64       I.        19        zum schwarzen Kopf. Gerber=Hack, Johannes, Wirth.\n64       I.        19        zum schwarzen Kopf. Vocay=Zundt, Eugen, Lehrer.\n65       I.        3         . . . . . . . . .  Hufschmied=Hartmann, Jacob.\n65       I.        3         . . . . . . . . .  Hufschmied=Hartmann, Jacob, Spezier.\n66       I.        18        . . . . . . . . .  Rienast, Rudolf.\n66       I.        18        . . . . . . . . .  Rienast, Rudolf, Seidenfärbereijelle.\n66       I.        18        . . . . . . . . .  Fosseler, S. u. Agent.\n67       I.        2 C       . . . . . . . . .  Hübscher u. Sprünglin.\n67       I.        2 C       . . . . . . . . .  Hek=Frey, Joh. Jakob, Weinhändler.\n68       I.        17        . . . . . . . . .  Tschopp, Joh. Jacob.\n68       I.        17        . . . . . . . . .  Tschopp=Erb, Joh. Jacob, Stuhlschreiner.\n68       I.        17        . . . . . . . . .  Tschopp, Joh. Jacob, Particular.\n69       I.        2 B       . . . . . . . . .  Hübscher u. Sprünglin.\n69       I.        2 B       . . . . . . . . .  Hegetschwyler, Joh., Cigarrenfabrikant.\n69       I.        2 B       . . . . . . . . .  Mieg=Koos, Wb. Rosina, Rentiere.\n70       I.        15—16     . . . . . . . . .  Klipfel=Born, Gg. Heinrich.\n70       I.        15—16     . . . . . . . . .  Klipfel=Born, Gg. Heinrich, Weinhdlg.\n71       I.        2 A       . . . . . . . . .  Häfeli=Buz, Joseph.\n71       I.        2 A       . . . . . . . . .  Häfeli=Buz, Joseph, Wirth u. Kostgeb.\n71       I.        2 A       . . . . . . . . .  Bader, Philipp, Schuhmacher.\n72       I.        14        . . . . . . . . .  Zaeslin=Roelly, Wb. Catharina.\n72       I.        14        . . . . . . . . .  Zaeslin=Roelly, Wb. Cath., Part.\n73       .         .         Rapelle.            Corporationsgut. (Bann v. St. Peter\n73       .         .         Rapelle.            und St. Leonhard.)\n74       I.        12        . . . . . . . . .  Edlin=v. Mechel, Wb. Serena Barb.\n74       I.        12        . . . . . . . . .  Edlin=v. Mechel, Wb. Serena Barb., Kent.\n76       I.        8         . . . . . . . . .  Gerber=Mangold, Joh. Jac.\n76       I.        8         . . . . . . . . .  Gerber=Mangold, F. F., Wirth u. Kostg.\n78       I.        7         . . . . . . . . .  Klipfel=Born, G. Heinrich.\n78       I.        7         . . . . . . . . .  Remise und Stallung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11973,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4281,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 78.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p138",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p138.jpg",
+      "bytes": 1467869,
+      "sha256": "91ba96155511c6b11406921306de29cd7c4113b87c2cbba43ff795a54ba6c45e",
+      "sha256_of": "original",
+      "working_copy": "1862_p138.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:34+00:00"
+  }
+}

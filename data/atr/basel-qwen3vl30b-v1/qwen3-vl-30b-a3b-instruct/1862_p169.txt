@@ -1,0 +1,55 @@
+104 Neue Vorstadt.
+Nro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer
+Neue | tier. | Haus-Nro. | | und Bewohner.
+Haus-Nr. | | | |
+8 | I. | 257 B | | Bienz-Pfaff, Wb. Margaretha.
+9 | I. | 249 d | | Bienz-Pfaff, Wb. Marg., Particularin.
+10 | I. | 258—259 | | His-Burckhardt, Friedrich.
+| | | | Hubel-Thommen, Rudolf.
+| | | | Hubel-Thommen, Rudolf, Schreiner.
+11} | | 259 A | | Frey-Weitnauer, Friedrich.
+13} | | 259 A a | | Frey-Weitnauer, Friedrich, Baumeister.
+| | 259 A b | | von Weyenburg-Stockar, Anselm Franz,
+| | | | Secretär der Centralbahn.
+12 | I. | 260 | Taubadelerhof. | Simonius-Oschwald, Paul.
+| | | | Lieb-Holl, Fr., Kaufmann.
+14 | I. | 260 A | | LaRoche-Bernoulli, Wb. Catharina.
+| | | | LaRoche-Bernoulli, Wb. Cath., Part.
+| | | | LaRoche, Andreas, Particular.
+| | | | LaRoche, Theophil, Kaufmann.
+15 | I. | 259 B | | Zäslin-Falkeisen, Conrad.
+| | | | Zäslin-Falkeisen, Conrad, Kaufmann
+| | | | und Appellationsrath.
+| | | | Holzhalb-Wolf, David, Particular.
+16 | I. | 261 | | Burtorf=Preiswerk, Joh. Rudolf.
+| | | | Burtorf=Preiswerk, Joh. Rud., Pfarrer
+| | | | im Waifenhause.
+17 | I. | 264 | Alumneum. | Verwaltung des theol. Alumneums.
+| | | | LeGrand, Wilh., Pfarrer u. Inspector.
+18 | I. | 262 | | Burtorf=Preiswerk, Joh. Rudolf.
+| | | | Burtorf=Preiswerk, Joh. Rud., Pfarrer.
+19} | | 267 A | | AWengen-Hindermann, Jacob.
+21} | | | | AWengen-Hindermann, Jacob, Baumftr.
+| | | | Bernoulli-Mazinger, Carl, Schullehrer.
+20 | I. | 263 | | Lindemeyer, Samuel.
+| | | | Comptoir u. Fergstube von Hediger u.
+| | | | Comp., Bandfabrikanten.
+| | | | Schardt-Huber, Rudolf, Commis.
+22 | I. | 265 | | Rünky-Lok, Friedrich.
+| | | | Rünky-Lok, Friedrich, Commis.
+23 | I. | 267 B | | Pettermand-Landerer, Ami Constant.
+| | | | Pettermand-Landerer, AmiConst., Kaufm.
+| | | | Schmidt-AWengen, Joh., Kaufmann.
+24 | I. | 266 | | Falkner-Haller, Wb. Barbara.
+| | | | Falkner-Haller, Wb. Barbara, Partiful.
+25 | I. | 268 | | Cappeler-Hindenlang, Joh. Abrah.
+| | | | Cappeler-Hindenlang, Joh. Abrah., Hafn.
+26 | I. | 267 | zur alten Treu. | Kern-deCroufaz, Elias.
+| | | | Kern-deCroufaz, Elias, Stadtrath.
+27 | I. | 269 A | Holsteinerhof. | Huber=Stehelin, Emilie.
+| | | | Huber=Stehelin, Emilie, Rentiere.
+| | | | Siebenmann-Huber, Fried.Wilh., Kaufm.
+28 | I. | 269 C | | Burchhardt-Gemuseus, Wb. Emilie.
+| | | | Stehelin-Roch, Jérôme, Kaufmann.
+| | | | Comptoir der Firma Jérôme Stehelin,
+| | | | Agentur.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p329",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p329.jpg",
+    "bytes": 1439313,
+    "sha256": "281d26b4d3a8df68c3239952f231e5777ff433f3c13d95cc1c5f86fff69ce81a",
+    "sha256_of": "original",
+    "working_copy": "1862_p329.jpg"
+  },
+  "text": "264\nVerzeichniß der Bürger und Einwohner.\nBreithaupt=Hupfer, Christ. Friedr., Seidenfärberey. Rheingasse 57.\n— =Krauer, Jakob, Fabrikarbeiter. Miinzgäßlein 11.\nBreiting-Heusler, Sam., Gastwirth. Aeschenvorstadt 44.\n— =Schartt, Peter, Metzger. Aeschenvorstadt 46.\nBref=Bref, Louis, Tabakfabrikant. St. Elisabethenstraße 29.\nBrem=Gerber, Georg, Zettlermeister. St. Elisabethen-Straße 34.\n— =Simon, J. J., Taglöhner. Riechenteichweg 38.\nBrenner-Bähr, Aug., Kjm. Blumenrain 24.\nFirma Brenner-Fäsch.\n— =Carew, Peter, Part. Spalenthorweg 34.\n— =Guéniard, Wb. Adelheid, Modemwarenhandlung. Freie Straße 69.\n— =Haas, Heinr., Rutscher. Miünsterberg 14.\n— =Jost, Mathias, Postconducteur. Mattweg 2.\n— =Kern, J. Friedr., Dr. med., Professor, Irrenarzt. Spitalstraße 1.\n— =Kron, Carl, J. U. D., Advokat. Aeschengraben 8.\n— =Sager, Wb. Catharina, Part. Riechenthorstraße 24.\n— =Schilling, Joh. Georg, Geschirrhandlg. Streitgasse 8.\n— =Stehelin, Joh., Kaufm. Radelberg 28.\n— =Sulger, Louise, Rent. Freie Straße 48.\nBrenzinger, Aug., Architekt. Riechen-Straße 25.\nBrestler-Häfeli, Joseph, Lehrenbeständer. Riechen-Straße 70.\nBretschler-Schöllkopf, Wb. Barbara, Nätherin. Weidengasse 32.\n— Jakob, Schuhmacher. Weiße Gasse 2.\nBreu=Speiser, Daniel, Fabrikarbeiter. Imbergäßlein 27.\nBrey, Carl, Vikar. Lindenberg 12.\nBricar=Stilli, Wb. Maria, Part. Alybeckstraße 1.\n— =Schäfer, Part. Spalenberg 11.\nBriffaud, Augustin Emil, Commissionnair. Stadthausgasse 25.\nBrodbeck=Spitteler, Friedr., Commis. Steinen-vorstadt 28.\n— =Sutter, Wb. Anna, Part. Spalenberg 60.\nBrodmann=Gast, Peter, Magazinier. Gerbergäßlein 8.\n— =Lang, Peter, Zimmerparlier. Steinen-vorstadt 32.\n— Rudolf, Fabrikausseher. St. Andreasplatz 6.\nBrodthbeck, Syfr. Maria, Ladenjungfer. St. Johann-Vorstadt 8.\n— =Plattner, Jac., Posamenter. Hutgasse 12.\n— =Wagner, Carl, Kaufmann. Mostackerstraße 26.\nBrodtmann=Buek, Joh. Victor, Posamenter. Imbergäßlein 20.\n— =Weisenburger, Rudolf, Fabrikarbeiter. St. Peters-Gasse 44.\nBrödler, Afra, Wäscherin. Rheingasse 72.\nBrömmel=Model, Wb. Johanna, Part. Leimenstraße 41.\nBrogie=Herzog, Leop., Obertelegraphist. Rheingasse 43.\n— Johann Georg, Schreinermeister. St. Peters-Berg 31.\n— =Rächer, Leodegar, Spedter. Marktplatz 14.\n— =Stalder, Jak., Ausläufer. Nebgasse 17.\n— =Waldmeyer, Anton, Part. Neue Vorstadt 3.\nBrolly u. Albiez, Shawls u. Seidenwaarenhandlung. Freie Straße 29.\n— =Dannacher, Martin, Spezierer. Klosterberg 19.\n— Martin, Kaufmann. Klosterberg 19.\nBrombach, Nanette u. Charlotte, Taglöhner. St. Peters-Berg 16.\n— =Curiger, Bergolder. Rheinsprung 3.\n— =Hierholzer, Rudolf, Gärtner. Spitalstraße 22.\nBrombacher, Carl, Commis. Gerbergasse 55.\nBromberger=Beau, Paul, Bahnvart. Horburgstraße 24.\n— Leon, Lehrer. Spalenberg 48.\nBrofi=Frey, Xaver, Controleur b. d. Centralbahn. St. Clara-Straße 31.\n— =Furler, Georg, Appreturarbeiter. St. Johann-Vorstadt 80.\n— =Kneubühler, Joseph, Eisenbahnbeamter. Steinenthorstraße 17.\n— =Rabino, Peter, Seidenfürbergej. Rheingasse 59.\nBroß=Eppler, Joh., Zimmerparlier. Steinen-vorstadt 42.\nBrotbeck, Emanuel, Buchhalter. Spalenvorstadt 35.\n— =Gnehm, Wb. Magd., Part. Spalenvorstadt 37.\n— =Gnehm, Joh. Maler. Unt. Henberg 25.\n— =Hänggi, Joh. Rud., Commis. Spalenvorstadt 35.\n— Margaretha, Schachtelmacherin. Unterer Heuberg 25.\nBrucker=Leopold, Friedr., Fuhrhalter. Schützenmattstraße 12.\nBruckner=Eckstein, J. J., Part. Altschwylers Straße 52.\n— =Eglin, Wb. Anna Elisabeth, Part. Rheingasse 35.\n— =Eglinger, Abraham, Pfr. St. Leonhardskirchplatz 2.\n— =Kurz, Joh. Jak., Schreiner. St. Peters-Gasse 50.\n— =Merian, Eduard, Baumeister. Kanongasse 13.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9276,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3574,
+    "lines": 72,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:04:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p329",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p329.jpg",
+      "bytes": 1439313,
+      "sha256": "281d26b4d3a8df68c3239952f231e5777ff433f3c13d95cc1c5f86fff69ce81a",
+      "sha256_of": "original",
+      "working_copy": "1862_p329.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:07+00:00"
+  }
+}

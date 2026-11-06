@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p253",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p253.jpg",
+    "bytes": 1277980,
+    "sha256": "8764540a40ee5b4bc1d7e12711ad2ee2321e58481c6fad5df717554e5269f225",
+    "sha256_of": "original",
+    "working_copy": "1862_p253.jpg"
+  },
+  "text": "188\nKappoltshof. — Nebgasse.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n19 VII. 262 zum Rebstock. Weber=Zuber, Wb. Anna.\nWeber=Zuber, Wb. Anna, Wäscherin.\nKyhiner u. Söhne.\n21 VII. 261 A Wettach=Miiller, Joh. Valentin, Sei-\ndenfärber.\nNebgasse.\n1 VIII. 195 St. Clarahof. Dollfus=LeBret, Caspar.\nDollfus=LeBret, Caspar, Ingenieur.\nBaumann, Wilh., Commis.\n2 VIII. 215 zur Scheuren. Grunauer=Miiller, Rudolf.\nGrunauer=Miiller, Rud., Cigarren= u.\nTabakhandlung.\nHoffmann=Breitenstein, Louis, Uhrmach.\nNeukomm=Raifer, Carl, Dessinateur.\nWeindel, Joseph, Geometer.\n3 VIII. 191 Dollfus, Caspar.\n4 VIII. 202 zum Kiel. Schardt=Alt, Benedikt.\nSchardt=Alt, Benedikt, Käfer.\nSchardt=Schwelly, Peter, Käfer.\nMieg=Fischer, Joh. Jak., Kaufmann.\nzum Sandhof. Müller=Strübin, Joh.\nMüller=Strübin, Joh., Kupferschmied.\nHolinger, Jakob, Kupferschmied.\nvon Cloßmann=Zombard, Aug., Litterat.\nRafader=Mieg, Meinrad, Kaufmann.\nGoezenberger, Friedrich, Eisenbahn=\nbeamter.\n5 VIII. 190 Thommen=Ebner, Georg.\nThommen=Ebner, Georg, Spezierer.\n6 VIII. 201 zur Scheuren. Bohny=Glock, Samuel.\nBohny=Glock, Samuel, Schmied und\nMechaniker.\n7 VIII. 187 zur Rose. Calame=Reyenthaler, Gustav.\nCalame=Reyenthaler, Gust., Kaufmann.\n8 VIII. 199 3. vollen Herbst. Kromer, Emanuel.\nKromer, Emanuel, Meßger.\n9 VIII. 186 3. goldenen Rad u. Makinger, Emanuel.\nzur Schaffschmiede. Makinger, Emanuel, Schneider.\nMakinger=Zwicky, Carl, Buchdrucker.\nTreu=Stegmüller, Lukas, Barbier.\n10 VIII. 198 3. Michelfelden. Walliser=Lüdin, Joh. Conrad.\nWalliser=Lüdin, Johann Conrad,\nBäcker.\nScherflin=Benner, Rudolf, Bäcker.\n11 VIII. 185 Tefter=Geßler, Josua.\n12 VIII. 197 a Burgvogtei. Krücker=Dopler, Johann.\n13 VIII. 181 Krücker=Dopler, Johann, Wagner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5244,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1752,
+    "lines": 58,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:52:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p253",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p253.jpg",
+      "bytes": 1277980,
+      "sha256": "8764540a40ee5b4bc1d7e12711ad2ee2321e58481c6fad5df717554e5269f225",
+      "sha256_of": "original",
+      "working_copy": "1862_p253.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:07+00:00"
+  }
+}

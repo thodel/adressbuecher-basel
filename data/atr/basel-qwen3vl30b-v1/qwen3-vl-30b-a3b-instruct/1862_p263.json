@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p263",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p263.jpg",
+    "bytes": 1252216,
+    "sha256": "3b939252a3ec6c0eeaeb6a669de02a650918aac630c25b40c8ef92d290741ae9",
+    "sha256_of": "original",
+    "working_copy": "1862_p263.jpg"
+  },
+  "text": "198 Unt. Rheingasse. Oberer u. unterer Rheinweg. Niehenstraße.\nNene\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n11 | VIII. | 370 | zum Pflug. | Schneider=Kienle, Joh. Jakob.\nSchneider=Kienle, Joh. Jakob, Küfer.\nSchneider, Jak. Friedr., Sohn, Küfer.\n13 | VIII. | 366 | | Roth=Bürgin, Christof.\nRoth=Bürgin, Christof, Schlosser.\nStohler, Joh. Jakob, Zahnarzt.\n14 | VIII. | 320 | Sägenmühle. | Minder=Geßler, Gustav.\nMinder=Geßler, Gustav.\n15 | VIII. | 365 | Löwenschmiede. | Bell=Hug, Heinrich.\nBell=Hug, Heinrich, Fischer.\nBell, Jakob Christof, Schuhmacher.\n17 | VIII. | 364 | Neue Mühle. | Mechel, Rudolf.\nMechel, Rudolf, Müller.\nSenny, Friedrich Wilhelm, Lehrer.\n19 | VIII. | 319 | Ziegelmühle. | Sulger=Stähelin, Andreas.\nMürckly=Kistler, Johann Jakob, Fabrik-\nAufseher.\nSchäfer=Müller, Joh. Heinrich.\nSchäfer, Nicolaus, gew. Schuhmacher.\nOberer Rheinweg.\n91 | VIII. | 93 | unt. Hatstätterhof. | LaRoche, Emanuel, Sohn.\nGerspach=Läule, Felix, Kaufmann.\nGerspach=Rugger, Andreas, Kaufmann.\nBurdhardt, Christof v. Emanuel, Rent.\n92 | VIII. | 112 A | zur Rheinluft. | LaRoche, Emanuel, Sohn.\nSchöubein=Benz, Friedr., Professör.\nBecker=Weiß, Friedrich, Lehrer.\nBuser=Kraushaar, Friedr., Mechaniker.\nDeflacieur=Höfer, Anton, Musterweber.\nUnterer Rheinweg.\n20 | VIII. | 364 A | Polizeiposten. | Staat.\n25 | VIII. | 2 A | | Sundrum=Merker, Michael.\nSundrum=Merker, Michael, Zimmer-\nmeister.\nMaul=Bork, Carl Alfred, Lehrer.\n32 | VIII. | 6 A | 3. unt. Rheinfähre. | Bohny, Joh. Jac.\nBohny, Joh. Jac., Wirth u. Holz-\nhandlung.\nSteiger=Schöler, Andr., Zimmermann.\nBürgin, Sebastian, Fischer.\n33 | VIII. | 6 B | | Leist=Kirchhofer, Jacob.\nLeist=Kirchhofer, Jac., Seidenfärbeges.\nNiehenstraße.\n3 | VIII. | 8 | Brunnhaus. | Stadtgemeinde.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5167,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1775,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p263",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p263.jpg",
+      "bytes": 1252216,
+      "sha256": "3b939252a3ec6c0eeaeb6a669de02a650918aac630c25b40c8ef92d290741ae9",
+      "sha256_of": "original",
+      "working_copy": "1862_p263.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:08+00:00"
+  }
+}

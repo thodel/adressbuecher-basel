@@ -1,0 +1,48 @@
+St. Peters-Berg. 107
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+25 | I. | 191 | zum Friedberg. | Lotz-vonMechel, Wb. Judith.
+  Lotz-vonMechel, Wb. Judith, Part.
+  Lotz, Leonhard, Posamentirer.
+  Beck-Lotz, Christian Friedrich, Kunsthändl.
+  Pfister-Lotz, Joh. Heinrich, Kaufmann.
+26 | I. | 182 | zur Meerkatze. | Schönauer, Hieronimus.
+  (Magazin.)
+27 | I. | 230 | zum Steglin. | Hagenbach-Geigy, Wb. Maria.
+  Hagenbach-Geigy, Wb. Maria, Rent.
+28 | I. | 184 | zum Kämpfer. | Hagenbach, Peter.
+  Bürkli-Bereuter, Gottl., Kochheerdfabrik.
+29 | I. | 192 | Straßburgerhof. | Courvoisier-Lowndes, Georg Ludw.
+  Courvoisier-Lowndes, Georg Ludwig, Kaufmann.
+  Firma: G. Courvoisier u. Comp., Commission in Effekten, sowie Eigenverkauf von Thee u. feinen Weinen.
+30 | I. | 187 | Biberach. | Meyer, Ursula.
+  Meyer, Ursula, Mägdeverdingerin.
+31 | I. | 196 | | Brogle, Joh. Georg.
+  Brogle, Joh. Georg, Schreiner.
+  Moser-Mürner, Andreas, Gipser.
+32 | I. | 188 | zum Tannen-Eck. | Martin-Binder, Georg.
+  Martin-Binder, Georg, Schreiner.
+  Spaeni-Guterjohn, Dominik, Kunstmaler.
+33 | I. | 197 | | Klett-Schwarz, Caspar.
+  Klett-Schwarz, Caspar, Fabrikarbeiter.
+34 | I. | 193 | zur Mischleten. | Roth, Geschwister Wilhelmine und Chrischona.
+35 | I. | 198 | zur schweren Last. | Pfirter-Hegerich, Josef.
+  Pfirter-Hegerich, Josef, Particular.
+  Lenggenhager, Joh. Jacob, Maler.
+36 | I. | 194 | z. Wolfsbrunnen. | Lauber-Rio, Fridolin.
+  Lauber-Rio, Fridolin, Ausläufer.
+  Frey-Frey, Reinhard, Lohndiener.
+  Trago-Ketterer, Magdalena, Vorgäng.
+37 | I. | 201 | hintere Blume. | Boillat-Stihl, Eugen.
+  Boillat-Stihl, Eugen, Sattler.
+  Schär-Burckhardt, Andreas, Schuhmach.
+38 | I. | 195 | zum Kohler. | Wassermann-Golde, Andreas.
+  Wassermann-Golde, Andreas, Schreiner.
+  Wassermann-Gernler, Joh., Schuhmach.
+40 | I. | 194 | z. Wolfsbrunnen. | Lauber-Rio, Fridolin.
+  Eingang zu Nr. 36 St. Peters-Berg.
+42 | I. | 199 | | Hottinger-Etzensperger, Barbara.
+  Hottinger-Etzensperger, Barbara, Kostgeberin.
+  Nees-Demus, Friederika, Mägdeverding.
+  Schmid, Georg, Maler.
+  Altermatt-Hasenböhler, Gg., Holzhändl.

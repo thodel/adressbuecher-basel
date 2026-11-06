@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p380",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p380.jpg",
+    "bytes": 1610362,
+    "sha256": "8941ce39d849953f9c140ae34ac239713a2d18915badecfa46d81f08358afa6f",
+    "sha256_of": "original",
+    "working_copy": "1862_p380.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 315\nMahr=Schenk, Sabina Rosina, Part. Bar= Mengis, Fräulein Maria, Part. St. Elisa=\nfilzergasse 12. bethen=Strasse 49.\nMechel=David, Achilles, Kiifer. Webergasse 40. Menrich=Hasler, Conr., Zimmerparl. Aeschen=\n— =Heusler, Modenhandlung. Fischmarkt 16. vorstadt 52.\n— =Hindermann, Wb. Salomea. Untere — =Neuschwander, Heinr., Schneider. Freie\nRheingasse 17. Strasse 19.\n— =Köbel, Bernh., Polizeibureaulist. Stei= Merian, Adolf, Gutsbesitzer. Münster=\nnenvorstadt 38. platz 17.\n— =Müller, Rudolf. Untere Rheingasse 17. — Amadeus, Stadtrath, Architekt. Säger=\nMed=Schellenberg, Carl, Commis. St. Al= gässlein 3.\nban=Vorstadt 41. — Anna Cath., Part. Gemsberg 6.\n— =Schellenberg, Johs., Commis. St. Al= — =Bernoulli, Rudolf, Prof. d. Mathema=\nban=Vorstadt 41. tif. Aeschenvorstadt 41.\nMeilin=Riggenbach, Rud., Bildhauer. St. — =Bischoff, Wb. Pauline, Rentiere. Malz=\nJohann=Vorstadt 11. gasse 2.\nMeily, Wilhelm, Commis. Spalenvorstadt 40. — =Bischoff, Sam., Kaufm. St. Alban=\nMeiri, Jacob, Knecht. Unterer Heuberg 9. Vorstadt 42.\nMeirin=Bipp, Joh. Og., Zimmermann. Uten= — =Bister, H., Manufakturwaaren u. Ta=\ngasse 60. petenlager. Fischmarkt 9.\nMeister=Allemann, Urs Victor, Raufhausarb. — =Bloch, Maria Magd., Part. Münster=\nSpalenberg 7. berg 4.\n— =Bed, Alois, Seidenfärbergeselle. We= — =Burchhardt, Rudolf, Ingenieur. Ritter=\nbergasse 28. gasse 20.\n— =Bernhard, Joh. Heinr., Lehrer. Hard= — =Burchhardt, Wb. Marg., Rentiere. St.\nstrasse 60. Alban=Graben 4.\n— =Erni, Henriette, Gasthofbesitzerin. Ger= — =Burchhardt, Wb.Baleria, Rentiere. Mün=\nbergasse 16. sterplatz 17.\n— Georg, Postangestellter. Rildengässlein 9. — =Christ, Benedict, Sattler. Aeschen=\n— =Morand, Georg, Piqueur. Gerber= vorstadt 20.\ngasse 43. — Daniel, Kaufm. St. Peters=Graben 22.\n— =Plattner, Samuel, Seidenfärbergeselle. — Daniel Albert, Kaufmann. Spalenvor=\nHammerstrasse 92. stadt 11.\n— =Ryff, Mar, Koch. Dchjengasse 21. — Eman., Apotheker. Gemsberg 6.\n— =Stäublin, Joh., Steindrucker. Steinen= — Emil, J. U. D. Freie Strasse 96.\nbachgässlein 10. — =Forcart, J., Banquier. St. Elisabethen=\n— =Studer, Dietr., Detailiant. Spalen= Strasse 27.\nberg 19. — =Frischmann, Rudolf, Kaufm. Spalen=\n— =Wasmer, Dominik, Rutscher. St. Mar= vorstadt 11.\ntins=Gasse 12. — =Gerster, Emanuel, Bierbrauer. St.\nMeisterheim=DeSchwander, Alex., Taglöhner. Jakobs=Strasse 3.\nTrillengässlein 4. — =Hänster, Benjamin, Bierbrauer. Greisen=\nMeißner, Adolf, Apothekergehilfe. Freie gasse 31.\nStrasse 3. — Igsfr. Helena, Part. Bäumleingasse 14.\n— =Augsburger, Friedr., Lehrer. Kano= — Henriette Anna, Rentiere. Malzgasse 2.\nnengasse 7. — =Herzog, Walter, Notar. Herbergsgasse 2.\n— =Fischer, Marcus, Apotheker. Freie — Joh., Kanton=Ingenieur. Hafenberg 5.\nStrasse 3. — Joh. Jak., Dr. Phil. Münsterplatz 17.\n— =Marechal, Daniel Friedr., Professar. — Joh. Jak., Part. Webergasse 17.\nSt. Jakobs=Strasse 6. — Joh. Ludw., Kaufmann. St. Elisabethen=\nMende=Hof, Friedr. Gottlieb, Antiquar. Schnei= Strasse 60.\ndergasse 7. — =Zselin, Carl, Staatskassier. St. Elisa=\n— Jul. Gottfried, Kaufmann. Schneider= bethen=Strasse 26.\ngasse 7. — =Zselin, Rudolf, Rentier. St. Alban=\nMeng=Holinger, Peter, Heizer. Bei d. Wie= Vorstadt 83.\nfenschanze 34. — =Zung, Wb. Barbara, Part. Kloster=\nMenger=Weiser, Wb. Wilh. Rentiere. St. graben 25.\nJakobs=Strasse 13. — =Köchlin, Eduard, Kaufmann. Aeschen=\nMengis=Brand, Martin, Part. St. Johann= graben 41.\nVorstadt 40. — =Löw, Wagner. Aeschenvorstadt 56.\n— Ludwig, Baumeister. Hammerstrasse 25.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9237,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3501,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:12:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p380",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p380.jpg",
+      "bytes": 1610362,
+      "sha256": "8941ce39d849953f9c140ae34ac239713a2d18915badecfa46d81f08358afa6f",
+      "sha256_of": "original",
+      "working_copy": "1862_p380.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:12:04+00:00"
+  }
+}

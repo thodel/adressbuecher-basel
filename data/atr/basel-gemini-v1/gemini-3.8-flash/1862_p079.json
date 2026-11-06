@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p079",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p079.jpg",
+    "bytes": 1285795,
+    "sha256": "328355114d0b2342e730431d0ed3aced4f09226bc76636faf74289a222ce3eed",
+    "sha256_of": "original",
+    "working_copy": "1862_p079.jpg"
+  },
+  "text": "14 | St. Alban-Thal.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n16 | V. | 1296 | Königsches Haus. | Bay, Emanuel.\n  Bay, Emanuel, Papierer.\n  Völmy-Hug, Joh. Jak., Stuhlschreiner.\n18 | V. | 1295 | Gesellenhaus. | Oser und Gemuseus.\n  Schmidt, Jac. Seb., Papierer.\n  Grob-Fehr, Heinr., Papiermaschinenführ.\n20 | V. | 1294 | Fußisches Haus. | Oser und Gemuseus.\n22 | V. | 1292 A | | Oser und Gemuseus.\n  Ballmer-Heinzelmann, Heinr., Papierer.\n23 | V. | 1291 | Almosenmühle. | Merian-Mahler, Alfred.\n  Merian-Mahler, Alfred, Müller.\n24 | V. | 1292 | | Oser und Gemuseus.\n  Oser-Thurneysen, Ch. Rud., Papierfabr.\n25 | V. | 1288 | Herbergmühle. | Merian-Mahler, Alfred.\n  (Magazin.)\n26 | V. | 1290 | | Merian-Mahler, Alfred.\n27 | V. | 1288 A | zur Herbergmühle. | Kußmaul, Michael.\n  (Mechanische Werkstätte.)\n28 | V. | 1289 | | Thurneysen-Fäsch, Ludw. Andr.\n  (Arb.-Whng. d. Thurneysensch. Papierfb.)\n29 | V. | 1286 | | Diehl-Wolf, F., Firma Hugo, Gebr.\n  (Fabrikgeb. zu Nro. 35 (1285).\n31 | V. | 1287 A | | Oser und Gemuseus.\n  (Mechanische Papierfabrik.)\n30 | V. | 1284 | | Oser und Gemuseus.\n32 | | | | Fehr-Wenziker, Kaspar, Papierer.\n34 | V. | 1282 | | Thurneysen-Fäsch, Ludw. Andr.\n36 | | | | Thurneysen-Fäsch, L. A., Com., Pap.Fab.\n  Thurneysen, Hs. Rud., StabsMj. desgl.\n  Fäsch, Fräulein Elise.\n35 | V. | 1285 | | Diehl-Wolf, F., Firma Hugo, Gebr.\n  Zucker, Joh., Fabrikmeister.\n37 | V. | 1283 | | Thurneysen, Hans Rud., u. Frau Wilhelmine Müller-Thurneysen.\n  Fabrikgebäude und Arbeiterwohnungen.\n39 | V. | 1282 B | | Thurneysen-Fäsch, Ludw. Andr.\n  (Papierfabrikgebäude.)\n40 | V. | 1280 | | Kiefer-Waibel, J. Heinrich.\n  Kiefer-Bay, Wb. A. M. Elis., Lohnwasch.\n  Schraner-Welti, Xaver, Schmied.\n41 | V. | 1281 | | Thurneysen, Hs. Rud., und Mich. Müller-Thurneysen.\n  Schneebeli-Zeller, Jean, Angestellter d.\n  Thurneysenschen Papierfabrik.\n  Meyer-Eberwein, Hs. Conr., Mechaniker.\n44 | V. | 1279 | zum neuen Bau. | Wetzel-Matzinger, Joh. Jakob.\n46 | | | | Wetzel-Matzinger, J. J., Lohnwascher.\n  Matzinger-Wetzel, Heinr., Kaminfeger.\n  Schaub, Joh. Adam, Ferger.\n  Lüppold-Meyer, Ludw., Maler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9637,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2163,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:36:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p079",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p079.jpg",
+      "bytes": 1285795,
+      "sha256": "328355114d0b2342e730431d0ed3aced4f09226bc76636faf74289a222ce3eed",
+      "sha256_of": "original",
+      "working_copy": "1862_p079.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:43+00:00"
+  }
+}

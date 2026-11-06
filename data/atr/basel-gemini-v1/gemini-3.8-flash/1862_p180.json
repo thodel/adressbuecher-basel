@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p180",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p180.jpg",
+    "bytes": 1412023,
+    "sha256": "a05605570bce32cef155ce306dc4152a99fda9621f3e981f7fc472e4bd697ef1",
+    "sha256_of": "original",
+    "working_copy": "1862_p180.jpg"
+  },
+  "text": "Platzgäßlein. — Rennweg. — Rheinsprung. 115\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n11 | II. | 301 | | Henz-Renner, Eucharius.\n  Siehe Nro. 36 Spalenvorstadt.\n13 | II. | 297 | | Sandreuter-Langmesser, Rudolf.\n  Siehe Nro. 13 Spalenvorstadt.\n15 | II. | 298 | | Schardt-Breiting, Carl.\n  Siehe Nro. 15 Spalenvorstadt.\n17 | II. | 299 | | Schardt-Breiting, Carl.\n  Siehe Nr. 17 Spalenvorstadt.\n\nRennweg.\n1 | V. | 302 A c | | Wahl-Spitteler, Friedrich.\n  (Mechanische Werkstätte von Wahl und Socin.)\n2 | V. | 302 B | zum Morgenstern. | Trüdinger-Nusser, Philipp.\n  Trüdinger-Nusser, Philipp, Bandfabr.\n  Diehl-Wolf, Ferdinand, Tabakfabrikant.\n  Roth-Kirsch, Friedrich, Commis.\n3 | V. | 302 A f | | Wahl-Spitteler, Friedrich.\n  (Remise.)\n8 | V. | 302 A d | | Wahl-Spitteler, Friedrich.\n  (Magazin.)\n15 | V. | 290 | | Oberer, Sebastian.\n17 | V. | 290 A | | Schmid, Wilhelm.\n\nRheinsprung.\n1 | VI. | 1517 | zur Sonne. | Buxtorf-Preiswerk, Chr., sel. Erb.\n  Buxtorf, August, Wechselsensal.\n  Buxtorf, Carl, Kaufmann.\n  Burckhardt u. Buxtorf, Tabak- u. Spe-\n    zereihandlung.\n2 | VI. | 1507 | zum Sonnenfroh. | Hosch-Spörlin, Johann.\n  Hosch-Spörlin, Joh., Schneider.\n3 | VI. | 1516 | zum Rheinsprung. | Kleimt, Joseph.\n  Brombach-Kuriger, Bernh., Vergolder.\n4 | VI. | 1506 | | Langmesser, Joh. Jakob.\n  Klingelfuß-Langmesser, Wb. Anna, Tröd-\n    lerin.\n5 | VI. | 1515 | zum Kranichstreit. | Forcart-Respinger, Lucas.\n  Forcart-Respinger, Lucas, Kaufmann.\n6 | VI. | 1505 | z. wilden Mann. | Scherb-Thut, Wb. Johanna.\n  Scherb-Thut, Wb. Johanna, Trödlerin.\n  Dietrich-Uehlinger, Eml. Th., Schneider.\n7 | VI. | 1508 | Universitätsgebäud. u. Anatomie. | Staat.\n  Beck-Hoch, Emanuel, Pedell.\n  Müller-Martin, Georg, Anatomiediener.\n8 | VI. | 1504 | z. rothen Thurm. | Hegnauer-Bolliger, Jacob.\n  Hegnauer-Bolliger, Jacob, Taglöhner.\n8*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8225,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1888,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p180",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p180.jpg",
+      "bytes": 1412023,
+      "sha256": "a05605570bce32cef155ce306dc4152a99fda9621f3e981f7fc472e4bd697ef1",
+      "sha256_of": "original",
+      "working_copy": "1862_p180.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:40+00:00"
+  }
+}

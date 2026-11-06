@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p242",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p242.jpg",
+    "bytes": 1464022,
+    "sha256": "bff5a8d19ad3a69113ac59e080648b32641810d988b3a2c48d2b53f653645c89",
+    "sha256_of": "original",
+    "working_copy": "1862_p242.jpg"
+  },
+  "text": "Hammerstraße. 177\nNro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nr. | | und Bewohner.\n------|-------|------|----------------|-----------------------------\n17 | VIII. | 6 B | | Sagnol Wb. u. fils ainé.\n| | | | Sagnol-Erlacher, Jean Marie, Appre-\n| | | | teur u. Spirituosenhändler.\n| | | | Sagnol-Meiller, Wb. Jeanne Marie.\n| | | | Schilling-Fischer, Joh., Bestüter.\n19 | VIII. | 6 | | Nägeli-Hofsch, Conrad.\n| | | | Nägeli-Hofsch, Conrad, Wirth.\n| | | | Burchhardt, Samuel, Part.\n21 | VIII. | 6 C | | Gubler=Vobacher, Rud.\n| | | | Gubler=Vobacher, Rud., Seidenfärberei.\n22 | VIII. | 4 A | | Meyer=Abt, Heinrich Christof.\n| | | | Meyer=Abt, Sch. Christof, Schuhmach.\n| | | | Bruder-Durst, Alex., Lithograph.\n23 | VIII. | 5 O | | Schöllkopf=Schumacher, Gottlieb.\n| | | | Biirgh-Müller, Heinrich, Gutsbesitzer.\n| | | | Kunzler=Miesch, Johs., Part.\n| | | | Gubler=Tschunker, Rud., Tapezierer.\n24 | VIII. | 4 B | | Eßfinger, Carl Friedrich.\n25 | VIII. | 6 A | | Merian, Ludwig, u. Lok, Friedr.\n26 | VIII. | 6 D b | | Riggenbach=Burchhardt, Franz.\n| | | | Magazin.\n27 | VIII. | 6 B A | | Merian, Ludwig, u. Lok, Friedr.\n28 | VIII. | 80 | zur Freudenquelle. | Goetz, Emil., sel. Erben.\n| | | | Goetz=Buser, Anna Maria Wb., Part.\n| | | | Gilgin-Bell, Fridol., Gärtner.\n| | | | Maerky-Rufer, Carl, Auffeher, Hand-\n| | | | lung in Seidenstoffen.\n30 | VIII. | 80 h | | Goetz=Buser, sel. Erben. Fabrikgebäude.\n32 | VIII. | 81 | | Zsler, Joh. Rudolf.\n| | | | Zsler, Joh. Rud., Blattmacher.\n34 | VIII. | 81 b | | Zsler, Joh. Rudolf.\n44 | VIII. | 82 C | | Aegerter=Bühler, Johann.\n| | | | Aegerter=Bühler, Joh., Schreiner.\n| | | | Bischer=Merian, Carl, u. Bischer=\n| | | | Bürchhardt, Peter. Gasometer.\n45 | VIII. | | | VonBrunner=Mazinger, Simon.\n46 | VIII. | 82 c | | VonBrunner=Mazinger, Simon.\n48 | VIII. | 82 | | Wiesner=Thommen, Emanuel.\n| | | | Wiesner=Thommen, Emil., Maler.\n52 | VIII. | 84 | | Zselin, Adele, Jungfrau.\n| | | | Zselin, Adele Jungfr., Rentiere.\n53 | VIII. | 83 | | Bischer=Merian, u. Peter Bischer=\n| | | | Burchhardt.\n| | | | Gräslin=Grether, Jac., Fuhrhalter.\n| | | | Keller=Meyer, Peter, Pajamentmeister.\n57 | VIII. | 72 B | | Mazinger=Munsch, Carl.\n| | | | Mazinger=Munsch, Carl, Part.\n| | | | Wildi-Raufmann, Friedr., Lehrer.\n59 | VIII. | 72 A | | Mazinger=Munsch, Carl.\n| | | | Cathian=Thomas, Jos., Eisenbahnbeamt.\n12",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6540,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "repetitive",
+    "chars": 2378,
+    "lines": 55,
+    "longest_char_run": 29,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0122,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p242",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p242.jpg",
+      "bytes": 1464022,
+      "sha256": "bff5a8d19ad3a69113ac59e080648b32641810d988b3a2c48d2b53f653645c89",
+      "sha256_of": "original",
+      "working_copy": "1862_p242.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:02+00:00"
+  }
+}

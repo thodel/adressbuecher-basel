@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p229",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p229.jpg",
+    "bytes": 1194967,
+    "sha256": "0eb71e39f852a711005b1290443349fa910c0b0eab65858f5d620090eb9004ba",
+    "sha256_of": "original",
+    "working_copy": "1862_p229.jpg"
+  },
+  "text": "801\nKleine Stadt.\nBadergässlein. — Bäumleinofweg.\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n1 | VII. | 330 | das alte Bad. | Christen-Rieder, Matthias.\n2 | VII. | 324 | | Christen-Rieder, Matthias.\n3 | VII. | 329 | 3. kleinen Löwen. | Christen-Rieder, Matthias, Wäscher.\n5 | VII. | 327—328 | | Degen-Schlittler, Heinrich.\n6 | VII. | 325 | | Degen-Schlittler, Sch.. Zimmermann.\n8 | VII. | 326 A | | Buchmann-Faesch, Rudolf.\n10 | VII. | | | Huber-Ritter, David.\n12 | VII. | 326 | | Huber-Ritter, David, Seidenfärberges.\n14 | VII. | 353 | | Maßt-Waehly, Joh. Jak.\n| | | | Maßt-Waehly, Joh. Jak., Postfactor.\n| | | | Raillard-Stachelin, August.\n| | | | Sager-Rehr, Joh. Friedr.\n| | | | Sager-Rehr, Joh. Friedr., Taglöhner.\n| | | | Schneeberger-Huber, Rudolf.\n| | | | Schneeberger-Huber, Rud., Schuhmach.\n| | | | Müller-Schenkel, Spezierer.\nBäumleinofweg.\n5 | VIII. | 74 | Bahnwarthäuschen. | Großh. bad. Eisenbahnverwaltung.\n7 | VIII. | 90 | | Dill, Joh. Heinrich.\n| | | | Dill, Joh. Sch., Gutsbesitzer.\n| | | | Dill-Schwob, Wb. Elis. Part.\n10 | VIII. | 91 | auf d. Bohner. | Spitalpflegamt.\n11 | VIII. | 95 | Almenthäuschen. | Saladin, Anna Mar., Obsthändlerin.\n| | | | 3 Ehren Gesellschaften Kl. Basels.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4102,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1265,
+    "lines": 28,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0024,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p229",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p229.jpg",
+      "bytes": 1194967,
+      "sha256": "0eb71e39f852a711005b1290443349fa910c0b0eab65858f5d620090eb9004ba",
+      "sha256_of": "original",
+      "working_copy": "1862_p229.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:49+00:00"
+  }
+}

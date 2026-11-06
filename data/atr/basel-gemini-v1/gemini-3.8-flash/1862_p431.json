@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p431",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p431.jpg",
+    "bytes": 1514509,
+    "sha256": "aeff4c61e16b244c4071ce81cf3bf150bb0cf4e2a1f78288b3af1bb6914158ad",
+    "sha256_of": "original",
+    "working_copy": "1862_p431.jpg"
+  },
+  "text": "366 Verzeichniß der Berufsarten.\n\nBäcker.\nAlt-Bienz, Wb. Sus. Rebgasse 52.\nAlt, Ludwig. Rheingasse 47.\nAssal-Stocker, Jacob. Rheingasse 3.\nBärwart-Strittmatter, Theob. St. Clara-\n  Straße 14.\nBaumann-Keller, Melch. Klingenthalstraße 37.\nBaur-Weiß, Carl. Steinenvorstadt 35.\nBerri-Vögt, Elias. Aeschenvorstadt 63.\nBirmann, Nicl. Friedr. Riehenthorstraße 26.\nBrefin-Knaus, Wb. Judith. Riehenthor-\n  straße 18.\nBürgin-Rudin, Joh. Jac. Mittlere Straße 40\nBurckhardt-Stierlin, Abraham. Aeschenvor-\n  stadt 39.\nChrist-Mönch, Joh. Heinr. Webergasse 35.\nDalang-Andres, Heinr. Rheingasse 56.\nDavid, Ach. Albrecht. Rheingasse 5.\nDurst-Reichert, Friedr. Untere Rebgasse 14.\nEisenring-Kramer, Jos. Steinenthorstraße 39.\nErdin-Oeschger, Joh. St. Clara-Straße 22.\nFäsch-Salathe, Jacob. Webergasse 5.\nFininger-Bader, J. R. Spalenvorstadt 20.\nFischer-Lindenmeyer, Andr. Steinenvorstadt 26.\nFluck-Payot, Joh. Jac. Blumenrain 16.\nFrey-Thommen, Joh. Lucas. Webergasse 13.\nGaaß-Schlosser, Johs. Rebgasse 47.\nGeßler, Eucharius Eman. Rebgasse 31.\nGeßler-Meyer, Rud. Spalenvorstadt 41.\nGeßler-Rych, Wb. Chrischona Dorothea. Stei-\n  nenvorstadt 2.\nGeßler-Zeller, J. Spalenvorstadt 8.\nKnöpff-Landolt, Carl. Aeschenvorstadt 2.\nGysin-Vögtlin, Friedr. Steinenvorstadt 51.\nHartmann-Schäublin, Johs. Steinenthor-\n  straße 37.\nHasler, Joh. Niclaus. Untere Rheingasse 9.\nHeuß-Ertzberger, Johs. Spalenvorstadt 1.\nHeusler-Gelzer, Adolf. St. Alban-Vorstadt 64.\nHinden-Schelling, Johannes. St. Leonhards-\n  Straße 28.\nHindermann-Christ, Wilh. Steinenvorstadt 4.\nHoch-Laubheim, J. Aeschenvorstadt 57.\nHorner-Mechel, Daniel. Aeschenvorstadt 40.\nImHof-Märky, Andr. Spalenvorstadt 27.\nKempf-Strübin, J. J. Riehenthorstraße 25.\nKienzy, Johannes. St. Johann-Vorstadt 61.\nKocherhans, Jacob. Aeschenvorstadt 66.\nMartin-Dolt, Hans. Steinenthorstraße 45.\nMerz-Burckhardt, Gottl. Schafgäßlein 6.\nMerz-Tellenbach, J. J. Aeschenvorstadt 18.\nMohler-Schardt, Jacob. Spalenvorstadt 35.\nMoos-Brugger, Rud. St. Alban-Vorstadt 63.\nMüller-Schwarz, Samuel. Webergasse 7.\nNeuhauser-Ackermann, Const. Spalenvor-\n  stadt 19.\nNeuhauser, Const. Webergasse 13.\nNeukomm-Hurter, Joh. Heinr. Ochsengasse 7.\nNiggli-Brugger, Wilh. Webergasse 28.\nOeschger, Ignaz. Greifengasse 34.\n[spalte 2]\nRiedtmann, Joh. Christ. Aeschenvorstadt 60.\nRiggenbach-Meilin, Friedr. Wilhelm. St. Jo-\n  hann-Vorstadt 11.\nRohner-Wertenberg Johs. St. Alban-Vor-\n  stadt 57.\nRupplin-Brotbeck, Eman. Spalenvorstadt 37.\nSchelling, Caspar. Webergasse 26.\nScherer, Ludwig. Rheingasse 84.\nScherflin-Renner, Rud. Rebgasse 11.\nSchönenberger-Spinnler, Jac. Steinenvor-\n  stadt 24.\nSchweizer-Sasse, Fritz. Spalenvorstadt 39.\nSiegfried, Samuel. Rheingasse 65.\nSommer-Müller, Rud. Steinenthorstraße 27.\nStauber-Delaquis, Rud. Spalenvorstadt 25.\nSteffan-Falkner, Rud. Steinenvorstadt 5.\nSutter-Lüscher, Carl Friedr. Riehenthor-\n  straße 26.\nTrautz, Adam. Rheingasse 13.\nTschudi-Tschopp, Joh. Jac. St. Albankirch-\n  rain 2.\nVuilleumier-Schweizer, Aug. Rheingasse 27.\nWalliser-Lüdin, J. C. Rebgasse 11.\nWeiß, Abrah. Jac. Riehenthorstraße 24.\nWeiß-Sütterlin, Joh. Heinr. St. Johann-\n  Vorstadt 62.\nWeißenburger-Riggenbach, J. J. Aeschen-\n  vorstadt 10.\nWetzel-Schölli, J. F. Freie Straße 107.\nWohnlich-Fuchs, Rud. Greifengasse 29.\nWohnlich-Rusterholz, Wb. Cath. Greifengasse 19.\nZimmermann-Klotz, Jos. St. Elisabethen-\n  Straße 2.\n\nBäder, aromatische.\nSchaffner-Schrenk, Wb. Wilhelmine. Ger-\n  bergäßlein 3.\nSiegmund-Bloch, Dr. B. Gerbergäßlein 1.\nStünzi, Carl. St. Clara-Straße 19.\n\nBandagist.\nLüthy-Bürgin, Joh. Ulrich. Pfluggäßlein 4.\n\nBandfabrikanten.\nBachofen, J. J. u. Sohn. Rheinsprung 18.\nBernoulli, Eman. Freie Straße 81.\nBischoff, Gebrüder. Rheinsprung 24.\nBischoff u. Söhne. St. Albanthorgraben 72.\nBürgy, Eman. u. Comp. Davidsgasse 5.\nBurckhardt, Hans Balthasar u. Sohn. St.\n  Johann-Vorstadt 19.\nBurtorf, Andreas u. Christof. Kohlenberg-\n  gasse 22.\nDeBary u. Söhne. Augustinergasse 1.\nDreyfuß, Isaac, Söhne. Aeschengraben 28.\nFichter u. Söhne. St. ElisabethenStraße 41.\nForcart-Weiß u. Burckhardt-Wild. St. Al-\n  ban-Graben 14.\nFrey-Thurneysen u. Christ. Rittergasse 12.\nFreyvogel u. Heusler. Mühlenberg 20.\nGötz u. Ecklin. St. Clara-Straße 32.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 14194,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4150,
+    "lines": 120,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:42:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p431",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p431.jpg",
+      "bytes": 1514509,
+      "sha256": "aeff4c61e16b244c4071ce81cf3bf150bb0cf4e2a1f78288b3af1bb6914158ad",
+      "sha256_of": "original",
+      "working_copy": "1862_p431.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:42:54+00:00"
+  }
+}

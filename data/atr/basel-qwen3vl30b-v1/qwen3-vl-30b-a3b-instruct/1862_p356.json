@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p356",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p356.jpg",
+    "bytes": 1652598,
+    "sha256": "79e0eda0fc9f0371c467de56dd94d1892dac962e002eb6c65067827ecb04f481",
+    "sha256_of": "original",
+    "working_copy": "1862_p356.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 291\nHastreuter=Beniger, Magdal., Geschirrhandel. Hauser=Wohnlich, Carl, Kaufmann. Spalenthormweg 16.\nHatt=Kleinlen, Joh. Jak., Lithograph. Spalenvorstadt 21. — =Wunderlin, Wb. Johanna, Part. Klybeckstraße 37.\n— =Schacher, Heinr., Magazinarbeiter. St. Hausherr=Dietzsch, Jac., Droschkenfiihrer. St. Johann=Vorstadt 2.\nPeters-Berg 30.\nHaubenjack=Ott, Georg Mich., Samenhändler. Bei d. Wiefenschranze 32. Hauswirth, Georg, Leihbibliothek u. Buchhandlung. Freie Straße 50.\n— =Reiter, Friedr., Samenhändler. Hutgasse 3. Hauser=Georg, Jac. Friedr., Wirth. Sattelgasse 3.\nHaug, Christine, Krankenwärter. Stiftsgasse 3. Hebgen, Heinr., Commis. Barfüsserplatz 17.\n— Johs., Schuhmacher. Hutgasse 6. Hecht=Bolliger, Heinr., Zimmermann. Greifengasse 27.\nHauger, Josephtne, Glätterin u. Nätherin. Webergasse 32. — =Heering, Jacob, Trödler. Pfluggässlein 7.\nHaunz, Louis, Baukithrer. St. Leonhardsstraße 28. — Heinrich, Uhrenmacher. Rheingasse 21.\nHaupt=Basler, Johs., Taglöhner. Klybeckstraße 49. — =Scheiwiller, Wb. Wälderuhrmacher. Riehenthorstraße 16.\n— =Koth, Seidenfärbergeselle. Rheingasse 68. Heckel, Eman. Johs., Zettlermeister. Nadelberg 21.\nHaury, Friedrich, Bureaudiener. Riehenstraße 22. — Helena, Glätterin. Nadelberg 21.\nHausammann, Peter, Kaufmann. St. Leonhards=Graben 1. — =Hug, F. J., Schriftsetzer. Weiße Gasse 20.\nHausmann=Degen, Conrad, Maurer. Weiße Gasse 20. — =Salathe, Wb. Helena, Trödlerin. Nadelberg 21.\nHauschild=Alsleben, Ernst, Dr. Phil., Musiklehrer. Spalenvorstadt 34. Heckendorn, Barbara, Schneiderin. Spalenberg 5.\nHauser=Bruckner, Eman., Commis. Kanonen-gasse 5. — =Buser, Johs., Lehnenbeständer. Klybeckstraße 33.\n— =Businger, Joh. Jac., Bandfabrikant. Rheingasse 86. — =Gunzenhauser, Franz, Seidenfärbergesselle. Rheingasse 59.\n— Caspar, Nadelberg 19. — Hunziker, Friedr., Seidenfärbergeselle. Rheingasse 48.\n— =Euler, C., Part. Missionsstraße 9. — =Frrion, Wb. Louise, Mägdeverdingerin. Neue Vorstadt 8.\n— =Fäsch, Wb. Dorothea, Part. Klickegässlein 1. — =Riggenbach, Georg Philipp, Feger. Neue Vorstadt 8.\n— =Grieder, Johs., Blattmacher. Münchensteiner-Straße 13. — =Schweizer, Johs., Schlosser. Sattelgasse 16.\n— =Giirtler, David, Kaufmann. Kefchenvorstadt 30. — =Utz, Wb. Anna Maria, Weißnäherin. Schützenmattstraße 8.\n— =Häring, Friedr., Posamenter. In der Breite 11. Hediger=Arenz, Samuel, Posamenter. In d. Breite 1.\n— =Hunziker, Wb. Anna Barb., Wascherin. Riehenthorstraße 13. — Catharina, Nätherin. Imbergässlein 28.\n— Jacob, Kuttscher. Gundoldingen Straße 18. — u. Comp., Comptoir u. Fergstube, Bandfabrikanten. Neue Vorstadt 20.\n— Jacob, Schuhmacher. Klosterberg 31. — =Hediger, Franz, Zimmermann. Unterer Rheinweg 32.\n— Josef, Postenführer. Bahnhofstraße 4. — Jos. Mart. Aug. Gottfr., Bandfabrikant. St. Clara-Straße 11. Firma Hediger u. Comp.\n— =Kybur, Jacob, Fabrikarbeiter. Imbergässlein 20. — =Künzli, Jac., Taglöhner. Münzgässlein 22.\n— =Lüdin, Paul, Zimmermann. Münzgässlein 15. — =Weber, Hans Rudolf, Landwirth. St. Alban=Rheinweg 110.\n— =Mehlin, Friedr., Fabrikarbeiter. Allschwylers Straße 66. — =Seer, Magdalena, Cigarrenmacherin. Imbergässlein 30.\n— =Oser, Rudolf, Kaufmann. Sternengässlein 19. — =Reguet, Conrad, Postbeamter. Gerbergasse 22.\n— =Sprich, Wb. Franziska, Part. Rheingasse 86. — =Tanner, Heinr., Pelzwaaren-, Hut- und Kappenlager. Gerbergasse 46.\n— =Suter, Anton, Schneidergeselle. Rheingasse 47.\n— =Wertenberg, Fridolin, Zimmermeister. Mostackerstraße 18. 19*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9087,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3457,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 95.06,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:08:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p356",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p356.jpg",
+      "bytes": 1652598,
+      "sha256": "79e0eda0fc9f0371c467de56dd94d1892dac962e002eb6c65067827ecb04f481",
+      "sha256_of": "original",
+      "working_copy": "1862_p356.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:20+00:00"
+  }
+}

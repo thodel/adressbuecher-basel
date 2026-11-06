@@ -1,0 +1,55 @@
+138 | Spalenvorstadt.
+
+Neue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+8 | II. | 282 |  | Geßler-Zeller, Johannes.
+  Geßler-Zeller, Johannes, Bäcker.
+  Hächler-Spiller, Peter, Ferger.
+  Falkner-Hübscher, Wb. Helene, Hebamme.
+9 | II. | 351 | z. kleinen Lützelhof. | Boehme-Geßler, Wilh. Ulrich.
+  Boehme-Geßler, Wilh. Ulr., Schlosser.
+  Uebelin-Abt, Rud., Waarencourtier.
+  Buchmann-Meyer, Jakob, Schreiner.
+  Thommen, Theophil, Commis.
+10 | II. | 283 | z. Mühleisen. | Simmoth-Speiser, Julius Otto.
+  Simmoth-Speiser, Jul. Otto, Kaufm.
+  Simmoth, J. O., Taback- u. Cigarren-
+    handlung.
+  Burckhardt, Gustav, Kaufmann.
+11 | II. | 350 | Lützelhof. | Merian-Frischmann, Rudolf.
+  Merian-Frischmann, Rud., Kaufmann.
+  Merian, Daniel Albert, Kaufmann.
+12 | II. | 284 |  | Scherb, Emanuel, sel. Erben.
+  Scherb, Christina Magdalena, Part.
+  Fernsemer-Haeberle, Balth., Geistlicher.
+13 | II. | 349 | Gesellschaftshaus z. Krähe. | Corporationsgut.
+  Wohnlich-Hagenbach, Franz, Kaufmann.
+14 | II. | 285 | Mueshaus. | Stadtgemeinde.
+15 | II. | 348 | zum Samson. | Schilling-Jenni, Joh. Rudolf.
+  Schilling-Jenni, Joh. Rud., Hufschmied.
+16 | II. | 286 | Bauverwalterwohnung. | Stadtgemeinde.
+  Barth-Ulrich, Daniel, Bauverwalter.
+17 | II. | 326 | z. schwarz. Ochsen. | Kling-Koch, Eugen.
+  Kling-Koch, Eugen, Gastwirth.
+  Haefelfinger, Carl, Materialhdlg.
+18 | II. | 287 | zum Rosenkranz. | Schweizer-Brand, Niclaus.
+  Schweizer-Brand, Niclaus, Schreiner
+    u. Holzmesser.
+  Gundrum-Eyger, J. Heinr., Kunstmaler.
+19 | II. | 325 |  | Geßler-Zeller, Johs.
+  Wenk-Müller, Martin, Mechaniker.
+  Neuhauser-Ackermann, Const., Bäcker.
+20 | II. | 288 | zum Rosenberg. | Finninger-Bader, Joh. Rudolf.
+  Finninger-Bader, Joh. Rud., Bäcker.
+21 | II. | 324 |  | Gysin-Kaiser, Joh. Dietrich.
+  Gysin-Kaiser, Joh. Dietrich, Schlosser.
+  Hatt-Kleinlin, Joh. Jak., Lithograph.
+22 | II. | 289 |  | Steinmann-Scholer, Friedrich.
+  Steinmann-Scholer, Friedr., Schreiner.
+  Berger-Rülger, Joh. Friedr., Commis.
+23 | II. | 323 |  | Gerber-Koch, Johannes.
+  Gerber-Koch, Johannes, Metzger.
+24 | II. | 290 | Herrenschmiede. | Bohny-Fausel, Johannes.
+  Bohny-Fausel, Johannes, Hufschmied u.
+    Wagenfabrikant.
+  Weibrecht-Klemm, Theodor, Candidat
+    u. Sekretär des Missionshauses.

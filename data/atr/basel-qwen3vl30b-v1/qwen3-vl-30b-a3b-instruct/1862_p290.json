@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p290",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p290.jpg",
+    "bytes": 1526558,
+    "sha256": "c53e489caee79534e355593383bd48daaee89187889ce028330101a5dcd82b92",
+    "sha256_of": "original",
+    "working_copy": "1862_p290.jpg"
+  },
+  "text": "Alphabetisches Verzeichniss der Häuserbesitzer der\nStadt Basel.\n\nAbig, Emanuel. Rheingasse 58.\nAbt, Carl u. Georg. Alybeckstraße 107.111.119.\nAbt=Rottweil, Wb. Elisab., Schafgäklein 1.1.\nAbt=Menk, Carl. Hint. Bahnhofstraße 16.\nAckermann=Dudli, Johs. Spalenberg 26.\nAckermann=Rapp, Daniel. Gerbergasse 73.\nAckermann=Schaub, Pet. Sternengäklein 9.11.\nActiengesellschaft d. Mägdeherberge. Schoren-\nweg 7.\nActiengesellschaft für Arbeiterwohnungen. In\nder Breite 1. 3. 5. 7. 9. 11. 13.\nAegerter=Bühler, Joh. Hammerstraße 44.\nAenishänslin=Gränacher, Carl. Rebgaſse 40.\nAeſchmann, Daniel. Karthausgäklein 7.\nAeſchmann, Margaretha. Rheingasse 52.\nAichner, Rudolf. Steinenthorberg 14.\nAlbiez=Rehlin, Melchior. Spalenberg 32.\nAlbrecht=Speifer, Joh. Conr. Rebgaſse 16. —\nSchafgäklein 14.\nAllenjach=Rudin, Joachim. St. Alban=Bor-\nstadt 45.\nAlmosenamt. Radelberg 23.\nAlt, Ludwig, Bäcker. Rheingasse 47.\nAlt, Wb. Susanna. Rebgaſse 52.\nAlumneums, des theol., Verwaltung. Neue\nVorstadt 17.\nAmans=Cadet, Heinrich. Heuberg 32. — St.\nLeonhards=Graben 49.\nAmans=Grollimund, Artus. St. Clara=\nStraße 33.\nAmberger=Schloffer, Herm. Nauenstraße 1.\nAmmann=Reithardt, Achilles. Gerbergasse\n63. 66. — Gerbergäklein 35.\nAmsler, Rudolf. Augustinergasse 7.\nAmstein=Schaeffer, J. H. St. Peters-Berg 1.\nAnklin, Jos., sel. Erben. Steinevorstadt 10.\nAnstein=Wölfflin, Wb. Marg. Bäumlein-\ngasse 13.\nAntoni=Fausel, Carl. Alybeckstraße 41.\nArmen=Collegium d. Stadt Basel. Schafgä-\nchen 12. Utengasse 11.\nArmenſchulstiftung, landwirthſchaftliche. Hard-\nstraße 60.\nAsmus=Kaufmann, Friedr. Lindenberg 11. —\nWebergasse 36.\nAuer=Schlegel, Carl Jac. Utengasse 39.\nAwengen=Hindermand, Jac. Neue Vorstadt\n19. 21.\nAwengen=Miiller. Kanonengasse 15.\nAwengen=Rübenstahl, Albert. Elsässer=Strake5.\nAwengen=Treu, Rudolf. Todtentanz 1.\nBachofen=Brenner, Joh. Math. Steinenthor-\nstraße 13.\nBachofen=Fininger, Samuel. Eisengasse 38. —\nSt. Peters=Platz 3.\nBachofen=Marian, J. J. St. Alban=Graben7.\nAugustinergasse 4. — Rittergaſse 18. —\nAlybeckstraße 31. 33. 35.\nBachofen, Joh. Jac. u. Sohn. St. Martins=\nGasse 3. — Rheinsprung 18.\nBachofen=Vischer, Wilhelm. St. Jakobs=Strake\n53. — Singerweg 1. 3.\nBader=Döbelin, Urs Jos. Barfüsserplatz 14.\nBader, Jakob. St. Johann=Ringweg 14.\nBader=Rudin, Jakob. Im Davidsboden 1.\nBader=Schäfer, Johs. Gerbergasse 42.\nBader=Wilhelm, Franz Fidel. Mattweg 16.\nBaer=Fritsche, Abraham. Schneidergaſse 17.\nBär=Martin, Rudolf. Stadthausgasse 4. —\nTodtengäklein 5.\nBärwart=Carle, Johs. St. Alban=Vorstadt37.\nBärwart=Strittmatter, Theobald. St. Clara=\nStraße 14.\nBäry=Chemann, Heinrich. St. Leonhards=Grä-\nben 24.\nBäumlen=Esell, Jos. Klingelbergstraße 35. —\nMarktplatz 7. 9.\nBalmer=Kind, Joh. Jac. Hinter.Burgweg 4.\nBalmer u. Kiehm, Kanonengasse 24.\nBanga=Pfaff, Rudolf. St. Albanthorgraben1.\nBank=Gesellschaft in Basel. Marktplatz 3.\nBann des Münfers. St. Elisabethen=Strake55.\nu. 59. — St. Peter u. St. Leonhard, St.\nJohann-Vorstadt 73. — Missionsstraße 2.\n— St. Theodor, Kiehenstraße 41.\nBargäki, Peter. Gerbergasse 8.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8437,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3005,
+    "lines": 89,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:57:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p290",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p290.jpg",
+      "bytes": 1526558,
+      "sha256": "c53e489caee79534e355593383bd48daaee89187889ce028330101a5dcd82b92",
+      "sha256_of": "original",
+      "working_copy": "1862_p290.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:57:11+00:00"
+  }
+}

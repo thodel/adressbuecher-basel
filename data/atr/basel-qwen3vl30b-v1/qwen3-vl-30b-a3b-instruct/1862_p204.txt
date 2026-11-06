@@ -1,0 +1,61 @@
+Spalenvorstadt.
+139
+Nre
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+25 II. 322 Stauber-Delaquis, Rudolf.
+Stauber-Delaquis, Rud., Bäcker.
+Modespacher-Schmidt, Bal., Brieftträger.
+Drelli-Fischer, Giuseppe, Glaser.
+26 II. 291 Bohny-Fausel, Joh.
+Christ-Hartmann, Jeremias, Meßger.
+27 II. 321 ImHof-Maerky, Andreas.
+ImHof-Maerky, Andreas, Bäcker.
+ImHof-Hoch, Andreas, Part.
+ImHof, Melchior, Commis.
+28 II. 292 Gysin-Weber, Daniel.
+Gysin-Weber, Daniel, Sattler.
+29 II. 320 ImHof-Maerky, Andreas.
+Imhof, Benedikt, Altzoller.
+30 II. 293 zum hohen Haus. Krug'sches Fideikomiß.
+31 II. 319 Rohr-Schmidt, Johannes.
+Rohr-Schmidt, Johannes, Kaufmann.
+Schneider-Wirz, Wb. Barbara.
+Schneider-Wirz, Wb. Barbara, Part.
+Wernli-Meyer, Rudolf, Wirth.
+32 II. 294 Weissenberger-Martin, Johannes.
+Weissenberger-Martin, Johannes, Spe-
+zierer.
+Walter, Joh. Georg, Telegraphist.
+33 II. 318 zum Ostreich. Ziegler, Elisabeth.
+Hauschild-Alsleben, Ernst, Gejanglehrer,
+Phil. Dr.
+34 II. 295 zum rothen Hut. Mohler-Schardt, Jakob.
+Mohler-Schardt, Jakob, Bäcker.
+Brotbeck-Haenggi, F. Rud., Commis.
+Brotbeck, Emanuel, Commis.
+35 II. 317 zum Fasan. Henz-Riefer, Eucharius.
+Henz-Riefer, Eucharius, Holzseker.
+36 II. 296 z. Räzdorf. Brotbeck-Gnehm, Wb. Magdalena.
+Brotbeck-Gnehm, Wb. Magdal., Part.
+Rupplin-Brotbeck, Em., Bäcker.
+Bohny-Hoffmann, Friedr., Schneider.
+37 II. 316 z. weißen Köpfi. Sandreuter-Langmesser, Rudolf.
+Sandreuter-Langmesser, Rud., Brieft.
+Sandreuter-Graf, Rud., Postfactor u.
+Wirth.
+38 II. 297 zur äußern lieben Frau. Goette-Waser, Johannes.
+Goette-Waser, Johannes, Zimmermstr.
+Schweizer-Saffe, Fritz, Bäcker.
+Kestenholz-Brunner, Joh. Anton, Des-
+finateur.
+39 II. 315 zum Bogel. Schardt-Breiting, Carl.
+Meily, Wilhelm, Commis.
+Walter, Friedr., Commis.
+40 II. 298

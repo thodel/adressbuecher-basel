@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p336",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p336.jpg",
+    "bytes": 1600338,
+    "sha256": "264b7e0338cd2c10db6bc87ee57b32d566be7fef43d87964e18ae17d506db9c3",
+    "sha256_of": "original",
+    "working_copy": "1862_p336.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 271\nDavid=Gräflin, Leonh., Glaser. Schneider=Degene=Lehnis, Alois, Magazinarbeiter. Stei-\ngasse 10. nenvorstadt 59.\n— =Hodel, Rud., Part. Webergasse 34. — =Madöri, Hans Ulrich, Heizer. Mittlere\n— =Holzach, Wb. Marg., Part. Weber- Straße 40.\ngasse 38. — =Moser, Samuel, Ausläufer. Spalen-\n— =Hubeli, Wb. Cath., ohne Beruf. Rhein- berg 43.\ngasse 22. — =Mundwyler, Joh., Posamenter Hor-\n— =Kurz, Wb. Elisab., Metzger. Greifen- burgstraße 31.\ngasse 32. — =Schlittler, Heinr., Zimmermann. Ba-\n— =Märky, Eml., Seidenfärberegeselle. Och- dergässlein 3.\nfengasse 8. Deggeler=Stegmann, Bernh., Schlosser. St.\n— =Delhafen, Wb. Marg., Part. Freie Peters=Gasse 20.\nStraße 36. DeGoumois=Lichtenhan, Friedr. Wilh., Rent.\n— Rudolf, Metzger. Lindenberg 19. Aeschengraben 8.\n— Rudolf, Seidenfärbere. Riehen=Straße 25. Dehner=Flieg, Wb. Elisabeth, Kostfrau. St.\n— Rud. Carl, Seidenfärberegeselle. Rhein- Peters=Berg 31.\ngasse 22. Déjofez=Hofer, W., Architekt. Aeschengra-\n— =Schickler, Johs., Wein= u. Branntwein- ben 29.\nhandlung. St. Jakobs=Straße 5. Dénéréaz=Wertenberg, Wb. Sophie, Part.\n— Schwesterin, Anna Maria u. Judith. Part. Sporengasse 2.\nRheingasse 78. Denicola=Domenga, Sebast., Glaser. Gerber-\n— =Stähelin, Wb. Cölestine, Conduct. St. gasse 3.\nAlban=Vorstadt 66. — =Moretti, Pet. Paul, Glaser. Gerber-\n— Traugott Lucas, Staatscaffa=Secretür. gasse 1.\nMissionsstraße 48. Denis=Maronero, Jos., Lisieur. Rebgasse 42.\n— =Wattinger, Eml., Lohnwäscher. Stei- Denz=Mölbinger, Johs., Part. Todtengäß-\nnenvorstadt 65. lein 7.\nDay=Beck, Wb. Cath., Part. St. Elisabethen= Denzler=David, Rudolf, Hafner. Kiichegäk-\nStraße 36. lein 7.\n— =l'Hoste, Beda, Tapezierer. St. Johann= Deppeler=Martin, Heinr., Ladendiener. Gerber-\nVorstadt 35. gässlein 28.\nDeBary, Aug., Bandfabrikant. Augustiner- Déjarnaud, Franz, Lisieur. Malzgasse 11.\ngasse 1. Desgrand=Sargnon, Paul, Seidenhandlung.\n— =Bürckhardt, Joh., Bandfabrikt. Augusti- St. Johann=Vorstadt 46.\nnergasse 3. Detis=Geiger, Rosalie, Vorgängerin. Aeschenvorstadt 38.\n— =Sarasin, Johs., Bandfabrikant. Aug- Detloff=Lafontaine, Carl, Buchhändler. Freie\ngustinergasse 1. Straße 40.\nDebret=Müller, Adolf, Coiffeur. Gerber- Dettwiler==Becker, Joh. Martin, Posamenter.\ngasse 72. St. Alban=Vorstadt 62.\nDebrunner=Jiché, Heinr., Pfundzoller. Mün- — =Breitenstein, Wb. Verena, Zettlerin.\nsterberg 3. St. Johann=Vorstadt 18.\nDeck=Braun, Friedr., Mechaniker. Steinen- — =Briiderlin, Anna Cath., Lehrenfrau.\nvorstadt 30. Riehen=Straße 36.\n— Maria, Modiste. Riehenthofstraße 7. — =Dannacher, Jac., Lehrenbeständer. Gun-\n— Maria, Schneiderin. Karthausgässlein 3. doldinger Straße 18.\n— =Meyer, Wilh. Lithograph. St. Peters= — =Dürr, Joh., Maurergeselle. Trillengässlein 5.\nPlatz 16. — =Gerber, Martin, Lehrenmann. Mittlere\n— =Murbach, Marg., Nätherin. Steinen- Straße 86.\nvorstadt 13. — =Mehlan, Joh. Jak., Schneider. Schnei-\n— =Spichti, Melchior, Metzger. Blumen- dergasse 3.\nrain 25. — =Richard, Jac. Niclaus, Zettlermeister.\n— Wilh. Ernst, Rothgießer. Pfluggäss- Gerbergasse 37.\nlein 16. — =Schaub, Wb. Maria, Seidenwinderin.\nDeflacieur=Hofer, Ant., Musterweber. Ober Miinsterberg 8.\nRheinweg 96. — =Schlueb, Carl, Schneider. Greifengasse 3.\nDegen=Frey, Conrad, Fabrikarbeiter. Aes- — =Schöttel, Achiles, Ferger. Schwanengasse 6.\nchenvorstadt 75.\n— =Frey, Joh. Jac., Ferger. St. Peters-\nPlatz 17.\n— =Kreis, Joh., Schneider. Rheingasse 67.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9037,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3396,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 54.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:05:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p336",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p336.jpg",
+      "bytes": 1600338,
+      "sha256": "264b7e0338cd2c10db6bc87ee57b32d566be7fef43d87964e18ae17d506db9c3",
+      "sha256_of": "original",
+      "working_copy": "1862_p336.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:13+00:00"
+  }
+}

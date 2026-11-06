@@ -1,0 +1,45 @@
+190 Rebgasse.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+30 | VIII. | 176 | zum Paradies. | Staat.
+  Bischoff-Boehler, Joh. Jac., Pfarrer.
+31 | VIII. | 167 | | Geßler-Dannacher, Joh. Rudolf, sel. Erben.
+  Geßler-Dannacher, Wb. Brig., Gypser.
+  Geßler, Carl, Gypser.
+  Geßler, Eucharius Em., Bäcker.
+  Leuener-Jentsch, Christ., Schuhmacher.
+32 | VIII. | 175 d | zum Steinhof. | Lotz-Eglin, Friedrich.
+  Lotz-Eglin, Friedr., Zimmermeister.
+33 | VIII. | 163 | | Bohny-Glock, Samuel.
+  Tanner, Jac., Schreiner.
+  Ringele-Reig, Augustin, Kartoffel- u. Obsthändler.
+34 | VIII. | 175 | zum Steinhof. | Lotz-Eglin, Friedrich.
+35 | VIII. | 162 | | Bohny-Glock, Samuel.
+36 | VIII. | 166 | | Martin-Weiß, Joh. Jac.
+  Martin-Weiß, Joh. Jac., Weinsticher.
+  Martin-Krebs, Heinr., Maler.
+  Steffen-Burckhalter, Conrad, Commis.
+37 | VIII. | 161 | | Landerer-Feil, Carl Ludwig.
+  Landerer-Feil, Carl Lud., Fabrikschreiner.
+38 | VIII. | 165 | Pfarrhaus. | Staat.
+  Barth-Lotz, Franz Albert, Pfarrer.
+39 | VIII. | 157 | | Münch-Gengenbach, Wilh.
+  Münch-Gengenbach, Wilh., Med. et Chir. Dr., Arzt.
+40 | VIII. | 164 | | Aenishaenslin-Gränacher, Carl.
+  Aenishaenslin-Gränacher, Carl, Mecha- niker.
+  Müller-Scheer, Rud., Schreiner.
+  Füllemann-Madörin, Abrah., Schuh- macher.
+  Schweri-Binder, Jos., Unternehmer von Erdarbeiten.
+41 | VIII. | 156 | | Enzler-Märkt, Wb. Victoria.
+  Enzler-Märkt, Wb. Vict., Detaillantin.
+42 | VIII. | 160 | | Hug-Hoffmann, Daniel, sel. Erben.
+  Hug-Hoffmann, Wb. Barb., Nätherin.
+43 | VIII. | 155 | | Speiser-Schaffner, Wb. Barbara u. Fosseler, Maria.
+  Speiser-Schaffner, Wb. Barb., Seiden- winderin.
+44 | VIII. | 159 | | Bolliger, Samuel u. Christof.
+  Bolliger-ImHof, Samuel, Taglöhner.
+  Bolliger, Christof, Sohn, Schuhmacher.
+  Müller, Ludw. Wilh., Schlosser.
+45 | VIII. | 151 | | Maeglin-Weiß, Elisabeth.
+  Maeglin-Weiß, Isaac, Decorationsmal. und Photograph.
+  Moser-Haas, Jacob, Schuhmacher.

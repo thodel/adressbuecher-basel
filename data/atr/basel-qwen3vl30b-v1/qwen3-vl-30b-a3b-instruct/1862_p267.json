@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p267",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p267.jpg",
+    "bytes": 1251873,
+    "sha256": "738134d2dc75c45406cfa04261df3aac0d18006033aac29caad112750cb83cd7",
+    "sha256_of": "original",
+    "working_copy": "1862_p267.jpg"
+  },
+  "text": "202\nNiehenthorstraße.\nNre\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n12 VIII. 116 Karthhausecke. Bernoulli-Baer, Leonhard.\n13 VIII. 119 Kuegg-Gräflin, J. Emil.\nKuegg-Gräflin, Joh. Emil, Maler.\nBregger-Koepfer, Ambrosius, Fuhr-\nhalter.\nStraker-Zurfluh, Wilh., Commis.\n14 VIII. 126 Stockmeyer-Rietschlin, Abraham.\nStockmeyer-Rietschlin, Abrah., Ellen\nwaarengeschäft.\n15 VIII. 120 Rammerer, Simon, sel. Erben.\nStadelmann-Augsburger, Frz. Josef,\nParticular.\nKaufmann-Augsburger, Ant., Fuhr-\nhalter.\n16 VIII. 125 Hecht-Gehrig, Wb. Gertrud.\nHecht-Gehrig, Wb. Gertrud, Wälder-\nuhrenverkauf.\nBurge-Schwarzwaelder, Moritz, Caffee-\nwirth.\nBürge, Jacob, Kunstgärtner.\n17 VIII. 121 zur Überart. Schmidlin-Naegelin, Jacob.\nSchmidlin-Naegelin, Jacob, Maler.\n18 VIII. 124 Brefin-Anaus, Joh. Martin, sel. Erben.\nBrefin-Anaus, Wb. Judith, Bäcker.\nStaab-Stelzer, Sch., Schiffmann.\n20 VIII. 123 Gisel-Murbach, Joh. Jac.\nGisel-Murbach, Joh. Jac., Fruchthdlr.\nMüller-Bipp, Jac., Viehhändler.\nStuder-Walliser, Josef, Fruchthändler.\n21 VIII. 122 zum Zellenberg. Bieler-Salathe, Joh. Jac.\nBieler-Salathe, Joh. Jac., Küfer.\nKrebs-Etienne, Johs., Commis.\n22 VIII. 149 zum hohen Wind. Stoll-Nageleisen, Eberhard.\nStoll-Nageleisen, Eberhard, Fuhrhalter.\nOtto, Emanuel, Rathsbote.\n23 VIII. 146 zum Dupf. Gaf-Schloffer, Johannes.\nGaf-Schloffer, Johs., Bäcker.\n24 VIII. 148 Weiß-Gaf, Thomas.\nWeiß-Gaf, Thomas, Spezierer und\nWirth.\nWeiß, Abraham Jac., Bäcker.\n25 VIII. 145 Kempf-Strübin, Joh. Jac.\nKempf-Strübin, Joh. Jac., Bäcker u.\nWirth.\n26 VIII. 147 zur kl. Augenweide. Birmann, Niclaus Friedrich.\nBirmann, Niclaus Friedr., Bäcker.\nSutter-Litscher, Carl Friedr., Bäcker.\n27 VIII. 142 zum Ochsen. Maeglin-Müller, Christof.\nMaeglin-Müller, Christof, Wirth u.\nMetzger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5329,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1786,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0328,
+    "mean_line_chars": 28.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p267",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p267.jpg",
+      "bytes": 1251873,
+      "sha256": "738134d2dc75c45406cfa04261df3aac0d18006033aac29caad112750cb83cd7",
+      "sha256_of": "original",
+      "working_copy": "1862_p267.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:30+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p400",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p400.jpg",
+    "bytes": 1567059,
+    "sha256": "d5ce0c931d9a39d0b38525d76878ab83ad6b5eff3a5b61220d2ffd6b24ae511f",
+    "sha256_of": "original",
+    "working_copy": "1862_p400.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 335\n\nSchatz-Wassermann, Carl, Commis. St. Pe-\nters-Gasse 9.\nSchatzmann-Bucher, Heinr., Zimmermann.\nRheingasse 90.\n— -Müller, Rudolf, Schreiner. St. Alban-\nRheinweg 106.\nSchaub-Birmann, Bernh., Mechaniker. Rhein-\ngasse 49.\n— -Brotbeck, Joh. Rud., Buchbinder. St.\nLeonhards-Graben 49.\n— -Bürgy, Ferdinand, Posamenter. Sattel-\ngasse 15.\n— -Büry, Jacob, Schuhmacher. Steinen-\nvorstadt 15.\n— -Buser, Jak., Ziegler u. Wirth. Bin-\nninger Straße 3.\n— -Degen, Joh. Georg, Mechaniker. Un-\ntere Rebgasse 12.\n— -Dißlin, Jak., Fabrikarbeiter. Aeschen-\nvorstadt 62.\n— -Eichacker, David, Ferger. Gerber-\ngasse 56.\n— Emanuel, Fruchthändler. Freie Straße 55.\n— -Ewald, Joh., Fabrikarbeiter. Steinen-\nvorstadt 27.\n— -Fischer, Wb. Dorothea, Part. Schwa-\nnengasse 19.\n— -Fricker, Benedict, Commis. Allschwy-\nler Straße 25.\n— Georg Heinr., Möbelfabrikant. Kano-\nnengasse 11.\n— -Gerber, Wb. Anna, Fabrikarbeiterin.\nKlingelbergstraße 17.\n— -Gutzwyler, Christian, Zettlermeister.\nMalzgasse 1.\n— -Gysin, J. J., Handschuhmacher. Freie\nStraße 75.\n— -Halter, Friedr., Commis. St. Elisa-\nbethen-Straße 18.\n— -Hartmeyer, J., Agenturgeschäft. Un-\ntere Rebgasse 15.\n— -Hofer, Simon, Seidenfärberges. We-\nbergasse 23.\n— Joh. Math., Schuhmacher. Gerber-\ngasse 72.\n— Johs. Adam, Ferger. St. Alban-\nThal 44.\n— Joh. Heinr., Taglöhner. Utengasse 41.\n— -Kiefer, J. J., Müller. St. Alban-\nThal 2.\n— -Kissel, Andreas, J.U.D., Notar. Schlüs-\nselberg 15.\n— -Kloti, Joh. Jakob, Part. Mittlere\nStraße 40.\n— -Kuhn, Jak., Strohhutfabrikant und\nWäscherei. Steinenvorstadt 14.\n— -Lehnheer, J. Friedr., Eisenbahnbeamt.\nGartenstraße 72.\n— Maria, Fabrikaufseherin. Schnabel-\ngäßlein 2.\n\n[spalte 2]\nSchaub-Martin, Heinr., Grabmacher. Unte-\nrer Heuberg 31.\n— -Meyer, Juliana, Wäscherin. Rhein-\ngasse 29.\n— -Meyer, Mathias, Posamenter. Ham-\nmerstraße 92.\n— -Müller, Johs., Kräutersortirer. Rhein-\nsprung 3.\n— -Müller, J. J., Spezierer. Gerber-\ngasse 21.\n— -Müller, Wb. Maria Crescent. Spezerei-\nhandlung. Sattelgasse 22.\n— -Mundwyler, J. J., Posamenter. We-\nbergasse 13.\n— -Pfeiffer, Wb. Maria, Schneiderin.\nGreifengasse 33.\n— -Recher, Martin, Fabrikarbeiter. Spalen-\nberg 61.\n— -Schäfer, Cath., Fabrikarbeiterin. Rie-\nhenthorstraße 3.\n— -Schaub, Jak., Gutsbesitzer. Mittlere\nStraße 82.\n— -Schelker, Jak., Papierschneider. Spa-\nlenberg 19.\n— -Seiler, Jak., Zettlermeister. Garten-\nstraße 62.\n— -Stuber, Joh. Georg, Fabrikarbeiter.\nGerbergasse 24.\n— -Sutter, Sam., Posamenter. Gellert-\nstraße 48.\n— -Vögtlin, Heinr., Posamenter. Weiße\nGasse 8.\n— -Wanner, Maria, Zettlerin. Spital-\nstraße 13.\n— -Weber, Jak., Wirth. Aeschenvorstadt 42.\n— -Zeller, Martin, Posamenter. Sporen-\ngasse 11.\n— -Zutt, Notariats- u. Advokaturbureau.\nSchlüsselberg 15.\nSchaubeck-Hägelin, Wb., Kostgeberin. Heu-\nberg 19.\n— -Lebrecht, Sam., Fabrikarbeiter. St.\nPeters-Berg 15.\nSchaubhut, Carl Friedr., Kaufmann. Kirch-\ngasse 6.\nScheel, Ignaz, Lehrer. Lindenberg 12.\nScheer-Vögele, Georg, Küferknecht. Uten-\ngasse 3.\nScheffmacher-Schäfer, Johs., Schuhmacher.\nHintere Bahnhofstraße 50.\nScheidegger-Aeppli, Alois, Maurergesell. Rie-\nhenteichweg 14.\n— Casp., Taglöhner. Greifengasse 22.\n— -Hotz, Caspar, Taglöhner. Webergasse 12.\n— -Kramer, Johannes, Gärtner. Gellert-\nstraße 29.\n— -Walter, Casp., Taglöhner. Riehen-\nthorstraße 13.\nScheimann, Maria, Part. Utengasse 35.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12646,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3318,
+    "lines": 121,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 26.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:36:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p400",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p400.jpg",
+      "bytes": 1567059,
+      "sha256": "d5ce0c931d9a39d0b38525d76878ab83ad6b5eff3a5b61220d2ffd6b24ae511f",
+      "sha256_of": "original",
+      "working_copy": "1862_p400.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:36:00+00:00"
+  }
+}

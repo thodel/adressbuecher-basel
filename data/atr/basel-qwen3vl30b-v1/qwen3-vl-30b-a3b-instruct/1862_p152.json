@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p152",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p152.jpg",
+    "bytes": 1477216,
+    "sha256": "bae6ffecb8947832a55d1aaa42ffc005951c51fb57deb03b2dd513cb8eef6830",
+    "sha256_of": "original",
+    "working_copy": "1862_p152.jpg"
+  },
+  "text": "Luftgässlein. — Malzgasse. 87\nNene\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n4 V. 1200 d\nAnabenschule.\nHindermann=Merian, Joh. Jakob.\nStadtgemeinde.\n5 V. 1204 A\nOser=Miiller, Leonh., S. M. C., Oberl.\n9 V. 1203\nHeusler=Ryhiner, Andreas.\nHeusler=Ryhiner, And., Professpr.\nHeusler, Andreas, Sohn, J. U. D.\nMalzgasse.\n1 V. 1259\nWacker=Miiller, Friedrich.\nWacker=Miiller, Fried., Kostgeber.\nErdmann=Frey, Carl, Schreiner.\n2 V. 1239 zum Brigittathor. Merian, Jgfr. Henriette u. Anna.\nMerian=Bischoff, Wb. Pauline, Rentiere.\n3 V. 1258\nImhof=Motzsch, Joh. Friedrich.\nImhof, Joh. Friedrich, Schuhmacher.\nFrey=Imhof, Joh. Michael, Piqueur.\n4 V. 1239 b\nBonderMühl=Hoffmann, Leonhard,\nfel. Erben.\n5 V. 1257 A\nSarasin u. Comp.\nSchäfer=Hittpoldt, Friedr., Fabrikmstr.\n6 V. 1230 h\nBonderMühl=Hoffmann, Leonhard,\nfel. Erben.\n(Remise.)\n7 V. 1257\nSiegriß=Ründig, Wb. Johanna.\nSiegriß=Ründig, Wb. Johanna, Part.\nSiegriß=Marquart, Carl, Schreiner.\n9 V. 1256 alt Beginenhaus. Thommen, Bernhard.\nThommen, Bernh., Decorationsmaler.\nSpeiser=Schardt, Joh., Desfinateur.\nPerrot=Betard, Joh., Bildhauer.\nLeichmann, Carl, Agent f. mech. Ge-\ngenstände u. Zeichnungslehrer.\n10 V. 1242\nBonderMühl=Hoffmann Leonhard,\nfel. Erben.\nStraumann=Wertenberg, J. Rud., Ferg.\nDesarnaud, Franz.\nDesarnaud, Franz, Lifeur.\nFaure, Jean, Lifeur.\n11 V. 1255\n12 V. 1243\nBonderMühl=Hoffmann, Leonhard,\nfel. Erben.\n13 V. 1254\nThierry=Lenzi, Wb. Margaretha.\nZimmermann, Joh. Cour., Schuhmacher.\n14 V. 1244\nHeusler=Thurneyssen, Daniel.\n(Remise und Stallung.)\n15 V. 1253\nStrübin=Hunziker, Wb. Agnes.\nKähmi=Meuri, Jean, Gärtner.\nStraumann, Heinrich, Spengler.\n16 V. 1244 A\nBerri=Burchhardt, Wb. Margareth.\nBerri=Burchhardt, Wb. Margr., Baumst.\n17 V. 1251—52\nDobler, Maria.\nStehlin=Dobler, Georg, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6488,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1801,
+    "lines": 78,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0641,
+    "mean_line_chars": 22.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:40:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p152",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p152.jpg",
+      "bytes": 1477216,
+      "sha256": "bae6ffecb8947832a55d1aaa42ffc005951c51fb57deb03b2dd513cb8eef6830",
+      "sha256_of": "original",
+      "working_copy": "1862_p152.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:14+00:00"
+  }
+}

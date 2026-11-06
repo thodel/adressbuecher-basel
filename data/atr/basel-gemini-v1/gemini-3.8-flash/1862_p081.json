@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p081",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p081.jpg",
+    "bytes": 1311282,
+    "sha256": "a878e86c4b7831e32d25590156b35507c644877244b8cb7277a7f6f3d5220634",
+    "sha256_of": "original",
+    "working_copy": "1862_p081.jpg"
+  },
+  "text": "16 St. Alban-Vorstadt.\n\nNeue Haus-Nr. | Quar= tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n3 | V. | 1353 | | Bernoulli, Niklaus.\n  Bernoulli-Berri, Nikl., Notarius.\n5 | V. | 1352 | zum Sausewind. | Thurneysen-Merian, Emil.\n  Thurneysen-Merian, Emil, Bandfabr.\n6 | V. | 1216 | | VonderMühll-Hoffmann, Wb. A. C.\n  Burckhardt, Jgfr. Marg. u. Charl., Part.\n7 | V. | 1351 | | Kummer-Siegrist, Conrad.\n  Kummer-Siegrist, Conr., Liseur.\n8 | V. | 1217 | | LaRoche-Heußler, Rekt., Wb. Cath.\n  LaRoche-Heußler, Rekt. Wb., Cath. Part.\n9 | V. | 1350 | | Burckhardt-Burckhardt, Wb.\n10 | V. | 1218 | Neuhof. | Merian-Ryhiner, Wb. Elise.\n  Merian-Ryhiner, Wb. Elise, Rent,\n11 | V. | 1349 | | Burckhardt-Burckhardt, Wb.\n12 | V. | 1219 | | Hoffmann-Eglin, Eman.\n  Firma Eml. Hoffmann, Bandfabrik.\n13 | V. | 1348 | Schauenburg. | Wieland-Bischoff, Eleonora. Wb.\n  Wieland-Bischoff, Elen., Wb., Part.\n14 | V. | 1220 | | Hoffmann-Preiswerk, Wb. Hel.\n  Hoffmann-Preiswerk, Wb. Hel.\n  Hoffmann-Eglin, Eml., Bandfabrikant.\n  Hoffmann, Emanuel.\n  Hoffmann-Burckhardt, Alb., Tuchhandlg.\n15 | V. | 1347 | | Bischoff, Carl.\n  Bischoff, Carl, Kaufmann.\n16 | V. | 1221 | | Geigy-Lichtenhahn, Wilhelm.\n  Geigy, Wilhelm, Vater, Fabrikant, resp.\n  Baumwollspinnerei u. mech. Weberei.\n17 | V. | 1346 | zum Geist. | Bischoff-Iselin, Christof.\n  Bischoff-Iselin, Chr., Fabrikant.\n  Bischoff, Gustav, desgl.\n  Bischoff, Alphons, desgl.\n  Comptoir von Chr. u. Joh. Bischoff.\n18 | V. | 1222 | | Bischoff-Respinger, Hieron.\n19 | V. | 1345 | zur Fortuna. | Burckhardt, Carl sel., Erben.\n  Burckhardt-VonderMühll, Carl Felix,\n  J. U. Dr. und Bürgermeister.\n  Burckhardt-Burckhardt, Eml., Kaufm.\n20 | V. | 1223 | | Völmy-Glaser, Jak.\n  Völmy-Glaser, Jak., Fabrikarbeiter.\n21 | V. | 1344 | zum Zank. | Bischoff-Preiswerk, Joh. sel., Erb.\n  Bischoff-Preiswerk, Wb. M., Rent.\n  Bischoff, Eduard, Kaufmann.\n  Bischoff, Alfred, J. U. D.\n22 | V. | 1224 | | Bischoff-Respinger, Hieron.\n  Jenny-Wunderlin, Fried., Appreteurgeh.\n  Dietrich, Andr., Schreiner.\n23 | V. | 1343 | | Bischoff-Preiswerk, J. sel., Erben.\n  Wieland-Bischoff, Hans, eidg. Oberst.\n24 | V. | 1225 | | VonderMühll-Merian, Karl.\n  VonderMühll-Merian, K., Handelsmann",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9024,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2225,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:37:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p081",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p081.jpg",
+      "bytes": 1311282,
+      "sha256": "a878e86c4b7831e32d25590156b35507c644877244b8cb7277a7f6f3d5220634",
+      "sha256_of": "original",
+      "working_copy": "1862_p081.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:01+00:00"
+  }
+}

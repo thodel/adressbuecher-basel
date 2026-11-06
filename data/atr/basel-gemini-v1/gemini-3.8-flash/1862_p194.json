@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p194",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p194.jpg",
+    "bytes": 1412750,
+    "sha256": "ac43c7bf112d292092df7e4bc2efe99dda97b8d49724f74cbaf770a1f9b8893c",
+    "sha256_of": "original",
+    "working_copy": "1862_p194.jpg"
+  },
+  "text": "Schützenmattstraße. | 129\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n9 | II. | 343 | | Schilling, Abraham.\n  Stallung, Remise u. Magazin.\n10 | II. | 329 A | | Henz-Kiefer, Georg Emanuel.\n  Henz-Kiefer, Georg Eml., Schriftsetzer.\n  Rupper, I., Chef d. eidg. Grenzdienstes.\n  Oetiker-Rosin, Jac., Spezereihandlung.\n11 | II. | 342 | | Rumpf-Schellenberg, Carl Christian.\n  Rumpf-Schellenberg, Carl Christian, Kreppstofffabrikant.\n12 | II. | 329-330 | | Henz-Boehning, Georg.\n  Henz-Boehning, Georg, Part.\n  Hofmann-Rebmann, Joh. Jak., Schrein.\n  Brucker-Leopold, Friedr., Fuhrhalter.\n  Birrer-Staehle, Alois, Fuhrhalter.\n13 | II. | 340-341 | | Bernoulli, Niclaus de Hier. u. Sohn.\n  Magazin.\n14 | II. | 331 | | Schmid-Faesch, Jakob Christof.\n  Schmid-Faesch, Jak. Christof, Weinhndlg.\n  Klaiber, Ludw. u. Comp., Agentur.\n  Brändli-Faesch, Joh. Jak., Postbeamter.\n  Sixt, Joh. Jac., Maler.\n15 | II. | 339 | | Barth-Gysin, Mathias.\n  Barth-Gysin, Mathias, Nagelschmied.\n  Kilp-Sulger, Johann, Gaskontroleur.\n  Barth-Walz, Gottfried, Rentier.\n16 | II. | 332 | | Stehelin, Gottfried.\n  Magazin.\n17 | II. | 338 | | Stehelin, Adolf.\n  Kaufmann-Kleinwitz, Friedr., Schreiner.\n18 | II. | 331 C | | Schmid-Faesch, Jak. Christof.\n  Magazin.\n19 | II. | 337 a | | Madeux u. Wohnlich.\n  Magazin.\n20 | II. | 333 | | Zaeslin-Streckeisen, Joh., sel. Erb.\n  Comptoir von Zaeslin, Joh., Spediteur u. Commission.\n  Huber-Streckeisen, Joh. Jak., Missionar.\n21 | II. | 337 | | Bernoulli, Nicl. de Hier. u. Sohn.\n  Magazin.\n22 | II. | 334 | | Stehelin, Gottfried.\n  Magazin.\n23 | II. | 336 | | Bernoulli, Nicl. de Hier. u. Sohn.\n  Stallung u. Scheune.\n24 | II. | 335 | | Madeux, Johannes.\n  Madeux, Johannes, Kaufmann.\n  Comptoir v. Madeux u. Wohnlich, Speditions- u. Commissionsgeschäft.\n  Amans-Madeux, Oscar. Const., Kaufm.\n25 | III. | 145 | Mostacker. | Werenfels-Bloch, Franz.\n  Werenfels-Bloch, Franz, Wirth.\n9",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8576,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1953,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.1,
+    "mean_line_chars": 36.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:54:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p194",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p194.jpg",
+      "bytes": 1412750,
+      "sha256": "ac43c7bf112d292092df7e4bc2efe99dda97b8d49724f74cbaf770a1f9b8893c",
+      "sha256_of": "original",
+      "working_copy": "1862_p194.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:59+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p133",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p133.jpg",
+    "bytes": 1281660,
+    "sha256": "821ecb92f1f28a5bb1571f2b89619fae4c6922441ac7036cb348b2f2baa3b937",
+    "sha256_of": "original",
+    "working_copy": "1862_p133.jpg"
+  },
+  "text": "68 | Imbergäßlein.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nImbergäßlein.\n1 | II. | 540 | | Kruse-Salathe, Fritz.\n  Kruse-Salathe, Fritz, Spezierer.\n2 | II. | 541 | | Neuschwander-Lutz, Daniel.\n  Neuschwander-Lutz, Daniel, Wirth.\n  Siehe Nr. 4 St. Andreasplatz.\n3 | II. | 590 a | | Crussaire-Pfau, Wittwe Marg.\n  Siehe Schneidergasse Nr. 22.\n4 | II. | 542 | | Brodmann-Rudolf.\n  Schweizer-Brodmann, Joh., Handelsm.\n  Siehe Nr. 6 Andreasplatz.\n5 | II. | 591 c | | Leithardt-Götz, Heinrich.\n  Erlacher-Degen, Wb. Magd., Nudelnsabr.\n* 6 | II. | 543 | zur gelben Schraube | Frey-Salathe, Adolf.\n  Siehe Nr. 8 Andreasplatz.\n7 | II. | 539 | | Thommen-Scherrer, Wb. Cath.\n  Thommen-Scherrer, Wb. Cath., Part.\n  Nast-Wolf, Heinr., Stuhlschreiner.\n8 | II. | 547 | Einfahrt. | Butz-Nieder, Franz Josef.\n9 | II. | 591 d | | Leithardt-Götz, Heinrich.\n  Oberer, Karl, Maler.\n10 | II. | 537 | | Leser-Karger, Adolph.\n  Christ-Stöcklin, Ludwig, Schuhmacher.\n11 | II. | 536 | | Schneider-Fäsch, Friedrich.\n12 | II. | 536 A | zur Gans. | Hagenbach-Merian, Friedrich.\n  Welterlin-Kammerer, H., Zimmermann.\n13 | II. | 535 u. 535 A | zur Gans. | Hagenbach-Merian, Friedrich.\n14 | II. | 534 | | Preiswerk-Sulger, Carl.\n  (Magazin.)\n15 | II. | 598 | | Krayer-Lotz, Friedrich.\n  Eingang zu Nr. 4 am Spalenberg.\n16 | II. | 599 | | Gysin, Rudolf.\n  Eingang Nr. 6 Spalenberg.\n17 | II. | 600 | | Bossardt, Jacob.\n  Eingang zu Nr. 8 Spalenberg.\n18 | II. | 601 | | Feindel-Bouchard, Wb. Franziska.\n  Eingang zu Nr. 10 Spalenberg.\n19 | II. | 602 F | | Schär-Haas, Joh. Jac.\n  Luttiger-Bettig, Gregor, Schuster.\n20 | II. | 533 | | Mohler-Schönberger, Heinrich.\n  Mohler-Schönberger, Heinr., Posament.\n21 | II. | 521 A | | Leuzinger-Zumbrod, Joh. Jakob.\n  Leuzinger-Zumbrod, J. J., Fabrikarb.\n22 | II. | 532 | | Bell, Friedrich.\n  Martin, Joh. Jac., Kaufhausarbeiter.\n23 | II. | 531 | | Schneider-Faesch, Friedrich.\n  Otto, Rosina Cath., Kinderschule.\n  Härdy-Wanner, Rud., Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10011,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2019,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:45:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p133",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p133.jpg",
+      "bytes": 1281660,
+      "sha256": "821ecb92f1f28a5bb1571f2b89619fae4c6922441ac7036cb348b2f2baa3b937",
+      "sha256_of": "original",
+      "working_copy": "1862_p133.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:11+00:00"
+  }
+}

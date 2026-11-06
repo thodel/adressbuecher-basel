@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p125",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p125.jpg",
+    "bytes": 1307433,
+    "sha256": "1f24fa7781ee9366b66e4b9a77f998ada4b603b2e4af462d30fc3c7a36df49c6",
+    "sha256_of": "original",
+    "working_copy": "1862_p125.jpg"
+  },
+  "text": "60\nHeuberg.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n6 II. 445 Paradies. Stähelin, Jgfr. Sal. sel. Erben\nHeinz-Huber, Eduard, Commis.\n7 II. 441 Spießhof. Gesellisch. d. schweiz. Centralbahn.\nSteinmann-Kammermann, Jaf., Abwart.\n8 II. 444 Salathé-Bokhardt, Joh.\nSalathé-Bokhardt, Joh., Kaufmann.\n10 II. 443 z. hintern Schaub. Viebrich-Müller, F. Conrad.\nViebrich-Müller, F. C., Civilg.-Weibel.\nWagner-Viebrich, Joh., Org. u. Musikl.\nFrutiger-Hoffmann, F., Handl. Commis.\n12 II. 442 Arai. Huber-Schnell, Mar. Sal., Pfr. Wb.\nHuber-Schnell, M. S., Pfr. Wb., Part.\n13 VI. 422 zum Kellерladen. Frey-Schmid, Marg., Wb.\nFrey-Schmid, Marg., Wittwe.\nKöpgen-Hohler, Wilh., Maler.\n14 II. 441 A. zum Seidenhut. Levy-Dulmont, Marcus.\nLevy-Dulmont, M., J. U. L., Advok.\nHimmeli-Meyer, Jacob, Commis.\nBertschmann, Johannes, Rentier.\nMann-Bertschmann, Christina, Part.\n15 VI. 423 zum Sternenberg. Schweichardt-Dunkel, Em. Jac.\nSchweichardt-Dunkel, Em. Jac. Schuh-\nmacher.\n16 II. 440 Burckhardt-Imhof, Wb. Suf.\nBurckhardt-Imhof, Suf., Rentiere.\nBurckhardt, Emanuel, Kaufmann.\nStaehelin-Burckhardt, Sam., Kaufm.\n17 VI. 424 zum Vorbeerfranz. Gofwyler-Stoll, Conrad.\nGofwyler-Stoll, Conrad, Efelhalter.\nSalathe-Müller, Rud. Wirth, Postfact.\n18 II. 439 zum Engelberg. Bernoulli-Werthemann, Joh. Jac.\nBernoulli-Werthemann, Joh. Jacob,\nPhil. Dr. Alt-Apotheker.\n19 VI. 425 zum Tröttlin. Säuberlin-Hägelin, Wb. Suf. Barb.\nSäuberlin-Hägelin, Wb. Suf. Bb., Part.\nSäuberlin-Klausfelder, Hier., Brieft.\n20 II. 438 zum Helfenberg. Stricker-Meyer, Lud. David.\nStricker-Meyer, E. D., Pintenwirth.\nHubsch, Georg Herm., Commis.\nThoma, Moritz, Commis.\n21 VI. 426 Benfen. Biedert-Müller, Johannes.\nBiedert-Müller, Johannes.\n22 II. 437 zum Waldshut. Bischoff-Keller, Andreas.\nBischoff-Keller, Andr., Kaufmann.\n23 VI. 427 Lapp-Wollschlegel, Christian Friedr.\nLapp-Wollschlegel, Schlosser u. Mechanik.\nHurt-Heer, Conrad, Zimmermeister.\n24 II. 436 zum Mörbsberg. Burckhardt-Preiswerk, Emanuel.\nBurckhardt-Preiswerk, Em., Pfarrer.\n25 VI. 428 Wassermann-Krebs, Rud.\nWassermann-Krebs, Rud., Kaminfeger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7007,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2114,
+    "lines": 62,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:36:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p125",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p125.jpg",
+      "bytes": 1307433,
+      "sha256": "1f24fa7781ee9366b66e4b9a77f998ada4b603b2e4af462d30fc3c7a36df49c6",
+      "sha256_of": "original",
+      "working_copy": "1862_p125.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:36:54+00:00"
+  }
+}

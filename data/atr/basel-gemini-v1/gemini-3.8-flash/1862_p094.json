@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p094",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p094.jpg",
+    "bytes": 1426083,
+    "sha256": "422923eac935e7819f34ff2164ac140e1198b719c63aa475820bef8596450b18",
+    "sha256_of": "original",
+    "working_copy": "1862_p094.jpg"
+  },
+  "text": "Blumenrain. | 29\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n8 | I. | 115 | zu drei Königen. | Senn-Isenegger, Joh. Jakob.\n  Senn-Isenegger, Joh. Jak., Gastwirth.\n  Heusler, Wilhelm, Kaufmann.\n9 | I. | 117 | zur Laterne. | Dubois-Hilzinger, Louis.\n  Dubois-Hilzinger, Louis, Uhrenmacher.\n10 | I. | 113 | zum Treibeck. | Leucht-Keller, Karl Friedrich.\n  Leucht-Keller, K. F., Bandhandlung.\n  (Firma: Leucht u. Comp.)\n11 | I. | 116 | Groß-Hüningen. | Zimmerlin-vonSpeyr, August.\n  Zimmerlin-vonSpeyr, Aug., Tabakfab.\n  Baader, Friedrich, Straßen-Inspector.\n12 | I. | 111 | Café des 3 Rois. | Munzinger-Maring, Jak. Friedrich.\n  Munzinger-Maring, Jak. Friedr., Café-\n  wirth.\n  Hönes, August, Kaufmann.\n13 | I. | 112—14 | z. Spiegel, Fortuna. | Böcklin-Lippe, Friedrich.\n  Kiefer-Scott, Wilhelm, Agent.\n  Bürger, Georg, Agent.\n14 | I. | 109 | zum Anker. | Schmidt-Montandon, Georg Mich.\n  Schmidt-Montandon, Gg. Mich., Ingen.\n  u. Lehrer d. öffentl. Zeichnungssch.\n  Ammann, Gottlob, Musiklehrer.\n  Baumgartner, Ferd., Sprachlehrer.\n  Götz, Wilhelm, Commis.\n  Marget, F. Emil, Kaufmann.\n15 | I. | 110 | | Loos-Donatz, Joh. Bernhard.\n  Loos-Donatz, Joh. Bernh., Commis.\n16 | I. | 108 | | Fluck-Payot, Joh. Jacob, Bäcker.\n  Fluck-Payot, Joh. Jacob, Bäcker.\n  Payot-Grummler, Jacob, Gärtner.\n  Schürer, Aug. Ed. Adolf, Kaufmann.\n17 | I. | 104 e | z. kleinen Segerhof. | Burckhardt, Philipp sel. Erben.\n  Gysler-Handmann, Wb. Maria, Rent.\n  Gysler, Jgfr. Anna Maria, Rentiere.\n18 | I. | 107 | z. klein. Hüningen. | Lauterburg-Streuber, Georg.\n  Villars, Jgfr. Celestine, Lehrerin.\n  Baumann-Hosch, Wb. Dorothea, Part.\n  Baumann, Theophil, Kaufmann.\n19 | I. | 104 | Segerhof. | Burckhardt, Philipp sel., Erben.\n  Burckhardt, Jungfrauen Luise, Adele u.\n  Marie, Rentieres.\n  Pelletier, Jgfr. Jeannette Luise, Rent.\n20 | I. | 106 | | Strütt, Joh. Jakob.\n  Maring, Emanuel, Commis.\n  Görner, Carl, Commis.\n  Kettiger, Joh. Carl, Commis.\n21 | I. | 100 | zur Menzenau. | Geschwister Jenny.\n  Jenny, Joh. Jakob, Spezierer.\n22 | I. | 105 | St. Urbanseck. | Ronus-Gemuseus, Christ., Kaufm.\n23 | I. | 97 | zum Altkirch. | Siegrist-Brodmann, Johannes.\n  Siegrist-Brodmann, Ferger u. Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8354,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2233,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p094",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p094.jpg",
+      "bytes": 1426083,
+      "sha256": "422923eac935e7819f34ff2164ac140e1198b719c63aa475820bef8596450b18",
+      "sha256_of": "original",
+      "working_copy": "1862_p094.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:04+00:00"
+  }
+}

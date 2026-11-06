@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p104",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p104.jpg",
+    "bytes": 1449702,
+    "sha256": "7e3b2fd5e2ec840f9fc611ccad754479f3875d17679a975202a571b3f740edea",
+    "sha256_of": "original",
+    "working_copy": "1862_p104.jpg"
+  },
+  "text": "St. Elisabethen Straße. — Elsäßer Straße. | 39\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n60 | IV. | 897 D | | Lutz, Eduard.\n  Lutz, Eduard, Conditor.\n  Lutz-Mundwiler, Eduard, Kapellmeister.\n  Merian, Joh. Ludw., Kaufmann.\n62 | IV. | 897 E | zum Sonnenberg. | Grisanti-Hartmann, David.\n  Grisanti-Hartmann, Caféwirth u. Restr.\n  Schumacher-Rüthi, Jakob, Gypser.\n\nElsäßer Straße.\n3 | I. | 20 | zum Ymp. | Meyer-Hoffmann, Daniel.\n  Meyer-Hoffmann, Daniel, Part.\n4 | I. | 1 | | Hübscher, Wilh. Zimmermeister.\n  (Droschken-Anstalt.)\n  Zandt-Loeffel, Johs., Wagen-Meister.\n  Jaecklin-Baur, Rud., Mechaniker.\n5 | I. | 20 A | | Awengen-Rübenstahl, Albert.\n  Awengen-Rübenstahl, Alb., Bierbrauer.\n7 | I. | 19 | | Schneider-Scherb, Daniel.\n  Schneider-Scherb, Daniel, Gutsbesitzer.\n8 | I. | 2 | | Ehrsam-Schneider, Eduard.\n  Ehrsam-Schneider, Eduard, Sattler.\n  Bendely-Ingold, Philipp, Schmied.\n9 | I. | 18 | | Ecklin-vonMechel, Wb.Veren.Barb.\n12 | I. | 3 | | His-Laroche, Ed. alt Appell. Rath.\n  Stadelmann-Vogel, Jost, Lehenmann.\n13 | I. | 17 | | Erb-Gysin, Jakob.\n  Erb-Gysin, Jakob, Gutsbesitzer.\n19 | I. | 16 | | Kauffmann-Ingold, Barb. Wb.\n  Kauffmann-Ingold, B. Wb., Chaisenfab.\n  Kauffmann-Kauffmann, Ach., Reisender.\n23 | I. | 16 A | | Blattner, Heinrich, Gutsbesitzer.\n24 | I. | 5 | | Widmer-Widmer, Jakob.\n  Widmer-Widmer, Jakob, Landwirth.\n29 | I. | 13 | | Berger-Heine, Joh. Nepomuk.\n  Berger-Heine, Nep., Joh., Gutsbesitzer.\n31 | I. | 14 | | Zimmermann-Subinger, Carl.\n  Zimmermann-Subinger, C., Gutsbesitzer.\n34 | I. | 8 | | Schaffner-Frey, Samuel.\n  Schaffner-Frey, Sam., Polizeisecretär.\n  Mathieu-Winzler, Aug. Alex., Commis.\n37 | I. | 9 | Zollanmeldungs-posten. | Eidgenossenschaft, Hauptzollstätte Lysbüchel.\n  Blendinger, Leonh. Albert, Gehülfe.\n  Zeller, Joh. Jak., Einnehmer.\n  Behra, Mathias, Controleur.\n39 | I. | 9 | Landjägerposten | Wyß-Egger, Urs Vikt., Landjäg.-Corpor.\n41 | I. | 12 | auf'm Lysbüchel. | Nußbaumer-Knill, Wolfgang.\n  Nußbaumer-Knill, Wolfg., Gutsbesitzer.\n42 | I. | 10 | auf dem Lysbüchel. | Wagner, Mathias.\n  Wagner, Mathias, Gutsbesitzer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9114,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2144,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:40:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p104",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p104.jpg",
+      "bytes": 1449702,
+      "sha256": "7e3b2fd5e2ec840f9fc611ccad754479f3875d17679a975202a571b3f740edea",
+      "sha256_of": "original",
+      "working_copy": "1862_p104.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:37+00:00"
+  }
+}

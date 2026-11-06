@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p120",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p120.jpg",
+    "bytes": 1456695,
+    "sha256": "5da6fb1357e5dabb318aaebe10da23b48a1beecdf24851837d116d13a33406ec",
+    "sha256_of": "original",
+    "working_copy": "1862_p120.jpg"
+  },
+  "text": "Gerbergasse. — Gerbergäßlein. 55\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n73 | IV. | 1153 | zum Bruntrut. | Ackermann-Rapp, Daniel.\n  Ackermann-Rapp, Daniel, Spengler.\n  Altermatt-Weißhaupt, Jos., Gipser.\n74 | VI. | 675 | z. goldenen Knopf. | Uehlinger-Schneider, Carl.\n  Uehlinger-Schneider, Carl, Schneider.\n  Speitel-Schoch, Jos., Tapetenhandlung.\n  Winizki-Meyer, Const., Buchhalter.\n75 | IV. | 1152 | zum Fürstenberg. | Schardt-Roth, Adolf.\n  Schardt-Roth, Adolf, Kaufmann.\n  Schorer, Geschw., Tapetenhandlung.\n77 | IV. | 1151 | zur Kerze. | Droz-Stierlin, Friedrich.\n  Droz-Stierlin, F., Woll- u. Baumw.-Hdl.\n79 | IV. | 1150 | | Oser-Fischer, Wb. Catharina.\n  Oser-Fischer, Wb. Catharina, Part.\n  Kromer-Kübler, Wb. Sus., Spezereihdlg.\n\nGerbergäßlein.\n1 | VI. | 628 | zum Mannenbad. | Siegmund-Bloch, Benjamin.\n  Siegmund-Bloch, Benjamin, Zahnarzt, Med. et Chir. Dr.\n2 | VI. | 625 | zum Mühleeck. | Huber-Unbekannt, Wb. Catharina.\n | | 626 | | Huber-Unbekannt, Wb. Cath., Part.\n  Keck-Epple, Theobald, Spengler.\n  Studer-Holinger, Niels, Holzhändler.\n3 | VI. | 643 | Hinterhaus d. Zunft zu Schneidern. | Corporationsgut.\n  Schaffner-Schrenk, Wb. Wilhelmine, Räucherbäder.\n4 | VI. | 627 | zum Ramspach. | Müller, Felix sel., Erben.\n  Plattner-Hasler, Wb. Rahel, Part.\n  Käser-Müller, Joh., Hafner.\n5 | VI. | 642 | Hinterhaus d. Zunft zu Gärtnern. | Corporationsgut.\n6 | VI. | 629 | zum Aerger. | Vonkilch-Vögtlin, Georg Daniel.\n  Vonkilch-Vögtlin, G. D., Metzger.\n8 | VI. | 630 | | Mangold-Greis, Johann Wilhelm.\n  Mangold-Greis, Joh. Wilh., Schuhm.\n9 | VI. | 641 | z. St. Niklaus. | Trübner-Wolfensberger, Ludwig.\n  Schmidlin-Link, Wb. Barb., Schachtelm.\n10 | VI. | 631 | zum rothen Hahnen. | Weiß-Bresin, Wb. Ursula.\n  Weiß-Bresin, Wb. U., Bettmacherin.\n11 | VI. | 640 | z. hintern Greifen. | Meyer-Altorfer, Friedrich.\n  Magazin.\n12 | VI. | 632 | | Tschudin-Häuser, Wb. Elisabeth.\n  Tschudin-Häuser, Wb. Elisabeth, Part.\n13 | VI. | 639 | zum Ritter. | Mieg, Joh. Jakob.\n  Magazin.\n14 | VI. | 633 | zum weißen Mann. | Buser-Kuster, Mathias.\n  Buser-Kuster, Mathias, Ferger.\n  Weißenberger-Lang, Peter, Schneider.\n15 | VI. | 637 | Zunft zu Gerbern. | Corporationsgut.\n  Bruder-Bürgin, Wb. A. Mar., lith. Anst.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10094,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2280,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0204,
+    "mean_line_chars": 44.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p120",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p120.jpg",
+      "bytes": 1456695,
+      "sha256": "5da6fb1357e5dabb318aaebe10da23b48a1beecdf24851837d116d13a33406ec",
+      "sha256_of": "original",
+      "working_copy": "1862_p120.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:11+00:00"
+  }
+}

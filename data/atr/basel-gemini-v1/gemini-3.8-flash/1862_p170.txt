@@ -1,0 +1,46 @@
+Neue Vorstadt. In den Neusäßen. Nonnenweg. Peters-Berg. 105
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+29 | I. | 275 C |  | Staat.
+30 | I. | 269 Ba | Holsteinerhof. | Burckhardt-Gemuseus, Wb. Emilie.
+  Burckhardt-Gemuseus, Wb. Emilie, Rent.
+31 | I. | 275 C a b | Profosenwohnung. | Staat.
+  Tischhauser-Jenny, Christian, Profos.
+32 | I. | 269 B | Holsteinerhof. | Burckhardt-Gemuseus, Wb. Emilie.
+
+In den Neusäßen.
+1 | V. | 269 |  | Halter-Fäsch, Niclaus.
+2 | V. | 267 |  | Halter-Fäsch, Niclaus.
+  Halter-Fäsch, Niclaus, Kaufmann.
+3 | V. | 271 B |  | Vonder Mühll-Fürstenberger, Alfred.
+4 | V. | 275 |  | Merian-Burckhardt, Christoph, sel. Erben.
+  Aeby-Hartmann, Wb. Catharina, Lehenbeständerin.
+  Aeby, Christof Theodor, J. U. D.
+5 | V. | 273 |  | Vonder Mühll-Fürstenberger, Alfred.
+  Kull-Höbel, Heinrich, Gärtner.
+
+Nonnenweg.
+20 | II. | 110 A | Missionsknabenhs. | Missionsgesellschaft.
+  Meuret-Bächlin, Gustav, Pfarrer und Hausvater.
+  Ganser, Paul Emil, Lehrer.
+33 | II. | 119 E |  | Fischer-Burckhardt, Heinrich.
+35 | II. | 119 D |  | Fischer-Burckhardt, Heinrich.
+37 | II. | 119 C |  | Fischer-Burckhardt, Heinrich.
+  Hill-Bieder, Alexander, Metzger.
+39 | II. | 119 B |  | Fischer-Burckhardt, Heinrich.
+  Kradolfer-Bisegger, Joh., Commis.
+51 | II. | 119 A |  | Senn-Gysin, Daniel.
+  Senn-Gysin, Daniel, Major u. Kriegskommissär.
+
+St. Peters-Berg.
+1 | I. | 174 | zum Brunnen. | Amstein-Schäffer, Joh. Heinrich.
+  Amstein-Schäffer, Joh. Heinrich, Bader.
+  Dunkel-Bürgin, Alexander, Schuhmach.
+3 | I. | 175 |  | Schweizer-Schäfer, Joh.
+  Schweizer-Schäfer, Joh., Fabrikarbeiter.
+4 | I. | 151 | zum Rechberg. | Soller-Frey, Wilhelm.
+  Soller-Frey, Wilhelm, Schuhmacher.
+  Siehe Nr. 12 Fischmarkt.
+5 | I. | 176 |  | Hergob, Geschwister.
+  Hergob, Joh. Ludwig, Sprachlehrer.
+  Hergob, Philippine, Part.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p247",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p247.jpg",
+    "bytes": 1261435,
+    "sha256": "c31691dabf98ffbbe2447b8f87e2b742a866db71e7352bfa4d5345a5496d735a",
+    "sha256_of": "original",
+    "working_copy": "1862_p247.jpg"
+  },
+  "text": "182 Klingenthalstraße. — Alybeckstraße.\nNre\nHaus-Nr.\nQuarz-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n39 VII. 82 E\n43 VII. 82 G\n45 VII.\n47 VII.\nBurdhardt, Daniel.\nSchaarschmidt=Hagist, August.\nSchaarschmidt=Hagist, Aug., Maurer.\nDuffi=Deck, Jacob, Marmorist.\nSchaarschmidt=Hagist, August.\nGundrum=Degen, Michael.\nAlybeckstraße.\n1 VII. 1\n3 VII. 2\n7 VII. 5\n9 VII. 6\n11 VII. 8\n15 VII. 9\n16 VII. 7\n17 VII. 11\n18 VII. 10\n19 VII. 12\n21 VII. 13\n23 VII. 14\n24 VII. 10 d\n26 VII. 11 A\n27 VII. 17\n29 VII. 18\nBricar=Stilli, Wb. Maria.\nBricar=Stilli, Wb. Maria, Part.\nPfister=Weber, Wb. Elisabeth.\nZündel=Buchmann, Gottlieb, Part.\nZaeslin=Bleyenstein, Wb. Marg., sel. Erben.\nZaeslin=Bleyenstein, Wb. Marg., sel. Erben.\nMazinger=Ifenegger, Samuel.\nMazinger=Ifenegger, Sam., Commis.\nSchmid=Ritter, Wb. Soph. Mar.\nSchmid=Ritter, Wb. Soph. Mar.\nSalathe, Jacob, Lehensbeständer.\nKeller=Sehringer, Christof.\nKeller=Sehringer, Christof, Gärtner.\nBerchten=Steiner, Rud., Commis.\nLangmesser, F. U., Part.\nBest, Lucas, Rentier.\nRaillard=Brenner, Peter, sel. Erb.\nRaillard=Brenner, Wb. Maria Elisab., Part.\nTschopp=Frayer, Wb. Agathe.\nTschopp=Frayer, Wb. Agathe, Part.\nTschopp, Rudolf, Gärtner.\nSchmidt=Kloz, Wb. Magdalena.\nWurft, Wb. Magd., Speziererin.\nSiegriß=Exert, Rudolf, Gärtner.\nKrauer=Treu, Rud.\nKrauer=Treu, Rud., Part.\nRaillard=Brenner, Peter, sel. Erb.\nSchenk=Hählen, Friedr., Mechaniker.\nSchmid=Ritter, Wb. Soph. Mar.\nMüller=Walkifer, Joh. Gg., Commis.\nThüring, Josef, Zimmermeister.\nWalter=Zurfluh, Ludwig, Gärtner.\nMeyer, Dr. Friedrich, Thierarzt.\nBrand=Mengis, Leonh., Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5100,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1602,
+    "lines": 71,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0704,
+    "mean_line_chars": 21.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p247",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p247.jpg",
+      "bytes": 1261435,
+      "sha256": "c31691dabf98ffbbe2447b8f87e2b742a866db71e7352bfa4d5345a5496d735a",
+      "sha256_of": "original",
+      "working_copy": "1862_p247.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:29+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p209",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p209.jpg",
+    "bytes": 1265903,
+    "sha256": "80d5e014c2c51bd89b0b371b684e4c78be4581829c5023a8e59ac5c522d01ce7",
+    "sha256_of": "original",
+    "working_copy": "1862_p209.jpg"
+  },
+  "text": "144 Sporengasse. — Stadthausgasse.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n11 | VI. | 1608 | zum Gold. | Silbernagel-Scheidenberger, J. J.\n  Silbernagel-Scheidenberger, Joh. Jac., Wirth.\n13 | VI. | 1609 | zum Rebstock. | Stoecklin-Georg, Emanuel.\n  Stoecklin-Georg, Emanuel, Manufac- turwaarenhdlg., Firma J. J. Georg.\n14 | VI. | 1577 | zum Pfauen. | Burckhardt-Kern, Samuel.\n  Burckhardt-Kern, Samuel, Lehrer.\n  Strübin-Roduner, J. Jak., Mercerie- u. Quincailleriewaarenhandlung.\n15 | VI. | 1610 | zur Hirzburg. | Gyßler, Margaretha.\n  Meyer, Ed. u. Comp., Merceriehdlg.\n16 | VI. | 1576 | z. mittlern Pfauen. | ImHof-Forcart, Joh. Jak.\n  ImHof-Forcart, Joh. Jak., Kaufmann und des Raths.\n  ImHof, Hans Jacob, Kaufmann.\n  Firma Melchior ImHof u. Söhne, Lederhandlung.\n\nStadthausgasse.\n\n1 | VI. | 1583 A | städtisch. Baubureau (Brodlaube). | Stadtgemeinde.\n2 | VI. | 1553 | zum Lichtenstein. | Vonder Mühll-Keller, Wb. Marg.\n  Vonder Mühll-Keller, Wb. Margaretha, Rentrere.\n3 | VI. | 1554 | zum Steinhauer. | Christ-Wild, Johannes.\n  Christ-Wild, Johannes, Schuhmacher.\n4 | VI. | 172 C | | Bär-Martin, Rudolf.\n  Bär-Martin, Rudolf, Coiffeur.\n5 | VI. | 1555 | zur obern Bruck. | Hirschmann, Maria Anna.\n  Hirschmann, Maria Anna, Part.\n6 | VI. | 172 B | zum Seufzer. | Stadtgemeinde.\n  Spritzenhaus.\n7 | VI. | 1556 | zur untern Bruck. | Enholz-Sandreuter, Carl.\n  Enholz-Sandreuter, Carl, Dekorations- maler u. Vergolder.\n8 | VI. | 172 a | | Handmann-Mayr, Joh. Jac.\n  Bureau v. Handmann-Mayr, Joh. Jac., Juwelier.\n9 | VI. | 1557 | | Schmidt-Gysin, Wilhelm.\n  Schmidt-Gysin, Wilhelm, Schuhmacher.\n10 | VI. | 172 | zum blauen Brief. | Handmann-Mayr, Joh. Jac.\n  Handmann-Mayr, Joh. Jac., Juwelier.\n11 | VI. | 1558 | zum hohen Pfeiler. | Ostertag-Brunner, Alois.\n  Ostertag-Brunner, Alois, Liseur. Ci- garren- u. Tabakhdlg.\n12 | VI. | 171 | zum Wittenberg. | Haefelinger-Strübin, Jacob.\n  Haefelinger-Strübin, J., Geldwechsler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10260,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1988,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:57:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p209",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p209.jpg",
+      "bytes": 1265903,
+      "sha256": "80d5e014c2c51bd89b0b371b684e4c78be4581829c5023a8e59ac5c522d01ce7",
+      "sha256_of": "original",
+      "working_copy": "1862_p209.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:57:08+00:00"
+  }
+}

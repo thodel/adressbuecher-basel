@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p154",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p154.jpg",
+    "bytes": 1489554,
+    "sha256": "7e48de7e8278507f0ef8aa4614de9f6d7d703868f871c424f6a2431101f61518",
+    "sha256_of": "original",
+    "working_copy": "1862_p154.jpg"
+  },
+  "text": "Marktplatz. — St. Martins-Gäßlein. 89\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n5 VI. 1616 Zunft zu Weinleut. Corporationsgut.\nMaeglin=Strub, Glasfinner u. Buchhalt.\nLevy, Abrah., Manufacturwaarenhndlg.\nSeiler=Hubel, Carl.\nSeiler=Hubel, Carl, Kaufmann.\nFirma Leonh. Seiler, Ellenwaarenhndlg.\nMassini=Seiler, Rudolf, Kaufmann.\n7 VI. 1643 zur Laute. Bäumlin=Osell, Josef.\nBäumlin=Osell, Josef, Victualienhdlg.\n8 VI. 1644 zur Taube. Brüderlin=Schmid, Wb. Ursula.\nBrüderlin=Schmid, Wb. Ursula, Rent.\nBrüderlin=Christmann, Nif. Rud., Kfm.\nFirma Nill. Brüderlin, Ellenw.=Hdlg.\n9 VI. 1729 zum Näpplein. Bäumlin=Osell, Josef.\nWespi=Häfelfinger, Joh. Jak., Zimmfr.\n10 VI. 1730 zur fetten Henne. Hübscher, Joh. Conrad.\nHübscher, Joh. Conrad, Lederhändler.\nDtt=Went, Joh. Jakob, Drehslcr.\n11 VI. 1731 Schermar=Bloch, Anton.\nSchermar=Bloch, Ant., Manufacturwhd.\nMähly=Schermar, Jak., Dr. Phil., Lehrer.\n12 VI. 1732 z. ob. Brunnenfels. Burchhardt=Ründig, Wb. Rosine.\nBurchhardt, Gustav, Kaufmann.\nBureau d. Handwerkerbank.\n13 VI. 1733 z. unt. Brunnenfels. Burchhardt=Ründig, Wb. Rosina.\nBurchhardt=Ründig, Wb. Rosina, Mehl-\nhandlg. v. Burchhardt=Ründig sel. Wb.\n14 VI. 1734 zum Kuns. Hübscher, Joh. Conrad.\nJordan=Jenny, Wb. Cath., Fingeriehdlg.\nHastreuter=Meniger, Magd., Gejchirrh.\nBindschädler=Zuppingcr, Casp., Commis.\n15 VI. 1735 z. kleinen Rinslein. Schneider=Wirz, Wilhelm.\nSchneider=Wirz, Wilhelm, Traiteur.\n16 VI. 1574 zur alten School. Buser=Gerber, Johann.\nBuser=Gerber, Johann, Wirth.\nBucher=Huber, Josef, Schneider.\n17 VI. 1734 A zum Kuns gehörend. Hübscher, Joh. Conrad.\nHastreuter=Meniger, Magd., Gejchirrh.\n18 VI. 1575 zum Pfaunecf. Vogt, J. Gg.\nVogt, J. Gg., Kaufmann.\nSpiegelhalder, Fidel, Commis.\nTritschler=Spiegelhalder, Jos., Commis.\nSpiegelhalder, Eduard, Commis,\nFirma J. G. Vogt u. Comp., Por-\nzellan- und Glashandlung.\nSt. Martins-Gäßlein.\n1 VI. 1603 zum Agtstein. Paravicini, Leonhard.\nSiehe Nro. 3 Sporengasse.\n2 VI. 1607 zum Arm. Riggenbach-Burchhardt, Frih.\nSiehe Nro. 9 Sporengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6938,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2056,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0167,
+    "mean_line_chars": 33.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:40:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p154",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p154.jpg",
+      "bytes": 1489554,
+      "sha256": "7e48de7e8278507f0ef8aa4614de9f6d7d703868f871c424f6a2431101f61518",
+      "sha256_of": "original",
+      "working_copy": "1862_p154.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:40:27+00:00"
+  }
+}

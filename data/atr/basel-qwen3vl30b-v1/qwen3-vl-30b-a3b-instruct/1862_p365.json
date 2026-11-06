@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p365",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p365.jpg",
+    "bytes": 1448033,
+    "sha256": "dffeebbfbead9a505d362180a1bb9ba01ff9b2545c320f0579fed8139d2e7625",
+    "sha256_of": "original",
+    "working_copy": "1862_p365.jpg"
+  },
+  "text": "300\nVerzeichniß der Bürger und Einwohner.\nImHof, Friedrich, Fabrikarbeiter. Nauenstraße 13.\n— =Grob, Friedrich, Buchbinder. St. Leonhards-Stapfelberg 1.\n— =Haas, Heinrich, Fabrikmeister. Kohlenberggasse 22.\n— Hans Bernhard, Part. St. Leonhards-Straße 20.\n— Hans Jacob, Sohn, Kaufmann, Firma Welchior ImHof u. Söhne, Lederhandlung. Sporengasse 16.\n— =Hoch, Andreas, Part., Spalenvorstadt 27.\n— =Lang, Friedrich, Taglöhner. Spalenvorstadt 8.\n— =Märky, Andreas, Bäcker. Spalenvorstadt 27.\n— Melchior, Commis. Spalenvorstadt 27.\n— =Meyer, Johann Martin, Buchhändler. Spalenthorweg 10.\n— =Koschet, Wb. Barbara, Part. St. Alban-Graben 8.\n— Wilhelm, Rentier. Schützengraben 13.\nImhoff-Falkner, Hieron., Kaufmann. Freie Straße 2.\n— =Heitz, Ludwig, Dr. med., Arzt. Rittergasse 16.\n— =Hug, J. J., Zimmermann. Greifengasse 8.\n— =Schuhmacher, Heinrich, Schmied. Steinenthorstraße 10.\n— =Wenck, Wollenwaaren- u. Merceriehandlung. Freie Straße 2.\nImmler-Felber, Nicl. Wilhelm, Schreiner. St. Leonhards-Berg 10.\nIneichen-Gürtler, Joh. Niclaus, Landjäger. Untere Reb-gasse 1.\nJufelt-Huber, Josef, Rutscher. St. Elisabethen-Straße 32.\nIngwiler-Roth, Casp., Fabrikschreiner. Rheingasse 80.\nJocay-Zundt, Eugen, Lehrer. St. Johann-Vorstadt 64.\nJöcker-Rienberger, lrs, Lehrenmann. Riehen-Straße 62.\nJöpgen-Hohler, Wilh., Maler. Heuberg 13.\nJörger-Wicker, Joseph, Taglöhner. Sattelgasse 6.\nJörin-Meyer, Johann, Restaurateur am Centralbahnhof. Gartenstraße 66.\n— Thommen, Friedrich, Lehrenbeständer. St. Jakobs-Straße 8.\nJoos, Anna Sophia, Nätherin. Reb-gasse 42.\n— =Cavin, Franz Josef, Gießer. Schützen-mattstraße 43.\n— Heinrich Friedr., Tabakarbeiter. Untere Rheingasse 19.\nJordan, Adam, Commis. Freie Straße 91.\n— =Jenny, Wb. Cathar., Lingeriehandlung. Gerbergasse 45.\n— Joh. Leonh., Fergcr. Freie Straße 42.\nJordan-Monvillier, Carl David, Kaufmann. Freie Straße 42.\n— =Tschopp, F. F., Dessinateur. Freie Straße 47.\n— =Weiersmüller, Conrad, Zollbeamter. Bachlettenstraße 19.\nJosenhans-Gek, Friedr. Josef, Inspektor des Missionshauses. Missionsstraße 21.\nJost-Meyer, Andreas, Schreiner. Klingelbergstraße 17.\nJoucorand-Maurer, Etienne, Appretcur. Steinenvorstadt 44.\nJrion-Jrion, Joh. Heinrich, Gerbergeselle. Rheingasse 39.\nJsch-Müller, Benedict, Taglöhners. Rappolt hof 1.\nJselin, Adele, Rentiere. Hammerstraße 52 u. St. Jakobs-Straße 14.\n— =Bischoff, Isaak, Kaufm. Rittergasse 22.\n— =Burchhardt, Isaak, Kaufmann. Rittergasse 22.\n— =Chriff, Rudolf, Tuchhändler. St. Alban-Vorstadt 69.\n— =de Bary, Rudolf, Part. St. Johann-Vorstadt 6.\n— Eva, Laudwirthin. Mostackerstraße 78.\n— Josef, Landwirth. Mostackerstraße 78.\n— =Jossé, Wb. Charlotte, Part. Aeischen-vorstadt 75.\n— =Jselin, Abraham, Hypothekar. St. Peters-Platz 14.\n— =LaRoche, Daniel Ludwig, Kaufmann. Aeichengraben 39.\n— =La-Roche, Joh. Jak., Rentier. Todten-tanz 17.\n— =Paffavant, Heinr., Dr. Med., Blumenrain 34.\n— =Roulet, Wb. Emilie, Kent. St. Alban-Graben 5.\n— Rud. de Rud., Part. St. Johann-Vorstadt 6.\n— =Rüttimeyer, Friedr., Gymnasiallehrer. Spalenberg 63.\n— Therefia, Landwirthin. Mostackerstr. 78.\n— Wilh., Tuchhändler. St. Alban-Vorstadt 71.\nJsenhut-Braun, Eduard, Gastwirth z. gold. Kopf. Schiffslände 3.\n— =Straker, Joh.Dan., Koch. Rheingasse 26.\nJäler, Joh. Rud., Blattmacher. Hammerstraße 32.\n— =Steffan, Wb. Barbara, Part. Mattweg 9.\nJslinger-Moser, Joh., Gärtner. Klosterberg 13.\nJten-Fäs, Wb. Franziska, Nätherin. Streitgasse 14.\nJtschner-Mahler, Heinr., Kaufm. Barfüsserplatz 15.\nJucker-Müller, Benedict, Organist. Bäumleingasse 12.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9004,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3499,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:09:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p365",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p365.jpg",
+      "bytes": 1448033,
+      "sha256": "dffeebbfbead9a505d362180a1bb9ba01ff9b2545c320f0579fed8139d2e7625",
+      "sha256_of": "original",
+      "working_copy": "1862_p365.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:44+00:00"
+  }
+}

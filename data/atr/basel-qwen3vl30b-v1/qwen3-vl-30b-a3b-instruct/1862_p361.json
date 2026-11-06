@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p361",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p361.jpg",
+    "bytes": 1476782,
+    "sha256": "21ae4249d7b73cb721c0875e141a40050801beb9dffb0475b423913e6d6f47e3",
+    "sha256_of": "original",
+    "working_copy": "1862_p361.jpg"
+  },
+  "text": "296 Verzeichniß der Bürger und Einwohner.\nHoldenecker=Meyer, Frz. Joh., Gasner. Heuberg 38.\nHoler=Hoch, Anton, Fabrikarbeiter. Hutgasse 3.\n— =Meyer, Jof., Magazinier. Spiegelgasse 8.\n— =Meyer, Xaver, Fabrikarbeiter. St. Leonhards= Berg 16.\nHolinger, Anna, Corsetmacherin. Hutgasse 19.\n— Anna, Wb. Part. Hutgasse 19.\n— Jakob, Kupferschmied. Rebgasse 5.\n— =Müller, Heinrich, Postconducteur. Barfüsserplatz 34.\n— Samuel, Kaufmann. Eisengasse 11.\nHoll, Dietrich, Kaufmann. Kohlenberg 27.\nHolliger, Anna, Posamenterin. Webergasse 31.\n— =Weibel, Jakob, Tabakmüller. Rümelinbachweg 18.\nHollinger=Greiner, Friedrich, Wirth. Spitalstraße 13.\n— =Grimm, Friedrich, Wirth. Gemsberg 1.\n— =Mösch, Jakob, Lehmann. Vogelsangweg 13.\nHolweg=Weiß, Wb. Anna Maria, Modiste. Freie Straße 80.\nHolzach=Uehrenbolg, Joh. Bernhard, Bannwart. Kiehen=Strasse 15.\n— =Ed, Friedr., Ziegler. Gellertstraße 14.\n— =Honegger, Eman. Friedr., Seidenagent. St. Peters=Gasse 34.\n— =Laubheim, Eucharius, Lohndiener. Spalenberg 16.\n— =Laupper, Krankenwärterin. Spalenberg 24.\n— =Lippe, Franz, Kaufmann. Wallstraße 17.\n— =Vörracher, Eman., Müller. Greifengasse 35.\n— =Konuz, Wb. Margaretha, Part. St. Peters=Gasse 28.\n— =Schweifert, Lucas, Almofendieners. Missionsstraße 46.\n— =Werdenberg, Wb. Anna Magdal., Part. Rheingasse 78.\nHolzbacher=Marian, Wb. Maria, Rentiere. Kaufhausgasse 1.\nHolzer=Breithaupt, Posamenter. St. Alban=Vorstadt 62.\n— =Kunz, Andreas, Posamenter. Bahnhofstraße 45.\n— =Bogt, Jakob, Posamenter. Spalenvorstadt 27.\nHolzhalb=Wolf, David, Part. Neue Vorstadt 15.\nHolzmüller, Adolf, Part. Kiehen=Strasse 23.\nHolzreuter=Keller, Eugen, Seidenfürbergehilfe. Greifengasse 33.\nHolzwarth=Schweifert, Jaf., Schreiner. Sterrengüßlein 38.\nHoner, Franziska, Matrazen= u. Bettmacherin. Schneidergasse 28.\nHonegger=Baumgartner, Carl, Buchbinder. Greifengasse 37.\n— u. Leuthold, Buchbinderei. Greifengasse 37.\n— =Schifferle, Johannes, Maurer. Rheingasse 19.\nHonegger, Selina, Corfetiere. Rheingasse 9.\nHonefta=Weber, Georg, Commis. Spalenthorweg 6.\nHopf=Heimberg, F. F., Auffseher. St. Alban=thorgraben 72.\nHoppe=Heuser, Ignaz, Prof. d. Medizin und Chirurgie. Hammerstraße 69.\nHorandt=Sprenger, Jaf., Posamenter. Freie Straße 60.\n— =Wohnlich, Martin, Bandfabrikant. Reb-gasse 17.\nHorat=Zeller, Caspar, Detailhändler. Gerbergasse 3.\nHorlacher u. Hiltbrand, Tabak- u. Spezereihandlung. Eisengasse 9.\n— Jakob, Gärtner. Gundoldingen Straße 21.\n— =Reindle, Abraham, Courtier. Johanniterstraße 15.\nHorner, Joh. Heinrich, Schneider. Schneidergasse 14.\n— Joh. Nifl., Stempelbeamter. St. Elisabethen=Strasse 7.\n— =Mechel, Dan., Bäcker. Aeschenvorft. 40.\n— =Stehelin, Friedr., Kunstmaler. St. Elisabethen=Strasse 7.\nHosch, Albert, Agent. Heuberg 26.\n— Alfred, Kaufm. St. Johann=Vorstadt 25.\n— =Breitenstein, Ed., Spengler. Hutgasse 18.\n— =Buxtorf, Salomea, Part. Aeschenvorstadt 75.\n— Eduard, Baukassier. Aeschenvorstadt 45.\n— =Frey, Lucas, Schuhmacher. St. Johann=Vorstadt 59.\n— =Mengis, Hieron., Senfal. St. Johann=Vorstadt 25.\n— Niflaus, Lithograph. Nadelberg 33.\n— *Peter, Isaac Jakob, Adjunkt bei der Eidg. Zoll=Direction. Barfüsserplatz 27.\n— =Roth, Wb. Rosalie, Woll- und Stickwaarengeschäft. Gerbergasse 49.\n— Schwestern, Modistes. Barfüsserplatz 27.\n— *Spörlin, Joh., Schneider. Rheinsprung 2.\n— Susanna, Strickerin. Sattelgasse 6.\n— =Tschientschy, Eduard, Eisenbahnbeamter. Schlüsselberg 15.\n— Ursula, Porzellanmalerin. Heuberg 26.\nHoslin=Buser, Josef, Zuschneider. Gerbergässlein 26.\nHottenjen=Dunkel, Friedrich August, Gerber. Schneidergasse 14.\n— =Wehrle, Carl Wilh. Streitgasse 1.\nHottinger=Bolliger, Wb. Anna Maria, Zettlerin. Greifengasse 28.\n— =Ehensperger, Barbara, Kostgeberin. St. Peters=Berg 42.\n— =Haurin, Rudolf, Taglöhner. St. Peters=Berg 1.\n— =Knöchel, Elias, Straßenpflasterer. Greifengasse 31.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9699,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3772,
+    "lines": 75,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:09:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p361",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p361.jpg",
+      "bytes": 1476782,
+      "sha256": "21ae4249d7b73cb721c0875e141a40050801beb9dffb0475b423913e6d6f47e3",
+      "sha256_of": "original",
+      "working_copy": "1862_p361.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:08+00:00"
+  }
+}

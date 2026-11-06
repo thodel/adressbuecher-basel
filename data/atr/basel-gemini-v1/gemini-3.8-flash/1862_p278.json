@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p278",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p278.jpg",
+    "bytes": 1681526,
+    "sha256": "515b6108e98909d6680660a2a0bbd700b5ca76bdbf1f940c07fa29d24864c953",
+    "sha256_of": "original",
+    "working_copy": "1862_p278.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 213\n\nCardinal, z. hintern. Pfluggäßlein Nr. 14.\nChristoffel, z. großen. Schnabelgäßlein Nr. 17.\nChristoffel, z. großen. Imbergäßlein Nr. 31.\nChristoffel, z. kleinen. Gerbergasse Nr. 41.\nSt. Clarabad. St. Clarastraße Nr. 19.\nClarabierbrauerei. St. Clarastraße Nr. 2.\nSt. Clarahof. Rebgasse Nr. 1.\nSt. Clarakirche. St. Claraplatz Nr. 5.\nSt. Claramühle, z. Rappoltshof Nr. 11.\nCollegium u. Anatomie. Rheinsprung Nr. 7.\nColmar, Groß-. St. Alban-Graben Nr. 8.\nConstanz, z. großen. Pfluggäßlein Nr. 3.\nDäublein, z. St. Alban-Vorstadt Nr. 4.\nDäublin, z. St. Leonhards-Graben Nr. 55.\nDäublin, z. Heuberg Nr. 38.\nDavid, z. König. St. Petersgraben Nr. 24.\nDelphin, z. Rittergasse Nr. 10.\nDeutschordenskapelle. Rittergasse Nr. 31.\nDiakonatshaus. St. Leonhardskirchplatz Nr. 2.\nDiakonatswohnung. St. Leonhardskirchplatz\n  Nr. 5.\nDocketenkänsterli. Eisengasse Nr. 24.\nDoktorgarten, ehem., Anstalt f. blödsinn. Kinder\n  u. Armen-Herberge. St. Petersgraben Nr. 6.\nDolder, z. Münzgäßlein Nr. 14.\nDolder, z. Spalenberg Nr. 11.\nDolder, z. Rebgasse Nr. 15.\nDolder, z. hintern. Sattelgasse Nr. 18.\nDolder, z. hohen. St. Alban-Vorstadt Nr. 35.\nDolder, z. vordern. Sattelgasse Nr. 19.\nDomhof. Münsterplatz Nr. 12.\nDomprobstei. Rittergasse Nr. 18.\nDomprobstey, z. St. Alban-Graben Nr. 7.\nDrachen, z. Aeschenvorstadt Nr. 22.\nDrachen, z. grünen. Freie Straße Nr. 37.\nDrachenfeld, z. St. Petersgasse Nr. 9.\nDrachenmühle, z. Klingenthal Nr. 1.\nDrathzug. St. Claragraben Nr. 11.\nDreispitz, z. Münchensteiner Straße Nr. 22.\nDroschkenanstalt. Elsässerstraße Nr. 4.\nDouane, z. Barfüßergasse Nr. 14.\nDürmenach, Schloß. Spalenberg Nr. 34.\nDupf, z. Rebgasse Nr. 45.\nDupf, z. Riehenthorstraße Nr. 23.\nDuttli, z. Duttliweg Nr. 6.\nEbenEzer, z. Grenzacher Straße Nr. 73.\nEber, z. St. Johann-Vorstadt Nr. 37.\nEck, z. grünen. Barfüßerplatz Nr. 24.\nEck, z. neuen. St. Leonhardsgraben Nr. 3.\nEck, z. scharfen. Unterer Heuberg Nr. 3.\nEck, z. scharfen. Spalenvorstadt Nr. 44.\nEck, z. schönen. Rheingasse Nr. 69.\nEck, z. weißen. Barfüßerplatz Nr. 25.\nEckweiher, z. Aeschenvorstadt Nr. 47.\nEfringen, z. Schneidergasse Nr. 7.\nEfringen, z. kleinen. Schneidergasse Nr. 18.\nEfringen, z. kleinen. St. Andreasplatz Nr. 18.\nEglin, z. goldenen. Gerbergasse Nr. 27.\nEgringerhof. Untere Rebgasse Nr. 22.\nEgringerhof. Untere Rebgasse Nr. 24.\n[spalte 2]\nEhrenburg, z. St. Alban-Vorstadt Nr. 63.\nEhrenfels, z. Schlüsselberg Nr. 4.\nEhrenfels, z. Freie Straße Nr. 29.\nEhrenfels, z. Freie Straße Nr. 84.\nEhrenfelserhof. St. Martinsgasse Nr. 12.\nEhrenstein, z. Münsterberg Nr. 12.\nEichbaum, z. Steinenvorstadt Nr. 7.\nEichbaum, z. Imbergäßlein Nr. 27.\nEichbaum, z. Freie Straße Nr. 109.\nEichbäumlein, z. Steinenvorstadt Nr. 8.\nEiche, z. Schneidergasse Nr. 21.\nEiche, z. Mühlenberg Nr. 3.\nEichhorn, z. Freie Straße Nr. 78.\nEichhorn, z. Greifengasse Nr. 25.\nEichhorn, z. hintern. Sattelgasse Nr. 15.\nEichhorn, z. mittlern. Sattelgasse Nr. 16.\nEichhorn, z. rothen. Greifengasse Nr. 23.\nEichhörnchen, z. St. Petersplatz Nr. 19.\nEichhörnlein, z. Freie Straße Nr. 76.\nEichhörnlein, z. Schneidergasse Nr. 30.\nEisenburg, z. St. Martinsgasse Nr. 16.\nEisenhut, z. Freie Straße Nr. 39.\nEisenhut, z. untern. Pfluggäßlein Nr. 9.\nElephant, z. großen. Freie Straße Nr. 65.\nElephanten, z. kleinen. Freie Straße Nr. 67.\nSt.Elisabethenkirche. St.Elisabethenstr.Nr.10.\nEll, z., und d. 3 Bären. Gerbergasse Nr. 57.\nEngel, Gasthof z. Spalenvorstadt Nr. 3.\nEngel, z. Rittergasse Nr. 23.\nEngel, z. Marktplatz Nr. 6.\nEngel, z. grünen. Klosterberg Nr. 31.\nEngelberg, z. Heuberg Nr. 18.\nEngelberg, z. St. Leonhards-Graben Nr. 35.\nEngelhof, z. Nadelberg Nr. 4.\nEngelhof, kleiner. Stiftsgasse Nr. 1.\nEngelhof, z. kleinen. Stiftsgasse Nr. 3.\nEngelkopf, z. Heuberg Nr. 50.\nEngelsburg, z. Theaterstraße Nr. 14.\nEngelsburg, z. Theaterstraße Nr. 16.\nEngelsburg, z. Nadelberg Nr. 34.\nEngelsgruß, z. Spalenvorstadt Nr. 43.\nEnte, z. Spalenberg Nr. 2.\nEnte, Hinterhaus z. Imbergäßlein Nr. 14.\nEptingerhof. Rittergasse Nr. 12.\nEptingerhof. St. Martinsgasse Nr. 2.\nEptingerhof, z.gehörend. Bäumleingasse Nr.20.\nErker, z. Spalenvorstadt Nr. 6.\nErlacherhof. St. Johann-Vorstadt Nr. 17.\nErlacherhofeck, hinterer. Spitalstraße Nr. 14.\nErmitage, z. Roßhofgasse Nr. 7.\nErnauerhof, z. St. Alban-Graben Nr. 4.\nEselmühle, Blau-. Teichgäßlein Nr. 3.\nEselmühle, Schwarz-. Ochsengasse Nr. 14.\nExtractfabrik. Bahnhofstraße Nr. 3.\nFälklein, z., u. z. Grünstein. Freie Straße\n  Nr. 93.\nFälklein, z. Stapfelberg Nr. 2.\nFälklein, z. St. Alban-Vorstadt Nr. 92.\nFälklein, z. St. Alban-Vorstadt Nr. 90.\nFälklein, z. Stapfelberg Nr. 4.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 17292,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4558,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:07:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p278",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p278.jpg",
+      "bytes": 1681526,
+      "sha256": "515b6108e98909d6680660a2a0bbd700b5ca76bdbf1f940c07fa29d24864c953",
+      "sha256_of": "original",
+      "working_copy": "1862_p278.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:07:38+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p404",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p404.jpg",
+    "bytes": 1613618,
+    "sha256": "970ddeb25b317de093fb2435dac255f9750eb3998276288452ae371cbad167b1",
+    "sha256_of": "original",
+    "working_copy": "1862_p404.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 339\n\nSchneider, Elise u. Hermine, Schneiderinnen.\n  Streitgasse 1.\n— -Fäsch, Friedrich, Schreiner. Schneider-\n  gasse 30.\n— -Fausel, Jak. Isaac, Piqueur. Utengasse 25.\n— Felix, Buchhandlung, Antiquariat und\n  Buchdruckerei. Bäumleingasse 10.\n— -Figi, Conrad, Fabrikarbeiter. Weiße\n  Gasse 6.\n— -Frey, Wb. Elisab., Part. Aeschengraben 17.\n— -Frey, Heinr., Part. Freie Straße 84.\n— -Furter, Samuel, Weinschenk u. Schuh-\n  macher. Barfüßerplatz 12.\n— Geschw. Julie u. Pauline, Part. Au-\n  straße 24.\n— -Grisanti, Rudolf, Uhrmacher. Freie\n  Straße 1.\n— -Gyßler, Joh. Jak., Ferger. Spalen-\n  berg 59.\n— -Hächler, Carl, Maurerparlier. Riehen-\n  Straße 7.\n— -Heubi, Rudolf, Schreiner. St. Clara-\n  hofweg 15.\n— -Hochuli, Sam., Posamenter. Gellert-\n  straße 52.\n— Jak. Friedr., Küfer. Unt. Rheingasse 11.\n— -Jenny, Wb., Zettlerin. Steinenvorst. 7.\n— Joh. Adam, Küfer. Barfüßerplatz 12.\n— Joh., Taglöhner. Nonnenweg 39.\n— Joh. Jak., Schreiner. Schnabelgäßl. 10.\n— Jgfr. Judith, Part. St. Peters-Platz 5.\n— -Jung, Martin, Bannwart. Schützen-\n  mattstraße 43.\n— -Kienle, Joh. Jak., Küfer. Unt. Rhein-\n  gasse 11.\n— -Klett, Casp., Maurergeselle. Heuberg 40.\n— -Krebs, Wilh., Commis. Im Davids-\n  boden 10.\n— -Lindenmeyer, Eduard, Quincaillerie-,\n  Spielwaaren-, Blumen- u. Strohhut-\n  handlung. Sporengasse 8.\n— -Lürder, Lorenz, Schiffm. Rheingasse 26.\n— Magdalena, Taglöhnerin. Webergaſſe 24.\n— -Meyer, Daniel, Major, Oberinstructor.\n  Steinenberg 9.\n— -Meyer, Wb. Maria, Zettlerin. Kronen-\n  gasse 9.\n— -Meyer, Joh., Spedter. Trillengäßl. 1.\n— -Meyri, Wb. Rosina, Kostgeberin. Streit-\n  gasse 9.\n— -Müller, Jak., Wäscher. Klingenthal 19.\n— -Oser, Friedrich, Metzger. Steinenvor-\n  stadt 23.\n— -Oswald, Seb. Jerem., Fabrikarbeiter.\n  Malzgasse 12.\n— -Plattner, Wb. Louise, Part. Steinen-\n  thorstraße 16.\n— -Räser, Jak., Kaufhausarbeiter. Steinen-\n  thorstraße 16.\n— -Rieder, Dan., Posamenter. Schafgäßl. 6.\n\n[spalte 2]\nSchneider, Salomea, Part. Rebgasse 22.\n— -Scherb, Dan., Gutsbesitzer. Im Davids-\n  boden 10.\n— -Schläfly, Frz., Lohnkutscher. Rümelins-\n  platz 17.\n— -Schlag, Joh., Lehrer. Mostackerstr. 62.\n— -Schmidt, Joh., Ausläufer. St. Peters-\n  Gasse 5.\n— -Schneider, Wb. Verena, Part. Nauen-\n  straße 6.\n— -Schweighauser, Martin, Gutsbesitzer.\n  Burgfelder-Straße 16.\n— -Schwenk, Cath., Kleiderputzerin. Schna-\n  belgäßlein 1.\n— -Simmler, Wb. Anna, Part. St. Peters-\n  Graben 48.\n— -Studer, Benedikt, Ziegler. Bachletten-\n  straße 11.\n— -Thommen, Joh. Jak., Schreiner. Tril-\n  lengäßlein 1.\n— -Vuille, Friedrich, Commis. Spalen-\n  thorweg 4.\n— -Wagner, Martin, Wirth. Schnabel-\n  gäßlein 2.\n— -Wagner, Martin, Part. Gemsberg 1.\n— -Weidle, Jonas, Seidenfärbergeselle. Schaf-\n  gäßlein 2.\n— -Weihrauch, Gust., Präparator. Schützen-\n  mattstraße 33.\n— -Weiß, Jakob, Fabrikarbeiter. Spalen-\n  berg 17.\n— -Wiesner, Wb. Elisabeth, Part. Burg-\n  felder Straße 12.\n— -Wirz, Wilh., Traiteur. Marktplatz 15.\n— -Wirz, Wb. Barbara. Spalenvorst. 32.\n— -Wohnlich, Joh. Gottfried, Taglöhner.\n  Unterer Heuberg 18.\n— -Würgler, Ludwig, Ferger. Malzgasse 15.\n— -Wüst, Joh., Wascher. Riehenteichweg 18.\nSchneiter-Wiesner, Wb. Barbara, Tagblatt-\n  trägerin. Sattelgasse 9.\nSchnell, August, Sohn, Commis. Theater-\n  straße 11.\n— -Burckhardt, Wb. Maria Salomea. St.\n  Leonhards-Graben 50.\n— -Christ, Ulrich, Part. Theaterstraße 11.\n— -Riggenbach, Joh., Civilgerichtspräsident,\n  J. U. D. u. Prof. Kohlenberg 13.\nSchnetzler-Bucher, Joh. Balth., Hausknecht.\n  Aeschenvorstadt 27.\n— -Wagner, Balth., Kaufhausarbeiter. Bei\n  der Wiesenschanze 31.\nSchnewlin, Heinr., Telegraphist. Nadelberg 45.\n— -Willin, Carl, Kaufm. Greifengasse 38.\n— u. Comp., Commission, Spedition u. Spe-\n  zereihandlung. Greifengasse 38.\nSchoch, Erhardt, Eisenhandlg. Gerbergasse 12.\n  Firma Erhardt u. Jakob Schoch.\nSchöck, Carolina Friederika, Schneiderin. Un-\n  tere Rheingasse 11.\n\n22*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12711,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3873,
+    "lines": 123,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0407,
+    "mean_line_chars": 29.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:36:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p404",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p404.jpg",
+      "bytes": 1613618,
+      "sha256": "970ddeb25b317de093fb2435dac255f9750eb3998276288452ae371cbad167b1",
+      "sha256_of": "original",
+      "working_copy": "1862_p404.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:36:58+00:00"
+  }
+}

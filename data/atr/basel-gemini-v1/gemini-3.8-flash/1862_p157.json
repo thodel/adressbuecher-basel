@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p157",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p157.jpg",
+    "bytes": 1338842,
+    "sha256": "24df662bedd19279ebcd9823e0fa34ff333fc7a9b383e06a3b3d5fa8cc01f780",
+    "sha256_of": "original",
+    "working_copy": "1862_p157.jpg"
+  },
+  "text": "92 Missionsstraße.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n20 | I. | 95 | | Fäsch-Binet, Joh. von Joh.\n  Fäsch-Binet, Joh. von Joh., Rentier.\n21 | II. | 110 | Missionshaus. | Evangelische Missionsgesellschaft.\n  Josenhans-Geß, Fried. Jos., Inspector.\n  Braun-Gwinner, Theod., Bureauchef.\n  Geß-Eitel, Fried. Wolfgang, Pfarrer.\n  Peter-LaRoche, Carl, Pfarrer.\n  Kolb-Lauxmann, Christ., Hausvater.\n  Zaremba, Felician, Missionsprediger.\n  Ziegler, Jakob Friedr., Lehrer.\n  Dierlamm, Gottlob, Lehrer.\n  Schwarz, Gottlob, Lehrer.\n  Stolz, Caspar, Commis.\n  Hager, Beata, Hausmutter.\n22 | I. | 94 | | Preiswerk-Hunziker, Emanuel.\n  Preiswerk-Hunziker, Emanuel, Kfm.\n23 | II. | 112 | | Burckhardt-ImHof, Wb. Susanna.\n24 | I. | 93 | | Sandoz-Luya, Carl Aug.\n  Sandoz-Luya, Carl Aug., Kaufmann.\n26 | I. | 92 | | Sandoz-Luya, Carl Aug.\n  Sieber-Sulger, Wilhelm, Commis.\n27 | II. | 113 | | Preiswerk-Burckhardt, Eduard.\n  Preiswerk-Burckhardt, Eduard, Kfm.\n29 | II. | 114 | | Merian-Reber, Johannes.\n30 | I. | 91 | | Schilling, Rudolf.\n31 | II. | 115 | | Burckhardt-VonderMühll, Wb. A. Catharina.\n32 | I. | 90 | | Schilling, Rudolf.\n34 | I. | 89 | | Linder-Steinegger, Joh. Jac.\n  Weiß-Schmid, Friedr., Gärtner.\n35 | II. | 116 | | Staehelin-Stückelberger, Peter.\n  Staehelin-Stückelberger, Pet., Pfarrer.\n36 | I. | 88 | | Linder-Steinegger, Joh. Jac.\n  Linder-Steinegger, Joh. Jac., Bandfabr.\n  Firma J. J. Linder.\n37 | II. | 117 | | Cruffaire-Tollmann, Carl.\n  Cruffaire-Tollmann, Carl, Handelsm.\n39 | II. | 118 | | Ecklin-Holzach, Theodor.\n  Ecklin-Holzach, Theodor, Baumeister.\n  Uebelin-Stähelin, Wb. Mathilde, Rent.\n  Anstein, Rudolf, Spitalpfarrer.\n  Burckhardt, Johannes, Commis.\n41 | II. | 118 A | | Ecklin-Holzach, Theodor.\n43 | II. | 119 | | Ecklin-Holzach, Theodor.\n  Ecklin-Knutty, Gottfried Aug., Postbeam.\n  Knutty, Balth. Friedr., Part.\n44 | I. | 85 | | Trüb, Johannes.\n  Trüb-Greither, Verena Kunig, Gärtner.\n  Trüb-Nußbaumer, Anna Mar., Handelsgärtnerin.\n  Siehe Nr. 33 mittlere Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8563,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2059,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p157",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p157.jpg",
+      "bytes": 1338842,
+      "sha256": "24df662bedd19279ebcd9823e0fa34ff333fc7a9b383e06a3b3d5fa8cc01f780",
+      "sha256_of": "original",
+      "working_copy": "1862_p157.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:10+00:00"
+  }
+}

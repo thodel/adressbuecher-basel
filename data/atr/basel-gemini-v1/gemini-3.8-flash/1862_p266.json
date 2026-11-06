@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p266",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p266.jpg",
+    "bytes": 1424129,
+    "sha256": "c1703d55ad8f47458b82a23b2c61931e25996c3113000a2711598f8dd4ac963b",
+    "sha256_of": "original",
+    "working_copy": "1862_p266.jpg"
+  },
+  "text": "Riehenteichweg. — Riehenthorstraße. | 201\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nRiehenteichweg.\n12 | VII. | 34 D | | Bollinger-Scheffmacher, Christof.\n  Bollinger-Scheffmacher, Christ., Bein-\n  knopfmacher.\n  Bollinger, Carl Friedr., Seifensieder.\n14 | VII. | 34 C | | Bollinger-Scheffmacher, Christof.\n16 | VII. | 34 A | | Studer-Wyß, Rud.\n  Studer-Wyß, Rud., Seidenfärber.\n18 | VII. | 34 | | Gaß, Johannes.\n  Lautenschlager, Jac., Holz- u. Kohlenhdlg.\n22 | VII. | 38 | | Lützelmann, Joh. Jac.\n  Lützelmann, Joh. Jac.\n  Chemisches Laboratorium.\n24 | VII. | 34 E i | | Mieg-Assal, Theophil.\n26 | VII. | 34 E | | Mieg-Assal, Theophil.\n  Mieg-Assal, Theophil, Seidenfärber.\n28 | VII. | 39 n | | Oswald-Hindermann, Mathias.\n32 | VII. | 39 o | | Oswald-Hindermann, Mathias.\n36 | VII. | 39 B a | | VonderMühll-Vischer, Friedrich.\n38 | VII. | 39 B | | VonderMühll-Vischer, Friedrich.\n40 | VII. | 39 B b c | | VonderMühll-Vischer, Friedrich.\n42 | VII. | 39 B d c | | VonderMühll-Vischer, Friedrich.\n\nRiehenthorstraße.\n2 | VIII. | 114 | zur Karthaus. | Waisenhausverwaltung.\n  Maeglin-Pfister, Jac., Gärtner.\n  Dreyer-Probst, Martin, Schiffmann.\n3 | VIII. | 112 | | Peter-Naeser, Gottfried.\n  Peter-Naeser, Gottfr., Magazin-Arb.\n4 | | | |\n6 | VIII. | | Waisenhaus. | Waisenhausverwaltung.\n8 | | | |\n5 | VIII. | 112 C | Katholisches Mäd- | Katholische Gemeinde.\n  chenschulhaus. | Schaedele, Franziska, Lehrerin.\n  Spitz, Victoria, „\n  Friedrich, Rosina, „\n  Martin, Mar. Adelheid, „\n  Surgand, Maria Eugenie, Lehrerin.\n7 | VIII. | 111 | | Salade, Friedr. Anton.\n  Salade-Rothenberger, Fr. Ant., Schrei-\n  ner u. Holzhändler.\n  Deck, Maria, Modiste.\n  Wirz-Wirz, Carl, Blattmacher.\n9 | VIII. | 117 | Hirzburg. | ImHof-Forcart, Joh. Jac.\n  Thommen, Joh. Jac., Schneider.\n  Städele-Kaiser, J. Rud., Steinmetz.\n10 | VIII. | 115 | Spritzenhaus. | Stadtgemeinde.\n11 | VIII. | 118 | Rebhaus. | Comité d. theologischen Pensionats.\n  Preiswerk-Linder, Eml., Pfar., Hausvat.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8721,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2024,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:05:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p266",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p266.jpg",
+      "bytes": 1424129,
+      "sha256": "c1703d55ad8f47458b82a23b2c61931e25996c3113000a2711598f8dd4ac963b",
+      "sha256_of": "original",
+      "working_copy": "1862_p266.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:31+00:00"
+  }
+}

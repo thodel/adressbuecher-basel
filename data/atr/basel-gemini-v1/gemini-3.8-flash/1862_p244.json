@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p244",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p244.jpg",
+    "bytes": 1427124,
+    "sha256": "6d7b30e365ff162fd821835f9a2fd3ac024f476b7503c6070ec9b0b98d25a083",
+    "sha256_of": "original",
+    "working_copy": "1862_p244.jpg"
+  },
+  "text": "Herrenmattweg. — Horburgstraße. 179\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n24 | VIII. | 45 B | | Oelhafen, Saml. Jakob.\n  Müller-Keller, Urs, Büchsenmacher.\n26 | VIII. | 45 A | | Oelhafen, Saml. Jakob.\n  Weihrauch, Geschwister, Gärtner.\n  Müller-Stierlin, Balth., Schlosser.\n  Schmid-Hilzin, Felician, Gärtner.\n28 | VIII. | 46 | | Vinz-Eichacker, Samuel.\n  Vinz-Eichacker, Samuel, Gärtner.\n\nHorburgstraße.\n1 | VII. | 53 | z. den drei Rosen. | Zwilchenbart-Thompson, Rudolf.\n  Zellweger-Ryhiner, Ulrich, Banquier.\n3 | VII. | 53 B | | Zwilchenbart-Thompson, Rudolf.\n  Geyger-Schmocker, Mathias, Gärtner.\n4 | VII. | 61 A | | Emmenegger-Jecker, Josef.\n6 | | | |\n  Emmenegger-Jecker, Josef, Oekonom.\n  Schorer, Agnes, Part.\n  Lang, Angelika, Part.\n12 | VII. | 61 | | Rauch-Gubler, Georg.\n18 | VII. | 62 | zur Horburg. | Heitz-Baumann, Gustav.\n  Heitz-Baumann, Gustav, Kunstgärtner.\n20 | VII. | 62 B | | Kiener-Tschopp, Hch. Rudolf.\n  Kiener-Tschopp, Hch. Rud., Landwirth.\n  Schmidlin-Baumann, Wilh., Zollbeamt.\n  Frizon-Gésirée, Hubertine, Part.\n24 | VII. | 62 B d | | Kiener-Tschopp, Hch. Rudolf.\n25 | VII. | 63 D | | Thürkauf-Bubendorf, Peter.\n  Thürkauf-Bubendorf, Peter, Wirth u. Steinmetz.\n26 | VII. | 74 A y | Bahnwarthäuschen. | Großh. bad. Eisenbahnverwaltung.\n  Bromberger-Beau, Paul, Bahnwart.\n27 | VII. | 63 K | | Ritter, Joh. Bapt.\n31 | VII. | 63 G | | Michaud-Tschopp, Philipp.\n  Michaud-Tschopp, Philipp, Marbrier u. Detailhandel.\n  Bohny-Holzach, Wb. Margaretha, Part.\n  Munzinger-Steffen, Wb. Maria Marg., Particularin.\n35 | VII. | 63 H | | Meyer-Ackermann, Gerhard.\n  Meyer-Ackermann, Gerhard, Sandhändl.\n39 | VII. | 63 F | zur Batterie. | Rebsamen-Striha, Hironimus.\n  Rebsamen-Striha, Hieronimus, Desti-nateur und Wirth.\n45 | VII. | 63 E | | Roth-Walz, Friedrich.\n  Roth-Walz, Friedrich, Seifensieder.\n  Pelletier, Carl, Spengler.\n49 | VII. | 63 B | Bannwartwohnung | Stadtgemeinde.\n  Walter-Roth, Joh. Georg, Wiesen-bannwart.\n\n12*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 18051,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2013,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:02:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p244",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p244.jpg",
+      "bytes": 1427124,
+      "sha256": "6d7b30e365ff162fd821835f9a2fd3ac024f476b7503c6070ec9b0b98d25a083",
+      "sha256_of": "original",
+      "working_copy": "1862_p244.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:20+00:00"
+  }
+}

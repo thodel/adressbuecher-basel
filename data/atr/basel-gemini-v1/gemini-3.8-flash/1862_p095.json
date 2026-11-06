@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p095",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p095.jpg",
+    "bytes": 1284282,
+    "sha256": "c6f30c57a64d0cb5dac8fd800d905045b26f84f7b256ba85d569e0e22d4f742c",
+    "sha256_of": "original",
+    "working_copy": "1862_p095.jpg"
+  },
+  "text": "30 Blumenrain. — Breite Straße.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n24 | I. | 103 | Stadt Laufenburg. | Brenner-Bähr, August.\n  Brenner-Bähr, August, Kaufmann. (Firma: Brenner-Fäsch.)\n25 | I. | 96 | Steinbrunnen. | Deck-Spichti, Melchior.\n  Deck-Spichti, Melchior.\n  Massini, Giovanni, Telegraphist.\n26 | I. | 102 | | Flick, Rud. sel. Erben.\n  Flick-Schmid, Wb. Theresia, Kostgeberin.\n  Bitterlin-Bolly, Isaac, Feuerschau-Adjkt.\n27 | I. | 93 | zum Rechberg. | Iselin-Passavant, Heinrich, u. Jgfr. Henriette Passavant.\n  (gehört zu Nro. 34. Seidenhof.)\n28 | I. | 99 | zum Sausen. | Wick, Emil.\n  Wick, Emil, Particular.\n  Photographie von Franz Xaver Herzog.\n29 | I. | | S. Joh. Schwibbog. | Stadtgemeinde.\n30 | I. | 98 | | Bürgin-Segiser, Joh. Jakob.\n  Bürgin-Segiser, Joh. Jak., Schuhmacher.\n  Freuler-Jakobs, Franz, Schriftsetzer.\n32 | I. | 94 | zum Brandis. | Heusler, Friedrich.\n  Heusler, Friedrich, Rentier.\n34 | I. | 92 | zum Seidenhof. | Iselin-Passavant, Heinrich u. Jgfr. Henriette Passavant..\n  Iselin-Passavant, Heinrich, Med. Dr.\n  Passavant, Jgfr. Henriette.\n\nBreite Straße.\n1 | V. | 324 | | Stehlin-Burckhardt, Joh. Jacob.\n  Euler-Hertig, Rudolf, Buchhalter.\n9 | V. | 327 | | Hoch-Laubheim, Jacob. (Scheune.)\n13 | V. | 328-29 | | Haller-Walser, Victor.\n15 | | | | Haller-Walser, Victor, Landwirth und Weinschenk.\n  Köchlin, Heinrich, Uhrenmacher.\n21 | V. | 332 | | Orelli-Heusler, Heinrich.\n30 | V. | 342 | | Heusler-Fatio, Wittwe Esther. (Scheune.)\n33 | V. | 333 | | Möcklin-Senn, Joh. Rudolf.\n  Möcklin-Senn, Joh. Rud., Wirth.\n  Austrittszollposten-Büreau.\n  Raab-Weiß, Georg, Zoller.\n  Salathe-Heid, Joh., Schmied.\n  Gysin, Jgfrn. Soph. u. Sus. Lehrerinnen.\n35 | V. | 335 | | Sarasin u. Comp.\n  Kilcher-Dannmeyer, Jac., Landwirth.\n40 | V. | 346 | | Steinmann, Melch. u. Ed., (Scheune.)\n43 | V. | 338 | Das Försterhaus. | Stadtgemeinde.\n  Näher-Dietschy, Carl Ludwig, Förster.\n  Näher, Carl Ludwig, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9889,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1994,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:39:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p095",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p095.jpg",
+      "bytes": 1284282,
+      "sha256": "c6f30c57a64d0cb5dac8fd800d905045b26f84f7b256ba85d569e0e22d4f742c",
+      "sha256_of": "original",
+      "working_copy": "1862_p095.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:14+00:00"
+  }
+}

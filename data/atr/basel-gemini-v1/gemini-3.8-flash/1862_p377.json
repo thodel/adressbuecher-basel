@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p377",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p377.jpg",
+    "bytes": 1459918,
+    "sha256": "0d90f1886ab3febb9659d3271523eac6f46ef5ea6987185cbbbed6fe443af15f",
+    "sha256_of": "original",
+    "working_copy": "1862_p377.jpg"
+  },
+  "text": "312\tVerzeichniß der Bürger und Einwohner.\n\nLüscher-Stapfer, Carl, Kaufmann. Aeschen-\n\tgraben 16.\nLüsti-Zuber, Alois, Kostgeber. Utengasse 58.\n— -Obrist, Joh. Jac., Tabak- u. Cigarren-\n\thandlung. Schneidergasse 34.\nLüthi-Philipp, Johs., Knecht. Schorenweg 9.\n— -Stotz, Frau, Wollwäscherei. Aeschen-\n\tvorstadt 26.\n— -Widmann, Rud., Sägermeister. Brückli-\n\tberg 7.\nLüthy-Bürgin, Joh. Ulrich, Bandagist. Pflug-\n\tgäßlein 4.\nLützelmann-Schaffner, J. J., Farb- u. Ma-\n\tterialwaarenhandlung. Firma J. J.\n\tLützelmann. Nadelberg 28.\nLützelschwab-Schmid, Ludwig, Conducteur.\n\tHeumattstraße 16.\nLupp, Christina, Vorgängerin. St. Peters-\n\tplatz 15.\nLutiger-Bettig, Gregor, Schuster. Imber-\n\tgäßlein 19.\nLuttringhausen-Enat, Ed., Commis. Stei-\n\tnenthorstraße 30.\nLutz, Eduard, Zuckerbäcker. St. Elisabethen-\n\tStraße 60.\n— -Eichenberger, Joh. Friedr., Ausläufer.\n\tSt. Peters-Berg 36.\n— -Merker, Jacob, Kleiderhändler. Rüden-\n\tgäßlein 9.\n— -Mundwiler, Eduard, Kapellmeister. St.\n\tElisabethen-Straße 60.\n— -Vögelin, Ulrich, Uhrenmacher. Kloster-\n\tberg 13.\nMaag-Denzler, Wb. Ursula, Kostgeberin.\n\tRiehenteichweg 32.\n— -Hauser, Wb. Verena, Fabrikarbeiter.\n\tUtengasse 41.\nMaas-Day, Magd., Wärterin. Lindenberg 13.\n— -Krug, Rudolf, Kaufmann. Steinenthor-\n\tstraße 19.\n— -Müller, Rudolf, Dr. med. et Chir.\n\tBarfüsserplatz 16.\nMachi-Hilpert, Jos., Gerbergeselle. Rhein-\n\tgasse 49.\nMack-Walz, Xaver, Mechaniker. Garten-\n\tstraße 68.\nMackler-Tanner, Friedrich. Unt. Rebgasse 19.\nMadeur, Johannes, Kaufmann. Schützen-\n\tmattstraße 24.\n— u. Wohnlich, Commission u. Spedition.\n\tSchützenmattstraße 24.\nMädöry-Biehlmann, Joh., Spezierer. St.\n\tAlban-Vorstadt 104.\n— -Frey, Joh., Posamenter. Greifengasse 5.\n— -Glaser, Friedrich, Gastgeber. Schwanen-\n\tgasse 5.\n— -Glaser, Friedr., Tabak- u. Cigarenhdlg.\n\tGreifengasse 3.\n— -Gysin, Jakob, Werkmeister. Fabrik-\n\tstraße 14.\n[spalte 2]\nMädöry-Hartmann, Adam, Posamenter. Stei-\n\tnenvorstadt 45.\n— Hasler, Adolf, Posamenter. Gerber-\n\tgasse 8.\n— -Jörin, Wilhelm, Zettlermeister. Riehen-\n\tStraße 59.\n— Reber, Wilhelm. Nauenstraße 13.\n— -Riedinger, Friedr., Wirth. Ochsengasse 5.\n— Scholl, Peter, Metzer. Heumattstraße 9.\n— -Simmen, Jakob, Posamenter. Grenza-\n\tcher-Straße 85.\n— -Simon, Joh., Zimmergesell. Steinen-\n\tthorstraße 43.\n— -Thommen, Friedrich, Posamenter. Hin-\n\ttere Bahnhofstraße 40.\n— -Thommen, Friedrich, Bandstuhlmacher.\n\tSt. Martins-Gasse 16.\n— -Winzenried, Friedrich, Landwirth. Bru-\n\tderholzweg 10.\nMäder, Peter, Knecht. Lindenberg 9.\nMäglin-Baumann, Joh. Ludw. de Abraham,\n\tWirth u. Metzer. Schafgäßlein 2.\n— Benedikt de Anton, Kaufm. St. Johann-\n\tVorstadt 9.\n— Christof, Gipser u. Stuccator. Reb-\n\tgasse 27.\n— Franziska, Wäscherin. Rappoltshof 14.\n— -Kuhn, J. J., Küfer. Spalenberg 14.\n— -Müller, Jak. Christof, Wirth u. Metzer.\n\tRiehenthorstraße 27.\n— Paravicini, Friedr. Rudolf, Commis.\n\tBirsigstraße 15.\n— -Pfister, Jacob, Karthausgärtner. Rie-\n\thenthorstraße 2.\n— -Sendramier, Rudolf, Commis. Kano-\n\tnengasse 9.\n— -Strub, Gustav, Commis u. Glassinner.\n\tMarktplatz 5.\n— -Tschopp, Wb. Magdalena, Partikular.\n\tSteinenthorstraße 42.\n— -Weiß, Isaac, Dekorationsmaler. Reb-\n\tgasse 45.\nMähly, Friedr., Fabrikarbeiter. Weiße Gasse 6.\n— Jacob, Küfer. Aeschenvorstadt 74.\n— -Schaub, Friedr. Wilhelm, Conducteur.\n\tGartenstraße 66.\n— -Schermar, Jacob, Dr. Phil., Lehrer.\n\tMarktplatz 11.\nMärki-Rychner, Xaver, Commis. Heumatt-\n\tstraße 5.\nMärklin, Andreas, Commis. Freie Straße 1.\n— -Bachmann, Joh. Jakob, Straßenwart.\n\tStreitgasse 20.\n— -Bitterlin, Jacob, Posamenter. Imber-\n\tgäßlein 5.\n— -Christ, Rud., Part. Spalenthorweg 20.\n— -Gnoepff, Wb. Dorothea, Rent. Spalen-\n\tberg 50.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12422,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3594,
+    "lines": 120,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:30:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p377",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p377.jpg",
+      "bytes": 1459918,
+      "sha256": "0d90f1886ab3febb9659d3271523eac6f46ef5ea6987185cbbbed6fe443af15f",
+      "sha256_of": "original",
+      "working_copy": "1862_p377.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:30:58+00:00"
+  }
+}

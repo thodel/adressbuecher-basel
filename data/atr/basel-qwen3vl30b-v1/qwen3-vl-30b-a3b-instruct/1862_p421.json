@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p421",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p421.jpg",
+    "bytes": 1479943,
+    "sha256": "fcbd5c13747c79cba336db5864394245552f15f50808a0d80301cce9c99d5f7c",
+    "sha256_of": "original",
+    "working_copy": "1862_p421.jpg"
+  },
+  "text": "356\nVerzeichniß der Bürger und Einwohner.\nWald=Siitterlin, Zimmerparlier. St. Clara=|Walz=Baumgartner, Carl, Magazinier. Grei-\nhofweg 5. | fengasse 35.\nWaldner=Brunner, Marx, Partikul. Central-| — Friedr., Kunsthändler. Schützengasse 10.\nbahnhplaz 5. | — Hermann, Carl, Part. Fabrikstraße 27.\nWaldmeyer=Ott, Aug., Schreinergeselle. Uten-| — Ruthus, Joh., Kutscher. Allschwyler\ngasse 46. | Straße 27.\nWaldner, Andreas, Arbeiter. Klingenthal 20. | Wangler=Carle, Wb. Susanna, Taglöhnerin.\n— Handschin, Heinrich, Posamenter. Rieme-| Riehenteichweg 14.\nlinsplaz 4. | Wanner=Thommen, Johannes, Magazinknecht.\n— Johann Jakob Friedrich, Polizeimann. | Sternengäklein 4.\nSt. Alban=Vorstadt 101. | — Wehrli, Wb. Elizabeth, Fabrikarbeiterin.\n— Madöri, Joh. Jak., Schriftseker. Schnei-| Trillengäklein 4.\ndergasse 7. | Wartner, Carl, Bauführer. St. Elisabethen-\n— Wafer, Wb. Barb., Nätherin. Sternen-| Straße 16.\ngäklein 33. | Waffer=Gunti, Barbara, Matrakenmacherin.\n— Wörner, Johs., Fabrikarbeiter. St. | Spalenthormweg 53.\nPeters=Berg 28. | Waffermann=Binder, J. R., Eisenbahnange-\n— Zuber, Joh. Heinrich, Schuhmacher. | stellter. Heuberg 25.\nSchneidergasse 19. | — Carl Rudolf, Mezger. Utengasse 1.\nWaldvogel=Klingelfuß, Wb. Maria, Borgän-| — Gernler, Joh., Schuhmacher. St. Peters=\ngerin. Spalenberg 36. | Berg 38.\nWall=Denzer, Heinrich, Sohn, Spezierer. | — Golde, Andreas, Schreiner. St. Peters=\nKarthausgäklein 1. | Berg 38.\n— Heinrich, Vater, Part. Karthausgäkl. 1. | — Krebs, Rud., Kaminfegermeister. Heu-\nWallfer, Christoph, Bauzeichner. Reb-gasse 18. | berg 25.\n— Hägler, Wb. Judith, Part. Reb-gasse 18. | — Mollinet, Joh., Commis. St. Peters=\n— Joh., Prokurist. Barfüßerplaz 6. | Plaz 6.\n— Lüdin, Joh. Conr., Bäcker. Reb-gasse 11. | — Schweizer, Fritz, Buchdrucker. Fisch-\nWalter=Bloch, Joh., Obst- u. Eierhandlung. | markt 1.\nGerbergasse 32. | — Waffermann, Joh., Schneider u. Post-\n— Hurter, J. Ulrich, Part. Mostackerstr. 26. | factor. Spalenberg 33.\n— Walter, Alois, Lehrenmann. Mostacker-| Wakenegger=Bruder, Friedrich, Taglöhner.\nstraze 31. | Schneidergasse 23.\nWalter=Bienz, Chr. Friedrich, Spezierer u. | Weber, Anton, Alt-Gerichtspräsident. Most-\nMagazinknecht. St. Alban=Vorstadt 59. | ackerstraze 18.\n— Caspar, Steindrucker. Spiegelgasse 7. | — Baumann, Cath., Schneiderin. Sternen-\n— Fastlinger, Aug., Musikdirektor. Kauf-| gäklein 2.\nhausgasse 4. | — Benz, Rudolf, Fabrikarbeiter. Aeschenvor-\n— Friedrich, Commis. Spalenvorstadt 40. | stadt 52.\n— Friedrich, Maurer. Utengasse 10. | — Verpent, J. Friedrich, Prokurist und\n— Zägg, Josef, Gastwirth. Aeschenvor-| Spezierer. St. Andreasplaz 14.\nstadt 67. | — Bischoff, Friedr., Kupferstecher. Alybeck-\n— Jak., Bettfedernhandlg. Barfüßerplaz 3. | straze 111.\n— Joh. Georg, Telegraphist. Spalenvor-| — Buek, Jakob, Packer. Schafgäklein 8.\nstadt 33. | — Bürgin, Sam. Rud., Klavierstimmer.\n— Keller, Carl, Fabrikant chirurg. Instru-| Alybeckstraze 41.\nmente. Freie Straße 73. | — Bürgin, Sebastian, Taglöhner. Heu-\n— Magdalena, Kostgeberin. Gerbergäkl. 24. | berg 27.\n— Marie, Delikateessenhdlg. Fischmarkt 3. | — Tramer, Jakob, Magazinarbeiter. St.\n— Roth, Joh. Georg, Wiesenbannwart. | Theodorskirchplaz 2.\nHorburgstraze 49. | — Elisabeth, Taglöhnerin. Webergasse 24.\n— Scheuble, Leop., Maurer. Rappoltshof 1. | — Elisabeth, Kostgeberin. Rheingasse 47.\n— Schmid, Johs., Magazinier. Gerber-| — Elisa, Ladenjungfer. Blumenrain 1.\ngäklein 24. | — Engel, Joh. Jak., Mezger u. Wirth.\n— Stadler, Johs., Maler. Rappolts-| Untere Reb-gasse 22.\nhof 1. | — Faust, Eman., Dessinateur. Steinen-\n— Ulrich, Posament. Steinenthorstraze 15. | vorstadt 61.\n— Wehrle, Eman., Commis. Wallstraze 24. | — Georg, Sprachlehrer. Gerbergasse 19.\n— Zurfluh, Ludwig, Gärtner. Alybeck-| — Guggenbühler, Joh., Schreiner. Hut-\nstraze 27. | gasse 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9727,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3778,
+    "lines": 62,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 59.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:18:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p421",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p421.jpg",
+      "bytes": 1479943,
+      "sha256": "fcbd5c13747c79cba336db5864394245552f15f50808a0d80301cce9c99d5f7c",
+      "sha256_of": "original",
+      "working_copy": "1862_p421.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:18:25+00:00"
+  }
+}

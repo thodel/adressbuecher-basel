@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p408",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p408.jpg",
+    "bytes": 1581579,
+    "sha256": "9e9564f67aea0d4c428a7d31a513c2a4eb4c143f1f4058921c422fb158cc84a8",
+    "sha256_of": "original",
+    "working_copy": "1862_p408.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 343\nSibold=Haeferi, Josef, Magazinknecht. Aeschenvorststadt 14.\n— =Haeferi, Joseph, Magazinier. Münsterberg 12.\n— Zachäus, Zimmergeselle. Schneidergasse 12.\nSider=Wiiller, Viktor, Appreteur. Klingenenthal 20.\nSiebemann=Huber, Fried. Wilh., Kaufmann. Neue Vorstadt 27.\nSieber, B. D., Chemiker. Bahnhofstraße 3.\n— =Bischoff, Wittwe Anna Cath., Part. Missionsstraße 14.\n— =Brugger, Carl. Greifengasse 27.\n— Ludwig, Gymnasiallehrer. Utengasse 4.\n— =Sulger, Wilhelm, Commis. Missionsstraße 26.\nSiebert=Jäck, Dominicus, Coiffeur. Schwabengasse 12.\nSiegfried u. Cie., Band- u. Seidenhandlung. St. Johann-Vorstadt 15.\n— =Dörflinger, N. Benedict, Griefer und Spezierer. Münsterberg 1.\n— =Marian, Albert, Weinhandlung. Herbergsgasse 1.\n— Samuel, Bäcker. Rheingasse 65.\n— Sohn, C. Nic. Chr., Kaufmann. Münsterberg 1.\nSiegmund=Bloch, Benjamin, Med. u. Chir. Dr., Badanstalt, maison de santé. Medizinische Bäder, russische, aromatische und Schwefeldampfbäder, Douche- und Sitzbäder. Gerbergässlein 1.\n— Carl, Dr. med., Zahnarzt. Heuberg 4.\n— =Weiß, Joh. Jac., Kunstmaler. Hinterer Burgweg 12.\nSiegriß=Bader, Rud., Kaufm. Kaufhausgasse 1.\n— Barbara, Arbeiterin. Nebgasse 11.\n— =Baumann, Samuel, Piqueur. Spalenberg 1.\n— =Beckel, Magdalena, Wittwe. Webergasse 27.\n— =Bohny, Wittwe Magdalena. Klybeckstraße 69.\n— =Breyer, Wittwe Anna Maria, Part. St. Clara-Straße 5.\n— =Brodmann, Johannes, Feger u. Wirth. Blumenrain 23.\n— =Döbeli, Heinr., Posamenter. Hammerstraße 88.\n— =Eckert, Rud., Gärtner. Klybeckstraße 21.\n— Elisabeth, Rütherin. Rheingasse 29.\n— =Elser, Johann Franz, Fabrikarbeiter. Greifengasse 12.\n— und Fender, Banquiers. Kaufhausgasse 1.\n— =Frey, Wb. Claudine, Part. St. Jakobs-Straße 12.\n— =Grünblatt, Johs., Taglöhner. Binninger Straße 15.\n— =Gubler, Mart., Part. Engelgasse 57.\nSiegriß=Sykler, Johann., Spezerei handlung. Steinenthorstraße 41.\n— =Horner, Martin, Fabrikarbeiter. Steinenbachgässlein 22.\n— =Jäcklin, Eman., Commis. St. Johann-Vorstadt 38.\n— =Kiefer, Abraham, Korbhändler. Satelgasse 11.\n— =Kündig, Wb. Johanna. Malzgasse 7.\n— =Marquardt, Carl, Schreiner. Malzgasse 7.\n— =Dehninger, Albert, Dr. Med. St. Clara-Straße 5.\n— =Dtt, Johs., Kaufhausarbeiter. Spalenvorstadt 23.\n— =Seiler, Joh., Waarencourtier. Stadt hausgasse 23.\n— =Stürchler, Wallburga, Taglöhnerin. Utengasse 46.\n— Wilhelm, Coiffeur. Gerbergasse 28.\n— =Zindel, Heinr., Taglöhner. Greifengasse 5.\nSievers, Carl Aug., Zahnarzt. St. Peters-Platz 4.\nSievert=Beck, Niklaus, Kutscher. Neue Vorstadt 25.\nSigg=Hoffmann, Gottfried, Seidenfürbergeselle. Lindenberg 2.\n— =Lenzi, Johannes, Schuhmacher. Hutgasse 13.\n— Simon Jak., Seidenfürbergeselle. Hammerstraße 21.\nSilberer=Solz, Maximilian, Maurerparlier. Schneidergasse 12.\nSilbernagel=Scheidenberger, Joh. Jak., Pin tenwirth. Sporengasse 11.\nSimmen=Becker, Joh. Heinrich, Kaufmann. Aeschengraben 37.\n— =Muster, Welch., Portier. Fabrikstraße 14.\n— =Tschudin, Joh., Eisenbahnarbeiter. St. Martins-Gässlein 3.\nSimmler=Frauenfelder, Joh. Riehen-Straße 12.\n— =Rüchli, Joh. Heinr., Zimmergeselle. Riehenthorstraße 15.\n— =Schmalz, F. Heinr., Schachtelmacher. Freie Straße 44.\nSimmoth=Speiser, F. D., Tabak- u. Cigarrenhandlg. Spalenvorstadt 10.\nSimon=Ammann, Alois, Landwirth. Klingelbergstraße 10.\n— =Miiller, Joh., Eisenbahnarbeiter. Klosterberg 19.\n— =Bogt, F. F., Wirth. Rüchegässlein 14.\nSimonin u. Bard, Agentur. Gerbergasse 11.\n— Carl Ludwig, Kaufmann. St. Clara-Straße 29.\nSimoniuss=Oschwald, Paul, Kaufmann. Neue Vorstadt 12.\nSingeisen=Buser, Jak., Postfactor. Mittlere Straße 37.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9052,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3541,
+    "lines": 68,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:16:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p408",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p408.jpg",
+      "bytes": 1581579,
+      "sha256": "9e9564f67aea0d4c428a7d31a513c2a4eb4c143f1f4058921c422fb158cc84a8",
+      "sha256_of": "original",
+      "working_copy": "1862_p408.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:16:24+00:00"
+  }
+}

@@ -1,0 +1,54 @@
+Rebgasse.	189
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+14 | VIII. | 197 | Burgvogtei od. zu d. 13 alt. Kanton. | Tester-Geßler, Josua.
+  Thommen-Meyer, Hans, Kaufmann.
+  Bell-Storck, Rudolf, Metzger.
+  Schabelitz-Lotz, Diet., Commis u. Bier-
+  wirth.
+  Meyer, Georg, Fuhrhalter.
+15 | VIII. | 180 | zum Dolder. | Renz-DeRoche, Carl.
+  Renz-DeRoche, Carl, Chemiker.
+  Renz, Marie, Lehrerin.
+  DeRoche, Paul Samuel, Chemiker.
+  Renz-Buser, Carl Ludw., Chemiker.
+16 | VIII. | 192 | zum Schaf. | Albrecht-Speiser, Joh. Conrad.
+  Albrecht-Speiser, Joh. Conr., Kfm.
+  Firma Albrecht-Dietschy, Spezerei-
+  handlung.
+  Eglinger, Dr. Eman., Thierarzt.
+  Miville-Socin, Wb. Marg., Rent.
+17 | VIII. | 178—79 |  | Horandt-Wohnlich, Martin.
+  Horandt = Wohnlich, Martin, Bandfa-
+  brikant.
+18 | VIII. | 189 | z. hint. Silberberg. | Walliser-Hägler, Wb. Judith.
+  Walliser-Hägler, Wb. Judith, Part.
+  Matzinger, Leonh. Friedr., Spengler.
+19 | VIII. | 174 |  | Speiser-Hauser, Wb. Esther.
+  Speiser-Hauser, Wb. Esther, Part.
+20 | VIII. | 188 | zum Klösterlein. | Huber, Hieronimus.
+  Huber, Hieronimus, Part.
+21 | VIII. | 172—73 | z. grün. Adler. | Siber-Lotz, Joh. Caspar.
+  Siber-Lotz, Joh. Casp., Part.
+22 | VIII. | 184 |  | Schneider, Jgfr. Salomea.
+  Schneider, Salomea, Part.
+  Stadelmann, Ursula, Modiste.
+23 | VIII. | 171 |  | Siber-Lotz, Joh. Casp.
+24 | VIII. | 183 |  | Weber-Wiesner, Heinrich.
+  Weber-Wiesner, Hch., Dessinateur.
+25 | VIII. | 170 |  | Dannacher, Paul.
+  Dannacher, Paul, Schreiner.
+26 | VIII. | 182 |  | Lotz-Heusler, Friedrich.
+27 | VIII. | 169 |  | Maeglin, Christof.
+  Maeglin, Christof, Gypser und Stuc-
+  cator.
+  Ranz-Wagner, Wendolin, Dessinateur.
+  Guth-Himmely, Rud., Part.
+28 | VIII. | 177 | zum Paradies. | Burckhardt-Bernet, Daniel.
+  Burckhardt-Bernet, Daniel, Baumeister.
+  Oswald, Mathias, Altrathsherr, Rent.
+29 | VIII. | 168 |  | Vetterlin, Heinrich.
+  Vetterlin, Heinrich, Wirth.
+  Bell-Bolliger, Emanuel, Fischer.
+  Karle-Morf, Johann Friedrich, Küb-
+  ler.

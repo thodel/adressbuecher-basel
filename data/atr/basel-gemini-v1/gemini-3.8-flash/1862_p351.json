@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p351",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p351.jpg",
+    "bytes": 1468547,
+    "sha256": "502dbf81ec0834223f7fbe200e203288d60c4e08363abd09d3a98a2a4ecb5520",
+    "sha256_of": "original",
+    "working_copy": "1862_p351.jpg"
+  },
+  "text": "286\t\tVerzeichniß der Bürger und Einwohner.\n\nGrillo, Anna, Nätherin. Imbergäßlein 26.\n— Emilie, Part. Fischerweg 11.\n— -von Gunten, Lucas Friedrich, Küfer.\n\tSattelgasse 12.\nGrimm-Andermatt, Christian, Kutsch. Mün-\n\tchensteiner Straße 4.\n— -Balmer, Christian, Fabrikmeister. Fa-\n\tbrikstraße 14.\n— -Brändlin, Rud., Schuhmacher. Nadel-\n\tberg 41.\n— -Jenny, Friedrich, Ferger. St. Johann-\n\tVorstadt 66.\n— Joh. Georg, Piqueur. Freie Straße 47.\n— -Köchlin, Wb. Barbara, Part. Gerber-\n\tgasse 23.\n— -Schneider, Christian, Dr. med., Arzt.\n\tAeschengraben 17.\n— -Schuler, Ed., Parquetier. Steinenvor-\n\tstadt 48.\n— -Wetzel, Joh., eidgenöss. Zollbeamter.\n\tGerbergasse 23.\nGrisanti-Hartmann, David, Cafewirth und\n\tRestaurateur. St. Elisabethen-Straße 62.\nGrisard-Chéron, Wb. Elise, Tabakhandlung.\n\tBahnhofstraße 17.\nGrob-Bilan, Jakob, Zettlermeister. Aeschen-\n\tvorstadt 49.\n— -Fehr, Heinr., Papiermaschinen-Führer.\n\tSt. Alban-Thal 18.\n— Rudolf, Holzhandlung. St. Johann-\n\tVorstadt 55.\n— -Stengelin, Jak., Commis. Austraße 50.\n— -Wirz, Anna Maria, Schneiderin. Freie\n\tStraße 107.\nGroben, Geschwister, Glashandlung. Freie\n\tStraße 21.\nGröschel, C., Seidenzwirnerei in Bottmingen.\nGrollimund-Bader, Wb., Obsthändlerin. Im-\n\tbergäßlein 9.\n— -Binz, Joh. Jakob, Ferger. Steinen-\n\tvorstadt 21.\n— -Gysin, Jakob, Fabrikarbeiter. Gellert-\n\tstraße 46.\n— -Lipp, Benj., Posamenter. Rheingasse 47.\n— -Rapp, Jak., Wirth. Bahnhofstraße 23.\n— -Rapp, Joh. Jak., Rentier. Steinen-\n\tvorstadt 21.\n— -Schweizer, Eman., Kfm. Rheingasse 29.\n— -Vetter, Wb. Johanna, Sattler. Rhein-\n\tgasse 22.\nGromann, Magd., Fabrikarb. Lindenberg 7.\nGrosholz, Ludwig, Schiffer. Rheingasse 58.\nGroß-Dürr, Emanuel, Zimmermann. St.\n\tPeters-Gasse 12.\n— -Ernst, Andreas, Eisenbahnarb. Bahn-\n\thofstraße 45.\n— -Groß, Heinr., Taglöhner. Riehenthor-\n\tstraße 14.\n— -Herzog, Rud., Gärtner. Klybeckstr. 119.\n— -Lanz, Carl, Taglöhner. Trillengäßl. 4.\n[spalte 2]\nGroß-Schreiber, Jak., Malergehilfe. Steinen-\n\tthorstraße 36.\nGroßhupf-Benz, Christof, Schreinergeselle.\n\tSpalenberg 15.\nGroßmann-Byland, Conr., Käsehändl. Steinen-\n\tvorstadt 39.\n— -Heinzelmann, Rud., Spezierer. Steinen-\n\tvorstadt 18.\n— -Schaub, Casp., Möbel- u. Bettwaaren-\n\thandlung. St. Claraplatz 1.\nGruber-Gysin, Georg, Hausknecht. Mühlen-\n\tberg 18.\n— -Wick, Joh., Fabrikmeister. Allschwyler\n\tStraße 68.\nGrübler, Elisabetha, Hippenbäckerin. Kloster-\n\tberg 4.\n— -Meyer, Wb. Crescentia, Wirthschaft.\n\tTheaterstraße 6.\nGrüblin-Bercher, Joh. Jak., Part. Rebgasse 45.\nGrüneisen-Stingelin, Joh., Taglöhner. Schnei-\n\tdergasse 15.\nGrüninger-Beaudroi, Rud., Müller. Klingen-\n\tthal 2.\n— -Gysin, Joh. Jakob, Fabrikarbeiter.\n\tSpalenvorstadt 30.\n— Joh. Anton, Küfer. Gemsberg 9.\n— Judith, Näherin. Steinenvorstadt 2.\n— -Oehninger, Rudolf, Küfer. Rümelins-\n\tplatz 7.\n— -Rueger, Eman., Trödler. Münzgäßl. 15.\nGrunauer, Friedr. Melch., Handlungscommis.\n\tWebergasse 25.\n— -Häfi, August, Part. Sattelgasse 20.\n— L., Kleidermagazin. Barfüßerplatz 4.\n— -Märklin, Christof, Alt-Pfarrer. St.\n\tPeters-Graben 35.\n— -Mayer, Sebastian, Spezereihandlung.\n\tGerbergäßlein 18.\n— -Müller, Rud., Coiffeur, Cigarren- und\n\tTabakhandlung. Rebgasse 2.\n— -Tschudi, Joh. Jak., Seckler u. Kappen-\n\tmacher. Sattelgasse 20.\n— -Wassermann, Wb. Rosina. Kronen-\n\tgasse 8.\n— -Wirz, Theophil, Teigwaarenhandlung.\n\tBarfüßerplatz 15.\nGrundlehner-Lötscher, Joh., Taglöhner. St.\n\tLeonhards-Stapfelberg 3.\n— -Meyer, Jakob, Taglöhner. St. Leon-\n\thards-Stapfelberg 3.\nGruner, Carl Heinr., Ingenieur. St. Johann-\n\tVorstadt 48.\nGschwend-Däschler, Jos., Maurermeister. Wall-\n\tstraße 5.\n— -Ebner, Joh. Georg, Holzhändler. Wall-\n\tstraße 5.\nGschwind-Graf, Mathias, Holzhauer. Unterer\n\tHeuberg 5.\n— -Kraus, Joh., Fabrikarb. Klosterberg 7.\n— Maria, Zettlerin. Rebgasse 48.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12942,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3706,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0164,
+    "mean_line_chars": 28.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:25:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p351",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p351.jpg",
+      "bytes": 1468547,
+      "sha256": "502dbf81ec0834223f7fbe200e203288d60c4e08363abd09d3a98a2a4ecb5520",
+      "sha256_of": "original",
+      "working_copy": "1862_p351.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:25:00+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p193",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p193.jpg",
+    "bytes": 1240664,
+    "sha256": "3b235ccbd3aab216dbf4261e4ede45d5c463296e1fae5da6d9a2098788de7873",
+    "sha256_of": "original",
+    "working_copy": "1862_p193.jpg"
+  },
+  "text": "128 Schükengraben. — Schükenmattstraße.\nRené Haus=Nr. | Quar= tier. | Alte Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n38 | II. | 316 | | Brodbeck=Gnehm, Wb. Magd. Remise.\n39 | II. | 139 C | | Hegar, Friedrich. Schmid=Meyer, Andreas, Part. Riente=Schneider, Carl Ludw., Lehrer. Gauß=Riente, Hermann, Architekt.\n40 | II. | 315 | | Götti=Waser, Johannes. Zimmerwerkstätte.\n41 | II. | 139 B | | Hegar, Friedrich. Peißner=Studer, Johannes, Musiklehr. Weiß=Adams, Jakob, Dessinateur.\n42 | II. | 314 | | Geßler=Meyer, Jakob.\n43 | II. | 139 A | | Schmid=Meyer, Andreas. Putnam, Carl, Zahnarzt.\n44 | II. | 313 D | | Stechelin, Gottfried.\n45 | II. | 139 | | Vogler=Riesler, Adrian. Vogler=Riesler, Adrian, Commis. Schenkel, Johannes, Commis. Koch, Christof Friedr., Commis.\n46 | II. | 313 E | | Stechelin, Gottfried. Stechelin, Gottfried, Kaufmann.\nSchükenmattstraße.\n1 | II. | 347 | zum Steinbrunn. | Meyer=Fiechter, Peter. Meyer=Fiechter, Peter, Metzger. Henz=Bernet, Joh. Jac., Koruwäger.\n2 | II. | 326 | z. schwarz. Dchsen. | Kling=Roch, Eugen. Kling=Roch, Eugen, Gastwirth. Claßen=Steiger, Conrad, Commis. Brüllmann=Eggmann, Og., Fleckerein.\n3 | II. | 346 | | Kling=Roch, Eugen. Stalling.\n4 | II. | 326 B | | Kling=Roch, Eugen. Hugentobler, Ulrich, Holz= u. Turben= Verkauj.\n5 | II. | 345 | zur Trotte. | Müller, Jac. Philipp. Müller, Jacob, Philipp, S.M. C., Lehrer. Geßler=Best, Leonhard, Part. Müller=Geßler, Susanna, Part.\n6 | II. | 327 | | Salathe, Emanuel. Salathe, Emanuel, Küfer.\n7 | II. | 344 | | Schilling, Abraham. Schilling, Abraham, Wagner. Rychnert=Bemler, Carl, Architekt.\n8 | II. | 328 | | Keller=Meyer, Bernhard. Keller=Meyer, Bernhard, Zimmermann. Streicher=Hedendorn, Friedr., Küfer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5029,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1725,
+    "lines": 20,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 85.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:46:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p193",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p193.jpg",
+      "bytes": 1240664,
+      "sha256": "3b235ccbd3aab216dbf4261e4ede45d5c463296e1fae5da6d9a2098788de7873",
+      "sha256_of": "original",
+      "working_copy": "1862_p193.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:21+00:00"
+  }
+}

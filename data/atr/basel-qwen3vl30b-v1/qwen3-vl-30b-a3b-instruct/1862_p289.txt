@@ -1,0 +1,115 @@
+224 Verzeichniss der Häuser nach ihren Benennungen.
+Urichskapelle, St. Rittergasse Nr. 3.
+Urichskirchhöflein, St. Rittergasse Nr. 5.
+Unfeli, z. Sternengäflein Nr. 33.
+Unfelin, z. Sternengäflein Nr. 23.
+Unfelin, z. Hirschgäflein Nr. 5.
+Urbanseck, St. Blumenrain Nr. 17.
+Uristier, z. Weisegasse Nr. 26.
+Urfula, St. z. Schwanengasse Nr. 1.
+Benedig, z.(Freimaurerloge) Schlüsselbg. Nr. 3.
+Bereinigung, z. Schneidergasse Nr. 10.
+Bergnillgen, z. Bäumleingasse Nr. 14.
+Bigilanz. Stapfelberg Nr. 3.
+Bigilanz, z. Freie Straße Nr. 21.
+Violenhof. St. Petersgraben Nr. 23.
+Violenhof. St. Petersgraben Nr. 21.
+Violenhof. St. Peterskirchplatz Nr. 9.
+Bogel, z. Spalenvorstadt Nr. 39.
+Bogelsang, z. Bogelsangweg Nr. 10.
+Bogelsang, z. obern. Miinsterberg Nr. 6.
+Borgasse, z. St. Petersgasse Nr. 5.
+Wachholderbaum, z. Gerbergasse Nr. 21.
+Wacker, z. Spalenberg Nr. 41.
+Wächtershaus od. Wächterhof, z. St. Johann=Vorstadt, Nr. 43.
+Wächtershof, z. St. Johann=Vorstadt Nr. 41.
+Wändlein, z. Kiimelinsplatz Nr. 8.
+Wage, z. alten. Schwanengasse Nr. 12.
+Wage, z. rothen. St. Petersberg Nr. 13.
+Waifenhaus. St. Theodorskirchplatz Nr. 7.
+Waifenhaus. Riehenthorstraße Nr. 4. 6. 8.
+Walded, z. Todtentanz Nr. 8.
+Walded, z. Greiffengasse Nr. 1.
+Walded, z. kleinen. Gerbergasse Nr. 29.
+Waldshut, z. St. Leonhardsgraben Nr. 39.
+Waldshut, z. Heuberg Nr. 22.
+Waldshut, z. hintern. Riidengäflein Nr. 2.
+Waldshut, z. untern. Sägergäflein Nr. 2.
+Wandersmann, z. Karthausgäflein Nr. 9.
+Warted, z. Clarastraße Nr. 49.
+Wartenberg, z. Spalenberg Nr. 48.
+Wajenmeisterei, z. Hagenheimerstraße Nr. 33.
+Wasserhaus, z. Bachlettenstraße Nr. 23.
+Webern, Zunft z. Steinenvorstadt Nr. 23.
+Weiberbad, z. Miinzgäflein Nr. 18.
+Weidenruthe, z. St. Petersberg Nr. 21.
+Weihcr, z. Aeschenvorstadt Nr. 57.
+Weiler, z. hohen. St. Leonhardsgraben Nr. 42.
+Weinberg, z. Freie Straße Nr. 77.
+Weinleuten, Zunft z. Marktplatz Nr. 5.
+Weinsperg, z. Gerbergasse Nr. 67.
+Weinzollstätte, z. Bachlettenstraße Nr. 19.
+Weissenstein, z. Freie Straße Nr. 55.
+Weitnau, z. Greiffengasse Nr. 27.
+Welt, z. Freie Straße Nr. 73.
+Welt, z. oberen, Freie Straße Nr. 75.
+Wendelsdörfer-Hof. Rheinsprung Nr. 18.
+Wendelsdörfer-Hof. St. Martinsgasse Nr. 3.
+Wenkenberg, z. Gerbergasse Nr. 71.
+Wertenberg, z. Steinenvorstadt Nr. 18.
+Widder, z. weifsen. Steinenvorstadt Nr. 2.
+Widder, z. schwarzen. Steinenvorstadt Nr. 4.
+Widder, z. weifsen u. schwarzen. Hutgasse Nr. 19.
+Widder, z. kleinen. Klosterberg Nr. 9.
+Widderlin, z. Klosterberg Nr. 15.
+Widderlin, z. Klosterberg Nr. 11.
+Widderlin, z. kleinen. Klosterberg Nr. 25.
+Widderlin, z. obern. St. Elisabethenstraße Nr. 20.
+Wiesenbaunwartswohnung. Horburgstr. Nr. 49.
+Wildegg, z. Spalenberg Nr. 6.
+Wildenstein, z. St. Johann=Vorstadt Nr. 13.
+Wildenstein, z. ob. u. unt. Spalenberg Nr. 18.
+Wildenmann, Gasthof z. Freie Straße Nr. 35.
+Wind, z. Hutgasse Nr. 5.
+Wind, z. blauen. Steinenthorstraße Nr. 25.
+Wind, z. blauen. Hutgasse Nr. 3.
+Wind, z. äuferen blau. Steinenthorstr. Nr. 27.
+Wind, gelben u. goldenen Lamm z. Gerbergasse Nr. 2.
+Wind, z. goldenen. Hutgasse Nr. 1.
+Wind, z. hohen. Riehenthorstraße Nr. 22.
+Wind, z. obern. St. Leonhardsberg Nr. 14.
+Wind, z. stillen. Lindenberg Nr. 21.
+Windeck. St. Petersgasse Nr. 2.
+Windgefäf. Steinenthorstraße Nr. 13.
+Windhund, z. weifsen. Gerbergasse Nr. 40.
+Winkeli, z. Aeschenvorstadt Nr. 24.
+Winkeli, z. St. Elisabethenstraße Nr. 5.
+Winkelin, z. Aeschenvorstadt Nr. 62.
+Winkelfried, z. Riehenthorstraße Nr. 31.
+Wittenberg, z. Stadthausgasse Nr. 12.
+Wog, z. Aeschenvorstadt Nr. 37.
+Wolf, z. Spalenberg Nr. 22.
+Wolfsbrunnen. St. Petersberg Nr. 40.
+Wolfsbrunnen, z. St. Petersberg Nr. 36.
+Worms, z. freien Stadt. Weiße Gasse Nr. 14.
+Wühlen, z. Lindenberg Nr. 19.
+Württemberg, z. Freie Straße Nr. 87.
+Württembergerhof, z. St. Alban=Graben Nr. 14.
+Württemberger-Hof, z. hintern. Brunngäflein Nr. 11.
+Ymp, z. Elsäfferstraße Nr. 3.
+Zank, z. St. Alban=Vorstadt Nr. 21.
+Zedel, z. Webergasse Nr. 35.
+Zedernhof, z. Riehenstraße Nr. 62.
+Zeisig, z. Kiimelinsplatz Nr. 13.
+Zellenberg, z. Riehenthorstraße Nr. 21.
+Zerfindenhof, (Hof z. Heggendorn.) Madelberg Nr. 10.
+Zeughaus. St. Petersgraben Nr. 44.
+Zeughaus, großes. St. Petersplatz Nr. 1.
+Zeugwartswohnung. St. Petersgraben Nr. 46.
+Ziegelhof, z. Rheingasse Nr. 33.
+Ziegelhof, d. Rheingasse Nr. 31.
+Ziegelhof, z. Utengasse Nr. 30.
+Ziegelmühle. Untere Rheingasse Nr. 19.
+Zollgebäude. Hintere Bahnhofstraße Nr. 13.
+Zoffe, z. St. Alban=Vorstadt Nr. 98.
+Zwinger, z. St. Elisabethenstraße Nr. 9.

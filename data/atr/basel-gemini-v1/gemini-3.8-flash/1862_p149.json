@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p149",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p149.jpg",
+    "bytes": 1320976,
+    "sha256": "893839a9a25af337a67b17afb710365494fea956011777bfc87237347900b5ec",
+    "sha256_of": "original",
+    "working_copy": "1862_p149.jpg"
+  },
+  "text": "84 St. Leonhards-Graben. — St. Leonhardskirchplatz.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n41 | II. | 436 | zum Mörsberg. | Burckhardt-Preiswerk, Wb. Maria.\n  Burckhardt-Preiswerk, Em., Pfarrer.\n  Siehe Nr. 28 Heuberg.\n42 | II. | 378 | zum hohen Weiler. | Stähelin-Bischoff, Benedict.\n  Stähelin-Bischoff, Benedict, Bandfab.\n43 | II. | 435 | | Hosch, Albert.\n  Siehe Nr. 26 Heuberg.\n44 | II. | 378 b | | Stähelin-Bischoff, Benedict.\n45 | II. | 434 A | Truchsesserhof. | Merian-Merian, Balthasar.\n  Siehe Nr. 28 Heuberg.\n46 | II. | 379 | | Geigy-Buxtorf, Wb. Susette.\n  Buxtorf-Bischoff, And., Particular.\n47 | II. | 434 | | Stähelin-Zimmerlin, Joh. Jac.\n  Stähelin-Zimmerlin, Theol. Dr. Prof.\n48 | II. | 380 | | Geigy-Buxtorf, Wb. Susette.\n  Geigy-Buxtorf, Wb. Susette.\n49 | II. | 433 | | Amans, Heinrich.\n  Siehe Nr. 32 Heuberg.\n50 | II. | 351 | | Schnell-Burckhardt, Wb. Mar. Sal.\n  Schnell-Burckhardt, Wb. Mar. S., Part.\n51 | II. | 432 a | | Schaub-Brotbeck, Johann Rudolf.\n  Siehe Nr. 34 Heuberg.\n52 | II. | 382 | | Müller-Mathis, Wilhelm.\n  Müller-Mathis, Wilhelm, Particular.\n  Müller, Wilhelm, Sohn, \"\n53 | II. | 431 a | | Stauber-Wiesner, Rudolf.\n  Siehe Nr. 36. Heuberg.\n55 | II. | 430 a | | Holdenecker-Meyer, Franz Johann.\n  Siehe Nr. 38 Heuberg.\n57 | II. | 429 b | | Mislap-Pöhls, Adolf.\n  Siehe Nr. 40 Heuberg.\n59 | II. | 397 | zum rothen Mann. | Mislap-Pöhls, Adolf.\n  Siehe Nr. 41 Heuberg.\n61 | II. | 396 | zum Sondenstorf. | Steiner-Lohner, Jacob.\n  Siehe Nr. 44 Heuberg.\n63 | II. | 393 | Pfarrhaus. | Staat.\n  Kündig-Stückelberger, Euch., Pfarrer.\n  Kündig, August, J. U. D., Notarius.\n\nSt. Leonhardskirchplatz.\n\n1 | III. | 391 | Siegristenwohnung. | Staat.\n  Flubacher-Gysin, Em., Siegrist.\n  Flubacher, Mar. Luise, Lehrerinn.\n2 | III. | 693 | Diaconatshaus. | Staat.\n  Bruckner-Eglinger, Abraham, Pfarrer.\n  Bruckner, Theophil, homöop. Arzt.\n3 | III. | 694 u. 695 | Schloß Wildegg. | Staat.\n  (Lohnhof.) | Wirtz, J., J. U. D., Polizeidirector.\n  Winzenried-Pfannenschmied, Samuel,\n  Thurmwart.\n  Lips-Lohrer, Joh., Feldw. Landjägercorps.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 15030,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2125,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0192,
+    "mean_line_chars": 38.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:47:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p149",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p149.jpg",
+      "bytes": 1320976,
+      "sha256": "893839a9a25af337a67b17afb710365494fea956011777bfc87237347900b5ec",
+      "sha256_of": "original",
+      "working_copy": "1862_p149.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:50+00:00"
+  }
+}

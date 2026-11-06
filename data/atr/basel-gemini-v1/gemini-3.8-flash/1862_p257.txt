@@ -1,0 +1,47 @@
+192 | Untere Rebgasse. — Rheingasse.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+17 | VII. | 249 A | | Braun-Geßler, Andreas de Samuel.
+  Braun-Geßler, Andr., Rothgerber.
+18 | VII. | 270 | | Masarey-Gruber, Franz.
+  Masarey-Gruber, Franz, Seidenfärber.
+  Wirz-Haberthuel, Jac., Zwirnermstr.
+19 | VII. | 251 | | Mackler-Tanner, Joh. Friedrich.
+  Mackler-Tanner, Joh. Fried., Schuhm.
+20 | VII. | 271 | Blauenstein. | Ramsperger-Hug, Eman.
+  Zeender-Kaiser, Ludw., Geschäftsdiener.
+21 | VII. | 281 | | Clavel-Linder, Alexander.
+22 | VII. | 272 | Egringerhof. | Weber-Engel, Joh. Jak.
+  Weber-Engel, Joh. Jak., Metzger u. Wirth.
+  Naegelin-Brunner, Christn., sel. Wb., Buchbinder u. Tapezierer.
+  Thurneysen, Gottlieb, Rentier.
+23 | VII. | 274 g | Bläserhof. | Clavel-Linder, Alexander.
+24 | VII. | 272 a | Egringerhof. | Weber-Engel, Joh. Jak.
+  Weber-Kray, Alfred, J.U.D., Advokat.
+25 | VII. | 274 | Bläserhof. | Clavel-Linder, Alexander.
+  Clavel-Linder, Alexander, Seidenfärber.
+  Oswald, Carl Theodor Math., Seiden-fabrikant.
+  Laube-Landerer, Rud., Contremaitre.
+27 | VII. | 273 | Bläsithor. | Staat.
+
+Rheingasse.
+1 | VIII. | 5 | zum Meyenberg. | Cramer-Senn, C. F., sel. Erben.
+  Spezereihdlg. Firma C. F. Cramer sel. Wb.
+  Cramer, Gustav, Kaufmann.
+  Cramer, Eduard, Commis.
+2 | VIII. | 3 | zum Schwalbennest. | Fausel, Gottlieb.
+  Fausel, Gottlieb, Straßenpflasterer.
+  Sprenger-Multner, Jacob Friedrich, Kaufmann.
+  Antoni-Fausel, Carl, Bereiter.
+3 | VIII. | 6 | zum Kupferthurm. | Seiler-Dettwyler, Niklaus.
+  Seiler-Dettwyler, Nikl., Metzger.
+  Assal-Stocker, Jak., Bäcker.
+4 | VIII. | 10 | z. neu. Gesellschaft. | Die 3 Gesellschaften d. mind. Stadt.
+  Gubler-Huber, Albert, Cafe- u. Speise-wirth.
+5 | VIII. | 7 | z. weiß. Rößlein. | David-Day, Achilles Albrecht.
+  David-Day, Achilles, Albr., Bäcker.
+7 | VIII. | 8 | z. mittl. Kilchmann. | Geßler-Sieber, Andreas.
+  Geßler-Sieber, Andreas, Kaufmann.
+8 | VIII. | 15 | Gasthof z. weißen Kreuz. | Pfister-Jetter, Andreas.
+  Pfister-Jetter, Andreas, Gastwirth.

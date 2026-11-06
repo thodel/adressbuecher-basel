@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p261",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p261.jpg",
+    "bytes": 1285594,
+    "sha256": "8cc83416a19eac94929ab7357a26d6ffc8653e3cf81515267de78d40ea033c8c",
+    "sha256_of": "original",
+    "working_copy": "1862_p261.jpg"
+  },
+  "text": "196 Rheingasse.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n59 | VIII. | 83 | z. vordern Henne. | Christ, Ursula Elisabeth.\n  Christ, Ursula Elisabeth, Schneiderin.\n60 | VIII. | 63 |  | Bienz-Mohler, Wb. Anna Elisab.\n  Bienz-Mohler, Wb. Anna Elisab., Part.\n61 | VIII. | 84 |  | Lotz-Gocht, Achilles.\n62 | VIII. | 64 |  | Vonkilch-Landerer, Sebast., sel. Erb.\n  Vonkilch-Landerer, Wb. Catharina, Part.\n  Vonkilch, Sebastian Richard, Commis.\n63 | VIII. | 85 | zum Salmen. | Gloor, Oscar.\n  Schwarz-Schweizer, Heinr., gew. Metzger.\n64 | VIII. | 65 |  | Thommen, Johannes, sel. Erben.\n  Thommen, Joh. Jakob, Bestäter.\n  Suter-Muston, Heinrich, Weinhändler.\n65 | VIII. | 94 |  | Huber, Joh. Heinrich.\n  Huber, Joh. Heinrich, Schuhmacher.\n66 | VIII. | 69 |  | Schnell-Burckhardt, Wb. Maria Sal.\n67 | VIII. | 95 |  | Hafner-Tschudin, Joh. Jakob.\n  Hafner-Tschudin, Joh. Jakob, Schuhm.\n  Degen-Kreis, Johann, Schneider.\n68 | VIII. | 70 | zur Fischwage. | Winckler-Schütz, Wb. Elisabeth.\n  Winckler-Schütz, Elisabeth, Schiffmann.\n  Korneli-Wagner, Johannes, Gipser.\n69 | VIII. | 96 | zum schönen Eck. | Euler, Wilhelm Rudolf.\n  Euler, Wilhelm Rudolf, Schuhmacher.\n70 | VIII. | 72 |  | Leupin-Scherberger, Wb. Emilie Friederike.\n  Leupin-Scherberger, Wb. Emilie, Part.\n  Leupin, Jgfr. Emilie, Wollwascherin.\n  Leupin, Jgfr. Friederika, Modiste.\n72 | VIII. | 73 |  | Mätzinger, Peter, sel. Erben.\n  Mätzinger-Siegel, Wb. Friederika Wilhelmine, Fischhandl.\n74 | VIII. | 77 |  | Riedtmann-Rebsamen, Joh. Heinr.\n  Riedtmann-Rebsamen, Joh. Heinrich, eidg. Zolleinnehmer.\n  Weber-Riedtmann, Wb. Maria, Detailhandlung.\n  Kölner-Langmesser, Joh. Rudolf, Geschäftsmann.\n  Kölner, Joh. Emil, Commis.\n76 | VIII. | 78 | zum gelben Schneck. | Winkler-Mettauer, Wb. Elisabeth.\n  Winkler-Mettauer, Wb. Elisab., Part.\n  Mettauer-Wagner, Theod., Schiffmann.\n78 | VIII. | 79 |  | David, Schwestern.\n  David, Judith und Anna Maria, Part.\n  David, Georg, Metzger.\n  Flury-Lüthardt, Jos. Barth., Lehrer.\n80 | VIII. | 80 | zur Trotte. | Glaser-Ritter, Friedrich.\n  Glaser-Ritter, Friedrich, Fischer und Holzhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8625,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2146,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:04:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p261",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p261.jpg",
+      "bytes": 1285594,
+      "sha256": "8cc83416a19eac94929ab7357a26d6ffc8653e3cf81515267de78d40ea033c8c",
+      "sha256_of": "original",
+      "working_copy": "1862_p261.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:52+00:00"
+  }
+}

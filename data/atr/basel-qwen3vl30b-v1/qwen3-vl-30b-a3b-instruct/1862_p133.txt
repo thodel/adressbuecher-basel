@@ -1,0 +1,59 @@
+68
+Imbergäcklein.
+Nene
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Kro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Imbergäcklein.
+1 | II. | 540 | | Kruse=Salathe, Frik.
+2 | II. | 541 | | Kruse=Salathe, Frik, Spezierer.
+3 | II. | 590 a | | Neuschwander=Luk, Daniel.
+4 | II. | 542 | | Neuschwander=Luk, Daniel, Wirth.
+| | | | Siehe Nr. 4 St. Andreasplaz.
+5 | II. | 591 c | | Cruffaire=Pfau, Wittwe Marg.
+| | | | Siehe Schneidergasse Nr. 22.
+6 | II. | 543 | zur gelben Schraube | Brodmann=Rudolf.
+| | | | Schweizer=Brodmann, Joh., Handelsm.
+| | | | Siehe Nr. 6 Andreasplaz.
+7 | II. | 539 | | Leithardt=Götz, Heinrich.
+| | | | Erlacher=Degen, Wb.Magd., Nudelnfabr.
+8 | II. | 547 | Einfahrt. | Frey=Salathe, Adolf.
+| | | | Siehe Nr. 8 Andreasplaz.
+9 | II. | 591 d | | Thommen=Scherrer, Wb. Cath.
+| | | | Thommen=Scherrer, Wb. Cath., Part.
+| | | | Naß=Wolf, Heinr., Stuhlschreiner.
+10 | II. | 537 | | Butz=Rieder, Franz Josef.
+| | | | Leithardt=Götz, Heinrich.
+| | | | Oberer, Karl, Maler.
+11 | II. | 536 | | Lefert=Rarger, Adolph.
+| | | | Christ=Stöcklin, Ludwig, Schuhmacher.
+12 | II. | 536 A | zur Gans. | Schneider=Fäsch, Friedrich.
+| | | | Hagenbach=Merian, Friedrich.
+| | | | Welterlin=Rammerer, H., Zimmermann.
+13 | II. | 535 u.,535 A | zur Gans. | Hagenbach=Merian, Friedrich.
+14 | II. | 534 | | Preiswerk= Sulger, Carl.
+| | | | (Magazin.)
+15 | II. | 598 | | Krayer=Loz, Friedrich.
+| | | | Eingang zu Nr. 4 am Spalenberg.
+16 | II. | 599 | | Gysin, Rudolf.
+| | | | Eingang Nr. 6 Spalenberg.
+17 | II. | 600 | | Bokardt, Jacob.
+| | | | Eingang zu Nr. 8 Spalenberg.
+18 | II. | 601 | | Feindel=Bouchard, Wb. Franziska.
+| | | | Eingang zu Nr. 10 Spalenberg.
+19 | II. | 602 F | | Schär=Haas, Joh. Jac.
+| | | | Luttiger=Bettig, Gregor, Schuster.
+20 | II. | 533 | | Mohler=Schönberger, Heinrich.
+| | | | Mohler=Schönberger, Heinr., Posament.
+21 | II. | 521 A | | Leuzinger=Zumbrod, Joh. Jakob.
+| | | | Leuzinger=Zumbrod, F. F., Fabrikarb.
+22 | II. | 532 | | Bell, Friedrich.
+| | | | Martin, Joh. Jac., Kaufhausarbeiter.
+23 | II. | 531 | | Schneider=Faesch, Friedrich.
+| | | | Otto, Rosina Cath., Kinderschule.
+| | | | Härdy=Wanner, Rud., Schuhmacher.

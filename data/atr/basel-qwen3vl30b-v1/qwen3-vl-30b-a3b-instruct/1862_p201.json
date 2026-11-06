@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p201",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p201.jpg",
+    "bytes": 1290082,
+    "sha256": "016d94b886b082d7ef9b11a0f09e65e047ea8cb6cc61437a74bba820fc667ad0",
+    "sha256_of": "original",
+    "working_copy": "1862_p201.jpg"
+  },
+  "text": "136\nSpalenberg. — Spalenthorweg.\nNro. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer\nHaus-Nr. | tier. | Haus-Nr. | | und Bewohner.\n-----|-------|------|----------------|---------------------------\n57 | II. | 452 | | Hartmann=Reck, Gottlieb.\n58 | II. | 466 | zur hohen Sonne. | Hartmann=Reck, Gottlieb, Spengler.\n59 | II. | 453 | zum rothen Helm. | Glok=Scherb, Peter.\n60 | II. | 465 | | Glok=Scherb, Peter, Küfer u. Wirth.\n61 | II. | 454 | zur Spinnwieden. | Uebelin=Viollinet, Heinrich, Commis.\n62 | II. | 464 | zum Mehlhaus. | Henke=Salathe, Wb. Catharina.\n63 | II. | 455 | zum Rayfersberg. | Henke=Salathe, Wb. Catharina, Part.\n65 | II. | 456 | | Levy-Levy, David, Kaufmann.\n| | | | Erlacher=Loz, Johannes.\n| | | | Brodbeck=Sutter, Wtb. Anna, Partif.\n| | | | Erlacher=Loz, Johannes, Commis.\n| | | | Jädlín, Daniel, Sekretär d. Stadtkanzlei.\n| | | | Erlacher, Anna, Kleinkinderjchule.\n| | | | Güller=Degelmann, Heinrich.\n| | | | Güller=Degelmann, Heinrich, Schneider.\n| | | | Buser, Hieronimus.\n| | | | Wipf=Bader, Rudolf, Tapezierer.\n| | | | Dreyfus=Hirsch, Leopold.\n| | | | Dreyfus=Hirsch, Leopold, Kaufmann.\n| | | | Jfelin=Rüttimeyer, Friedrich, Lehrer.\n| | | | Landerer und Merkle.\n| | | | Merkle=Klipfel, Albert,\n| | | | Landerer=Maring, Ludw., | Agentur.\nSpalenthorweg.\n2 | II. | 102 | | Bürgin=Wülf, Jakob.\n4 | II. | 101 E | | Stähle=Sollberger, Wb. Babette, Stroh-\n6 | II. | 101 D | | hutfabrif.\n8 | II. | 101 C | | Sommer=Walter, Melchior.\n| | | | Flick, Joh. Rudolf, Spengler.\n| | | | Borst=Ott, August, Schneider.\n| | | | Schjenbein, Rudolf, Bütchenschmied.\n| | | | Wik=Bonnet, Georg, Zuckerbäcker.\n| | | | Schneider=Buille, Friedrich, Commis.\n| | | | Baumberger=Rieder, Hans, Particular.\n| | | | Honesta=Weber, Georg.\n| | | | Honesta=Weber, Georg, Commis.\n| | | | Stumm=Schabelig, Gustav, Kaufmann.\n| | | | Zehntner=Weber, Heinrich, Redactor d.\n| | | | Basler Nachrichten.\n| | | | Dubied=Pfannenschmied, Georg\n| | | | Ludwig.\n| | | | Dubied=Pfannenschmied, Georg Ludwig,\n| | | | Commis.\n| | | | Fäsch, Rudolf, Secretär der Zeughaus-\n| | | | kammer.\n| | | | Hunziger=Weber, Carl David, Part.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5953,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "repetitive",
+    "chars": 2119,
+    "lines": 51,
+    "longest_char_run": 27,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0127,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p201",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p201.jpg",
+      "bytes": 1290082,
+      "sha256": "016d94b886b082d7ef9b11a0f09e65e047ea8cb6cc61437a74bba820fc667ad0",
+      "sha256_of": "original",
+      "working_copy": "1862_p201.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:09+00:00"
+  }
+}

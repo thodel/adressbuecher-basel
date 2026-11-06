@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p240",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p240.jpg",
+    "bytes": 1482228,
+    "sha256": "d8bbdb00a8bf9af7561f6b6b1b7a7f07b4cdc98c23f7968e152ab941c6557047",
+    "sha256_of": "original",
+    "working_copy": "1862_p240.jpg"
+  },
+  "text": "Grenzacher-Straße. 175\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n39 | VIII. | 50 b |  | Frey, Josef.\n40 | VIII. | 52 A |  | Schäffer, August.\n41 | VIII. | 50 D |  | Wölfflin-Freyvogel, Georg, u. von Vinzer, Friedr.\n  Wick-Keller, Wb. Anna, Part.\n43 | VIII. | 50 E | zum Fallgatter. | Schwarzkopf-Ambrosius, Archim.\n  Schwarzkopf-Ambrosius, Archim., Phil. Dr.\n  Ribbeck-Bayer, Otto, Dr. Professor.\n44 | VIII. | 53 | z. Rosengarten. | Thurneysen-Ryhiner, Wb. Valeria.\n45 | VIII. | 50 d |  | Gueng-Welhausen, Franz.\n48 | VIII. | 54 |  | Thurneysen-Ryhiner, Wb. Valeria.\n  Wetzel-Steinhauer, Herm., Gärtner.\n52 | VIII. | 57 AB | Rheinburg. | Bercher-Soultzener, Joh. Georg.\n  Bercher-Soultzener, Joh. Gg., Chemiker.\n  Frey, Jacob, Med. Dr., Arzt.\n54 | VIII. | 57 | Biergarten. | Gaudenz-Seeber, Aug. Nap.\n  Gaudenz-Seeber, Aug. Nap., Bierbr.\n  Blind-Schaub, Georg, Zimmermeister.\n  ZumKehr-Baumann, Friedr., Schrein.\n55 | VIII. | 55 | Grenzacherhof. | Kern-Bischoff, Friedr., eidg. Oberst.\n  Kern-Bischoff, Friedr., Bandfabrikant.\n58 | VIII. | 58 |  | Merian-Iselin, Carl, Staatskassier.\n62 | VIII. | 60 |  | Merian-Bischoff, Eduard sel. Erben.\n  Voegtlin, Johannes, Gärtner.\n72 | VIII. | 66 |  | Masselot-Kiefer, Franz.\n  Masselot-Kiefer, Franz, Gärtner.\n73 | VIII. | 67 | z. Eben-Ezer. | Rothen-Naef, Johannes.\n  Rothen-Naef, Johannes, Gutsbesitzer.\n74 | VIII. | 68 |  | Läuchli-Huggenberger, Wb. Elisab.\n  Läuchli-Huggenberger, Wb. Elisabeth, Gärtner.\n  Faesch, Johannes, Kupferschmied.\n76 | VIII. | 68 a |  | Läuchli-Huggenberger, Wb. Elisab.\n80 | VIII. | 72 | zur Solitude. | Hoffmann-Preiswerk, Wb. Helena.\n84 | VIII. | 73 |  | Hoffmann-Preiswerk, Wb. Helena.\n85 | VIII. | 75 | zum Kutty. | Delhafen, Samuel Jacob.\n  Madöry-Simmen, Jac., Posamenter.\n86 | VIII. | 76 C |  | Hoffmann-Preiswerk, Wb. Helena.\n88 | VIII. | 78 |  | Hoffmann-Preiswerk, Wb. Helena.\n  Drechsle-Elbe, Johs., Gärtner.\n91 | VIII. | 77 | zum Rank. | Baur-Faßler, Wb. Barbara.\n  Baur-Faßler, Wb. Barb., Gärtnerin.\n92 | VIII. | 78 b |  | Hoffmann-Preiswerk, Wb. Maria Helena.\n97 | VIII. | 69 |  | Ewig, Joh. Georg u. Maria.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9773,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2157,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:01:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p240",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p240.jpg",
+      "bytes": 1482228,
+      "sha256": "d8bbdb00a8bf9af7561f6b6b1b7a7f07b4cdc98c23f7968e152ab941c6557047",
+      "sha256_of": "original",
+      "working_copy": "1862_p240.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:01:36+00:00"
+  }
+}

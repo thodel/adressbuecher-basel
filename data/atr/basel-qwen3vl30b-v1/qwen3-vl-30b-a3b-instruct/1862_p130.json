@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p130",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p130.jpg",
+    "bytes": 1467678,
+    "sha256": "e5d86a36d80ef20202b8b023d2bde1f9eb271394c04ea759f3f0117b85e217a4",
+    "sha256_of": "original",
+    "working_copy": "1862_p130.jpg"
+  },
+  "text": "Nene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n3 | VI. | 1668 | zum blauen Wind. | Scheuble=Schlageter, August.\nScheuble=Schlageter, Aug., Ellenw. Lager.\nHaubenjack=Reiter, Fried., Saamenhdl.\nRoos=Schneider, Albr., Metzger.\n4 | VI. | 1727 | zum Käpplin. | Küstler=Knorr, Joh. Jacob.\nKüstler=Knorr, Joh. Jac., Schuhmacher.\nWezler=Frey, Ferd., Kirchner.\n5 | VI. | 1669 | zum Wind. | Gekler=Tanner, Leonhard.\nGekler=Tanner, L., Buchb. u. Linieranfkt.\n6 | VI. | 1726 | zum Krayel. | Haug, Johannes.\nHaug, Johannes, Schuhmacher.\n7 | VI. | 1760 | z. unt. Pfannenberg | Studer=Brüderlin, Joh. Jacob.\nStuder=Brüderlin, Joh. Jac., Schuhmach.\nPetri=Scherb, Em., Part.\n8 | VI. | 1725 | Schloß Saufenburg | Bohny=Düring, Joh. Jakob.\nBohny=Düring, Joh. Jak., Werkzeughdg.\n9 | VI. | 1671 | | Bauer, Joh., Getreidehdlg.\n10 | VI. | 1724 | zur Gloße. | Saladin=Frey, Johannes.\nSaladin=Frey, J., Criminal=G. Weibel.\nScheuch, Jakob, Schneidermeister.\nSutter=Baumgartner, Jakob.\nGanz=Baltiser, Joh., Trödler.\nWeber=Guggenbühler, Joh., Schreiner.\nKiefer=Weber, Ens., Schlosser.\n11 | VI. | 1672 | | Gekler=Anklin, Heinrich.\nGekler=Anklin, Heinrich, Metzger.\nSigg=Lensi, Johann.\nSigg=Lensi, Joh., Schuhmacher.\n12 | VI. | 1723 | z. grünen Thurm. | Schweizer=Dettwiler, Heinr.\nSchweizer=Dettwiler, H., Kupferschmied.\nBlum=Weil, Sal., Borbeter d. ifr. Gem.\n13 | VI. | 1673 | zum Schuler. | Braunschweig=Borach, Moses, u.\nBorach=Lang, Leopold.\nBraunschweig=Borach, Moses, Kfm.\nBorach=Lang, Leopold, Kaufmann.\nBorach, Gustav,\nBraunschweig, Emanuel,\nFirma Raphtali Braunschweig, Manu-\nfacturwaaren en gros et détail.\n14 | VI. | 1721 u. 22 | zum Pflugberg. | Keller=Plattner, Joh. Georg.\nKeller=Plattner, J. G., Schuhmacher.\n15 | VI. | 1674 | z. schwarzen Stern. | Branger, Jakob.\nSchenk=Schlageter, Gottl., Wirth.\nLentwylcr=Schneider, Magd., Gemüsehdg.\nSenn=Rieder, Julius, Fabrikarbeiter.\nBebler=Wiehri, Christian, Ansläuscr der\nCentralbahngesellschaft.\n16 | VI. | 1720 | zum Steinbogen. | Hosch=Breitenstein, Eduard.\nHosch=Breitenstein, Ed., Spengler.\n17 | VI. | 1675—76 | zur untern u. oberen | Widder. | Gekler=Rosenmund, Fritz.\nLazburg. | Gekler=Rosenmund, Fritz, Hutmacher.\nDoppler=Kramer, Heinr., Schneider.\n18 | VI. | 1719 | zum hintern Hütcr. |\n19 | VI. | 1677 | z. weifen u. schwarz. | 5",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7640,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2327,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p130",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p130.jpg",
+      "bytes": 1467678,
+      "sha256": "e5d86a36d80ef20202b8b023d2bde1f9eb271394c04ea759f3f0117b85e217a4",
+      "sha256_of": "original",
+      "working_copy": "1862_p130.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:31+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p228",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p228.jpg",
+    "bytes": 1369699,
+    "sha256": "9f77d2e7f49674b6324c0f4d4f9231685c79aeb9489fa30a12dcacfdbae68d74",
+    "sha256_of": "original",
+    "working_copy": "1862_p228.jpg"
+  },
+  "text": "Weiße-Gasse. | 163\n\nNeue Haus-Nr. | Quar tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n16 | IV. | 1138 | zum Paradies. | Gaß-Früh, Joh. Jak.\n  Gaß-Früh, Joh. Jak., Kostgeber.\n17 | IV. | 1109 | zum neuen Haus. | Krüsi-Zahler, Christian.\n  Leithardt, Peter, Schuhmacher.\n18 | IV. | 1139 | zum Oelbaum. | Christen-Mangold, Wb. Maria.\n  Christen-Mangold, Wb. M., Hebamme.\n  Mangold, Adam, Mechaniker.\n19 | IV. | 1108 | Heitwiller. | Krüsi-Zahler, Christian.\n  Krüsi-Zahler, Christian, Buchdrucker.\n  Dickenmann, August, Tapezierer.\n20 | IV. | 1140 | zum St. Peter. | Heckel-Hug, Joh. Jak.\n  Heckel-Hug, Joh. Jak., Typograph.\n21 | IV. | 1107 | zum Glücksrad. | Hindermann-Schölly, Friedrich.\n  Hindermann-Schölly, Friedr. Kfm.\n  Firma Jakob Bleiler, Spezerei- u. Colonialwaarenhandlung.\n22 | IV. | 1141 | zur Gipsmühle. | Strub-Becker, Lukas.\n  Strub-Becker, Lukas, Metzger.\n  Strub-Wassermann, Wilh., Commis.\n  Leimbacher-Hasler, Melch., Zimmerm.\n24 | IV. | 1142 | zum St. Niklaus. | Berger-Brandt, Wb. Carolina.\n  Berger-Brandt, Wb. Carolina, Wirthsch.\n26 | IV. | 1143 | zum Uristier. | Münkle, Johannes, Straßenwart.\n  Hug-Lotz, Wb. Agnes, Part.\n28 | IV. | 1144—45—46 | z. Gasthof z. Schiff. | Ritter, Rudolf.\n  Bohny, Gebrüder, Kleidermagazin.\n\n11*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6376,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1285,
+    "lines": 28,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:59:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p228",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p228.jpg",
+      "bytes": 1369699,
+      "sha256": "9f77d2e7f49674b6324c0f4d4f9231685c79aeb9489fa30a12dcacfdbae68d74",
+      "sha256_of": "original",
+      "working_copy": "1862_p228.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:59:50+00:00"
+  }
+}

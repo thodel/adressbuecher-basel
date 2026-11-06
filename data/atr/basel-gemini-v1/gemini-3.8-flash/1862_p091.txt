@@ -1,0 +1,50 @@
+26 Barfüßerplatz.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+3 | IV. | 1145—46 | Gasthof z. Schiff. | Ritter-Stahel, Rudolf.
+  Ritter-Stahel, Rudolf, Gasthofbesitzer.
+  Sacher, Joseph, Cigarrenhandlung.
+  Walter, Jacob, Bettfedernhandlung.
+4 | IV. | 1144 | zum Barteneck. | Ritter, Rudolf.
+  Bohny, Gebrüder, Kleidermagazin.
+5 | IV. | 1094 | z. h. Thurm. Schilt-eck. | Meyer, Ludwig.
+  Meyer, Ludw., Manufacturwaarenhdlg.
+  Meyer, Emanuel.
+6 | IV. | 1095 | Baderbehausung. | Seifert-Thommen, Jakob.
+  Seifert-Thommen, Jakob, Metzger und Speisewirth.
+  Walliser, Johannes, Prokurist.
+7 | III. | 1096 | Barfüßerkirche. | Staat.
+8 | III. | 937 B | Neues Kaufhaus. | Stadtgemeinde.
+  Euler, Eucharius, Kaufhausverwalter und Obereinnehmer.
+9 | III. | 739 | | Kinder von Adam Oser, Färber, sel.
+  Oser, Adam, Luise u. Emma.
+  Schardt, Caroline, Erzieherin.
+  Conradi, Christ. Dor., Musiklehrerin.
+10 | III. | 731—32 | Stadt-Casino. | Casinogesellschaft.
+  Cramer-Schnegg, Joseph, Abwart.
+11 | III. | 730 | zum braunen Mutz. | Kromer-Niederhauser, Jak. Christ.
+  Kromer-Niederhauser, Jak. Chr., Wirth.
+  Peter-Bitterli, U. Jos., Vieh-u. Heuhändl.
+12 | III. | 729 | zum Kienberg. | Schneider-Furter, Samuel.
+  Schneider-Furter, Sam., Schuhmacher und Weinschenk.
+  Schneider, Joh. Adam, Küfer.
+13 | III. | 728 | z. kleinen Kienberg. | Falkner, Jgfr. Catharina Marg.
+  Falkner, Jgfr. Cath. Margaretha, Part.
+  Weiß-Wiesner, Andreas, Geschäftsagent.
+14 | III. | 727 | | Bader-Döbelin, Urs Josef.
+  Bader-Döbelin, Urs Josef, Spengler.
+  Beck-Pfannenschmied, Michael Bernhard, Schneider.
+15 | III. | 726 | z. schwarz. Kugel. | Spörlin-Merian, Wb. Sara.
+  Jtschner-Mahler, Heinrich, Kaufmann.
+  Sessele Lutz, Ant., Secretär b. d. Centralb.
+16 | III. | 725 | zum Vogel Strauß. | Maas-Müller, Rudolf.
+  Maas-Müller, Rud., Dr. med. et chir.
+17 | III. | 724 B | | Huggenberger-Walser, Joh. Heinr.
+  Huggenberger-Walser, Joh. Heinrich, Ellenwaarenhandlung.
+  Gysin-Müller, Wb. M. Magd., Hebamme.
+  Moser, Heinrich, Centralb.-Angestellter.
+  Moser-Koller, Conrad, desgl.
+  Hebgen, Heinrich, Commis.
+18 | III. | 724 A | | Bueß-Gaß, Christian.
+  Bueß-Gaß, Christian, Weinschenk.
+  Bueß-Kromer, Joh. Jak., Polizeisekret.

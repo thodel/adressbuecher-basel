@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p238",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p238.jpg",
+    "bytes": 1458831,
+    "sha256": "eaa770c636fcf7c09777695c08010a20753c7f98a8da8a87ab063e998fb48174",
+    "sha256_of": "original",
+    "working_copy": "1862_p238.jpg"
+  },
+  "text": "Greifengasse. 173\nNeue Haus=Nummer. | Quar=tier. | Alte Haus=No. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n18 | VIII. | 391—392 | z. rothen Löwen. | Bienz=Deschger, Rudolf.\n| | | | | Bienz=Deschger, Rudolf, Meßger.\n| | | | | Bienz=Pack, Rudolf, Meßger.\n| | | | | Deschger=Langmesser, Joh., Wirth.\n19 | VII. | 236 | zur Traube. | Wohlnlich=Rusterholz, Wb. Cath.\n| | | | | Wohlnlich=Rusterholz, Wb. Cath., Bäcker.\n20 | VIII. | 237 | | Baumgartner=Burckhardt, Frz. Hch.\n| | | | | Baumgartner=Burckhardt, Franz Hch., Schneider.\n21 | VII. | 235 | | Langmesser=Meyer, Heinrich.\n| | | | | Langmesser=Meyer, Hch., Seiler.\n22 | VIII. | 232 | z. kleinen Stern. | Bohny, Marie Magdalena.\n| | | | | Bohny, Maria Magdalena, Cigarren=u. Tabakhdg., Firma F. F. Bohny.\n23 | VII. | 234 | z. rothen Eichhorn. | Essinger=Gutzwiller, Carl Friedrich.\n| | | | | Essinger=Gutzwiller, C. Friedr., Kfm.\n| | | | | Gutzwiller=Grummler, Seb., Kunstmal.\n24 | VIII. | 231 | zum Sternenberg. | Faesch=Rienle, Ludwig.\n| | | | | Faesch=Rienle, Ludw., Bierbrauer.\n25 | VII. | 233 | zum Eichhorn. | Bienz=Pfirtter, Frau Elisabeth.\n| | | | | Pfirtter=Weber, Wb. Elis., Part.\n| | | | | Winkler=Berger, Johs., Commis.\n| | | | | Bureau u. Magazin v. Doelli Bercher u. Comp. Chemiker.\n| | | | | Müsch=Went, Christian, Commis.\n26 | VIII. | 230 | | Schmidt-Kromer, Daniel.\n| | | | | Schmidt-Kromer, Daniel, Kübler.\n27 | VII. | 229 | zum Weitnau. | Merian=Seeber, Nicl. Emanuel.\n| | | | | May=Seeber, Martin, Bierwirth.\n| | | | | Sieber=Brugger, Carl, Commis.\n28 | VIII. | 227 | zum Biber. | Bulacher=Heukler, Johannes.\n| | | | | Bulacher=Heukler, Johs., Stadtbote.\n| | | | | Starke=Weisenburger, Rudolf Peter, Cigarrenhändler.\n| | | | | Wirz=Kirchhofer, Ed., Schirmfabrikant.\n| | | | | Munzinger=Imhof, Em., Maler.\n29 | VII. | 228 | z. gold. Greifen. | Wohlnlich=Fuchs, Rudolf.\n| | | | | Wohlnlich=Fuchs, Rudolf, Bäcker.\n30 | VIII. | 226 | | Widmann, Ludw. u. Neukomm, Joh.\n| | | | | Widmann-Hartmann, Ludw., Dr. med. Arzt.\n| | | | | Schmoll=Dreyfus, Sal., Leder-u. Fellhdl.\n| | | | | Siber=Schmalzer, Rud., Goldschmied.\n31 | VII. | 224 | zum Greifen. | Merian, Andr. Benj. u. Ludwig Dietrich.\n| | | | | Merian-Hänsler, Andreas Benjamin, Bierbrauer.\n| | | | | Faufel-Strub, Gottlieb, Kaufmann.\n| | | | | Hottinger=Knoechel, J. C., Straßenpflast.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6598,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2322,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p238",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p238.jpg",
+      "bytes": 1458831,
+      "sha256": "eaa770c636fcf7c09777695c08010a20753c7f98a8da8a87ab063e998fb48174",
+      "sha256_of": "original",
+      "working_copy": "1862_p238.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:38+00:00"
+  }
+}

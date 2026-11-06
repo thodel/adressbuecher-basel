@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p235",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p235.jpg",
+    "bytes": 1292258,
+    "sha256": "8809207efe3329e433af60034bb51e816197d464b10b456e65da3b45fb98272f",
+    "sha256_of": "original",
+    "working_copy": "1862_p235.jpg"
+  },
+  "text": "170 St. Clara-Straße. — Duttliweg. — Fabrikstraße.\nNene\nHaus=Nr\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n33 VII. 7 K ……………… Amans=Grollimund, Artur.\nAmaus=Grollimund, Artur, Dessinat.\nKöpfel, Ludw., Geometer.\nPreiswerd=Klingler, Wb. Ros., Part.\n35 VII. 7 L ……………… Wagner=Chrjam, Conrad.\nWagner=Chrjam, Conr., Beleuchtungs-\nControleur.\nWagner, Albert, Zeichner.\n37 VII. 7 C ……………… Linder=Seul, Wb. Suf. Bal.\nLinder=Seul, Wb. Suf. Bal., Zimmer-\nmeisters.\n49 VII. 7 P zum Warted. Merian=Seeber, Eml.\nMerian=Seeber, Eml., Bierbrauer.\nDuttliweg.\n6 VIII. 83 zum Duttli. Merian=VonderMühl.\nBolliger=Walter, Jakob, Zimmermann.\nFabrikstraße.\n2 VII. 88 ……………… Schmid=Ritter, Wb. Soph. Mar.\nSchmid=Ritter, Wb. Sophia Maria,\nRentiere.\n7 VII. 86 B ……………… Oswald=Kurz, Wb. Johanna Bar-\nbara.\nOswald=Kurz, Wb. Joh. Barb., Part.\nGräslin=Jörin, Joh. Georg.\nGräslin=Jörin, Joh. Georg., Zimmer-\nmeister.\n9 VII. 86 ……………… Sarasin, Hans Franz.\nGrimm=Ballmer, Christ., Fabrikmfr.\n14 VII. 83 A ……………… Bultier=Bingler, Eugen.\nBultier=Bingler, Eugen, Mechaniker.\n19 VII. 86 A ……………… Steffen=Krügel, Anton.\nSteffen=Krügel, Anton, Pflästerer.\nGlanzmann, Andreas, Milchhändler.\n25 VII. 86 D ……………… Langmeffer=Geohard, Carl.\nLangmeffer=Geohard, Carl, Seiler.\nTollmann=Weiß, J. Samuel, Commis.\nHierholzer=Meyer, Joseph, Gärtner.\n27 VII. 86 C ……………… Tschopp=Ballmer, Jakob.\nTschopp=Ballmer, Jakob, Commis.\nBulacher, Achilles, Partikular.\n29 VII. 86 E ……………… Winter=Rächer, Friedr. IV\nWinter=Rächer, Friedr., Part.\nMaurice=Syfin, Josef, Weingeschäft.\nKettig=Schweizer, Friedr., Bauführer.\n31 VII. 86 F ………………",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4963,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1619,
+    "lines": 55,
+    "longest_char_run": 6,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0037,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p235",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p235.jpg",
+      "bytes": 1292258,
+      "sha256": "8809207efe3329e433af60034bb51e816197d464b10b456e65da3b45fb98272f",
+      "sha256_of": "original",
+      "working_copy": "1862_p235.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:20+00:00"
+  }
+}

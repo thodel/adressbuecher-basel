@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p129",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p129.jpg",
+    "bytes": 1301638,
+    "sha256": "c89929e206ffad9461c674d8ece44e873895e702bd170340faef779714dd42f8",
+    "sha256_of": "original",
+    "working_copy": "1862_p129.jpg"
+  },
+  "text": "64 Heumattstr. Hirschgasse. Hirzbodenweg. Holeeweg. Hutgasse.\nNene\nHaus=Mr\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n14 III. 203 A. 3. neuen Quartier. Jäggi=Zundt, Adolf.\nWölfflin=Freyvogel, Joh. Georg, Ziegler.\nSchmitter=Schieblin, Joh., Eisenbahn-\nbeamter.\nPfander, A. Victor, Agent-commis-\nsionnaire in Wein und Comestibles.\nLauser, B., Architec.\n16 III. 203 .................. Fiechter=Jlg, Friedrich.\nFiechter=Jlg, Friedrich, Wirth.\n17 IV. 212 B. Bierkeller. Eckenstein=Maring, Wb. Henriette.\n19 IV. 212 A. Bierkeller. Merian=Brandmüller, Friedrich.\n21 IV. 211 A. .................. Gernler=Eich, Joh. Leonhard.\nGernler=Eich, Joh. Leonhard, Wirth.\nHirschgasse.\n3 IV. 986 3. HirschenSchmiede. Roth=Fischer, Achiles.\n(Remise und Stallung.)\n5 IV. 985 zum Unkeln. Werenfels=Mäglin, Emanuel.\nWerenfels=Mäglin, Emanuel, Maler.\n9 IV. 985 A. .................. Bay, Johannes.\nBay, Johannes, Baumeister.\nMüller, Hans Georg, Prof. d. Theol.\nBernoulli=Mazinger, Karl, Lehrer.\n13 IV. 998 F. .................. Kaltenmeyer=Kircher, Jacob.\n(Eingang zu dem Oekonomiegebäude.)\n15 IV. 985 B. .................. Rometsch=Stählin, Gottfried.\nRometsch=Stählin, Gottfried, Schreiner.\nKoch, Wilhelm, Commis.\nHäffig, Wilhelm, Commis.\nHirzbodenweg.\n9 V. 297 A. .................. Tschopp=Holzach, Heinrich.\n(Spenglerwerkstätte.) (Schlosserei von\nStückelberger=Burchardt.)\nHoleeweg.\n5 III. 176 .................. Bolander=Meyer, Joseph.\nBolander=Meyer, Joseph, Gärtner.\nSchmid=Forrer, Conrad, Hafner.\n11 III. 175 .................. Buser=Schwander, Samuel.\nBuser=Schmid, Wb. Chrisch., Wirthin.\n13 III. 175 A. zur Täuferkirche. Täufergemeinde.\nWinteregg=Hilti, Johannes, Verwalter.\n15 III. 175 B. .................. Hartmann=Hirt, Heinrich.\nHartmann=Hirt, Heinr., Ziegler.\nHutgasse.\n1 VI. 1667 zum gold. Wind. Haas=Morgen, Etienne.\nHaas=Morgen, Etienne, Parapluiesshdlg.\nHaas, Geschw., L. F. u. A. H., Schneid.\n2 VI. 1728 zum Oppenheim. Jehl=Ranstein, J. Gg.\nJehl=Ranstein, J. G., Café-Restaurant.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6397,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2018,
+    "lines": 58,
+    "longest_char_run": 18,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0089,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p129",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p129.jpg",
+      "bytes": 1301638,
+      "sha256": "c89929e206ffad9461c674d8ece44e873895e702bd170340faef779714dd42f8",
+      "sha256_of": "original",
+      "working_copy": "1862_p129.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:24+00:00"
+  }
+}

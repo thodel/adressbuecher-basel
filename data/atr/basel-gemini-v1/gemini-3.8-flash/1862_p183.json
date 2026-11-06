@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p183",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p183.jpg",
+    "bytes": 1304491,
+    "sha256": "dc5e9a488b9e194ef1e9a0f08eeeff78821f4b51a392838a35b700c0fdb13ab2",
+    "sha256_of": "original",
+    "working_copy": "1862_p183.jpg"
+  },
+  "text": "118 | Rittergasse. — Roßhofgasse.\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n26 | V. | 1212 | St.Albanschwibbog. | Stadtgemeinde und Staat.\n27 | V. | 1361 | zum Olsſpergerhof, oder Tiger. | Merian-Thurneysen, Alfred.\n  Merian-Thurneysen, Alfred, Kaufm.\n29 | V. | 1360 | zur Kapelle. | Vischer-Bilsinger, Wilhelm.\n  Filial-Bureau der Seidentrocknungs-Anstalt in Zürich.\n31 | V. | 1358—59 | Deutschord.-Kapelle | Vischer-Bilsinger, Wilhelm.\n  Vischer-Bilsinger, Dr. Wilh., Professor.\n  Fürstenberger-Vischer, Georg, Kaufm.\n  VonderMühll, Valeria, Particular.\n33 | V. | 1357 | | Iselin-Burckhardt, Isaac.\n  Trüdinger u. Comp., Bandfabrik.\n35 | V. | 1356 b | deutsches Haus. | Vischer-Burckhardt, Peter.\nRoßhofgasse.\n3 | II. | 513 | | Vogel-Strittmatter, Christian.\n  Vogel-Strittmatter, Christ., Schuhm.\n  Hirsch-Studer, Dorothea, Modiste.\n4 | II. | 516 a c | | LaRoche-Staehelin, Benedict.\n6 | | | |\n  Eisenhandlg. v. Ludwig-Eckenstein, Andr.\n5 | II. | 514 | | Oswald-Keller, Michael.\n  Oswald-Keller, Michael, Maler.\n  Woelfle-Heer, Johannes, Schreiner.\n  Jäggi, Jakob, Schreiner.\n  Liechti, Johannes, Malerwerkstätte.\n7 | II. | 515 | zur Eremitage. | Leuthardt-Rümbelin, Eduard.\n  Leuthardt-Rümbelin, Ed., Holzhändler.\n  Picard-Bloch, Leon, Bandhandlung.\n  Bloch-Rieser, Alex., Pferdehändler.\n8 | II. | 516 | hinterer Roßhof. | LaRoche-Stehelin, Benedict.\n  Hindermann-Hauser, Franz, Rentier.\n  Faesch-Zaeslin, Joh. Jakob, Alt-Spitalverwalter, J. U. Dr.\n9 | II. | 459 | Brunnwerkhof. | Stadtgemeinde.\n  Bureau d. Brunnmeisters, Werkstätte u. Magazin des Brunnwerks.\n10 | II. | 458 | zur Harmonie. | Müller-Schmidt, Joh. Nepomuk.\n  Müller-Schmidt, Joh. Nep., Wirth.\n  Engler, Emanuel, Schlosser.\n  Engler, Franz, Musiker.\n11 | II. | 460 | | Schärer-Amsler, Leonhard.\n  Schärer-Amsler, Leonhard, Metzger.\n12 | II. | 463 A. | zur Altane. | Holdenecker, Achilles.\n  Siehe St. Petersgraben Nr. 55.\n13 | II. | 461 | | Leutze-Ries, Wb.\n  Leutze-Ries, Wb., Schuhmacher.\n15 | II. | 463 | | Mangold-Müller, Catharina, Frau.\n  Mangold-Müller, Johann, Spezierer.\n  Hirt-Fehr, Pius, Schneider.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8796,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2142,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:53:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p183",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p183.jpg",
+      "bytes": 1304491,
+      "sha256": "dc5e9a488b9e194ef1e9a0f08eeeff78821f4b51a392838a35b700c0fdb13ab2",
+      "sha256_of": "original",
+      "working_copy": "1862_p183.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:07+00:00"
+  }
+}

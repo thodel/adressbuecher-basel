@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p177",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p177.jpg",
+    "bytes": 1251816,
+    "sha256": "31c4a058b8059290601ab9c97545dc64e80556434635374a37652ed4c8f60473",
+    "sha256_of": "original",
+    "working_copy": "1862_p177.jpg"
+  },
+  "text": "112 St. Peters-Graben. St. Peterskirchplatz. St. Peters-Platz.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n57 | II. | 457 | | Ludwig-Frey, Wb. Anna Elisabeth.\n  Ludwig-Frey, Wb. Anna Elisabeth, Part.\n  Eisner-Ludwig, Wb. Julie, Wirth.\n  Ludwig-Neukomm, Heinrich, Kaufmann.\n  Neukomm, Heinrich, Particular.\n\nSt. Peterskirchplatz.\n\n1 | I. | 246 | z. schönen Keller. | Eglinger, Susanna.\n  Eglinger, Susanna, Rentiere.\n2 | I. | 247 | altes Schulhaus. | Eglinger, Susanna.\n  Zemp-Haab, Anton, Lithograph.\n  Firma: A. Zemp u. Comp.\n3 | I. | 246 | z. schönen Keller. | Eglinger, Susanna.\n  Eggli, Valeria, Vorgängerin.\n  Eggli, Magdalena, Nätherin.\n  Siehe Nr. 9 Fischmarkt.\n5 | II. | 565 | zum Stift. (Provisorei.) | Stadtgemeinde.\n  Hübscher-Spahn, Joh. Martin, Lehrer.\n6 | II. | 566 | zur neuen Offenburger Kapelle. | Socin-LeGrand, Abel.\n  Siehe Nr. 27 St. Peters-Graben.\n7 | I. | | St. Peterskirche. | Staat.\n8 | I. | 243 | Pfarrhaus. | Staat.\n  Miville-Miville, Joh. Jacob, Pfarrer.\n  Miville, Joh. Rudolf, Kaufmann.\n9 | I. | 242 | Violenhof. | Falkner, Wilhelm u. Frau Alioth-Falkner.\n  Falkner, Wilhelm, Kaufmann.\n  Ewig, Ludwig u. Maria, Particulare.\n10 | I. | 241 | zum Ulmerhof. | Falkner, Wilhelm u. Frau Alioth-Falkner.\n12 | I. | 240 | | Frutiger, Joh. Abraham, sel. Erben.\n  Liebrich-Frutiger, Rudolf, Flachmaler.\n  Frutiger, Heinrich, Ferger.\n  Weibel-Geßler, Jacob, Postbeamter.\n13 | I. | 239 | | Enholz-Sandreuter, Carl.\n14 | I. | 237 | | Tschudi-Werlin, Jacob.\n  Tschudi-Werlin, Jacob, Rathsbote.\n\nSt. Peters-Platz.\n\n1 | II. | 276 | großes Zeughaus. | Staat.\n2 | II. | 276 | Werkhofeinfahrt. | Staat.\n3 | II. | 308 | | Bachofen-Fininger, Samuel.\n  Bachofen-Fininger, Samuel, Metzger u. eidg. Oberst.\n  Müller-Iselin, Georg, Rentier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7628,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1807,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p177",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p177.jpg",
+      "bytes": 1251816,
+      "sha256": "31c4a058b8059290601ab9c97545dc64e80556434635374a37652ed4c8f60473",
+      "sha256_of": "original",
+      "working_copy": "1862_p177.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:15+00:00"
+  }
+}

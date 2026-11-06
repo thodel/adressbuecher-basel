@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p257",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p257.jpg",
+    "bytes": 1284656,
+    "sha256": "f9e36c6ccce789269e241db7dcb0ae6115070b5b6fc492abbd405c7340adf604",
+    "sha256_of": "original",
+    "working_copy": "1862_p257.jpg"
+  },
+  "text": "192 | Untere Rebgasse. — Rheingasse.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n17 | VII. | 249 A | | Braun-Geßler, Andreas de Samuel.\n  Braun-Geßler, Andr., Rothgerber.\n18 | VII. | 270 | | Masarey-Gruber, Franz.\n  Masarey-Gruber, Franz, Seidenfärber.\n  Wirz-Haberthuel, Jac., Zwirnermstr.\n19 | VII. | 251 | | Mackler-Tanner, Joh. Friedrich.\n  Mackler-Tanner, Joh. Fried., Schuhm.\n20 | VII. | 271 | Blauenstein. | Ramsperger-Hug, Eman.\n  Zeender-Kaiser, Ludw., Geschäftsdiener.\n21 | VII. | 281 | | Clavel-Linder, Alexander.\n22 | VII. | 272 | Egringerhof. | Weber-Engel, Joh. Jak.\n  Weber-Engel, Joh. Jak., Metzger u. Wirth.\n  Naegelin-Brunner, Christn., sel. Wb., Buchbinder u. Tapezierer.\n  Thurneysen, Gottlieb, Rentier.\n23 | VII. | 274 g | Bläserhof. | Clavel-Linder, Alexander.\n24 | VII. | 272 a | Egringerhof. | Weber-Engel, Joh. Jak.\n  Weber-Kray, Alfred, J.U.D., Advokat.\n25 | VII. | 274 | Bläserhof. | Clavel-Linder, Alexander.\n  Clavel-Linder, Alexander, Seidenfärber.\n  Oswald, Carl Theodor Math., Seiden-fabrikant.\n  Laube-Landerer, Rud., Contremaitre.\n27 | VII. | 273 | Bläsithor. | Staat.\n\nRheingasse.\n1 | VIII. | 5 | zum Meyenberg. | Cramer-Senn, C. F., sel. Erben.\n  Spezereihdlg. Firma C. F. Cramer sel. Wb.\n  Cramer, Gustav, Kaufmann.\n  Cramer, Eduard, Commis.\n2 | VIII. | 3 | zum Schwalbennest. | Fausel, Gottlieb.\n  Fausel, Gottlieb, Straßenpflasterer.\n  Sprenger-Multner, Jacob Friedrich, Kaufmann.\n  Antoni-Fausel, Carl, Bereiter.\n3 | VIII. | 6 | zum Kupferthurm. | Seiler-Dettwyler, Niklaus.\n  Seiler-Dettwyler, Nikl., Metzger.\n  Assal-Stocker, Jak., Bäcker.\n4 | VIII. | 10 | z. neu. Gesellschaft. | Die 3 Gesellschaften d. mind. Stadt.\n  Gubler-Huber, Albert, Cafe- u. Speise-wirth.\n5 | VIII. | 7 | z. weiß. Rößlein. | David-Day, Achilles Albrecht.\n  David-Day, Achilles, Albr., Bäcker.\n7 | VIII. | 8 | z. mittl. Kilchmann. | Geßler-Sieber, Andreas.\n  Geßler-Sieber, Andreas, Kaufmann.\n8 | VIII. | 15 | Gasthof z. weißen Kreuz. | Pfister-Jetter, Andreas.\n  Pfister-Jetter, Andreas, Gastwirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8420,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2078,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:04:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p257",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p257.jpg",
+      "bytes": 1284656,
+      "sha256": "f9e36c6ccce789269e241db7dcb0ae6115070b5b6fc492abbd405c7340adf604",
+      "sha256_of": "original",
+      "working_copy": "1862_p257.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:13+00:00"
+  }
+}

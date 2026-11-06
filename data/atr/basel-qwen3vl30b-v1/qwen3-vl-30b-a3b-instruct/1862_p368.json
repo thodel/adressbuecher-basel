@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p368",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p368.jpg",
+    "bytes": 1663254,
+    "sha256": "6472dd507c8820b3ef2747f148e84a093e21df80b6a13b43193b4ea9b0ef25f6",
+    "sha256_of": "original",
+    "working_copy": "1862_p368.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 303\nKern-Saifer, Franz Josef, Papierer. St. Alban-Thal 28.\n— =Schmerber, Louise, Part. Davidsgasse 17.\n— u. Sohn, Bandfabrikanten. Spitalstr. 4.\n— =Werthemann, Ed., Bandfabrikant. St. Johann-Vorstadt 5.\n— =Wohnlisch, Joh. Barth., Seidenfärbereigeselle. Greifengasse 19.\nKesselfring-Bertichy, Joh., Fabrikarb. Schützenmattstraße 8.\nKestenholz-Brunner, Joh. Anton, Dessinateur. Spalenvorstadt 39.\n— =Dunkel, J. J., Cartonnier. Hintere Spitalgasse 9.\n— =Häfner, Wb. Elisabeth, Kostgeberin. Schafgäßlein 5.\n— =Hug, Theophil, Posamenter. Webergasse 26.\n— =Neuhäuser, Elisab., Klingenthalarbeiterin. Greifengasse 32.\nKestner, Charlotte, Part. Aeschengraben 11.\n— =Martin, Wb. Fanny, Rentiere. St. Peters-Platz 15.\nKessler-Dettwyler, Wb. Cath., Kostgeberin. Unterer Heuberg 5.\n— =Dörflinger, Phil. Josef, Fabrikarbeiter. Lindenberg 6.\n— =Müller, Wb. Magd., Part. Münchsteinerner Straße 22.\n— =Rahm, Alex., Knecht. Rheingasse 60.\nKetterer-Laube, Therefia, Kostgeberin. Gemseberg 5.\nKettiger, Johs. Carl, Commis. Blumenrain 20.\nKiefer-Bär, Gg., Quincailleriewarenhandlg. Freie Straße 23.\n— =Bay, Wb., Lohnwascherin. St. Alban-Thal 40.\n— =Keller, Ignaz, Fabrikarbeiter. Pfluggäßlein 8.\n— =Kochth, Johs., Commis. Aeschenvorstadt 48.\n— =Schaub, Wb. Maria, Part. Steinenthorstraße 33.\n— =Weber, Eusebius, Schlosser. Hutgasse 11.\n— =Weibel, J. H., Kaufmann. Freie Straße 70.\n— Wilhelm, Agent. Blumenrain 13.\nKieffer-Scott, Magdalena, Victualienhändlerin. Spalenberg 29.\nKienast, Rudolf, Seidenfärberegeselle. St. Johann-Vorstadt 66.\nKienner-Tschopp, Hans Rud., Landwirth. Horburgstraße 20.\nKienle-Gauff, Ferd., Bierbrauer u. Wirth. Alybecksstraße 43.\n— =Schneider, Carl Ludwig, Lehrer. Schützengraben 39.\nKienzi-Loz, Friedrich, Commis. Neue Vorstadt 22.\nKienzi-Gschwend, Christian, Kaufhausarbeiter. Wallstraße 5.\n— Johann, Bäcker. St. Johann-Vorstadt 61.\n— =Oswald, Wb. Judith, Part. St. Johann-Vorstadt 61.\n— =Schweizer, Leonh., Fuhrhalter. St. Johann-Vorstadt 59.\n— =Tschopp, J. J., Lohndiener. Spalenthorweg 8.\nKienzlin-Eichacker, Joh. Jac., Tapezierer. St. Kilcher-Danmeyer, Jacob, Landwirth. Breite Straße 35.\nKilp-Sulger, Johs., Gascontroleur. Schützenmattstraße 15.\nKimmeler-Kaas, Friedr., Hausbedienter. St. Johann-Vorstadt 62.\nKindhauser-Kleff, Johs., Fabrikarbeiter. Imbergässlein 31.\nKindweiler, Fritz, Maler. Gartenstraße 64.\nKinkelin-Schirmer, Hermann, Lehrer. Wilschwylers Straße 27.\nKirchdörfer-Köchlin, Christian, Buchdrucker. Freie Straße 32.\nKircher-Merian, Jac., Part. Aeschengraben 24.\nKirchhofer-Herzog, Wb. Maria Marg., Nätherin. Untere Rheingasse 9.\nKirsch, Arnold, Kaufmann. Freie Straße 8.\n— J. C., Agentur. Freie Straße 8.\n— =Lindenmeyer, Wb. Firma Casp. Krug. Spezerei u. Comestibleshandlung. Freie Straße 8.\n— Peter, Kaufmann. Freie Straße 8.\nKissel-Miville, Johs., Dr. med. u. chir., Arzt. Todtentanz 8.\nKistler-Hasenböhler, Johann, Fabrikarbeiter. Steinenvorstadt 13.\nKislig-Poiré, Rudolf, Commis. Schützengraben 15.\n— Samuel, Schuhmacher. Spalenberg 34.\nLeonhards-Graben 20.\nKlaiber-Dettinger, Louis, Kaufmann. Schützenmattstraße 33.\n— L. u. Comp., Agentur. Schützenmattstraße 14.\n— =Tschopp, Andreas, Schuhmacher. Münzgäßlein 3.\nKlais, Anna Cath., Taglöhnerin. Grenzacher Straße 105.\nKlarer-Wyß, Adrian, Schreinergeselle. Hammerstraße 98.\nKlaus-Wäderich, Wb. Anna, Zettlerin. Döfengasse 16.\nKlausener-Mumprecht, Wb. Elis., Wascherin. Gerbergässlein 24.\nKlausfelder-Vörtfcher, Burkhard, Marmorist. Alybecksstraße 109.\nKléber, Sophie Cath., Lehrerin. St. Peters-Graben 48.\nKleeß-Hef, Ulrich, Straßenarbeiter. Grenzacher-Straße 73.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9277,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3585,
+    "lines": 67,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 52.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:10:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p368",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p368.jpg",
+      "bytes": 1663254,
+      "sha256": "6472dd507c8820b3ef2747f148e84a093e21df80b6a13b43193b4ea9b0ef25f6",
+      "sha256_of": "original",
+      "working_copy": "1862_p368.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:12+00:00"
+  }
+}

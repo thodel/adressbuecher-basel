@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p142",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p142.jpg",
+    "bytes": 1395884,
+    "sha256": "b29c5fdeca066cf98b6dd18e5220b803c6e823e67f03d77aa87e17f4b6865b55",
+    "sha256_of": "original",
+    "working_copy": "1862_p142.jpg"
+  },
+  "text": "Klosterberg. — Kohlenberg. 77\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n15 | III. | 883 | | Bischoff-Kestner, Joh. Jac.\n  Magazin.\n17 | III. | 882 | | Christen-Preiswerk, Peter.\n  Christen-Preiswerk, Peter, Commis.\n  Bujard, Aimé, Commis.\n19 | III. | 881 | z. gelben Hammer. | Brolly-Dornacher, Martin.\n  Brolly-Dornacher, Martin, Spezierer.\n  Brolly, Martin, Kaufmann.\n21 | III. | 880 | | Friedlin, Christian.\n  Friedlin, Christian, Grabmacher.\n  Schwander-Schneckenburger, Samuel, Schlosser.\n  Eichelberger-Engel, Friedrich, Schneider.\n23 | III. | 879 A | | Brühl, Geschwister.\n  Wiesendanger-Bayer, Ed., Dessinateur.\n  Löw-Bleuler, Rudolf, Tabakfabrikant.\n  Brühl, Heinr., Maria, Margaretha u. Catharina, Fabrikarbeiter.\n25 | III. | 879 | z. kleinen Widderlin. | Meyer-Merian, Rud., Friedrich.\n  Meyer-Merian, Rud. Friedr., Wagner.\n  Feddersen-Possenti, Peter.\n  Merian-Jung, Wb. Barb., Part.\n  Lindenmeyer-Fent, Wb. Carol., Part.\n  Rohmer-Lindenmeyer, Herm., Musiker.\n  Bienz-Hartmann, Joh. Georg, Schreinr.\n  Milliet-Egger, Jean, Eisenbahnbeamter.\n  Götz-Suter, Johann, Commis.\n27 | III. | 878 | | Kramer, Joh. Jacob.\n  Kramer, Joh. Jacob, Kaufhausarbeiter.\n29 | III. | 877 | | Wehrly-Hilbert, Joh. Jacob.\n  Wehrly-Hilbert, Joh., J., Kaufhausarb.\n  Wehrly-Müller, Eman., Commis.\n31 | III. | 876 | zum grünen Engel. | Däschler-Böhler, Simon.\n  Däschler-Böhler, Simon, Claviermacher.\n  Hauser, Jacob, Schuhmacher.\n\nKohlenberg.\n\n1 | III. | 760 | | Herzog-Wybert, Maria.\n2 | III. | 739 B | | Oser, Adam, sel. Erben.\n  Farbhaus.\n3 | III. | 759 | zum untern blauen Hammer. | Beck und Herzog.\n  Bureau von Beck u. Herzog.\n  Bur. d. schweiz. Colonisations-Gesellschaft Beck, Herzog u. Comp.\n  Rimensperger, Carol., Spezereihandl.\n4 | III. | 743 | | Uebelin-Marbach, Wb. Elisabeth.\n  Uebelin-Marbach, Wb. Elis., Glätterin.\n  Früh, Hieronimus, Müller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7125,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1911,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:46:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p142",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p142.jpg",
+      "bytes": 1395884,
+      "sha256": "b29c5fdeca066cf98b6dd18e5220b803c6e823e67f03d77aa87e17f4b6865b55",
+      "sha256_of": "original",
+      "working_copy": "1862_p142.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:33+00:00"
+  }
+}

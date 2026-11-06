@@ -1,0 +1,48 @@
+56 Gerbergäßlein.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+16 | VI | 634 | | Wiesendanger-Häsy, Wb. Sophia.
+  Wiesendanger-Häsy, Wb. S., Schneiderin.
+  Wiesendanger-Hägler, J. J. Fr., Ferger.
+17 | VI | 662 | das alte Bad. | Gaß-Thurneysen, Wb. Friederika.
+18 | VI | 635 | zur Niederburg. | Grunauer-Mayer, Sebastian.
+  Grunauer-Mayer, Sebastian, Kaufm.
+  Stöcklin-Walz, Georg Friedr., Commis.
+  Wild, Josua, Rentier.
+19 | VI | 663 | | Haller-Marfort, B.
+  (Magazin.)
+20 | VI | 636 | | Müry-Rudin, Samuel.
+  Müry-Rudin, Samuel, Kostgeber.
+21 | VI | 664 | zum rothen Krebs. | Singeisen, Joh. Jakob Daniel.
+  Gauthier, Louis, Hutmacher.
+22 | VI | 638 | zum Königsberg. | Meyer-Altorfer, Friedrich.
+  Meyer-Altorfer, Friedr., Spezerei- und Branntweinhandlung.
+  (Firma: Johannes Meyer.)
+23 | VI | 665 | z. hangend. Stein. | Thurneysen, Ludwig.
+  Leuenberger-Wyß, M. A., Wascherin.
+24 | VI | 677 | zum Richtbrunnen. | Mast-Pfannenschmied, Joh. Jakob.
+  Mast-Pfannenschmied, J. J., Buchdrucker.
+25 | VI | 666 | zur niedern Burg. | Schaub-Eichacker, David.
+  Hotz-Wespi, Jacob, Fabrikarbeiter.
+26 | VI | 678 | zur Birs. | Buser-Schlegel, Jacob.
+  Buser-Schlegel, Jacob, Schneider.
+  Buser-Hauser, Carl, Commis.
+27 | VI | 667 | | Wohnlich-Biland, Wb. Sophia.
+  (Magazin.)
+28 | VI | 679 | zum Richtbrunnen. | Baumann-Gerber, Heinrich, und Gerber-Brechbühl, Christian.
+  Baumann-Gerber, Heinrich, Spezierer.
+  Gerber-Brechbühl, Christian, Holz- u. Kohlenhändler.
+  Welti-Müller, Georg, Fuhrhalter.
+29 | VI | 668 | z. langen Leiter. | Krug, Marx.
+  Krug, Marx.
+30 | VI | 680 | | Braun-Widler, Bernhard.
+  Braun-Widler, Bernhard, Maurer.
+31 | VI | 669 | | Koller-Wei, Wb. Rosina.
+  Baumgartner-Banier, Alois, Fabrikarb.
+32 | VI | 681 | zum Mohrenkopf. | Weiß-Fürst, Daniel Hieronimus.
+  Weiß-Fürst, Daniel Hier., Briefträger und Holzhändler.
+33 | VI | 670 | zum grünen Stein. | Löw-Keiser, Joh. Jakob.
+  Bölcklin-Heckler, H., Postangestellter.
+34 | VI | 682 | zur Staufenburg. | Gohl-Maag, Heinrich.
+  Gohl-Maag, Heinrich, Zimmermeister.
+35 | VI | 671 | | Ammann, Achilles.

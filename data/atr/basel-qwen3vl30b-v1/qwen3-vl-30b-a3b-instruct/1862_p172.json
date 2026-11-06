@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p172",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p172.jpg",
+    "bytes": 1467344,
+    "sha256": "a5470c7fae194c2c9254dee69034689b7993bc2b2cfe415fe3dde56299020314",
+    "sha256_of": "original",
+    "working_copy": "1862_p172.jpg"
+  },
+  "text": "St. Peters-Berg.\n107\nNeue Haus-Nr. | Quartier. | Alte Haus-Kro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n25 | I. | 191 | zum Friedberg. | Lokz-vonMechel, Wb. Judith.\n| | | | | Lokz-vonMechel, Wb. Judith, Part.\n| | | | | Lokz, Leonhard, Posamentirer.\n| | | | | Beck-Lokz, Christian Friedrich, Kunsthändl.\n| | | | | Pfister-Lokz, Joh. Heinrich, Kaufmann.\n| | | | | Schönauer, Hieronimus.\n| | | | | (Magazin.)\n26 | I. | 182 | zur Meerfaze. | Hagenbach-Geigy, Wb. Maria.\n| | | | | Hagenbach-Geigy, Wb. Maria, Kent.\n| | | | | Hagenbach, Peter.\n| | | | | Bürkli-Bereuter, Gottl., Kochheerdfabril.\n27 | I. | 230 | zum Steglin. | Courvoisier-Lowndes, Georg Ludwig.\n| | | | | Courvoisier-Lowndes, Georg Ludwig, Kaufmann.\n| | | | | Firma: G. Courvoisier u. Comp., Commission in Effekten, sowie Eigenvverkauf von Thee u. feinen Weinen.\n28 | I. | 184 | zum Rämpfer. | Meyer, Ursula.\n| | | | | Meyer, Ursula, Magdeverdingerin.\n29 | I. | 192 | Straßburgerhof. | Brogle, Joh. Georg.\n| | | | | Brogle, Joh. Georg, Schreiner.\n| | | | | Moser-Müirner, Andreas, Gipser.\n| | | | | Martin-Binder, Georg.\n| | | | | Martin-Binder, Georg, Schreiner.\n| | | | | Spaeni-Outerjohn, Dominik, Kunstmaler.\n30 | I. | 187 | Biberach. | Klett-Schwarz, Caspar.\n| | | | | Klett-Schwarz, Caspar, Fabrikarbeiter.\n31 | I. | 196 | | Roth, Geschwister Wilhelmine und\n| | | | | Chrishona.\n32 | I. | 188 | zum Tannen-Ed. | Pfirter-Hegerich, Josef.\n| | | | | Pfirter-Hegerich, Josef, Particular.\n| | | | | Leuggenhager, Joh. Jacob, Maler.\n33 | I. | 197 | | Lauber-Rio, Fridolin.\n| | | | | Lauber-Rio, Fridolin, Ausläufer.\n34 | I. | 193 | zur Mischleten. | Frey-Frey, Reinhard, Lohndiener.\n| | | | | Trago-Retterer, Magdalena, Borgäng.\n35 | I. | 198 | zur schweren Last. | Boillat-Stihl, Eugen.\n| | | | | Boillat-Stihl, Eugen, Sattler.\n| | | | | Schär-Burckhardt, Andreas, Schuhmacher.\n36 | I. | 194 | z. Wolfsbrunnen. | Waffermann-Golde, Andreas.\n| | | | | Waffermann-Golde, Andreas, Schreiner.\n| | | | | Waffermann-Gernler, Joh., Schuhmacher.\n37 | I. | 201 | hintere Blume. | Lauber-Rio, Fridolin.\n| | | | | Eingang zu Nr. 36 St. Peters-Berg.\n38 | I. | 195 | zum Kohler. | Hottinger-Ekensperger, Barbara.\n| | | | | Hottinger-Ekensperger, Barbara, Kostgeberin.\n| | | | | Rees-Demus, Friederika, Magdeverding.\n| | | | | Schmid, Georg, Maler.\n40 | I. | 194 | z. Wolfsbrunnen. | Altermatt-Hafenböhler, Gg., Holzhändl.\n42 | I. | 199 | |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7927,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2408,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:43:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p172",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p172.jpg",
+      "bytes": 1467344,
+      "sha256": "a5470c7fae194c2c9254dee69034689b7993bc2b2cfe415fe3dde56299020314",
+      "sha256_of": "original",
+      "working_copy": "1862_p172.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:29+00:00"
+  }
+}

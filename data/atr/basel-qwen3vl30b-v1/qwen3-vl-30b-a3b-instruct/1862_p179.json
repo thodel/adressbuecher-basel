@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p179",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p179.jpg",
+    "bytes": 1289362,
+    "sha256": "86deae94935600cba11a6cf396ed01a64e12ad56e02e04d25b03771a91b6dc9e",
+    "sha256_of": "original",
+    "working_copy": "1862_p179.jpg"
+  },
+  "text": "114\nPfluggäklein. — Plaggäklein.\nNre\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n3 IV. 1130 z. grossen Constanz. Frischknecht=Erismann, Joh. Jacob.\nFrischknecht=Erismann, Joh. Jacob, Be-\nreiter.\nWeizwaarenhandlung u. Hemdenfabrik.\nRimensperger, Valentin, Particular.\n4 VI. 1120 zum Mohrenkopf. Lüthy=Bürgin, Joh. Ulrich.\nLüthy=Bürgin, Joh. Ulrich, Bandagist.\nHuber=Spengler, Babette, Modiste.\n5 IV. 1129 Wehrli=Helde, Jacob.\nWehrli=Helde, Jacob, Landjägergefreiter.\nHelde=Rumbach, Wb. Eva, Gemüse-\nhändlerin.\n6 VI. 1121 zum Sonnenberg. Gemuseus=Stähelin, Wb. Salomea.\n7 IV. 1128 zum Hut. Hecht=Heering, Jacob.\nHecht=Heering, Jacob, Trödler.\n8 VI. 1122 Riefer=Keller, Ignaz.\nRiefer=Keller, Ignaz, Fabrikarbeiter.\nMehlhandlung von Emil Fischer.\n9 IV. 1127 z. untern Eisenhut. Senn=Weber, Rudolf.\nSenn=Weber, Rudolf, Spezierer.\n10 VI. 1123 z. schwarz. Henne. Schmid=Flury, Wb. Catharina.\nSchmid=Flury, Wb. Catharina, Part.\nSpiek=Frey, Wb. Margaretha, Bettm.\n12 VI. 1124 z. Falkenstein. Tschopp=Winter, Wb. Maria Barb.\nTschopp=Winter, Wb. Maria Barbara,\nSpezierer.\n14 VI. 1125 z. hintern Cardinal. Schärer=Frey, Wb. Anna Maria.\nSchärer=Frey, Wb. Anna Maria,\nSchuhmacher.\n16 VI. 1126 zum rothen Hut u. z. rothen Hut.\nschönen Bieh. Deck=Ernst, Peter Wilhelm.\nDeck=Ernst, Peter Wilhelm, Rothgießer.\nPlaggäklein.\n1 II. 290 Bohny=Fausel, Johannes.\nBohny=Fausel, Johannes.\nSiehe Kro. 24 Spalenvorstadt.\n3 II. 304 Gysin=Weber, Daniel.\nKohler, Theophil, Maler.\nSiehe Kro. 28 Spalenvorstadt.\n5 II. 303 Krug'sches Fideicommis.\nSiehe Kro. 30 Spalenvorstadt.\n7 II. 302 Schneider=Wirz, Wb. Barbara.\nLangmesser=Schaad, Wilhelm, Schuhm.\nStrübin, Johannes, Maler.\nSiehe Kro. 32 Spalenvorstadt.\n9 II. 295 z. rothen Hut. Ziegler, Elisabeth, sel. Erben.\nSiehe Kro. 34 Spalenvorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5464,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1809,
+    "lines": 58,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:44:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p179",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p179.jpg",
+      "bytes": 1289362,
+      "sha256": "86deae94935600cba11a6cf396ed01a64e12ad56e02e04d25b03771a91b6dc9e",
+      "sha256_of": "original",
+      "working_copy": "1862_p179.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:44:57+00:00"
+  }
+}

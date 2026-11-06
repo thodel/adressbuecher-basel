@@ -1,0 +1,51 @@
+14 | St. Alban-Thal.
+
+Neue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+16 | V. | 1296 | Königsches Haus. | Bay, Emanuel.
+  Bay, Emanuel, Papierer.
+  Völmy-Hug, Joh. Jak., Stuhlschreiner.
+18 | V. | 1295 | Gesellenhaus. | Oser und Gemuseus.
+  Schmidt, Jac. Seb., Papierer.
+  Grob-Fehr, Heinr., Papiermaschinenführ.
+20 | V. | 1294 | Fußisches Haus. | Oser und Gemuseus.
+22 | V. | 1292 A | | Oser und Gemuseus.
+  Ballmer-Heinzelmann, Heinr., Papierer.
+23 | V. | 1291 | Almosenmühle. | Merian-Mahler, Alfred.
+  Merian-Mahler, Alfred, Müller.
+24 | V. | 1292 | | Oser und Gemuseus.
+  Oser-Thurneysen, Ch. Rud., Papierfabr.
+25 | V. | 1288 | Herbergmühle. | Merian-Mahler, Alfred.
+  (Magazin.)
+26 | V. | 1290 | | Merian-Mahler, Alfred.
+27 | V. | 1288 A | zur Herbergmühle. | Kußmaul, Michael.
+  (Mechanische Werkstätte.)
+28 | V. | 1289 | | Thurneysen-Fäsch, Ludw. Andr.
+  (Arb.-Whng. d. Thurneysensch. Papierfb.)
+29 | V. | 1286 | | Diehl-Wolf, F., Firma Hugo, Gebr.
+  (Fabrikgeb. zu Nro. 35 (1285).
+31 | V. | 1287 A | | Oser und Gemuseus.
+  (Mechanische Papierfabrik.)
+30 | V. | 1284 | | Oser und Gemuseus.
+32 | | | | Fehr-Wenziker, Kaspar, Papierer.
+34 | V. | 1282 | | Thurneysen-Fäsch, Ludw. Andr.
+36 | | | | Thurneysen-Fäsch, L. A., Com., Pap.Fab.
+  Thurneysen, Hs. Rud., StabsMj. desgl.
+  Fäsch, Fräulein Elise.
+35 | V. | 1285 | | Diehl-Wolf, F., Firma Hugo, Gebr.
+  Zucker, Joh., Fabrikmeister.
+37 | V. | 1283 | | Thurneysen, Hans Rud., u. Frau Wilhelmine Müller-Thurneysen.
+  Fabrikgebäude und Arbeiterwohnungen.
+39 | V. | 1282 B | | Thurneysen-Fäsch, Ludw. Andr.
+  (Papierfabrikgebäude.)
+40 | V. | 1280 | | Kiefer-Waibel, J. Heinrich.
+  Kiefer-Bay, Wb. A. M. Elis., Lohnwasch.
+  Schraner-Welti, Xaver, Schmied.
+41 | V. | 1281 | | Thurneysen, Hs. Rud., und Mich. Müller-Thurneysen.
+  Schneebeli-Zeller, Jean, Angestellter d.
+  Thurneysenschen Papierfabrik.
+  Meyer-Eberwein, Hs. Conr., Mechaniker.
+44 | V. | 1279 | zum neuen Bau. | Wetzel-Matzinger, Joh. Jakob.
+46 | | | | Wetzel-Matzinger, J. J., Lohnwascher.
+  Matzinger-Wetzel, Heinr., Kaminfeger.
+  Schaub, Joh. Adam, Ferger.
+  Lüppold-Meyer, Ludw., Maler.

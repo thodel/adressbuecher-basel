@@ -1,0 +1,50 @@
+Schneidergasse. | 125
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+9 | VI. | 1563 | z. Nägeligarten. | Brändlin-Schaal, Franz.
+  Brändlin-Schaal, Franz, Metzger.
+10 | II. | 578 | zur Vereinigung. | Boecklin-Schnezzler, Joh. Jak.
+  Boecklin-Schnezzler, Joh. Jak., Wirth.
+  David-Graeslin, Leonhard, Glaser.
+11 | VI. | 1564 | z. mittl. Scheere. | Gschwind-Schaffner, Wb. Ursula.
+  Gschwind-Schaffner, Wb. Ursula, Modiste.
+12 | II. | 579 | z. mittler. Thurmschale. | Gutknecht-Heer, Joh. Adam.
+  Gutknecht-Heer, Joh. Adam, Spezier. u. Münzantiquar.
+13 | VI. | 1565 | | Heitz, Cath. Elisabeth.
+  Heitz, Cath. Elisabeth, Particulier.
+14 | II. | 580 | z. mittler. Thurmschale. | Hottensen-Rapp, Frau Barbara.
+  Hottensen-Dunkel, Friedr. Aug., Gerber.
+  Matzinger-Wirz, Gottl. Rud., Kappenm.
+  Schweizer-Bretscher, Friedrich August, Telegraphist.
+  Horner, Joh. Heinrich, Schneider.
+15 | VI. | 1566 | zum Stamm. | Koch-Renaux, Johannes.
+  Koch-Renaux, Johannes, Commis.
+  Hirth-Fischer, Wb. Louise, Schneiderin.
+16 | II. | 581 | zur obern Thurmschale. | Steib-Gsell, Joh. Michael.
+  Steib-Gsell, Joh. Michael, Bürstenmach.
+17 | VI. | 1567 | | Bär-Fritsche, Abraham.
+  Bär-Fritsche, Abraham, Coiffeur.
+18 | II. | 582 | z. klein. Effringen. | Bruner-von Arx, Daniel.
+  Brunner-von Arx, Daniel, Schneider.
+  Caillat, Ursula, Geschirrhändlerin.
+19 | VI. | 1750 | z. langen Leiter. | Waldner-Zuber, Joh. Heinrich.
+  Waldner-Zuber, Joh. Heinr., Schuhm.
+20 | II. | 589 | z. unt. Kestlach. | Lindner-Forcart, Joh. Eduard.
+  Lindner-Forcart, Wilh. Ed., Buchbind.
+  Steiger, J. J., sel. Erben, Leckerlifabr.
+  Braun-Steiger, Rud., Waagmeister.
+21 | VI. | 1751 | zur Eiche. | Detwiler-Wernli, Emanuel.
+  Detwyler-Wernli, Eman., Kostgeber.
+  Christ, Ludwig, Schuhmacher.
+22 | II. | 590 | | Crussaire-Pfau, Wb. Margaretha.
+  Crussaire-Pfau, Wb. Marg., Part.
+  Crussaire, Louis, Particulier.
+  Hunziker-Crussaire, Friedr., Baumwollenwaarenhandlung.
+23 | VI. | 1752—53 | z. armen Herberge. | Zimmermann-Früh, Wb. Elisabeth.
+  Zimmermann-Früh, Wb. Elisab., Uhrenmacher.
+  Zimmermann, Ludwig, Commis.
+  Zimmermann, Friederike Elise, Modiste.
+24 | II. | 591 | zum Steinkeller. | Leithardt-Goez, Heinrich.
+  Pfaff, Jacob Heinrich, Bürstenmacher.
+  Ungerer-Hausmann, Jac., Handelsm.
+  Kormann-Leithardt, August, Schneider. Magazin Nro. 82 Freie Straße.

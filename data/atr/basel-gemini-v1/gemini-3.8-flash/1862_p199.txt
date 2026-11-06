@@ -1,0 +1,47 @@
+134 Spalenberg.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+26 | II. | 492—493 | zum halben Rad. | Ackermann-Dudli, Johannes.
+  Ackermann-Dudli, Johannes, Spezerei- und Packtuchhandlung.
+27 | II. | 487 | zur kleinen Tanne. | Wolf-Reutlinger, Simon.
+  Wolf-Reutlinger, Simon, Handelsmann.
+  Meyer-Wolf, Abraham, Particular.
+28 | II. | 494 | zum Kernenbrod. | Locher, Johannes und Emanuel.
+  Locher, Johannes, Uhrenmacher.
+  Locher, Emanuel, Musiker.
+29 | II. | 486 | zum großen Schaaf. | Schmaßmann-Rech, Wb. Walburga.
+  Schmaßmann-Rech, Wb. Walburga, Krawattenmacherin.
+  Schmaßmann, Heinrich, Kravattenmacher und Ausläufer.
+  Gamper-Soland, Johann, Telegraphist.
+  Kieffer, Magdalena, Victualienhandlung.
+30 | II. | 495 | zum Morgenstern. | Sulzmann-Kieny, Wilhelm.
+  Sulzmann-Kieny, Wilhelm, Schuhmach.
+  Sulzmann, Friedr. Julius, Briefträger.
+31 | II. | 485 | zum obern Pfeiler. | Basler-Barny, Johannes.
+  Basler-Barny, Johannes, Knecht.
+  Neeracher-Meyer, Mathias, Hafner.
+32 | II. | 496 | zur blauen Glocke. | Albiez-Rehlin, Melchior.
+  Albiez-Rehlin, Melchior, Schneider.
+  Singer, Friedrich, Dessinateur.
+33 | II. | 484 | zur untern Tanne. | Wassermann-Wassermann, Joh.
+  Erb-Freyvogel, Eduard, Spezierer.
+  Wassermann-Wassermann, Joh., Schneider und Postfactor.
+34 | II. | 497 | Schloß Dürmenach. | Tschientschy-Kißlig, Wb. Susanna Catharina.
+  Tschientschy-Kißlig, Wb. Susanna Catharina, Drechsler.
+  Kißlig, Samuel, Schuhmacher.
+  Grieder-Hug, Friedrich, Viktualienhdlg.
+  Sträßle-Herzog, Joh. Jacob, Zimmerm.
+35 | II. | 483 | z.lebenden Heurling. | Buchmann-Caspar, Peter.
+  Buchmann-Caspar, Peter, Zuckerbäcker.
+  Ladmann, Sophia, Modiste.
+36 | II. | 498 | z. Bannwartshütte. | Wüst-Binder, Remigius.
+  Wüst-Binder, Remigius, Schuhmacher.
+37 | II. | 482 | zum Attiswyl. | Träris-Müller, Friedrich.
+  Träris-Müller, Friedrich, Küfer.
+  Müller-Niedermeyer, Carl, Küfer.
+38 | II. | 499 | Bannwartshaus. | Schmid-Wunderlich, Friedrich, Uhrmacher.
+39 | II. | 481 | zum grünen Kränzle. | Seitter-Schneider, Emanuel,
+  Seitter-Schneider, Emanuel, Metzger.
+40 | II. | 479 | zum obern Pflug. | Scharpf, Maria Anna.
+  Scharpf, Maria Anna, Particularin.
+  Beindy-Pfäfflin, Joh. Baptist, Schneid.

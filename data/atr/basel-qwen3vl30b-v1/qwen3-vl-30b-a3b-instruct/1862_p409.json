@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p409",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p409.jpg",
+    "bytes": 1426622,
+    "sha256": "80dd6ab1aa63497b4ae890bee1c298da6906ffba11fdf1d445fa15d9794e910c",
+    "sha256_of": "original",
+    "working_copy": "1862_p409.jpg"
+  },
+  "text": "344\nVerzeichniß der Bürger und Einwohner.\nSingeisen-Kuf, Wb. Anna Cathar., Part. Rheingasse 29.\n— =Schardt, F. F. Daniel, Buchbinder. Gerbergasse 52.\nSinger, Friedr., Desſinateur. Spalenberg 32.\nSirt, Joh. Jacob, Maler. Schützenmattstraße 14.\n— =Kühn, Eman., Commis. Aeschenvorstadt 38.\nSocin, August, Dr. Med., Arzt. Neue Vorstadt 7.\n— Christoph, Mechaniker. Bäumleingasse 5.\n— =Frey, Ed., Kaufmann. St. Peters-Graben 29.\n— =Johannot, Frederika Elisab. Todten- tanz 10.\n— =LeGrand, Abel, Tuchhandlung. Firma Abel Socin u. Sohn. St. Peters- Graben 27.\n— =Streif, Peter, Wirth. Freiburger Straße 3.\n— =Best, Wb. Barb., Rentiere. Kauf- hausgasse 3.\n— =Werthemann, Christ., Kaufmann. Bäum- leingasse 5.\nSoder-Buser, August, Subst. d. Criminalge- richtschrreibers. St. Clara-Straße 11.\n— =Hurst, Cyprian. Malzgasse 20.\nSohm-Rebholz, Josef. Malzgasse 22.\nSoisstmann-Hifferich, Ferd., Canton- u. Musi- klehrer. Aeschengraben 14.\nSoland-Fluri, Johs., Seidenfürber. St. Andreasplatz 10.\nSollberger, Anna, Schneiderin. Spalen- thorweg 2.\nSoller-Vertrand, Heinr. Andreas, Commis. Hammerstraße 80.\n— Dorothea, Bettmacherin. Kirchgasse 13.\n— =Fischer, Joh. Hiers., Part. Untere Rheingasse 9.\n— =Frey, Wilhelm, Schuhmacher. Fisch- markt 14.\n— =Keller, Friedrich, Part. Grenzacher- Straße 6.\nSommer-Hermann, Simon, Uhrenmacher. Greifengasse 33.\n— =Kleis, Johs., Bahnarbeiter. Kiehen- teichweg 16.\n— =Müller, Rud., Bäcker. Steinenthor- straße 27.\n— Rudolf, Schuhmachergeſelle. St. Peter- s-Berg 9.\n— =Walter, Melchior, Maler. St. Peter- s-Platz 10.\nSommerhalder-Burger, Jacob, Spezierer. Gerbergasse 47.\n— =Dornberger, Rud., Seidenfürbergeſelle. Sattelgasse 12.\n— =Staub, Peter, Blatt- u. Zahnmacher. Schafgäßlein 3.\nSommerhalder-Sutter, Jacob, Posamenter. Riehenthorfstraße 25.\n— =Wehrli, Wb. Rosina, Particul. Heuberg 27.\nSoulzener-Widmer, Alex., Conditor. Eisen- jengasse 3.\nSpäni-Guterjohn, Dominik, Kunstmaler. St. Peters-Berg 32.\nSpahn, Jacob, Hausknecht. St. Clara-Straße 6.\n— Johann Adam, Geschäftsmann. Mif- fionsstraße 61.\n— =Jost, Conrad, Knecht. Kiehen-Straße 7.\n— =Plattner, Niklaus. Schmiedgeſelle. Schützenmattstraße 43.\n— =Recher, Jac., Appreteur. Snd. Breite 13.\n— =Reinhardt, Heinr., Schneider. Weiden- gasse 24.\n— =Sutter, Joh. Adam, Fabrikarbeiter. Missionsstraße 61.\nSpahr, Daniel, Kaufmann. Grünpfahlgäß- lein 1.\nSpalinger-Götz, Ulrich, Knopfmacher. Bach- lettenstraße 15.\nSpecker-Meyer, Wb. Dorothea, Waarencour- tier. Aeschengraben 14.\nSpeiser, Cecile, Part. Gellertstraße 22.\n— Igsr. Cecile. Malzgasse 17.\n— =Baumgartner, Georg, Fabrikarbeiter. Webergasse 3.\n— =Haufer, Wb. Esther, Partikul. Neb- gasse 19.\n— Samuel, Commis. Imbergäßlein 27.\n— =Schaffner, Wb. Barb., Seidenwinderin. Nebgasse 43.\n— =Schardt, Joh., Desſinateur. Malz- gasse 9.\n— Wb. M. Susanna, Schneiderin. Aeschen- vorstadt 12.\nSpeitel, Wb. Antoinette, Nätherin. Spalen- berg 26.\n— =Schöch, Johs., Tapetenhandlung. Ger- bergasse 74.\nSpengler, Alois, Papierformmacher. Weiße Gasse 14.\n— =Frey, Heinr., Victualienhandlung. Bir- figstraße 15.\n— Wb. Genoseva, Reinwascherin. Weiße Gasse 14.\n— Jak., Traiteur. Barflißergasse 1.\n— Maria Judith, Näherin. Utengasse 46.\nSpeth, Anton Nepomuk, Bildhauer. Stein- enthorstraße 43.\nSpiegelhalder, Ed., Commis. Marktplatz 18.\n— Fidel, Commis. Marktplatz 18.\nSpielhofer-Mäf, Joh. Cour., Fabrikarbeiter. Gerbergäßlein 26.\n— =Müller, Wb. Anna, Taglöhnnerin. Na- delberg 16.\nSpielmann-Ristler, Jak., Kaufhausarbeiter. Rheingasse 90.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9001,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3441,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:16:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p409",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p409.jpg",
+      "bytes": 1426622,
+      "sha256": "80dd6ab1aa63497b4ae890bee1c298da6906ffba11fdf1d445fa15d9794e910c",
+      "sha256_of": "original",
+      "working_copy": "1862_p409.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:16:33+00:00"
+  }
+}

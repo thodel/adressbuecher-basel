@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p082",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p082.jpg",
+    "bytes": 1445238,
+    "sha256": "985ee93634b15b09cbbb757f77b84b56181eadf904cad44d9f8464703900c746",
+    "sha256_of": "original",
+    "working_copy": "1862_p082.jpg"
+  },
+  "text": "St. Alban-Vorstadt. | 17\n\nNeue Haus-Nr | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n25 | V. | 1340—42 | Rheinhof. | Stähelin-Brunner, Aug.\n  Stähelin-Brunner, August, Fabrikant,\n  Ständerath.\n  Thurneysen-Paravicini, Emil, Rent.\n26 | V. | 1226 |  | Bischoff-Bischoff, Hieron.\n  Pfister, Jakob, Bedienter.\n  Wurst, J. G., Kutscher.\n  Bühler-Meyer, Heinr., Schreiner.\n27 | V. | 1339 |  | Stähelin-Brunner, Aug.\n28 | V. | 1227 |  | Bischoff-Bischoff, Hieron.\n  Bauler-Schilling, Wb. Mar. Sal.\n29 | V. | 1338 |  | Stähelin-Brunner, Aug.\n  Roth, Rud., Schuhmacher.\n30 | V. | 1228 |  | Bischoff-Respinger, Hieron.\n  Bischoff-Respinger, H., Stadtrathssträs.\n  Respinger, C., Direktor d. Centralbahn.\n  Burckhardt, Albert, Kaufmann.\n31 | V. | 1337 |  | Gernler-Roth, Wb. Rosine.\n  Gernler-Roth, Wb. Rosine.\n  Gernler, Ros. u. Marg., Modistes.\n33 | V. | 1336 |  | Heimers, Rudolf Heinrich Wilhelm.\n  Heimers, Rudolf Heinrich Wilhelm.\n  Bodenmüller-Gut, Jos. Ant., Mechaniker.\n34 | V. | 1229 | zum Rockenburg. | Bischoff-Bischoff, Hieronimus.\n  Bischoff-Bischoff, Hieronimus, Kaufm.\n35 | V. | 1335 | zum hohen Dolder. | Gesellschaftshaus, Corporationsgut.\n  Bürgin-Schneider, Joh. Jakob, Abwart.\n36 | V. | 1230 | im Hof. | Vonder Mühll-Hoffmann, Wb.\n  Vonder Mühll-Hoffmann, Wb. An. Cath.\n  Forcart, Emil, Rentier. [Rentiere.\n  Vonder Mühll-Fürstenberger, Alfred, Sei-\n  denstofffabrikant.\n37 | V. | 1334 |  | Bärwart-Carle, Joh.\n  Bärwart-Carle, Johannes, Kaufmann.\n39 | V. | 1333 |  | Feisy, Franz.\n  Feisy, Franz, Vater, Packer.\n40 | V. | 1231 |  | Frey-Stückelberger, Joh. Rudolf.\n  Frey-Stückelberger, Joh. Rud., Sensal.\n41 | V. | 1332 |  | Meck-Schellenberg, Gebrüder.\n  Meck-Schellenberg, Joh., Commis.\n  Meck-Schellenberg, Carl \"\n  Zäslin-Mechel, Carl, Commis.\n  Burckhardt, Jacob, Professor.\n42 | V. | 1231 A | zum Nußbaum. | Merian-Bischoff, Samuel.\n  Merian-Bischoff, Sam., Kaufmann.\n43 | V. | 1331 | zum Mühleberg. | Rudin-Gerster, Johannes.\n  Rudin-Gerster, Johannes, Pintenwirth.\n  Tschudin-Weber, Jakob, Metzger.\n  Schönlaub-Schaub, Joh., Schneider.\n44 | V. | 1232 |  | Baur-Lippe, Louis.\n  Baur-Lippe, Louis, Schlosser.\n  2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10302,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2175,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:37:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p082",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p082.jpg",
+      "bytes": 1445238,
+      "sha256": "985ee93634b15b09cbbb757f77b84b56181eadf904cad44d9f8464703900c746",
+      "sha256_of": "original",
+      "working_copy": "1862_p082.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:12+00:00"
+  }
+}

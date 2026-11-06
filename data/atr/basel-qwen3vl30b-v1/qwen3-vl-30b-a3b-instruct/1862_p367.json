@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p367",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p367.jpg",
+    "bytes": 1464660,
+    "sha256": "6c5eec0e4358b3a796b1083c0965f0731cc2075d526bd4145e6ed67af32e3bd0",
+    "sha256_of": "original",
+    "working_copy": "1862_p367.jpg"
+  },
+  "text": "302\nVerzeichniß der Bürger und Einwohner.\nRauh=Friedmann, Joh. Mich., Schneider u. Handelsmann. Dachengasse 8.\nRecheisen=Brudermann, Bernh., Posamenter. In der Breite 21.\nRed=Cyple, Theobald, Spengler. Gerbergäskl. 2.\nRehlstadt=David, Leonhard, Oberstrathsdieners. St. Martins=Gasse 2.\n— Joh. Philipp, Part. Gerbergasse 30.\n— =Krauer, Adolf, Tapezierer. Spalenberg 20.\n— =Munzinger, Wb. Maria, Part. Unterer Heuberg 3.\n— =Stocker, Joh. Ludwig, Quartierschreiber u. Weinsticher. Aeschenvorstadt 72.\nKellenberger, Adolf, Zeichner. Bäumleingasse 6.\nKeller, Anton, Cigarrenmacher. Todtengäskl. 5.\n— =Baumgartner, Lorenz, Fabrikarbeiter. St. Alban=Vorstadt 72.\n— =Bühler, Mathias, Schuhmacher. Untergasse 56.\n— Carl, Kaufmann. St. Peters=Graben 22.\n— Conrad, Zimmermann. Schafgäskl. 1.\n— =Fischhaber, Paul Joh., Todtengräber. Rheingasse 67.\n— Frau, Kostgeberin. Grünpfahlgäsklein 6.\n— =Gaz, Caspar, Zimmermann. Badergäsklein 2.\n— =Gyger, Meinrad, Kostgeber und Posamenter. Greisengasse 34.\n— =Häfeli, Andreas, Schiffmann. Rheingasse 20.\n— =Häfeli, Wb. Cath., Spinnerin. Vogeljangweg 4.\n— =Harder, Samuel, Rittler. St. Alban=Vorstadt 104.\n— Heinrich, Commis. Aeschenvorstadt 53.\n— =Hemmig, Rud., Feger. Gerbergasse 74.\n— =Herzig, Wilh., Taglöhner. Rheingasse 47.\n— u. Hönés, Magazin v. St. Leonhards=Strasse 9.\n— Joh., Werkmeister. Bei der Wiefenschänze 6.\n— J. J., Rupferschmied. Aeschenvorstd. 26.\n— =Raufmann, Barbara, Wascherin. Rheingasse 49.\n— =Keller, Paul, Commis. St. Leonhards=Strasse 25.\n— =Locher, Anton, Knecht. Münzgäskl. 15.\n— =Löffel, Joh., Seidenfärbergeselle. St. Peters=Gasse 2.\n— Maria, Nätherin. Rebasse 37.\n— =Meyer, Bernh., Zimmermann. Schikkenmattstrasse 8.\n— =Meyer, Friedrich, Handelsmann u. Kostgeber. Schafgäsklein 4.\n— =Meyer, Georg Friedrich, Handelsmann. Rheingasse 19.\n— =Meyer, Joh., Posamenter. Hammerstrasse 53.\nKeller=Miller, Christina, Kostgeberin. Nadelberg 15.\n— =Miller, J. U., Fabrikarbeiter. Spalenberg 56.\n— =Dechslin, Heinrich, Fabrikarbeiter. Rebasse 37.\n— =Plattner, Joh. Georg, Schuhmacher. Hutgasse 16.\n— =Reintli, Conrad, Centralbahnangetellter. Aeschenvorstadt 62.\n— Rudolf, Fuhrhalter. Steinenthorstrasse 4.\n— =Schäfer, Martin, Schreiner. Spalenberg 12.\n— =Schöndörfer, Caspar, Seidenfärberges. Rebasse 9.\n— =Sehringer, Christof, Gärtner. Alybecks=trasse 17.\n— =Seifert, Ulrich, Wirth. Schikkenmattstrasse 56.\n— =Sigg, Wb. Elisabeth, Kostgeberin. St. Peters=Bergr 13.\n— =Simmier, Peter, Magazinarb. Schikkenmattstrasse 8.\n— Spöri, Joh. Eduard, Appreteur. St. Peters=Bergr 17.\n— =Wohnlich, Lucas, Postfaktor. Steinenthorstrasse 37.\n— =Zeller, Friedrich, Unterbestüter. Kaufhausgasse 8.\nKellerhals, Cour., Commis. Aeschenvorstd. 60.\n— =Giirtler, Bernhard, Landjäger. Moosackerstrasse 18.\nKellermann, Emil, Apotheker. Untere Rheingasse 5.\n— =Mäglin, Joh. Christ., Apotheker a. D. Missionsstrasse 18.\nKelterborn=Märklin, Ludwig Adam, Zeichnungslehrer. Steinenberg 4.\nKempf=Blazert, Joh., Fuhrmann. Gundoldinger Strasse 10.\n— =Strübin, Jak. Eman., Bäcker u. Wirth. Riehenthorstrasse 25.\nKern=Faller, Philipp, Bildhauer. Bahnhofstrasse 31.\nKern=Bischoff, Friedrich, Bandfabrikant und Oberst. Grenzacher=Strasse 55.\n— =de Croujaz, Elias, Stadtrath. Neue Vorstadt 26.\n— Emanuel, Kaufmann. Davidsgasse 17.\n— =Endtinger, Joseph Anton, Papierer. St. Alban=Thal 30.\n— =Göpfert, Wb. Cath., Nätherin. Greisengasse 29.\n— =Recki, Friederike, Spinnerin. Spitalstrasse 13.\n— =Blüf, Josef, Seidenarbeiter. Sägergäsklein 8.\n— =Kyhiner, August, Bandfabrikant. St. Johann=Vorstadt 5.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9109,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3506,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:10:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p367",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p367.jpg",
+      "bytes": 1464660,
+      "sha256": "6c5eec0e4358b3a796b1083c0965f0731cc2075d526bd4145e6ed67af32e3bd0",
+      "sha256_of": "original",
+      "working_copy": "1862_p367.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:03+00:00"
+  }
+}

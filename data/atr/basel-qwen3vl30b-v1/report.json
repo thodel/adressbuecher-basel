@@ -1,0 +1,99 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "pages": 798,
+  "started_at": "2026-11-06T13:42:32+00:00",
+  "elapsed_s": 6145.6,
+  "rebuilt": false,
+  "skipped_files": [],
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": "/home/dh/agentic_historian/agentic_historian/data/nextcloud/adressbuecher-basel/fraktur",
+    "gateway": "http://130.92.59.240:8200",
+    "runner": {
+      "name": "agentic-historian",
+      "version": "0.1.0",
+      "commit": "fa9e130746122e0e888d23d9d5825a5bdd068631",
+      "commit_source": "git"
+    },
+    "started_at": "2026-11-06T13:42:32+00:00",
+    "ended_at": "2026-11-06T15:24:58+00:00",
+    "models": [
+      {
+        "model": "qwen3-vl-30b-a3b-instruct",
+        "engine": null,
+        "level": null,
+        "revision": null,
+        "revision_kind": "unreported",
+        "weights": null,
+        "base_model": null
+      }
+    ]
+  },
+  "models": [
+    {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "done": 798,
+      "skipped": 0,
+      "failed": 0,
+      "chars": 1988371,
+      "lines": 0,
+      "truncated": 15,
+      "truncated_keys": [
+        "1841_p031",
+        "1841_p037",
+        "1841_p049",
+        "1841_p087",
+        "1841_p113",
+        "1841_p173",
+        "1841_p195",
+        "1850_p145",
+        "1862_p050",
+        "1862_p051",
+        "1862_p061",
+        "1862_p091",
+        "1862_p102",
+        "1862_p156",
+        "1862_p174"
+      ],
+      "empty": 0,
+      "empty_keys": [],
+      "repetitive": 17,
+      "repetitive_keys": [
+        "1841_p031",
+        "1841_p037",
+        "1841_p049",
+        "1841_p087",
+        "1841_p173",
+        "1841_p195",
+        "1862_p008",
+        "1862_p050",
+        "1862_p051",
+        "1862_p061",
+        "1862_p064",
+        "1862_p091",
+        "1862_p139",
+        "1862_p191",
+        "1862_p195",
+        "1862_p201",
+        "1862_p242"
+      ],
+      "deliberated": 0,
+      "deliberation_keys": [],
+      "verdicts": {
+        "short": 6,
+        "ok": 775,
+        "repetitive": 17
+      },
+      "recognition_ms": 6135380,
+      "elapsed_s": 6145.6,
+      "aborted": "",
+      "source_errors": 0,
+      "source_missing": 0,
+      "source_missing_keys": [],
+      "errors": [],
+      "energy": null
+    }
+  ]
+}

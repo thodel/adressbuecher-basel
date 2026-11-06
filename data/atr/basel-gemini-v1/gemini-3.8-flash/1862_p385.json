@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p385",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p385.jpg",
+    "bytes": 1457976,
+    "sha256": "50adc0cb4c2a1a04bc019a279a7d94a0682eebf003ad43f0e99f4616bfc81b35",
+    "sha256_of": "original",
+    "working_copy": "1862_p385.jpg"
+  },
+  "text": "320 Verzeichniß der Bürger und Einwohner.\n\nMüller-Breitenstein, Margar., Musterzettlerin.\n  Gerbergäßlein 20.\n— -Bruckner, Heinrich, Part. Allschwyler\n  Straße 52.\n— -Büchin, Heinrich, Musterweber. Schnei-\n  dergasse 18.\n— -Buchmann, Wb. Louise, Wollwascherin.\n  Steinenvorstadt 47.\n— -Burckhardt, Christian, Posam. Karthaus-\n  gäßlein 5.\n— -Burckhardt, Daniel, Taglöhner. Bin-\n  ninger Straße 5.\n— Carl, Commis. Stapfelberg 4.\n— Catharina, Nätherin. Heuberg 36.\n— Wb. u. Consorten, Weinhändler, Comp-\n  toir. Utengasse 7.\n— -Dietschy, Joh. Peter, Farbholzmüller.\n  Sägergäßlein 7.\n— -Dill, Jakob, Fabrikarbeiter. Weiße\n  Gasse 10.\n— Dorothea, Rentiere. Streitgasse 7.\n— -Ebner, Joh., Fabrikarbeiter. Riehenthor-\n  straße 15.\n— -Eggmann, Fridolin, Posam. Steinen-\n  vorstadt 30.\n— -Eichelberger, Wb. Ursula, Zettlerin.\n  Imbergäßlein 20.\n— Emma, Näth. St. Leonhards-Graben 20.\n— -Eng, Clemens, Fabrikarbeiter. Weiden-\n  gasse 24.\n— -Frey, Joh. Jak., Fabrikarbeiter. Steinen-\n  bachgäßlein 38.\n— -Frey, Heinrich, Obst- u. Branntwein-\n  handlung. Steinenringweg 17.\n— Friedrich, Dr. Med. Utengasse 5.\n— -Fritz, Jak., Wäscher. Riehen-Straße 13.\n— -Füller, Wendolin, Mechaniker. Linden-\n  berg 18.\n— -Fuß, Daniel, Metalldrucker. St. Peters-\n  Berg 5.\n— -Gärtner, Wb. Wilh. Catharina, Part.\n  Spalenvorstadt 37.\n— -Gerspacher, Ign., Knecht. Spiegelgasse 14.\n— -Gerster, Joh., Fabrikarbeiter. St. Jo-\n  hann-Vorstadt 4.\n— Geschwister, Lingeriehandl. Eisengasse 9.\n— -Geßler, Wb. Susanna, Part. Schützen-\n  mattstraße 5.\n— -Gleichauf, Georg, Maurer. Rümelins-\n  platz 2.\n— -Gleichauf, Joh., Färbergeselle. Rhein-\n  gasse 63.\n— -Grieshaber, Bernh., Fuhrhalter. Kirch-\n  gasse 1.\n— -Grunauer, Wb. Maria Magd., Part.\n  Sternengäßlein 2.\n— -Günthert, Mich., Maurergeselle. Trillen-\n  gäßlein 4.\n— Gustav, Kaufm. Utengasse 5. Firma\n  Wb. Müller u. Consorten, Weinhdlg.\n\n[spalte 2]\nMüller, Hans Georg, Professor der Theologie.\n  Hirschgasse 9.\n— Hans Jakob, Part. Untere Rebgasse 24.\n— -Hardy, Wb. Maria, Wascherin. Im-\n  bergäßlein 26.\n— -Hasler, Eman., Seidenfärbergeselle u.\n  Kostgeber. Rheingasse 45.\n— -Hauser, Joh. Jak., Seidenfärber. St.\n  Johannvorstadt 14.\n— Heinrich, Schlosser. Todtentanz 3.\n— Heinrich, Fabrikarbeiter. Wallstraße 5.\n— H. J. de Georg, Colonialwaarenhandl.\n  Wallstraße 17.\n— -Heinzgen, Wb. Elisabeth, Bandrouleaux-\n  macherin. St. Leonhards-Graben 2.\n— -Herport, Ant., Eisenbahnbeamter. Stei-\n  nenthorstraße 29.\n— -Hersperger, Jakob, Fabrikmeister. St.\n  Albankirchrain 10.\n— -Hetzel, Albrecht, Phil. Dr., Geolog.\n  St. Johann-Vorstadt 56.\n— -Hopf, Franz, Dessinateur. Fischmarkt 1.\n— -Huber, Joh., Gärtner. Riehen-Straße 76.\n— -Hug, Joh. Jak. Friedrich, Holzmüller.\n  Birsigstraße 15.\n— Jakob Philipp, S. M. C., Oberlehrer.\n  Schützenmattstraße 5.\n— Jakob, Posamenter. Klingenthalstraße 37.\n— -Isert, Sam., Posamenter. Klingenthal-\n  straße 37.\n— Joh. Jakob, Sohn, Seidenfärber. St.\n  Johann-Vorstadt 14.\n— Johannes, Commis. Gerbergasse 58.\n— -Iselin, Georg, Rentier. St. Peters-\n  Platz 3.\n— Julius, Dr. med., Arzt. Neue Vorstadt 2.\n— -Kleiling, Wb. Sibille Maria, Part.\n  Utengasse 5.\n— -Kreider, Sam., Schneidergeselle. Imber-\n  gäßlein 25.\n— -Kübler, Louis, Commis. Bruderholz-\n  straße 6.\n— -Lautweiler, Wb. Margaretha, Fabrik-\n  arbeiter. Unterer Heuberg 17.\n— Leonhard, Schlosser. Aeschenvorstadt 51.\n— -Lienhard, Rud., Ausläufer. St. Peters-\n  Platz 17.\n— -Lindenmeyer, Wb. Magdalena. Kloster-\n  berg 8.\n— -Linder, Franz, Part. Aeschenvorstadt 57.\n— -Link, Heinrich, Ausläufer. St. Peters-\n  kirchplatz 13.\n— -Linder, Marg., Nätherin. Gerbergäßl. 12.\n— Ludw. Wilhelm, Schlossermeister. Reb-\n  gasse 44.\n— Margaretha, Part. Rheingasse 18.\n— -Martin, Georg, Anatomiediener. Rhein-\n  sprung 7.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 13950,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3716,
+    "lines": 120,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:32:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p385",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p385.jpg",
+      "bytes": 1457976,
+      "sha256": "50adc0cb4c2a1a04bc019a279a7d94a0682eebf003ad43f0e99f4616bfc81b35",
+      "sha256_of": "original",
+      "working_copy": "1862_p385.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:32:43+00:00"
+  }
+}

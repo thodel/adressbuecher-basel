@@ -1,0 +1,52 @@
+Missionsstraße. — Mittlere Straße. 93
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+45 | II. | 120 | | Ecklin-Waser, Pfarrer sel., Wb.
+  Ecklin-Waser, Wb. Pauline, Part.
+46 | I. | 84 | | Uehlinger-Bulacher, Joh. Jac.
+  Langmesser-Gaß, Sam., Part.
+48 | I. | 83 C | | David-Burckhardt, Heinrich.
+  David-Burckhardt, Hch., Kaufmann.
+  David, Lucas Traug., Staatscassasect.
+49 | II. | 121 B | | Christ-Uebelin, Balthasar.
+50 | I. | 83 | | Schweizer-Riedtmann, Rudolf.
+  Schweizer-Riedtmann, Rud., Ferger.
+  Schölli-Taverna, Franz, Lehrer.
+51 | II. | 121 A | | Christ-Uebelin, Balthasar.
+  Christ-Uebelin, Balthasar, Cassier.
+52 | I. | 83 A | | Girard-Blumer, Ch. François.
+  Girard-Blumer, Ch. François, Profes.
+  Speyermann-Baumgartner, Elias, Part.
+53 | II. | 121 | Missionstöchteranst. | Evangelische Missionsgesellschaft.
+  Scholz, Constantia, Vorsteherin.
+54 | I. | 83 | | Kugler-Amsler, Johann.
+  Kugler-Amsler, Johann, Fabrikmeister.
+  Arnold-Waldschmidt, Wilh., Professor.
+57 | II. | 122 A | | Bögtlin-Langmesser, Ludwig.
+  Bögtlin-Langmesser, Ludw., Part.
+59 | II. | 122 | | Bögtlin-Langmesser, Ludwig.
+60 | I. | 82 | | Stupanus, Christof.
+  Stupanus, Christof, Particular.
+  Müller, Balthasar, Lehenbeständer.
+61 | II. | 80 A | | Spahn-Sutter, Joh. Adam.
+  Spahn-Sutter, Joh. Ad., Fabrikarb.
+  Kündig-Jaiser, Philipp, Maler.
+  Spahn, Joh. Adam, Geschäftsmann.
+62 | I. | 81 A | | Zucker-Müller, Benedict.
+  Anstein-Reinhart, Kaufmann.
+63 | II. | 80 | | Gysin-Lüthy, Achilles.
+  Gysin-Lüthy, Achilles, Ausläufer.
+65 | II. | 79 | | Meyer-Rohner, Heinrich.
+  Meyer-Rohner, Heinrich, Fuhrhalter.
+66 | I. | 69 | | Schmid-Bloch, Rudolf.
+  Gräncher-Hans, Friedr., Lehenbeständer.
+  Krummenacher-Lerf, Anton, Lehenbest.
+
+Mittlere Straße.
+1 | I. | 99 a | | Bischoff-Keller, Andreas.
+4 | I. | 41 | Leichenhaus. | Stadtgemeinde.
+19 | I. | 92 A | | Senn-Thommen, Christof.
+  Senn-Thommen, Christof, Holzhändler.
+24 | I. | 43 A | | Linder-Hopf, Joh. Jakob.
+  Bureau v. J. J. Linder, Bandfabrikant.
+26 | I. | 43 | | Linder-Hopf, Joh. Jakob.

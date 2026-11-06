@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p333",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p333.jpg",
+    "bytes": 1434139,
+    "sha256": "4fc8a6ab63089fa679f5f8743e2e242101b41e7b60e947c72c70a84f235bfe22",
+    "sha256_of": "original",
+    "working_copy": "1862_p333.jpg"
+  },
+  "text": "268\nVerzeichniß der Bürger und Einwohner.\n\nBurckhardt-Sarasin, Wilh. Rent. München-\n  steiner Straße 4.\n- -Schönauer, Ludw., Kunstmaler. Gel-\n  tertstraße 2.\n- -Schrickel, Ed., Rathsherr u. Rentier.\n  Münsterplatz 12.\n- -Stähelin, Friedrich, Kaufmann. St.\n  Margarethen-Straße 10.\n- Stähelin, Rudolf, Graveur. St. Leon-\n  hards-Straße 11.\n- -Stefani, J. Jacq., Part. Münsterplatz 2.\n- -Stierlin, Abrah., Bäcker. Aeschenvor-\n  stadt 39.\n- -Thurneysen, Daniel, Bandfabrikant. St.\n  Alban-Graben 14.\n- -Vischer, Carl, Rent. Rittergasse 20.\n- -Vischer, Wb. Maria, Rentiere. Ritter-\n  gasse 23.\n- -VonderMühll, Carl, J. U. D. Bürger-\n  meister. St. Alban-Vorstadt 19.\n- -VonderMühll, Wb. Anna Cath. St.\n  Elisabethen-Straße 6.\n- Wernhard, Vater, Glaser. Nadelberg 34.\n- -Werthemann, Wb. Charlotte, Part. St.\n  Peters-Platz 12.\n- -Wick, Ludw. Aug., J.U.D. St. Jo-\n  hann-Vorstadt 3.\n- -Wick, Wb. Fanny, Part. Allschwyler\n  Straße 13.\n-Burga-Fetzer, Georg, Ausläufer. Rebgasse 41.\nBurger Franz, Zollbeamter. Riehen-Straße 21.\n- -Haller, Christ., Graveur. Gerber-\n  gasse 47.\nBuri-Grawehr, Lorenz. Kleiderhdlg. Eisen-\n  gasse 16.\n- -Renk, Jacob, Fabrikarbeiter. Pfluggäß-\n  lein 9.\nBurkhalter, Stefan, Commis. Eisengasse 15.\nBurnier, Joh. Jac., Taglöh. Schneidergasse 7.\nBurri, Jacob, Posamenter. Sattelgasse 8.\n- -Brodtmann, Fr. Math., Part. All-\n  schwyler Straße 31.\n- -Brodtmann, Rosalie, Part. St. Leon-\n  hards-Straße 28.\nBurtin-Desorme, Franz Benjamin, Commis.\n  Spiegelgasse 4.\nBuser-Akele, Heinr., Posamenter. Steinen-\n  vorstadt 59.\n- Anna Maria, Taglöhnerin. Bei der\n  Wiesenschanze 35.\n- -Bienz, Jacob, Posamenter. In der\n  Breite 23.\n- -Blattner, Heinr., Posamenter. Mittlere\n  Straße 44.\n- -Börlin, Jacob, Spühlemachermeister.\n  Sternengäßlein 9.\n- -Buser, Jacob, Posamenter. Riehen-\n  teichweg 32.\n- -Buser, Peter, Posamenter. Schützen-\n  mattstraße 12.\n\n[spalte 2]\n\nBuser, Catharina, Taglöhnerin. Spalenvor-\n  stadt 42.\n- Catharina, Zettlerin. Imbergäßlein 20.\n- Christine, Lohnwäscherin. Heuberg 40.\n- -Degen, Jacob, Posamenter. Spalen-\n  berg 41.\n- Eduard, Ferger. Aeschengraben 25.\n- -Gerber, Johs., Wirth. Marktplatz 16.\n- -Götzmann, Georg, Magazinier. St.\n  Johann-Vorstadt 28.\n- -Gysin, Wb. Anna Maria, Part. Neue\n  Vorstadt 7.\n- -Habegger, Jac., Lehenmann. Neubad-\n  straße 5.\n- -Hauser, Carl, Commis. Gerbergäß-\n  lein 26.\n- Hieronimus, S. M. C., Candidat d. Theo-\n  logie. Spalenberg 44.\n- -Hofstetter, J. J., Taglöhner. Bei d.\n  Wiesenschanze 35.\n- Jacob, Commis. Wallstraße 20.\n- Jacob, Eisenbahnangestellter. Gerber-\n  gasse 34.\n- -Imthurm, Heinr., Arbeiter. Aeschen-\n  vorstadt 68.\n- Johann Jakob, Tabakladen. Gerber-\n  gasse 63.\n- -Kaeuflin, Johs., Posamenter. Barfü-\n  ßerplatz 34.\n- -Kraushaar, Friedr., Mechaniker. Obe-\n  rer Rheinweg 96.\n- -Kuster, Mathias, Ferger. Gerbergäß-\n  lein 14.\n- -Lechaud, Martin, Posamenter. Ham-\n  merstraße 102.\n- -Mangold, Johann, Posamenter. Stei-\n  nenvorstadt 41.\n- -May, Friedr., Posamenter. Unterer\n  Heuberg 27.\n- -Meyer, Heinr., Heizer. Malzgasse 7.\n- -Meyer, Wb. Sophia, Schuhmacher. Ger-\n  bergasse 45.\n- -Minder, Samuel, Buchhalter. Klingel-\n  bergstraße 9.\n- -Müller, Achilles, Bahnvart. Riehen-\n  teichweg 32.\n- -Müry, Jac., Lehenbeständer. Gellert-\n  straße 23.\n- -Naun, Heinr., Taglöhner. Sternen-\n  gäßlein 2.\n- -Nusenach, Wb. Carol., Modiste. Schnei-\n  dergasse 30.\n- -Schäffer, Mart., Ziegelaufseher. Aeußere\n  Heumattstraße 21.\n- -Schärer, Barb., Fabrikarbeiterin. Un-\n  tere Rebgasse 19.\n- -Schlegel, Jac., Schneider. Gerbergäß-\n  lein 26.\n- -Schmid, Wb. Chrischona, Wirthin. Ho-\n  leeweg 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 14698,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3568,
+    "lines": 123,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 27.13,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:21:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p333",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p333.jpg",
+      "bytes": 1434139,
+      "sha256": "4fc8a6ab63089fa679f5f8743e2e242101b41e7b60e947c72c70a84f235bfe22",
+      "sha256_of": "original",
+      "working_copy": "1862_p333.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:21:01+00:00"
+  }
+}

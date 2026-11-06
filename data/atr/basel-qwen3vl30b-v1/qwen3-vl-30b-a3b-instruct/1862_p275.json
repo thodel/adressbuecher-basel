@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p275",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p275.jpg",
+    "bytes": 1242704,
+    "sha256": "83f378ea0fdba83089a0919231892a980489ea6d2a20cd0c7f8bb9138415ed92",
+    "sha256_of": "original",
+    "working_copy": "1862_p275.jpg"
+  },
+  "text": "210\nWebergasse. — Bei der Wiefenschranze.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n34 VII. 284 3. hintern Böhler. Steiner=David, Wb. Ursula.\nSteiner=David, Wb. Ursula, Rentiere.\nDavid=Hodel, Rudolf, Partikular.\n35 VII. 285 zum Zedel. Christ=Mönch, Joh. Heinrich.\nChrist=Mönch, Joh. Heinrich, Bäcker.\nMönch=Winfler, Carl Christ. Friedr.,\nSchriftgießer.\n36 VII. 283 Asmus=Raufmann, Friedrich.\nAsmus=Raufmann,Friedr.,Zimmerparl.\n37 VII. 281—82 Elavel=Linder, Alexander.\nRobin=Chrélien, Etienne, Appreteur.\n38 VII. 280 zum Kaiserberg. David, Christof Dietrich.\nDavid, Christof Dietrich, Metzger.\nDalang-Heger, Ed., Weinagent u. Ferger.\n40 VII. 279 Mechel=David, Achilles.\nMechel=David, Achilles, Küfer.\n42 VII. 278 Fininger, Heinrich.\nFininger, Heinrich, Metzger.\nBei der Wiefenschranze.\n1 VII. 54 Tanner=Madöri, Wilh.\nTanner=Madöri, Wilh., Posamenter.\n2 VII. 54 A Elsäffer=Müller, Jacob.\nElsäffer=Müller, Jacob, Posamenter.\n3 VII. 54 B Spinnler=Schaefer, Carl.\nSpinnler=Schaefer, Carl, Posamenter.\n4 VII. 54 C Rusch, Gabriel.\nRusch, Gabriel, Posamenter.\n5 VII. 54 D Sarasin, Hans Franz.\n6 VII. 54 E Keller, Johannes.\nKeller, Johs., Werkmeister.\n30 VII. 62 F Gasquet, Friedrich.\nZürcher=Ruchemann, Joh., Mechaniker.\n31 VII. 62 E Gasquet, Friedrich.\n32 VII. 62 D Gasquet, Friedrich.\nHaubenfack=Dtt, Gg. Mich., Samen-\nhändler.\nAmmacher=Huber, Joh., Beinknopfsmach,\nGasquet, Friedrich.\n33 VII. 62 C Gasquet, Friedrich.\n34 VII. 62 G Gasquet, Friedrich.\n35 VII. 62 H Gasquet, Friedrich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4543,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1534,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:54:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p275",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p275.jpg",
+      "bytes": 1242704,
+      "sha256": "83f378ea0fdba83089a0919231892a980489ea6d2a20cd0c7f8bb9138415ed92",
+      "sha256_of": "original",
+      "working_copy": "1862_p275.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:14+00:00"
+  }
+}

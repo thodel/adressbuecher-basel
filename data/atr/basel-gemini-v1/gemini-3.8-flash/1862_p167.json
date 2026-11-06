@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p167",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p167.jpg",
+    "bytes": 1308269,
+    "sha256": "27e0f806f2dea788919e3dad1a86ba6a03ba43df9b8d28de5cd77edee8fd2cb5",
+    "sha256_of": "original",
+    "working_copy": "1862_p167.jpg"
+  },
+  "text": "102 | Nadelberg. — Nauenstraße.\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n31 | II. | 518 | zur hint. Hattstätt. | Fritz-Fröhlich, Joh. Jacob.\n  Fritz-Fröhlich, Joh. Jacob, Schreiner.\n  Segiser-Aeschbacher, Joh., Zuckerbäcker.\n  Mit Eingang zu Nr. 14 Spalenberg.\n32 | II. | 503 | zum Nadelberg. | Haga-Füllemann, Benedict.\n  Haga-Füllemann, Bened., Civilgerichts-\n  amtmann.\n33 | II. | 517 | | Hosch, Niclaus.\n  Hosch, Niclaus, Lithograph.\n34 | II. | 502 | zur Engelsburg. | Burckhardt, Wernhard, Vater.\n  Burckhardt, Wernhard, Vater, Glaser.\n  Burckhardt, Joh., Sohn, Glaser.\n35 | II. | | | Gemeinschaftlicher Eingang zu 16,\n  18, 20 Spalenberg.\n36 | II. | 501 | zur rothen Henne. | Heimberg, Joh.\n  Heimberg, Joh., Cigarrengeschäft.\n  Wagner, Elisabeth, Lehrerin.\n37 | II. | 512 | | Fürstenberger-Debary, Julie.\n  Comptoir v. Hans Georg Fürstenberger.\n  Hagenbach-Bischoff, Ed., Dr.\n39 | II. | 509 | zum Strauß. | Grether-Wiedmeyer, Ernst Friedr.\n  Grether-Wiedmeyer, Ernst Friedr., Comm.\n  Geiger, Geschw. Emilie u. Julie, Modistes.\n41 | II. | 508 | | Schweizer-Riedtmann, Rudolf.\n  Grimm-Brändlin, Luc. Rud., Schuhm.\n43 | II. | 506 | zum untern schwarz. Stern. | Löw-Baumann, Leonhard.\n  Löw-Baumann, Leonhard, Schuhmacher.\n45 | II. | 504 | | Burckhardt-Grüninger, Wb. Maria\n  Ursula.\n  Burckhardt-Grüninger, Wb. Maria Ur-\n  sula, Maler.\n  Schnewlin, Heinrich, Telegraphist.\n  Erny, Johann, Telegraphist.\n47 | II. | 499 | Bannwartshaus. | Schmid-Wunderlich, Friedrich.\n  Schmid-Wunderlich, Friedr., Uhrmacher\n  und Telegraphist.\n49 | II. | 500 | zum rothen Knopf. | Dietrich-Kogel, Joh. Heinrich.\n  Dietrich-Kogel, Joh. Heinrich, Schneider.\nNauenstraße.\n1 | IV. | 216 | | Amberger-Schlosser, Hermann.\n  Amberger-Schlosser, Hermann, Buch-\n  händler.\n  von Speyr-Ryhiner, Eduard, Banquier.\n  Herzog-Berri, Achilles, Kaufmann.\n2 | IV. | 215 A | | Stüssy-Hesti, Heinrich.\n  Stüssy-Hesti, Heinrich, Holzhändler.\n  Merke, Franz Xaver, Zimmermeister.\n  Rothpletz-Rychner, August, Ingenieur.\n4 | IV. | 215 A b | | Stüssy-Hesti, Heinrich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9172,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2095,
+    "lines": 51,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:50:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p167",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p167.jpg",
+      "bytes": 1308269,
+      "sha256": "27e0f806f2dea788919e3dad1a86ba6a03ba43df9b8d28de5cd77edee8fd2cb5",
+      "sha256_of": "original",
+      "working_copy": "1862_p167.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:44+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p193",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p193.jpg",
+    "bytes": 1240664,
+    "sha256": "3b235ccbd3aab216dbf4261e4ede45d5c463296e1fae5da6d9a2098788de7873",
+    "sha256_of": "original",
+    "working_copy": "1862_p193.jpg"
+  },
+  "text": "128 Schützengraben. — Schützenmattstraße.\n\nNeue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n38 | II. | 316 | | Brodbeck-Gnehm, Wb. Magd.\n  Remise.\n39 | II. | 139 C | | Hegar, Friedrich.\n  Schmid-Meyer, Andreas, Part.\n  Kienle-Schneider, Carl Ludw., Lehrer.\n  Gauß-Kienle, Hermann, Architekt.\n40 | II. | 315 | | Götti-Waser, Johannes.\n  Zimmerwerkstätte.\n41 | II. | 139 B | | Hegar, Friedrich.\n  Peißner-Studer, Johannes, Musiklehr.\n  Weiß-Adams, Jakob, Dessinateur.\n42 | II. | 314 | | Geßler-Meyer, Jakob.\n43 | II. | 139 A | | Schmid-Meyer, Andreas.\n  Putnam, Carl, Zahnarzt.\n44 | II. | 313 D | | Stehelin, Gottfried.\n45 | II. | 139 | | Vogler-Riesler, Adrian.\n  Vogler-Riesler, Adrian, Commis.\n  Schenkel, Johannes, Commis.\n  Koch, Christof Friedr., Commis.\n46 | II. | 313 E | | Stehelin, Gottfried.\n  Stehelin, Gottfried, Kaufmann.\n\nSchützenmattstraße.\n\n1 | II. | 347 | zum Steinbrunn. | Meyer-Fiechter, Peter.\n  Meyer-Fiechter, Peter, Metzger.\n  Henz-Bernet, Joh. Jac., Kornwäger.\n2 | II. | 326 | z. schwarz. Ochsen. | Kling-Koch, Eugen.\n  Kling-Koch, Eugen, Gastwirth.\n  Claffen-Steiger, Conrad, Commis.\n  Brüllmann-Eggmann, Gg., Fleckenrein.\n3 | II. | 346 | | Kling-Koch, Eugen.\n  Stallung.\n4 | II. | 326 B | | Kling-Koch, Eugen.\n  Hugentobler, Ulrich, Holz- u. Turben-\n  Verkauf.\n5 | II. | 345 | zur Trotte. | Müller, Jac. Philipp.\n  Müller, Jacob, Philipp, S. M. C., Lehrer.\n  Geßler-Best, Leonhard, Part.\n  Müller-Geßler, Susanna, Part.\n6 | II. | 327 | | Salathe, Emanuel.\n  Salathe, Emanuel, Küfer.\n7 | II. | 344 | | Schilling, Abraham.\n  Schilling, Abraham, Wagner.\n  Rychner-Bemler, Carl, Architect.\n8 | II. | 328 | | Keller-Meyer, Bernhard.\n  Keller-Meyer, Bernhard, Zimmermann.\n  Streicher-Heckendorn, Friedr., Küfer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7914,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1787,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:54:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p193",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p193.jpg",
+      "bytes": 1240664,
+      "sha256": "3b235ccbd3aab216dbf4261e4ede45d5c463296e1fae5da6d9a2098788de7873",
+      "sha256_of": "original",
+      "working_copy": "1862_p193.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:50+00:00"
+  }
+}

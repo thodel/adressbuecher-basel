@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p134",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p134.jpg",
+    "bytes": 1467977,
+    "sha256": "a409268165925e84fc61c27be3825b3ff1c420657382563e12c8bfba27f3bb01",
+    "sha256_of": "original",
+    "working_copy": "1862_p134.jpg"
+  },
+  "text": "Imbergäckl. Johannitterstr. St. Joh.=Klingweg. St. Joh.=Vorft. 69\nNre\nHaus=Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n25 | II. | 530 | | Knecht-Marrer, Peter.\n| | | | | Knecht-Marrer, Peter, Knecht.\n| | | | | Müller, Rudolf, Schuhmacher.\n26 | II. | 544 | z. unt. Blumenberg | Zollinger-Viischer, Johannes.\n| | | | | Zollinger-Viischer, Joh., Maler.\n| | | | | Kochta-Baumgartner, Anton, Schneider.\n27 | II. | 529 | zum Eichbaum. | Breu-Speiser, Daniel.\n| | | | | Breu-Speiser, Daniel, Fabrikarbeiter.\n| | | | | Speiser, Samuel, Commis.\n| | | | | Bolleter-Vieron, Heinrich, Schneider.\n28 | II. | 545 | z. ob. Blumenberg. | Wiesendanger-Frick, Ulrich.\n| | | | | Wiesendanger-Frick, Ulrich, Posament.\n| | | | | Wagner-Haubenfack, Mart., Samenhdlg.\n29 | II. | 528 | | Follenweider, Rudolf.\n| | | | | Hoch-Bader, Johann, Kostgeber.\n30 | II. | 547 C | zum Imber. | Bux-Nieder, Franz Josef.\n| | | | | Eingang zu Nr. 7 St. Andreasplatz.\n31 | II. | 527 | z. groß. Christoffel. | Kindhauser-Klett, Johannes.\n| | | | | Kindhauser-Klett, Johannes, Fabrikarb.\n| | | | | Christen-Gerber, Heinrich.\n33 | II. | 526 | | Christen-Gerber, Heinrich, Posamenter.\n| | | | | Wehrli-Mohler, Gabriel, Gärtner.\nJohanniterstraße.\n1 | I. | 2 | | Hübscher u. Sprünglin.\n3 | | | | | Bots-Bernard, Abraham, Hufschmied.\n5 | | | | | Hübscher u. Sprünglin.\n7 | | | | | Magazine.\n15 | I. | 9 D | | Reindle-Malzacher, Johannes.\n| | | | | Reindle-Malzacher, Joh., Pintenwirth.\n| | | | | Horlacher-Reindle, Abraham, Courtier.\n| | | | | Hunziker-Ochsner, Rudof, Commis.\n| | | | | Fürst, Christian, Landjägerwachtmeister.\n17 | I. | 22 E | | Zäslin-Sulzberger und Zäslin=\n| | | | | Thurneyfen.\n| | | | | Comptoir u. Magazin von Zäslin u.\n| | | | | Baumann.\nSt. Johann-Klingweg.\n6 | I. | 23 | | Keller, Xaver.\n14 | I. | 22 | | Bader, Jakob.\n39 | I. | 51 | | Brüderlin-Schmid, Wb., Ursula.\n| | | | | Brüderlin-Schmid, Wb. Urs., Part.\n| | | | | Merian-Frischmann, Rud. (Schopf.)\n40 | I. | 61 a | | \nSt. Johann-Vorstadt.\n2 | I. | 73 | zum Kreuz. | Hindenlang, Carl u. Gottlieb.\n| | | | | Hindenlang-Mohn, Carl, Postbeamter.\n| | | | | Hindenlang, Gottlieb, Seiler.\n| | | | | Zimmerlin-Gräflin, Sam., Weinsch.\n| | | | | Frid, Johannes, Commis.\n| | | | | Blick, Johann Baptist, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7513,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2289,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p134",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p134.jpg",
+      "bytes": 1467977,
+      "sha256": "a409268165925e84fc61c27be3825b3ff1c420657382563e12c8bfba27f3bb01",
+      "sha256_of": "original",
+      "working_copy": "1862_p134.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:02+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p136",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p136.jpg",
+    "bytes": 1488479,
+    "sha256": "ef064bd0e7f97f9f8db52ef697aa1a8f934b8941add1bf81a8194b0bb6eb7cb0",
+    "sha256_of": "original",
+    "working_copy": "1862_p136.jpg"
+  },
+  "text": "St. Johann-Vorstadt.\n71\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n20 I. 54—55 ………… Burckhardt=Preiswerk, Wilhelm.\n(Fabrikgebäude v. Lucas Preiswerk.)\nFrey=Liithy, Carl, Fabrikausseher.\nPreiswerk=Keller, Dietrich.\n22 I. 51 ………… Preiswerk=Keller, Dietrich, Kaufmann.\nPreiswerk=Biichoff, Wilhelm.\n23 I. 46 ………… Preiswerk=Biichoff, Wilhelm, Kaufm.\nDietzsch=Lichtenhahn, V. V.\n24 I. 49 ………… Fabrik zu Nr. 19.\nHofch=Mengis, Hieronimus.\n25 I. 43 zum Kreuz. Hofch=Mengis, Hieronimus, Senfal.\nHofch, Alfred, Kaufmann.\nDietzsch=Lichtenhahn, Joh. Jac.\nRemise.\n26 I. 48 ………… Meyer=Merian, Daniel.\nMeyer=Merian, Daniel, Bandfabrikant.\n27 I. 41 Formonter Hof. Fabrik in Sulz, (haut Rhin) Specialität\nvon schwarzem Tafetas Nr. 1/2 à40,\nunis et petit façonnés.\nSchaub=Ruhn, Joh. Jakob.\nCorporationsgut.\n28 I. 47 ………… Schmidt=Bolly, Carl, Wirth.\n29 I. 38 zur Magd. Lieberknecht, Fritz, Commis.\nSchölln=Schölln, Samuel.\nSchölln=Bruckner, Wb. Sus., Part.\nMüller=Schölln, Wb. Maria, Part.\n30 I. 45 ………… zum innern St. Magallon=Zaurat, Hypolite.\nAntonierhof. Magallon=Zaurat, Hypolite.\nBolly=Keller, Melch., Appreteur.\n31 30 B ………… Strübin=Kaiser, Wb. Secunda.\nStrübin=Kaiser, Wb.Secunda, Taglöh.\nMorf=Alibert, Heinrich, Schuhmacher.\n32 I. 44 ………… St. Antonierhof Gengenbach=Labhardt, Gustav.\n(Klosterli). Gengenbach=Labhardt, Gustav, Kaufm.\nPerrochet=Mehri, Wb. Dorothea, Part.\n33 I. 30 A ………… Schmidt=Haas, Rudolf.\nSchmidt=Haas, Rudolf, Handelsmann.\n34 I. 42 ………… Lok=Wid, Wb. Maria, Particularin.\n35 I. 30 C zum Klosterlein. Mäglin=Strub, Gustav.\nThierry, Joseph, Tabakfabrikant.\nDay=L'Hoste, Beda, Tapezierer.\n36 I. 40 ………… Burtorf=Falkeisen, Carl.\nBurtorf=Falkeisen, C., Dr.Phil., Lehrer.\n37 I. 29 zum Eber. Delhasen=Dreyer, Saml. Jakob.\nDelhasen=Dreyer, Sam. Jak., Mechanik.\nGötz=Mähly, Wilhelm, Commis.\n38 I. 39 ………… Siegrist=Jäcklin, Emanuel.\nSiegrist=Jäcklin, Emanuel, Commis.\nGeigh=Winkler, Wb. Rosina, Particular.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6819,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1959,
+    "lines": 60,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p136",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p136.jpg",
+      "bytes": 1488479,
+      "sha256": "ef064bd0e7f97f9f8db52ef697aa1a8f934b8941add1bf81a8194b0bb6eb7cb0",
+      "sha256_of": "original",
+      "working_copy": "1862_p136.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:16+00:00"
+  }
+}

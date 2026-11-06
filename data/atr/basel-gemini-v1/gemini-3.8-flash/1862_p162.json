@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p162",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p162.jpg",
+    "bytes": 1485485,
+    "sha256": "0510077eb92825ee3ca5ddb20de4f7c9dbab537edbb5cabb2f316f8c1f6d2f45",
+    "sha256_of": "original",
+    "working_copy": "1862_p162.jpg"
+  },
+  "text": "Münsterberg. | 97\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nMünsterberg.\n\n1 | V. | 1419 | zum gelben Mönch. | Siegfried-Dörflinger, Nicl. Bened.\n  Siegfried-Dörflinger, Niclaus Benedict, Grieser und Spezierer.\n  Siegfried, Nicl. Christian, Sohn, Kaufm.\n  Schmidt-Fäsch, Th. Gottl., Verleger d. Tagblatts = Bureau No. 30 Gerbergasse.\n2 | V. | 1393 | zur Schaufel und Spieß. | Fininger-Riedlin, Samuel.\n  Fininger-Riedlin, Samuel, Sattler.\n  Lipp-Wohnlich, Friedrich, Commis.\n  Fischer-Keckler, Jacob, Commis.\n3 | V. | 1418 | z. rothen Thürmlein. | Debrunner-Isché, Heinrich.\n  Debrunner-Isché, Heinrich, Pfundzoller.\n4 | V. | 1394 | | Merian-Bloch, Wb. Maria Magdal.\n  Merian-Bloch, Wb. Maria Magd., Part.\n  Falkeisen, Joh. Jakob, Kunstmaler.\n  Nidecker, Joh. Jacob, Amtsdiener.\n5 | V. | 1420 | zum Schaltenbrand. | Bernoulli-Cailler, Emanuel.\n  Bernoulli-Cailler, Emanuel, Particular.\n  Bernoulli, Emanuel, Sohn, Bandfabr. (Siehe Nr. 81 Freie Straße.)\n6 | V. | 1395 | z. obern Vogelsang. | Otto-Segiser, Johann Nicolaus.\n  Otto-Segiser, Joh. Nic., Zimmermeister.\n  Müller-Widmer, Julius, Regenschirmm.\n7 | V. | 1417 | | Geigy-Merian, Rudolf.\n  Preiswerk-Buxtorf, Carl, Seidenhändl.\n8 | V. | 1396-97 | z. schwarz. Oechslein u. zum Plattfuß. | Wertenberg-Grether, Eduard.\n  Wertenberg-Grether, Eduard, Spengler.\n9 | V. | 1416 A | | Geigy-Merian, Rudolf.\n  Bureau von J. R. Geigy und U. Heusler, Droguerie- u. Farbwaaren.\n  Raillard-Fürstenberger, E., Med. Dr.\n10 | V. | 1398 | zum Bärenloch. | Byfelder, Wb. Maria.\n  Byfelder, Wb. Maria, Particularin.\n  Byfelder, Jgfr., Modiste.\n11 | V. | 1416 | z. untern Hochberg. | Geigy, Carl, sel. Erben.\n  Geigy-Buxtorf, Wb. Susanna, Rent.\n12 | V. | 1399 | zum Ehrenstein. | Sibold-Häfeli, Joseph.\n  Sibold-Häfeli, Joseph, Magazinier.\n  Dubach-Buser, Franz, Commis.\n13 | V. | 1415 | | Duthaler-Bisegger, Ferdinand.\n  Duthaler-Bisegger, Ferdinand, Comm.\n  Schäublin-Wahl, Jacob, Maurer.\n14 | V. | 1400 | z. untern Freiburg. | Burckhardt, Hans Heinrich.\n  Burckhardt, Hans Heinrich, Kutscher.\n  Locher-Burckhardt, Caspar, Schreiner.\n15 | V. | 1414 | zum blauen Berg. | Gally, Wb. Maria Anna.\n  Gally, Wb. Maria Anna, Particularin.\n  Hill-Martin, Joh. Rudolf, Schuhmacher.\n16 | V. | 1401 | z. obern Freiburg. | Roth-Zandt, Abraham.\n  Roth-Zandt, Abraham, Schlosser.\n\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8656,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2368,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p162",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p162.jpg",
+      "bytes": 1485485,
+      "sha256": "0510077eb92825ee3ca5ddb20de4f7c9dbab537edbb5cabb2f316f8c1f6d2f45",
+      "sha256_of": "original",
+      "working_copy": "1862_p162.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:56+00:00"
+  }
+}

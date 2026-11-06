@@ -1,0 +1,63 @@
+108
+St. Peters-Gasse.
+Nene
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+St. Peters-Gasse.
+2 | I. | 101 | Windex. | Curiger, Meinrad.
+4 | I. | 210 | | Curiger, Meinrad, Buchbinder.
+| | | | | Elsner=Hug, Johannes.
+| | | | | Elsner=Hug, Joh., Schuhmacher und
+| | | | | Weinsticher.
+5 | I. | 220 | zur Borgasse. | Haas=Franzin, Rudolf.
+| | | | | Haas=Franzin, Rudolf, Kifer.
+| | | | | Bäcklin=Rupferschmied, Johann Jacob,
+| | | | | Schreiber.
+6 | I. | 211 | | Kaufmann, Gottlieb.
+| | | | | Kaufmann, Gottlieb, Schlosser.
+| | | | | Herzog=Lagot, Franz Xaver, Photograph.
+| | | | | Opplinger=Reichert, Daniel, Dessinateur.
+7 | I. | 221 | zum Scheurenberg. | Kircher=Marian, J.
+| | | | | Herzer=Reble, Hugo, Kaufmann.
+| | | | | Bernoulli=Kespinger, Wb. Marg., Part.
+| | | | | Bernoulli, Mich., Dr. med.
+| | | | | Arles, Alphons, Seidenagent.
+| | | | | Arles, Gustav,
+| | | | | Chabrieres=Arles, P. M. A. M., Kaufm.
+| | | | | Kaufmann, Gottlieb.
+8 | I. | 212 | | Baumgartner=Meyer, Wilhelm, Schlosser.
+9 | I. | 225 | zum Drachenfeld. | Senn=Jenni, Friedrich.
+| | | | | Senn=Jenni, Friedrich, Schreiner.
+| | | | | Schatz=Wassermann, Carl, Commis.
+10 | I. | 213 | z. schwarzen Pfahl. | Stutz=Wolff, Friedrich Gustav.
+| | | | | Stutz=Wolff, Friedrich Gustav, Spengler.
+11 | I. | 226 | z. goldenen Ring. | Hagenbach, Peter.
+| | | | | Hagenbach, Peter, Particular.
+12 | I. | 214 | | Groß=Dürr, Emanuel.
+| | | | | Groß=Dürr, Emanuel, Zimmermann.
+| | | | | Lehmann=Groß, Johann, Schreiner.
+13) | I. | 227 | | Birmann, Rudolf und Wilhelm,
+15) | I. | 227 b | | sel. Erben.
+| | | | | Stöcker=Hofer, Johannes, Zimmermstr.
+| | | | | Mundwyl=Grieder, Jacob, Möbelhdl.
+16 | I. | 91 | | Rapp=Wick, Conrad.
+| | | | | Siehe Nr. 1 St. Peters-Graben.
+18 | I. | 215—216 | | Brüstlin=DuPasquier, Eduard.
+| | | | | Siehe Nr. 3 St. Peters-Graben,
+| | | | | Deggeller=Stegmann, Bernhard.
+| | | | | Deggeller=Stegmann, Bernh., Schlosser.
+20 | I. | 217 | | Schaffner=Maurer, Jacob Barthol.
+| | | | | Schaffner=Maurer, Jacob Bartholom.,
+| | | | | Fabrikarbeiter.
+22 | I. | 218 | | Evangelische Gesellschaft.
+| | | | | Rickert=Diethelm, Heinrich Friedrich,
+| | | | | Hausvater.
+23 | I. | 232 | KIngelhof.
+| | | | | (Arbeit.=Kosthaus.) | Holzach=Konuz, Wb. Margaretha.
+| | | | | (Magazin.)

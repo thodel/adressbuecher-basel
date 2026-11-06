@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p213",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p213.jpg",
+    "bytes": 1252130,
+    "sha256": "f49f2e43ddd8f75cb96ff7d01a7304ed30f1f7919003b0c92ba584092bbd3a21",
+    "sha256_of": "original",
+    "working_copy": "1862_p213.jpg"
+  },
+  "text": "148 Steinengr. Müllerweg. Ringweg. Steinenthorstraße.\nNre\nHaus-Mr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nSteinengraben.\n1 II. 374 a ………………… Braun-Weiß, Wb. Crischoa.\nWajchhaus.\n3 II. 375 b ………………… Braendlin-Loerbel, Wb. Elisabeth.\nRemise.\n19 III. 751 B ………………… Meyer-Merian, Emanuel.\nMeyer-Merian, Eman., Kaufmann.\n21 III. 754 R ………………… Wiedmer-Heckel, J. Christian.\nWiedmer-Heckel, Joh. Christian, Kauf-\nmann.\n23 III. 754 S ………………… Merian-Reber, Samuel.\nMerian-Reber, Samuel, Pfarrer.\nSteinenmüllerweg.\n10 II. 126 ………………… Ulmann-Mazinger, Abraham.\nMazinger, Lucas, Particular.\nTellenbach-Buchmann, Johann Jacob,\nCommis.\n12 II. 126 A ………………… Ulmann-Mazinger, Abraham.\nUlmann-Mazinger, Abraham, Part.\nSteinenringweg.\n15 III. 172 B ………………… Hofmann-Strub, Johannes.\nHofmann-Strub, Joh., Quincaillerie-\nu. Merceriehandlung.\n17 III. 158 B zum Schweizerhaus Hertner, Heinrich.\nHertner, Heinrich, Wirth.\nMüller-Frey, Heinr., Obst- u. Brannt-\nweinhandel.\n21 III. 158 A ………………… Schellenberg-Harder, Ludwig.\nSchellenberg-Harder, Ludw., Agent.\nSteinenthorberg.\n14 III. ………………… Aichner, Rudolf, Baumeister.\nSteinenthorstraße.\n1 III. 848 zum Befenstiel. Tschopp-Schwab, Wb. Dorothea.\nTschopp-Schwab, Wb. Dorothea, Ma-\nterialhandlung.\n2 III. 836 ………………… Martin-Dietrich, Joh. Heinrich.\nMartin-Dietrich, Joh. Heinrich, Flach-\nmaler.\nAugenstein-Kaiser, Philipp, Mechaniker.\n3 III. 840 ………………… Tschopp-Schwab, Wb. Dorothea.\n4 III. 837 ………………… Keller, Rudolf.\nKeller, Rudolf, Fuhrhalter.\nDill-Tschau, Adolf, Bader.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4620,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1542,
+    "lines": 53,
+    "longest_char_run": 7,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0045,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p213",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p213.jpg",
+      "bytes": 1252130,
+      "sha256": "f49f2e43ddd8f75cb96ff7d01a7304ed30f1f7919003b0c92ba584092bbd3a21",
+      "sha256_of": "original",
+      "working_copy": "1862_p213.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:18+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p141",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p141.jpg",
+    "bytes": 1271465,
+    "sha256": "517f11bf93febd016392db397c2b55d7401eaca8c08ae752c9d487b4146eec89",
+    "sha256_of": "original",
+    "working_copy": "1862_p141.jpg"
+  },
+  "text": "76 Klingelbergstraße. — Klosterberg.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nKlingelbergstraße.\n\n7 | I. | 36 | | Studer-Erb, Cölestin.\n  Fröhlicher-Städeli, Urs, Maurer.\n9 | I. | 35 A | | Studer-Erb, Cölestin.\n  Studer-Erb, Cölestin, Asphalteur.\n  Sept-Walter, Jacob, Tapezierer.\n  Buser-Minder, Samuel, Buchhalter.\n15 | I. | 35 | | Burckorf-Merian, sel. Erben.\n  Chemisches Laboratorium u. Firnißküche.\n17 | I. | 34 | | Tetter, Josua.\n  Oser-Leber, Leonhard, Sattler.\n  Ursprung, Peter, Fuhrhalter.\n  Jost-Meyer, And., Schreiner.\n  Winterle, Anton, Kunstmaler.\n21 | I. | 32 u. 33 | | Birrer-Schuhmacher, Wb. Cath.\n  Birrer-Schuhmacher, Wb. Cath., Part.\n  Stähelin-Estermann, Anna, Particular.\n25 | I. | 31 | | Frutiger-Stohler, Johann.\n  Frutiger-Stohler, Johann, Landmann.\n  Gammer-Stettler, Rud. Mart., Schrein.\n35 | I. | 30 | | Bäumlein-Gsell, Joseph.\n  Simon-Ammann, Alois, Landw.\n\nKlosterberg.\n\n2 | III. | 847 | | Hug-Heusler, Wb. Maria.\n  Hug-Heusler, Wb. Maria, Particular.\n4 | III. | 846 | z. Schneckenhöflein. | Hug-Heusler, Wb. Maria.\n  Wilhelm-Reuter, Saml., Schreiner\n6 | III. | 845 | | Tschopp-Schwab, Wb. Dorothea.\n  Magazin.\n7 | IV. | 887 | | Vogt-Baumann, Josef, sel. Erben.\n  Vogt-Baumann, Wb.\n  Boßhardt, Josef, Victualienhändler.\n  Käser, J. G., Graveur.\n8 | III. | 844 | zum Paradies. | Müller-Lindenmeyer, Wb. Magd.\n  Müller-Lindenmeyer, Wb. M., Part.\n  Palmert-Müller, Casp., Ferger.\n9 | IV. | 886 | zum kleinen Widder. | Burckorf-Merian, Wb. Emma.\n  Burckorf-Merian, Wb. Emma, Rent.\n11 | IV. | 885 | zum Widderlin. | Mörgelin, Johannes.\n  Tabak-Magazin.\n13 | V. | 884 | | Meyer-Streulin, Georg.\n  Meyer-Streulin, Georg, Maurermstr.\n  Lutz-Vögelin, Ulrich, Uhrenmacher.\n  Islinger-Moser, Joh., Gärtner.\n14 | III. | 843 | | Himmely-Seiffert, Samuel.\n  Zu Nr. 11 Steinenthorstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10144,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1870,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:46:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p141",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p141.jpg",
+      "bytes": 1271465,
+      "sha256": "517f11bf93febd016392db397c2b55d7401eaca8c08ae752c9d487b4146eec89",
+      "sha256_of": "original",
+      "working_copy": "1862_p141.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:46:26+00:00"
+  }
+}

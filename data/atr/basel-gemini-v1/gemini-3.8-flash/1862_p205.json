@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p205",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p205.jpg",
+    "bytes": 1261965,
+    "sha256": "0a7a215c5c864b2920a1bf579364ea5f73e2976d94155cc376da8201301b4200",
+    "sha256_of": "original",
+    "working_copy": "1862_p205.jpg"
+  },
+  "text": "140 | Spalenvorstadt. — Spiegelgasse.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n41 | II. | 314 | | Geßler-Meyer, Jac. Rudolf.\n  Geßler-Meyer, Jac. Rud., Bäcker.\n  Benz-Lüdin, Heinrich, Dessinateur.\n  Preiswerk-Meyer, Rud., Commis.\n  Baumann, Joh. Samuel, Dessinateur.\n42 | II. | 299 | | Schardt-Breiting, Carl.\n  Schardt-Breiting, Carl, Kaufmann.\n  Prévost, Ludwig, Kunstmaler.\n43 | II. | 313 | zum Engelsgruß. | Stehelin, Gottfried.\n  Firma: Gottfried Stehelin, Colonial-\n    waarenhandlung.\n  Stehelin, Gottfried, Kaufmann.\n  Stehelin-ImHof, Ed., Kaufmann.\n  Stehelin, Cecile, Part.\n  ImHof-Boyer, Wb. Elisabeth, Part.\n44 | II. | 300 | z. scharfen Eck. | Parmentier-Lüscher, Benedict.\n  Parmentier-Lüscher, Benedict, Wirth.\n45 | II. | 312 | | Strübin-Lotz, Niclaus.\n  Strübin-Lotz, N., Fleischhauer.\n  Wieland-Schmalzer, Em., Part.\n  Rübenstahl-Ebner, Joh. Rud., Wirth.\n46 | II. | 311 | Spalenthor. | Staat.\n  Herzog, Wtb, Wascherin.\n\nSpiegelgasse.\n\n1 | I. | 116 | Großhüningen. | Zimmerlin-VonSpeyr.\n  Zimmerlin-VonSpeyr, Aug., Kaufm.\n  Bader-Maechly, Friedr., Straßeninspect.\n2 | I. | 209 | Spiegelhof. | Senn-Isenegger, Joh. Jac.\n  Dependenz zu den 3 Königen.\n3 | I. | 117 | zur Laterne. | Dubois-Hilzinger, Louis.\n  Siehe Nr. 9 am Blumenrain.\n4 | I. | 208 | | Lang, Isaac.\n  Meyer, Johannes, Wirth.\n  Störkle-Parison, Peter, Schneider.\n  Burtin-Désorme, Franz Benj., Commis.\n5 | I. | 118 | | Hasler-VonMechel, Gottlieb.\n  Zu Nr. 7 Blumenrain gehörend.\n6 | I. | 207 | zu den drei rothen Bergen. | Müller-Müller, Wb. Elisabeth.\n  Müller-Müller, Wb. Elisabeth, Band-\n    putzerin.\n7 | I. | 204 | | Hasler-VonMechel, Gottlieb.\n8 | I. | 206 | z. schwarzen Horn. | Meyer-Meyer, Gottl. Rudolf.\n  Meyer-Meyer, Gottl. Rud., Kübler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7969,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1794,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:56:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p205",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p205.jpg",
+      "bytes": 1261965,
+      "sha256": "0a7a215c5c864b2920a1bf579364ea5f73e2976d94155cc376da8201301b4200",
+      "sha256_of": "original",
+      "working_copy": "1862_p205.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p317",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p317.jpg",
+    "bytes": 1340950,
+    "sha256": "966ab4f7b69cf845d10754dd1f888bc63f57c38140d3dd4df1325923ee626bdc",
+    "sha256_of": "original",
+    "working_copy": "1862_p317.jpg"
+  },
+  "text": "252\nVerzeichniß der Häuserbesitzer.\nWulfschleger=Rekler, Joh. Rheingasse 43.\nWybert=Thurneyßen, J. J., sel. Erben. Kohlenberg 1.\nBäslin=Aeschbacher, Wb. Maria Elisab. Kronengasse 12.\nBäslin=Falkeisen, Conr. Schützenmattstraße 37.\n— Neue Vorstadt 15.\nBäslin=Miiller, Theod. Spitalstraße 40.\nBäslin=Kölly, Daniel, sel. Erben. St. Johann-Vorstadt 72.\nBäslin=Stähelin, Conrad. Nadelberg 18. — St. Peters-Graben 49.\nBäslin=Streckeisen, Joh., sel. Erben. Leimenstraße 41. — Schützenmattstraße 20.\nBäslin=Sulzberger u. Bäslin=Thurneyßen. Johanniterstraße 17.\nBäslin u. Baumann. St. Johann-Vorstadt 45.\nBäslin=Weber, Franz. Greisengasse 36.\nZahn=Rognon, Ed. Aeschengraben 13.\nZeder=Malzacher, Jac. Hammerstraße 60.\nZeinler=Schöchli, Maria. Rheinprung 10.\nZeller=Frauenfelder, Dionis. St. Peters-Gasse 44.\nZellweger=Ryhiner, Cäcilie. St. Jakobs-Straße 23.\nZentgraff, Wilhelm. Rheingasse 32.\nZeugin=Frisch, Jac. St. Elisabethen-Straße 34.\nZiegler, Cecile. St. Johann-Vorstadt 42.\nZiegler, Elisabeth, sel. Erben. Spalenvorstadt 34.\nZimmerlin=Von Speyr, August. Blumenrain 11. — St. Peters-Gasse 32. 34. — St.\nPeters-Graben 11. — Spiegelgasse 1. — Kiehen-Straße 68. 70.\nZimmermann, Gabriel, sel. Erben. Kohlenberggasse 29.\nZimmermann=Bernoulli, C. F. St. Elisabethen-Straße 30.\nZimmermann=Friih, Wb. Elisabeth. Schneidergasse 23.\nZimmermann=Stölle, Herm. Schafgässlein 7.\nZimmermann=Subinger, Carl. Elsässer-Straße 31.\nZollinger=Lütscher, Joh. Imbergässlein 24.\nZürcher, Heinr. Lindenberg 13.\nZumBrunn=Hindermann, Ed. Spalenthorweg 36.\nZunft, zu Brodbecken. Freie Straße 26. — Fischern, Fischmarkt 10. — Gartnern, Gerbergasse 38. — Gerbern, Gerbergässlein 15.\nHausgenossen, Freie Straße 34. — zum Himmel, Freie Straße 33. — Kürschern, Gerbergasse 14. — Metzgern, Sporengasse 10. — Nebleuten, Freie Straße 50. — Safran, Gerbergasse 11. — zum Schlüssel, Freie Straße 25. — zu Schmieden, Klimelinsplatz 6. — Schneider, Gerbergasse 36. — Schuhmachern, Freie Straße 52. — Spinnwettern, Eifengasse 5. — zum Stern, goldenen, Freie Straße 71. — zu Webern, Steinenvorstadt 23. — Weinleuten, Marktplatz 5.\nZurMühle=Wernli, Jac. Weiße Gasse 11.\nZwischenbart, Rudolf. Alybecksstraße 89. — Horburgstraße 1. 3.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6422,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2184,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 58.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:02:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p317",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p317.jpg",
+      "bytes": 1340950,
+      "sha256": "966ab4f7b69cf845d10754dd1f888bc63f57c38140d3dd4df1325923ee626bdc",
+      "sha256_of": "original",
+      "working_copy": "1862_p317.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:15+00:00"
+  }
+}

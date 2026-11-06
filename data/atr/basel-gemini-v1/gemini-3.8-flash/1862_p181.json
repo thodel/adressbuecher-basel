@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p181",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p181.jpg",
+    "bytes": 1266371,
+    "sha256": "a39e332c6842c01828d99dbfeb6cb4007cd08572cfd40bcf8763e93014192e86",
+    "sha256_of": "original",
+    "working_copy": "1862_p181.jpg"
+  },
+  "text": "116 Rheinsprung. — Ringgäßlein. — Rittergasse.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n10 | VI. | 1503 | | Zeinler-Schöchli, Maria.\n  Zeinler-Schöchli, Maria, Part.\n12 | VI. | 1499 | Pfarrhaus. | Staat.\n  Siehe Nr. 3 Martinskirchplatz.\n14 | VI. | 1502 | zum Brauer. | DeBary, Johannes u. Söhne.\n  Aich, Joh. Carl, Commis.\n16 | VI. | 1509 | Reichensteinerhof. | Vischer-Merian, Carl u. Vischer-\n  Burckhardt, Peter.\n  Comptoir v. Hans Franz Sarasin, Band-\n  fabrik. Siehe Nr. 1 Martinsgasse.\n17 | VI. | 1487 | Lehrerwohnung. | Staat.\n  Heß-Burckhardt, J.Wahrm., Lehr.S.M.C.\n18 | VI. | 1510 | Wendelsdörferhof. | Bachofen u. Sohn, Joh. Jakob.\n  Bachofen-Burckhardt, Carl Bandfabr.\n  Firma J. J. Bachofen u. Sohn.\n19 | VI. | 1486 | zur Hölle. | Bischoff-Fürstenberger, August.\n  Kaufmann u. Lüscher, Agenturbureau.\n20 | VI. | 1511 | zur Augenweide. | Bischoff-Burckhardt, Wilh.\n  Bischoff-Burckhardt, Wilh., Bandfabr.\n  Bischoff, Carl de Joh., Rentier.\n21 | VI. | 1485 | | Bischoff-Fürstenberger, August.\n  Bischoff-Fürstenberger, Aug., Bandfabr.\n22 | VI. | 1512 | zur kleinen Augen- | Passavant-Bachofen, Emanuel.\n  weide. | Passavant u. Comp., Banquier.\n  Maurer, Andreas, Commis.\n24 | VI. | 1513 | | Bischoff-Buxtorf, Wb. Adeline.\n  Bischoff-Buxtorf, Wb. Adeline, Part.\n  Gebrüder Bischoff, Bandfabrikanten.\n  Bischoff, Gustav.\n  Bischoff, Johannes.\n\nRinggäßlein.\n\n2 | IV. | 1185—86 | zum Pallast. | Schultheß-Schneider, Wilh. Ernst Ludwig.\n  Siehe Freie Straße Nr. 54.\n3 | IV. | 1111 | | Brüdersocietät.\n  Versammlungslokal.\n  Siehe Streitgasse Nr. 19.\n4 | IV. | 1187 | zum innern Pallast. | Brüdersocietät.\n5 | IV. | 1110 | zum Rebstock. | Graf-Streicher, Joh. Jak.\n  Siehe Streitgasse Nr. 20.\n\nRittergasse.\n\n1 | V. | 1371 | Mädchenschule. | Stadtgemeinde.\n  Tobler-Gengenbach, Eduard, Lehrer.\n  Gengenbach-Mieg, Wb. Elis., Part.\n2 | V. | 1373 | Schönauerhof. | Staat. Hülfsschullokalien.\n3 | V. | 1370 | St. Ulrichs-Kirche ehemalige. | Stadtgemeinde.\n  Magazin v. Burckhardt u. BonderMühll.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8711,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2058,
+    "lines": 48,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:52:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p181",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p181.jpg",
+      "bytes": 1266371,
+      "sha256": "a39e332c6842c01828d99dbfeb6cb4007cd08572cfd40bcf8763e93014192e86",
+      "sha256_of": "original",
+      "working_copy": "1862_p181.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:52:49+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p262",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p262.jpg",
+    "bytes": 1426002,
+    "sha256": "0636d0373666bfcfb037b9417b853cdd544e6d1a331d46c8735454f5549605f2",
+    "sha256_of": "original",
+    "working_copy": "1862_p262.jpg"
+  },
+  "text": "Rheingasse. — Untere Rheingasse. 197\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n82 | VIII. | 81 | Trottenhaus. | Witzig-Speiser, Martin.\n  Witzig-Speiser, Martin, Seidenfärberges.\n84 | VIII. | 86 | zum dürren Ast. | Hindenlang-Müry, Rudolf.\n  Hindenlang-Müry, Rudolf, Schiffmann.\n  Erismann-Hindenlang, Caspar Christof\n    Adolf, Postbeamter.\n  Scherer, Ludwig, Bäcker.\n  Schmid-Heusler, Jakob, Schiffmann.\n86 | VIII. | 87 | | Oechslin-Riedtmann, Joh. Conrad.\n  Oechslin-Riedtmann, Joh. Conrad, Holz-\n    händler und Schiffmann.\n  Hauser-Businger, Joh. Jakob, Band-\n    fabrikant.\n88 | VIII. | 88 | zur Meise. | Matzinger, Anna Elisabeth.\n  Matzinger, Anna Elisabeth, Part.\n90 | VIII. | 89 | | Schmidlin-Müller, Jakob.\n  Schmidlin-Müller, Jakob, Zimmerpart.\n\nUntere Rheingasse.\n1 | VIII. | 378 | zum Waldeck. | Schlueb-Otto, Philipp.\n  Siehe Greifengasse Nr. 1.\n2 | VIII. | 376 | | Kübler-Troll, Melchior.\n  Wintsch-Gottfried, Commis.\n  Suter-Bröchin, August, Kaufmann.\n  Gmelin, Heinrich, Architect.\n3 | VIII. | 377 | Schlachthaus. | Stadtgemeinde.\n4 | VIII. | 375 | zum Ochsenstein. | Preiswerk, Emanuel, sel. Erben.\n  Rieber-Dettwyler, Eduard, Commis.\n  Ramus-Schneider, A., Kaufmann.\n  Lacher-Dettwyler, Jakob, Dessinateur.\n  Lötsch, Carl Ferdinand, Commis.\n5 | VIII. | 373 | z. vord. Kupferthurm | Kellermann, Emil.\n  Kellermann, Emil, Apotheker.\n6 | VIII. | 374 | z. schwarzen Rad. | Märklin, Geschwister.\n  Märklin, Joh. Jakob, Partikular.\n  Märklin, Johanna, ”\n  Erismann-Müry, Jakob, Commis.\n7 | VIII | 372 | | Raillard-Stähelin, August.\n  Raillard-Stähelin, August, Rothgerber.\n8 | VIII. | 368—369 | | Heusler-Thurneysen, Leonhard.\n  Heusler-Thurneysen, Leonhard, Kfm.\n  Firma: Leonhard Heusler u. Comp.,\n    Colonial- u. Farbwaarengeschäft.\n9 | VIII. | 371 | zum Sennheim. | Hasler, Joh. Niclaus.\n  Hasler, Joh. Niclaus, Bäcker.\n  Soller-Fischer, Johannes Hieronimus,\n    Partikular.\n10 | VIII. | 367 | | Heusler-Thurneysen, Leonhard.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7671,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2009,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:04:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p262",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p262.jpg",
+      "bytes": 1426002,
+      "sha256": "0636d0373666bfcfb037b9417b853cdd544e6d1a331d46c8735454f5549605f2",
+      "sha256_of": "original",
+      "working_copy": "1862_p262.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:04:59+00:00"
+  }
+}

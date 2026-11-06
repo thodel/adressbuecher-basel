@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p270",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p270.jpg",
+    "bytes": 1391125,
+    "sha256": "c247548069c5ed06a52b1be383f6631358d09a0a6c0c531055f5ac21add00319",
+    "sha256_of": "original",
+    "working_copy": "1862_p270.jpg"
+  },
+  "text": "Neue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n1 | VII. | 354 | Roth=Ochsenmühle. | Kühlın=Kauer, Joh. Georg.\n3 | VII. | 247 | Blau=Eselmühle. | Braun=Rieffer, Johannes.\n5 | VII. | 247 a | | Braun=Rieffer, Johannes.\n7 | VII. | 248 | | Gaf=Kösln, Johannes.\n| | | | Gaf=Kösln, Johannes, Fabrikarbeiter.\n9 | VII. | 249 | | Braun, Samuel, sel. Erben.\n| | | | Braun, Andreas de Samuel, Rentier.\n21 | VIII. | 45 | | Delhafen, Sam. Jacob.\n| | | | Schmied=Hilzen, Felician, Gärtner.\n1 | VIII. | 131 A | St. Theodorshof. | Bernoulli=Bär, Leonhard.\n2 | VIII. | 131 A a | fl. St. Theodorshof | Bernoulli=Bär, Leonhard.\n| | | | Regenaf=Degerfeld, Heinrich, Commis.\n3 | VIII. | 137 A | Mädchen schule. | Stadtgemeinde.\n| | | | Fäsch=Schuhmacher, Friedrich, Lehrer.\n| | | | Pack, Jakob Georg, Rentier.\n4 | VIII. | 133 | Siegriftwohnung | Staat.\n| | | | Bulacher=Ofer, Hieronimus, Siegrift.\n5 | VIII. | | St. Theodorskirche. | Staat.\n6 | VIII. | | Rapelle. | Staat.\n7 | VIII. | 132 | Waifenhaus. | Inspection des Waifenhauses.\n| | | | Lichtenhahn=Stähelin, Friedr., Waifenvat.\n| | | | Roos, Friedrich Wilhelm, Lehrer.\n| | | | Christen, Johannes,\n| | | | Schmidlin, Otto,\n| | | | Buol, Paul,\n| | | | Dickenmann, Dorothea, Haushälterin.\n| | | | BonBrunn, Anna Maria, Lehrerin.\n| | | | Hirt, Elise,\n| | | | Hagist, Margaretha,\n| | | | Hermann, Louise,\n| | | | Jäck=Huber, Heinr., Pförtner u. Auffseher.\n1 | VIII. | 238 | Sternenecf. | Waffermann=Weber, Carl Rudolf.\n| | | | Erni=Handschin, Joh. Fridolin, Metzger.\n2 | VIII. | 397 | | Bienz=Deschger, Rudolf.\n3 | VIII. | 396 | Gelber Stern. | Müller=Kleiling, Wb. Sibil. Mar.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5057,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1657,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:53:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p270",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p270.jpg",
+      "bytes": 1391125,
+      "sha256": "c247548069c5ed06a52b1be383f6631358d09a0a6c0c531055f5ac21add00319",
+      "sha256_of": "original",
+      "working_copy": "1862_p270.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:53:46+00:00"
+  }
+}

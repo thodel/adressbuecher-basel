@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p132",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p132.jpg",
+    "bytes": 1458412,
+    "sha256": "2b34d276879f35645f5fc158d539f06fe30c346694017b6202aa035b3acd0f76",
+    "sha256_of": "original",
+    "working_copy": "1862_p132.jpg"
+  },
+  "text": "St. Jakobs-Straße. 67\n\nNeue Haus-Nr. | Quar= tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n9 | V. | 255 A. | | Fininger-Eglin, Leonhard.\n  Fininger-Eglin, Leonhard, Rathsherr.\n10 | IV. | 223 | | Vischer, Jgfr. Salome.\n11 | V. | 255 | | Von Speyr-Iselin, Carl,\n  Von Speyr-Iselin, Carl, Kaufmann.\n12 | IV. | 224 | | Wehrly-Himmely, Carl.\n  Wehrly-Himmely, Carl, Ferger.\n  Siegrist Frey, Wittwe Candine, Part.\n13 | V. | 254 | | Menger-Weißer, Wilhelmine.\n  Menger-Weißer, Wb. Wilh., Rentiere.\n  Ryhiner-Menger, Em., Stadtrath.\n  Bürgy-Rieggardt, Em., Bandfabrikant.\n14 | IV. | 225 | | Iselin, Adéle.\n  Iselin, Jungfr. Adéle, Rentiere.\n16 | IV. | 227 | | Burckhardt, Wb. Rosina.\n17 | V. | 252 A. | | Kußmaul, Michael u. Schmid, Xaver.\n18 | IV. | 228 | | Burckhardt-Bernoulli, Wb. Charl.\n19 | V. | 252 | | Schmid-Klotz, Xaver u. Kußmaul, Michael.\n  Schmid-Klotz, Xaver, Chirurg.\n20 | IV. | 229 | | Bischoff-Bischoff, Hieronimus.\n21 | V. | 251 A. | | Löw-Geßler, Johannes.\n  Löw-Geßler, Johannes, Ferger.\n22 | IV. | 229 b. | | Bischoff-Bischoff, Hieronimus.\n  Dörflinger-Herzog, Casp., Gärtner.\n23 | V. | 251 | | Ryhiner-Bischoff, Carl.\n24 | V. | 230 | | Von der Mühll-Bischoff, Em.\n25 | V. | 250 u. | | Günther-Schaub, Jacob.\n27 | | 250 a. | | Günther-Schaub, Jacob, Particular.\n29 | V. | 249 | | Günther-Schaub, Jacob.\n  Sutter-Zürcher, Johannes, Kostgeber.\n31 | V. | 248 | | Ehinger-LaRoche, Wb. Catharina, Rentiere.\n  Dettwyler-Voegeli, Heinr., Gärtner.\n33 | V. | 247 b. u. | | Vischer-Christ, Rudolf.\n35 | | 247 | | Gerber-Eisenlohr, J. J., Gärtner.\n41 | V. | 259 | | Merian-Burckhardt, J. J. sel. Erb.\n  Heinimann-Probst, Heinr., Lehenbest.\n42 | V. | 258 u. c. | | Fürstenberger-Debary, Wb. Julie.\n44 | | | | Dörflinger-Primborgne, Fried., Gärtner.\n46 | V. | 260 | | Ryhiner-Werthemann, Wb. Sus.\n53 | V. | 263 | | Bachofen-Vischer, Wilhelm.\n  Bueß, Jacob, Gärtner.\n54 | V. | 261 | zum Obstgarten. | Gysin, Heinrich.\n  Erzenberger-Dürrenberger, J., Schrein.\n5*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10263,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1998,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:45:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p132",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p132.jpg",
+      "bytes": 1458412,
+      "sha256": "2b34d276879f35645f5fc158d539f06fe30c346694017b6202aa035b3acd0f76",
+      "sha256_of": "original",
+      "working_copy": "1862_p132.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:01+00:00"
+  }
+}

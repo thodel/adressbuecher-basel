@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p145",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p145.jpg",
+    "bytes": 1285799,
+    "sha256": "73e230eab1a60487a8d89cedd73c4df1fc7bc44ecb4d3a5e81d899b7b534800e",
+    "sha256_of": "original",
+    "working_copy": "1862_p145.jpg"
+  },
+  "text": "80\nKronengasse. — Küchegäßlein. — Lehenmattweg.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n6 | VI. | 129 | z. niedern Meer ring. | Halter, Joh. Nicolaus.\n| | | | Mohler=Mundwiler, J. J., Buchdruck.\n| | | | Magazin von J. J. Halter.\n7 | VI. | 1528 | z. gelben Mönch. | Scherb=Jauslin, Georg.\n| | | | Scherb=Jauslin, Gg., Dr. med. et chir.\n8 | VI. | 130 | zum obern Mohren. | Heitz=Devette, Aug., Dr. u. Notar.\n| | | | Gsell, Rudolf, Schuhmacher.\n| | | | Kaiser, Schwefern, Haarflechterinnen.\n9 | VI. | 1527 | zum rothen Kößlein. | Fux=Kalbfell, Carl.\n| | | | Fux=Kalbfell, Carl, Schneider.\n10 | VI. | 131 | zu den drei Klauen. | Leithardt=Loos, Joseph.\n| | | | Leithardt=Loos, Joseph, Schlosser.\n11 | VI. | 1526 | z. weißen Kößlein. | Halter, Joh. Nicolaus.\n| | | | Halter=Plattner, Wb. Elisabeth, Part.\n| | | | Firma J. J. Halter, Bettfedernhdlg.\n12 | VI. | 132 | | Jäslin=Aeschbacher, Wb. Mar. Elis.\n| | | | Jäslin=Aeschbacher, Wb. Maria Elis.\n| | | | Messerschmiedwaarenhandl. u. Schleife.\n| | | | Preiswerk=Oser, Joh. Jakob.\n| | | | Waschhaus.\n14 | VI. | 133 | | Kürner=Mundwiler, Ludw. Heinr.\n16 | VI. | 134 | | Kürner=Mundwiler, E. H., Kupferschmied.\nKüchegäßlein.\n1 | III. | 202 A | | Burchhardt=Stähelin, Friedrich.\n| | | | Burchhardt=Stähelin, Friedr., Kaufm.\n| | | | Gemuseus=Riggenbach, J. Rud. Wilh.,\n| | | | Kaufmann.\n3 | III. | 202 A a | | Burchhardt=Stähelin, Friedrich.\n| | | | Barbe, Jean, Auswanderungsbureau.\n| | | | Marolf=Kunkler, Carl Franz, Lehrer.\n5 | III. | 196 A | | Wenger=Gaebel, Jacob.\n| | | | Kaiser=Schleiniger, Aug., Schreiner.\n7 | III. | 196 B | | Denzler=David, Rudolf.\n| | | | Denzler=David, Rudolf, Hafner.\n| | | | Eckenstein=Schermar, Ed., Hopfenhdlg.,\n| | | | Comptoir Nro. 16 Steinenthorstraße.\n9 | III. | 202 G | Schopf. | Sartorius, Friedrich.\n14 | III. | 198 B | | Simon=Vogt, Franz Joseph.\n| | | | Simon=Vogt, Franz Joseph, Wirth.\n| | | | Hirshi=Keller, Christian, Zugmeister.\n| | | | Karth=Oppermann, Joh. Nicl., Deffin.\nLehenmattweg.\n8 | V. | 347 | Heuschene. | Forkart=Jelin.\n16 | V. | 340 | | Heusler=Fatio, E., sel. Erben.\n| | | | Sunzifer=Suter, Jacob, Lehenbeständer.\n18 | V. | 340 b | | Heusler=Fatio, E. sel. Erben.\n20 | V. | 340 c | | Heusler=Fatio, E. sel. Erben.\n| | | | Stallung und Remise.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7943,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2299,
+    "lines": 59,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:39:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p145",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p145.jpg",
+      "bytes": 1285799,
+      "sha256": "73e230eab1a60487a8d89cedd73c4df1fc7bc44ecb4d3a5e81d899b7b534800e",
+      "sha256_of": "original",
+      "working_copy": "1862_p145.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:39:24+00:00"
+  }
+}

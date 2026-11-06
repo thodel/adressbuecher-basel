@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p208",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p208.jpg",
+    "bytes": 1440664,
+    "sha256": "928841bbfddc444f4ca40e2666d2a62ce05a2e30ef7f18a65bd42ee469fb74d8",
+    "sha256_of": "original",
+    "working_copy": "1862_p208.jpg"
+  },
+  "text": "Spitalstraße. — Sporengasse. 143\nNene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n34 I. 29 h ………… Delhafen-Dreyer, Samuel Jak.\nSiehe Nr. 37 St. Johann-Vorstadt.\n40 I. 275 P ………… Jäslin-Müller, Theodor.\nThierry, J., Tabak- und Cigarrenfab.\nSporengasse.\n1 VI. 1600 zur gold. Münze. Bernoulli-Bär, Leonhard.\nBernoulli-Bär, Leonhard, Kaufmann.\nBernoulli, Johannes, Sohn, Kaufmann.\nBernoulli, Wilhelm Leonhard, Sohn,\nKaufmann.\nFirma: Leonhard Bernoulli, Droguerie-\nund Materialwaarenhandlung.\n2 VI. 1582 zum Kranich. Dénéréaz-Wertenberg, Wb. Soph.\nDénéréaz-Wertenberg, Wb. Soph., Part.\nUhlmann-Glock, Georg, Kaufmann.\nBureau von J. Wild, Commissionär.\n3 VI. 1601 zum rothen Haus. Pfisterer-Salathe, Heinrich Rudolf.\nPfisterer-Salathe, Heinrich Rudolf, Pelz-\nhandlung.\n4 VI. 1581 zum mittlern Laden. Schringer-Bonnet, Joh. Georg.\nSchringer-Bonnet, Joh. Georg, Kfm.\nTrüdinger-Schringer, Joh. Georg, Kfm.\n5 VI. 1602 zum Lämmlein. Sutter-Baumgartner, Jacob.\nSutter-Baumgartner, Jacob, Sattler\nund Lederhändler.\nOtter-Glor, Urs Josef, Sattler.\nWüst-Vonbrunn, Heinr. Leonz., Rüshdlg.\nSchaffner, Joh. Jacob, Cigarren- und\nTabakhandlung.\n6 VI. 1580 zum Leopard. Binz-Heuser, Emil.\nBinz-Heuser, Emil, Kaufmann.\nBinz u. Comp., Band- u. Modewaaren.\n7 VI. 1603 zum Agtstein. Paravicini, Leonhard.\nEisenhandlung.\n8 VI. 1579 zum Affen. Schneider-Lindenmeyer, Eduard.\nSchneider-Lindenmeyer, Eduard, Quin-\ncaillerie-, Spielwaaren-, Blumen-\nund Strohhuthandlung.\n9 VI. 1607 zum Arm. Riggenbach-Burchhardt, Franz.\nRiggenbach-Burchhardt, Franz, Kaufm.\nFirma: Riggenbach Wb., Handlung in\nColonialwaaren.\n10 VI. 1578 Zunft zu Mezgern. Corporationsgut.\nPfannenschmidt-Gunzenhauser, Lucas,\nWirth und Abwart.\n12 VI. 1578 ………… Stadtgemeinde.\nMezge.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5146,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1767,
+    "lines": 57,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0023,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:47:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p208",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p208.jpg",
+      "bytes": 1440664,
+      "sha256": "928841bbfddc444f4ca40e2666d2a62ce05a2e30ef7f18a65bd42ee469fb74d8",
+      "sha256_of": "original",
+      "working_copy": "1862_p208.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:47:49+00:00"
+  }
+}

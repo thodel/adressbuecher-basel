@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p118",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p118.jpg",
+    "bytes": 1479041,
+    "sha256": "18e624ed0f888c6b493079282a688893550cd8b1198879a0a880753d33f1af4f",
+    "sha256_of": "original",
+    "working_copy": "1862_p118.jpg"
+  },
+  "text": "Gerbergasse. 53\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n37 | VI. | 657 | zum Leuchtenberg. | Hübscher-Keller, Rudolf.\n  Hübscher-Keller, Rudolf Lederhändler.\n  Hübscher, Rudolf, Spengler.\n38 | VI. | 642 | Zunft zu Gartnern. | Corporationsgut.\n  Fischer-Miville, Emil, Mehlhdl. u. Wirth.\n39 | VI. | 658 | zur rothen Henne. | Ebner, gesch. Audran, Anna Maria.\n  Erdin-Ebner, Franz Joseph, Commis.\n  Altorfer-Weiß, Heinrich, Waagmeister.\n40 | VI. | 641 | z. weiß. Windhund. | Trübner-Wolfensberger, Ludwig.\n  Trübner-Wolfensberger, L., Buchbinder.\n41 | VI. | 659 | z. klein. Christoffel. | Grethener-Jäggi, Jacob.\n  Grethener-Jäggi, Jac., Bettfedernhdlg.\n42 | VI. | 640 | z. vordern Greifen. | Bader-Schäfer, Johannes.\n  Bader-Schäfer, Joh., Spezereihandlung.\n43 | VI. | 660 | zum Frieseck. | Uehlinger-Bulacher, Joh. Jakob.\n  Uehlinger-Bulacher, J. J., Seiler.\n  Rickenbacher, Gottlieb, Büchsenmacher.\n44 | VI. | 639 | zum Ritter. | Mieg, Joh. Jakob, Apotheker.\n  Mieg, J. J., Apotheker.\n  Artmann, Julius August, Agent.\n45 | IV. | 1167 | | Buser-Meyer, Wb. Sophia.\n  Buser-Meyer, Wb. Soph., Schuhmach.\n46 | VI. | 661 | zur Hutten. | Heer-Tanner, Heinrich.\n  Heer-Tanner, Heinr., Pelzwaaren-, Hut-\n    und Kappenlager.\n47 | IV. | 1166 | zur großen Treu. | Burger, Christian und Sommer-\n  halder, Jakob.\n  Sommerhalder-Burger, Jac., Spezierer.\n  Burger-Haller, Christian, Graveur.\n48 | VI. | 662 | das alte Bad. | Gaß-Thurneysen, Wb. Friederika.\n  Gaß-Walter, Friedrich, Metzger.\n  Meyer-Mohler, Joh., Commis.\n49 | IV. | 1165 | | Roth, Balthasar, Sohn.\n  Roth, Balthasar, Sohn, Seidenagent.\n  Firma u. Comptoir von Christen-Roth.\n  Hosch-Roth, Wb. Rosalie, Woll- und\n    Stickerei-Geschäft.\n50 | VI. | 663 | zum Fürstenberg. | Haller-Marfort, Victor.\n  Haller-Marfort, Victor, Küfer.\n51 | IV. | 1164 | z. schwarz. Kolben. | Ott-Stählin, Friedrich.\n  Ott-Stählin, Fr., Damenkleidermagazin.\n52 | VI. | 664 | zum rothen Krebs. | Singeisen-Schardt, Joh. Jak. Dan.\n  Singeisen-Schardt, J. J. D., Buchbind.\n53 | IV. | 1163 | zum Ruderbach. | Gräff-Fäsch, Philipp.\n  Gräff-Fäsch, Philipp, Coiffeur.\n54 | VI. | 665 | z. hangend. Stein. | Thurneysen-Schneider, Ludwig.\n  Thurneysen-Schneider, L., Weißgerber.\n55 | IV. | 1162 | zum guten Stein. | Herzog-Scheitlin, Achilles.\n  Herzog-Scheitlin, Ach., Leinwandhdlg.\n  Baumgartner-Scherrer, Wilh., Commis.\n  Brombacher, Carl, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10541,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2433,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.62,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:42:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p118",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p118.jpg",
+      "bytes": 1479041,
+      "sha256": "18e624ed0f888c6b493079282a688893550cd8b1198879a0a880753d33f1af4f",
+      "sha256_of": "original",
+      "working_copy": "1862_p118.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:42:50+00:00"
+  }
+}

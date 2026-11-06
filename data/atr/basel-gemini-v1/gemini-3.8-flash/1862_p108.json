@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p108",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p108.jpg",
+    "bytes": 1487968,
+    "sha256": "f3367b0bed28e0861e3fcd7e70b74a1cfc8f7dadfb7b9e6a979f78d4362391f6",
+    "sha256_of": "original",
+    "working_copy": "1862_p108.jpg"
+  },
+  "text": "Freie Straße. 43\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n28 | VI. | 1172 | zum rothen Bären. | Dettwyler-Hauser, Joh. Jakob.\n  Dettwyler-Hauser, Joh. Jakob, Küfer.\n  Wirz-Ehrsam, Martin, Commis.\n  Senglet-Weiß, Marc. Franç., Commis.\n29 | V. | 1447 | zum Ehrenfels. | Brolly u. Albiez.\n  Brolly u. Albiez, Adolf, Chales- u.\n  Seidenwaarenhandlung.\n  Albiez-Staehle, Elisabeth, Wittwe.\n  Ecklin-Hetzel, Daniel, Dr. med.\n  (Eingang Nr. 4 am Schlüsselberg.)\n30 | VI. | 1173 | zum Fuchs. | Weitnauer-Krug, Heinr. Fried.\n  Weitnauer-Krug, Hch. Friedr., Metzger.\n31 | V. | 1446 | z. kl. rothen Löwen. | Wahr, Philipp u. Carl.\n  Wahr, Philipp, Tuchhandlung.\n  Wahr-Bené, Carl, Tuchhandlung.\n  Engelberger-Wahr, Josef, Kaufmann.\n32 | VI. | 1174 | zur Lilie. | Köchlin-Laubheim, Heinrich.\n  Köchlin-Laubheim, Heinr., Particular.\n  Köchlin, G. Rudolph, Gipser.\n  Kirchdörfer-Köchlin, Christian, Buchdruck.\n  Meyri-David. Christian, Buchhändler.\n  Riesen, Wilhelm, Uhrmacher.\n  Wörner-Wahl, Joh., Stuhlschreiner.\n33 | V. | 1445 | Zunft zum Himmel. | Corporationsgut.\n  Ertzberger-Krayer, Sal. Wb., Confiseuse.\n  Christen, Sophia Margaretha u. Maria\n  Sara, Schwestern, Kleinkinderschule.\n34 | VI. | 1175 | zum Bären. | Corporationsgut.\n  (Zunft z. Hausgenoss.) | Bachofen-Braun, Joh. Jak., Traiteur.\n35 | V. | 1444 | Gasth. z. Wildenm. | Brack-Meister, Joh. Jak.\n  Brack-Meister, Joh. Jakob, Gastgeber.\n  Siehe Schlüsselberg Nr. 10.\n  Ammann-Stucky, Heinr., Kleiderhandlg.\n  Wyler-Thomas, Felix, Huthandlung.\n36 | VI. | 1176 | zum Cardinal. | Eckenstein-Maring, Henriette.\n  Eckenstein-Maring, Heinr. Wb., Bierbr.\n  Reber-Glaser, Cath. Wb., Wirthin.\n  Roth-Hunziker, Ursus, Tabakhandlung.\n37 | V. | 1443 | z. grünen Drachen. | Marfort-Flury, Salomea, Wb.\n  Marfort-Flury, Salomea, Wittwe.\n  Marfort-von Speyr, Albert, Sattler.\n  Marfort, Anton, Commis.\n38 | VI. | 1177 | zum Pflug. | Gemuseus-Stähelin, Salome, Wb.\n  Gemuseus-Stähelin, Salome, Wittwe.\n  Gemuseus, Joh. Rud. Kaufmann.\n  Gemuseus, L. Aug. Kaufmann.\n  Compt. v. J. R. Gemuseus, Colon-Whdlg.\n  Gemuseus, Charlotte, Jungfrau.\n39 | V. | 1442 | Eisenhut. | Ramsperger-Hug, Emanuel.\n  Ramsperger-Hug, Eman., Kaufmann.\n  Colonialwaaren- u. Mineralwasser-Hdlg.\n40 | IV. | 1178 | Rosenfeld. | Detloff-Lafontaine, Carl.\n  Detloff-Lafontaine, Carl, Buchhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10147,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2370,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:41:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p108",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p108.jpg",
+      "bytes": 1487968,
+      "sha256": "f3367b0bed28e0861e3fcd7e70b74a1cfc8f7dadfb7b9e6a979f78d4362391f6",
+      "sha256_of": "original",
+      "working_copy": "1862_p108.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:41:13+00:00"
+  }
+}

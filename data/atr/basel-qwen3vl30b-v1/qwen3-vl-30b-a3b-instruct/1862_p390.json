@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p390",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p390.jpg",
+    "bytes": 1562057,
+    "sha256": "5468f085404a42f63fb0861a22734fc77964a5de4738950b854d47d3eca346c4",
+    "sha256_of": "original",
+    "working_copy": "1862_p390.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 325\nPeter, Benedikt (Spiegelmagazin). Kaufhaus= Pfister=Hegerich, Josef, Part. St. Peters=\ngaffe 8. Berg 35.\n— =Bitterli, Ursp. Joseph, Vieh- und Heu- — =Kunzmann, Martin, Taglöhner. Sat-\nhändler. Barfüßerplatz 11. telgasse 16.\n— Friedrich Heinrich, Agent. Bäumlein- — =Weber, Wb. Elisabeth, Part. Greifen-\ngasse 18. gasse 25.\n— Johanna und Verona, Partikularinnen. Pfister, Heinrich, Commission u. Spedition.\nByfangweg 34. Steinenvorstadt 8.\n— =Kurz, Conrad. Weiße Gasse 4. — Jacob, Bedienter. St. Alban-Vorstadt 26.\n— =LaRoche, Carl, Pfarrer. Missionstraße 21. — =Zetter, Andreas, Gastwirth. Rhein-\n— =Mäser, Gottfried, Magazinarbeiter. gasse 8.\nRiehenthofstraße 3. — =Kunz, Wilhelm, Commis. Spalen-\n— =Rödel, Wb. Gertrud, Partikularin. thorweg 18.\nBäumleingasse 18. — =Lehn herr, Johs., Bahnwärter. Aesch-\n— =Simm ler, Bened., Bergolder. Barfü- vorstadt 68.\nbergasse 3. — =Lotz, Joh. Heinrich, Kaufmann. St.\n— Urjula, Schneiderin. Münsterberg 14. Peters-Berg 25.\nPetion=Ortlieb, Ernst, Bergolder. Schneider- — =Schäublin, Friedr., Taglöhner. Imber-\ngasse 31. gäcklein 26.\nPetit=Caffal, Jean, Holz- und Farbmiller. — =Weber, Jacob, Milchhändler. Weiße\nUntere Reb gasse 8. Gasse 4.\nPetri=Scherb, Emanuel, Part. Hutgasse 7. Pfisterer=Salathe, Heinrich Rud., Pelzhandlg.\nPettermand=Landerer, A. C., Kaufm. Neue Sporengasse 3.\nVorstadt 23. Pfrunder=Haufer, Rud., Fabrikarbeit. Rhein-\nPeyer, Joh, Schuhmacher. Spalenberg 41. gasse 24.\n— =Strittmatter, Conrad, Seidenfärbger. Pfunder=Brodbeck, Carl, Taglöhner. Grenz-\nSt. Clara Straße 14. acher-Straße 133.\n— =Stumm, Seb ast., Maurerparlier. We- — Kaup, Wb. Elisabeth, Fabrikarbeiterin.\nbergasse 8. Lindenberg 5.\nPfaff, Cathar., Schneiderin. St. Alban thor- Pfiffer= Lorenz, Joh. Jac., Buchbinder. Münz-\ngraben 1. gäcklein 24.\n— Jacob Heinrich, Bürstenmacher. Schnei- Phénè=Meisner, Wb. Ida, Part. St. Ja-\ndergasse 24. kobs-Straße 6.\n— =Zenker, Martin, Commis. Heumatt- Philipp=Jäger, Gregor, Hausknecht. Untere\nstraße 12. Rheingasse 10.\n— =Keller, Joh. Jakob, Feger. Hammer- — Therefia, Wäjcherin. Imbergäcklein 27.\nstraße 15. Philippi, Ernst, Agent. St. Leonhards=Grab.36.\n— =Kuetjch, Andreas, Zimmermeister. — =Hagnier, Alb. Jak., Agent. St. Leon-\nSternengäßlein 12. hards=Grab en 36.\n— Salomea, Lohußchin. Lindenberg 19. — =Stierlin, Wilh. Rud. Franz, Schirm-\n— =Schaub, Johs., Bürstenmacher. Hut- lager. Freie Straße 6.\ngasse 20. Piaud, Jean Baptist, Tabakhandlg. Eijen-\nPfander, A. Victor, Agent. Heutmannstr. 14. gasse 18.\n— =Carle, Wb. Margar., Partikular. Au- — =Seiler, Jean Bapt., Dessinateur. Klin-\nstraße 26. gen thal 18.\n— =Kaltenbach, Jac., Part. Austraße 26. Picard=Bloch, Leon, Bandhändler. Koshof-\nPfannenschmid=Gunzenhauser, Lucas, Wirth. gasse 7.\nSporengasse 10. — =Dreyfus, Abraham, Kaufmann. St.\n— Leonhard, Part. Hutgasse 23. Leonhards=Grab en 8.\n— =Schweizer, Wb. Barbara, Damenschnei- Picchioni=Troxler, Louis, Profess or d. italien.\nderin. Freie Straße 46. Sprache u. Literatur. Schneidergasse 27.\nPfau, Anna, Part. Alybeckstraße 27. Pigeon=DeSage, Nicolas, Beloutier. Aeschen-\n— Jacob, Commis. Kaufhausgasse 6. vorstadt 77.\nPfeiffer=Elmiger, Conrad, Commis. St. Pizarro=deBillier, Manuel, Rentier. Spital-\nElisabethen-Straße 25. straße 22.\n— =Ganfer, Wb. Urjula, Lohnföchin. Rhein- Platter=Mangold, Peter, Posamenter. Steinen-\ngasse 52. thorstraße 18.\n— =Richter, Gärtner. Bachlettenstraße 11. Plattner=Az, Wb. Magdalena, Part. St.\n— =Rieder, Jacob, Schuhmacher. St. An- Martinskirchplatz 5.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9126,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3502,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 57.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:13:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p390",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p390.jpg",
+      "bytes": 1562057,
+      "sha256": "5468f085404a42f63fb0861a22734fc77964a5de4738950b854d47d3eca346c4",
+      "sha256_of": "original",
+      "working_copy": "1862_p390.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:13:36+00:00"
+  }
+}

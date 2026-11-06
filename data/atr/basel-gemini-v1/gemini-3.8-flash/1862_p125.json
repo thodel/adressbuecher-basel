@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p125",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p125.jpg",
+    "bytes": 1307433,
+    "sha256": "1f24fa7781ee9366b66e4b9a77f998ada4b603b2e4af462d30fc3c7a36df49c6",
+    "sha256_of": "original",
+    "working_copy": "1862_p125.jpg"
+  },
+  "text": "60 | Heuberg.\n\nNeue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n6 | II. | 445 | Paradies. | Stähelin, Jgfr. Sal. sel. Erben\n  Heintz-Huber, Eduard, Commis.\n7 | II. | 441 | Spießhof. | Gesellsch. d. schweiz. Centralbahn.\n  Steinmann-Kammermann, Jak., Abwart.\n8 | II. | 444 |  | Salathé-Boßhardt, Joh.\n  Salathé-Boßhardt, Joh., Kaufmann.\n10 | II. | 443 | z. hintern Schaub. | Liebrich-Müller, J. Conrad.\n  Liebrich-Müller, J. C., Civilg.-Weibel.\n  Wagner-Liebrich, Joh., Org. u. Musikl.\n  Frutiger-Hoffmann, F., Handl.Commis.\n12 | II. | 442 | Arau. | Huber-Schnell, Mar. Sal., Pfr. Wb.\n  Huber-Schnell, M. S., Pfr. Wb., Part.\n13 | VI. | 422 | zum Kellerladen. | Frey-Schmid, Marg., Wb.\n  Frey-Schmid, Marg., Wittwe.\n  Jöpgen-Hohler, Wilh., Maler.\n14 | II. | 441 A. | zum Seidenhut. | Levy-Dulmont, Marcus.\n  Levy-Dulmont, M., J. U. L., Advok.\n  Himmeli-Meyer, Jacob, Commis.\n  Bertschmann, Johannes, Rentier.\n  Mann-Bertschmann, Christina, Part.\n15 | VI. | 423 | zum Sternenberg. | Schweickhardt-Dunkel, Em. Jac.\n  Schweickhardt-Dunkel, Em. Jac. Schuh-\n  macher.\n16 | II. | 440 |  | Burckhardt-Imhof, Wb. Sus.\n  Burckhardt-Imhof, Sus., Rentjere.\n  Burckhardt, Emanuel, Kaufmann.\n  Staehelin-Burckhardt, Sam., Kaufm.\n17 | VI. | 424 | zum Lorbeerkranz. | Goßwyler-Stoll, Conrad.\n  Goßwyler-Stoll, Conrad, Eselhalter.\n  Salathe-Müller, Rud. Wirth, Postfact.\n18 | II. | 439 | zum Engelberg. | Bernoulli-Werthemann, Joh. Jac.\n  Bernoulli-Werthemann, Joh. Jacob,\n  Phil. Dr. Alt-Apotheker.\n19 | VI. | 425 | zum Tröttlin. | Säuberlin-Hägelin, Wb. Sus. Barb.\n  Säuberlin-Hägelin, Wb. Sus. Bb., Part.\n  Säuberlin-Klausfelder, Hier., Brieftr.\n20 | II. | 438 | zum Helfenberg. | Stricker-Meyer, Lud. David.\n  Stricker-Meyer, L. D., Pintenwirth.\n  Hubsch, Georg Herm., Commis.\n  Thoma, Moritz, Commis.\n21 | VI. | 426 | Benken. | Biedert-Müller, Johannes.\n  Biedert-Müller, Johannes.\n22 | II. | 437 | zum Waldshut. | Bischoff-Keller, Andreas.\n  Bischoff-Keller, Andr., Kaufmann.\n23 | VI. | 427 |  | Lapp-Wollschlegel, Christian Friedr.\n  Lapp-Wollschlegel, Schlosser u. Mechanik.\n  Hurt-Heer, Conrad, Zimmermeister.\n24 | II. | 436 | zum Mörsberg. | Burckhardt-Preiswerk, Emanuel.\n  Burckhardt-Preiswerk, Em., Pfarrer.\n25 | VI. | 428 |  | Wassermann-Krebs, Rud.\n  Wassermann-Krebs, Rud., Kaminfeger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9209,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2339,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p125",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p125.jpg",
+      "bytes": 1307433,
+      "sha256": "1f24fa7781ee9366b66e4b9a77f998ada4b603b2e4af462d30fc3c7a36df49c6",
+      "sha256_of": "original",
+      "working_copy": "1862_p125.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:53+00:00"
+  }
+}

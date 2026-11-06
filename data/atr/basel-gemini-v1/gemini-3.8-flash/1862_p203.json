@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p203",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p203.jpg",
+    "bytes": 1342576,
+    "sha256": "bbf2a4473b86dad94e7ac13445dee52a52db31742411fcbaf793a6e5dc246baf",
+    "sha256_of": "original",
+    "working_copy": "1862_p203.jpg"
+  },
+  "text": "138 | Spalenvorstadt.\n\nNeue Haus-Nr | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n8 | II. | 282 |  | Geßler-Zeller, Johannes.\n  Geßler-Zeller, Johannes, Bäcker.\n  Hächler-Spiller, Peter, Ferger.\n  Falkner-Hübscher, Wb. Helene, Hebamme.\n9 | II. | 351 | z. kleinen Lützelhof. | Boehme-Geßler, Wilh. Ulrich.\n  Boehme-Geßler, Wilh. Ulr., Schlosser.\n  Uebelin-Abt, Rud., Waarencourtier.\n  Buchmann-Meyer, Jakob, Schreiner.\n  Thommen, Theophil, Commis.\n10 | II. | 283 | z. Mühleisen. | Simmoth-Speiser, Julius Otto.\n  Simmoth-Speiser, Jul. Otto, Kaufm.\n  Simmoth, J. O., Taback- u. Cigarren-\n    handlung.\n  Burckhardt, Gustav, Kaufmann.\n11 | II. | 350 | Lützelhof. | Merian-Frischmann, Rudolf.\n  Merian-Frischmann, Rud., Kaufmann.\n  Merian, Daniel Albert, Kaufmann.\n12 | II. | 284 |  | Scherb, Emanuel, sel. Erben.\n  Scherb, Christina Magdalena, Part.\n  Fernsemer-Haeberle, Balth., Geistlicher.\n13 | II. | 349 | Gesellschaftshaus z. Krähe. | Corporationsgut.\n  Wohnlich-Hagenbach, Franz, Kaufmann.\n14 | II. | 285 | Mueshaus. | Stadtgemeinde.\n15 | II. | 348 | zum Samson. | Schilling-Jenni, Joh. Rudolf.\n  Schilling-Jenni, Joh. Rud., Hufschmied.\n16 | II. | 286 | Bauverwalterwohnung. | Stadtgemeinde.\n  Barth-Ulrich, Daniel, Bauverwalter.\n17 | II. | 326 | z. schwarz. Ochsen. | Kling-Koch, Eugen.\n  Kling-Koch, Eugen, Gastwirth.\n  Haefelfinger, Carl, Materialhdlg.\n18 | II. | 287 | zum Rosenkranz. | Schweizer-Brand, Niclaus.\n  Schweizer-Brand, Niclaus, Schreiner\n    u. Holzmesser.\n  Gundrum-Eyger, J. Heinr., Kunstmaler.\n19 | II. | 325 |  | Geßler-Zeller, Johs.\n  Wenk-Müller, Martin, Mechaniker.\n  Neuhauser-Ackermann, Const., Bäcker.\n20 | II. | 288 | zum Rosenberg. | Finninger-Bader, Joh. Rudolf.\n  Finninger-Bader, Joh. Rud., Bäcker.\n21 | II. | 324 |  | Gysin-Kaiser, Joh. Dietrich.\n  Gysin-Kaiser, Joh. Dietrich, Schlosser.\n  Hatt-Kleinlin, Joh. Jak., Lithograph.\n22 | II. | 289 |  | Steinmann-Scholer, Friedrich.\n  Steinmann-Scholer, Friedr., Schreiner.\n  Berger-Rülger, Joh. Friedr., Commis.\n23 | II. | 323 |  | Gerber-Koch, Johannes.\n  Gerber-Koch, Johannes, Metzger.\n24 | II. | 290 | Herrenschmiede. | Bohny-Fausel, Johannes.\n  Bohny-Fausel, Johannes, Hufschmied u.\n    Wagenfabrikant.\n  Weibrecht-Klemm, Theodor, Candidat\n    u. Sekretär des Missionshauses.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9466,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2309,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:56:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p203",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p203.jpg",
+      "bytes": 1342576,
+      "sha256": "bbf2a4473b86dad94e7ac13445dee52a52db31742411fcbaf793a6e5dc246baf",
+      "sha256_of": "original",
+      "working_copy": "1862_p203.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:18+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p188",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p188.jpg",
+    "bytes": 1417817,
+    "sha256": "7cfa07827a2a6df7e7246554f0f75831985b6f1acd172c037decb8ab2a42a0c5",
+    "sha256_of": "original",
+    "working_copy": "1862_p188.jpg"
+  },
+  "text": "Schlüsselberg. — Schnabelgässlein. 123\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n8 V. 1445 A Zunft z. Himmel. Corporationsgut.\nErzberger=Kraher, Salomea, Zuderbäck.\nChristen, Sophia u. Sara, Kleinfinderich.\nSiehe Freie Straße Nr. 33.\n9 V. 1452 weiser Bär. Buxtorf=Jetscherin, Friedrich.\nBuxtorf=Jetscherin, Joh. Friedr., Wech-\nfelsenfal.\nGengenbach=Buxtorf, Wb. Carol., Part.\nGengenbach, Carolina, Privatlehrerin.\n10 V. 1444 B Gasthof z. Wilden-\nmann. Brack, J. J.\nBrack=Meister, J. J., Gastgeber.\nSiehe Freie Straße Nr. 35.\n11 V. 1453 A\nBurchhardt=Dick, Aug.\nHerzog=Reber, Emanuel, Rentier.\n12 V. 1443\nMarfort=Flury, Wb. Salomea.\nSiehe Freie Straße Nr. 37.\n13 V. 1453 zum Schönenberg. Burchhardt=Dick, Aug.\nBurchhardt=Dick, Dr. med., Arzt.\nBurchhardt, Aug., Commis.\n14 V. 1454 zur Mücke. Staat.\nRealschule.\n15 V. 1455 zum Landfer. Schaub=Riffel, Andreas.\nSchaub=Riffel, Andr., J. U. D., Dienst-\nbotenrichter.\nSchaub u. Zutt, Notariats- u. Advo-\nkaturbureau.\nHofch=Tschientsch, Ed., Eisenbahnbeamt.\n17 V. 1456 Burghof. Burchhardt=Brenner, Friedrich.\nBurchhardt=Brenner, Dr. Friedr., Lehrer.\nBurchhardt, Rud., Privatlehrer.\nNotariats- u. Advokaturbureau v. Dr.\nCarl Wieland.\nSchnabelgässlein.\n1 VI. 1703 z. Hauenstein. Dichtel=Bayer, Joh. Michael.\nDichtel=Bayer, Joh. Michael, Wirth.\n2 VI. 608 c zum Pflug. Hegner=Schneider, Steffan.\nSchneider=Wagner, Martin, Wirth.\n3 VI. 1702\nWeiß=Forster, Carl.\nWeiß=Forster, Carl, Kübler.\n4 VI. 608 d zum Pflug. Hegner=Schneider, Steffan.\n5 VI. 1701\nFrey=Rudin, Rudolf.\nFrey=Rudin, Rud., Fabrikarbeiter.\n6 VI. 609 Levy, Abraham, fel. Erben.\nLevy, Regine, Kleiderstoffhandlung.\n7 VI. 1701 A\nBest-Dizler, Wb. Anna Maria\nCatharina.\nBest-Dizler, Wb. A. Mar. Cath., Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5414,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1759,
+    "lines": 63,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 26.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p188",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p188.jpg",
+      "bytes": 1417817,
+      "sha256": "7cfa07827a2a6df7e7246554f0f75831985b6f1acd172c037decb8ab2a42a0c5",
+      "sha256_of": "original",
+      "working_copy": "1862_p188.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:51+00:00"
+  }
+}

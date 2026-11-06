@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p225",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p225.jpg",
+    "bytes": 1267648,
+    "sha256": "51351b98997985973dbc8310df552fc7ccd878e508363d7239a99167e742351d",
+    "sha256_of": "original",
+    "working_copy": "1862_p225.jpg"
+  },
+  "text": "160\nTodtentanz. — Trillengäflein. — Wallstraße.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n11 | I. | 79 | | Schöck=Hindenlang, Jak. Christof.\n12 | I. | 78 | zum Häsli. | Schöck=Hindenlang, Jak. Christ., Kfm.\n13 | I. | 77 | zur Hölle. | Mieg=Keller, Rosina.\n| | | | Schachtler=Moser, Joh. Jak., Gipser.\n| | | | Merian=Kespinger, Carl Frz. Josef.\n| | | | Merian=Kespinger, Carl Franz Joseph,\n| | | | Kaufmann.\n14 | I. | 76 | | Wezel=Keller, Sebastian.\n| | | | Wezel=Keller, Sebastian, Magazinier.\n15 | I. | 75 | | Meyer=Francois, Joh. Jak.\n| | | | Meyer=Francois, Joh. Jak., Part.\n16 | I. | 74 | 3. goldenen Türkis. | Hasler=Sutermeister, Wb. Elise.\n| | | | Hasler=Sutermeister, Wb. Elise, Par-\n| | | | tikularin.\n| | | | Hasler, Joh. Martin, Commis.\n17 | I. | 71 | Bockstecherhof. | Zselin=LaRoche, Joh. Jak.\n| | | | Zselin=LaRoche, Joh. Jak., Rentier.\n18 | I. | | | Zselin=LaRoche, Joh. Jakob.\n| | | | Remije.\n19 | I. | 71 | französische Kirche. | Staat.\nTrillengäflein.\n1 | VI. | 611 | 3. obern Straßburg. | Schneider=Thommen, Joh. Jak.\n| | | | Schneider=Thommen, Joh. Jak., Schrein.\n| | | | Kunz=Jenni, Joh. Peter, Buchbinder.\n| | | | BonGunten=Meyer, Christ., Viktualien-\n| | | | händler.\n3 | VI. | 410 | | Schmidlin=Zumsteg, Joh. Baptist.\n| | | | Schmidlin, Jakob, Schneider.\n| | | | Biri=Hinden, Pius, Schreiner.\n4 | VI. | 412 | | Bonin, Georg.\n5 | VI. | 409 | | Häberlin=Schlageter, Franz.\n| | | | Häberlin=Schlageter, Franz, Schuhmach.\n6 | VI. | 411 | | Holdenecker, Franz Johann und\n| | | | Wädenschwiler, Sebastian.\n| | | | Flubacher=Speifer, J. Jak., Schuhmach.\n8 | VI. | 415 | zum grünen Helm. | Baur, Samuel.\n| | | | Malerwerkstätte.\nWallstraße.\n2 | IV. | | | Stadgemeinde. Sprikenhaus.\n4 | IV. | 896 G | | Stenz=May, Conrad.\n| | | | Schaefer=Wunderlin, Vincenz, Zimmer-\n| | | | mann.\n| | | | Schaefer=Kaifer, Christian, Zimmerm.\n| | | | Spieler=Wertenberg, Adolf, Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5771,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1939,
+    "lines": 55,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p225",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p225.jpg",
+      "bytes": 1267648,
+      "sha256": "51351b98997985973dbc8310df552fc7ccd878e508363d7239a99167e742351d",
+      "sha256_of": "original",
+      "working_copy": "1862_p225.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:29+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p450",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p450.jpg",
+    "bytes": 1685841,
+    "sha256": "f710f38207c7bc4e977cfc1e968dcb2adf404f8b6d84c273dce817d5b7d84ade",
+    "sha256_of": "original",
+    "working_copy": "1862_p450.jpg"
+  },
+  "text": "Verzeichniß der Berufsarten. 385\n\nMerian, Benedikt. Aeschenvorstadt 20.\nOtter, Urs Josef. Sporengasse 5.\nRochet, Hieronimus. Schwanengasse 1.\nWiederkehr, Mathias. Spalenberg 50.\n\nSchachtelmacher.\nBrotbeck, Margaretha. Unt. Heuberg 25.\nKestenholz, J. J. Hint. Spitalgasse 9.\nMüry, Jakob. St. Leonhards-Graben 53.\nPenz, Heinrich. St. Clara-Graben 19.\nRothen, Johannes. Grenzacher-Straße 73.\nRotzinger, Conrad. Münsterberg 10.\nSchmidlin-Link, Barb. Gerbergäßlein 9.\n\nSchiffleute.\nDreyer, Martin. Riehenthorstraße 2.\nHindenlang-Müry, Rud. Rheingasse 84.\nHindenlang-Sulger, J. J. Rheingasse 54.\nKeller, Andreas. Rheingasse 20.\nMettauer, Th. Rheingasse 76.\nSchifferly, August. Rheingasse 50.\nSchmidt-Heusler, Rheingasse 84.\nSchneider, Lorenz. Rheingasse 26.\nStaab, Heinrich. Riehenthorstraße 18.\nWinckler-Schütz, Wb. Elisab. Rheingasse 68.\n\nSchirmfabrikanten.\nFaure-Bluntschli, Mathias. Fischmarkt 12.\nHaas-Morgen, Etienne. Hutgasse 1.\nHeidemann, Wb. Apollonia. Stadthaus-\n  gasse 16.\nMüller-Widmer, Julius. Münsterberg 6.\nPhilippi-Stierlin, Wilh. Rud. Franz. Freie\n  Straße 6.\nWirz, Eduard. Greifengasse 28.\nWolflisberg, Franz. Sattelgasse 10.\n\nSchleifer.\nAubry, Constant. Rheingasse 25.\nBörlin, Jakob. Untere Rebgasse 10.\nBurckhardt, J. J. Münzgäßlein 3.\nSchöttli, Jakob. Mühlenberg 19.\nWäffler, Jakob. Sattelgasse 14.\nZäslin, M. Elisab. Kronengasse 12.\n  Sowie auch alle Messerschmiede.\n\nSchlosser.\nBaur-Lippe, Ludw. St. Alban-Vorstadt 44.\nBaumgartner, Wilh. St. Peters-Gasse 8.\nBeck-Berlinger, J. J. Byfangweg 4.\nBerlinger, Theodor. Kirchgasse 9.\nBirmann, Ch. Rheingasse 9.\nBöhme, W. U. Spalenvorstadt 9.\nBoos-Meyer, Heinrich. Kanonengasse 5.\nBühler, Christian. Spiegelgasse 14.\nDeggeler, Bernh. St. Peters-Gasse 20.\nDürliwanger, Johs. Jos. Aeschenvorstadt 12.\nFischer, Joh. Jak. St. Alban-Vorstadt 60.\nGamper-Eberle, Wb. Anna M. Aeschenvor-\n  stadt 12.\nGeyger, Rudolf. Steinenvorstadt 44.\nGrüninger, Wilh. St. Peters-Berg 28.\nGysin, Johs. Dietrich. Spalenvorstadt 21.\nHeckendorn, Johs. Sattelgasse 16.\nHeß, Ulrich. Heumattstraße 5.\n[spalte 2]\nKaufmann, Gottlieb. St. Peters-Gasse 6.\nKupferschmid, Lucas. St. Peters-Berg 11.\nLapp, Christ. Friedr. Unterer Heuberg 23.\nLehr, J. J. Steinenvorstadt 46.\nLeithardt, Josef. Kronengasse 10.\nLotz, Johs. Leonh. St. Leonhards-Straße 34.\nMüller, Heinrich. Todtentanz 3.\nMüller, Ludw. Wilh. Rebgasse 44.\nMüller, Leonhard. Aeschenvorstadt 51.\nMüller-Stierlin, Balth. Herrenmattweg 26.\nMüller-Wespy, Heinrich. Greifengasse 40.\nPöhls, Lukas. Bäumleingasse 8.\nRoth-Bürgin, Christof. Unt. Rheingasse 13.\nRoth-Zandt, Abrah. Münsterberg 16.\nRudin, Carl. Heuberg 4.\nRüger, Conrad. Rheingasse 45.\nSchlöth, Friedr. Ludw. Hasenberg 5.\nSchwander, Samuel. Grünpfahlgäßlein 6.\nSteib, Mathias. Kronengasse 5.\nStückelberger, Pet. Carl. Steinenvorstadt 11.\nTaschner, J. St. Clara-Straße 9.\n\nSchmiede.\nBendely, Philipp. Elsässer-Straße 8.\nBohny-Fausel, Johs. Spalenvorstadt 24.\nBötz, Abraham. Johanniterstraße 1.\nFrüh-Hörler, Ludw. Schwanengasse 3.\nGnöpf, Achilles. St. Elisabethen-Straße 23.\nHaag, Leonh. St. Alban-Vorstadt 74.\nImhoff, Heinrich. Steinenvorstadt 10.\nMartin, Johs. Webergasse 6.\nRoth-Fischer, Achilles. Aeschenvorstadt 52.\nSchilling, Johs. Rud. Spalenvorstadt 15.\nSchuler, Emanuel. Webergasse 6.\nSchwenk-Musculus, Wb. Carolin. Josephine.\n  St. Alban-Vorstadt 86.\nVolz, J. J. Steinenvorstadt 50.\nWeber, Tobias. Ochsengasse 17.\nZollinger, Eduard. Kohlenberggasse 32.\n\nSchneider.\nAdammann, Anton. St. Johann-Vorst. 53.\nAlbietz, Melchior. Spalenberg 32.\nAltermatt, Niklaus. Stadthausgasse 5.\nBanga, Rud. St. Albanthor-Graben 1.\nBargätzi, Peter. Gerbergasse 8.\nBaumgartner, Franz. Greifengasse 20.\nBeck-Ernst, Samuel Leonh. Barfüßerpl. 31.\n— -Pfannenschmidt, Mich. Bernh. Bar-\n  füßerplatz 14.\nBendy, Johs. Bapt. Hutgasse 4.\nBender, J. G. Kirchgasse 11.\nBohny, Friedr. Spalenvorstadt 37.\nBolleg, Friedr. Webergasse 7.\nBolleter, Heinrich. Imbergäßlein 27.\nBorst, Aug. Spalenthorweg 4.\nBrägger, Friedr. Melchior. Streitgasse 9.\nBrunner, Jakob. Freie Straße 88.\n— Andr. Spalenberg 50.\n— Daniel. Schneidergasse 18.\nBucher, Joseph. Marktplatz 16.\nBuri, Lorenz. Eisengasse 16.\n25",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 14078,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4102,
+    "lines": 123,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:47:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p450",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p450.jpg",
+      "bytes": 1685841,
+      "sha256": "f710f38207c7bc4e977cfc1e968dcb2adf404f8b6d84c273dce817d5b7d84ade",
+      "sha256_of": "original",
+      "working_copy": "1862_p450.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:47:18+00:00"
+  }
+}

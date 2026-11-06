@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p127",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p127.jpg",
+    "bytes": 1281867,
+    "sha256": "a03ac95c1bdb6b28cedabe46fdc8873d3a6e80f1753db0f370d189b41bd111ec",
+    "sha256_of": "original",
+    "working_copy": "1862_p127.jpg"
+  },
+  "text": "62\nUnterer Heuberg.\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nUnterer Heuberg.\n1 | VI. | 413 | zur Rothenburg. | Maas-Müller, Dr. Rudolf.\n| | | | | Bloch, Sam., Handelsmann.\n| | | | | Carstanjen-Bader, Theodor, Commis.\n2 | VI. | 419 | 3. schwarzen Ritter. | Wolf-Meyer, Babetta, Wittwe.\n4 | | | | | Wolf-Meyer, Bab., Wb., Part.\n| | | | | Wolf-Dietisheim, Georg, Lithograph.\n| | | | | Wolf, Felix, Geschäftsmann.\n| | | | | Buxinger, Heinr., Schreinerwerkstätte.\n| | | | | Rickenbacher,Gottl.,Büchsenmacherwrkst.\n3 | VI. | 408 | zum scharfen Eck. | Roth-Herzog, Caspar.\n| | | | | Roth-Herzog, Casp., Particular.\n| | | | | Kehlstadt-Munzinger, Maria, Wb., Part.\n5 | VI. | 407 B. | | Kupferschmied-Häfelfinger, Joh.Hch.\n| | | | | fel., Erben.\n| | | | | Hiltmann, Johannes, Schneider.\n6 | VI. | 424 | | Gokwylers-Stoll, Conr., Efelhalter.\n| | | | | Siehe Heuberg Nr. 17.\n7 | VI. | 407 A. | | Kupferschmied-Häfelfinger, Joh.Hch.\n| | | | | fel., Erben.\n| | | | | Brunner, Christian, Holzhändler.\n| | | | | Säuberlin-Hägelin, Wb. Susanna.\n| | | | | Remise von Hunziker, Zac., Holzhändler.\n8 | VI. | 425 | zum Tröttlin. | Kupferschmied-Häfelfinger, Joh.Hch.\n| | | | | fel., Erben.\n| | | | | Kupferschmied-Häfelfinger, Wb.Dorothea\n| | | | | Magdalena, Zimmermanns.\n9 | VI. | 407 | zum Abt. | Preiswerk, Em., Colonialw.-Hdlg.\n| | | | | (Waaren-Magazin.)\n| | | | | Stähelin-Zimmerlin, Joh.Jac.,Prof.\n| | | | | Eglin-Butscher, Fr. Wilh., Commis.\n10 | VI. | 421 B. | | Lapp-Wollschlegel, Christian Friedr.\n| | | | | Lapp-Wollschlegel, Chr. Fr., Schlosser\n| | | | | u. Mechaniker. (Eing. zur Werkstätte.)\n11 | VI. | 406 | | Grüninger-Dehninger, Rud., Küfer.\n| | | | | Tschudy-Merian, Sam., Baumeist.\n| | | | | (Magazin.)\n12 | VI. | 427 C. | | Paravicini-Debary, Friedr.\n| | | | | (Magazin.)\n13 | VI. | 405 | | Tschudy-Merian, Samuel.\n| | | | | Tschudy-Merian, S., Baumeister.\n14 | VI. | 427 | | Meyer-Weiker, Christian Jacob.\n| | | | | Meyer-Weiker, Chr. Jac., Schreiner.\n15 | VI. | 619 | | Obermüller-Lehmann, F. Peter.\n| | | | | Obermüller-Lehmann, F. P., Fabrikarb.\n16 | VI. | 427 A. | | Durchgang, Allment.\n| | | | | Eingang zu Nr. 6 und 10 Gerber-\n| | | | | gäcklein, 17 und 21 Heuberg.\n17 | VI. | 404 | | Jüdische Gemeinde.\n18 | VI. | 400 | | \n19 | VI. | 631 | | \n21 | VI. | 403 | Synagoge. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8005,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2338,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0794,
+    "mean_line_chars": 36.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:37:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p127",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p127.jpg",
+      "bytes": 1281867,
+      "sha256": "a03ac95c1bdb6b28cedabe46fdc8873d3a6e80f1753db0f370d189b41bd111ec",
+      "sha256_of": "original",
+      "working_copy": "1862_p127.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:37:10+00:00"
+  }
+}

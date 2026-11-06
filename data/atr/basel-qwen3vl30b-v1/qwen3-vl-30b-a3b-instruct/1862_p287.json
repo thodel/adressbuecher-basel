@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p287",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p287.jpg",
+    "bytes": 1453304,
+    "sha256": "1f9c7a6bf27ce7c3f061c497188874d722c09e350940a529ea4761c60391d9c7",
+    "sha256_of": "original",
+    "working_copy": "1862_p287.jpg"
+  },
+  "text": "222 Verzeichniß der Häuser nach ihren Benennungen.\nSchuhmachern, Zunft zu. Freie Straße | Solitude, z. Grenzacherstraße Nr. 78.\nNr. 52. | Solothurn, z. Schneidergasse Nr. 5.\nSchulgebäude. Kohlenberggasse Nr. 2. | Sommercasino, z. Münchensteinerstraße Nr. 1.\nSchwalbennest, z. Rheingasse Nr. 2. | Sondenstorf, z. Heuberg Nr. 44.\nSchwan, z. Stadthausgasse Nr. 19. | Sondenstorf, z. Leonhardsgraben Nr. 61.\nSchwanen, z. Schwanengasse Nr. 5. 7. | Sonne, z. Rheingasse Nr. 25.\nSchwanen, z. goldenen. Kronengäklein Nr. 2. | Sonne, z. Schneidergasse Nr. 29.\nSchwanenau, z. Freie Straße Nr. 24. | Sonne, z. Utengasse Nr. 24.\nSchwarzenberg, z. Freie Straße Nr. 53. | Sonne, z. Webergasse Nr. 23.\nSchweizer, z. St. Petersplatz Nr. 3. | Sonne, z. Rheinsprung Nr. 1.\nSchweizerbund, z. St. Alban-Vorstadt Nr. 86. | Sonne, z. hohen. Spalenberg Nr. 58.\nSchweizerhaus, z. Steinenringweg Nr. 17. | Sonne, z. hohen. Rittergasse Nr. 21.\nSchweizerhof, z. St. Petersgraben Nr. 1. | Sonne, z. großen. Freie Straße Nr. 19.\nSchwelle, z. niedern. Freie Straße Nr. 111. | Sonne, z. kleinen. Freie Straße Nr. 17.\nSchwert, z. goldenen. Hutgasse Nr. 20. | Sonne, z. oberen. Neichenvorstadt Nr. 10.\nSchwert, z. oberen. Webergasse Nr. 28. | Sonne, z. oberen. Neichenvorstadt Nr. 12.\nSchwert, z. rothen. St. Petersberg Nr. 11. | Sonnenberg, z. St.Elisabethen-Straße Nr. 62.\nSchwert, z. untern. Webergasse Nr. 26. | Sonnenberg, z. Pfluggäcklein Nr. 6.\nSchwibbogen, z. kleinen. St. Petersberg | Sonnenberg, z. Neichenvorstadt Nr. 8.\nNr. 15. | Sonnenfroh, z. Rheinsprung Nr. 2.\nSchwizerhüsl. St. Johann-Vorstadt Nr. 49. | Sonnenluft, z. hohen. Augustinergasse Nr. 1.\nSegerhof, z. Blumenrain Nr. 17 u. 19. | Spalenhof, z. Spalenberg Nr. 12.\nSegerhof, z. kleinen. Blumenrain Nr. 17 | Spalenhof, Hinterhaus z. Imbergäcklein Nr. 19.\nu. 19. | Spalenhof, z. kleinen. Spalenberg Nr. 10.\nSeidenhof, z. Blumenrain Nr. 34. | Sperber, z. Spalenberg Nr. 9.\nSeidenhof, zum hintern. Steinenvorstadt | Sperber, z. Münzgäcklein Nr. 12.\nNr. 47. | Spiegel, z. Blumenrain Nr. 13.\nSeidenhof, z. vordern. Steinenvorstadt Nr. 51. | Spiegelhof. Spiegelgasse Nr. 2.\nSeidenhut, z. Heuberg Nr. 15. | Spiez, z. blauen, Rheingasse Nr. 13.\nSeidenhut, z. St. Leonhardsgraben Nr. 31. | Spiez, z. goldenen. Streitasse Nr. 4.\nSennenheim, z. Untere Rheingasse Nr. 9. | Spießhof. Heuberg Nr. 7.\nSennenhof, z. untern. St. Leonhardsstapfel- | Spinnwettern, Zunft z. Eisengasse Nr. 5.\nberg Nr. 4. | Spinnwieden, z. Spalenberg Nr. 61.\nSennenhof, z. untern. St. Leonhardsberg | Spitalect. Riehenthofstrasse Nr. 30.\nNr. 8 u. 10. | Spitalmühle, z. St.Alban-Thal Nr. 4.\nSeffel, z. Todtengäcklein Nr. 3. | Spitalschmiede. Freie Straße Nr. 91.\nSeffel, z. Todtengäcklein Nr. 3. | Sprizenhaus. Riehenstraße Nr. 15.\nSeffel, z. hintern. St. Andreasplatz Nr. 5. | Sprizenhaus. Riehenthofstrasse Nr. 10.\nSeufzen, z. Stadthausgasse Nr. 6. | Sprizenhaus. Klingenthal Nr. 18.\nSiebenthal, z. Sattelgasse Nr. 12. | Stachelschützenhaus. St. Petersplatz Nr. 10.\nSiegristenwohnung im Münster. Münsterplatz | Stäblin, z. Freie Straße Nr. 27.\nNr. 13. | Stäblinsbrunnen. Freie Straße Nr. 18.20.\nSiegristenwohnung. St. Martinskirchplatz | Stadthaus. Stadthausgasse Nr. 13.\nNr. 2. | Stadt-Casino. Barjükerplatz Nr. 10.\nSiegristenwohnung. St. Leonhardskirchplatz | Stadt-Casino. Steinenberg Nr. 14.\nNr. 1. | Stadtschlosserei, ehemalige. St.Petersgraben\nSiegristenwohnung. St. Petersgasse Nr. 54. | Nr. 48.\nSiegristenwohnung. St. Theodorskirchplatz | Stadtturm. St. Petersplatz Nr. 7.\nNr. 4. | Stamm, z. Schneidergasse Nr. 15.\nSilberberg, z. Hutgasse Nr. 23. | Stättlershof, z. Gerbergasse Nr. 34.\nSilberberg, z. Utengasse Nr. 15. | Staufen, goldenen u. grünen Mann, z. Ger-\nSilberberg, z. Utengasse Nr. 13. | bergasse Nr. 25.\nSilberberg, z. Utengasse Nr. 11. | Staufen, z. goldenen. Augustinergasse Nr. 5.\nSilberberg, z. Schafgäckchen Nr. 12. | Staufenburg, z. Gerbergäcklein Nr. 34.\nSilberberg, z. hintern. Rebasse Nr. 18. | Steg, z. Fischmarkt Nr. 5.\nSod, z. Greifengasse Nr. 16. | Steg, z. hohen. Freie Straße Nr. 85.\nSod, z. diirren. Gemsberg Nr. 6. | Steglin, z. St. Petersberg Nr. 27.\nSodeck, z. Freie Straße Nr. 72. | Stein, z. blauen. Freie Straße Nr. 99.\nSolitude, z. Grenzacherstraße Nr. 92. | Stein, z. grünen. Gerbergäcklein Nr. 33.\nSolitude, z. Grenzacherstraße Nr. 86. | Stein, z. grünen. Gerbergasse Nr. 64.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11701,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4322,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 69.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:56:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p287",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p287.jpg",
+      "bytes": 1453304,
+      "sha256": "1f9c7a6bf27ce7c3f061c497188874d722c09e350940a529ea4761c60391d9c7",
+      "sha256_of": "original",
+      "working_copy": "1862_p287.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:56:38+00:00"
+  }
+}

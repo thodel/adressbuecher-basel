@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p153",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p153.jpg",
+    "bytes": 1329266,
+    "sha256": "4d26e9e9d8d3f21e368b41f95045403bd4d5b653536b8df43f6e53b518f2902d",
+    "sha256_of": "original",
+    "working_copy": "1862_p153.jpg"
+  },
+  "text": "88 Malzgasse. — St. Margarethen-Straße. — Marktplatz.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n18 | V. | 1245 | | Friedrich, Leonh. u. Kußmaul, Mich.\n  Hinter-Voegt, Pankratius, Gärtner.\n  Sutter-Voegt, Johann, Gärtner.\n20 | V. | 1246 | | Friedrich, Leonh. u. Kußmaul, Mich.\n  König-Vogt, Martin, Briefträger.\n  Bohrer-Brost, Adam, Eisenbahnbeamter.\n21 | V. | 1249 B | | Sulger-Heusler, Joh.\n  Sulger-Heusler, I., Bandfabrikant.\n22 | V. | 1247 | | Friedrich, Leonh. u. Kußmaul, Mich.\n23 | V. | 1249 A | | Burckhardt-Bischoff, Adolf.\n  Burckhardt-Bischoff, Adolf, Kaufmann.\n24 | V. | 1248 | | Forcart-vonGentschik.\n  Forcart-vonGentschik, Rud., Bandfabr.\n26 | V. | 1248 A | | Forcart-vonGentschik.\n  Leuba, Daniel u. Christian, Commis.\n27 | V. | 1249 | | Stehlin-Burckhardt, Joh. Jakob.\n  Stehlin-Burckhardt, Joh. Jak., Architect.\n28 | V. | 1248 B | zum Lautengarten. | Forcart, Jungfr. Elise.\n  Forcart, Elise, Rentiere.\n30 | V. | 1248 C | zum Lautengarten. | Sarasin-Forcart, Adolf.\n  Sarasin-Forcart, Adolf, Geistlicher.\n  Sarasin, Theodor, Kaufmann.\n\nSt. Margarethen-Straße.\n\n1 | III. | 196 | | Simonius-Oschwald, Paul.\n  Simonius-Oschwald, Paul, Kaufmann.\n9 | III. | 197 | | Hübscher-Herzog, Friedrich.\n  Hübscher-Herzog, Friedrich, Kaufmann.\n13 | III. | 200 | | Spital-Pflegamt.\n15 | III. | 201 | | Spital-Pflegamt.\n  Bueß-Bohni, Jacob, Schreiner.\n  Wepf-Felix, Parquetier.\n\nMarktplatz.\n\n1 | VI. | 1611 | Rathhaus. | Staat.\n  Krug-Meyer, Joh., Staatsarchivar.\n2 | VI. | 1612 | zum Haasen. | Fuchs-Nölcke, Johann Lorenz.\n  Fuchs-Nölcke, Joh. Lorenz, Buchbinder.\n  Firma F. L. Fuchs und Compagnie\n  Schreib- u. Zeichnungsmat., Papier-,\n  Kunst- u. Tapetenhandlung.\n3 | VI. | 1613—14 | Bank. | Bankgesellschaft.\n  Früh-Ronus, Heinrich, Kanzlist.\n  Früh, Eduard, Bankdirector.\n4 | VI. | 1615 | zum Salmen. | Wortmann-Fuchs, Ferdinand.\n  Wortmann-Fuchs, Ferd., Tabakhändl.\n  Neuhofer, Georg, Musiker.\n  Stockmeyer, Niklaus, Kaufmann.\n  Obrecht-Pfau, Eman., Marktbänkpächter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8772,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2040,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:48:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p153",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p153.jpg",
+      "bytes": 1329266,
+      "sha256": "4d26e9e9d8d3f21e368b41f95045403bd4d5b653536b8df43f6e53b518f2902d",
+      "sha256_of": "original",
+      "working_copy": "1862_p153.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:27+00:00"
+  }
+}

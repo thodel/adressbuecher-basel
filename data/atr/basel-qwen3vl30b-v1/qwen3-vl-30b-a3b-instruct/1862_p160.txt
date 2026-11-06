@@ -1,0 +1,57 @@
+Moostackerstraße. 95
+Nre. | Quar- | Alte | Name des Hauses. | Namen der Hauseigenthümer
+Haus=Nr. | tier. | Haus=Kro. | | und Bewohner.
+----- | ----- | ----- | ----- | -----
+19 | III. | 152 A a | | Hauser=Wertenberg, Friedl., Zimmermft.
+20 | III. | 153 B | | Weber, Anton, Alt=Gerichtspräsident.
+| | | | Plattner=Hofch, Jakob.
+| | | | Labhardt=Schubiger, Ferdinand.
+| | | | Labhardt=Schubiger, Ferdinand, Kaufm.
+| | | | Firma Bernoulli u. Labhardt, Manu-
+| | | | facturwaarenhandlung.
+21 | III. | 152 A. c | | Plattner=Hofch, Jakob.
+25 | III. | 154 A | zum Guttenberg. | Stuckert=Schaub, Og. Otto Eugen.
+| | | | Stuckert=Schaub, Og. OttoEug., Schrift-
+| | | | gießer. Firma: Haas'sche Gießerei.
+| | | | Brotbeck=Walser, Carl.
+| | | | Brotbeck=Walser, Carl, Kaufmann.
+| | | | Walser=Hurter, H. F. Wr., Part.
+26 | III. | 153 A | | Brotbeck=Walser, Carl, Kaufmann.
+| | | | Plattner=Hofch, Johann.
+| | | | Plattner=Schlatter, Heinr., Zimmergeh.
+| | | | Walser=Walser, Alois, Lehnenbeständer.
+31 | III. | 155 | | Gekler=Wirz, Daniel,
+| | | | Baumann=Haufer, Heinrich, Schreiner.
+| | | | Tschan=Bergi, Napoleon.
+32 | III. | 166 | | Tschan=Bergi, Napoleon, Gutsbesitzer.
+| | | | Tschan, Philipp Joseph, Maurer.
+36 | III. | 165 | zum Feierabend. | Schilling=Weitnauer, Wb. Marg.
+| | | | Gehring=Schliephacke, Traugott, Pfarr.
+| | | | Roschet=Mangold, Hieronimus.
+42 | III. | 164 A | | Roschet=Mangold, Hieronimus, Seiler.
+| | | | Weniger=Sauerbrey, Rud., Part.
+44 | III. | 164 | | Steib=Unstein, Mathias.
+| | | | Ernst=Rudin, Johannes.
+| | | | Ernst=Rudin, Johannes, Jeger.
+| | | | Opplinger, Rudolf, Schreiner.
+48 | III. | 163 A | | Munding=Zimmerli, Joh., Eisenbahnbttr.
+52 | III. | 162 A | | Klein=Schabelitz, Wilhelm.
+| | | | Klein=Schabelitz, Wilh., Redact.d.Volksf.
+| | | | Kölner=Rummer, Adolf, Desfinateur.
+| | | | Glaser=Hechler, Emanuel.
+54 | III. | 162 B | | Glaser=Hechler, Emanuel, Taglöhner.
+| | | | Bollenhals=Abt, Friedrich.
+56 | III. | 161 | | Bollenhals=Abt, Friedrich, Feuerwerker.
+| | | | Gisin-Eidin, Wernh., Eisenbahnbeamter.
+58 | III. | 161 B | | Schneider=Schlag, Johann.
+| | | | Schneider=Schlag, Joh., Lehrer.
+| | | | Schwarz=Schlag, Rudolf, Commis.
+| | | | Gysin, Friedrich, Commis.
+62 | III. | 161 A | | Schlöth, Louis.
+| | | | (Magazin.)
+| | | | Schneider, Erhard.
+67 | III. | 158 a | | Zselin, Geschwister.
+72 | III. | 160 | | Zselin, Joseph, Therefeu.Eva,Landwirth.
+78 | III. | 159 | | Burckhardt=Zselin, Franz.
+84 | III. | 159 A a b | | Burckhardt=Zselin, Franz.
+86 | III. | 159 A f | |

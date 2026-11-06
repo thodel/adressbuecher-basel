@@ -1,0 +1,55 @@
+Freie Straße. 41
+
+Neue Haus-Nr. | Quar=tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Freie Straße.
+1 | VI. | 1618 | zum Appenzell. | Schneider-Grisanti, Rudolph.
+  Schneider-Grisanti, Rud., Uhrmacher.
+  Märklin, Andreas, Handlungreisender.
+2 | VI. | 1639 | zum rothen Thurm. | Imhoff-Falkner, Hieronimus.
+  Imhoff-Falkner, Hieron., Wollwaaren-
+  und Mercerie-Handlung.
+  Almandi-Ehinger, Wb. Julie, Rent.
+3 | VI. | 1619 | zum Halbmond. | Meißner-Fischer, Marcus.
+  Meißner-Fischer, Marcus, Apotheker.
+  Meißner, Adolph, Apothekergehülfe.
+  Trüdinger, Georg, Kaufmann.
+4 | VI. | 1638 | zur Schere. | Burckhardt-Mieg, Joh. Jac.
+  Burckhardt-Mieg, Joh. Jak., Kaufmann.
+  Quincaillerie, Parfumerie.
+  Firma Christof v. Christof Burckhardt.
+5 | VI. | 1620 | zur goldenen Lilie. | Riedtmann-Erlacher, Wilhelm.
+  Riedtmann-Erlacher, Wilh., Kaufmann.
+6 | VI. | 1637 | z. Himmelsporten. | Stierlin-Schwab, Emanuel.
+  Philippi-Stierlin, Wilhelm Rud. Franz,
+  Kaufmann.
+7 | VI. | 1621 | z. schwarzen Haus. | Bloch, Peter.
+  Bloch, Peter, Seiler.
+8 | VI. | 1636 | zur Himmelspforte. | Kirsch, J. C. sel. Wb. Chrisch. Marg.
+  Kirsch-Lindenmeyer, Wb. Chrisch. Marg.
+  Kaufm., Spezerei u. Comestiblegesch.
+  z. schmal. Sonne. | Firma Casp. Krug.
+  Kirsch, J. C., Agenturgeschäft.
+  Kirsch, Peter, Kaufmann.
+  Kirsch, Arnold, Kaufmann.
+9 | VI. | 1622 | z. goldenen Falken. | Pernaux-Müller, Victor.
+  Pernaux-Müller, Victor, Kaufmann.
+  Schütz-Chabrol, Emil, Commis.
+10 | VI. | 1635 | | Georg-Neukirch, Heinrich.
+  Georg-Neukirch, Heinr., Buchhändler.
+  Neukirch'sche Buch- u. Kunsthandlung.
+  Bischoff u. Kündig, Advokatur und No-
+  tariatsbureau. Polizeigerichtskanzlei.
+  Blanchet, Jeanne Sus. Paul., Rent.
+11 | VI. | 1623 | | Oswald, Gebrüder.
+  Wolf-Meyer, Benjamin, Kaufmann.
+12 | VI. | 1634 | Post. | Staat.
+  Maurer-Wölfflin, Joh., Postdirector.
+  Sulzer, Jakob Wilhelm, Kaufmann.
+13 | VI. | 1624 | zum Hermelin. | Settelen-Settelen, Frz. Anton.
+  Settelen-Settelen, Frz. Ant., Schneider-
+  meister u. Kleiderhandlung.
+14 | VI. | 1633 | zum Frauenstein. | Steinmann-Vonwiler, Jakob.
+  Steinmann-Vonwiler, Jakob, Spengler.
+  Ulmann-David, Felix, Kaufmann in
+  Weißwaaren u. Broderien.

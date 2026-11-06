@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p217",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p217.jpg",
+    "bytes": 1295251,
+    "sha256": "1a1800b097e1ffed6c3075dbb10a7d0aab6dc8da492cc52e3c73ba8199d26dbc",
+    "sha256_of": "original",
+    "working_copy": "1862_p217.jpg"
+  },
+  "text": "152\nSteinenvorstadt.\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n9 | III. | 823 | Schillingshaus. | Strub= Löw, Eduard.\n10 | III. | 765 | zum Rosenfels. | Strub= Löw, Eduard, Metzger.\nAncklin, Joseph, fel. Erben.\nAncklin, Joseph, Schreiner.\nNordemann-Schwob, Beruhard, Ge-\nschäftsmann.\nLeitner, Robert, Klavierstimmer.\n11 | III. | 822 | zur Kirche. | Stüickelberger=Burckhardt, Pet. Carl.\nStüickelberger=Burckhardt, Peter Carl,\nSchloffer.\n12 | III. | 766 | z. schwarzen Horn. | Hindermaun=Christ, Wilhelm und\nStrub= Löw, Eduard.\nBlosch, Gebr., u. Comp., Hauthändler.\nZüllig, Pancratus, Wollfärbcr.\n13 | III. | 821 | zum Neuenburg. | Erlacher, Jacob, fel. Erben.\nFuchs=Sticher, Theodor, Wirth.\nLöw=Honefta, Johannes, Commis.\nZüllig=Häfliger, Johannes, Schuhmacher.\n14 | III. | 769 | zum Greifen. | Kübenftahl=Köslin, Wb. Anna Mar.\nKübenftahl=Köslin, Wb. Anna Maria,\nParticularin.\nLang, Georg, Musiker.\nGailing, Joseph, Musiker.\nSchaub=Ruhn, Jakob.\nRuhn, Joh. Leonz.\nSchaub und Ruhn, Strohhutfabrikation\nund Mascherei.\n15 | III. | 820 | | Günther=Schaub, Jacob.\nSchaub=Bury, Jacob, Schuhmacher.\nMüller=Meier, Joh. Adam, Blattmach.\n16 | III. | 770 | zum Knöbel. | Bienz=Durand, Joh. Rudolf.\nBienz=Durand, Joh. Rudolf, Schreiner.\nHaas=Baumann, Jacob, Schriftgießer.\nGäfier, Thomas, Drechsler.\n17 | III. | 819 | zum weifen wilden\nMann. | Schaffner, Geschwister.\nSchaffner, Maria Elisabeth u. Barbara,\nSchneiderin und Modiste.\n18 | III. | 771 | zum Werthenberg. | Streicher=Häring, Johann.\nStreicher=Häring, Johann, Kürer.\nSchäfer=Salathe, Isaac, Heuhändler.\n19 | III. | 818 | | Gyfin=Seifert, Rudolf.\nGyfin=Seifert, Rudolf, Kürer.\n20 | III. | 772 | | Fischer=Bulacher, Joh. Balthasar.\nFischer=Bulacher, Joh. Balth., Quartier-\nschreiber.\n21 | III. | 817 | | Grollimund=Binz, Joh. Jacob.\nGrollimund=Binz, Joh. Jacob, Ferger.\n22 | III. | 773 | | Grofmann=Heinzelmann, Rudolf.\nGrofmann=Heinzelmann, Rud., Spezier.\nCarle=Dietrich, Rudolf, Lohndiener.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5793,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2002,
+    "lines": 58,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:48:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p217",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p217.jpg",
+      "bytes": 1295251,
+      "sha256": "1a1800b097e1ffed6c3075dbb10a7d0aab6dc8da492cc52e3c73ba8199d26dbc",
+      "sha256_of": "original",
+      "working_copy": "1862_p217.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:48:42+00:00"
+  }
+}

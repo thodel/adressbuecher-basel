@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p264",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p264.jpg",
+    "bytes": 1409426,
+    "sha256": "eff7a9998ae8737937a085ff3892f321ece064ab4b28ead000c255dd91d7ad72",
+    "sha256_of": "original",
+    "working_copy": "1862_p264.jpg"
+  },
+  "text": "Riehenstraße. | 199\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n5 | VIII. | 9 | | Lindenmeyer, Georg, sel. Erben.\n  Lindenmeyer-Boehler, Wb. Catharina, Wascherin.\n7 | VIII. | 10 | | Spahn-Jost, Conrad.\n  Spahn-Jost, Conrad, Magazinknecht.\n8 | VIII. | 19 | | Eglin-Wegner, Wb. Maria Magdalena.\n  Eglin-Wegner, Wb. Mar. Magdalena, Rentiere.\n9 | VIII. | 11 | | Labram-Böcklin, Wb. Marg.\n  Labram-Böcklin, Wb. Marg., Part.\n10 | VIII. | 20 a | | Staehelin-Zimmerlin, Joh. Jac.\n  Simmler-Frauenfelder, Johs., Gärtner.\n11 | VIII. | 12 | | Klein-Schmidlin, Joh. Jac.\n  Klein-Schmidlin, Joh. Jac., Wascher.\n12 | VIII. | 20 | | Staehelin-Zimmerlin, Joh. Jac.\n13 | VIII. | 13 | | Müller-Fritz, Jacob.\n  Müller-Fritz, Jacob, Wascher.\n14 | VIII. | 20 c | | Staehelin-Zimmerlin, Joh. Jac.\n15 | VIII. | 14 | Spritzenhaus. | Stadtgemeinde.\n  Holzach-Aehrenbolz, Joh. Leonh., Bannwart.\n16 | VIII. | 21 | | Merian, Friederike u. Wilhelmine.\n  Barth-VonderCrone, Aug., Kaufmann.\n  Barth-Bernoulli, Samuel, Pfarrer.\n17 | VIII. | 16 | | Bertsche-Schardt, Heinrich.\n18 | VIII. | 21 a | | Merian, Friederike u. Wilhelmine.\n19 | VIII. | 15 | | Bertsche-Schardt, Heinrich.\n  Bertsche-Schardt, Heinrich, Bandfabrikant.\n  Rossel-Braun, Ludwig, Kaufmann.\n  Gysin-Müller, Joh., Commis.\n20 | VIII. | 21 b | | Merian, Friederike u. Wilhelmine,\n  Schilling, Marcus, Lehenbeständer.\n  Früh, Joh. Georg, Gärtner.\n21 | VIII. | 15 A | | Bienz-Naegelin, Jacob.\n  Bienz-Naegelin, Jacob, Dessinateur.\n  Burger, Franz, Zollamtsgehülfe.\n  Beutler, Julius, Zollamtsgehülfe.\n22 | VIII. | 23 | | Großh. bad. Eisenbahnverwaltung.\n23 | VIII. | 17 | | Stampfer-Otto, Wilhelm.\n  Stampfer-Otto, Wilh., Kaufmann.\n  Brenzinger, August, Architekt.\n  Holzmüller, Adolf, Part.\n25 | VIII. | 18 | | David, Rudolf.\n  David, Rudolf, Seidenfärbergehülfe.\n26 | VIII. | 24 | | Großh. bad. Eisenbahnverwaltung.\n  Abele, Ludwig, Zollinspector.\n28 | VIII. | 25 a | | Merian-Ryhiner, Wb. Elisabeth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8196,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1995,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:05:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p264",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p264.jpg",
+      "bytes": 1409426,
+      "sha256": "eff7a9998ae8737937a085ff3892f321ece064ab4b28ead000c255dd91d7ad72",
+      "sha256_of": "original",
+      "working_copy": "1862_p264.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:05:15+00:00"
+  }
+}

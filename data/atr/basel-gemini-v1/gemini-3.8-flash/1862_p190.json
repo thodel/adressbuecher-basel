@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p190",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p190.jpg",
+    "bytes": 1434926,
+    "sha256": "29ecd6634053e47a4b1c141ac401e02b20a6535ea950a31a766c00036d871993",
+    "sha256_of": "original",
+    "working_copy": "1862_p190.jpg"
+  },
+  "text": "Schneidergasse. | 125\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n9 | VI. | 1563 | z. Nägeligarten. | Brändlin-Schaal, Franz.\n  Brändlin-Schaal, Franz, Metzger.\n10 | II. | 578 | zur Vereinigung. | Boecklin-Schnezzler, Joh. Jak.\n  Boecklin-Schnezzler, Joh. Jak., Wirth.\n  David-Graeslin, Leonhard, Glaser.\n11 | VI. | 1564 | z. mittl. Scheere. | Gschwind-Schaffner, Wb. Ursula.\n  Gschwind-Schaffner, Wb. Ursula, Modiste.\n12 | II. | 579 | z. mittler. Thurmschale. | Gutknecht-Heer, Joh. Adam.\n  Gutknecht-Heer, Joh. Adam, Spezier. u. Münzantiquar.\n13 | VI. | 1565 | | Heitz, Cath. Elisabeth.\n  Heitz, Cath. Elisabeth, Particulier.\n14 | II. | 580 | z. mittler. Thurmschale. | Hottensen-Rapp, Frau Barbara.\n  Hottensen-Dunkel, Friedr. Aug., Gerber.\n  Matzinger-Wirz, Gottl. Rud., Kappenm.\n  Schweizer-Bretscher, Friedrich August, Telegraphist.\n  Horner, Joh. Heinrich, Schneider.\n15 | VI. | 1566 | zum Stamm. | Koch-Renaux, Johannes.\n  Koch-Renaux, Johannes, Commis.\n  Hirth-Fischer, Wb. Louise, Schneiderin.\n16 | II. | 581 | zur obern Thurmschale. | Steib-Gsell, Joh. Michael.\n  Steib-Gsell, Joh. Michael, Bürstenmach.\n17 | VI. | 1567 | | Bär-Fritsche, Abraham.\n  Bär-Fritsche, Abraham, Coiffeur.\n18 | II. | 582 | z. klein. Effringen. | Bruner-von Arx, Daniel.\n  Brunner-von Arx, Daniel, Schneider.\n  Caillat, Ursula, Geschirrhändlerin.\n19 | VI. | 1750 | z. langen Leiter. | Waldner-Zuber, Joh. Heinrich.\n  Waldner-Zuber, Joh. Heinr., Schuhm.\n20 | II. | 589 | z. unt. Kestlach. | Lindner-Forcart, Joh. Eduard.\n  Lindner-Forcart, Wilh. Ed., Buchbind.\n  Steiger, J. J., sel. Erben, Leckerlifabr.\n  Braun-Steiger, Rud., Waagmeister.\n21 | VI. | 1751 | zur Eiche. | Detwiler-Wernli, Emanuel.\n  Detwyler-Wernli, Eman., Kostgeber.\n  Christ, Ludwig, Schuhmacher.\n22 | II. | 590 | | Crussaire-Pfau, Wb. Margaretha.\n  Crussaire-Pfau, Wb. Marg., Part.\n  Crussaire, Louis, Particulier.\n  Hunziker-Crussaire, Friedr., Baumwollenwaarenhandlung.\n23 | VI. | 1752—53 | z. armen Herberge. | Zimmermann-Früh, Wb. Elisabeth.\n  Zimmermann-Früh, Wb. Elisab., Uhrenmacher.\n  Zimmermann, Ludwig, Commis.\n  Zimmermann, Friederike Elise, Modiste.\n24 | II. | 591 | zum Steinkeller. | Leithardt-Goez, Heinrich.\n  Pfaff, Jacob Heinrich, Bürstenmacher.\n  Ungerer-Hausmann, Jac., Handelsm.\n  Kormann-Leithardt, August, Schneider. Magazin Nro. 82 Freie Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11344,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2385,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:54:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p190",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p190.jpg",
+      "bytes": 1434926,
+      "sha256": "29ecd6634053e47a4b1c141ac401e02b20a6535ea950a31a766c00036d871993",
+      "sha256_of": "original",
+      "working_copy": "1862_p190.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:25+00:00"
+  }
+}

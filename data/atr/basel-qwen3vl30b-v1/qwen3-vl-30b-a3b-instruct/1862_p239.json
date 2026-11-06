@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p239",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p239.jpg",
+    "bytes": 1310397,
+    "sha256": "9d91803b349cd534fdca38dd31fc6e27ba892544c1424263bdaebbdf60f00379",
+    "sha256_of": "original",
+    "working_copy": "1862_p239.jpg"
+  },
+  "text": "174\nGreifengasse. — Grenzacher-Straße.\nNene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n32 VIII. 225 zum Lenzburg. David, Joh. Melch. sel., Erben.\nDavid-Kurz, Wb. Elisabeth, Diegger.\n33 VII. 223 Holzreuter-Keller, Eugen.\nHolzreuter-Keller, E., Seidenfärberey.\nSommier-Hermann, Sim., Uhrmacher.\n34 VIII. 222 Dejchger, Ignaz.\nDejchger, Ignaz, Bäcker.\n35 VII. 220 zum Schlatthof. Bertrand-Kaiser, Joseph.\n36 VIII. 221 Zasclin-Weber, Franz.\nZasclin-Weber, Franz, Part.\nBest-Bühlmann, Georg, Schreiber.\nRudin, Julie, Diödiste.\n37 VII. 218—219 zum Schlatthof. Bertrand-Kaiser, Joseph.\nBertrand-Kaiser, Joseph, Wirth, Johann-\nfutjcher u. Spezierer.\nHonegger-Baumgartner, Carl, Buchbin.\n38 VIII. 217 zur Tanne. Schnewlin-Willin Carl, u. Sautter,\nMichael.\nSchnewlin-Willin, Carl, Kaufmann.\nSautier-Red, Michael, Kaufmann.\nFirma Schnewlin u. Comp., Commission, Spedition u. Spezereihdlg.\nLeuze-Leuze, Wb. Clara Magdal., Kent.\n39 VII. 214 Grether-Trösch, Friedrich.\nGrether-Trösch, Friedrich, Zuckerbäcker.\n40 VIII. 216 z. klein. Scheuer. Müller-Wespy, Heinrich.\nMüller-Wespy, Heinrich, Schlosser.\nGrenzacher-Straße.\n2 VIII. 41 Soller-Keller, Friedr.\n4 VIII. 42 B Soller-Keller, Friedr.\n6 VIII. 42 A Soller-Keller, Friedr.\nSoller Keller, Friedr., Part.\n8 VIII. 42 Staehelin-Hagenbach, Ernst.\n12 VIII. 43 Christ-Sarasin, Adolf.\n24 VIII. 48 Verwaltung des Kinderpitals.\nSchmauz-Salzmann, Hiers., Gärtner.\n25 VIII. 50 c Wölfflin-Freivogel, Georg.\n35 VIII. 50 Gueng-Welhausen, Franz.\nGueng-Welhausen, Franz, Kaufmann.\nWelhausen, Christ. Ludw., Preuß. Artillerie-Major a. D.\n37 VIII. 50 a Frey-Mühlefluh, Josef.\nFrey-Mühlefluh, Jos., Zimmermeister.\n38 VIII. 51 Gesellschaftsgarten. Bohny-Glock, Sam. u. Schmid-Hafenböhler, Wilh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5096,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1761,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:50:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p239",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p239.jpg",
+      "bytes": 1310397,
+      "sha256": "9d91803b349cd534fdca38dd31fc6e27ba892544c1424263bdaebbdf60f00379",
+      "sha256_of": "original",
+      "working_copy": "1862_p239.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:50:43+00:00"
+  }
+}

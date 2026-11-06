@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p227",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p227.jpg",
+    "bytes": 1305300,
+    "sha256": "8b65b4e1ac754f9c85739dfee8c8a10fa90ad692477e03e64cc8821438809d38",
+    "sha256_of": "original",
+    "working_copy": "1862_p227.jpg"
+  },
+  "text": "162\nWeidengasse. — Weiße-Gasse.\nNeue\nHaus-Or\nQuar-\ntier.\nAlte\nHaus-Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n28 | V. | 318 a | | Eschbach=Garnaus, Emanuel.\n32 | V. | 316 | | Bretscher=Schöllkopf, Joh. sel. Erben.\n| | | | Bretscher=Schöllkopf, Wb. Barb., Käth.\nWeiße-Gasse.\n1 | IV. | 1119 | | Detloff=Lafontaine, Carl Albert.\n2 | IV. | 1131 | z. kleinen Konstanz. | Bretscher=Bretscher, Jakob.\n| | | | Bretscher=Bretscher, Jakob, Schuhmacher.\n| | | | Bonfico=Spiek, Sebastian, Mechaniker.\n3 | IV. | 1118 | zum neuen Keller. | Geßler=Rutter, Carl.\n| | | | Geßler=Rutter, Wb. Maria, Metzger.\n| | | | Metzger=Haug, Johannes, Metzger.\n4 | IV. | 1132 | | Federer=Strübin, Anton.\n| | | | Federer=Strübin, Anton., Seidenfärbler.\n| | | | Pfister=Weber, Jakob, Milchhändler.\n5 | IV. | 1117 | zur Leiter. | Hindermann=Bäumli, Emanuel.\n| | | | Hindermann=Bäumli, Em., Lithograph.\n6 | IV. | 1133 | | Wiist, Leonhard.\n| | | | Mazinger=Schöttl, Bened., Schuhmacher.\n| | | | Gasser=Mesmer, Jakob, Schreiner.\n7 | IV. | 1115—16 ehemal. Brodhaus, | | Ottenburg, Joh. Heinrich.\n| | | | nun Schlachthaus. | Ottenburg, Joh. Heinrich, Kaufmann.\n8 | IV. | 1134 | zur Tafel Mojis. | Hägler=Brand, Heinr. Jak., Seiler.\n| | | | Büchly=Bruder, Johannes, Hafner.\n| | | | Hänger-Baumgartner, Sam., Gärtner.\n| | | | Wezel, Johann Conrad, Hafner.\n10 | IV. | 1135 | | Kübler, Rudolf.\n| | | | Kübler, Rudolf, Zimmermann.\n| | | | Gehrig, Engelbert, Radler.\n11 | IV. | 1114 | zur obern Gloke. | ZurMühle=Wernli, Jakob.\n| | | | ZurMühle=Wernli, Jakob, Schuhmacher.\n12 | IV. | 1136 | zur Trotte. | Hug=Breiting, Wb. Catharina.\n| | | | Hug=Breiting, Wb. Cath., Spengler.\n| | | | Hohn-Hug, Gottlieb, Spengler.\n13 | IV. | 1113 | zur obern Gloke. | Spreyermann=Schwarz, J. Georg.\n| | | | Spreyermann=Schwarz, J. G., Schneid.\n| | | | u. Geschirrhandlung.\n| | | | Hartmann, Elisabeth, Obsthändlerin.\n14 | IV. | 1137 | zur freien Stadt Worms. | Krebs=Mangold, Franz.\n| | | | Krebs=Mangold, Franz, Schriftsetzer.\n15 | IV. | 1112 | | Brüdersocietät.\n| | | | Spreyermann=Schwarz, Joh. Georg,\n| | | | Schneidermeister.\n| | | | Haider, Otto Julius, Vorsteher der\n| | | | Brüdersocietät.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6292,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2156,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:49:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p227",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p227.jpg",
+      "bytes": 1305300,
+      "sha256": "8b65b4e1ac754f9c85739dfee8c8a10fa90ad692477e03e64cc8821438809d38",
+      "sha256_of": "original",
+      "working_copy": "1862_p227.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:41+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p362",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p362.jpg",
+    "bytes": 1603939,
+    "sha256": "6ae01e0efdfb7b04a98129e74a9e7919f5cdc3575279ad042e899770be733888",
+    "sha256_of": "original",
+    "working_copy": "1862_p362.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 297\n\nHottinger = Nikly, Wilh., Portier. Hintere\n  Spitalgasse 13.\nHotz-Müller, Rudolf, Lehrer. St. Martins-\n  Gasse 16.\n— -Wespi, Jakob, Fabrikarbeiter. Gerber-\n  gäßlein 25.\nHubel-Thommen, Rudolf, Schreiner. Neue\n  Vorstadt 10.\nHuber-Agster, Johann, Taglöhner. Weber-\n  gasse 12.\n— -Beckh, Wb. Susanna, Rentiere. St.\n  Leonhards-Straße 1.\n— -Berni, Jak. Christof, Seidenfärbergehilfe.\n  Ochsengasse 21.\n— -Burckhardt, Joh. Jakob, Kaufmann.\n  Freie Straße 77.\n— Franz, Buchdrucker. Steinenbachgäßl. 36.\n— -Frauenknecht, Joh. Martin, Posamenter.\n  St. Johann-Vorstadt 32.\n— -Frommherz, Stefan, Taglöhner. Mis-\n  sionsstraße 11.\n— Hans Heinrich, Schuhmacher. Rhein-\n  gasse 65.\n— Heinrich, Straßenpflasterer. Steinenbach-\n  gäßlein 36.\n— Hieronimus, Part. Rebgasse 20.\n— Jacob, Fabrikarbeiter. Greifengasse 37.\n— -Kaiser, Jost, Magazinknecht. St. An-\n  dreasplatz 10.\n— -Kummler, Wb. Strickbaumwolle und\n  Baumwolltuchhandlung. St. Alban-\n  Vorstadt 98.\n— -Krummacher, Fridolin, Kaufhausarbeit.\n  Steinenvorstadt 43.\n— -Martin, Caspar, Schriftgießer. St.\n  Leonhards-Graben 24.\n— Michael, Maurergeselle. St. Leonhards-\n  Berg 8.\n— -Molitor, J. J., Apotheker. Eisen-\n  gasse 2.\n— -Müller, Andreas, Maurer. Untere\n  Rheingasse 25.\n— -Ritter, David, Seidenfärbergeselle. Ba-\n  dergäßlein 6.\n— -Schnell, Wb. Salomea, Part. Heu-\n  berg 12.\n— -Schreck, Jacob, Gärtner. Schützen-\n  mattstraße 43.\n— -Sommer, Heinr., Seidenfärbergeselle.\n  Riehenteichweg 32.\n— -Sommerhalder, Jacob, Blattmacher.\n  Heuberg 27.\n— -Spengler, Babette, Modiste, Pfluggäß-\n  lein 4.\n— -Spengler, Jacob, Fabrikarbeiter. Pflug-\n  gäßlein 4.\n— -Stäbler, Jacque, Handelsmann. Ger-\n  bergasse 59.\n— -Stehelin, Emilie, Rentiere. Neue Vor-\n  stadt 27.\n\n[spalte 2]\n\nHuber-Streckeisen, Johann Jacob, Missionar.\n  Schützenmattstraße 20.\n— -Strittmatter, Georg, Zimmermann.\n  Freie Straße 5.\n— -Tröndle, Wb. Maria, Kostgeberin. Reb-\n  gasse 33.\n— -Unbekannt, Wb. Cath., Part. Ger-\n  bergäßlein 2.\n— -Vernet, Wb. Louise, Part. Missions-\n  straße 50.\n— -Wirz, Rudolf, Kunstmaler. Allschwy-\n  ler Straße 29.\nHubsch, Georg Herm., Commis. Heuberg 20.\nHübner, Christ. Moritz, Architekt. Steinen-\n  thorstraße 19.\nHübscher, Adolf, Commis. Barfüßergasse 14.\n— Adolf, Pelzhandlung. Eisengasse 21.\n— -Falkner, Wb. Valeria, Rentiere. Wall-\n  straße 17.\n— -Herzog, Friedr., Kaufmann. St. Mar-\n  garethen-Straße 9.\n— Joh. Conr., Lederhändler. Marktplatz 10.\n— -Keller, Rud., Lederhändler. Gerber-\n  gasse 37.\n— -Kleiber, Emil, Kaufmann. Eisen-\n  gasse 6.\n— -Lichtenhahn, Wilh., Zimmermeister. St.\n  Johann-Vorstadt 88.\n— Rudolf, Spengler. Marktplatz 14.\n— -Spahn, Joh. Mart., Lehrer. St. Pe-\n  terskirchplatz 5.\n— -VonSpeyr, Charlotte, Part. St. Pe-\n  ters-Gasse 34.\nHügin-Boßardt, Lorenz, Seidenfärber. Stei-\n  nenvorstadt 40.\n— -Hängi, Martin, Zimmergeselle. St.\n  Johann-Vorstadt 63.\n— -Herbel, Peter, Maurergesell. Sternen-\n  gäßlein 10.\n— -Hofmeyer, Wb. Franziska, Lohnwasche-\n  rin. Imbergäßlein 10.\nHürlemann, David, Commis. St. Johann-\n  Vorstadt 8.\n— -Rieder, Caspar, Heizer. Rheingasse 38.\n— Wb. Rosina, Part. St. Johann-Vor-\n  stadt 8.\n— Sophia, Schneiderin. Unterer Heuberg 1.\n— -Ziegler, Wendelin, Trödler. Münz-\n  gäßlein 20.\nHürst-Stapfer, Christ., Landjägerwachtmeister.\n  u. Abwart der Bank. Marktplatz 3.\nHüsser-Schmidlin, Bernhard, Fabrikarbeiter.\n  Riehenthorstraße 14.\nHufschmid-Boßardt, Johs., Taglöhner. Wei-\n  dengasse 24.\n— -Hartmann, Jacob, Spezierer. St. Jo-\n  hann-Vorstadt 65.\n— -Thommen, Joh., Posamenter. Uten-\n  gasse 27.\nHug-Bäry, Adolf, Müller. Kohlenberggasse 32.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 13667,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3580,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:27:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p362",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p362.jpg",
+      "bytes": 1603939,
+      "sha256": "6ae01e0efdfb7b04a98129e74a9e7919f5cdc3575279ad042e899770be733888",
+      "sha256_of": "original",
+      "working_copy": "1862_p362.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:27:28+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p402",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p402.jpg",
+    "bytes": 1607932,
+    "sha256": "bc91325a430af45f76563594ecd33ca87d9bfd440b56f37f9a89d3fc5ddf0905",
+    "sha256_of": "original",
+    "working_copy": "1862_p402.jpg"
+  },
+  "text": "Verzeichniß der Bürger und Einwohner. 337\nSchimpf-Rei, Carl Ferd., Dr. Zolldirector. Schmid=Bloch, Rud., Notar. Barfüsserplatz 23.\nSt. Elisabethen-Straße 43. — =Bötschin, Josef, Schuhmacher. Rhein-\ngasse 26.\nSchindler-Schmaßmann, Friedr., Posamenter. — Caroliua, Kostgeberin. Rhein sprung 3.\nSattelgasse 7. — =Forrer, Conrad, Hafner. Holeeweg 5.\n— Otto, Lehrer. St. Theodorskirchplatz 7. — Georg, Maler. St. Peters-Berg 42.\nSchirach=Hofaker, Wilh., Restaurateur. Cen- — =Kloz, Xaver, Maurer. St. Jakobs-\ntralbahnplatz 6. Straße 19.\nSchirrmeister=Kling, Carl, Commis. Gerns- — Rudolf, Kanzleisekretär. St. Martins-\nberg 5. Gasse 16.\nSchlachter=Fäsch, Elisab., Lehrerin. Uten- — Rud. u. Adolf, General-Agentur d. Nor-\ngasse 33. thern Assurance Company in London.\nSchlageter, Anna Maria, Rätherin. St. Pe- Barfüsserplatz 23.\nters-Berg 34. — =Schmid, Damian, Fabrikarbeiter. Un-\n— =Bergmann, Josef, Fabrikmeister. Ster- tere Reb-gasse 24.\nnengäcklein 8. — =Tschopp, Jacob, Wirth. Hagenheimer\n— Johann, Part. Sternengäcklein 8. Straße 2.\nSchlatter=Brem, Conrad, Knecht. Reb-gasse 26. — =Billiger, Christof, Metzger. Gerber-\n— Heinrich, Kutscher. St. Elisabethen- gasse 2.\nStraße 3. — =Wunderlich, Friedr., Uhrmacher u. Tele-\n— =Ziezer, Ludw., Mechaniker. Gerber- graphist. Spalenberg 38.\ngäcklein 32. Schmidlin=Baldinger, Heinr., Fabrikarbeiter.\nSchlegel, Thekla, Taglöhnerin. Riehenteich Gerbergäcklein 34.\nweg 14. — =Baumann, Michael, Zolleinnehmer.\nSchleith, Cathar., Glätterin. Lindenberg 9. Horburgstraße 20.\nSchlienger=Better, Stephan, Knecht. Riehen- — =Blauenstein, Joh. Alois, Zimmergeselle.\nthorstraße 26. Weidengasse 24.\nSchlöth=Georg, Friedr. Ludw., Schlosser und — =Fischer, Wilh., Direktor d. Centralbahn.\nOfenfabrikant. Hafenberg 5. St. Albanthorgraben 52.\nSchlotterbeck=Nonnenmacher, Adam, Taglöh- — Georg, Zimmermann. Riehenthorstr. 27.\nner. Pfluggäcklein 4. — =Huber, Jakob, Taglöhner. Schoren-\nSchlueb=Hartmann, Hans, Bäcker. Schaf- weg 9.\ngäcklein 2. — Jacob, Schneider. St. Leonhards-\n— Heinrich, Dessinateur. Rheingasse 52. Straße 23.\n— =Miechel, Friedr., Part. Rosengarten- — Joh., Ferger. Steinenvorstadt 28.\nweg 1.\n— =Otto, Philipp, Wirth. Greifengasse 1. — =Linz, Barbara, Schachtelmacherin. Ger-\n— =Scherrer, F. F., Schreiber. Rappolts- bergäcklein 9.\nhof 6. — =Müller, Jacob, Zimmerparkier. Rhein-\n— =Seidt, Carl, Condukteur. Hafenberg 12. gasse 90.\nSchlumberger=LeGrand, Oskar, Kaufmann. — =Kägelin, Jacob, Maler. Riehenthor-\nSt. Peters-Gasse 38. straße 17.\n— =Sager, Albert Julius, Chemiker. Bahn- — =Saladin, Jacob, Schreiner. Sternen-\nhofstraße 3. gäcklein 29.\nSchlumpf-Dettling, Joh. Rud., Musterweber. — =Stingelin, Joh., Magazinarbeiter. Sat-\nSteinenbachgäcklein 22. telgasse 7.\nSchmäh=Engesser, Felix, Parquetier. Heu- — =Straub, Barbara, Taglöhnerin. Heu-\nmattstraße 10. berg 46.\nSchmaßmann, Carl, Färber. Nauenstraße 10. — =Straub, Barbara, Lohnwäscherin. Spa-\n— Heinrich, Travattenmacher u. Ausläufer. lenberg 28.\nSpalenberg 29. Schmidt=àWengen, Joh., Kaufmann. Neue\n— =Stin, Martin, Partikular. Spalenvor- Vorstadt 23.\nstadt 26. — =Bolth, Carl, Wirth. St. Johann-\n— =Rech, Wb. Walburga, Travattenmacherin. Vorstadt 29.\nSpalenberg 29. — Carl, Glaser. Greifengasse 14.\nSchmauk=Salzmann, Hieron., Gärtner. Grenz- — Cathar., Seidenwinderin. Reb-gasse 37.\nacher-Straße 24. — =Degelmann, Margaretha, Strickerin.\nSchmerber=Hornung, Margaretha, Partikul. Schützenmattstraße 43.\nMissionsstraße 41. — =Diek, Joseph, Kutscher. Theaterstr. 6.\nSchmid, Adolf, J. U. D., Notar u. Advokat. — =Engressat, Melch., Schneider u. Flecken-\nBarfüsserplatz 23. reiniger. Steinenvorstadt 50.\n22",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9310,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3604,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 56.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:15:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p402",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p402.jpg",
+      "bytes": 1607932,
+      "sha256": "bc91325a430af45f76563594ecd33ca87d9bfd440b56f37f9a89d3fc5ddf0905",
+      "sha256_of": "original",
+      "working_copy": "1862_p402.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:15:28+00:00"
+  }
+}

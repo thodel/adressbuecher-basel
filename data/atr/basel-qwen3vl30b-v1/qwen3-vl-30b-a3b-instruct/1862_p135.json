@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p135",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p135.jpg",
+    "bytes": 1347421,
+    "sha256": "2a1fde8fb31e33c9195681be6ecc21d99b18b8fd239c56d866e9d88819334f17",
+    "sha256_of": "original",
+    "working_copy": "1862_p135.jpg"
+  },
+  "text": "70\nSt. Johann-Vorstadt.\nNro. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n3 | I. | 67 | zum Reinacherhof. | Burchardt-Wid, Ludw. August.\nBurchardt-Wid, Ludw. Aug., J. U. D.\nBurchardt, Henriette, Particular.\n4 | I. | 72 | zum Bockstecherhof. | Roth-Weiß, Wernhard u. Sohn.\nRoth-Weiß, Wernhard und Sohn,\nSchuhmacher.\n5 | I. | 64 B | zum mittlern Ulm. | Kern-Ryhiner, August.\nKern-Ryhiner, August, Bandfabrikant.\nRyhiner-Bischoff, Samuel, Rentier.\nKern-Werthemann, Eduard, Bandfabr.\n6 | I. | 70 | | Zselin-deBary, Rudolf.\nZselin-deBary, Rudolf, Particular.\nZselin, Rudolf de Rudolf, Part.\n7 | I. | 64 A | zum mittlern Ulm. | LaRoche-Gemuseus, Carl.\nLaRoche-Gemuseus, Carl, Gutsbesitzer.\n8 | I. | 69 | | Scholp-Schaffner, Rudolf.\nScholp-Schaffner, Rudolf, Kaufmann.\nHürlemann, Wittwe, Rosina, Part.\nHürlemann, David, Commis.\n9 | I. | 63 | | Maeglin, Benedikt de Anton.\nMaeglin, Benedikt de Anton, Kfm.\n10 | I. | 68 | | Müller-Hauser, Joh. Jacob.\n11 | I. | 62 | zur Schäferei. | Riggenbach, Fried. Wilhelm.\nRiggenbach, Fried. Wilh., Bäcker.\nMeilin-Riggenbach, Rud., Bildhauer.\n12 | I. | 65 | | Müller-Hauser, Joh. Jakob.\n13 | I. | 59 | zum Wildenstein. | Schoop-Lehr, Leonhard Carl.\nSchoop-Lehr, Leonh. Carl, Ferger.\nKaufmann, Gottlieb Sam., Schlosser.\nMüller-Hauser, Joh. Jac., Seidenfärber.\nMüller, Joh. Jac., Sohn, Seidenf.\n14 | I. | 61 | | Dietzsch-Lichtenhahn, Joh.\nCoulere-Dubernoy, Civil-Ingenieur.\nSiegfried u. Comp., Band- u. Seidenhd.\n15 | I. | 58 | | Basler-Bernoulli, Wb. Anna Cath.\nBasler-Bernoulli, Wb. A. Cath., Part.\n16 | I. | 60 | zur leeren Flasche. | Burkhardt-Preiswerk, Wilhelm.\nComptoir u. Bandfabrik von Lucas\nPreiswerk.\n17 | I. | 53 | Erlacherhof. | Dietzsch-Burckhardt, Joh. Jac., Bandfab.\nJenny-Gattinger, Friedrich.\nJenny-Gattinger, Fried., Definateur.\nWinfler-Kähni, Jakob, Spezierer.\nFriedli-Fleury, Eman., Eisenbahnbeamt.\n18 | I. | 56–57 | zur Meife. | Dietzsch-Lichtenhahn, Joh. Jac.\nDietzsch-Lichtenhahn, J. J., Bandfabr.\nDietzsch, Wilhelm, Bandfabrikant.\nLichtenhahn, Hans Rud., Bandfabrik.\nFirma Hans Balth. Burkhardt u. Sohn.\n19 | I. | 50 | |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7033,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2119,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:38:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p135",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p135.jpg",
+      "bytes": 1347421,
+      "sha256": "2a1fde8fb31e33c9195681be6ecc21d99b18b8fd239c56d866e9d88819334f17",
+      "sha256_of": "original",
+      "working_copy": "1862_p135.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:38:09+00:00"
+  }
+}

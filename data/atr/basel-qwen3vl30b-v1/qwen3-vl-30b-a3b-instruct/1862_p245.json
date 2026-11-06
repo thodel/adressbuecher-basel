@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p245",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p245.jpg",
+    "bytes": 1268234,
+    "sha256": "54e9de19fcf934b138ae09a6056125b15764c8a8478e9e84de0ac4c6c4854c97",
+    "sha256_of": "original",
+    "working_copy": "1862_p245.jpg"
+  },
+  "text": "180\nKarthausgäfklein. — Kirchgaffe.\nNene\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nKarthausgäfklein.\n1 VIII. 127 ................. Wall=Denzer, Heinrich.\nWall=Denzer, Heinrich, Spezierer.\nWall, Heinrich, Vater, Part.\nOppliger=Degen, Casp., Gärtner.\n3 VIII. 128 ................. Wall=Denzer, Heinrich.\nDill=Salathe, Wb. Marg., Part.\n4 VIII. 116 A Carthausedkstall. Bernoulli=Baer, Leonhard.\n5 VIII. 129 ................. Glasen=Ritter, Friedrich.\nSchwarz=Boegly, Phil. Sch., Flachmal.\n7 VIII. 130 3. alten Gießhaus. Aeschmann=Lichtenhahn, Daniel.\nAeschmann=Lichtenhahn, Dt., Schreiner.\nLoew, Abraham Hiob, Holzfezer.\n9 VIII. 131 3. Wandersmann. Fuchs=Grüninger, Wb. Apollonia.\nFuchs=Grüninger, Wb. Apoll., Part.\nJaedlin=Grüninger, Em., Baumeister.\nKirchgaffe.\n1 VIII. 138 ehem. Zieglerwohg. Stadtgemeinde.\nMüller=Grieshaber, Bernhard, Fuhr-\nhalter.\n2 VIII. 143 a b c ................. Gaf=Brunner, Jakob.\nGaf=Brunner, Jakob, Pintenwirth.\nWenge=Hoehle, Jakob, Gärtner.\n3 VIII. 138 a Scheune. Stadtgemeinde.\n4 VIII. 137 ................. Meyenroß=VonBrunn, Friedrich.\nSchaubhut, Carl Friedr., Kaufmann.\n6\n5 VIII. 136 A ................. Berlinger=Schwoeri, Eduard.\nBerlinger=Schwoeri, Eduard, Gyper.\nKlindig=Balmer, Johann, Dreher.\n8 VIII. 137 A Anabenschulhaus zu Stadtgemeinde.\nSt. Theodor. Schaffner=Schäffer, Friedrich, Ober-\nlehrer.\nSchaffner, Fritz, Ingenieur.\nHindermann=Landerer, Phil., Lehrer.\n9 VIII. 136 ................. Berlinger=Schwoeri, Eduard.\nLang=Meyer, Sam., Schuhmacher.\nBerlinger, Theodor, Schloffer.\n11 VIII. 135 ehem. St. Theodors= Stadtgemeinde.\nAnabenschule. Brefin=Bender, Leonh. Mart., Feuer-\nschaubeamter.\nBender, Joh. Georg, Schneider.\n13 VIII. 134 dito dito Stadtgemeinde.\nGuise=Menzinger, Johanna.\nArnold, Carl, Telegraphist.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5016,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1806,
+    "lines": 56,
+    "longest_char_run": 17,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0094,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:51:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p245",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p245.jpg",
+      "bytes": 1268234,
+      "sha256": "54e9de19fcf934b138ae09a6056125b15764c8a8478e9e84de0ac4c6c4854c97",
+      "sha256_of": "original",
+      "working_copy": "1862_p245.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:51:19+00:00"
+  }
+}

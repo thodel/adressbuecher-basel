@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p275",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p275.jpg",
+    "bytes": 1242704,
+    "sha256": "83f378ea0fdba83089a0919231892a980489ea6d2a20cd0c7f8bb9138415ed92",
+    "sha256_of": "original",
+    "working_copy": "1862_p275.jpg"
+  },
+  "text": "210 Webergasse. — Bei der Wiesenschanze.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n34 | VII. | 284 | z. hintern Böhler. | Steiner-David, Wb. Ursula.\n  Steiner-David, Wb. Ursula, Rentiere.\n  David-Hodel, Rudolf, Partikular.\n35 | VII. | 285 | zum Zedel. | Christ-Mönch, Joh. Heinrich.\n  Christ-Mönch, Joh. Heinrich, Bäcker.\n  Mönch-Winkler, Carl Christ. Friedr., Schriftgießer.\n36 | VII. | 283 | | Asmus-Kaufmann, Friedrich.\n  Asmus-Kaufmann, Friedr., Zimmerparl.\n37 | VII. | 281—82 | | Clavel-Linder, Alexander.\n  Robin-Chrétien, Etienne, Appreteur.\n38 | VII. | 280 | zum Kaiserberg. | David, Christof Dietrich.\n  David, Christof Dietrich, Metzger.\n  Dalang-Heger, Ed., Weinagent u. Ferger.\n40 | VII. | 279 | | Mechel-David, Achilles.\n  Mechel-David, Achilles, Küfer.\n42 | VII. | 278 | | Fininger, Heinrich.\n  Fininger, Heinrich, Metzger.\n\nBei der Wiesenschanze.\n1 | VII. | 54 | | Tanner-Madöri, Wilh.\n  Tanner-Madöri, Wilh., Posamenter.\n2 | VII. | 54 A | | Elsässer-Müller, Jacob.\n  Elsässer-Müller, Jacob, Posamenter.\n3 | VII. | 54 B | | Spinnler-Schaefer, Carl.\n  Spinnler-Schaefer, Carl, Posamenter.\n4 | VII. | 54 C | | Rusch, Gabriel.\n  Rusch, Gabriel, Posamenter.\n5 | VII. | 54 D | | Sarasin, Hans Franz.\n6 | VII. | 54 E | | Keller, Johannes.\n  Keller, Johs., Werkmeister.\n30 | VII. | 62 F | | Gasquet, Friedrich.\n  Zürcher-Kuchemann, Joh., Mechaniker.\n31 | VII. | 62 E | | Gasquet, Friedrich.\n32 | VII. | 62 D | | Gasquet, Friedrich.\n  Haubensack-Ott, Gg. Mich., Samenhändler.\n  Ammacher-Huber, Joh., Beinknopfmach.\n33 | VII. | 62 C | | Gasquet, Friedrich.\n34 | VII. | 62 G | | Gasquet, Friedrich.\n35 | VII. | 62 H | | Gasquet, Friedrich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8373,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1707,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:06:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p275",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p275.jpg",
+      "bytes": 1242704,
+      "sha256": "83f378ea0fdba83089a0919231892a980489ea6d2a20cd0c7f8bb9138415ed92",
+      "sha256_of": "original",
+      "working_copy": "1862_p275.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:49+00:00"
+  }
+}

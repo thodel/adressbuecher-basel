@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p210",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p210.jpg",
+    "bytes": 1436216,
+    "sha256": "274bd951ab706bff828b22e0f1817cd38b8c63db504224c296f4918275cd3fe3",
+    "sha256_of": "original",
+    "working_copy": "1862_p210.jpg"
+  },
+  "text": "Stadthausgasse. — Stapfelberg. 145\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n13 | I. | 173 | Stadthaus. | Stadtgemeinde.\n  Stadtkanzlei.\n  Burckhardt-Brenner, Hans, J. U. D., Stadtschreiber u. Kanzleivorsteher.\n  Burckhardt-Jacot, Wb. Lucie, Part.\n14 | VI. | 170 | zur untern Buche. | Birmann-Weniger, Gottfried.\n  Birmann-Weniger, Gottf., Messerschmied.\n15 | I. | 169 | zum untern freien Haus. | Stadtgemeinde.\n  Schmidtmann-Stingelin, Martin, städti- scher Bauführer.\n16 | VI. | 166 | z. kleinen Tanne. | Bischoff'sche Stiftung.\n  Imbach-Bitterli, Leonz., Käsehändler.\n  Bischoff-Oser, Hier., Schneider.\n17 | I. | 168 | zum Anker. | Bernoulli, Jacob Hier.\n  Bernoulli, Jacob Hier., Commis.\n  Oswald-Neth, Leopold, Fuhrhalter.\n18 | VI. | 165 | z. goldenen Rose. | Rumpf-Dietschy, Daniel.\n  Rumpf-Dietschy, Daniel, Amtmann.\n  Rumpf, Bernh. Joh., Dr. med. chir.\n19 | I. | 167 | z. gold. Schwan. | Geist-Gaß, Wb. Anna.\n  Geist-Gaß, Wb. Anna, Part.\n  Senn-Geist, Friedr., Ferger.\n  Senn, Gustav, Commis.\n20 | VI. | 162 | zum Greifenstein. | Früh-ZurEich, J. Caspar.\n  Früh-ZurEich, J. Caspar, Buchbinder.\n  Eiselin, Raphael, Commis.\n  Senn, Friedr. Wilh., Commis.\n21 | I. | 164 | zur rothen Rose. | Stumm-Montandon, J. Friedr.\n  Stumm-Montandon, J. Friedr., Kaufm.\n  Firma F. Stumm u. Comp., Com- mission, Spedition u. Spezereihdlg.\n22 | VI. | 160 | zum Hirschen. | Vogt-Cordier, Friedrich.\n  Vogt-Cordier, Friedr., Schneider.\n  Thimé, Heinrich, Coiffeur.\n23 | I. | 163 | zur weißen Rose. | Siegrist-Seiler, Joh.\n  Siegrist-Seiler, Joh., Waarencourtier.\n  Wehrle, Theodor, Commis.\n25 | I. | 157—161 | zum Storchen. | Klein-Weber, Johannes.\n  Klein-Weber, Johannes, Gastwirth.\n  Briffaud, Aug. Emil, Commissionär.\n  Müller-Ott, Enoch, Privatlehrer.\n\nStapfelberg.\n1 | VI. | 1629 | zum Berner. | Kiefer-Bär, Georg.\n  Siehe Nr. 23 Freie Straße.\n2 | V. | 1449 | zum Fälklein. | Spittler, Christ. Friedrich.\n  Christ-Noerbel, Wb., Part.\n3 | VI. | 1628 | zur Vigilanz. | Groben, Jakob sel. Erben.\n  Wybert, Eman., Arzt, Dr. med.\n10",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8520,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2086,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:57:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p210",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p210.jpg",
+      "bytes": 1436216,
+      "sha256": "274bd951ab706bff828b22e0f1817cd38b8c63db504224c296f4918275cd3fe3",
+      "sha256_of": "original",
+      "working_copy": "1862_p210.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:57:17+00:00"
+  }
+}

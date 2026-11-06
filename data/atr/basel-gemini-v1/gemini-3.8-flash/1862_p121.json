@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p121",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p121.jpg",
+    "bytes": 1294992,
+    "sha256": "f7f1062633096c9fd304ccf0c4c73b828781cde30c0aea54cd67e76e3390b091",
+    "sha256_of": "original",
+    "working_copy": "1862_p121.jpg"
+  },
+  "text": "56 Gerbergäßlein.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n16 | VI | 634 | | Wiesendanger-Häsy, Wb. Sophia.\n  Wiesendanger-Häsy, Wb. S., Schneiderin.\n  Wiesendanger-Hägler, J. J. Fr., Ferger.\n17 | VI | 662 | das alte Bad. | Gaß-Thurneysen, Wb. Friederika.\n18 | VI | 635 | zur Niederburg. | Grunauer-Mayer, Sebastian.\n  Grunauer-Mayer, Sebastian, Kaufm.\n  Stöcklin-Walz, Georg Friedr., Commis.\n  Wild, Josua, Rentier.\n19 | VI | 663 | | Haller-Marfort, B.\n  (Magazin.)\n20 | VI | 636 | | Müry-Rudin, Samuel.\n  Müry-Rudin, Samuel, Kostgeber.\n21 | VI | 664 | zum rothen Krebs. | Singeisen, Joh. Jakob Daniel.\n  Gauthier, Louis, Hutmacher.\n22 | VI | 638 | zum Königsberg. | Meyer-Altorfer, Friedrich.\n  Meyer-Altorfer, Friedr., Spezerei- und Branntweinhandlung.\n  (Firma: Johannes Meyer.)\n23 | VI | 665 | z. hangend. Stein. | Thurneysen, Ludwig.\n  Leuenberger-Wyß, M. A., Wascherin.\n24 | VI | 677 | zum Richtbrunnen. | Mast-Pfannenschmied, Joh. Jakob.\n  Mast-Pfannenschmied, J. J., Buchdrucker.\n25 | VI | 666 | zur niedern Burg. | Schaub-Eichacker, David.\n  Hotz-Wespi, Jacob, Fabrikarbeiter.\n26 | VI | 678 | zur Birs. | Buser-Schlegel, Jacob.\n  Buser-Schlegel, Jacob, Schneider.\n  Buser-Hauser, Carl, Commis.\n27 | VI | 667 | | Wohnlich-Biland, Wb. Sophia.\n  (Magazin.)\n28 | VI | 679 | zum Richtbrunnen. | Baumann-Gerber, Heinrich, und Gerber-Brechbühl, Christian.\n  Baumann-Gerber, Heinrich, Spezierer.\n  Gerber-Brechbühl, Christian, Holz- u. Kohlenhändler.\n  Welti-Müller, Georg, Fuhrhalter.\n29 | VI | 668 | z. langen Leiter. | Krug, Marx.\n  Krug, Marx.\n30 | VI | 680 | | Braun-Widler, Bernhard.\n  Braun-Widler, Bernhard, Maurer.\n31 | VI | 669 | | Koller-Wei, Wb. Rosina.\n  Baumgartner-Banier, Alois, Fabrikarb.\n32 | VI | 681 | zum Mohrenkopf. | Weiß-Fürst, Daniel Hieronimus.\n  Weiß-Fürst, Daniel Hier., Briefträger und Holzhändler.\n33 | VI | 670 | zum grünen Stein. | Löw-Keiser, Joh. Jakob.\n  Bölcklin-Heckler, H., Postangestellter.\n34 | VI | 682 | zur Staufenburg. | Gohl-Maag, Heinrich.\n  Gohl-Maag, Heinrich, Zimmermeister.\n35 | VI | 671 | | Ammann, Achilles.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8108,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2125,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0213,
+    "mean_line_chars": 43.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:43:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p121",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p121.jpg",
+      "bytes": 1294992,
+      "sha256": "f7f1062633096c9fd304ccf0c4c73b828781cde30c0aea54cd67e76e3390b091",
+      "sha256_of": "original",
+      "working_copy": "1862_p121.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:43:19+00:00"
+  }
+}

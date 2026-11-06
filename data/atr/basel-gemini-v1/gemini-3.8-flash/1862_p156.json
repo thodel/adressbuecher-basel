@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p156",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p156.jpg",
+    "bytes": 1501657,
+    "sha256": "91579c842f09af38d7c5e15002bd3a2f113f7d833734d4df9cf109b6b60651c3",
+    "sha256_of": "original",
+    "working_copy": "1862_p156.jpg"
+  },
+  "text": "St. Martinskirchplatz. — Missionsstraße. 91\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n8 | VI. | 1600 | hintere gold. Münze. | Bernoulli-Bär, Leonhard.\n  Siehe Nro. 1 Sporengasse.\n9 | VI. | 1598 | | VonderMühll-Ryhiner.\n  Siehe Nro. 23 Eisengasse.\n10 | VI. | 1597 | | Hübscher, Adolf.\n  Siehe Nro. 21 Eisengasse.\n11 | VI. | 1596 | z. hint. Löwenberg. | Berri-Linder, Melchior, med. Dr.\n  Siehe Nro. 19 Eisengasse.\n12 | VI. | 1595 | z. hint. Palmbaum. | Ostermann, Jean.\n  Siehe Nro. 17 Eisengasse.\n13 | VI. | 1594 | z. hint. St. Johannes | Däntliker, Wb. Louise.\n  Siehe Nro. 15 Eisengasse.\n14 | VI. | 1593 | z. hint. neuen Haus. | Gemuseus-Wüstner, Carl.\n  Siehe Nro. 13 Eisengasse.\n15 | VI. | 1592 | z. hint. neuen Haus. | Kündig, Carl.\n  Siehe Nro. 11 Eisengasse.\n\nMissionsstraße.\n1 | II. | 104 | | Bürgin-Wüst, Jacob.\n  Bürgin-Wüst, Jacob, Weinhändler.\n  Trog-Frey, Joh., Centralbahndirector.\n3 | II. | 105 | | Bernoulli-Kellermann, Emil.\n  Bernoulli-Kellermann, Emil, Kfm.\n5 | II. | 105 A | | Merian-Respinger, Wb. A. Elisab.\n  Merian-Respinger, Wb. A. Elis., Part.\n6 | I. | 99 | | Bischoff-Keller, Andreas.\n8 | I. | 98 | | Bernoulli-Paravicini, Christof.\n  Bernoulli-Paravicini, Christ., Professor.\n9 | II. | 103 | | Hauser-Euler, Carl.\n  Hauser-Euler, Carl, Particular.\n10 | I. | 97 A | | Stähelin-Bernoulli, Balthasar.\n  Stähelin-Bernoulli, Balthasar, Part.\n11 | II. | 106 | | Bürgin-Wüst, Jakob.\n  Müller-Merian, Martin, Particular.\n12 | I. | 97 | | Martin-Schmerber, Franz.\n  Martin-Schmerber, Franz, Rentier.\n14 | I. | 96 A | | Schulz-Landerer, Joseph.\n  Schulz-Landerer, Joseph, Baumeister.\n  Schmieder-Schulz, Carl, Baumeister.\n15 | II. | 106. c | | Bürgir-Wüst, Jakob. Scheune.\n16 | I. | 96 | | Neukirch-Flick, Wb. Elisabeth.\n  Neukirch-Flick, Wb. Elisabeth, Part.\n  Neukirch, Georg, Particular.\n  Girard-Laux, Emil, Commis.\n17 | II. | 107 | | Bürgin-Wüst, Jakob.\n18 | I. | 95 A | | Falkner-Bridel, Rudolf.\n  Falkner-Bridel, Rudolf, Geometer.\n  Kellermann-Mäglin, J. Christ., Apothek.\n  Wertenberg, Adolf, Handelsmann.\n  Wertenberg, Gustav, Handelsmann.\n19 | II. | 108 | | Beck-Giesecke, Christian.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8503,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2174,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p156",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p156.jpg",
+      "bytes": 1501657,
+      "sha256": "91579c842f09af38d7c5e15002bd3a2f113f7d833734d4df9cf109b6b60651c3",
+      "sha256_of": "original",
+      "working_copy": "1862_p156.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:01+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p415",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p415.jpg",
+    "bytes": 1425827,
+    "sha256": "ba08645d0107ddd697fac0806b04d99122ab45d6d48e19736c7793ebfbcf05be",
+    "sha256_of": "original",
+    "working_copy": "1862_p415.jpg"
+  },
+  "text": "350\nVerzeichniß der Bürger und Einwohner.\nSutter=Bögt, Joh., Gärtner. Malzgasse 18. Thimé, Sch., Coiffeur. Stadthausgasse 22.\n— =Wernli, Rudolph, Posamenter. St. Eli- Thörig=Schloffer, Joh. S., Landjägergefreiter.\nsabethen=Strasse 33. Neue Vorstadt 25.\n— =Zimmermann, Ignaz, Maler. Steinen- Thoma, Catharina, Wascherin. Mattweg 4.\nbachgäßlein 12. — Carl, Bierbrauer. St. Jakobs=Strasse 3.\n— =Zürcher, Joh., Kostgeber. St. Jacobs= — =Eichinger, Joh., Kostgeber. Rebgasse 10.\nStrasse 27. — Jungfrau, Modistin. Nechenvorstadt 17.\nSydler, Johannes, Ingenieur. St. Leonhards= — Lorenz, Fabrikarbeiter. Rheingasse 5.\nStrasse 28. — Moritz, Commis. Heuberg 20.\n— =Waelti, Caspar, Kutscher. Unterer Heu- — =Müller, Bonifaz, Lohnwäscher. Weber-\nberg 11. gasse 33.\nSyk=Schaad, J., Seidenfärbereigefelle. Ham- — =Rudin, Wittwe Barbara, Fabrikarbei-\nmerstraße 53. terin. Greifengasse 3.\nTanner=Caderle, Joh., Wagnergeselle. Steinen- — =Wiirfler, Carl, Taglöhnner. Bei der\nthorstraße 34. Wiefenschanz 35.\n— =Gyfin, Jakob, Metzger. St. Leonhards= Thomas=Haffar, Johann Georg, Musiklehrer.\nBerg 14. Theaterstraße 8.\n— Jakob, Schreiner. Rebgaase 33. Thommen, Bernhard, Decorations-Maler.\n— =Madöri, Wilhelm, Posamenter. Bei Malzgasse 9.\nder Wiefenschanz 7. — =Bertschmann, Sch., Schreiner. Ochsen-\n— =Madöri, Wilhelm, Posamenter. St. gasse 8.\nClara=Strasse 4. — =Breitenstein, Jacob, Handlanger. Weisse\nTaschetta, Giovanni, Glaser. Sattelgasse 6. Gasse 10.\nTaschner=Bertolf, J., Schloffer. St. Clara= — =Burger, Jak., Tuchschereergehilfe. Platz-\nStrasse 9. gäßlein 3.\n— Elisab., Hebamm. St. Clara=Strasse 9. — =Buser, Mathias, Lohnwäscher. Bahnhof-\nTeichmann, Carl, Zeichnungslehrer. Steinen- strasse 33.\nvorstadt 35. — =Clotin, Louis, Käfer und Weinhändlung.\nTellenbach=Buchmann, J. J., Commis. Stei- Centralbahnpiaz 10.\nnenmüllerweg 10. — Daniel, Landjäger=Wachtmeister. Streit-\nTerneke=Kaiser, Gustav, Fabrikarbeiter. Kirch- gasse 4.\ngasse 5. — =Ebner, Georg, Spezierer. Rebgaase 6.\n— =Mutter, Vincenz, Kostgeber. Kappolts- — Friedrich, Lehennann. St. Jakobs=\nhof 18. Strasse 10.\nTestler=Geßler, Josua, Zimmermeister. Riehen- — =Gaettelini, Johannes, Saatträger. Unterer Heuberg 5.\nthorstraße 31. — =Gaz, Jakob, Spezierer. Rheingasse 43.\nTeufel=Martin, Jh., Gutsbesitzer. Hammer- — =Gaz, Johann, Fabrikarbeiter. Steinen-\nstraße 102. vorstadt 13.\nThalmann=Erlacher, Johann, Lehennann. Aly- — =Hägler, Johann Adam, Posamenter.\nbeckstraße 101. Rheinsprung 10.\n— =Grether, Wittwe Anna M., Nätherin. — =Haejelsfinger, Wittwe Anna, Kostgeberin.\nRheingasse 23. Gerbergasse 1.\n— Joseph, Lehengärtner. Alybeckstraße 59. — =Joerin, Wittwe Elisabeth, Bettleicherin.\n— =Rüschlin, Nikolaus, Posamenter. Hammer- Imbergäcklein 21.\nstraße 88. — Johann Jacob, Bestäter. Rheingasse 64.\nThamm, Ferdinand, Apotheker. Bäumleingasse 4. — Johann Jacob, Schneider. Riehenthor- strasse 9.\nTharin=Tschopp, Joh. Sch., Buchdruckersfaktor. — Johann, Sohn, Speditionsgeäft. Steinenberg 12.\nRebgasse 47. — Joh., Musikdienar. Klosterberg 23.\nTheiler=Bürgy, Heinrich, Gärtner. Gerbergasse 19. — =Madoery, Johannes, Posamenter. Webergasse 7.\n— u. Comp. Drogueriehdig. Nadelberg 14. — =Mender, S. u., Ausläufer. Heuberg 50.\n— Josef Eduard, Kaufmann. Nadelberg 14. — =Meyer, Joh., Kaufmann. Rebgaase 14.\nTheubet=Elgger, Viktor, Part. Eifengasse 7. — =Müller, J. J., Gärtner. Spalenberg 3.\nThierry, J., Tabak= und Cigarrenfabrik. — =Miiry, Johann Jacob, Magazinknecht. Spitalstraße 40. Utengasse 22.\n— Joseph, Tabakfabrikant. St. Johann= — =Kippas, Johann Sch., Posamenter. Vorstadt 35. Greifengasse 10.\n— =Lenzi, Wittwe Magdalena, Part. St. Johann=Vorstadt 35.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9273,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3610,
+    "lines": 57,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 62.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:17:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p415",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p415.jpg",
+      "bytes": 1425827,
+      "sha256": "ba08645d0107ddd697fac0806b04d99122ab45d6d48e19736c7793ebfbcf05be",
+      "sha256_of": "original",
+      "working_copy": "1862_p415.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:17:30+00:00"
+  }
+}

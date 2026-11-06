@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p236",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p236.jpg",
+    "bytes": 1425123,
+    "sha256": "99b2e85dee1f1413c405fd09cfbe02a32b9281bb871e3bd7f6547d242eb3280c",
+    "sha256_of": "original",
+    "working_copy": "1862_p236.jpg"
+  },
+  "text": "Fabrikstr. Fischerweg. Freiburger-Straße. Gotterbarmweg. 171\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n33 | VII. | 86 G | | Stohler-Hofer, Adolf.\n  Stohler-Hofer, Adolf, Ferger.\n  Zeller-Liegy, Friedr., Kunstmaler.\n35 | VII. | 86 H | | Gubler-Langmeyer, Jacob.\n  Gubler-Langmeyer, Jacob, Blattmacher.\n  Albäck-Schwab, F. Heinr., Kaufmann.\n37 | VII. | 86 J | | Gundrum-Degen, Michael.\n39 | VII. | 86 K | | Gundrum-Degen, Michael.\n41 | VII. | 86 L | | Gundrum-Degen, Michael.\n58 | VII. | 84 A | | Müller-Pack, Joh. Jac.\n61 | VII. | | | Rohner-ImHof, Marcus.\n\nFischerweg.\n\n2 | VIII. | 49 A | | Wullschleger-Hagist, Gottfried.\n  Wullschleger-Hagist, Gottfr., Blattmach.\n  Hagist, Joh. Jac., Lehenbeständer.\n9 | VIII. | 52 | | Schäffer-Euler, August.\n11 | VIII. | 52 C | | Burckhardt-Bernet, Daniel.\n\nFreiburger-Straße.\n\n1 | VII. | 63 A | | Isler, Joh. Rudolf, Blattmacher.\n2 | VII. | 62 A | Landjägerposten. | Eidgenossenschaft.\n  | | | Zollanmeldungs- | Bolliger, Friedrich, Landjäger.\n  | | | gebäude. | Haegi, Johann, \"\n3 | VII. | 63 | | Socin-Streif, Peter.\n  Socin-Streif, Peter, Wirth.\n\nGotterbarmweg.\n\n10 | VIII. | | Bahnwarthäuschen. | Großh. bad. Eisenbahnverwaltung.\n15 | VIII. | 86 | | Schäfer-Jörin, Jacob.\n  Schäfer-Jörin, Jac., Stuhlschreiner.\n  Gernhardt, Adolf, Gärtner.\n20 | VIII. | 87 | | Vonder Mühll-Vischer, Friedr.\n  Bürkli-Alt, Wb. Cath., Part.\n\nGreifengasse.\n\n1 | VII. | 378 | zum Waldeck. | Schlueb-Otto, Philipp.\n  Schlueb-Otto, Philipp, Wirth.\n  Calame, A. Ludw., Bauinspektor.\n  Jahn, Carl Gustav, Agent.\n  Nordmann-Dietesheim, Elie, Kfm.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7814,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1626,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:00:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p236",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p236.jpg",
+      "bytes": 1425123,
+      "sha256": "99b2e85dee1f1413c405fd09cfbe02a32b9281bb871e3bd7f6547d242eb3280c",
+      "sha256_of": "original",
+      "working_copy": "1862_p236.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:00:55+00:00"
+  }
+}

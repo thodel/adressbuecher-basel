@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p159",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p159.jpg",
+    "bytes": 1334574,
+    "sha256": "caaa0cdfe2e94dc37b6e3010750a20b5f2033e4477ce7bc9cc8e46cc87a0c7a2",
+    "sha256_of": "original",
+    "working_copy": "1862_p159.jpg"
+  },
+  "text": "94 | Mittlere Straße. — Mostackerstraße.\n\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n28 | I. | 44 | | Weitnauer-Hoffmann, Wb. Marg.\n30 | I. | 45 u. 45 A | | Weitnauer-Hoffmann, Wb. Marg.\n  | | | | Weitnauer-Hoffmann, Wb. Marg., Rent.\n  | | | | Hoffmann-Nestel, Rud., Polizeihauptm.\n32 | I. | 46 | | Caumont-Humbert, Louis Friedr.\n33 | I. | 85 A | | Trüb, Johannes.\n  | | | | Trüb, Johannes, Gärtner.\n  | | | | Trüb-Nußbaumer, Wb. Anna Maria,\n  | | | | Handelsgärtnerinn.\n  | | | | Trüb-Grether, Wb. Bern. Kunig., Gärtn.\n34 | I. | 46 b | | Caumont-Humbert, Friedr. Louis.\n  | | | | Caumont-Humbert, Friedr. L., Lehrer.\n35 | I. | 84 c | | Uehlinger-Bulacher, Joh. Jakob.\n36 | I. | 47 A | | Hagenbach-Merian, Friedrich.\n37 | I. | 83 D | | Uehlinger-Bulacher, Joh. Jakob.\n  | | | | Singeisen-Buser, Jacob, Postfactor.\n38 | I. | 47 | | Hagenbach-Merian, Friedrich.\n40 | I. | 48 A | | Bürgin-Rudin, Joh. Jac.\n  | | | | Bürgin-Rudin, Joh. Jac., Bäcker und\n  | | | | Bannwart.\n  | | | | Grell, Mathias, Graveur.\n42 | I. | 48 | | Bürgin-Rudin, Joh. Jac.\n44 | I. | 49 | | Möcklin, Heinrich, u. Sebastian.\n  | | | | Möcklin, Sebastian, Gärtner.\n  | | | | Möcklin-May, Heinrich, Gärtner.\n  | | | | Meyer, Georg, Stadtbote.\n46 | I. | 50 a | | Brüderlin-Schmied, Wb. Ursula.\n50 | I. | 61 | | Merian-Frischmann, Rud.\n51 | I. | 68 | | Dreyfuß, Isaac, Söhne.\n  | | | | Mezger, Balthasar, Lehenmann.\n52 | I. | 62 a | Rebhäuslein. | Merian-Frischmann, Rud.\n53 | I. | 68 A | | Dreyfuß, Isaac, Söhne.\n56 | I. | 63 | | Merian-Frischmann, Rud.\n  | | | | Vogt-Gottentieni, Joh., Lehenbeständer.\n58 | I. | 63 a | | Merian-Frischmann, Rud.\n63 | I. | 70 | | Gaß-Eglin, Christian.\n  | | | | Gaß-Eglin, Christian, Zimmermeister.\n77 | I. | 67 | | Meister, Heinrich.\n  | | | | Liechti-Neuschwander, Ulr., Lehenbest.\n  | I. | 65 | | Schaub-Schaub, Jacob.\n82 | | | | Schaub-Schaub, Jacob, Gutsbesitzer.\n86 | I. | 66 | zum alten Rotischen Gut. | Spitalpflegamt.\n  | | | | Dettwyler-Gerber, Martin, Lehenmann.\n\nMostackerstraße.\n17 | III. | 152 A b | | Plattner-Hosch, Jakob.\n18 | III. | 152 | | Gürtler, Gebr. Friedr. u. Heinrich.\n  | | | | Gürtler-Wertenberg, Fridol., Schreiner.\n  | | | | Gürtler, Heinrich, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9658,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2248,
+    "lines": 50,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:49:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p159",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p159.jpg",
+      "bytes": 1334574,
+      "sha256": "caaa0cdfe2e94dc37b6e3010750a20b5f2033e4477ce7bc9cc8e46cc87a0c7a2",
+      "sha256_of": "original",
+      "working_copy": "1862_p159.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:49:29+00:00"
+  }
+}

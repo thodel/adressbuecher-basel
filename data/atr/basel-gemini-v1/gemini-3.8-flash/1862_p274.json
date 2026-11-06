@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p274",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p274.jpg",
+    "bytes": 1472631,
+    "sha256": "48f5b77c65030ad67e7490b3074b7e494b95958f0045fbd27ce209c9ef5b0df0",
+    "sha256_of": "original",
+    "working_copy": "1862_p274.jpg"
+  },
+  "text": "Webergasse. | 209\nNeue Haus-Nr. | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n14 | VII. | 344 | zum Papagay. | Bienz, Rudolf.\n15 | VII. | 341 | zur Schmelze. | Urech-Frey, David.\n  Urech-Frey David, Spezierer.\n  Schuler-Dünner, Adam, Weißgerber.\n  Bucher-Morel, Joh., Kunstmaler und\n    Photograph.\n  Wenk-Schuler, Wb. Sophia, Kleinkinder-\n    schule.\n16 | VII. | 345 | | Niedrist-Weber, Joh. Sebastian.\n  Niedrist-Weber, Joh. Sebastian, Me-\n    chain ker und Wirth.\n17 | VII. | 342 | Höllmühle. | Merian, Joh. Jakob.\n  Meria n, Joh. Jakob, Particular.\n18 | VII. | 346 | | Bischoff-Weber, Joh. Const.\n19 | VII. | 301 | | Nabholz-Stucky, Jakob Ludw.\n  Nabholz-Stucky, Jak. Ludw., Wirth u.\n    Senffabrikant.\n20 | VII. | 297 | | Schilling-Roth, Wb. A. Barbara.\n  Schilling, Emanuel Rudolf, Commis.\n21 | VII. | 300 | Kammradmühle. | Bischoff-Weber, Joh. Constant.\n  Bischoff = Weber, Johan. Constantin,\n    Müller.\n22 | VII. | 296 | | Schuhmacher-Merker, Gottl. Friedr.\n  Schuhmacher-Merker, Gottlob Friedrich,\n    Schuhmacher.\n23 | VII. | 299 | zur Sonne. | Mosemann-Hüser, Joh. Heinrich.\n  Mosemann-Hüser, Joh. Heinrich, Seiden-\n    färbergeselle.\n24 | VII. | 295 | | Buri, Lorenz.\n25 | VII. | 294 | zum Rebstock. | Lotz, Friedrich.\n  Grunauer, Friedr. Melchior, Commis.\n26 | VII. | 292 | z. untern Schwert. | Schelling-Schaffner, Caspar.\n  Schelling-Schaffner, Caspar, Bäcker.\n27 | VII. | 293 | zum Jagdberg. | Rohner-Imhof, Joh. Markus.\n  Rohner-Imhof, Johan. Markus, Wein-\n    handlung.\n28 | VII. | 291 | z. obern Schwert. | Niggli-Brugger, Wilhelm.\n  Niggli-Brugger, Wilhelm, Bäcker.\n  Nußbaumer-Büchler, Fridolin, Schrein.\n29 | VII. | 290 | z. neuen Nirgau. | Hindermann, Joh. Jakob, Wagner.\n  Hindermann, Joh. Jakob, Wagner.\n  Mast, Wilhelmine, Modiste.\n30 | VII. | 288 | | Masarey, Franz, Sohn.\n31 | VII. | 289 | | Senn, Jungfr. Susette, Wascherin.\n32 | VII. | 287 | | Dettwiler, Achilles.\n  Ott-Ladner, Jakob, Commis.\n  Scherb-Kleinpeter, Friedrich, Spengler.\n33 | VII. | 286 | | Thoma-Müller, Bonifaz.\n  Thoma-Müller, Bonifaz, Lohnwascher.\n14",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8774,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2095,
+    "lines": 52,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:06:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p274",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p274.jpg",
+      "bytes": 1472631,
+      "sha256": "48f5b77c65030ad67e7490b3074b7e494b95958f0045fbd27ce209c9ef5b0df0",
+      "sha256_of": "original",
+      "working_copy": "1862_p274.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:06:41+00:00"
+  }
+}

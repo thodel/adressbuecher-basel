@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p425",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p425.jpg",
+    "bytes": 1455296,
+    "sha256": "0023f2bf3a1c770539266b12e8e1bd49d65cc2023a5ff6925b40e1de8948f1c8",
+    "sha256_of": "original",
+    "working_copy": "1862_p425.jpg"
+  },
+  "text": "360\nVerzeichniß der Bürger und Einwohner.\nWieland=Gemuseus, Emil, Rentier. Aeschengraben 7.\n— Heinr., eidgen. Oberstlieut. Aeschen-vorstadt 6.\n— Sgfr. Emilie, Part. Aeschenvorstadt 6.\n— *Landerer, Wb. Auguste, Part. Aeschen-vorstadt 6.\n— *Rottmann, Carl, Part. Nauenstraße 26.\n— =Schmalzer, Eman., Part. Spalenvorstadt 45.\n— *Schmidt, Emanuel, Copist. Spalenberg 46.\nWierz=Handschin, Friedrich, Hausknecht. St. Elisabethen-Straße 47.\nWiese, Georg, Kaufmann. Freie Straße 54.\nWiefendanger=Bayer, Dessinateur. Klosterberg 23.\n— =Frid, Ulrich, Posamenter. Imbergäßlein 26.\n— =Hägler, J. J., Friedr., Feger. Gerbergäßlein 16.\n— =Häyh, Wb. Sophia, Schneiderin. Gerbergäßlein 16.\n— *Meisterhans, Heinr., Arbeiter. Spalenvorstadt 35.\n— =Peter, Adam, Schuhmacher. St. Elisabethen-Straße 25.\nWiesner=Frey, Jak., Posamenter. Herrenmattweg 22.\n— Heinr., Posamenter. St. Clara-Straße 4.\n— =Knecht, Joh. Heinr., Condukteur. Reb-gasse 24.\n— =Lang, Caspar Georg, Fabrikarbeiter. Blatzgäßlein 5.\n— *Martin, Heinr., Posamenter. Steinenthorstraße 38.\n— =Maurer, Philipp, Steindruckergehilfe. Weiße Gasse 14.\n— =Müller, Samuel, Schuhmacher. Gernsberg 8.\n— =Mundwiler, J. Gottl., Posamenter. Kronengasse 7.\n— =Schaad, Daniel, Posamenter. Gerbergäßlein 34.\n— =Schmidt, Heinr., Fabrikausseher. Spitalstraße 28.\n— *Schwarz, Heinr., Buchbinder. Miinzgäßlein 18.\n— =Schweizer, Johs., Posamenter. In der Breite 31.\n— *Stöcklin, Christ., Feger. St. Clara-Straße 35.\n— *Thommen, Emanuel, Maler. Hammerstraße 48.\n— =Uhlmann, Johs., Appretueur. St. Johann-Vorstadt 52.\n— *Weibel, Joh. Jak., Posamenter. Gellertstraße 48.\nWiesler=Bögt, Franz, Cigarrenhändler. Greifengasse 4.\nWild=Becker, Sam., Lokomotivführer. Aeschen-vorstadt 71.\n— J., Commissionair. Sporengasse 2.\n— Johann, Kaufmann. Eisengasse 26.\n— Josua, Rentier. Gerbergässlein 18.\n— =Kammel, Jak., Spengler. Blumenrain 20.\n— =Von der Crone, Heinr., Associé der Färberei Häring. St. Clara-Straße 29.\nWildi, Geschw., Fabrikarbeiter. Nauenstraße 13.\n— =Kaufmann, Friedr., Lehrer. Hammerstraße 57.\nWildpret=Risterer, Ferd., Bergolder. Gerbergasse 21.\nWilhelm=Zailet, Joh. Christ., Detailiant. Schneidergasse 32.\n— =Rauch, Ad., Werkführer. Klimelinbachweg 10.\n— =Reutter, Sam., Schreiner. Klosterberg 4.\nWilli=Herzog, Urs Eusebius, Abwart im Laboratorium d. obrigkeitlichen Chemikers. Binninger Straße 12.\nWillin, Johs., Gärtner. Lehennattweg 32.\n— =Kern, Wb. Anna Elis., Part. Rheingasse 18.\nWimmer=Albrecht, Johann, Part. Aeschen-graben 5.\nWinkler=Bercher, Johs., Handelsdiener. Greifengasse 25.\n— Blasius, Fabrikarbeiter. Rappoltshof 21.\n— =Kühni, Jak., Müller u. Spezierer. St. Johann-Vorstadt 18.\n— =Raifer, Casimir, Taglöhner. Rappoltshof 18.\n— =Merz, Th., Magazinarbeiter. Klosterberg 27.\n— =Wettauer, Wb. Elis., Part. Rheingasse 76.\n— =Müller, Joh. Jak., Rutscher. Reb-gasse 23.\n— =Schaffner, Joh., Schiffmann. Rheingasse 58.\n— =Bettter, Blasius, Taglöhner. Rappoltshof 18.\n— Wb. Elisab., Schiffmanns. Rheingasse 68.\nWiniger, Cath., Nätherin. Greifengasse 29.\nWinizki=Meyer, Const., Buchhalter. Gerbergasse 74.\nWinter=Rächer, Friedr., Part. Fabrikstraße 31.\nWinteregg=Hilti, Joh., Verwalter. Holeeweg 13.\nWinterhalder=Säger, Blasius, Maurer. Ster-nengäßlein 4.\nWinterle, Anton, Kunstmaler. Klingelbergstraße 17.\nWintsch=Brudermann, Wilh., Windermester. Sternengäßlein 9.\n— Gottfried, Commis. Untere Rheingasse 2.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8667,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3355,
+    "lines": 69,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:19:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p425",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p425.jpg",
+      "bytes": 1455296,
+      "sha256": "0023f2bf3a1c770539266b12e8e1bd49d65cc2023a5ff6925b40e1de8948f1c8",
+      "sha256_of": "original",
+      "working_copy": "1862_p425.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:19:01+00:00"
+  }
+}

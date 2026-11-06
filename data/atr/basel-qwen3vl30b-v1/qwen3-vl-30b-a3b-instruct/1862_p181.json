@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p181",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p181.jpg",
+    "bytes": 1266371,
+    "sha256": "a39e332c6842c01828d99dbfeb6cb4007cd08572cfd40bcf8763e93014192e86",
+    "sha256_of": "original",
+    "working_copy": "1862_p181.jpg"
+  },
+  "text": "116 Theinsprung. — Ringgäßlein. — Nittergasse.\nMene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n10 VI. 1503 ……………… Zeinler-Schöchli, Maria.\nZeinler-Schöchli, Maria, Part.\nStaat.\n12 VI. 1499 Pfarrhaus. Siehe Nr. 3 Martinskirchplaz.\n14 VI. 1502 zum Brauer. DeBary, Johannes u. Söhne.\nAich, Joh. Carl, Commis.\n16 VI. 1509 Reichensteinerhof. Bijcher-Merian, Carl u. Bijcher-\nBurchhardt, Peter.\nComptoir v. Hans Franz Sarasin, Band-\nfabrik. Siehe Nr. 1 Martinsgasse.\nStaat.\n17 VI. 1487 Schreerwohnung. Sek-Burchhardt, J. Wahrn., Lehr.S.M.C.\n18 VI. 1510 Wendelsdörferhof. Bachofen u. Sohn, Joh. Jakob.\nBachofen-Burchhardt, Carl Bandfabr.\nFirma J. J. Bachofen u. Sohn.\n19 VI. 1486 zur Hölle. Bischoff-Fürstenberger, August.\nKaufmann u. Liijcher, Agenturbureau.\n20 VI. 1511 zur Augenweide. Bischoff-Burchhardt, Wilh.\nBischoff-Burchhardt, Wilh., Bandfabr.\nBischoff, Carl de Joh., Rentier.\n21 VI. 1485 ……………… Bischoff-Fürstenberger, August.\nBischoff-Fürstenberger, Aug., Bandfabr.\n22 VI. 1512 zur kleinen Augen-\nweide. Paffavant-Bachofen, Emanuel.\nPaffavant u. Comp., Banquier.\nMaurer, Andreas, Commis.\n24 VI. 1513 ……………… Bischoff-Burkorf, Wb. Adeline.\nBischoff-Burkorf, Wb. Adeline, Part.\nGebrüder Bischoff, Bandfabrikanten.\nBischoff, Gustav.\nBischoff, Johannes.\nRinggäßlein.\n2 IV. 1185—86 zum Pallast. Schultheß-Schneider, Wilh. Ernst\nLudwig.\nSiehe Freie Straße Nr. 54.\n3 IV. 1111 ……………… Brüder societät.\nVersammlungslokal.\nS.ehe Streitgasse Nr. 19.\n4 IV. 1187 zum innern Pallast. Brüder societät.\n5 IV. 1110 zum Nebstof. Graf-Streicher, Joh. Jak.\nSiehe Streitgasse Nr. 20.\nNittergasse.\n1 V. 1371 Mädchenschule. Stadtgemeinde.\nTobler-Sengenbach, Eduard, Lehrer.\nSengenbach-Dieg, Wb. Elis., Part.\n2 V. 1373 Schönauerhof. Staat. Hilfschullokalien.\n3 V. 1370 St. Ulrichs-Kirche ehemalige. Stadtgemeinde.\nMagazin v. Burchhardt u. BonderMühl.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5638,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1878,
+    "lines": 58,
+    "longest_char_run": 6,
+    "repeat_ratio": 0.0172,
+    "mean_line_chars": 31.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0032,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:45:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p181",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p181.jpg",
+      "bytes": 1266371,
+      "sha256": "a39e332c6842c01828d99dbfeb6cb4007cd08572cfd40bcf8763e93014192e86",
+      "sha256_of": "original",
+      "working_copy": "1862_p181.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:45:08+00:00"
+  }
+}

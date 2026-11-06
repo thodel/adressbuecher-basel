@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p274",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p274.jpg",
+    "bytes": 1472631,
+    "sha256": "48f5b77c65030ad67e7490b3074b7e494b95958f0045fbd27ce209c9ef5b0df0",
+    "sha256_of": "original",
+    "working_copy": "1862_p274.jpg"
+  },
+  "text": "Webergasse.\n209\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n14 VII. 344 zum Papagan. Bienz, Rudolf.\n15 VII. 341 zur Schmelze. Urech-Frey, David.\nUrech-Frey David, Spezierer.\nSchuler-Diinner, Adam, Weißgerber.\nBucher-Morel, Joh., Kunstmaler und\nPhotograph.\nWenk-Schuler, Wb. Sophia, Kleinkinder-\nschule.\n16 VII. 345 Niedrift-Weber, Joh. Sebastian.\nNiedrift-Weber, Joh. Sebastian, Me-\nchaniker und Wirth.\n17 VII. 342 Höllmühle. Merian, Joh. Jakob.\nMerian, Joh. Jakob, Particular.\n18 VII. 346 Bischoff-Weber, Joh. Conft.\n19 VII. 301 Rabholz-Stucky, Jakob Ludw.\nRabholz-Stucky, Jak. Ludw., Wirth u.\nSenffabrikant.\n20 VII. 297 Schilling-Roth, Wb. A. Barbara.\nSchilling, Emanuel Rudolf, Commis.\n21 VII. 300 Ramnradmühle. Bischoff-Weber, Joh. Constant.\nBischoff-Weber, Johan. Constantin,\nMiiller.\n22 VII. 296 Schuhmacher-Merker, Gottl. Friedr.\nSchuhmacher-Merker, Gottlob Friedrich,\nSchuhmacher.\n23 VII. 299 zur Sonne. Mosemann-Hüser, Joh. Heinrich.\nMosemann-Hüser, Joh. Heinrich, Seiden-\nfärbergeselle.\n24 VII. 295 Buri, Lorenz.\n25 VII. 294 zum Nebstöck. Voz, Friedrich.\nGrunauer, Friedr. Melchior, Commis.\n26 VII. 292 z. untern Schwert. Schelling-Schaffner, Caspar.\nSchelling-Schaffner, Caspar, Bäcker.\n27 VII. 293 zum Jagdberg. Kohner-Zimhof, Joh. Markus.\nKohner-Zimhof, Johan. Markus, Wein-\nhandlung.\n28 VII. 291 z. obern Schwert. Riggli-Brugger, Wilhelm.\nRiggli-Brugger, Wilhelm, Bäcker.\nKuxbaumer-Büchler, Fridolin, Schrein.\n29 VII. 290 z. neuen Kirgau. Hindermaun, Joh. Jakob, Wagner.\nHindermaun, Joh. Jakob, Wagner.\nMaßt, Wilhelmine, Modiste.\n30 VII. 288 Masarey, Franz, Sohn.\n31 VII. 289 Senn, Jungfr. Sufette, Wascherin.\n32 VII. 287 Dettwiler, Achilles.\nDtt-Ladner, Jakob, Commis.\nScherb-Kleinpeter, Friedrich, Spengler.\n33 VII. 286 Thoma-Müller, Bonifaz.\nThoma-Müller, Bonifaz, Lohnwäscher.\n14",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5603,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1851,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:54:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p274",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p274.jpg",
+      "bytes": 1472631,
+      "sha256": "48f5b77c65030ad67e7490b3074b7e494b95958f0045fbd27ce209c9ef5b0df0",
+      "sha256_of": "original",
+      "working_copy": "1862_p274.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:54:09+00:00"
+  }
+}

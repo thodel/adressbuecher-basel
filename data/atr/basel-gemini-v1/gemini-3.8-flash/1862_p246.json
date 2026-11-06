@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p246",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p246.jpg",
+    "bytes": 1431251,
+    "sha256": "efa8d4ccf1413b429a73db1dd474f7adfa6b259822bad6afd3dc3987316f0ebe",
+    "sha256_of": "original",
+    "working_copy": "1862_p246.jpg"
+  },
+  "text": "Klingenthal. — Klingenthalgraben. — Klingenthalstraße. 181\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nKlingenthal.\n1 | VII. | 302 | zur Drachenmühle. | Ryhiner u. Söhne.\n  Kuster-Rufli, Jos. Thom., Schreiner.\n2 | VII. | 303 | zur Roßlinmühle. | Grüninger-Beaudroi, Rudolf.\n  Grüninger-Beaudroi, Rud., Müller.\n3 | VII. | 311 a | hint. Klingenthal- mühle. | Minder-Zaeslin, Joh. Jak.\n4 | VII. | 303 B | | Grüninger-Beaudroi, Rudolf.\n5 | VII. | 311 | hint. Klingenthlal- mühle. | Minder-Zaeslin, Joh. Jak.\n  Scherb-Hoeni, Jak. Hch., Schneider.\n6 | VII. | 303 b | | Grüninger-Beaudroi, Rudolf.\n7 | VII. | 313 | vord. Klingenthal- mühle. | Minder-Zaeslin, Joh. Jak.\n  Minder-Zaeslin, Joh. Jak., Stadtrath.\n8 | VII. | 304 | | Grüninger-Beaudroi, Rudolf.\n10 | VII. | 305 | | Kruse-Gamper, Wb. Margaretha.\n  Kruse-Gamper, Wb. Marg., Glätterin.\n11 | VII. | 318 | | Minder-Merian, Samuel.\n  Minder-Merian, Sam., Part.\n12 | VII. | 306 | | Kruse-Gamper, Wb. Margaretha.\n13 | VII. | 317 | Pfarrwohnung. | Staat.\n  Schaffner-Faesch, Martin, Pfarrer.\n14 | VII. | 307 | | Rohner-ImHof, Joh. Marcus.\n15 | VII. | 316 | | Staat. Holzhaus.\n16 | VII. | 308 | | Staat. Holzschopf.\n17 | VII. | 314—315 | | Minder-Zaeslin, Joh. Jak.\n18 | VII. | 308 A | | Sider-Müller, V.\n  Piaud-Seiler, Joh. Bapt., Dessinateur.\n  Hindenlang-Seiler, Friedr., Commis.\n19 | VII. | 312 | klein Klingenthal. | Stadtgemeinde.\n  Chirot-Jurt, Andreas, Landwirth.\n  Wagner-Sutter, Adam, Bauführer.\n  Gamper, Caspar, Abwart.\n20 | | | |\n22 | VII. | 309-309A | Bannwartshaus. | Sider-Müller, Victor.\n  Sider-Müller, Victor, Appreteur.\n21 | VII. | 310 K | Spritzenhaus. | Stadtgemeinde.\n23 | VII. | 310 | Klingenthalkirche. | Staat.\n\nKlingenthalgraben.\n2 | VII. | 1 d | | Ostermann-Schneider, Johann.\n\nKlingenthalstraße.\n17 | VII. | 85 | | Vischer-Merian, Carl, und Vischer- Burckhardt, Peter.\n37 | VII. | 82 D | z. froh. Hoffnung. | Baumann-Keller, Melchior.\n  Baumann-Keller, Melchior, Bäcker u. Wirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8789,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2017,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:02:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p246",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p246.jpg",
+      "bytes": 1431251,
+      "sha256": "efa8d4ccf1413b429a73db1dd474f7adfa6b259822bad6afd3dc3987316f0ebe",
+      "sha256_of": "original",
+      "working_copy": "1862_p246.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:36+00:00"
+  }
+}

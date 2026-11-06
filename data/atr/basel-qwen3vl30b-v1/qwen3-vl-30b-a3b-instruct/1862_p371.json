@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p371",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p371.jpg",
+    "bytes": 1403417,
+    "sha256": "c85c47af7909a765fd69274a155e6a06d98eb012433e1e36d7e1bf11ca5decd6",
+    "sha256_of": "original",
+    "working_copy": "1862_p371.jpg"
+  },
+  "text": "306\nVerzeichniß der Bürger und Einwohner.\nKraher=Kok, Leonhard Friedr., Kiifer. Spalen-\nberg 4.\n— =Ramsperger, Emanl., Kaufmann. Kauf-\nhausgasse 1.\n— =Koth, Saml., Zollbeamter. Todten-\ntanz 7.\n— Sara, Glätterin. Münsterberg 14.\nKrebs=Bleile, Samuel, Fabrikarbeiter. Ger-\nbergässlein 14.\n— =Etienne, Johs., Magazinier. Riehen-\nthorstraße 21.\n— Köhler, Hein., Klavierstimmer. Freie\nStraße 95.\n— =Mangold, Franz, Schriftsetzer. Weiße\nGasse 14.\n— =Salathé, Joh. Nicl., Feger. Riehen-\nthorstraße 21.\n— Stelzer, Hilarius, Maler. Schützengra-\nben 2.\n— =Tschopp, Gottlieb, Eisengießer. St.\nMartins=Gäßlein 3.\nKreis, Joh. Jak., Schreinermeister. St. Pe-\nters=Platz 15.\n— =Tschumi, Conrad, Posamenter. St.\nPeters=Bergh 32.\nKreß=Hasler, Heinrich, Seidenfärberegeselle.\nWebergasse 29.\n— =Zucker, Daniel, Seidenfärberegeselle.\nKlybeästrasse 17.\nKreß=Schmidlin, Burkard, Möbel- u. Bett-\nwaarenhandlung. Sattelgasse 7.\nKreutner, Catharina, Weißnäherin. Linden-\nberg 11.\nKreysenbühl, Serena, Zettlerin. Rhein-\ngasse 40.\nKrieg=Salmer, J. J., Straßenpflasterer. Schaf-\ngässlein 2.\nKröpflin, Peter, Centralbahnangest. Nauen-\nstraße 13.\nKromer, Emanl., Metzger. Rebgasse 9.\n— =Frey, David, Siegrift zu St. Martin\nund Waibel des Chegerichts. St. Mar-\ntinskirchplatz 2.\n— Johann Peter, Schuhmacher. Sattel-\ngasse 15.\n— =Rübler, Wb. Susanna. Spezereihndlg.\nGerbergasse 79.\n— Maria Catharina, Glätterin. Weber-\ngasse 26.\n— =Niederhauser, Johann Christof, Wirth.\nBarflikerplatz 11.\nKronenberg, Luzia, Taglöhnerin. Riehen-\nteichweg 16.\nKronenberger, Maria Josepha, Wascherin.\nSt. Leonhards=Stapfelberg 1.\nKriicker=Dopler, Johann, Wagner. Reb-\ngasse 13.\nKriiß, Christian, Buchdrucker. Weiße Gasse 19.\nKrug=Bader, Wilhelm, Hutmacher. Eisen-\ngasse 36.\nKrug=Horner, Hieronimus, Alt=Wachtmeister.\nAeischenvorstadt 64.\n— Marx, Buchbinder, Gerbergasse 60.\n— =Meyer, Joh., Staatsarchivar. Markt-\nplatz 1.\nKrummenacher=Terf, Anton, Lehennann. Mis-\nsionsstraße 66.\nKruze=Gamper, Wb. Margar., Glätterin. Klein-\ngenthal 10.\n— Salathe, F., Spezierer. Imbergäss-\nlein 1.\nKübler=Kray, Wb. Cathar. Untere Rhein-\ngasse 2.\n— Rudolf, Zimmermann. Weiße Gasse 10.\n— Uebelin, Wb. Carolina, Part. Steinen-\nthorstraße 16.\n— =Walser, Rudolf, Schuhmacher. Stei-\nnenvorstadt 27.\nKühn=Grandjean, J. J., Schuhmacher und\nWeinsticher. Aeischenvorstadt 38.\n— Maria, Part. Gerbergasse 37.\nKühner=Aberle, G. Bernhard, Schuhmacher.\nRheingasse 18.\nKümmi=Grollimund, Joh., Holzhacker. Hut-\ngasse 11.\nKüindig, August, J. U. D., Notar. St. Leon-\nhards=Graben 3.\n— =Balmer, Johann, Dreher. Kirchgasse 5.\n— =Fisch, Andreas, Kiifer. Spalenthor-\nweg 32.\n— Heinrich, Buchbinder. Streitgasse 3.\n— =Holinger, Carl, Band u. Modewaaren-\nhandlung. Eisengasse 11.\n— =Jaifer, Philipp, Maler. Missions-\nstraße 61.\n— Rudolf, Tapezierer. Aeischenvorstadt 60.\n— Stämpfli, Wb. Johanna, Part. St.\nPeters=Bergh 22.\n— =Stiickelberger, Eucharius, Pfarrer. St.\nLeonhards=Graben 63.\n— =Sutter, Wb. Elisabeth, Schneiderin.\nTrillengässlein 5.\n— =VonSpeyr, August Theodor, Dr. Phil.,\nChemiker. Bäumleingasse 5.\nKlinzi=Gögel, Wb. Cathar., Part. Neue\nVorstadt 22.\n— =Kok, Friedrich, Commis. Neue Vor-\nstadt 22.\nKlinzlin=Lehmann, Joh. Heinrich, Eisenbahnar-\nbeiter. Mattweg 4.\n— =Lüthner, Wb. Franziska, Kostgeberin.\nRheingasse 23.\nKlüpfer=Mähh, Heinrich, Schreiber. Rhein-\ngasse 34.\nKürner=Mundwiler, Wb. Anna Maria, Kup-\nferschmied. Kronengasse 16.\nKürsteiner=Berri, Wb. Apollonia, Partiful.\nNadelberg 18.\nKüsstler=Knorr, J. J., Schuhmacher. Hut-\ngasse 4.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9278,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3463,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0082,
+    "mean_line_chars": 27.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:10:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p371",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p371.jpg",
+      "bytes": 1403417,
+      "sha256": "c85c47af7909a765fd69274a155e6a06d98eb012433e1e36d7e1bf11ca5decd6",
+      "sha256_of": "original",
+      "working_copy": "1862_p371.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:10:41+00:00"
+  }
+}

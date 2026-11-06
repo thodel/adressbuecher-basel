@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p285",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p285.jpg",
+    "bytes": 1485971,
+    "sha256": "903e05c8fb962ae09fb150a8326a3a3b3b4d23143ed2fa5586e6e70c2bb4e239",
+    "sha256_of": "original",
+    "working_copy": "1862_p285.jpg"
+  },
+  "text": "220 Verzeichniß der Häuser nach ihren Benennungen.\n\nPilger, z. Gerbergasse Nr. 8.\nPilger, z. Eisengasse Nr. 8.\nPilger, z. Eisengasse Nr. 10.\nPilgerstab, z. Eisengasse Nr. 25.\nPlatte, z. Nadelberg Nr. 24.\nPolizeiposten. St. Petersgraben Nr. 42.\nPolizeiposten. St. Claraplatz Nr. 4.\nPolizeiposten. Unterer Rheinweg Nr. 20.\nPolizeiposten. Eisengasse Nr. 1.\nPomeranzenbaum, z. Steinenvorstadt Nr. 24.\nPompiermagazin, großes. Schneidergasse Nr. 2.\nPost. Freie Straße Nr. 12.\nPost, Gasthof z. Gerbergasse Nr. 16.\nPost, Hinterhaus, Gasthof z. Münzgäßlein\n  Nr. 13.\nPostgebäude, hinteres. Gerbergasse Nr. 15.\nPräsenzerhof. Bäumleingasse Nr. 3.\nProfosenwohnung. Neue Vorstadt Nr. 31.\nProvisorei. St. Peterskirchplatz Nr. 5.\nPruntrut, z. Gerbergasse Nr. 73.\nQuartier, z. neuen. Spitalstraße Nr. 13.\nQuartier, z. neuen. Heumattstraße Nr. 14.\n\nRaben, z. Aeschenvorstadt Nr. 15.\nRad, z. gelben. Aeschenvorstadt Nr. 56.\nRad, z. goldenen od. Schafschmiede. Rebgasse\n  Nr. 10.\nRad, z. halben. Spalenberg Nr. 26.\nRad, z. schwarzen. Steinenvorstadt Nr. 6.\nRad, z. schwarzen. Schwanengasse Nr. 8.\nRad, z. schwarzen. Untere Rheingasse Nr. 6.\nRäpplein, z. Marktplatz Nr. 9.\nRäpplein, z. Hutgasse Nr. 4.\nRahmenhaus, großes u. kleines. Theater-\n  straße Nr. 17.\nRamspach, z. Gerbergäßlein Nr. 4.\nRamsteinerhof, großer. Rittergasse Nr. 17.\nRamsteinerhof, d. vord. Rittergasse Nr. 22. 24.\nRank, z. Grenzacherstraße Nr. 91.\nRank, z. Grenzacherstraße Nr. 100.\nRankhof, z. Grenzacherstraße Nr. 111.\nRankhof, z. Grenzacherstraße 113.\nRappenfels, z. Augustinergasse Nr. 7.\nRappoltshof, St. z. Rappoltshof Nr. 9.\nRappoltshof, z. Rappoltshof Nr. 3.\nRappoltshofeck. Untere Rebgasse Nr. 12.\nRathhaus. Marktplatz Nr. 1.\nRebeneck, z. Schanzenstraße Nr. 19.\nRebeneck, z. Grenzacherstraße Nr. 100.\nRebhaus. Riehenthorstraße Nr. 11.\nRebhäusli. Im Davidsboden Nr. 2.\nRebleuten, Zunft z. Freie Straße Nr. 50.\nRebscheuer. St. Elisabethenstraße Nr. 17.\nRebstock, z. Aeschenvorstadt Nr. 71.\nRebstock, z. Ringgäßlein Nr. 5.\nRebstock, z. Sporengasse Nr. 13.\nRebstock, z. Rappoltshof Nr. 19.\nRebstock, z. Webergasse Nr. 25.\nRebstock, z. alten. Sattelgasse Nr. 11.\nRechberg, z. Blumenrain Nr. 27.\n[spalte 2]\nRechberg, z. St. Petersberg Nr. 4.\nRechberg. Schneidergasse Nr. 33.\nRechen, z. Sattelgasse Nr. 3.\nRechtberg, z. Fischmarkt Nr. 14.\nRedersdorf. Spalenvorstadt Nr. 36.\nRegenbogen, z. Sattelgasse Nr. 5.\nRegenbogen, z. Eisengasse Nr. 12.\nRehstein, z. Eisengasse Nr. 38.\nReichensteinerhof. Rheinsprung Nr. 16.\nReichensteinerhof, z. St. Martinsgasse Nr. 1.\nReinach, z. obern. St Leonhardsstapfelberg\n  Nr. 3.\nReinacherhof. Münsterplatz Nr. 18.\nReinacherhof. Spitalstraße Nr. 2.\nReinacherhof, z. Augustinergasse Nr. 8.\nReinacherhof, z. Augustinergasse Nr. 6.\nReischacherhof. Münsterplatz Nr. 16.\nReuschenberg, z. Freie Straße Nr. 42.\nRheinacherhof. St. Johann-Vorstadt Nr. 3.\nRheinburg, z. alten. Klybeckstraße Nr. 107.\nRheineck, z. Eisengasse Nr. 3.\nRheinfähre, z. untern. Unterer Rheinweg Nr. 32.\nRheinhaldenhof. Rittergasse Nr. 19.\nRheinhof, z. St. Alban-Vorstadt Nr. 25.\nRheinlust z. Oberer Rheinweg Nr. 92.\nRichtbrunnen, z. Gerbergäßlein Nr. 24.\nRichtbrunnen, z. Gerbergäßlein Nr. 28.\nRiedschnepf, z. Aeschenvorstadt. Nr. 60.\nRiedy, z. St. Alban-Graben Nr. 18.\nRiehenthor. Riehenthorstraße Nr. 32.\nRiesen, z. Fischmarkt Nr. 3.\nRiesenhof, z. Lindenberg Nr. 7.\nRindsfuß, z. Hutgasse Nr. 21.\nRing, z. blauen. Barfüßerplatz Nr. 22.\nRing, z. goldenen. St. Petersgasse Nr. 11.\nRing, z. goldenen. Fischmarkt Nr. 9.\nRing, z. grünen. Freie Straße Nr. 56.\nRing, z. kleinen grünen. Streitgasse Nr. 10.\nRing, z. obern weißen. Spalenberg Nr. 45.\nRingelhof, (Arbeiter-Kosthaus.) St. Peters-\n  gasse Nr. 28.\nRinslein, z. kleinen. Marktplatz Nr. 15.\nRitter, z. Gerbergasse Nr. 44.\nRitter, z. schwarzen. Unterer Heuberg Nr. 2. 4.\nRitterhof. Rittergasse Nr. 29.\nRockenburg, z. St. Alban-Vorstadt Nr. 34.\nRölinseck, z. Aeschenvorstadt Nr. 30.\nRößlein, z. Eisengasse Nr. 18.\nRößlein, z. rothen. Kronengäßlein Nr. 9.\nRößlein, z. weißen. Kronengäßlein Nr. 11.\nRößlein, z. weißen. Rheingasse Nr. 5.\nRößlein, z. weißen. Lohnhofgäßlein Nr. 4.\nRößli, z. weißen. Spalenvorstadt Nr. 37.\nRößlinmühle, z. Klingenthal Nr. 2.\nRoggenburg, z. Rheingasse Nr. 27.\nRoggenburg, z. Utengasse Nr. 26.\nRohrhäuslein. Schützenmattstraße Nr. 52.\nRollerhof. Münsterplatz Nr. 20.\nRollerhof, hinterer. Augustinergasse Nr. 4.\nRose, z. Aeschenvorstadt Nr. 36.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 15290,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4368,
+    "lines": 121,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.01,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:09:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p285",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p285.jpg",
+      "bytes": 1485971,
+      "sha256": "903e05c8fb962ae09fb150a8326a3a3b3b4d23143ed2fa5586e6e70c2bb4e239",
+      "sha256_of": "original",
+      "working_copy": "1862_p285.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:09:26+00:00"
+  }
+}

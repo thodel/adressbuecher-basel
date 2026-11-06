@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p282",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p282.jpg",
+    "bytes": 1655063,
+    "sha256": "96d1dad35ef8eec38c56373fbf3582d020af56e16dabf0bad2a76445ab38eefb",
+    "sha256_of": "original",
+    "working_copy": "1862_p282.jpg"
+  },
+  "text": "Verzeichniß der Häuser nach ihren Benennungen. 217\n\nKnabenschulhaus, ehemaliges, Zeichnungs- u.\n  Modellirschule. Steinenberg Nr. 6.\nKnopf, z. goldenen. Gerbergasse Nr. 74.\nKnopf, z. rothen. Nadelberg Nr. 49.\nKönigen, zu d. drei. Blumenrain Nr. 8.\nKönigen, Café zu d. drei. Blumenrain Nr. 12.\nKönigsberg, z. Gerbergäßlein Nr. 22.\nKönigiches Haus. St. Alban-Thal Nr. 16.\nKörblein, z. Aeschenvorstadt Nr. 6.\nKohler, z. St. Petersberg Nr. 38.\nKohlerhof. St. Petersgraben Nr. 9.\nKohlerhof. St. Petersgasse Nr. 28.\nKohlerhof. St. Petersgasse Nr. 30.\nKohlerhof, z. vordern. St. Petersgasse Nr. 26.\nKolben, z. schwarzen. Gerbergasse Nr. 51.\nKonstanz, z. kleinen. Weiße Gasse Nr. 2.\nKopf, z. gelben. Freie Straße Nr. 59.\nKopf, z. goldenen. Schiffslände Nr. 3.\nKopf, z. rothen. Rümmelinsplatz Nr. 2.\nKopf, z. schwarzen. St. Johann-Vorstadt\n  Nr. 64.\nKorb, z. Schwanengasse Nr. 2.\nKornhaus. Spalenvorstadt Nr. 2.\nKrähe, Gesellschaftshaus z. Spalenvorstadt\n  Nr. 13.\nKränzlein, z. Spalenberg Nr. 54.\nKränzlein, z. St. Johann-Vorstadt Nr. 39.\nKränzle, z. grünen. Spalenberg Nr. 39.\nKranich, z. Sporengasse Nr. 2.\nKranichstreit z. Rheinsprung Nr. 5.\nKrayel, z. Hutgasse Nr. 6.\nKrebs, z. rothen. Aeschenvorstadt Nr. 18.\nKrebs, z. rothen. Gerbergasse Nr. 52.\nKrebs, z. rothen. Gerbergäßlein Nr. 21.\nKrebs, z. rothen. Greifengasse Nr. 5.\nKreutz, Gasthof z. weißen. Rheingasse Nr. 8.\nKreuz, z. St. Johann-Vorstadt Nr. 2.\nKreuz, z. St. Johann-Vorstadt Nr. 25.\nKriechbaum, z. Blumenrain Nr. 7.\nKrippe, z. Freie Straße Nr. 83.\nKröbel, z. Steinenvorstadt Nr. 16.\nKröbel, z. Kohlenberggasse Nr. 9.\nKrone, z. Schiffslände Nr. 5.\nKrone, z. goldenen. Steinenthorstraße Nr. 12.\nKroneck, z. Lustgäßlein Nr. 1.\nKronenberg, z. unteren. Eisengasse Nr. 32.\nKürschnern, Zunft zu. Gerbergasse Nr. 14.\nKugel, z. schwarzen. Barfüßerplatz Nr. 15.\nKupferberg, z. Freie Straße Nr. 97.\nKupfernagel, z. Sattelgasse Nr. 7.\nKupferthurm, z. Freie Straße Nr. 41.\nKupferthurm, z. Eisengasse Nr. 16.\nKupferthurm, z. Rheingasse Nr. 3.\nKupferthurm, z. vordern. Untere Rheingasse\n  Nr. 5.\nKuttelhaus. Münzgäßlein Nr. 17.\nKutty, z. Grenzacher Straße Nr. 85.\nLachs, z. Fischmarkt Nr. 7.\nLaden, z. mittleren. Sporengasse Nr. 4.\nLämmerei, z. St. Alban-Graben Nr. 6.\n[spalte 2]\nLämmlein, z. Aeschenvorstadt Nr. 32.\nLämmlein, z. Sporengasse Nr. 5.\nLämmlein, z. Spalenberg Nr. 5.\nLämmlein, z. Barfüßerplatz Nr. 20.\nLandeck, z. Eisengasse Nr. 2.\nLandser, z. Schlüsselberg Nr. 15.\nLast, z. schweren. St. Petersberg Nr. 35.\nLaßburg, z. untern u. obern. Hutgasse Nr. 17.\nLaterne, z. Blumenrain Nr. 9.\nLaterne, z. Steinenthorstraße Nr. 31.\nLaterne, z. Spiegelgasse Nr. 3.\nLaufenburg, z. Stadt. Blumenrain Nr. 24.\nLaute, z. Marktplatz Nr. 7.\nLaute, z. goldenen. Blumenrain Nr. 3.\nLautengarten, z. Malzgasse Nr. 28.\nLautengarten, z. Malzgasse Nr. 30.\nLehr, z. Münzgäßlein Nr. 20.\nLehrerwohnung. Rittergasse Nr. 6.\nLeiter, z. Weiße Gasse Nr. 5.\nLeiter, z. langen. Gerbergasse Nr. 60.\nLeiter, z. langen. Gerbergäßlein Nr. 29.\nLeiter, z. langen. Schneidergasse Nr. 19.\nLenzburg, z. Greifengasse Nr. 32.\nSt. Leonhardskirche. St. Leonhardskirchplatz\n  Nr. 4.\nLeopard, z. Sporengasse Nr. 6.\nLerchenberg, z. Ochsengasse Nr. 3.\nLetten, z. Neubadstraße Nr. 5.\nLeuchtenberg, z. Gerbergasse Nr. 37.\nLeuchter, z. St. Leonhardstapfelberg Nr. 5.\nLicht, z. niedern. Spalenberg Nr. 8.\nLichtenberg, z. Greifengasse Nr. 7.\nLichteneck, z. St. Elisabethenstraße Nr. 1.\nLichtenstein, z. Stadthausgasse Nr. 2.\nLiebburg, z. Nadelberg Nr. 30.\nLiebenstein, z. Gemsberg Nr. 8.\nLilie, z. Freie Straße Nr. 32.\nLilie, z. goldenen. Freie Straße Nr. 5.\nLimburg, z. St. Leonhards-Graben Nr. 17.\nLimburg, z. Spalenberg Nr. 51.\nLindau, z. Rheingasse Nr. 48.\nLinde, z. Eisengasse Nr. 23.\nLinde, z. Lindenberg Nr. 5.\nLinde, z. Rheingasse Nr. 19.\nLinde, z. Utengasse Nr. 41.\nLinden, z. Schafgäßlein Nr. 4.\nLindenhof, z. Kohlenberg Nr. 19.\nLippis-Mühle, die. St. Alban-Thal Nr. 1.\nLöchlein, z. Barfüßergasse Nr. 1.\nLöwen, z. Sternengäßlein Nr. 38.\nLöwen, z. gelben. Steinenvorstadt Nr. 61.\nLöwen, z. gelben. Greifengasse Nr. 11.\nLöwen, z. gelben. Greifengasse Nr. 13.\nLöwen, z. goldenen. Aeschenvorstadt Nr. 4.\nLöwen, z. hintern. Utengasse Nr. 12.\nLöwen, z. kleinen. Aeschenvorstadt Nr. 51.\nLöwen, z. kleinen. Badergäßlein Nr. 3.\nLöwen, z. kleinen gelben. Greifengasse Nr. 10.\nLöwen, z. kleinen goldenen. Gerbergasse Nr. 4.\nLöwen, z. kleinen rothen. Freie Straße Nr. 31.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 16251,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4369,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T15:08:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p282",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p282.jpg",
+      "bytes": 1655063,
+      "sha256": "96d1dad35ef8eec38c56373fbf3582d020af56e16dabf0bad2a76445ab38eefb",
+      "sha256_of": "original",
+      "working_copy": "1862_p282.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:08:41+00:00"
+  }
+}

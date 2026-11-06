@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p321",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p321.jpg",
+    "bytes": 1455965,
+    "sha256": "f35325efbe34f2e2a195df4ec5523ab858ddbc5f56961428fa6164164967b78f",
+    "sha256_of": "original",
+    "working_copy": "1862_p321.jpg"
+  },
+  "text": "256\nVerzeichniß der Bürger und Einwohner.\nBärwart-Carle, Joh., Kaufm. St. Alban=Barth-vonderKrone, Aug., Kaufmann. Kiehen=\nVorstadt 37.                     Straße 16.\n— =Hagmann, Sam., Posamenteur. Nadel= — =Walz, Gottfried, Rentier. Schützen=\nberg 16.                        mattstraße 15.\n— =Strittmatter, Theobald, Bäcker. St. Baschong, Heinrich, Sohn, Fabrikarbeiter:\nClara=Straße 14.                   Nauenstraße 13.\nBäumlin, Eduard, Schriftsetzer. St. Peters= — Heinr., Vater, Fabrikarbeiter. Nauen=\nGasse 10.                         straße 13.\n— =Gsell, J., Victualienhandlung. Markt= — .Sommer, J. J., Fabrikarb. Sternen=\nplatz 7.                         gässlein 6.\nBahnmeier's Buchhandlung (C. Detloff). Basler-Abt, Wb. Margaretha. Spalenvor=\nFreie Straße 40.                  stadt 30.\nBais, Theophil, Eisenbahnbeamter. Wallstr. 6. — =Barny, Joh., Knecht. Spalenberg 31.\nBallis, S. Louis, Buchhdl. Klingelbergstr. 7. — =Bernoulli, Wb. Anna Cath., Rentiere.\nBallmer, Frau, Schneiderin. Sternengässlein — =Büchli, Anton, Stuhlschreiner. Nadel-\n29.                               berg 30.\n— =Aich, Anton, Kappenmacher. Riimelins= — Elisab., Rätherin. Kiehenthofstraße 23.\nplatz 2.                          Basler-Nachrichten, Redaction u. Expedit. der.\n— =Bujer, Lucas, Ferger. Gerbergässli. 14. Schwanengasse 2.\n— =Heinzelmann, Heinrich, Papierer. St. Bastady-Hörler, Joh. Heinr. Commissionaire.\nAlban-Thal 22.                    Hammerstraße 15.\n— =Löw, Johannes. St. Alban-Thal 34. — =Stohler, Joh., Posamenteur. Kloster-\nBalmer-Kind, Joh. Jaf., Dr. Philos., Lehrer. berg 27.\nHinterer Burgweg 4.               — =Weiß, Joh. Rud., Commis. Hammer-\n— und Riehm, Buchdruckerei und Verlags- straße 11.\nbuchhandlung. Kanonengasse 24.    — Witschin, J. J., Dessinateur. Lindenberg 21.\n— Kaver, Holz= u. Kohlenhandlung. Uten- Bau-Collegiums, Bureau des, u. der Bau-\ngasse 22.                         Polizei-Commission. Münsterhof 1.\nBalthasar-Tschopp, Jaf., Fabrikarbeiter. St. Bauch-Dubuad, Paul, Rentier. St. Clara=\nPeters-Berg 16.                   graben 17.\nBamattre, Fr., Sprachlehrer. Freie Straße 16. Baudel, Celestine, Reinwascherin. Steinen-\nBanga, Maria, Glätterin. St. Albanthor= thorstraße 16.\ngraben 1.                         — =Pfohl, Maria Anna, Reinwascherin.\n— =Pfaff, Rudolf, Schneider. St. Alban= St. Peterskirchplatz 13.\nthorgaben 1.                       Bauer, Blasius, Fabrikschreiner. Steinenbach=\nBank, Aktiengesellschaft, Marktplatz 3. gässlein 28.\nBannier, Eduard, Commis. Lindenberg 20. — Christiana, Wascherin. Unterer Rhein-\nBarbe, Jean, Auswanderungsbureau. Kiiche= weg 32.\ngässlein 3.                        — =Felber, Jakob, Mechaniker u. Tischmeister.\nBard, Charles Marie Victor, Kaufmann. St. Peters-Graben 37.\nSt. Clara-Straße 29.               — Friedr., Kaufm. St. Peters-Graben 37.\nBareis-Wollmer, Ludwig, Buchdruckergehilfe. — F., u. Comp., Agentur= u. Commissions=\nWeiße Gasse 19.                   geschäft. St. Peters-Graben 35.\nBarfus-Liticher, Johs., Schreiner. Binninger — =Hirschbühler, Blasius, Stuhlschreinerges.\nStraße 21.                        Steinenbachgässlein 28.\nBargäzzi, Peter, Schneider. Gerbergasse 8. — =Janz, Jakob David, Parlier. Sternen=\n— =Eisenlohr, Peter, Schneider. FreieStr.42. gässlein 38.\nBaris-Begle, Wb. Serena, Bandputzerin. — Johann, Kaufmann. Gerbergasse 10.\nUtengasse 20.                      — Josef, Fuhrhalter. Streitgasse 20.\nBarth, Georg Mich., Postenführer. Bahn- — =Maire, Ferdinand, Fechtmeister. Steinen-\nhofstraße 4.                      berg 9.\n— Antonie, Schneiderin. Kaufhausgasse 6. — =Meister, Conr., Hafner. Hammerstr. 92.\n— =Bernoulli, Samuel, Pfarrer. Kiehen= Bauhardt, Joh. Jof., Fabrikarbeiter. St. Leon=\nStraße 16.                        hards-Berg 12.\n— =Gysin, Math., Nagelschmied. Schützen= — =Lok, Frz. Alb., Diafon zu St. Theodor. Reb-\nmattstraße 15.                    gasse 38.\n— =Ulrich, Dan., Bauverwalter. Spalen= Baumann-Benker, Jakob, Zimmerm. Klingel-\nvorstadt 16.                      bergstraße 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9185,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4018,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 65.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:02:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p321",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p321.jpg",
+      "bytes": 1455965,
+      "sha256": "f35325efbe34f2e2a195df4ec5523ab858ddbc5f56961428fa6164164967b78f",
+      "sha256_of": "original",
+      "working_copy": "1862_p321.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:02:50+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p451",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p451.jpg",
+    "bytes": 1526180,
+    "sha256": "6dcd1053f032c7e71f6621f9b17823bfcd5d0194a8d0281a1ff22f9a844a0721",
+    "sha256_of": "original",
+    "working_copy": "1862_p451.jpg"
+  },
+  "text": "386\nVerzeichniß der Berufszarten.\nBufer, Jakob. Gerbergäßlein 26.\nChrift, Chriftian. Rheingaffe 45.\nDegen, Johs. Rheingaffe 67.\nDettwiler, Carl. Greifengaffe 37.\n— Meylan, J. J. Schneidergaffe 3.\nDietrich-Rogel, Johs. Heinrich. Kadelb. 49.\n— Uehlinger, Theophil. Reinprung 6.\nDoppler, Heinrich. Hutgaffe 19.\nEichelberger, Friedr. Klosterberg 21.\nEnderly, Leonz. Schneidergaffe 25.\nFauft, Johs. Nejchenvorftadt 33.\nFuchs, Carl. Kronengaffe 9.\nFürrt, Erhardt Rudolf. Nejchenvorftadt 25\nGölzlin, Friedr. Rheingaffe 30.\nGrieder, Conrad Balth. Kiimelinsplaz 4.\nGiiller, Heinrich. Spalenberg 61.\nHänches, Jakob. Kiimelinsplaz 3.\nHermann, Johs. Sattelgaffe 14.\nHiltmann, Johs. Unterer Heuberg 5.\n— Chr. Streitgaffe 9.\nHirt, Pius. Roßhofgaffe 15.\nHofch, Johs. Rheiniprung 2.\nHorner, J. Heinr. Schneidergaffe 14.\nKauz, M. Ochjengaffe 8.\nKochta, Anton. Imbergäßlein 24.\nKormann-Leithardt, Aug. Freie Straße 44.\nKraufe, Nikl. Gemzberg 1.\nLacher, Heinrich. Fijchmarkt 5.\nLok, Jacob Chriftian. Sattelgaffe 5.\nLitfcher, Friedr. Ochjengaffe 1.\nLutz, Jacob. Rüdengäßlein 9.\nMatzinger, Emanuel. Rebgaſse 10.\nMenrich, H. Freie Straße 19.\nMeyer, Carl Rud. Rheingaffe 16.\nOtt-Stählin, Friedr. Gerbergaffe 51.\nPortmann, Achilles. Utengaffe 18.\nSchär, Benedikt. Schwanengaffe 8.\n— J. J. Spalenberg 12.\nSchaffner, Heinrich. Schwanengaffe 12.\nScherb, Heinrich. Klingenthal 5.\nSchench, Jaa. Hutgaffe 10.\nSchilling, Peter. St. Elisabethen-Straße 18.\nSchmidlin, Jakob. Trillengäßlein 3.\nSchmidt-Engreffat, Melchior. Steinenvor-\nftadt 50.\nSchönlaub, Johs. St. Alban-Vorftadt 43.\nSept, J. J. St. Leonhards-Berg 3.\nSettelen, F. A. Freie Straße 13.\nSpahn, Heinrich. Weidengaffe 24.\nSprehermann, J. G. Weiße Gaffe 13.\nStadelmann, Joseph. Todtengäßlein 7.\nStörkle, P. Spiegelgaffe 4.\nThommen, J. J. Kiehenthofstraße 9.\nThurneyfen, Heinrich. Steinenvorftadt 35.\nUehlinger, Carl. Gerbergaffe 74.\nUngerer, J. J. Gerbergaffe 8.\nUfer, D. C. Steinenbachgäßlein 22.\nVölmi, Johs. Ludw. Spalenberg 54.\nVogt, Friedrich. Stadthausgaffe 22.\nWaffermann, Johs. Spalenberg 33.\nWeizenberger-Lang, Peter. Gerbergäfl. 14.\nZeller, Dionis. St. Peters-Gaffe 44.\nZürcher, Johs. Heinrich. Lindenberg 13.\nSchneiderinnen.\nAmsler, Marie. Schneidergaffe 3.\nBarth, Antonie. Kaufhausgaffe 6.\nBaumann, Helene. untere Rebgaſse 1.\n— Meyer, Eliab. Spalenvorftadt 41.\nBinz, Magd. Spalenvorftadt 28.\nBöhl-Durofoy, Wb. Adele. Spalenberg 40.\nBrunner, Elijab. Blumenrain 28.\nBürgy, Schwestern. Kiimelinsplaz 9.\nChrifl, Ursula Eliab. Rheingaffe 59.\nDeck, Maria. Karthausgäßlein 3.\nDiehm, Marg. Spalenberg 10.\nDupont, Marie. St. Petersberg 5.\nFeindel-Bouchard, Wb. Franzisca. Spalen-\nberg 10.\nFrey, Maria. St. Johannvorftadt 65.\nGamper, Bab. St. Leonhards-Graben 20.\nGerster-Miiller, Maria. St. Leonhards-\nGraben 24.\nGlunz, Gejchwifter. Spiegelgaffe 10.\nGrethner, Bab. St. Peterskirchplaz 14.\nGrob-Wirz, Anna Maria. Freie Straße 107.\nSugelmann, Anna Mar. Schneidergaffe 7.\nGyfin, Eli. Miinzgäßlein 19.\nHaas, Schwestern. Hutgaffe 1.\nHeckendorf, Barb. Spalenberg 5.\nHeitz, Kof. u. Ber. Davidsgaffe 7.\nHimmeli, Urf. Kath. Gerbergaffe 35.\nHindentang-Laubheim, Wb. Mar. Kanonen-\ngaffe 7.\nHirth-Fischer, Wb. Louise. Schneidergaffe 15.\nHoff, Franzisca. Gerbergäßlein 37.\nHoffmann, Magd. Miinzgäßlein 24.\nHirtlemann, Soph. Unt. Heuberg 1.\nHug, Schwestern. Streitgaffe 12.\nKaufmann-Schmid, Chrifch. Todtentanz 16.\nKleinwitz, Suj. Marg. Schützenmattstraße 17.\nRündig-Sutter, Wb. Eli. Trillengäßlein 5.\nKunz, Eliab. Steinenvorftadt 56.\nLauderer-Thommen, Barb. Rheingaffe 64.\nLehmann-Viiddin, Anna. Rebgaſse 46.\nLips, Maria. Utengaffe 54.\nLorenz, Anna. Miinzgäßlein 24.\nLiddin-Sutter, Anna Barb. Greifengaffe 35.\nMalibas-Kietschi, Wb. Chrifl. Schwanen-\ngaffe 3.\nMeyer, Kof. und Marg. St. Leonhards-\nberg 15.\nMoffard, Mar. Eli. Lindenberg 13.\nMoll, Wilhelm. Stiftsgaffe 4.\nMoser, Valeria. Schneidergaffe 10.\nMiiller-Welti, Wb. Eliab. Kiimelinsplaz 8.\nNeukomm, Chrifch. Sattelgaffe 6.\nPeter, Ursula. Miinfterberg 14.\nPfaff, Cath. St. Albanthorgraben 1.\nPfannenschmid-Schweizer, Wb. Barb. Freie\nStraße 46.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10968,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4017,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T15:23:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p451",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p451.jpg",
+      "bytes": 1526180,
+      "sha256": "6dcd1053f032c7e71f6621f9b17823bfcd5d0194a8d0281a1ff22f9a844a0721",
+      "sha256_of": "original",
+      "working_copy": "1862_p451.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T15:23:25+00:00"
+  }
+}

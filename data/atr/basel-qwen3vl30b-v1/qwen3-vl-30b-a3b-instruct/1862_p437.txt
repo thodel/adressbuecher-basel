@@ -1,0 +1,108 @@
+372
+Verzeichniß der Berufsbarten.
+Meyer=Landolt, Joh. Rheingasse 24.
+Sacher=Glitterlin, Ant. Barfüsserplatz 34.
+Schäuble=Schlageter, Aug. Hutgasse 3.
+Stockmeyer=Rittschlin, Abrah. Riehenthorstraße 14.
+Stiinz=May. Nechenvorstadt 62.
+Weber=Littner, Seb. Gerbergasse 39.
+— =Müller, Sam. Gerbergasse 20.
+Entleerungsübernehmer.
+Felber, Daniel. St. Alban-Vorstadt 62.
+Friedrich=Knapp, S. S. Schützenmattstraße 37.
+Enveloppenfabrikant.
+Ewald=Roch, S. S. Steinenvorstadt 38.
+Erdarbeitenübernehmer.
+Frey=Honegger, Joh. Sägergäßlein 5.
+Friedrich=Knapp, S. S. Schützenmattstraße 37.
+Schweri=Binder, Jos. Reb-gasse 40.
+Eselhalter.
+Goskwyler, Conrad. Heuberg 17.
+Farbholzmühlen.
+Müller u. Comp., S. S. Bahnhofstraße 3.
+Müller=Dietzsch, S. P. Sägergäßlein 7.
+Petit=Cassal. Untere Reb-gasse 8.
+Weitnauer=Biefer, Friedr. Birgigstraße 15.
+Fechtmeister.
+Bauer=Maire, Ferd. Steinenberg 9.
+Feilenhauer.
+Fritschi=Wäffler, Jos. Freie Straße 99.
+Herzog=Thommen, Friedr. Rheingasse 36.
+Zell- und Hauthandlungen.
+Bloch und Cie., Gebr. Steinenvorstadt 12.
+Schmoll=Dreyfus. Greifengasse 3.
+Feuerwerksmaterialhändler.
+Kespingcr, Gebr. Todtentanz 13.
+Siegriß, Joh. Steinenthorstraße 41.
+Vollenhals=Abt, Friedr. Mostackerstraße 58.
+Finkenmacher.
+Gast, Franziska. Rheingasse 14.
+Wagner=Dépenoit, Joh. B. Spiegelgasse 10.
+Firniskfabrik.
+Buxtorf=Merian. Steinenthorstraße 14.
+Fischer.
+Bell=Bolliger, Eman. Reb-gasse 29.
+Bell=Hug, Heinr. Untere Rheingasse 15.
+Biiirgin, Sebast. Unterer Rheinweg 32.
+Glafer=Ritter, Friedr. Rheingasse 80.
+Fischhandlungen.
+Glafer=Ritter, Friedr. Rheingasse 80.
+Mäzinger=Siegel, Wb. Friederika. Rheingasse 72.
+Fleckenreiniger.
+Brüllmann=Eggmann, Georg. Schützenmattstraße 2.
+Gölzlin, Friedr. Rheingasse 30.
+Zäggi, Xaver. Gemsberg 1.
+Nonnenmacher=Degen, Barb. Weiße Gasse 20.
+Schmidt=Engressat, Melchior. Steinenvorstadt 50.
+Wicki=Gast, Josef. Rheingasse 14.
+Floretpinnereien.
+Alioth u. Comp., in Arlesheim.
+Bölger, Marcus. Nechenvorstadt 4.
+Hezel u. Comp. St. Clara=Graben 9.11.13.
+Ryhiner u. Söhne. Rappoltshof 9.
+Fourniturenhandlungen.
+Bohny, S. S. Hutgasse 8.
+Brenner=Fäsch. Blumenrain 24.
+Fruchthändler.
+Gisel=Marbach, S. S. Riehenthorstraße 20.
+Schaub, Eman. Freie Straße 55.
+Studer=Walliser, Jos. Riehenthorstraße 20.
+Fuhrhalter.
+Bauer, Josef. Streitgasse 20.
+Bertrand=Raiser, Jos. Greifengasse 37.
+Birrer=Stähle. Greifengasse 35.
+Bonin=Degen, Georg. Theaterstraße 16.
+Bregger=Köpfer, Ambros. Riehenthorstraße 13.
+Brucker=Leopold. Schützenmattstraße 12.
+Eglin=Grieder, Georg. St. Johann-Vorstadt 53.
+Gräslin=Grether, Jacob. Hammerstraße 53.
+Raufmann=Augsburgcr, Anton. Riehenthorstraße 15.
+Keller, Rudolf. Steinenthorstraße 4.
+Rienz=Schweizer, Leonh. St. Johann-Vorstadt 59.
+Meyer=Rohner, Heinrich. Missionsstraße 65.
+Müller=Grieshaber, Bernh. Kirchgasse 1.
+Detiker=Rosin, S. Schützenmattstraße 10.
+Oswald=Neth, Leop. Stadthausgasse 17.
+Schneider=Schläfli, Franz. Kiimelinsplatz 17.
+Stoll=Nageleisen, Eberh. Riehenthorstraße 22.
+Ummel, Christ. St. Peters-Gasse 13.
+Weber, Johs. Hirschgasse 5.
+Welti=Kratt, Josef. Spalenvorstadt 3.
+Wirth, Johs. Schützengraben 6.
+Gärtner.
+Bader=Wilhelm, Franz Fidel. Mattweg 16.
+Baur=Fäxler, Wb. Barb. Grenzacher-Straße 91.
+Berger, Josef. Nechenvorstadt 75.
+Binz=Eichacker, Sam. Herrenmattweg 28.
+Blank=Rom, Johs. Christ. Riehen-Straße 62.
+Bolander, Amadeus. Bruderholzweg 6.
+Bolander=Merier, Jos. Holeeweg 5.
+Bresin=Weiß, Wb. Suj. Hammerstraße 65.
+Brombach=Hierholzer, Rud. Spitalstraße 22.
+Buek, Jacob. St. Jakobs-Straße 53.
+Biiirge, Jacob. Riehenthorstraße 16.
+Daucher=Kermgott, Ph. Riehen-Straße 54.
+Dettwiler=Bögeli, Heinr. St. Jacob-Straße 29.
+Dörflinger=Herzog, Caspar. St. Jakobs-Straße 20.
+Dörflinger=Primborgne, Friedr. St. Jakobs-Straße 42.
+Drechsle=Elbe, Johs. Grenzacher-Straße 92.
