@@ -254,7 +254,7 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 2 | Einträge ✅ 06.11.2026 (Abnahme 245/245 auf GT-Text) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
 | 3 | Normalisierung, Identität | Berufe, Strassen (Basler Strassennamen 1841–1862 → heute), Heimatorte; Personen über die drei Bände; Gebäude über die Nummernkonkordanz 1862 | wie Aarau |
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
-| 2 | Kontrolle | Kontrollseite auf GitHub Pages wie Aarau (`scripts/90_erstblick.py`, Flagging je Zeile, Reiter Einwohner/Gebäude/Bewohner/Berufe/Verortung, Links in den Digitalen Lesesaal); Flags per `make flags-merge` ins Repo | Seite live unter `https://thodel.github.io/adressbuecher-basel/` (Repo muss dafür öffentlich sein) |
+| 2 | Kontrolle ✅ 06.11.2026 | Kontrollseite auf GitHub Pages wie Aarau (`scripts/90_erstblick.py`, Flagging je Zeile, Reiter Einwohner/Gebäude/Bewohner/Berufe/Verortung mit Links in den Digitalen Lesesaal; Reiter **Analysen** mit beim Bau aus den CSV berechneten Kennzahlen; Reiter **Karte** mit Leaflet, OSM-Kacheln, Situationsplan 1862 als WMS des Kantons BS und den HGB-Punkten je Band, Klick zeigt Eigentümer und Bewohner, Zähleiste «x von y verortet»); GeoJSON je Band in `data/geo/` (`make geojson`); Flags per `make flags-merge` ins Repo; Eintrags-IDs mit Zeilennummer (`<band>-<abschnitt>-<seite>-L<zeile>`), stabil über Parserversionen | Repo seit 06.11.2026 öffentlich, Seite unter https://thodel.github.io/adressbuecher-basel/ ; keine Seitenbilder (wie Aarau); Lizenz der HGB-Standortpunkte offen und auf der Seite vermerkt |
 | 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern); Gebäudepunkte aus `05_buildings_geo.csv` (HGB, Abschnitt 4b) | wie Aarau |
 
 ### 4b. Verortung über das Historische Grundbuch Basel (HGB)
@@ -316,8 +316,8 @@ Wie Aarau: `scripts/01_render_pages.py` (JPG-Ordner statt PDF), `02_atr_batch.py
 
 ## 6. Entscheidungen, die noch ausstehen
 
-1. ~~GitHub-Repo anlegen~~ — erledigt 06.11.2026: `https://github.com/thodel/adressbuecher-basel`
-   (privat, wie Aarau).
+1. ~~GitHub-Repo anlegen~~ — erledigt 06.11.2026: `https://github.com/thodel/adressbuecher-basel`,
+   seit dem Abend öffentlich (für GitHub Pages; interne Hosts entfernt, SSH-Ziel über `TEI_SSH`).
 2. **Hausnummern-Konkordanz** 1862 (neu je Strasse ↔ alt stadtweit) als eigene Tabelle
    führen, damit 1841/1850 auf die 1862er Gebäude abgebildet werden; prüfen, ob die alten
    Nummern zwischen 1841 und 1850 stabil sind (Stichprobe in Welle 2).
@@ -330,3 +330,15 @@ Wie Aarau: `scripts/01_render_pages.py` (JPG-Ordner statt PDF), `02_atr_batch.py
    ~8 h für qwen3.8) teilen sich die Karten mit den Basler Läufen; Reihenfolge festlegen.
 5. **Weitere Bände** (StABS hat die Reihe bis ins 20. Jahrhundert): welche Jahre die
    Reihe sinnvoll verlängern (1844? 1847? 1856? 1870?), nach dem Befund von Welle 1.
+6. **Agenda: Abgleich mit den historischen Telefonbüchern** (Auftrag der Projektleitung
+   06.11.2026, noch nicht umgesetzt). Lokale PTT-Telefonbuchdaten liegen unter
+   `~/Repos/PTT_phonebook_data_tsv`, `~/Repos/unil_ptt-postal-data-processing` und
+   `~/Repos/gemini-phonebook-analysis`; zuerst sichten, welche Jahrgänge und Orte sie
+   abdecken — für Basel 1841–1862 kommen eher spätere Jahrgänge als Verlängerung der
+   Zeitreihe in Frage. Ziel: Abonnenten mit Einträgen verknüpfen (Name + Strasse +
+   Nummer), Deckung messen. Setzt die Strassennormalisierung (06) und die
+   Hausnummern-Konkordanz über das HGB voraus.
+7. **Analyse Wohnortstabilität 1841/1850/1862** — als GitHub-Issue im Repo festgehalten
+   (Label `analyse`): Bleiben, Umzug innerhalb Basels, Verschwinden; braucht Personen-
+   und Gebäudeidentität über die Bände (Gebäude über die HGB-Verortung), Ausgabe
+   `07_residence_changes.csv`.
