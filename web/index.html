@@ -62,6 +62,10 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
 .legend { color: var(--muted); font-size: 0.84rem; margin: 0; }
 .legend b { color: var(--fg); }
 #toast { position: fixed; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); background: var(--fg); color: var(--bg); padding: 8px 14px; border-radius: 8px; font-size: 0.9rem; }
+.chip { display: inline-flex; gap: 6px; align-items: center; background: var(--accent-soft); border: 1px solid var(--accent); border-radius: 999px; padding: 2px 4px 2px 10px; font-size: 0.88rem; }
+.chip button { border: 0; background: transparent; color: var(--accent); font-weight: 700; padding: 0 6px; cursor: pointer; }
+.chip .tabhit { text-decoration: underline; font-weight: 600; }
+.leaflet-popup-content a.flt { display: inline-block; margin: 2px 8px 0 0; color: var(--accent); font-weight: 600; }
 .panel { flex: 1 1 auto; min-height: 0; overflow: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); padding: 12px 16px; }
 .panel h2 { font-size: 1.05rem; margin: 14px 0 6px; }
 .panel h2:first-child { margin-top: 0; }
@@ -94,6 +98,7 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
   <select id="vol" aria-label="Band"><option value="">alle Bände</option></select>
   <select id="conf" aria-label="Konfidenz"><option value="">alle Konfidenzen</option><option value="high">high</option><option value="medium">medium</option><option value="review">review</option></select>
   <label><input type="checkbox" id="onlyflag"> nur markierte</label>
+  <span id="colfilter" class="chip" hidden></span>
   <input id="q" type="search" placeholder="Suchen: Name, Beruf, Strasse, Heimatort, ID …" aria-label="Suchen">
   <span class="count" id="count"></span>
 </div>
@@ -131,7 +136,10 @@ const REPO = "https://github.com/thodel/adressbuecher-basel";
 const PAGE = 300;
 const KEY = 'basel.flags.v1';
 const DLS = {"1841": "https://dls.staatsarchiv.bs.ch/records/1225921", "1850": "https://dls.staatsarchiv.bs.ch/records/1225925", "1862": "https://dls.staatsarchiv.bs.ch/records/1225927"};
-let tab = (location.hash.replace('#','') in DATA) ? location.hash.replace('#','') : Object.keys(DATA)[0];
+const P = new URLSearchParams(location.search);
+const hashTab = location.hash.replace('#','');
+let tab = P.get('tab') && (DATA[P.get('tab')] || ['analysen','karte'].includes(P.get('tab'))) ? P.get('tab') : ((hashTab in DATA || ['analysen','karte'].includes(hashTab)) ? hashTab : Object.keys(DATA)[0]);
+let colF = P.get('col') || '', valF = P.get('val') || '', labelF = P.get('label') || '';
 let shown = PAGE;
 let flags = {};
 try { flags = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { flags = {}; }
@@ -143,7 +151,7 @@ const vols = new Set(); for (const k in DATA) if (k !== 'telefon') for (const r 
 [...vols].sort().forEach(v => { const o = document.createElement('option'); o.value = v; o.textContent = v; vol.appendChild(o); });
 for (const k in DATA) { const b = document.createElement('button'); b.setAttribute('role', 'tab'); b.textContent = `${DATA[k].label} (${DATA[k].rows.length.toLocaleString('de-CH')})`; b.dataset.k = k; b.onclick = () => { tab = k; shown = PAGE; render(); }; tabsEl.appendChild(b); }
 for (const [k, label] of [['analysen', 'Analysen'], ['karte', 'Karte']]) { const b = document.createElement('button'); b.setAttribute('role', 'tab'); b.textContent = label; b.dataset.k = k; b.onclick = () => { tab = k; render(); }; tabsEl.appendChild(b); }
-if (location.hash.replace('#','') === 'analysen' || location.hash.replace('#','') === 'karte') tab = location.hash.replace('#','');
+
 function esc(s) { return String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 function save() { try { localStorage.setItem(KEY, JSON.stringify(flags)); } catch (e) {} }
 function toast(msg) { const t = $('toast'); t.textContent = msg; t.hidden = false; setTimeout(() => { t.hidden = true; }, 2500); }
@@ -176,12 +184,23 @@ function render() {
   for (const b of tabsEl.children) b.setAttribute('aria-selected', b.dataset.k === tab);
   const special = tab === 'analysen' || tab === 'karte';
   $('tablewrap').hidden = special; $('analysen').hidden = tab !== 'analysen'; $('mapwrap').hidden = tab !== 'karte';
+  if (special) $('colfilter').hidden = true;
   for (const el of [q, vol, conf, onlyflag, count]) el.closest('label') ? (el.closest('label').style.display = special ? 'none' : '') : (el.style.display = special ? 'none' : '');
   try { localStorage.setItem('basel.tab', tab); } catch (e) {}
   if (tab === 'analysen') { renderAnalysen(); return; }
   if (tab === 'karte') { renderMap(); return; }
   const d = DATA[tab], needle = q.value.trim().toLowerCase(), v = vol.value, c = conf.value, ci = d.cols.indexOf('parse_confidence');
-  const rows = d.rows.filter(r => (!v || tab === 'telefon' || r[1] === v) && (!c || r[ci] === c) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.join(' ').toLowerCase().includes(needle)));
+  const fi = colF ? d.cols.indexOf(colF) : -1;
+  const chip = $('colfilter');
+  if (colF && valF) {
+    const hits = Object.keys(DATA).map(k => { const j = DATA[k].cols.indexOf(colF); return [k, j < 0 ? 0 : DATA[k].rows.filter(r => r[j] === valF && (!vol.value || k === 'telefon' || r[1] === vol.value)).length]; }).filter(([k, n]) => n > 0);
+    const other = hits.filter(([k]) => k !== tab).map(([k, n]) => `<button type="button" class="tabhit" data-k="${k}">${esc(DATA[k].label)}: ${n}</button>`).join('');
+    chip.hidden = false;
+    chip.innerHTML = `${esc(LABELS[colF] || colF)} = <b>${esc(labelF || valF)}</b>${other ? ' · Treffer auch in ' + other : ''}<button type="button" id="clearcol" aria-label="Filter entfernen">✕</button>`;
+    $('clearcol').onclick = () => { colF = valF = labelF = ''; history.replaceState(null, '', location.pathname + '#' + tab); shown = PAGE; render(); };
+    for (const b of chip.querySelectorAll('.tabhit')) b.onclick = () => { tab = b.dataset.k; shown = PAGE; render(); };
+  } else { chip.hidden = true; }
+  const rows = d.rows.filter(r => (!v || tab === 'telefon' || r[1] === v) && (!c || r[ci] === c) && (!colF || !valF || fi < 0 || r[fi] === valF) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.join(' ').toLowerCase().includes(needle)));
   thead.innerHTML = '<tr><th>Flag</th>' + d.cols.map(cc => `<th>${esc(LABELS[cc] || cc)}</th>`).join('') + '</tr>';
   tbody.innerHTML = rows.slice(0, shown).map(r => {
     const key = tab + '|' + r[0];
@@ -260,6 +279,8 @@ function popup(p) {
   const title = `${esc(p.street)} ${esc(p.no)}${p.old ? ' (alte Nr. ' + esc(p.old) + ')' : ''}${p.name ? ' «' + esc(p.name) + '»' : ''}`;
   let h = `<b>${title}</b><br>Band ${p.vol}, PDF-S. ${p.page}${p.part ? ', ' + esc(p.part) : ''}<br><b>Eigentümer:</b> ${esc(p.owner || '–')}${p.type ? ' (' + esc(p.type) + ')' : ''}${p.marker ? ' <span class="star">' + esc(p.marker) + '</span>' : ''}`;
   if (p.residents.length) h += `<br><b>Bewohner (${p.residents.length}):</b><ul>` + p.residents.map(r => `<li>${esc(r)}</li>`).join('') + '</ul>';
+  const u = (t, col, val, label) => { const s = new URLSearchParams({ tab: t, col, val, vol: p.vol }); if (label) s.set('label', label); return './?' + s.toString(); };
+  h += `<br><a class="flt" href="${u('gebaeude', 'building_id', p.id)}">Gebäudezeile</a><a class="flt" href="${u('bewohner', 'building_no', p.no)}">Bewohner Nr. ${esc(p.no)}</a>${p.street ? `<a class="flt" href="${u('einwohner', 'street_raw', p.street)}">Einwohner ${esc(p.street)}</a>` : ''}`;
   h += `<br><span class="sub">Verortung ${esc(p.method)} (${esc(p.conf)}), HGB ${esc(p.hgb)}${p.dossier ? ' · ' + (p.link ? '<a href="' + esc(p.link) + '" target="_blank" rel="noopener">' + esc(p.dossier) + '</a>' : esc(p.dossier)) : ''} · <a href="${esc(DLS[p.vol] || '#')}" target="_blank" rel="noopener">Seite im Lesesaal</a></span>`;
   return h;
 }
@@ -293,6 +314,9 @@ function drawPoints() {
   $('mapcount').textContent = s ? `${s.located.toLocaleString('de-CH')} von ${s.total.toLocaleString('de-CH')} Gebäuden verortet (${(100 * s.located / s.total).toFixed(0)} %); ${(s.total - s.located).toLocaleString('de-CH')} ohne Koordinate sind nicht auf der Karte` : `${fc.features.length} Punkte`;
   $('maplegend').innerHTML = (mode === 'conf' ? COLORS_C : COLORS_N).map(c => `<span class="sw" style="background:${c[1]}"></span>${esc(c[0])} `).join(' ');
 }
-try { const t = localStorage.getItem('basel.tab'); if (!location.hash && t && DATA[t]) tab = t; } catch (e) {}
+try { const t = localStorage.getItem('basel.tab'); if (!location.hash && !P.get('tab') && t && (DATA[t] || t === 'analysen' || t === 'karte')) tab = t; } catch (e) {}
+if (P.get('vol')) vol.value = P.get('vol');
+if (P.get('conf')) conf.value = P.get('conf');
+if (P.get('q')) q.value = P.get('q');
 render();
 </script>
