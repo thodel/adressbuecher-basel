@@ -11,7 +11,7 @@ Tooling (ATR, Vokabular-Register, Graph-Bauer) kommt aus
 
 Der Plan mit Befund, Pipeline und Abnahmekriterien steht in [PLAN.md](PLAN.md).
 
-Kontrollseite der Datensätze (Flagging, Analysen, Karte, Telefonbuch): https://thodel.github.io/adressbuecher-basel/
+Kontrollseite der Datensätze (Flagging, Analysen, Telefonbuch): https://thodel.github.io/adressbuecher-basel/ · Karte (Gebäude und Strassen): https://thodel.github.io/adressbuecher-basel/karte.html
 
 Schwesterprojekt Aarau: Kontrollseite https://thodel.github.io/adressbuecher-aarau/ ·
 Karte https://thodel.github.io/adressbuecher-aarau/karte.html ·
@@ -21,7 +21,7 @@ Repo https://github.com/thodel/adressbuecher-aarau
 
 - ATR läuft über den Server `tei` (SSH-Alias in `~/.ssh/config`, oder `TEI_SSH=user@host`); die
   Läufe werden über den MCP-ATR-Server von agentic_historian gestartet (siehe PLAN.md, Welle 1).
-- `make fullrun-fetch fullrun-lines fullrun-parse geo geojson erstblick` holt fertige Läufe, parst alle
+- `make fullrun-fetch fullrun-lines fullrun-parse geo geojson erstblick karte` holt fertige Läufe, parst alle
   Abschnitte, verortet die Gebäude über das HGB und baut die Kontrollseite `web/index.html`;
   GitHub Pages baut dieselbe Seite bei jedem Push, der `data/csv/` oder `data/review/` berührt.
 - Flags von der Kontrollseite: CSV exportieren, `make flags-merge FILE=…`, committen.

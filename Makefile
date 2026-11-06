@@ -71,3 +71,7 @@ PTT_SRC ?= $(HOME)/Repos/PTT_phonebook_data_tsv/tsv
 phonebook:  ## PTT-Telefonbücher (Basel) extrahieren und gegen 1862 abgleichen → 20_phonebook_links.csv, 20_phonebook_summary.csv
 	$(PY) scripts/20_phonebook.py --src "$(PTT_SRC)"
 	$(PY) scripts/21_phonebook_match.py
+
+.PHONY: karte
+karte:  ## Kartenseite (Gebäude und Strassen) aus data/geo/ (OUT=...)
+	$(PY) scripts/92_karte.py --out $(or $(OUT),web/karte.html)
