@@ -12,7 +12,8 @@ Hausnummer («754 L») und einen Standort in LV95. Damit:
 
 Schreibt eine Zeile je Gebäude: building_id, dossier_id, dossier_title, match_method
 (`street_no` exakt, `street_no_multi` Dossier mit mehreren Nummern, `old_no` eindeutig,
-`old_no_multi` mehrere Dossiers mit derselben alten Nummer → Schwerpunkt), lat, lon (WGS84),
+`old_no_multi` mehrere Dossiers mit derselben alten Nummer → Schwerpunkt, `old_no_base`
+Buchstabenzusatz weggelassen → Hauptnummer, Konfidenz `low`), lat, lon (WGS84),
 e, n (LV95), geo_confidence, check_old_no (1862: stimmt die alte Nummer mit dem HGB überein).
 """
 from __future__ import annotations
@@ -121,9 +122,16 @@ def main() -> None:
                 method = "street_no_multi"
         else:
             old = re.sub(r"\s", "", b["house_no_old"]).upper()
-            cands = [d for d in by_old.get((space_of_building(b), old), []) if not d["part"]] or by_old.get((space_of_building(b), old), [])
+            sp = space_of_building(b)
+            cands = [d for d in by_old.get((sp, old), []) if not d["part"]] or by_old.get((sp, old), [])
             if cands:
                 method = "old_no" if len(cands) == 1 else "old_no_multi"
+            else:
+                base = re.match(r"[A-Z]*(\d+)", old)              # «754L», «A751», «519A» → Hauptnummer
+                if base and base.group(1) != old:
+                    cands = [d for d in by_old.get((sp, base.group(1)), []) if not d["part"]] or by_old.get((sp, base.group(1)), [])
+                    if cands:
+                        method = "old_no_base"
         located = [d for d in cands if d["en"]]
         if cands and not located:
             method = "no_location"
@@ -138,7 +146,7 @@ def main() -> None:
             lat, lon = lv95_to_wgs84(e, n)
             row.update({"dossier_id": ";".join(d["id"] for d in cands[:5]), "dossier_title": " | ".join(d["title"] for d in cands[:3]),
                         "e": f"{e:.1f}", "n": f"{n:.1f}", "lat": f"{lat:.6f}", "lon": f"{lon:.6f}",
-                        "geo_confidence": "high" if method in ("street_no", "old_no") else "medium"})
+                        "geo_confidence": "high" if method in ("street_no", "old_no") else ("low" if method == "old_no_base" else "medium")})
             if b["volume"] == "1862" and b["house_no_old"]:
                 ours = {x.upper() for x in old_numbers(b["house_no_old"])}
                 theirs = {o for d in cands for o in d["old"]}
