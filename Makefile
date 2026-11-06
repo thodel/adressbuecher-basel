@@ -1,0 +1,25 @@
+PY ?= .venv/bin/python
+SRC_DIR ?= $(HOME)/Documents/Adressbuecher_Basel
+
+.PHONY: venv pages
+venv:
+	uv venv .venv && uv pip install --python .venv/bin/python -r requirements.txt
+
+pages:  ## Seitenbilder byteidentisch übernehmen und 00_volumes.csv / 01_pages.csv anlegen
+	$(PY) scripts/01_render_pages.py --src-dir "$(SRC_DIR)" --out data/pages --csv data/csv
+
+RUN ?= basel-probe-gemini-v1
+.PHONY: atr-fetch atr-lines
+atr-fetch:  ## Ergebnisse eines ATR-Laufs von tei holen (RUN=...)
+	$(PY) scripts/02_atr_batch.py fetch --run $(RUN)
+
+atr-lines:  ## 02_lines.csv aus den geholten Läufen bauen (RUN=...)
+	$(PY) scripts/02_atr_batch.py lines --run $(RUN)
+
+PROBERUNS = basel-probe-gemini-v1 basel-probe-gpustack-v1
+.PHONY: probe-fetch probe-compare
+probe-fetch:  ## alle Probe-Läufe holen
+	for r in $(PROBERUNS); do $(PY) scripts/02_atr_batch.py fetch --run $$r; done
+
+probe-compare:  ## Abweichung je Leserpaar und CER gegen data/gt
+	$(PY) scripts/03_compare_readers.py $(foreach r,$(PROBERUNS),--run $(r)) --gt data/gt

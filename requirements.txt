@@ -1,0 +1,6 @@
+pymupdf>=1.26
+pillow>=11
+pandas>=2.2
+rapidfuzz>=3.9
+rdflib>=7.1
+pyshacl>=0.30
