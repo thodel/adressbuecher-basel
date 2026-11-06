@@ -47,16 +47,23 @@ RELATION = {"Sohn", "Tochter", "Vater"}
 STATUS_PREFIX = ("Wb. ", "Wittwe ", "Frau ", "Jgfr. ", "Jungfer ", "Jungfrau ", "Fräulein ", "Frl. ")
 # Basel 1841: «… Beruf. 292 Spahlen-Vorstadt.» — Nummer vor der Strasse, Bann-Zusatz am Ende
 BANN_RE = re.compile(r"\s+(?P<bann>[UO]\.\s?B\.)\s*$")
-ADDR_1841_RE = re.compile(r"^(?P<head>.+?)[.,]?\s+(?P<no>\d{1,4}(?:\s?[a-z])?(?:\s*(?:u\.|und|bis|-|–)\s*\d{1,4}(?:\s?[a-z])?)*)\s+(?P<street>[A-ZÄÖÜ][^\d]*?)\.?$")
+ADDR_1841_RE = re.compile(r"^(?P<head>.+?)[.,;]?\s+(?P<no>\d{1,4}(?:\s?[a-z](?![\w]))*(?:\s*(?:u\.|und|bis|-|–|—)\s*\d{1,4}(?:\s?[a-z](?![\w]))*)*)(?:\s*\(\d+\))?\.?\s*(?P<star>\*)?\s+(?P<street>[A-ZÄÖÜa-z][^\d]*?)\.?$")
+STREET_ONLY_1841_RE = re.compile(r"^(?P<head>.+?)\.\s+(?P<street>(?:(?:St|Hint|Vord|Unt|Ob|Gr|Kl|Aeuss|Inn)\.\s?)?(?:d\.\s)?[A-ZÄÖÜ][\wäöüß.\- ]{2,40}?)\.?$")
+ABBR_END_RE = re.compile(r"(^|\s)(St|Kl|Gr|Unt|Ob|Mittl|Vord|Hint|Aeuss|Inn|d|u)$")
+SEL_RE = re.compile(r"^(?P<n>.+?)\s+(?P<s>sel\.\s+(?:Wittwe|Wwe\.|Erben|Witwe)|Wittwe|Erben|sel\. Erben)\.?$")
+INSTITUTION_RE = re.compile(r"Loge|Zunft|Bureau|Buchhandlung|Gesellschaft|Verein|Anstalt|Stiftung|'sche|Kirche|Spital|Schule|Magazin|Lager|Fabrik\b|Handlung\b|Gebr\.|Geschwister|Consort", re.I)
 # Basel 1850: «Halter, N., Bettfedhdlg. 1526», «Hanthon, Karl, Partik. *79», «Heimlicher, I.I., Dr. J. 1083B»
-NO_1850_RE = re.compile(r"^(?P<head>.+?)\s+(?P<star>\*)?(?P<no>\d{1,4}\s?[A-Z]?(?:\s*[–-]\s*\d{1,4}[A-Z]?)?)\s*$")
+NO_1850_RE = re.compile(r"^(?P<head>.+?)\s+(?P<star>\*)?(?P<no>\d{1,4}\s?[A-Z]{0,3}(?:\s*[–—-]\s*\d{1,4}[A-Z]{0,3})?)\s*$")
+ROLE_1850_RE = re.compile(r"^(?P<a>.+?\d[A-Z]{0,3})\.?\s+(?P<role>Comptoir|Magazin|Laden|Werkstätte|Bureau|Fabrik|Wohnung)\s+(?P<star>\*)?(?P<no>\d{1,4}[A-Z]{0,3})\s*$")
+SPLIT_1850_RE = re.compile(r"(?<=\d)([A-Z]{1,3})?\s+(?=(?:[A-ZÄÖÜ][\wäöüß]*|-[A-ZÄÖÜ]|—)[^\d]*\d)")
+INITIALS_RE = re.compile(r"^(?:[A-ZÄÖÜ]\.\s?)+$")
 # Basel 1862: Adresse nach dem letzten «. », «Strasse Nr.» mit optionalem «St. »-Vorsatz
 ADDR_1862_RE = re.compile(r"^(?:(?:St|Kl|Gr|Unt|Ob|Mittl|Vord|Hint|Aeuss|Inn)\.\s?)?[A-ZÄÖÜ][^\d.;]*?\s\d{1,4}\s?[a-zA-Z]?(?:\.\s?\d{1,4})*\.?$")
 TITLES = {"Dr.", "Dr. med.", "Dr. phil.", "Dr. jur.", "Prof.", "Regt.", "Pfr."}
 ADDR_RE = re.compile(r"^(?P<street>.+?)\s+(?P<no>\d+\s?[a-z]?\.?(?:\s?[a-z]\.?)?)\.?$")
 ROLE_RE = re.compile(r"^(Wohnung|Werkstätte|Geschäft|Magazin|Bureau|Laden|Comptoir|Atelier)\s*[:,]?\s*", re.I)
 ORIGIN_RE = re.compile(r"^(?:von|v\.)\s+(?P<place>.+?)(?:\s*\((?P<canton>[^)]+)\))?$")
-RUNNING_HEAD = re.compile(r"^\d+\s*$|^—\s*\d+\s*—$|^(\d+\s+(—\s+)?)?[A-ZÄÖÜ][\w-]+\.?\s+—\s+[A-ZÄÖÜ][\w-]+\.?(\s+\d+)?$|^Alphabetisches Verzeichni|^(\d+\s+)?Verzeichni(ß|ss|s)\b|^Nro\.$|^[A-ZÄÖÜ]\.$")
+RUNNING_HEAD = re.compile(r"^\d+\s*$|^[—-]\s*\d+\s*[—-]$|^(\d+\s+(—\s+)?)?[A-ZÄÖÜ][\w-]+\.?\s+—\s+[A-ZÄÖÜ][\w-]+\.?(\s+\d+)?$|^Alphabetisches Verzeichni|^(\d+\s+)?Verzeichni(ß|ss|s)\b|^Nro\.$|^[A-ZÄÖÜ]\.$")
 FIRM_RE = re.compile(r"&\s*(Cie|Co|Comp|Sohn|Söhne)\b|\bCie\.|\bGebr(üder|\.)|\bSöhne\b|^\S*fabrik\.|\bAktiengesellschaft\b|\bA\.-G\.", re.I)
 IDEM_RE = re.compile(r"\b(id\.|idem|dito|do\.)\s*", re.I)
 
@@ -86,6 +93,12 @@ def page_to_entries(text: str, own_entry=None) -> list[tuple[int, int, str]]:
         if (line.startswith("  ") or line.startswith("\t")) and own_entry and not line.startswith("    ") and own_entry(line.strip()):
             entries.append((i, i, "— " + line.strip()))
             continue
+        # nicht eingerückte Fortsetzung (Lesung ohne Einzug): reine Adresszeile «319 Spahlen-Vorstadt.»
+        # oder Kleinbuchstabe nach Trennstrich der Vorzeile
+        if entries and not line.startswith("  ") and not own_entry and (
+                re.match(r"^\d{1,4}(?:\s?[a-z])?(?:\s*(?:u\.|und|bis|-|–|—)\s*\d{1,4})?\.?\s+[A-ZÄÖÜa-z][^\d]*\.?$", line.strip())
+                or (entries[-1][2].endswith("-") and line.strip()[:1].islower())):
+            line = "  " + line.strip()
         if (line.startswith("  ") or line.startswith("\t")) and entries:
             lf, lt, t = entries[-1]
             t = (t[:-1] + t[-1].rstrip("-") + line.strip()) if t.endswith("-") else (t + " " + line.strip())
@@ -153,15 +166,20 @@ def parse_entry(text: str, prev_surname: str, prev: dict | None = None,
     else:
         head, _, t = t.partition(",")
         head = head.strip()
+        sm = SEL_RE.match(head)                       # «Bischoff-Frey sel. Wittwe»
+        if sm:
+            head, rec["civil_status"] = sm.group("n").strip(), sm.group("s")
         m = re.match(r"^(?P<s>\S+)\s+geb\.\s+(?P<g>.+)$", head)
         if m:
             rec["surname"], rec["maiden_name"] = m.group("s"), m.group("g")
-        elif "-" in head and not head.startswith("-"):
+        elif "-" in head and not head.startswith("-") and not re.search(r"\s(und|u\.)\s", head):
             rec["surname"], rec["alliance_name"] = head.split("-", 1)
         else:
             rec["surname"] = head
+        if INSTITUTION_RE.search(head) and not rec["alliance_name"]:
+            rec["entry_type"] = "firma"
     segs = [s.strip() for s in re.split(r",\s*", t) if s.strip()]
-    if not segs:
+    if not segs and addresses_override is None:
         rec["parse_confidence"] = "review"; rec["residual"] = "; ".join(notes + [t])
         rec["_addresses"] = []
         return rec
@@ -234,6 +252,78 @@ def parse_entry(text: str, prev_surname: str, prev: dict | None = None,
     return rec
 
 
+def _fold(s: str) -> str:
+    s = s.lower().replace("ä", "a").replace("ö", "o").replace("ü", "u").replace("ß", "ss")
+    return re.sub(r"[^a-z]", "", s.split("-")[0])
+
+
+def split_1850_line(t: str) -> list[str]:
+    """Zwei Einträge in einer Lesungszeile («Klipfel, Hch., Weinhdlg. 15-16 Martin, Weinhdlg. 754BC»)."""
+    if t.startswith("("):
+        return []
+    parts, pos = [], 0
+    for m in SPLIT_1850_RE.finditer(t):
+        if ROLE_1850_RE.match(t[pos:]):
+            continue
+        parts.append(t[pos:m.end(1) if m.group(1) else m.start()].strip()); pos = m.end()
+    parts.append(t[pos:].strip())
+    return [p for p in parts if p]
+
+
+def _first_segment_1850(t: str) -> str:
+    m = NO_1850_RE.match(t.strip())
+    head = (m.group("head") if m else t).strip().rstrip(".")
+    return re.split(r",\s*", head)[0].strip()
+
+
+def _surely_inherited(first: str, forenames: set[str] | None) -> bool:
+    """Erstes Segment ist Vorname/Stand/Allianz, also kein neuer Familienname."""
+    if not first or first.startswith(("-", "—")):
+        return True
+    toks = [x for x in first.split() if x]
+    if INITIALS_RE.match(first) or first in STATUS:
+        return True
+    if toks[0].rstrip(".") in ("u", "und", "Gebr", "Geschw", "Hr", "HH", "Wittwe", "Wwe", "Wb", "Jgfr", "Jgfrn", "Jungfer", "Frau", "Dr", "Prof"):
+        return True
+    def ok(x: str) -> bool:
+        b = x.rstrip(".")
+        return (b in (forenames or ()) or b in ("u", "und", "de", "von", "et")
+                or bool(INITIALS_RE.match(x)) or (x.endswith(".") and len(b) <= 5 and b[:1].isupper()))
+    return all(ok(x) for x in toks)
+
+
+def mark_inherited_1850(entries: list[tuple[int, int, str]], prev_surname: str,
+                        forenames: set[str] | None) -> list[tuple[int, int, str]]:
+    """Das Register 1850 ist alphabetisch und wiederholt den Familiennamen nicht. Die
+    Lesung rückt Folgeeinträge nicht zuverlässig ein, darum: sichere Folgeeinträge über
+    Vorname/Stand/Abkürzung erkennen, die übrigen als Kandidaten nehmen und davon nur die
+    längste nicht fallende (alphabetische) Teilfolge als neue Familiennamen akzeptieren."""
+    firsts = [_first_segment_1850(e[2]) for e in entries]
+    cand = [i for i, f in enumerate(firsts) if not _surely_inherited(f, forenames) and not entries[i][2].startswith("—")]
+    keys = [_fold(firsts[i]) for i in cand]
+    base = _fold(prev_surname) if prev_surname else ""
+    # längste nicht fallende Teilfolge (mit base als Untergrenze)
+    n = len(keys); best = [1] * n; back = [-1] * n
+    for i in range(n):
+        if keys[i] < base:
+            best[i] = 0
+        for j in range(i):
+            if best[j] and keys[j] <= keys[i] and best[j] + 1 > best[i]:
+                best[i], back[i] = best[j] + 1, j
+    keep = set()
+    if n:
+        i = max(range(n), key=lambda k: best[k])
+        while i >= 0 and best[i] > 0:
+            keep.add(cand[i]); i = back[i]
+    out = []
+    for i, (lf, lt, txt) in enumerate(entries):
+        if i in cand and i in keep or txt.startswith("—"):
+            out.append((lf, lt, txt))
+        else:
+            out.append((lf, lt, "— " + txt))
+    return out
+
+
 def split_addr_1862(t: str) -> tuple[str, list[tuple[str, str, str]]] | None:
     """«…, Dr., Lehrer an der Gewerbeschule. Heuberg 33.» → (Kopf, [(role, street, no)]).
     Sucht von rechts das «. », nach dem nur noch «Strasse Nr.» steht; mehrere Adressen
@@ -265,6 +355,7 @@ def parse_entry_basel(text: str, volume: str, prev_surname: str, prev: dict | No
     t = text.strip()
     t = re.sub(r"\bI\.(?=[\s,]|$)", "J.", t)        # Fraktur-Initiale «I.» ist «J.» (J. J., J. Rud.)
     t = re.sub(r"\bI\.I\.", "J.J.", t)
+    t = re.sub(r"(?<=\d)_(?=[a-z])", " ", t)           # «1695_a»
     notes, city_part = [], ""
     if volume == "1841":
         m = BANN_RE.search(t)
@@ -273,23 +364,44 @@ def parse_entry_basel(text: str, volume: str, prev_surname: str, prev: dict | No
         m = ADDR_1841_RE.match(t)
         if m:
             no = re.sub(r"\s+", " ", m.group("no")).strip()
+            street, house = m.group("street").strip(" ,."), ""
+            # Hausname/Zusatz nach der Strasse: «Freie Straße. Zunft der Hausgenossen»
+            for pm in re.finditer(r"\.\s+", street):
+                if not ABBR_END_RE.search(street[:pm.start()]):
+                    street, house = street[:pm.start()].strip(), street[pm.end():].strip(" .")
+                    break
             rec = parse_entry(m.group("head"), prev_surname, prev, forenames,
-                              addresses_override=[("", m.group("street").strip(" ,."), no)])
+                              addresses_override=[("", street, no)])
+            if m.group("star"):
+                rec["owner_flag"] = "1"
+            if house:
+                notes.append("hausname/zusatz: " + house)
         else:
-            rec = parse_entry(t, prev_surname, prev, forenames, addresses_override=[])
-            notes.append("adresse nicht erkannt")
+            sm = STREET_ONLY_1841_RE.match(t)
+            if sm and not re.search(r"\d", sm.group("street")):
+                rec = parse_entry(sm.group("head"), prev_surname, prev, forenames,
+                                  addresses_override=[("", sm.group("street").strip(" ."), "")])
+                notes.append("adresse ohne nummer")
+            else:
+                rec = parse_entry(t, prev_surname, prev, forenames, addresses_override=[])
+                notes.append("adresse nicht erkannt")
     elif volume == "1850":
+        extra = []
+        rm = ROLE_1850_RE.match(t)                       # «Joh. 869. Comptoir 1202»
+        if rm:
+            extra = [(rm.group("role").lower(), "", rm.group("no"))]
+            t = rm.group("a")
         m = NO_1850_RE.match(t)
         if m:
             no = m.group("no").replace(" ", "")
             if m.group("star"):
                 city_part = "Kleinbasel"
             head = m.group("head").strip().rstrip(".")
-            if re.match(r"^—\s*u\.\s", head):                 # «— u. Steigmeyer 1542»: Firmenzusatz
-                rec = parse_entry(head, prev_surname, prev, forenames, addresses_override=[("", "", no)])
+            if re.match(r"^—\s*(u\.|und)\s", head):           # «— u. Steigmeyer 1542»: Firmenzusatz
+                rec = parse_entry(head, prev_surname, prev, forenames, addresses_override=[("", "", no)] + extra)
                 rec["entry_type"] = "firma"; notes.append("Firmenzusatz zur Vorzeile")
             else:
-                rec = parse_entry(head, prev_surname, prev, forenames, addresses_override=[("", "", no)])
+                rec = parse_entry(head, prev_surname, prev, forenames, addresses_override=[("", "", no)] + extra)
         else:
             rec = parse_entry(t, prev_surname, prev, forenames, addresses_override=[])
             notes.append("adresse nicht erkannt")
@@ -333,7 +445,11 @@ def parse_page(text: str, volume: str, page: int, section: str = "einwohner",
     rows, prev, prev_rec = [], prev_surname, None
     basel = volume in ("1841", "1850", "1862")
     own = (lambda s: bool(NO_1850_RE.match(s))) if volume == "1850" else None
-    for n, (lf, lt, t) in enumerate(page_to_entries(prenormalise(text), own_entry=own), start=1):
+    raw_entries = page_to_entries(prenormalise(text), own_entry=own)
+    if volume == "1850":
+        raw_entries = [(lf, lt, part) for lf, lt, t in raw_entries for part in split_1850_line(t)]
+        raw_entries = mark_inherited_1850(raw_entries, prev_surname, forenames)
+    for n, (lf, lt, t) in enumerate(raw_entries, start=1):
         if section == "berufe" or basel:
             if CROSSREF_RE.match(t):
                 continue
