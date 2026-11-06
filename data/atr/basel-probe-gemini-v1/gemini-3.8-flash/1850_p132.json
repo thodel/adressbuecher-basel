@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p132",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p132.jpg",
+    "bytes": 1216386,
+    "sha256": "5a15538d1a7ceea35fc716078614abeaabc44529574ccd07e8c0ac32f4452d4c",
+    "sha256_of": "original",
+    "working_copy": "1850_p132.jpg"
+  },
+  "text": "119\n\nRiggenbach, Alb, Kaufm. 755\n-Schmid, Sped.-Hdlg. 830\nJoh. 869. Comptoir 1202\n-Stehlin, Fch., Banq. 983\n-Sulger, Chr., Archit. 1457\nAug., Lehrer 1607\nFranz, Kaufmann 1607\nJ. J., Ladengehülfe *90\n-Huber, Wittwe 755\nRimmensperger, Frau C. 1164\nRigiani, Chocoladefabr. 1427\nRitter, J. J., Gastgeber 1145\n-Fischer, Metzger 1235\nWittwe, Marie *409\nRittmann, D., Zahnarzt 1649\nRoche-Versail, Wittwe 1306\nRochow, J. F., Commis 420\nRognon-Schölly, H. F. 1044\nRohner, J. M., Wirth 1122\nJoh., Beck 1316\n-Imhof, M., Hdlsm. *293\nSchwestern 952\n-Fischer, Wittwe 1106\nRohr-Schmidt, Joh. 319\nRonus-Gemuseus, Christ. 105\nu. Holzach, Quinc.-Hlg. 1540\n-Gemuseus, Wwe., El. 222\nJgfr. Katharina 956\nRoschet, Hier., Sattler 140\nHier., Seiler 140\nAbraham, Kürschner 1709\nJgfr. Margaretha 1084\nRosenburger-Rapp, J. 1472\nRosenfeld, Eduard 1625\nRosenmund, Joh. Jak. 1544\nRöslin, J. R., Spezierer 152\nJ. R., Posamenter 865\nRud., Ferger 1191\nRoth, Wernh., Schuhm. 72\nJ. J., Postfaktor 96\nHeinrich, Metzger 121\nFranz, Schneider 191\n-Oser, Balth., Glaser 651\n[spalte 2]\nRoth-Hamberger, Wwe. 724A\nPeter, Flachmaler 967\nMartin, Wirthschaft 1031\nMartin, Fabrikmeister 1033\nRudolf, Geschirrladen 1112\nAbraham, Schlosser 1401\nJoh. Kasp., Spengler 1548\nJoh. Peter, Müller *352\nChrist., Schlosser *366\n-Socin, Wittwe 99\nJ. J., Lohnwascher *287\nRottwill, Jgfr. Kath. *426\nRoulet, Jgfr. Georgine 1203\nRübenstahl, J., Steinmetz 769\nRublin, K., Zimmerm. 1234\nRudin, H., Fabrikarbeiter 711\nJoh., Fabrikserger 1704\nRuef, Abr., Hdlsm. 492-93\nRueff, Adolph, Hdlsm. 551\nRühlin, J. G., Lohnwasch. *258\nJ. G., Nestel-Fabrik. *354\nRumpf, Dan., Wundarzt 165\nKarl Chr., Commis 342\n-Imhof, W., Lehrer 893B\nEml., Bürstenbinder 1074\nChrist., Partikular 1516\nJ. W., Cand. Theol. 1516\n-Bachofen, Hieron. 1630\nRuprecht, Stephan 1739\nRych-Bratschy 1734\nRyff, Wwe., Wirthsch. 458\nWwe., Sal., Wasch. *283\nRyhiner-Bischoff, Sam. 64B\n-Schönauer, Andr. 931-33\nKarl, Bandfabrikant 940\n-Bischoff, Jul. 1042\n-Bischoff, K., Fabr. 1084A\n-Vischer, Chr. 1084A\n-Menger, Eml. 1275A\n-Christ, Eml. 1377\n-Werthemann, Wwe. 1043\n-Streckeisen, Wittwe 1365\n-Bernoulli, W. *249B",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9826,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2103,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:28:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1850_p132",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p132.jpg",
+      "bytes": 1216386,
+      "sha256": "5a15538d1a7ceea35fc716078614abeaabc44529574ccd07e8c0ac32f4452d4c",
+      "sha256_of": "original",
+      "working_copy": "1850_p132.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:28:59+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p445",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p445.jpg",
+    "bytes": 1534184,
+    "sha256": "061db54760ba93bb5bd15391a39976340b6bec8c76be13490af84bed4793a8fd",
+    "sha256_of": "original",
+    "working_copy": "1862_p445.jpg"
+  },
+  "text": "380\nVerzeichniß der Berufsbarten.\nKrebs=Stelzer, Hilarius. Schützengraben 2. Hoffmann, Gönter u. Cie. Rittergasse 21.\nKunz=Meyer, Rud. Steinenvorstadt 56. Jfelin, Gebr. St. Alban=Vorstadt 69.\nLenggenhager, J. J. St. Peters-Berg 35. Levy, Abr. Marktplatz 5.\nLichtenhahn=Glock, Friedr. Stiftsgasse 5. Merian=Bister, H. Fischmarkt 9.\nLiebreich=Frutiger, Rud. St. Peterskirch- Meyer und Sohn, Joh. Barfüsserplatz 5.\nplatz 12. Meyer, H. Gerbergasse 31.\nLippold=Meyer, Ludw. St. Alban=Thal 44. Montfort und Labhardt. St. Elisabethen-\nWäglin, Jsaak. Rebgasse 45. Straße 11.\nManz=Gloor, Ed. Todtentanz 7. Breiswerk, Math. Eisengasse 20.\nManz=Jenni, Johs. Binninger=Straße 15. Socin u. Sohn, Abel. St. Peters=Graben 27.\nMartin=Dietrich, J. H. Steinenthorstr. 2. — =Werthemann, Christ. Bäumleingasse 5.\n— =Krebs, Heinr. Rebgasse 36. Wahr, Gebrüder. Freie Straße 31.\nMaß=Stehelin, Johs. Schützenmattstraße 33. Marbrier.\nMislin=Schmid, Frz. J. Spalenberg 17. Dizerens, Louis. Aeschenvorstadt 46.\nOberer, Carl. Imbergäcklein 9. Duffi=Deck, Jakob. Riehenthofstraße 7.\nOppermann, Carl, Vater u. Sohn. Steinen- Klausfelder=Körtzcher, B. Alybecksstraße 109.\nthorstraße 27. Mischaud=Tschopp, Th. Horburgstraße 31.\nRiggenbach=Rienzy, Johannes. St. Johann- Matrazen- und Bettmacherinnen.\nVorstadt 51. Unlifer, Elisab. M. Utengasse 22.\nRoth=Esslin, Peter. Sternengäcklein 18. Buek, Cath. Dor. Aeschenvorstadt 19.\nRuegg=Gräflin, Johs. Emil. Riehenthor- Glunz, Geschwister. Grenzacher=Straße 52.\nstraße 13. Guth, Susanna. Münzgäcklein 26.\nSchilling=Weitnauer, Wwe. Elisabetha. St. Honer, Franziska. Schneidergasse 28.\nPeters=Gasse 48. Müller=Winter, Elisab. Kronengasse 9.\nSchmid, Georg. St. Peters-Berg 42. Soller, Dorothea. Kirchgasse 13.\nSchmidlin=Mägelin, Jakob. Riehenthofstr. 17. Spiek=Frey, Marg. Pfluggäcklein 10.\nSchwarz=Bögly, Philipp. Karthausgäckl. 5. Waker=Gunti, Barbara. Spalenthorweg 53.\nSchweizer=Jjenegger, Wwe. M. A. Rhein- Weiß=Brefin, Wwe. Ursula. Gerbergäckl. 10.\ngasse 39. Maurermeister. (Siehe auch Baumeister.)\nSeifert=Oyfin, Benjamin. Steinenthorstr. 11. Baader=Tschann, Urs Jof. Vogelsangweg 14.\nSenn=Zwicki, Heinrich. Aeschenvorstadt 37. Berlinger=Martin, Georg. Bahnhofstraße 31.\nSirt, J. J. Schützenmattstraße 14. Frey=Frey, Alois. Hintere Bahnhofstraße 48.\nSommer=Walter, Melch. St. Peters=Platz 10. Gschwend=Täschler, Jof. Wallstraße 5.\nStempelmann=Schwander. Spiegelgasse 12. Gürtler=Heckle, Peter. Rheingasse 38.\nStingelin=Seiler, Jac. Steinenthorstraße 32. Koch=Gaier, Christ. Alybecksstraße 66.\nStriibin, Johs. Platzgäcklein 7. Kößler=Raufmann, Jacob. Hammerstraße 67.\nSutter=Zimmermann, Ignaz. Steinenbach- Meyer=Streulin, Georg. Klosterberg 13.\ngäcklein 12. Schaarschmidt=Hagist, August. Klingelthal-\nWalter=Stadler, Johs. Rappoltshof 1. straße 43.\nWerenfels=Mäglin, Emil. Hirschgasse 5. Tschann=Bergi, Napoleon. Mostackerstraße 36.\nWiesner=Thommen, Emil. Hammerstraße 48. Wertenberg=Gürtler, Jac. St. Leonhards-\nStraße 20.\nMalzfabrik.\nEdenstein, Ed. Steinenthorstraße 16.\nMangerinnen.\nGeorg, Elisabeth. Schnabelgäcklein 17.\nHaagen, Marg. u. Ber. Gerbergasse 25.\nTschudy=Wanner, Wwe. Anna. St. Peters-\nBerg 11.\nManufakturwaaren- und Tuchhändler.\nBernoulli u. Labhardt. Mostackerstraße 20.\nBicard, R. M. St. Leonhards=Graben 8.\nBischoff, Benedikt. Nadelberg 10.\nBloch, Rud. Gerbergasse 22.\nBraunschweig, Rapht. Hutgasse 15.\nBrüderlin, Nicl. Marktplatz 8.\nCassal, Celest. u. Antoinette. Eisengasse 18.\nEckhardt, J. C. Nadelberg 18.\nFischer, Johs. Freie Straße 72.\nGemuseus, C. Eisengasse 13.\nGekler, Em. Hutgasse 23.\nMechaniker.\nAenishänslin=Grünacher, Carl. Rebgasse 40.\nBauer=Felber, Jakob. St. Peters=Graben 37.\nBurchardt=Esslin, Franz. Kümelinbachweg 4.\nBuser=Tschudin, Friedr. St. Clara=Straße 11.\nEpple=Stücklin, Chr. Gartenstraße 64.\nJäcklin=Baur, Rud. Elsässer=Straße 4.\nKaufmann=Schlack, Michael. St. Albanthor-\ngraben 54.\nLinder=Strub, Gottl. N. Schnabelgäcklein 17.\nMathieu=Saner, Ant. Steinenchachgäcklein 16.\nMöschinger, Heinrich. Kanonengasse 5.\nDelhafen=Dreyer, Sam. Jacob. St. Johann=\nVorstadt 37.\nRudin=Zehntner, Johs. St. Clara=Straße 4.\nKutschmann=Berlinger, Aug. Rheingasse 22.\nSchaub=Birmann, Bernh. Rheingasse 49.\nBölmy=Rieder, Heinrich. Steinenthorstraße 32.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12900,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4205,
+    "lines": 82,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:31:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p445",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p445.jpg",
+      "bytes": 1534184,
+      "sha256": "061db54760ba93bb5bd15391a39976340b6bec8c76be13490af84bed4793a8fd",
+      "sha256_of": "original",
+      "working_copy": "1862_p445.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:31:59+00:00"
+  }
+}

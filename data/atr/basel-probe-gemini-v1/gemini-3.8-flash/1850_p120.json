@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p120",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p120.jpg",
+    "bytes": 1194834,
+    "sha256": "5e412be33f04fc7570cd09fb80f6f6bc654056c641b23a1894c52321b26a06a9",
+    "sha256_of": "original",
+    "working_copy": "1850_p120.jpg"
+  },
+  "text": "107\n\nHalter, N., Bettfedhdlg. 1526\n  Wittwe, Elis. 1597\nHandmann, I. I. 172\n  Ludwig 1311A\nHanhart, I. K. 669\nHanthon, Karl, Partik. *79\nHäring, Aug., Schreiner 771\n  Joh., Condukteur 1399\nHartmann, I., Beck 863\n  Saml., Ferger *108\nHasler, Sebast., Ferger 74\n  -vonMechel, Gottl. 118\n  Nikl., Beck 86\nHaug, Joh., Schuhm. 726\nHaupt, L., Gassenbesezer *403\nHausammann, Peter 363\nHauschild, Ernst 754L\nHauser-Euler, Karl 283\n  -Gürtler, David 955\n  -Oser, Rudolf 974\n  Joh., Commis 1164\n  -Fäsch, Frz. Kasp. 1530\n  u. Steigmeyer 1542\nHecht, Jak., Zimmerm. *125\nHeckel, I. I., Ladendiener 542\nHeckendorn, Fr., Färber *51\n  Frz., Färber *408\n  Jgfr. Lisette 119A\nHediger, Joh. Rud. *212\nHegar, Fr., Klavierhdlg. 1B\n  C. Aug., Lithograph. 126\nHegnauer, I., Posam. 1504\nHeidegger, Fch., Agent 127\nHeim, Karl 2\nHeimers, Hch. Wilh. 1336\nHeimlicher, I.I., Dr. J. 1083B\n  -Brenner, Wittwe 1083B\nHeinzgen, Jgfr., Ver. 306\nHeitz, A. Chr., Notar 1065\n  Joh. Jak., Drechsler 1565\n  Bernhard, Drechsler 1625\n  Jgfr., Ros., Modiste 1170\nHeller-Speyermann, H. 1106\n[spalte 2]\nHellstern, Ant., Müller 1308\n  P., Maurer *241\n  Josef, Müller *300\nHemann, David 414\nHenning, Franz W. 1112\nHenz, Gg., Hufschmied 329\n  Jakob, Beck 329\n  Euch., Wagner 351\n  -Bernet, Jb., Beck 351\n  -Fischer, Joh., Beck 354\n  -Schölly, Nikl., Beck 774\n  -Ludw., Sohn, Beck 774\n  I. L., Commis 1096\n  I. I., Thorschreiber 1276\n  -Dömmelin, N., Hafner *12\n  Eduard, Ferger *123\nHerbel, Eb., Zimmerm. 965\nHergott, I. L., Lehrer 176\nHermann, Ad., Schlosser 1232\nHerrmann, Hch., Ferger 454\nHerr, Fidel, Gerber *353\nHerrsperger, Jgfr., V. 253A\n  Jgfr., Elisabetha 253A\nHerzog, Eml., Siegrist 272A\n  -Reber, Emanuel 456\n  B., Kutscher 476\n  Joh., Notar 521\n  Achilles, Kaufmann 973\n  -Wybert, Wittwe 973\n  Jgfr., Esther 408\nHesse, I. A., Schneider 1486\nHeß, Hs., Historienmaler 27\n  Joh., Spitalpfarrer 557\n  Joh., Magazinknecht 1338\n  I. I., Commis 1528\n  -Mitz, H. R., Lehrer 1648\nHetzel, G. Fr., Mechan. 1679\nHeußler, Friedrich 94\n  -Bischoff, Abr., Rektor 571\n  Abel, Handelsmann 1059\n  -Ryhiner, A., J.U.D. 1203A\n  -Wölfflin, Christ. 1214-15\n  -Thurneysen, Dan. 1274A",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10346,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2125,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:28:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1850_p120",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p120.jpg",
+      "bytes": 1194834,
+      "sha256": "5e412be33f04fc7570cd09fb80f6f6bc654056c641b23a1894c52321b26a06a9",
+      "sha256_of": "original",
+      "working_copy": "1850_p120.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:28:49+00:00"
+  }
+}

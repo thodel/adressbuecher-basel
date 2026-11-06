@@ -22,9 +22,9 @@ je nach Seite den Rand der Gegenseite.
 
 | Band | Seiten | Satz | Signatur / Permalink | Abfolge (PDF-Seiten; vollständig in `data/csv/01_pages.csv`) |
 |---|---:|---|---|---|
-| 1841 | 202 | Fraktur | STA H 43 17 · [dls 1225921](https://dls.staatsarchiv.bs.ch/records/1225921) | _wird nach Welle 0 eingetragen_ |
-| 1850 | 165 | Fraktur | STA H 43 20 · [dls 1225925](https://dls.staatsarchiv.bs.ch/records/1225925) | _wird nach Welle 0 eingetragen_ |
-| 1862 | 506 | Fraktur | STA H 43 22 · [dls 1225927](https://dls.staatsarchiv.bs.ch/records/1225927) | _wird nach Welle 0 eingetragen_ |
+| 1841 | 202 | Fraktur | STA H 43 17 · [dls 1225921](https://dls.staatsarchiv.bs.ch/records/1225921) | Einband 1 · leer 2–5 · Titel/Erklärung 6–7 · **Nummernbuch 8–83** (gedr. 1–76; Grosse Stadt: St. Johann-Q. 8, Spahlen-Q. 18, Steinen-Q. 30, Aeschen-Q. 40, St. Alban-Q. 49, Stadt-Q. 60; Kleine Stadt 70: St. Bläsi-Q. 70, Riehen-Q. 71) · **Register 84–145** (gedr. 1–62; Gross-Basel 84, Klein-Basel 134) · Inserate 146–147 · Nachschrift Locher Okt. 1840 148 · Druckermarken 149, 151 · **Nachtrag März 1841** (Jenni-Erlacher): Titel 152, Berichtigungen/Häuserkäufe 153, Register 154–178 (gedr. 1–25; Klein-Basel 174), **Bänne 179–197** (gedr. 26–44: Gross-Basel-Bann 179, Bläsi-Bann 189, Riehen-Bann 193) · leer 198–201 · Einband 202 |
+| 1850 | 165 | Fraktur | STA H 43 20 · [dls 1225925](https://dls.staatsarchiv.bs.ch/records/1225925) | Einband 1 · leer 2–5 · Titel 6 (hrsg. J. G. Wölfflin, Druck J. W. Baur sel. Erben) · Vorrede 8–9 · **Nummernbuch 11–108** (gedr. 1–95; unbedruckte Blätter 23, 30, 37; Grosse Stadt: St. Johann 11, Spahlen 24, Steinen 40, Aeschen 53, St. Alban 65, Stadt 80; Kleine Stadt 92: Bläsi, Riehen 93, St. Bläsy 99; S. 108 Etablissements vor den Thoren) · **Register 109–142** (gedr. 96–129, 2-spaltig) · **Ragionen-Firmen 143–157** (gedr. 130–144) · Behörden-Präsidenten 158–159 · leer 160–164 · Einband 165 |
+| 1862 | 506 | Fraktur | STA H 43 22 · [dls 1225927](https://dls.staatsarchiv.bs.ch/records/1225927) | Einband 1 · leer 2–5 (Exlibris Paul Koelner) · Titel 6 (Verlag Otto Stuckert, «mit einem Plane der Stadt»; Plan fehlt im Scan) · Vorwort 7 · Inhalt 8 · **Behörden 10–39** (röm. VII–XXXVI, 2-spaltig) · **Ragionenbuch 40–58** (XXXVII–LV, Tabelle 3 Spalten) · Berichtigungen/Neubauten 59–65 (LVI–LXII) · Quartiere und Strassen 66–69 (gedr. 1–4) · **Häuserverzeichnis 70–275** (gedr. 5–210, Tabelle 5 Spalten; Grosse Stadt 70, Kleine Stadt 229) · Hausnamen-Register 276–289 (211–224) · Häuserbesitzer-Register 290–317 (225–252) · **Bürger und Einwohner 318–428** (253–363, 2-spaltig) · **Berufsarten 429–459** (364–394, 2-spaltig) · Boten/Audienzen 460 · Inserate 462–501 · leer 502–505 · Einband 506 |
 
 Die drei Bände sind **drei verschiedene Werke** mit je eigener Eintragsgrammatik (Sichtung
 06.11.2026 an Einzelseiten):
@@ -57,6 +57,21 @@ Die drei Bände sind **drei verschiedene Werke** mit je eigener Eintragsgrammati
    Einwohner* zweispaltig (`Name-Allianz, Vorname, Beruf. Strasse Nr.`, Gedankenstrich =
    wiederholter Familienname, `-Allianz` nach dem Gedankenstrich); zuletzt *Inserate* auf
    gelbem Papier (Antiqua und Fraktur gemischt).
+
+Befund Welle 0 (06.11.2026, alle 873 Seiten klassifiziert, Grenzseiten auf der
+Einzelseite bestätigt): Die gedruckten Seitenzahlen gehen auf (1862: gedruckt = PDF − 65
+arabisch, PDF − 3 römisch); unbedruckte Blätter in 1850 (PDF 23, 30, 37) sind keine
+Lücken. Der in 1850 und 1862 angekündigte Stadtplan fehlt in beiden Scans. Zeichen:
+in 1841 bezeichnet `*` laut Berichtigung (PDF 153) die **nicht** vom Eigentümer
+bewohnten Gebäude (die Erklärung auf PDF 7 sagt das Gegenteil); in 1850 bedeutet `*` vor
+der Nummer im Register **Kleinbasel** (eigene Nummernfolge ab 1, Vorbemerkung PDF 109),
+nicht Eigentümer; Buchstaben an Nummern (`267A`, `A 1`, `BC 9`) sind Teilhäuser ohne
+gedruckte Erklärung. 1862 erklärt die Quartiere I–VIII auf PDF 66 (I St. Johann,
+II Spalen, III Steinen, IV Aeschen, V St. Alban, VI Stadt, VII Bläsi, VIII Riehen) und
+setzt Eigentümer in grösserer, Bewohner in kleinerer Schrift. «U. B.» / «O. B.» im
+Gross-Basel-Bann 1841 ist nach Lage der Strassen Unterer/Oberer Bann. Das 1850er
+Exemplar trägt viele handschriftliche Nachträge und Streichungen im Nummernbuch; 1841
+ist in den Nachtragsblättern (PDF 151–153) beschädigt, aber lesbar.
 
 Was die Verarbeitung bestimmt: alles Fraktur (die Aarauer Wahl der Leser für Fraktur ist
 der Ausgangspunkt), Tabellen in 1862 (der Prompt gibt Tabellenzeilen mit ` | ` vor),
@@ -100,14 +115,16 @@ stadtweite Nummer und in 1862 die neue Nummer je Strasse — `building_no_system
 welche (`alt` / `neu`).
 
 Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeichnis),
-`einwohner`, `firmen` (Ragionenbuch), `behoerden`, `strassen`, `inserate`, `leer`, `sonst`.
+`einwohner` (Register, inkl. Nachtrag und Bänne 1841), `firmen` (Ragionenbuch), `behoerden`,
+`strassen`, `hausnamen` (1862), `besitzer` (Häuserbesitzer-Register 1862), `berufe`
+(Berufsarten 1862), `inserate`, `leer`, `sonst`.
 
 ## 4. Schritte und Abnahme
 
 | Welle | Schritt | Inhalt | Abnahme |
 |---|---|---|---|
 | 0 | Setup ✅ 06.11.2026 | Repo (`~/Repos/adressbuecher-basel`), Skripte aus Aarau, Seitenbilder byteidentisch (`data/pages/`, nicht im Git), `00_volumes.csv` mit SHA-256, Signatur, Permalink | erfüllt |
-| 0 | Seiten | `01_pages.csv` mit Abschnitt, gedruckter Seitenzahl, Satz, Spalten für alle 873 Seiten (Kontaktbögen à 20 Seiten durch Hilfsagenten, Grenzseiten auf der Einzelseite bestätigt) | alle Seiten klassifiziert, Abschnittsfolge im Plan |
+| 0 | Seiten ✅ 06.11.2026 | `01_pages.csv` mit Abschnitt, gedruckter Seitenzahl, Satz, Spalten für alle 873 Seiten (Kontaktbögen à 20 Seiten durch vier Hilfsagenten, Grenzseiten auf der Einzelseite bestätigt) | erfüllt; Abschnittsfolge in Abschnitt 1 |
 | 1 | ATR Probe | 20 geschichtete Seiten (`data/csv/probe_pages.csv`) auf tei unter `data/nextcloud/adressbuecher-basel/probe/`; Gemini 3.8 Flash (MCP, `reasoning=low`), `qwen3-vl-30b-a3b-instruct` und `qwen3.8-27b` (GPUStack, CLI); 4 GT-Seiten; CER je Leser und Seitentyp | Befund in Abschnitt 2, Entscheid je Seitentyp |
 | 1 | ATR voll | alle Seiten ausser leer/Inserate mit den zwei gewählten Lesern; Läufe `basel-<leser>-v1` | `02_lines.csv` vollständig |
 | 2 | Einträge | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p046",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p046.jpg",
+    "bytes": 1150637,
+    "sha256": "29e51f13ff097dfc163b7e1b57bde7589479e866a7083fc322640d5fa614b22b",
+    "sha256_of": "original",
+    "working_copy": "1850_p046.jpg"
+  },
+  "text": "Steinen-Quartier. 33\n\n751 Lichtenhan-Hagenbach, Joh. Rud., Commissions- u.\n    Speditionshandlung.\nA 751 Mieg, J. J., Med. et Chir. Dr. und Professor.\n\nKohliberggäßlein.\n\n752 Martin, Heinrich, Flachmaler.\n753 Meyer, Friedrich, Thierarzt.\n754 Plattner-Hosch, J., Zimmermeister.\n  Spreyermann, Elias, Commis.\nA 754 Häfelfinger, Joh. Rud., Vater, Commis.\n  Häfelfinger, Joh. Rud., Sohn, Commis.\nBC 754 Klipfel, Martin, Weinhandlung.\n. D 754 Schaub, Johannes, Kaufhausarbeiter. [handschriftlich: gestrichen]\n. E 754 (Stallung.) Plattner, Zimmermeister, geh. [handschriftlich: gestrichen]\nF 754 Meyer, Eml. Walter, Kaufmann.\nGH 754 (Fabrik u. Wohnh.) Buxtorf-Bischoff, Andr., geh.\n  Imhof-Haas, Heinrich, Fabrikaufseher.\n  Fichter, Abraham, Stuhlschreiner.\n\nKanonengasse.\n\nI 754 Hindenlang, Simon, Commis.\n  Kißlig, Heinrich, eidg. Beamter.\nK 754 Meyer, Wittwe Salome, geb. Gyßler.\n  Gaß, J. J., Metzger.\n  Höfl, G. F., Musiklehrer.\nL 754 Hauschild, Ernst, Gesanglehrer.\n  Beck, Chr., Lehrer.\n  Mäglin-Sendranier, Rud., Commis.\nM 754 Schaub, Georg, Schreiner.\n  Burckhardt, K., Hauptmann bei der Standestruppe.\n  Blackwell, Jgfr. Jane, Lehrerin.\n  Urech, Jgfr. Elis., Kunstmalerin.\nN 754 Respinger-Stockmeyer, Leonh., Commis.\nO 754 Reiter-Bildstein, E., Musikdirektor.\n  Bernard, Wittwe, Partikularin.\n  Hagenbach, Wittwe, geb. Geigy, Rentière.\n\nAlter Kohliberg.\n\n755 Schnell, J. J., Dr. J., Civilgerichtspräsident.\n  Riggenbach, Wittwe, geb. Huber, Rentière.\n  Riggenbach, Albert, Kaufmann.\n756 (Walke) Oser, Adam, Färber, geh.\n\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6589,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1526,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:28:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1850_p046",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p046.jpg",
+      "bytes": 1150637,
+      "sha256": "29e51f13ff097dfc163b7e1b57bde7589479e866a7083fc322640d5fa614b22b",
+      "sha256_of": "original",
+      "working_copy": "1850_p046.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:28:32+00:00"
+  }
+}

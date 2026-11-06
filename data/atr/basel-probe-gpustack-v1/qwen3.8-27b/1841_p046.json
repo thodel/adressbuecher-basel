@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p046",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p046.jpg",
+    "bytes": 946320,
+    "sha256": "7f38f78a39018b0b15fc0e1ef5785defbed87476b8172a09667c46ddf31a3ed0",
+    "sha256_of": "original",
+    "working_copy": "1841_p046.jpg"
+  },
+  "text": "39\nNro.\n1060 Gengenbach, Frau Elif., geb. Mieg.\n1061 Benz, Friedrich, Wittwe, Uhrenmacher.\n1062 Schneider, Heinrich, Sattler.\n1063 Schüz, Jakob, Handels-Commis.\nSpitalgässlein.\n1064 Ryhner, geb. Battier, Wittwe.\nBeim Aeschen-Schwibogen.\n1065 * Berri, Melchior, Architect.\n1066 u. 1067 Stähelin, Christoph, Handelsmann.\n1068 Vogel, Franz Martin, Schneider.\nTiefe.\n1069 Schaffner, J. J., Wittwe, Weinschenk.\n  Wiedemann, Barthol., Handelsmann.\n1070 Schloffer, Caspar, Weißbeck.\n1071 Oser, J. J., Schuhmacher.\n1072 Meyer, Joh., Perrückenmacher.\n1073 Christ, Ludwig, Schuhmacher.\n1074 Frey, Daniel, alt Landjäger.\n1075 Wässler, Jakob, Feilenhauer.\n  Rumpf, Eman., Bürstenbinder.\nAm Bänmlein.\n1076 Wettstein, Jakob Heinrich, Apotheker sel. Wittwe.\n1077 von Speyr, Emil, Wundarzt.\n1078 u. 1079 Hügin-Holzach, J. J., Mehlhändler.\n1080 * Loh-Zäslin, J. U., Senfal.\n  Christ, J. J., Notar und Statthalter.\n1081 Retterer, Jos., Weinschenk.\n1082 Sulzmann, Isaac Jak., Fabriksarbeiter.\n1083 Benz, Jakob Ludwig, Sohn, Uhrenmacher.\n1084 Spital. — Weitnauer, Achilles, Spitalmeister.\n1085 Merian-Respinger, Balthas., Handelsmann.\n1086 Wolleb, Rud., Goldschmid.\nStreitgasse.\n1087 * Müller, Conrad, Schuhmacher, geh.\n  Kling, Elias, Glaser.\n1088 Giesen, Caspar sel., Wittwe.\n  Bürgin, Carl, Buchbinder.\n1089 Meyer, Joh. Christoph, Zuckerbäcker.\n1090 Schmid, Joh. Heinrich, Kürbler.\n1091 Stähelin, P. sel., Wittwe.\n  Comptoir von Gebrüder Stähelin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 41870,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1430,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:34:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1841_p046",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p046.jpg",
+      "bytes": 946320,
+      "sha256": "7f38f78a39018b0b15fc0e1ef5785defbed87476b8172a09667c46ddf31a3ed0",
+      "sha256_of": "original",
+      "working_copy": "1841_p046.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:34:34+00:00"
+  }
+}

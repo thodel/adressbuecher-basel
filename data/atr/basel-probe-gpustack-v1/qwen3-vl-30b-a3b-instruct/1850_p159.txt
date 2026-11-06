@@ -1,0 +1,57 @@
+146
+Kornhaus=Inspection:
+Ladenamts=Verwaltung:
+Land= u. Wald=Inspection:
+Land=Armen-Commission:
+Lösch=Anstalten:
+Markt=Amt:
+Militär=Collegium:
+Militärdienst=Tagat.=Commiss:
+Montirungs=Kammer:
+Niederlassungs=Commission:
+Notariats=Commission:
+Ohrmgeld=Kammer:
+Petitions=Commission:
+Polizei=Aufsichts=Commission:
+Polizei=Gericht:
+Post=Commission:
+Ragionenbuch=Commission:
+Rechnungs=Kammer:
+Revisions=Commission:
+Salz=Kammer:
+Sanitäts=Collegium:
+Spital=Pflegamt:
+Staats=Collegium:
+Stadt=Cassa=Verwaltung:
+Straf=Anstalt=Commission:
+Waifen=Gericht:
+Waifenhaus=Inspection:
+Zeughaus=Kammer:
+Herr Gadtrath N. Forcard.
+" Kanzlist F. A. Frey.
+" Stadtrath A. Sulger.
+" Nathsherr C. Stump.
+" Stadtrath E. Ruhiner.
+" L. Lindcr, Mefferschmied.
+" Nathsh. F. F. Stehlin.
+" Major Fch. Kern.
+" Hauptm. Th. Kündig.
+" Bürgerm. F. Burckhardt.
+" Nathsh. Em. Burckhardt.
+" C. Geign.
+" Ch. Nonus=Gemuseus.
+" Stadtrath F. Bloch.
+" R. Wölfflin.
+" Nathsherr B. Socin.
+" Stadtrath N. I Christ.
+" H. Bischoff.
+" Burckhardt.
+" Nathsh. F. F. Ifelin.
+" M. Öswald.
+" Stadtrath E. Thurneyfen.
+Der Herr Amtsburgermeister.
+Herr Stadtrath N. Christ.
+" Nathsherr E. Burckhardt.
+" Chr. Nonus=Gemuseus.
+" Stadtrath D. Burckhardt.
+" Major Rud. Paravicini.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p151",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p151.jpg",
+    "bytes": 942431,
+    "sha256": "fe3b3746c0f123e9037186b27d9eb00c043b18b1505a6a77cba369404813f412",
+    "sha256_of": "original",
+    "working_copy": "1850_p151.jpg"
+  },
+  "text": "138\n\n1404 | S. u. J. J. | Merian . | . | Samuel de Joh. Jakob\n  Merian.\n  Joh. Jakob de Joh.\n  Jakob Merian.\n912 | Fr. | Merian-Forcart | . | Johann Jakob Bischoff-\n  Kestner.\n  Eduard Merian.\n  Fr. Merian-Forcart,\n  Commanditaire.\n350 |  | Merian-Frisch-\n  mann |  | Rudolf Merian-Frisch-\n  mann.\n1614 | H. | Merian, Sohn | . | Heinrich Merian, Sohn.\n*144 |  | Meyenrock, Sohn |  | Friedrich Meyenrock.\n470 | Phil. | Meyer-Linder | . | Phil. Meyer-Linder.\n1094 | Joh. | Meyer u. Sohn | . | Susanna Meyer, geb.\n  Merian.\n  Ludwig Meyer, Sohn.\n638 | Johannes | Meyer . | . | Joh. Meyer.\n1440 |  | Meyer-Bischoff | . | Johann Christian Meyer.\n258 | J. | Meyri, Antiqr. | . | Joh. Meyri, Antiquar.\n |  | Mieg-Asal . | . | Theophil Mieg-Asal.\n  Joh. Gg. Bercher, Pro-\n  curaträger.\n1691 | Hans Jak.\n  de Georg | Müller . | . | Frau Wittwe Anna Ca-\n  tharina Holzach-\n  Schölly.\n  Franz Holzach.\n*17 | Achilles | Müller | . | Achilles Müller.\n*36 | Wittwe | Müller & Cons. | . | Frau Wittwe Müller, geb.\n  Kleiling, ohne Unter-\n  schrift.\n  Albert Holzach-Werten-\n  berg.\n  Georg Lindenmeier.\n  August Burckhardt-Ise-\n  lin ppa.\n  Wilhelm Zentgraff, ppa.\n\nN.\n\n1524 | G. | Neukirch . | . | J. Georg Neukirch.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7675,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1202,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 26.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:29:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1850_p151",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p151.jpg",
+      "bytes": 942431,
+      "sha256": "fe3b3746c0f123e9037186b27d9eb00c043b18b1505a6a77cba369404813f412",
+      "sha256_of": "original",
+      "working_copy": "1850_p151.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:29:07+00:00"
+  }
+}

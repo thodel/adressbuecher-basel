@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p050",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p050.jpg",
+    "bytes": 1461098,
+    "sha256": "aef8483fc502fcce617bad08b27a9cde61fd011a85fcb3fee1c5dc8ca91ddfd2",
+    "sha256_of": "original",
+    "working_copy": "1862_p050.jpg"
+  },
+  "text": "XLVII\n\nRagionenbuch.\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nLinder, Joh., älter. | Jakob Ludwig Linder, allein. | Band-, Seide-, Wollen-\n  u. Merceriehandlung.\nLinder, Joh. Jakob. | Joh. Jakob Linder, Vater. | Bandfabrikation.\n  Joh. Jakob Linder, Sohn.\nLinder-Courvoisier. | Theophil Linder-Courvoisier, allein. | Agentur u. Commissions-\n  geschäft, hauptsächlich\n  für Rohseide.\nLiechtenhan u. Burck- | J. R. Liechtenhan-Hagenbach. | Bank, Commission und\n  hardt. | Hieron. Burckhardt-Iselin. | Spedition.\n  Emanuel Schäfer, Prokuraträger.\n  F. W. de Gouvrois, Prokuraträger.\nLotz, Achilles, Vater. | Achilles Strübin, allein. | Commission u. Spedit.\nLotz, Ed., et Comp. | Ed. Lotz-Wölflin, allein. | Tabak, Cigarren, Rauch-\n  requisiten u. Spazier-\n  stöcke en gros et détail.\nLudwig, Andreas. | Andr. Ludwig, allein. | Eisenhandlung u. Eisen-\n  gießerei.\nLüssi, J. J. | Joh. Jakob Lüssi. | Tabak und Cigarren.\n  J. Schmidt-äWengen.\nLützelmann, J. J. | J. Jakob Lützelmann. | Materialwaaren en gros\n  Emanuel de Peter Burckhardt. | et détail.\n  Luc. Alex. Nolin, Prokuraträger.\nMadeux u. Wohnlich. | Carl Hauser-Wohnlich, allein.\n  Joh. Bapt. Madeux, Commanditair.\n  Franz Wohnlich-Hagenbach, Com-\n  manditair.\n  Hübsch, Prokuraträger.\nMadörin, F. | Fritz Madörin-Glaser, allein.\nMärklin u. Kiefer. | Andr. Märklin. | Bonneteriefabrikation.\n  Joh. Kiefer.\nMagallon, H., et Comp. | Hypolite Magallon, allein.\n  Rud. Weniger-Sauerbrey, Com-\n  manditair.\nMarget, J. E., Agent. | J. Emil Marget, allein. | Agentur u. Commission.\nMartin, Eml. | Emanuel Martin, allein. | Assecuranzen nebst Wein-,\n  Cigarren- und Thee-\n  handlung.\nMaurice, J., fils. | J. Maurice fils, allein. | Weinhandlung, Commis-\n  sions- und Agentur-\n  Büreau, Barfüßer-\n  gasse Nr. 3.\nMende, J. G. | J. G. Mende, allein. | Ellenwaaren.\nMerian-Forcart, J. | J. J. Bischoff-Kestner. | Bank, Commission und\n  Gustav Christ. | Spedition.\n  Susanna Merian, Commanditaire.\n  Ulr. Wohnsiedel, Prokuraträger.\nMerian, Sam. u. J. J. | Samuel Merian-Merian. | Rentiers.\n  J. J. Merian-Burckhardt.\n  Samuel Merian-Bischoff, Pro-\n  kuraträger.\n  Alfr. de J. J. Merian, Prokuraträg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7974,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2172,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0185,
+    "mean_line_chars": 38.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:29:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1862_p050",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p050.jpg",
+      "bytes": 1461098,
+      "sha256": "aef8483fc502fcce617bad08b27a9cde61fd011a85fcb3fee1c5dc8ca91ddfd2",
+      "sha256_of": "original",
+      "working_copy": "1862_p050.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:29:33+00:00"
+  }
+}

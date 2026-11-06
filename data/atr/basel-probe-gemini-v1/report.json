@@ -1,0 +1,63 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "pages": 20,
+  "started_at": "2026-11-06T13:27:39+00:00",
+  "elapsed_s": 191.4,
+  "rebuilt": false,
+  "skipped_files": [],
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": "/home/dh/agentic_historian/agentic_historian/data/nextcloud/adressbuecher-basel/probe",
+    "gateway": "http://130.92.59.240:8200",
+    "runner": {
+      "name": "agentic-historian",
+      "version": "0.1.0",
+      "commit": "fa9e130746122e0e888d23d9d5825a5bdd068631",
+      "commit_source": "git"
+    },
+    "started_at": "2026-11-06T13:27:39+00:00",
+    "ended_at": "2026-11-06T13:30:51+00:00",
+    "models": [
+      {
+        "model": "gemini-3.8-flash",
+        "engine": null,
+        "level": null,
+        "revision": null,
+        "revision_kind": "unreported",
+        "weights": null,
+        "base_model": null
+      }
+    ]
+  },
+  "models": [
+    {
+      "model": "gemini-3.8-flash",
+      "done": 20,
+      "skipped": 0,
+      "failed": 0,
+      "chars": 45670,
+      "lines": 0,
+      "truncated": 0,
+      "truncated_keys": [],
+      "empty": 0,
+      "empty_keys": [],
+      "repetitive": 0,
+      "repetitive_keys": [],
+      "deliberated": 0,
+      "deliberation_keys": [],
+      "verdicts": {
+        "ok": 20
+      },
+      "recognition_ms": 191178,
+      "elapsed_s": 191.4,
+      "aborted": "",
+      "source_errors": 0,
+      "source_missing": 0,
+      "source_missing_keys": [],
+      "errors": [],
+      "energy": null
+    }
+  ]
+}

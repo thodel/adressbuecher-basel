@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p027",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p027.jpg",
+    "bytes": 888183,
+    "sha256": "00a35f097cda6bbfd6c6197b3d799c332f79d1b1562c8f59f857cff16fb8a871",
+    "sha256_of": "original",
+    "working_copy": "1841_p027.jpg"
+  },
+  "text": "20\nNro.\n511 Fürstenberger-Debary, Joh. Georg, Wollenhandlung.\n512 Fürstenberger-Burckhardt, Joh.\nHinter dem Spahlenthurm.\n513 u. 514 Rebhaamen, Joh., Commis.\n  Schärer, Catharina und Margaretha, Jungfern.\n515 * Wagner, Jungfer, Anna Margaretha, gehörend.\n516 His-Vischer, Friedr.\n  Burckhardt, geb. Iselin, Wittwe.\nAdelberg.\n517 Falkner, Jungfer, Margaretha.\n518 Zink, geb. Meiry, Wittwe.\n  Fäsch, Susanna, Klein-Kinderschule.\n519 * Magazin des Hrn. J. G. Fürstenberger-Debary.\n519 a   „   Isaaak Dreyfuß.\n520 La Roche-Vischer, J. J., Banquier, Commissions- u. Expedit.-Handlg.\n  La Roche-Stähelin, Benedikt,        dito\n521 * Geßler, Daniel, Hutmacher.\n  Klenk, Viktor. (Agentengeschäfte.)\n522 Gysler-Handmann, Ludwig, Seidenfabrikant.\n  Alveng, Carl, Commis.\n523 Erbacher, geb. Heinzgen, Wittwe. (Flachmalerei.)\n524 Ederer, Phil. Heinrich, Comptorist.\n525 Burckhardt-Hess, Wittwe.\nImbergärtlein.\n526 * Geßler, Daniel, Hutmacher.\n  Georg, Achilles, Schuhmacher.\n527 Scherlin, A. M., von Eberseck, Schneiderin.\n528 Krull, Frau, Margaretha, geb. Strub.\n529 Spörlin, J. Ulrich sel., Wittwe, geb. Willeb.\n530 Walliser, J. Fr., Fabrikarbeiter.\n  Müller, Jakob, am Kaufhaus.\n531 u. 532 * Mende, Fr. Gotth., Rübler.\n  Zell, Friedrich, von Klein-Hüningen.\n533 Hinterhaus von Nro. 602, Friedr. Gotth. Mende geh.\n534   dito        „   597.\n535   dito   dem Hrn. Hagenbach, Apotheker, geh.\n536   dito   von Nro. 594.\n537   dito        „   593.\n538   dito        „   591.\n539 Thommen, Jakob, Fabrikarbeiter.\n540 Hofer, Sam. Rudolf, Spezereihändler.\n541 Wassermann, Jungfer, Dorothea.\n542 Hegel, J. J., Ladendienesr, von Klein-Hüningen.\n543 Mende, Friedr. Gotth., Rübler.\n544 u. 545 Dbrecht, Joh., Rammmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 113269,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1697,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:33:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1841_p027",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p027.jpg",
+      "bytes": 888183,
+      "sha256": "00a35f097cda6bbfd6c6197b3d799c332f79d1b1562c8f59f857cff16fb8a871",
+      "sha256_of": "original",
+      "working_copy": "1841_p027.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:33:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p151",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p151.jpg",
+    "bytes": 942431,
+    "sha256": "fe3b3746c0f123e9037186b27d9eb00c043b18b1505a6a77cba369404813f412",
+    "sha256_of": "original",
+    "working_copy": "1850_p151.jpg"
+  },
+  "text": "138\n1404 S. u. J. J. Merian . Samuel de Joh. Jakob\nMerian.\nJoh. Jakob de Joh.\nJakob Merian.\n912 Fn. Merian-Forcart . Johann Jakob Bischoff=\nKestner.\nEduard Merian.\nFn. Merian-Forcart,\nCommanditaire.\n350 Merian-Frisch-\nmann Rudolf Merian-Frisch-\nmann.\n1614 H. Merian, Sohn . Heinrich Merian, Sohn.\n*144 Meyenrock, Sohn Friedrich Meyenrock.\n470 Phil. Meyer-Kinder . Phil. Meyer-Kinder.\n1094 Joh. Meyer u. Sohn . Susanna Meyer, geb.\nMerian.\nLudwig Meyer, Sohn.\nJoh. Meyer.\n638 Johannes Meyer . Johann Christian Meyer.\n1440 Meyer-Bischoff . Joh. Meyri, Antiquar.\n258 F. Meyri, Antiqu.\nMieg-Asal . Theophil Mieg-Asal.\nJoh. Gg. Bercher, Pro-\ncuraträger.\n1691 Hans Jak.\nde Georg Müller . Frau Wittwe Anna Ca-\ntharina Holzach=\nSchölln.\nFranz Holzach.\n*17 Achilles Müller . Achilles Müller.\n*36 Wittwe Müller & Cons. . Frau Wittwe Müller, geb.\nKleiling, ohne Unter-\nschrift.\nAlbert Holzach-Werten-\nberg.\nGeorg Lindenmeier.\nAugust Burkhardt=Jse=\nlin ppa.\nWilhelm Zentgraff, ppa.\nN.\n1524 G. Neufirch . J. Georg Neufirch.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3372,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1009,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0233,
+    "mean_line_chars": 22.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:30:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1850_p151",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p151.jpg",
+      "bytes": 942431,
+      "sha256": "fe3b3746c0f123e9037186b27d9eb00c043b18b1505a6a77cba369404813f412",
+      "sha256_of": "original",
+      "working_copy": "1850_p151.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:30:37+00:00"
+  }
+}

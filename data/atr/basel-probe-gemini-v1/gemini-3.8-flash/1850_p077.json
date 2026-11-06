@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p077",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p077.jpg",
+    "bytes": 939522,
+    "sha256": "609e36bee8d708355c8ab65387d9d39db08edb5a02935bf355a0c9ba8f072ff7",
+    "sha256_of": "original",
+    "working_copy": "1850_p077.jpg"
+  },
+  "text": "64 St. Alban-Quartier.\n\n1435-37 Paravicini-VonderMühll, Eml., Eisenhandlung.\n  Paravicini-Battier, Eml., Rentier.\n1438 Tschopp-Holzach, Heinrich, Spengler.\n  Hug, Dan., Liseur.\n  Schaub, D., Ferger.\n  Schmucki, Lisette, Modiste.\n1439 Holzach-Krauer, Frau Caroline, Glaser u. Glas-\n    handlung.\n  Krauer, Wittwe Maria, geb. Köchlin, Rentière.\n1440 Meyer-Bischoff, Joh. Christ., Handelsmann.\n  Bischoff-Wieland, Wittwe, Valerie, Rentière.\n1441 Singeisen, Jgfr. Barbara, Rentière.\n1442 Ramsperger-Hug, Eml., Niederlage aller bekannten\n    ächten Mineralwasser, Alpen-Butter u. Spezerei-\n    waaren.\n1442 Marfort, Wittwe, Sattler.\n  Weber-Marfort, Rud., Metzger.\n1444 (Gasthof z. wilden Mann.)\n  Pfander-Carle, F. J., Major, Gastgeber.\n  Lüssi, F. J., Tabackhandlung.\n  Geßler, Jungfr., Modistes u. Schirmhandlung.\n1445 (Zunft z. Himmel.)\n  Erzberger-Krayer, Wittwe Susanna, Zuckerbeck.\n1446 Wahr, Gebrüder, Phil. u. Karl, Tuchhandlung.\n1447 Albäck, F. H., Quincailleriehandlung.\n1448 Respinger-Bernoulli, Eml., Rentier.\n\nSchlüsselberg.\n\n1449 Spitteler, Christ. Friedr., Buchhändler.\n1450 Freimaurer-Loge.\n  Schimpf, Seb., Abwart.\n1451 Hagenbach-Paravicini, Peter, Ehegerichtspräsident.\n1452 Buxtorf-Fetscherin, Friedr., Wechsel-Sensal.\n1453 Burkhardt, August, Med. et Chir. Dr.\n  Lehmann-Berger, Julius, Privat-Töchterinstitut.\n1454 Obrigkeitlich.\n1455 Miville-Krug, H., Alterthümerkabinet.\n1456 Wieland-Schweighauser, M. M., Wittwe, Rentière.\n\nMünsterplatz.\n\n1457 Riggenbach-Sulger, Christ., Architekt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6921,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1501,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:28:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1850_p077",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p077.jpg",
+      "bytes": 939522,
+      "sha256": "609e36bee8d708355c8ab65387d9d39db08edb5a02935bf355a0c9ba8f072ff7",
+      "sha256_of": "original",
+      "working_copy": "1850_p077.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:28:39+00:00"
+  }
+}

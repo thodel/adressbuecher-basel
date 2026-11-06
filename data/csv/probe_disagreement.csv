@@ -1,0 +1,13 @@
+key,volume,section,typeface,reader_a,reader_b,chars_a,chars_b,disagreement
+1841_p027,1841,gebaeude,fraktur,gemini-3.8-flash,qwen3-vl-30b-a3b-instruct,1621,9127,0.8266
+1841_p046,1841,gebaeude,fraktur,gemini-3.8-flash,qwen3-vl-30b-a3b-instruct,1416,1415,0.0113
+1841_p065,1841,gebaeude,fraktur,gemini-3.8-flash,qwen3-vl-30b-a3b-instruct,1406,1403,0.0334
+1841_p110,1841,einwohner,fraktur,gemini-3.8-flash,qwen3-vl-30b-a3b-instruct,2427,2421,0.0268
+1841_p027,1841,gebaeude,fraktur,gemini-3.8-flash,qwen3.8-27b,1621,1627,0.0197
+1841_p046,1841,gebaeude,fraktur,gemini-3.8-flash,qwen3.8-27b,1416,1418,0.0148
+1841_p065,1841,gebaeude,fraktur,gemini-3.8-flash,qwen3.8-27b,1406,519,0.6337
+1841_p110,1841,einwohner,fraktur,gemini-3.8-flash,qwen3.8-27b,2427,2401,0.0227
+1841_p027,1841,gebaeude,fraktur,qwen3-vl-30b-a3b-instruct,qwen3.8-27b,9127,1627,0.8289
+1841_p046,1841,gebaeude,fraktur,qwen3-vl-30b-a3b-instruct,qwen3.8-27b,1415,1418,0.0148
+1841_p065,1841,gebaeude,fraktur,qwen3-vl-30b-a3b-instruct,qwen3.8-27b,1403,519,0.6372
+1841_p110,1841,einwohner,fraktur,qwen3-vl-30b-a3b-instruct,qwen3.8-27b,2421,2401,0.0322

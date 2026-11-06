@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p046",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p046.jpg",
+    "bytes": 1150637,
+    "sha256": "29e51f13ff097dfc163b7e1b57bde7589479e866a7083fc322640d5fa614b22b",
+    "sha256_of": "original",
+    "working_copy": "1850_p046.jpg"
+  },
+  "text": "Steinen=Quartier. 33\n751 Lichtenhan=Hagenbach, Joh. Rud., Commissions- u.\n  Speditions-handlung.\nA 751 Mieg, F. F., Med. et Chir. Dr. und Professor.\nKohlberggässlein.\n752 Martin, Heinrich, Flachmaler.\n753 Meyer, Friedrich, Thierarzt.\n754 Plattner=Hoch, F., Zimmermeister.\n  Spreyermann, Elias, Commis.\nA 754 Häfelfinger, Joh. Rud., Bater, Commis.\n  Häfelfinger, Joh. Rud., Sohn, Commis.\nBC 754 Klipfel, Martin, Weinhandlung.\n D 754 Schaub, Johannes, Kaufhausarbeiter.\n E 754 (Stallung.) Plattner, Zimmermeister, geh.\n F 754 Meyer, Eml. Walter, Kaufmann.\nGH 754 (Fabrik u. Wohnh.) Burgtorf-Bischoff, Andr., geh.\n  Imhof=Haas, Heinrich, Fabrikaufseher.\n  Fichter, Abraham, Stuhlschreiner.\nRanonen-gasse.\nI 754 Hindenlang, Simon, Commis.\n  Kislig, Heinrich, eidg. Beamter.\nK 754 Meyer, Wittwe Salome, geb. Gykler.\n  Gaf, F. F., Mezger.\n  Höfl, G. F., Musiklehrer.\nL 754 Hauschild, Ernst, Gesanglehrer.\n  Beck, Chr., Lehrer.\n  Maglin=Sendranier, Rud., Commis.\nM 754 Schaub, Georg, Schreiner.\n  Burckhardt, K., Hauptmann bei der Standestruppe.\n  Blackwell, Jgfr. Jane, Lehrerin.\n  Urech, Jgfr. Elif., Kunstmalerin.\nN 754 Kespinger=Stockmeyer, Leonh., Commis.\nO 754 Reiter=Bildstein, E., Musikdirektor.\n  Bernard, Wittwe, Partikularin.\n  Hagenbach, Wittwe, geb. Geigy, Rentière.\nAlter Kohliberg.\n755 Schnell, F. F., Dr. J., Civilgerichtspräsident.\n  Rigggenbach, Wittwe, geb. Huber, Rentière.\n  Rigggenbach, Albert, Kaufmann.\n756 (Walke) Oser, Adam, Färber, geh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4622,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1456,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:30:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1850_p046",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p046.jpg",
+      "bytes": 1150637,
+      "sha256": "29e51f13ff097dfc163b7e1b57bde7589479e866a7083fc322640d5fa614b22b",
+      "sha256_of": "original",
+      "working_copy": "1850_p046.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:30:13+00:00"
+  }
+}

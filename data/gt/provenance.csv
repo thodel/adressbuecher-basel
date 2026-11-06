@@ -1,1 +1,5 @@
 key,corrected_by,base_run,base_reader,date,note
+1841_p110,Claude (Fable 5.1) am Bild,basel-probe-gemini-v1,gemini-3.8-flash,2026-11-06,"11 Abweichungsblöcke zu qwen3-vl-30b am Bild entschieden (alle für Gemini: V/B, tz, ß, K/R, f/s, Z/J, S. E., 253 b); nur Leerzeile nach Kolumnentitel entfernt; Seite zeilenweise gegen Streifen gelesen"
+1850_p120,Claude (Fable 5.1) am Bild,basel-probe-gemini-v1,gemini-3.8-flash,2026-11-06,"36 abweichende Zeilen zu qwen3-vl-30b am Bild entschieden; Korrekturen: Initialen I→J (14), Gassenbesetzer, Spreyermann, Herrsperger B., J. U. D.; Nummern, Buchstabenzusätze und Sterne alle bestätigt"
+1862_p139,Claude (Fable 5.1) am Bild,basel-probe-gemini-v1,gemini-3.8-flash,2026-11-06,"3 Korrekturen gegenüber Gemini (J. Ludw.; St.Johanniterhaus ohne Spatium; Gyßler); qwen3-vl-30b hält das Tabellenformat nicht ein, 0/13 Abweichungen richtig"
+1862_p355,Claude (Fable 5.1) am Bild,basel-probe-gemini-v1,gemini-3.8-flash,2026-11-06,"37 Abweichungen zu qwen3-vl-30b am Bild entschieden (36 Gemini, 1 qwen); eine Korrektur: St.Andreasplatz ohne Leerzeichen; «Handmann - Howald» mit Spatien wie gedruckt belassen"

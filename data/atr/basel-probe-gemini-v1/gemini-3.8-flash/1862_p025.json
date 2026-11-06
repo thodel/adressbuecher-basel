@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p025",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p025.jpg",
+    "bytes": 1318496,
+    "sha256": "4e6f2ded0e38bb6e8e5123f2fbf62db02c7aa51744e63b0fc1b193d5d27fd973",
+    "sha256_of": "original",
+    "working_copy": "1862_p025.jpg"
+  },
+  "text": "XXII Gesellsch. d. Guten u. Gemein. Vaterländ. u. polit. Vereine.\n\nHr. Direktor W. Schmidlin, Beisitzer.\n„ Direktor Theod. Meyer, Beisitzer.\nHr. Professor Wilh. Wackernagel, Beisitzer.\n„ Dr. Ed. Thurneisen, Beisitzer.\n\nDie Gesellschaft des Guten und Gemeinnützigen verzweigt sich in einer Anzahl von\nCommissionen zur Beförderung gemeinnütziger oder wohlthätiger Zwecke; mit andern der-\nartigen Anstalten steht sie in Verbindung. Das Verzeichniß der von der Gemeinnützigen\nGesellschaft ausgehenden oder mit ihr in Verbindung stehenden Anstalten ist folgendes:\n\n1) Delegierte zur Kranken-Commission.\n2) Commission zur Fabrik- und französi-\nschen Repetir-Schule.\n3) Commission zur Unterstützung von Ge-\nwerbslehrlingen.\n4) Commission zur Zeichnungs- u. Model-\nlirschule.\n5) Commission zur Suppen-Anstalt in Ver-\nbindung mit Tit. Armen-Collegium.\n6) Commission zur Bürger-, Jugend- u.\nArbeiter-Bibliothek.\n7) Verwaltung der Zinstragenden Erspar-\nnißcasse.\n8) Commission für Gesang- und Orgel-\nunterricht.\n9) Commission zum Neujahrsblatt.\n10) Delegierte zum Turnen.\n11) Delegierte zur Versorgung junger Taub-\nstummen.\n12) Commission zur Schwimm- und Bad-\nAnstalt.\n[spalte 2]\n13) Commission zur Berathung entlassener\nSträflinge und Zwangsarbeiter.\n14) Delegierte zur Handwerkerbank.\n15) Delegierte zu den Kleinkinderschulen in\nVerbindung mit Tit. Armenkollegium.\n16) Delegierte zu den Sonntagssälen für\nMädchen.\n17) Commission für Fabrikarbeiterverhält-\nnisse.\n18) Commission zur Frauenbad-Anstalt.\n19) Commission zur Abhilfe der Thierquä-\nlerei.\n20) Delegierte bei der Commission der Aktien-\ngesellschaft für Arbeiterwohnungen\nauf der Breite.\n21) Commission zur Lukasstiftung.\n22) Commission zur Arbeitsanstalt Kloster-\nfiechten.\n23) Commission zur Erstellung einer Schlitt-\nschuhbahn.\n\nVaterländische und politische Vereine.\n\nFreiwillige Militärgesellschaft.\nGegründet 1760.\nVorstand: Hr. Oberst Rud. Paravicini.\n\nNeu Zofinger-Verein.\nSection Basel.\nGegründet 1818.\nVorstand:\nHr. Albert Vonder Mühll, Stud. juris.\n„ Albert Barth, „ theol.\n„ Jakob Jäck, „ „\n„ H. Bischoff, „ medic.\n\nGrütli-Verein.\nGegründet 1844.\nLokal: Zunft zur Mägde, St. Johann-Vorstadt.\nDer Vorstand wird vierteljährlich erneuert.\n[spalte 2]\nSchweizerische Militärgesellschaft.\nSection Basel.\nGegründet 1849.\nVorstand: Hr. Albert Lotz, Commandant.\n\nUnteroffizier-Verein des Bataillons\nNro. 80 von Basel-Stadt.\nGegründet 1854.\n\nJäger-Verein.\nGegründet 1857.\nBesteht aus schweizerischen Unteroffizieren\nund Soldaten und bezweckt körperliche und\nmilitärische Uebungen, als Fechten, Marsch-\nund Schießübungen, Gesang, Vorlesungen und\nkameradschaftliche Zusammenkünfte.\nVorstand:\nHr. H. Plüß, Präsident,\n„ Joh. Müller, Schreiber.\n„ G. Brenner, Cassier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9873,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2714,
+    "lines": 86,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0349,
+    "mean_line_chars": 30.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:29:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1862_p025",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p025.jpg",
+      "bytes": 1318496,
+      "sha256": "4e6f2ded0e38bb6e8e5123f2fbf62db02c7aa51744e63b0fc1b193d5d27fd973",
+      "sha256_of": "original",
+      "working_copy": "1862_p025.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:29:25+00:00"
+  }
+}

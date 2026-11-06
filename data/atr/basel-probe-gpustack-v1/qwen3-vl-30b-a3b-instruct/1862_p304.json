@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p304",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p304.jpg",
+    "bytes": 1622580,
+    "sha256": "f939e74d08ec3e26c3c6a9be685ade60f3d41e263a02889168cff6e61a1897b4",
+    "sha256_of": "original",
+    "working_copy": "1862_p304.jpg"
+  },
+  "text": "Verzeichniß der Häuserbesitzer.\n239\nLinder, Emilie. Nadelberg 1. — Neue Vorstadt 3. — St. Peters-Platz 14.\nLinder-Courvoisier, Theophil. St. Leonhards-Straße 21.\nLinder-Engressat, Joh. Ludw. Schneidergasse 1.\nLinder-Hopf, Joh. Jakob. Nadelberg 3. — Mittlere Straße 24. 26.\nLinder-Seul, Wb. Baler. St. Clara-Straße 37.\nLinder-Stehlin, Jacob Ludwig. St. Peters-Berg 10. — Schwanengasse 16.\nLinder-Steinegger, Joh. Jakob. Missionsstraße 34. 36.\nLinder-Strub, Niklaus Gottlieb. Schnabelgäßlein 17.\nLinder-Uebelin, Joh. Jakob. Sternengäßlein 23. 27.\nLindner-Forcart, Wilhelm Eduard. St. Andreasplatz 1. — Schneidergasse 20.\nLocher, Joh. u. Eman. Spalenberg 28.\nLöffler-Raufmann, Jak. Hammerstraße 67. 69.\nLöw-Reyser, Joh. Jak. Gerbergasse 64. — Gerbergässlein 33.\nLöw-Baumann, Leonh. Nadelberg 43.\nLöw-Gesler, Joh. St. Jakobs-Straße 21.\nLoos-Donatz, Joh. Bernh. Blumenrain 15.\nLorentz, Joseph. Untere Rebgaſse 1.\nLoz, Albert, und Siber, Caspar. Heumattstraße 13. — Nauenstraße 10.\nLoz, Friedrich. Webergasse 25. — Alybeckstraße 48. 50. 56.\nLoz, Achilles, sel. Erben. Greifengasse 16.\nLoz-Eglin, Friedrich. St. Clarahofweg 5. 7. — Rebgaſse 32. 34.\nLoz-Gocht, Achilles. Rheingasse 31. 44. 46. 61. — Utengasse 30.\nLoz-Gocht, Achilles, und Loz, Albert. Rheingasse 33.\nLoz, Friedrich und Merian, L. St. Clara-Straße 13.\nLoz-Heusler, Friedr. Rebgaſse 26. — Rheingasse 42. — Schafgäßlein 10. — Utengasse 18.\nLoz-Kiindig, Joh. Leonhard. St. Leonhards-Straße 34.\nLoz-Spörlin, Hieron. Barfüsserplatz 25. 26.\nLoz-vonMechel, Wb. Judith. St. Peters-Berg 25.\nLudwig, Andreas. Schützenmattstraße 43. 45.\nLudwig-Frey, Wb. A. Elisabeth. St. Leonhards-Graben 20. — St. Peters-Graben 55.\nLudwig-Weitnauer, Emil. Steinenvorstadt 67. 69.\nLüdin-Göbelin, Wb. Susanna. Fischmarkt 8.\nLütscher-Mazinger, Melchior. Kronengasse 4.\nLütscher-Stapfer, Carl. Aeschengraben 16.\nLüfti, Alois. Utengasse 58.\nLützelmann, Joh. Jakob. Kiehenteichweg 22. — Kiehenstraße 57.\nLuthy-Bürgin, Joh. Ulrich. Pfluggäßlein 4.\nLutz, Eduard. St. Elisabethen-Straße 60.\nLutz-Merker, Jakob. Nidengäßlein 9.\nMaas-Müller, R. Baarfüsserplatz 16. — Unterer Heuberg 1.\nMader, Johs. Schützengraben 28. 30. — Schützenmattstraße 24.\nMader u. Wohlich. Schützenmattstraße 19.\nMadöry-Glajer, Friedr. Greifengasse 3.\nMadöry-Riedinger, Friedr. Ochfengasse 5.\nMadöry-Winzenried, Friedr. Bruderholzweg 10.\nMäder-Weber, Wb. Anna Mar. Kiimelinsplatz 3.\nMäglin, Ant. de Benedict. St. Johann-Vorstadt 9.\nMäglin-Baumann, Joh. Ludw. Schafgäßlein 2.\nMäglin-Ruhn, Joh. Jac. Spalenberg 14.\nMäglin-Müller, Chr. Rebgaſse 27. — Riehenthorfstraße 27.\nMäglin-Strub, Gust. St. Johann-Vorstadt 35.\nMäglin-Weiß, Elif. Wb. Rebgaſse 45.\nMähly, Jac. Aeschenvorstadt 74. — Aeschengraben 2.\nMärklin-Chrift, Rud. Spalenthormweg 20.\nMärklin, Geschw. Untere Rheingasse 6.\nMärklin-Huber, Pet. Euch. St. Elisabethen-Straße 2.\nMagallon u. Comp., H. Spitalstraße 28.\nMagallon-Jaurat, Hypolite. St. Johann-Vorstadt 31.\nMaßler-Tanner, Friedr. Untere Rebgaſse 19.\nMangold, Joh. Wilh. Gerbergässlein 8.\nMangold-Kunz, Sam. Kohlenberggasse 21. — Steinenbachgäßlein 26.\nMangold-Müller, Cath. Rochhofgasse 15.\nMarbach-Gyfin, Jaaß, sel. Erben. Spalenberg 45.\nMarfort-Flury, Wb. Sal. Freie Straße 37. — Schliesselberg 12.\nMaring, L. u. Heimlicher, F. Freie Straße 96.\nMaring-DeBary, F. F. Sattelgasse 1.\nMartin-Binder, Georg. St. Peters-Berg 32.\nMartin-Bulacher, Joh. Friedr. Lindenberg 1.\nMartin-Dietrich, Joh. Heinr. Steinenthorstraße 2.\nMartin-Dolt, Hans. Steinenthorstraße 45.\nMartin, Gebrüder. Brunn Gäßlein 4.\nMartin-Schmerber, Franz. Missionsstraße 12.\nMartin-Weiß, Joh. Jac. Rebgaſse 36.\nMajarey, Franz. Untere Rebgaſse 18.\nMajarey, Franz, Sohn. Webergasse 30.\nMaffelot-Kiefer, Franz. Grenzacher Straße 72.\nMaß-Mähly, Joh. Jakob. Badergässlein 8.\nMaß-Pfannenschmidt, F. F. Gerbergässlein 24.\nMaß-Stehelin, F. Schützenmattstraße 33.\nMathieu, Antoine. Kohlenberggasse 11. — Steinenbachgäßlein 16.\nMazinger, Eman. Rebgaſse 10.\nMazinger, Anna Elif. Rheingasse 88.\nMazinger, Pet., sel. Erb. Rheingasse 72.\nMazinger-Deggeller, Joh. Jac. Todtentanz 5.\nMazinger-Sjenegger, Sam. Alybeckstraße 11.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12947,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4084,
+    "lines": 87,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:31:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p304",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p304.jpg",
+      "bytes": 1622580,
+      "sha256": "f939e74d08ec3e26c3c6a9be685ade60f3d41e263a02889168cff6e61a1897b4",
+      "sha256_of": "original",
+      "working_copy": "1862_p304.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:31:23+00:00"
+  }
+}

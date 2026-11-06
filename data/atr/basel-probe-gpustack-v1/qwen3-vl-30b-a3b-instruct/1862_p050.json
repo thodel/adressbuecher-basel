@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p050",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p050.jpg",
+    "bytes": 1461098,
+    "sha256": "aef8483fc502fcce617bad08b27a9cde61fd011a85fcb3fee1c5dc8ca91ddfd2",
+    "sha256_of": "original",
+    "working_copy": "1862_p050.jpg"
+  },
+  "text": "Nagionenbuch.\nIII XLVII\nHandlungsfirma. | Interessenten u. Firmasithrer. | Natur des Geschäfts.\nLinder, Joh., älter. | Jakob Ludwig Linder, allein. | Band-, Seide-, Wollen-\n| | u. Merceriehandlung.\nLinder, Joh. Jakob. | Joh. Jakob Linder, Bater. | Bandfabrikation.\n| | Joh. Jakob Linder, Sohn.\nLinder=Courvoisier. | Theophil Linder=Courvoisier, allein. | Agentur u. Commissions-\n| | geschäft, hauptsächlich\n| | für Rohseide.\n| | Bank, Commission und\n| | Spedition.\nLiechtenhan u. Burck- | J. R. Liechtenhan=Hagenbach. |\n| | Hieron. Burckhardt=Iselin.\n| | Emanuel Schäfer, Prokuraträger.\n| | F. W. de Goumois, Prokuraträger.\n| | Achilles Strübin, allein.\n| | Ed. Loz=Wölflin, allein.\n| | Loz, Achilles, Bater.\n| | Loz, Ed., et Comp.\n| | Comission u. Spedit.\n| | Tabak, Cigarren, Rauch-\n| | requisiten u. Spazier-\n| | stöcke en gros et détail.\n| | Eisenhandlung u. Eisen-\n| | gießerei.\n| | Tabak und Cigarren.\n| | Materialwaaren en gros\n| | et détail.\nLudwig, Andreas. | Andr. Ludwig, allein.\nLüffi, J. J. | Joh. Jakob Lüffi. |\n| | J. Schmidt=Weingen.\n| | J. Jakob Lützelmann.\n| | Emanuel de Peter Burckhardt.\n| | Luc. Alex. Nolin, Prokuraträger.\n| | Carl Hauser=Wohlich, allein.\n| | Joh. Bapt. Madeux, Commanditair.\n| | Franz Wohlich=Hagenbach, Com-\n| | manditair.\n| | Hübsch, Prokuraträger.\n| | Fritz Madörin=Glaser, allein.\n| | Andr. Märklin.\n| | Joh. Riefer.\n| | Bonneteriefabrikation.\n| | Agentur u. Commission.\n| | AssecuranzennebstWein-,\n| | Cigarren- und Thee-\n| | handlung.\n| | Weinhandlung, Commis-\n| | sion= und Agentur=\n| | Bureau, Barfüßer-\n| | gasse Nr. 3.\n| | Ellenwaaren.\n| | Bank, Commission und\n| | Spedition.\n| | Rentiers.\nMadeux u. Wohlich. | Samuel Merian=Merian. |\n| | J. J. Merian=Burckhardt.\n| | Samuel Merian=Bischoff, Pro-\n| | kuraträger.\n| | Alfr. de J. J. Merian, Prokuraträg.\nMadörin, F. | Fritz Madörin=Glaser, allein.\nMärklin u. Riefer. | Andr. Märklin.\n| | Joh. Riefer.\nMagallon, H., et Comp. | Hypolite Magallon, allein.\n| | Rud. Weniger=Sauerbrey, Com-\n| | manditair.\nMarget, J. C., Agent. | J. Emil Marget, allein.\nMartin, Emil. | Emanuel Martin, allein.\nMaurice, J., fils. | J. Maurice fils, allein.\nMende, J. G. | J. G. Mende, allein.\nMerian=Forcart, J. | J. J. Bischoff=Kestner.\n| | Gustav Christ.\n| | Susanna Merian, Commanditaire.\n| | Ulr. Wohnfiedel, Prokuraträger.\nMerian, Sam. u. J. J. | Samuel Merian=Merian. |\n| | J. J. Merian=Burckhardt.\n| | Samuel Merian=Bischoff, Pro-\n| | kuraträger.\n| | Alfr. de J. J. Merian, Prokuraträg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7422,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2470,
+    "lines": 80,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.1,
+    "mean_line_chars": 29.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:30:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p050",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p050.jpg",
+      "bytes": 1461098,
+      "sha256": "aef8483fc502fcce617bad08b27a9cde61fd011a85fcb3fee1c5dc8ca91ddfd2",
+      "sha256_of": "original",
+      "working_copy": "1862_p050.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:30:56+00:00"
+  }
+}

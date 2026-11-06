@@ -226,3 +226,4 @@ data/atr/**/*.png
 data/atr/**/*.jpg
 .venv/
 data/probe/
+data/fullrun/

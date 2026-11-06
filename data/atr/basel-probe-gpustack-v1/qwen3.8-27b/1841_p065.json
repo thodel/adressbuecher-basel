@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p065",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p065.jpg",
+    "bytes": 867058,
+    "sha256": "5f0282f2cbd4a5614e77c38d19026cb0653dd7b3510631479d6c594aebfea8e4",
+    "sha256_of": "original",
+    "working_copy": "1841_p065.jpg"
+  },
+  "text": "58\nNro.\nMarkt.\n1642 Imhof-Falkner, Hieronymus, Sohn.\n  Imhof-Benk, Hieronymus, Vater.\n1643 Wiville, Achilles, Hutmacher.\n  Huber, Rudolf.\n  Geymüller, Andreas, Polizei-Commissär.\n1644 Brüdlerin, Niklaus, Tuchhandlung.\n  Respinger, Wittwe, geb. Burckhardt.\n1645 * von Speyr, Joh. Conrad sel., Wittwe, geh.\n  Brändlin, Joh. Jakob, v. Fischenthal, Schuhmacher.\n1646 Ebenderselben Wohnhaus.\n1647 Huggenberger, Joh. Heinrich, Schneider.\n1648 Miz, Ludwig, Knopfmacher.\n  Miz, Wittwe, geb. Ziegler.\n1649 Basler, Johannes, Handelsmann.\n  Bas",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 148763,
+  "truncated": true,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 533,
+    "lines": 18,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0038,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:37:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1841_p065",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p065.jpg",
+      "bytes": 867058,
+      "sha256": "5f0282f2cbd4a5614e77c38d19026cb0653dd7b3510631479d6c594aebfea8e4",
+      "sha256_of": "original",
+      "working_copy": "1841_p065.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:37:02+00:00"
+  }
+}

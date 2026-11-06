@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p110",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p110.jpg",
+    "bytes": 1090006,
+    "sha256": "45bbfe86972adce28aca49ebcd0b5ca571c0d13f806cf3daad6f2c65aa5d7b3b",
+    "sha256_of": "original",
+    "working_copy": "1841_p110.jpg"
+  },
+  "text": "27\n\nLichtenhahn, Carl, alt Stadtrath. 253 b St. Petersplatz.\nLichtenhahn, J. Rud., Schreiner. 910 St. Elisabethen.\nLichtenhahn, C. Chr., Rathschreiber sel., Wittwe. 851 Hintere\n  Steinen-Vorstadt.\nLichtenhahn, Carl, Staatsschreiber. 851 Hintere Steinen-Vorstadt.\nLiebreich, Joh. Conrad, Schneider. 1750 Schneidergasse.\nLienin, Marx, Musiklehrer. 1274 St. Alban-Thorgasse.\nLindenmeyer, Samuel, Schreiner. 269 a Neue Vorstadt.\nLindenmeyer, J. J., Weißbeck. 315 Spahlen-Vorstadt.\nLindenmeyer, J. G., Weinhändler. 227 Schwarze Pfahlgasse.\nLindenmeyer, Carl. 706 Hinter dem Stöcklein.\nLindenmeyer, J. J., Weinschenk. 707 u. 708 Hinter d. Stöcklein.\nLindenmeyer, Heinrich, Pergamenter. 727 Barfüßerplatz.\nLindenmeyer, B., Wachtmeister, Zollerwohnung. 858 Thorsteinen.\nLinder, Emanuel, Professor. 1305 St. Alban-Thal.\nLinder, Gottlieb, Mechanikus. 1698 Schnabelgäßlein.\nLinder, J. J., Hafner. 972 Sternengäßlein.\nLinder, Emanuel, Vater. 830 Blömlein.\nLinder, Emanuel, Sohn. 830 Blömlein.\nLinder, Eduard, Zimmermeister. 972 Sternengäßlein.\nLinder, Joh. Ludwig, Messerschmid. 1559 Schneidergasse.\nLinder, Joh. Jakob, Bandfabrikant. 1549 Eisengasse.\nLinder, Jakob Ludwig, Bandfabrikant. 149 Schwanengasse.\nLinder, Johannes, Obersthelfer. 1374 Hinter dem Münster.\nLinder, Jungfer, S. E. 250 St. Petersplatz.\nLinder, Joh. Heinrich, Wollenspinnerei. 1275 St. Alban-Thorgasse.\nLindner-Forkart, Ed., Buchbinder. 589 Schneidergasse.\nLink, Lucas, Flachmaler. 235 St. Petersgasse.\nLink, geb. Meiry, Wittwe. 518 Adelberg.\nLippe, Joh. Jakob, Müller. 621 Hinter der Rümlinsmühle.\nLocher, Jungfrau, Kleinkinderschule. 593 Schneidergasse.\nLocher, Elisabetha, geb. Keller. 494 Oberer Spahlenberg.\nLotz, Christian, Schneider. 247 a Kaltkellergäßlein.\nLotz, Rudolf, Sattler. 18 St. Johann-Vorstadt.\nLotz, J. J., Küfer. 1378 Am Bäumlein.\nLotz, Johannes, Metzger und Kuttler. 1684 Kuttelgäßlein.\nLotz, Leonhard, Sigrist der St. Peterskirche. 238 Kirchgäßlein.\nLotz-Spörlin, Hieronymus, Pfundzoller. 712 Barfüßerplatz.\nLotz-Zäslin, Ulrich, Waaren-Sensal. 598 Unt. Spahlenberg.\nLotz-Wick, Samuel, Kaufmann. 59 St. Johann-Vorstadt.\nLöw, Leonhard, Schuhmacher, von Benken. 506 Adelberg.\nLöw, Joh. Georg, alt Landjäger, von Benken. 1748 Sattelgasse.\nLöw, Abraham, Abwart des Casino. 731 bis 733 Barfüßerplatz.\nLöw, Johannes, Kohliberger. 752 Kohliberg.\nLöw, Johannes, Schneider. 843 Hintere Steinen-Vorstadt.\nLöw-Geßler, Joh., Fabrikferger. 1008 Aeschen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9060,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2430,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.66,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:28:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gemini-v1",
+    "source": {
+      "key": "1841_p110",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p110.jpg",
+      "bytes": 1090006,
+      "sha256": "45bbfe86972adce28aca49ebcd0b5ca571c0d13f806cf3daad6f2c65aa5d7b3b",
+      "sha256_of": "original",
+      "working_copy": "1841_p110.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:28:08+00:00"
+  }
+}
