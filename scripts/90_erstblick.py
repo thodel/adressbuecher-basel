@@ -427,6 +427,11 @@ function renderAnalysen() {
   h += '</div>';
   el.innerHTML = h;
 }
+try { const t = localStorage.getItem('basel.tab'); if (!location.hash && !P.get('tab') && t && (DATA[t] || t === 'analysen')) tab = t; } catch (e) {}
+if (P.get('vol')) vol.value = P.get('vol');
+if (P.get('conf')) conf.value = P.get('conf');
+if (P.get('q')) q.value = P.get('q');
+render();
 </script>
 """
 
