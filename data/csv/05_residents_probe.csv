@@ -13,7 +13,7 @@ building_id,building_no,entry_id,volume,page,section,line_from,line_to,entry_typ
 1841-B-1080,1080,1841-gebaeude-046-003,1841,46,gebaeude,32,32,person,,,Christ,,,,J. J.,,,,Notar und Statthalter,,,,,Am Bäumlein,alt,,,,rule,high,,"Christ, J. J., Notar und Statthalter"
 1841-B-1087,1087,1841-gebaeude-046-004,1841,46,gebaeude,42,42,person,,,Kling,,,,Elias,,,,Glaser,,,,,Streitgasse,alt,,,,rule,high,,"Kling, Elias, Glaser"
 1841-B-1088,1088,1841-gebaeude-046-005,1841,46,gebaeude,44,44,person,,,Bürgin,,,,Carl,,,,Buchbinder,,,,,Streitgasse,alt,,,,rule,high,,"Bürgin, Carl, Buchbinder"
-1841-B-1091,1091,1841-gebaeude-046-006,1841,46,gebaeude,48,48,firma,,,Comptoir von Gebrüder Stähelin,,,,,,,,,,,,,Streitgasse,alt,,,,rule,review,,Comptoir von Gebrüder Stähelin
+1841-B-1091,1091,1841-gebaeude-046-006,1841,46,gebaeude,48,48,firma,,,Comptoir von Gebrüder Stähelin,,,,,,,,,,,,,Streitgasse,alt,,,,rule,high,,Comptoir von Gebrüder Stähelin
 1841-B-1642,1642,1841-gebaeude-065-001,1841,65,gebaeude,5,5,person,,,Imhof,,Wenk,,Hieronymus,,,Vater,,,,,,,alt,,,,rule,high,,"Imhof-Wenk, Hieronymus, Vater"
 1841-B-1643,1643,1841-gebaeude-065-002,1841,65,gebaeude,7,7,person,,,Huber,,,,Rudolf,,,,,,,,,,alt,,,,rule,high,,"Huber, Rudolf"
 1841-B-1643,1643,1841-gebaeude-065-003,1841,65,gebaeude,8,8,person,,,Geymüller,,,,Andreas,,,,Polizei-Commissär,,,,,,alt,,,,rule,high,,"Geymüller, Andreas, Polizei-Commissär"
@@ -26,8 +26,8 @@ building_id,building_no,entry_id,volume,page,section,line_from,line_to,entry_typ
 1841-B-1654,1654,1841-gebaeude-065-010,1841,65,gebaeude,30,30,person,,,Schaub,,,,Georg,,,,Fabrikarbeiter,,,,,Rindermarkt,alt,,,,rule,high,,"Schaub, Georg, Fabrikarbeiter"
 1841-B-1660,1660,1841-gebaeude-065-011,1841,65,gebaeude,37,37,person,,,Wahr,,Bené,,Carl,,,,Handelsmann,,,,,Rindermarkt,alt,,,,rule,high,,"Wahr-Bené, Carl, Handelsmann"
 1841-B-1660,1660,1841-gebaeude-065-012,1841,65,gebaeude,38,38,person,,,Steiger,,,Marg.,Eckenstein,,Wittwe,,,,,,,Rindermarkt,alt,,,,rule,high,vorname aus geb.-Name abgetrennt,"Steiger, Wittwe, geb. Marg. Eckenstein"
-1841-B-1662,1662,1841-gebaeude-065-013,1841,65,gebaeude,41,41,person,,,Schneider,,,,Emanuel,,,,Gerichtssamtmann,,,,,Rindermarkt,alt,,,,rule,high,,"Schneider, Emanuel, Gerichtssamtmann"
-1841-B-1662,1662,1841-gebaeude-065-014,1841,65,gebaeude,42,42,person,,,Widmer,,Tiß,,Joh. Christ.,,,,Handels-Commis,,,,,Rindermarkt,alt,,,,rule,high,,"Widmer-Tiß, Joh. Christ., Handels-Commis"
+1841-B-1661,1661,1841-gebaeude-065-013,1841,65,gebaeude,41,41,person,,,Schneider,,,,Emanuel,,,,Gerichtssamtmann,,,,,Rindermarkt,alt,,,,rule,high,,"Schneider, Emanuel, Gerichtssamtmann"
+1841-B-1661,1661,1841-gebaeude-065-014,1841,65,gebaeude,42,42,person,,,Widmer,,Tiß,,Joh. Christ.,,,,Handels-Commis,,,,,Rindermarkt,alt,,,,rule,high,,"Widmer-Tiß, Joh. Christ., Handels-Commis"
 1850-B-754,754,1850-gebaeude-046-001,1850,46,gebaeude,12,12,person,,,Spreyermann,,,,Elias,,,,Commis,,,,,Kohliberggäßlein,alt,,,,rule,high,,"Spreyermann, Elias, Commis"
 1850-B-A-754,A 754,1850-gebaeude-046-002,1850,46,gebaeude,14,14,person,,,Häfelfinger,,,,Joh. Rud.,,,Sohn,Commis,,,,,Kohliberggäßlein,alt,,,,rule,high,,"Häfelfinger, Joh. Rud., Sohn, Commis"
 1850-B-GH-754,GH 754,1850-gebaeude-046-003,1850,46,gebaeude,20,20,person,,,Imhof,,Haas,,Heinrich,,,,Fabrikaufseher,,,,,Kohliberggäßlein,alt,,,,rule,high,,"Imhof-Haas, Heinrich, Fabrikaufseher"
@@ -87,7 +87,7 @@ building_id,building_no,entry_id,volume,page,section,line_from,line_to,entry_typ
 1862-B-Kanonengasse-19,19,1862-gebaeude-139-028,1862,139,gebaeude,50,50,person,,,Reber,,Sulger,,Balthasar,,,,Professor,,,,,Kanonengasse,neu,,,,rule,high,,"Reber-Sulger, Balthasar, Professor"
 1862-B-Kanonengasse-19,19,1862-gebaeude-139-029,1862,139,gebaeude,51,51,person,,,Reber,,,,Paul,,,,Ingenieur,,,,,Kanonengasse,neu,,,,rule,high,,"Reber, Paul, Ingenieur"
 1862-B-Kanonengasse-19,19,1862-gebaeude-139-030,1862,139,gebaeude,52,52,person,,,Bernoulli,,Reber,,Joh. Jak.,,,,Phil. Dr,,,,,Kanonengasse,neu,,,,rule,high,,"Bernoulli-Reber, Joh. Jak., Phil. Dr"
-1862-B-Kanonengasse-24,24,1862-gebaeude-139-031,1862,139,gebaeude,54,54,person,,,und Verlagsbuchhandlung,,,,,,,,,,,,,Kanonengasse,neu,,,,rule,review,,und Verlagsbuchhandlung
+1862-B-Kanonengasse-24,24,1862-gebaeude-139-031,1862,139,gebaeude,54,54,firma,,,und Verlagsbuchhandlung,,,,,,,,,,,,,Kanonengasse,neu,,,,rule,high,,und Verlagsbuchhandlung
 1862-B--4,4,1862-gebaeude-207-001,1862,207,gebaeude,5,5,person,,,Kern u. Sohn,,,,Bandfabrikanten,,,,,,,,,,neu,,,,rule,high,,"Kern u. Sohn, Bandfabrikanten"
 1862-B--7,7,1862-gebaeude-207-002,1862,207,gebaeude,10,10,person,,,Stoll,,Friz,,Joh.,,,,Schreiner,,,,,,neu,,,,rule,high,,"Stoll-Friz, Joh., Schreiner"
 1862-B--7,7,1862-gebaeude-207-003,1862,207,gebaeude,11,11,person,,,Friehl und Stocker,,,,Wagenfabrikanten,,,,,,,,,,neu,,,,rule,high,,"Friehl und Stocker, Wagenfabrikanten"
@@ -97,18 +97,18 @@ building_id,building_no,entry_id,volume,page,section,line_from,line_to,entry_typ
 1862-B--7,7,1862-gebaeude-207-007,1862,207,gebaeude,15,15,person,,,Strub,,Thommen,,Friedrich,,,,Wirth,,,,,,neu,,,,rule,high,,"Strub-Thommen, Friedrich, Wirth"
 1862-B--7,7,1862-gebaeude-207-008,1862,207,gebaeude,16,16,person,,,Brand,,Buser,,Heinrich,,,,Schuhmacher,,,,,,neu,,,,rule,high,,"Brand-Buser, Heinrich, Schuhmacher"
 1862-B--7,7,1862-gebaeude-207-009,1862,207,gebaeude,17,17,person,,,Heitz,,,,Schwestern,,,,Rosina u. Verena,,,,,,neu,,,,rule,high,,"Heitz, Schwestern, Rosina u. Verena,"
-1862-B--7,7,1862-gebaeude-207-010,1862,207,gebaeude,18,18,person,,,Damenschneiderinnen,,,,,,,,,,,,,,neu,,,,rule,review,,Damenschneiderinnen
-1862-B--8,8,1862-gebaeude-207-011,1862,207,gebaeude,20,21,person,,,Bettfedernmagazin von Dietrich Preiswerk,,Keller,,,,,,,,,,,,neu,,,,rule,review,,Bettfedernmagazin von Dietrich Preiswerk-Keller
+1862-B--7,7,1862-gebaeude-207-010,1862,207,gebaeude,18,18,person,,,Damenschneiderinnen,,,,,,,,,,,,,,neu,,,,rule,high,,Damenschneiderinnen
+1862-B--8,8,1862-gebaeude-207-011,1862,207,gebaeude,20,21,person,,,Bettfedernmagazin von Dietrich Preiswerk,,Keller,,,,,,,,,,,,neu,,,,rule,high,,Bettfedernmagazin von Dietrich Preiswerk-Keller
 1862-B--9,9,1862-gebaeude-207-012,1862,207,gebaeude,23,23,person,,,Roost,,Keller,,Appreturaufseher,,,,,,,,,,neu,,,,rule,high,,"Roost-Keller, Appreturaufseher"
-1862-B--10,10,1862-gebaeude-207-013,1862,207,gebaeude,25,25,person,,,Wilhelm,,,,,,,,,,,,,,neu,,,,rule,review,,Wilhelm
+1862-B--10,10,1862-gebaeude-207-013,1862,207,gebaeude,25,25,person,,,Wilhelm,,,,,,,,,,,,,,neu,,,,rule,high,,Wilhelm
 1862-B--11,11,1862-gebaeude-207-014,1862,207,gebaeude,28,28,person,,,Cherbuin,,Flubacher,,Friedrich,,,,V.D.M.,,,,,,neu,,,,rule,high,,"Cherbuin-Flubacher, Friedrich, V.D.M.,"
-1862-B--11,11,1862-gebaeude-207-015,1862,207,gebaeude,29,29,person,,,Lehrer,,,,,,,,,,,,,,neu,,,,rule,review,,Lehrer
-1862-B--12,12,1862-gebaeude-207-016,1862,207,gebaeude,31,31,person,,,(Remise und Stallung.),,,,,,,,,,,,,,neu,,,,rule,review,,(Remise und Stallung.)
+1862-B--11,11,1862-gebaeude-207-015,1862,207,gebaeude,29,29,person,,,Lehrer,,,,,,,,,,,,,,neu,,,,rule,high,,Lehrer
+1862-B--12,12,1862-gebaeude-207-016,1862,207,gebaeude,31,31,person,,,(Remise und Stallung.),,,,,,,,,,,,,,neu,,,,rule,high,,(Remise und Stallung.)
 1862-B--13,13,1862-gebaeude-207-017,1862,207,gebaeude,33,34,person,,,Emde,,Schoch,,Christian Friedrich,,,,Mechaniker,,,,,,neu,,,,rule,high,,"Emde-Schoch, Christian Friedrich, Mechaniker"
 1862-B--13,13,1862-gebaeude-207-018,1862,207,gebaeude,35,35,person,,,Hollinger,,Greiner,,Friedrich,,,,Wirth,,,,,,neu,,,,rule,high,,"Hollinger-Greiner, Friedrich, Wirth"
 1862-B--14,14,1862-gebaeude-207-019,1862,207,gebaeude,37,37,person,,,Wieland,,Dietschy,,Carl,,,,Notar u. Advok,,,,,,neu,,,,rule,high,,"Wieland-Dietschy, Carl, Notar u. Advok"
-1862-B--16,16,1862-gebaeude-207-020,1862,207,gebaeude,40,40,person,,,(Stallung und Remise.),,,,,,,,,,,,,,neu,,,,rule,review,,(Stallung und Remise.)
-1862-B--18,18,1862-gebaeude-207-021,1862,207,gebaeude,43,43,person,,,(Stallung und Magazin.),,,,,,,,,,,,,,neu,,,,rule,review,,(Stallung und Magazin.)
-1862-B--20,20,1862-gebaeude-207-022,1862,207,gebaeude,46,46,person,,,(Remise und Stallung.),,,,,,,,,,,,,,neu,,,,rule,review,,(Remise und Stallung.)
+1862-B--16,16,1862-gebaeude-207-020,1862,207,gebaeude,40,40,person,,,(Stallung und Remise.),,,,,,,,,,,,,,neu,,,,rule,high,,(Stallung und Remise.)
+1862-B--18,18,1862-gebaeude-207-021,1862,207,gebaeude,43,43,firma,,,(Stallung und Magazin.),,,,,,,,,,,,,,neu,,,,rule,high,,(Stallung und Magazin.)
+1862-B--20,20,1862-gebaeude-207-022,1862,207,gebaeude,46,46,person,,,(Remise und Stallung.),,,,,,,,,,,,,,neu,,,,rule,high,,(Remise und Stallung.)
 1862-B--22,22,1862-gebaeude-207-023,1862,207,gebaeude,48,48,person,,,Pizarro,,de Villier,,Manuel,,Rentier,,,,,,,,neu,,,,rule,high,,"Pizarro-de Villier, Manuel, Rentier"
 1862-B--22,22,1862-gebaeude-207-024,1862,207,gebaeude,49,49,person,,,Brombach,,Hierholzer,,Rudolf,,,,Gärtner,,,,,,neu,,,,rule,high,,"Brombach-Hierholzer, Rudolf, Gärtner"

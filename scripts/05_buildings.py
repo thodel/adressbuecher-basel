@@ -51,7 +51,8 @@ B_FIELDS = ["building_id", "volume", "page", "line", "building_no", "building_no
             "street_raw", "owner_text", "owner_same_as_prev", "owner_surname", "owner_entry",
             "building_type", "phone_flag", "parse_confidence", "note"]
 
-NUM_RE = re.compile(r"^\s*(?:\.\s*)?(?:(?P<pre>[A-Z]{1,3})\s+)?(?P<nos>\d+(?:\s?[a-z](?![.\w]))?(?:\s*(?:\.|,)?\s*(?:u\.|und|bis|-|–)\s*\d+(?:\s?[a-z](?![.\w]))?)*)\s*\.?\s*(?P<mark>[*†+]|\(\*\))?\s*(?P<rest>.*)$")
+NUM_RE = re.compile(r"^\s*(?:\.\s*)?(?:No\.\s*)?(?:(?P<pre>[A-Z]{1,3})\s+)?(?P<nos>\d+(?:\s{0,2}(?:[a-z]|½)(?![.\w]))*(?:(?:,\s*|\s*(?:u\.|und|bis|-|–|—)\s*)\d+(?:\s{0,2}(?:[a-z]|½)(?![.\w]))*)*)\s*[.}]?\s*(?P<mark>[*†+]|\(\*\))?(?P<suf>(?:\s?[a-z](?![.\w]))+)?\s*(?P<rest>.*)$")
+DITTO_ONLY_RE = re.compile(r"^[”„\"'\s]+$")
 TABLE_RE = re.compile(r"^(?P<new>[^|]*)\|(?P<quarter>[^|]*)\|(?P<old>[^|]*)\|(?P<name>[^|]*)\|(?P<rest>.*)$")
 CITY_PART_RE = re.compile(r"^(Gro(ß|ss)e Stadt|Kleine Stadt|Gro(ß|ss)-Basel|Klein-Basel)\b")
 DITTO_RE = re.compile(r"^(Derselbe|Dieselbe|Dieselben|Dieselb\.|„|\"|''|Ders\.|Dies\.)\s*[.,]?\s*(?P<type>.*)$")
@@ -148,12 +149,18 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
                 cur["note"] = "neue Nummer fehlt"
             buildings.append(cur); prev = cur
         elif nm and nm.group("nos") and (nm.group("rest") or nm.group("mark")) and "|" not in s:
-            nos = re.sub(r"\s+", " ", nm.group("nos")).strip()
-            first = re.match(r"\d+\s?[a-z]?", nos).group(0).replace(" ", "")
+            nos = re.sub(r"\s+", " ", nm.group("nos") + (nm.group("suf") or "")).strip()   # «399 * a Magazin»
+            first = re.match(r"\d+(?:\s?(?:[a-z]|½))*", nos).group(0).replace(" ", "")
             pre = (nm.group("pre") or "").strip()
             rest = nm.group("rest").strip()
             hs = re.findall(r"\[handschriftlich:[^\]]*\]", rest)
             rest = re.sub(r"\s*\[handschriftlich:[^\]]*\]", "", rest).strip()
+            hname = ""
+            hm = re.match(r"^\((?P<h>[^)]*(?:haus|thor|Thor|hof|Hof|mühle|Mühle|zum|zur|St\.)[^)]*)\)\s*(?P<r>.*)$", rest)
+            if hm:                                      # «No. 1 (St. Johannthor) Sulzer, …»
+                hname, rest = hm.group("h").strip(), hm.group("r").strip()
+            if DITTO_ONLY_RE.match(rest or "x"):
+                rest = "Derselbe"
             d = DITTO_RE.match(rest) or re.match(r"^(dito|Dito)\b\s*(?P<type>.*)$", rest)
             if d:
                 owner_text, same, btype = prev.get("owner_text", ""), "1", (d.group("type") or "").strip(" .„”\"")
@@ -175,7 +182,7 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
                    "building_no": (pre + " " if pre else "") + first, "building_nos": (pre + " " if pre else "") + nos,
                    "marker": (nm.group("mark") or "").strip("()"),
                    "house_no_new": "", "house_no_old": (pre + " " if pre else "") + first, "quarter": quarter_name,
-                   "house_name": "", "city_part": city_part,
+                   "house_name": hname, "city_part": city_part,
                    "street_raw": street, "owner_text": owner_text, "owner_same_as_prev": same,
                    "owner_surname": surname, "owner_entry": oentry, "building_type": btype,
                    "phone_flag": "", "parse_confidence": conf, "note": "; ".join(hs)}
@@ -196,8 +203,20 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
                     cur["owner_surname"], cur["owner_entry"] = _owner_fields(cur["owner_text"])
                 continue
             residents.append(_resident(s, cur, volume, page, i, len(residents) + 1, street))
-        elif STREET_RE.match(s) and "|" not in s:
+        elif cur is not None and not indented and s[:1].islower():
+            # Fortsetzung ohne Einzug («keitlichen Töchterschule.»)
+            if residents and residents[-1]["building_id"] == cur["building_id"]:
+                r = residents[-1]
+                joined = (r["text"][:-1] + s) if r["text"].endswith("-") else (r["text"] + " " + s)
+                residents[-1] = {**r, **_resident(joined.rstrip("."), cur, volume, page, r["line_from"], len(residents), street), "line_to": i}
+            else:
+                joined = (cur["owner_text"] + s) if cur["owner_text"].endswith("-") else (cur["owner_text"] + " " + s)
+                cur["owner_text"], cur["building_type"] = split_type(joined.strip())
+                cur["owner_surname"], cur["owner_entry"] = _owner_fields(cur["owner_text"])
+        elif STREET_RE.match(s) and "|" not in s and "," not in s:
             street = s.rstrip(".:").strip()
+        elif cur is not None and not indented and ("," in s or s.endswith(".")) and "|" not in s:
+            residents.append(_resident(s.rstrip("."), cur, volume, page, i, len(residents) + 1, street))   # Bewohner ohne Einzug
         else:
             if cur is not None:
                 cur["note"] = (cur["note"] + " | " if cur["note"] else "") + f"unzugeordnet Z{i}: {s[:60]}"
@@ -281,11 +300,10 @@ def main() -> None:
     ap.add_argument("--out-residents", type=Path, default=CSV_DIR / "05_residents.csv")
     args = ap.parse_args()
 
-    pages = []
+    pages, meta = [], {}
     if args.text:
         pages.append((args.volume, args.page, args.text.read_text(encoding="utf-8")))
     else:
-        meta = {}
         with (CSV_DIR / "01_pages.csv").open(encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
                 meta[f"{r['volume']}_p{int(r['page']):03d}"] = r
@@ -296,9 +314,12 @@ def main() -> None:
 
     all_b, all_r = [], []
     street, prev, last, city_part = "", None, (None, None), ""
+    sec_of = {(m["volume"], int(m["page"])): m["section"] for m in meta.values()} if not args.text else {}
     for vol, page, text in pages:
-        if not (vol == last[0] and page == last[1] + 1):
-            street, prev, city_part = "", None, ""   # Strasse/Eigentümer nur über direkte Folgeseiten mitführen
+        between = [sec_of.get((vol, q), "") for q in range(last[1] + 1, page)] if vol == last[0] and last[1] else None
+        consecutive = between is not None and all(s_ == "leer" for s_ in between)
+        if not consecutive:
+            street, prev, city_part = "", None, ""   # Strasse/Eigentümer nur über Folgeseiten (Leerseiten dazwischen erlaubt) mitführen
         if vol in ("1841", "1850", "1862"):
             b, r, street, prev, city_part = parse_building_page_basel(text, vol, page, street, prev, city_part)
         else:
