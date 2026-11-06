@@ -35,6 +35,10 @@ def main() -> None:
     for r in load("05_residents.csv"):
         residents[r["building_id"]].append(person(r))
     geo = {g["building_id"]: g for g in load("05_buildings_geo.csv")}
+    links = {}
+    with Path("data/ext/hgb/stabs_dossier.csv").open(encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            links[r["dossierId"]] = r["link"]          # Archivkatalog-Record des HGB-Dossiers
     feats, summary = defaultdict(list), {}
     for b in load("05_buildings.csv"):
         g = geo.get(b["building_id"], {})
@@ -49,7 +53,7 @@ def main() -> None:
                  "owner": b["owner_text"], "type": b["building_type"], "marker": b["marker"],
                  "residents": residents.get(b["building_id"], []), "n": len(residents.get(b["building_id"], [])),
                  "method": g["match_method"], "conf": g["geo_confidence"], "dossier": g["dossier_id"].split(";")[0],
-                 "hgb": g["dossier_title"]}
+                 "link": links.get(g["dossier_id"].split(";")[0], ""), "hgb": g["dossier_title"]}
         feats[b["volume"]].append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [float(g["lon"]), float(g["lat"])]},
                                    "properties": props})
     for vol, fs in feats.items():

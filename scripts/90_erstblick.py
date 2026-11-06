@@ -414,7 +414,7 @@ function popup(p) {
   const title = `${esc(p.street)} ${esc(p.no)}${p.old ? ' (alte Nr. ' + esc(p.old) + ')' : ''}${p.name ? ' «' + esc(p.name) + '»' : ''}`;
   let h = `<b>${title}</b><br>Band ${p.vol}, PDF-S. ${p.page}${p.part ? ', ' + esc(p.part) : ''}<br><b>Eigentümer:</b> ${esc(p.owner || '–')}${p.type ? ' (' + esc(p.type) + ')' : ''}${p.marker ? ' <span class="star">' + esc(p.marker) + '</span>' : ''}`;
   if (p.residents.length) h += `<br><b>Bewohner (${p.residents.length}):</b><ul>` + p.residents.map(r => `<li>${esc(r)}</li>`).join('') + '</ul>';
-  h += `<br><span class="sub">Verortung ${esc(p.method)} (${esc(p.conf)}), HGB ${esc(p.hgb)}${p.dossier ? ' · <a href="https://ld.bs.ch/ais/Record/' + '" target="_blank" rel="noopener">' : ''}${p.dossier ? esc(p.dossier) + '</a>' : ''} · <a href="${esc(DLS[p.vol] || '#')}" target="_blank" rel="noopener">Seite im Lesesaal</a></span>`;
+  h += `<br><span class="sub">Verortung ${esc(p.method)} (${esc(p.conf)}), HGB ${esc(p.hgb)}${p.dossier ? ' · ' + (p.link ? '<a href="' + esc(p.link) + '" target="_blank" rel="noopener">' + esc(p.dossier) + '</a>' : esc(p.dossier)) : ''} · <a href="${esc(DLS[p.vol] || '#')}" target="_blank" rel="noopener">Seite im Lesesaal</a></span>`;
   return h;
 }
 function renderMap() {
