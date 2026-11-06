@@ -61,3 +61,7 @@ abnahme:  ## Parser auf GT-Text und Gemini-Lesung der GT-Seiten gegen die Gold-T
 	$(PY) scripts/05_buildings.py --text data/gt/1862_p139.txt --volume 1862 --page 139 --out-buildings $(ABNAHME)/parse_gt_1862_p139_buildings.csv --out-residents $(ABNAHME)/parse_gt_1862_p139_residents.csv >/dev/null
 	$(PY) scripts/05_buildings.py --text data/atr/basel-gemini-v1/gemini-3.8-flash/1862_p139.txt --volume 1862 --page 139 --out-buildings $(ABNAHME)/parse_gemini_1862_p139_buildings.csv --out-residents $(ABNAHME)/parse_gemini_1862_p139_residents.csv >/dev/null
 	$(PY) scripts/gt_entries_check.py --parsed-dir $(ABNAHME)
+
+.PHONY: geojson
+geojson:  ## GeoJSON je Band für die Karte
+	$(PY) scripts/11_geojson.py

@@ -89,7 +89,7 @@ def _resident(s: str, cur: dict, volume: str, page: int, i: int, n: int, street:
     e = {k: v for k, v in e.items() if k != "_addresses"}
     if e["surname"] and e["parse_confidence"] != "review":
         e["parse_confidence"] = "high"
-    e.update({"entry_id": f"{volume}-gebaeude-{page:03d}-{n:03d}", "volume": volume,
+    e.update({"entry_id": f"{volume}-gebaeude-{page:03d}-L{i:03d}", "volume": volume,
               "page": str(page), "section": "gebaeude", "line_from": i, "line_to": i,
               "building_id": cur["building_id"], "building_no": cur["building_no"], "street_raw": street,
               "building_no_system": "neu" if volume == "1862" else "alt", "city_part": cur.get("city_part", "")})
@@ -280,7 +280,7 @@ def parse_building_page(text: str, volume: str, page: int, street: str = "", pre
             e = {k: v for k, v in e.items() if k != "_addresses"}
             if e["surname"] and e["parse_confidence"] == "medium" and "adresse ohne nummer" in e["residual"]:
                 e["parse_confidence"], e["residual"] = "high", ""     # Adresse ist das Gebäude
-            e.update({"entry_id": f"{volume}-gebaeude-{page:03d}-{len(residents)+1:03d}", "volume": volume,
+            e.update({"entry_id": f"{volume}-gebaeude-{page:03d}-L{i:03d}", "volume": volume,
                       "page": str(page), "section": "gebaeude", "line_from": i, "line_to": i,
                       "building_id": cur["building_id"], "building_no": cur["building_no"], "street_raw": street})
             residents.append(e)

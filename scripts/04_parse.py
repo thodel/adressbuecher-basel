@@ -491,6 +491,7 @@ def parse_page(text: str, volume: str, page: int, section: str = "einwohner",
     Ziffer (z. B. «Hafnereien.») die Rubrik, die jeder folgende Eintrag in `heading`
     trägt; Querverweise «(Siehe …)» werden als Notiz an die Rubrik gehängt."""
     rows, prev, prev_rec = [], prev_surname, None
+    seen_lines: dict[int, int] = {}                     # stabile IDs: Zeilennummer, Suffix bei zwei Einträgen je Zeile
     basel = volume in ("1841", "1850", "1862")
     own = (lambda s: bool(NO_1850_RE.match(s))) if volume == "1850" else None
     raw_entries = page_to_entries(prenormalise(text), own_entry=own)
@@ -518,7 +519,10 @@ def parse_page(text: str, volume: str, page: int, section: str = "einwohner",
         rec = {k: v for k, v in rec.items() if k != "_addresses"}
         for seq, (role, street, no) in enumerate(addrs, start=1):
             row = dict(rec)
-            row.update({"entry_id": f"{volume}-{section}-{page:03d}-{n:03d}", "volume": volume,
+            k = seen_lines.get(lf, 0) + 1 if seq == 1 else seen_lines.get(lf, 1)
+            if seq == 1:
+                seen_lines[lf] = k
+            row.update({"entry_id": f"{volume}-{section}-{page:03d}-L{lf:03d}" + ("" if k == 1 else f"{chr(96 + k)}"), "volume": volume,
                         "page": str(page), "section": section, "line_from": lf, "line_to": lt,
                         "address_seq": seq, "address_role": role, "street_raw": street, "building_no": no})
             rows.append(row)

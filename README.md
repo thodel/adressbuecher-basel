@@ -17,7 +17,7 @@ Kontrollseite der Datensätze (Flagging, Verortung): https://thodel.github.io/ad
 
 - ATR läuft über den Server `tei` (SSH-Alias in `~/.ssh/config`, oder `TEI_SSH=user@host`); die
   Läufe werden über den MCP-ATR-Server von agentic_historian gestartet (siehe PLAN.md, Welle 1).
-- `make fullrun-fetch fullrun-lines fullrun-parse geo erstblick` holt fertige Läufe, parst alle
+- `make fullrun-fetch fullrun-lines fullrun-parse geo geojson erstblick` holt fertige Läufe, parst alle
   Abschnitte, verortet die Gebäude über das HGB und baut die Kontrollseite `web/index.html`;
   GitHub Pages baut dieselbe Seite bei jedem Push, der `data/csv/` oder `data/review/` berührt.
 - Flags von der Kontrollseite: CSV exportieren, `make flags-merge FILE=…`, committen.

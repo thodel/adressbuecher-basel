@@ -80,6 +80,84 @@ def load(files: list[str], cols: list[str]) -> list[list[str]]:
     return rows
 
 
+GEO_DIR = Path("data/geo")
+
+
+def analyses(data: dict) -> dict:
+    """Kennzahlen aus den CSV, reproduzierbar beim Bau der Seite."""
+    from collections import Counter, defaultdict
+    out = {"bands": sorted({r[1] for k in data for r in data[k]["rows"]})}
+    counts = {k: Counter(r[1] for r in data[k]["rows"]) for k in data if k != "geo"}
+    out["counts"] = {k: {b: counts[k].get(b, 0) for b in out["bands"]} for k in counts}
+    # Berufe je Band: roh (keine Normalisierung vorhanden), Schlusspunkt weg, aus Einwohner + Bewohner
+    occ = defaultdict(Counter)
+    for k in ("einwohner", "bewohner"):
+        if k not in data:
+            continue
+        ci = data[k]["cols"].index("occupation_raw")
+        for r in data[k]["rows"]:
+            o = (r[ci] or "").strip().rstrip(".")
+            if o:
+                occ[r[1]][o] += 1
+    out["occupations"] = {b: occ[b].most_common(25) for b in out["bands"]}
+    out["occupations_total"] = {b: sum(occ[b].values()) for b in out["bands"]}
+    # Bewohner je Gebäude
+    if "bewohner" in data and "gebaeude" in data:
+        bi = data["bewohner"]["cols"].index("building_no"); per = defaultdict(Counter)
+        res_by_b = defaultdict(int)
+        for r in data["bewohner"]["rows"]:
+            res_by_b[(r[1], r[0].rsplit("-", 2)[0], r[bi])] += 1
+        # genauer über building_id der Bewohner-CSV
+        res_ids = Counter()
+        with (CSV_DIR / "05_residents.csv").open(encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                res_ids[r["building_id"]] += 1
+        dist = defaultdict(Counter)
+        for r in data["gebaeude"]["rows"]:
+            n = res_ids.get(r[0], 0)
+            dist[r[1]]["6+" if n >= 6 else str(n)] += 1
+        out["residents_per_building"] = {b: {c: dist[b].get(c, 0) for c in ("0", "1", "2", "3", "4", "5", "6+")} for b in out["bands"]}
+    # Strassen nach Einträgen (Register 1841/1862; 1850 aus dem Nummernbuch, das Register nennt keine Strasse)
+    streets = defaultdict(Counter)
+    si = data["einwohner"]["cols"].index("street_raw")
+    for r in data["einwohner"]["rows"]:
+        if r[si]:
+            streets[r[1]][r[si].rstrip(".")] += 1
+    if "gebaeude" in data:
+        gi = data["gebaeude"]["cols"].index("street_raw")
+        for r in data["gebaeude"]["rows"]:
+            if r[1] == "1850" and r[gi]:
+                streets["1850"][r[gi]] += 1
+    out["streets"] = {b: streets[b].most_common(20) for b in out["bands"]}
+    out["streets_source"] = {"1841": "Register", "1850": "Nummernbuch", "1862": "Einwohnerverzeichnis"}
+    # Sternanteile je Band (der Stern bedeutet in Basel nicht Bürgerrecht)
+    star = {}
+    if "gebaeude" in data:
+        mi = data["gebaeude"]["cols"].index("marker")
+        for b in out["bands"]:
+            rows = [r for r in data["gebaeude"]["rows"] if r[1] == b]
+            star[b] = {"n": len(rows), "star": sum(1 for r in rows if "*" in (r[mi] or ""))}
+    out["star"] = star
+    kb = Counter()
+    ci = data["einwohner"]["cols"].index("city_part")
+    for r in data["einwohner"]["rows"]:
+        if r[1] == "1850":
+            kb["Kleinbasel" if r[ci] == "Kleinbasel" else "Grossbasel"] += 1
+    out["kleinbasel_1850"] = dict(kb)
+    try:
+        out["geo"] = json.loads((GEO_DIR / "summary.json").read_text(encoding="utf-8"))
+    except Exception:
+        out["geo"] = {}
+    return out
+
+
+def load_geo() -> dict:
+    geo = {}
+    for p in sorted(GEO_DIR.glob("buildings_*.geojson")):
+        geo[p.stem.replace("buildings_", "")] = json.loads(p.read_text(encoding="utf-8"))
+    return geo
+
+
 def load_flags() -> list[dict]:
     if not REVIEW.exists():
         return []
@@ -92,6 +170,8 @@ def load_flags() -> list[dict]:
 TEMPLATE = r"""<title>Basel Adressdaten Kontrolle</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <style>
 /* Layout: Werkzeug — Kopf mit Filtern und Flag-Leiste, darunter eine Tabelle, die den Rest füllt. */
 :root {
@@ -147,12 +227,30 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
 .legend { color: var(--muted); font-size: 0.84rem; margin: 0; }
 .legend b { color: var(--fg); }
 #toast { position: fixed; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); right: calc(12px + env(safe-area-inset-right, 0px)); background: var(--fg); color: var(--bg); padding: 8px 14px; border-radius: 8px; font-size: 0.9rem; }
+.panel { flex: 1 1 auto; min-height: 0; overflow: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); padding: 12px 16px; }
+.panel h2 { font-size: 1.05rem; margin: 14px 0 6px; }
+.panel h2:first-child { margin-top: 0; }
+.panel p { margin: 4px 0 8px; color: var(--muted); font-size: 0.9rem; max-width: 80ch; }
+.charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px 24px; }
+.chart h3 { font-size: 0.9rem; margin: 0 0 4px; color: var(--muted); font-weight: 600; }
+.bars { display: grid; grid-template-columns: minmax(10ch, max-content) 1fr max-content; gap: 2px 8px; align-items: center; font-size: 13px; }
+.bars .lbl { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 24ch; }
+.bars .bar { height: 12px; background: var(--accent); border-radius: 2px; min-width: 1px; }
+.bars .val { font-family: var(--font-data); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.kpi { display: flex; flex-wrap: wrap; gap: 10px 22px; margin: 6px 0 10px; }
+.kpi div { font-size: 0.9rem; color: var(--muted); } .kpi b { display: block; font-size: 1.3rem; color: var(--fg); font-variant-numeric: tabular-nums; }
+#mapwrap { flex: 1 1 auto; min-height: 420px; display: flex; flex-direction: column; gap: 8px; }
+#map { flex: 1 1 auto; min-height: 400px; border: 1px solid var(--line); border-radius: 8px; }
+.mapbar { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 0.9rem; }
+.mapbar .sw { display: inline-block; width: 11px; height: 11px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+.leaflet-popup-content { font-family: var(--font-body); font-size: 13px; line-height: 1.35; max-height: 260px; overflow: auto; }
+.leaflet-popup-content ul { margin: 4px 0 0; padding-left: 16px; }
 @media (max-width: 600px) { body { font-size: 14px; } th, td { max-width: 22ch; } td.act input[type="text"] { width: 9ch; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 <header>
   <h1>Adressbücher Basel 1841–1862: Kontrolle der Datensätze</h1>
-  <p class="sub">Stand __DATE__ · Rohdaten aus der ATR-Lesung (Gemini 3.8 Flash), regelbasiert geparst, ohne Normalisierung; Verortung über das Historische Grundbuch Basel. Fehler hier markieren; die Flags gehen per CSV oder Issue ins Repo.</p>
+  <p class="sub">Stand __DATE__ · Rohdaten aus der ATR-Lesung (Gemini 3.8 Flash), regelbasiert geparst, ohne Normalisierung; Verortung über das Historische Grundbuch Basel (Lizenz der Standortpunkte offen, siehe Reiter Karte). Fehler hier markieren; die Flags gehen per CSV oder Issue ins Repo.</p>
 </header>
 <div class="toolbar">
   <div class="tabs" role="tablist" id="tabs"></div>
@@ -170,10 +268,24 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
   <span class="sub">Danach: <code>python scripts/91_merge_flags.py &lt;datei.csv&gt;</code> und committen.</span>
 </div>
 <p class="legend"><b>*</b> im Register 1841 (Nachtrag) = Häuserkauf während des Drucks · <b>Marke *</b> im Nummernbuch 1841 = Gebäude <i>nicht</i> vom Eigentümer bewohnt · <b>Stadtteil «Kleinbasel»</b> im Register 1850 = Stern vor der Nummer (Kleinbasel zählt ab 1) · <b>Nr.-System</b>: alt = stadtweite Hausnummer (1841/1850), neu = Nummer je Strasse (1862) · <b>Verortung</b>: über die HGB-Dossiers (Adresse 1862 ↔ alte Nummer), Methode street_no/old_no = eindeutig, _multi = Schwerpunkt, _base = Hauptnummer ohne Buchstaben · <b>Konfidenz</b>: high = Zeile ging vollständig auf, medium = Hinweis in Rest/Notiz, review = nicht zuordenbar · <b>✓</b> = Flag schon im Repo · <b>Seite</b> öffnet den Band im Digitalen Lesesaal des Staatsarchivs.</p>
-<div class="wrap"><table id="t"><thead></thead><tbody></tbody></table><button class="more" id="more" hidden>weitere Zeilen zeigen</button></div>
+<div class="wrap" id="tablewrap"><table id="t"><thead></thead><tbody></tbody></table><button class="more" id="more" hidden>weitere Zeilen zeigen</button></div>
+<div class="panel" id="analysen" hidden></div>
+<div id="mapwrap" hidden>
+  <div class="mapbar">
+    <label>Band <select id="mapvol"></select></label>
+    <label>Farbe <select id="mapcolor"><option value="n">Bewohner je Gebäude</option><option value="conf">Konfidenz der Verortung</option></select></label>
+    <label><input type="checkbox" id="wms"> Situationsplan 1862 (WMS Kanton BS)</label>
+    <span id="mapcount" class="count"></span>
+    <span id="maplegend"></span>
+  </div>
+  <div id="map"></div>
+  <p class="legend">Punkte = HGB-Dossier-Standorte des Projekts «Ökonomien des Raums» (Uni Basel; Georeferenzierung Grundbuch- und Vermessungsamt BS, am Löffelplan 1862 geprüft), über Strasse + Nummer (1862) bzw. alte Hausnummer (1841/1850) zugeordnet. <b>Lizenz der Standortpunkte offen</b> (Repo ohne Datenlizenz, Dump CC BY 4.0) – Anzeige «soweit als möglich», vor einer Weiterverwendung beim Projekt nachfragen. Grundkarte © OpenStreetMap-Mitwirkende.</p>
+</div>
 <div id="toast" hidden></div>
 <script>
 const DATA = __DATA__;
+const ANA = __ANA__;
+const GEO = __GEO__;
 const LABELS = __LABELS__;
 const REASONS = __REASONS__;
 const REPORTED = __REPORTED__;
@@ -192,6 +304,8 @@ const thead = document.querySelector('#t thead'), tbody = document.querySelector
 const vols = new Set(); for (const k in DATA) for (const r of DATA[k].rows) vols.add(r[1]);
 [...vols].sort().forEach(v => { const o = document.createElement('option'); o.value = v; o.textContent = v; vol.appendChild(o); });
 for (const k in DATA) { const b = document.createElement('button'); b.setAttribute('role', 'tab'); b.textContent = `${DATA[k].label} (${DATA[k].rows.length.toLocaleString('de-CH')})`; b.dataset.k = k; b.onclick = () => { tab = k; shown = PAGE; render(); }; tabsEl.appendChild(b); }
+for (const [k, label] of [['analysen', 'Analysen'], ['karte', 'Karte']]) { const b = document.createElement('button'); b.setAttribute('role', 'tab'); b.textContent = label; b.dataset.k = k; b.onclick = () => { tab = k; render(); }; tabsEl.appendChild(b); }
+if (location.hash.replace('#','') === 'analysen' || location.hash.replace('#','') === 'karte') tab = location.hash.replace('#','');
 function esc(s) { return String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 function save() { try { localStorage.setItem(KEY, JSON.stringify(flags)); } catch (e) {} }
 function toast(msg) { const t = $('toast'); t.textContent = msg; t.hidden = false; setTimeout(() => { t.hidden = true; }, 2500); }
@@ -219,6 +333,12 @@ function actCell(k, r) {
 }
 function render() {
   for (const b of tabsEl.children) b.setAttribute('aria-selected', b.dataset.k === tab);
+  const special = tab === 'analysen' || tab === 'karte';
+  $('tablewrap').hidden = special; $('analysen').hidden = tab !== 'analysen'; $('mapwrap').hidden = tab !== 'karte';
+  for (const el of [q, vol, conf, onlyflag, count]) el.closest('label') ? (el.closest('label').style.display = special ? 'none' : '') : (el.style.display = special ? 'none' : '');
+  try { localStorage.setItem('basel.tab', tab); } catch (e) {}
+  if (tab === 'analysen') { renderAnalysen(); return; }
+  if (tab === 'karte') { renderMap(); return; }
   const d = DATA[tab], needle = q.value.trim().toLowerCase(), v = vol.value, c = conf.value, ci = d.cols.indexOf('parse_confidence');
   const rows = d.rows.filter(r => (!v || r[1] === v) && (!c || r[ci] === c) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.join(' ').toLowerCase().includes(needle)));
   thead.innerHTML = '<tr><th>Flag</th>' + d.cols.map(cc => `<th>${esc(LABELS[cc] || cc)}</th>`).join('') + '</tr>';
@@ -259,6 +379,71 @@ function fallbackCopy(text) { const ta = document.createElement('textarea'); ta.
 $('clear').onclick = () => { if (!Object.keys(flags).length) return; flags = {}; save(); render(); toast('Flags gelöscht'); };
 more.onclick = () => { shown += PAGE; render(); };
 for (const el of [q, vol, conf, onlyflag]) el.addEventListener(el === q ? 'input' : 'change', () => { shown = PAGE; render(); });
+// ---- Analysen: alles aus ANA (beim Bau aus den CSV berechnet)
+function bars(title, pairs, total) {
+  const max = Math.max(1, ...pairs.map(p => p[1]));
+  return `<div class="chart"><h3>${esc(title)}</h3><div class="bars">` + pairs.map(([l, v]) => `<span class="lbl" title="${esc(l)}">${esc(l)}</span><span class="bar" style="width:${(100 * v / max).toFixed(1)}%"></span><span class="val">${v.toLocaleString('de-CH')}${total ? ' (' + (100 * v / total).toFixed(1) + ' %)' : ''}</span>`).join('') + '</div></div>';
+}
+function renderAnalysen() {
+  const el = $('analysen'); if (el.dataset.done) return; el.dataset.done = 1;
+  const B = ANA.bands; let h = '';
+  h += '<h2>Einträge je Band</h2><p>Zeilen der Welle-2-Tabellen (ohne Normalisierung, ohne Identität über Bände). Personen in mehreren Bänden werden erst nach der Personenidentifikation (Welle 3) gezählt.</p><div class="kpi">';
+  for (const k in ANA.counts) for (const b of B) if (ANA.counts[k][b]) h += `<div><b>${ANA.counts[k][b].toLocaleString('de-CH')}</b>${esc(DATA[k] ? DATA[k].label : k)} ${b}</div>`;
+  h += '</div>';
+  if (ANA.geo && Object.keys(ANA.geo).length) { h += '<h2>Verortung über das HGB</h2><div class="kpi">'; for (const b of B) if (ANA.geo[b]) h += `<div><b>${ANA.geo[b].located.toLocaleString('de-CH')} von ${ANA.geo[b].total.toLocaleString('de-CH')}</b>${b}: Gebäude verortet (${(100 * ANA.geo[b].located / ANA.geo[b].total).toFixed(0)} %, davon ${ANA.geo[b].high} eindeutig)</div>`; h += '</div>'; }
+  h += '<h2>Die 25 häufigsten Berufe je Band</h2><p>Berufsangabe wie gedruckt (occupation_raw aus Einwohnerregister und Bewohnerzeilen, Schlusspunkt entfernt); Schreibvarianten und Abkürzungen («Kfm.», «Kaufmann») sind noch nicht zusammengeführt.</p><div class="charts">';
+  for (const b of B) h += bars(`${b} (${ANA.occupations_total[b].toLocaleString('de-CH')} Angaben)`, ANA.occupations[b], ANA.occupations_total[b]);
+  h += '</div>';
+  if (ANA.residents_per_building) { h += '<h2>Bewohner je Gebäude</h2><p>Eingerückte Bewohnerzeilen unter einem Gebäude im Nummernbuch (1841, 1850) bzw. Häuserverzeichnis (1862); 0 = nur der Eigentümer genannt.</p><div class="charts">'; for (const b of B) h += bars(b, Object.entries(ANA.residents_per_building[b]), ANA.counts.gebaeude[b]); h += '</div>'; }
+  h += '<h2>Strassen nach Zahl der Einträge</h2><p>1841 und 1862 aus dem Register (Adresse je Eintrag), 1850 aus dem Nummernbuch (das Register nennt nur die Hausnummer). Strassennamen wie gedruckt.</p><div class="charts">';
+  for (const b of B) h += bars(`${b} (${esc(ANA.streets_source[b] || '')})`, ANA.streets[b]);
+  h += '</div>';
+  h += '<h2>Sterne und Stadtteile</h2><p>Der Stern bedeutet in Basel kein Bürgerrecht: im Nummernbuch 1841 markiert er Gebäude, die nicht vom Eigentümer bewohnt sind (Berichtigung im Band); im Register 1850 steht er vor Kleinbasler Hausnummern. Ein Bürgeranteil lässt sich aus diesen Bänden nicht ablesen.</p><div class="kpi">';
+  for (const b of B) if (ANA.star[b] && ANA.star[b].n) h += `<div><b>${ANA.star[b].star.toLocaleString('de-CH')} von ${ANA.star[b].n.toLocaleString('de-CH')}</b>${b}: Gebäude mit Stern (${(100 * ANA.star[b].star / ANA.star[b].n).toFixed(1)} %)</div>`;
+  if (ANA.kleinbasel_1850 && ANA.kleinbasel_1850.Kleinbasel) h += `<div><b>${ANA.kleinbasel_1850.Kleinbasel.toLocaleString('de-CH')} von ${(ANA.kleinbasel_1850.Kleinbasel + ANA.kleinbasel_1850.Grossbasel).toLocaleString('de-CH')}</b>1850: Registereinträge in Kleinbasel (${(100 * ANA.kleinbasel_1850.Kleinbasel / (ANA.kleinbasel_1850.Kleinbasel + ANA.kleinbasel_1850.Grossbasel)).toFixed(1)} %)</div>`;
+  h += '</div>';
+  el.innerHTML = h;
+}
+// ---- Karte: Leaflet, OSM, optional WMS Situationsplan 1862, Punkte aus GEO
+let map = null, layer = null, wmsLayer = null;
+const COLORS_N = [['0', '#9aa0a6'], ['1–2', '#2f6f4e'], ['3–5', '#9a6b11'], ['6+', '#a33a2a']];
+const COLORS_C = [['high', '#2f6f4e'], ['medium', '#9a6b11'], ['low', '#a33a2a']];
+function colorFor(p, mode) { if (mode === 'conf') return (COLORS_C.find(c => c[0] === p.conf) || COLORS_C[2])[1]; const n = p.n; return n === 0 ? COLORS_N[0][1] : n <= 2 ? COLORS_N[1][1] : n <= 5 ? COLORS_N[2][1] : COLORS_N[3][1]; }
+function popup(p) {
+  const title = `${esc(p.street)} ${esc(p.no)}${p.old ? ' (alte Nr. ' + esc(p.old) + ')' : ''}${p.name ? ' «' + esc(p.name) + '»' : ''}`;
+  let h = `<b>${title}</b><br>Band ${p.vol}, PDF-S. ${p.page}${p.part ? ', ' + esc(p.part) : ''}<br><b>Eigentümer:</b> ${esc(p.owner || '–')}${p.type ? ' (' + esc(p.type) + ')' : ''}${p.marker ? ' <span class="star">' + esc(p.marker) + '</span>' : ''}`;
+  if (p.residents.length) h += `<br><b>Bewohner (${p.residents.length}):</b><ul>` + p.residents.map(r => `<li>${esc(r)}</li>`).join('') + '</ul>';
+  h += `<br><span class="sub">Verortung ${esc(p.method)} (${esc(p.conf)}), HGB ${esc(p.hgb)}${p.dossier ? ' · <a href="https://ld.bs.ch/ais/Record/' + '" target="_blank" rel="noopener">' : ''}${p.dossier ? esc(p.dossier) + '</a>' : ''} · <a href="${esc(DLS[p.vol] || '#')}" target="_blank" rel="noopener">Seite im Lesesaal</a></span>`;
+  return h;
+}
+function renderMap() {
+  const vols = Object.keys(GEO).sort();
+  if (!map) {
+    if (typeof L === 'undefined') { $('mapcount').textContent = 'Leaflet konnte nicht geladen werden (offline?).'; return; }
+    map = L.map('map').setView([47.5565, 7.5880], 15);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende' }).addTo(map);
+    wmsLayer = L.tileLayer.wms('https://wms.geo.bs.ch/', { layers: 'HP_Situationsplan_Basel_1862', format: 'image/png', transparent: true, attribution: 'Situationsplan 1862: Geodaten Kanton Basel-Stadt', maxZoom: 20, opacity: 0.8 });
+    const sel = $('mapvol'); for (const v of vols) { const o = document.createElement('option'); o.value = v; o.textContent = v; sel.appendChild(o); }
+    sel.value = vols[vols.length - 1];
+    sel.onchange = drawPoints; $('mapcolor').onchange = drawPoints;
+    $('wms').onchange = () => { if ($('wms').checked) wmsLayer.addTo(map); else map.removeLayer(wmsLayer); };
+  }
+  setTimeout(() => map.invalidateSize(), 50);
+  drawPoints();
+}
+function drawPoints() {
+  const v = $('mapvol').value, mode = $('mapcolor').value, fc = GEO[v];
+  if (layer) map.removeLayer(layer);
+  layer = L.layerGroup();
+  for (const f of fc.features) {
+    const p = f.properties, [lon, lat] = f.geometry.coordinates;
+    L.circleMarker([lat, lon], { radius: 4 + Math.min(p.n, 8) * 0.6, color: colorFor(p, mode), weight: 1, fillOpacity: 0.75 }).bindPopup(popup(p), { maxWidth: 360 }).addTo(layer);
+  }
+  layer.addTo(map);
+  const s = (ANA.geo || {})[v];
+  $('mapcount').textContent = s ? `${s.located.toLocaleString('de-CH')} von ${s.total.toLocaleString('de-CH')} Gebäuden verortet (${(100 * s.located / s.total).toFixed(0)} %); ${(s.total - s.located).toLocaleString('de-CH')} ohne Koordinate sind nicht auf der Karte` : `${fc.features.length} Punkte`;
+  $('maplegend').innerHTML = (mode === 'conf' ? COLORS_C : COLORS_N).map(c => `<span class="sw" style="background:${c[1]}"></span>${esc(c[0])} `).join(' ');
+}
 try { const t = localStorage.getItem('basel.tab'); if (!location.hash && t && DATA[t]) tab = t; } catch (e) {}
 render();
 </script>
@@ -276,7 +461,12 @@ def main() -> None:
             data[key] = {"label": label, "cols": cols, "rows": rows}
             print(f"{label}: {len(rows)} Zeilen")
     reported = load_flags()
+    ana = analyses(data)
+    geo = load_geo()
+    print("Karte:", {k: len(v["features"]) for k, v in geo.items()})
     html = (TEMPLATE.replace("__DATA__", json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+            .replace("__ANA__", json.dumps(ana, ensure_ascii=False, separators=(",", ":")))
+            .replace("__GEO__", json.dumps(geo, ensure_ascii=False, separators=(",", ":")))
             .replace("__LABELS__", json.dumps(LABELS, ensure_ascii=False))
             .replace("__REASONS__", json.dumps(REASONS, ensure_ascii=False))
             .replace("__REPORTED__", json.dumps(reported, ensure_ascii=False))
