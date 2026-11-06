@@ -51,7 +51,7 @@ B_FIELDS = ["building_id", "volume", "page", "line", "building_no", "building_no
             "street_raw", "owner_text", "owner_same_as_prev", "owner_surname", "owner_entry",
             "building_type", "phone_flag", "parse_confidence", "note"]
 
-NUM_RE = re.compile(r"^\s*(?:\.\s*)?(?:No\.\s*)?(?:(?P<pre>[A-Z]{1,3})\s+)?(?P<nos>\d+(?:\s{0,2}(?:[a-z]|½)(?![.\w]))*(?:(?:,\s*|\s*(?:u\.|und|bis|-|–|—)\s*)\d+(?:\s{0,2}(?:[a-z]|½)(?![.\w]))*)*)\s*[.}]?\s*(?P<mark>[*†+]|\(\*\))?(?P<suf>(?:\s?[a-z](?![.\w]))+)?\s*(?P<rest>.*)$")
+NUM_RE = re.compile(r"^\s*(?:\.\s*)?(?:No\.\s*)?(?:(?P<pre>[A-Z]{1,3})\s+)?(?P<nos>\d+(?:\s{0,2}(?:[a-z]|½)(?![.\w]))*(?:(?:,\s*|\s*(?:u\.|und|bis|-|–|—)\s*)\d+(?:\s{0,2}(?:[a-z]|½)(?![.\w]))*)*)\s*[.}]?\s*(?P<mark>[*†+]|\(\*\))?(?P<suf>(?:\s?[a-zA-Z](?![.\w]))+)?\s*(?P<rest>.*)$")
 DITTO_ONLY_RE = re.compile(r"^[”„\"'\s]+$")
 TABLE_RE = re.compile(r"^(?P<new>[^|]*)\|(?P<quarter>[^|]*)\|(?P<old>[^|]*)\|(?P<name>[^|]*)\|(?P<rest>.*)$")
 CITY_PART_RE = re.compile(r"^(Gro(ß|ss)e Stadt|Kleine Stadt|Gro(ß|ss)-Basel|Klein-Basel)\b")
@@ -150,7 +150,7 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
             buildings.append(cur); prev = cur
         elif nm and nm.group("nos") and (nm.group("rest") or nm.group("mark")) and "|" not in s:
             nos = re.sub(r"\s+", " ", nm.group("nos") + (nm.group("suf") or "")).strip()   # «399 * a Magazin»
-            first = re.match(r"\d+(?:\s?(?:[a-z]|½))*", nos).group(0).replace(" ", "")
+            first = re.match(r"\d+(?:\s?(?:[a-zA-Z]|½))*", nos).group(0).replace(" ", "")
             pre = (nm.group("pre") or "").strip()
             rest = nm.group("rest").strip()
             hs = re.findall(r"\[handschriftlich:[^\]]*\]", rest)
