@@ -1,0 +1,87 @@
+entry_id,volume,page,section,line_from,line_to,entry_type,owner_flag,dash_prefix,surname,surname_inherited,alliance_name,maiden_name,forename,title,civil_status,relation,occupation_raw,origin_raw,origin_canton,address_seq,address_role,street_raw,building_no,building_no_system,city_part,phone_flag,heading,parse_method,parse_confidence,residual,text,gold_note
+1850-einwohner-120-001,1850,120,einwohner,2,2,person,,,Halter,,,,N.,,,,Bettfedhdlg,,,1,,,1526,alt,,,,rule,high,,"Halter, N., Bettfedhdlg. 1526",
+1850-einwohner-120-002,1850,120,einwohner,3,3,person,,1,Halter,1,,,Elis,,Wittwe,,,,,1,,,1597,alt,,,,rule,high,,"— Wittwe, Elis. 1597","forename/occupation_raw: «Elis.» nach «Wittwe,» ist der Vorname, kein Beruf"
+1850-einwohner-120-003,1850,120,einwohner,4,4,person,,,Handmann,,,,J. J,,,,,,,1,,,172,alt,,,,rule,high,,"Handmann, J. J. 172",
+1850-einwohner-120-004,1850,120,einwohner,5,5,person,,1,Handmann,1,,,Ludwig,,,,,,,1,,,1311A,alt,,,,rule,high,,— Ludwig 1311A,
+1850-einwohner-120-005,1850,120,einwohner,6,6,person,,,Hanhart,,,,J. K,,,,,,,1,,,669,alt,,,,rule,high,,"Hanhart, J. K. 669",
+1850-einwohner-120-006,1850,120,einwohner,7,7,person,,,Hanthon,,,,Karl,,,,Partik,,,1,,,79,alt,Kleinbasel,,,rule,high,,"Hanthon, Karl, Partik. *79",civil_status/occupation_raw: «Partik.» gehört nach Konvention in civil_status | Partik. bleibt occupation_raw (Schema)
+1850-einwohner-120-007,1850,120,einwohner,8,8,person,,,Häring,,,,Aug.,,,,Schreiner,,,1,,,771,alt,,,,rule,high,,"Häring, Aug., Schreiner 771",
+1850-einwohner-120-008,1850,120,einwohner,9,9,person,,1,Häring,1,,,Joh.,,,,Condukteur,,,1,,,1399,alt,,,,rule,high,,"— Joh., Condukteur 1399",
+1850-einwohner-120-009,1850,120,einwohner,10,10,person,,,Hartmann,,,,J.,,,,Beck,,,1,,,863,alt,,,,rule,high,,"Hartmann, J., Beck 863",
+1850-einwohner-120-010,1850,120,einwohner,11,11,person,,1,Hartmann,1,,,Saml.,,,,Ferger,,,1,,,108,alt,Kleinbasel,,,rule,high,,"— Saml., Ferger *108",
+1850-einwohner-120-011,1850,120,einwohner,12,12,person,,,Hasler,,,,Sebast.,,,,Ferger,,,1,,,74,alt,,,,rule,high,,"Hasler, Sebast., Ferger 74",
+1850-einwohner-120-012,1850,120,einwohner,13,13,person,,1,Hasler,1,vonMechel,,Gottl,,,,,,,1,,,118,alt,,,,rule,high,,"— -vonMechel, Gottl. 118",
+1850-einwohner-120-013,1850,120,einwohner,14,14,person,,1,Hasler,1,,,Nikl.,,,,Beck,,,1,,,86,alt,,,,rule,high,,"— Nikl., Beck 86",
+1850-einwohner-120-014,1850,120,einwohner,15,15,person,,,Haug,,,,Joh.,,,,Schuhm,,,1,,,726,alt,,,,rule,high,,"Haug, Joh., Schuhm. 726",
+1850-einwohner-120-015,1850,120,einwohner,16,16,person,,,Haupt,,,,L.,,,,Gassenbesetzer,,,1,,,403,alt,Kleinbasel,,,rule,high,,"Haupt, L., Gassenbesetzer *403",
+1850-einwohner-120-016,1850,120,einwohner,17,17,person,,,Hausammann,,,,Peter,,,,,,,1,,,363,alt,,,,rule,high,,"Hausammann, Peter 363",
+1850-einwohner-120-017,1850,120,einwohner,18,18,person,,,Hauschild,,,,Ernst,,,,,,,1,,,754L,alt,,,,rule,high,,"Hauschild, Ernst 754L",
+1850-einwohner-120-018,1850,120,einwohner,19,19,person,,,Hauser,,Euler,,Karl,,,,,,,1,,,283,alt,,,,rule,high,,"Hauser-Euler, Karl 283",
+1850-einwohner-120-019,1850,120,einwohner,20,20,person,,1,Hauser,1,Gürtler,,David,,,,,,,1,,,955,alt,,,,rule,high,,"— -Gürtler, David 955",
+1850-einwohner-120-020,1850,120,einwohner,21,21,person,,1,Hauser,1,Oser,,Rudolf,,,,,,,1,,,974,alt,,,,rule,high,,"— -Oser, Rudolf 974",
+1850-einwohner-120-021,1850,120,einwohner,22,22,person,,1,Hauser,1,,,Joh.,,,,Commis,,,1,,,1164,alt,,,,rule,high,,"— Joh., Commis 1164",
+1850-einwohner-120-022,1850,120,einwohner,23,23,person,,1,Hauser,1,Fäsch,,Frz. Kasp,,,,,,,1,,,1530,alt,,,,rule,high,,"— -Fäsch, Frz. Kasp. 1530",
+1850-einwohner-120-023,1850,120,einwohner,24,24,firma,,1,Hauser,1,,,,,,,,,,1,,,1542,alt,,,,rule,high,u. Steigmeyer; Firmenzusatz zur Vorzeile (Hauser-Fäsch u. Steigmeyer),— u. Steigmeyer 1542,"forename: «u. Steigmeyer» ist kein Vorname (Firmenzusatz zu Hauser-Fäsch der Vorzeile), nach residual verschoben"
+1850-einwohner-120-024,1850,120,einwohner,25,25,person,,,Hecht,,,,Jak.,,,,Zimmerm,,,1,,,125,alt,Kleinbasel,,,rule,high,,"Hecht, Jak., Zimmerm. *125",
+1850-einwohner-120-025,1850,120,einwohner,26,26,person,,,Heckel,,,,J. J.,,,,Ladendiener,,,1,,,542,alt,,,,rule,high,,"Heckel, J. J., Ladendiener 542",
+1850-einwohner-120-026,1850,120,einwohner,27,27,person,,,Heckendorn,,,,Fr.,,,,Färber,,,1,,,51,alt,Kleinbasel,,,rule,high,,"Heckendorn, Fr., Färber *51",
+1850-einwohner-120-027,1850,120,einwohner,28,28,person,,1,Heckendorn,1,,,Frz.,,,,Färber,,,1,,,408,alt,Kleinbasel,,,rule,high,,"— Frz., Färber *408",
+1850-einwohner-120-028,1850,120,einwohner,29,29,person,,1,Heckendorn,1,,,Lisette,,Jgfr.,,,,,1,,,119A,alt,,,,rule,high,,— Jgfr. Lisette 119A,
+1850-einwohner-120-029,1850,120,einwohner,30,30,person,,,Hediger,,,,Joh. Rud,,,,,,,1,,,212,alt,Kleinbasel,,,rule,high,,"Hediger, Joh. Rud. *212",
+1850-einwohner-120-030,1850,120,einwohner,31,31,person,,,Hegar,,,,Fr.,,,,Klavierhdlg,,,1,,,1B,alt,,,,rule,high,,"Hegar, Fr., Klavierhdlg. 1B",
+1850-einwohner-120-031,1850,120,einwohner,32,32,person,,1,Hegar,1,,,C. Aug.,,,,Lithograph,,,1,,,126,alt,,,,rule,high,,"— C. Aug., Lithograph. 126",
+1850-einwohner-120-032,1850,120,einwohner,33,33,person,,,Hegnauer,,,,J.,,,,Posam,,,1,,,1504,alt,,,,rule,high,,"Hegnauer, J., Posam. 1504",
+1850-einwohner-120-033,1850,120,einwohner,34,34,person,,,Heidegger,,,,Fch.,,,,Agent,,,1,,,127,alt,,,,rule,high,,"Heidegger, Fch., Agent 127",
+1850-einwohner-120-034,1850,120,einwohner,35,35,person,,,Heim,,,,Karl,,,,,,,1,,,2,alt,,,,rule,high,,"Heim, Karl 2",
+1850-einwohner-120-035,1850,120,einwohner,36,36,person,,,Heimers,,,,Hch. Wilh,,,,,,,1,,,1336,alt,,,,rule,high,,"Heimers, Hch. Wilh. 1336",
+1850-einwohner-120-036,1850,120,einwohner,37,37,person,,,Heimlicher,,,,J. J.,Dr. J,,,,,,1,,,1083B,alt,,,,rule,high,,"Heimlicher, J. J., Dr. J. 1083B","title/occupation_raw: «Dr. J.» (Doctor juris) ist Titel, kein Beruf"
+1850-einwohner-120-037,1850,120,einwohner,38,38,person,,1,Heimlicher,1,Brenner,,,,Wittwe,,,,,1,,,1083B,alt,,,,rule,high,,"— -Brenner, Wittwe 1083B",
+1850-einwohner-120-038,1850,120,einwohner,39,39,person,,,Heinzgen,,,,Ver,,Jgfr.,,,,,1,,,306,alt,,,,rule,high,,"Heinzgen, Jgfr., Ver. 306","forename/occupation_raw: «Ver.» nach «Jgfr.,» ist Vorname (Verena), kein Beruf"
+1850-einwohner-120-039,1850,120,einwohner,40,40,person,,,Heitz,,,,A. Chr.,,,,Notar,,,1,,,1065,alt,,,,rule,high,,"Heitz, A. Chr., Notar 1065",
+1850-einwohner-120-040,1850,120,einwohner,41,41,person,,1,Heitz,1,,,Joh. Jak.,,,,Drechsler,,,1,,,1565,alt,,,,rule,high,,"— Joh. Jak., Drechsler 1565",
+1850-einwohner-120-041,1850,120,einwohner,42,42,person,,1,Heitz,1,,,Bernhard,,,,Drechsler,,,1,,,1625,alt,,,,rule,high,,"— Bernhard, Drechsler 1625",
+1850-einwohner-120-042,1850,120,einwohner,43,43,person,,1,Heitz,1,,,Ros.,,Jgfr.,,Modiste,,,1,,,1170,alt,,,,rule,high,,"— Jgfr., Ros., Modiste 1170","forename/occupation_raw: «Ros.» nach «Jgfr.,» ist Vorname, nur «Modiste» ist Beruf"
+1850-einwohner-120-043,1850,120,einwohner,44,44,person,,,Heller,,Spreyermann,,H.,,,,,,,1,,,1106,alt,,,,rule,high,,"Heller-Spreyermann, H. 1106",
+1850-einwohner-120-044,1850,120,einwohner,46,46,person,,,Hellstern,,,,Ant.,,,,Müller,,,1,,,1308,alt,,,,rule,high,,"Hellstern, Ant., Müller 1308",
+1850-einwohner-120-045,1850,120,einwohner,47,47,person,,1,Hellstern,1,,,P.,,,,Maurer,,,1,,,241,alt,Kleinbasel,,,rule,high,,"— P., Maurer *241",
+1850-einwohner-120-046,1850,120,einwohner,48,48,person,,1,Hellstern,1,,,Josef,,,,Müller,,,1,,,300,alt,Kleinbasel,,,rule,high,,"— Josef, Müller *300",
+1850-einwohner-120-047,1850,120,einwohner,49,49,person,,,Hemann,,,,David,,,,,,,1,,,414,alt,,,,rule,high,,"Hemann, David 414",
+1850-einwohner-120-048,1850,120,einwohner,50,50,person,,,Henning,,,,Franz W,,,,,,,1,,,1112,alt,,,,rule,high,,"Henning, Franz W. 1112",
+1850-einwohner-120-049,1850,120,einwohner,51,51,person,,,Henz,,,,Gg.,,,,Hufschmied,,,1,,,329,alt,,,,rule,high,,"Henz, Gg., Hufschmied 329",
+1850-einwohner-120-050,1850,120,einwohner,52,52,person,,1,Henz,1,,,Jakob,,,,Beck,,,1,,,329,alt,,,,rule,high,,"— Jakob, Beck 329",
+1850-einwohner-120-051,1850,120,einwohner,53,53,person,,1,Henz,1,,,Euch.,,,,Wagner,,,1,,,351,alt,,,,rule,high,,"— Euch., Wagner 351",
+1850-einwohner-120-052,1850,120,einwohner,54,54,person,,1,Henz,1,Bernet,,Jb.,,,,Beck,,,1,,,351,alt,,,,rule,high,,"— -Bernet, Jb., Beck 351",
+1850-einwohner-120-053,1850,120,einwohner,55,55,person,,1,Henz,1,Fischer,,Joh.,,,,Beck,,,1,,,354,alt,,,,rule,high,,"— -Fischer, Joh., Beck 354",
+1850-einwohner-120-054,1850,120,einwohner,56,56,person,,1,Henz,1,Schölly,,Nikl.,,,,Beck,,,1,,,774,alt,,,,rule,high,,"— -Schölly, Nikl., Beck 774",
+1850-einwohner-120-055,1850,120,einwohner,57,57,person,,1,Henz,1,,,Ludw.,,,Sohn,Beck,,,1,,,774,alt,,,,rule,high,,"— -Ludw., Sohn, Beck 774","alliance_name/forename: «-Ludw.» ist der Vorname Ludwig (Sohn von Henz-Schölly, gleiche Nr. 774), kein Allianzname; Bindestrich wohl Ditto/Satzfehler"
+1850-einwohner-120-056,1850,120,einwohner,58,58,person,,1,Henz,1,,,J. L.,,,,Commis,,,1,,,1096,alt,,,,rule,high,,"— J. L., Commis 1096",
+1850-einwohner-120-057,1850,120,einwohner,59,59,person,,1,Henz,1,,,J. J.,,,,Thorschreiber,,,1,,,1276,alt,,,,rule,high,,"— J. J., Thorschreiber 1276",
+1850-einwohner-120-058,1850,120,einwohner,60,60,person,,1,Henz,1,Dömmelin,,N.,,,,Hafner,,,1,,,12,alt,Kleinbasel,,,rule,high,,"— -Dömmelin, N., Hafner *12",
+1850-einwohner-120-059,1850,120,einwohner,61,61,person,,1,Henz,1,,,Eduard,,,,Ferger,,,1,,,123,alt,Kleinbasel,,,rule,high,,"— Eduard, Ferger *123",
+1850-einwohner-120-060,1850,120,einwohner,62,62,person,,,Herbel,,,,Eb.,,,,Zimmerm,,,1,,,965,alt,,,,rule,high,,"Herbel, Eb., Zimmerm. 965",
+1850-einwohner-120-061,1850,120,einwohner,63,63,person,,,Hergott,,,,J. L.,,,,Lehrer,,,1,,,176,alt,,,,rule,high,,"Hergott, J. L., Lehrer 176",
+1850-einwohner-120-062,1850,120,einwohner,64,64,person,,,Hermann,,,,Ad.,,,,Schlosser,,,1,,,1232,alt,,,,rule,high,,"Hermann, Ad., Schlosser 1232",
+1850-einwohner-120-063,1850,120,einwohner,65,65,person,,,Herrmann,,,,Hch.,,,,Ferger,,,1,,,454,alt,,,,rule,high,,"Herrmann, Hch., Ferger 454",
+1850-einwohner-120-064,1850,120,einwohner,66,66,person,,,Herr,,,,Fidel,,,,Gerber,,,1,,,353,alt,Kleinbasel,,,rule,high,,"Herr, Fidel, Gerber *353","Segmentierung: Zeile 66 ist nicht eingerückt, eigener Familienname «Herr» (nicht Herrmann); surname/surname_inherited/dash_prefix/forename/occupation_raw/text korrigiert"
+1850-einwohner-120-065,1850,120,einwohner,67,67,person,,,Herrsperger,,,,B.,,Jgfr.,,,,,1,,,253A,alt,,,,rule,high,,"Herrsperger, Jgfr., B. 253A","forename/occupation_raw: «B.» nach «Jgfr.,» ist Vornameninitiale, kein Beruf"
+1850-einwohner-120-066,1850,120,einwohner,68,68,person,,1,Herrsperger,1,,,Elisabetha,,Jgfr.,,,,,1,,,253A,alt,,,,rule,high,,"— Jgfr., Elisabetha 253A","forename/occupation_raw: «Elisabetha» nach «Jgfr.,» ist Vorname, kein Beruf"
+1850-einwohner-120-067,1850,120,einwohner,69,69,person,,,Herzog,,,,Eml.,,,,Siegrist,,,1,,,272A,alt,,,,rule,high,,"Herzog, Eml., Siegrist 272A",
+1850-einwohner-120-068,1850,120,einwohner,70,70,person,,1,Herzog,1,Reber,,Emanuel,,,,,,,1,,,456,alt,,,,rule,high,,"— -Reber, Emanuel 456",
+1850-einwohner-120-069,1850,120,einwohner,71,71,person,,1,Herzog,1,,,B.,,,,Kutscher,,,1,,,476,alt,,,,rule,high,,"— B., Kutscher 476",
+1850-einwohner-120-070,1850,120,einwohner,72,72,person,,1,Herzog,1,,,Joh.,,,,Notar,,,1,,,521,alt,,,,rule,high,,"— Joh., Notar 521",
+1850-einwohner-120-071,1850,120,einwohner,73,73,person,,1,Herzog,1,,,Achilles,,,,Kaufmann,,,1,,,973,alt,,,,rule,high,,"— Achilles, Kaufmann 973",
+1850-einwohner-120-072,1850,120,einwohner,74,74,person,,1,Herzog,1,Wybert,,,,Wittwe,,,,,1,,,973,alt,,,,rule,high,,"— -Wybert, Wittwe 973",
+1850-einwohner-120-073,1850,120,einwohner,75,75,person,,1,Herzog,1,,,Esther,,Jgfr.,,,,,1,,,408,alt,,,,rule,high,,"— Jgfr., Esther 408","forename/occupation_raw: «Esther» nach «Jgfr.,» ist Vorname, kein Beruf"
+1850-einwohner-120-074,1850,120,einwohner,76,76,person,,,Hesse,,,,J. A.,,,,Schneider,,,1,,,1486,alt,,,,rule,high,,"Hesse, J. A., Schneider 1486",
+1850-einwohner-120-075,1850,120,einwohner,77,77,person,,,Heß,,,,Hs.,,,,Historienmaler,,,1,,,27,alt,,,,rule,high,,"Heß, Hs., Historienmaler 27","Segmentierung: Zeile 77 ist nicht eingerückt, eigener Familienname «Heß» (nicht Hesse); surname/surname_inherited/dash_prefix/forename/occupation_raw/text korrigiert"
+1850-einwohner-120-076,1850,120,einwohner,78,78,person,,1,Heß,1,,,Joh.,,,,Spitalpfarrer,,,1,,,557,alt,,,,rule,high,,"— Joh., Spitalpfarrer 557","surname: erbt «Heß» (Zeile 77), nicht «Hesse»"
+1850-einwohner-120-077,1850,120,einwohner,79,79,person,,1,Heß,1,,,Joh.,,,,Magazinknecht,,,1,,,1338,alt,,,,rule,high,,"— Joh., Magazinknecht 1338","surname: erbt «Heß» (Zeile 77), nicht «Hesse»"
+1850-einwohner-120-078,1850,120,einwohner,80,80,person,,1,Heß,1,,,J. J.,,,,Commis,,,1,,,1528,alt,,,,rule,high,,"— J. J., Commis 1528","surname: erbt «Heß» (Zeile 77), nicht «Hesse»"
+1850-einwohner-120-079,1850,120,einwohner,81,81,person,,1,Heß,1,Mitz,,H. R.,,,,Lehrer,,,1,,,1648,alt,,,,rule,high,,"— -Mitz, H. R., Lehrer 1648","surname: erbt «Heß» (Zeile 77), nicht «Hesse»"
+1850-einwohner-120-080,1850,120,einwohner,82,82,person,,,Hetzel,,,,G. Fr.,,,,Mechan,,,1,,,1679,alt,,,,rule,high,,"Hetzel, G. Fr., Mechan. 1679",
+1850-einwohner-120-081,1850,120,einwohner,83,83,person,,,Heußler,,,,Friedrich,,,,,,,1,,,94,alt,,,,rule,high,,"Heußler, Friedrich 94",
+1850-einwohner-120-082,1850,120,einwohner,84,84,person,,1,Heußler,1,Bischoff,,Abr.,,,,Rektor,,,1,,,571,alt,,,,rule,high,,"— -Bischoff, Abr., Rektor 571",
+1850-einwohner-120-083,1850,120,einwohner,85,85,person,,1,Heußler,1,,,Abel,,,,Handelsmann,,,1,,,1059,alt,,,,rule,high,,"— Abel, Handelsmann 1059",
+1850-einwohner-120-084,1850,120,einwohner,86,86,person,,1,Heußler,1,Ryhiner,,A.,J. U. D,,,,,,1,,,1203A,alt,,,,rule,high,,"— -Ryhiner, A., J. U. D. 1203A","title/occupation_raw: «J. U. D.» (Juris utriusque doctor) ist akademischer Titel, kein Beruf"
+1850-einwohner-120-085,1850,120,einwohner,87,87,person,,1,Heußler,1,Wölfflin,,Christ,,,,,,,1,,,1214-15,alt,,,,rule,high,,"— -Wölfflin, Christ. 1214-15",
+1850-einwohner-120-086,1850,120,einwohner,88,88,person,,1,Heußler,1,Thurneysen,,Dan,,,,,,,1,,,1274A,alt,,,,rule,high,,"— -Thurneysen, Dan. 1274A",

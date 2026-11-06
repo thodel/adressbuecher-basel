@@ -41,8 +41,7 @@ FIELDS = ["entry_id", "volume", "page", "section", "line_from", "line_to", "entr
 
 STATUS = {"Sohn", "Tochter", "Wittwe", "Witwe", "Wwe.", "Wwe", "Wb.", "Frau", "Fräulein", "Frl.",
           "Jungfer", "Jungfrau", "Jgfr.", "Jgfr", "Vater", "älter", "jünger", "sel.", "sel. Wittwe",
-          "Part.", "Partik.", "Partikular", "Partikularin", "Privatin", "Privatier", "Rentier",
-          "Rentierin", "Rentière", "Rentner"}
+          "Part.", "Partik.", "Partikular", "Partikularin"}
 RELATION = {"Sohn", "Tochter", "Vater"}
 STATUS_PREFIX = ("Wb. ", "Wittwe ", "Frau ", "Jgfr. ", "Jungfer ", "Jungfrau ", "Fräulein ", "Frl. ")
 # Basel 1841: «… Beruf. 292 Spahlen-Vorstadt.» — Nummer vor der Strasse, Bann-Zusatz am Ende
@@ -58,8 +57,11 @@ ROLE_1850_RE = re.compile(r"^(?P<a>.+?\d[A-Z]{0,3})\.?\s+(?P<role>Comptoir|Magaz
 SPLIT_1850_RE = re.compile(r"(?<=\d)([A-Z]{1,3})?\s+(?=(?:[A-ZÄÖÜ][\wäöüß]*|-[A-ZÄÖÜ]|—)[^\d]*\d)")
 INITIALS_RE = re.compile(r"^(?:[A-ZÄÖÜ]\.\s?)+$")
 # Basel 1862: Adresse nach dem letzten «. », «Strasse Nr.» mit optionalem «St. »-Vorsatz
-ADDR_1862_RE = re.compile(r"^(?:(?:St|Kl|Gr|Unt|Ob|Mittl|Vord|Hint|Aeuss|Inn)\.\s?)?[A-ZÄÖÜ][^\d.;]*?\s\d{1,4}\s?[a-zA-Z]?(?:\.\s?\d{1,4})*\.?$")
+ADDR_1862_RE = re.compile(r"^(?:(?:St|Kl|Gr|Unt|Ob|Mittl|Vord|Hint|Aeuss|Inn)\.\s?)?[A-ZÄÖÜ][^\d;]*?\s\d{1,4}\s?[a-zA-Z]?(?:\.\s?\d{1,4})*\.?$")
 TITLES = {"Dr.", "Dr. med.", "Dr. phil.", "Dr. jur.", "Prof.", "Regt.", "Pfr."}
+TITLE_RE = re.compile(r"^(Dr\.?(\s+(med|phil|jur|theol|J|M)\.?)?|J\.\s?U\.\s?D\.?|M(ed)?\.\s?Dr\.?|Med\. et Chir\. Dr\.?|Prof\.?|Pfr\.?|Regt\.?)$")
+OCCUPATION_LIKE_RE = re.compile(r"(er|erin|in|mann|ant|ist|eur|ier|ler|ner|macher|händler|arbeiter|meister|fabrikant|händlerin|hdlg\.?|fabr\.?|ei|schule|handlung|anstalt|geschäft|bureau|wirthschaft|hdl\.?)$")
+ABBREV_RE = re.compile(r"^[A-ZÄÖÜ][a-zäöü]{0,5}\.$")
 ADDR_RE = re.compile(r"^(?P<street>.+?)\s+(?P<no>\d+\s?[a-z]?\.?(?:\s?[a-z]\.?)?)\.?$")
 ROLE_RE = re.compile(r"^(Wohnung|Werkstätte|Geschäft|Magazin|Bureau|Laden|Comptoir|Atelier)\s*[:,]?\s*", re.I)
 ORIGIN_RE = re.compile(r"^(?:von|v\.)\s+(?P<place>.+?)(?:\s*\((?P<canton>[^)]+)\))?$")
@@ -103,7 +105,13 @@ def page_to_entries(text: str, own_entry=None) -> list[tuple[int, int, str]]:
             line = "  " + line.strip()
         if (line.startswith("  ") or line.startswith("\t")) and entries:
             lf, lt, t = entries[-1]
-            t = (t[:-1] + t[-1].rstrip("-") + line.strip()) if t.endswith("-") else (t + " " + line.strip())
+            nxt = line.strip()
+            if t.endswith("-") and (nxt[:1].isupper() or re.match(r"^(und|u\.)\b", nxt)):
+                t = t + nxt if nxt[:1].isupper() else t + " " + nxt   # «St. Peters-|Berg», «Band-|und Seidenwaaren»
+            elif t.endswith("-"):
+                t = t[:-1] + nxt
+            else:
+                t = t + " " + nxt
             entries[-1] = (lf, i, t)
         else:
             entries.append((i, i, line.strip()))
@@ -160,14 +168,20 @@ def parse_entry(text: str, prev_surname: str, prev: dict | None = None,
         rec["surname_inherited"] = "1"
         t = t[1:].strip()
         if t.startswith("-"):                       # — -Graden, … (Allianzname zum geerbten Namen)
-            head, _, t = t[1:].partition(",")
-            rec["alliance_name"] = head.strip()
+            head, _, rest_t = t[1:].partition(",")
+            head = head.strip()
+            nxt = re.split(r",\s*", rest_t.strip())[0] if rest_t.strip() else ""
+            nxt_is_forename = bool(nxt) and (bool(INITIALS_RE.match(nxt)) or bool(ABBREV_RE.match(nxt)) or (forenames and nxt.rstrip(".") in forenames))
+            if ABBREV_RE.match(head) or (forenames and head.rstrip(".") in forenames and not nxt_is_forename and not rest_t.strip().startswith(("Wittwe", "Wb"))):
+                rec["forename"] = head; t = rest_t   # «— -Ludw., Sohn, Beck»: Vorname, kein Allianzname
+            else:
+                rec["alliance_name"] = head; t = rest_t
         elif t.startswith("geb."):                  # — geb. Hauenstein, Elisabeth, …
             head, _, t = t[4:].partition(",")
             rec["maiden_name"] = head.strip()
     else:
         head, _, t = t.partition(",")
-        head = head.strip()
+        head = re.sub(r"\s+-\s+(?=[A-ZÄÖÜ])", "-", head.strip())   # «Handmann - Howald»
         sm = SEL_RE.match(head)                       # «Bischoff-Frey sel. Wittwe»
         if sm:
             head, rec["civil_status"] = sm.group("n").strip(), sm.group("s")
@@ -202,7 +216,16 @@ def parse_entry(text: str, prev_surname: str, prev: dict | None = None,
             addr_tail = segs.pop() + ", " + addr_tail
         addresses = split_addresses(addr_tail)
     # Vorname: erstes Segment, sofern es nicht Status/Beruf ist
-    if segs and segs[0] not in STATUS and not ORIGIN_RE.match(segs[0]) and not segs[0].startswith("geb. "):
+    def looks_forename(s: str) -> bool:
+        toks = s.split()
+        if INITIALS_RE.match(s) or all(ABBREV_RE.match(x) or INITIALS_RE.match(x) for x in toks):
+            return True
+        if forenames and len(forenames) >= 200 and toks and toks[0].rstrip(".") not in forenames \
+                and len(toks) == 1 and OCCUPATION_LIKE_RE.search(toks[0].lower()) and len(toks[0]) > 5:
+            return False                                   # «— -Mayr, Juwelier, …»: kein Vorname
+        return True
+    if segs and segs[0] not in STATUS and not ORIGIN_RE.match(segs[0]) and not segs[0].startswith("geb. ") \
+            and not TITLE_RE.match(segs[0]) and looks_forename(segs[0]):
         rec["forename"] = segs.pop(0)
         for pre in STATUS_PREFIX:                       # «Wb. Maria», «Jgfr. Lisette»
             if rec["forename"].startswith(pre):
@@ -220,13 +243,16 @@ def parse_entry(text: str, prev_surname: str, prev: dict | None = None,
             rec["relation"] = s
         elif s in STATUS or s.endswith("Wittwe") or s.endswith("Witwe"):
             rec["civil_status"] = (rec["civil_status"] + " " + s).strip()
-        elif s in TITLES:
-            rec["title"] = s
+        elif s in TITLES or TITLE_RE.match(s):
+            rec["title"] = (rec["title"] + " " + s).strip()
         else:
             rest.append(s)
-    if not rec["forename"] and rec["maiden_name"] and rest and not rec["dash_prefix"] \
-            and re.match(r"^[A-ZÄÖÜ][\wäöü]*\.?(\s[A-ZÄÖÜ][\wäöü]*\.?)?$", rest[0]) and rest[0] not in STATUS:
-        rec["forename"] = rest.pop(0)                 # «Völlmy, geb. Känner, Kath., Wittwe»
+    if not rec["forename"] and rest and rest[0] not in STATUS and not TITLE_RE.match(rest[0]) and (
+            (rec["maiden_name"] and not rec["dash_prefix"] and re.match(r"^[A-ZÄÖÜ][\wäöü]*\.?(\s[A-ZÄÖÜ][\wäöü]*\.?)?$", rest[0]))
+            or (rec["civil_status"] and (INITIALS_RE.match(rest[0]) or all(ABBREV_RE.match(x) or INITIALS_RE.match(x) for x in rest[0].split())
+                                         or (forenames and rest[0].rstrip(".") in forenames)
+                                         or (re.match(r"^[A-ZÄÖÜ][\wäöü]*\.?$", rest[0]) and not (OCCUPATION_LIKE_RE.search(rest[0].lower()) and len(rest[0]) > 6))))):
+        rec["forename"] = rest.pop(0)                 # «Völlmy, geb. Känner, Kath., Wittwe»; «Linder, Jungfer, S. E.»; «Jgfr., Ros., Modiste»
     rec["occupation_raw"] = ", ".join(rest)
     # «— geb. Schmid Elisabeth, …»: Komma fehlt, letzter Token ist der Vorname
     if rec["maiden_name"] and not rec["forename"] and len(rec["maiden_name"].split()) >= 2:
@@ -278,11 +304,14 @@ def _first_segment_1850(t: str) -> str:
     return re.split(r",\s*", head)[0].strip()
 
 
-def _surely_inherited(first: str, forenames: set[str] | None) -> bool:
+def _surely_inherited(first: str, forenames: set[str] | None, second: str = "") -> bool:
     """Erstes Segment ist Vorname/Stand/Allianz, also kein neuer Familienname."""
     if not first or first.startswith(("-", "—")):
         return True
     toks = [x for x in first.split() if x]
+    if second and len(toks) == 1 and not toks[0].endswith(".") and (
+            INITIALS_RE.match(second) or ABBREV_RE.match(second) or (forenames and second.rstrip(".") in forenames)):
+        return False                                   # «Hermann, Ad., …»: Name, Vorname → neuer Familienname (Entscheid per Reihenfolge)
     if INITIALS_RE.match(first) or first in STATUS:
         return True
     if toks[0].rstrip(".") in ("u", "und", "Gebr", "Geschw", "Hr", "HH", "Wittwe", "Wwe", "Wb", "Jgfr", "Jgfrn", "Jungfer", "Frau", "Dr", "Prof"):
@@ -301,7 +330,11 @@ def mark_inherited_1850(entries: list[tuple[int, int, str]], prev_surname: str,
     Vorname/Stand/Abkürzung erkennen, die übrigen als Kandidaten nehmen und davon nur die
     längste nicht fallende (alphabetische) Teilfolge als neue Familiennamen akzeptieren."""
     firsts = [_first_segment_1850(e[2]) for e in entries]
-    cand = [i for i, f in enumerate(firsts) if not _surely_inherited(f, forenames) and not entries[i][2].startswith("—")]
+    seconds = []
+    for e in entries:
+        m = NO_1850_RE.match(e[2].strip()); head = (m.group("head") if m else e[2]).strip().rstrip(".")
+        segs = re.split(r",\s*", head); seconds.append(segs[1].strip() if len(segs) > 1 else "")
+    cand = [i for i, f in enumerate(firsts) if not _surely_inherited(f, forenames, seconds[i]) and not entries[i][2].startswith("—")]
     keys = [_fold(firsts[i]) for i in cand]
     base = _fold(prev_surname) if prev_surname else ""
     # längste nicht fallende Teilfolge (mit base als Untergrenze)
@@ -317,10 +350,13 @@ def mark_inherited_1850(entries: list[tuple[int, int, str]], prev_surname: str,
         i = max(range(n), key=lambda k: best[k])
         while i >= 0 and best[i] > 0:
             keep.add(cand[i]); i = back[i]
+    def could_be_forename(first: str) -> bool:
+        toks = [x.rstrip(".") for x in first.split()]
+        return bool(forenames) and all(x in forenames or len(x) <= 2 or x in ("u", "und", "de", "von") for x in toks)
     out = []
     for i, (lf, lt, txt) in enumerate(entries):
-        if i in cand and i in keep or txt.startswith("—"):
-            out.append((lf, lt, txt))
+        if txt.startswith("—") or (i in cand and (i in keep or not could_be_forename(firsts[i]))):
+            out.append((lf, lt, txt))                      # «Herr, Fidel» nach «Herrmann»: Druck nicht streng alphabetisch
         else:
             out.append((lf, lt, "— " + txt))
     return out
@@ -359,6 +395,8 @@ def parse_entry_basel(text: str, volume: str, prev_surname: str, prev: dict | No
     t = re.sub(r"\bI\.I\.", "J.J.", t)
     t = re.sub(r"(?<=\d)_(?=[a-z])", " ", t)           # «1695_a»
     notes, city_part = [], ""
+    def keep_initial_dot(head: str) -> str:
+        return head + "." if re.search(r"(^|\s)[A-ZÄÖÜ]$", head) else head
     if volume == "1841":
         m = BANN_RE.search(t)
         if m:
@@ -372,7 +410,7 @@ def parse_entry_basel(text: str, volume: str, prev_surname: str, prev: dict | No
                 if not ABBR_END_RE.search(street[:pm.start()]):
                     street, house = street[:pm.start()].strip(), street[pm.end():].strip(" .")
                     break
-            rec = parse_entry(m.group("head"), prev_surname, prev, forenames,
+            rec = parse_entry(keep_initial_dot(m.group("head")), prev_surname, prev, forenames,
                               addresses_override=[("", street, no)])
             if m.group("star"):
                 rec["owner_flag"] = "1"
@@ -398,10 +436,10 @@ def parse_entry_basel(text: str, volume: str, prev_surname: str, prev: dict | No
             no = m.group("no").replace(" ", "")
             if m.group("star"):
                 city_part = "Kleinbasel"
-            head = m.group("head").strip().rstrip(".")
+            head = keep_initial_dot(m.group("head").strip().rstrip("."))
             if re.match(r"^—\s*(u\.|und)\s", head):           # «— u. Steigmeyer 1542»: Firmenzusatz
                 rec = parse_entry(head, prev_surname, prev, forenames, addresses_override=[("", "", no)] + extra)
-                rec["entry_type"] = "firma"; notes.append("Firmenzusatz zur Vorzeile")
+                rec["entry_type"] = "firma"; notes.append("Firmenzusatz zur Vorzeile: " + rec["forename"]); rec["forename"] = ""
             else:
                 rec = parse_entry(head, prev_surname, prev, forenames, addresses_override=[("", "", no)] + extra)
         else:
@@ -410,7 +448,7 @@ def parse_entry_basel(text: str, volume: str, prev_surname: str, prev: dict | No
     else:  # 1862 und Aarau-ähnliche Grammatik
         sp = split_addr_1862(t)
         if sp:
-            rec = parse_entry(sp[0], prev_surname, prev, forenames, addresses_override=sp[1])
+            rec = parse_entry(keep_initial_dot(sp[0]), prev_surname, prev, forenames, addresses_override=sp[1])
         else:
             rec = parse_entry(t, prev_surname, prev, forenames)
     rec["city_part"] = city_part
@@ -431,7 +469,15 @@ def forename_lexicon(texts: list[str]) -> set[str]:
             if not r["dash_prefix"] and r["forename"] and r["entry_type"] == "person":
                 for tok in r["forename"].split():
                     lex[tok.rstrip(".")] = lex.get(tok.rstrip("."), 0) + 1
-    return {k for k, v in lex.items() if v >= 2}
+    out = {k for k, v in lex.items() if v >= 2}
+    if len(out) < 200 and (CSV_DIR / "04_entries.csv").exists():      # Einzelseite: Lexikon aus dem Volllauf
+        with (CSV_DIR / "04_entries.csv").open(encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                if r.get("entry_type") == "person" and r.get("forename") and r.get("dash_prefix") != "1":
+                    for tok in r["forename"].split():
+                        lex[tok.rstrip(".")] = lex.get(tok.rstrip("."), 0) + 1
+        out = {k for k, v in lex.items() if v >= 2}
+    return out
 
 
 HEADING_RE = re.compile(r"^(?!—)[A-ZÄÖÜ][^\d,;]{2,70}[.:]?$")

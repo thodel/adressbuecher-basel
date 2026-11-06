@@ -191,7 +191,7 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
             cur["note"] = (cur["note"] + " | " if cur["note"] else "") + s.rstrip(".")
         elif cur is not None and indented:
             s = s.rstrip(".") if not s.endswith("..") else s
-            if line.startswith("    ") or (residents and residents[-1]["building_id"] == cur["building_id"] and s[:1].islower()):
+            if line.startswith("    ") or s[:1].islower():
                 # tiefer eingerückt oder Kleinbuchstabe: Fortsetzung der letzten Zeile (Bewohner oder Eigentümer)
                 if residents and residents[-1]["building_id"] == cur["building_id"]:
                     r = residents[-1]

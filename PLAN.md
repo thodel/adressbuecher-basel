@@ -199,11 +199,32 @@ Streichungen, «Siehe Nr. …»-Verweise als Notiz, und für 1862 die fünf Tabe
 Kolumnentitel, `building_id` mit Strasse (1862) beziehungsweise Stadtteil `GB`/`KB`
 (1850). Offen: Ditto-Zeilen «” ” Isaak Dreyfuß» (1841 Magazine), Firmenzusätze
 «u. Steigmeyer» (1850), Zusammenführung der Fortsetzungszeilen von Hausnamen in der
-Tabelle. Erste Prüfung: auf den drei Register-GT-Seiten liefert der Parser aus dem
-GT-Text und aus der Gemini-Lesung bei 194 von 200 Einträgen dieselben Felder (97 %); die
-6 Abweichungen sind Lesefehler (I.J., Speyermann, B/V, Gassenbesezer, St.Andreasplatz),
-keine Parserfehler. Die eigentliche Abnahme (≥ 95 % feldgenau gegen handgeprüfte
-Einträge) steht noch aus.
+Tabelle.
+
+**Abnahme (06.11.2026, `make abnahme`):** Für die vier GT-Seiten wurden Gold-Tabellen von
+Hand geprüft (`data/gt/entries_1841_p110.csv`, `entries_1850_p120.csv`,
+`entries_1862_p355.csv`, `buildings_1862_p139.csv`, `residents_1862_p139.csv`, je mit
+`gold_note`; 245 Einträge: 200 Registereinträge, 15 Gebäude, 30 Bewohner — durch vier
+Hilfsagenten, nicht durch eine Person, ausgehend von der Parser-Ausgabe). Vor der
+Korrektur lag der Parser auf dem GT-Text bei 89,8 % feldgenauen Einträgen (98,5 % der
+Zellen); die gemeldeten systematischen Fehler wurden behoben — Stand vor dem Vornamen
+(«Jgfr., Ros.», «Jungfer, S. E.»), Berufswort im Vornamen-Slot («— -Mayr, Juwelier»),
+akademische Titel («J. U. D.», «Dr. theol.») als `title`, Rentier/Privatier als Beruf,
+gesperrter Allianzbindestrich («Handmann - Howald»), Trennstrich vor Grossbuchstabe oder
+«und» bleibt Bindestrich («St. Peters-|Berg»), «Steinenthorstr.» in der Adresse, «— -Ludw.»
+als Vorname, nicht streng alphabetische Namensfolgen im Register 1850 («Herr» nach
+«Herrmann», «Heß» nach «Hesse»), eingerückte Fortsetzung der Eigentümerzeile — danach
+**100 % feldgenau auf dem GT-Text** (245/245) und **93,9 % auf der Gemini-Lesung** (230/245;
+die 15 Abweichungen sind Lesefehler: «I.J.», «Speyermann», «AWengen», Fraktur-V/B).
+Konventionen, die dabei festgelegt wurden: Schlusspunkt des letzten Segments fällt weg,
+Initialen behalten ihren Punkt; «Part./Partik.» und «Rentier» stehen in `occupation_raw`
+(Schema), «Wb./Wittwe/Jgfr./Jungfer/Frau» in `civil_status`; «Dr. …», «J. U. D.», «Prof.»
+in `title`. Vorbehalt: Gold und Parser wurden an denselben vier Seiten abgestimmt; die
+Zahl misst die Grammatik dieser Seiten, nicht die Varianz des ganzen Bandes — der
+Flag-Durchgang auf der Kontrollseite ist die zweite Stufe.
+
+Nach den Korrekturen über alle Seiten: 13827 Adresszeilen (13688 high, 135 medium,
+4 review), 7986 Gebäude (7958 high), 6941 Bewohner.
 
 ## 3. Architektur der Pipeline
 
@@ -230,9 +251,10 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 0 | Seiten ✅ 06.11.2026 | `01_pages.csv` mit Abschnitt, gedruckter Seitenzahl, Satz, Spalten für alle 873 Seiten (Kontaktbögen à 20 Seiten durch vier Hilfsagenten, Grenzseiten auf der Einzelseite bestätigt) | erfüllt; Abschnittsfolge in Abschnitt 1 |
 | 1 | ATR Probe ✅ 06.11.2026 | 20 geschichtete Seiten (`data/csv/probe_pages.csv`) auf tei unter `data/nextcloud/adressbuecher-basel/probe/`; Gemini 3.8 Flash (MCP, `reasoning=low`), `qwen3-vl-30b-a3b-instruct` und `qwen3.8-27b` (GPUStack, CLI); 4 GT-Seiten; CER je Leser und Seitentyp | Befund in Abschnitt 2, Entscheid je Seitentyp |
 | 1 | ATR voll ✅ 06.11.2026 | 798 Seiten (alles ausser leer/Inserate) mit Gemini 3.8 Flash und qwen3-vl-30b; Läufe `basel-gemini-v1`, `basel-qwen3vl30b-v1` | `02_lines.csv` vollständig (124 526 Zeilen); Befund in Abschnitt 2 |
-| 2 | Einträge (Volllauf ✅ 06.11.2026, Abnahme offen) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
+| 2 | Einträge ✅ 06.11.2026 (Abnahme 245/245 auf GT-Text) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
 | 3 | Normalisierung, Identität | Berufe, Strassen (Basler Strassennamen 1841–1862 → heute), Heimatorte; Personen über die drei Bände; Gebäude über die Nummernkonkordanz 1862 | wie Aarau |
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
+| 2 | Kontrolle | Kontrollseite auf GitHub Pages wie Aarau (`scripts/90_erstblick.py`, Flagging je Zeile, Reiter Einwohner/Gebäude/Bewohner/Berufe/Verortung, Links in den Digitalen Lesesaal); Flags per `make flags-merge` ins Repo | Seite live unter `https://thodel.github.io/adressbuecher-basel/` (Repo muss dafür öffentlich sein) |
 | 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern); Gebäudepunkte aus `05_buildings_geo.csv` (HGB, Abschnitt 4b) | wie Aarau |
 
 ### 4b. Verortung über das Historische Grundbuch Basel (HGB)
