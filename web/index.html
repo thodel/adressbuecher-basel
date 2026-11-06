@@ -25,6 +25,10 @@ header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 20px; }
 h1 { font-size: 1.3rem; margin: 0; font-weight: 700; letter-spacing: -0.01em; text-wrap: balance; }
 .sub { color: var(--muted); font-size: 0.88rem; margin: 0; }
 .toolbar { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+nav.sites { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 0.86rem; color: var(--muted); }
+nav.sites a { color: var(--accent); text-decoration: none; font-weight: 600; }
+nav.sites a:hover, nav.sites a:focus-visible { text-decoration: underline; }
+nav.sites .here { color: var(--fg); font-weight: 600; }
 .tabs { display: flex; gap: 4px; flex-wrap: wrap; }
 button { font: inherit; cursor: pointer; }
 .tabs button { font-weight: 600; background: transparent; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; }
@@ -80,6 +84,7 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
 @media (max-width: 600px) { body { font-size: 14px; } th, td { max-width: 22ch; } td.act input[type="text"] { width: 9ch; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
+<nav class="sites" aria-label="Schwesterprojekte"><span class="here">Adressbücher Basel</span><a href="https://thodel.github.io/adressbuecher-aarau/">Adressbücher Aarau</a><a href="https://thodel.github.io/adressbuecher-aarau/karte.html">Karte Aarau</a><a href="https://github.com/thodel/adressbuecher-basel">Repo Basel</a><a href="https://github.com/thodel/adressbuecher-aarau">Repo Aarau</a></nav>
 <header>
   <h1>Adressbücher Basel 1841–1862: Kontrolle der Datensätze</h1>
   <p class="sub">Stand 06.11.2026 · Rohdaten aus der ATR-Lesung (Gemini 3.8 Flash), regelbasiert geparst, ohne Normalisierung; Verortung über das Historische Grundbuch Basel (Lizenz der Standortpunkte offen, siehe Reiter Karte). Fehler hier markieren; die Flags gehen per CSV oder Issue ins Repo.</p>

@@ -11,7 +11,11 @@ Tooling (ATR, Vokabular-Register, Graph-Bauer) kommt aus
 
 Der Plan mit Befund, Pipeline und Abnahmekriterien steht in [PLAN.md](PLAN.md).
 
-Kontrollseite der Datensätze (Flagging, Verortung): https://thodel.github.io/adressbuecher-basel/
+Kontrollseite der Datensätze (Flagging, Analysen, Karte, Telefonbuch): https://thodel.github.io/adressbuecher-basel/
+
+Schwesterprojekt Aarau: Kontrollseite https://thodel.github.io/adressbuecher-aarau/ ·
+Karte https://thodel.github.io/adressbuecher-aarau/karte.html ·
+Repo https://github.com/thodel/adressbuecher-aarau
 
 ## Betrieb
 
