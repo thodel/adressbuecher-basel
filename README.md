@@ -10,3 +10,16 @@ Tooling (ATR, Vokabular-Register, Graph-Bauer) kommt aus
 [agentic_historian](https://github.com/thodel/agentic_historian).
 
 Der Plan mit Befund, Pipeline und Abnahmekriterien steht in [PLAN.md](PLAN.md).
+
+Kontrollseite der Datensätze (Flagging, Verortung): https://thodel.github.io/adressbuecher-basel/
+
+## Betrieb
+
+- ATR läuft über den Server `tei` (SSH-Alias in `~/.ssh/config`, oder `TEI_SSH=user@host`); die
+  Läufe werden über den MCP-ATR-Server von agentic_historian gestartet (siehe PLAN.md, Welle 1).
+- `make fullrun-fetch fullrun-lines fullrun-parse geo erstblick` holt fertige Läufe, parst alle
+  Abschnitte, verortet die Gebäude über das HGB und baut die Kontrollseite `web/index.html`;
+  GitHub Pages baut dieselbe Seite bei jedem Push, der `data/csv/` oder `data/review/` berührt.
+- Flags von der Kontrollseite: CSV exportieren, `make flags-merge FILE=…`, committen.
+- Abnahme des Parsers: `make abnahme` vergleicht die Parser-Ausgabe der GT-Seiten mit den
+  handgeprüften Gold-Tabellen in `data/gt/entries_*.csv`, `buildings_*.csv`, `residents_*.csv`.

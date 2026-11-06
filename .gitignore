@@ -227,3 +227,5 @@ data/atr/**/*.jpg
 .venv/
 data/probe/
 data/fullrun/
+_site/
+.claude/

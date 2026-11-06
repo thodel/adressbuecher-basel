@@ -44,3 +44,20 @@ probe-parse:  ## Welle 2 auf den Probeseiten
 .PHONY: geo
 geo:  ## Gebäude über das HGB verorten → 05_buildings_geo.csv
 	$(PY) scripts/10_geo_hgb.py --buildings data/csv/05_buildings.csv --out data/csv/05_buildings_geo.csv
+
+.PHONY: erstblick flags-merge abnahme
+erstblick:  ## Kontrollseite aus den Welle-2-CSV (OUT=...)
+	$(PY) scripts/90_erstblick.py --out $(or $(OUT),web/index.html)
+
+flags-merge:  ## exportierte Flags einmischen (FILE=...)
+	$(PY) scripts/91_merge_flags.py $(FILE)
+
+ABNAHME = /tmp/abnahme
+abnahme:  ## Parser auf GT-Text und Gemini-Lesung der GT-Seiten gegen die Gold-Tabellen
+	mkdir -p $(ABNAHME)
+	for k in 1841_p110 1850_p120 1862_p355; do v=$${k%_p*}; p=$$((10#$${k#*_p})); \
+	  $(PY) scripts/04_parse.py --text data/gt/$$k.txt --volume $$v --page $$p --out $(ABNAHME)/parse_gt_$$k.csv >/dev/null; \
+	  $(PY) scripts/04_parse.py --text data/atr/basel-gemini-v1/gemini-3.8-flash/$$k.txt --volume $$v --page $$p --out $(ABNAHME)/parse_gemini_$$k.csv >/dev/null; done
+	$(PY) scripts/05_buildings.py --text data/gt/1862_p139.txt --volume 1862 --page 139 --out-buildings $(ABNAHME)/parse_gt_1862_p139_buildings.csv --out-residents $(ABNAHME)/parse_gt_1862_p139_residents.csv >/dev/null
+	$(PY) scripts/05_buildings.py --text data/atr/basel-gemini-v1/gemini-3.8-flash/1862_p139.txt --volume 1862 --page 139 --out-buildings $(ABNAHME)/parse_gemini_1862_p139_buildings.csv --out-residents $(ABNAHME)/parse_gemini_1862_p139_residents.csv >/dev/null
+	$(PY) scripts/gt_entries_check.py --parsed-dir $(ABNAHME)

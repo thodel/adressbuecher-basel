@@ -25,7 +25,8 @@ import subprocess
 import sys
 from pathlib import Path
 
-TEI = "dh@tei.dh.unibe.ch"
+import os
+TEI = os.environ.get("TEI_SSH", "tei")   # SSH-Ziel (Alias in ~/.ssh/config oder user@host)
 TEI_RUNS = "agentic_historian/agentic_historian/data/vlm_test"
 ATR_DIR = Path("data/atr")
 CSV_DIR = Path("data/csv")
