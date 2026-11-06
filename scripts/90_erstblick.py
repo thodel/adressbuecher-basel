@@ -44,6 +44,9 @@ TABS = [
     ("berufe", "Berufe", ["04_berufe.csv"], "entry_id",
      ["entry_id", "volume", "page", "heading", "surname", "alliance_name", "forename", "occupation_raw",
       "street_raw", "building_no", "entry_type", "parse_confidence", "residual", "text"]),
+    ("telefon", "Telefonbuch", ["20_phonebook_links.csv"], "pb_id",
+     ["pb_id", "year", "batch", "surname", "alliance_name", "forename", "occupation_raw", "street_raw",
+      "building_no", "entry_type", "match_level", "n_refs", "match_refs", "parse_confidence"]),
     ("geo", "Verortung", ["05_buildings_geo.csv"], "building_id",
      ["building_id", "volume", "street_raw", "building_no", "house_no_old", "space", "match_method",
       "n_candidates", "dossier_id", "dossier_title", "check_old_no", "geo_confidence", "lat", "lon"]),
@@ -53,7 +56,8 @@ LABELS = {"entry_id": "ID", "building_id": "ID", "volume": "Band", "page": "PDF-
           "building_no_system": "Nr.-System", "city_part": "Stadtteil", "house_no_old": "alte Nr.", "quarter": "Quartier",
           "house_name": "Hausname", "space": "Nummernraum", "match_method": "Methode", "n_candidates": "Dossiers",
           "dossier_id": "HGB-Dossier", "dossier_title": "Adresse 1862 (HGB)", "check_old_no": "alte Nr. ✓",
-          "geo_confidence": "Geo-Konf.", "lat": "Lat", "lon": "Lon",
+          "geo_confidence": "Geo-Konf.", "lat": "Lat", "lon": "Lon", "pb_id": "ID", "year": "Jahr", "batch": "Batch",
+          "match_level": "Treffer 1862", "n_refs": "Anz.", "match_refs": "Einträge 1862",
           "surname": "Name", "alliance_name": "Allianz", "maiden_name": "geb.", "forename": "Vorname",
           "civil_status": "Stand", "relation": "Bezug", "occupation_raw": "Beruf", "origin_raw": "Heimatort",
           "origin_canton": "Kt.", "street_raw": "Strasse", "building_no": "Nr.", "address_role": "Adressrolle",
@@ -73,6 +77,8 @@ def load(files: list[str], cols: list[str]) -> list[list[str]]:
             continue
         with p.open(encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
+                if f.startswith("20_") and r.get("match_level") not in ("name_addr", "name_street"):
+                    continue                                   # Telefon-Reiter: nur Namenstreffer
                 row = [r.get(c, "") for c in cols]
                 if cols[0] == "entry_id" and r.get("address_seq") and r["address_seq"] not in ("", "1"):
                     row[0] = f"{row[0]}#{r['address_seq']}"
@@ -148,6 +154,10 @@ def analyses(data: dict) -> dict:
         out["geo"] = json.loads((GEO_DIR / "summary.json").read_text(encoding="utf-8"))
     except Exception:
         out["geo"] = {}
+    out["phone"] = []
+    if (CSV_DIR / "20_phonebook_summary.csv").exists():
+        with (CSV_DIR / "20_phonebook_summary.csv").open(encoding="utf-8") as fh:
+            out["phone"] = [{k: (int(v) if v.isdigit() else v) for k, v in r.items()} for r in csv.DictReader(fh)]
     return out
 
 
@@ -275,12 +285,13 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
   <div class="mapbar">
     <label>Band <select id="mapvol"></select></label>
     <label>Farbe <select id="mapcolor"><option value="n">Bewohner je Gebäude</option><option value="conf">Konfidenz der Verortung</option></select></label>
-    <label><input type="checkbox" id="wms"> Situationsplan 1862 (WMS Kanton BS)</label>
+    <label>Historischer Plan <select id="wms"><option value="">keiner</option><option value="HP_Situationsplan_Basel_1862" selected>Löffelplan 1862 (Situationsplan)</option><option value="HP_Uebersichtsplan_Basel_1860">Übersichtsplan 1860</option><option value="HP_Katasterplan_Innerstadt_1865">Katasterplan Innerstadt 1865</option><option value="HP_Landeskarte_Basel_1836">Landeskarte 1836</option><option value="HP_Uebersichtsplan_Basel_1820">Übersichtsplan 1820</option><option value="HP_Uebersichtsplan_Basel_1786">Übersichtsplan 1786</option><option value="HP_Uebersichtsplan_Basel_1896">Übersichtsplan 1896</option></select></label>
+    <label>Deckkraft <input type="range" id="wmsop" min="0" max="100" value="80" style="width:80px"></label>
     <span id="mapcount" class="count"></span>
     <span id="maplegend"></span>
   </div>
   <div id="map"></div>
-  <p class="legend">Punkte = HGB-Dossier-Standorte des Projekts «Ökonomien des Raums» (Uni Basel; Georeferenzierung Grundbuch- und Vermessungsamt BS, am Löffelplan 1862 geprüft), über Strasse + Nummer (1862) bzw. alte Hausnummer (1841/1850) zugeordnet. <b>Lizenz der Standortpunkte offen</b> (Repo ohne Datenlizenz, Dump CC BY 4.0) – Anzeige «soweit als möglich», vor einer Weiterverwendung beim Projekt nachfragen. Grundkarte © OpenStreetMap-Mitwirkende.</p>
+  <p class="legend">Historische Pläne als Overlay aus dem WMS des Kantons Basel-Stadt (<code>wms.geo.bs.ch</code>): der <b>Löffelplan</b> (Situationsplan 1862, Ludwig Löffel) zeigt die neuen Hausnummern des Bandes 1862; Übersichtsplan 1860, Landeskarte 1836 und Übersichtsplan 1820 passen zu 1841/1850. Punkte = HGB-Dossier-Standorte des Projekts «Ökonomien des Raums» (Uni Basel; Georeferenzierung Grundbuch- und Vermessungsamt BS, am Löffelplan 1862 geprüft), über Strasse + Nummer (1862) bzw. alte Hausnummer (1841/1850) zugeordnet. <b>Lizenz der Standortpunkte offen</b> (Repo ohne Datenlizenz, Dump CC BY 4.0) – Anzeige «soweit als möglich», vor einer Weiterverwendung beim Projekt nachfragen. Grundkarte © OpenStreetMap-Mitwirkende.</p>
 </div>
 <div id="toast" hidden></div>
 <script>
@@ -302,7 +313,7 @@ const reported = {}; for (const f of REPORTED) reported[f.table + '|' + f.id] = 
 const $ = id => document.getElementById(id);
 const tabsEl = $('tabs'), q = $('q'), vol = $('vol'), conf = $('conf'), onlyflag = $('onlyflag');
 const thead = document.querySelector('#t thead'), tbody = document.querySelector('#t tbody'), more = $('more'), count = $('count');
-const vols = new Set(); for (const k in DATA) for (const r of DATA[k].rows) vols.add(r[1]);
+const vols = new Set(); for (const k in DATA) if (k !== 'telefon') for (const r of DATA[k].rows) vols.add(r[1]);
 [...vols].sort().forEach(v => { const o = document.createElement('option'); o.value = v; o.textContent = v; vol.appendChild(o); });
 for (const k in DATA) { const b = document.createElement('button'); b.setAttribute('role', 'tab'); b.textContent = `${DATA[k].label} (${DATA[k].rows.length.toLocaleString('de-CH')})`; b.dataset.k = k; b.onclick = () => { tab = k; shown = PAGE; render(); }; tabsEl.appendChild(b); }
 for (const [k, label] of [['analysen', 'Analysen'], ['karte', 'Karte']]) { const b = document.createElement('button'); b.setAttribute('role', 'tab'); b.textContent = label; b.dataset.k = k; b.onclick = () => { tab = k; render(); }; tabsEl.appendChild(b); }
@@ -318,6 +329,9 @@ function issueUrl(k, r) {
 function cell(k, col, v, r) {
   if (col === 'parse_confidence') return `<td><span class="pill ${esc(v)}">${esc(v)}</span></td>`;
   if (col === 'owner_flag' || col === 'phone_flag' || col === 'owner_same_as_prev') return `<td class="num">${v === '1' ? '<span class="star">' + (col === 'owner_flag' ? '*' : col === 'phone_flag' ? '☏' : '„') + '</span>' : (v ? esc(v) : '')}</td>`;
+  if (col === 'match_level') return `<td><span class="pill ${v === 'name_addr' ? 'high' : v === 'name_street' ? 'medium' : 'review'}">${esc(v)}</span></td>`;
+  if (col === 'year' || col === 'n_refs') return `<td class="num">${esc(v)}</td>`;
+  if (col === 'match_refs') return `<td class="wide id">${esc(v)}</td>`;
   if (col === 'page') return `<td class="num">${v ? `<a href="${esc(DLS[r[1]] || '#')}" target="_blank" rel="noopener" title="Band im Digitalen Lesesaal">${esc(v)}</a>` : ''}</td>`;
   if (col === 'dossier_id') return `<td class="id">${esc(v)}</td>`;
   if (col === 'lat' || col === 'lon') return `<td class="num">${esc(v)}</td>`;
@@ -341,7 +355,7 @@ function render() {
   if (tab === 'analysen') { renderAnalysen(); return; }
   if (tab === 'karte') { renderMap(); return; }
   const d = DATA[tab], needle = q.value.trim().toLowerCase(), v = vol.value, c = conf.value, ci = d.cols.indexOf('parse_confidence');
-  const rows = d.rows.filter(r => (!v || r[1] === v) && (!c || r[ci] === c) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.join(' ').toLowerCase().includes(needle)));
+  const rows = d.rows.filter(r => (!v || tab === 'telefon' || r[1] === v) && (!c || r[ci] === c) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.join(' ').toLowerCase().includes(needle)));
   thead.innerHTML = '<tr><th>Flag</th>' + d.cols.map(cc => `<th>${esc(LABELS[cc] || cc)}</th>`).join('') + '</tr>';
   tbody.innerHTML = rows.slice(0, shown).map(r => {
     const key = tab + '|' + r[0];
@@ -399,6 +413,12 @@ function renderAnalysen() {
   h += '<h2>Strassen nach Zahl der Einträge</h2><p>1841 und 1862 aus dem Register (Adresse je Eintrag), 1850 aus dem Nummernbuch (das Register nennt nur die Hausnummer). Strassennamen wie gedruckt.</p><div class="charts">';
   for (const b of B) h += bars(`${b} (${esc(ANA.streets_source[b] || '')})`, ANA.streets[b]);
   h += '</div>';
+  if (ANA.phone && ANA.phone.length) {
+    h += '<h2>Abgleich mit den PTT-Telefonbüchern (historic.localsearch, DHBern/PTT_phonebook_data_tsv)</h2><p>Basler Netz: 1881–1910 nur als OCR-Seitentext (Batch A, hier grob segmentiert, meist ohne Adresse), 1911–1937 als segmentierte Einträge mit Strasse (Batch B). Abgleich über Familienname, normalisierte Strasse und Hausnummer gegen das Adressbuch 1862 (Einwohner, Eigentümer, Bewohner): <b>name_addr</b> = gleicher Name an derselben Adresse, <b>name_street</b> = gleicher Name in derselben Strasse, <b>addr</b> = dieselbe Adresse mit anderem Namen (Hauskontinuität). Abonnenten ohne Adresse können nicht abgeglichen werden.</p>';
+    const ph = ANA.phone.filter(r => r.entries > 100);
+    h += bars('Abonnenten je Jahr (davon mit Adresse)', ph.map(r => [`${r.year} (${r.with_address} m. Adr.)`, r.entries]));
+    h += '<div class="charts">' + bars('Namenstreffer an derselben Adresse 1862 (name_addr)', ph.map(r => [String(r.year), r.name_addr])) + bars('Namenstreffer in derselben Strasse (name_street)', ph.map(r => [String(r.year), r.name_street])) + bars('Adresse 1862 belegt, anderer Name (addr)', ph.map(r => [String(r.year), r.addr])) + '</div>';
+  }
   h += '<h2>Sterne und Stadtteile</h2><p>Der Stern bedeutet in Basel kein Bürgerrecht: im Nummernbuch 1841 markiert er Gebäude, die nicht vom Eigentümer bewohnt sind (Berichtigung im Band); im Register 1850 steht er vor Kleinbasler Hausnummern. Ein Bürgeranteil lässt sich aus diesen Bänden nicht ablesen.</p><div class="kpi">';
   for (const b of B) if (ANA.star[b] && ANA.star[b].n) h += `<div><b>${ANA.star[b].star.toLocaleString('de-CH')} von ${ANA.star[b].n.toLocaleString('de-CH')}</b>${b}: Gebäude mit Stern (${(100 * ANA.star[b].star / ANA.star[b].n).toFixed(1)} %)</div>`;
   if (ANA.kleinbasel_1850 && ANA.kleinbasel_1850.Kleinbasel) h += `<div><b>${ANA.kleinbasel_1850.Kleinbasel.toLocaleString('de-CH')} von ${(ANA.kleinbasel_1850.Kleinbasel + ANA.kleinbasel_1850.Grossbasel).toLocaleString('de-CH')}</b>1850: Registereinträge in Kleinbasel (${(100 * ANA.kleinbasel_1850.Kleinbasel / (ANA.kleinbasel_1850.Kleinbasel + ANA.kleinbasel_1850.Grossbasel)).toFixed(1)} %)</div>`;
@@ -423,11 +443,13 @@ function renderMap() {
     if (typeof L === 'undefined') { $('mapcount').textContent = 'Leaflet konnte nicht geladen werden (offline?).'; return; }
     map = L.map('map').setView([47.5565, 7.5880], 15);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende' }).addTo(map);
-    wmsLayer = L.tileLayer.wms('https://wms.geo.bs.ch/', { layers: 'HP_Situationsplan_Basel_1862', format: 'image/png', transparent: true, attribution: 'Situationsplan 1862: Geodaten Kanton Basel-Stadt', maxZoom: 20, opacity: 0.8 });
+    const mkWms = name => L.tileLayer.wms('https://wms.geo.bs.ch/', { layers: name, format: 'image/png', transparent: true, attribution: 'Historische Pläne: Geodaten Kanton Basel-Stadt', maxZoom: 20, opacity: $('wmsop').value / 100 });
+    wmsLayer = mkWms($('wms').value); wmsLayer.addTo(map);
     const sel = $('mapvol'); for (const v of vols) { const o = document.createElement('option'); o.value = v; o.textContent = v; sel.appendChild(o); }
     sel.value = vols[vols.length - 1];
     sel.onchange = drawPoints; $('mapcolor').onchange = drawPoints;
-    $('wms').onchange = () => { if ($('wms').checked) wmsLayer.addTo(map); else map.removeLayer(wmsLayer); };
+    $('wms').onchange = () => { if (wmsLayer) map.removeLayer(wmsLayer); wmsLayer = null; if ($('wms').value) { wmsLayer = mkWms($('wms').value); wmsLayer.addTo(map); } };
+    $('wmsop').oninput = () => { if (wmsLayer) wmsLayer.setOpacity($('wmsop').value / 100); };
   }
   setTimeout(() => map.invalidateSize(), 50);
   drawPoints();

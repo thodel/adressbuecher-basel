@@ -168,3 +168,19 @@ Bewohnerzeilen (jede Nummer nennt nur den Eigentümer).
 | `tier` | `strict` (Band 1910–1919) oder `dated` (Jahr im Fenster 1884–1919 in der Passage) |
 | `score`, `evidence`, `url` | Matching-Score, gekürzter Beleg, Link |
 | `status` | `auto`, `review`, `accepted`, `rejected` |
+
+## 20_phonebook_basel.csv, 20_phonebook_links.csv, 20_phonebook_summary.csv — PTT-Telefonbücher (Basel, `scripts/20_phonebook.py`, `21_phonebook_match.py`)
+
+Quelle DHBern/PTT_phonebook_data_tsv (historic.localsearch), lokaler Klon; die Rohextraktion
+`20_phonebook_basel.csv` (321 000 Abonnenten 1881–1937, 63 MB) ist nicht im Git, nur die
+Treffer und die Jahresübersicht.
+
+| Spalte | Inhalt |
+|---|---|
+| `pb_id` | `<jahr>-<datei>-<seite>-<n>` |
+| `year`, `batch` | Jahrgang; `A` = 1881–1910 aus Seitentext grob segmentiert (`parse_confidence` low), `B` = 1911–1937 segmentierte Einträge |
+| `surname`, `alliance_name`, `forename`, `occupation_raw`, `street_raw`, `building_no` | wie `04_entries.csv`, soweit die Quelle sie hergibt (`forename` enthält Titel/Stand der Quelle, «Dr. Alfred», «Wwe. E. M.») |
+| `phone`, `entry_type`, `file`, `page`, `text` | Telefonnummer, person/firma, Herkunft, Rohtext |
+| `match_level` (links) | `name_addr`, `name_street`, `addr` gegen das Adressbuch 1862 (siehe Analysen-Reiter); `none` nicht in der Datei |
+| `match_refs`, `n_refs` | Einträge 1862 (`entry_id`/`building_id`, höchstens 5) und ihre Zahl |
+| summary | je Jahr `entries`, `with_address`, `name_addr`, `name_street`, `addr` |

@@ -254,6 +254,7 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 2 | Einträge ✅ 06.11.2026 (Abnahme 245/245 auf GT-Text) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
 | 3 | Normalisierung, Identität | Berufe, Strassen (Basler Strassennamen 1841–1862 → heute), Heimatorte; Personen über die drei Bände; Gebäude über die Nummernkonkordanz 1862 | wie Aarau |
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
+| 2 | Telefonbuch (Versuch ✅ 06.11.2026) | PTT-Telefonbücher Basel 1881–1937 im Adressbuch-Schema, Abgleich gegen 1862 (Abschnitt 6.6), Reiter «Telefonbuch» | 28 408 Treffer, davon 1911 34 Name+Adresse; Batch A unbrauchbar |
 | 2 | Kontrolle ✅ 06.11.2026 | Kontrollseite auf GitHub Pages wie Aarau (`scripts/90_erstblick.py`, Flagging je Zeile, Reiter Einwohner/Gebäude/Bewohner/Berufe/Verortung mit Links in den Digitalen Lesesaal; Reiter **Analysen** mit beim Bau aus den CSV berechneten Kennzahlen; Reiter **Karte** mit Leaflet, OSM-Kacheln, Situationsplan 1862 als WMS des Kantons BS und den HGB-Punkten je Band, Klick zeigt Eigentümer und Bewohner, Zähleiste «x von y verortet»); GeoJSON je Band in `data/geo/` (`make geojson`); Flags per `make flags-merge` ins Repo; Eintrags-IDs mit Zeilennummer (`<band>-<abschnitt>-<seite>-L<zeile>`), stabil über Parserversionen | Repo seit 06.11.2026 öffentlich, Seite unter https://thodel.github.io/adressbuecher-basel/ ; keine Seitenbilder (wie Aarau); Lizenz der HGB-Standortpunkte offen und auf der Seite vermerkt |
 | 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern); Gebäudepunkte aus `05_buildings_geo.csv` (HGB, Abschnitt 4b) | wie Aarau |
 
@@ -330,14 +331,24 @@ Wie Aarau: `scripts/01_render_pages.py` (JPG-Ordner statt PDF), `02_atr_batch.py
    ~8 h für qwen3.8) teilen sich die Karten mit den Basler Läufen; Reihenfolge festlegen.
 5. **Weitere Bände** (StABS hat die Reihe bis ins 20. Jahrhundert): welche Jahre die
    Reihe sinnvoll verlängern (1844? 1847? 1856? 1870?), nach dem Befund von Welle 1.
-6. **Agenda: Abgleich mit den historischen Telefonbüchern** (Auftrag der Projektleitung
-   06.11.2026, noch nicht umgesetzt). Lokale PTT-Telefonbuchdaten liegen unter
-   `~/Repos/PTT_phonebook_data_tsv`, `~/Repos/unil_ptt-postal-data-processing` und
-   `~/Repos/gemini-phonebook-analysis`; zuerst sichten, welche Jahrgänge und Orte sie
-   abdecken — für Basel 1841–1862 kommen eher spätere Jahrgänge als Verlängerung der
-   Zeitreihe in Frage. Ziel: Abonnenten mit Einträgen verknüpfen (Name + Strasse +
-   Nummer), Deckung messen. Setzt die Strassennormalisierung (06) und die
-   Hausnummern-Konkordanz über das HGB voraus.
+6. **Abgleich mit den historischen Telefonbüchern — erster Versuch 06.11.2026**
+   (`make phonebook`, Quelle DHBern/PTT_phonebook_data_tsv). Befund: das Basler Netz ist
+   1881–1910 nur als OCR-Seitentext ohne Felder vorhanden (Batch A; Spaltenlayout der
+   Vorlage, Namens- und Adressspalten getrennt, ab 1899 Telefonnummern vor dem Namen) und
+   1911–1937 als segmentierte Einträge mit Strasse (Batch B: 1911 5 782 Abonnenten, 3 398
+   mit Adresse; 1920 11 186; 1937 39 660). Beide sind in das Adressbuch-Schema überführt
+   (`20_phonebook_basel.csv`, nicht im Git) und über Familienname + normalisierte Strasse +
+   Hausnummer gegen 1862 abgeglichen (`20_phonebook_links.csv`, `20_phonebook_summary.csv`,
+   Reiter «Telefonbuch» und Analysen auf der Kontrollseite). Ergebnis: Batch A liefert
+   praktisch nichts (1884: 2 Namenstreffer an derselben Adresse); Batch B 1911 **34
+   Namenstreffer an derselben Adresse, 96 in derselben Strasse, 621 Adressen 1862 mit
+   anderem Namen** von 3 398 Abonnenten mit Adresse — nach 49 Jahren erwartbar wenig
+   Personen, aber Firmen und Familien am Haus («Alioth-Merian, St. Jakobstr. 13»,
+   «Bernoulli, Kanonengasse 19»). Der Abgleich taugt als Verlängerung der Zeitreihe für
+   Häuser und Firmen, nicht für Personen; sinnvoll wird er mit späteren Adressbüchern
+   (1880er–1900er, StABS) als Zwischenglied. Offen: die ab 1880 neu nummerierten
+   Strassen (die Hausnummern von 1862 gelten nicht überall weiter), Strassennormalisierung
+   (06), und ein Batch-A-Parser je Jahrgangslayout, falls die 1880er wichtig werden.
 7. **Analyse Wohnortstabilität 1841/1850/1862** — als GitHub-Issue im Repo festgehalten
    (Label `analyse`): Bleiben, Umzug innerhalb Basels, Verschwinden; braucht Personen-
    und Gebäudeidentität über die Bände (Gebäude über die HGB-Verortung), Ausgabe

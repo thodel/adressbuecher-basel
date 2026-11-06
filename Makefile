@@ -65,3 +65,9 @@ abnahme:  ## Parser auf GT-Text und Gemini-Lesung der GT-Seiten gegen die Gold-T
 .PHONY: geojson
 geojson:  ## GeoJSON je Band für die Karte
 	$(PY) scripts/11_geojson.py
+
+PTT_SRC ?= $(HOME)/Repos/PTT_phonebook_data_tsv/tsv
+.PHONY: phonebook
+phonebook:  ## PTT-Telefonbücher (Basel) extrahieren und gegen 1862 abgleichen → 20_phonebook_links.csv, 20_phonebook_summary.csv
+	$(PY) scripts/20_phonebook.py --src "$(PTT_SRC)"
+	$(PY) scripts/21_phonebook_match.py
