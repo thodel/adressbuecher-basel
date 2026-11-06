@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p139",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p139.jpg",
+    "bytes": 1313438,
+    "sha256": "9a14ea2897081d6af36d260851b048c5fea1c544a600003af1890a73be09a6a2",
+    "sha256_of": "original",
+    "working_copy": "1862_p139.jpg"
+  },
+  "text": "74 St. Johann-Vorstadt. — Kanonengasse.\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n80 | I. | 5 |  | Hindenlang, Carl u. Gottlieb.\n81 | I. | 1 | St. Johannthor. | Staat.\n |  |  |  |   Sulger-Wohnlich, J. Ludw. Kud.\n84 | I. | 1 E | St. Johanniterhaus | Hübscher-Lichtenhahn, Wilhelm.\n |  |  |  |   Segar-Schmidt, Ernst, Clavierhändler.\n |  |  |  |   Oswald-Hindermann, Math., Architect.\n88 | I. | 1 |  | Hübscher-Lichtenhahn, Wilhelm.\n |  |  |  |   Hübscher-Lichtenhahn, Wilh., Zimmer-\n |  |  |  |   meister.\n |  |  |  |   Burckhardt-Roth, Wb. Marg., Part.\n |  |  |  |   Burckhardt, Friedrich, Commis.\n\nKanonengasse.\n1 | III. | 752 | Knabenschulhaus v. | Stadtgemeinde.\n |  |  |   St. Leonhard. |   Meyer-Kraus, Benedict, Oberlehrer.\n3 | III. | 753 |  | Boos-Meyer, Heinrich.\n |  |  |  |   Bücher-Wagner, Hans, Schuhmacher.\n |  |  |  |   Landerer-Brieser, Ludwig, Partikular.\n5 | III. | 754 J |  | Boos-Meyer, Heinrich.\n |  |  |  |   Boos-Meyer, Heinrich, Schlosse.\n |  |  |  |   Hauser-Bruckner, Emanuel, Commis.\n |  |  |  |   Mondet, Johann Baptist, Commis.\n |  |  |  |   Möschinger, Heinrich, Mechaniker.\n7 | III. | 754 K |  | Severin-Glunz, Joh. Jakob.\n |  |  |  |   Severin-Glunz, Joh. Jakob, Magazinier.\n |  |  |  |   Severin, Sam. Fürchtegott, Briefträger.\n |  |  |  |   Meisner-Augsburger, Friedr., Lehrer.\n9 | III. | 754 L |  | Haeßfiger-Ulgayer, Johann.\n |  |  |  |   Haeßfiger-Ulgayer, Johann, Steinmetz.\n |  |  |  |   Rabholz-Kauchenstein, Leonhard, Afm.\n |  |  |  |   Schmidt-Engressat, Melchior, Schneider\n |  |  |  |   u. Fleckenreiniger.\n |  |  |  |   Wäglin-Sendramier, Rudolf, Commis.\n11 | III. | 754 M |  | Schaub, Heinrich Georg.\n |  |  |  |   Schaub, Heinrich Georg, Möbelfabr.\n |  |  |  |   Fitting-Werfel, Hermann, Professor.\n13 | III. | 754 P |  | Bruckner-Merian, Eduard.\n |  |  |  |   Bruckner-Merian, Eduard, Baumeister.\n |  |  |  |   Ghyler-Schardt, Wb. Anna Mar., Part.\n |  |  |  |   Linder-Merian, Wb. A. Cath., Part.\n15 | III. | 754 Q |  | A Wengen-Müller, Carl.\n |  |  |  |   A Wengen-Müller, Carl, Commis.\n17 | III. | 754 N |  | Reber-Sulger, Benedict.\n |  |  |  |   Reber-Sulger, Benedict, Kaufmann.\n19 | III. | 754 O |  | Reber-Sulger, Balthasar.\n |  |  |  |   Reber-Sulger, Balthasar, Professor.\n |  |  |  |   Reber, Paul, Ingenieur.\n |  |  |  |   Bernoulli-Reber, Joh. Jak., Phil. Dr.\n24 | III. |  |  | Balmer u. Riehm, Buchdruckerei\n |  |  |  |   und Verlagsbuchhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 59744,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2470,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:55:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p139",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p139.jpg",
+      "bytes": 1313438,
+      "sha256": "9a14ea2897081d6af36d260851b048c5fea1c544a600003af1890a73be09a6a2",
+      "sha256_of": "original",
+      "working_copy": "1862_p139.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:57+00:00"
+  }
+}

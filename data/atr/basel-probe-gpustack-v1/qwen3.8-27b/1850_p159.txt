@@ -1,0 +1,29 @@
+146
+Kornhaus=Inspektion:    Herr Stadtrath R. Forcard.
+Zadenamts=Verwaltung:    " Kanzlist J. R. Frey.
+Land= u. Wald=Inspektion:    " Stadtrath A. Sulger.
+Land=Armen=Commission:    " Rathsherr G. Stump.
+Lösch=Anstalten:    " Stadtrath E. Rhiner.
+Markt=Amt:    " L. Linder, Meßerschmied.
+Militär=Collegium:    " Rathsh. J. J. Stehlin.
+Militärdienst=Tagat.=Commiff:    " Major Joh. Kern.
+Montirungs=Kammer:    " Hauptm. Th. Kündig.
+Niederlassungs=Commission:    " Bürgerm. J. Burckhardt.
+Notariats=Commission:    " Rathsh. Em. Burckhardt.
+Ohmgeld=Kammer:    " " E. Geigy.
+Petitions=Commission:    " Ch. Nonus=Hemuseus.
+Polizei=Aufsichts=Commission:    " Stadtrath J. Bloch.
+Polizei=Gericht:    " A. Wölfelin.
+Post=Commission:    " Rathsherr B. Socin.
+Ragionenbuch=Commission:    " Stadtrath A. J. Christ.
+Rechnungs=Kammer:    " " H. Bischoff.
+Revisions=Commission:    " " Burckhardt.
+Salz=Kammer:    " Rathsh. J. J. Iselin.
+Sanitäts=Collegium:    " " M. Oswald.
+Spital=Pflegamt:    " Stadtrath E. Thurmeyßen.
+Staats=Collegium:    Der Herr Amtsbürgermeister.
+Stadt=Kassa=Verwaltung:    Herr Stadtrath A. Christ.
+Straf=Anstalt=Commission:    " Rathsherr E. Burckhardt.
+Waisen=Gericht:    " Chr. Nonus=Hemuseus.
+Waisenhaus=Inspection:    " Stadtrath D. Burckhardt.
+Zeughaus=Kammer:    " Major Rud. Paravicini.

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p159",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p159.jpg",
+    "bytes": 1052700,
+    "sha256": "91b76c63f44cd7aea03aa90ffe2b2f8884a8d97034d3706d183272fb7c257af5",
+    "sha256_of": "original",
+    "working_copy": "1850_p159.jpg"
+  },
+  "text": "146\nKornhaus=Inspektion:    Herr Stadtrath R. Forcard.\nZadenamts=Verwaltung:    \" Kanzlist J. R. Frey.\nLand= u. Wald=Inspektion:    \" Stadtrath A. Sulger.\nLand=Armen=Commission:    \" Rathsherr G. Stump.\nLösch=Anstalten:    \" Stadtrath E. Rhiner.\nMarkt=Amt:    \" L. Linder, Meßerschmied.\nMilitär=Collegium:    \" Rathsh. J. J. Stehlin.\nMilitärdienst=Tagat.=Commiff:    \" Major Joh. Kern.\nMontirungs=Kammer:    \" Hauptm. Th. Kündig.\nNiederlassungs=Commission:    \" Bürgerm. J. Burckhardt.\nNotariats=Commission:    \" Rathsh. Em. Burckhardt.\nOhmgeld=Kammer:    \" \" E. Geigy.\nPetitions=Commission:    \" Ch. Nonus=Hemuseus.\nPolizei=Aufsichts=Commission:    \" Stadtrath J. Bloch.\nPolizei=Gericht:    \" A. Wölfelin.\nPost=Commission:    \" Rathsherr B. Socin.\nRagionenbuch=Commission:    \" Stadtrath A. J. Christ.\nRechnungs=Kammer:    \" \" H. Bischoff.\nRevisions=Commission:    \" \" Burckhardt.\nSalz=Kammer:    \" Rathsh. J. J. Iselin.\nSanitäts=Collegium:    \" \" M. Oswald.\nSpital=Pflegamt:    \" Stadtrath E. Thurmeyßen.\nStaats=Collegium:    Der Herr Amtsbürgermeister.\nStadt=Kassa=Verwaltung:    Herr Stadtrath A. Christ.\nStraf=Anstalt=Commission:    \" Rathsherr E. Burckhardt.\nWaisen=Gericht:    \" Chr. Nonus=Hemuseus.\nWaisenhaus=Inspection:    \" Stadtrath D. Burckhardt.\nZeughaus=Kammer:    \" Major Rud. Paravicini.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 230351,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1304,
+    "lines": 29,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1850_p159",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p159.jpg",
+      "bytes": 1052700,
+      "sha256": "91b76c63f44cd7aea03aa90ffe2b2f8884a8d97034d3706d183272fb7c257af5",
+      "sha256_of": "original",
+      "working_copy": "1850_p159.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:29+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p025",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p025.jpg",
+    "bytes": 1318496,
+    "sha256": "4e6f2ded0e38bb6e8e5123f2fbf62db02c7aa51744e63b0fc1b193d5d27fd973",
+    "sha256_of": "original",
+    "working_copy": "1862_p025.jpg"
+  },
+  "text": "",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 154792,
+  "truncated": true,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "empty",
+    "chars": 0,
+    "lines": 0,
+    "longest_char_run": 0,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 0.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:53:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p025",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p025.jpg",
+      "bytes": 1318496,
+      "sha256": "4e6f2ded0e38bb6e8e5123f2fbf62db02c7aa51744e63b0fc1b193d5d27fd973",
+      "sha256_of": "original",
+      "working_copy": "1862_p025.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:04+00:00"
+  }
+}

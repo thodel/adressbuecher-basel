@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p207",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p207.jpg",
+    "bytes": 1309315,
+    "sha256": "446d811ad6960779f6b03e159c3c69f2a3d4701aad60577b24d1f1396ea2375d",
+    "sha256_of": "original",
+    "working_copy": "1862_p207.jpg"
+  },
+  "text": "142 Spitalstraße.\nNeue Haus=Nro. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n4 | I. | 64 B c |  | Kern-Ryhiner, August.\n  Kern u. Sohn, Bandfabrikanten.\n  Siehe Nro. 5 St. Johann-Vorstadt.\n6 | I. | 64 A |  | LaRoche-Gemuseus, Carl Daniel.\n  Siehe Nro. 7 St. Johann-Vorstadt.\n7 | I. | 273 |  | Schöllkopf-Schumacher, Gottl. Fried.\n  Stoll-Fritz, Joh., Schreiner.\n  Frießl und Stöcker, Wagenfabrikanten.\n  Jäggi, Ludwig, Kunstmaler.\n  Frießl-Obrist, Joh. Wilhelm, Sattler.\n  Schumacher, Philipp Jacob, Hafner.\n  Strub-Thommen, Friedrich, Wirth.\n  Brand-Buser, Heinrich, Schuhmacher.\n  Heitz, Schwestern, Rosina u. Verena,\n    Damenschneiderinnen.\n8 | I. | 62 A |  | Preiswerk, Joh. u. Sohn.\n  Bettfedermagazin von Dietrich Preis-\n    werk-Reller.\n9 | I. | 274 |  | Müller-Hausser.\n  Rost-Reller, Appreturaufseher.\n10 | I. | 62 |  | Durchgang zu Riggenbach, Friedr.\n  Wilhelm.\n  Siehe Nro. 11 St. Johann-Vorstadt.\n11 | I. | 275 |  | Cherbuin-Flubacher, Friedrich.\n  Cherbuin-Flubacher, Friedrich, V.D.M.,\n    Lehrer.\n12 | I. | 59 c |  | Schöck-Hindenlang, Jacob Christof.\n  (Remise und Stallung.)\n13 | I. | 275 A | zum neuen Quartier. | Emde-Schach, Christian Friedrich.\n  Emde-Schach, Christian Friedrich, Me-\n    chaniker.\n  Hollinger-Greiner, Friedrich, Wirth.\n  Dietschy-Lichtenhahn, Joh. Jacob.\n  Wieland-Dietschy, Carl, Notar u. Advol.\n  Siehe Nro. 15 St. Johann-Vorstadt.\n14 | I. | 58 A | hinterer Erlacherhof.\n16 | I. | 53 A |  | Burckhardt-Preiswerk, Wilhelm.\n  (Stallung und Remise.)\n18 | I. | 50 |  | Dietschy-Lichtenhahn, Joh. Jacob.\n  Siehe Nro. 19 St. Johann-Vorstadt.\n  (Stallung und Magazin.)\n20 | I. | 46 B |  | Preiswerk-Bischoff, Wilhelm.\n  Siehe Nro. 23 St. Johann-Vorstadt.\n  (Remise und Stallung.)\n22 | I. | 274 B |  | Pizarro-de Villier, Manuel.\n  Pizarro-de Villier, Manuel, Rentier.\n  Brombach-Hierholzer, Rudolf, Gärtner.\n28 | I. | 30 |  | Magallon u. Comp. (Fabricagebäude.)\n30 | I. | 275 La |  | Gengenbach-Labhardt, Gustav.\n  (Magazin.)\n32 | I. | 275 L |  | Gengenbach-Labhardt, Gustav.\n  (Magazin.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 42696,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2071,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.037,
+    "mean_line_chars": 35.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:56:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p207",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p207.jpg",
+      "bytes": 1309315,
+      "sha256": "446d811ad6960779f6b03e159c3c69f2a3d4701aad60577b24d1f1396ea2375d",
+      "sha256_of": "original",
+      "working_copy": "1862_p207.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:40+00:00"
+  }
+}

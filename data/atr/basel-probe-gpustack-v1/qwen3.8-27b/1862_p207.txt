@@ -1,0 +1,54 @@
+142 Spitalstraße.
+Neue Haus=Nro. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+4 | I. | 64 B c |  | Kern-Ryhiner, August.
+  Kern u. Sohn, Bandfabrikanten.
+  Siehe Nro. 5 St. Johann-Vorstadt.
+6 | I. | 64 A |  | LaRoche-Gemuseus, Carl Daniel.
+  Siehe Nro. 7 St. Johann-Vorstadt.
+7 | I. | 273 |  | Schöllkopf-Schumacher, Gottl. Fried.
+  Stoll-Fritz, Joh., Schreiner.
+  Frießl und Stöcker, Wagenfabrikanten.
+  Jäggi, Ludwig, Kunstmaler.
+  Frießl-Obrist, Joh. Wilhelm, Sattler.
+  Schumacher, Philipp Jacob, Hafner.
+  Strub-Thommen, Friedrich, Wirth.
+  Brand-Buser, Heinrich, Schuhmacher.
+  Heitz, Schwestern, Rosina u. Verena,
+    Damenschneiderinnen.
+8 | I. | 62 A |  | Preiswerk, Joh. u. Sohn.
+  Bettfedermagazin von Dietrich Preis-
+    werk-Reller.
+9 | I. | 274 |  | Müller-Hausser.
+  Rost-Reller, Appreturaufseher.
+10 | I. | 62 |  | Durchgang zu Riggenbach, Friedr.
+  Wilhelm.
+  Siehe Nro. 11 St. Johann-Vorstadt.
+11 | I. | 275 |  | Cherbuin-Flubacher, Friedrich.
+  Cherbuin-Flubacher, Friedrich, V.D.M.,
+    Lehrer.
+12 | I. | 59 c |  | Schöck-Hindenlang, Jacob Christof.
+  (Remise und Stallung.)
+13 | I. | 275 A | zum neuen Quartier. | Emde-Schach, Christian Friedrich.
+  Emde-Schach, Christian Friedrich, Me-
+    chaniker.
+  Hollinger-Greiner, Friedrich, Wirth.
+  Dietschy-Lichtenhahn, Joh. Jacob.
+  Wieland-Dietschy, Carl, Notar u. Advol.
+  Siehe Nro. 15 St. Johann-Vorstadt.
+14 | I. | 58 A | hinterer Erlacherhof.
+16 | I. | 53 A |  | Burckhardt-Preiswerk, Wilhelm.
+  (Stallung und Remise.)
+18 | I. | 50 |  | Dietschy-Lichtenhahn, Joh. Jacob.
+  Siehe Nro. 19 St. Johann-Vorstadt.
+  (Stallung und Magazin.)
+20 | I. | 46 B |  | Preiswerk-Bischoff, Wilhelm.
+  Siehe Nro. 23 St. Johann-Vorstadt.
+  (Remise und Stallung.)
+22 | I. | 274 B |  | Pizarro-de Villier, Manuel.
+  Pizarro-de Villier, Manuel, Rentier.
+  Brombach-Hierholzer, Rudolf, Gärtner.
+28 | I. | 30 |  | Magallon u. Comp. (Fabricagebäude.)
+30 | I. | 275 La |  | Gengenbach-Labhardt, Gustav.
+  (Magazin.)
+32 | I. | 275 L |  | Gengenbach-Labhardt, Gustav.
+  (Magazin.)

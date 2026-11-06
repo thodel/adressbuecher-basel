@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p445",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p445.jpg",
+    "bytes": 1534184,
+    "sha256": "061db54760ba93bb5bd15391a39976340b6bec8c76be13490af84bed4793a8fd",
+    "sha256_of": "original",
+    "working_copy": "1862_p445.jpg"
+  },
+  "text": "380    Verzeichniß der Berufsarten.\nKrebs-Stelzer, Hilarius.  Schützengraben 2.\nRunz-Meyer, Rud.  Steinvorstadt 56.\nLengenberger, J. J.  St. Peters-Berg 35.\nLichtenhahn-Glutz, Friedr.  Stiftsgasse 5.\nLiebrecht-Frutiger, Rud.  St. Petersthirn-\n  platz 12.\nLippold-Meyer, Ludw.  St. Alban-Thal 44.\nMäglin, Isaak.  Rebgasse 45.\nManz-Gloor, Ed.  Todtentanz 7.\nManz-Jenni, Johs.  Binninger-Straße 15.\nMartin-Dietrich, J. H.  Steinenthorstr. 2.\n  -Krebs, Heinr.  Rebgasse 36.\nMast-Stecklin, Johs.  Schützenmattstraße 33.\nMishin-Schmid, Frz. J.  Spalenberg 17.\nOberer, Carl.  Imbergäßlein 9.\nOppermann, Carl, Vater u. Sohn.  Steinen=\n  thorstraße 27.\nRiggenbach-Rienzy, Johannes.  St. Johann=\n  Vorstadt 51.\nRoth-Ecklin, Peter.  Sternengäßlein 18.\nRuegg-Gräflin, Johs. Emil.  Riehenthor=\n  straße 13.\nSchilling-Weitnauer, Wwe. Elisabetha.  St.\n  Peters-Gasse 48.\nSchmid, Georg.  St. Peters-Berg 42.\nSchmidlin-Mägelin, Jakob.  Riehenthorstr. 17.\nSchwarz-Bögly, Philipp.  Karthausgäsl. 5.\nSchweizer-Tsenegger, Wwe. M. A. Rhein=\n  gasse 39.\nSeifert-Gysin, Benjamin.  Steinenthorstr. 11.\nSenn-Zwidzi, Heinrich.  Aeschenvorstadt 37.\nSirt, J. J.  Schützenmattstraße 14.\nSommer-Walter, Melch.  St. Peters-Platz 10.\nStempelmann-Schwander.  Spiegelgasse 12.\nStingelin-Seiler, Jac.  Steinenthorstraße 32.\nStrübin, Johs.  Platrgäßlein 7.\nSutter-Zimmermann, Ignaz.  Steinenbach=\n  gäßlein 12.\nWalter-Stadler, Johs.  Rappoltshof 1.\nWeisenfels-Mäglin, Emil.  Hirshgasse 5.\nWiesner-Thommen, Emil.  Hammerstraße 48.\n  Malzfabrik.\nEckstein, Ed.  Steinenthorstraße 16.\n  Mangerinnen.\nGeorg, Elisabeth.  Schnabelgäßlein 17.\nHaagen, Marg. u. Ber.  Gerbergasse 25.\nTschudy-Wanner, Wwe. Anna.  St. Peters=\n  Berg 11.\n  Manufakthurwaaren- und Tuchhändler.\nBernoulli u. Lachhardt.  Mostackerstraße 20.\nBicard, N. N.  St. Leonhards-Graben 8.\nBischoff, Benedikt.  Nadelberg 10.\nBloch, Rud.  Gerbergasse 22.\nBraunschweig, Napht.  Sutgasse 15.\nBrüderlin, Nicl.  Marktplatz 8.\nCassal, Celest. u. Antoinette.  Eisengasse 18.\nEckhardt, J. G.  Nadelberg 18.\nFischer, Johs.  Freie Straße 72.\nGenujean, E.  Eisengasse 13.\nGeßler, Em.  Sutgasse 23.\n[spalte 2]\nHoffmann, Gönner u. Cie.  Rittergasse 21.\nIselin, Gebr.  St. Alban-Vorstadt 69.\nLevy, Abr.  Marktplatz 5.\nMerian-Bister, J.  Fischmarkt 9.\nMeyer und Sohn, Joh.  Barfüßerplatz 5.\nMeyer, J.  Gerbergasse 31.\nMontfort und Lachhardt.  St. Elisabethen=\n  Straße 11.\nPreiswerk, Math.  Eisengasse 20.\nSocin u. Sohn, Abel.  St. Peters-Graben 27.\n  =Worthernann, Christ.  Bäumleingasse 5.\nWahr, Gebrüder.  Freie Straße 31.\n  Mabrier.\nDizerens, Louis.  Aeschenvorstadt 46.\nDuffi-Dell, Jakob.  Riehenthorstraße 7.\nKlausfelder-Lörtscher, J.  Aeschenstraße 109.\nMischand-Tschopp, Th.  Horburgstraße 31.\n  Matrazen- und Bettmacherinnen.\nAnliker, Elisab. M.  Utengasse 22.\nBueß, Cath. Dor.  Aeschenvorstadt 19.\nGlunz, Geschwister.  Grenzacher-Straße 52.\nGuth, Susanna.  Münzgäßlein 26.\nHoner, Franziska.  Schneidergasse 28.\nMüller-Winter, Elisab.  Kronengasse 9.\nSoller, Dorothea.  Kirchgasse 13.\nSpieß-Frey, Marg.  Pfluggäßlein 10.\nWaser-Gunti, Barbara.  Spalenthorweg 53.\nWeiß-Bresin, Wwe. Ursula.  Gerbergäsl. 10.\n  Maurermeister.  (Siehe auch Baumeister.)\nBaader-Tschann, Urs Jos.  Vogelsangweg 14.\nBerlinger-Martin, Georg.  Bahnhofstraße 31.\nFrey-Frey, Alois.  Hintere Bahnhofstraße 48.\nGschwend-Täschler, Jos.  Wallstraße 5.\nGürtler-Hecle, Peter.  Rheingasse 38.\nRoch-Gaier, Christ.  Aeschenstraße 66.\nLöfler-Kaufmann, Jacob.  Hammerstraße 67.\nMeyer-Streulin, Georg.  Klosterberg 13.\nSchaarschmidt-Hagist, August.  Klingelthal=\n  straße 43.\nTschann-Bergi, Napoleon.  Mostackerstraße 36.\nWurtenberg-Gürtler, Jac.  St. Leonhards=\n  Straße 20.\n  Mechaniker.\nAenisshänslin-Grünacher, Carl.  Rebgasse 40.\nBauer-Felber, Jakob.  St. Peters-Graben 37.\nBurckhardt-Ecklin, Franz.  Kümelinbachweg 4.\nBufer-Tschudin, Friedr.  St. Clara-Straße 11.\nEpple-Stüchlin, Chr.  Gartenstraße 64.\nFäklin-Baur, Rud.  Elsäßer-Straße 4.\nKaufmann-Schlack, Michael.  St. Albantbor=\n  graben 54.\nLinder-Strub, Gotth. N.  Schnabelgäßlein 17.\nMathieu-Saner, Ant.  Steinenbachgäßlein 16.\nMöschinger, Heinrich.  Kanonengasse 5.\nDelhasen-Dreyer, Sam. Jacob.  St. Johann=\n  Vorstadt 37.\nRudin-Zehntner, Johs.  St. Clara-Straße 4.\nRutschmann-Berlinger, Aug.  Rheingasse 22.\nSchaub-Birmann, Bernh.  Rheingasse 49.\nBölmy-Rieder, Heinrich.  Steinenthorstraße 32.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 129853,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 4331,
+    "lines": 122,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0005,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1862_p445",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p445.jpg",
+      "bytes": 1534184,
+      "sha256": "061db54760ba93bb5bd15391a39976340b6bec8c76be13490af84bed4793a8fd",
+      "sha256_of": "original",
+      "working_copy": "1862_p445.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:38+00:00"
+  }
+}

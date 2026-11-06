@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p137",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p137.jpg",
+    "bytes": 945319,
+    "sha256": "d96d3c5a73dfc563d4b5e01aac8b1702121a67843ecb2c783bcf54524b6f5946",
+    "sha256_of": "original",
+    "working_copy": "1841_p137.jpg"
+  },
+  "text": "54\nFauser, Gottl., Straßenpflasterer u. Weinschenk. 3 An der Rheinbrücke.\nFeil, Susanna und Lisette, Schneiderinnen. 150 Reb gasse.\nFinniger, Heinrich, Vater und Sohn, Mezger. 278 Webergasse.\nFischer, Andr. sel., Wittwe, Lohnwäscherin. 325 Badergätlein.\nFluri, Nikolaus, kathol. Vikar. 106 Am Lindenberg.\nFörster, Ernst, Zimmermann. 136 Kirchgätlein.\nFrey, Franz, Fabrikarbeiter. 91 Rufsgätlein.\nFrey, geb. Bär, Wittwe. 107 Am Lindenberg.\nFrey, Phil. Carl, Lehrer. 104 Am Lindenberg.\nFrey, Nikolaus, von Armesstorf, Lehrer. 132 Kirchgätlein.\nFreuler, geb. Benfeler, Barbara, Matratzenmacherin. 68 Rheingasse.\nFritz, geb. Marg. Frey, Wittwe, Kostgeberin. 162 Reb gasse.\nFrüh, Caspar, Schuhmacher. 117 Obere Reb gasse.\nFuchs, Jakob, Lohnwäscher. 270 Beim Bläsithor.\nFurler, Joh., Stuhlschreiner. 309 Im Klingenthal.\nFüssinger, Ulrich, Müller. 302 Im Klingenthal.\nG.\nGasquet, Fr. Wilh., Zimmermann. 119 Obere Reb gasse.\nGaf, Joh., Weißbeck. 150 Reb gasse.\nGaf, Andr., Schuhmacher, von Liestal. 232 Greifengasse.\nGengenbach-Frey, Amad., Kaufmann. 111 Rheinweg.\nGernler, Carl, Kornmesser. 148 Beim Riehen-Thor.\nGessler, Christina, geb. Burckhardt, Wittwe. 140 Beim Riehen-Thor.\nGessler, Joh. Rud., Gypser. 167 Reb gasse.\nGessler, Leonhard, Müller. 265 Im Rumpel.\nGessler, Rudolf, Müller. 267 Im Rumpel.\nGessler, Andreas, Rothgerber. 8 An der Rheinbrücke.\nGlaser, Jakob, Zimmermann. 101 Am Lindenberg.\nGlaser, Frau Barbara, gesch. Klingensfuß, Krödlerin. 382 Krempergasse.\nGlaser, Friedrich, Fischer. 72 Rheingasse.\nGlah, Joh. Caspar, Spengler. 393 Krempergasse.\nGlanz, Geschwister, Schneider u. Matratzenmacherinnen. 173 Reb gasse.\nGöck, Nicol. Wilh., Devicenmacher. 425 Udengasse.\nGosweiler, J. U., Fabrikaufseher. 336 Untere Webergasse.\nGroben, Jakob, Glaser und Lohnwäscher. 283 Webergasse.\nGrüblin, Joh., Wirthschaft. 291 Webergasse.\nGrüblin, J. J., Posaumentier, von Höllstein. 50 Rheingasse.\nGrunauer, Leonhard sel., Wittwe, geb. Weiß. 295 Webergasse.\nGrunauer, Sebast., Expedition und Commission. 44 Rheingasse.\nGrundeler, J. Christian, Schlosser. 94 Am Lindenberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 72188,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2067,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:39:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1841_p137",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p137.jpg",
+      "bytes": 945319,
+      "sha256": "d96d3c5a73dfc563d4b5e01aac8b1702121a67843ecb2c783bcf54524b6f5946",
+      "sha256_of": "original",
+      "working_copy": "1841_p137.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:39:08+00:00"
+  }
+}

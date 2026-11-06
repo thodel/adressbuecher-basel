@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "model": "qwen3.8-27b",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p172",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p172.jpg",
+    "bytes": 1098044,
+    "sha256": "1a6b25e141ae56cb342ae3c346ae1ff7edb615744f99e7adc16639090677c407",
+    "sha256_of": "original",
+    "working_copy": "1841_p172.jpg"
+  },
+  "text": "— 19 —\n* Böhmy, geb. Känner, Rath., Wittwe. 1452 Schlüsselb.\nVonBrunn-VonSpexr, J. J., Sohn, Pfarrer. 1499\n  St. Martin.\nVon der Mühl, Christoph, Part. 192 Herbergberg.\nVon der Mühl, Friedrich, Kaufmann. 1230 St. Ulban-Vorft.\nVon der Mühl, Joh. und Aug. 1553 Bei der Brodlauhe.\nVon der Mühl und Söhne, Seidenwaarenhandl. 1598 Eiseng.\nVon Spexr, Joh. Conr., Kaufmann. 314 Spahlen-Vft.\nVon Spexr und Comp., Bank, Commission und Expedition.\n  1188 Freienftraße.\nVon Spexr, Karl, J. U. Dr., Not. und Criminalgericht-\n  schreiberei-Substitut. 1422 Freienftraße.\nW.\nWagner', Andreas, Commis. 27 St. Joh. Vorftadt.\nWahr, Philipp', Sohn, Kaufmann. 1446 Freientraße.\nWahr, Hieronymus, Sohn, Kaufmann. 1446 Freientfr.\nWaidmann, Mar. Magd. u. Elis., Jgfr. 39 St. Joh. Vorft.\nWaldner, Heinrich, Spannermeifter. 635 Gerbergäflein.\nWallich, Jakob, von Lahr, Kutscher. 855 Thor-Steinen.\nWeber-Karger, Joh. Georg, Ehegerichts-Amtmann. 593\n  Schneidergaffe.\nWegmann, Jakob, von Sällanden, Kaufhausarbeiter.\n  1734 Beim Kornmarktbrunnen.\nWeißenburger, Ufr., fel. Wittwe, geb. Schwarz, Bäckerei.\n  943 Aeschen-Vorftadt.\nWeiß, Innocenz. 145 Blumengaffe.\nWeiß, Heinrich, Schneider. 1682 Rutelgäflein.\nWeiß, Wittwe, geb. Val. Frenburger, und Töchter, Schnei-\n  derinnen. 840 Hintere Steinen-Vorftadt.\n* Wenk, Karl. 239 St. Peter's-Kirchgäflein.\nWerenfels, J. J., Schreiber. 1167 Gerbergaffe.\nWertenberg, Andreas, Ferger. 1749 Sattelgaffe.\nWertenberg-Langmesser, Ubr., Sohn. 1713 Unt. Spahlenberg.\nWettstein, Wittwe, geb. Iselin. 938 Aeschen-Vorftadt.\nWezel, Jakob, Sohn, Commis. 1317 St. Ulban-Vorft.\nWiederkehr, Heinrich, Zettlermeifter. 904 St. Elisabetben.\n* Wielandt, Unna Maria, Jgfr. 941 Aeschen-Vorftadt.\nWinkler, Heinrich, Fabrikarbeiter. 1284 St. Ulban-Thal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 76167,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1745,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:40:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": {
+      "key": "1841_p172",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p172.jpg",
+      "bytes": 1098044,
+      "sha256": "1a6b25e141ae56cb342ae3c346ae1ff7edb615744f99e7adc16639090677c407",
+      "sha256_of": "original",
+      "working_copy": "1841_p172.jpg"
+    },
+    "model": {
+      "model": "qwen3.8-27b",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3.8-27b@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:40:24+00:00"
+  }
+}

@@ -119,9 +119,11 @@ mit Spatium geglättet, «àWengen» ohne Accent. Sonst auf den vier GT-Seiten j
 `qwen3-vl-30b-a3b-instruct` 20/20 in 3,2 min (6 Seiten/min), aber eine Seite (1841
 PDF 27) in einer Wiederholungsschleife bis zum Token-Deckel («5 5 5 …»), zweispaltige
 Seiten **zeilenweise nebeneinander** statt Spalte für Spalte, Tabellen als Markdown mit
-`| | | |`-Leerzellen, Bewohnerzeilen verschoben oder weggelassen. `qwen3.8-27b` ~2 min je
-Seite, mindestens zwei Seiten am Token-Deckel (1841 PDF 27 und 65) — das
-Reasoning-Problem aus Aarau; Ergebnis wird nachgetragen.
+`| | | |`-Leerzellen, Bewohnerzeilen verschoben oder weggelassen. `qwen3.8-27b` 20/20 in 40,7 min
+(98,5 s je Seite), zwei Seiten am Token-Deckel (1841 PDF 65 abgeschnitten, 1862 PDF 25
+Behörden leer: 8 192 Tokens Nachdenken, kein Text) — das Reasoning-Problem aus Aarau.
+Dafür trennt es die Spalten korrekt (1862 PDF 355: 2,3 %) und hält das Tabellenformat
+halbwegs ein (13,7 % auf der Tabelle, vor allem Zellen- und Zeilenordnung).
 
 **Ground Truth** (`data/gt/`, 4 Seiten, `provenance.csv`): 1841 PDF 110 (Register),
 1850 PDF 120 (Kompaktregister 2-spaltig), 1862 PDF 139 (Häuserverzeichnis-Tabelle), 1862
@@ -137,7 +139,7 @@ Zeichenfehlerrate (CER, Levenshtein auf dem normalisierten Seitentext: ſ→s, �
 |---|---:|---:|---:|---:|---:|
 | `gemini-3.8-flash` (extern) | 0,000* | 0,011* | 0,002* | 0,000* | 9,5 |
 | `qwen3-vl-30b-a3b-instruct` (GPUStack) | 0,027 | 0,040 | 0,195 | 0,768 | 9,7 |
-| `qwen3.8-27b` (GPUStack) | 0,023 | _läuft_ | _läuft_ | _läuft_ | ~120 |
+| `qwen3.8-27b` (GPUStack) | 0,023 | 0,025 | 0,137 | 0,023 | 98,5 |
 
 \* GT geht von dieser Lesung aus, Zahl nach unten verzerrt. Die hohen Werte von
 qwen3-vl auf 1862 sind Reihenfolge (Spalten nebeneinander, Tabellenzellen), nicht
@@ -148,9 +150,16 @@ Buchstaben: auf Wortebene liest es Fraktur mit 3–4 % (V/B, K/R, ß/ck, tz, ſ/
 **Gemini 3.8 Flash** (Lauf `basel-gemini-v1`, MCP). Zweiter Leser wie in Aarau für
 Fraktur `qwen3-vl-30b-a3b-instruct` (`basel-qwen3vl30b-v1`, CLI, nohup) — brauchbar als
 Zweitmeinung zum Wortlaut auf einspaltigen Seiten (Nummernbuch 1841/1850, Register
-1841), auf zweispaltigen und Tabellenseiten nur über eine zeilenweise Zuordnung; ob
-`qwen3.8-27b` ohne Reasoning-Abschaltung als Zweitleser taugt, entscheidet das Ende der
-Probe. Holen und weiterverarbeiten: `make fullrun-fetch fullrun-lines fullrun-parse`.
+1841), auf zweispaltigen und Tabellenseiten nur über eine zeilenweise Zuordnung. **Zur
+Entscheidung der Projektleitung:** `qwen3.8-27b` wäre auf den zweispaltigen Seiten (1850
+Register, 1862 Einwohner/Besitzer/Berufe: ~190 Seiten) der bessere Zweitleser (2–3 %
+statt Spaltensalat), kostet aber 100 s je Seite (~5 h für diese Seiten, ~22 h für alle)
+und bricht ohne Reasoning-Abschaltung auf einzelnen Seiten ab; Vorschlag: nach dem
+qwen3-vl-Lauf nur die zweispaltigen Seiten mit qwen3.8 nachlesen (`basel-2sp-qwen38-v1`).
+Beide Läufe gestartet 06.11.2026 14:42 (Gemini MCP-Job `20261106T134222-cb1e6c`,
+qwen3-vl CLI mit Log `data/vlm_test/basel-qwen3vl30b-v1.log`); erwartete Dauer Gemini
+~2 h, qwen3-vl ~1 h. Holen und weiterverarbeiten: `make fullrun-fetch fullrun-lines
+fullrun-parse`. `02_lines.csv` enthält vorerst die drei Probeleser (7 447 Zeilen).
 
 **Welle 2, erster Stand** (`make probe-parse`, Gemini-Lesung der Probeseiten):
 `scripts/04_parse.py` löst auf den neun Registerseiten 426 Adresszeilen auf, 420 «high»,
@@ -167,7 +176,11 @@ Streichungen, «Siehe Nr. …»-Verweise als Notiz, und für 1862 die fünf Tabe
 Kolumnentitel, `building_id` mit Strasse (1862) beziehungsweise Stadtteil `GB`/`KB`
 (1850). Offen: Ditto-Zeilen «” ” Isaak Dreyfuß» (1841 Magazine), Firmenzusätze
 «u. Steigmeyer» (1850), Zusammenführung der Fortsetzungszeilen von Hausnamen in der
-Tabelle, und die Prüfung gegen die GT-Einträge (Abnahme ≥ 95 % feldgenau).
+Tabelle. Erste Prüfung: auf den drei Register-GT-Seiten liefert der Parser aus dem
+GT-Text und aus der Gemini-Lesung bei 194 von 200 Einträgen dieselben Felder (97 %); die
+6 Abweichungen sind Lesefehler (I.J., Speyermann, B/V, Gassenbesezer, St.Andreasplatz),
+keine Parserfehler. Die eigentliche Abnahme (≥ 95 % feldgenau gegen handgeprüfte
+Einträge) steht noch aus.
 
 ## 3. Architektur der Pipeline
 
@@ -193,8 +206,8 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 0 | Setup ✅ 06.11.2026 | Repo (`~/Repos/adressbuecher-basel`), Skripte aus Aarau, Seitenbilder byteidentisch (`data/pages/`, nicht im Git), `00_volumes.csv` mit SHA-256, Signatur, Permalink | erfüllt |
 | 0 | Seiten ✅ 06.11.2026 | `01_pages.csv` mit Abschnitt, gedruckter Seitenzahl, Satz, Spalten für alle 873 Seiten (Kontaktbögen à 20 Seiten durch vier Hilfsagenten, Grenzseiten auf der Einzelseite bestätigt) | erfüllt; Abschnittsfolge in Abschnitt 1 |
 | 1 | ATR Probe ✅ 06.11.2026 | 20 geschichtete Seiten (`data/csv/probe_pages.csv`) auf tei unter `data/nextcloud/adressbuecher-basel/probe/`; Gemini 3.8 Flash (MCP, `reasoning=low`), `qwen3-vl-30b-a3b-instruct` und `qwen3.8-27b` (GPUStack, CLI); 4 GT-Seiten; CER je Leser und Seitentyp | Befund in Abschnitt 2, Entscheid je Seitentyp |
-| 1 | ATR voll | alle Seiten ausser leer/Inserate mit den zwei gewählten Lesern; Läufe `basel-<leser>-v1` | `02_lines.csv` vollständig |
-| 2 | Einträge | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
+| 1 | ATR voll (läuft seit 06.11.2026) | 798 Seiten (alles ausser leer/Inserate) mit Gemini 3.8 Flash und qwen3-vl-30b; Läufe `basel-gemini-v1`, `basel-qwen3vl30b-v1` | `02_lines.csv` vollständig; Bericht je Band |
+| 2 | Einträge (erster Stand ✅ 06.11.2026 auf den Probeseiten) | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer; nach dem Volllauf `make fullrun-parse` | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
 | 3 | Normalisierung, Identität | Berufe, Strassen (Basler Strassennamen 1841–1862 → heute), Heimatorte; Personen über die drei Bände; Gebäude über die Nummernkonkordanz 1862 | wie Aarau |
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
 | 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern) | wie Aarau |

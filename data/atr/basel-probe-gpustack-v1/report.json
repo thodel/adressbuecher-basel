@@ -1,0 +1,110 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-probe-gpustack-v1",
+  "pages": 20,
+  "started_at": "2026-11-06T13:28:45+00:00",
+  "elapsed_s": 2632.7,
+  "rebuilt": false,
+  "skipped_files": [],
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-probe-gpustack-v1",
+    "source": "/home/dh/agentic_historian/agentic_historian/data/nextcloud/adressbuecher-basel/probe",
+    "gateway": "http://130.92.59.240:8200",
+    "runner": {
+      "name": "agentic-historian",
+      "version": "0.1.0",
+      "commit": "fa9e130746122e0e888d23d9d5825a5bdd068631",
+      "commit_source": "git"
+    },
+    "started_at": "2026-11-06T13:28:45+00:00",
+    "ended_at": "2026-11-06T14:12:38+00:00",
+    "models": [
+      {
+        "model": "qwen3-vl-30b-a3b-instruct",
+        "engine": null,
+        "level": null,
+        "revision": null,
+        "revision_kind": "unreported",
+        "weights": null,
+        "base_model": null
+      },
+      {
+        "model": "qwen3.8-27b",
+        "engine": null,
+        "level": null,
+        "revision": null,
+        "revision_kind": "unreported",
+        "weights": null,
+        "base_model": null
+      }
+    ]
+  },
+  "models": [
+    {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "done": 20,
+      "skipped": 0,
+      "failed": 0,
+      "chars": 53898,
+      "lines": 0,
+      "truncated": 1,
+      "truncated_keys": [
+        "1841_p027"
+      ],
+      "empty": 0,
+      "empty_keys": [],
+      "repetitive": 1,
+      "repetitive_keys": [
+        "1841_p027"
+      ],
+      "deliberated": 0,
+      "deliberation_keys": [],
+      "verdicts": {
+        "repetitive": 1,
+        "ok": 19
+      },
+      "recognition_ms": 193233,
+      "elapsed_s": 193.4,
+      "aborted": "",
+      "source_errors": 0,
+      "source_missing": 0,
+      "source_missing_keys": [],
+      "errors": [],
+      "energy": null
+    },
+    {
+      "model": "qwen3.8-27b",
+      "done": 20,
+      "skipped": 0,
+      "failed": 0,
+      "chars": 42797,
+      "lines": 0,
+      "truncated": 2,
+      "truncated_keys": [
+        "1841_p065",
+        "1862_p025"
+      ],
+      "empty": 1,
+      "empty_keys": [
+        "1862_p025"
+      ],
+      "repetitive": 0,
+      "repetitive_keys": [],
+      "deliberated": 0,
+      "deliberation_keys": [],
+      "verdicts": {
+        "ok": 19,
+        "empty": 1
+      },
+      "recognition_ms": 2439120,
+      "elapsed_s": 2439.3,
+      "aborted": "",
+      "source_errors": 0,
+      "source_missing": 0,
+      "source_missing_keys": [],
+      "errors": [],
+      "energy": null
+    }
+  ]
+}
