@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p010",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p010.jpg",
+    "bytes": 965443,
+    "sha256": "3eff7a5b4dabf043f51ad6519f372317dd47acd04f69d90d7a488c7672863d81",
+    "sha256_of": "original",
+    "working_copy": "1841_p010.jpg"
+  },
+  "text": "3\nNro.\n51 Burckhardt, Rud., Bandfabrikant.\n52 * Preiswerk-Forkart.\n  Spitz, Leonh., Hausknecht.\n53 Preiswerk, Lukas, Bandfabrikant.\n54 Brand, Isaak, Gerichtsherr.\n55 Würz, Karl Aug., Nadler.\n56 Düring, Jungfer, Elisabetha.\n  Utz, Joh. Fr., Fabrikarbeiter.\n  Roth, Isaak, Comptoirist.\n57 Glaser-Herzog, S. Beck.\n  Frei, Wittwe, geb. Gysi.\n58 Thurneisen-Fäsch, Wittwe.\n  Thurneisen-Paravicini, Emil, Kaufmann.\n59 Lotz-Wick, Samuel, Kaufmann.\n60 Basler-Bernoulli, Joh., Kaufmann.\n61 Müller-Hauser, J. J., Seidenfärber.\n62 Riggenbacher, Joh. Jak., Beck.\n  Hasler, Seb., Posamentier, Fabrikaufseher.\n63 Preiswerk, Nikl. Peter., und Sara, Geschwister.\n64 a Ryhiner, Samuel, Appellations-Gerichts-Präsident.\n64 b Ryhiner, Peter, Rentier.\n65 Buser, Fr., Kaufmann.\n  Buser, Samuel.\n66 Oberlin, Anna Maria.\n67 Burckhardt-Gysin sel. Wittwe, Rent.\n  Burckhardt, August, Appellationsgerichts-Schreiber.\n68 Schmidt, Peter, Beck.\n  Ohl, Georg Michael, Beck.\n69 Scholp, Rud., Spezereihändler.\n70 Iselin-De Bary, Rud., Kaufmann.\n71 Iselin-Laroche, J. J., Kaufmann.\n72 Roth, Wernhard, Schuhmacher.\n73 Künzig, Jakob, genannt Hindenlang.\n  Holzach, Rudolf, Amtsdiener.\n74 Lacher, Jos., Kunstmaler.\n  Dietrich, geb. Landerer, Ursula.\n  Gürtler, Fr., Hauptmann.\n75 Handmann, J. sel., Wittwe.\n76 Bertschmann, Jungfer Margaretha.\n77 * Merian-Respinger.\n  Respinger, Gebrüder, Kaufleute.\n  Gaß, Heinrich, Schneidermeister.\n78 Keller, geb. Matzinger, Wittwe.\n  Schmid, Peter, Lehrer.\n  Bächlin, Franz Lukas.\n79 Schöck, Jak. Chr., Bandfabrikant.\n80 u. 81 Passavant-Vischer, Joh. Heinr.\n82 Bernoulli, Hieronimus sel. Wittwe, geb. de Lachenal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7923,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1614,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.66,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:43:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p010",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p010.jpg",
+      "bytes": 965443,
+      "sha256": "3eff7a5b4dabf043f51ad6519f372317dd47acd04f69d90d7a488c7672863d81",
+      "sha256_of": "original",
+      "working_copy": "1841_p010.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:06+00:00"
+  }
+}

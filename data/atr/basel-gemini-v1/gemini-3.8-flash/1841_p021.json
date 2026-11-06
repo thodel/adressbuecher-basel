@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p021",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p021.jpg",
+    "bytes": 915183,
+    "sha256": "3abf4e24ab6f3b9eea441a9c9f31269911692862a73175897980e5b628108646",
+    "sha256_of": "original",
+    "working_copy": "1841_p021.jpg"
+  },
+  "text": "14\nNro.\n335 Madeux, Joh. (Rag. : Madeux u. Wohnlich), Commissions-,\n  Speditions- und Colonialwaaren-Handlung.\n335 * a Brennhaus, Emanuel Salathe, Küfer, geh.\n336 * Stallung v. Hrn. Müller, Ochsenwirth.\n337 * a Magazin der HH. Madeux und Wohnlich.\n337 * b     ”     ”   Courvoisier u. Comp.\n338 Bühl-Jenny, Georg Fr., Straßenpflasterer.\n339 Barth, Wittwe und Söhne, (Nagelhandlung).\n  Berardié, Louis de St. Etienne, Dessinateur pour\n  Rubans et Etoffes.\n340 * Wittwe von Abraham Ziegler geh.\n341 * Magazin von Bernoulli, Sohn, Nik. de Hieronymus.\n342 Föhr, Wittwe, geb. Schnebeli, und Sohn.\n343 u. 344 Ammon, J. Thoni, Wagner.\n345 Müller, J. J., Vater.\n346 * Stallung v. Müller zum Ochsen.\n347 Meyer, Peter, Metzger.\n\nSpahlen-Vorstadt.\n\n348 Schilling, Wittwe, geb. Herzog.\n  Schilling, Rudolf, Hufschmid.\n349 * Gesellschaftshaus zur Krähe.\n  Laur-Zäslin, Ferd., Gesanglehrer.\n350 Merian-Frischmann, Rud., Banquier.\n  Merian, Wittwe, geb. Stückelberger.\n351 Henz, Jakob, Weißbeck.\n  Freuler, Jakob, Kaufmann.\n  Immler, Wilhelm, Schreiner.\n352 Schölli, Caspar, Tuchscheerer.\n  Burckhardt, geb. Heusler, Esther, Wittwe.\n  Meyer-Lichtenhahn, Candidat.\n352 a Ulmann, Moses, Vater, Wirth zur Kanne.\n353 Stößel, Joh., Gasthaus zum Engel.\n354 Henz, Joh., Weißbeck.\n  Spörlin, Lucas, Schuhmacher.\n  Müller, Friedr., Maler.\n\nSt. Leonhardsgraben.\n\n355 Raff, Franz, Vater und Sohn, Posamentierstuhlmacher.\n  Senn, Jakob, Kunstmaler.\n  Leser, Adolf, Wirthschaft.\n  Krug, J. Georg, Kaufmann.\n356 * Magazin von Hieronymus Bernoulli, Sohn.\n357 Bleyler, Rudolf, Commissions-, Speditions- u. Colonialwaaren-\n  handlung.\n358 * Magazin von R. Bleyler.\n359 Schölli, Joh. Caspar, Sohn, Wagner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6800,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1672,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:44:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p021",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p021.jpg",
+      "bytes": 915183,
+      "sha256": "3abf4e24ab6f3b9eea441a9c9f31269911692862a73175897980e5b628108646",
+      "sha256_of": "original",
+      "working_copy": "1841_p021.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:26+00:00"
+  }
+}

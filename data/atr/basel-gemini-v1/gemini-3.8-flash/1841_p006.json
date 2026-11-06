@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p006",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p006.jpg",
+    "bytes": 1050795,
+    "sha256": "1925b34fd0fe9298e52796316cf84d994b86392ad75c92ab0ebcefdc16ea5fad",
+    "sha256_of": "original",
+    "working_copy": "1841_p006.jpg"
+  },
+  "text": "Neues\n\nNummern- und Adreßbuch\n\nder\n\nStadt Basel.\n[handschriftlich: von J. H. Locher. 1840.]\n\nUnter Zugrundlegung\n\nder\n\nneuen Strassen- und Häuserbezeichnung.\n\nBasel.\nIn Commission bei I. C. Schabelitz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3568,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 201,
+    "lines": 10,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.1,
+    "mean_line_chars": 18.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.01,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:42:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p006",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p006.jpg",
+      "bytes": 1050795,
+      "sha256": "1925b34fd0fe9298e52796316cf84d994b86392ad75c92ab0ebcefdc16ea5fad",
+      "sha256_of": "original",
+      "working_copy": "1841_p006.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:40+00:00"
+  }
+}

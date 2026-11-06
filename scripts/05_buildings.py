@@ -101,20 +101,24 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
     buildings, residents = [], []
     cur = None
     prev = prev_owner or {}
+    quarter_name = (prev_owner or {}).get("quarter", "") if volume != "1862" else ""
     lines = prenormalise(text).split("\n")
     for i, raw in enumerate(lines, start=1):
         line = raw.rstrip()
         s = line.strip()
         if not s or s == "[spalte 2]" or HEADER_RE.match(s):
             continue
+        m_cp = CITY_PART_RE.match(s)
+        if m_cp and "|" not in s and "," not in s:
+            city_part = m_cp.group(1); continue
+        qm = re.match(r"^(?:[A-H]\.\s+)?(?P<q>[A-ZÄÖÜ][\w.\- ]*?-Quartier)\.?$", s)
+        if qm and not line.startswith("  "):
+            quarter_name = qm.group("q"); continue           # «A. St. Johann-Quartier.» (1841/1850)
         if i <= 3 and not line.startswith("  ") and (re.match(r"^\d+\s*$", s) or (RUNHEAD_RE.match(s) and "|" not in s and "," not in s)):
             # Kolumnentitel: «Steinen-Quartier. 33», «74 St. Johann-Vorstadt. — Kanonengasse.»
             if not street and volume == "1862" and "—" in s:
                 street = re.sub(r"^\d+\s+", "", s).split("—")[0].strip().rstrip(".")   # erste Strasse der Seite
             continue
-        m_cp = CITY_PART_RE.match(s)
-        if m_cp and "|" not in s and "," not in s:
-            city_part = m_cp.group(1); continue
         indented = line.startswith("  ")
         tm = TABLE_RE.match(s) if volume == "1862" and "|" in s else None
         nm = None if indented else NUM_RE.match(s)
@@ -170,7 +174,7 @@ def parse_building_page_basel(text: str, volume: str, page: int, street: str = "
             cur = {"building_id": bid, "volume": volume, "page": str(page), "line": i,
                    "building_no": (pre + " " if pre else "") + first, "building_nos": (pre + " " if pre else "") + nos,
                    "marker": (nm.group("mark") or "").strip("()"),
-                   "house_no_new": "", "house_no_old": (pre + " " if pre else "") + first, "quarter": "",
+                   "house_no_new": "", "house_no_old": (pre + " " if pre else "") + first, "quarter": quarter_name,
                    "house_name": "", "city_part": city_part,
                    "street_raw": street, "owner_text": owner_text, "owner_same_as_prev": same,
                    "owner_surname": surname, "owner_entry": oentry, "building_type": btype,

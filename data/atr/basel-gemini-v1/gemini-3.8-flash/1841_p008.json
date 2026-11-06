@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p008",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p008.jpg",
+    "bytes": 1034910,
+    "sha256": "479413d6a41e590fd4aad46056fe281dba1b1f8abea9231d1de5f894860e2c6c",
+    "sha256_of": "original",
+    "working_copy": "1841_p008.jpg"
+  },
+  "text": "Große Stadt.\n\nA. St. Johann-Quartier.\n\nSt. Johann-Vorstadt.\n\nNro.\n1 a Hübscher, Wilhelm, Zimmermeister.\n  Burckhardt-Roth, Joh., Bandfabrikant.\n1 b * Hübscher, Wilh., Zimmermeister.\n  Hübscher, Rudolf, Vater, Gerber.\n2 Heusler, Lucas, alt Sensal.\n  Breiting, Samuel, Wirthschaft.\n3 * Kirsch, Joh. Chr., Handels-Commis.\n  Straumann, Joh., Posamentermeister, v. Bubendorf.\n4 Bischof, August, Handelsmann u. Spezereihändler.\n  Sulger, Rud., Faktor beim Dampfschiff.\n5 Hindenlang, Joh. Peter, Seiler.\n6 Küenzi, Patric., Beck, v. Frick, Kant. Aargau.\n  Boßhardt, J., Fabrikarbeiter v. Burgfelden.\n7 * Stallung v. Ryhiner-Frischmann.\n8 Bonkilch, Joh., Weißbeck.\n9 a Grollimund, Joh. Jak., Posamenter v. Lupfingen.\n  Hesse, Joh. And., Schneider.\n9 b Salathe, Joh. Jak., Mechanikus.\n9 c * Salathe, Joh. Jak., id.\n  Kirsch, Joh. Christ., Handels-Commis.\n10 * Scheune v. Roschet, Sattler.\n11 Kündig, Wittwe, geb. Geiger.\n12 u. 13 Ecklin, Paulus.\n14 Zäslin, Daniel, Waaren-Sensal.\n15 u. 16 Klipfel, Heinr., Weinhändler, v. Bischweiler.\n17 Tschopp, H. Jak., Kutscher, v. Brezweil.\n18 * Soller, Wittwe.\n  Lotz, Rudolf, Sattler.\n  Ulrich, Conrad, Schneidermeister, v. Unter-Stammheim.\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6315,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1172,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:42:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p008",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p008.jpg",
+      "bytes": 1034910,
+      "sha256": "479413d6a41e590fd4aad46056fe281dba1b1f8abea9231d1de5f894860e2c6c",
+      "sha256_of": "original",
+      "working_copy": "1841_p008.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:51+00:00"
+  }
+}

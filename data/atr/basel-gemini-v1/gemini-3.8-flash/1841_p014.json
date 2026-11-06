@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p014",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p014.jpg",
+    "bytes": 958659,
+    "sha256": "5e31dd334f13f0fc2aae6c2e60586a183ede6d96097157e057c49f877624668b",
+    "sha256_of": "original",
+    "working_copy": "1841_p014.jpg"
+  },
+  "text": "7\nNro.\nStorchengasse.\n160 Stupanus, Chr., Comptoirist.\n161 * Landerer, Ludwig sel. Wittwe.\n  Bienz, Heinrich, Gasthof zum Storchen.\n162 Frieß, Leonhard, Buchbinder.\n163 Siegrist, Joh., Spezereihändler.\n164 Stumm, Fr., Spezerei= und Tabackhandlung.\n165 Rumpf, Daniel, Wundarzt.\n166 Groß, Joh., Knopfmacher.\n167 Geist, Karl Ludwig, Schuhmacher.\n168 Bernoulli, J. Hieron., Kaufmann. (Musselin= und Manufaktur-\n  waarenhandlung.\n169 Falkner, Samuel, Hutmacher.\n170 Biermann, Gottfried, Messerschmid.\n171 Häfelinger, Jakob, Geldwechsler.\n  Scharf, Aloys, Privatlehrer, von Zeiningen.\n172 a Handmann, J. J., Goldarbeiter.\n172 b * Spritzenhaus, der Stadt gehörend.\n172 c Seul, J. J., geh. Laden.\n173 * Postgebäude.\n  Bernoulli-Dick, Joh., Postdirektor.\nBrunngäßli.\n174 Wagner, Conrad, Postoffiziant.\n  Heckendorn, Elisabetha, Lehrerin.\n  Massini, Gebrüder, Quincailleriehändler.\n175 Klein, Simon, Fabrikarbeiter, von Kandern.\n176 Herrgob, J. Ludwig, Sprachlehrer, aus Bayern.\n177 Dürr, J. J., Holzsetzer.\n  Gaß, Rudolf, Schuhmacher.\n178 * Braun, Samuel, Wittwe.\n  Braun, J., Gypser, aus dem Kanton Thurgau.\nUnterer Heuberg.\n179 * Göbelin Wittwe sel. Erben.\n  Leuzinger, Conrad, Fabrikarbeiter, von Nettstal.\n180 Laudier, Simon Alex., Sprachlehrer, von Straßburg.\n  Laudier, Simon Heinrich, Sohn, Commis.\n  Frey, Jer., Knopfmacher.\n181 * Abgebrochen.\n182 * Kündig, Theodor, Hauptmann.\n183 Kern, Jakob, Fabrikarbeiter, aus dem Kanton Aargau.\n  Huber, Jakob, Schuster, aus dem Kanton Thurgau.\n184 Von-Brunn, Simon, Schreiner.\n185 Haas, Wittwe.\n186 Breitenstein, J. J., Krempler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6649,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1568,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:43:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p014",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p014.jpg",
+      "bytes": 958659,
+      "sha256": "5e31dd334f13f0fc2aae6c2e60586a183ede6d96097157e057c49f877624668b",
+      "sha256_of": "original",
+      "working_copy": "1841_p014.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:36+00:00"
+  }
+}

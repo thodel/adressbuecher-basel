@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p018",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p018.jpg",
+    "bytes": 950077,
+    "sha256": "b94cd2d99ce4ba9103a7207442f0a7edb1c75775c8614fc6e53290af03d31cb5",
+    "sha256_of": "original",
+    "working_copy": "1841_p018.jpg"
+  },
+  "text": "11\nNro.\n261 Merian, Abel, alt Stadtschreiber.\n262 Preiswerk, J. J. sel. Wittwe, geb. Stückelberger.\n263 Wohnlich, Jungfer Margaretha.\n  Spieß, Rudolf, Schreiber.\n264 u. 265 Siber-Bischoff, Seidenfabrikant.\n266 Falkner, Nikolaus, alt Direktorialschreiber.\n267 a Aweng, J. J. sel. Wittwe, geb. Dietschy.\n267 b Sixt, J. J., Flachmaler.\n267 c Köchlin, Jungfrau.\n268 Kappeler, J. Abr., Hafner.\n269 a Lindenmeyer, Samuel, Schreiner.\n  Fäsch-Zäslin, Oberschreiber am Spital.\n269 b Burckhardt-Iselin, Emanuel, alt Rathsherr.\n  Burckhardt und Kern, Seidenfabrikanten.\n  Merian, Nikol., Stud. d. Theologie.\n269 c Burckhardt-Gemuseus, Sohn.\n\nSt. Johann-Graben.\n270 * Botanischer oder Doktor-Garten.\n271 * Zuchtanstalt.\n\nIm Kloster.\n272 * Franz. Pfarrhaus. — Billard, Emil, v. Evillard, franz. Pfr.\n  Herzog, Emanuel, Sigrist.\n272½ Hetzel, Gottl. Fr., Mechanikus.\n\nLottergasse.\n273 * Burckhardt, Rudolf de Joh. Burckhardt-Gemuseus geh.\n274 a Iselin-Debary, Rudolf, Kaufmann.\n274 * b Fäsch, Balthasar, Kaufmann, geh. Burckhardt, Rud., Oberst.\n\nSt. Johann-Schanze.\n275 a Müller, Leonhard, Steinmetz.\n275 b dito Meyer-Hoffmann, Kaufmann.\n275 c Obrigkeitlicher Holzschopf.\n275 d Profosen-Wohnung. — Jakob Götti.\n\nB. Spahlen-Quartier.\n276 * Großes Zeughaus, dem Kanton gehörend.\n277 * Wohnung des Zeugwarts   dito   — Karl Pfannenschmid.\n\nZeughausgraben.\n278 * Stadtschlosserei. — Bloch, geb. Kündig, Wittwe.\n279 * Schaffnereishaus. — Rosenburger, J. Chr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7923,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1438,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:44:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p018",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p018.jpg",
+      "bytes": 950077,
+      "sha256": "b94cd2d99ce4ba9103a7207442f0a7edb1c75775c8614fc6e53290af03d31cb5",
+      "sha256_of": "original",
+      "working_copy": "1841_p018.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:05+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p007",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p007.jpg",
+    "bytes": 863415,
+    "sha256": "ff9de4c53c9a47c50723118a303f190f7936ccb550215c28d897c4fd46786432",
+    "sha256_of": "original",
+    "working_copy": "1841_p007.jpg"
+  },
+  "text": "Erklärung.\n\nDieses Nummern- und Adreßbuch besteht aus zwei Theilen:\nder erste Theil enthält, nach der Reihenfolge der Nummern (und\nStraßen) geordnet, die Namen der verehrlichen Besitzer und Einwohner\nvon sämmtlichen Häusern; die Eigenthümer sind mit * bezeichnet. —\nDer zweite Theil enthält, wie der erste nach der Großen und\nKleinen Stadt abgetheilt, dieselben Namen nach alpha-\nbetischer Ordnung mit Hinzufügung der respectiven Wohnungen,\nund ist demnach selbstständig und als Register des Nummernbuches\nzu gebrauchen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4328,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 520,
+    "lines": 10,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0038,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:42:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p007",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p007.jpg",
+      "bytes": 863415,
+      "sha256": "ff9de4c53c9a47c50723118a303f190f7936ccb550215c28d897c4fd46786432",
+      "sha256_of": "original",
+      "working_copy": "1841_p007.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:44+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p011",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p011.jpg",
+    "bytes": 892175,
+    "sha256": "b9664e69566c4bce8d403a7bcba276d25eb29e434d1ea4b84fb736762cb67e51",
+    "sha256_of": "original",
+    "working_copy": "1841_p011.jpg"
+  },
+  "text": "4\nNro.\n  83 Kiſſel, Joh., Med. Dr.\n  84 * Brodbeck, Rudolf ſel., Erben.\n      Luttringshauſer, Heinrich, Kunſtmaler.\n  85 * Weber-Karger, Handelscommis.\n      Walter, Fr., Schreiner.\n  86 Matzinger, Rudolf, Schloſſer.\n  87 Schmidt, Karl, Wein-Courtier.\n      Diem, Joh. Fr., Fabrikarbeiter von Heriſau.\n  88 Frank, Fr., Schloſſer, von Kronweißenburg.\n  89 Schäfer, Heinrich, Pintenſchenk.\n      Berger, Joh., Spannermeiſter.\n      Muff, Dorothea, geb. Suter.\n  90 Awengen, Rudolf, Weißbeck.\n      Fürſtenberger, geb. Socin, Wittwe.\n  91 Rapp, Joh. Conrad, Partikular.\n\nSt. Johann-Schwibbogen.\n\n  92 Paſſavant-Streckeiſen, Emanuel, Banquier.\n  93 * Magazin und Stallung von Obigem.\n  94 Heusler, Friedrich, Rentier.\n  95 mit Nro. 93 verbunden.\n  96 Kübler, Karl, Kübler.\n      Müller, geb. Wüſt, von Birret, Kantons Aargau.\n  97 Anſtein, Joh., Küfer.\n      Bernoulli, Joſ., Kaufmann.\n  98 Bürgin, Joh. Jakob, Schuhmacher.\n  99 Buſer, Joh.\n      Wüſt, Conrad, Partikular.\n      Roth, geb. Socin.\n      Meier, Chriſt. Heinrich, Kaufmann, von Stuttgart.\n      Walter, Caspar, Lithograph, von Löhningen.\n      Reinhard-Viſcher, Commis, aus dem Badiſchen.\n 100 Senn, R., geb. David.\n 101 Hofmann, Chriſt. Heinrich, Wirthſchaft.\n      Schlumpf, geb. Dunkel, von Münchaltorf.\n      Roſenberger, Joh. Jakob, von Landikon.\n 102 Flick, Rudolf, Schuhmacher.\n      Bolli, Melchior, von Beringen, Kantons Schaffhauſen.\n\nBlumenrain.\n\n 103 Burckhardt, Joſ., Quincaillerie- und Waarenhandlung.\n 104 Burckhardt-Pelletier, Philipp, Partikular.\n      Meier, Gedeon, Notar.\n 105 Ronus-Gemuſeus, Chr., Regt.\n 106 Fluck, J. J., Faktor auf der Poſt. (Wirth.)\n 107 Streuber, Chr. Wilhelm, Rentier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9454,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1672,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:43:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p011",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p011.jpg",
+      "bytes": 892175,
+      "sha256": "b9664e69566c4bce8d403a7bcba276d25eb29e434d1ea4b84fb736762cb67e51",
+      "sha256_of": "original",
+      "working_copy": "1841_p011.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:15+00:00"
+  }
+}

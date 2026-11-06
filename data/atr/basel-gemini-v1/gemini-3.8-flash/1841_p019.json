@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p019",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p019.jpg",
+    "bytes": 846411,
+    "sha256": "dd75f10756db7fdcb1aa8a57a130dfee7023301cfebfa2f463a0355c1a951b10",
+    "sha256_of": "original",
+    "working_copy": "1841_p019.jpg"
+  },
+  "text": "12\n\nNro.\n279 * a Hinter-Gnadenthal.\n280 * Kornhaus, der Stadt gehörend.\n\nSpahlen-Vorstadt.\n\n281 Hug, Joh., Postoffiziant.\n282 Otto, Elisabeth, geb. Frey.\n  Heß, Hieronymus, Kunstmaler.\n283 Hauser-Euler, Karl, Beck.\n  Hauser-Wieland, Wittwe.\n284 Scherb, Emanuel, Wundarzt.\n  Burckhardt, geb. Iselin, Wittwe.\n285 * Das Mußhaus der Stadt.\n286 * Der Stadt. — Fäsch, Franz, Bauverwalter.\n287 Schweizer, Nikolaus, Schreiner.\n  Kaufmann, Georg, Metzger.\n288 Finninger, Joh. Rud., Beck.\n289 Müller-Iselin, Georg Rud., Partikular.\n  Schmid, Rud., 1ster Sekretär der Staatskanzlei.\n290 u. 291 David, J. Georg, Schmid.\n  Spahr, Daniel, Handels-Commis.\n  Mühlethaler, Heinrich, Sackträger.\n292 Gysin, Daniel, Sattler.\n  Beck, J. J., am Kaufhaus.\n293 * Krugisches Fidei-Commiß-Haus.\n  Krug, Ludwig.\n  Meyerhofer, Christoph, Schuhmacher.\n294 Klingenfuß, Fr., Seiler.\n  Bartenbach, Joh., Metzger.\n  Keller, Joh. Chr., Schneider.\n295 Ziegler, Jungfer, Elisabetha.\n  Kündig, Rud., Tapezierer.\n  Burckhardt, Leonhard, Flachmaler.\n296 Fischer, Elisabeth, geb. Schilling.\n297 Sandreuter, Rudolf, Metzger, Weinschenk.\n298 Dübied, G. L., Kaufmann.\n299 Gönnert, Ursula, geb. Gutherz, Kremplerin.\n  Heilmann, Elisabetha, von Mühlhausen.\n300 Buser-Wüst, Joh., Weinschenk.\n\nSt. Peters-Platz-Gäßli.\n\n301 Hinterhaus, Nro. 296.\n302    „    294.\n303    „    293.\n304    „    292.\n305 u. 306 Beck, Wittwe, geb. Saxer.\n  Ernst, Philipp, Ferger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8087,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1412,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.91,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:44:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p019",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p019.jpg",
+      "bytes": 846411,
+      "sha256": "dd75f10756db7fdcb1aa8a57a130dfee7023301cfebfa2f463a0355c1a951b10",
+      "sha256_of": "original",
+      "working_copy": "1841_p019.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:13+00:00"
+  }
+}

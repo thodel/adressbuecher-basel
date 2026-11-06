@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p009",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p009.jpg",
+    "bytes": 895612,
+    "sha256": "aa16ca1c3de36ffee93dd4cfd71ad3b270eb3f08da5aad72d085ea42ca2efb1a",
+    "sha256_of": "original",
+    "working_copy": "1841_p009.jpg"
+  },
+  "text": "2\n\nNro.\n19 Miville, Jak. Fr., Thorschreiber.\n  Schoop, Joh. Jak., v. Romanshorn.\n20 Schaffner, Sam., Kutscher, v. Anwyl, Basellandschaft.\n  Keller, Wittwe, geb. Sommerhalder.\n  Lützelmann, Joh. Jak., Geschäftsreisender.\n  Kunz, Franz, Seidenfärber.\n21 Trinnler, Cath., aus dem Badischen.\n  Grieder, Joh., von Brezweil.\n22 a Barth, Daniel, Zimmermeister.\n22 b Langmesser, Dav. Ulr., Bestäter.\n23 a Burckhardt-Vischer, Leonh., Kaufmann.\n23 b Girard, Carl Franz, Lehrer.\n24 Köchlin-Burckhardt, Sam., Partikular.\n25 Hosch, Hieronimus, Wechsel-Sensal.\n  Mengis-Brand, Martin, Kaufmann.\n26 * Stallung des Hrn. Köchlin-Burckhardt.\n27 Geiger, Achilles, Spezereihändler.\n28 Kündig, Philipp, Weißbeck.\n29 Christ-Falkner, Lucas, und Oehlhafen, Joh. Sam., Mechaniker.\n30 a Ryhiner-Frischmann sel. Wittwe.\n30 b dito\n  Fäsch, Emanuel, Kaufmann.\n31 Siegfried, Phl. Jak., Geometer.\n32 Jäcklin, Joh., Schneider.\n33 u. 34 * Abgebrochen. Ryhiner-Frischmann sel. Wittwe.\n35 u. 36 Ziegler, Jungfern, von Bern.\n  Preiswerk-Bischof, Wilhelm.\n37 Zwilchenbart, Fr. Pfr., geb. Hindenlang.\n38 * Gesellschaft zur Mägd.\n  Schmid, Karl, Wirth, Kunstmaler.\n39 Waidmann, geb. Sprüngli, Ph. sel. Wittwe.\n40 a Sprenger, Joh. Jak., Kaufmann.\n  Fechter, Martin, Hauptmann.\n40 b * Geßler, Franz, Zimmermeister, und Melch. Berri.\n41 Merian, Eduard, Banquier.\n  Merian-Keller, Albr., Rentier.\n42 Ecklin, Jul., geb. Hindermann, Wittwe.\n  Fäsch, Emanuel, Kaufmann.\n  Walz, Fr., Kunsthändler.\n43 Harscher-Bischof, Nikol., Rentier.\n44 Strübin, Heinr., Zimmermann, von Liestal.\n45 Schölli, geb. Bruckner, und Streckeisen, Dor., Jgfr.\n46 Preiswerk, Joh. Dietrich, Kaufmann.\n47 Schaub, Joh. Jak., Fabrikaufseher.\n48 * Remise des Herrn Burckhardt-Werthemann, Bandfabrikant.\n49 Dietschy-Lichtenhahn.\n50 * Burckhardt, Hs. Balth. Gustav.\n  Dietschy-Lichtenhahn, Bandfabrikant.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7277,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1826,
+    "lines": 50,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.02,
+    "mean_line_chars": 34.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:42:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p009",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p009.jpg",
+      "bytes": 895612,
+      "sha256": "aa16ca1c3de36ffee93dd4cfd71ad3b270eb3f08da5aad72d085ea42ca2efb1a",
+      "sha256_of": "original",
+      "working_copy": "1841_p009.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:58+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p012",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p012.jpg",
+    "bytes": 1001976,
+    "sha256": "69a66f34b5e07330ed5bc8f055156a94032fc6614a5302575fb6c266c6c9d4ef",
+    "sha256_of": "original",
+    "working_copy": "1841_p012.jpg"
+  },
+  "text": "5\nNro.\n108 Hosch, geb. Henz.\n  Streckeisen, Karl, Dr. Med.\n  Schmidlin, W., Lehrer der Mathematik am Gymnasium.\n109 Hegar, Ernst Friedrich, Clavierlehrer.\n  Schmid, Georg Michael, Ingenieur.\n110 Meier, Margaretha, Jungfer.\n  Imhof, Bernhard, Partikular.\n111 Maring, Emanuel, Kaffeewirth.\n  Miescher, Professor.\n112 u. 114 Schreiber, Friedrich, Kunsthändler.\n  Kern, Elias de Crousaz.\n113 Leucht, Friedrich, Negt. (Rag.: Leucht und Compagnie.)\n115 Müller-Sutter, Jos., Gasthof zu 3 Königen.\n116 Zimmerlin-von Speyer, August, Negt.\n  Landerer-Maring, Ludwig.\nBlumenplatz.\n117 Dubois, Ludwig, Uhrenmacher.\n118 Hasler-von Mechel, Gottlieb, Lithograph und Kunsthändler.\n  Eckart, Gebrüder, Tuchwaarenhandlung.\n  Segisser, Friedrich, Kaufhausangestellter.\n119 Kündig-Linder, Theodor, Rentier.\n120 Schönauer-Bernoulli, Spezereihandlung.\n  Zwilchenbart-Blum.\n121 Roth, Heinrich, Metzgermeister.\n122 * Salzhaus.\n123 Schaffner, Samuel, Schneider.\n124 Wagner-Heilmann, Friedrich, Kinderspielwaarenhandlung.\nNeue Straße.\n125 Weibel-Gerster, J. J., Wirthschaft.\n125 a Otto, Landerer, Küfer.\n126 * Das Kantons-Lagerhaus.\n  Flick, J. J., Lagerhausverwalter.\n127 Mähly-Lamy, Fr., hält Kunsthandlungen in Basel, Bern u. Genf.\n  Ryhiner-Bischof, Samuel, Rentier.\n  Lamy, J. P., Kunsthändler und Antiquar.\n  Scheidecker-Mähly, Peter.\nKronengasse.\n128 Wiesendanger, Jakob, von Offingen.\n129 * Schärrer, J. J., Metzger und Pintenschenk.\n130 Schweizer, J. J., Kaufhausarbeiter.\n131 Leuthard, Joh., Schlosser, von Arlesheim.\n132 * Heinimann's Feilenhauer-Werkstätte.\n133 * Waschhaus von Preiswerk-Bernoulli.\n134 Brodbeck, Joh., von Liestal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7074,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1617,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:43:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p012",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p012.jpg",
+      "bytes": 1001976,
+      "sha256": "69a66f34b5e07330ed5bc8f055156a94032fc6614a5302575fb6c266c6c9d4ef",
+      "sha256_of": "original",
+      "working_copy": "1841_p012.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:22+00:00"
+  }
+}

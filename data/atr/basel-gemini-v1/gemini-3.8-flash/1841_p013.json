@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p013",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p013.jpg",
+    "bytes": 883442,
+    "sha256": "7756a1e629830791f80098bac0c179dceed2caa9c525ae097866ede6e793b536",
+    "sha256_of": "original",
+    "working_copy": "1841_p013.jpg"
+  },
+  "text": "6\nNro.\n135 * Salathe, Jakob, Zirkelschmid, von Liestal.\n  Fäsch, Joh., Kupferschmid.\n136 * Brändlin-von Mechel, L., Modehandlung.\nFischmarkt.\n137 Brändlin-von Mechel, Leonhard, Modehandlung.\n138 Schalch, Joh. Ulrich, Goldschmid.\nBlumengasse.\n139 * Wieland, Major, August sel. Wittwe.\n  (Schweighauserische Buchhandlung.)\n  Miville-Socin, J. J., Waaren-Sensal.\n140 Roschet, Hieronimus, Sattler.\n141 Früh, Abraham, Hufschmid und Thierarzt.\n  Früh, Ludwig, Hufschmid.\n142 Leibzig, geb. Martin, Gasthof zur Blume.\n143 * Remise von Jos. Christmann zum Schwanen.\n144 * Magazin von Merian-Respinger.\n145 Walter, Joh. Jakob, Commis.\n  Witschi, Gottlieb, Conducteur, von Büren, K. Bern.\nSchwanengasse.\n146 Bolli, Daniel, Wundarzt.\n147 Christmann, Jos., Gasthof zum Schwanen.\n148 Huber-Schmitter, J. J., Commissionslager.\n149 Linder, Jakob Ludwig, Bandfabrikant.\n149 a Dollfuß, Joh. Heinrich, Brandassekuranz-Comptoir.\n150 Knopf, Jakob Friedrich, Schuhmacher und Weinschenk.\n  Respinger, Maria, geb. Preiswerk.\n  Hosch, Peter Hans, Appellationsgerichts-Weibel.\nFischmarkt.\n151 Gyßler, Heinrich, Sohn, Leinwandhändler.\n  Iselin, Remigius, Kunstmaler.\n152 Sting, Sam. Fr. sel. Wittwe, geb. Brang, Bandladen.\n153 Munzinger, Jakob Friedrich, Tuchhändler.\n154 Bernoulli, J. J., Sohn, Ph. Dr., Apotheker.\n155 * Zunft zu Fischern.\n  Schlegel, Wittwe; Wohnlich, Em. R., Kaffeewirth.\n156 Speiser, J. J., Steingut-, Tapeten-, Zeugwaaren- u. Modehandl.\n157 Landerer, Ludwig, Sohn.\n158 Ohl, J. Wilh., Perückenmacher.\n159 Lüdin, Georg sel. Wittwe, geb. Göbelin.\n  Minder, Melchior, Gegenschreiber.\n  Schenkel, Daniel, Lizenciat, von Schaffhausen.\n  Knopf, Geschwister, Modehandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6527,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1659,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 36.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:43:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p013",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p013.jpg",
+      "bytes": 883442,
+      "sha256": "7756a1e629830791f80098bac0c179dceed2caa9c525ae097866ede6e793b536",
+      "sha256_of": "original",
+      "working_copy": "1841_p013.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:29+00:00"
+  }
+}

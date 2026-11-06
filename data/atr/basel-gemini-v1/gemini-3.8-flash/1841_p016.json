@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p016",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p016.jpg",
+    "bytes": 950182,
+    "sha256": "5f6c29948990f5fbe7219e8581e2eefc136ac6fe170ca4151b43a67550c2f70b",
+    "sha256_of": "original",
+    "working_copy": "1841_p016.jpg"
+  },
+  "text": "9\nNro.\nSchwarze Pfahlgasse.\n219 Fäsch, Nikl. sel. Wittwe, geb. Spindler.\n  Wohnlich-Hagenbach, Kaufmann.\n220 Oser, J. J., Kaufmann.\n221 Burkorf, Wittwe, geb. Burckhardt.\n222 Holzach-Ronus, Emanuel, Kaufmann.\n223 Franz. Pfarrhaus : Ebray, J. Heinrich, franz. Pfarrer.\n224 Schönauer-Bernoulli, Kaufmann.\n225 Marfort, J. B., Vergolder und Spiegelhändler.\n226 Hagenbach, Karl.\n227 Birmann, Rud., Speditions- und Commissionshandlung, nebst\n  Amelung-Fabrikation.\n  Jaquet, Fr. August, Oberst.\n  Lindenmeyer, J. G., Weinhändler.\n228 Le Grand, Adolf, Kaufmann.\n  Ryhiner-Vischer, Chr., Kaufmann.\n\nOberer Herbergberg.\n229 * Der Stadtgemeinde : Fäsch, J. J., Vater, Notar.\n  Respinger, Lud. de Ludwig.\n230 Weitnauer, Joachim, Oberst und Tapezierer.\n231 Le Grand - de Neufville, Lukas, Kaufmann.\n  Gemuseus Le Grand, A. M. D.\n  Battier, Wittwe, mit Tochter.\n\nSt. Peters-Gasse.\n232 Matzinger, Franz, Schreiblehrer.\n  Huber, J. J., Pfarrer.\n  Hägler, Cath., Nähschule.\n233 Brenner, J. F., Dr. Med.\n234 Lichtenhahn, J. Rud., Regt.\n235 Link, Lukas, Flachmaler.\n  Vest, Emanuel, Kaufmann.\n236 Wiedenkeller, Maria, geb. Keser. (Pack- und Wachstuchverkauf.)\n237 Tschudy, Jakob, Schneider.\n\nKirchgäßlein.\n238 * Der Stadt.\n  Lotz, Leonhard, Sigrist der St. Peters-Kirche.\n239 Dietschy, J. L. sel. Wittwe geh.\n  Preiswerk, Samuel, Gemeinhelfer.\n240 Frutiger, J. Abraham, im Eisenladen der HH. Paravicini.\n  Wagner, Elisabetha, Lehrerin an der Petersschule.\n241 * Falkner, J. L. sel. Wittwe, geb. La Roche.\n  Rapp, Martin, Schreiner.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8020,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1514,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:43:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p016",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p016.jpg",
+      "bytes": 950182,
+      "sha256": "5f6c29948990f5fbe7219e8581e2eefc136ac6fe170ca4151b43a67550c2f70b",
+      "sha256_of": "original",
+      "working_copy": "1841_p016.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:50+00:00"
+  }
+}

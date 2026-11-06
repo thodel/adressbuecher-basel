@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p020",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p020.jpg",
+    "bytes": 949536,
+    "sha256": "d7b4f22c07030396646d76b1cfa7ebf64bf43151e18610b6bd1a9429b5b160c2",
+    "sha256_of": "original",
+    "working_copy": "1841_p020.jpg"
+  },
+  "text": "13\n\nNro.\n\nSt. Petersplatz.\n\n307 David, Pfarrer, Wittwe, geb. Lichtenhahn.\n308 Bachofen-Finninger, Samuel, Metzger.\n309 * Stachelschützenhaus, der Stadt gehörend.\n  Weißenburger, Wittwe, geb. Sixt.\n310 * Der Stadt geh. — Scherb, Heinrich, Zimmermann.\n\nThor.\n\n311 * Spahlenthor, dem Kanton geh.\n  Herzog, Jakob Christoph, Schriftsetzer.\n  Klingenfuß, Heinrich, Thor-Zoller.\n\nSpahlen-Vorstadt.\n\n312 Strübin-Lotz, Niklaus, Metzger.\n313 Stähelin, Gottfried, Spezereihändler.\n314 Dietschy, Leonhard, Weißbeck.\n  Gysler, Alb., Thorschreiber.\n315 * Müller, J. J., Vater.\n  Lindenmeyer, J. J., Weißbeck.\n316 Schmid, Jakob Christoph, Beck und Weinschenk.\n317 Laubheim, Joh. Jakob, Weißbeck.\n318 Laubheim, J. G., Wittwe, geb. Salathe.\n319 Schmid, Elisabetha, geb. Suter.\n  Bernoulli, Lehrer am Gymnasium.\n320 * Georg, David, Hufschmid sel. Erben.\n321 Henz, Daniel, Wagner, geh.\n  Borst, August, Schneider.\n  Imhof, Andreas, Beck.\n322 Stückelberger, Reinhard, Weißbeck.\n323 Pfannenschmid, Lucas sel., Wittwe.\n324 Schänklin, Joh. Jakob, Schuster.\n  Elsner, J. J., Kornmesser.\n325 Gnöpff, Joh. Jakob sel., Wittwe, geb. Linder.\n326 Müller, Heinrich, Sohn, Gasthof zum schwarzen Ochsen.\n\nFröschgasse.\n\n327 Salathe, Emanuel, Küfer.\n328 * Bratschy, J. J., Schuhmacher sel. Erben.\n  Meier, Fidel, Lohnkutscher, von Bernau.\n329 u. 330 Henz, Daniel, Wagner.\n  Gaß, Abr., Postadjunkt, von Oltingen.\n331 Birrmann, Philipps sel., Wittwe, geb. Meyer.\n332 * Magazin, den HH. Gottfried und Mathias Stähelin geh.\n333 Zäslin-Streckeisen, Joh., Speditions- u. Commissions-Waaren-\n  handlung.\n334 * Magazin und Haus, dem Hrn. Gottfr. Stähelin geh.\n  Schäublin, Rudolf, Schuhmacher, von Liestal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6925,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1663,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:44:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p020",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p020.jpg",
+      "bytes": 949536,
+      "sha256": "d7b4f22c07030396646d76b1cfa7ebf64bf43151e18610b6bd1a9429b5b160c2",
+      "sha256_of": "original",
+      "working_copy": "1841_p020.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:20+00:00"
+  }
+}
