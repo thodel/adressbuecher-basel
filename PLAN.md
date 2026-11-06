@@ -222,8 +222,8 @@ Wie Aarau: `scripts/01_render_pages.py` (JPG-Ordner statt PDF), `02_atr_batch.py
 
 ## 6. Entscheidungen, die noch ausstehen
 
-1. **GitHub-Repo** `thodel/adressbuecher-basel` anlegen und pushen — erst auf Zusage der
-   Projektleitung.
+1. ~~GitHub-Repo anlegen~~ — erledigt 06.11.2026: `https://github.com/thodel/adressbuecher-basel`
+   (privat, wie Aarau).
 2. **Hausnummern-Konkordanz** 1862 (neu je Strasse ↔ alt stadtweit) als eigene Tabelle
    führen, damit 1841/1850 auf die 1862er Gebäude abgebildet werden; prüfen, ob die alten
    Nummern zwischen 1841 und 1850 stabil sind (Stichprobe in Welle 2).
