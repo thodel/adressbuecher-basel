@@ -98,9 +98,76 @@ Löffelscher Stadtplan 1862 als WMS, Polygone 1615) ist das Vorbild für die
 Geovisualisierung und — weil sie dasselbe Jahr 1862 abbildet — ein möglicher Anker für
 die Verortung der neuen Hausnummern.
 
-### Befund Welle 1 — ATR-Probe
+### Befund Welle 1 — ATR-Probe (06.11.2026, 20 Seiten, `data/csv/probe_pages.csv`)
 
-_wird nach der Probe eingetragen_
+Probe: je Band geschichtet (1841: 3 Nummernbuch, 3 Register; 1850: 2 Nummernbuch,
+2 Register, Firmen, Behörden; 1862: 2 Häuserverzeichnis-Tabellen, 2 Einwohner, Ragionenbuch,
+Behörden, Berufsarten, Häuserbesitzer), auf tei unter
+`data/nextcloud/adressbuecher-basel/probe/`. Prompt `adressbuch_basel_atr.md`
+(Datei-SHA-256 `897b7ea3…`, Runner-Digest `@4d8d9365`).
+
+**Gemini 3.8 Flash** (`basel-probe-gemini-v1`, MCP, `reasoning=low`): 20/20 Seiten, keine
+abgeschnitten, 2 008 Zeichen und 9,5 s je Seite (3 min für die Probe). Das Tabellenformat
+(` | ` zwischen den Zellen, Bewohner eingerückt) kommt auf dem Häuserverzeichnis 1862 und
+dem Ragionenbuch sauber; zweispaltige Seiten mit `[spalte 2]`; Einrückungen des
+Kompaktregisters 1850 bleiben erhalten; Streichungen als `[handschriftlich: gestrichen]`.
+Systematisch: die Fraktur-Initiale «J.» wird als «I.» gelesen («I. I.» statt «J. J.»;
+der Parser normalisiert das), `ß` einmal als `sz`, enge Setzung («St.Andreasplatz») wird
+mit Spatium geglättet, «àWengen» ohne Accent. Sonst auf den vier GT-Seiten je 0–3 Fehler.
+
+**GPUStack** (`basel-probe-gpustack-v1`, CLI von tei, Reasoning Modell-Default):
+`qwen3-vl-30b-a3b-instruct` 20/20 in 3,2 min (6 Seiten/min), aber eine Seite (1841
+PDF 27) in einer Wiederholungsschleife bis zum Token-Deckel («5 5 5 …»), zweispaltige
+Seiten **zeilenweise nebeneinander** statt Spalte für Spalte, Tabellen als Markdown mit
+`| | | |`-Leerzellen, Bewohnerzeilen verschoben oder weggelassen. `qwen3.8-27b` ~2 min je
+Seite, mindestens zwei Seiten am Token-Deckel (1841 PDF 27 und 65) — das
+Reasoning-Problem aus Aarau; Ergebnis wird nachgetragen.
+
+**Ground Truth** (`data/gt/`, 4 Seiten, `provenance.csv`): 1841 PDF 110 (Register),
+1850 PDF 120 (Kompaktregister 2-spaltig), 1862 PDF 139 (Häuserverzeichnis-Tabelle), 1862
+PDF 355 (Einwohner 2-spaltig). Entstanden aus der Gemini-Lesung, jede Abweichung zu
+qwen3-vl am Bildstreifen entschieden, dann die Seite gegen das Bild gelesen — von vier
+Hilfsagenten (Claude), nicht von einer Person; Gemini kommt dadurch zu gut weg. Von 129
+Abweichungen zwischen beiden Lesern lagen 126 bei qwen, 3 bei Gemini.
+
+Zeichenfehlerrate (CER, Levenshtein auf dem normalisierten Seitentext: ſ→s, ⸗/=→-,
+`[spalte 2]` und Lesernotizen entfernt):
+
+| Leser | 1841 PDF 110 Register | 1850 PDF 120 Register 2-sp. | 1862 PDF 139 Tabelle | 1862 PDF 355 Einwohner 2-sp. | s/Seite |
+|---|---:|---:|---:|---:|---:|
+| `gemini-3.8-flash` (extern) | 0,000* | 0,011* | 0,002* | 0,000* | 9,5 |
+| `qwen3-vl-30b-a3b-instruct` (GPUStack) | 0,027 | 0,040 | 0,195 | 0,768 | 9,7 |
+| `qwen3.8-27b` (GPUStack) | 0,023 | _läuft_ | _läuft_ | _läuft_ | ~120 |
+
+\* GT geht von dieser Lesung aus, Zahl nach unten verzerrt. Die hohen Werte von
+qwen3-vl auf 1862 sind Reihenfolge (Spalten nebeneinander, Tabellenzellen), nicht
+Buchstaben: auf Wortebene liest es Fraktur mit 3–4 % (V/B, K/R, ß/ck, tz, ſ/f).
+
+**Entscheid (Vorschlag, 06.11.2026):** Hauptleser für alle 798 Seiten (alles ausser
+`leer` und `inserate`; `data/csv/fullrun_pages.csv`, Ordner `fraktur/` auf tei) ist
+**Gemini 3.8 Flash** (Lauf `basel-gemini-v1`, MCP). Zweiter Leser wie in Aarau für
+Fraktur `qwen3-vl-30b-a3b-instruct` (`basel-qwen3vl30b-v1`, CLI, nohup) — brauchbar als
+Zweitmeinung zum Wortlaut auf einspaltigen Seiten (Nummernbuch 1841/1850, Register
+1841), auf zweispaltigen und Tabellenseiten nur über eine zeilenweise Zuordnung; ob
+`qwen3.8-27b` ohne Reasoning-Abschaltung als Zweitleser taugt, entscheidet das Ende der
+Probe. Holen und weiterverarbeiten: `make fullrun-fetch fullrun-lines fullrun-parse`.
+
+**Welle 2, erster Stand** (`make probe-parse`, Gemini-Lesung der Probeseiten):
+`scripts/04_parse.py` löst auf den neun Registerseiten 426 Adresszeilen auf, 420 «high»,
+1 «medium» (Firma), 5 «review» (1850: eingerückte Folgeeinträge am Seitenanfang ohne
+vorangehenden Familiennamen — in der Folge der Seiten gelöst). Grammatiken: 1841 Nummer
+vor der Strasse, Bann-Zusatz `U. B.`/`O. B.`, «geb. Name» als Geburtsname, «Jungfer»;
+1850 Nummer am Zeilenende, `*` = Kleinbasel, eingerückte Zeilen als eigene Einträge mit
+geerbtem Familiennamen, `-Allianz`; 1862 Adresse nach dem letzten Punkt («St. »
+gehört zur Adresse), Gedankenstrich, `Wb.`/`Jgfr.` als Stand. `scripts/05_buildings.py`
+liest die sieben Gebäudeseiten zu 161 Gebäuden (158 «high») mit 113 Bewohnern:
+Teilhaus-Buchstaben (`A 751`, `BC 754`), Nummernbereiche («513 u. 514»), Ditto-Zeichen,
+Streichungen, «Siehe Nr. …»-Verweise als Notiz, und für 1862 die fünf Tabellenspalten
+(`house_no_new`, `quarter`, `house_no_old`, `house_name`), Strasse aus Zwischentitel oder
+Kolumnentitel, `building_id` mit Strasse (1862) beziehungsweise Stadtteil `GB`/`KB`
+(1850). Offen: Ditto-Zeilen «” ” Isaak Dreyfuß» (1841 Magazine), Firmenzusätze
+«u. Steigmeyer» (1850), Zusammenführung der Fortsetzungszeilen von Hausnamen in der
+Tabelle, und die Prüfung gegen die GT-Einträge (Abnahme ≥ 95 % feldgenau).
 
 ## 3. Architektur der Pipeline
 
@@ -125,7 +192,7 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 |---|---|---|---|
 | 0 | Setup ✅ 06.11.2026 | Repo (`~/Repos/adressbuecher-basel`), Skripte aus Aarau, Seitenbilder byteidentisch (`data/pages/`, nicht im Git), `00_volumes.csv` mit SHA-256, Signatur, Permalink | erfüllt |
 | 0 | Seiten ✅ 06.11.2026 | `01_pages.csv` mit Abschnitt, gedruckter Seitenzahl, Satz, Spalten für alle 873 Seiten (Kontaktbögen à 20 Seiten durch vier Hilfsagenten, Grenzseiten auf der Einzelseite bestätigt) | erfüllt; Abschnittsfolge in Abschnitt 1 |
-| 1 | ATR Probe | 20 geschichtete Seiten (`data/csv/probe_pages.csv`) auf tei unter `data/nextcloud/adressbuecher-basel/probe/`; Gemini 3.8 Flash (MCP, `reasoning=low`), `qwen3-vl-30b-a3b-instruct` und `qwen3.8-27b` (GPUStack, CLI); 4 GT-Seiten; CER je Leser und Seitentyp | Befund in Abschnitt 2, Entscheid je Seitentyp |
+| 1 | ATR Probe ✅ 06.11.2026 | 20 geschichtete Seiten (`data/csv/probe_pages.csv`) auf tei unter `data/nextcloud/adressbuecher-basel/probe/`; Gemini 3.8 Flash (MCP, `reasoning=low`), `qwen3-vl-30b-a3b-instruct` und `qwen3.8-27b` (GPUStack, CLI); 4 GT-Seiten; CER je Leser und Seitentyp | Befund in Abschnitt 2, Entscheid je Seitentyp |
 | 1 | ATR voll | alle Seiten ausser leer/Inserate mit den zwei gewählten Lesern; Läufe `basel-<leser>-v1` | `02_lines.csv` vollständig |
 | 2 | Einträge | Parser je Band (1841 Nummer-vor-Strasse, 1850 Kompaktregister, 1862 Gedankenstrich) → `04_entries.csv`; Häuserverzeichnis → `05_buildings.csv` mit alter und neuer Nummer | ≥ 95 % der GT-Einträge feldgenau; Rest in `review/` |
 | 3 | Normalisierung, Identität | Berufe, Strassen (Basler Strassennamen 1841–1862 → heute), Heimatorte; Personen über die drei Bände; Gebäude über die Nummernkonkordanz 1862 | wie Aarau |
