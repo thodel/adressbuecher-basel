@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p106",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p106.jpg",
+    "bytes": 1109301,
+    "sha256": "8ca215162399fe4e541cb0ddfd5568c162b5a5d8b27f9e06728b793a32374cdb",
+    "sha256_of": "original",
+    "working_copy": "1850_p106.jpg"
+  },
+  "text": "Bläsy-Quartier.\n93\n\n374 Märklin, Geschwister.\n375 Langmesser-Engel, J. Ulr., Sattler, Quartierschreib.\n376 Otto, Eml., Handelsmann.\n\nBei der Rheinbrücke.\n377 (Schlachthaus, School) Obrigkeitlich.\n378 Allemann, Ch., Wirth.\n  Treu, Wittwe.\n  Treu, Rudolf, Oeler.\n  Müller-Sutter, Landökonom.\n\nKrempergasse.\n379 Schnewlin, Karl, Kaufmann. Comptoir in Nr. 582.\n  Grunauer, Rud., Coiffeur.\n380 Maring, Wittwe, Ellenwaarenhandlung.\n381 Mazinger, Jgfr. Rosine, Korbhandel.\n382 Wagner, J. J., Buchdrucker.\n383 Oppermann, Wilhelm, Kunstmaler.\n  Riedtmann-Oppermann, Wittwe, Weinschenk.\n384 Trüb, Wittwe Elis., Spezerei- u. Tabackhandlung.\n385 Brodmann, Johann, Schuhmacher.\n386 Dolt-Bonwiller, Chr. Fr., Mezger.\n  Bonwiller, Wittwe, Mezger.\n387 Brunner, J. Hch., Küfer, Faßsinner.\n388 Weißenberger, Johann, Chir. Dr., Wundarzt.\n389 Hörler, Johann, Vater, Pastetenbeck.\n  Hörler-Lieberknecht, Joh., \"\n390 Lotz, Jgfr. Elisabetha, Spezereihandlung.\n  Strübin, Ach., Commissions- und Speditionshandlg.\n391-92 (Gasthof z. roth. Löwen) Bienz, Rud., Vater u. Sohn.\n393 Glaz, Johann Kasp., Spengler.\n394 Eisenlohr-Bloch, Wittwe, Spezereihandlung.\n395 Wohnlich, Jak. Jos., Spezereihandlung.\n\nUdengasse.\n396 Unbewohnt. Heinrich Bienz geb. [handschriftlich: gestrichen] [handschriftlich: Jb Müller, Kleiling gehörend.]\n397 Stallung und Scheune.\n398 Gernler, Karl, Kornmesser.\n  Gernler, Joh., Commis.\n399 Scheune.\n400 Bienz, Hch., Weinhandlung. [handschriftlich: gestrichen] [handschriftlich: Jb Müller Kleiling gehörend.]\n  Briccar-Stilli, Wittwe Maria, Rentière.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6458,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1544,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p106",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p106.jpg",
+      "bytes": 1109301,
+      "sha256": "8ca215162399fe4e541cb0ddfd5568c162b5a5d8b27f9e06728b793a32374cdb",
+      "sha256_of": "original",
+      "working_copy": "1850_p106.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:30+00:00"
+  }
+}

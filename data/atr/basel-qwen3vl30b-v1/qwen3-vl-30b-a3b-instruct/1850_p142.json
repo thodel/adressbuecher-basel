@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p142",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p142.jpg",
+    "bytes": 1053932,
+    "sha256": "3a47bd56769a5c3ae36c33b759bc04410d2d5e033a090059d5a6f69d8329f87f",
+    "sha256_of": "original",
+    "working_copy": "1850_p142.jpg"
+  },
+  "text": "Wybert-Schmid, Commis 1593\n=Hug, Eml., Med. Dr. 1628\nWydler-Heufler, Wittwe 2\nZahn-Rognon, Ed. 1255\nZäklin, D., Waarenfensal 14\nEml., Kaufmann 14\nu. Baumann 22A\nH., Schleifer 131\n=Falkeisen, Kaufmann 259B\nComptoir 1491\n=Streckeisen, Handlung 333\n=vonMechel, K., Ferger *14\n=Bleienstein,Wittwe*193-96\nFranz, Buchbinder *221\nSch., Thorschreiber *221\nZeinler, Wwe., Trödlerin 1503\nZeller-Brunner, Markus *370\nZeller-Keller, Schweft. *344\nZemp, Ant., Lithograph 324\nZentgraf,Wilh.,Kaufm.*249A\nZiegler, Tgfr. Elisab. 295\nZimmerlin-vonSpeyr, A. 116\n=Preiswerk, Wwe. Cath. 67\nZimmermann, Karl, Cand. 1A\nGabriel, Wascher 794\nPeter, Rutscher 961\n=Früh, Wittwe 1752-53\nZindel, Jakob, Müller *323\nZollinger, Marx, Gärtner 544\nZüllig, Sebastian 134\nZumbrunn, Heinrich 1297\nZumkehr, Fr., Stuhlschr. *83\nZürcher, Sch., Schneider *99\nZwilchenbart-Blum,Consul120\n[spalte 2]\n129\n11",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3847,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 864,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0035,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p142",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p142.jpg",
+      "bytes": 1053932,
+      "sha256": "3a47bd56769a5c3ae36c33b759bc04410d2d5e033a090059d5a6f69d8329f87f",
+      "sha256_of": "original",
+      "working_copy": "1850_p142.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:52+00:00"
+  }
+}

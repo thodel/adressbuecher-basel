@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p152",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p152.jpg",
+    "bytes": 1118307,
+    "sha256": "b38c59b04baeab783fc06c17144b535d378278f4e53ddd047d91d6bdc8a52949",
+    "sha256_of": "original",
+    "working_copy": "1841_p152.jpg"
+  },
+  "text": "Nachtrag\nzum\nNummern- und Adreßbuch\nder\nStadt Basel.\n[stempel: BASEL * STAATSARCHIV *] Bearbeitet [handschriftlich: H 43]\nvon\nJenni-Erlacher.\nHerausgegeben von J. H. Locher.\n\nDie Redaktion dieses ersten und Haupt-Nachtrages zu dem\nBaseler Nummern- und Adreßbuche ist um die Mitte Februars d. J.\nbeendigt worden; einzelne Veränderungen, die während des Druckes\nvorgingen, haben, wo es noch möglich war, Aufnahme gefunden.\nDaß der Eigenthümer dieses Unternehmens den bisherigen\nKäufern seines Baseler Nummernbuches nicht nur die versproche-\nnen Berichtigungen und Nachträge hiemit gratis übergibt, sondern\ndazu auch noch das Einwohner-Verzeichniß der Bänne,\ndieß mag wiederum beweisen, daß es ihm um möglichst vollständige\nund möglichst tadellose Lösung seiner übernommenen Arbeit und\nVerpflichtung zu thun war.\nBasel, im März 1841. Der Herausgeber.\n\nBASEL.\nIn Commission bei J. C. Schabelitz.\n\nKATALOG",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5328,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 900,
+    "lines": 24,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:01:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p152",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p152.jpg",
+      "bytes": 1118307,
+      "sha256": "b38c59b04baeab783fc06c17144b535d378278f4e53ddd047d91d6bdc8a52949",
+      "sha256_of": "original",
+      "working_copy": "1841_p152.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:21+00:00"
+  }
+}

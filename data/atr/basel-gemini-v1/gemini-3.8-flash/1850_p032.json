@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p032",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p032.jpg",
+    "bytes": 1036756,
+    "sha256": "a5f4ecb87310ff3377c84d733465cca9ecbe8e9fca908bc8a1a8df50042496b5",
+    "sha256_of": "original",
+    "working_copy": "1850_p032.jpg"
+  },
+  "text": "20 Spahlen-Quartier.\n\nSt. Leonhards-Graben.\n\n434 Stähelin-Zimmerlin, J. J., Theol. Dr. u. Prof.\nA 434 Merian-Merian, Balthasar.\n  Künzy, Ferd., Rentier.\nB 434 Remise.\n\nSpießhofgasse.\n\n435 Hosch, Wittwe, Ursula, geb. Merian.\n436 Burckhardt, Eml., Pfarrer.\n437 Bischoff-Keller, A., Oberstl., Rentier.\n438 Stricker, Lud. Dav., Kupferdrucker.\n  Comptoir v. Joh. v. Speyr, Farb- u. Material-Hdlg.\n  Steingaß, Professor.\n439 Brenner, Peter, Sekretär im Missionshaus.\n440 Burckhardt, Wittwe Susanne, geb. Imhof, Rentière.\n441 Stehelin, Emil, Med. Dr.\n  Alwengen-Müller, Karl, Commis.\n  Hosch, Nikl., Lithograph.\nA 441 Ley, Felix Jos., Geschäfts-Bureau.\n442 Vischer-Bilfinger, W., Phil. Dr. und Professor.\n  Bilfinger-VonderMühl, Elis., Wittwe, Kapitalistin.\n443 Bohny, Niklaus, Lehrer.\n  Märklin, Wittwe, Dor. geb. Gnöpf.\n444 Salathe-Boshart, Johann, Handelsmann.\n445 Stähelin, Jungfrau, Salomea, Kapitalistin.\n446 Engler, Emanuel, Schlosser.\n\nOberer Spahlenberg.\n\n447 Dietz, Karl Dietrich, Notarius.\n448 Merian-Reber, Joh., Partikular.\n449 Fäsch, Leonhard, Notar, sel. Wittwe.\n450 Bernoulli, Eduard, Pfarrer.\n451 Simoth, J. D., Tabackhandlung.\n452 Dill-Dold, Wittwe, Kosthaus.\n453 Salathe, J. G., Weinhändler.\n  Oser, Leonhard, Sattler.\n  Marriott, W., Dr. Phil.\n454 Herrmann, Heinrich, Fabrikferger.\n455 Caumont, Friedrich Ludwig, Lehrer.\n  Girard-Blumer, C. F., Professor.\n  Dreifuß, Jakob, Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7921,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1399,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p032",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p032.jpg",
+      "bytes": 1036756,
+      "sha256": "a5f4ecb87310ff3377c84d733465cca9ecbe8e9fca908bc8a1a8df50042496b5",
+      "sha256_of": "original",
+      "working_copy": "1850_p032.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:27+00:00"
+  }
+}

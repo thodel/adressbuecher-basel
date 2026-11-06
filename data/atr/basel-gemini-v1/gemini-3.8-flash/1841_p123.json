@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p123",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p123.jpg",
+    "bytes": 973039,
+    "sha256": "ea08ee6a19b8dc3cc4bf5be6909085b5e5c1a84fa2a693cd09c339c8355f2e6a",
+    "sha256_of": "original",
+    "working_copy": "1841_p123.jpg"
+  },
+  "text": "40\n\nSchmidlin, W., Lehrer der Mathematik am Gymnasium. 108\n  Blumenrain.\nSchmidt, Jak. Heinrich, Küfer und Faßsinner. 588 St. Andreasplatz.\nSchmidt, Joh. Jakob sel., Wittwe, geb. Schwarz. 1165 Gerbergasse.\nSchmidt, J. J. sel., Wittwe, geb. Landerer. 1323 St. Alban-Vorst.\nSchmidt, Peter, Beck. 68 St. Johann-Vorstadt.\nSchmidt, Abraham, Oberst-Rathsdiener. 1496 St. Martin.\nSchmidt, Carl, Wein-Courtier. 87 St. Johann-Vorstadt.\nSchmidt-Flury, Frau Catharina. 1123 Pfluggasse.\nSchmidt-Götz, Andr., Kaufmann. 822 Vordere Steinen-Vorstadt.\nSchmidt-Lotz, Heinrich, Küfer. 824 Vordere Steinen-Vorstadt.\nSchnäbeli, Heinrich, Lohnkutscher. 422 Heuberg.\nSchnäbelin, Leonhard, Schuhmacher. 632 Gerbergäßlein.\nSchnegg, J. J., Glockengießer. 1432 Freie Straße.\nSchneider, Fr., Schreiner. 594 Schneidergasse.\nSchneider, Emanuel, Wittwe. 613 Hinter der Rümlinsmühle.\nSchneider, Emanuel, Gerichtsamtmann. 1662 Rindermarkt.\nSchneider, Emanuel, Dr. Juris. 455 Beim Spahlenthurm.\nSchneider, Joh. Jakob, Uhrenmacher. 1558 Bei der Brodlaube.\nSchneider, Ehrhard, Schullehrer. 1173 Gerbergasse.\nSchneider, Julius. 1005 Aeschen-Vorstadt.\nSchneider, Andr., Präparateur und Abwart im Museum. 1403\n  Münsterplatz.\nSchneider, Heinrich, Sattler. 1062 Tiefe.\nSchneider, Martin, Vater u. Sohn, Lehenmann. 898 St. Elisabethen.\nSchneider, Daniel. 204 Spiegelgasse.\nSchneider, Julius, Wagner. 980 Aeschen-Vorstadt.\nSchneider, Daniel, Schuhmacher. 1005 Aeschen-Vorstadt.\nSchneider, Felix, Buchdrucker, Buchhändler und Antiquar. 1196\n  Am Bäumlein.\nSchneider, Martin, Gerichtsschreiber. 1382 Am Bäumlein.\nSchneider, Theodor sel., Wittwe, geb. Braun. 1579 Sporrengasse.\nSchneider, Jungfer, Judith, Bandhändlerin. 721 Hint. d. Stöcklein.\nSchneider, Samuel, Schuhmacher u. Wirth. 729 Barfüßerplatz.\nSchneider, Martin, Metzger. 658 Gerbergasse.\nSchneider, Jak. Christ., Schuhmacher u. Korbhändler. 667 Gerbergasse.\nSchneider, G. David, Schneider. 716 Barfüßerplatz.\nSchneider, Emanuel, Hufschmid. 852 u. 852 a Hint. Steinen-Vorst.\nSchneider-Oser, Friedrich, Metzger. 1150 Hinter dem Stöcklein.\nSchneiter, Martin, Schuster. 210 Schwarze Pfahlgasse.\nSchnell, Joh. Rud. sel., Wittwe, geb. Preiswerk. 1711 Unterer\n  Spahlenberg.\nSchnell-Riggenbach, Joh., Professor. 451 Beim Spahlenthurm.\nSchnell-Früh, E., Sigrist. 1413 Münsterplatz.\nSchnell-Christ, Ulrich, Sigrist zu St. Elisabethen. 769 Vordere\n  Steinen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8979,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2375,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:57:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p123",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p123.jpg",
+      "bytes": 973039,
+      "sha256": "ea08ee6a19b8dc3cc4bf5be6909085b5e5c1a84fa2a693cd09c339c8355f2e6a",
+      "sha256_of": "original",
+      "working_copy": "1841_p123.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:59+00:00"
+  }
+}

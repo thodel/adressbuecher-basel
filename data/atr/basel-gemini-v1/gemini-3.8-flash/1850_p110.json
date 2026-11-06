@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p110",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p110.jpg",
+    "bytes": 1203909,
+    "sha256": "61bfeb8990b8b6d11224eeb213d45d1baa651cb6a93efead472005baf6d69d30",
+    "sha256_of": "original",
+    "working_copy": "1850_p110.jpg"
+  },
+  "text": "97\nBarth, Wittwe, Kath. 339\nGottfried, Commis 339\nMath., Nagelschmied 339\nSam., Geschäftsmann 1725\nBärwart, J. Commis 1334\nBasler-Bernoulli, Joh. 60\n-Grunauer, Wittwe 699\nJakob, Beck *112\nBattier, Geschwister 231\nBauer, J., Rothgerb. 1661-62\nBauler, Eml., Siegrist 1332\nJgfrn., Anna u. Bal. 1758\nBaumann, Vikt., Kaufm. 22A\nJohann 372\nHr. G., Seidenfärber 799\nHieronimus, Hafner 1027\nBaumgartner, D., Ferger 212\nMartin, Magazinier 317\nW., Ferger 466\nJoh., Schuhmacher 964\nJakob, Dessinateur 1095\nPankratius *61A\nSaml., Flachmaler *143\nFz. Heinr., Schneider *237\nL., Kübler, Holzsetzer *277\nHeinrich, Flachmaler *413\nBaur, J. J., Mechaniker 561\nSam., Kanzlei-Sekret. 630\nFrau Verena, Hebamme 630\n-Baader, Georg, Ferger 958\ns. Erb., Buchdruckerei 1168\nBay, Eml., Papierer 1296\nBeaudroi, Wwe., Metzger 1434\nBebler, J. G., Commis 604\nBeck, Chr., Stadttambour 178\nChr., Lehrer 754Z\nu. Herzog 759-60\nKarl, Kaufmann 893B\nWittwe, Weinschenk 1392\nAlexander, Gürtler 1430\nBell, Friedrich 532\nSamuel, Weinschenk 724A\nJ. R., Sohn, Metzger 724A\n[spalte 2]\nBell, Jak., Metzger *348\nHeinr., Fischer *365\nBemmerer, L., Spengl. 1428\nBenz, Joh., Landjäger 779\nJ. L., Uhrenmacher 1076\nAchilles, Kunstmaler 1562\nBerger, Wwe., Schreiner 1142\nBernard, Wittwe 754O\nSebastian, Färber 806\nBernoulli, J., Gerichtssubst. 97\nJ. J., Apotheker 154\nEmil, Geschäftsmann 160\nJak. Hier, Commis 168\n-Dick, J., Postdirektor 173\nKarl, Lehrer 249B\nEduard, Pfarrer 450\nHier., Kriegskommissär 560\n-Huber, Leonh. 917\nEd., Sohn, Tuchhdlg. 917\n-Werthemann, N., Not. 1353\n-Obermeyer, D., Notar 1383\nDaniel, Kaufmann 1383\n-Cailler, E., Seidenhdlg. 1420\n-Bär, L., Materialhdlg. 1600\nu. Sohn, Nikl. de J. 1631\nJ. J., Vater, Rent. 1707\nAugust, Fabrikant *177\n-deLachenal, Wittwe 82\nWittwe, Sophie 192\nBerri, N., Rothgerber 653\nElias, Beck 1010\n-Linder, M., Med. Dr. 1595\n-Burckhardt, Melch. 1244\nBertrand, Joseph *218-20\nBeurmann, G. Friedr. 1391\nBicard, Wwe., Esther 1694\nBiccard, Abr., Kaufm. 1678\nBider, Joh., Hausknecht 426\nBieler, Sim., Schuhm. 873\nJ. Heinr., Commis 1306\nJak., Lohnwascher 1306A\nJ. Fr., Zettlermeist. 1245\n-Salathe, J. J., Küfer *122\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9395,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2108,
+    "lines": 89,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:18:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p110",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p110.jpg",
+      "bytes": 1203909,
+      "sha256": "61bfeb8990b8b6d11224eeb213d45d1baa651cb6a93efead472005baf6d69d30",
+      "sha256_of": "original",
+      "working_copy": "1850_p110.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:02+00:00"
+  }
+}

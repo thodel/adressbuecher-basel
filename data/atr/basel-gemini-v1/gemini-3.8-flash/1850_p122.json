@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p122",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p122.jpg",
+    "bytes": 1192771,
+    "sha256": "260ab30bac4d018cf32b4a17168be72c4a275785d4e4b21a9a356dba0ce4f1d2",
+    "sha256_of": "original",
+    "working_copy": "1850_p122.jpg"
+  },
+  "text": "109\n\nHosch, Ed., Spengler 1711\nJoh., Schneider *33\nLukas, Schuhmacher *145\n-Henz, Wittwe, Sus. 108\n-Merian, Wittwe, Urs. 435\n-Buxtorf, Wittwe 473\nHottenjen, K., Rothgerb. 1165\nHotz, Rud., Privatlehrer 558\nJak., Fabrikarbeiter *223\nHubel, G. R., Schreiner 258\nHuber-Stähelin, Rud. 269A\nJ. J., Pfarrer 413\nAchilles, Architekt 835\n-Landerer, Karl 1263\n-Molitor, J., Apothek. 1533\nJ. J., Commiss.-Hdlg. 1595\nRud., Kunstmaler *47\nHeinr., Gassenbesezer *74\nHieron., Weinschenk *188\nD., Färber *292\n-Berenet, Wittwe 275\n-Iselin, Wittwe 869\nJgfr., S. 1004\nGeschwister 1193\nHübscher, S. W., Zimmerm. 1A\nR., Eisenbahnbeamt. 625-26\n-Stehelin, Eman. 921\nGottfr., Pfundzoller 1160\n-VonSpeyr, Eml. 1597\nAdolf, Kürschner 1605\nRudolf, Vater, Gerber 1730\nFriedr., Kaufmann 1730\nHug, Adolf, Müller 795\n-Buser, Wittwe 795\nJoh. Chr., Spengler 1136\nDaniel, Liseur 1438\nGeorg, Fischer *42\nMatth., Schwimmlehrer *65\nJoh. Jak., Maurer *439\n-Geymüller, Wittwe 499\n-Heußler, Wwe., M. 846-47\n-Lotz, Wittwe, Agnes 1143\nHuggenberger, J. Hch. 1546\n[spalte 2]\nHuggenberger, J., Sohn 1546\nHunold, A., Musiklehrer 655\nHunziger, Schneider 1636\nHunziker, Rud. 395\nA. A., Agent 419\nJak., Hausknecht *182\nHurth, J. Chr., Comm. 987-88\nHuth, Phil., Sattler *66\nHuttinger, Wwe., Louise *97\nHüsser, B., Drechsler *143\nJäcklin, J., Schreiner 32\nChrist., Schreiner 427\nDan., Postoffiziant 465\nPhilipp, Schreiner 648\nEml., Baumeister *131\nJäggi-Hiller, Maurer 175\n-Seul, Wilh., Beck 994\nJ. J., Wirth 1005\nA. L., Bildhauer 1005\nAdolf, Metzger 1006\nJauslin, J. J., Ferger 773\nAbrah., Commis 1660\nIbenthaler, Matthias 1009\nIberg, Gottl., Mechan. 1190\nJeannot, Jaq., Commis 1351\nJeissy, Chr., Krankenw. 485\nJenni, Fr., Dessinateur 56\nJenny-Minder, Wittwe 467\n-Erlacher, Wittwe 1423\nJoh., Spezierer *239\nJersing, Wwe., Carol. 1014\nWittwe, Sara 1373\nJessonig, J., Schreiner 1285\nImhof-Schäublin, B. 110\nBenedikt 320\nAndreas, Weißbeck 321\n-Burckhardt, J. L. 343-44\nJ. Fr., Lohnwascher 684\nHr., Fabrikaufseher 754GH\nDaniel, Gerber 796\n-Heitz, L., Med. Dr. 1208\nFr., Schuhmacher 1258\nJ. R., Schuhmacher 1527",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9926,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2054,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.34,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:20:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p122",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p122.jpg",
+      "bytes": 1192771,
+      "sha256": "260ab30bac4d018cf32b4a17168be72c4a275785d4e4b21a9a356dba0ce4f1d2",
+      "sha256_of": "original",
+      "working_copy": "1850_p122.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:06+00:00"
+  }
+}

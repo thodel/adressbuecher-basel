@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p154",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p154.jpg",
+    "bytes": 1025240,
+    "sha256": "51b922b526959918bf3b7bcc0c848301aee821d61571c4402e12689e50eea16e",
+    "sha256_of": "original",
+    "working_copy": "1850_p154.jpg"
+  },
+  "text": "141\n\n940 Carl Ryhiner . . Carl Ryhiner.\n  Friedrich Seidel, ppa.\n*266 Ryhiner u. Söhne Ryhiner-Vischer.\n  Wilhelm Ryhiner.\n  Carl Ryhiner-Bischoff.\n\nS.\n\n1509 Hs. Franz Sarasin . . Eduard His.\n  Karl Vischer-Merian.\n  P. Vischer-Burckhardt.\n  Eduard His, Sohn.\n1358 Sarasin & Cie. . Frau Wittwe Maria\n    Salome Sarasin, geb.\n    Heußler, ohne Unter-\n    schrift.\n  Karl Sarasin, Sohn.\n  Wilhelm Sévin, Procu-\n    raträger.\n1319 Felix Sarasin & Heußler Felix Sarasin.\n  Daniel Heußler.\n  August Stähelin.\n  J. J. Stapfer, ppa.\n1731 A. Schermar . . Johann Anton Scher-\n    mar.\n852 Emanuel Schneider . . Emanuel Schneider.\n1579 Wittwe Schneider née\n  Braun . . Wittib Schneider née\n    Braun.\n1589 E. u. J. Schoch . . Jakob Schoch.\n1539 J. J. Schölly . . Samuel de Jakob Chri-\n    stoff Schölly.\n120 Jérome Schönauer . . Jérome Schönauer.\n139 Schweighauser'sche\n  Buchhandlung Wittwe Barbara Wie-\n    land, geb. Landerer.\n  Hans Wieland, Procu-\n    raträger.\n675 Anton Sacher . . Anton Sacher.\n172B J. G. Sehringer . . Joh. Georg Sehringer.\n1617 Leonhard Seiler . . Leonhard Seiler.\n264 Siber-Bischoff . Christoff Heinrich Siber.\n1741 Abraham Siegrist . . Abraham Siegrist.\n163 J. Siegrist & Cie. . Johannes Siegrist-Frey.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6068,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1220,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0233,
+    "mean_line_chars": 25.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:24:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p154",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p154.jpg",
+      "bytes": 1025240,
+      "sha256": "51b922b526959918bf3b7bcc0c848301aee821d61571c4402e12689e50eea16e",
+      "sha256_of": "original",
+      "working_copy": "1850_p154.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:24:43+00:00"
+  }
+}

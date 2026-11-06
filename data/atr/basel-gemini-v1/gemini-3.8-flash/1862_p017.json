@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p017",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p017.jpg",
+    "bytes": 1274450,
+    "sha256": "6bb49a559f33cd599e704ed06c08f636f595617146584a999f10706da74524f2",
+    "sha256_of": "original",
+    "working_copy": "1862_p017.jpg"
+  },
+  "text": "XIV Lehr- und Schulanstalten.\n\nDeffentliche\nLehr- und Schulanstalten.\n\nA. Kantonalanstalten.\n1. Universität.\nHr. Professor C. R. Hagenbach, Th. Dr.,\n  Rector für 1862.\nTheologische Fakultät.\nHr. C. R. Hagenbach, Th. D.\n„ I. I. Stähelin, Th. D.\n„ I. G. Müller, Th. D., Dekan.\n„ Joh. Riggenbach, Th. D.\n„ Carl Aug. Auberlen, Th. D., außer-\n  ordentl. Prof.\nJuridische Fakultät.\nHr. Andr. Heußler, J. U. D.\n„ Joh. Schnell, J. U. D.\n„ Wilhelm Arnold, J. U. D., Dekan.\n„ Hermann Fitting, J. U. D.\nMedicinische Fakultät.\nHr. C. G. Jung, M. et Ch. D.\n„ Carl Fried. Meisner, M. D., Dekan.\n„ I. I. Mieg, M. et Ch. D.\n„ Friedr. Miescher, M. et Ch. D.\n„ Ludw. Rütimeyer, M. et Ch. D.\n„ Wilhelm His, M. et Ch. D.\n„ Friedr. Brenner, M. et Ch. D., außer-\n  ordentl. Prof.\n„ Carl Streckeysen, M. et Ch. D., außer-\n  ordentl. Prof.\n„ Ign. Hoppe, M. et Ch. D., außerord.\n  Prof.\n„ Aug. Socin, M. et Ch. D., außerord.\n  Prof.\nPhilosophische Fakultät.\nHr. Christ. Bernoulli, Ph. D., Professor\n  der industriellen Wissenschaften.\n„ Fr. Doroth. Gerlach, Ph. D., Prof.\n  d. lateinischen Sprache u. Litteratur.\n„ Peter Merian, Ph. D., Prof. d. Geolog.\n„ R. Merian, Ph. D., Prof. d. Mathem.\n„ F. C. Schönbein, Ph. D., Prof. der\n  Physik und Chemie.\n[spalte 2]\nHr. Wilh. Wackernagel, Ph. D., Prof. der\n  deutschen Sprache und Litteratur.\n„ Wilh. Vischer, Ph. D., Professor der\n  griechischen Sprache u. Litteratur.\n„ Franz Girard, Ph. D., Professor der\n  französischen Sprache u. Litteratur.\n„ Christoph Stähelin, Ph. D., Professor\n  der Physik.\n„ G. Wiedemann, Ph. D., Professor\n  der Physik.\n„ K. Steffensen, Ph. D., Professor der\n  Philosophie.\n„ Jakob Burckhardt, Ph. D., Professor\n  der Geschichte.\n„ Otto Ribbeck, Ph. D., Professor der\n  griechisch. Sprache u. Litter., Dekan.\n„ Ed. Hagenbach, Ph. D., Professor der\n  Mathematik.\n„ L. Picchioni, Ph. D., außerord. Prof.\n  der italien. Sprache und Litteratur.\n„ B. Reber, Ph. D., außerordentlicher\n  Professor der Geschichte.\nAllgemeine Museumskommission.\nHr. Professor Peter Merian, Präsident.\nKommission für die öffentliche\nBibliothek.\nHr. Prof. Andr. Heusler, J.U.D., Präsident.\nKommission für die Kunstsammlung.\nHr. Prof. Wilh. Wackernagel, Präsident.\nKommission für die antiquarische\nSammlung.\nHr. Prof. Wilh. Vischer, Präsident.\nKommission für die naturwissen-\nschaftliche Abtheilung des Museums.\nHr. Professor Peter Merian, Präsident.\nKommission für das anatomische\nMuseum.\nHr. Professor K. G. Jung, Präsident.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9181,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2447,
+    "lines": 82,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.061,
+    "mean_line_chars": 28.34,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:26:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p017",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p017.jpg",
+      "bytes": 1274450,
+      "sha256": "6bb49a559f33cd599e704ed06c08f636f595617146584a999f10706da74524f2",
+      "sha256_of": "original",
+      "working_copy": "1862_p017.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:51+00:00"
+  }
+}

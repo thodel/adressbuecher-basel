@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p094",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p094.jpg",
+    "bytes": 1015957,
+    "sha256": "81ba09fa443299163665a40b8aa708bb6a61e7db3078ad8cc04dbb003d14b2d1",
+    "sha256_of": "original",
+    "working_copy": "1841_p094.jpg"
+  },
+  "text": "11\n\nDübost, Peter Franz, Ausschnitthandel. 1724 Hutgasse.\nDüby, Joh. Baptist, Quincailleriehandlung. 1556 Bei der Brodlaube.\nDüring, Jungfer, Elisabetha. 56 St. Johann-Vorstadt.\nDürr, J. J., Holzsetzer. 177 Brunngäßlein.\nDürschner, Heinrich, Spenglermeister. 656 Gerbergasse.\nDuthaler, Ferd., Fabrikarbeiter. 1415 Spitalsprung.\n\nE.\n\nEbray, Joh. Heinrich, französ. Pfarrer. 223 Französ. Pfarrhaus.\n  Schwarze Pfahlgasse.\nEckart, Gebrüder, Tuchwaarenhandlung. 118 Blumenplatz.\nEckenstein, J. J., Spezereihandlung. 1190 Freie Straße.\nEckenstein, Ed., Speditions- u. Hopfenhandlung. 1176 Freie Straße.\nEckenstein, J., Professor. Dr. 369 Auf der Leis.\nEckenstein, Wilh., Bierbrauer. 1176 Freie Straße.\nEckert, Jos., Professor der Mathematik, von Dielheim. 190 Unterer\n  Herbergberg.\nEcklin, J. Burckhard, Mechanikus. 1204 Luftgäßlein.\nEcklin, Paulus. 12 u. 13 St. Johann-Vorstadt.\nEcklin, Jul., geb. Hindermann, Wittwe. 42 St. Joh.-Vorstadt.\nEcklin, Joh. Heinrich. 644 Gerbergasse.\nEderer, Phil. Heinrich, Comptorist. 524 Adelberg.\nEglin, Eduard, Privatlehrer. 207 Spiegelgasse.\nEglinger, Eman. S. M. C., Privat-Mädchenschule. 1482 Augu=\n  stinergasse.\nEgloff, Joh. David, Schuhmacher. 643 Gerbergasse.\nEhinger-La Roche sel. Wittwe. 1381 Am Bäumlein.\nEhinger-von Speyr, Chr. Math., Banquier. 1381 Am Bäumlein.\nElsner, J. J., Kornmesser. 324 Spahlen-Vorstadt.\nElsner, Joh. Heinrich, Stubenverwalter. 816 Zunft zu Webern,\n  Vordere Steinen-Vorstadt.\nEngler, Emanuel, Schlosser. 497 Oberer Spahlenberg.\nEngler, Cath., geb. Roth, Wittwe. 469 Beim Spahlenthurm.\nEngler, Joh. sel., Wittwe. 860 Thorsteinen.\nEngressat, Wittwe, geb. Hartmann, Parapluiehandlung. 1572\n  Hinter der School.\nEpple, Christ., Schreiner. 1126 Weißgäßlein.\nErlacher, geb. Heinzgen, Wittwe. (Flachmalerei.) 523 Adelberg.\nErlacher, Jakob Georg, Postoffiziant. 821 Vord. Steinen-Vorstadt.\nErnst, Philipp, Ferger. 305 St. Petersplatzgäßlein.\nErzberger, Joh. Jakob Heinrich, Sohn, Zuckerbäcker. 461 Hinter\n  dem Spahlenthurm.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8368,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1983,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:53:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p094",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p094.jpg",
+      "bytes": 1015957,
+      "sha256": "81ba09fa443299163665a40b8aa708bb6a61e7db3078ad8cc04dbb003d14b2d1",
+      "sha256_of": "original",
+      "working_copy": "1841_p094.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:17+00:00"
+  }
+}

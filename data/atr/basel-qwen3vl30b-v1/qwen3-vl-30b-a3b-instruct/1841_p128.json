@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p128",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p128.jpg",
+    "bytes": 1029035,
+    "sha256": "7e11b569450598e365a42f2da51b806742e12236127228bb8701bce233c3d04d",
+    "sha256_of": "original",
+    "working_copy": "1841_p128.jpg"
+  },
+  "text": "45\nStückelberger=Holzach, W., Küfer und Fabrikant von gebrannten\nWassern. 1045 a St. Albangraben.\nStudler, Samuel, von Seengen, Hutmacher. 1664 Kindermarkt.\nStumm, Fr., Spezerei- und Tabakhandlung. 164 Storchengasse.\nStupanus, Chr., Comptorist. 160 Storchengasse.\nStupanus, Jeremias, Buchbinder. 201 Unt. Herbergberg.\nStuk, Joh. Jakob, Gerber. 685 Hinteres Gerbergäcklein.\nSulger, Rud., Faktor beim Dampfsschiff. 4 St. Johann=Vorstadt.\nSulger, Andre. u. Rud. (Handelsragion.) 1182 Freie Straße.\nSulger=Dobler, Wittwe. 1182 Freie Straße.\nSulger=Spreeher, Wittwe. 1181 Freie Straße.\nSulzmann, Jsaak Jak., Fabrikarbeiter. 1082 Am Bäumlein.\nSulzmann, Wilhelm, Leitschneider. 495 Oberer Spahlenberg.\nSutter, Joh., Wirthschaft. 605 u. 606 Unterer Spahlenberg.\nSutter, Christoph, Krempere. 1318 St. Alban=Vorstadt.\nSutter, Heinrich, von Ormalingen. 1606 St. Martingäcklein.\nF.\nThierry, Fr. Jos., Kutscher. 1254 Malzgasse.\nThommen, J. J., Küfer. 930 St. Elisabethen.\nThommen, Jakob, Fabrikarbeiter. 539 Imbergäcklein.\nThommen, Mathias, Lohnwäscher. 791 Bordere Steinen=Vorstadt.\nThommen, Heinrich, auf dem Thor. 858 Thorsteinen.\nThurneisen, Christoph, Papierfabrikant. 1282 St. Alban=Thal.\nThurneisen, H. R., alt Pfarrer. 1282 St. Alban=Thal.\nThurneisen, Joh. Fr., Weißbeck. 1354 St. Alban=Vorstadt.\nThurneisen=Paravicini, Emil, Kaufmann. 58 St. Joh.=Vorstadt.\nThurneisen=Jäsch, Wittwe. 58 St. Johann=Vorstadt.\nThurneisen=Jäsch, Ludw. Andre. 1300 St. Alban=Thal.\nThurneisen=Burckhardt, Balthasar. 1352 St. Alban=Vorstadt.\nThurneysen, Ludwig, Weißgerber. 665 Gerbergasse.\nThurneysen=Ryhiner, Eugenius. 1231 St. Alban=Vorstadt.\nThurnherr, Philipp, Aufwärter. 1686 Ruttelgäcklein.\nTollmann, Wittwe, geb. Motzchi, Musikalien=Bibliothek und Kunst=\nblumen=Verlag. 598 Unterer Spahlenberg.\nTrapet, Richard, Juwelier. 446 Spiekhofgasse.\nTrinler, Cath., aus dem Badischen. 21 St. Johann=Vorstadt.\nTrübner, Wittwe, geb. Doroth. Felber. 1545 Eifengasse.\nTschän, Catharina, geb. Lacher. 754 Kohliberg.\nTschientschy, Heinrich, Weinschenk und Geldwechsler. 1703 Unterer\nSpahlenberg.\nTschientschy, Joh. Heinrich, Mehlwäger. 1212 Rittergasse.\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6795,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2120,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p128",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p128.jpg",
+      "bytes": 1029035,
+      "sha256": "7e11b569450598e365a42f2da51b806742e12236127228bb8701bce233c3d04d",
+      "sha256_of": "original",
+      "working_copy": "1841_p128.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:50+00:00"
+  }
+}

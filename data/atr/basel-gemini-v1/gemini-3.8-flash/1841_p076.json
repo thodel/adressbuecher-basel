@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p076",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p076.jpg",
+    "bytes": 955271,
+    "sha256": "b165fb92c1d50dc590028ddeebe10e42b99a7e4901103474c591e50814678347",
+    "sha256_of": "original",
+    "working_copy": "1841_p076.jpg"
+  },
+  "text": "69\nNro.\n174 Socin-Heusler, Bernhard, Rathsherr.\n175 * Lotz, Friedrich, Seidenfärber.\n176 * Pfarrhaus. Bischoff, I. I., Pfarrer bei St. Theodor.\n  Heusler, Abraham, Candidat der Theologie.\n177 Oswald, Mathias, Architekt.\n178 Best, Lucas, Vater, Part.\n  Best, Christoph, Sohn, Metzger.\n179 Matzinger, Peter, Schuhmacher.\n180 Renz, Carl, Sohn, Chemiker.\n  Huber, Heinrich, Seidenfärber.\n181 Merian, Daniel, Partikular.\n182 Lotz, Friedrich, Seidenfärber, geh.\n  Martin, Joh. Jakob, Flachmaler.\n183 Weber, Heinrich, Kunstmaler.\n  Gutzwiller, Ignatz, Kunstmaler.\n184 Schneider, Samuel, alt Reallehrer und Organist im Münster.\n185 Burckhardt, Samuel, Weißbeck.\n186 Kromer, Emanuel, Metzger.\n  Tschopp, Rudolf, Seidenfärber.\n187 Siegrist, Franz Jos., Dr. Med.\n188 { Huber, Hieronymus, Weinschenk.\n  { „ Joseph, Hauptmann.\n  Bulacher, Hieronymus, Vater.\n189 Walliser, Conrad, Schreiner.\n190 Stengelin, Jonathan, Wagner.\n191-192 * Der Handels-Ragion Andr. u. Rud. Sulzer geh.\n  Sulzer-Stähelin, Andr., Kaufmann.\n\nSt. Bläsi-Quartier.\n\nRebgasse.\n193 }\n195 alt } abgebrochen.\n196 }\n194 (195) Zäslin-Bleyenstein, Theodor, Part.\n  Paravicini-Zäslin, Felix, Notar.\n197 Paravicini-Burckhardt, Leonhard.\n198 Siegfried, Rudolf, alt Standesreuter.\n199 Reuenthaler, geb. Briccard, Wittwe.\n  Wierz, Joh. Jakob, Commis.\n200 * Pfarrhaus. Münch, Chr., Diakon bei St. Theodor.\n201 * Stengelin, Jonathan, Wagner.\n  Hottensen, Carl Aug. Fried., Gerber.\n202 Schardt, Peter, Küfer.\n  Parrayon, Anton, von Lyon, Dessinateur.\n203 * Obrigkeitlich. Einfahrt zum Clara-Bollwerk.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7963,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1543,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p076",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p076.jpg",
+      "bytes": 955271,
+      "sha256": "b165fb92c1d50dc590028ddeebe10e42b99a7e4901103474c591e50814678347",
+      "sha256_of": "original",
+      "working_copy": "1841_p076.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:51+00:00"
+  }
+}

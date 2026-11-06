@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p174",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p174.jpg",
+    "bytes": 1022059,
+    "sha256": "b42b2a332096665c058d71dfa757391804ed26caf1c1fb953bf52c1449deb0cd",
+    "sha256_of": "original",
+    "working_copy": "1841_p174.jpg"
+  },
+  "text": "Klein-Basel.\n\nA.\nAndres, Jakob, Adjunkt auf der Post. 67 Rheingasse.\n\nB.\nBächlin, J. J., Schreiber. 234 Greifengasse.\nBasler, J. J., Sohn, Beck. 438 Udengasse.\nBeck, Daniel, Holzhacker. 235 Greifengasse.\nBelz, Heinrich, v. Sulz, Kunstmaler. 3 An der Rheinbr.\nBertaux, geb. Schlosser, Marg., Wittwe. 114 Rheinweg.\nBertsche, Isaak, Lohnamtsarbeiter. 86 Rheingasse.\nBienz, Andreas, Schreiner. 312 Im Klingenthal.\nBraun, geb. Reischacher, Wittwe. 61 Rheingasse.\nBraun-Kiefer, Joh., Kaufmann. 244 Ochsengasse.\nBresin, Joh. Jakob Martin, Weißbeck. 124 Obere Rebgasse.\nBresin, Leonh., Kaminfeger. 124 Obere Rebgasse.\nBrüllmann, Joh. Georg, von Hemmerschwil, K. St. Gallen,\n  Degraisseur. 439 Udengasse.\nBrunner, Joh., v. Oberengstringen, K. Zürich, Bruck-\n  knecht. 365 Untere Rheingasse.\nBurckhardt, Joh., Stadtschreiber sel. Wittwe. 44 Rheingasse.\nBurckhardt, Samuel, Schuhmacher. 344 Untere Webergasse.\n\nC.\nCalame-Neyenthaler, Gustav Adolf, Kaufmann. 199 Rebgasse.\nChrist-Uebelin, Balthasar, Commis. 107 Am Lindenberg.\nClamaron, Jos., von Lyon, Seiden - Appreteur. 274\n  Beim Bläsithor.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5298,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1082,
+    "lines": 26,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p174",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p174.jpg",
+      "bytes": 1022059,
+      "sha256": "b42b2a332096665c058d71dfa757391804ed26caf1c1fb953bf52c1449deb0cd",
+      "sha256_of": "original",
+      "working_copy": "1841_p174.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:09+00:00"
+  }
+}

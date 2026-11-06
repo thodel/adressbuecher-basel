@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p118",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p118.jpg",
+    "bytes": 1033728,
+    "sha256": "9be08e6604a22ab5c755c5234eea2023af6dde2f8bd2a16b1b192602360193db",
+    "sha256_of": "original",
+    "working_copy": "1841_p118.jpg"
+  },
+  "text": "35\n\nRapp, Martin, Schreiner. 241 Kirchgäßlein.\nRapp, Joh. Conrad, Partikular. 91 St. Johann-Vorstadt.\nReber, Joh. Rudolf, Schuhmacher. 718 Hinter dem Stöcklein.\nReber-Burckhardt, Bandfabrikant. 441 Spießhofgasse.\nReber-Geilinger, J. J., Partikular. 563 St. Peterstiftsgasse.\nReber-Sulger, Benedikt. 750 St. Leonhardsgraben.\nRebsaamen, Joh., Commis. 513 u. 514 Hint. d. Spahlenthurm.\nRebsaamen, Johannes, Lohnbedienter. 1698 Schnabelgäßlein.\nRehlin, Leonhard, Trödler. 496 Oberer Spahlenberg.\nReinhold, Gottfried, Zimmermann. 1742 Sattelgasse.\nReinle, Joh., Zimmermann. 905 St. Elisabethen.\nReischacher, Joh. Jakob. 1386 Am Bäumlein.\nRespinger, Ludw. de Ludwig. 229 Oberer Herbergberg.\nRespinger, Benedikt, Handelsmann. 950 Aeschen-Vorstadt.\nRespinger, Leonhard, Kaufmann. 251 b St. Petersplatz.\nRespinger, Wittwe, geb. Burckhardt. 1644 Markt.\nRespinger, Gebrüder, Kaufleute. 77 St. Johann-Vorstadt.\nRespinger, Joh. Conrad, Handelsmann. 949 Aeschen-Vorstadt.\nRespinger, Maria, geb. Preiswerk. 150 Schwanengasse.\nRespinger-Bernoulli, Em., Materialhandlung. 1631 Unt. Freienstraße.\nRespinger-Isenegger, Friedr., Handels-Commis. 1616 Markt.\nRieber, Jakob, Spezerei- und Tabackhandlung. 1599 Eisengasse.\nRieder, Nikol., Fabrikarbeiter. 1247 Malzgasse.\nRieder, Heinrich, Kaufhausarbeiter. 1745 Sattelgasse.\nRiedtmann, Emanuel, Kaufhausgehülfe. 1418 Spitalsprung.\nRiedtmann, Joh. Ludwig, Schuhmacher. 508 Adelberg.\nRiedtmann, Niklaus, Schneider. 714 Barfüßerplatz.\nRiemensperger, Valent., Spezereihandlung. 1124 Weißgäßlein.\nRiggenbach, Christoph, Architekt. 1457 Münsterplatz.\nRiggenbach-Landerer, Wittwe. 1494 St. Martin.\nRiggenbach-Huber, Joh., Kaufmann. 869 Thorsteinen.\nRiggenbacher, Joh. Jakob, Beck. 62 St. Johann-Vorstadt.\nRippel, Joh. sel., Wittwe, geb. Linder. 1041 Aeschen-Vorstadt.\nRitter, Joh. Jakob, Gastwirth zum Schiff. 1145 u. 1146 Bar-\n  füßerplatz.\nRöslin, Rud., Spezereihändler. 1266 St. Alban-Thorgasse.\nRöslin, Joh. Rud., Fabrikarbeiter. 865 Thorsteinen.\nRöslin-Ronus, Joh. Georg sel., Wittwe. 1191 Freie Straße.\nRognon, Jonas Heinrich, Handels-Commis. 1044 Aeschen-Vorstadt.\nRohner, J. Christoph, Schlosser. 952 Aeschen-Vorstadt.\nRohner, Joh., Beck. 1316 St. Alban-Vorstadt.\nRohner, Wittwe, geb. Fischer. 759 Kohliberg.\nRonus, Christoph, Quincailleriehandlung. 1540 Eisengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8239,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2293,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:57:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p118",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p118.jpg",
+      "bytes": 1033728,
+      "sha256": "9be08e6604a22ab5c755c5234eea2023af6dde2f8bd2a16b1b192602360193db",
+      "sha256_of": "original",
+      "working_copy": "1841_p118.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:16+00:00"
+  }
+}

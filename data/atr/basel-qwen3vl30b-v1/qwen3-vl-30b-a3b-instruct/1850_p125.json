@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p125",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p125.jpg",
+    "bytes": 1088143,
+    "sha256": "9d2f3efbd714b07f1b38d2fe9050d5bf3650848ccc15af7ffb5421d1f907c1be",
+    "sha256_of": "original",
+    "working_copy": "1850_p125.jpg"
+  },
+  "text": "112\nKündig-Linder, Theodor 119 | Langmeffer-Gruber, Elis. 617\nAndreas, Küfer 420 | Lapp, Felix, Papierer 573\nEuchar., Diacon 562 | LaRoche, S. E., Pfarrer 243\nRud., Tapezierer 1698 | =Bischof, F. F., Vater 520\n=Geiger, Wwe., Magd. 28 | =Stähelin, Benedikt 520\nWwe., F., Rudelnm. 200 | German, Deputat 552\nKünzle, Wwe., Glätterin 1697 | =Burchhardt, August 552\nKunz, Rud., Flachmaler 791 | =Bez, Emanuel 553\nKunz, Seb., Fabrikarb. 682 | Andr., Partikular 1217\nWittwe 1700 | =Merian, Gustav 1362\nP., Schuhwichsefabr. *271 | Joh. David 1422\nKünzlin, N. 100 | =Heusler, Wwe., R. 1217\nKünzy, Ferd. 434A | Laudier, C., Zettlerm. *100\nKupferschmied, Lukas 189 | Lechleiter, Fz. F., Commis 294\nKürsteiner, Wittwe 1478 | Lefèbvre, P., Modehlg. 1541\nKuster, F. Fz., Spezierer 692 | Legrand, Ad., Bankier 228\nKusmaul, Mich., Mechan. 997 | deNeufville, Lukas 231\nKyburtt-Kumpf, Wittwe 913 | =LaRoche, W., Pfr. 893A\nLabhardt, Gebrüder 874 | =Heusler, Wittwe 384\nLacher, Jos., Kunstmaler 74 | Lehmann-Berger, Jul. 1453\nLämmli, Frau 282 | Lehrer, Wwe., Kostgeb. 1246\nLanderer-Maring, L. 111 | Leibzig, P. H., Gastwirth 142\nLouis, Kaufmann 971A | Leicher-Heusler, Wwe. M. 791\nRichard, Partikular *159 | Leithard, H., Hutmacher 1159\nLudw., Schreiner *161 | Lerch, Const. u. P. Jos. 1596\nFrau Esther 622 | Lefer, Friedr., Rutscher 1367\nWittwe, Baleria 1084B | Leuba, H., Sohn, Uhrenm. 1431\nJäcklin, Wittwe 1738 | Sch., älter \" 1641\n=d'Annonny, Wittwe *92 | Lukas Hieron. \" 1726\nLandolt, Bierbrauer *197 | Leucht-Keller, Friedr. 113\nLang, Gg., Ant. u. Jos. 769 | Leupin, Bened., Commis *79\nSim. u. Andr., Musiker 834 | Leuthardt, F., Schlosser 131\nAdam, Musiker 838 | Wwe., M., Schuhm. 1109\nSaml., Schuhmacher *268 | Leuzy, Steinbauer 676\n=Oser, Wittwe *229 | Levy, Abr., Ellenw.-Hlg. 609\nLangmeffer, David 22 | Licentiat en droit 1351\n=Paravicini, Dav. 59 | Leg, Fel. Jos., Notar 441A\nHieronimus 489 | Lichtenhahn, F., Stufator 1A\nSamuel, Schreiner 503 | Rud., Kaufmann 50\nu. Schellenberg 1146 | Karl, Alt-Stadtrath 253B\nF. F., jgr., Sattler 1626 | =Gysler, Ben., Sensal 433\nF. H., Seiler *235 | =Hagenbach, F. Rud. 751\nF. Ulr., Sattler *375 | Fr., Maler 790\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8088,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2151,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p125",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p125.jpg",
+      "bytes": 1088143,
+      "sha256": "9d2f3efbd714b07f1b38d2fe9050d5bf3650848ccc15af7ffb5421d1f907c1be",
+      "sha256_of": "original",
+      "working_copy": "1850_p125.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:37+00:00"
+  }
+}

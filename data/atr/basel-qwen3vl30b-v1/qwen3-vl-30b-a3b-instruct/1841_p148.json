@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p148",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p148.jpg",
+    "bytes": 941701,
+    "sha256": "a8f0ef1280d56777ef8222418fc55f7257260f128ec8fd72800f839cadddc1c6",
+    "sha256_of": "original",
+    "working_copy": "1841_p148.jpg"
+  },
+  "text": "Nachschrift.\n\nDer Zweck möglichster Richtigkeit dieses Einwohner-Verzeichnisses\nist vom Bearbeiter mit allem Fleisse erstrebt und zu mehrerer Sicher-\nheit die Durchsicht des Manuscryptes und die Correctur einem mit\nden betreffenden städtischen Verhältnissen Basels auf amtlichem Wege\nvertrauten Manne übertragen worden. Diesem, so wie dem ganzen\nverehrllichen Publicum, welches durch bereitwillige Angaben die Arbeit\ndes Herausgebers wesentlich erleichterte, sagt Lekterer hiermit gezie-\nmend Dank.\n\nDas verzögerte Erscheinen des Nummernbuches wolle mit der\nSchwierigkeit des ganzen Unternehmens gütigst entschuldigt werden.\n\nUm dem verehrlichen Publicum übrigens zu beweisen, daß\nes dem Herausgeber um die Sache selbst und die möglichste\nTadellosigkeit seiner Arbeit wirklich Ernst ist, so fordert\nderselbe alle Diejenigen, welche während des Druckes dieses\nBuches ihre Wohnungen verändert oder sonst Berichtigungen\noder Nachträge mitzutheilen hätten, höflichst auf, davon an\nHerrn J. C. Schabelitz, Obere Freie Strafse Nro. 1425\nin Basel gefällige schriftliche Anzeige zu machen. Es wird\nalsdann in Zeit von acht Wochen ein ergänzender und be-\nrichtigender Nachtrag dieses Buches den verehrlichen Abon-\nnenten gratis nachgeliefert werden.\n\nBasel, Oktober 1840.\n\nDer Herausgeber,\nJ. H. Locher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3366,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1294,
+    "lines": 25,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:59:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p148",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p148.jpg",
+      "bytes": 941701,
+      "sha256": "a8f0ef1280d56777ef8222418fc55f7257260f128ec8fd72800f839cadddc1c6",
+      "sha256_of": "original",
+      "working_copy": "1841_p148.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:41+00:00"
+  }
+}

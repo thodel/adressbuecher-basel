@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p059",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p059.jpg",
+    "bytes": 927083,
+    "sha256": "119ba93be06869b24117afac582acabeda1d97664867a679845cb4d09becd8c2",
+    "sha256_of": "original",
+    "working_copy": "1850_p059.jpg"
+  },
+  "text": "46\nAefchen=Quartier.\n1031 Roth, Martin, Wirthschaft.\n1032 Pfunder, C. L., Kutscher.\n1033 Roth, Martin, Fabrikmeister.\n1034 BonUrg, Fabrikarbeiter.\n1035 Schäfer, Abraham, Heuwäger.\n1036 Buef, Cath., Bettmacherin.\n1037 Brandenberger, Conrad, Kübler.\n1038 Ehinger-vonSpeyr, Christ. Matth., Bang., Comm.=\nu. Speditions-handlung.\nNotariatsbureau von Dr. L. Ehinger.\n1039 Burkhardt-Heufler, Karl, Bandfabrikant.\n1040 Gesellschaftshaus zum Rupf.\n1041 Dietzsch-Fäsch, Wein- und Branntweinhandlung.\n1042 Ryhiner-Bischoff, Julius, Rentier.\n1043 Ryhiner-Werthemann, Susanna, Wittwe, Rentiere.\nBonSpeyr-Ryhiner, Eduard, Handelsmann.\nComptoir von Nörbel und Hoffmann.\n1044 Rognon-Schöll, Heinr. Jonas, Handels-Commis.\nA 1045 Weitnauer, Rud., Mezger u. Wirth.\nMärklin-Huber, P. Euchar., Ferger.\nSt. Alban:Graben.\nB 1045 Stückelberger, F. F., Wein-, Branntwein- und\nEssighandlung.\nKramer-Roth, Sam., Unterbestäter.\n1046 Merian-Burckhardt, Christ., Rentier.\n1047 Sarasin-Merian, Julie, Wittwe.\n1048 Forkart-Bachofen, Rudolf, Rentier.\nBischer-Forkart, Marg., Wittwe, Kapitalistin.\n1049 Remise und Scheune.\n1050-51 Burkhardt-Forkart, Marg., Wittwe, Kapitalistin.\n1052 Comptoir der Handels-Ragion Forkart-Weiß und\nBurckhardt-Wildt.\n1053 Dobler, Jgfrn., Kath. und M., Kapitalistinnen.\n1054 Burkhardt-Forkart, Wilh., Hdlsm.\nBeim Aefchen-Schwibbogen.\n1055 Forkart-Hofmann, Rudolf, Rentier.\n1056 Eben demselben geh. Spitalgäklein, Kutscherwohng.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4653,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1422,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p059",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p059.jpg",
+      "bytes": 927083,
+      "sha256": "119ba93be06869b24117afac582acabeda1d97664867a679845cb4d09becd8c2",
+      "sha256_of": "original",
+      "working_copy": "1850_p059.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:39+00:00"
+  }
+}

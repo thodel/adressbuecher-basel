@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p132",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p132.jpg",
+    "bytes": 1066142,
+    "sha256": "0bfe6fb9f4aafa8f3df04ed198eff368e78318d88263cd5f39d3bfdf842a6c60",
+    "sha256_of": "original",
+    "working_copy": "1841_p132.jpg"
+  },
+  "text": "49\n\nWeiß, Em. Georg, Notar und Gerichtsamtmann. 634 Gerbergäßlein.\nWeiß, Joh. Heinrich, Magister, Hochzeit- u. Sterberegisterschreiber.\n  681 Hinteres Gerbergäßlein.\nWeiß, Adam, Wirthschaft. 814 Vordere Steinen-Vorstadt.\nWeißenburger, Wittwe, geb. Sixt. 309 St. Petersplatz.\nWeißenburger, Ulrich, Weißbeck. 943 Aeschen-Vorstadt.\nWeniger, Ruprecht, Gürtler. 1120 Pfluggasse.\nWeniger, Rudolf, Gürtler und Weinschenk. 1727 Hutgasse.\nWeitnauer, Jakob Friedrich, Metzger. 1173 Freie Straße.\nWeitnauer, Em., Tapezierer. 1542 Eisengasse u. 191 Unt. Herbergberg.\nWeitnauer, Joachim, Oberst und Tapezierer. 230 Ob. Herbergberg.\nWeitnauer, Achilles, Spitalmeister. 1084 Am Bäumlein.\nWeitnauer, Friedrich, Schreiner. 797 Vordere Steinen-Vorstadt.\nWeitstich, Joh., Uhrenmacher. 1419 Spitalsprung.\nWenck-Brandmüller, H., Wechsel-Sensal. 1721 Hutgasse.\nWendel, Joh. C., Wittwe. 1387 u. 1388 Am Bäumlein.\nWerenfels, Fr., M., pens. Lehrer am Gymnasium. 1480 Augustinergasse.\nWertenberg, Rudolf, Bürstenbinder. 584 Schneidergasse.\nWertenberg, Abraham, Bürstenbinder. 1582 Sporrengasse.\nWertenberg, Joh., Thorschreiber. 1276 St. Alban-Thorgasse.\nWertenberg, Christoph. 698 St. Leonhardsberg.\nWerthemann, L., sel. Wittwe Erben. 1208 Rittergasse.\nWerthemann, Andr., Oberstlieutenant. 946 Aeschen-Vorstadt.\nWerthemann, Jungfrau, Margaretha. 946 Aeschen-Vorstadt.\nWerthemann = Von der Mühll, Kaufmann. 242 a Kirchgäßlein.\nWerthemann - Burckhardt, Kaufmann. 249 a St. Petersplatz.\nWettstein, Jak. Heinr., Apotheker sel. Wittwe. 1076 Am Bäumlein.\nWezel, Martin, Papierformenmacher. 1317 St. Alban-Vorstadt.\nWezel, J. J., Papierer. 1279 St. Alban-Vorstadt.\nWick, Joh. Jakob, Diakon. 244 Kaltkellergäßlein.\nWidmer-Tiß, Joh. Christ., Handels-Commis. 1662 Rindermarkt.\nWiedemann, Barthol., Handelsmann. 1069 Tiefe.\nWiedenkeller, Maria, geb. Keser. (Pack = und Wachstuchverkauf.)\n  236 St. Petersgasse.\nWieland, Em., Commissions- u. Speditions-Handlung. 416 Heuberg.\nWieland, Jungfer, Anna Maria. 908 St. Elisabethen.\nWieland, Hieronymus, alt Dreierherr. 919 St. Elisabethen.\nWieland, Joh. Heinrich sel., Wittwe. 1456 Schlüsselberg.\nWieland-Rottmann, Carl. 915 u. 916 St. Elisabethen.\nWieland-Bischoff, Oberst sel., Wittwe. 1348 St. Alban-Vorstadt.\nWierz, Daniel, Sohn. 1168 Rüdengäßlein.\nWierz, Daniel, Stadt-Canzlist. 1617 Markt.\nWiesner, M., Flachmaler. 460 Hinter dem Spahlenthurm.\nWiesendanger, Jakob, von Ossingen. 128 Kronengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10269,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2408,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 52.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p132",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p132.jpg",
+      "bytes": 1066142,
+      "sha256": "0bfe6fb9f4aafa8f3df04ed198eff368e78318d88263cd5f39d3bfdf842a6c60",
+      "sha256_of": "original",
+      "working_copy": "1841_p132.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:19+00:00"
+  }
+}

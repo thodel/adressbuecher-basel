@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p084",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p084.jpg",
+    "bytes": 978058,
+    "sha256": "d6cdbb6a41f2130d5faf8b655b9927b7a1d784b36fd62c2a22b3b2558d7dd140",
+    "sha256_of": "original",
+    "working_copy": "1841_p084.jpg"
+  },
+  "text": "Groß-Basel.\n\nAlphabetisch geordnetes Namens-Register.\n\nA.\n\nAberle, J., Taglöhner. 965 Sternengäßlein.\nAbt, Daniel, Posamenter. 841 Hintere Steinen-Vorstadt.\nAbt, Heinrich, Metzger, Wittwe. 1135 Weiße Gasse.\nAbt, J., Kutscher. 1314 St. Alban-Vorstadt.\nAckermann, Peter, Weinschenk. 976 u. 977 Sternengäßlein.\nAlbiez, Joh., Knecht, aus dem Badischen. 194 Unt. Herbergberg.\nAlioth, J. Siegm., Kaufmann. 919 St. Elisabethen.\nAllemann, Urs Jos., Zimmergeselle, aus dem Kanton Solothurn.\n  922 St. Elisabethen.\nAlt, Dan., Vater, Stubenverwalter. (Wirthsch.) 637 Herberggäßlein.\nAltorfer, Heinrich, Messerschmid. 658 Gerbergasse.\nAmans, Joseph Wilhelm, Hutmacher. 1541 Eisengasse.\nAmmann, Rudolf, Steinhauer. 961 Sternengäßlein.\nAmmann, Achilles, Siebmacher. 1179 Freie Straße.\nAmmon, J. Thoni, Wagner. 343 u. 344 Fröschgasse.\nAncklin, Joseph, Schreiner. 765 Vordere Steinen-Vorstadt.\nAnstein, J. J., Küfer. 1336 St. Alban-Vorstadt.\nAnstein, Joh., Küfer. 97 St. Johann-Schwibbogen.\nAntoni, Georg Heinrich, Kaufmann. 607 Unterer Spahlenberg.\nArnz, Peter Gottl., Tuchhändler u. Färber. 813 Vord. Steinen-Vorst.\nAtinger, Jakob, Flachmaler. 294 Spiegelgasse.\nAtz, Bernhard sel., Wittwe, geb. Lindenmeyer, Buchbinder. 1755\n  Schneidergasse.\nAwengen, Carl, Commis. 522 Adelberg.\nAwengen, J. J. sel., Wittwe, geb. Dietschy. 267 a Neue Vorstadt.\nAwengen, Rudolf, Weißbeck. 90 St. Johann-Vorstadt.\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5852,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1383,
+    "lines": 30,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:51:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p084",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p084.jpg",
+      "bytes": 978058,
+      "sha256": "d6cdbb6a41f2130d5faf8b655b9927b7a1d784b36fd62c2a22b3b2558d7dd140",
+      "sha256_of": "original",
+      "working_copy": "1841_p084.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:49+00:00"
+  }
+}

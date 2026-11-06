@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p139",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p139.jpg",
+    "bytes": 917104,
+    "sha256": "79d364bfca544e7d057986b60ae25cfb74d2409c3fbb0e1e84614ee8a241b5d1",
+    "sha256_of": "original",
+    "working_copy": "1841_p139.jpg"
+  },
+  "text": "56\nHug, J. J., Maurer. 439 Udengasse.\nHunziker, geb. Cath. Heusler. 66 Rheingasse.\n\nJ.\nJäggi, J. J., Beck. 120 Obere Rebgaſse.\nJanot, Louife, von La Chaur=de=Jonds. 6 An der Rheinbrücke.\nJenny, Jak., Ferger. 381 Krempergaffe.\nJenny, Joh., Spezerei= und Käsehändler. 239 u. 240 Ochfengaffe.\nImhof-Mieg, J. J., Partikular. 293 Webergaffe.\nJöri, Wittwe, geb. Barb. Meyer. (Spezereihandel.) 286 Webergaffe.\nJsenegger, Heinrich, Bater, Hafner. 6 An der Rheinbrücke.\nJsenegger, Heinrich, Sohn, Hafner. 28 Rheingaffe.\nJselin, Charlotte, geb. Bienz, Lohnwäscherin. 129 Kirchgäflein.\nJselin, Joh. Ludwig, Partikular. 217 Greifengaffe.\nJselin = v. Reichenstein, Ludwig, Rentier. 149 Beim Riehen-Thor.\n\nK.\nKeller, Gottfried, Mechaniker. 283 Webergaffe.\nKellermann, Joh. Chr., Apotheker. 224 Greifengaffe.\nKern, Elias, Rathsherr. 317 Im Klingenthal.\nKern, J. J., Bater, Partikular. 284 Webergaffe.\nKestenholz, Dietrich, Lohnwäscher. 264 a Im Rumpel.\nKestenholz, M., von Zupfingen, Pfannenflicker. 361 Sägergäflein.\nKirschner, Wilh., Lohnkutscher. 68 Rheingaffe.\nKöchlin, Magdalena, geb. Kuster, Gypter. 45 Rheingaffe.\nKray, Zacharias, Fischer. 30 Rheingaffe.\nKrattiger, Joh., Schneider. 429 u. 430 Udengaffe.\nKrebs, Math. fel., Wittwe, Schuster. 37 Rheingaffe.\nKrebs, Joh., Fabrikferger. 166 Rebgaſse.\nKrey, Frau Pfarrer, geb. Hagenbach. 122 Obere Rebgaſse.\nKromer, Emanuel, Mezger. 186 Rebgaſse.\nKruſe, Marg, Wittwe, geb. Gamper. 305 u. 306 Im Klingenthal.\nKühn, Lucas, Wirthschaft. 292 Webergaffe.\nKuhn, Ursus Jos., Steinhauergeſell. 269 Im Rumpel.\nKuhn, Leonhard, von Frenkendorf, Lehrer. 132 Kirchgäflein.\nKundert, Fridolin, von Bettschwanden, Taglöhner. 85 Rheingaffe.\n\nL.\nLämmlein, Georg fel., Wittwe. 153 Rebgaſse.\nLanderer, geb. D'Annone, Wittwe. 92 Rufgäflein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5979,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1757,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:58:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p139",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p139.jpg",
+      "bytes": 917104,
+      "sha256": "79d364bfca544e7d057986b60ae25cfb74d2409c3fbb0e1e84614ee8a241b5d1",
+      "sha256_of": "original",
+      "working_copy": "1841_p139.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:59+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p078",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p078.jpg",
+    "bytes": 1410271,
+    "sha256": "f21904e90e959bf3d675135660d796070582fa4977d57fc0ab49cdb1c771218a",
+    "sha256_of": "original",
+    "working_copy": "1862_p078.jpg"
+  },
+  "text": "St. Albanrheinweg, St. Albanringweg, St. Alban-Thal. 13\nNre\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n8 V. 1276 B ……………… Bischoff=Kespinger, Hieron.\n(Magazin.)\n10 V. 1311 E ……………… Sarasin und Comp.\n(Bandsfabrike.)\nMiller=Hersperger, Jak. Fabrikmeister.\nStaat.\n11 V. 1310 St. Albankirche. Stadtgemeinde Basel.\n12 V. 1306 Hirzlimühle. Roche, Wb. Cath., Zwirnerin.\n14 V. 1306 A ……………… Wezel=Boll, Joh. Jak.\nWezel=Boll, Joh. Jak., Ferger.\nSt. Albanrheinweg.\n102 V. 314 ……………… Ruzmaul=Schlack, Michael.\nEichbach=Baur, Sam., Gärtner.\n104 V. 314 A ……………… Ruzmaul=Schlack, Michael.\n110 V. 315 ……………… Hediger=Weber, Hans Rudolf.\nHediger=Weber, Hs. Rud., Landwirth.\nSchatzmann=Müller, Rud., Schreiner.\nHediger=Weber, Hans Rudolf.\n112 V. 315 A ……………… Hediger=Weber, Hans Rudolf.\nSt. Albanringweg.\n21 V. 288 ……………… Meyer=Wälti, Jacob.\nMeyer=Wälti, Jacob, Gärtner.\n23 V. 289 ……………… Sutter=Raufmann, J. Rudolf.\nSutter=Raufmann, J. R., Landwirth.\nSt. Alban-Thal.\n1 V. 1303 die Lippismühle. Hägler, August.\nHägler, August, Müller.\n2 V. 1304 Steinenfl. = Mühle. Forcart=Weiß.\nSchaub=Riefer, J. J., Müller.\n4 V. 1305 die Spittelmühle. Steinmann, Gebrüder.\nSteinmann, Joh. Melchior, Müller.\nSteinmann, Eduard, Müller.\n6 V. 1304 B ……………… Forcart=Weiß.\n(Scheune und Stallung.)\n8 V. 1300 ……………… Thurneyssen=Jäsch, P. A., Command.\nMüller=Thurneyssen, Mich. Heinr., Pa-\npierfabrikant.\n10 V. 1299 ……………… Hägler, August.\nHägler=Spitteler, Seb., Particular.\n12 V. 1298 ……………… VonderMühl, Gebrüder.\nTschopp=Brugger, Friedr., Fabrikarb.\nAllinger=Schneider, Joh. Heinr., Maler.\n14 V. 1297 Das neue Haus. VonderMühl, Gebrüder.\nGaz=Bechtold, Jacob, Fabrikmeister.\nWunderlin=Mesmer, Aug., Zimmerm.\nWunderlin, Aug., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6242,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1740,
+    "lines": 56,
+    "longest_char_run": 6,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0034,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p078",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p078.jpg",
+      "bytes": 1410271,
+      "sha256": "f21904e90e959bf3d675135660d796070582fa4977d57fc0ab49cdb1c771218a",
+      "sha256_of": "original",
+      "working_copy": "1862_p078.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:42+00:00"
+  }
+}

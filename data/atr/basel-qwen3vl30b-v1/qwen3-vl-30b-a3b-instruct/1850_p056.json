@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p056",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p056.jpg",
+    "bytes": 1035731,
+    "sha256": "a35bf8e295531f160ace661dfbd20cd4522cd2b45c8a55d06d289a114d03581d",
+    "sha256_of": "original",
+    "working_copy": "1850_p056.jpg"
+  },
+  "text": "Aefchen = Quartier. 43\n967 Roth, Peter, Flachmaler.\n968 Holzach, Lukas, Wirth.\n969 Buser, Georg Christ., Fabrikarbeiter. Jg. Inbssn. Griffo\n970 Basquet, Fr. Wilh., Zimmermeister.\n    Friedrich-Hug, Leonh., Baumeister.\n971 Epple, Christian Gottl., Mechanikus.\nA 971 Kuhn, David, Zimmermeister.\n    Landerer, Louis, Kaufmann.\n    Sigt, Eml., Commis.\n972 Linder, Joh. Jak., Hafner.\n    Ecklin, Leonhard.\n973 Herzog, Wittwe, geb. Wybert.\n    Herzog, Achilles, Kaufmann. Comptoir in Nr. 759.\n974 Hauser-Öser, Rud., Colonialwaaren- und Brannt-\n    weinhandlung.\n975 Panoramagebäude.\n976 Scheuer.\n977 Ackermann, Peter, Lohnfuhrhalter.\n978 (Stallung) zu Nr. 981 Gasthof zum Sternen geh.\n979 Wagner, F. F., Leinenweber.\nAefchen-Vorstadt.\n980 Schneider, Wittwe, Serena, Wagner, Franz Morasfald\n    Gass-Thurneisen, Sch., Rentier.\n981 (Gasthaus zum Sternen) Breiting-Heukler, Sam.,\n    Gastgeber.\n982 Breiting-Schardt, Peter, Mezger.\n    Treu, Lukas, Wundarzt.\n    Dizerens, F. L., Marmorarbeiter.\n983 Riggenbach-Stehlin, Sch., Banquier.\n984 Burkhardt-Forkart, Lud., Handelsm.\nHirschgasse.\n985 Vogelbacher, Franz Jos., Kutscher.\nA 985 Linder, Eduard, Zimmermeister.\n    Uebelin-Gekler, Karl, Commis.\n    Montfort, Joseph, Commis.\n986 Scheune und Stallung.\nAefchen-Vorstadt.\n987-88 Finninger, Leonhard, Hufschmied.\n    Hurth, Joh. Christ., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4367,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1335,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 31.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p056",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p056.jpg",
+      "bytes": 1035731,
+      "sha256": "a35bf8e295531f160ace661dfbd20cd4522cd2b45c8a55d06d289a114d03581d",
+      "sha256_of": "original",
+      "working_copy": "1850_p056.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:26+00:00"
+  }
+}

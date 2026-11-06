@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p062",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p062.jpg",
+    "bytes": 998235,
+    "sha256": "71e2bad508e25c0157f1102078c1ef8dfa1b777ab704675368e496302689684e",
+    "sha256_of": "original",
+    "working_copy": "1850_p062.jpg"
+  },
+  "text": "Aeschen = Quartier.\n49\n1086 Wolleb, Wittwe, Goldschmied und Modiste.\nSefer, Wilhelm, Zahnarzt.\nStreitgasse.\n1087 Kling, Elias, Wittwe, Glaser.\n1088 Giesen-Müller, Wittwe, Marg., Buchbinder.\n1089 Meyer, Joh. Christof, Zuckerbck.\nKirchberger, Sch., Rentier.\n1090 Schneider, Joh., Packer.\n1091 Stähelin-Stähelin, Rud., Handelsmann.\nBurkhardt-Stähelin, Rud., Graveur.\n1092 Kindweiler, Frdch., Flachmaler.\nAnstein-Lok, Wittwe Helene.\nBaarfüsserplaz.\n1093-94 Meyer-Merian, Joh., Wittwe, Ellenwaarenhdlg.\nMeyer, Ludw., Kaufmann.\n1095 Schilling, Joh., Zolleinnehmer.\nBaumgartner, Jakob, Dessinateur.\nNeue Kaufhausgasse.\n1096 Caféhaus, Ritter, F. F., gehörend.\nHenk, F. L., Commis.\nBaarfüsserplaz.\n1097 Wehrlein-Himmeli, Karl, Ferger.\nStreitgasse.\n1098 Frei-Eschopp, F. F., Wittwe.\nNusser, F. M., Med. Dr., Professor.\n1099 Plattner-Mager, Wittwe Marie Charl.\n1100 Gysin, Alexand., Lithograph u. Chegerichtsamtmann.\n1101 Schaub, F. F., Handschuhmacher.\n1102 Schäublin, F. F., Schuhmacher.\nMaring, Peter, Schlosser.\n1103 Goldemann-Ketterer, Ab.\n1104 Plattner, Mart., Spengler.\n1105 Der Brüder-Societät gehörend.\nBlüher, C. L., Vorsteher.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3909,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1128,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0541,
+    "mean_line_chars": 29.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p062",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p062.jpg",
+      "bytes": 998235,
+      "sha256": "71e2bad508e25c0157f1102078c1ef8dfa1b777ab704675368e496302689684e",
+      "sha256_of": "original",
+      "working_copy": "1850_p062.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:51+00:00"
+  }
+}

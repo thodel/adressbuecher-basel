@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p188",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p188.jpg",
+    "bytes": 1066299,
+    "sha256": "d0df666a68378626a5483d47cfda7a9b974d8a2830f328f62a637f338bb72e6d",
+    "sha256_of": "original",
+    "working_copy": "1841_p188.jpg"
+  },
+  "text": "- 35 -\n\nTschientschy, Simon, Wirth. 280 St. Jakob. O. B.\nTuback, Johannes, von Romoos, Lehenmann. 147 Al-\n  schwilergasse. U. B.\nV.\nVögtlin, Ludwig, Commis. 80 Burgfelderstraße. U. B.\nVon Brunn, Anna Maria. 234 Münchensteinerstraße. O. B.\nW.\nWäber, Peter Franz, von Signau, Lehenmann. 304\n  Herdsträßlein. O. B.\nWagner, Susanna, Jgfr. 188 Lohstampfberg. U. B.\nWeber, Johannes, von Reigoldschwil, Taglöhner. 32\n  Klingelberg. U. B.\nWerenfels, Sus. Marg., geb. Mäglin, Wittwe, Schützen-\n  wirthin. 174 Schützenmatte.\nWermuth, Bernhard, Tanz- und Schwimmlehrer. 156\n  Lohstampfberg. U. B.\nWernli, Anna Maria, geb. Meyer, Wittwe, von Thalheim,\n  Gutsbesitzerin. 168 Unteres Schützenmattgäßl. U. B.\nWick, Johannes, Gutsbesitzer, Wirthschaft. 323 - 326\n  In der Breite. O. B.\nWild, Joh. Jakob, von Richterschweil, Ingenieur. 16\n  Straße nach St. Louis. U. B.\nWildy, Jakob, von Schafisheim, Druckermeister. 281 St.\n  Jakob. O. B.\nWilly, Johannes, von Herisau, Gutsbesitzer. 284 Am\n  St. Alban-Teich. O. B.\nWohlgemuth, Abraham, von Gutenschweil, Fabrikarbeiter.\n  193 Binningerstraße. O. B.\nWürz, Jakob, von Diepflingen, Blattmacher und Guts-\n  besitzer. 234 Münchensteinerstraße. O. B.\nZ.\nZankeisen, Ignaz, Taglöhner. 193 Binningerstraße. O. B.\nZimmermann, Fridolin, von Hardschwend, Ziegler. 239 a.\n  Mitt. Gundeldingen. O. B.\nZollinger, Markus, von Gossau, Gärtner und Gutsbesitzer.\n  82 Burgfelderstraße. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7229,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1406,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p188",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p188.jpg",
+      "bytes": 1066299,
+      "sha256": "d0df666a68378626a5483d47cfda7a9b974d8a2830f328f62a637f338bb72e6d",
+      "sha256_of": "original",
+      "working_copy": "1841_p188.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:47+00:00"
+  }
+}

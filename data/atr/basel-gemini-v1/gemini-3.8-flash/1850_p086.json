@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p086",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p086.jpg",
+    "bytes": 1024209,
+    "sha256": "91c88f1b7c3a9d7d3fcb4a6c29b53f415d0c9dd6c8240ee09a5ba280e276fcfe",
+    "sha256_of": "original",
+    "working_copy": "1850_p086.jpg"
+  },
+  "text": "Stadt-Quartier.\n73\n\n1627 Wölfflin, Johann Georg, Papierhandlung, Bureau\ndes Tagblattes.\nMadöry, Fch., Stuhlschreiner.\nFreyvogel-Wirz, Friedrich, Partikular.\n1628 Groben, Jakob, Glaser, Glashandlung in ordin.\nfranzösischen und böhmischen Glas- u. Kristall-\nwaaren, Steingut, Fayence und Spiegel.\nWybert-Hug, E., Med. et Chir. Pract., Garnisons-\nChirurg.\n1629 Speiser-Hauser, J. J., Bankdirektor.\nComptoir der Bank.\n1930 (Zunft zum Schlüssel) Rumpf-Bachofen, Hieron.,\nStubenverwalter.\nErsparnißkassa- u. Vorschußkassa-Bureau.\n1631 Material- und Farbwaarenhandlung von N. de J.\nBernoully & Sohn.\nHäfelin, J., Zahnarzt.\n1632 C. Brenner, Dr. Jur., Advocat.\n1633 Steinmann-Berri, Jakob, Spengler.\nEcklin, Dl., Med. Dr.\nWeber-Sutter, Heinr., Ladendiener.\n1634 (Ehemaliges Kaufhaus) Obrigkeitlich.\nAlinger, Abwart.\nSchwarz, Dor., Tabackhandlung.\n1635 Scheurmann-Zäslin, Joh., Commis.\nHolzach, E., Mehlhandlung.\n1636 Hunziger, Schneider.\n1637 Kirsch, Spezereihandlung.\nStreckeisen, Karl, Dr. Med. et Chir.\n1638 Meyer, Franz Josef, Hutmacher.\n1639 Schäfer-Weber, Sam., Bierbrauer.\n1640 Burckhardt-Basler, Christof de Christof, Quin-\nquailleriehandlung.\n1641 Leuba, Heinrich, älter, Uhrenmacher.\nGall-Fischer, Wittwe Kath., Wollenhandlung.\nChrist, Rud., Metzger.\n1642 Imhof-Falkner, H., Wollenwaarenhandlung.\nImhof-Wenk, Hier., Vater, Partikular.\n\nMarkt.\n\n1643",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6575,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1349,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p086",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p086.jpg",
+      "bytes": 1024209,
+      "sha256": "91c88f1b7c3a9d7d3fcb4a6c29b53f415d0c9dd6c8240ee09a5ba280e276fcfe",
+      "sha256_of": "original",
+      "working_copy": "1850_p086.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:21+00:00"
+  }
+}

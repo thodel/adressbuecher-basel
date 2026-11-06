@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p001",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p001.jpg",
+    "bytes": 1389211,
+    "sha256": "881f99b3e567898a50aa98b3a16a011d2db56cabd4906f2db4e5346175687e13",
+    "sha256_of": "original",
+    "working_copy": "1850_p001.jpg"
+  },
+  "text": "[unlesbar]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 1271,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "short",
+    "chars": 10,
+    "lines": 1,
+    "longest_char_run": 1,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 10.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.1,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p001",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p001.jpg",
+      "bytes": 1389211,
+      "sha256": "881f99b3e567898a50aa98b3a16a011d2db56cabd4906f2db4e5346175687e13",
+      "sha256_of": "original",
+      "working_copy": "1850_p001.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:09+00:00"
+  }
+}

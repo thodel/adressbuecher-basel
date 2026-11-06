@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p087",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p087.jpg",
+    "bytes": 918981,
+    "sha256": "d18bdf7f54434bdcd8d561543fee77ecd78284e7919909caa6b2ea230265aa33",
+    "sha256_of": "original",
+    "working_copy": "1850_p087.jpg"
+  },
+  "text": "74\nStadt = Quartier.\n1644 Brüderlin-Schmid, Nifl., Tuchhandlung.\nBreiter-Brüderlin, Wilh., Commis.\n1645 Jung, Frau Kathar., Leinwandhandlung.\nKindermarkt.\n1646 Meyer, F. A., Wirth.\nKeller, Wittwe, Kostgeberin.\n1647 Mehr, Franz Joseph, Kosthaus.\n1648 Hef-Mik, H. R., Lehrer, Kleinwaarenhandlung.\nMik, Ludwig, Sohn, Knopfmacher.\n1649 Rittmann, David, Zahnarzt.\n1650 (Zunft zum Safran.) Fischer, Reinhard, Stuben-\nverwalter, Agentur für Auswanderer.\nNiedengäflein.\n1651 Dänzler, F. N., Hasner und Wirth.\nKindermarkt.\n1652-53 Ketterer, Josef, Weinschenk u. Kosthaus.\nUngerer, F. Fh., Schneider.\n1654 Obrigkeitslich.\n1655-56 Kummer, F. A., Rathsbote, Weinschenk.\nSchneider, Franz, Mehlhandlung.\nFrey, Dl., Krankenwärter.\n1657 Schmied, Andreas, Metzger.\n1658 (Gasthaus z. Schnabel.) Ewig, F. G., Gastgeber.\n1659 (Zunft z. Kürschnern.) Unbewohnt.\n1660 Brandmüller-Eckenstein, H., Spezerei-, Commissions-\nu. Expeditions-handlung.\nFauslin, Abr., Commis.\n1661-62 Bauer, Johann, Rothergerber.\nDietsh, Dietrich, Handelsagent.\n1663 Bohny, Niklaus, Auschnitthandlung.\n1664 Knickmeyer, Ph., Goldschmied.\n1665 Dreis, Christian, Auschnitthandlung.\nMarkt.\n1666 Schmid, Christof, Weinschenk.\nA 1666 Bohny, Ambros., Spezereihandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4144,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1213,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 31.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0025,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p087",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p087.jpg",
+      "bytes": 918981,
+      "sha256": "d18bdf7f54434bdcd8d561543fee77ecd78284e7919909caa6b2ea230265aa33",
+      "sha256_of": "original",
+      "working_copy": "1850_p087.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:46+00:00"
+  }
+}

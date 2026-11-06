@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p084",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p084.jpg",
+    "bytes": 1027801,
+    "sha256": "da2e1fbecb6af77886023b572c6ed989f88367d77cf652a9e2641a8308774a3c",
+    "sha256_of": "original",
+    "working_copy": "1850_p084.jpg"
+  },
+  "text": "Stadt=Quartier. 71\n1592 Hoffmann-Meyer, Wittwe.\nHoffmann, Georg u. Rudolf, Leinentuchhandlung.\n1593 Gemuseus, Karl, Manufakturwaarenhandlung.\nWybert-Schmid, F. F., Commis.\n1594 Walter, Karl, chirurg. Instrumentenmacher.\nPichioni, Lud., Phil. Dr. und Prof.\n1595 Huber, F. F., Commissionshandlung.\nRespinger-Burckhardt, Wittwe.\nSteigmeyer, F., Geschäftsmann.\n1596 Berri-Kinder, Melch., Med. Dr.\nLerch, Const. und Peter Jos., Seidenwaarenhandlg.\nSchabelik-Lok, Commis, Corsethandel.\n1597 Hübischer-vonSpeyr, Eml., Kürschner und Rauchwaarenhandlung.\nHalter, Wittwe Elisab., Rentière.\n1598 BonderMühl-Anhiner, Joh., Seidenwaarenhandlg.\n1599 Nieber, Jak., Spezerei- und Tabackhandlung.\nSporrengasse.\n1600 Bernoulli-Bär, Leonh., Materialhandlung.\n1601 Pfisterer, R. H., Seckler u. Kappenmacher.\nWirz, F. F., Dr. Jur., Polizeigerichtschreiber und Advokat.\nWirz, Wittwe, Rentière.\n1602 Sutter, Joh. Jak., Sattler.\nSutter, Joh. Jak., Gerber.\nHaas, Schwestern, Schneiderinnen.\n1603 Schaub, Andreas, Notar.\nSchaub, Wittwe, geb. Fischer.\nSt. Martinsgässlein.\n1603 Paravicini, Leonh., Eisenhandlung.\n(Notariatsbureau von Paravicini und Schaub.)\n1604 Zu Nr. 1602, Sutter Joh. Jak., gehörend.\nSt. Martinskirchhof.\n1605 Hübischer, Adolf, Kürschner.\n1606 Zu Nr. 1602 und 1604, Sutter, F. F., geh.\nSporrengasse.\n1607 Riggenbach, August, Lehrer.\nRiggenbach, Franz, Kaufmann.\nBoulerot, P. Ch., französischer Zahlmeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4543,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1399,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 35.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p084",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p084.jpg",
+      "bytes": 1027801,
+      "sha256": "da2e1fbecb6af77886023b572c6ed989f88367d77cf652a9e2641a8308774a3c",
+      "sha256_of": "original",
+      "working_copy": "1850_p084.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:32+00:00"
+  }
+}

@@ -1,0 +1,53 @@
+Gartenstraße. — Gaßstraße. — Gellertstraße. 49
+Nene
+Haus=Mr. | Quar-
+tier. | Alte
+Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+72 | IV. | 211 F | | Epple-Stücklin, Christian.
+| | | | Bieler-Gros, Jacob Friedrich, Kaufm.
+| | | | Dinkel-Brüderlin, Franz, Architekt.
+| | | | Schaub-Lehnher, Jac. Fr., Caffier be-
+| | | | der Centralbahn.
+Gaßstraße.
+7 | I. | 7 | | Dollfus, Caspar.
+7 | I. | 6 | Gasanstalt. | Stadtgemeinde.
+| | | | Grunner, Carl Heinrich, Ingenieur.
+| | | | Buxmann, Bernh. Gottl. Alb., Chemiker.
+| | | | Ullmann, Jakob Rudolf, Auffeher.
+Gellertstraße
+2 | V. | 300 A. | | Burckhardt-Schönauer, Ludwig.
+| | | | Burckhardt-Schönauer, L., Kunstmaler.
+5 | V. | 301 | | Bischoff=Zselin, Christoph.
+| | | | (Sommerwohnung.)
+6 | V. | 299 B. | | Wieland=Gemuseus, Emil.
+7 | V. | 300 | | Bischoff=Zselin, Christoph.
+| | | | (Remise und Stallung.)
+13 | V. | 299 | | Burckhardt=Preiswerk, Wilhelm.
+| | | | Meyer=Wälti, Jacob, Gärtner.
+14 | V. | | | Holzach=Ec, Friedrich.
+| | | | Holzach=Ec, Fr., Ziegelfabrikant.
+15 | V. | 298 | | Burckhardt=Preiswerk, Wilhelm.
+| | | | (Remise und Stallung.)
+16 | V. | | | Gemuseus=Riggenbach, Rud. Wilh.
+| | | | Gemuseus=Riggenbach, R. W., Papierkft.
+19 | V. | 297 | | Bischoff, Carl.
+| | | | Laudis=Felber, Heinrich, Gärtner.
+22 | V. | 298 A. | | Tschopp=Holzach, Heinrich.
+| | | | Tschopp=Holzach, Heinrich, Spengler.
+| | | | Stiickelberger=Speiser, Andr., Bandfbkt.
+| | | | Burckhardt=Schricke, Eduard.
+23 | V. | 293 | | Buser=Müry, Jacob, Lehrenbeständer.
+28 | V. | 296 | | Pfander=Carlé, J. J. sel., Erben.
+| | | | Weber=Mangold, Samuel, Landwirth.
+29 | V. | 286 | | Burckhardt=Schricke, Eduard.
+| | | | Scheidegger=Kramer, Joh., Gärtner.
+30 | V. | 296 A. | | Pfander=Carlé, Joh. Jac. sel., Erben.
+| | | | (Scheune.)
+31 | V. | 286 b. | | Burckhardt=Schricke, Eduard.
+| | | | (Sommerwohnung.)
+40 | V. | 827 | | Merian=Burckhardt, Wb. Margar.
+| | | | (Scheune.)
+43 | V. | 282 | | Sutter=Kaufmann, Joh. Rudolf.
+| | | | Sutter=Kaufmann, J. R., Landwirth.
+4

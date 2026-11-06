@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p083",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p083.jpg",
+    "bytes": 912616,
+    "sha256": "cc706325e2f2356b4f50c4de65c2a82418647b4eadb0be2da2daefe3161d4947",
+    "sha256_of": "original",
+    "working_copy": "1841_p083.jpg"
+  },
+  "text": "76\nNro.\nUtengasse.\n396 * Müller und Comp.\n397 * Stallung, Rud. Bienz, Metzger, geh.\n398 * Geßler, Andreas, Gerber, geh.\n399 * Fäsch, Emanuel, Beck, geh.\n400 Bricard, Samuel, Küfer und Weinhändler.\n  Müller, Heinrich, Weinhändler.\n401 * Remise und Stallung, Heußler, Leonhard, geh.\n402 * Scheune, Bratteler, Jakob, Beck, geh.\n403 * Stallung, Salathe, J. Christ., geh.\n404 * \" Sutter, Michael, zum Bären, geh.\n405 * \" Bienz, Rudolf, Metzger, geh.\nSchafgäßlein.\n406 * Hinterhaus v. Silberberg.\nUtengasse.\n407 u. 408 * Barth-Otto, Samuel, geh.\n409 Ritter, Rud. sel., Wittwe.\n410 * Meister, Conrad, Seidenfärber sel., Wittwe, geh.\n411 u. 412 * Scheune u. Hinterhaus v. J. J. Meyer, Sonnenwirth.\n413 * Schweizer, Lud., Maler. „ Baumgartner, Heinr., Maler.\n414 * Ziegelhof, Lotz, Fr., geh.\n415 Meister, Conrad, Seidenfärber sel., Wittwe.\n416 u. 417 Lindenmeier, J. Rud., Lehrer am Waisenhause.\n  Urech, geb. Sus. Wierz, Wittwe.\n418 Eglin, Christoph, Zimmermann.\n419 * Gerberei, zu Nro. 61 geh.\n420 * Eglin, Chr., Zimmermeister, geh.\n421 Siegrist, A. Magd., geb. Beckel, Wittwe.\n422 * Weiß, Rud., Fabrikaufseher.\n423 Brunner, J. Heinr., Küfer.\n424 Schardt, Joh. Ulrich, Metzger.\n425 Götz, Nikol. Wilh., Devisenmacher.\n426 * Braun-Geßler, Andreas, Gerber.\n427 u. 428 Merian-Stähelin, Remigius, Maurermeister.\n429 u. 430 Krattiger, Joh., Schneider.\n431 u. 432 Schäfer, August, Zimmermann.\n  Münch, Jungfer Susanna, Kleinkinderschule.\n433 Dunkel, Jakob, Maurer, von Kleinhüningen.\n434 Brüderlin, Joh., Commis.\n435 Gysin, Ulrich, Seidenfärber.\n436 * Jucker, Joh. Ulrich, geh.\n437 * Magazin und Spezereiladen von J. Rieber.\n438 Blindenbacher, Christoph, Gerbergesell.\n439 Hug, J. J., Maurer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8334,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1678,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0217,
+    "mean_line_chars": 35.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:51:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p083",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p083.jpg",
+      "bytes": 912616,
+      "sha256": "cc706325e2f2356b4f50c4de65c2a82418647b4eadb0be2da2daefe3161d4947",
+      "sha256_of": "original",
+      "working_copy": "1841_p083.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:43+00:00"
+  }
+}

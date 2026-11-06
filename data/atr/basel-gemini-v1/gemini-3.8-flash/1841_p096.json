@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p096",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p096.jpg",
+    "bytes": 1054982,
+    "sha256": "d741941b6f4c1ac91033691a2724bde378f7a2813befd574ed5a0c6ce4a678b9",
+    "sha256_of": "original",
+    "working_copy": "1841_p096.jpg"
+  },
+  "text": "13\n\nFeierabend, Peter, Schuhmacher. 811 Vord. Steinen-Vorstadt.\nFeuerstein-Jaillet, Handels-Commis. 1688 Hinter d. Rümlinsmühle.\nFichter, J. J., Kaufmann. 904 St. Elisabethen.\nFinninger, Joh. Jakob, Hufschmid. 986, 987 u. 988 Aeschen-Vorst.\nFinninger, Sam., Sattler. 1393 Am Bäumlein.\nFinninger, Joh. Rud., Beck. 288 Spahlen-Vorstadt.\nFischer, Joh. Peter, Küfer. 1571 Hinter der School.\nFischer, Andreas, Metzger. 196 Unt. Heubergberg.\nFischer, Jungfrau, Anna Maria. 1746 Sattelgasse.\nFischer-Werdenberg, Niklaus, Ausschnitthandel u. Geldwechsel. 1668\n  Hutgasse.\nFischer, Joh. Balth., Tuchscherer. 970 Sternengäßlein.\nFischer, J. Heinrich, Küfer und Essigsieder. 612 Schnabelgäßlein.\nFischer, Balthasar, Mehlwäger. 1056 Beim Aeschen-Schwibbogen.\nFischer, Elisabeth, geb. Schilling. 296 Spahlen-Vorstadt.\nFischer, Emanuel, Sigrist. 694 Auf dem Kirchhof.\nFischer, Andreas, alt Stadtrath. 772 Vordere Steinen-Vorstadt.\nFischer, Elias, Weißbeck. 775 Vordere Steinen-Vorstadt.\nFischer, Friedrich, Professor. 1214 St. Alban-Vorstadt.\nFleiner, Wilh., Handels-Commis. 1523 Fischmarkt.\nFlick, Rudolf, Schuhmacher. 102 St. Johann-Schwibbogen.\nFlick, J. J., Lagerhausverwalter. 126 Neue Straße.\nFluck, J. J., Faktor auf der Post. (Wirth.) 106 Blumenrain.\nFöhr, Wittwe, geb. Schnebeli, und Sohn. 342 Fröschgasse.\nForkart-Bachofen, Rud., Handelsmann. 1048 St. Albangraben.\nForkart-Iselin, Achilles, Handelsmann. 984 Aeschen-Vorstadt.\nForkart-Gentschik, Rud. 918 St. Elisabethen.\nForkart, Esther, Jungfer. 1048 St. Albangraben.\nForkart-Hoffmann, Rud. 1055 Beim Aeschen-Schwibbogen.\nForkart-Hoffmann, Rud. 1213 St. Alban-Vorstadt.\nForkart-Merian, Dietrich. 1355 St. Alban-Vorstadt.\nForkart-Respinger, Lucas. 1515 Augustinergasse.\nForkart-Weis, Joh. Rud. sel., Erben. 1051, 1052 St. Albangraben.\nFrank, Fr., Schlosser, von Kronweißenburg. 88 St. Joh.-Vorstadt.\nFrei, Wittwe, geb. Gysi. 57 St. Johann-Vorstadt.\nFrei, Jeremias, Knopfmacher. 484 Oberer Spahlenberg.\nFrei, Jakob, Schreiner. 595 Schneidergasse.\nFrei, Heinrich, Fabrikarbeiter. 422 Heuberg.\nFrei, Hans Ulrich, Schreiner. 259 a Neue Vorstadt.\nFreimaurer-Loge. 1450 Schlüsselberg.\nFrey, Joh. Jakob, Weinsticher. 1098 Streitgasse.\nFrey, Salomon, von Hofstetten, Kant. Zürich. 1682 Kuttelgäßlein.\nFrey, Joh., Spezereiladen. 1029 Aeschen-Vorstadt.\nFrey, Mathias, Weinschenk. 1651 Rüdengäßlein.\n\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8916,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2337,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:53:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p096",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p096.jpg",
+      "bytes": 1054982,
+      "sha256": "d741941b6f4c1ac91033691a2724bde378f7a2813befd574ed5a0c6ce4a678b9",
+      "sha256_of": "original",
+      "working_copy": "1841_p096.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p117",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p117.jpg",
+    "bytes": 1065296,
+    "sha256": "3b3088fe334ee9acfce0357fe914957b88f973e1403e23151da2e67c4ba9c9cd",
+    "sha256_of": "original",
+    "working_copy": "1850_p117.jpg"
+  },
+  "text": "104\nFluck, F. F., Postfakt. 106 | Frenvogel u. Heusler 1309A\nFlubacher, C., Commis 473 | =Imhof, Friedr. 1309A\nFsaaf, Schuhmacher 1180 | =Wirz, Fch. 1627\nHeinr., Hausknecht *233 | Frick, Peter, Papierer 1284\nFluri, Nikl., Bifar *106 | Fricker, Wittwe 410\nFrau Katharina 1123 | Fgfr., Salomea 715\nFöhr, Balthas., Comm. 1362A | Friedrich, Rud., Maurer 925\nFollenweider, F. N. 587 | =Hug, L., Baumeister 970\nAdolf, Kunstmaler 587 | Frischknecht, F. F. 1130\nFolz, Wittwe, Fürkäuf. 1671 | Frieze, Wittwe *162\nForkart-Bachofen, Rud. 1048 | Fröblich, Fos., Lehrer 724A\n=Weiß (Comptoir) 1052 | Froffard, A., Schneider 765\n=Hoffmann, Rud. 1055 | Früh, Abraham, Bater 141\n=von Gentschick 1248A | Ludw., Hufschmied 141\n=Merian, Dietr. 1355 | Rasp., Buchbinder 162\n=Kespinger, Lukas 1515 | Faf. Friedr., Spanner 864\nFgfr., Elise 1248B | =Remy, Hier., Müller 1333\nFrank, Fr., Schlosser 88 | =Ronus, Hieron. 1535\nFreuler, Nikl., Schuhm. 1418 | Ed., Commis 1535\nFrey-Laudier, F. 180 | Frutiger, Chr., Ferger 196\nAlfr., Med. Dr. 257 | =Hägler, Wittwe 240\nHs. Ulr., Schreiner 259A | Fuchs, Lor., Buchbind. 1755\nFch., Sohn, Archit. 259A | =Grüninger, Wittwe. *303\nHeinr., Fabrikarbeiter 422 | Fürbringer, F. G. 918\nF., Bater, Knopfmach. 484 | Fürstenberger, Wittwe 511\nPeter Hs., Geschäftsm. 526 | Gall-Fischer, Wwe. Cath. 1641\nAdolf, Küfer 543 | Gally, Joh. 1414\nJohann Rudolf 564 | Garnaus-Felber, Wwe. 871\nJakob, Schreiner 595 | F. F., Comm. 871\nJeremias, Polizeidien. 720 | Garnjobst, G. H. Ch. 1030\nBeat. Herkules 781 | F. H., Seckler 1061\nGustav, Commis 1066 | F. U., \" 1156\n=Eschopp, Wittwe 1098 | Gaffert, Wittwe 205\nJoh. Jakob 1160 | Gasquet, Fr. W. 970\nThurneyfen 1206-7 | Gaf, Abr., Postadjunct 291\n=Stückelberger, F. N., 1231 | =Thurneisen, F. 662\n=Frenvogel, H., Rekt. 1458 | F. F., Megger 754K\nDl., Krankenwär. 1655-56 | =Thurneisen, Hch. 980\nFranz *91 | =Sigt, Joh. Hch. 1131\nKarl, Lehrer *96 | F. R., Schriftfekr 1137\nFgfrn., Modifinnen 1394 | F. F., Koch 1138\nFrenburger, Wittwe 962 | Jakob, Posamenter 1299\nFreyler, Rud. 101 | Joh., Weißbeck *150\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8107,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2057,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:13:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p117",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p117.jpg",
+      "bytes": 1065296,
+      "sha256": "3b3088fe334ee9acfce0357fe914957b88f973e1403e23151da2e67c4ba9c9cd",
+      "sha256_of": "original",
+      "working_copy": "1850_p117.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:31+00:00"
+  }
+}

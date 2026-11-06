@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p084",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p084.jpg",
+    "bytes": 1027801,
+    "sha256": "da2e1fbecb6af77886023b572c6ed989f88367d77cf652a9e2641a8308774a3c",
+    "sha256_of": "original",
+    "working_copy": "1850_p084.jpg"
+  },
+  "text": "Stadt-Quartier. 71\n\n1592 Hoffmann-Meyer, Wittwe.\n  Hoffmann, Georg u. Rudolf, Leinentuchhandlung.\n1593 Gemuseus, Karl, Manufakturwaarenhandlung.\n  Wybert-Schmid, J. J., Commis.\n1594 Walter, Karl, chirurg. Instrumentenmacher.\n  Pichioni, Lud., Phil. Dr. und Prof.\n1595 Huber, J. J., Commissionshandlung.\n  Respinger-Burckhardt, Wittwe.\n  Steigmeyer, J., Geschäftsmann.\n1596 Berri-Linder, Melch., Med. Dr.\n  Lerch, Const. und Peter Jos., Seidenwaarenhandlg.\n  Schabelitz-Lotz, Commis, Corsethandel.\n1597 Hübscher-vonSpeyr, Eml., Kürschner und Rauch-\n    waarenhandlung.\n  Halter, Wittwe Elisab., Rentière.\n1598 VonderMühll-Ryhiner, Joh., Seidenwaarenhandlg.\n1599 Rieber, Jak., Spezerei- und Tabackhandlung.\n\nSporrengasse.\n\n1600 Bernoulli-Bär, Leonh., Materialhandlung.\n1601 Pfisterer, R. H., Seckler u. Kappenmacher.\n  Wirz, J. J., Dr. Jur., Polizeigerichtsschreiber und\n    Advokat.\n  Wirz, Wittwe, Rentière.\n1602 Sutter, Joh. Jak., Sattler.\n  Sutter, Joh. Jak., Gerber.\n  Haas, Schwestern, Schneiderinnen.\n1603 Schaub, Andreas, Notar.\n  Schaub, Wittwe, geb. Fischer.\n\nSt. Martinsgäßlein.\n\n1603 Paravicini, Leonh., Eisenhandlung.\n  (Notariatsbureau von Paravicini und Schaub.)\n1604 Zu Nr. 1602, Sutter Joh. Jak., gehörend.\n\nSt. Martinskirchhof.\n\n1605 Hübscher, Adolf, Kürschner.\n1606 Zu Nr. 1602 und 1604, Sutter, J. J., geh.\n\nSporrengasse.\n\n1607 Riggenbach, August, Lehrer.\n  Riggenbach, Franz, Kaufmann.\n  Boulerot, P. Ch., französischer Zahlmeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8110,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1451,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 34.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p084",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p084.jpg",
+      "bytes": 1027801,
+      "sha256": "da2e1fbecb6af77886023b572c6ed989f88367d77cf652a9e2641a8308774a3c",
+      "sha256_of": "original",
+      "working_copy": "1850_p084.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:05+00:00"
+  }
+}

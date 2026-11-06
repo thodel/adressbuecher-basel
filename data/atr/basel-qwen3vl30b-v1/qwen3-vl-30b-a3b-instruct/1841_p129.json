@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p129",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p129.jpg",
+    "bytes": 925176,
+    "sha256": "fcbad85593ebe083c9f8602d35ce73a5590a0f21c1a7f9f25c6b1c3d47903d0c",
+    "sha256_of": "original",
+    "working_copy": "1841_p129.jpg"
+  },
+  "text": "46\nEschopp, H. Jak., Kutscher, von Brezweil. 17 St. Joh.=Borstadt.\nEschopp, Joh. Jakob, Fabrikarbeiter. 1118 Weisse Gasse.\nEschopp, Bernhard, Fabrikarbeiter, von Zysen. 889 Klosterberg.\nEschopp, Heinrich, Spengler. 1438 Freie Straße.\nEschopp, Johannes, Beck, 848 Unterer Klosterberg.\nEschudy, Ulrich, Schneider, von Bennweil. 614 Hinter der Rüm-\nlinsmühle.\nEschudy, Joh., Maurermeister. 632 Gerbergässlein.\nEschudy, Joh. Ulrich, Schneider. 1706 Unterer Spahlenberg.\nEschudy, Jakob, Schneider. 237 St. Petersgasse.\nII.\nUebelin, Joh. Friedrich, Büralift. 743 Ochfengraben.\nUebelin=Geßler, Carl, Handels-Commis. 997 Beim Aeschen=Thor.\nUlmann, Moses, Bater, Wirth zur Kanne. 352 a Spahlen-Borst.\nUlrich, Conrad, Schneidermeister, von Unter-Stammheim. 18 St.\nJohann=Borstadt.\nUngerer, Andreas, Wirthschaft. 1710 Unterer Spahlenberg.\nUster, Joh. Jakob. 207 Spiegelgasse.\nUster, Daniel, Schneider. 1018 Aeschen=Borstadt.\nUh, Joh. Fr., Fabrikarbeiter. 56 St. Johann=Borstadt.\nS.\nVan Laer, J. A. L. 941 Aeschen=Borstadt.\nBernier, Friedrich, Schreiblehrer. 657 Gerbergasse.\nBest, Joh. Rudolf, Schuhmacher. 1572 Hinter der School.\nBest, Emanuel, Kaufmann. 235 St. Petersgasse.\nBest, Hieronymus, Gerichtschreiber. 1202 Luftgässlein.\nBest, Jungfer, Salomea. 392 Bei St. Leonhard.\nBest, Joh. Rudolf, Buchbinder. 1384 Am Bäumlein.\nBest, geb. Müller, Wittwe. 826 Vordere Steinen=Borstadt.\nBest=Wenk, Joh. Bernh. 1385 u. 1386 Am Bäumlein.\nBillard, Emil, von Evillard, franz. Pfarrer. 272 Im Kloster.\nBillinger, Melchior, Wirthschaft. 367 Auf der Leis.\nBischof, Benedikt, Oberst. 1358—1360 Rittergasse.\nBischof, Salomea und Susanna, Jungfern. 1366 Hint. d. Münster.\nBischof=Handmann, Eduard. 1311 a St. Alban=Borstadt.\nBischof=Bilsinger, Wilh., Phil. Dr. und Professor. 442 Spieß-\nhofgasse.\nBischof=Forhart, Margaretha, Wittwe. 1048 St. Albangraben.\nBischof=Valentin, Wilh. 1364 Hinter dem Münster.\nBischof=Passavant, Peter, Handelsmann. 1509 Rheinsprung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6216,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1937,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p129",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p129.jpg",
+      "bytes": 925176,
+      "sha256": "fcbad85593ebe083c9f8602d35ce73a5590a0f21c1a7f9f25c6b1c3d47903d0c",
+      "sha256_of": "original",
+      "working_copy": "1841_p129.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:57+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p091",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p091.jpg",
+    "bytes": 881687,
+    "sha256": "c78ccdf5b27f5ff7f885a0b126c4d1744265958068519f34db3152cb54325918",
+    "sha256_of": "original",
+    "working_copy": "1850_p091.jpg"
+  },
+  "text": "78 Stadt-Quartier.\n\n1738 Landerer-Fäcklin, Wittwe Marie, Bürstenbinder.\n1739 Ruprecht, Stephan, Wirth u. Kosthaus.\n1740 Rieger, Heinr., Zimmermann.\n1741 Siegrist-Heußler, Abrah., Korbhandlung.\n  Munzinger, Luk. Dietr., Post-Commis.\n\nSattelgasse.\n\n1742 Reinhold, Gottfried, Zimmermann.\n1743 Germann, Jakob, Nagelschmied.\n1744 Kromer, Johann Peter, Schuhmacher.\n  Nägelin, And., Schuhmacher.\n1745 Stöcklin, Joseph, Maurer.\n1746 Schrämli, Matthias, Flachmaler.\n1747 Caillat, Jgfr. Louise, Lingeriehandel.\n\nHinter der School.\n\n1748 Löw, Joh. Georg, Trödler, Kostgeber.\n1749 Weiß, Innocenz, Kostgeber.\n\nSchneidergasse.\n\n1750 Liebreich, J. K., Schneider u. Gantrufer.\n1751 Detwiler, Eman., Fabrikarbeiter.\n1752-53 Zimmermann-Früh, Wittwe, Uhrenmacher.\n1754 Peschel, Karl, Säckler. Verkaufslokal in Nr. 581.\n1755 Fuchs, Lorenz, Buchbinder.\n1756 Meyer, Joh. R., Magazinarbeiter.\n  Räber, F., Schuhmacher.\n1757 Obrecht, Johann Jakob, Ferger.\n1758 Bauler, Jgfrn., Anna u. Valeria.\n  Buxtorf-Elsner, Wittwe Elise, Ellenwaarenhdlg.\n1759 Wolf, Schwestern, Modistinnen.\n  Wolf, Gebrüder, Lithograph und Zeichner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5464,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1098,
+    "lines": 30,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p091",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p091.jpg",
+      "bytes": 881687,
+      "sha256": "c78ccdf5b27f5ff7f885a0b126c4d1744265958068519f34db3152cb54325918",
+      "sha256_of": "original",
+      "working_copy": "1850_p091.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:52+00:00"
+  }
+}

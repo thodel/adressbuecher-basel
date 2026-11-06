@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p047",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p047.jpg",
+    "bytes": 1139368,
+    "sha256": "701c4c3418a2dfeea3438b5a518efc8e273b43e33324c0a5b5c9adf216e87750",
+    "sha256_of": "original",
+    "working_copy": "1850_p047.jpg"
+  },
+  "text": "34 Steinen-Quartier.\n\n757 (Magazin) Stähelin, Gebrüder, geh.\n758 Stocker, Alois, Pintenschenk. [handschriftlich: gestrichen] [handschriftlich: Wb. Jeanin geb. Orscher]\n759 Grunauer, Gottlieb, Kaufmann. [handschriftlich: gestrichen]\n  Auswanderungsbureau von Beck u. Herzog, alleinige\n    Hauptagenten für die Schweiz, der regelmäßigen\n    Postschiffe zwischen Havre und New-York.\n760 Wybert-Thurneisen, F. J., Rentier.\n  Comptoir von Beck u. Herzog. Commission u. Spe-\n    dition. Haupt-Agentur des deutschen Phönix u.\n    der Frankfurter Lebensversicherungs-Gesellschaft,\n    Unterdirektion der Caisse paternelle, Direktion\n    für die Schweiz der Sécurité commerciale.\nVordere Steinen-Vorstadt.\n761 Geßler, Karl Achilles, Beck.\n  Respinger, Jungfrau Salome.\n  Meyer, Jungfrau Appollonie.\n762 Hindermann, Joh. Wilh., Beck.\n763 Borgognon, Franz Ludwig Konst., Handels-Commis.\nA 763 (Farbhaus.) Ebendemselben.\n764 Feuerstein, Daniel, Commis.\n  Keller-Zeller, Hch., Unterbestäter.\n  Dollmar, K., Agent der Schaffhauser Eilfuhre.\n765 Anklin, Joseph, Schreiner und Wirth.\n  Frossard, A., Schneider.\n766 Vöcklin, F., Bandfabrikant.\n  Comptoir von Glock u. Hübscher, Speditor.\nHinterer Bach.\n767 Dichtel, Joh., Posamenter.\n  Mollinet, W., Seiler. (Laden in Nr. 730.)\n768 Breitenstein, Frau, geb. Schaub, Schneiderin.\nVordere Steinen-Vorstadt.\n769 Rübenstahl, Jakob, Steinmetz u. Wirth.\n  Lang, Georg, Anton u. Joseph, Musiker.\n770 Bienz, Joh. Rudolf, Schreiner.\n771 Häring, August, Schreiner.\n772 Fischer, Joh. Balthasar, Partikular, Quartierschrei-\n    ber des Aeschen-Quartiers.\n773 Schaub, Matthias, Schuhmacher.\n  Fauslin, J. J., Ferger.\n774 Henz-Schölly, Niklaus, Weißbeck.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7237,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1672,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 38.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p047",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p047.jpg",
+      "bytes": 1139368,
+      "sha256": "701c4c3418a2dfeea3438b5a518efc8e273b43e33324c0a5b5c9adf216e87750",
+      "sha256_of": "original",
+      "working_copy": "1850_p047.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:55+00:00"
+  }
+}

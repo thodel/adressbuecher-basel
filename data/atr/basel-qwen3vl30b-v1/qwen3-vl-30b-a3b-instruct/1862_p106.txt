@@ -1,0 +1,61 @@
+Neue
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Kro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Freie Straße.
+1 | VI. | 1618 | zum Appenzell. | Schneider=Grifanti, Rudolph.
+Schneider=Grifanti, Rud., Uhrmacher.
+Märklin, Andreas, Handlungsreisender.
+2 | VI. | 1639 | zum rothen Thurm. | Imhoff=Falkner, Hieronimus.
+Imhoff=Falkner, Hieron., Wollwaaren-
+und Mercerie-Handlung.
+Almandi=Chinger, Wb. Julie, Kent.
+3 | VI. | 1619 | zum Halbmond. | Meißner=Fischer, Marcus.
+Meißner=Fischer, Marcus, Apotheker.
+Meißner, Adolph, Apothekergehilfe.
+Trüdinger, Georg, Kaufmann.
+4 | VI. | 1638 | zur Schere. | Burckhardt=Mieg, Joh. Jac.
+Burckhardt=Mieg, Joh. Jac., Kaufmann.
+Quincaillerie, Parfumerie.
+Firma Christof v. Christof Burckhardt.
+5 | VI. | 1620 | zur goldenen Lilie. | Riedtmann=Erlacher, Wilhelm.
+Riedtmann=Erlacher, Wilh., Kaufmann.
+6 | VI. | 1637 | 3. Himmelsporten. | Stierlin=Schwab, Emanuel.
+Philippi=Stierlin, Wilhelm Rud. Franz,
+Kaufmann.
+7 | VI. | 1621 | 3. schwarzen Haus. | Bloch, Peter.
+Bloch, Peter, Seiler.
+8 | VI. | 1636 | zur Himmelspforte. | Kirch, J. C. fel. Wb. Christ. Marg.
+Kirch=Lindemeyer, Wb. Christ. Marg.
+Kaufm., Spezerei u. Comestiblegesch.
+Firma Casp. Krug.
+Kirch, J. C., Agenturgeschäft.
+Kirch, Peter, Kaufmann.
+Kirch, Arnold, Kaufmann.
+3. schmal. Sonne. | |
+9 | VI. | 1622 | 3. goldenen Falken. | Bernaur=Müller, Victor.
+Bernaur=Müller, Victor, Kaufmann.
+Schütz=Chabrol, Emil, Commis.
+10 | VI. | 1635 | | Georg=Neufirch, Heinrich.
+Georg=Neufirch, Heinr., Buchhändler.
+Neufirch'iche Buch- u. Kunsthandlung.
+Bischoff u. Ründig, Advokatur und No-
+tariatsbureau. Polizeigerichtskanzlei.
+Blandet, Jeanne Suf. Paul., Kent.
+11 | VI. | 1623 | | Oswald, Gebrüder.
+Wolf=Meyer, Benjamin, Kaufmann.
+12 | VI. | 1634 | Post. | Staat.
+Maurer=Wölfflin, Joh., Postdirector.
+Sulzer, Jakob Wilhelm, Kaufmann.
+13 | VI. | 1624 | zum Hermelin. | Settelen=Settelen, Frz. Anton.
+Settelen=Settelen, Frz. Ant., Schneider-
+meister u. Kleiderhandlung.
+14 | VI. | 1633 | zum Frauenstein. | Steinmann=Bonwiler, Jakob.
+Steinmann=Bonwiler, Jakob, Spengler.
+Ullmann=David, Felix, Kaufmann in
+Weißwaaren u. Broderien.

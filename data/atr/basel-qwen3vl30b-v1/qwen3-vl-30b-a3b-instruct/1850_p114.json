@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p114",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p114.jpg",
+    "bytes": 1180441,
+    "sha256": "17be9658513dcb9dacb0f1a7315fa1d469edd4f04a6e425851fc72b43d078733",
+    "sha256_of": "original",
+    "working_copy": "1850_p114.jpg"
+  },
+  "text": "101\nBuser, Wwe., Modiste 491 | Clavel-Linder, Aleg. *274\nJakob, Schneider 678 | Courvoisier-Lowndes,G. 192\nGeorg Christ. 969 | =vonderMühl, Hdlsm. 386\nF. F., Ferger 1076 | =August, Commis *114\nPeter, Schuhmacher 1167 | Cosis, Jof. Anton 25\nF. F., Sohn, Lehrer 1371 | Cramer-Senn, Wwe. M. *5\nFriedr., Mechaniker *121 | Crussaire, Wittwe 590\nMattb., Ferger *423 | Louis, Zuckerbec 1149\nBux, F. F., Ferger 993 | Cuénod, Wwe. Elise 1494\nBuxtorf=Falkeisen, Cand. 40 | Dalang, Jaf. u. Sch. *60\n=Preiswerk, N., Pfr. 261 | =Heger, Ed., Ferger *217\n=Bischoff, A., Bandf. 379-80 | Däntlicher, Jgfr. Cath. 1261\nAndreas, Sohn 379-80 | Dänzler, F. N., Hafn. 1651\n=Merian, L. 886 Compt. 510 | Däschler, Claviermacher 591\n=Bischoff, Fabrike 754GH | David, L., Glaser 130\n=Jettscherin, F., Sensal 1452 | Rudolf, Küfer 608\n=Preiswerk, Christ. 1517 | Eml., Commis 798\n=Burchhardt, Wittwe 221 | Jakob, Ferger 836\n=Elöner, Wittwe, Cl. 1758 | Heinr., Berwalter 839\nByfelder, Wittwe 1398 | =Sickler, Jof. 1239\nCailat, Jgfr., Louise 1747 | =Stähelin, Reinh. 1263\nCalame=Reyenthaler, G. *199 | J. N. u. Confort, 1381A\nCappeler, F., Schuhm. 1699 | =Lichtenhahn, Wwe. 307\nCaumont, Fr. Ldw. 455 | Jof., Mezger *9\nCherbuin, F., Lehrer 288 | Jof. Rud., Mezger *48\nChrist, Ldw., Schuhm. 577 | Christof, Weinschenk *80\n=Ryburtt, F. F. 942 | =Meyer, Rud., Mezg. *107\nF. F., Notar 1080 | Hier., Mezger *280\n=Sarasin, Ad., Bandf. 1205 | Dan, Wwe. M. M. 559\n=Bischoff, Rem. 1206-7 | Beda, Tapezierer 814\nBenedikt 1372 | Jof., Sohn, Schreiner 894\nF. Bapt., Schuhm. 1554 | Debarv=Sarasin, Jof. 1483\nRud., Mezger 1641 | Jof., Sohn 1483\nJgfr., Maria 716 | =Nespinger, Wwe. 1484\nChristian, Schneider *83 | Debrunner, Heinrich 943\nWittwe, Elise *83 | Deck, Andr., Beamter 330\nBalth., Commis *272 | Jof., Schneider 1224\nChristen, Nikl., Courtier 674 | F. Ulr. u. P. Wilh. 1126\nPeter, Ferger 882 | Wittwe Elise 1224\nWittwe, Magdalena 849 | Deckinger, C., Küfer 85\nMath., Lohnwascher *324 | Degen, Sch., Zimmerm. *329\nChristmann, Jof., Gastg. 147 | Deggeler, Bd., Schloffer 86\nClaffen=Steiger, C. A. 582 | DeGoumois, Wilh. 1273",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7974,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2083,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:13:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p114",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p114.jpg",
+      "bytes": 1180441,
+      "sha256": "17be9658513dcb9dacb0f1a7315fa1d469edd4f04a6e425851fc72b43d078733",
+      "sha256_of": "original",
+      "working_copy": "1850_p114.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:07+00:00"
+  }
+}

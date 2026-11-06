@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p042",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p042.jpg",
+    "bytes": 979645,
+    "sha256": "4573818549319e7cb3e55367614dedc0bb39818c9df514346ec3fb3cd3f646ff",
+    "sha256_of": "original",
+    "working_copy": "1841_p042.jpg"
+  },
+  "text": "35\n\nNro.\n935 Burckhardt, Jungfern, Marie und Emilie.\n936 Wolleb, Magister Carl Rudolf, Pfarrer bei St. Elisabethen.\n937 * Knabenschule. — Bossardt, J. J., Oberlehrer.\n937 * a Töchterschule. — Klein, Wilh., Mädchenlehrer.\n\nAeschen-Vorstadt.\n\n938 Iselin-Wettstein, Daniel, Handelsmann.\n939 Gnöpff, Johannes, Weißbeck.\n  Gnöpff, Rud., Vater.\n940 Burckhardt-Frey, J. J., Handelsmann.\n  Ryhiner, Carl, Handelsmann.\n941 Silbernagel, J. J., Nägelhandlung.\n  Van Laer, J. A. L.\n942 Christ-Kyburt, J. J., Spezereihandlung.\n943 Weißenburger, Ulrich, Weißbeck.\n944 Imhof, Judith, geb. Meyer, Wittwe.\n945 * Werthemann, Geschwister, geh.\n  Lüthy, Ulrich.\n946 { Werthemann, Andr., Oberstlieutenant.\n    ” Jungfrau Margaretha.\n947 * Kehlstadt, Philipp, Tapezierer, geh.\n  Kehlstadt, Joh. Ludwig, Weißbeck.\n  Gysin, Alexander, Lithograph.\n948 Merian, Rudolf, Sattler.\n949 { Gemuseus-Respinger, Hieronymus, Handelsmann.\n950 { Respinger, Benedikt, Handelsmann.\n  Respinger, Joh. Conrad, dito\n951 Kübler, Christ. Gottl. sel., Wittwe, geb. Frey.\n952 Rohner, J. Christoph, Schlosser.\n953 Hill, Alexander, Fabrikarbeiter.\n954 Gürtler-Vest, J. J., Handels-Commis.\n955 * Hauser-Gürtler, David. (Dem Obigen geh.).\n956 Ronus, Catharina, Jungfer.\n957 Mende, Benedikt, Hafner.\n  Bloch, Daniel, Handels-Commis.\n958 Kühn, J. J., Schuhmacher.\n959 u. 960 Horner, Daniel, Weißbeck.\n\nSternengäßlein.\n\n961 * Urban, Heinrich, Kutscher.\n  Ammann, Rud., Steinhauer.\n962 Freyburger, Hieron. sel., Wittwe.\n963 Friedrich, J. J., Spetter.\n964 Baumgartner, Joh., Schuhmacher.\n965 Herbel, Eberhard, Zimmergeselle.\n  Aberle, J., Taglöhner.\n966 Schaub, Martin, Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7848,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1630,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p042",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p042.jpg",
+      "bytes": 979645,
+      "sha256": "4573818549319e7cb3e55367614dedc0bb39818c9df514346ec3fb3cd3f646ff",
+      "sha256_of": "original",
+      "working_copy": "1841_p042.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:52+00:00"
+  }
+}

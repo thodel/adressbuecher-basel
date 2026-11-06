@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p066",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p066.jpg",
+    "bytes": 1032486,
+    "sha256": "f7a691270a6596e3cdf55d2e5aa7335be1c3df8146ed5459986b7ac8712b904f",
+    "sha256_of": "original",
+    "working_copy": "1850_p066.jpg"
+  },
+  "text": "St. Alban-Quartier. 53\n\n1173 Weitnauer, Heinrich. Friedr., Metzger.\n1174 Köchlin, Heinrich, Gypser.\n  Köchlin, J. H., Uhrenmacher.\n  Comptoir von J. J. Lüssi, Tabackhandlung.\n  Pfannenschmid, Barbara, Schneiderin.\n1175 (Zunft d. Hausgenossen z. Bären.)\n  Bachofen, Joh. Jak., Traiteur, Stubenverwalter.\n1176 Eckenstein, Wilhelm, Bierbrauer.\n1177 Gemuseus-Stähelin, J. Rud., Handelsmann.\n  Gemuseus, Hier., Oekonom.\n1178 Detloff, Karl Alb., Buchdruckerei u. Buchhandlung.\n1179 Jordan, Leonh., Ferger.\n  Dötschmann, Wilh., Goldschmied.\n1180 Flubacher, Isak, Schuhmacher.\n  Wassermann, J. J., Schneider.\n1181 Sulger-Stähelin, Andr., Tabackhandlung.\n1182 Sulger-Dobler, Louise, Wittwe.\n  Brenner-Sulger, Louise, Wittwe.\n1183 (Zunft zu Rebleuten.)\n  Seul, J. J., Stubenverwalter.\n1184 (Zunft zu Schuhmachern.)\n  Salathe, Wittwe, Stubenverwalterin u. Kostgeberin.\n  Salathe, Jak., Tapezierer.\n  Salathe, Hch., Dessinateur.\n1185 Georg, Franz, Metzger u. Weinschenk.\n  Geßler, Jgfrn., Modistes. Der Laden in Nr. 1444.\n\nRinggäßlein.\n\n1186-87 Der Brüdergemeinde gehörend.\n\nFreie Straße.\n\n1188 Goppelsröder-VonSpeyr, G. Fch., Kaufmann.\n1189 Schwab-Preiswerk, Joh., Med. Dr.\n1190 Iberg, Gottlieb, Mechaniker.\n  Bürgin, Fr., Metalldrechsler.\n1191 Röslin, Rud., Ferger.\n1192 Raillard, Theod., Spezierer.\n\nBäumlein.\n\n1193 Wettstein-Hoffmann, Wittwe.\n  Wettsteinische Apotheke.\n  Huber, Geschwister, Rentières.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6015,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1394,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p066",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p066.jpg",
+      "bytes": 1032486,
+      "sha256": "f7a691270a6596e3cdf55d2e5aa7335be1c3df8146ed5459986b7ac8712b904f",
+      "sha256_of": "original",
+      "working_copy": "1850_p066.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:58+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p140",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p140.jpg",
+    "bytes": 1226247,
+    "sha256": "ddd56e24d8392174e6e805e9d5eda0414c800ee526376917959f7b671fdd8008",
+    "sha256_of": "original",
+    "working_copy": "1850_p140.jpg"
+  },
+  "text": "127\n\nVonderMühll, Eml. 1220\n-Merian, K., Handelsm. 1225\n-Hoffmann, Leonh. 1230\n-Burkhardt, G. 1345\n-Keller, J. G., 1553\n-Ryhiner, Joh. 1598\n-Iselin, Wwe. Emilie 1230\nVonkilch, Leonh. Georg 629\nWittwe, Schiffmann *64\nVonwiller, Wittwe *386\nWackernagel-Sarasin, W. 1231\nWäcky, A., Färber *158\nWäffler, Sam., Posament. 652\nJak., Feilenhauer 1075\n-Burkhardt, Wwe., Beck *7\nWägelin, Joh., Agent 128\nWagner, Conr., Fischhdlg. 174\nPeter, Buchdrucker 501\nJoh., Organist 591\nJ. J., Leinweber 979\n-Mayr, A., Commis 1084B\nJ. J., Buchdrucker *382\nWahr-Sulzmann, J. 853\nGebr., Phil. u. Karl 1446\nWaldner, Heinrich 803\nWaldner, Hch., Schuhm. 1135\nWall, Heinr., *127-28\nWalliser, Joh. Friedr. 530\nKonrad, Beck *167\nKonrad, Schreiner *189\nChrist., Bauzeichner *189\nWalter, J. J. 145\nKasp., Lithograph 204\nJoh. H., Handelscomm. 555\nEml., Kaufhauscommis 1076\nKarl, Musikdirektor 1362A\nKarl, Messerschmied 1594\nWältin, H. Cigarrenhand. 485\nWalz, Jch., Kunsthandlg. 112\nWaser, Jak., Spengler 1717\nWassermann, Joh. Rud. 428\nJgfr. Dor., Wirthschaft 541\nJ. J., Schneider 1180\n[spalte 2]\nWassermann, Karl 1527\nWeber, Melch., Posam. 1273A\n-Marfort, Rud. 1442\nSml., Ellenwaarenhg. 1562\n-Sutter, Heinr. 1633\n-Salathe, Friedr. *107\nHeinr., Dessinateur *183\nJak., Metzger u. Wirth *272\nTob., Schmied *351\n-Karger, Wittwe 593\n-Nieckmann, Wwe. M. *77\nWittwe, Lohnwascherin *262\nWegner, Joh. Rud. *204\nWehrlin, Joh. 877\nJ. J., Spannermstr. 877\n-Himmely, Karl 1097\nWeibel-Gerster, J. J. 125\nHch., Appreteur 857A\n-Meyer, Rud., Commis 934\nWeidmann, Jgfr. Em. 1623\nWeitnauer-Braun, Ach. 257\nFriedr., Schreiner 797\nRud., Metzger 1045A\nH. Fr., Metzger 1173\nHoffmann, Eml., Tapez. 1542\nWeiß, G. A., Briefträger 148\nJoh., Magazinarbeiter 187\nChrist., Mädchenlehrer 566\nAndr., Geschäftsmann 634\nDl. H., Schneider 681\n-Erb, J. J., Geschäftsm. 1153\nJ. R., Stubenverw. 1687\nKarl Ludw., Kübler 1702\nInnocenz, Kostgeber 1740\nThom., Weinschenk *148\nWwe., Matrazenmach. 631\nJgfr. Lis., Modiste 1078-79\nJgfr. Judith *225\nWeißenberger, Joh. *388\nWeißenburger, J. J., Beck 3\n-Sixt, Wwe. 309\nKarl, Commis 1011\nWendel, Wwe. Anna M. 1388",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9881,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2083,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p140",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p140.jpg",
+      "bytes": 1226247,
+      "sha256": "ddd56e24d8392174e6e805e9d5eda0414c800ee526376917959f7b671fdd8008",
+      "sha256_of": "original",
+      "working_copy": "1850_p140.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:10+00:00"
+  }
+}

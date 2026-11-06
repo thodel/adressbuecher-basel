@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p064",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p064.jpg",
+    "bytes": 993192,
+    "sha256": "e862e9b7af735f8a01ddf799762091a249d4bc803de18705fdf7ed405e1e39a3",
+    "sha256_of": "original",
+    "working_copy": "1850_p064.jpg"
+  },
+  "text": "Aeschen = Quartier.\n51\n1126 Deck, Joh. Ulrich u. Pet. Wilh., Glockengießer.\n1127 Senn, Rudolf, Zimmergesell.\n1128 Schuhmacher, Rud., Kerzenfabr. u. Seifensieder.\n1129 Pfaff, Heinrich, Schuhmacher.\nWeisse Gasse.\n1130 Frischknecht, F. F. Mouffelinhdg. — Stallmeister.\n1131 Gak-Sixt, Joh. Heinr., Schneider.\n1132 Mazinger-Deck, Fr. Marie, Modiste.\n1133 Kübler-Uebelin, Wittwe Karol., Kübler.\nUster, C. Ol., Schneider.\n1134 Ottenburg-Waldner, A. M., Wittwe.\n1135 Thommen, Joh. Jak., Gärtner.\nWaldner, Joh. Heinr., Schuhmacher.\n1136 Hug, Joh. Christ., Spengler.\n1137 Gak, F. N., Schriftfeger und Kosthaus.\n1138 Gak, F. F., Koch und Pintenschenk.\n1139 Nidecker, Franz, Schlosser.\n1140 Plattner, Heinrich, Hausknecht.\n1141 Strub, Hans Georg, Bater, Mezger.\n1142 Berger, Rudolf Wittwe, Schreiner.\n1143 Hug-Lok, Wittwe Agnes.\n1144 Schaub, Ben., Commis.\nSchaub, F. F., Commis.\nBaarfüßerplatz.\n1145 (Gasthof z. Schiff.) Ritter-Gekler, F. F., Gastgeb.\n1146 Langmesser und Schellenberg, Commissions- u. Spe-\nditionshandlung.\nHinter dem Stöcklin.\n1147 Genger, Achilles, Weinschenk.\n1148\n1149 Crussaire, Louis, Zucker- u. Pastetenbeck.\nFörin, F. Sch. Commis.\n1150 Ofer, Wittwe Cath.\n1151 Droz-Stierlin, Friedr., Handelsmann.\nGerbergasse.\n1152 Schardt, Lukas, Commis.\n1153 Weis-Erb, F. F., Geschäftsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4395,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1288,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p064",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p064.jpg",
+      "bytes": 993192,
+      "sha256": "e862e9b7af735f8a01ddf799762091a249d4bc803de18705fdf7ed405e1e39a3",
+      "sha256_of": "original",
+      "working_copy": "1850_p064.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:00+00:00"
+  }
+}

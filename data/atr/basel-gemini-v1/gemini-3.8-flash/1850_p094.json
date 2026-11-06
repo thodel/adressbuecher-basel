@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p094",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p094.jpg",
+    "bytes": 1107655,
+    "sha256": "886d9de8d14d714c746a513bc4ab51728576ad386efe5d7077b907395ba345e9",
+    "sha256_of": "original",
+    "working_copy": "1850_p094.jpg"
+  },
+  "text": "Riehen-Quartier. 81\n\n57 Stuber, Johann, Fabrikarbeiter.\n58 Eschmann, Jungfr. M.\n59 Hindenlang-Sulger, J. J., Schiffmann.\n  Hindenlang-Sulger, Frau, Hebamme.\n  Hindenlang, Friedr., Commis.\n  Spyri, Friedrich, Färbermeister.\n60 Dalang, Jakob u. Heinrich, Weißbeck.\nA 61 (Gerberei) Baumgartner, Pankrazius.\n61 Braun-Geßler, Andreas, Gerber.\n62 Burckhardt, Sml., Schuhmacher.\n63 Bienz, Johann, Schneider.\n64 Vonkilch, Seb., Wittwe, Schiffmann.\n65 Thommen, Joh., Fabrikferger.\n  Thommen, Jakob, Sohn, Zollangestellter.\n  Hug, Matth., Schwimmlehrer.\n66 Huth, Philipp, Sattler.\n67 Andreas, Wittwe, Schuhmacher.\n  Andreas, Jakob, Postoffiziant.\n68 Schwarz, Leonh., Schreiner. [handschriftlich: Carl Matzinger Hafner] [handschriftlich: gestrichen]\n69 Unbewohnt.\n70 Winkler, Clemenz, Schiffmann.\n71 Thommen-Hunziker, H., Wollenwäscher.\n72 Asmus, Friedrich, Zimmermann.\n73 Matzinger-Bloch, Joh. Jak., Vater und Lukas,\n    Sohn, Fischer.\n74 Huber, Heinrich, Gassenbesetzer.\n75 Schneeberger, Rud., Schuhmacher.\n76 Maurer, Jakob, Spengler.\n77 Riedtmann, Joh. Heinrich, Rheinzoller.\n  Weber-Riedtmann, Wittwe Marie, Ausschnittladen.\n78 Abig, Eml., Spengler.\n79 Brömmel, Friedrich, Professor.\n  Leupin, Bened., Commis.\n  Hanthon, Karl, Partikular.\n80 David, Christof, Schiffmann u. Weinschenk.\n  Sutter, Heinr., Commis.\n81 Witzig, Martin, Vater und Sohn, Seidenfärber-\n    gesellen.\n82 Bödegger, Wilhelm, Zimmermann.\n83 Christ, Wittwe Elis., Schuhmacher.\n  Zumkehr, Friedrich, Stuhlschreiner.\n  Christ, Christian, Schneider.\n84 (Magazin) Lotz, Friedrich, Seidenfärber, gehörend.\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6720,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1564,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p094",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p094.jpg",
+      "bytes": 1107655,
+      "sha256": "886d9de8d14d714c746a513bc4ab51728576ad386efe5d7077b907395ba345e9",
+      "sha256_of": "original",
+      "working_copy": "1850_p094.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:11+00:00"
+  }
+}

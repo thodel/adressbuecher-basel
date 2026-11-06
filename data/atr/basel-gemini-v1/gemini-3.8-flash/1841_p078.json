@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p078",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p078.jpg",
+    "bytes": 964372,
+    "sha256": "45c4c485f0c67d79bb1154b155248d898e717f357bac250333042b586eeb157f",
+    "sha256_of": "original",
+    "working_copy": "1841_p078.jpg"
+  },
+  "text": "71\nNro.\n243 * Magazin, L. Heusler-Thurneysen geh.\n244 * Der Handelsragion Andr. Braun geh.\n245 * Rühlin, Joh. Georg, Wascher, geh.\n  Schwörer, Ludwig, Metzger.\n246 * Hauser, Daniel sel., Wittwe, Gasthof zum rothen Ochsen.\n\nTeichgäßlein.\n247 * Braun, Andr., Tabackfabrikant.\n248 *\n249      Braun, Samuel.\n249 a *\n\nUntere Rebgasse.\n250 Miville-Preiswerk, Adolf, Müller.\n251 Makler, Fr., Schuhmacher.\n252 u. 253 Böhrlin, Joh., Schleifer u. Stuhlschreiner.\n  Devit, Fried., Commis.\n254 * Miville, Adolf, Müller, geh.\n\nIm Rumpel.\n255 * Raillard, Peter, Gerber, geh.\n  Le Chaud, Caspar, Gerbergesell.\n256 Brand, Leonhard, Rothgerber.\n257 * Suter, J. J., Sattler, geh.\n258 Rühlin, J. G., Lohnwascher.\n259 * Schukthurm, dem Kanton geh.\n260 * Kern, Jakob Bernhard, Rothgerber.\n  Lang, Samuel, Maurer.\n261 * Braun, Andr., Rothgerber.\n  Halder, Franz Joseph, Gerbergesell.\n262 Weber, Rud., Lohnwascher.\n263 Thommen, Joh., Schuhmacher.\n264 Diehl, Jakob, Schleifer.\n264 a Kestenholz, Dietrich, Lohnwascher.\n265 Geßler, Leonhard, Müller.\n266 * Fabrike von Samuel Braun.\n  (Handelsragion: Braun und Ryhiner.)\n  Hetzel, Joh., Gewerbsführer.\n267 * Geßler, Leonhard, Müller.\n  Geßler, Rudolf, Müller.\n268 * Rühlin, J. G., Lohnwascher.\n269 Kuhn, Ursus Jos., Steinhauergesell.\n\nBeim Bläsithor.\n270 Fuchs, Jakob, Lohnwascher.\n  Best, Jungfer, Salomea.\n  Gubler, Jakob, Blattmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7222,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1360,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:51:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p078",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p078.jpg",
+      "bytes": 964372,
+      "sha256": "45c4c485f0c67d79bb1154b155248d898e717f357bac250333042b586eeb157f",
+      "sha256_of": "original",
+      "working_copy": "1841_p078.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:05+00:00"
+  }
+}

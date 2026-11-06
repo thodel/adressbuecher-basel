@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p093",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p093.jpg",
+    "bytes": 949226,
+    "sha256": "ff4efdf781aa13d88d101d0813e68fba082889734566b77422daaf8fcb793813",
+    "sha256_of": "original",
+    "working_copy": "1841_p093.jpg"
+  },
+  "text": "10\nDebary=Kespinger, Wittwe. 1483 Augustinergasse.\nDeck, Andreas, Kaufhausangestellter. 1720 Hutgasse.\nDeck, Joh. Ulrich, Glockengießer. 1127 Weisgässlein.\nDeck, Joh., Schneider. 1224 St. Alban-Vorstadt.\nDe Goumois, Friedrich Wilhelm, Kaufmann. 561 a St. Peter-\nstiftsgasse.\nDenereaz, Franz Simon, Commissions- und Speditionshandlung.\n1582 Sporengasse.\nDettweiler, Joh., Lohnkutscher. 406 Heuberg.\nDettwiler, Joh. Jakob, Schneider. 1560 Schneidergasse.\nDevit, Rudolf sel., Wittwe. 1506 Rheinsprung.\nDe Wette, Dr. Ludwig Wilh. Jakob. 1014 Aeschen-Vorstadt.\nDe Wette, W. M. L., der Theologie Dr. und Professor. 1022\nBrunngässlein.\nDiem, Joh. Fr., Fabrikarbeiter, von Herisau. 87 St. Joh.=Vorst.\nDietiker, Melchior, Commis. 419 Heuberg.\nDietrich, geb. Landerer, Ursula. 74 St. Johann-Vorstadt.\nDietrich, Joh. Jakob, alt Gerber. 429 Heuberg.\nDietrich, Heinrich, Schneider. 500 Oberer Spahlenberg.\nDietzsch, Leonhard, Weißbäck. 314 Spahlen-Vorstadt.\nDietzsch=Jäsch, Joh. 369 Auf der Leis.\nDietzsch=Lichtenhahn, Handfabrikant. 50 St. Johann-Vorstadt.\nDietzsch=Lichtenhahn. 49 St. Johann-Vorstadt.\nDietzsch=Wick, Joh. Jakob. 1573 Hinter der School.\nDietzsch, J. L. sel., Wittwe. 239 Kirchgässlein.\nDiek, Carl Dietrich, Notarius. 447 Oberer Spahlenberg.\nDiek, Jungfer, Ursula. 499 Oberer Spahlenberg.\nDill, Ben. sel., Wittwe, geb. Dold. (Spenglerwaaren.) 452 Beim\nSpahlenthurm.\nDill, Johannes, Schuhmacher. 781 Bord. Steinen-Vorstadt.\nDittmer, Lorenz, Dessinateur. 641 Gerbergasse.\nDittmer, Jakob, Dessinateur. 650 Gerbergasse.\nDobler=Debary, Joh., Handelsmann. 1249 b Malzgasse.\nDobler=Burckhardt, Emanuel. 983 Aeschen-Vorstadt.\nDobler, Cath. u. Magd., Jungfern. 1053 St. Albangraben.\nDollfus, Joh. Heinrich, Brandaffekuranz-Comptoir. 149 a Schwa-\nnengasse.\nDreifus, Isaak, Kaufmann, Bandhandlung. 602 Unt. Spahlenberg.\nDreif, Christian, Handelsmann. 1665 Kindermarkt.\nDroz, Friedrich, Handels-Commis. 1178 Freie Straße.\nDübbied, G. L., Kaufmann. 298 Spahlen-Vorstadt.\nDubois, August, Schuhmacher. 193 Unt. Herbergberg.\nDubois, Ludwig, Uhrenmacher. 117 Blumenplatz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6421,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2058,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:53:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p093",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p093.jpg",
+      "bytes": 949226,
+      "sha256": "ff4efdf781aa13d88d101d0813e68fba082889734566b77422daaf8fcb793813",
+      "sha256_of": "original",
+      "working_copy": "1841_p093.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:03+00:00"
+  }
+}

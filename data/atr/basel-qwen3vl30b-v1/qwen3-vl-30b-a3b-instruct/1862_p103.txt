@@ -1,0 +1,57 @@
+38
+St. Elisabethen Straße.
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+33 | IV. | 910 | | Lichtenhahn-Haas, Joh. Rudolf.
+| | | | Lichtenhahn-Haas, Joh. Rud., Schreiner.
+| | | | Ott, Henri, Coiffeur.
+34 | IV. | 894 B | | Zeugin-Frisch, Jacob.
+| | | | Zeugin-Frisch, Jacob, Spezierer.
+35 | IV. | 909 | | Bienz, Jacob.
+| | | | Bienz, Jacob, Kaminfeger.
+36 | IV. | 895 | | Day-Beck, Wb. Catharina.
+| | | | Day-Beck, Wb. Catharina, Part.
+| | | | Martin, Emanuel, Kaufmann.
+| | | | Krapp-v. Reding, Johannes, Major.
+37 | IV. | 908 | | Wohnsiedel-Günther, Ulrich.
+| | | | Wohnsiedel-Günther, Ulrich, Commis.
+38 | IV. | | | Siegrift und Rukmaul.
+40 | IV. | | | Siegrift und Rukmaul.
+41 | IV. | 906 | | Fichter und Söhne.
+| | | | Fichter-Seiler, Benedict, Bandfabrikant.
+| | | | Comptoir von Fichter u. Söhne.
+| | | | Siegrift und Rukmaul.
+42 | IV. | | | Schweizerische Eidgenossenschaft.
+43 | IV. | 905 | | Schimpf-Kei, Dr. Karl Ferd., Zolldir.
+| | | | Fichter-Schneider, Joh. Jakob.
+| | | | Fichter, Joh. Jakob, Bandfabrikant.
+| | | | Brugger-Fichter, Joseph, Bandfabrikt.
+| | | | Fichter, Frau Julie.
+45 | IV. | 904 | | Fichter, Joh. Jakob.
+| | | | Bürgin-Meyer, Jacob, Posamenter.
+| | | | Zurbruch-Heitz, Samuel, Packer.
+| | | | Wierz-Handschin, Friedrich, Hausknecht.
+47 | IV. | 903 | | Mengis, Peter fel., Erben.
+| | | | Mengis, Sgfr. Maria, Particularin.
+49 | IV. | 902 | | Mengis, Peter fel., Erben.
+| | | | Rublin, Heinrich, Eisenbahnangestellter.
+51 | IV. | 901 | | Mengis, Peter fel., Erben.
+| | | | (Magazin.)
+53 | IV. | 900 | | Dppliger, Abraham Rudolf.
+| | | | Dppliger, Abr. Rud., Handelscommis.
+| | | | Lüdin-Roth, J. J., Commis.
+| | | | Rahnt, Moriz, Musiker.
+| | | | Buek-Gyfin, Adolf, Eisenbahnbeamter.
+54 | IV. | 897 A | | Corporationsgut.
+| | | | Gottesackerkapelle. | Corporationsgut.
+55 | IV. | 900 B | | Tschopp-Schwab, Wb. Marg. Dor.
+56 | IV. | 897 B | | Lichtenhahn-Hauser, Wilhelm, Notar.
+| | | | zur Aussicht. | Grisanti-Hartmann, David.
+| | | | | Gürtler-Grisanti, Kreispostcontroleur.
+58 | IV. | 897 C | | C. C. Bann der Münstergemeinde.
+59 | IV. | 900 A | Leichenhaus. | Ernst-Eger, Balthasar, Fabrikarbeiter
+| | | | u. Aufseher auf d. St. Elis.Gottesacker.

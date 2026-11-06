@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p016",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p016.jpg",
+    "bytes": 1059251,
+    "sha256": "597a79b67f7615cd64f111ff9cbf6d9298975548638b0253a7b042c734f386eb",
+    "sha256_of": "original",
+    "working_copy": "1850_p016.jpg"
+  },
+  "text": "6\nSt. Johann=Quartier.\nNeue Straße.\n125 Weibel-Gerster, F. F., Kaffe- und Weinwirthschaft.\nA 125 Kiefer-Weibel, F. H., Agent.\nHegar, Carl August, Musikalienh. und Lithographie.\n126 Comptoir von Oswald, Gebrüder, in St. Louis.\n127 Mähly-Lamy, Friedr., sel. Erben, Kunsthandlung.\nHeidegger, Fch. Agent.\nKronengasse.\n128 Burkhardt, Seb., Wirth und Conducteur.\nWägelin, Joh., Agent für Auswanderer.\n129 Eschopp-Halter, Fb. Kaufmann.\n130 David, L. Glaser.\n131 Leuthardt, Jos., v. Arlesheim, Schlosser.\nZäslin, H., Schleifer.\n132 Werkstätte.\n133 Waschhaus.\n134 Züllig, Seb.\n135 Vogel, Ch., Schuhmacher.\nFischmarkt.\n136-37 Brändlin-v.Mechel, Leonh., Modehandlung.\nWindscheid, Prof. Juris.\n138 Schalch, Joh. Ulrich, Goldschmied.\nBlumengasse.\n139 Wieland-Landerer, Aug. Heinr., Wittwe.\nWieland, Hans, Buchhändler.\nFirma Schweighausersche Buchhandlung. Bureau\ndes Intelligenzblattes.\n140 Roschet, Hieronimus, Sattler.\nRoschet, Hieronimus, Seiler.\n141 Früh, Lud., Hufschmied.\nFrüh, Abraham, Bater, Hufschmied und Thierarzt.\n142 (Gasth. z. gold. Blume) Leibzig, P. H., Gastwirth.\n143 Sauter, Joseph, Commis.\nScheurer, Abr., Fuhrhalter.\n144 Magazin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3972,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1136,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p016",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p016.jpg",
+      "bytes": 1059251,
+      "sha256": "597a79b67f7615cd64f111ff9cbf6d9298975548638b0253a7b042c734f386eb",
+      "sha256_of": "original",
+      "working_copy": "1850_p016.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:43+00:00"
+  }
+}

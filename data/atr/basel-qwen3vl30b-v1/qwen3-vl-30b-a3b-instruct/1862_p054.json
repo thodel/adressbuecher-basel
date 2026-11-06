@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p054",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p054.jpg",
+    "bytes": 1515223,
+    "sha256": "0a0977e764987993e124147badf74bdb53d83b2e4df3fbc205ccc818a6e1a10e",
+    "sha256_of": "original",
+    "working_copy": "1862_p054.jpg"
+  },
+  "text": "Nagionenbuch.\nLI\nHandlungsfirma. | Interessenten u. Firmajüher. | Natur des Geschäfts.\nRiggenbach, Wittwe, zum Arm. | Franz Riggenbach. | Colonialwaaren.\nRiggenbach, Heinrich. | Th. Bäslin-Müller. | Commissions- u. Spe-\n| H. Riggenbach-Schmid. | ditionsgeschäft.\n| Joh. Rud. Riggenbach-Roschet. |\n| Carl Riggenbach. |\nRiggenbach, Joh. | Friedrich Riggenbach-Stehlin. | Bankgeschäft.\n| Ed. Bernoulli-Riggenbach. |\n| Wb. Val. Charlotte Riggenbach- | |\n| Huber, Commanditair. |\n| Alfred Kaufmann, Prokuraträger. |\nRognon et Comp. | Eugen Heinrich Rognon. | Bankgeschäft. General-\n| Carl Eduard Rognon. | direction f. die Schweiz\n| Conrad Gyfin, Sohn. | d. franz. Versicherungs-\n| Wb. Val. Rognon, geb. Schöll. | gesellschaft d. Phönix.\n| Chr. Konus-Genufeus. | Quincaillerie- u. Mer-\n| Chr. Konus-BonSpeyr. | ceriewaaren.\nKonus, Ch. | | Rauchwaarenhandlung.\nRochet, A. | Carl Rochet. |\n| Emil Rochet. |\nRoth, J. C. | J. Ch. Roth, allein. | Agentur.\nKühlin et Comp. | J. G. Kühlin, allein. | Baumwollnestel.\nRueff, Gabriel. | L. Rueff-Braunschweig. | Flamm-, Gas-, Schmied-\n| L. Rueff-Vang. | sohlen u. Coatschdgl.\n| | en gros.\n| | Floretspinnerei.\nRyhiner u. Söhne. | Wilhelm Ryhiner. |\n| C. Ryhiner-Bischoff. |\n| J. Gust. Bernoulli-Oswald, Pro- |\n| kuraträger. |\nRyhiner, Carl. | Carl Ryhiner, allein. |\nRyhiner et Comp. | Jul. Ryhiner-Bischoff. | Seidenzwirnerei.\n| Fried. Kern-Bischoff. |\nSacher, Anton. | Anton Sacher, allein. | Ellenwaarenhandlung.\nVeuve Sagnel et fils | Wittwe Jeanne Marie Sagnol. | Bandappretur, Brannt-\naîné. | Jean Marie Sagnol-Erlacher. | weinhdgl. u. Dampf-\n| | brennerei.\n| | Seidenbandfabrikation.\nSarafin, Hans Franz. | Carl Bischer-Merian. |\n| P. Bischer-Burckhardt. |\n| Ed. His-Heukler. |\n| Fritz His-Burckhardt. |\nSarafin et Comp. | Carl Sarafin-Sauvain. | Seidenbandfabrikation.\n| Rudolf Sarafin-Stehlin. |\n| Wilh. Sevin, Prokuraträger. |\n| Friedr. Siber, Prokuraträger. |\nSarafin, Felix, und | Fel. Sarafin-Brunner. | Baumwollspinnerei,\nHeukler. | Daniel Heukler-Thurneyssen. |\n| Aug. Stähelin-Brunner. |\nSchäffer, Friedrich. | Fr. Schäffer, allein. | Steinkohlenhandlung.\n| C. J. Marget, Prokuraträger. |\nScheuble, A. | Aug. Scheuble, allein. | Ellenwaarenhandlung.\nSchaffner, J. | J. Schaffner, allein. |\nSchaffter u. Dietiker. | J. Schaffter-Seiler. |\n| Melchior Dietiker-David. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7051,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2317,
+    "lines": 57,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:25:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p054",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p054.jpg",
+      "bytes": 1515223,
+      "sha256": "0a0977e764987993e124147badf74bdb53d83b2e4df3fbc205ccc818a6e1a10e",
+      "sha256_of": "original",
+      "working_copy": "1862_p054.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p157",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p157.jpg",
+    "bytes": 1016732,
+    "sha256": "76127b5d8605033124b4a4084e5671ebcc521d4fa6a4561b5e2f93f0bdc383cb",
+    "sha256_of": "original",
+    "working_copy": "1841_p157.jpg"
+  },
+  "text": "- 4 -\nC.\nCarle, Joh. Jak. 1726 Hutgasse.\nCaumont, Fr. Ldw., v. Neuenburg, Lehrer. 225 Ech. Pfahlg.\nChrist, Joh. Jakob. Schneider. 652 Gerbergasse.\nChrist, Friedrich, Perruquier. 1690 Grünpfahlgäklein.\nChristen, Joh. Jakob, Tagl. 856 Thorsteinen.\n* Crüffaire, N. G., Zucker-u. Pastetenbäcker. 325. Spahl. Bst.\nCrüffaire, Ludw. Zucker-u. Pastetenbäcker. 1149 Hint. d. Stöckl.\nD.\nDänttlicher, Heinr., Krankenwärter. 454 Beim Spahlenthurm.\nDalcher, Heinr., v. Kümlingen, Cackträger. 315 Spahlen-Bst.\nDavid, Reinhard, Handels-Commis. 1003 Uefchen=Vorstadt.\nDavid, Reinhard, Mezger. 444 Spiekhofgasse.\nDeck, Joh., Sohn, Schneider u. Brieftr. 1224 St. Alb. Vorst.\nDeck, Eman., Spannermeister. 617 Hinter der Rümlinsmühle.\nDemongeot, Anna Katharina, Schneiderin. 1178 Freienstraße.\nDetis, Ludwig, Krankenwärter. 958 Uefchen = Vorstadt.\nDettwiler, Jakob, Kaufhausarbeiter. 979 Sternengäklein.\nDiettschy, Wittwe, geb. Held. 1393 Am Bäumlein.\nDroz-Stierlin, Friedr., Handels-Commis. 1179 Freienstraße.\nDünner, Johannes, Part. 397 Heuberg.\nDürr, Thomas, Holzseker. 196 Herbergberg.\nDuthaler, Joh. Jak., Commis. 1033 Uefchen = Vorstadt.\nE.\nEckenstein, Joh. Kaspar, Part., 1176 Freienstraße.\nEckenstein, J., Prof. abendländischer Sprachen und Redaktor\nder N. Basler Zeitung. 369 Auf der Leis.\nEcklin, Leonhard, Handelsmann. 1332 St. Alban=Vorstadt.\nEhinger, Cuf., geb. Burckhardt, Bürgermeister fel. Wittwe.\n1038 Uefchen = Vorstadt.\nEhinger und Comp., Bank., Commission und Spedition. 1038\nUefchen = Vorstadt.\nEhret, Johannes, Schiffmann. 1532 Neue Straße.\nElle, Franz Christoph, Commis. 1566 Schneidergasse.\n* Elsner, Joh., Schuhmacher. 210 Schwarze Pfahlgasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5407,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1648,
+    "lines": 36,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:00:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p157",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p157.jpg",
+      "bytes": 1016732,
+      "sha256": "76127b5d8605033124b4a4084e5671ebcc521d4fa6a4561b5e2f93f0bdc383cb",
+      "sha256_of": "original",
+      "working_copy": "1841_p157.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:13+00:00"
+  }
+}

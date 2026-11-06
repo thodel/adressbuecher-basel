@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p017",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p017.jpg",
+    "bytes": 1109417,
+    "sha256": "c184be958e2f1dd71291347283aa5815c9df1f43a2a37099287669aa68984810",
+    "sha256_of": "original",
+    "working_copy": "1850_p017.jpg"
+  },
+  "text": "St. Johann-Quartier. 7\n\n145 Walter, J. J. u. J. Jch., Sohn, Commis.\n  Brändlin, Rud., Wirth.\n\nSchwanengasse.\n\n146 Siegmund, Benjamin, Chir. Dr. geh. Barbierstube.\n  Schwarz, D. F. Geschäftsmann.\n147 (Gasthaus z. gold. Schwanen) Christmann, Joseph,\n  Gastgeber.\n148 Schaffner, Heinr., Sohn, Schneider.\n  Bühler, M. M., Schneiderin.\n  Weiß, G. A., Briefträger.\n149 Linder-Stehlin, Jak. Lud., Bandfab.\n  Lichtenhahn, Carl, Alt-Stadtrath, Partikular.\nA 149 Advocatur u. Geschäftsbureau von Dr. Birmann &\n  W. Merian.\n  Müller, Theodor, Conducteur.\n150 Knopf, Joh. Friedr., Weinschenk.\n  Hosch, Peter, Appellations-Gerichtswaibel.\n\nFischmarkt.\n\n151 Klaiber, Andreas, Schuhmacher.\n152 Kleimt, Josef, Uhrmacher.\n  Röslin, J. R., Spezierer.\n153 Munzinger-Fäsch, Frau Wittwe.\n  Kiefer, Gg., Quincailleriehandlung.\n154 Bernoulli, J. J., Sohn, Apotheker.\n155 (Zunft zur Fischern) Wohnlich, Eml., Kaffeewirth.\n  (Kaffee zum Storchen od. Schlegel.)\n156 Speiser, J. J., Waarenlager.\n157 Vereinigt mit Nr. 161 zum Storchen.\n158 Ohl, Joh. Wilh., Perrückenmacher.\n159 Lüdin-Göbelin, Georg, Wittwe.\n  Burkhard, Achilles, Med. Dr.\n\nStorchengasse.\n\n160 Stupanus, Christ., Handels-Commis.\n  Bernoulli, Emil, Geschäftsmann, Agentur für Aus-\n  wanderung.\n161 (Gasthaus z. Storchen) Schreiber, Fr., Gastgeber.\n162 Früh, Caspar, Buchbinder.\n  Steiger, Seb., Partikular.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8592,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1344,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p017",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p017.jpg",
+      "bytes": 1109417,
+      "sha256": "c184be958e2f1dd71291347283aa5815c9df1f43a2a37099287669aa68984810",
+      "sha256_of": "original",
+      "working_copy": "1850_p017.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:57+00:00"
+  }
+}

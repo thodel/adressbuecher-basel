@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p113",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p113.jpg",
+    "bytes": 1053079,
+    "sha256": "3b15973a617a44b95ac93d9ed52851e4efa72459ddf5ba5ee01f0100694411ca",
+    "sha256_of": "original",
+    "working_copy": "1850_p113.jpg"
+  },
+  "text": "100\nBurckhardt-Noth, Joh. 90 | Burckhardt-Huber, Ach. 1521\nSeb., Wirth u. Conduct. 128 | Gottlieb, Schneider 1536\nAchilles, Med. Dr. 159 | Samuel, Goldschmied 1577\n=Gemuseus, F. Conr. 269B | =Basler, Chr. de Chr. 1640\n=Breck, C. B., Dr. Jur. 376 | =Bischer, Wwe., Anna 23A\n=Ryhiner, Elias 376 | =Gysin, Wittwe 67\nEml. Pfarrer 436 | =Facot, Wittwe, Lucie 224\nBernhard, Glaser 502 | Leonh., Wittwe 241\n=Fürstenberger, C., Dr. J. 512 | =Imhof, Wwe., Cuf. 440\n=Fselin, Aug., Sohn 547 | =Wick, Wittwe 456B\nJoh., Mezger 591 | =Fselin, Wittwe 547\nK., Hauptmann 754M | =Kespinger, Wwe., L. 802\n=Burckhardt, K. Leonh. 867 | =Fselin, Wwe., Kath. 905\n=BonderMühl, Hier. 928 | Wittwe, Ros. Valeria 929\n=Fselin, Hier. 931-33 | =Forkart, Wwe., M. 1050-51\nAlfred 934 | =Kinder, Wwe., Mar. 1216\n=Forkart, Lud., Hdlsm. 984 | =Fselin, Wwe., Ros. 1361\nAbraham, Weißbeck 1027 | =Bernoulli, Wittwe 1476\n=Heusler, K., Bandf. 1039 | =Bischer, Wittwe 1509\n=Forkart, W., Hdlsm. 1054 | =Bachofen, Helena 1510\n=Stähelin, R., Graveur 1091 | =Fäsch, Wwe., Emil. 1704\n=Miville, Ach., Zuckerb. 1171 | =Kündig, Wittwe 1732-33\nSebast., Partikular 1194 | Geschwister 104\n=Bischer, Karl 1210 | Jgfrn., Mar. u. Em. 935\n=Haller, R., Med. Dr. 1228 | Jgfr., Margaretha 1481\n=Burckhardt, Eml. 1270 | Sam., Schuhmacher *62\n=Biguet, Theoph. 1270 | Rudolf, Mezger *95\nJak., Professor 1332 | F. R. L., Waifenvater *132\nK. Fel. Jul. J. U. D. 1345 | Daniel, Baumeister *177\n=Burckhardt, Chr. de J. 1349 | Saml., Weißbeck *185\nRudolf, Med. Dr. 1354 | =Schönauer, L. *274\n=Werthemann, Em. 1356 | vonBüren, Seb., Pfr. *106\nDietrich 1357 | Bürger, F. G., Agent *274\nF. R., Fiskal 1362A | Bürgin, F. F., Schuhm. 98\n=Schrickel, Ed. de L. 1402 | =Wüst, Fuhrhalter 300\nJakob, Antistes 1405 | F. F., Commis 706\nAug., Med. & Chir. Dr. 1453 | Heinrich, Mezger 831\n=Burgtorf, F. R., Rekt. 1461 | F. H., Kerz- u. Seifens. 854\n=Ryhiner, F. F. 1462 | F. F., Pofamenter 857\n=His, Martin 1470 | Fr., Metalldrehßler 1190\n=Keller, Rudolf 1475 | Karl, Buchbinder 1508\n=Steffani, Jakob 1470 | Heinrich, Pofamenter 1401\nChrist., Med. Dr. 1476 | Buser, Hieronimus 475\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8212,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2109,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p113",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p113.jpg",
+      "bytes": 1053079,
+      "sha256": "3b15973a617a44b95ac93d9ed52851e4efa72459ddf5ba5ee01f0100694411ca",
+      "sha256_of": "original",
+      "working_copy": "1850_p113.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:59+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p031",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p031.jpg",
+    "bytes": 1360648,
+    "sha256": "66a41c66346b4db8fb80aa0eff9dd12e5f4beb0daca9db21ff9bf458fa4c5ac6",
+    "sha256_of": "original",
+    "working_copy": "1862_p031.jpg"
+  },
+  "text": "XXVIII  Kranken-, Begräbnis- und Alters-Cassen ıc.\nFreiwillige\nPensions-Casse lediger Bürgerinnen.\nGegründet 1824.\nVorstand: Sr. Pfarrer Peter Stähelin.\nCassier: ,, Meyer-François.\nFreiwillige bürgerliche Alters-Casse.\nGegründet 1825.\nVorsteher: Sr. C. Renz.\nStatthalter: ,, Albrecht.\n* Allgem. Unterstützungsgesellschaft\nConcordia.\nGegründet 1837.\nVerwalter: Sr. Joh. Streicher.\nPensionsanstalt des Orchester vereins.\nGegründet 1839.\nVorstand: Sr. Ernst Reiter, Musikdirektor.\nPensionberechtigt sind die ordentl. Mitglieder mit Antritt des 55. Altersjahrs, sowie Wittwen und Waisen derselben. — Als Ehrenmitglieder können Musikfreunde, welche mit Verzichtleistung auf die Vortheile der Kasse die jährlichen Beiträge nebst dem Eintrittsgeld entrichten, dem Vereine beitreten.\nUnterstützungs-Casse\nfür kranke Pofamenter.\nGegründet 1845.\nVorsteher: Sr. Adam Madöry, Steinenbrüeße Nr. 45.\nCassier: Sr. Alois Rappeler, Ochfengasse Nr. 5.\n* Amicitia.\nGegründet 1847.\nVerwalter: Sr. F. F. Jenny, Blumenrain Nr. 21.\nKranken- und Begräbnis-Casse\nfür Arbeiterinnen in den Bandfabriken.\nGegründet 1846.\nVorstand:\nSr. Jacob Schaub, Vorsteher.\n,, Jacob Müller, Statthalter.\n,, Friedr. Madöry, Cassier.\n,, Ulrich Stöcklin, Statthalter.\n,, Heinrich Frutiger, Schreiber.\n,, Carl Märki, Statthalter.\n,, Martin Recher, } Rechnungs-Revisoren.\n,, Georg Braem, }\nAllgemeine\nKranken- und Begräbnis-Casse\nhiesiger Bürger und Einwohner\nbeiderlei Geschlechts.\nGegründet 1846.\nSr. P. Häßler, Nr. 8 Spalenvorstadt, Präsid.\n,, Ferd. Duthaler, Nr. 13, Münsterberg,\nSedelmeister.\nZweck: Sich gegenseitig in Krankheits- und Todesfällen zu unterstützen. Der Beitritt steht vom 16. Jahre an jedem Alter und jedem Stand offen, sofern die betreffende Person nur in der Stadt oder deren Bann wohnt, und sich bei der Aufnahme in vollkommen gesundem Zustande befindet.\n* Seidenfärber Kranken-Casse.\nGegründet 1847.\nVerwalter: Sr. Caspar Keller.\nJeder in einer Seidenfärberei Arbeitende kann aufgenommen werden.\nUnterstützungscasse des Sappeurs-\nPompiers-Corps.\nGegründet 1848.\nVorstand: Der Chef des Corps: Sr. Müller-Hauser, Major.\nFranzösisch-philantropische Gesellschaft.\nGegründet 1848.\nPräsident: Sr. F. Bäumlin.\n* Allgemeine\nKranken-, Unterstützung- und Begräbnis-Casse „Eintracht“\nfür hiesige Bürger und Einwohner beiderlei Geschlechts.\nGegründet 1849.\nAnzahl der Mitglieder: 219 männlich, 170 weiblich. Zusammen 389.\nPräsident: Sr. Lud. Mai, Stapfelberg Nr. 7.\nCassier: ,, Rud. Weiß, Schnabelgässlein Nr. 12.\nSchreiber: ,, Joh. Zimmermann, Grünpfahlgässlein Nr. 14.\nQuartier vorsteher:\nSr. Em. Grof. St. Petersgasse 12.\n,, Jacob Glor, Ulmerhof 10.\n,, Carl Wally, Steinenbachgässlein 20.\n,, F. F. Märki, Rheingasse 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7973,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2688,
+    "lines": 71,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0563,
+    "mean_line_chars": 36.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:21:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p031",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p031.jpg",
+      "bytes": 1360648,
+      "sha256": "66a41c66346b4db8fb80aa0eff9dd12e5f4beb0daca9db21ff9bf458fa4c5ac6",
+      "sha256_of": "original",
+      "working_copy": "1862_p031.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:38+00:00"
+  }
+}

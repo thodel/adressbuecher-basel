@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p128",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p128.jpg",
+    "bytes": 1192125,
+    "sha256": "454a5b794b0ab169938430440578fff19791f83eb46923346899be8467203599",
+    "sha256_of": "original",
+    "working_copy": "1850_p128.jpg"
+  },
+  "text": "115\nMerian-Ryhiner, Lukas 1218\n  Rud. de J. J. 1221\n  Hch. 1221. Comptoir 1348\n  -Fischer, J., Müller 1291\n  -Thurneisen, P., Prof. 1402\n  -Merian, Sam. 1404\n  -Burckhardt, J. J. 1459\n  -Respinger, K. F. J. 1581\n  -Vischer, Em. Heinr. 1614\n  Ludw., Kaufmann 1692\n  Walther, *49. Compt. 149A\n  Joh. Jak. *342\n  Amad., Bauinspektor *358\n  Karl, Sohn, Säger *358\n  -Stückelberger, Wwe. 350\n  -Miville, Wittwe 417\n  -Respinger, Wittwe 456\n  -Fäsch, Wittwe 866\n  -Bloch, Wwe., M. M. 944\n  -vonMechel, Wwe., M. 989\n  -Stähelin, Wwe., Es. 1198\n  Jgfr. Susanna 912\n  Jgfrn. Fried. u. Wilh. *427\nMerker, Karl, Vergolder 696\nMerkle, J. U., Spez. *286\nMeyenrock, F., Weinhdlg. *144\n  Schwestern 1617\nMeyer-François, J. J. 75\n  Gedeon, Notar 104\n  J. J., Kübler 206\n  Georg, Stadtbote 330\n  Peter, Metzger 347\n  Eml., Pfarrer 365-66\n  Em., Med. Dr. 365-66\n  -Linder, Phil., Hdlsm. 470\n  -Merian, Th., Med. Dr. 525\n  J. L., Stadtschreiber 561\n  -Kraus, Hch., Lehrer 561\n  Nikl., Seidenfärber 615\n  Jak., Metzger 636\n  Joh., Spezierer 638\n  Joh., Epetter 700\n  Friedr., Thierarzt 753\n[spalte 2]\nMeyer, Em. W., Kaufm. 754F\n  -Kraus, B., Lehrer 937A\n  J. J., Beck 943\n  Daniel, Spezierer 1003\n  Joh., Perückenm. 1072-73\n  Ludw., Kaufmann 1093-94\n  J. Chr., Zuckerbeck 1089\n  Georg, Maurer 1397\n  -Bischoff, Joh. Christ. 1440\n  -Lichtenhahn, Lehrer 1480\n  Karl u. Ulrich 1624\n  Franz Jos., Hutmach. 1638\n  J. A., Wirth 1646\n  Fch., Ausschnitthdlg. 1668\n  Gedeon, Spezierer 1703\n  J. R., Magazinarb. 1756\n  Heinrich, Schuhm. *34\n  Johann, Seidenfärber *35\n  J. J., Metzger *39\n  Kaspar, Apreteur *117\n  Ludw., Schuhmacher *130\n  J. J., Weißbeck *228\n  Joh., Leistschneider *255\n  J. J., Feuerwerker *361\n  -Gyssler, Wwe., Sal. 754K\n  Jgfr. Apollonia 761\n  -Merian, Wittwe 1093-94\n  Jgfr. Margaretha 110\nMeyri-Jenni, J., Antiq. 258\n  Franz, Stadtbote 675\n  Chr., Commis 787\nMieg, L., Eisenbahnangest. 78\n  J. J., Apotheker 639\n  J. J., Professor 751A\n  J. J., Biblioth. 1463-64\n  -Meyer, Achilles *181\nMinder, Sam. *113A\n  -Zäßlin, J. J., Müller *313\n  J. J., Bestäter *318\n  Gustav, Müller *320\nMislapp-Pöhls, Adolf 1387\nMitz, L., Sohn, Knopfm. 1648\nMiville, J. F., Zoller 19",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11166,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2157,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 21.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:21:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p128",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p128.jpg",
+      "bytes": 1192125,
+      "sha256": "454a5b794b0ab169938430440578fff19791f83eb46923346899be8467203599",
+      "sha256_of": "original",
+      "working_copy": "1850_p128.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:06+00:00"
+  }
+}

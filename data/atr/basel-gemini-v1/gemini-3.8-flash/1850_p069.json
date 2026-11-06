@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p069",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p069.jpg",
+    "bytes": 950988,
+    "sha256": "fa79170000623bfb3248eb13eb7bfa75a488be26429f26f4c488b905273ef905",
+    "sha256_of": "original",
+    "working_copy": "1850_p069.jpg"
+  },
+  "text": "56 St. Alban-Quartier.\n\n  1235 Ritter-Fischer, Mezger.\n  1236 Glaser, Andreas, Seiler.\n  1237 Strübin, Wittwe Marie, Weißbeck.\n  1238 Gemuseus-Frey, Wilh., Handelsmann.\n  1239 David-Sickler, Joh., Wein- u. Branntweinhandlg.\n\nMalzgasse.\n\n  1240 Magazin.\n  1241 Remise und Stallung.\n  1242 Strauman, Rudolf, Ferker.\n  1243 Schneider, Jeremias, Ausläufer.\n  1244 Berri-Burckhardt, Melch., Architekt.\n  1245 Dorrenberger, Peter, Gärtner.\n    Bieler, Joh. F., Zettlermeister.\n  1246 Lehrer, Wittwe, Kostgeberin.\n  1247 Nieder, Eml., Commis.\n  1248 Salzmann, L., Kutscher.\nA 1248 Forkardt-vonGentschick, Fabrikant.\nB 1248 Forkardt, Jungfrau, Elis., Rentière.\nC 1248 Sarasin-Forkardt, Adolph, Pfarrer.\n  1249 Stehlin-Hagenbach, J. J., eidg. Oberst, Zimmermeist.\nB 1249 Dobler-Debary Erben gehörend.\n1250-52 Dobler, Jgfr., Maria, Rentière.\n  1253 Strübin-Hunziger, Agnes, Wittwe.\n  1254 Thierry, Franz Josef, Kostgeber.\n  1255 Simmen-Hunzicker, J. J., Commis.\n    Zahn-Rognon, Ed., Handelsmann.\n  1256 Bonnant, Peter, Appreteur.\n  1257 Siegrist, Nikl. Heinrich, Schreiner.\nA 1257 (Fabrikgebäude) Schäfer, Fch., Fabrikmeister.\n  1258 Imhof, Friedr., Schuhm. u. Wirth.\n  1259 Schaffner, Joh., Posamenter.\n\nSt. Albanthorgasse.\n\n  1260 Gräflin, Wilh., Posamenter. [handschriftlich: Heier Münch Schlosser.] [handschriftlich: gestrichen]\n  1261 Felber, Daniel, Taglöhner.\n    Däntlicker, Jgfr., Kath., Schneiderin.\n  1262 Nidecker, Karl Leonhard, Weißbeck.\n  1263 David-Stähelin, Reinhard, Mezger.\n    Huber-Landerer, Karl, Commis.\n    Schreinerwerkstätte von F. Weitnauer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6614,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1559,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p069",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p069.jpg",
+      "bytes": 950988,
+      "sha256": "fa79170000623bfb3248eb13eb7bfa75a488be26429f26f4c488b905273ef905",
+      "sha256_of": "original",
+      "working_copy": "1850_p069.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:18+00:00"
+  }
+}

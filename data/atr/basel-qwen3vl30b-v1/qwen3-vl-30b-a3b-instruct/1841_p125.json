@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p125",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p125.jpg",
+    "bytes": 937564,
+    "sha256": "bef22760049e0d0049456a713394a89cef0aaf5a09af12588dd679abd1ff0daa",
+    "sha256_of": "original",
+    "working_copy": "1841_p125.jpg"
+  },
+  "text": "42\nSenn, Joh. Jakob, Schneider. 556 Adelberg.\nSenn, Jakob, Kunstmaler. 355 St. Leonhardsgraben.\nSenn, R., geb. David. 100 St. Johann-Schwibbogen.\nSenn, Rudolf, Zimmermann. 680 Hinteres Gerbergässlein.\nSeffing, August, Mechanikus. 1529 Kronengasse.\nSeul, J. J., Fabrikarbeiter. 187 Unterer Herbergberg.\nSeul, Joh. Jakob, Schneider. 1639 Untere Freiestraße.\nSeul, Franz, Buchdrucker. 479 Oberer Spahlenberg.\nSiber, Wittwe, geb. Suf. Munzinger, Kaffeewirthschaft. 1617\nMarkt.\nSiber-Bischoff, Seidenfabrikant. 264 u. 265 Neue Vorstadt.\nSiegfried, Niklaus, Griesser. 1722 Hutgasse.\nSiegfried, Phl. Jak., Geometer. 31 St. Johann-Vorstadt.\nSiegrist, Martin, Müller. 1303 St. Alban-Thal.\nSiegrist, N. Heinrich, Schreiner. 1257 Malzgasse.\nSiegrist, Eman., Schuhmacher. 1504 Rheinsprung.\nSiegrist, Joh., Spezereihändler. 163 Storchengasse.\nSiegrist, Heinrich, Meßger, Wirth und Spezereihändler. 861 und\n862 Thorsteinen.\nSiegrist-Heufler, Abraham, Korbhandlung. 1741 Hinter der School.\nSigmund, Benjam., Med. Dr., Badanstalt. 628 Gerbergässlein.\nSilbernagel, J. J., geh. 1608. Sporren gasse.\nSimmen, J. J., Handels-Commis. 1012 Aefchen-Vorstadt.\nSimmler, Joh. Heinrich, Fabrikarbeiter. 781 Bordere Steinen-Vorst.\nSingeisen, Schwestern, Magdalena u. Barbara. 1260 St. Albangasse,\nSirt, J. J., Flachmaler. 267 b Neue Vorstadt.\nSirt, Lucas fel., Wittwe, geb. Weitnauer, Wirthschaft. 1652\nKindermarkt.\nSirt, Abraham, Tapezierer. 769 Bordere Steinen-Vorstadt.\nSocin, Sohn, Abel, Tuchhändler. 564 St. Petersstiftgasse.\nSocin-Le Grand, Abel. 564 St. Petersstiftgasse.\nSocin-Werthemann, Christ. 564 St. Petersstiftgasse.\nSocin-Frey, Eduard, Kaufmann. 1462 Münsterplatz.\nSoder, Joseph, von Mohlin, Hausknecht. 1680 Hinter der Münz.\nSoller, Margaretha, geb. Jäger, Wittwe. 498 Oberer Spahlenb.\nSoulzner, Alex., Confiseur. 1518 bei der Rheinbrücke.\nSpahn, Joh. Ad., Fabrikarbeiter, von Albertshausen. 214 Schwarze\nPfahlgasse.\nSpann, Heinrich Michael, Maler, Kaffeewirthschaft. 1728 Hutgasse.\nSpahr, Daniel, Handels-Commis. 290 Spahlen-Vorst.\nSpecker, Heinrich, Bierbrauer. 783 Bordere Steinen-Vorstadt.\nSpeiser, J. J., Steingut-, Tapeten-, Zeugwaaren- und Modehandl.\n156 Fischmarkt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6887,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2160,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p125",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p125.jpg",
+      "bytes": 937564,
+      "sha256": "bef22760049e0d0049456a713394a89cef0aaf5a09af12588dd679abd1ff0daa",
+      "sha256_of": "original",
+      "working_copy": "1841_p125.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:29+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p143",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p143.jpg",
+    "bytes": 941486,
+    "sha256": "1063ae7d73f9333e724269987f5b3ed64bc02923cb1e25ea4fc44dbffd776ab2",
+    "sha256_of": "original",
+    "working_copy": "1841_p143.jpg"
+  },
+  "text": "60\n\nS.\n\nSalathe, Jakob Christ., Weinschenk. 14 An der Rheinbrücke.\nSchäfer, Nikolaus, Schuhmacher. 321 u. 322 Untere Webergasse.\nSchäfer, August, Zimmermann. 431 u. 432 Udengasse.\nSchäfer, Joh., Fabrikarbeiter. 27 Rheingasse.\nSchälklin, Joh. Jakob, Beck. 242 Ochsengasse.\nSchärflin, Franz, Metzger. 20 Schafgäßlein.\nSchaffner, Emanuel, Geschäftsreisender. 96 Am Lindenberg.\nSchaffner, Fr., Oberlehrer. 134 Kirchgäßlein.\nSchardt, Peter, Küfer. 202 Rebgasse.\nSchardt, Mathias, Spengler. 121 Obere Rebgasse.\nSchardt, Joh. Ulrich, Metzger. 424 Udengasse.\nSchardt, Franz, Küfer und Weinschenk. 143 Beim Riehen-Thor.\nSchaub, Leonhard, Ziegler sel., Wittwe. 138 Beim Riehen-Thor.\nScherb, Rudolf, Schlosser. 387 Krempergasse.\nScherb, Joh. Jakob, Barbier und Briefträger. 34 Rheingasse.\nScherzinger, Franz, Mechanikus, von Köln. 213 Greifengasse.\nSchilling, geb. Roth, Wittwe, Band- und Waarenhandlung. 297\n  Webergasse.\nSchlatter, Xaver, Gärtner. 114 Rheinweg.\nSchmidt, Daniel, Kübler. 230 Greifengasse.\nSchmidt, Rudolf, Weißbeck. 334 Untere Webergasse.\nSchmidlin, Jakob, Zimmermann. 89 Rheingasse.\nSchnäbelin, Joh. Ulrich, Schneider. 275 Untere Rebgasse.\nSchneider, Samuel, alt Reallehrer und Organist im Münster. 184\n  Rebgasse.\nSchneider, J. J., Küfer. 370 Untere Rheingasse.\nSchneider, Andreas, Schiffmann. 35 Rheingasse.\nSchneider, Heinrich, Posamentier. 156 Rebgasse.\nSchnell-Burckhardt, Emanuel, Rentier. 69 Rheingasse.\nSchöttly, Joh., von Unterhallau, Schuhmacher. 22 Schafgäßlein.\nScholer, Nikolaus, Wagner. 336 Untere Webergasse.\nSchweizer, Ludwig, Flachmaler. 41 Rheingasse.\nSchwörer, Ludwig, Metzger. 245 Ochsengasse.\nSeiler, Heinrich, Schneider und Casernier. 310 Im Klingenthal.\nSenn, Jakob, Schreiner, von Sissach. 79 Rheingasse.\nSiber-Lotz, Caspar. 172 u. 173 Rebgasse.\nSiegfried, Rudolf, alt Standesreiter. 198 Rebgasse.\nSiegrist, Franz Jos., Dr. Med. 187 Rebgasse.\nSiegrist, A. Magd., geb. Beckel, Wittwe. 421 Udengasse.\nSingeisen, Nikolaus, Hufschmid. 335 Untere Webergasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8766,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1985,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:00:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p143",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p143.jpg",
+      "bytes": 941486,
+      "sha256": "1063ae7d73f9333e724269987f5b3ed64bc02923cb1e25ea4fc44dbffd776ab2",
+      "sha256_of": "original",
+      "working_copy": "1841_p143.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:45+00:00"
+  }
+}

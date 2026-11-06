@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p103",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p103.jpg",
+    "bytes": 974421,
+    "sha256": "162a6a8c47689819240511a963f460eb5b4698e874b3619fb821671ffdbc9cf8",
+    "sha256_of": "original",
+    "working_copy": "1841_p103.jpg"
+  },
+  "text": "20\n\nHis, Eduard, Appellationsrath. 1509 Rheinsprung.\nHis-Vischer, Friedr. 516 Hinter dem Spahlenthurm.\nHodel, Abraham, Schuhmacher. 715 Barfüßerplatz.\nHodel, Sohn, Abraham, Schuhmacher. 1155 Gerbergasse.\nHofer, Heinrich, Schneider. 187 Unterer Herbergberg.\nHofer, Sam. Rud., Spezereihändler. 540 Imbergäßlein.\nHofer-Petri, J. J., Handels-Commis. 1316 c St. Alban-Vorst.\nHofmann, David, Fabrikaufseher. 638 Gerbergäßlein.\nHofmann, Christ. Heinr., Wirthschaft. 101 St. Joh.-Schwibbogen.\nHofmann, J., Aufseher. 737 Barfüßerplatz.\nHoffmann, Wilh., Inspektor der Missionsanstalt. 387 Missionsgasse.\nHoffmann und Forkart, Bandfabrik. 1269 St. Alban-Thorgasse.\nHoffmann-Preiswerk, Emanuel. 1219 St. Alban-Vorstadt.\nHoffmann, Jungfer, M. Salomea. 254 St. Petersgraben.\nHöhn, geb. Fluhbacher, Maria, Kaffeewirthschaft. 604 Unterer\n  Spahlenberg.\nHoldenecker, Achilles, Buchhändler. 463 a Beim Spahlenthurm.\nHollinger, Jakob sel., Wittwe, geb. Gut. 1261 St. Alban-Thorgasse.\nHolzach, Friedrich, Partikular. 759 Kohliberg.\nHolzach, Joh. Leonhard, Bader. 1693 Kuttelgäßlein.\nHolzach, Rudolf, Amtsdiener. 73 St. Joh.-Vorstadt.\nHolzach, Dietrich, Vater, Seiler. 647 Gerbergasse.\nHolzach, Bernh. sel., Wittwe, geb. Schölli, Spezereihandlung. 1691\n  u. 1692 Grünpfahlgäßlein.\nHolzach, Christ., Schlosser. 873 Thorsteinen.\nHolzach, H. Friedrich. 1439 Freie Straße.\nHolzach, Joh., Buchbinder. 1616 Hinter der Rümlinsmühle.\nHolzach-Ronus, Emanuel, Kaufmann. 222 Schwarze Pfahlgasse.\nHolzach, Wittwe, geb. Berger, Seilergeschäft. 655 Gerbergasse.\nHolzbacher, Joh. Georg, Apotheker. 1619 Untere Freienstraße.\nHolzmüller, Eman. sel., Wittwe, geb. David. 1636 Unt. Freienstraße.\nHonesta, Joseph, Musiklehrer. 744 a Ochsengraben.\nHorant, M., Werkführer. 1490 St. Martin.\nHorner, Daniel, Weißbeck. 959 u. 960 Aeschen-Vorstadt.\nHorner, Heinrich, Metzger. 409 Trillengäßlein.\nHornung, Wittwe, geb. Nägelin. 658 Gerbergasse.\nHosch, Nikolaus, Lithograph. 435 Spießhofgasse.\nHosch, geb. Burxtorf, Wittwe. 618 Hinter der Rümlinsmühle.\nHosch, geb. Henz. 108 Blumenrain.\nHosch, Hieronymus, Wechsel-Sensal. 25 St. Johann-Vorstadt.\nHosch-Merian, Joh. Jakob, Vater, Sensal. 434 Heuberg.\nHosch, Peter Hans, Appellationsgerichts-Weibel. 150 Schwanengasse.\nHuber, J. J., Pfarrer. 232 St. Petersgasse.\nHuber, Rudolf. 1643 Markt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9582,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2288,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:55:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p103",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p103.jpg",
+      "bytes": 974421,
+      "sha256": "162a6a8c47689819240511a963f460eb5b4698e874b3619fb821671ffdbc9cf8",
+      "sha256_of": "original",
+      "working_copy": "1841_p103.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:11+00:00"
+  }
+}

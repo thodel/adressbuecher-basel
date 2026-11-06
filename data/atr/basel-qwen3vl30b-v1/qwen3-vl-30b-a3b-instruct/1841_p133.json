@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p133",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p133.jpg",
+    "bytes": 937727,
+    "sha256": "a32ae9038412782f04d4975b85f32678f0427e76e8374bab15526ef25fa45796",
+    "sha256_of": "original",
+    "working_copy": "1841_p133.jpg"
+  },
+  "text": "50\nWirth, Joh. Jakob, Hausknecht. 676 Hinteres Gerbergässlein.\nWitschi, Gottl., Conducteur, v. Büren, R. Bern. 145 Blumengasse.\nWitt, A. Fr., Weinschenk und Posamentier. 1018 Aeschen-Vorst.\nWölflin, Joh. Georg, Buchbinder. 1627 Untere Freienstraße.\nWölflin, Rud. Claudius, Kaufmann. 927 St. Elisabethen.\nWölflin, Dietrich Wilh., Handelsmann. 1003 Aeschen-Vorstadt.\nWölflin, Joh. Rud., Zuckerbäcker. 1161 Gerbergasse.\nWohnlich, Jungfer, Margaretha. 263 Neue Vorstadt.\nWohnlich, geb. Rosenburger, und Rosenburger, Peter, Bater. 603\nUnterer Spahlenberg.\nWohnlich, Eman. R., Kaffeewirth. 155 Fischmarkt.\nWohnlich, Joh. Friedrich, Schneider. 661 Gerbergasse.\nWohnlich, Rudolf, Metzger. 836 Rosmarkt.\nWohnlich, Rud. fel., Wittwe, Wirthschaft. 838 Rosmarkt.\nWohnlich-Hagenbach, Kaufmann. 219 Schwarze Pfahlgasse.\nWolf, Simon, Kaufmann. 487 Oberer Spahlenberg.\nWolf, Bernhard, Handelsjude. 1759 Schneidergasse.\nWolleb, Rud., Goldschmid. 1086 Am Bäumlein.\nWolleb, Joh, Polizei-Sekretär. 413 Heuberg.\nWolleb, Mag., C. R., Pfarrer bei St. Elisabethen. 936 Steinenberg.\nWürz, Joh., Zuckerbäcker. 1313 St. Alban-Vorstadt.\nWürz, Carl Aug., Radler. 55 St. Johann-Vorstadt.\nWüst, Conrad, Partikular. 99 St. Johann-Schwibbogen.\nWüst, Mathias, Zimmergesell. 853 Thorsteinen.\nWybert, Balth., Schuhmacher u. Bannwart. 391 Bei St. Leonhard.\nWybert, Anna Maria, geb. Krug. 641 Gerbergasse.\nWybert-Hug, Emanuel, Med. Dr. 1628 Untere Freienstraße.\nWybert-Thurneyssen, J. J., Rentier. 760 Bordere Steinen-Vorst.\n3.\nZäslin, Daniel, Waaren-Senfai, 14 St. Johann-Vorstadt.\nZäslin-Falkeisen, Conrad. 1491 St. Martin.\nZäslin-Streckeisen, Joh., Speditions- und Commissionswaarenhand-\nlung. 333 Fröschgasse.\nZeinler, Jsaak, Schuhmacher. 1503 St. Martin.\nZiegler, Jungfer, Elisabetha. 295 Spahlen-Vorstadt.\nZiegler, Jungfern, von Bern. 35 u. 36 St. Joh.=Vorstadt.\nZimmerlin=Bon Speyr, August, Negt. 116 Blumenrain.\nZimmermann, Peter fel., Wittwe, geb. Früh, Uhrenmacher. 1752\nu. 1753 Schneidergasse.\nZimmermann, Gabriel, Taglöhner. 794 Hinterer Bach.\nZum Brunn, Heinrich, Fabrikausseher. 906 St. Elisabethen.\nZwilchenbart, Frau Pfr., geb. Hindenlang. 37 St. Joh.=Vorstadt.\nZwilchenbart-Blum. 120 Blumenplaz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6887,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2174,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:58:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p133",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p133.jpg",
+      "bytes": 937727,
+      "sha256": "a32ae9038412782f04d4975b85f32678f0427e76e8374bab15526ef25fa45796",
+      "sha256_of": "original",
+      "working_copy": "1841_p133.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:25+00:00"
+  }
+}

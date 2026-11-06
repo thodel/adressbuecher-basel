@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p011",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p011.jpg",
+    "bytes": 892175,
+    "sha256": "b9664e69566c4bce8d403a7bcba276d25eb29e434d1ea4b84fb736762cb67e51",
+    "sha256_of": "original",
+    "working_copy": "1841_p011.jpg"
+  },
+  "text": "4\nNro.\n83 Riffel, Joh., Med. Dr.\n84 * Brodbeck, Rudolf sel., Erben.\n  Luttringshauser, Heinrich, Kunstmaler.\n85 * Weber-Karger, Handelscommis.\n  Walter, Fr., Schreiner.\n86 Mazinger, Rudolf, Schlosser.\n87 Schmidt, Karl, Wein-Courtier.\n  Diem, Joh. Fr., Fabrikarbeiter von Herisau.\n88 Frank, Fr., Schlosser, von Kronweisenburg.\n89 Schäfer, Heinrich, Pintenschenk.\n  Berger, Joh., Spannermeister.\n  Muff, Dorothea, geb. Suter.\n90 Alwengen, Rudolf, Weißbeck.\n  Fürstenberger, geb. Socin, Wittwe.\n91 Rapp, Joh. Conrad, Partikular.\nSt. Johann-Schwibbogen.\n92 Passavant-Streckeisen, Emanuel, Banquier.\n93 * Magazin und Stalling von Obigem.\n94 Heusler, Friedrich, Rentier.\n95 mit Nro. 93 verbunden.\n96 Kübler, Karl, Kübler.\n  Müller, geb. Wüst, von Birret, Kantons Vargau.\n97 Unstein, Joh., Küfer.\n  Bernoulli, Jos., Kaufmann.\n98 Bürgin, Joh. Jakob, Schuhmacher.\n99 Buser, Joh.\n  Wüst, Conrad, Partikular.\n  Roth, geb. Socin.\n  Meier, Christ. Heinrich, Kaufmann, von Stuttgart.\n  Walter, Caspar, Lithograph, von Löhnigen.\n  Reinhard-Bischer, Commis, aus dem Badischen.\n100 Senn, R., geb. David.\n101 Hofmann, Christ. Heinrich, Wirthschaft.\n  Schlumpf, geb. Dunkel, von Münchaltorf.\n  Rosenberger, Joh. Jakob, von Landikon.\n102 Flick, Rudolf, Schuhmacher.\n  Bölli, Melchior, von Beringen, Kantons Schaffhausen.\nBlumenrain.\n103 Burckhardt, Jos., Quincaillerie- und Waarenhandlung.\n104 Burckhardt-Pelletier, Philipp, Partikular.\n  Meier, Gedeon, Notar.\n105 Ronus-Gemuseus, Chr., Negt.\n106 Fluck, J. J., Faktor auf der Post. (Wirth.)\n107 Streuber, Chr. Wilhelm, Rentier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4548,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1557,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.13,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:42:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p011",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p011.jpg",
+      "bytes": 892175,
+      "sha256": "b9664e69566c4bce8d403a7bcba276d25eb29e434d1ea4b84fb736762cb67e51",
+      "sha256_of": "original",
+      "working_copy": "1841_p011.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:55+00:00"
+  }
+}

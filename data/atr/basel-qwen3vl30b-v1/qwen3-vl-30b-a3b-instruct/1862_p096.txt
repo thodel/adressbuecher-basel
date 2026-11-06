@@ -1,0 +1,43 @@
+In der Breite. Brückliberg. Bruderholzstr. Bruderholzweg. 31
+Neue Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+1 | V. | 334 | Arbeiterwohnungen | Actien-Gesellschaft f. Arbeiterwohn.
+3 | V. | 334 A | desgl. | Actien-Gesellschaft f. Arbeiterwohn.
+5 | V. | 334 B | desgl. | Hoffmann-Oltiger, Jacob, Schreiner.
+7 | V. | 334 C | desgl. | Actien-Gesellschaft f. Arbeiterwohn.
+9 | V. | 357 | desgl. | desgl.
+11 | V. | 358 | desgl. | desgl.
+13 | V. | 359 | desgl. | desgl.
+19 | V. | 349 | | Spindler=Wahl, Jacob.
+21 | V. | 350 | | Sepp=Schneider, Joh. Jakob.
+23 | V. | 351 | | Buser=Bienz, Jacob.
+| | | | Buser=Bienz, Jacob, Posamenter.
+| | | | Geitlinger=Schäfer, Jacob.
+| | | | Geitlinger=Schäfer, Jacob, Magazinfn.
+25 | V. | 352 | | Rieder=Kestli, Martin.
+27 | V. | 353 | | Rieder=Kestli, Martin, Fabrikarbeiter.
+29 | V. | 354 | | Roller=Roller, Caspar.
+| | | | Roller=Roller, Caspar, Posamenter.
+31 | V. | 355 | | Wiesner=Schweizer, Johannes.
+| | | | Wiesner=Schweizer, Joh., Posamenter.
+33 | V. | 356 | | Büchle=Wagner, Rudolf.
+| | | | Büchle=Wagner, Rudolf, Holzmiller.
+In der Breite.
+Brückliberg.
+7 | V. | 313 | zur Säge. | Stehlin, Joh. Jakob, Architekt.
+| | | | Wagner=Haas, Friedrich, Schreiner.
+| | | | Liithy=Weidmann, Rudolf, Sägermeister.
+Bruderholzstraße.
+6 | IV. | 209 | | Thommen=Simmen, Georg.
+| | | | Thommen=Simmen, Gg., Weinhändler.
+| | | | Müller=Rühler, Louis, Centralb.-Angest.
+| | | | Handschi=Ohr, Heinr., Materialverwal-
+| | | | ter der Centralbahn.
+| | | | Schmid-Ulrich, Carl, Commis.
+22 | IV. | 239 B | | Hartmann=Schaub, Jakob.
+| | | | Hartmann=Schaub, Jakob, Landwirth.
+Bruderholzweg.
+4 | IV. | 239 A | | Bischoff=Marian, Wilh.
+6 | IV. | 239 C | | Bischoff=Marian, Wilhelm.
+| | | | Bolander, Amadeus, Lehenn. u. Gärtner.
+10 | IV. | 242 | | Madory=Winzeried, Friedrich.
+| | | | Madory=Winzeried, Fr., Landwirth.

@@ -1,0 +1,52 @@
+Neue
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+65 IV. 1009 ......... Gekler=Fischer, Karl Samuel.
+Ackermand, Maria, Kostgeberin.
+Ludwig=Muspach, Mar., Wb., Part.
+66 IV. 994 ......... Gull, Jean.
+Gull, J., Lokomotivführer.
+Rocherhans, Jakob, Bäcker.
+67 IV. 1008 z. schwarzen Bären. Walter=Jägg, Joseph.
+Walter=Jägg, Joseph, Gastwirth.
+Dietzsch, Michael, Posthalter.
+68 IV. 995 ......... Feierabend=Haurv, Wb. Verena.
+Feierabend=Haurv, V., Wb., Schuhmach.
+69 IV. 1007 ......... Walter=Jägg, Joseph.
+Raus=Brodbeck, Martin, Hafner.
+Fäs=Drüsel, Kaspar, Maurerparlier.
+Fäs=Zundt, Jakob, Commis.
+71 IV. 1006 zum Rebstock. Jäggi=Zundt, Adolf.
+Jäggi=Zundt, Adolf, Metzger u. Speisewirth.
+Schmied, Elias, Möbelschreiner.
+72 IV. 996=997 ......... Kufmaul=Schlack, Michael.
+Die Anderscn=Zselin, Baumeister.
+Rehlfstadt=Stocker, Joh. Ludw., Quartierschreiber und Weinsticher.
+Widmer=Widenfeller, Joh., Schreiner.
+73 IV. 1005 zur Hägen=Egerten. Böhme=Brotbeck, Jacob Benedict.
+Böhme=Brotbeck, J. B., Schreiner.
+Strehler=Weiz, Joh., Mechaniker.
+74 IV. 998 ......... Mähly=Finingcr, Jacob.
+Mähly=Finingcr, Jacob, Küfer.
+75 IV. 1004 zum Thurm. Braun=Steiger, Rudolf.
+Braun=Steiger, Rud., Heuwaagmeister.
+Stingelin=Dettwiler, Friedrich, Stuhlschreiner.
+Müller, Carl, Gürtler.
+Hesse, Frau Margaretha, Part.
+Berger, Joseph, Gärtner.
+Jenny=Thommen, Mart., Kaufhausarb.
+Semperlin=Eid, Joh. Ottnar, Barbier.
+77 IV. 1003 zum Sauenstein. Strub=Löw, Eduard.
+Schmied=Bachmann, Jak., Pintenwirth.
+Bachmann, Igsfrn., Haushälterinnen.
+Bachmann=Fäsch, Emanuel, Ferger.
+Zippel=Widmer, Joh. Gerog, Zimmermann.
+Weber=Walte, Friedr., Gärtner.
+79 IV. 1002 ......... Welti=Heusler, Heinrich.
+Welti=Heusler, H., Spezierer.

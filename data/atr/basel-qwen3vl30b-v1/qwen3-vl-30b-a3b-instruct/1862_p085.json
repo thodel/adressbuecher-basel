@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p085",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p085.jpg",
+    "bytes": 1248296,
+    "sha256": "71c0132fc3c66f17db0809e9bbcb56f75f21a8eff25ce1222d177748c60f67ac",
+    "sha256_of": "original",
+    "working_copy": "1862_p085.jpg"
+  },
+  "text": "20\nSt. Alban-Vorstadt. — Allschwyler Straße.\nNre\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n94 V. 1274 A ………………… Heußler-Thurneyßen, Daniel.\nHeußler-Thurneyßen, Daniel, Rentier.\nVischer-Heußler, Dr. Wilhelm.\n95 V. 1276 Aa ………………… Bischoff-Kespinger, Hieronymus.\n96 V. 1274 a ………………… Heußler-Thurneyßen, Daniel.\n(Magazin.)\n97 V. 1276 A ………………… Bischoff-Kespinger, Hieronymus.\n(Magazin.)\n98 V. 1274 zur Zoffe. Heußler-Thurneyßen, Daniel.\nKößiger-Grandvaux, Th. Wilh., Kutscher.\nHuber-Rummler, Wb. Emma Amalia,\nStrickbaumw.- u. Baumwolltuch-Hdlg.\nBischoff-Kespinger, Hieronymus.\n(Magazin.)\n99 V. 1276 B ………………… Heußler-Thurneyßen, Dan.\n(Magazin.)\n100 V. 1274 C ………………… Heußler-Thurneyßen, Dan.\n(Magazin.)\n101 V. 1276 St. Albanthor. Sevin-Hamberger, Wilhelm.\n102 V. 1274 E ………………… Sevin-Hamberger, Wilhelm, Kaufm.\nRyffel, Reinh., Kaufmann.\nKeller-Harder, Samuel.\nKeller-Harder, Samuel, Kübler.\nMadöry-Biehlmann, Joh., Spezierer.\n104 V. 1275 a ………………… Burchhardt und Bonder-Mühl.\n(Magazin und Stalling.)\n106 V. 1275 B ………………… Ringwald-Bölger, Christian.\n108 V. 1275 C ………………… Ringwald-Bölger, Christian, Kaufm.\nIselin, Frau Susanna sel. Erben.\n(Stalling und Remise.)\n110 V. 1275 ………………… Handmann-Howald, Louis, Partic.\n112 V. 1275 b …………………\nAllschwyler Straße.\n7 II. 102 A ………………… Fischer-Trautvetter, Karl, Reinh.\nFischer-Trautvetter, C. R., Landökonom.\nBohny, J., Sattler u. Malerwerkstätte.\nDanner, Jacob, Particular.\n9 II. 102 B ………………… Fichter-Venez, Abraham.\nRueffer-Altenbach, Jacob, Gärtner.\nEglinger-Fürstenberger, Emanuel, Pfarr-\nrer der Strafanstalt.\nSanzi-Bienz, Joh. Gottlieb, Commis.\n11 II. 102 C ………………… Fichter-Venez, Abraham.\nSutter-Konus, Rudolf, Commis.\n13 II. 102 D ………………… Fichter-Venez, Abraham, Schreiner.\nStumm-deBoer, Carl, Agt.inCol.-Waar.\nBurchhardt-Wid, Wb. Fanny, Part.\n15 II. 102 E ………………… Gafker, Xaver.\nGafker, Xaver, Schreiner.\nUngerer-Sundt, August, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6613,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1937,
+    "lines": 61,
+    "longest_char_run": 7,
+    "repeat_ratio": 0.0656,
+    "mean_line_chars": 30.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0036,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p085",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p085.jpg",
+      "bytes": 1248296,
+      "sha256": "71c0132fc3c66f17db0809e9bbcb56f75f21a8eff25ce1222d177748c60f67ac",
+      "sha256_of": "original",
+      "working_copy": "1862_p085.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:31+00:00"
+  }
+}

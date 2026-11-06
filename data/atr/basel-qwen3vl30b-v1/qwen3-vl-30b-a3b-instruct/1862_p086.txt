@@ -1,0 +1,56 @@
+Allschwyler Straße. — St. Andreasplatz. 21
+Nene
+Haus-Nr. | Quar-
+tier. | Alte
+Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+---|---|---|---|---
+25 | II. | 102 K | | Schaub-Fricke, Benedict.
+| | | | Schaub-Fricke, Benedict, Commis.
+| | | | Laur-Jäslin, Wb. Maria.
+| | | | Laur, Arnold, Spitalverwalter.
+27 | II. | 102 L | | Walz-Ruthuf, Johannes.
+| | | | Walz-Ruthuf, Johannes, Rutscher.
+| | | | Sulzberger, Arnold, Missionar.
+| | | | Schneider, Carl, Commis.
+29 | II. | 102 M | | Huber-Wirz, Rudolf.
+| | | | Huber-Wirz, Rudolf, Kunstmaler.
+| | | | Rägi-Braun, Johann, Lehrer.
+| | | | Miville-Strub, Joh., Polizeiburalist.
+31 | II. | 102 N | | Schulz, Jos., und Carl Schmieder.
+| | | | Burri-Brodtmann, Fr. Math., Part.
+52 | II. | 128 | | Müller-Bruckner, Heinrich.
+| | | | Müller-Bruckner, Heinrich, Partikular.
+| | | | Bruckner-Eckenstein, Joh. Jak., dito.
+53 | II. | 129 | | Schmidt-Fäsch, Jacob Christoph.
+| | | | Schmidt-Fäsch, J. Ch., Weinhändler
+| | | | und des Raths.
+| | | | Fäsch, Igsr. Marie.
+58 | II. | 130 | | Müller, Jac. Phil., Cand. theol.
+| | | | (Semmerwohnung.)
+66 | II. | 135 | | Friedrich u. Adam, Baumeister.
+| | | | (Arbeiterwohnungen.)
+68 | II. | 134 | | Gruber-Mick, Johannes.
+| | | | Gruber-Mick, Joh., Fabrikmeister.
+69 | II. | 133 | | Grieder, Jacob.
+| | | | Bader-Habegger, Jacob, Lehenbeständer.
+76 | II. | 132 | | Dürst-Habegger, Joh. Georg.
+| | | | Dürst-Habegger, Joh. Ogg., Gutsbesitzer.
+77 | II. | 131 | | Probst-Märklin, Jacob.
+| | | | Probst-Märklin, Jac., Gutsbesitzer, Or-
+| | | | ganist und Klavierlehrer.
+| | | | Hek-Germann, Leonh., Commis.
+St. Andreasplatz.
+1 | II. | 584 | zum Biefan. | Lindner-Foreart, Wilh. Ed.
+3 | II. | 541 | | Neuschwander-Luz, Daniel.
+| | | | Neuschwander-Luz, Dan., Pintenwirth.
+4 | II. | 542 | | Brodmann, Rudolf.
+| | | | Schweizer-Brodmann, Joh., Trödler.
+5 | II. | 543 | 3. gelben Schraube. | Frey-Salathe, Adolf.
+| | | | Frey-Salathe, Adolf, Küfermeister.
+7 | II. | 547 B | zum Zimberhof. | Butz-Kieder, Josef Franz.
+8 | II. | 547 C | | Butz-Kieder, Joseph Franz.
+| | | | Butz-Kieder, Josef Franz, Gypermstr.
+| | | | Tschopp-Jordan, Emanuel, Commis.
+| | | | Pfeiffer-Kieder, Jakob, Schuhmacher.
+| | | | Kieder-Wertenberg, Joh., Zimmermstr.

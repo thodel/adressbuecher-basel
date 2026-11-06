@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p071",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p071.jpg",
+    "bytes": 922068,
+    "sha256": "f0a0d23b23fe158bfe72b31fd379922d9fa5b63eed4ef25d006c34cc59e34405",
+    "sha256_of": "original",
+    "working_copy": "1850_p071.jpg"
+  },
+  "text": "58\nSt. Alban=Quartier.\n1290 Kaufmann, Jakob, Fabrikmeister.\n1291 Merian=Fischer, Johann, Müller.\n1292 Oser=Thurneisen, Wittwe.\nOser, Rudolf, Papierfabrikant.\nStückelberger, Andr., Bandfabrikant. (Comptoir in\nNr. 1269.)\nThurneisen, Christoph, Rentier.\n1293 (Jeremiaskapelle) Obrigkeitslich.\n1294-95 Oser=Thurneisen, Wittwe, Fabrike.\nSchmid, F., Seb., Papierer.\nBollenhals, Michael, Papierer.\n1296 Bay, Eml., Papierer.\n1297 Bandfabrike von Siber=Bischof.\nZumbrunn, Heinrich, Fabrikausseher.\n1298 Müller, Christian, Ausläufer.\n1299 Gax, Jakob, Posamenter.\n1300 Unbewohnt.\n1301 Scheune u. Stallung zu Nr. 1309.\n1302 Remise.\n1303 Siegrist, Martin, Müller.\n1304 Krauer=Treu, Rudolf, Müller.\nA 1304 Stall und Magazin.\n1305 Steinmann=Hefty, F. Melch., Müller.\n1306 Obrigkeitsliches Brunnenwerk.\nRoche, Wittwe, Kath., geb. Versail, Zwirnmühle.\nA 1306 Bieler, Jakob, Lohnwäscher.\nBieler, Joh. Heinrich, Commis.\n1307 Zu Nr. 1309 gehörend.\nGysin, F. G. R., Posamenter.\n1308 Hellstern, Anton, Müller.\nKarle, Johann, Holzmüller.\nA 1309 Freyvogel=Imhof, Friedrich, Bandfabrikant.\nHeusler=Fselin, Dl., Bandfabrikant.\nSchenkel, Daniel, Prof., Theol. Dr.\nB 1309 Schaub, Jakob, Fabrikausseher.\n1310 (St. Alban=Kirche.) Obrigkeitslich.\nSt. Alban=Thorgasse.\nD 1311 (Fabrikgebäude) Madörn, Wittwe, Marg. geb. Pfaff.\n1311 Sarasin=\n, Carl, Bandfabrikant.\nA 1311 Bischer=Handmann, Wittwe, Rentière.\nFselin, Frau, Susanna, Rentière.\nHandmann, Ludwig.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4771,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1424,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p071",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p071.jpg",
+      "bytes": 922068,
+      "sha256": "f0a0d23b23fe158bfe72b31fd379922d9fa5b63eed4ef25d006c34cc59e34405",
+      "sha256_of": "original",
+      "working_copy": "1850_p071.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:33+00:00"
+  }
+}

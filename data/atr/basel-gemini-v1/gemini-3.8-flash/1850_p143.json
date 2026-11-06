@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p143",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p143.jpg",
+    "bytes": 902262,
+    "sha256": "e18927f2621764485df6399a0798d302a0f2d3fa6c6f2ad6aec9c6db21aaf401",
+    "sha256_of": "original",
+    "working_copy": "1850_p143.jpg"
+  },
+  "text": "Verzeichniß\nder im\nRagionen - Buche\neingeschriebenen Handlungsfirmen.\n\nHandlungs = Firma. | Interessenten und\nFirmaführer.\n\nA.\n1447 | J. H. Alback . | Jakob Heinrich Alback.\n*281 | Albrecht-Dietschy | Joh. Conrad Albrecht.\n1202 | F. S. Alioth & Cie. . | August Alioth.\n  Achilles Alioth.\n  L. G. Burckhardt-Alioth.\n1541 | J. G. Amans . | Jean Guillaume Amans.\n1330 | Joach. Allenspach-Rudin | Joach. Allenspach-Rudin.\n\nB.\n1510 | Joh. Jak. Bachofen u. Sohn | Joh. Jakob Bachofen.\n  Carl Burckhardt-Heußler.\n  Carl Bachofen\n1178 | Bahnmaier’s Buchhandlung | Carl Detloff.\n1631 | Nikol. de Hieronym. Bernoulli u. Sohn | Adolf Respinger.\n  Wilhelm Respinger.\n160 | Emil Bernoulli . | Emil Bernoulli.\n1420 | Emanuel Bernoulli . | Emanuel Bernoulli.\n1678 | R. Moses Bicard . | Abraham Bicard.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4887,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 786,
+    "lines": 24,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0025,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p143",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p143.jpg",
+      "bytes": 902262,
+      "sha256": "e18927f2621764485df6399a0798d302a0f2d3fa6c6f2ad6aec9c6db21aaf401",
+      "sha256_of": "original",
+      "working_copy": "1850_p143.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:32+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p135",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p135.jpg",
+    "bytes": 1121828,
+    "sha256": "6b12e621c90e0b936fcd2d7c5df72a7859f27f10145e909871fd01eba0ab5385",
+    "sha256_of": "original",
+    "working_copy": "1850_p135.jpg"
+  },
+  "text": "122\nSchnegg, Joh. Jak. 1432 | Schölln, Sl., Bandf. 1538-39\nSchnewlin, K., Kaufm. *379 | Scholer, N., Wagner *336\nu. Comp., Sped.-Hdlg. 582 | Scholp, Rud., Commis 69\nSchneider, E., Rathshr. 249B | Schönauer, H., Spez.-Hlg. 120\nTheod., Med. Dr. 257 | Schönbein, F., Prof. *113A\nJoh. Fch., Commis 331 | Schöner, F. H., Ferger 797\nFch., Schreiner 594 | Jak., Schneider 1071\nFz., Sohn, Griefer 613 | Schoop, K. L., Ferger 19\nF. F., Maler 613 | Schram, N., Zimmerm. *31\nSamuel, Schuhmacher 729 | Schramberger, Jos. 833A\nF., Metzger 816 | Schrämlí, M., Flachm. 1746\nEm., Hufschmied 852-52A | Schrämlin, Frau, Elise 889\nErhard, Lehrer 937B | Schreiber, Fr., Gastgeber 161\nDan., Schuhmacher 1007 | Schrenk, F., Unterbest. 1057\nJoh., Packer 1090 | Schröder, K., Mechan. *273\nHeinr., Sattler 1062 | Schuhmacher, Rud. 1128\nJeremias, Ausläufer 1243 | Schuler, Rudolf 483\nW., Traiteur 1351 | Konr., Metzger 812\nM., Gerichtschreiber 1382 | Ad., Rothergerber 850\nF. Appelger.=Schreib. 1382 | Adam, Weizgerber *206\nH., Abwart im Museum 1489 | Eml., Hufschmied *335\nF. F., Uhrenmacher 1558 | Schultheiß, P., Tapez. 217\nEduard, Kaufmann 1579 | Schulz, F. F., Parlier 498\nFranz, Mehlhdlg. 1655-56 | Schupp, F., Kutscher *206A\nEmanuel, Amtmann 1708 | Schüffeler=Miville, Trait. *1-2\nF. F., Küfer *370 | Schuster, A., Gesangl. 347\nJaf., Zimmermann *422 | Schük, Jakob, Commis 1063\nJaf., Schreiner *438 | Schwab, Andr., Metzger 196\n=Meyer, Wittwe 613 |=Preiswerk, Med. Dr. 1189\n=Esclin, Wittwe, Elis. 716 | Schwander, Spannerm. 586\nWittwe, Serena 980 | Schwarz, D., Geschäftsm. 146\n=Meyer, Modiste 1562 | Karl, Schloffer 880\n=Braun, Wittwe 1579 | Dor., Tabackhdlg. 1634\nJgfr. Jud., Bandladen 721 | Leonh., Schreiner *68\nJgfr. Salomea *184 | Ph., Maler *100\nSchnell=Burckhardt, Wwe. 381 | Wittwe 792\nF. F., Civilger.=Präsid. 755 | Schweichhardt, Eml. Jb. 423\nUlrich, Siegrift 834 | Schweighauser'sche Buchh. 139\nSchoch, F. F., Eisenhdlg. 1589 | Schweizer, N., Schreiner 287\nSchöck=Hindenlang, F. Ch. 79 | Joh., Agent 290\n=Henz, Wittwe 805 | Rudolf, Ferger 291\nSchölln, F. K., Wagner 359-60 | Heinrich, Kupferschied 722\n=Bruckner, Wittwe 45 | Joh., Posamenter 856\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7965,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2149,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p135",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p135.jpg",
+      "bytes": 1121828,
+      "sha256": "6b12e621c90e0b936fcd2d7c5df72a7859f27f10145e909871fd01eba0ab5385",
+      "sha256_of": "original",
+      "working_copy": "1850_p135.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:58+00:00"
+  }
+}

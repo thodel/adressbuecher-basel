@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p119",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p119.jpg",
+    "bytes": 955491,
+    "sha256": "a2a46c5fd3cabec53cdcfc1cae9dec13125b33e0ed4418fed26ccaccfa2e31c9",
+    "sha256_of": "original",
+    "working_copy": "1841_p119.jpg"
+  },
+  "text": "36\nRonus und Holzach, Christ., Quincailleriehandlung. 1633 Untere\nFreienstraße.\nRonus, Catharina, Jungfer. 956 Aeschen=Vorstadt.\nRonus=Gemuseus, Chr., Regt. 105 Blumenrain.\nRosenburger, J. Chr., Kornhauschaffner. 279 Zeughausgraben.\nRosenburger=Kapp, J. J. 1472 Münsterplatz.\nRosenberger, Joh. Jakob, von Landikon. 101 St. Joh.=Schwibbogen.\nRosenmund, Joh., Metzger. 1137 Weisse Gasse.\nRosenmund, Joh. Jakob, Rammnacher, v. Lieftal. 1544 Eisengasse.\nRoschet, Abraham, Kürschner. 1709 Unterer Spahlenberg.\nRoschet, Hieronymus, Sattler. 140 Blumengasse.\nRoth, Joh. Peter, Glaser. 1102 Streitgasse.\nRoth, geb. Socin. 99 St. Johann=Schwibbogen.\nRoth, Christoph, Schneider. 1399 Spitalsprung.\nRoth, Heinrich, Metzgermeister. 121 Blumenplatz.\nRoth, Bernhard, Schuhmacher. 72 St. Johann=Vorstadt.\nRoth, Martha, geb. Rißler, Wittwe. 1142 Weisse Gasse.\nRoth, geb. Schwarz, Dorothea, Wittwe, Hebamme. 633 Gerber=\ngässlein.\nRoth, Peter, Flachmaler. 967 Sternengässlein.\nRoth, Jsaak, Comptorist. 56 St. Johann=Vorstadt.\nRoth, Caspar, Spengler. 1548 Eisengasse.\nRoth, Maria, Wascherin. 618 Hinter der Kümliinsmühle.\nRoth, Balthasar, Glaser. 671 Gerbergasse.\nRoth, Daniel's sel. Wittwe, Farbwaaren = und Spezerei handlung.\n724 a Barfüsserplatz.\nRubly, Conrad, Zimmermann. 1234 St. Alban=Vorstadt.\nRubly, Heinrich, Schreiner. 1133 Weisse Gasse.\nRudin, Joh., Jeger. 1367 Hinter dem Münster.\nRudy, Jungfern, Anna u. Elisabeth. 711 Hint. St. Leonhardsberg.\nRueff, Abraham, Kaufmann, von Hegenheim. 492 u. 493 Oberer\nSpahlenberg.\nRumpf, Emanuel, Bürstenbinder. 1075 Tiefe.\nRumpf, Hieronymus, Postoffiziant. (Zunft zum Schlüssel.) 1630\nFreie Straße.\nRumpf, Christoph. 1516 Augustinergasse.\nRumpf, Chr. sel., Wittwe. 195 Unterer Herbergberg.\nRumpf, Daniel, Wundarzt. 165 Storchengasse.\nRumpf, Wittwe, geb. Suf. Wülf, Stubenverwalterin. 1687 Hinter\nder Kümliinsmühle.\nRumpf, Balthasar, Kübler. 704 b St. Leonhardsberg.\nRumpf, Wilhelm, Candidat der Theologie. 747 Missionsgasse.\nRumpf, Frau Pfarrer, geb. Hoch. 804 Bordere Steinen=Vorstadt.\nRumpf-Müller, Carl Christ., Commis. 1430 Freie Straße.\nRych, Wittwe, geb. Elif. Bratschy. 1734 Beim Kornmarktbrunnen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6800,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2135,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:56:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p119",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p119.jpg",
+      "bytes": 955491,
+      "sha256": "a2a46c5fd3cabec53cdcfc1cae9dec13125b33e0ed4418fed26ccaccfa2e31c9",
+      "sha256_of": "original",
+      "working_copy": "1841_p119.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:47+00:00"
+  }
+}

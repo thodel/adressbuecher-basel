@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p134",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p134.jpg",
+    "bytes": 1191047,
+    "sha256": "d9287a10412b36c08dbb650784008b11a5c9d18b78ca1ec185e2c5ea478cf93f",
+    "sha256_of": "original",
+    "working_copy": "1850_p134.jpg"
+  },
+  "text": "121\n\nSchaub, M., Kosthaus 966\n  Jakob, Schuhmacher 1082\n  J. J., Handschuhm. 1101\n  J. J., Commis 1144\n  Ben., Commis 1144\n  U. Ch., Zettlermeister 1232\n  J. A., Ferger 1279\n  Jak., Fabrikaufseher 1309B\n  D., Ferger 1438\n  Jak., Posamenter 1495\n  Andreas, Notar 1603\n  -Fischer, Wittwe 1603\nSchaubeck, S., Schuhm. 76\nSchaubhut, E. Fr. *169-71\nSchäublin, J., Unterbest. 659\n  J. J., Lehrer 852-52A\n  J. J., Schuhmacher 1102\nSchazmann, K., Maurer 430\nScheidecker, Wittwe 1686\nSchellenberg, L., Spedit. 853\nSchenk, G., Lohnwascher 677\nSchenkel, Dl., Prof. 1309A\n  Jak., Zimmergehülfe *257\nScherb, J. A. 230\n  Eml., Wundarzt 284\n  -Schmied, Metzger 479\n  Hch., Flachmaler 1505\n  G., Med. & Chir. Dr. 1528\n  Wittwe 197\nSchermar-Bloch, Ant. 1731\nScheurer, Abr., Fuhrh. 143\nScheurmann-Zäßlin, J. 1635\nSchilling, Eml., Maler 235\n  Peter, Schneider 314\n  Abr., Wagner 313-44\n  J. R., Hufschmied 348\n  Joh., Zolleinnehmer 1095\n  J. R., Commis 1328\n  Peter, Kremper *94\n  Wittwe 482\n  -Knöpf, Wittwe 648\n  -Roth, Wwe., Bandl. *297\nSchimpf, A., Kunstmaler 611\n[spalte 2]\nSchimpf, Seb., Abwart 1450\nSchlatter, J. G., Mechan. *159\nSchlosser, Kasp., Beck 1070\nSchlumpf, Konrad 777\nSchmaßmann, Heinrich 486\nSchmidt, Karl, Kunstmal. 38\n  Karl, Trödler 87\n  G. Mich., Ingenieur 109\n  -Bächlin, Lehrer 232\n  -Awengen, J., Kaufm. 247B\n  J. Christ., Beck 316\n  Ch., Schreiner 368-69\n  -Götz, Andreas 374A\n  P., Parlier 404\n  Andreas, Metzger 479\n  Rudolf, Notarius 703\n  -Lotz, Hr., Küfer 824\n  J. Theod., Schreiner 826\n  J. H., Ferger 860\n  J. F., Commis 863\n  Daniel, Kübler 951\n  -Brenner, A., Sped. 1083B\n  G. Th., Buchdr.-Faktor 1168\n  J. S., Papierer 1294-95\n  -Klotz, Xaver, Barbier 1391\n  Melch., Schneider 1416\n  A., Oberst-Rathsdiener 1496\n  Rud., Sohn, Kanzlist 1496\n  Andreas, Metzger 1657\n  Christof, Weinschenk 1666\n  Daniel, Kübler *230\n  Rud., Beck u. Weinsch. *334\n  J. J., Lohnamtsarb. *349\n  -Lotz, Wittwe, Hel. 820\nSchmiedlin, J., Ferger 780\n  -Fischer, W., Lehrer 908\n  Jakob, Zimmermann *89\n  G., Zimmermann *168\nSchmucki, Lis., Modiste 1438\nSchnäbelin, L., Schuhm. 1695\n  Adam, Kiefer 1705\n  J. Ulr., Schneider *275\nSchneeberger, Rud. *75\n10",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10048,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2143,
+    "lines": 89,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 21.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:22:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p134",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p134.jpg",
+      "bytes": 1191047,
+      "sha256": "d9287a10412b36c08dbb650784008b11a5c9d18b78ca1ec185e2c5ea478cf93f",
+      "sha256_of": "original",
+      "working_copy": "1850_p134.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:06+00:00"
+  }
+}

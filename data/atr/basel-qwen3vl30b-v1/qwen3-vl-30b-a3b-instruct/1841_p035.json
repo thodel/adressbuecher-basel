@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p035",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p035.jpg",
+    "bytes": 869345,
+    "sha256": "867d169fc7b257120ac8c12af66c6d299443a283abddda98dd859c70ad5f5042",
+    "sha256_of": "original",
+    "working_copy": "1841_p035.jpg"
+  },
+  "text": "28\nNro.\n745 * Stallung. Holzbacher, Apotheker, geh.\n746 * dito Beck, Emanuel, Weinschenks, Wittwe, geh.\n747 Rumpf, Wilh., Theol. Cand.\n748 * Magazin, Lichtenhahn-Hagenbach, J. R., geh.\n749 * Lindenmeyer, J. J., Sohn, geh.\nLeonhardgraben.\n750 Haas, Wilhelm, Schriftgießerei und Buchdruckerei.\nReber-Sulger, Benedikt, Bandfabrikant.\n751 Mieg, J. J., Med. Dr. und Professor.\nKohliberg.\n752 * Der Stadt. — Kohlibergwohnung. Ryff, Peter, und\nLöw, Joh., Kohliberger.\n753 dito Meier, F., Thierarzt.\n754 Plattner, Joh., Zimmermann.\n754 * a Ofer, Adam, Färber.\nHäfelsfinger, Rud., Commis.\n754 * b Biermann, Daniel, Tuchscherer.\n754 c Bachofen, Math., Tuchscherer.\n754 * d Sauvain-Stehlin, Salomea, geh.\nIschan, Cath., geb. Lacher.\n754 e Glasler, Joh., von Binningen, Eselhalter.\n754 f Sternenberger, J. J., Wirth.\n754 * g } Stähelin-Bischoff, B., Fabrikgebäude.\n754 * h } Meyer, Heinrich, Fabrikaufseher.\n755 Glock, Jeremias, Bestäter.\n755 * a Ofer, Adam, Färber.\n756 u. 757 * Stähelin, Gebrüder, geh.\n758 Gysin, Heinr., Salzhausarbeiter und Pintenwirth.\nBon Speyr und Gysin, Kaufleute.\n759 Rohner, Wittwe, geb. Fischer.\nHolzach, Friedrich, Partikular.\nBordere Steinen-Vorstadt.\n760 Wybert-Thurneyssen, J. J., Rentier.\n761 Gesler, Karl Achilles, Weißbeck.\n762 Hindermann, Joh. Ulrich, Weißbeck.\n763 Bloch, Joh., jünger, Färber.\nBorgognon, Constant., Kaufmann.\n763 * a Farbhaus von Bloch, Joh., jünger, Färber.\n764 Spreiermann, Elias, Sohn, Kaufmann.\nWeber, Anton, von Pfeffingen, Geschäftsmann.\n765 Undlin, Jos., Schreiner.\n766 Müller-Schölli, Alb., Wechfel-Senfal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5057,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1556,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:45:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p035",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p035.jpg",
+      "bytes": 869345,
+      "sha256": "867d169fc7b257120ac8c12af66c6d299443a283abddda98dd859c70ad5f5042",
+      "sha256_of": "original",
+      "working_copy": "1841_p035.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:40+00:00"
+  }
+}

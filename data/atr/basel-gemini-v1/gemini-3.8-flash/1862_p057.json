@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p057",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p057.jpg",
+    "bytes": 1342935,
+    "sha256": "1304219471dac01f8aa013cfaac97f3107f59414d64a934c2e80e07a6fdf4b1e",
+    "sha256_of": "original",
+    "working_copy": "1862_p057.jpg"
+  },
+  "text": "LIV | Ragionenbuch.\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nThurneyſen’ſche Papierfabrik. | Hans Rud. Thurneyſen.\n  Mich. Müller-Thurneyſen.\n  Ludw. Andreas Thurneyſen-Fäſch,\n  Commanditair. | \nTrueb, Rudolf. | Rud. Trueb, Sohn, allein. | In- und ausländiſchen\n  Blättertabak en gros.\n  Colonialwaaren en gros\n  et en détail.\nTrüdinger et Comp. | Philipp Trüdinger.\n  Friedrich Weber.\n  J. Merian-Friſchmann, Comman-\n  ditair. | Bandfabrikation.\nTſchopp-Schwab. | Wb. Tſchopp, geb. Schwab.\n  Joh. Tſchopp, Prokuraträger. | Droguerie- u. Farbwaar.\nUlmann, Felix. | Felix Ulmann, allein. | \nUngerer u. Stump. | Aug. Ungerer-Jundt.\n  Joh. Stump-Wenk. | Handel in Rohtabaken.\nUrech, David. | David Urech, allein. | Spezereiwaar., gebrannte\n  Waſſer.\nVeſt, J. B., jünger. | Carl Tſchientſchy, allein.\n  C. Futterer, Prokuraträger. | Colonialwaaren u. Lan-\n  desproducte.\nVeſt, Emanuel. | Eml. Veſt-Theubet, allein. | Porzellanhandlung.\nViſcher u. Sohn. | Fried. Viſcher-Biſchoff.\n  Carl àWengen-Müller, Prokura-\n  träger.\n  W. Breiter-Brüderlin, Prokura-\n  träger. | Farbwaarenhdl. en gros.\nVogt, Joh. Gg. et Comp. | Joh. Georg Vogt, allein.\n  Fidel Spiegelhalter, Prokuraträger.\n  Joſ. Tritſchler, Prokuraträger. | Glas-, Steingut-, Por-\n  cellan- und Quincail-\n  leriehandlung.\nVonder Mühll u. Söhne | Johannes Vonder Mühll-Ryhiner.\n  Joh. Beck.\n  W. Riedtmann, Prokuraträger. | Seidenwaarenhandlung.\nVonder Mühll, Gebr. | Friedr. Vonder Mühll-Viſcher.\n  Alfred Vonder Mühll-Fürſtenberger. | Seidenſtofffabrikation.\nWahl u. Socin. | Fried. Wahl.\n  Chr. de Chr. Socin.\n  Ferd. Aemmer, Prokuraträger. | Mechaniſche Werkſtätte.\nWahr, Gebrüder. | Philipp Wahr.\n  Carl Wahr. | Tuchhandlung.\nWahr, jünger. | Ignatz Wahr, allein. | \nWall, Heinr., Sohn. | Heinrich Wall, allein. | Specerei- u. Tabakhdlg.\nWalz, Friedrich. | Friedrich Walz, allein. | Kunſthandlung.\nWeber, Friedrich. | Fr. Weber, allein.\n  Joh. Fr. Weber, Sohn, Prokura-\n  träger. | Seidenagentur.\nWeber, Sebaſtian. | Seb. Weber, allein. | Ellenwaarenhandlung.\nWerenfels-Herzog. | J. Werenfels-Herzog, allein. | Weinhandlung.\nWerthemann, A., und\n  Sohn. | Andr. Werthemann-Vonder Mühll,\n  allein.\n  J. J. Wybert, Prokuraträger. | Farbwaarenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8850,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2236,
+    "lines": 57,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:33:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p057",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p057.jpg",
+      "bytes": 1342935,
+      "sha256": "1304219471dac01f8aa013cfaac97f3107f59414d64a934c2e80e07a6fdf4b1e",
+      "sha256_of": "original",
+      "working_copy": "1862_p057.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:00+00:00"
+  }
+}

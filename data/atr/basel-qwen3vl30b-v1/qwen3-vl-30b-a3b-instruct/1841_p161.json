@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p161",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p161.jpg",
+    "bytes": 1025094,
+    "sha256": "0fe61b26684ca473126f6eb517a890d7097d06ba105bac634286e45df75d9a40",
+    "sha256_of": "original",
+    "working_copy": "1841_p161.jpg"
+  },
+  "text": "- 8 -\nHindenlang, Emanuel, Lohnamtsarbeiter. 524 Adelberg.\n* Hindermand = Kling, Joh. Jakob. 1756 Schneidergasse.\nHöly, Hieronymus, Faktor auf der Post. 579 Schneidergasse.\nHodel, Jakob Friedrich, Schuhmacher. 1155 Gerbergasse.\nHörler = Früh, Johann Jakob, Sohn, Zucker- und Pastetenbäcker. 1602 Sporrengasse.\nHöfer, Rud., v. Anwil, Papierer. 1273 St. Albanthorgasse.\nHöfer = Petri, J. J., Handels-Kommis. 1235 St. Alb. Vorst.\nHofmann, Heinrich, Hausmeister in der Strafanstalt. 271 St. Joh. Graben.\nHoffmann = Meyer, Georg Rud. 1592 Eisengasse.\nHolzach, Friedrich, Part., 1533 Bei der Rheinbrücke.\nHolzach, Eucharius, Griefer. 1662 Kindermarkt.\nHolzach, Barbara, Isgfr., 1439 Freienstraße.\nHolzach, Joh. Bernhard. 1669 Hutgasse.\nHolzach, M. Katharina, Hebamme. 1669 Hutgasse.\nHorner, J. J., Schuhmacher. 568 Todtengäcklein.\nHosch, Lukas, Schuhmacher. 977 Sternengäcklein.\nHuber, Geschwister. 853 Thorsteinen.\nHuber = Schmitter, J. J., Kommissionsh. 1595 Eiseng.\nHübscher, Adolf, Kürschner. 1597 Eisengasse.\nHübscher, D. Gottfried, Pfundzoller und Wollenwaarenhandlung. 640 Gerbergasse.\nHübscher = Bon Speyr, Em., Kürschner. 1597 Eisengasse.\nHug, Wittwe, geb. Suf. Charl. Schnäbelin. 1163 Gerbergasse.\nHunold, Anton, Musiklehrer. 1643 Markt.\nHurter, Fr., v. Schaffhausen, Commis. 312 Spahlen-Vorst.\nHurth, Joh., v. Hegenheim, Rutscher. 922 St. Elisabeth.\nHusson, Leopold, v. Mez, Rentier. 1426 Freienstraße.\nS.\nJäcklin = Grüninger, Em., Steinmek. 1548 Eisengasse.\nJaissy, Franz, von Blauen. 1003 Ueschen-Vorstadt.\nJaissy, Joh., v. Blauen. 288 Spahlen-Vorstadt.\nJaus, Martin, Glaser. 101 St. Joh. Schwibbogen.\nJauslin, A., Sohn, Rand. d. Theol. 1625 Unt. Freienstr.\nJenny, J. J., Kaufhausarbeiter. 461 Hint. d. Spahlenthurm.\nJenny, J. J., Spannermeister. 683 Hinteres Gerbergäcklein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5785,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1782,
+    "lines": 35,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:00:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p161",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p161.jpg",
+      "bytes": 1025094,
+      "sha256": "0fe61b26684ca473126f6eb517a890d7097d06ba105bac634286e45df75d9a40",
+      "sha256_of": "original",
+      "working_copy": "1841_p161.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:37+00:00"
+  }
+}

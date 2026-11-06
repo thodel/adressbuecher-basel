@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p043",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p043.jpg",
+    "bytes": 1349807,
+    "sha256": "3c4292b2a0666a2d30ee3848c03b8fbfcf55c2e4ace40b184316c6dc5246bf77",
+    "sha256_of": "original",
+    "working_copy": "1862_p043.jpg"
+  },
+  "text": "XL\nRagionenbuch.\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nBrüderlin, Niclaus. | N. N. Brüderlin-Christmann, allein | Manufact.-Warenhdlg.\nBrunschwig, Jacques. | Jacq. Brunschwig-Levy. | Geldwechsler.\nC. Bürgy et Comp. | Eman. Bürgy, allein. |\n| J. BonderMühl-Kyhiner, Com- | \n| manditair. |\n| Raphael Eifelin, Prokuraträger. |\nBulacher, A. | Achiles Bulacher, allein. |\nBurdhardt,A. et Comp. | Ad. Burdhardt-Bischoff. | Bank.\n| Dr. Emil Merian. |\nBurdhardt, Hans Bal- | Joh. Jac. Dietzsch-Lichtenhahn. | Seidenbandfabrik.\nthasar u. Sohn. | J. J. Dietzsch-Burdhardt. |\n| Wilh. Dietzsch. |\n| Rud. Lichtenhahn, Prokuraträger. |\nBurdhardt u. Bonder- | Carl BonderMühl-Merian, allein. | Colonialwaarenhandlg.\nMühl. | J. K. Weibel, Prokuraträger. | St. Albangr. Nr. 20.\nBurdhardt, L. u. M. | Ed. Burdhardt-Schricfel. |\n| Martin Burdhardt-His. |\nBurdhardt u. Buxtorf. | Carl Buxtorf, allein. | Tabak-u. Spezereihdlg.\nBurdhardt,Chr. v.Chr. | J. J. Burdhardt-Mieg, allein. | Quincaillerie.\nBürger, Gg. | Gg. Bürger, allein. |\nBuxtorf,Andr. u. Chr. | Andr. Buxtorf, Sohn. | Seidenbandfabrik, Koh-\nChr. Buxtorf. | lenberggasse 22 u. 24. |\nBuxtorf-Merian, J. L. | Rud. Buxtorf-Buxtorf, allein. | Firmifabrikation, Far-\n| Wb. Emma Buxtorf-Merian, Com- | ben- u. Materialhdlg.\n| manditaire. |\nCalame, Bohny et | G. Calame. | Droguerie-Waaren en\nComp. | D. Bohny. | gros.\n| G. Hollinger. |\n| F. Brüstlin, Commanditaire. |\nChristen-Roth. | Nifl. Christen-Euler. | Seiden-Agenturen.\n| Balthasar Roth, Sohn. |\nChrist-Rybur, J. J. | Jac. Friedr. Schmidt-Luttrings- | Spezerei- und Tabak-\n| haufen, allein. | handlung.\nCourvoisier, G. et | Gg. Courvoisier, allein. |\nComp. | Gebr. BonderMühl, Commandi- |\n| tairs. |\nCruffaire-Tollmann C. | Charles Cruffaire-Tollmann, allein. | Tapetenhandlung.\nDanzas, Leveque u. | M. Fr. Ed. Leveque-Lavezzari. | Commissionaires & Ex-\nMinet. | Aug. Minet. | péditeurs.\n| E. Jules Danzas. |\n| Louise Jung née Scheidenberger, |\n| ohne Unterschrift. |\nDavid, Johannes. | Joh. David, allein. | Wein- u. Branntwhdlg.\nDeBary u. Söhne, Joh. | Joh. DeBary, Bater. | Seidenbandfabrik.\n| Joh. DeBary-Burdhardt. |\n| Aug. DeBary, Sohn. |\nDesgrand père etfils. | Paul Desgrand in Lyon, allein. | Kohseide.\n| Fried. Emil Woringer, Prokura- |\n| träger. |\n| Georg Glarner, Prokuraträger. |\nDietzsch-Fäsch, J. | J. Dietzsch-Fäsch, allein. | Wein-u.Spirituosenhdlg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7595,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2392,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p043",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p043.jpg",
+      "bytes": 1349807,
+      "sha256": "3c4292b2a0666a2d30ee3848c03b8fbfcf55c2e4ace40b184316c6dc5246bf77",
+      "sha256_of": "original",
+      "working_copy": "1862_p043.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:57+00:00"
+  }
+}

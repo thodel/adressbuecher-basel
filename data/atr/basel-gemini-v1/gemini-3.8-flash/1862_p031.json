@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p031",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p031.jpg",
+    "bytes": 1360648,
+    "sha256": "66a41c66346b4db8fb80aa0eff9dd12e5f4beb0daca9db21ff9bf458fa4c5ac6",
+    "sha256_of": "original",
+    "working_copy": "1862_p031.jpg"
+  },
+  "text": "XXVIII Kranken-, Begräbniß- und Alters-Cassen ꝛc.\n\nFreiwillige\nPensions-Casse lediger Bürgerinnen.\nGegründet 1824.\nVorstand: Hr. Pfarrer Peter Stähelin.\nCassier: ,, Meyer-François.\n\nFreiwillige bürgerliche Alters-Casse.\nGegründet 1825.\nVorsteher: Hr. C. Renz.\nStatthalter: ,, Albrecht.\n\n* Allgem. Unterstützungs-Gesellschaft\nConcordia.\nGegründet 1837.\nVerwalter: Hr. Joh. Streicher.\n\nPensionsanstalt des Orchestervereins.\nGegründet 1839.\nVorstand: Hr. Ernst Reiter, Musikdirektor.\nPensionberechtigt sind die ordentl. Mit-\nglieder mit Antritt des 55. Altersjahrs,\nsowie Wittwen und Waisen derselben. — Als\nEhrenmitglieder können Musikfreunde,\nwelche mit Verzichtleistung auf die Vortheile\nder Kasse die jährlichen Beiträge nebst dem\nEintrittsgeld entrichten, dem Vereine beitreten.\n\nUnterstützungs-Casse\nfür kranke Posamenter.\nGegründet 1845.\nVorsteher: Hr. Adam Madöry, Steinen-\nbrücke Nr. 45.\nCassier: Hr. Alois Kappeler, Ochsengasse Nr. 5.\n\n* Amicitia.\nGegründet 1847.\nVerwalter: Hr. J. J. Jenny, Blumen-\nrain Nr. 21.\n\nKranken- und Begräbniß-Casse\nfür Arbeiterinnen in den Bandfabriken.\nGegründet 1846.\nVorstand:\nHr. Jacob Schaub, Vorsteher.\n,, Jacob Müller, Statthalter.\n,, Friedr. Madörin, Cassier.\n,, Ulrich Stöcklin, Statthalter.\n,, Heinrich Frutiger, Schreiber.\n,, Carl Märky, Statthalter.\n,, Martin Recher, Rechnungs-Revisoren.\n,, Georg Braem, [vorangehende 2 Zeilen durch geschweifte Klammer verbunden]\n\n[spalte 2]\n\nAllgemeine\nKranken- und Begräbniß-Casse\nhiesiger Bürger und Einwohner\nbeiderlei Geschlechts.\nGegründet 1846.\nHr. P. Hächler, Nr. 8 Spalenvorstadt, Präsid.\n,, Ferd. Duthaler, Nr. 13, Münsterberg,\nSeckelmeister.\nZweck: Sich gegenseitig in Krankheits-\nund Todesfällen zu unterstützen. Der Beitritt\nsteht vom 16. Jahre an jedem Alter und jedem\nStand offen, sofern die betreffende Person\nnur in der Stadt oder deren Bann wohnt,\nund sich bei der Aufnahme in vollkommen\ngesundem Zustande befindet.\n\n* Seidenfärber Kranken-Casse.\nGegründet 1847.\nVerwalter: Hr. Caspar Keller.\nJeder in einer Seidenfärberei Arbeitende\nkann aufgenommen werden.\n\nUnterstützungscasse des Sappeurs-\nPompiers-Corps.\nGegründet 1848.\nVorstand: Der Chef des Corps: Hr. Müller-\nHauser, Major.\n\nFranzösisch-philantropische Gesell-\nschaft.\nGegründet 1848.\nPräsident: Hr. J. Bäumlin.\n\n* Allgemeine\nKranken-, Unterstützungs- und Be-\ngräbniß-Casse „Eintracht“\nfür hiesige Bürger und Einwohner beiderlei\nGeschlechts.\nGegründet 1849.\nAnzahl der Mitglieder: 219 männlich, 170\nweiblich. Zusammen 389.\nPräsident: Hr. Lud. Mai, Stapfelberg Nr. 7.\nCassier: ,, Rud. Weiß, Schnabelgäßlein\nNr. 12.\nSchreiber: ,, Joh. Zimmermann, Grün-\npfahlgäßlein Nr. 14.\nQuartiervorsteher:\nHr. Em. Groß. St. Petersgasse 12.\n,, Jacob Glor, Ulmerhof 10.\n,, Carl Wally, Steinenbachgäßlein 20.\n,, J. J. Märki, Rheingasse 30.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11177,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2780,
+    "lines": 94,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0426,
+    "mean_line_chars": 28.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:29:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p031",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p031.jpg",
+      "bytes": 1360648,
+      "sha256": "66a41c66346b4db8fb80aa0eff9dd12e5f4beb0daca9db21ff9bf458fa4c5ac6",
+      "sha256_of": "original",
+      "working_copy": "1862_p031.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:00+00:00"
+  }
+}

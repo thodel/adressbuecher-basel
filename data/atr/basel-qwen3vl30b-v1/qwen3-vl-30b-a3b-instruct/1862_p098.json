@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p098",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p098.jpg",
+    "bytes": 1399948,
+    "sha256": "6e590514b9581f7a2edc7028dbb52d768f9bd3f0cade5cd6a927e7001ae6c639",
+    "sha256_of": "original",
+    "working_copy": "1862_p098.jpg"
+  },
+  "text": "Neue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nCentralbahnpiaz.\n4 III. 204 A Stouder, Joseph.\nStouder, Joseph, Wirth.\n5 III. 203 Recher, Joh. Jakob.\nRecher, Joh. Jak., Café Restaurant.\nSchütz-Hindelang, Joh. Jak., Negociant.\nWalcher-Brunner, Markus, Particulier.\n6 III. 202 Schirach-Hofacker, Wilhelm.\nSchirach-Hofacker, Wilh., Restaurateur.\nStänz-Simmen, Joh. Rud., Ingenieur.\n10 III. 205 A Thommen-Clotu, Louis.\nThommen-Clotu, Ludwig, Kälter, Wein-\nund Essighändler.\nSchmid-Hottenfen, Eduard, Handelsreis.\n11 III. 205 Sartorius, Friedrich.\nSartorius, Friedrich, Baumeister.\n12 III. 202 F Euler-Brunner, Abraham.\nLendorf-Berri, Carl, Architekt.\nSteinbrüchel-Frei, Wb.\nEuler-Brunner, Abraham.\n13 III. 202 E Euler-Brunner, Abraham, Commis.\nUebelin-Gekler, Karl, Kaufmann.\nHellmann-Eisenlohr, Clara, Part.\nCentralbahnstraße.\n5 III. 198 Centralbahn-Gesellschaft.\nWender-Houghues, Josef, Bahnhofvorstand.\nDurand-Wecher, Carl Sous-chef de gare.\n7 III. 198 A Simon, Franz Joseph.\n10 III. 199 Bahnhof. Centralbahn-Gesellschaft.\nBucher-Hoffmann, Fried. Portier.\nHuf, Ch. Sous-chef de gare.\nBraff, Victor, Insp. der Ostbahn.\nIm Davidshoden.\n1 I. 22 Bader-Rudin, Jakob.\nBader-Rudin, Jakob, Gutsbesitzer.\n2 I. 59 Merian-Frischmann, Rudolph.\nBogt-Gottenkieni, Joh., Lehensbes.\n10 I. 19 f Schneider-Scherb, Daniel.\nSchneider-Scherb, Daniel, Gutsbesitzer.\nSchneider-Krebs, Wilh., Commis.\n11 I. 19 a Schneider-Scherb, Daniel.\n(Defonomiegebäude mit Stallung.)\n12 I. 19 b Schneider-Scherb, Daniel.\n(Stallungen und Remise.)\n14 I. 58 Senn, Joh. Jak. Gastg. z. 3 Königen\n(Scheune und Remise.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5368,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1623,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:32:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p098",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p098.jpg",
+      "bytes": 1399948,
+      "sha256": "6e590514b9581f7a2edc7028dbb52d768f9bd3f0cade5cd6a927e7001ae6c639",
+      "sha256_of": "original",
+      "working_copy": "1862_p098.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:49+00:00"
+  }
+}

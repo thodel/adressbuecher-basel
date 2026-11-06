@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p052",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p052.jpg",
+    "bytes": 1039640,
+    "sha256": "9a2e13f379b78988443768ca9869a955d9211807a1ae26bceb69a0ef0a0fc92a",
+    "sha256_of": "original",
+    "working_copy": "1850_p052.jpg"
+  },
+  "text": "Steinen=Quartier. 39\n858 (Zollerwohnung) Lindenmeyer, Balth., Wachtmeist.\n(Steinenthor) Obrigkeitslich.\n859 Martin, Andreas, Fabrikausseher und Beckerei.\n860 Schmid, F. H., Ferger.\n861 Siegrist, Heinr., Metzger, Weinschenk u. Spezerei-\nhandlung.\nMazinger, Ch., Commis.\n862 Bachmann, Eml., Commis.\nSiegrist, F. H., Beck.\n863 Hartmann, Johann, Weißbeck.\nBienz-Gerster, K. P., Handels-Commis.\nSchmidt-Luttringshauser, F. F., Commis.\nLuttringshauser, F. F., Zeichnungslehrer.\n864 Früh, Jakob Friedrich, Spanner.\n865 Köslin, Joh. Rudolf, Posamenter.\n866 Müller, Joh. Jak., Brunneister.\nMerian-Fäsch, Wittwe, Rentiere.\n867 Burkhardt-Burkhardt, Karl Leonh., Seiden- und\nTaffetfabrik.\n868 Oppermann, Karl Lud., Flachmaler.\nLichtenhahn, Bend., Beck.\n869 Riggensbach-Huber, Joh., Banquier.\nHuber-Jsclin, Wittwe, Partikularin.\n870 Merian, Friedrich, Bierbrauer.\nMerian, Ludwig, Partikular.\nA 870 Eckenstein, Eduard, Kaufmann.\n871 Barnaus-Felber, Kathar., Wittwe.\nBarnaus, F. F., Commis.\n872 Müller-Fuchs, Wittwe.\nMüller, Karl, Gyper.\n873 Bieler, Simon, Schuhmacher.\n874 Labhardt, Gebrüder, Kaspar u. F. F., Commis.\n875 Bachofen, Joh. Matth., Tuchscherer.\n876 Märky, Karl Friedr., Ferger.\nSutter, Jakob, Taglöhner.\n877 Wehrlin, Johann, Fabrikarbeiter.\nWehrlin, F. F., Spannermeister.\n878 Kramer, Jakob, Kaufhausarbeiter.\nOberer Klosterberg.\n879 Bauhof von Bruckner und Kober, Architeccten.\nA 879 Brühl, Wittwe.\n880 Schwarz, Karl, Schlosser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4598,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1428,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p052",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p052.jpg",
+      "bytes": 1039640,
+      "sha256": "9a2e13f379b78988443768ca9869a955d9211807a1ae26bceb69a0ef0a0fc92a",
+      "sha256_of": "original",
+      "working_copy": "1850_p052.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:07+00:00"
+  }
+}

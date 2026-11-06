@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p029",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p029.jpg",
+    "bytes": 1120134,
+    "sha256": "ed4ef4239fec41b0c80cf6e5ce194e8b2326666a095db737f46cc8fafe4262d5",
+    "sha256_of": "original",
+    "working_copy": "1850_p029.jpg"
+  },
+  "text": "18\nSpahlen=Quartier.\n381 Schnell, Wittwe, Sal., geb. Burckhardt, Nentière.\n382 Müller=Mathis, Wilh., Flachmaler.\nMissionsgasse.\n383 Beign, Geschwister, Ed., Handelsmann u. Jungfrauen\nCharlotte und Sophia, Nentieres.\n384 Legrand=Heusler, Wittwe.\nPassavant, Theoph., Pfarrer.\n385 (Unbewohnt.) Prof. Hagenbach'schen Erben gehörend.\n386 Courvoisier=BonderMühl, Handelsmann.\nLinder=Courvoisier, Theoph., Sohn.\nA 386 Preiswerk=Fürstenberger, C. N., Lehrer.\n387-89 (Direktion der Missionsanstalt) Fosenhans, Inspekt.\n390 Abgebrochen.\nBei St. Leonhard.\n391 Mury, F. F., Fabrikarbeiter.\n392 Best, Jungfrau, Salomea, Partikularin.\n393 Preiswerk, Samuel, Pfarrer bei St. Leonhard.\n394 Remise und Stallung.\n395 Hunzicker, Rud.\n396 Mangold, F. Th., Rosamenter. [handschriftlich: gestrichen]\n397 Strub, Lukas, Metzger.\nBamberger, Joh., Commis.\nHeuberg.\n398 Kehrer, Ad., Schachtelmacher.\n399 Schaub, Sch., Todtengräber.\na399 Zucker, Ulr., gehörend.\nA 399 Magazin.\nB 399 Rächer, Sch., Spetter.\n400 Rober, Andreas, Maurermeister.\n401 Gnehm, Caspar, Lohnkutscher.\nDEF401\n402 Brodbeck, Joh., Flachmaler.\n403 Gebethaus der Israeliten.\n404 Lützelmann, Joh. Jak., Kaufmann.\nSchmidt, P., Parlier.\n405 Hinterhaus zu Nr. 618.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4115,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1200,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p029",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p029.jpg",
+      "bytes": 1120134,
+      "sha256": "ed4ef4239fec41b0c80cf6e5ce194e8b2326666a095db737f46cc8fafe4262d5",
+      "sha256_of": "original",
+      "working_copy": "1850_p029.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:36+00:00"
+  }
+}

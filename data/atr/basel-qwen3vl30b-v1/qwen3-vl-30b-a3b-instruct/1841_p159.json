@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p159",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p159.jpg",
+    "bytes": 1031332,
+    "sha256": "1caaad801ab448d909135bebc0372fa181ebc0b3dc8e23ec48625fe871b9d00f",
+    "sha256_of": "original",
+    "working_copy": "1841_p159.jpg"
+  },
+  "text": "- 6 -\nG.\nGak=Sirt, Joh. Heinrich, Schneider. 1185 Freienstraße.\n* Gak=Thurneyssen, Heinrich, Schneider. 657 Gerbergasse.\nGauthei, Karl, Handelsmann, von Arnay. 140 Blumengasse.\nGeigy, Thomas, Bater. 457 Beim Spahlenthurm.\nGeigy, Katharina, Isgf. 245 Kaltkellergäklein.\nGeigy, Eduard, Kaufmann. 1417 Spitalsprung.\nGelzer, h., Dr. 98 St. Johann=Schwibbogen.\nGemuseus, Charlotte, Isgf. 1177 Freienstraße.\n* Gemuseus, Karl, Firma: Gemuseus und Klett, Manu-\nfakturwaarenlager. 1593 Eisengasse.\nGemuseus=Le Grand, u. M. D., Wittwe. 231 Oberer\nHerbergberg.\nGengenbach, geb. Burtorf, Karol., Wittwe. 1060 Tiefe.\nGensdarme, Joh. Michael, Gärtner. 971 Sternengäklein.\n* Georg, Franz, Meßger. 1185 Freienstraße.\nGeorg, Maria Magd., geb. Weiß, Hebamme. 526 Imbergäkl.\nGekler, Karl, Meßger. 1180 Freienstraße.\n* Gekler, Leonh., Buchbinder. 1669 Hutgasse.\nGekler, Elif., Isgfr., Part. 762 Bordere Steinen=Vorstadt.\nGirard=Blumer, Karl Franz, außerordentlicher Professor\nder franz. Sprache u. Literatur. 23 b. St. Joh. Vorst.\nGlafer=Herzog, Rud., Kornmesser. 57 St. Joh. Vorstadt.\nGlunz, Jakob, Seidenfärberegesell. 205 Spiegelgasse.\nGnöpf, Rudolf, Wagner. 914 St. Elisabethen.\nGöthschy, Rud., Weinhändler. 1612 Markt.\nGötti, Jakob, Profos in der Strafanstalt. 275 d. St.\nJohann Schanze.\nGök, Wilhelm, Ferger. 672 Gerbergasse.\nGök, Balthasar, Färber. 813 Bordere Steinen=Vorstadt.\nde Goumois=Lichtenhahn, Friedrich Wilhelm, Kaufmann.\n561 St. Peters Stiftsgasse.\nGrether, Daniel, Meßger. 1429 Freienstraße.\nGrey, Christoph, Angestellter auf dem Stempel=Bureau.\n1624 Untere Freienstraße.\n* Geschwind, Jakob Balthasar. 673 Gerbergasse.\nGuldenmann, Joh., Landjäger. 594 Schneidergasse.\nGyfin, C. C., Adjunkt auf der Post. 1638 Untere Freienstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5450,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1728,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:00:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p159",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p159.jpg",
+      "bytes": 1031332,
+      "sha256": "1caaad801ab448d909135bebc0372fa181ebc0b3dc8e23ec48625fe871b9d00f",
+      "sha256_of": "original",
+      "working_copy": "1841_p159.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:25+00:00"
+  }
+}

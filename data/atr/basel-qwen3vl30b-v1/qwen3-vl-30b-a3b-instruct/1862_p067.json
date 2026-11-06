@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p067",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p067.jpg",
+    "bytes": 1294602,
+    "sha256": "7096e7fab4eb7ea20a1bd7f22ddcac30e808a5eef0b03fbf61710450ef94ad88",
+    "sha256_of": "original",
+    "working_copy": "1862_p067.jpg"
+  },
+  "text": "2\nVerzeichniss der Quartiere und Straßen.\nIII. Steinen-Quartier.\nAeschengraben Nro. 37, 39 und 41.\nAustrafe, rechts Nro. 24 bis und mit 50,\nlinks Nro. 47.\nBachlettenstraße.\nBarfüsserplatz Nro. 7, 8, 9 bis und mit 34.\nBinninger Straße.\nBirgigstraße.\nByfangweg, rechts Nro. 40 und 42.\nCentralbahnplatz.\nCentralbahnstraße Nro. 1 bis und mit 10.\nFeierabendstraße.\nGüterstraße bis zur Heumattstraße.\nHafenbegr.\nHeumattstraße, rechts Nro. 8 bis u. mit 16 2c.\nNeuere Heumattstraße, rechts.\nHolbeins-Platz.\nHoleeweg.\nKanonengasse.\nKlosterberg Nro. 2, 4, 6, 8, 14, 15 bis u. mit 31.\nKlostergasse, untere Seite.\nKohlenberg.\nKohlenberggasse.\nRilchegäklein.\nLeimenstraße.\nSt. Leonhards-Berg, links Nro. 1 und 3.\nSt. Leonhardskirchplatz Nro. 2, 3, 4 und 5.\nSt. Leonhards-Straße, links Nro. 1 bis u. mit\n17, links u. rechts Nro. 23 bis u. mit 34.\nLohnhofgäklein.\nSt. Margarethen-Straße.\nMostäderstraße.\nNeubadstraße, links Nro. 5.\nRilimelinbachweg.\nSchilzengraben, links Nro. 7 bis u. mit 19.\nSchilzenmattstraße, links Nro. 25 bis u. mit 57.\nSteinenbachgäklein.\nSteinenberg Nro. 4, 6, 8, 9 bis u. mit 14.\nSteinengraben Nro. 19, 21 und 23.\nSteinenringweg.\nSteinenthorberg.\nSteinenthorstraße.\nSteinenvorstadt.\nTheaterstraße.\nIV. Aesch-Quartier.\nAeschengraben, links und rechts, Nro. 2 bis\nund mit 32.\nAeschenvorstadt.\nSt. Alban-Graben, rechts Nro. 2 bis u. mit 10\nSt. Albanthorgraben, links Nro. 1, 3 u. 11.\nBarfüssergasse Nro. 1, 2, 3, 4, 6, 8 bi\nund mit 14.\nBarfüsserplatz Nro. 1 bis und mit 6.\nBruderholzstraße Nro. 6 u. 22.\nBruderholzweg Nro. 4, 6 und 10.\nBrunngäklein Nro. 4, 5, 6, 7, 11 und 24.\nSt. Elisabethen-Straße.\nFreie Straße, rechts Nro. 40 bis u. mit 96.\nGerbergasse, links Nro. 45 bis und mit 79.\nGartenstraße, rechts Nro. 62 bis u. mit 72.\nGundoldingen Straße.\nHeumattstraße, links Nro. 5 bis u. mit 21.\nNeuere Heumattstraße Nro. 1 und 21.\nHirschgasse.\nSt. Jakobs-Straße, rechts Nro. 2 bis u. mit 20.\nKaufhausgasse.\nKlosterberg Nro. 7, 9, 11 und 13.\nKlostergasse, obere Seite.\nMünchensteiner Straße, rechts Nro. 2, 4, 8,\n10 und 22.\nNauenstraße.\nPfluggäklein, links Nro. 1 bis und mit 9.\nRinggäklein.\nSchwurrenweg.\nSteinenberg Nro. 1, 3, 5, 7 und 9.\nSternengäklein.\nStreitgasse.\nWallstraße.\nWeiße Gasse.\nV. St. Alban-Quartier.\nSt. Alban-Graben Nro. 1, 5, 7, 9, 12 bis\nund mit 24.\nSt. Albankirchrain.\nSt. Albanringweg.\nSt. Albanheimweg Nro. 102 u. 106.\nSt. Alban-Thal.\nSt. Albanthorgraben Nro. 4, 24, 31, 35,\n52, 54 und 72.\nSt. Alban-Vorstadt.\nAugustinergasse.\nBäumleingasse.\nBirgstraße.\nIn der Breite.\nBreite Straße.\nBrückliberg.\nBrunngäklein Nro. 13.\nEngelgasse.\nFreie Straße, links Nro. 27 bis und mit 117.\nGartenstraße, von der Engelgasse bis St. Ja-\nkobs-Straße.\nGellertstraße.\nHardtstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9221,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2693,
+    "lines": 104,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 24.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:28:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p067",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p067.jpg",
+      "bytes": 1294602,
+      "sha256": "7096e7fab4eb7ea20a1bd7f22ddcac30e808a5eef0b03fbf61710450ef94ad88",
+      "sha256_of": "original",
+      "working_copy": "1862_p067.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:28+00:00"
+  }
+}

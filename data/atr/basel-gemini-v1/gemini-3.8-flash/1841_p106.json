@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p106",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p106.jpg",
+    "bytes": 1066200,
+    "sha256": "d5d5e4de0e460d15bc2ed5940cedb588d9db05d8299c4eae120a371645bdd87b",
+    "sha256_of": "original",
+    "working_copy": "1841_p106.jpg"
+  },
+  "text": "23\n\nK.\n\nKachel, Lucas Heinrich, Metzger. 1624 Untere Freienstraße.\nKappeler, J. Abr., Hafner. 268 Neue Vorstadt.\nKappeler, Chr. F., Ferger. 257 b Neue Vorstadt.\nKappeler, Caspar, Schlosser. 1016 Aeschen-Vorstadt.\nKarle, Joh. Jakob. 1726 Hutgasse.\nKarly, Rud., Perrückenmacher. 1557 Bei der Brodlaube.\nKaufmann, Georg, Metzger. 287 Spahlen-Vorstadt.\nKaul, Karl August, Uhrenmacher. 409 Trillengäßlein.\nKehlstadt, Leonhard, Postoffiziant. 670 Gerbergasse.\nKehlstadt, Joh. Phil., Tapezierer und Wirthschaft. 624 Grün\n  Pfahlgäßlein.\nKehlstadt, Joh. Ludwig, Weißbeck. 947 Aeschen-Vorstadt.\nKehlstadt, Christoph, Schreiner. 1263 St. Alban-Thorgasse.\nKehrer, Adam, Fabrikarbeiter, von Dornstett. 398 Heuberg.\nKeller, Samuel, Sohn, Kübler. 672 Gerbergasse.\nKeller, Ulrich, Partikular. 725 Barfüßerplatz.\nKeller, Joh. Georg, Schuhmacher. 1719 Hutgasse.\nKeller, Joh. Chr., Schneider. 294 Spahlen-Vorstadt.\nKeller, J. J., Kupferschmid. 480 Oberer Spahlenberg.\nKeller, Isaak. 1170 Freie Straße.\nKeller, J. J., Küfer und Bierbrauer. 1003 Aeschen-Vorstadt.\nKeller, J. J. sel., Wittwe, geb. Bischoff. 549 Adelberg.\nKeller, geb. Masinger, Wittwe. 78 St. Johann-Vorstadt.\nKeller, Wittwe, geb. Sommerhalder. 20 St. Joh.-Vorstadt.\nKeller-Paravicini, Jakob, Eisenhändler. 255 St. Petersgraben.\nKeller-Zeller, Friedrich, Kaufhausangestellter. 1653 Rindermarkt.\nKelterborn, Ludwig Adam. 257 a Neue Vorstadt.\nKern, Elias de Crousaz. 114 Blumenrain.\nKern, Jakob, Fabrikarbeiter, aus dem Kant. Aargau. 183 Unterer\n  Heubergberg.\nKern, Eman. sel., Wittwe, geb. Schmerber. 1607 Sporrengasse.\nKern-Heußler, Joh. Bernh., Gerber. 1725 Hutgasse.\nKeßler, Mathias, Fabrikarbeiter. 1315 St. Alban-Vorstadt.\nKeßler, Peter, Zimmergeselle. 903 St. Elisabethen.\nKetterer, Jos., Weinschenk. 1081 Am Bäumlein.\nKiburt, Bernh. Dietrich, Kaufmann. 913 St. Elisabethen.\nKiefer, Joh., Papierer und Lohnwascher. 1280 St. Alban-Thal.\nKindweiler, J. J., Bandfabrikant. 381 St. Leonhardsgraben.\nKircher-Merian, Jakob, Clavierlehrer. 505 Adelberg.\nKirsch, Joh. Christ., Handels-Commis. 9 c St. Joh.-Vorstadt.\nKissel, Joh., Med. Dr. 83 St. Johann-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7336,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2106,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:55:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p106",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p106.jpg",
+      "bytes": 1066200,
+      "sha256": "d5d5e4de0e460d15bc2ed5940cedb588d9db05d8299c4eae120a371645bdd87b",
+      "sha256_of": "original",
+      "working_copy": "1841_p106.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:35+00:00"
+  }
+}

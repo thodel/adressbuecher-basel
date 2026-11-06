@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p027",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p027.jpg",
+    "bytes": 888183,
+    "sha256": "00a35f097cda6bbfd6c6197b3d799c332f79d1b1562c8f59f857cff16fb8a871",
+    "sha256_of": "original",
+    "working_copy": "1841_p027.jpg"
+  },
+  "text": "20\nNro.\n511 Fürstenberger-Debary, Joh. Georg, Wollenhandlung.\n512 Fürstenberger-Burckhardt, Joh.\nHinter dem Spahlenthurm.\n513 u. 514 Rebfaamen, Joh., Commis.\nSchärer, Catharina und Margaretha, Jungfern.\n515 * Wagner, Jungfer, Anna Margaretha, gehörend.\n516 His-Bischer, Friedr.\nBurckhardt, geb. Ifelin, Wittwe.\nAdelberg.\n517 Falkner, Jungfer, Margaretha.\n518 Link, geb. Meiry, Wittwe.\nFäsch, Susanna, Klein-Kinderschule.\n519 * Magazin des Hrn. J. G. Fürstenberger-Debary.\n519 a \" \" Isaak Dreyfus.\n520 La Roche-Bischer, J. J., Banquier, Commissions- u. Spedit.-Hdlg.\nLa Roche-Stähelin, Benedikt, dito\n521 * Gesler, Daniel, Hutmacher.\nKlenk, Viktor. (Agentsgeschäfte.)\n522 Gyssler-Handmann, Ludwig, Seidenfabrikant.\nAveng, Carl, Commis.\n523 Erlacher, geb. Heinzgen, Wittwe. (Flachmalerei.)\n524 Ederer, Phil. Heinrich, Comptorist.\n525 Burckhardt-Hef, Wittwe.\nImbergäfklein.\n526 * Gesler, Daniel, Hutmacher.\nGeorg, Achilles, Schuhmacher.\n527 Scherlin, A. M., von Eberfek, Schneiderin.\n528 Krull, Frau, Margaretha, geb. Strub.\n529 Spörlin, J. Ulrich sel., Wittwe, geb. Wolleb.\n530 Walliser, J. Fr., Fabrikarbeiter.\nMüller, Jakob, am Kaufhaus.\n531 u. 532 * Mende, Fr. Gottl., Kübler.\nBell, Friedrich, von Klein-Hüningen.\n533 Hinterhaus von Nro. 602, Friedr. Gottl. Mende geh.\n534 dito\n535 dito dem Hrn. Hagenbach, Apotheker, geh.\n536 dito von Nro. 594.\n537 dito \" 593.\n538 dito \" 591.\n539 Thommen, Jakob, Fabrikarbeiter.\n540 Hofer, Sam. Rudolf, Spezereihändler.\n541 Waffermann, Jungfer, Dorothea.\n542 Hegel, J. J., Ladendiener, von Klein-Hüningen.\n543 Mende, Friedr. Gottl., Kübler.\n544 u. 545 Obrecht, Joh., Rammnacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5058,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1614,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:44:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p027",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p027.jpg",
+      "bytes": 888183,
+      "sha256": "00a35f097cda6bbfd6c6197b3d799c332f79d1b1562c8f59f857cff16fb8a871",
+      "sha256_of": "original",
+      "working_copy": "1841_p027.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:12+00:00"
+  }
+}

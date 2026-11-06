@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p074",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p074.jpg",
+    "bytes": 1034786,
+    "sha256": "eebdad44e524c5e1bcfbd82d87d3f634a6fb4ccc07707dc8b2cc7cfbe4bf85b1",
+    "sha256_of": "original",
+    "working_copy": "1850_p074.jpg"
+  },
+  "text": "St. Alban=Quartier.\n61\nA 1362 Föhr, Balthasar, Commis.\nWalter, Karl, Musikdirektor.\nHinter dem Münster.\n1363 Bischoff-Ritter, Achilles, Rentier.\nBischoff, Jgfr., Sara.\nBischoff, Achilles, Sohn.\n1364 Bischer-Bischoff, Friedr., Handelsmann.\nBischer-Balentin, Wittwe, Rentière.\nBalentin-deCrousa, Partikular.\n1365 Ryhiner-Streckeisen, Wittwe.\nStreckeisen-Cäsar, Wittwe.\nStreckeisen, Jgfr., Emma, Rentière.\n1366 Bischer, Jgfr., Salomea, Kapitalistin.\n1367 Lefer, Friedrich, Kutscher.\n1368 (Magazin) Christ-Bischoff, Rem., geh.\n1369 Unbewohnt.\nA 1369 (Magazin) Bischoff-Ritter, Achilles, geh.\n1370 (Ulrichskapelle) Obrigkeilich.\n1371 (Mädchenschulhaus) Buser, F. F., Sohn, Lehrer.\n1372 Christ, Benedikt, Rentier.\n1373 Ott, Michael, Klaviermacher.\nFersing, Wittwe, Sara, Rentière.\n1374 Kinder, Johann, Obersthelfer.\n1375 Haldy, F. P. E., Lehrer.\n1376 (Stallung) Thurneisen-Burckhardt, Balth., geh.\n1377 Ryhiner-Christ, Eml., Rentier.\nThurneisen-Ryhiner, Wittwe, Valerie, Rentière.\nAm Bäumlein.\n1378 Anstein-Wölflin, F. F., Küfer, Essig- u. Branntweinhandel.\n1379 Fechter-Hanhart, Dan. Alb., Phil. Dr.\n1380 Stuckert-Burkhard, Commis.\n1381 Ehinger-LaRoche, Wittwe, Kapitalistin.\nBischoff-Ehinger, Andr., Handelsmann.\nEhinger, Ludwig., J. U. D. (Das Bureau in Nr. 1038.)\nA 1381 Socin-Werthenmann.\nTuchhandlung von F. N. David & Conforten.\nBurckhardt, Joh. Rud., Fiskal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4573,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1360,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p074",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p074.jpg",
+      "bytes": 1034786,
+      "sha256": "eebdad44e524c5e1bcfbd82d87d3f634a6fb4ccc07707dc8b2cc7cfbe4bf85b1",
+      "sha256_of": "original",
+      "working_copy": "1850_p074.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:47+00:00"
+  }
+}

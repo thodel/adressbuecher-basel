@@ -1,0 +1,54 @@
+8 Aeschenvorstadt.
+
+Neue Haus-Nr | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+15 | IV. | 1038 | zum Raben. | Ehinger-vonSpeyr, Christof Math.
+  Ehinger-vonSpeyr, C. M., Banquier.
+  Diehl, Ferdinand, Tabakfabrikant.
+  Ehinger u. Comp., Bankgeschäft.
+16 | IV. | 946 | zum neuen Bau. | Werthemann, Jgfr. Marg.
+  Werthemann, Jgfr. Marg., Rentiere.
+17 | IV. | 1037 |  | Ehinger-vonSpeyr, Christof Math.
+  Thoma, Jgfr., Modistin.
+  Gardé, Jakob, Cassadiener.
+18 | IV. | 947 | zum rothen Krebs. | Merz-Tellenbach, Johann Jakob.
+  Merz-Tellenbach, J. J., Bäcker.
+19 | IV. | 1036 |  | Bueß, Jgfr. Cath. Dorothea.
+  Bueß, Jgfr. Cath. Dor., Bettmacherin.
+  Bürgin, Johannes, Dessinateur.
+20 | IV. | 948 |  | Merian-Christ, Benedict.
+  Merian-Christ, Ben., Sattler.
+21 | IV. | 1035 |  | Oppermann-Schweizer, W. Andr.
+  Oppermann-Schweizer, W. A., Schrein.
+22 | IV. | 949. 950 | zum Drachen. | Gemuseus-Respinger, Hieronimus.
+  Gemuseus-Respinger, H., Rentier.
+  Gemuseus-Burckhardt, Albert, Kaufm.,
+  Firma Ludw. Respinger, Col.-W.-Hdlg.
+  Thurneysen-Gemuseus, Eduard, J. U. D.
+  Respinger-Preiswerk, A. M. Wb., Rent.
+  Gemuseus, Fräulein Julie, Rentiere.
+23 | IV. | 1034 |  | Oppermann-Schweizer, W. Andr.
+  Oppermann-Schweizer, Wilh. Andreas,
+  Schreinermeister.
+24 | IV. | 951 | zum Winkeli. | Schmidt-Walser, Daniel, Sohn.
+  Schmidt-Walser, Dan., Sohn, Kübler.
+25 | IV. | 1033 |  | Roth-Keller, Sophia, Wb.
+  Roth-Keller, Soph. Wb., Kostgeberin.
+  Fürst-Erhardt, Rudolf, Schneider.
+26 | IV. | 952 | z. mittl. Löwenberg. | Keller, Joh. Jakob.
+  Keller, J. J., Kupferschmied.
+  Lüthy-Stotz, Frau Dor., Weißwollwäsch.
+27 | IV. | 1032 |  | Hug-Heusler, Maria, Wb.
+  Wirz-Handschin, Sebast., Posamenter.
+28 | IV. | 953 | zum Löwenberg. | Eisinger, Georg Joseph.
+  Eisinger, G. J., Spengler.
+29 | IV. | 1032 A |  | Hug-Heusler, Maria, Wb.
+  Thommen-Senn, Jak., Fabrikarbeiter.
+30 | IV. | 954 | zum Rölinseck. | Hauser-Gürtler, David.
+  Hauser-Gürtler, David, Kaufmann.
+31 | IV. | 1031 |  | Seifert-Jenni, Anton.
+  Seifert-Jenni, Anton, Kostgeber.
+32 | IV. | 955 | zum Lämmlein. | Hauser-Gürtler, David.
+  Seiler-Gürtler, Emil, Kaufmann.
+33 | IV. | 1030 |  | Garnjobst-Schweizer, Verena, Wb.
+  Garnjobst-Schweizer, Verena, Wb.
+  Faust-David, Joh., Schneider.

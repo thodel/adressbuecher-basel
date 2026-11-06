@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p049",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p049.jpg",
+    "bytes": 1305852,
+    "sha256": "dc2cbfd48c79db7252fdec7bb61282c6a5fda36866ba28610c66d37b7b934a8c",
+    "sha256_of": "original",
+    "working_copy": "1862_p049.jpg"
+  },
+  "text": "XLVI\nRagionenbuch.\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nKrattiger, H. | Heinr. Krattiger, allein. | Hauptdepot v. Fourni-\nturen für alle Arten\nBand- u. Stofftüble.\nKrug, Caspar. | Wb. Ch. Marg. Kirch, geb. Lin-\ndenmeyer, allein. | Spezereiwaaren.\nKruse, Fr. | F. Kruse=Salathe, allein. | Spezereiwaaren.\nRübler, Melch. | M. Rübler, i. Winterthur, allein. | Mercerie- u. Ellwaaren\nen détail.\nRündig, Carl. | Gottfr. Wintsch, Prokuraträger. | Band Nouveautés, Mer-\nCarl Ründig, allein. | ceriehdig. en gros et\ndétail.\n| | Steinkohlen u. Coals.\nLamarche u. Schwarz. | Carl Peter Lamarche. | \n| Theod. Lamarche. | \n| Jacob Schwarz. | \n| Franz Jacob Schwarz. | \n| Carl Peter Lamarche, Sohn. | \n| Carl Jahn, Prokuraträger. | \n| Herm. Weber, Prokuraträger. | \nLanderer u. Merkle. | C. L. Landerer=Maring. | Agentur u. Speculation.\n| Alb. Merkle=Klipfel. | \n| Rud. Lang, allein. | \n| D. Langmesser=Paravicini, Com- | Kunst- u. Quincaillerie-\nmanditair. | handlung.\nLang, Rudolf. | | \nLang, Josef. | J. Lang=Rueff, allein. | Weinhandlung.\nLangmesser, jünger. | J. U. Közlin=Langmesser, allein. | Weinhandlung u. Spe-\nculat.ion.\nLangmesser, D. | D. Langmesser=Paravicini. | Weinhandlung.\nLardet et Comp. | Math. Lardet, allein. | Commission.\nLaRoche, Emanuel. | Germann LaRoche, allein. | Capitalist.\n| Salomon Sauvain, Prokuraträger. | \n| Bened. LaRoche=Stehelin. | \n| Carl Gustav LaRoche=Merian. | \n| Wilhelm Sulzer, Prokuraträger. | \nLaRoche, Benedikt. | | Bank u. Spedition.\n| | Bankgeschäft.\nLaRoche, Emil., Sohn. | Emil. LaRoche=Bez. | \n| Rud. Merian=Frishmann. | \n| Alb. Merian, Prokuraträger. | \nLeGrand, Nicolas. | Adolf LeGrand, Sohn. | Baumwollspinnerei und\n| Oscar Schlumberger=LeGrand. | Weberei.\n| W. Senn, Prokuraträger. | \nLerch, Gebrüder. | Peter Lerch. | \n| Josef Lerch. | \n| | \nLeucht et Comp. | C. F. Leucht=Keller, allein. | Bandhandlung.\nLevy, A. | Rosine Levy, allein. | Manufacturwaarenhdg.\n| | Anlagen nach d. Schweiz\nLex, F. | Felix Lex, allein. | u. in's Ausland, na-\n| J. R. Häfelfinger, Prokuraträger. | mentlich Frankreich,\n| | Beforgung von Betrei-\n| | bungen und Liquida-\n| | tionen, Akte unter Pri-\n| | vatunterschrift u. f. w.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7060,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2184,
+    "lines": 58,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:23:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p049",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p049.jpg",
+      "bytes": 1305852,
+      "sha256": "dc2cbfd48c79db7252fdec7bb61282c6a5fda36866ba28610c66d37b7b934a8c",
+      "sha256_of": "original",
+      "working_copy": "1862_p049.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:39+00:00"
+  }
+}

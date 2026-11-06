@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p082",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p082.jpg",
+    "bytes": 1015427,
+    "sha256": "613275f780a5abb702aee444cf63ebdbd635f0951255a4cbcd2a642edebc7672",
+    "sha256_of": "original",
+    "working_copy": "1850_p082.jpg"
+  },
+  "text": "Stadt=Quartier. 69\n1545 Trübner=Felber, Dor., Wittwe.\n1546 Huggenberger, Joh. Heinr., Schneider.\nHuggenberger, F. H., Sohn, Tuchhandlung.\n1547 Knop, Ernst, Musikalien- u. Strohhuthandlung.\nHoch, Lukas, Mercere- und Bandhandlung.\nÖswald, Matth., Handelsmann.\n1548 Roth, Joh. Kaspr., Spengler.\n1549 Bonin=Linder, Carl, Band- u. Merceriehandlung.\n1550 Bolliger=Miville, F., Wollenwaarenhandlung.\n1551 Krug, Wilhelm, Hutmacher.\n1552 Stierlin, Emil., Wollenwaarenhandlung.\nBei der Brodlaube.\n1553 BonderMühl=Keller, F. G., Handelsmann.\n1554 Christ, Joh. Bapt., Schuhmacher.\n1555 Klingelsuß, Lukas, Bater, Seiler.\n1556 Duby, F. B., Quinquailieriehandlung.\n1557 Bureau der badisch. Eisenbahn-Omnibus u. Düsseldorfer Dampfschiffe.\nAbt, F. Peter, Condukteur.\n1558 Schneider-Meyri, F. F., Uhrenmacher.\nSchneidergasse.\n1559 Linder, F. Ludw., Messerschmied, Quartierschreiber.\n1560 Detwiler, Joh. Jak., Schneider.\n1561 Bruckner=Eckenstein, F. F., Spezerei- und Pulverhandlung.\nBruckner, Samuel, Handelsmann.\n1562 Mende, Friedr. Gottlieb, Kübler und Alterthümer-kabinet.\nBenz, Achilles, Kunstmaler.\nSchneider-Meyer, Modiste.\nWeber, Sml., Ellenwaarenhandlung.\nÖswald, Michael, Flachmaler.\n1563 Brändlin, Franz, Mezger.\n1564 Schaffner, Seb., Schneider.\n1565 Heiz, Joh. Jak., Drechsler.\n1566 Koch, Johann, Commis.\nKoch & Ostermann, Lingerie et Nouveautés.\nBest, Jgfr. Salome, Rentière.\n1567 Bär, Abraham, Coiffeur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4518,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1398,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p082",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p082.jpg",
+      "bytes": 1015427,
+      "sha256": "613275f780a5abb702aee444cf63ebdbd635f0951255a4cbcd2a642edebc7672",
+      "sha256_of": "original",
+      "working_copy": "1850_p082.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:23+00:00"
+  }
+}

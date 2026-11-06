@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p054",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p054.jpg",
+    "bytes": 979741,
+    "sha256": "7da64dd2e4c4f533be28513f562086a7c4316cbd6c91c988b0b5e43d750a46a3",
+    "sha256_of": "original",
+    "working_copy": "1841_p054.jpg"
+  },
+  "text": "47\nNro.\n1296 Bay, Emanuel, Papierer.\n1297 Sieber=Bischoff, Bandfabrik.\n1298 Weber, J. G. sel., Wittwe.\n1299 * Siegrift, Heinrich, Mezger, geh.\n1300 Thurneisen=Jäsch, Ludw. Andr.\n1301 Scheune, Jselin=Jorkart, L., geh.\n1302 Scheune, zu Nro. 1304 geh.\n1303 * Siegrift, Joh. Heinrich, Mezger, geh.\n    Siegrift, Martin, Müller.\n1304 * Jorkart=Weiß und Söhne geh.\n    Krauer, Rud., Sohn, Müller.\n1304 b Scheune und Stall.\n1305 Müller=Linder, Rud., Müller.\n    Linder, Emanuel, Professor.\n1306 Der Stadt.\n1306 a Bieler, Jakob, Loohnwäscher.\n1307 * Jselin=Jorkart, Lukas, geh.\n1308 Wehrlin, J. J., Müller.\n1309 St. Alban=Kloster. Freyvogel und Böcklin.\n1310 St. Alban=Kirche.\nSt. Alban=Vorstadt.\n1311 Stehlin, J. J. sel., Wittwe.\n    Sauvain=Stehlin, David Sal.\n1311 A Bischer=Handmann, Eduard.\n1312 Jselin=Jorkart, J. L., Wolltuchhandlung.\n    Jselin=Christ, Rud.\n1313 Würz, Joh., Zuckerbeck.\n1314 * Bischoff=Frey, Maria, Wittwe. — Abt, J., Rutscher.\n1315 Kessler, Math., Fabrikarbeiter.\n1316 Rohner, Joh., Beck.\n1316 c Ebendemselben. — Hofer=Petri, J. J., Handels-Commis.\n1317 Wezel, Martin, Papierformenmacher.\n1318 Sutter, Christoph, Kremper.\n1319—1322 Sarasin=Burckhardt, Felix, geh.\n1323 Schmidt, J. J. sel., Wittwe, geb. Landerer.\n1324 Nidecker, Mathias, Handels-Commis.\n1325 Grunauer, Christ., Pfarrer.\n1326 * Obrigkeitslich.\n1327 Oser=Falkner sel. Wittwe.\n1328 Schilling, Joh. Rud., Handels-Commis.\n1329 Blendinger, Jakob, Ferger.\n1330 Wagner=Rudin sel. Wittwe; Spezerei-handlung.\n1331 Felber, Heinrich, Grabmachers, Wittwe.\n1332 Meck, Elias, Handels-Commis.\n    Meck, Gottlieb, Schreiner.\n1333 Brunner=Scholer, Jos.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5281,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1618,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:48:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p054",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p054.jpg",
+      "bytes": 979741,
+      "sha256": "7da64dd2e4c4f533be28513f562086a7c4316cbd6c91c988b0b5e43d750a46a3",
+      "sha256_of": "original",
+      "working_copy": "1841_p054.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:51+00:00"
+  }
+}

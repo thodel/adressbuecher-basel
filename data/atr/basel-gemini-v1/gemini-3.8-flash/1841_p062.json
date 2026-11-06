@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p062",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p062.jpg",
+    "bytes": 990899,
+    "sha256": "d27ed3a84ec15f641c63eb0bf524f2730eb109fa1742a15802aa08832fa0c253",
+    "sha256_of": "original",
+    "working_copy": "1841_p062.jpg"
+  },
+  "text": "55\nNro.\n1556 Düby, Joh. Baptist, Quincailleriehandlung.\n1557 Karly, Rud., Perrückenmacher.\n1558 Schneider, Joh. Jakob, Uhrenmacher.\n\nSchneidergasse.\n1559 Linder, Joh. Ludwig, Messerschmid.\n1560 Dettwiler, Joh. Jakob, Schneider.\n1561 Bruckner-Eckenstein, Joh. Jakob, Spezereihandlung.\n1562 Peschel, Joh., Säckler und Kappenmacher.\n1563 Hausmann, Heinrich, Metzger.\n1564 Schaffner, Sebastian, Schneider.\n1565 Heitz, Joh. Jakob, Drechsler.\n1566 Koch, Joh., von Großbliedersdorf.\n1567 Landerer, Wittwe, geb. Bratschy, Perrückenmacherin.\n1568 * Sandreuter, Emanuel, Spengler, geh.\n  Sandreuter, Heinrich, Schneider.\n\nHinter der School.\n1569 Grunauer, August, Säckler und Kappenmacher.\n1570 * Seiler, Magdalena, geb. Wertenberg, geh.\n1571 Fischer, Joh. Peter, Küfer.\n1572 Best, Joh. Rudolf, Schuhmacher.\n  Engressat, Wittwe, geb. Hartmann, Parapluiehandlung.\n1573 Dietschy-Wick, Joh. Jakob.\n1574 Stückelberger, Joh. Jakob, Spanner.\n\nMarkt.\n1575 Vogt, Joh. Georg, Handelsmann.\n\nSporrengasse.\n1576 Imhof-Roschet, Joh. Jakob, Weißgerber u. Lederhandlung.\n1577 Burckhardt, J. Friedrich, Goldschmid.\n1578 Zunft zu Metzgern.\n  Christ, Conrad, Metzgers sel., Wittwe, Stubenverw.\n1579 Schneider, Theodor sel., Wittwe, geb. Braun.\n1580 Imhof, Wilhelm, Goldschmid.\n  Juillerat, Ludw. David, Schreiblehrer.\n1581 Merian-Respinger, Carl Franz Jos., Spezereihandlung.\n1582 Wertenberg, Abraham, Bürstenbinder.\n  Denereaz, Franz Simon, Commiss.- u. Speditionshandl.\n1583 * Die Brodlaube und das Stadtpolizei-Bureau, der Stadt geh.\n\nEisengasse.\n1584\n—\n1588\ndurch die neue Häusereintheilung weggefallen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6318,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1579,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p062",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p062.jpg",
+      "bytes": 990899,
+      "sha256": "d27ed3a84ec15f641c63eb0bf524f2730eb109fa1742a15802aa08832fa0c253",
+      "sha256_of": "original",
+      "working_copy": "1841_p062.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:16+00:00"
+  }
+}

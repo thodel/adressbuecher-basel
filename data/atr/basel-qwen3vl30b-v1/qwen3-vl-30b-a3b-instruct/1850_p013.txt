@@ -1,0 +1,44 @@
+St. Johann = Quartier. 3
+49 Fabrikgebäude.
+50 Dietzsch=Lichtenhahn, Jakob, Bandfabrikant.
+Lichtenhahn, Rud., Kaufmann.
+51 Preiswerk=Bischoff, Wilh., Handelsmann.
+52 Straubhardt, Joseph, Hausknecht.
+53 Burckhardt=Preiswerk, Wilhelm, Bandfabrikant,
+Erlacher, Joh., Commis.
+A 53 Stall und Remise.
+54 Brand, Jaaß, Alt=Gerichtsherr.
+55 Würz, Karl August, Nädler.
+56 Jenni, Friedrich, Dessinateur.
+57 Haberstock, Franz, Commis.
+58 Borderhaus unbewohnt. Hinterhaus: Haarvey-Kür-
+steiner, Partikular.
+59 Lok=Wick, Samuel, Spezerei=Handlung.
+Langmesser=Paravicini, David, Kaufmann.
+A 59 Remise.
+60 Basler-Bernoulli, Joh., Stadtrath.
+61 Müller-Hauser, F. F., Seidenfärbcr.
+62 Riggenbach, F. F., Weißbeck.
+Riggenbach, F. F., Postofficiant.
+63 Preiswerk, Gebr., Niklaus und Peter, Rentierö.
+A 63 Magazin.
+A 64 Preiswerk=Keller, D., Kaufmann.
+Keller, Jungfrau, Wilhemine, Rentière.
+B 64 Ryhiner=Bischoff, Sam., Rentier.
+Kern=Ryhiner, August, Bandfabrikant.
+65 Magazin.
+66 Oberlin, Jungfrau, Susanna, Näherin.
+67 Burckhardt=Gysin, F. L., Wittwe, Rentière.
+Burckhardt, L. A., Dr. J., Kriminalgerichts=Präsid.
+Zimmerlin=Preiswerk, Catharine, Wittwe, Rentière.
+68 Schmidt, Peter, Weinficher und Quartierschreiber.
+69 Scholp, Rud., Handlungs-Commis.
+70 Zselin=Debary, Rud., Handelsmann.
+71 Zselin=LaRoche, F. F., Handelsmann.
+72 Roth, Bernhard, Schuhmacher.
+73 Hindenlang=Roth, Fb., Weinschenk und Seiler.
+74 Lacher, Joseph, Kunstmaler.
+Birmann, Helene, geb. Meyer, Wittwe, Rentière.
+Hasler, Geb., Feger.
+75 Meyer-François, F. F., Kaufmann.
+76 Schaubek, Samuel, Schuhmacher.

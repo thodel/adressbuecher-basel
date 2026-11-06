@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p066",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p066.jpg",
+    "bytes": 1032486,
+    "sha256": "f7a691270a6596e3cdf55d2e5aa7335be1c3df8146ed5459986b7ac8712b904f",
+    "sha256_of": "original",
+    "working_copy": "1850_p066.jpg"
+  },
+  "text": "St. Alban=Quartier.\n53\n1173 Weitnauer, Heinrich. Friedr., Metzger.\n1174 Köchlin, Heinrich, Gypser.\n  Köchlin, F. H., Uhrenmacher.\n  Comptoir von F. F. Lüssi, Tabackhandlung.\n  Pfannenschmid, Barbara, Schneiderin.\n1175 (Zunft d. Hausgenossen z. Bären.)\n  Bachofen, Joh. Jak., Traiteur, Stubenverwalter.\n1176 Eckenstein, Wilhelm, Bierbrauer.\n1177 Gemuseus=Stähelin, F. Rud., Handelsmann.\n  Gemuseus, Hier., Dekonom.\n1178 Detloff, Karl Alb., Buchdruckerei u. Buchhandlung.\n1179 Jordan, Leonh., Ferger.\n  Dötschmann, Wilh., Goldschmied.\n1180 Flubacher, Jak, Schuhmacher.\n  Wassermand, F. F., Schneider.\n1181 Sulger=Stähelin, Andr., Tabackhandlung.\n1182 Sulger=Dobler, Louife, Wittwe.\n  Brenner=Sulger, Louife, Wittwe.\n1183 (Zunft zu Rebleuten.)\n  Seul, F. F., Stubenverwalter.\n1184 (Zunft zu Schuhmachern.)\n  Salathe, Wittwe, Stubenverwalterin u. Kostgeberin.\n  Salathe, Jak., Tapezierer.\n  Salathe, Sch., Dessinateur.\n1185 Georg, Franz, Metzger u. Weinschenk.\n  Geßler, Jgfrn., Modistes. Der Laden in Nr. 1444.\nRinggäfklein.\n1186-87 Der Brüdergemeinde gehörend.\nFreie Straße.\n1188 Goppelsröder=BonSpenr, G. Fch., Kaufmann.\n1189 Schwab=Preiswerk, Joh., Med. Dr.\n1190 Zberg, Gottlieb, Mechaniker.\n  Bürgin, Fr., Metalldrehkler.\n1191 Rösliu, Rud., Ferger.\n1192 Raillard, Theod., Spezierer.\nBäumlein.\n1193 Wettstein=Hoffmann, Wittwe.\n  Wettsteinische Apotheke.\n  Huber, Geschwister, Rentieres.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4611,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1386,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p066",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p066.jpg",
+      "bytes": 1032486,
+      "sha256": "f7a691270a6596e3cdf55d2e5aa7335be1c3df8146ed5459986b7ac8712b904f",
+      "sha256_of": "original",
+      "working_copy": "1850_p066.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:09+00:00"
+  }
+}

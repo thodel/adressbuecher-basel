@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p029",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p029.jpg",
+    "bytes": 1349732,
+    "sha256": "aa36573de0f5530fcabbdfde375345fe9375bf1508b04d75d927960ae4900795",
+    "sha256_of": "original",
+    "working_copy": "1862_p029.jpg"
+  },
+  "text": "XXVI Bereine u. Anstalten zu Wohlfähigkeits-Zwecken.\nFrauen-Comité.\nFrau Professør Steffenſen-Burckhardt.\n„ Socin-Werthemann.\n„ Bernoulli-Werthemann.\nHr. A. Roth, Hausvater der Anſtalt.\nFrauenverein der 4 Pfarrgemeinden.\nSt. Peter, gegründet 1846.\nSt. Theodor, \" 1846.\nMünster, \" 1847.\nSt. Leonhard, \" 1847.\nArmen-Hülfs-Berein\nfür Frauenpersonen.\nGegründet 1848.\nPrämien-Stiftung\nfür männliche\nDienstboten, Handwerksgeſellen und\nFabrikarbeiter.\nAnſtalt für\nBildung weiblicher Dienstboten.\nGegründet 1849.\nVorſtand:\nHr. Pfarrer W. LeGrand, Schreiber.\n„ J. J. Minder-Zästlin, Caffier,\n„ und ein Frauen-Comité.\nHausmutter: Jungfr. B. Habicht.\nMägde-Stiftung.\nGegründet 1849.\nVorſtand: Hr. C. Thurneyjen-Paravicini.\nDiaconissen-Anstalt in Riehen.\nGegründet 1852\nzur Ausbildung von Krankenpflegerinnen in\nöffentl. Anſtalten u. Privathäusern.\nVorſtand des Comité:\nHr. Bischoff-Repinger.\nFabrik-Anſtalt von Richter-Linder.\nGegründet 1853\nzur Erziehung armer Mädchen für das häus-\nliche Leben und zu tüchtigen Fabrik-\nArbeiterinnen.\nHauseltern: Hr. Lehrer Näf u. dessen Gattin.\nVerein\nzur\nUnterſtützung älterer Taubstummen.\nGegründet 1856.\nVorſtand: Hr. Decan Stähelin in Riehen.\nDer Verein nimmt fich der Taubstummen,\ndie ihre Bildungszeit in Riehen beendigt haben\nu. einen Beruferlernen ſollten, an und verjucht\nin der Anſtalt in Bettingen ſolche Taubstum-\nmen, welche nie in einer Anſtalt gewesen find\nund wegen überschrittenem gefetzlichem Alter\nnirgends mehr aufgenommen werden, innerlich\nzu bilden und auch brauchbar zu machen für\ndie menschliche Geſellſchaft.\nIsraelitischer Wohlfähigkeitsverein.\nGegründet 1857.\nVorſtand: Hr. Sam. Braunſchweig.\nAnſtalt zur Hoffnung.\nGegründet 1857\nzur Erziehung und Heilung blößfinniger\nKinder.\nDirector: Hr. Professør Jung.\nMägdeherberge auf der Schoren.\nGegründet 1858\nzur Aufnahme dienstloſer Mägde.\nVorſtand des Herren-Comités:\nHr. Pfarrer A. Barth-Loz.\nWittwen- und Waifen-Caffen.\nPrediger-Wittwen- & Waifen-Caffe.\nGestiftet 1777.\nDiese Kaffe iſt eine Privatſtiftung durch\nfreiwilligen Zusammentritt von Geiſtlichen\nzu Basel, von welcher die Hinterlaſſenen der\nMitglieder ihre den Statuten gemäß beſtimm-\nten Gehalte nicht als eine Steuer, ſondern\nals eine von Rechtswegen zukommende Ge-\nbühr zu beziehen haben.\nVorſteher der Inspection:\nHr. Pfarrer Vog-LeGrand.\nWeltfete\nallgem. Wittwen- & Waifen-Caffe.\nGestiftet 1788.\nVorſtand:\nHr. J. M. Montfort, Vorſteher.\n„ Steinmann-Simmen.\n„ Mäzinger-Buier, Seckelmeiſter.\n„ Straumann-Wertenberger, ‖ Beisitzer.\n„ Zumbbrunn-Ballmer, ‖\n„ Rosenmund-Bohny, ‖ Rechnungs-\n„ Liidin-Wagner, ‖ Reviſoren.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8194,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2577,
+    "lines": 91,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.022,
+    "mean_line_chars": 27.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:21:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p029",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p029.jpg",
+      "bytes": 1349732,
+      "sha256": "aa36573de0f5530fcabbdfde375345fe9375bf1508b04d75d927960ae4900795",
+      "sha256_of": "original",
+      "working_copy": "1862_p029.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:24+00:00"
+  }
+}

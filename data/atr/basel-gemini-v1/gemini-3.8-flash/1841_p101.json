@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p101",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p101.jpg",
+    "bytes": 965845,
+    "sha256": "308b226f1a14b943012f700f36c4156a668ad9efead764b80e6cc22a98fd4fe9",
+    "sha256_of": "original",
+    "working_copy": "1841_p101.jpg"
+  },
+  "text": "18\n\nHäring, Fr., Spezereihändler. 633 Gerbergäßlein.\nHagenbach, Joh. sel., Wittwe, geb. Saraſin. 1451 Schlüsselberg.\nHagenbach, Fr., Apotheker. 596 Schneidergasse.\nHagenbach, Karl. 226 Schwarze Pfahlgasse.\nHagenbach, Eduard, Med. Dr. 596 Schneidergasse.\nHagenbach, Peter, alt Oberförster. 1451 Schlüsselberg.\nHagenbach, Carl Fr., Med. Dr. und Professor. 385 Missionsgasse.\nHagenbach, Carl Rud., der Theologie Dr. und Professor. 691 Bei\n  St. Leonhard.\nHaller, Viktor, Küfer. 1688 Hinter der Rümlinsmühle.\nHalter, J. J. sel., Wittwe, Bettfedernhandlung. 1526 Kronengasse.\nHandmann, J. J., Goldarbeiter. 172 a Sternengasse.\nHandmann, J. sel., Wittwe. 75 St. Johann-Vorstadt.\nHandmann, geb. Iselin, Frau. 256 St. Petersgraben.\nHanhart, Joh. Conrad, Schuhmacher. 669 Gerbergasse.\nHarscher-Bischoff, Nikol., Rentier. 43 St. Johann-Vorstadt.\nHartmann, Heinrich, Weißbeck. 1006 Aeschen-Vorstadt.\nHartmann, Samuel, Kaufhausarbeiter. 461 Hinter d. Spahlenthurm.\nHasler, Seb., Posamentier, Fabrikaufseher. 62 St. Joh.-Vorstadt.\nHasler=von Mechel, Gottlieb, Lithograph und Kunsthändler. 118\n  Blumenplatz.\nHauser, J. J. sel., Wittwe, zur Krone. 1530 Neue Straße.\nHauser-Euler, Carl, Beck. 283 Spahlen-Vorstadt.\nHauser-Wieland, Wittwe. 283 Spahlen-Vorstadt.\nHausmann, Heinrich, Metzger. 1563 Schneidergasse.\nHeckendorn, Elisabetha, Lehrerin. 174 Brunngäßlein.\nHegar, Ernst Friedrich, Clavierlehrer. 109 Blumenrain.\nHegel, J. J., Ladendiener, von Kleinhüningen. 542 Imbergäßlein.\nHeggendorn, Christoph, Tabackhandlung. 1622 Untere Freienstraße.\nHeggendorn, Georg, Schneider. 211 Schwarze Pfahlgasse.\nHeilmann, Elisabetha, von Mühlhausen. 299 Spahlen-Vorstadt.\nHeimlicher, Jakob, Architekt. 1000 Hint. d. Ringmauer.\nHeitz, Joh. Jakob, Drechsler. 1505 Schneidergasse.\nHeitz, August Christoph, Notar. 1391 Am Bäumlein.\nHeitz, C. F. sel., Wittwe. 1390 Am Bäumlein.\nHeitz, Wittwe, geb. Stutz. 994 Aeschen-Vorstadt.\nHeitz, Hieron., Vater, Drechsler. 577 u. 578 Schneidergasse.\nHeitz, Bernhard, Drechsler. 1625 Untere Freienstraße.\nHeller, Heinrich, Handels-Commis. 1486 Augustinergasse.\nHenz, Daniel, Wagner. 329 u. 330 Fröschgasse.\nHenz, Jakob, Weißbeck. 351 Spahlen-Vorstadt.\nHenz, Joh., Weißbeck. 354 Spahlen-Vorstadt.\nHenz, Nikol., Weißbeck. 774 Vordere Steinen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8300,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2256,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:54:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p101",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p101.jpg",
+      "bytes": 965845,
+      "sha256": "308b226f1a14b943012f700f36c4156a668ad9efead764b80e6cc22a98fd4fe9",
+      "sha256_of": "original",
+      "working_copy": "1841_p101.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:54:53+00:00"
+  }
+}

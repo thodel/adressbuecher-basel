@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p072",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p072.jpg",
+    "bytes": 975558,
+    "sha256": "1d62641650b25f4fea417a31e087e2f3f5432d9ba80ecea9fe95b984844afe8f",
+    "sha256_of": "original",
+    "working_copy": "1841_p072.jpg"
+  },
+  "text": "65\nNro.\n60 Dalang, Jakob, Beck.\n61 Braun=Geßler, Andreas, Nothgerber.\n  Buxtorf=Falkeisen, Carl, Candidat.\n62 Burckhardt, geb. Wüst, Wittwe.\n  Murbach, Salomea, geb. Burckhardt, Seilerge schäft.\n63 Bienz, Joh., Vorfinger und Zoller.\n64 Bonkild, Sebastian, Schifffmann.\n65 Thommen, Joh., Ferger.\n  Spielmann, Jakob, Kaufhausarbeiter.\n66 Begle, Joh. Jakob, Maurermeister.\n  Hunziker, geb. Cath. Heusler.\n67 Andres, Jakob, Schuhmacher.\n68 Langmesser, geb. Brenner, Wittwe.\n  Kirchner, Wilh., Lohnkutscher.\n  Freuler, geb. Beyfelder, Barbara, Matrakzenmacherin.\n69 Schnell=Burckhardt, Emanuel, Rentier.\n70 Winkler, Clemenz, Schifffmann.\n  Winkler, Johannes, Schifffmann.\n71 Thommen, Hieronymus, von Aristorf.\n72 Glasen, Friedrich, Fischer.\n73 Mäkinger=Bloch, Vater, und Lucas u. Peter, Söhne, Fischer.\n74 Huber, Heinrich, Straßenpflasterer.\n75 Best, Joh. Jakob, Küfer.\n76 * Wertenfels, Jungfer, geh.\n77 Niedtmann, Joh. Heinrich, Rheinzoller.\n  Weber, Joh. Jakob, Commis.\n78 Mäkinger=Brenner, Jakob, Fischer.\n79 Senn, Jakob, von Giffach, Schreiner.\n80 David, Chr., Schifffmann und Wirth.\n  Sternenberger, Euch., Postoffiziant.\n81 Wizig, Martin, Vater und Sohn, Seidenfärbergesellen.\n82 Hill, Joh. Jakob, Fabrikarbeiter.\n83 Christ, Christian, Schuhmacher.\n  Christ, Christian, Schneider.\n84 * Magazin, Fr. Lok geh.\n85 Kunderk, Fridolin, von Bettschwanden, Taglöhner.\n86 Hindenlang, J. Rud., Schifffmann.\n  Weisenburger, Rudolf, Beck.\n87 * Mädchenschule. — Buser, Joh. Jakob, Lehrer.\n88 Mäkinger, Jungfer, Anna, und Frau Geiger, geb. Mäkinger.\n89 Schmidlin, Jakob, Zimmermann.\n\nAufgäklein.\n90 Murbach, Heinrich, Schreiner.\n91 Frei, Franz, Fabrikarbeiter.\n92 Landerer, geb. D'Annone, Wittwe.\n9",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4953,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1685,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p072",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p072.jpg",
+      "bytes": 975558,
+      "sha256": "1d62641650b25f4fea417a31e087e2f3f5432d9ba80ecea9fe95b984844afe8f",
+      "sha256_of": "original",
+      "working_copy": "1841_p072.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:14+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p088",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p088.jpg",
+    "bytes": 1074494,
+    "sha256": "9251bfe1a3aee21fee2b433407556deea534808ff384d08ea1224c99f13e69dc",
+    "sha256_of": "original",
+    "working_copy": "1841_p088.jpg"
+  },
+  "text": "5\n\nBischoff, J. J. sel., Wittwe, geb. Debary. 1471 Münsterplatz.\nBischoff, Sara, Jungfer. 1363 Rittergasse.\nBlattner, Heinrich, Müller. 807 Steinenbruck.\nBlech, Joh. Jakob. 860 Thorsteinen.\nBleich, Julius, Buchhändler-Commis. 651 Gerbergasse.\nBlendinger, Jakob, Ferger. 1329 St. Alban-Vorstadt.\nBleuler, Joh., Fabrikarbeiter, v. Herrliberg. 199 Unt. Heubergberg.\nBleyler, Rudolf, Commissions-, Speditions- und Colonialwaaren-\n  Handlung. 357 St. Leonhardsgraben.\nBloch, Daniel, Seiler. 1621 Untere Freienstraße.\nBloch, Daniel, Handels-Commis. 957 Aeschen-Vorstadt.\nBloch, Joseph, Handelsjude. 1696 Kuttelgäßlein.\nBloch, Wittwe, geb. Werdenberg. 1744 Sattelgasse.\nBloch, geb. Kündig, Wittwe. 278 Zeughausgraben.\nBloch, Johannes, Stadtrath. 703 Hinter dem Stöcklein.\nBloch, Johannes, jünger, Färber. 763 Vordere Steinen-Vorstadt.\nBloch, G., Wittwe. 1113 Weiße Gasse.\nBlumhardt, Julie, geb. Meier, Wittwe. 386 Missionsgasse.\nBohni, Nikolaus, Kaufhausarbeiter. 620 Hinter d. Rümlinsmühle.\nBohny, Ambrosius, Handelsmann. 1666 a Markt.\nBohny, Niklaus, Handelsmann. 1663 Rindermarkt.\nBolli, Melchior, von Beringen, Kantons Schaffhausen. 102 St.\n  Johann-Schwibbogen.\nBolli, Daniel, Wundarzt. 146 Schwanengasse.\nBollinger, Joh. Jakob, Kaufmann. 555 Adelberg.\nBonnand, Peter, Appreteur. 1250 Malzgasse.\nBonnet, geb. Süß, A. Maria. 814 Vordere Steinen-Vorstadt.\nBonnet, geb. Früh, Barbara, Wittwe. 570 Todtengäßlein.\nBorgognon, Constantin, Kaufmann. 763 Vordere Steinen-Vorst.\nBorst, August, Schneider. 321 Spahlen-Vorstadt.\nBossardt, Rudolf, Büchsenmacher. 468 Beim Spahlenthurm.\nBossardt, Heinrich und Jakob, Vater u. Sohn, Uhrenmacher. 600\n  Unterer Spahlenberg.\nBossardt, Joh., Uhrenmacher und Bannwart. 1156 Gerbergasse.\nBossardt, J. J., Oberlehrer. Knabenschule. 937 Steinenberg.\nBossart, Andr., Fabrikferger. 855 Thorsteinen.\nBosshardt, J., Fabrikarbeiter, v. Burgfelden. 6 St. Joh.-Vorstadt.\nBrand, Isaak, Gerichtsherr. 54 St. Johann-Vorstadt.\nBrändlin, P. sel., Wittwe, geb. Norbel. 361 St. Leonhardsgraben.\nBrändlin-von Mechel, Leonhard, Modehandlung. 137 Fischmarkt.\nBrändlin, geb. Falkeisen, Salomea, Seidenfärberei. 806 Steinenbruck.\nBrändlin, Joh. Jakob, v. Fischenthal, Schuhmacher. 1645 Markt.\nBrandmüller-Eckenstein, Heinr., Spezereihandl. 1660 Rindermarkt.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9901,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2266,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:52:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p088",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p088.jpg",
+      "bytes": 1074494,
+      "sha256": "9251bfe1a3aee21fee2b433407556deea534808ff384d08ea1224c99f13e69dc",
+      "sha256_of": "original",
+      "working_copy": "1841_p088.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:26+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p167",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p167.jpg",
+    "bytes": 1056449,
+    "sha256": "c0043a1c10894d598d5600b3bd7b9c0e33913ddcfad9ef85c3bb23a4b5eb01b6",
+    "sha256_of": "original",
+    "working_copy": "1841_p167.jpg"
+  },
+  "text": "- 14 -\nN.\nRächer, Friedrich, Partikular. 1626 Untere Freienstrafe.\n* Raillard=Geilinger, Rud., Weinhandlung. 747 Missionsg.\nRanz, Wendelin, v. Laumil, Dessinateur. 1279 St. Alban-Thal.\nRapp, Johannes, Schreiner. 454 Beim Spahlenthurm.\nReber=Sulger, Balthasar, Rand. d. Theol. 1473 Münsterplatz.\nRebsamen-Alt, J. B., Wagner. 513 Hint. d. Spahlenthurm.\n* Reischacher, J. J., Sohn, Handelsm. 1622 Unt. Freienstr.\nRespinger, geb. Preiswerk, Marg., Wittwe. 150 Schwaneng.\nRespinger=Stockmeyer, L., Kaufm.. 251 b. St. Petersplatz.\nRespinger=Isenegger, Fried., Handels=Commis und Glas-\nsinner. 1616 Markt.\nRicher, Joh. Peter, Commis. 1083 Bäumlein.\nRieder, Martin, v. Rothenfluh, Sachträger. 355 St.\nLeonhards=Graben.\nRiedinger, Joseph, Gärtner. 1372 Hinter dem Münster.\nRiggenbach, Heinrich, Kommissions- und Speditions-\nHandlung. 259 b. Neue Vorstadt.\nRiggenbach=Huber, Ant. 755 Kohliberg.\nRitter, Lukas, alt=Kanzlei=Sekretär. 31 St. Joh. Vorstadt.\nRohr=Hauser, Johannes, zur Krone. 1530 Neue Straße.\nRonus=Gemuseus, Elis., Wittwe. 222 Schwarze Pfahlgasse.\nRonus u. Holzach, Christ., Quincaillerie-Handl. 1540 Eiseng.\nRosenmund, Friedr., Bater, Metzger. 1137 Weisegasse.\nRoschet, Joh. Andreas, Med. Dr. 591 Schneidergasse.\nRoth, Rudolf, Fabrikarbeiter. 1112 Weisegasse.\nRoth, Rudolph, Schuhmacher. 1333 St. Alban-Vorstadt.\n* Roth, Balthasar, Glaser 651 Gerbergasse.\nRottmann, geb. Decker, Sus. 916 St. Elisabethen.\n* Rübenstahl, Jak., v. Lupsingen. 769 Bord. Steinen-Vorst.\nRudin, Fried., v. Zysen, Posamenter. 906 St. Elisabethen.\nRumpf, Wittwe, geb. Sus. Wülf, Stubenverwalterin,\nZunft zu Schmieden. 1687 Hinter der Kümliinsmühle.\nRumpf, Gottlieb, Lehrer. 804 Bordere Steinen-Vorstadt.\n* Rumpf, Wilh., Rand. d. Theol. 1649 Kindermarkt.\nRumpf, Christoph. 1516 Rheinsprung.\nRyhiner, Emanuel, Kaufmann. 1043 Aefchen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5926,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1819,
+    "lines": 38,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:01:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p167",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p167.jpg",
+      "bytes": 1056449,
+      "sha256": "c0043a1c10894d598d5600b3bd7b9c0e33913ddcfad9ef85c3bb23a4b5eb01b6",
+      "sha256_of": "original",
+      "working_copy": "1841_p167.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:11+00:00"
+  }
+}

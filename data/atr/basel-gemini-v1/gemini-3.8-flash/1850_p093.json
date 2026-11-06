@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p093",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p093.jpg",
+    "bytes": 948492,
+    "sha256": "0ef3dd23fa70dcc6a5462dfa686ac9029b517cb8890b818983e8aee75a830932",
+    "sha256_of": "original",
+    "working_copy": "1850_p093.jpg"
+  },
+  "text": "80\nRiehen-Quartier.\n\nRiehen-Quartier.\n\nSchafgäßlein.\n\n24 Köhler, Karl, Fabrikarbeiter.\n25 Dietschy, Gebhard, Zimmermann.\n26 Unbewohnt.\n  Müller, Johann, Kutscher.\n27 Strub, Eml., Wirth.\n\nRheingasse.\n\n28 Keller, Fr., Kutscher.\n  Ramhofer, Friedrich, Commis.\n29 Mäglin, Ludw., Metzger.\n30 Wicky, Joseph, Kleiderputzer.\n31 Schram, Rud., Zimmergesell.\n32 Heußler, Joh., Schneider.\n33 Hosch, Joh., Schneider.\n34 Meyer, Heinrich, Schuhmacher.\n35 Meyer, Joh., Seidenfärbergeselle u. Ausschnittladen.\n36 Müller, Gustav, Weinhandlung.\n  Wieland, Eml., Kaufmann.\n37 Krebs, Hier., Schuhmacher.\n38 Uhlinger, Jakob, Glaser.\n39 (Gasth. z. Sonne) Meyer, J. J., Metzger, Gastgeb.\n40 Dietschy, Conrad, Metzger.\n41 Schweizer, Ludwig, Flachmaler.\n42 Hug, Georg, Fischer.\n43 Braun, Rudolf, Kunstmaler.\n  Stierlin-Mathes, Ludw., Tapetenhandel in Nr. 1667,\n    Hutgasse.\n44 Matinger, Conrad, Schuhmacher und Weinsticher.\n45 Schachtler, Jakob, Gypser.\n46 Lotz, Achilles, Sohn, Seidenfärber.\n47 Huber, Rud., Kunstmaler.\n48 David, Johann, Rudolf, Metzger.\n49 Merian, Walther, Geschäftsmann. Comptoir in\n    Nr. 149 A Schwanengasse.\n50 Grüblin, Joh. Jak., Ausschnittladen.\n51 Heckendorn, Fr., Färbergesell.\n52-55 Lotz, Friedrich, Vater, Seidenfärber.\n56 Flamm, Johann, Seidenfärber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6284,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1256,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 29.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p093",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p093.jpg",
+      "bytes": 948492,
+      "sha256": "0ef3dd23fa70dcc6a5462dfa686ac9029b517cb8890b818983e8aee75a830932",
+      "sha256_of": "original",
+      "working_copy": "1850_p093.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:05+00:00"
+  }
+}

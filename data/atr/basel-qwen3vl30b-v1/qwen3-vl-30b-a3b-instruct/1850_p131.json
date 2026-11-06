@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p131",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p131.jpg",
+    "bytes": 1110269,
+    "sha256": "4a63342c5b1d50d248cf30ef3fea9105c2ce641a7eec35a105d02fc1f55ef79e",
+    "sha256_of": "original",
+    "working_copy": "1850_p131.jpg"
+  },
+  "text": "118\nPlattner, M., Spengler 1104 | Reber-Burckhardt, Nifl. 747\nHr., Hausknecht 1140 | =Sulger, B. 750\nFoh., Lohnfuhrhalter 1271 | =Sulger,Balth., Lehrer 1473\nPlüß, Foh., Lifcur 1574 | =Biermann, Ph. Th. *217\nPöhlß, Friedr. 1195 | Rebfaamen, F., Commis 513\nLukas, Schloffer 1195 | Foh. Ben., Wagner 514\nPorte, Cl., Sprachlehrer 214 | Sam., Gürtler 643\nBrattler, Jaf., Beck *13 | Hieron., Dessinateur 744A\nPreiswerk-Burckhardt, F. 46 | Rees, Rasp., Fabrikauff. *302\n=Bischoff, W., Hdlsm. 51 | Rehlin, Leonh., Trödler 496\nGebr., Nifl. u. Peter 63 | Reinldin, Fof., Metger *23\n=Keller, D., Kaufm. 64A | Reinhard, D., Zeugladen 1075\n=Fürstenberger, C. R. 386A | Reinhold, G., Zimmerm. 1742\nSaml., Pfarrer 393 | Reine, F., Zimmerm. 905A\n=Paravicini, Karl 566A | Reiter-Bildstein, C. 754O\n=Eman., Spezereihdlg. 597 | Reischacher, F. F. 99\n=Ofer, F., Tuchhdlg. 1543 | Renz, Karl, Chemiker *180\n=Stückelberger, Wwe. 262 | Respinger=Zselin, Adolf 40\n=Bernoulli, Wittwe 1343 | =Passavant, Wilh. 80-81\n=Klingler, Frau Ros. 1534 | F. R., Diacon 693A\nPrevot, L., Portraitm. 652 | Leonh., Commis 754N\nProffer, Ch., Spengler 184 | =Gemuseus, B. 949-50\nPuppikofcr, R., Buchh. 688 | =Bernoulli, Eml. 1448\nLeonhard, Fabrikarb. 688 | =Sfenegger, Friedr. 1616\nPümpin, Sam., Sohn 1669 | =Preiswerk, Wwe. 949-50\nSam., Major *12 | =Burckhardt, Wittwe 1595\nNaab, H. G., Thorzoller 311 | Fgfr. Salomea 761\nRud., Schneider 686 | =Dörflinger, Wittwe *332\nRäber, F., Schumacher 1756 | Rieber, F., Spezierer 1599\nRächer, Hch., Spetter 399B | F. F., Wollenhdlg. 1582\nRaff, Aug., Hdlsm. 355 | Rieder, Em., Commis 1247\nRaillard, Th., Spezierer 1192 | Riedtmann, Foh. Ludw. 508\nEman., Med. Dr. 1479 | Nifl., Schneider 714\nR. Stempelkommissär 191 | Emanuel 1418\n=Brenner, Peter *372 | F. H., Rheinzoller *77\n=Stäbelin, August *372 | Nifl., Holzhändler *113A\nNamhofer, Fr., Commis *28 | =Oppermann, Wittwe *383\nNamperger=Hug, Eml. 1442 | Wittwe *112AB\nNamus, A., Postbeamter 234 | Rieger, Hr., Zimmerm. 1740\nRanz, W., Dessinateur *280 | Riffel, Hr., Commis 578\nRapp, Foh. Konrad 91 | Riggenbach, F., Flachmaler 6\nRau, Fgfr. Caroline 23B | F. F., Beck 62\nReber-Geilinger, F. F. 563 | F. F., Postoffiziant 62\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8274,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2180,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p131",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p131.jpg",
+      "bytes": 1110269,
+      "sha256": "4a63342c5b1d50d248cf30ef3fea9105c2ce641a7eec35a105d02fc1f55ef79e",
+      "sha256_of": "original",
+      "working_copy": "1850_p131.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:26+00:00"
+  }
+}

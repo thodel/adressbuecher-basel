@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p081",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p081.jpg",
+    "bytes": 905695,
+    "sha256": "002899ca7303c9f4bbfc6acd238162d5836cbe4541972040522d6b3b921d4d5c",
+    "sha256_of": "original",
+    "working_copy": "1841_p081.jpg"
+  },
+  "text": "74\nNro.\n334 Schmidt, Rudolf, Weißbeck.\n335 Singeisen, Nikolaus, Hufschmid.\n336 Scholer, Nikolaus, Wagner.\n Müller, Heinrich, Parapluiemacher.\n Goskweiler, J. U., Fabrikkauffeher.\n337 * Magazin, Rud. Bienz, Mekger, geh.\n338 Uhlinger, J. Georg, Fabrikant von Schakodeckel u. lakirtem Leder.\n339 Lindemann, Friedrich.\n Soller, Friedr., Weißbeck.\n340 * Stallung und Remise von Joh. David.\n341 Meyenrock, Geschwister (Spezereihandel).\n342 Merian, Joh. Jakob, Müller.\n343 u. 344 * Bienz, Rudolf, Mekger.\n Eppler, Joh., Schneider.\n345 * Merian, J. J., Müller.\n346 * Stallung von Otto, Eman., Müller.\n347 * Den Erben von Best, Küfer, geh.\nSchfengasse.\n348 David, Joh., Adlerwirth und Mekger.\n349 * Horner, Heinrich, Weißbeck, geh.\n350 * Remise zu Nro. 352, Roth, Peter, Müller, geh.\n351 * Behaufung u. Scheune zu Nro. 354, Haas, Hier., Müller, geh.\n352 Roth, Peter, Müller.\n Roth, Joh., Beck.\n353 * Raillard, Peter, Gerber.\n354 Haas, Hieron., Müller.\n355 * Raillard, Peter, Gerber.\nSägergässlein.\n356 Dicemann, Emanuel, Bader.\n357 * Wohnhaus und Holzmühle, Andr. Braun geh.\n358 Säge, Gipsmühle und Lederwalke, Merian, Wittwe, geh.\n Pfannenschmid, geh.\n Merian, A., Bauinspektor.\n359 u. 360 Remise und Stall, Heusler, Leonhard, geh.\n361 Restenholz, M., von Lupsingen, Pfannenflicker.\nUntere Rheingasse.\n362 Albeck, geb. Dor. Lüdin, Wittwe.\n Albeck, Joh. Heinrich, Kaufmann.\n363 u. 364 Treu, Wittwe, geb. Bienz.\n Treu, Rudolf, Müller und Deler.\n365 Böttcher, Joh. Christian, Mechaniker.\n von Speyr, Lucas, Schlosser.\n Miville, J., Schreiber auf der Polizei.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4771,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1547,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p081",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p081.jpg",
+      "bytes": 905695,
+      "sha256": "002899ca7303c9f4bbfc6acd238162d5836cbe4541972040522d6b3b921d4d5c",
+      "sha256_of": "original",
+      "working_copy": "1841_p081.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:58+00:00"
+  }
+}

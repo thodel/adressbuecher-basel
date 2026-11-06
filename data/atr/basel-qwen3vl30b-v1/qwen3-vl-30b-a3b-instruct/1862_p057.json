@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p057",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p057.jpg",
+    "bytes": 1342935,
+    "sha256": "1304219471dac01f8aa013cfaac97f3107f59414d64a934c2e80e07a6fdf4b1e",
+    "sha256_of": "original",
+    "working_copy": "1862_p057.jpg"
+  },
+  "text": "LIV\nRagionenbuch.\nHandlungs firma. | Interessenten u. Firmaführer. | Natur des Geschäftes.\nThurneyfen'sche Pa-|Hans Rud. Thurneyfen. | In- und ausländischen\npierfabrik. | Mich. Müller-Thurneyfen, | Blättertabak en gros.\n| Ludw. Andreas Thurneyfen-Fäsch, | Colonialwaaren en gros\n| Commanditair. | et en détail.\n| Rud. Trueb, Sohn, allein. | Bandfabrikation.\nTrueb, Rudolf. |\nTrüdinger et Comp. | Philipp Trüdinger. |\n| Friedrich Weber. |\n| F. Merian-Frischmann, Comman- |\n| ditair. |\nTschopp-Schwab. | Wb. Tschopp, geb. Schwab. | Droguerie- u. Farbwaar-\n| Joh. Tschopp, Prokuraträger. |\nUlmann, Felir. | Feliz Ulmann, allein. | Handel in Rohtabaken.\nUngerer u. Stump. | Aug. Ungerer-Jundt. |\n| Joh. Stump-Went. |\nUrech, David. | David Urech, allein. | Spezereiwaar., gebrannte\n| | Waffer.\nBest, J. B., jünger. | Carl Tschientsch, allein. | Colonialwaaren u. Lan-\n| C. Futterer, Prokuraträger. | desproducte.\nBest, Emanuel. | Emil. Best-Theubet, allein. | Porzellanhandlung.\nBischof u. Sohn. | Fried. Bischof-Bischoff. | Farbwaarenhdl. en gros.\n| Carl àWengen-Müller, Prokura- |\n| träger. |\n| W. Breiter-Brüderlin, Prokura- |\n| träger. |\nBogt, Joh. Gg. et Comp. | Joh. Georg Bogt, allein. | Glas-, Steingut-, Por-\n| Fidel Spiegelhalter, Prokuraträger. | cellan- und Quincail-\n| Jos. Tritschler, Prokuraträger. | leriehandlung.\nBonderMühl u. Söhne | Johannes BonderMühl-Ryhiner. | Seidenwaarenhandlung-\n| Joh. Beck. |\n| W. Niedtmann, Prokuraträger. |\nBonderMühl, Gebr. | Friedr. BonderMühl-Bischof. | Seidenstofffabrikation.\n| Alfred BonderMühl-Fürstenberger. |\nWahl u. Socin. | Fried. Wahl. | Mechanische Werkstätte-\n| Chr. de Chr. Socin. |\n| Ferd. Aemmer, Prokuraträger. |\nWahr, Gebrüder. | Philipp Wahr. | Tuchhandlung.\n| Carl Wahr. |\nWahr, jünger. | Ignaz Wahr, allein. |\nWall, Heinr., Sohn. | Heinrich Wall, allein. | Specerei- u. Tabakhdg.\nWalz, Friedrich. | Friedrich Walz, allein. | Kunsthandlung.\nWeber, Friedrich. | Fr. Weber, allein. | Seidenagentur.\n| Joh. Fr. Weber, Sohn, Prokura- |\n| träger. |\nWeber, Sebastian. | Seb. Weber, allein. | Ellenwaarenhandlung.\nWerenfels-Herzog. | J. Werenfels-Herzog, allein. | Weinhandlung.\nWerthemann, A., und | Andr. Werthemann-BonderMühl, | Farbwaarenhandlung.\n| Sohn. | allein. |\n| J. J. Wybert, Prokuraträger. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6927,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2260,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0385,
+    "mean_line_chars": 42.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:26:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p057",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p057.jpg",
+      "bytes": 1342935,
+      "sha256": "1304219471dac01f8aa013cfaac97f3107f59414d64a934c2e80e07a6fdf4b1e",
+      "sha256_of": "original",
+      "working_copy": "1862_p057.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:13+00:00"
+  }
+}

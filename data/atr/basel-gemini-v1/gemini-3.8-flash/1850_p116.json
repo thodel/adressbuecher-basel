@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p116",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p116.jpg",
+    "bytes": 1176475,
+    "sha256": "ce7d4edff8adc72ed47afd052a98e70c6658c6b2374a5b466a505e15c2f58647",
+    "sha256_of": "original",
+    "working_copy": "1850_p116.jpg"
+  },
+  "text": "103\nErismann, J. J. *288\nErlacher, Joh., Commis 53\n  J. G., Winschenk 821\n  -Heinzgen, Wittwe 523\nErnst-Hug, Fch. Ferger 281\n  Balth., Abwart 898-99\n  Heinrich 989\n  Joh., Ferger 1000\nErzberger, Hier., Comm. 662\n  -Krayer, Wittwe 1445\nEschmann, Jgfr. M. *58\nEuler-Frey, Rud. 465\n  J. J., S. M. C. 565\n  Euch., Kaufhausverw. 937A\n  Abr., Handels-Comm. 1002\n  J. J., Schuhmacher *96\n  Abraham, Küfer *118\nEwig, J. G., Gastgeb. 1658\nFaconnier, Kl., Seidenf. 211\nFalkner, Geschwister 242A\n  Nikl. 266\n  Jgfr. Margaretha 517\n  Jungfr. 728\n  Jungfr. M. E. 997\nFäsch, J. J., Notar 229\n  -Zäslin, J. J. 247B\n  Joh. v. Joh. 251B\n  -Paravicini, Wittwe 256\n  Joh. Balth. 274B\n  Rud., Commis 658\n  -Süß, J. J. 1609\n  -Dünner, J. J. 1667\n  -Hauser, H. L. 1675-76\n  Friedr., Lehrer *87\n  Mag., Leonh. Organ. *104\n  Eml., Zimmermann *137\n  Ludw., Bierbrauer *169-71\n  Rud., Kupferschmied *238\n  Eml., Weißbeck *276\n  Jak., \" *333\n  -Spindler, Wittwe 219\n  Notar sel. Wittwe 449\n  -Landerer, Wittwe 810\n[spalte 2]\nFäsch, Frau S., Kostgeb. 1620\n  Jungfrn., Modistes 219\n  Jgfr. Salomea 810\nFäß, Casp., Maurerparl. 1007\nFaure, Matth. 1523\nFausel, Gottl. *3\nFaust, Heinrich 680\n  Joh., Kleiderhandlung 718\n  Kasp., Tuchscheerer 800\nFazer, Frau 236\nFechter-Hanhart, D. A. 1379\nFederer, Ant., Färberges. *248\nFeig, Frau, Modistin 595\nFeindel, J. 601\nFelber, Daniel 1261\n  G., J.U.D. Staatsschr. 1533\nFeuerstein, Daniel 764\nFeyerabend, Peter 811\n  Christ., Schuhmacher 995\nFichter, Abr. 754GH\nFiechter, Joh. Jak. 904\n  Joh., Commis 1006\nFinninger, Joh. Rud. 288\n  Leonh., Hufschmied 987-88\n  H., Metzger *278\n  Wittwe *278\nFischer, Andr., Metzger 361\n  J. J., Fabrikarbeit. 477\n  Heinr., Sohn, Küfer 611\n  J. H., Küfer 612\n  Eml., Siegrist 694\n  Joh. Balth. 772\n  Elias, Weißbeck 775\n  -Werdenberg, Wittwe 958\n  Rud., Speditor 1063\n  Joh., Tuchhandlung 1083\n  J. Peter u. Daniel 1571\n  Reinh., Stubenverw. 1650\n  Friedr., Prof. Phil. *113A\n  J. B. *154\nFlamm, Joh., Seidenf. *56\nFleiner, W., Commis 1525\nFlick, Wittwe, Theres. 102",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9321,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2008,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 20.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:19:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p116",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p116.jpg",
+      "bytes": 1176475,
+      "sha256": "ce7d4edff8adc72ed47afd052a98e70c6658c6b2374a5b466a505e15c2f58647",
+      "sha256_of": "original",
+      "working_copy": "1850_p116.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:04+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p019",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p019.jpg",
+    "bytes": 1142113,
+    "sha256": "c860d338e900c812c3b272ab1b7073373cddede65c52839f1164d6cc5a825e8b",
+    "sha256_of": "original",
+    "working_copy": "1850_p019.jpg"
+  },
+  "text": "St. Johann=Quartier.\n9\n191 Roth, Franz, Schneider.\n192 Courvoisier-Lowndes, Georg, Handelsmann.\nBernoulli, Wittwe, Sophie geb. Bernoulli.\n193 Dubois, August, Schuhmacher.\n194 Albiez, Joh., Kosthaus.\nBrunner, Jakob, Ferger.\n195 Sternenberger, F. F. fel. Wittwe, Kosthaus.\n196 Schwab, Andreas, Metzger.\nFrutiger, Chr., Ferger.\n197 Scherb, Balth. fel. Wittwe, Schneider.\n198 Pfister, Jos., Kriminalgerichtswaibel und Wirth.\n199 Bleuler, Joh. fel. Wittwe, Kosthaus.\n200 Kündig, Wittwe Joh. geb. Stämpfli, Nudelnmach.\n201 Stupanus, Jeremias, Buchbinder.\nSänger, Leonh., Commis.\nSpiegelgasse.\n202 Münch, Joh. Heinrich, Schlosser.\n203 Hinterhaus von Nr. 227.\n204 Walter, Caspar, Lithograph.\n205 Gassert, Franz Niklaus fel. Wittwe.\nGlunz, Wilh., Commis.\n206 Meyer, F. F., Kübler.\n207 Müller, Mathias.\n208 Werenfels, Marg., Wittwe, geb. Mäglin.\nAudran-Ebner, Alex.\n209 Zu Nr. 115, dem Gasthof zu 3 Königen, gehörend.\nSchwarze Pfahlgasse.\n210 Elsner, Joh., Schuhmacher.\n211 Fafon nier, Karl, Seidenfäber.\n212 Baumgartner, David, Ferger.\n213 Brudermann, Hch. Kostgeber.\nStoll, Joh., Schreiner.\nIm Winkel.\n214 Porte, Elias, Sprachlehrer.\n215-16 Wick-Hindermann, Karl, Rentier.\n217 Schultheiß, Paul, Tapezierer. (in Nr. 1123, Pfug-\ngäcklein.)\n218 Schaffner, Remigius, Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4270,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1270,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p019",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p019.jpg",
+      "bytes": 1142113,
+      "sha256": "c860d338e900c812c3b272ab1b7073373cddede65c52839f1164d6cc5a825e8b",
+      "sha256_of": "original",
+      "working_copy": "1850_p019.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:57+00:00"
+  }
+}

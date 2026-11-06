@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p029",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p029.jpg",
+    "bytes": 1120134,
+    "sha256": "ed4ef4239fec41b0c80cf6e5ce194e8b2326666a095db737f46cc8fafe4262d5",
+    "sha256_of": "original",
+    "working_copy": "1850_p029.jpg"
+  },
+  "text": "18 Spahlen-Quartier.\n\n  381 Schnell, Wittwe, Sal., geb. Burckhardt, Rentière.\n  382 Müller-Mathis, Wilh., Flachmaler.\n\nMissionsgasse.\n\n  383 Geigy, Geschwister, Ed., Handelsmann u. Jungfrauen\n    Charlotte und Sophia, Rentières.\n  384 Legrand-Heußler, Wittwe.\n    Passavant, Theoph., Pfarrer.\n  385 (Unbewohnt.) Prof. Hagenbach'schen Erben gehörend.\n  386 Courvoisier-VonderMühll, Handelsmann.\n    Linder-Courvoisier, Theoph., Sohn.\nA 386 Preiswerk-Fürstenberger, C. R., Lehrer.\n387-89 (Direktion der Missionsanstalt) Josenhans, Inspekt.\n  390 Abgebrochen.\n\nBei St. Leonhard.\n\n  391 Mury, F. J., Fabrikarbeiter.\n  392 Vest, Jungfrau, Salomea, Partikularin.\n  393 Preiswerk, Samuel, Pfarrer bei St. Leonhard.\n  394 Remise und Stallung.\n  395 Hunzicker, Rud.\n  396 Mangold, J. Jb., Posamenter. [handschriftlich: gestrichen] [handschriftlich: sel Seiden Fabrikant]\n  397 Strub, Lukas, Metzger.\n    Bamberger, Joh., Commis.\n\nHeuberg.\n\n  398 Kehrer, Ad., Schachtelmacher.\n  399 Schaub, Hch., Todtengräber.\n a399 Jucker, Ulr., gehörend.\nA 399 Magazin.\nB 399 Rächer, Hch., Spetter.\n  400 Kober, Andreas, Maurermeister.\n  401 Gnehm, Caspar, Lohnkutscher.\nDEF401|\n    402| Brodbeck, Joh., Flachmaler.\n  403 Gebethaus der Israeliten.\n  404 Lützelmann, Joh. Jak., Kaufmann. [handschriftlich: Eigentümer Joh. Gr.]\n    Schmidt, P., Parlier.\n  405 Hinterhaus zu Nr. 618.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6452,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1356,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p029",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p029.jpg",
+      "bytes": 1120134,
+      "sha256": "ed4ef4239fec41b0c80cf6e5ce194e8b2326666a095db737f46cc8fafe4262d5",
+      "sha256_of": "original",
+      "working_copy": "1850_p029.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:12+00:00"
+  }
+}

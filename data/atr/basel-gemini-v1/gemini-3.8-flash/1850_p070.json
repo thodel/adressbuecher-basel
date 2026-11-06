@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p070",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p070.jpg",
+    "bytes": 1080808,
+    "sha256": "db952d1ff0223813ade25924097b8b8cc4d7ec681211944dc4a30a2e61ffb5f7",
+    "sha256_of": "original",
+    "working_copy": "1850_p070.jpg"
+  },
+  "text": "St. Alban-Quartier. 57\n\n1264 Magazin, Remise und Stallung zu Nr. 1356 geh.\n1265 Magazin, Remise u. Stallung zu Nr. 1312 B geh.\n1266 Martin, Mathias, Wirth.\n1267 Haag, Leonhard, Hufschmied.\n1268 Iselin, Dietr., Rentier.\nAB 1269 Bandfabrike von Sulzer und Stückelberger.\n1270 Burckhardt-Burckhardt, Eml., Rentier.\n  Burckhardt-Piguet, Theophil, Lehrer.\n1271 Plattner, Joh., Lohnfuhrhalter.\n1272 Oser, Rudolf, Thierarzt.\n1273 deGoumois-Lichtenhahn, W., Handelsmann.\nA 1273 Weber, Melchior, Posamenter.\n1274\nA 1274 Heußler-Thurneysen, Dan., Handelsmann.\nB 1274 Lienin, Markus, Musiklehrer.\nE 1274 Sevin, Wilhelm, Commis.\n1275 Kiefer, Joh., Commis.\nB 1275 Magazin von Burckhardt und VonderMühll.\nA 1275 Ryhiner-Menger, Eml., Rentier, Stadtrath.\n  Menger, Karl, Partikular.\n  Haagen, Karl Gottfried, Kaufmann.\n1276 (St. Alban-Thor) Klingelfuß, Sperrer.\n  Henz, J. J., Thorschreiber.\n\nSt. Albanthal.\n\nAB 1276 (Magazin) Bischoff-Nespinger, Hier., gehörend.\n1277 Löw, Johannes, Magazinier.\n1278 Wetzel, Adam, Papierer.\n  Matzinger, Hch. Kaminfeger.\n1279 Wetzel, J. J., Lohnwascher.\n  Wetzel, J. J., Ferger.\n  Schaub, J. U., Ferger.\n1280 Kiefer, Joh., Lohnwascher u. Weinschenk.\n1281 Heußler-Fatio, Emanuel, Bleicher.\n1282 Thurneisen, Ludwig Andreas, Papierfabrikant.\n1283 Büchle, Rudolf, Holzmüller.\n1284 Frick, Peter, Papierer.\n1285 Fessonig, Johann, Schreiner.\n1286 Abgebrochen.\nA 1287 Papiermühle von Wittwe Oser.\n1287-88 Kußmaul, Mechanikus, gehörend.\n1289 Hofstetter, Dl., Papierer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6523,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1478,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p070",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p070.jpg",
+      "bytes": 1080808,
+      "sha256": "db952d1ff0223813ade25924097b8b8cc4d7ec681211944dc4a30a2e61ffb5f7",
+      "sha256_of": "original",
+      "working_copy": "1850_p070.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:24+00:00"
+  }
+}

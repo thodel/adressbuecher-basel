@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p033",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p033.jpg",
+    "bytes": 890445,
+    "sha256": "16e6e0fbab60a13c0239fdad83a3f1f479b58ed7445c3f9448fb16676a15a02a",
+    "sha256_of": "original",
+    "working_copy": "1841_p033.jpg"
+  },
+  "text": "26\nNro.\n680 * Nörbel, Hieronimus, Küfer, geh.\n    Senn, Rudolf, Zimmermann.\n681 Weiß, Joh. Heinr., Magister, Hochzeit- u. Sterberegisterschreiber.\n682 * Nörbel, Hieronimus, Küfer.\n683 Paravicini fel. Wittwe, geb. Rosina Mende.\n684 Imhof, Joh. Fr., Buchbinder.\n685 Stuk, J. J., Gerber.\nSt. Leonhardsberg.\n686 * Gysin, Wittwe, geb. A. Maria Gask.\n687 Mäkinger, Samuel, Kübler.\n687 a Kromer, J., Peter.\n688 Puppikofe, Leonhard, Fabrikarbeiter.\n689 * Kohl, Frau Elisabeth, fel. Erben.\n690 Spiek, Joh. Jakob, Posamentier.\nBei St. Leonhard.\n691 Hagenbach, Karl Rud., der Theol. Dr. u. Professor.\n692 Kuster, Joh. Franz, Spezereihändler.\nAuf dem Kirchhof.\n693 * Pfarrhaus. Bruckner, Abraham, Diacon zu St. Leonhard.\n694 * Sigrist-Wohnung. — Fischer, Emanuel, Sigrist.\n695 Lohnhof. — Möcklin, Rudolf, Gefangenwärter.\nSt. Leonhardsberg.\n696 u. 701 * Merian, Emanuel, Bierbrauer.\n697 Koch, Wittwe, geb. Spreyermann.\n698 Wertenberg, Christoph.\n699 Grunauer, Jungfer, Ester, Kleinkinderschule.\n700 Schaffner, Joh. Martin, Commis.\n702 Merian, Emanuel, Bierbrauer.\nHinter dem Stöcklein.\n703 Bloch, Joh., Stadtrath.\n    Schmidt, J. J., Notar.\n704 Berri-Streckeisen, J. J., Kaufmann.\n704 b Rumpf, Balthasar, Kübler. (Leonhardsberg.)\n705 Gysin, Heinrich, Spezereihändler.\n706—708 Lindemeyer, Karl, Wirthschaft.\nHinterer St. Leonhardsberg.\n709 Lindemeyer, Karl, geh.\n709 u. 710 * a Holzmagazin, Lindemeyer, Karl, geh.\n711 Rudy, Jungfern, Anna und Elisabetha.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4552,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1440,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 33.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:45:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p033",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p033.jpg",
+      "bytes": 890445,
+      "sha256": "16e6e0fbab60a13c0239fdad83a3f1f479b58ed7445c3f9448fb16676a15a02a",
+      "sha256_of": "original",
+      "working_copy": "1841_p033.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:31+00:00"
+  }
+}

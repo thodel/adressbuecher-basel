@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p095",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p095.jpg",
+    "bytes": 979387,
+    "sha256": "55d587921e8e055abc3e07e82b38ba1de1e4d584b8a37bbd9c932f678d07e8b4",
+    "sha256_of": "original",
+    "working_copy": "1841_p095.jpg"
+  },
+  "text": "12\nErzberger, Rud., Zuckerbäcker. 1445 Zunft zum Himmel. Freie Straße.\nEuler, Rud., Kaufmann. 465 Beim Spahlenthurm.\nEuler, Eucharius, Kaufhausverwalter. 1634 Untere Freienstraße.\nEuler, Joh. Jak., Lehrer an der Knabenschule. 265 St. Peterstiftsgasse.\nEuler, Abraham, Handels-Commis. 1002 Hinter der Ringmauer.\nEwig, Joh. Georg, Gastwirth zum Schnabel.\nF.\nFaconnier, Carl, Seidenfärber, von Kleinhüningen. 211 Schwarze\nPfahlgasse.\nFäsch, Emanuel, Kaufmann. 306 St. Johann-Vorstadt.\nFäsch, Leonhard, Notar und Bezirksfchreiber. 449 Ob. Spahlenberg.\nFäsch, Heinrich Ludwig, Pastetenbäcker u. Kaffeewirth. 1676 Hutgasse.\nFäsch, Johannes, Kanzlist. 1704 Unterer Spahlenberg.\nFäsch, Fr., Lehrer. 630 Gerbergässlein.\nFäsch, J. J., Bater, Notar. 229 Ob. Herbergberg.\nFäsch, Franz, Bauverwalter. 286 Spahlen-Vorstadt.\nFäsch, Joh., Kupferschmid. 135 Kronengasse.\nFäsch-Süß, Joh. Jakob. 1609 Sporengasse.\nFäsch-Dünner, Joh. Jakob, Handelsmann. 1667 Markt.\nFäsch-Mieg, Joh. Rud., Weinhandlung. 1675 Hutgasse.\nFäsch, Susanna, Klein-Kinderschule. 518 Adelberg.\nFäsch, Emanuel, Kaufmann. 41 St. Johann-Vorstadt.\nFäsch-Zäslin, Oberschreiber am Spital. 269 Neue Vorstadt.\nFäsch, Nikl. sel., Wittwe, geb. Spindler. 219 Schwarze Pfahlgasse.\nFäsch, geb. Paravicini, Wittwe. (Firma : Fäsch-Paravicini, Eisen-\nhandlung.) 256 St. Petersgraben.\nFäsch, Andreas, Stadtrath und Kupferschmid. Hint. d. Stöcklein.\nFäsch, Joh. Jakob, Schneider. 819 Kurzer Steg.\nFalkner, Joh. Ludwig, Med. Dr. sel. Wittwe. 242 a Kirchgässlein.\nFalkner, Nikolaus, alt Direktorialsschreiber. 266 Neue Vorstadt.\nFalkner, Peter sel., Wittwe, geb. Geymüller. 557 Adelberg.\nFalkner, Samuel, Hutmacher. 169 Storchengasse.\nFalkner, Jungfer, Margaretha. 517 Adelberg.\nFalkner, geb. Meley, Elisabeth, Wittwe. 728 Barfüsserplatz.\nFauft, Johannes, Schneider. 767 Hinterer Bach.\nFauft, Caspar, von Seewis. 800 Bord. Steinen-Vorstadt.\nFechter, Martin, Hauptmann. 40 St. Johann-Vorstadt.\nFechter, Dan. Alb., Doktor. 1379 Am Bäumlein.\nFechter, Joh., Schuhmacher. 491 Oberer Spahlenberg.\nFechter, Wittwe, geb. Bollenweider. 1703 Unt. Spahlenberg.\nFelber, Georg, Rathschreiber. 1614 Markt.\nFelber, Heinrich, Grabmachers Wittwe. 1331 St. Alban-Vorstadt.\nFeierabend, Christoph, Schuhmacher. 995 Neffen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6988,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2245,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:53:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p095",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p095.jpg",
+      "bytes": 979387,
+      "sha256": "55d587921e8e055abc3e07e82b38ba1de1e4d584b8a37bbd9c932f678d07e8b4",
+      "sha256_of": "original",
+      "working_copy": "1841_p095.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:16+00:00"
+  }
+}

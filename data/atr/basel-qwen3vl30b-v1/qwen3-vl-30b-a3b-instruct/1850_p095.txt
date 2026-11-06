@@ -1,0 +1,39 @@
+82
+Riehen = Quartier.
+85 Kundert, Wittwe Anna, Seidenwinderin.
+86 Hindenlang, Joh. Rud., Schiffmann.
+Hasler, Nikl., Beck.
+87 (Mädchenschulhaus) Fäsch, Friedrich, Lehrer.
+88 Makinger, Jgfr. Anna Elisabeth.
+89 Schmidlin, Jakob, Zimmermann.
+Aufgäfklein.
+90 Riggembach, F. F., Ladengehilfe.
+Thommen, Heinrich, Appreteur.
+91 Frey, Franz, Fabrikarbeiter.
+92 Landerer d'Annon, Wittwe.
+Lindenberg.
+93 Arnz, G., Partikular.
+Philippi, Alb. Julius, Commis.
+94 Schilling, Peter, Kremper.
+Köllner, Rud., Geschäftsmann.
+95 Burkhardt, Rudolf, Metzger.
+96 Euler, F. F., Schuhmacher, Quartierschreiber.
+Frey, Karl, Lehrer.
+97 Huttinger, Wittwe Louise.
+98 Wezel, Jak. Friedr., Fabrikarbeiter.
+99 Zürcher, Heinr., Schneider.
+Udengasse.
+100 Laudier, Simon, Zettlermeister.
+Abig, G., Schlosser.
+Schwarz, Ph., Maler.
+Lindenberg.
+101 Glasler, Jakob, Zimmermann.
+102 Bresin, M., Kaminfeger.
+103 Stohler, Wittwe Elisabeth, Kostgeberin.
+A 103 (Magazin) Imhof, Söhne, gehörend.
+104 Fäsch, Mag., Leonh., Organist.
+105 Bildungs-Anstalt für weibliche Dienstboten.
+Habicht, Barbara, Hausmutter.
+106 von Büren, Sebastian, Pfarrer.
+Fluri, Niklaus, Vikar.
+Lohner, Benedikt, Lehrer.

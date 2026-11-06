@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p036",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p036.jpg",
+    "bytes": 1452991,
+    "sha256": "1de7aa99f8d435a3e1c3d073b4b949e9ad8043fa660ae0c28db016c29ca3a027",
+    "sha256_of": "original",
+    "working_copy": "1862_p036.jpg"
+  },
+  "text": "Binstrag. Ersparniskasse. Bank. Handwerker-Bank. XXXIII\nBinstragende Ersparniskasse.\nGegründet 1809.\nLocal: Schlüssel-Zunft.\nVorstand: Sr. C. Thurneyssen-Paravicini.\nBank.\nGegründet 1845.\nLocal: Marktplatz Nr. 12.\nVorsteherchaft:\nSr. Wilh. Burckhardt-Freiswerk, Präsident. | Sr. Carl BonderMühl-Merian.\n„ Daniel Heusler-Thurneyssen. | „ Carl Bachofen-Burckhardt.\nSr. Edouard Friih, Bankdirektor.\n„ Joh. Rud. Schilling, Bankkassier.\nDie Bank macht vorbehältlich der durch die Statuten besonders ausgenommenen Fälle\nausschließlich mit hiesigen Handlungshäusern, Partikularen, Korporationen oder Behörden\nGeschäfte, und eröffnet diesen Personen auf Begehren eine laufende Rechnung. Ihre Ge-\nschäfte bestehen in Inkassobeförderung und Giro, in Aufbewahrung von Depofiten, in Auf-\nnahme von verzinslichen Geldern, in Ausgabe von Banknoten nach Sicht an den Inhaber\nzahlbar, in Ausgabe von Raffascheinen an Ordre zahlbar, in Diskonto von Wechfeln auf\nBasel, Paris und französische Bankfufskurfpalpäze und ausnahmsweise auf andere fremde\nBankplätze, wo besondere Kreditverbindungen hiezu Anlaß geben; ferner in Darlehen und\nBorschiffen auf Hinterlagen, in An- und Verkauf hiesiger Staats- und Stadtobligationen,\nin Baarbezügen von Auswärts zu zeitweiser Verstärkung der Mittel und überhaupt in den\naus Bankverbindungen hervorgehenden Besorgungen.\nHandwerker-Bank.\nGegründet 1860.\nDirection:\nSr. H. David, Präsident. | Sr. Bankdirektor Friih, Beisitzer.\n„ Bernoulli-Oswald, Vice-Präsident. | „ Rathsherr Imhof,\n„ Rathshrr. Schmidt-Fäsch. | „ P. W. Deck,\n„ J. J. Bohny-Düring. | „ Ed. Eckenstein-Schermar,\nVerwalter und Cassier: Sr. Hieron. Burckhardt-Eckenstein.\nGeschäftslokal: Nro. 12 Markt.\nDasselbe ist jeden Wochentag von 8—12 und 2—5 Uhr geöffnet.\nDie Handwerker-Bank Basel hat zum Zwecke, hiesigen Bürgern und Einwohnern vor-\nübergehende Geld-Vorschiße zur Förderung ihres Berufes zu leisten.\nDie Geschäfte der Bank bestehen:\na) in Gewährung von Darlehen auf bestimmte Zeit gegen Sicherheit;\nb) in Credit-Eröffnungen, ebenfalls gegen Sicherheit;\nc) in Annahme verzinslicher Gelder auf feste Verfallzeit oder in Conto-Corrent.\nAußer den hier benannten ist die Bank bloß zu solchen Geschäften befugt, welche dazu\ndienen, ihr die erforderlichen Betriebsmittel zu verschaffen, oder vorhandene Baarfschaft,\nsoweit sie für ihren eigentlichen Zweck entbehrlich ist, zeitweise nutzbringend zu machen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6466,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2391,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 54.63,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p036",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p036.jpg",
+      "bytes": 1452991,
+      "sha256": "1de7aa99f8d435a3e1c3d073b4b949e9ad8043fa660ae0c28db016c29ca3a027",
+      "sha256_of": "original",
+      "working_copy": "1862_p036.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:16+00:00"
+  }
+}

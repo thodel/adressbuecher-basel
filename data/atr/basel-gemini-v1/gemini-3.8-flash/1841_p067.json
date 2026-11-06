@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p067",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p067.jpg",
+    "bytes": 928358,
+    "sha256": "35e88bff03c3512da1fd66f0c20fb7c3c59bc5d94623d466f60eaeb0556a7333",
+    "sha256_of": "original",
+    "working_copy": "1841_p067.jpg"
+  },
+  "text": "60\nNro.\nKuttelgäßlein.\n1693 Holzach, Joh. Leonhard, Bader.\n1694 Piccard, Samuel, Handelsjude.\n1695 Meyer, Wittwe, geb. M. M. Bauler.\n  Schmaßmann, Heinrich, Landsjäger.\nSchnabelgäßlein.\n1695 a Vogt, Wittwe, geb. A. Barb. Burckhardt, von Lauwil.\nKuttelgäßlein.\n1696 Burckhardt, Wittwe, geb. Dor. Oschgi.\n  Bloch, Joseph, Handelsjude.\n1697 * Künzi, Wittwe, geb. M. Gögel, v. Adelboden, K. Bern, geh.\n  Basler, Heinrich, Schneider, von Kleinhüningen.\nSchnabelgäßlein.\n1698 Linder, Gottlieb, Mechanikus.\n  Rebsamen, Johannes, Lohnbedienter.\n1699 Baur, J. G. sel., Wittwe, geb. Stutz.\n  Baur, J. W. sel., Wittwe, geb. Fricker, Buchdruckerei.\n1700 * Iselin, Wittwe, geb. Elisabeth Müller, geh.\n  Fürst, Christian, Landsjäger.\n1701 * Haller, Viktor, Küfer, geh.\n  Bürgin, Heinrich, Posamentier.\n1702 Weiß, Carl Ludwig, Kübler.\nUnterer Spahlenberg.\n1703 Tschientschy, Heinrich, Weinschenk und Geldwechsler.\n  Fechter, Wittwe, geb. Vollenweider.\n1704 Fäsch, Johannes, Kanzlist.\n1705 * Langmesser, Hieronymus, geh.\n1706 Tschudy, Joh. Ulrich, Schneider.\n  Geßler, Carl, Metzger.\n1707 Bernoulli-Zäslein, Joh. Jakob.\n1708 Bernoulli-Respinger, Hieronymus, Apotheker.\n1709 Roschet, Abraham, Kürschner.\n1710 Ungerer, Andreas, Wirthschaft.\n1711 Schnell, Joh. Rud. sel., Wittwe, geb. Preiswerk.\n  Schnell-Riggenbach, Joh., Professor.\n1712 Wassermann, Joh. Rud., Messerschmid.\n1713 * Sandreuter-Langmesser, J. R., geh.\nHutgasse.\n1714 Geßler, Emanuel, Tuchhandlung.\n1715 * Magazin (hinter der Münz), Brandmüller-Eckenstein, H., geh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6349,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1512,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0476,
+    "mean_line_chars": 34.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p067",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p067.jpg",
+      "bytes": 928358,
+      "sha256": "35e88bff03c3512da1fd66f0c20fb7c3c59bc5d94623d466f60eaeb0556a7333",
+      "sha256_of": "original",
+      "working_copy": "1841_p067.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:49+00:00"
+  }
+}

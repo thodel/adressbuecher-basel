@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p130",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p130.jpg",
+    "bytes": 1195515,
+    "sha256": "5d857eba98ac0d35035df3a3d40328e327d7dc82a29ce394841a0feae933d028",
+    "sha256_of": "original",
+    "working_copy": "1850_p130.jpg"
+  },
+  "text": "117\n\nNidecker, J. M., Commis 1324\nNörbel, Jos., Verwalter 31\n  Hieron., Küfer 664\n  u. Hoffmann, Compt. 1043\nNözlin, Ulr., Weinhdlg. 416\nNusser, J. M., Med. Dr. 1098\nOberer, S., Werkmeister 615\nOberlin, Jgfr. Susanna 66\nObermeyer-Burckhardt 1621\nOberriedt, J. G. 623\nObrecht, J. J., Ferger 1757\nOchsner, H., Zimmerm. *22\nOehl, Heinr., Commis *229\nOehlhafen, J. S., Mechan. 29\n  Gottfr., Pastetenbeck 124\nOhl, J. W., Perückenm. 158\nOplinger, Ab. u. Dan. 1708\nOppermann, K., Flachm. 868\n  J. G., Schreiner 1012\n  W., Kunstmaler *383\nOser, W., Amtsdiener 419\n  Leonh., Sattler 453\n  Adam, Färber 739\n  Joh. Jak., Schuhm. 1071\n  -Best, Ed., Zollbeamter 1171\n  -Müller, L., Lehrer 1204A\n  Rudolf, Thierarzt 1272\n  Rud., Papierfabrik. 1292\n  Wittwe, Katharina 1150\n  -Thurneisen, Wittwe 1292\n  -Falkner, Wwe., Ros. 1327\n  Jgfrn. Julie u. Henr. 220\nOsiander, Stuhlschreiner 1021\nOswald, Gebr., Compt. 126\n  Matth., Handelsmann 1547\n  Michael, Flachmaler 1562\n  Friedr., Schuhmacher *214\n  J. Ch., Färber *298\nOtt, Hch., Coiffeur 121\n  Michael, Klavierm. 1373\n  Friedr., Schneider 1716\n  J. K., Seckler 1736\n  J. Chr., Kaminfeger 1736\n[spalte 2]\nOttenburg, Wwe., A. M. 1134\nOtter, Jos., Sattler 579\nOtto, Em., Handelsm. *376\nPack-Burckhardt, J. 490\nPalmert, Kaspar, Ferger 844\nPanorama-Gebäude 975\nPassavant u. Comp. 92\n  Th., Pfarrer 384\n  -Bachofen, Eml. 1209\n  -Streckeisen, Wittwe 92\nParavicini-Merian, L. 853\n  -Vischer, Rud. 915-16\n  -Battier, Eml. 1435-37\n  -VonderMühll, El. 1435-37\n  u. Schaub, Not.-Bur. 1603\n  -Zäßlin, sel., Notar *193-96\nPelletier, Jgfr. Louise 104\nPettermand, A. C. 1065\nPetri, Eml., Schuhm. 1670\nPeschel, Karl, Seckler 1754\nPery, Paul, Commis 370\nPfaff, F. J., Commis 240\n  Martin, Commis 1058\n  Heinr., Schuhmacher 1129\n  Joh., Bürstenbinder 1718\nPfander, J., Gastgeber 1444\nPfannenschmied, J. J. 251\n  Lukas, Metzger 1578\n  Wittwe, Metzger 323\n  Barb., Schneiderin 1174\nPfirter, Jos. Ger.-Weibel 198\n  Ludwig, Gastgeber *246\nPfister, Joh., Fabrikauff. 906\n  Jakob, Hausbedienter 1226\n  A., Gastgeber *15\nPfisterer, N. H., Seckler 1601\nPfunder, C. L., Kutscher 1032\nPhilippi, A. Jul., Agent *93\nPiaud, F. V., Dessinat. *335\nPichioni, L., Phil. Dr. 1594\nPlattner, J., Zimmerm. 754\n  Heinrich 807\n  Wwe., Marie Charl. 1099",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10573,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2244,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:21:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p130",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p130.jpg",
+      "bytes": 1195515,
+      "sha256": "5d857eba98ac0d35035df3a3d40328e327d7dc82a29ce394841a0feae933d028",
+      "sha256_of": "original",
+      "working_copy": "1850_p130.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:26+00:00"
+  }
+}

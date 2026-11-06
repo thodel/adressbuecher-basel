@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p075",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p075.jpg",
+    "bytes": 1289019,
+    "sha256": "6ab0a5442444d214baf206cfcd5f2684b25e4601813eae336091f1c7d69159e5",
+    "sha256_of": "original",
+    "working_copy": "1862_p075.jpg"
+  },
+  "text": "10\nAeschenvorstadt.\nNro. | Neue Haus-Nr. | Quar- tier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n49 | IV. | 1017 | zum rothen Löwen. | Grauwiler, Jakob. Grauwiler, Jak., Metzger.\n50 | IV. | 984 | zum Hirschen. | Burckhardt-Forcart, Ludwig. Burckhardt-Forcart, L., Kaufmann.\n51 | IV. | 1016 | zum kleinen Löwen. | Müller-Menzlínger, Leonhard. Müller-Menzlínger, Leonh., Schlosser Cappeler, Caspar, Spital-Unterschreiber.\n52 | IV. | 987 | 3. Hirschen schmiede. | Roth-Fischer, Achilles. Roth-Fischer, Achilles, Schmied. Menrich-Hasler, Cour., Zimmerparlier.\n53 | IV. | 1015 | | Gysler, Adolf. Gysler, Adolf, Conditor. Sengelin, Henri, Commis. Bögelin, Martin, Commis. Brünchli, Johannes, Commis. Keller, Heinrich, Commis.\n54 | IV. | 988 | | Roth-Fischer, Achilles. Löw-Hasler, Friedrich, Commis. Steinmann-Hefti, Martin. Steinmann, Balthasar.\n55 | IV. | 1014 | zum Hirzenhörnli. | DeWette-Jersing, Dr. I. Wilh. DeWette-Jersing, L. W., Arzt. VonSpeyr-Ryhiner, Ed., Banquier.\n56 | IV. | 989 | zum gelben Rad. | Merian-vonMechel, Margar., Wb. Merian-vonMechel, Margaretha, Wb. Merian, Paul, Seiler. Merian-Löw, Carl, Wagner.\n57 | IV. | 1013 | zum Weiher. | Hoch-Laubheim, Jakob. Hoch-Laubheim, J., Bäcker. Müller-Linder, Franz, Particular.\n58 | IV. | 990 | | Götz-Linder, Margaretha, Wb. Götz-Linder, Margar., Wb., Part.\n59 | IV. | 1012 | | Werensels-Speiser, Emil. Werensels-Speiser, Emil, Seiler. Bieder-Wettstein, Elisab. Wb., Spezer.\n60 | IV. | 991 | zum Riedschnepf. | Riedtmann, Johann Christoph. Riedtmann, Joh. Christoph, Bäcker. Herrmann-Stehlin, Friedrich, Schmied. Kilndig, Rudolf, Tapezierer.\n61 | IV. | 1011 | | Weissenburger, Carl. Weissenburger, Carl, Commis.\n62 | IV. | 992 | zum Winkelin. | Staenz-May, Conrad. Staenz-May, Conrad, Spezerei- und Ellenwaarenhandlung.\n63 | IV. | 1010 | | Berri-Boegt, Elias. Berri-Boegt, Elias, Bäcker.\n64 | IV. | 993 | | Krug-Hörner, Hieronimus. Krug-Hörner, Hieronim., Alt-Wachmstr. Götty-Weissenburger, Georg, Rath- boten-Bifar.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6512,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2009,
+    "lines": 19,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 104.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p075",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p075.jpg",
+      "bytes": 1289019,
+      "sha256": "6ab0a5442444d214baf206cfcd5f2684b25e4601813eae336091f1c7d69159e5",
+      "sha256_of": "original",
+      "working_copy": "1862_p075.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:22+00:00"
+  }
+}

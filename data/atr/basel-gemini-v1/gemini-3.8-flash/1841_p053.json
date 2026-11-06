@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p053",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p053.jpg",
+    "bytes": 898084,
+    "sha256": "727cf2c6b9c998ece3b4b3b995cf1bd348384c817ae235a3d49ac7709de5dbd0",
+    "sha256_of": "original",
+    "working_copy": "1841_p053.jpg"
+  },
+  "text": "46\nNro.\n1264 * Magazin von Burckhardt-Werthemann.\n1265 Stall und Remise von Iselin-Forkart.\n1266 Röslin, Rud., Spezereihändler.\n1267 Haag, Leonhard, Hufschmid.\n1268 Iselin, Dietrich, alt Statthalter.\n1269 * a b c Hoffmann-Preiswerk, Emanuel, geh.\n  Hoffmann und Forkart, Bandfabrik.\n1270 Burckhardt-Burckhardt, Emanuel.\n  Preiswerk, Rud., Candidat.\n1271 Plattner, Joh., Fuhrhalter.\n1272 Oser, Seb. sel., Wittwe, geb. Thurneysen.\n1273 Gaß, Joh. Adam, Kunstgärtner.\n1274 Mieg, Achilles, Bierbrauer.\n  Lienin, Marx, Musiklehrer.\n  Nidecker-Linder, Joh.\n1274 a Stallung von Hrn. Vischer-Handmann, Eduard.\n1275 Linder, Joh. Heinrich, Wollenspinnerei.\n1276 Wertenberg, Joh., Thorschreiber.\n  (St. Alban = Thor.)\n1276 Magazin von Bischoff-Respinger.\n\nSt. Alban = Thal.\n\n1277 u. 1278 Heusler-Bienz sel. Wittwe.\n1279 Wagner, Friedrich, Handels-Commis.\n  Wezel, J. J., Papierer.\n1280 Kiefer, Joh., Papierer und Lohnwascher.\n1281 Heusler-Fatio, Markus. (Firma: Heusler, Markus, Papierfbt.\n1282 Thurneisen, H. R., alt Pfarrer.\n  Thurneisen, Christoph, Papierfabrikant.\n1283 * Huber, Mark. de J. Ant., Papierfabrikant.\n  Jesonig, Johannes, Schreiner.\n1284 * Oser, Heinrich sel., Wittwe.\n1285 Imhof, Samuel, Papierfabrikant.\n  (Firma: Imhof'sche Papierfabrik.)\n1286 Ebendemselben.\n1287 * Linder, Joh. Heinrich, Tuchscherer, geh.\n1287 a Oser, Heinrich sel., Wittwe. Fabrikgebäude.\n1288 Linder, Joh. Heinrich, geh.\n1289 Thurneisen, Pfarrer, gehörend.\n1290 * Sieber-Bischoff, H., Fabrik.\n  Mangold, Joh., Fabrikaufseher.\n1291 Merian-Fischer, Joh., Müller.\n1292 Oser, Heinrich sel., Wittwe, Papierfabrik.\n  Oser, Wilhelm, Sohn.\n  Stückelberger, And., Handels-Commis.\n1293 Dem Kanton geh.\n1294 u. 1295 * Oser, Heinrich sel., Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7694,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1713,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:48:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p053",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p053.jpg",
+      "bytes": 898084,
+      "sha256": "727cf2c6b9c998ece3b4b3b995cf1bd348384c817ae235a3d49ac7709de5dbd0",
+      "sha256_of": "original",
+      "working_copy": "1841_p053.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:09+00:00"
+  }
+}

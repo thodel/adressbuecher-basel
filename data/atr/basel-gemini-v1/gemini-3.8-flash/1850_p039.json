@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p039",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p039.jpg",
+    "bytes": 1035897,
+    "sha256": "9b11f762a8f48df3710dcedbffe132697afa2dabbd3ecced730d8a03861c021f",
+    "sha256_of": "original",
+    "working_copy": "1850_p039.jpg"
+  },
+  "text": "26 Spahlen = Quartier.\n\nSt. Andreasplatz.\n585 Dürenberger, Jb., Holzhauer.\n586 Schwander, Mathias, Spannermeister.\n587 Follenweider, J. Rud., Commis.\n  Follenweider, Adolf, Kunstmaler.\n588 Kruse, Jch., Schreiner.\n\nSchneidergasse.\n589 Lindner-Forkart, Ed., Buchbinder.\n  Steiger, J. J., sel. Erben, Syrup-, Chocolade- u.\n    Leckerlifabrik.\n590 Crussaire, Wittwe, Pastetenbeck.\n591 Burckhardt, Johann, Metzger.\n  Wagner, Joh., Organist.\n  Däschler, Claviermacher.\n592 Salathe, J. G., Postfaktor.\n593 Weber-Karger, Wittwe, Trödlerin.\n  Scharf, Alois, Lehrer.\n594 Schneider, Friedrich, Schreiner.\n595 Frey, Jakob, Schreiner.\n  Feig, Frau, Modistin.\n596 Hagenbach-Merian, Friedr., Apotheker.\n\nUnterer Spahlenberg.\n597 Preiswerk, Emanuel, Spezereihandlung.\n598 Dieticker, Melchior, Handelsmann.\n  Steinbrüchel, J. F., Commis.\n599 Gysin, Daniel, Metzger, Weinschenke.\n600 Bossardt, J. F., Großuhrmacher.\n601 Feindel, J., Wollen- u. Baumwollenwaarenhandlung.\n602 Dreyfus, Samuel u. Leopold, Handelsleute.\n603 Mäglin, Ben., Küfer.\n604 Bebler, Johann Georg, Handels-Commis.\n  Höhn, Wittwe, Wirthschaft.\n  Miville, Rudolf, Conducteur.\n605-6 Sutter, J., Wildprethandlung, Weinschenke.\n607 Kehlstadt-Krauer, Adolf, Sohn, Tapezierer.\n  Wilhelm, Joh. Christ., Detailladen.\n\nSchnabelgäßlein.\n608 David, Rudolf, Küfer und Wirth.\n609 Levy, Abr., von Blotzheim, Ellenwaarenhandlung.\n610 (Stallung) Rumpf, H., Postpferdhalter, geh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6364,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1412,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p039",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p039.jpg",
+      "bytes": 1035897,
+      "sha256": "9b11f762a8f48df3710dcedbffe132697afa2dabbd3ecced730d8a03861c021f",
+      "sha256_of": "original",
+      "working_copy": "1850_p039.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:07+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p100",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p100.jpg",
+    "bytes": 1063882,
+    "sha256": "e00c3cea1029a4769ed73671b7d32b3abf3214d5403efbb2a61014ec216e733b",
+    "sha256_of": "original",
+    "working_copy": "1841_p100.jpg"
+  },
+  "text": "17\nGünther, Joh. Jakob, Gastgeber zum Sternen. 981 Aeschen-Vorst.\nGürtler, Fr., Hauptmann. 74 St. Johann-Vorstadt.\nGürtler=Best, J. J., Handels-Commis. 954 Aeschen-Vorstadt.\nGuth, Rud. sel., Wittwe, Meßger. 1350 St. Alban-Vorstadt.\nGuth, Rud., Sohn, Meßger. 1350 St. Alban-Vorstadt.\nGukwiler, Seb., Kunstmaler. 791 Bordere Steinen-Vorstadt.\nGyfendörfer=Herzog, Conrad, Handelsmann. 1162 Gerbergasse.\nGyfin, Daniel, Sattler. 292 Spahlen-Vorstadt.\nGyfin, Ludwig. 1612 Markt.\nGyfin, Alexander, Lithograph. 947 Aeschen-Vorstadt.\nGyfin, Daniel, Meßger. 599 Unterer Spahlenberg.\nGyfin, Heinrich, Spezereihändler. 705 Hinter dem Stöcklein.\nGyfin, Heinrich, Salzhausarbeiter u. Pintenwirth. 758 Kohliberg.\nGyfin, Jakob, Weißbäck. 804 Bordere Steinen-Vorstadt.\nGyfin, Jos. Peter, Küfer. 818 Bordere Steinen-Vorstadt.\nGyfin, Conrad, Handels-Commis. 842 Hintere Steinen-Vorstadt.\nGyfin, Emanuel, Commis. 652 Gerbergasse.\nGyfin, Magdalena, Hebamm. 652 Gerbergasse.\nGyfin=Holzach, J. J., Meßhändler. 1078 u. 1079 Am Bäumlein.\nGyfin=Rosenburger, J. Chr., Geldwechsler. 841 Hintere Steinen-Vorst.\nGyfin=Fuchs, P., Waffenhandlung. 842 Hintere Steinen-Vorstadt.\nGysler, Heinrich, Sohn, Leinwandhändler. 151 Fischmarkt.\nGysler, Alb., Thorfschreiber. 314 Spahlen-Vorstadt.\nGysler, Heinrich, Zuckerbeck. 1015 Aeschen-Vorstadt.\nGysler, geb. Gemuseus, Ursula, Wittwe. 433 Heuberg.\nGysler, Maria, geb. Schardt, Wittwe. 439 Spiekhofgasse.\nGysler, Nikolaus, Waaren=Genfal. 446 Spiekhofgasse.\nGysler=Handmann, Ludwig, Seidenfabrikant. 522 Adelberg.\nS.\nHaag, Leonhard, Hufschmied. 1267 St. Alban-Thorgasse.\nHaas, August, Flachmaler. 884 Klosterberg.\nHaas, Carl Wilh., Küfer. 455 Beim Spahlenthurm.\nHaas, Wilh., Schriftgießerei u. Buchdruckerei. 750 Leonhardsgraben.\nHaas, Joh. Jakob, Schriftgießer. 799 Bordere Steinen-Vorstadt.\nHaas, Wittwe. 185 Unterer Herbergberg.\nHäfelfinger, Joh., Ferger. 1221 St. Alban-Vorstadt.\nHäfelfinger, Rudolf, Commis. 754 a Kohliberg.\nHäfelingcr, Jakob, Geldwechsler. 171 Storchengasse.\nHägler, Mathias, Ladendiener. 1607 Sporrengasse.\nHägler, Cath., Nähschule. 232 St. Petersgasse.\nHäring, Heinrich, Hafner. 782 Bordere Steinen-Vorstadt.\nHäring, Joh., Conducteur. 833 a Blömlein.\nHäring, Johannes. 836 Hofmarkt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6502,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2216,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:53:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p100",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p100.jpg",
+      "bytes": 1063882,
+      "sha256": "e00c3cea1029a4769ed73671b7d32b3abf3214d5403efbb2a61014ec216e733b",
+      "sha256_of": "original",
+      "working_copy": "1841_p100.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:50+00:00"
+  }
+}

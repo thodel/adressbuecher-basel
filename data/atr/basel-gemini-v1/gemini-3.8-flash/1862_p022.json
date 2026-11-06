@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p022",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p022.jpg",
+    "bytes": 1424594,
+    "sha256": "78777f95b820b50b0b7db742c13006ccbef69344e87fe65eef99c39c2d83f353",
+    "sha256_of": "original",
+    "working_copy": "1862_p022.jpg"
+  },
+  "text": "Gemeindsbehörden. — Die E. Zünfte. XIX\n\nHr. Heinrich Lotz-Spörlin.\n„ Rudolf Wölfflin.\n„ Benedikt Stähelin-Bischoff.\nZu St. Theodor.\nHr. Stadtrath Joh. Jakob Minder.\n„ Leonhard Heußler-Thurneysen.\n„ Kaspar Siber-Lotz.\n„ Friedrich Meyenrock.\n„ Ludwig Schweizer.\n\n[spalte 2]\nAelteste der französischen Kirche.\nHr. Ludw. Aug. Burckhardt, J. U. D.\n„ Heinrich Iselin, Dr. med.\n„ Carl Sandoz-Luya.\n„ Ludwig Courvoisier-VonderMühll.\n„ Prof. Franz Girard.\n„ François Martin-Schmerber.\n„ Jerome Stehelin-Koch.\n\nDie E. Zünfte der Stadt Basel.\n\nKaufleuten oder Schlüsselzunft.\nHr. Wilh. Bischoff-Merian, neuer Meister.\n„ Leonh. Heußler-Thurneysen, alt. Meist.\nHausgenossen.\nHr. Wilh. Bischoff-Burckhardt, neuer Mstr.\n„ Karl Burckhardt-Vischer, alter Meister.\nWeinleuten.\nHr. German LaRoche, neuer Meister.\n„ Wilh. Preiswerk-Bischoff, alter Meister.\nSafran.\nHr. Hier. Imhoff-Falkner, neuer Meister.\n„ Friedr. Hagenbach-Merian, alt. Mstr.\nRebleuten.\nHr. Niclaus Halter, neuer Meister.\n„ Joh. Philipp Kehlstadt, alter Meister.\nBrodbecken.\nHr. Rudolf à Wengen, neuer Meister.\n„ J. Chr. Schmidt, alter Meister.\nSchmieden.\nHr. Leonhard Fininger, neuer Meister.\n„ Samuel Minder, alter Meister.\nSchuhmacher und Gerber.\nHr. Joh. Jakob Bücher, Vater, Meister\n  zu Schuhmachern.\n„ Andreas Braun-Geßler, Meister zu\n  Gerbern.\n\n[spalte 2]\nSchneider und Kürschner.\nHr. Joh. Jakob Dettwyler, Meister zu\n  Schneidern.\nHr. Adolf Hübscher, Meister zu Kürschn.\nGartnern.\nHr. Rudolf Hauser-Oser, neuer Meister.\n„ Hans Burckhardt, J.U.D., alter Meister.\nMetzgern.\nHr. Rudolf Bienz, Sohn, neuer Meister.\n„ J. Weber-Engel, alter Meister.\nSpinnwettern.\nHr. Ludwig Merian, neuer Meister.\n„ Christof Ronus-Gemuseus, alter Mstr.\nSchärer, Maler und Sattler.\nHr. B. D. Rumpf, Meister zum gol-\n  denen Stern.\nHr. Gottlieb Hasler, Meister z. Himmel.\nLeinwetter und Weber.\nHr. Rud. Schmid, J. U. D., neuer Mstr.\n„ Rudolf Wegner, alter Meister.\nSchiffleute und Fischer.\nHr. Joh. Fäsch-Binet, Mstr. zu Schiffleuten.\n„ Joh. Löw-Geßler, Meister zu Fischern.\nAkademische Zunft.\nHr. Peter Merian, D. Ph., neuer Meister.\n„ Andreas Heußler, J. U. D., alt. Mstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8237,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2109,
+    "lines": 73,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0137,
+    "mean_line_chars": 27.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:27:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p022",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p022.jpg",
+      "bytes": 1424594,
+      "sha256": "78777f95b820b50b0b7db742c13006ccbef69344e87fe65eef99c39c2d83f353",
+      "sha256_of": "original",
+      "working_copy": "1862_p022.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:38+00:00"
+  }
+}

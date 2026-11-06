@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p086",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p086.jpg",
+    "bytes": 1065655,
+    "sha256": "24fe3f1cabd63f46cae793105c7623c5fc98d42723d0ff85d795d86bacc60774",
+    "sha256_of": "original",
+    "working_copy": "1841_p086.jpg"
+  },
+  "text": "13\n\nBeck, J. J., am Kaufhaus. 292 Spahlen-Vorstadt.\nBeck, Tobias, Professor der Theologie. 1217 St. Alban-Vorstadt.\nBeck, Eman. sel., Wittwe. 1392 Am Bäumlein.\nBeck, Wittwe, geb. Saxer. 305 u. 306 St. Petersplatzgäßlein.\nBeck, Anna Elis., Jungfrau. 1164 Gerbergasse.\nBeck-Uebelin, Joh. Georg. 396 Heuberg.\nBeck, Jakob, Stadttambour. 814 Vordere Steinen-Vorstadt.\nBell, Friedrich, von Kleinhüningen. 531 Imbergäßlein.\nBell, Joh. Jakob, Metzger. 1134 Weiße Gasse.\nBell, J. J., Metzger. 414 Heuberg.\nBell, Samuel, Metzger u. Weinschenk. 724 b Barfüßerplatz.\nBellwitz, Carl Friedrich, Lehrer. 1112 Weiße Gasse.\nBenz, Jak. Ludw., Sohn, Uhrenmacher. 1083 Am Bäumlein.\nBenz, Joh. Rud., Schneider. 1716 Hutgasse.\nBenz, Friedrich, Wittwe, Uhrenmacher. 1061 Tiefe.\nBenz, Johannes, Landjägerwachtmeister. 779 Hinterer Bach.\nBerardié, Louis de St. Etienne, Dessinateur pour Rubans et Etoffes.\n  339 Fröschgasse.\nBerger, Rudolf Schreiner. 567 u. 568 Todtengäßlein.\nBerger, Joh., Spannermeister. 89 St. Johann-Vorstadt.\nBernoulli, Eduard, Pfarrer. 1227 St. Alban-Vorstadt.\nBernoulli, Nikolaus, Notar und Criminalgerichts = Präsident. 1353\n  St. Alban-Vorstadt.\nBernoulli, Hieron., älter, u. Comp., Tabackniederlage. 1444 Freie\n  Straße.\nBernoulli, J. J., Sohn, Ph. Dr., Apotheker. 154 Fischmarkt.\nBernoulli, Nikl. de Joh. 1600 Sporrengasse.\nBernoulli, Daniel, Dr., Notar. 1383 Am Bäumlein.\nBernoulli, J. Hieron., Kaufmann. (Musselin = und Manufaktur-\n  waarenhandlung.) 168 Storchengasse.\nBernoulli, Lehrer am Gymnasium. 319 Spahlen-Vorstadt.\nBernoulli, Eman., Manufakturwaarenhandlung. 1420 Freie Straße.\nBernoulli, Jos., Kaufmann. 97 St. Johann-Schwibbogen.\nBernoulli-Respinger, Hieron., Apotheker. 1708 Unt. Spahlenberg.\nBernoulli-Bär, Leonhard. 1600 Sporrengasse.\nBernoulli-Dick, Joh., Postdirektor. 173 Storchengasse.\nBernoulli-Huber, L. (Firma: C. Huber, Sohn.) 1185 Freie Straße.\nBernoulli-Zäslein, Joh. Jakob. 1707 Unt. Spahlenberg.\nBernoulli, C., Jungfer. 1420 Freie Straße.\nBernoulli, Franz sel., Wittwe, geb. Werthemann. 1467 Münsterplatz.\nBernoulli, Hieron. sel., Wittwe, geb. de Lachenal. 82 St. Joh.-Vorst.\nBerri, Melchior, Med. Dr. 1733 Beim Kornmarktbrunnen.\nBerri, Melchior, Architekt. 1244 a Malzgasse.\nBerri, Elias, Weißbeck. 1010 Aeschen-Vorstadt.\nBerri, geb. Streckeisen, Pfr. Wittwe. 546 Adelberg.\nBerri-Streckeisen, J. J., Kaufmann. 704 Hinter dem Stöcklein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8848,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2367,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:52:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p086",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p086.jpg",
+      "bytes": 1065655,
+      "sha256": "24fe3f1cabd63f46cae793105c7623c5fc98d42723d0ff85d795d86bacc60774",
+      "sha256_of": "original",
+      "working_copy": "1841_p086.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:07+00:00"
+  }
+}

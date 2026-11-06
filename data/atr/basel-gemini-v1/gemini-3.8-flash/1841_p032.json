@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p032",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p032.jpg",
+    "bytes": 966500,
+    "sha256": "fbe38ba8619355ed7435b16d4fc761d13a934849f1ab48bb4824e2906c7ed101",
+    "sha256_of": "original",
+    "working_copy": "1841_p032.jpg"
+  },
+  "text": "25\nNro.\n650 Märklin, Andreas, Drechsler.\n  Dittmer, Jakob, Dessinateur.\n651 Imhof-Burckhardt, Joh. Ludwig, Spezereihändler.\n  Bleich, Julius, Buchhändler-Commis.\n652 Wäffler, Samuel, Posamentier, nebst Waarenhandlung.\n  Gysin, Emanuel, Commis.\n  Gysin, Magdalena, Hebamme.\n  Jäger, Helena, Jungfer, Modiste.\n653 * Imhof-Roschet, Melchior, Kaufmann.\n654 Märklin, Jungfer, Margaretha, Bandladen.\n655 Holzach, Wittwe, geb. Berger, Seilergeschäft.\n656 Dürschner, Heinrich, Spenglermeister.\n657 Jordan, Leonhard, Ferger.\n  Bernier, Friedrich, Schreiblehrer.\n658 Altorfer, Heinrich, Messerschmid.\n  Hornung, Wittwe, geb. Nägeli.\n  Schneider, Martin, Metzger.\n659 Georg, Franz, Metzger.\n660 Bürgin, Joh. Jakob, Wirthschaft.\n  Steiger, Nikolaus, auf der Stadtkanzlei.\n  Schmid, Joh. Caspar, Metzger.\n661 Wohnlich, Joh. Friedr., Schneider.\n662 Gaß, J. J., Metzger.\n663 Gaß, Melchior, Commissions- und Speditionshandlung.\n  Hug, Wittwe, geb. Geymüller.\n  Vogt, Jungfer, Sus. Sal., Schneiderin.\n664 Nörbel, Hieronimus, Sohn, Küfer.\n665 Thurneysen, Ludwig, Weißgerber.\n666 Glock, J. J., Schuhmacher und Weinsticher.\n667 Schneider, Jakob Christoph, Schuhmacher u. Korbhändler.\n668 Krug, Markus, Buchbinder.\n669 Hanhart, Joh. Conrad, Schuhmacher.\n670 Kehlstadt, Leonhard, Postoffiziant.\n671 Roth, Balthasar, Glaser.\n672 Keller, Samuel, Sohn, Kübler.\n673 Steinmann, Jakob, Spengler.\n674 Christen, Niklaus, Seidenwaaren.\n  Stockmeyer, Friedr., Spezereihandlung.\n675 Kühn, Wilhelm, Schlossers-Wittwe.\n\nHinteres Gerbergäßlein.\n\n676 Wirth, J. J., Hausknecht.\n677 Schenk, Georg, Ferger und Lohnwascher.\n678 Von Arx, Joh., Wirth.\n  Brunner, Daniel, Schneider.\n679 Möschinger, Wittwe, geb. Boos, Lohnwascherin.\n  Stricker, Ludwig, Kupferdrucker.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6579,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1725,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:45:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p032",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p032.jpg",
+      "bytes": 966500,
+      "sha256": "fbe38ba8619355ed7435b16d4fc761d13a934849f1ab48bb4824e2906c7ed101",
+      "sha256_of": "original",
+      "working_copy": "1841_p032.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:43+00:00"
+  }
+}

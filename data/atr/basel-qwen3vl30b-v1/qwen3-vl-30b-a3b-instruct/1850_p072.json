@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p072",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p072.jpg",
+    "bytes": 1006340,
+    "sha256": "b1e570e8e6b57f12aa5ad283f669a41bf62c44b18dd3d060e4273901c30d4f9f",
+    "sha256_of": "original",
+    "working_copy": "1850_p072.jpg"
+  },
+  "text": "St. Alban=Quartier. 59\nC 1311 Sulger=Heusler, Joh., Bandfabrikant. (Comptoir\nin Nr. 1269.)\nB 1311 (Spirizenhaus) Obrigkeitlich.\n1312 Fselin=Forfart, F. Luk., Wolltuchhandlung.\nFselin, Wilhelm, Sohn.\nFselin=Christ, Rudolf.\nSt. Alban=Vorstadt.\nHinterhaus von Nr. 1325. Grunauer, Christ., Pfr.\n1313 Würz, Johann, Zuckerbeck.\n1314 Abt, Blasius, Hausknecht.\n1315 Kefler, Matthias, Seidenwinder.\n1316 Rohner, Joh., Weißbeck.\nC 1316 (Hinterhaus) Gutknecht, F. A., Münzenhändler.\n1317 Wezel, Martin, Papierformenmacher.\nWezel=Schweizer, F. F., Commis.\n1318 Sutter, Christof, Spezierer.\n1319-22 Sarasin=Brunner, Felix, Bürgermeister.\nSarasin, Wittwe, Carol., geb. Burkhardt, Rent.\nSt. Albanthal.\n1323 Unbewohnt.\n1324 Nidecker=Linder, F. Matth., Commis.\n1325 Grunauer, Christof, Pfarrer.\n1326 Abgebrochen.\nSt. Alban=Vorstadt.\n1327 Oser=Falkner, Rosine, Wittwe, Rentiere.\n1328 Schilling=Dietschy, F. Rud., Commis.\n1329 Blendinger, Jakob, Gehülfe auf dem eidgenössischen\nZollbureau.\n1330 Allenspach=Rudin, Spezierer.\n1331 Lüdin, Johannes, Zimmermann.\nKraus, Bernh., Mechaniker.\n1332 Meck, Elias, Commis.\nMeck, Joh., Commis.\nStähelin, Christ., Chemiker, Privatdozent.\nBauler, Eml., Siegrist zu St. Alban.\nBurkhardt, Jakob, Professor.\n1333 Früh=Remy, Hieronimus, Müller.\n1334 Bärwart=Carle, Joh., Handels-Commis.\n1335 Gesellschaftshaus zum hohen Dolder.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4579,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1339,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 32.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p072",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p072.jpg",
+      "bytes": 1006340,
+      "sha256": "b1e570e8e6b57f12aa5ad283f669a41bf62c44b18dd3d060e4273901c30d4f9f",
+      "sha256_of": "original",
+      "working_copy": "1850_p072.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:37+00:00"
+  }
+}

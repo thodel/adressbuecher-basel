@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p150",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p150.jpg",
+    "bytes": 1038472,
+    "sha256": "402eeb96c9429bc7c03b64f801b6b714c6634db186ecef12ab21aaa251a5bf8c",
+    "sha256_of": "original",
+    "working_copy": "1850_p150.jpg"
+  },
+  "text": "137\n\nL.\n\n416 |  | Langmesser jünger | Joh. Ulrich Nözlin.\n552 | Emanuel | LaRoche . . | German LaRoche.\n  Salomon Sauvin, Pro-\n  curaträger.\n553 | Eml. | LaRoche, Sohn . | Emanuel LaRoche, Sohn.\n  Rudolf Merian-Frisch-\n  mann.\n520 | Benedikt | LaRoche . . | Benedikt LaRoche-Ste-\n  helin.\n  Carl Gustav LaRoche-\n  Merian.\n228 | Nicolaus | LeGrand . . | Adolph LeGrand.\n1596 | Gg. u. Val. | Lerch . . . | Valentin Lerch.\n  Joh. Peter Lerch, ppa.\n1146 |  | Langmesser & | \n  Schellenberg | David Langmesser.\n  Joh. Christian Ludwig\n  Schellenberg.\n113 |  | Leucht & Cie. . | Carl Friedrich Leucht.\n  Joh. Jakob Hindenlang-\n  Hübscher.\n609 | A. | Levy . . . | Abraham Levy.\n751 | J. R. | Lichtenhan . . | Wittwe Lichtenhan, geb.\n  Kirchberger.\n  Joh. Rudolf Lichtenhan,\n  Sohn.\n  Friedr. Wilh. De Gou-\n  mois.\n149 | Joh. | Linder älter . | Jakob Ludwig Linder.\n556 | Joh. Jak. | Linder . . . | Joh. Jakob Linder.\n390 | Achilles | Lotz, Vater . . | Achilles Strübin.\n516 | Andreas | Ludwig . . | Andreas Ludwig.\n1534 | Wittwe | Lotz-Zäslin . | Eduard Lotz.\n1174 | Joh. Jb. | Lüssi . . . | J. J. Lüssi.\n  Joh. Schmid-Awengen.\n404 | Joh. Jb. | Lützelmann . | Joh. Jb. Lützelmann.\n\nM.\n\n335 |  | Madeux & Wohn- | \n  lich | Joh. Baptist Madeux.\n  Franz Wohnlich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6203,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1253,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:24:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p150",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p150.jpg",
+      "bytes": 1038472,
+      "sha256": "402eeb96c9429bc7c03b64f801b6b714c6634db186ecef12ab21aaa251a5bf8c",
+      "sha256_of": "original",
+      "working_copy": "1850_p150.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:24:18+00:00"
+  }
+}

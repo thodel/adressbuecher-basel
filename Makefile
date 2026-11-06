@@ -40,3 +40,7 @@ fullrun-parse:  ## Welle 2: Einträge und Gebäude aus dem Hauptleser → 04_ent
 probe-parse:  ## Welle 2 auf den Probeseiten
 	$(PY) scripts/04_parse.py --run basel-probe-gemini-v1 --reader gemini-3.8-flash --section einwohner --out data/csv/04_entries_probe.csv
 	$(PY) scripts/05_buildings.py --run basel-probe-gemini-v1 --reader gemini-3.8-flash --out-buildings data/csv/05_buildings_probe.csv --out-residents data/csv/05_residents_probe.csv
+
+.PHONY: geo
+geo:  ## Gebäude über das HGB verorten → 05_buildings_geo.csv
+	$(PY) scripts/10_geo_hgb.py --buildings data/csv/05_buildings.csv --out data/csv/05_buildings_geo.csv

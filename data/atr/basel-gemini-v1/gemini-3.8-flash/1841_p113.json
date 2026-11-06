@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p113",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p113.jpg",
+    "bytes": 960810,
+    "sha256": "6d1f5afdda1978635562ac3f1303383975c289e41d3c4bb6fae848ce78c1e398",
+    "sha256_of": "original",
+    "working_copy": "1841_p113.jpg"
+  },
+  "text": "30\n\nMeyerhofer, Christoph, Schuhmacher. 293 Spahlen-Vorstadt.\nMende, Adam, Schlosser. 1139 Weiße Gasse.\nMende, Friedr. Gottl., Kübler. 543 Imbergäßlein.\nMende, Benedikt, Hafner. 957 Aeschen-Vorstadt.\nMengis, Peter; Haus, Remise u. Stallung. 900—902 St. Elisabethen.\nMengis-Brand, Martin, Kaufmann. 25 St. Johann-Vorstadt.\nMerian, Friedrich, Bierbrauer. 619 Hinter d. Rümlinsmühle.\nMerian, Friedrich, Magister, alt Pfarrer. 1025 Aeschen-Vorstadt.\nMerian, Ludwig, Bierbrauer. 870 Thorsteinen.\nMerian, Abel, alt Stadtschreiber. 261 Neue Vorstadt.\nMerian, Rud., Professor der Mathematik. 1026 Aeschen-Vorstadt.\nMerian, Rudolf, Sattler. 948 Aeschen-Vorstadt.\nMerian, Nikol., Stud. der Theologie. 269 b Neue Vorstadt.\nMerian, Lucas, Rathsherr. 1218 St. Alban-Vorstadt.\nMerian, Dan., Rathsherr sel., Wittwe, geb. Werthemann. 1216\n  St. Alban-Vorstadt.\nMerian, Heinrich, Wollengarnhandlung. 1614 Markt.\nMerian, Jungfer, Fanny. 912 St. Elisabethen.\nMerian, Eduard, Banquier. 41 St. Johann-Vorstadt.\nMerian, Dan. de Phil. 1362 Rittergasse.\nMerian, Peter, Rathsherr. 1402 Münsterplatz.\nMerian, Wittwe, geb. Anna Cath. Bischoff. 1092 Streitgasse.\nMerian, Wittwe, geb. Stückelberger. 350 Spahlen-Vorstadt.\nMerian, Emanuel, Bierbrauer. 702 St. Leonhardsberg.\nMerian-Respinger, Balthas., Handelsmann. 1085 Am Bäumlein.\nMerian-Stähelin, Joh. sel., Wittwe. 1198 Am Bäumlein.\nMerian-Stähelin, Joh., Kaufmann. 448 Oberer Spahlenberg.\nMerian-Legrand, Peter, Kaufmann. 242 b Kirchgäßlein.\nMerian-Burckhardt, J. J. 1361 Rittergasse.\nMerian-Burckhardt, Christoph. 1046 St. Albangraben.\nMerian-Frischmann, Rud., Banquier. 350 Spahlen-Vorstadt.\nMerian-Forkart, J., Oberst. 912 St. Elisabethen.\nMerian-Kuder, Wittwe, Anna Margaretha. 1047 St. Albangraben.\nMerian-Hoffmann, Christoph. 1046 St. Albangraben.\nMerian-Fischer, Joh., Müller. 1291 St. Alban-Thal.\nMerian-Herzog, Walter, Notar. 1629 Untere Freienstraße.\nMerian-Miville, Rentier. 417 Heuberg.\nMerian-Keller, Albr., Rentier. 41 St. Johann-Vorstadt.\nMerian-Merian, Samuel. 1404 Münsterplatz.\nMerian-Rothplez, Andr., Ingenieur. 1255 Malzgasse.\nMerian-Wieland, J. J., Rentier. 1459 Münsterplatz.\nMerian-Respinger, Carl Franz Joseph, Spezereihandlung. 1581\n  Sporengasse.\nMieg, J. Ludwig, Med. Dr. und Apotheker. 639 Gerbergasse.\nMieg, Geschwister. 366 Auf der Leis.\nMieg, J. J., Bibliothekar. (Neue Lesegesellschaft.) 1463 u. 1464\n  Münsterplatz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8022,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2374,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:56:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p113",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p113.jpg",
+      "bytes": 960810,
+      "sha256": "6d1f5afdda1978635562ac3f1303383975c289e41d3c4bb6fae848ce78c1e398",
+      "sha256_of": "original",
+      "working_copy": "1841_p113.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:35+00:00"
+  }
+}

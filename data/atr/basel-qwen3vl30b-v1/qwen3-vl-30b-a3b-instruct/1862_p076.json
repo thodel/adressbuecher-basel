@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p076",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p076.jpg",
+    "bytes": 1411438,
+    "sha256": "569eb616187ebe6cf4b0a22d699d53d0765182c4353cf780dd158a8e61ec466a",
+    "sha256_of": "original",
+    "working_copy": "1862_p076.jpg"
+  },
+  "text": "Neue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n65 IV. 1009 ......... Gekler=Fischer, Karl Samuel.\nAckermand, Maria, Kostgeberin.\nLudwig=Muspach, Mar., Wb., Part.\n66 IV. 994 ......... Gull, Jean.\nGull, J., Lokomotivführer.\nRocherhans, Jakob, Bäcker.\n67 IV. 1008 z. schwarzen Bären. Walter=Jägg, Joseph.\nWalter=Jägg, Joseph, Gastwirth.\nDietzsch, Michael, Posthalter.\n68 IV. 995 ......... Feierabend=Haurv, Wb. Verena.\nFeierabend=Haurv, V., Wb., Schuhmach.\n69 IV. 1007 ......... Walter=Jägg, Joseph.\nRaus=Brodbeck, Martin, Hafner.\nFäs=Drüsel, Kaspar, Maurerparlier.\nFäs=Zundt, Jakob, Commis.\n71 IV. 1006 zum Rebstock. Jäggi=Zundt, Adolf.\nJäggi=Zundt, Adolf, Metzger u. Speisewirth.\nSchmied, Elias, Möbelschreiner.\n72 IV. 996=997 ......... Kufmaul=Schlack, Michael.\nDie Anderscn=Zselin, Baumeister.\nRehlfstadt=Stocker, Joh. Ludw., Quartierschreiber und Weinsticher.\nWidmer=Widenfeller, Joh., Schreiner.\n73 IV. 1005 zur Hägen=Egerten. Böhme=Brotbeck, Jacob Benedict.\nBöhme=Brotbeck, J. B., Schreiner.\nStrehler=Weiz, Joh., Mechaniker.\n74 IV. 998 ......... Mähly=Finingcr, Jacob.\nMähly=Finingcr, Jacob, Küfer.\n75 IV. 1004 zum Thurm. Braun=Steiger, Rudolf.\nBraun=Steiger, Rud., Heuwaagmeister.\nStingelin=Dettwiler, Friedrich, Stuhlschreiner.\nMüller, Carl, Gürtler.\nHesse, Frau Margaretha, Part.\nBerger, Joseph, Gärtner.\nJenny=Thommen, Mart., Kaufhausarb.\nSemperlin=Eid, Joh. Ottnar, Barbier.\n77 IV. 1003 zum Sauenstein. Strub=Löw, Eduard.\nSchmied=Bachmann, Jak., Pintenwirth.\nBachmann, Igsfrn., Haushälterinnen.\nBachmann=Fäsch, Emanuel, Ferger.\nZippel=Widmer, Joh. Gerog, Zimmermann.\nWeber=Walte, Friedr., Gärtner.\n79 IV. 1002 ......... Welti=Heusler, Heinrich.\nWelti=Heusler, H., Spezierer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5937,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1734,
+    "lines": 52,
+    "longest_char_run": 9,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0052,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p076",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p076.jpg",
+      "bytes": 1411438,
+      "sha256": "569eb616187ebe6cf4b0a22d699d53d0765182c4353cf780dd158a8e61ec466a",
+      "sha256_of": "original",
+      "working_copy": "1862_p076.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:28+00:00"
+  }
+}

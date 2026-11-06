@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p115",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p115.jpg",
+    "bytes": 1078194,
+    "sha256": "3de8531e69655c2c9a6ad1300a23874d35ba8b8fa61dff87b5df78840952973b",
+    "sha256_of": "original",
+    "working_copy": "1850_p115.jpg"
+  },
+  "text": "102\nDénéréaz, F., Speditor 1582 | Dubach, Gg., Seidenf. *296\nDetloff, Karl Alb. 1178 | Dubois, Louis, Uhrenm. 117\nDettwyler, Wittwe 406 | Aug., Schuhmacher 193\nLudw., Posamenter 793 | Dubost-Holzach, Wwe. 1724\n=Hauser, F. F., Küf. 1172 | Duby, F. B. 1556\nF. F., Schneider 1560 | Dunfel, Wwe., Wasch. *433\nEml. 1751 | Duthaler, Ferd., Comm. 1415\nDeWette-Jersing, W. F. 1014 | Dürig, Jos., Müller *250\nSophie, Wittwe 1022 | Düring, Wwe., Kostg. 1589\nDichtel, Joh., Posam. 767 | Dürrenberger, Jaf. 585\nDickenmann, Eml. *356 | Eckenstein, Ed., Kaufm. 870A\nDiel, Joh. Jaf. *264B | Wilh., Bierbrauer 1176\nDieticker, Melch. 598 | Eckert, Jos., Prof. 190\nDietrich, Ch., Schneid. 500 | Eckhardt, Joh. Conr. 551\nWilh., Bed 944 | Eeclin-Piimpin, F. Hch. 644\nWittwe A. M. 429 | Eeclin, Leonh. 972\nDietzsch, Dietr., 1661-62 | Joh. Burk., Mech. 1204\nDietzsch-Lichtenhahn, F. 50 | Dl., Med. Dr. 1633\n=Jäsch, Weinhandlg. 1041 | =v. Mechel, Wittwe 12-13\n=Weck, Wittwe 1573 | =Hindermann, Wwe. 42\n=Geberd, Zimmern. *25 | Jgfr., Spezereiladen 644\nConrad, Mezger *40 | Rud., Commis *312\nDiek, Karl Dietr. Not. 447 | Wittwe, Lusseherin *311\nDill-Dold, Wittwe 452 | Ederer, Jgfr. 524\nDinkel, Joh., Spezierer 27 | Essinger, C. F., Comm. 577\nDittmar, Rud., Fabrik. 1704 | Eglin, Jdch., Tuchdolg. 657\nDizerens, F. L. 982 | Eglinger, Eml., S. M. C. 1482\nDobler-Burkhardt, Wwe. 940 | Jgfr. Guf. Kapital. 246\nJgfrn. Kath. u. M. 1053 | Egloff, David, Schuhm. 643\n=Debarn, Erben 1249B | Ehinger-BonSpenr, Ch. 1038\nJgfr. Maria 1250-52 | Dr. J. 1381 Not.=Bur. 1038\nDoggwyler, Hch. *139 | =LaRoche, Wittwe 1381\nDollfus, Wittwe 1574 | Eisinger, G. F., Spengl. 953\nDollmar, Agent 764 | Eisenlohr-Bloch, Wwe. *394\nDolt-Bonwiler, Chr. Fr. *386 | Elsner, Joh., Schuhm. 210\nDorn, Karl, Appreteur *407 | F. H., Rathsbote 816\nDorner-Breiting, Gastw. *192 | Frau, Hebamme 816\nDorrenberger, Peter 1245 | F. F., Kornmeffer 1589\nDötschmann, Wilh. 1179 | Engler, Eml., Schloffer 446\nDreis, Christian 1665 | Engressat, Wittwe 1572\nDreifus, Jaf., Handlsm. 455 | Enholz-Sandreuter, R. 1735\nSml. u. Leop., Hdlsl. 602 | Epple, Gottl., Mehan. 971\nDroz-Stierlin, Friedr., 1151 | Erismann, W. E., Hasner 782\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8545,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2164,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:13:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p115",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p115.jpg",
+      "bytes": 1078194,
+      "sha256": "3de8531e69655c2c9a6ad1300a23874d35ba8b8fa61dff87b5df78840952973b",
+      "sha256_of": "original",
+      "working_copy": "1850_p115.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:16+00:00"
+  }
+}

@@ -1,0 +1,61 @@
+6
+Aeschengraben.
+Nre
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+13 | IV. | 220 A | | Zahn=Kognon, Eduard.
+14 | IV. | 998 D | | Zahn=Kognon, Eduard, Kaufmann.
+| | | | Witzig=Bovet, David.
+| | | | Witzig=Bovet, David, Lehrer.
+| | | | Scherb=Baumann, Jak. Adam, Bureau
+| | | | f. techn. Liter. (Verlagsbuchhandlg.)
+| | | | Specker=Meyer, Maria Dorothea. Wb.
+| | | | Soifftmann-Hifferich, Ferdin., Cantor
+| | | | und Musiklehrer.
+| | | | Loz=Baune, Adolf, Commis.
+16 | IV. | 998 E | | Lüscher=Stapfer, Carl.
+| | | | Lüscher=Stapfer, Carl, Kaufmann.
+| | | | Stapfer, Wb. Barbara, Partikular.
+17 | IV. | 219 | | Grimm=Schneider, Christian.
+| | | | Grimm=Schneider, Christ., Dr. med.
+| | | | Schneider=Frey, Wb. Elisab., Part.
+21 | IV. | 218 | | Boelger=Hindermand, Markus.
+| | | | Boelger=Hindermand, Markus, Theilh.
+| | | | der Firma Markus Boelger.
+24 | IV. | 998 F | | Kaltenmeyer=Kircher, Jakob.
+| | | | Kaltenmeyer=Kircher, Jak., Baumeister.
+| | | | Kircher=Merian, Jak., Partikular.
+| | | | Bernoulli-Bernoulli, Wb. Soph., Part.
+25 | IV. | 217 | | Frey=Thurneisen und Christ.
+| | | | (Zettlerei und Winderei.)
+| | | | Bujer Eduard, Feger.
+27 | IV. | 216 C | | Grether=Scholer, F. F.
+| | | | Grether=Scholer, Joh. Jak., Kfm.
+| | | | F. Grether u. Comp., Band und Mode=
+| | | | Artikel.
+| | | | Mylius, Jonas Carl, Architekt.
+28 | IV. | 991 | | Delhafen, Sam., Mechan.
+| | | | Dreifus u. Söhne, Jaaß, Bandfabrike.
+29 | IV. | 216 B | | Kaufmann=Burchhardt, Joh.
+| | | | Kaufmann=Burchhardt, Joh., Wein- und
+| | | | Spirituosenhandlung.
+| | | | Kaufmann, Carl, Commis.
+| | | | Déjofez=Hofer, W., Architekt.
+30 | IV. | 991 A | | Delhafen, Sam., Mechan.
+| | | | Chèvre=Dinger, Joseph, Dessinateur.
+32 | IV. | 971 A | | Gasquet-Siegrift, Friedr. Wilh.,
+| | | | Zimmermeister.
+37 | III. | 202 B | | Meyer=Müller, Joh.
+| | | | Meyer=Müller, Joh., Partikular.
+| | | | Gyffendörffer Heinr., Kanzleisekretär.
+| | | | Simmen=Becker, J. Heinr., Kaufmann.
+39 | III. | 202 C | | Zselin=LaRoche, Dan. Ludw.
+| | | | Zselin=LaRoche, D. Ludw., Kaufmann.
+41 | III. | 202 D | | Merian=Röchlin, Eduard.
+| | | | Merian=Röchlin, Eduard, Kaufmann.

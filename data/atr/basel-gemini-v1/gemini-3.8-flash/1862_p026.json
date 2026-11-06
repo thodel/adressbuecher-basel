@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p026",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p026.jpg",
+    "bytes": 1504737,
+    "sha256": "3e129995834d43c2bd970e5f10f2dcfb6ccbbd2ac66d4390a3e406a94f96add4",
+    "sha256_of": "original",
+    "working_copy": "1862_p026.jpg"
+  },
+  "text": "Vaterländ. u. polit. Vereine. — Vereine u. Anstalten XXIII\n\nAargauer-Verein\nund dessen Unterstützungscasse.\nGegründet 1858.\n\nHelvetia.\nGegründet 1858.\nVorstand:\nHr. Dr. Brenner, Präsident.\n„ P. Feddersen, Secretär.\n„ Richter-Dölly, Seckelmeister.\n\nArtillerie-Verein.\nGegründet 1858.\nZweck des Artillerie-Vereins ist, das Ar-\ntilleriewesen bestmöglichst bei der Mannschaft\nzu befördern und durch gemeinschaftliche Zu-\nsammenkünfte einander näher zu bringen.\nVorstand:\nHr. Lukas Köhler, Präsident.\n„ Emanl. Plattner, Statthalter.\n„ Friedr. Hunziker, Cassier.\n„ Rud. Horner, Schreiber.\n\n[spalte 2]\nFeldschützen-Gesellschaft.\nGegründet 1862.\nLokal: Gartnern-Zunft.\nVorstand:\nHr. Ferd. Aemmer, Hirschgasse.\n\nPompier-Verein Basel.\nGegründet 1862.\nDie beiden Vereine, Pompier-Verein der\ngrößern Stadt u. Pompier-Verein der kleinen\nStadt, sind mit diesem Jahr unter obigem\nNamen in einen Verein verschmolzen.\nVorstand:\nHr. Feldwebel Rud. Hunziker, Präsident.\n„ Corporal Nabholz, Statthalter.\n„ Fourier E. Schultheß, Secretär.\n„ Sergeant, J. Käser,\n„ „ F. Scherb,\n„ Corporal G. Iberg, } Beisitzer.\n„ Sergeant J. Schenkel,\n\nVereine und Anstalten zu religiösen Zwecken.\n\nDeutsche Christenthums-Gesellschaft.\nGegründet 1780.\n\nBibel-Gesellschaft.\nGegründet 1804.\nVorstand: Hr. Antistes Preiswerk.\n\nEvangelische Missionsgesellschaft.\nGegründet 1815.\nVorstand: Hr. Rathsherr Adolf Christ.\nIm Missionshause befinden sich in 6 Ab-\ntheilungen 80 bis 90 Zöglinge mit 7 Lehrern.\nAuf verschiedenen Posten in Ostindien\n(Malabarküste), Westafrika (Goldküste) und\nChina (Provinz Canton) befinden sich 60 bis\n70 Missionare und gegen 4000 Christen aus\nden Eingebornen, sowie Druckereien und ge-\nschäftliche Einrichtungen zur Beförderung christ-\nlicher Arbeit.\n\nVerein der Freunde Israels.\nGegründet 1831.\nVorstand:\nEin Comité von 8 Mitgliedern unter Vor-\nsitz des Agenten, Hr. Pfar. Eduard Bernoulli.\n\nVerein zur\nVerbreitung christlicher Schriften.\nGegründet 1835.\nBureau des Vereins: Streitgasse Nr. 18.\n\n[spalte 2]\nVorstand:\nHr. Carl Detloff, Buchhändler.\n„ J. Riggenbach, Professor d. Theologie.\n„ A. Sarasin, Pfarrer.\n„ F. Schnell, Professor der Rechte.\n„ P. Stähelin, Pfarrer.\n„ J. Stückelberger, Pfarrer.\n\nHavre-Verein.\nGegründet 1827.\nVorstand:\nEin Comité von sieben Mitgliedern.\n\nPrediger-Gesellschaft.\nGegründet 1838.\nVorstand: Hr. Antistes Preiswerk.\n\nPilger-Mission auf St. Chrischona.\nGegründet 1840.\nComité:\nHr. C. Spittler, Vorsteher.\n„ Cand. M. Spittler, Actuar.\n„ J. L. Jäger, Cassier.\n„ Caplan Schlienz, Lehrer.\n„ Pastor Bonekemper, Lehrer.\n„ C. Keßler, Lehrer und Hausvater.\nAuswärtige Mitglieder:\nHr. Dekan Ledderhose in Neckarau.\n„ Missionar Dr. L. Krapf in Kornthal.\n„ Carl Mez, Fabrikant in Freiburg.\nB",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9140,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2698,
+    "lines": 97,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.1134,
+    "mean_line_chars": 26.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:28:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p026",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p026.jpg",
+      "bytes": 1504737,
+      "sha256": "3e129995834d43c2bd970e5f10f2dcfb6ccbbd2ac66d4390a3e406a94f96add4",
+      "sha256_of": "original",
+      "working_copy": "1862_p026.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:10+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p083",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p083.jpg",
+    "bytes": 912616,
+    "sha256": "cc706325e2f2356b4f50c4de65c2a82418647b4eadb0be2da2daefe3161d4947",
+    "sha256_of": "original",
+    "working_copy": "1841_p083.jpg"
+  },
+  "text": "76\nNro.\nUtengasse.\n396 * Müller und Comp.\n397 * Stallung, Rud. Bienz, Mekger, geh.\n398 * Gesler, Andreas, Gerber, geh.\n399 * Jäsch, Emanuel, Beck, geh.\n400 Bricard, Samuel, Küfer und Weinhändler.\n    Müller, Heinrich, Weinhändler.\n401 * Remise und Stallung, Heusler, Leonhard, geh.\n402 * Scheune, Bratteler, Jakob, Beck, geh.\n403 * Stallung, Salathe, J. Christ., geh.\n404 *     \"    Sutter, Michael, zum Bären, geh.\n405 *     \"    Bienz, Rudolf, Mekger, geh.\nSchafgässlein.\n406 * Hinterhaus v. Silberberg.\nUtengasse.\n407 u. 408 * Barth-Otto, Samuel, geh.\n409 Nitter, Rud. sel., Wittwe.\n410 * Meister, Conrad, Seidenfärbcr fel., Wittwe, geh.\n411 u. 412 * Scheune u. Hinterhaus v. J. J. Meyer, Sonnenwirth.\n413 * Schweizer, Lud., Maler., Baumgartner, Heinr., Maler.\n414 * Ziegelhof, Lok, Fr., geh.\n415 Meister, Conrad, Seidenfärbcr fel., Wittwe.\n416 u. 417 Lindenmeier, J. Rud., Lehrer am Waifenhause.\n    Urech, geb. Sus. Wierz, Wittwe.\n418 Eglin, Christoph, Zimmermann.\n419 * Gerberei, zu Nro. 61 geh.\n420 * Eglin, Chr., Zimmermeister, geh.\n421 Siegrift, A. Magd., geb. Beckel, Wittwe.\n422 * Weiß, Rud., Fabrikaufseher.\n423 Brunner, J. Heinr., Küfer.\n424 Schardt, Joh. Ulrich, Mekger.\n425 Göz, Nikol. Wilh., Devisenmacher.\n426 * Braun-Gesler, Andreas, Gerber.\n427 u. 428 Merian-Stähelin, Remigius, Maurermeister.\n429 u. 430 Krattiger, Joh., Schneider.\n431 u. 432 Schäfer, August, Zimmermann.\n    Münch, Jungfer Susanna, Kleinkinderschule.\n433 Dunkel, Jakob, Maurer, von Kleinhüningen.\n434 Brüderlin, Joh., Commis.\n435 Gyfin, Ulrich, Seidenfärbcr.\n436 * Zuckcr, Joh. Ulrich, geh.\n437 * Magazin und Spezereiladen von J. Rieber.\n438 Blindenbacher, Christoph, Gerbergcfell.\n439 Jug, J. J., Maurer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5382,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1693,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0217,
+    "mean_line_chars": 35.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:51:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p083",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p083.jpg",
+      "bytes": 912616,
+      "sha256": "cc706325e2f2356b4f50c4de65c2a82418647b4eadb0be2da2daefe3161d4947",
+      "sha256_of": "original",
+      "working_copy": "1841_p083.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:08+00:00"
+  }
+}

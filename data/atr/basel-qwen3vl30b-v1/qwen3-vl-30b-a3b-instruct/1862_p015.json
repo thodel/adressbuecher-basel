@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p015",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p015.jpg",
+    "bytes": 1328890,
+    "sha256": "684c95e02a9adaac4e2125f358f6c6337384b8625b2094952fd84c5d7a414da3",
+    "sha256_of": "original",
+    "working_copy": "1862_p015.jpg"
+  },
+  "text": "XII\nBehörden und Beamte.\nIII. Richterliche Behörden.\nA. Kantonalg. Gerichte.\nAppellations-Gericht.\n„ Hr. Aug. LaRoche, Präsident.\n„ „ J. J. Bachofen, J. U. D., Statthalter.\n„ „ Eduard His=LaRoche.\n„ „ Conrad Zäslin=Falkeisen.\n„ „ Christof Burckhardt, Med. Dr.\n„ „ Carl BonderMühl=Merian.\n„ „ Daniel Heusler=Iselin.\n„ „ Daniel Heusler=Thurneyssen.\n„ „ Benedict Kespinger=Gemuseus.\n„ „ Ludwig Chinger, J. U. D.\n„ „ Niklaus Halter=Fäsch.\n„ „ Rudolf Schmid, J. U. D.\n„ „ J. J. Minder=Zäslin.\nHr. Jul. Schneider, J. U. D. Gerichtsschreiber.\nWeibel u. Abwart des Gerichtshauses: Bern-\nhard Tschann.\nCriminal- u. correctionelles Gericht.\nHr. Dr. J. J. Bischer, Präsident.\n„ „ Dr. Carl Burckhardt = Burckhardt,\nStatthalter.\n„ „ Rudolf Wölfflin.\n„ „ Heinr. Iselin, M. Dr.\n„ „ Rudolf Burckhardt, M. Dr.\n„ „ Georg Riefer.\n„ „ Wilhelm Merian=Sarasin.\n„ „ Rudolf Ofer.\n„ „ Achilles Bulacher.\n„ „ Carl Wieland, J. U. C.\n„ „ Ed. Heusler, J. U. D.\n„ „ Jakob Friedrich Bertolf.\n„ „ Carl Stähelin=Bucknor.\n„ „ Daniel Heusler=Christ.\n„ „ Adolf Burckhardt=Burckhardt, J. U. D.\nDas correctionelle Gericht besteht unter\ndem Vorsitz des Criminalgerichtspräsi-\ndenten abwechselnd aus fünf Criminal-\nrichtern.\nStaatsanwalt.\nHr. Ed. Thurneyssen, J. U. D.\nUntersuchungsrichter:\nHr. J. J. Burckhardt, Sohn, J. U. D.\n„ „ Adolf Burckhardt, J. U. D.\nHr. Heinr. Schönauer, J. U. D. Gerichts-\nschreiber. (prov.)\nJohann Saladin, Weibel.\nChe=Gericht.\nHr. C. Burckhardt=Burckhardt, J. U. D.\nPräsident.\n„ Niklaus Christen=Euler.\n„ J. J. Dietzsch=Lichtenhahn.\n„ Ludw. A. Burckhardt, J. U. D.\n„ Pfarrer Peter Stähelin.\n„ Carl Bachofen=Burckhardt.\n„ Pfarrer Hans Stüchelberger.\n„ Johannes Basler=Schwob.\n„ Ludw. Lindner=Engressat.\n„ Ed. Eckenstein=Schermar.\n„ Rud. Burckhardt=Burckhardt, Dr. M.\nHr. Not. Aug. Heitz, J. U. D. Gerichtsschreib.\n„ Dan. Rumpf, Amtmann.\n„ J. Hermann Garnjobst, Amtmann.\nDavid Kromer, Weibel.\nWaifen-Gericht.\nHr. Christof Konus=Gemuseus, Präsident.\n„ Prof. Joh. Schnell, J. U. D. Statt-\nhalter.\n„ Georg Wenk von Kiehen.\n„ Niklaus Christen=Euler.\n„ Wilhelm Bischoff=Burckhardt.\n„ Rudolf Hauser=Ofer.\n„ J. J. Richter=Linder.\n„ Rud. Wegner.\n„ Fr. Hagenbach=Merian.\n„ Eml. Burckhardt=Burckhardt.\n„ Carl Stehlin, J. U. D.\nHr. Notarius Heitz, J. U. D., Gerichtsschreib.\nJoh. Luk. Frey, Weibel.\nPolizeigericht.\nHr. Rud. Wölfflin=Mengis, Präsident.\n„ Andreas Bischoff = Chinger, Statt-\nhalter.\n„ Philipp Rehlstadt.\n„ Jak. Friedrich Bertolf, von Klein-\nhüningen.\n„ Carl Stehlin, J. U. D.\n„ Rud. Krauer=Treu.\n„ Carl Burckhardt=Burckhardt, J. U. D.\n„ Achilles Bulacher.\nSuppleanten.\nHr. J. J. Burckhardt, Sohn.\n„ Adolf Burckhardt, J. U. D.\n„ J. Rohr=Schmid.\nHr. Aug. Ründig, J. U. D., Gerichtsschreiber.\nJoh. Lukas Frey, Weibel.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8191,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2704,
+    "lines": 99,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0303,
+    "mean_line_chars": 26.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p015",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p015.jpg",
+      "bytes": 1328890,
+      "sha256": "684c95e02a9adaac4e2125f358f6c6337384b8625b2094952fd84c5d7a414da3",
+      "sha256_of": "original",
+      "working_copy": "1862_p015.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:40+00:00"
+  }
+}

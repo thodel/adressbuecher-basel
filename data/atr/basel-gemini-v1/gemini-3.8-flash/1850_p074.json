@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p074",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p074.jpg",
+    "bytes": 1034786,
+    "sha256": "eebdad44e524c5e1bcfbd82d87d3f634a6fb4ccc07707dc8b2cc7cfbe4bf85b1",
+    "sha256_of": "original",
+    "working_copy": "1850_p074.jpg"
+  },
+  "text": "St. Alban-Quartier. 61\n\nA 1362 Föhr, Balthasar, Commis.\nWalter, Karl, Musikdirektor.\n\nHinter dem Münster.\n\n1363 Bischoff-Ritter, Achilles, Rentier.\nBischoff, Jgfr., Sara.\nBischoff, Achilles, Sohn.\n1364 Vischer-Bischoff, Friedr., Handelsmann.\nVischer-Valentin, Wittwe, Rentière.\nValentin-deCrousaz, Partikular.\n1365 Ryhiner-Streckeisen, Wittwe. [handschriftlich: Eigenthümer Heinr. Aug. Ryhiner]\nStreckeisen-Cäsar, Wittwe.\nStreckeisen, Jgfr., Emma, Rentière.\n1366 Vischer, Jgfr., Salomea, Kapitalistin.\n1367 Leser, Friedrich, Kutscher.\n1368 (Magazin) Christ-Bischoff, Rem., geh.\n1369 Unbewohnt.\nA 1369 (Magazin) Bischoff-Ritter, Achilles, geh.\n1370 (Ulrichskapelle) Obrigkeitlich.\n1371 (Mädchenschulhaus) Buser, J. J., Sohn, Lehrer.\n1372 Christ, Benedikt, Rentier.\n1373 Ott, Michael, Klaviermacher.\nFersing, Wittwe, Sara, Rentière.\n1374 Linder, Johann, Obersthelfer.\n1375 Haldy, J. P. E., Lehrer.\n1376 (Stallung) Thurneisen-Burckhardt, Balth., geh.\n1377 Ryhiner-Christ, Eml., Rentier.\nThurneisen-Ryhiner, Wittwe, Valerie, Rentière.\n\nAm Bäumlein.\n\n1378 Anstein-Wölfflin, J. J., Küfer, Essig- u. Brannt-\nweinhandel.\n1379 Fechter-Hanhart, Dan. Alb., Phil. Dr.\n1380 Stuckert-Burkhard, Commis.\n1381 Ehinger-LaRoche, Wittwe, Kapitalistin.\nBischoff-Ehinger, Andr., Handelsmann.\nEhinger, Ludwig., J. U. D. (Das Bureau in\nNr. 1038.)\nA 1381 Socin-Werthenmann.\nTuchhandlung von F. N. David & Consorten.\nBurckhardt, Joh. Rud., Fiskal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9994,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1421,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p074",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p074.jpg",
+      "bytes": 1034786,
+      "sha256": "eebdad44e524c5e1bcfbd82d87d3f634a6fb4ccc07707dc8b2cc7cfbe4bf85b1",
+      "sha256_of": "original",
+      "working_copy": "1850_p074.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:55+00:00"
+  }
+}

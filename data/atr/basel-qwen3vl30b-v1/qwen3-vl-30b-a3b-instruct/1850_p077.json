@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p077",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p077.jpg",
+    "bytes": 939522,
+    "sha256": "609e36bee8d708355c8ab65387d9d39db08edb5a02935bf355a0c9ba8f072ff7",
+    "sha256_of": "original",
+    "working_copy": "1850_p077.jpg"
+  },
+  "text": "64\nSt. Alban=Quartier.\n1435-37 Paravicini=BonderMühl, Eml., Eisenhandlung.\nParavicini=Battier, Eml., Rentier.\n1438 Tschopp=Holzach, Heinrich, Spengler.\nHug, Dan., Lifeur.\nSchaub, D., Ferger.\nSchmucki, Lifette, Modiste.\n1439 Holzach-Krauer, Frau Caroline, Glaser u. Glas-\nhandlung.\nKrauer, Wittwe Maria, geb. Köchlin, Rentière.\n1440 Meyer=Vischoff, Joh. Christ., Handelsmann.\nVischoff=Wieland, Wittwe, Balerie, Rentière.\n1441 Singeisen, Jgfr. Barbara, Rentière.\n1442 Ramsperger-Hug, Eml., Niederlage aller bekannten\nächten Mineralwasser, Alpen-Butter u. Spezerei-\nwaaren.\n1442 Marfort, Wittwe, Sattler.\nWeber-Marfort, Rud., Mekger.\n1444 (Gasthof z. wilden Mann.)\nPfander=Carle, F. F., Major, Gastgeber.\nLüffi, F. F., Tabackhandlung.\nGesler, Jungfr., Modistes u. Schirmhandlung.\n1445 (Zunft z. Himmel.)\nErzberger=Krauer, Wittwe Susanna, Zuckerbeck.\n1446 Wahr, Gebrüder, Phil. u. Karl, Tuchhandlung.\n1447 Albäck, F. H., Quincailleriehandlung.\n1448 Respinger=Bernoulli, Eml., Rentier.\nSchlüsselberg.\n1449 Spitteler, Christ. Friedr., Buchhändler.\n1450 Freimaurer-Loge.\nSchimpf, Geb., Abwart.\n1451 Hagenbach=Paravicini, Peter, Ehegerichtspräsident.\n1452 Buxtorf=Jetscherin, Friedr., Wechsel-Senfal.\n1453 Burkhardt, August, Med. et Chir. Dr.\nLehmann-Berger, Julius, Privat-Töchterinstitut.\n1454 Obrigkeitlich.\n1455 Miville-Krug, H., Alterthümerkabinet.\n1456 Wieland-Schweighauser, M. M., Wittwe, Rentière.\nMünsterplatz.\n1457 Riggenbach-Sulger, Christ., Architekt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4857,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1456,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p077",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p077.jpg",
+      "bytes": 939522,
+      "sha256": "609e36bee8d708355c8ab65387d9d39db08edb5a02935bf355a0c9ba8f072ff7",
+      "sha256_of": "original",
+      "working_copy": "1850_p077.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:01+00:00"
+  }
+}

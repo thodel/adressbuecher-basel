@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p060",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p060.jpg",
+    "bytes": 969243,
+    "sha256": "1daddf1532699ad9d0a15e7c1fcf45110dc6d057d26ad416cb76a496facb63a6",
+    "sha256_of": "original",
+    "working_copy": "1850_p060.jpg"
+  },
+  "text": "Aefchen = Quartier.\n47\nTiefe.\n1057 Schrenk, F. F., Unterbestäter.\n    Bohny, F. F., Ehegerichtsamtmann, Privatlehrer.\n1058 Pfaff, Martin, Commis.\n1059 Heusler-Geigy, Wittwe, Elise, Rentière.\n    Heusler, Abel, Handelsmann.\n    Material- und Farbwaarenhandlung.\n1060 Gengenbach, Frau Elis. geb. Mieg.\n1061 Wettler, Fh., Steinmetzparlier.\n    Barnjobst, F. H., Seckler.\n1062 Schneider, Heinrich, Sattler.\n    Schaffner-Jordan, Wittwe, Urs.: Mercerie- und\n    Chocoladehandel.\n    Jordan, Adam, Commis.\n1063 Schük, Jakob, Handels-Commis.\n    Fischer, Rud., Speditor. (Comptoir.)\nSpitalgässlein.\n1064 Thommen, F., Küfer.\nBeim Aefchen-Schwibbogen.\n1065 Heiz-DeWette, Aug. Schrift., J. U. D., Notar.\n    Pettermand, A. C., Commis.\n1066 Frey, Gustav, Commis.\n1067 Stähelin, Christof, Rentier.\n1068 Vogel, Franz Martin, Schneider.\nTiefe.\n1069 Schaffner-Schrenk, Sam., Schneider.\n    Wiedemann, B., Commis.\n1070 Schloffer, Kaspar, Weißbeck.\n1071 Oser, Joh. Jak., Schuhmacher.\n    Schöner, Fh., Schneider.\n1072-73 Meyer, Joh., Perückenmacher.\n1074 Rumpf, Emil., Bürstenbinder.\n1075 Wässler, Jakob, Feilenhauer.\n    Reinhard, David, Zeugladen.\nAm Bäumlein.\n1076 Benz, Jakob Ludwig, Uhrenmacher,",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4038,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1183,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 28.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p060",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p060.jpg",
+      "bytes": 969243,
+      "sha256": "1daddf1532699ad9d0a15e7c1fcf45110dc6d057d26ad416cb76a496facb63a6",
+      "sha256_of": "original",
+      "working_copy": "1850_p060.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:43+00:00"
+  }
+}

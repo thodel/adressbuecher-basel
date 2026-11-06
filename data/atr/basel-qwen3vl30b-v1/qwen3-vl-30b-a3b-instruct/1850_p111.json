@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p111",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p111.jpg",
+    "bytes": 1112153,
+    "sha256": "e0673554bd7cb36974006d41c6b7ce76987dee298fc2d554778fa5f2f3fe7c3f",
+    "sha256_of": "original",
+    "working_copy": "1850_p111.jpg"
+  },
+  "text": "98\nBienz, Wwe., A. M. 257B | Bischoff, Fgfrn., M. u. L. 1471\nJoh. Rud., Schreiner 770 | F. F., Pfarrer *176\n=Gerster, K. P., Commis 863 | Gottl. Polizeihauptm. *176\nF. F., Raminfeger 909 | Arnold, Postoffiziant *176\nJoh., Schneider *63 | Blackwell, Fgfr., Jane 754M\nGeorg, Schreiner *119 | Blanc, David, Commis 1617\nRudolf, Mezger *391-92 | Bleiler, R., Hdlsm. 357-58\nHeinr., Weinhdlg. *400 | Blendinger, Jaf. 1329\nBirmann, Gottfried 170 | Blessing, Wwe., Marg. 1223\nGebr., Rud. u. Wilh. 227 | Bleuler, Wittwe 199\nOskar, Dr. Jur. 227 | Bloch-Kündig, Wittwe 278\nDr. u. W. Merian 149A | =Fatio, Joh. 703\nDaniel, Amtsweibel 633 | =Herzog, D., Commis 957\nGeorg, Postoffiziant 1160 | Peter, Seiler 1621\nJaf. Friedr. *147 | Euch., Zuckerbeck 1622\nWittwe, Hel. 74 | Jof., Pferdehändler 1712\nBierschenk, Ad., Gerber 796 | Blüher, C. F. 1105\nBilsinger, Wwe., Elis. 442 | Böcklin, F., Commis 766\nBinz, Joh. Ulr., Ferger 817 | Bödegger, W., Zimmern. *82\nBischoff, A., Spezereihdgl. 4 | Bögle, Simon, Maurer 411\n-Merian, R., Handelsm. 375 | Böhler, Nepomuk 685\n=Keller, Andreas 437 | Böhme, F. B., Schrein. 1005\n=Kestner, F. F., Bangr. 912 | Bohny, F., Hufschmied 290\n=Respinger, Hieron. 1228 | N., Lehrer 443\n=Bischoff, H., Tuchhlg. 1229 | F. F., Cheger.=Amtm. 1057\nGeschwister 1343 | Nifl., Ausschnitthdgl. 1663\nKarl, Stofffabr. 1346 | Ambr., Spezereihdgl. 1666A\n=Zselin, Christof 1363 | Joh., Hufschmied *163\n=Ritter, Achilles 1363 | Böhlrin, F., Schleif. *252-53\nAchilles, Sohn 1381 | Bollier, Georg, Posam. 963\n=Chinger, A., Hdlsm. 1388 | Bolliger=Miville, F. 1550\nPeter, Seidenhdlg. 1471 | Bollinger, F. F., Ferger 555\nJoh., Kaufmann 1485 | Bolly, Melch., Appret. 274A\n=Fürstenberger, Aug. 1490 | Bonin, Georg, Schreiner 412\nPeter, Seidenhdlg. 1490 | Bonnant, P., Appret. 1256\n=Merian, W., Bandfkt. 1511 | Borgognon, Frz. E. Const. 763\n=Burckhardt, Wilh. 1511 | Born, Eug., Weinhändl. 22B\nKarl de Joh. 1344 | Borst, Aug., Schneider 239\n=Burkorf, Johannes 1513 | Böschenstein, Ggd. 1006\n=Preiswerk, Wittwe 1440 | Bosfardt=Wolleb, Frau 288\n=Wieland, Wwe., Bal. 1471 | Rud., Kornmesser 468\n=Debarn, Wwe., Guf. 1363 | F. F., Groshuhrenmach. 600\nFgfr., Sara | Andr., Liseur 855\n[spalte 2]\nBischoff, Fgfrn., M. u. L. 1471\nF. F., Pfarrer *176\nGottl. Polizeihauptm. *176\nArnold, Postoffiziant *176\nBlackwell, Fgfr., Jane 754M\nBlanc, David, Commis 1617\nBleiler, R., Hdlsm. 357-58\nBlendinger, Jaf. 1329\nBlessing, Wwe., Marg. 1223\nBleuler, Wittwe 199\nBloch-Kündig, Wittwe 278\n=Fatio, Joh. 703\n=Herzog, D., Commis 957\nPeter, Seiler 1621\nEuch., Zuckerbeck 1622\nJof., Pferdehändler 1712\nBlüher, C. F. 1105\nBöcklin, F., Commis 766\nBödegger, W., Zimmern. *82\nBögle, Simon, Maurer 411\nBöhler, Nepomuk 685\nBöhme, F. B., Schrein. 1005\nBohny, F., Hufschmied 290\nN., Lehrer 443\nF. F., Cheger.=Amtm. 1057\nNifl., Ausschnitthdgl. 1663\nAmbr., Spezereihdgl. 1666A\nJoh., Hufschmied *163\nBöhlrin, F., Schleif. *252-53\nBollier, Georg, Posam. 963\nBolliger=Miville, F. 1550\nBollinger, F. F., Ferger 555\nBolly, Melch., Appret. 274A\nBonin, Georg, Schreiner 412\nBonnant, P., Appret. 1256\nBorgognon, Frz. E. Const. 763\nBorn, Eug., Weinhändl. 22B\nBorst, Aug., Schneider 239\nBöschenstein, Ggd. 1006\nRud., Kornmesser 468\nF. F., Groshuhrenmach. 600\nAndr., Liseur 855",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12151,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3221,
+    "lines": 87,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.03,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p111",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p111.jpg",
+      "bytes": 1112153,
+      "sha256": "e0673554bd7cb36974006d41c6b7ce76987dee298fc2d554778fa5f2f3fe7c3f",
+      "sha256_of": "original",
+      "working_copy": "1850_p111.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:43+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p124",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p124.jpg",
+    "bytes": 1192499,
+    "sha256": "8adc9522af602243651b234d0986c2980608c1711556be289f5a7b985ab8b1cc",
+    "sha256_of": "original",
+    "working_copy": "1850_p124.jpg"
+  },
+  "text": "111\nKiefer, Fgfr. Anette 275 | Kocherhans, F., Magazinier 21\nKienzy, Patriz., Beck 6 | Köchlin-Burckhardt, Sam. 24\nKindhauser, Johannes 527 | =Geign, Alph., Bandf. 919\nKindweiler, F., Flachm. 1092 | u. Söhne, Bandf. 1006G\nKindwiller, Matth. *343 | Heinr., Gypser 1174\nKirchberger, Heinrich 1089 | F. H., Uhrenmacher 1174\nKircher, F., Klavierlehr. 505 | =Thurneyssen, Frau 267A\nKirch, F. B., Mechan. 419 | Köhler, K., Fabrikarb. *24\nF. Ch., Spezereihdlg. 1637 | Kolb, C. Ch. *273B\nKissel, Joh., Med. Dr. 83 | Kölner, N., Geschäftsm. *94\nKislig, H., eidg. Beamt. 754I | Kraften, Sch., Stuhlschr. *117\nSam., Schuhmacher 1110 | Kramer, F., Kaufhausarb. 878\nKlaiber, Andr., Schuhm. 151 | Andr., Ferger *286\nKleimt, Jos., Uhrenm. 152 | Krauer-Treu, R., Müller 1304\nKlein, W., Bater u. Sohn 1403 | =Köchlin, Bwe., M. 1439\nKleiner, Leonh., Sattler 85 | Kraus, B., Mechaniker 1331\nKleinwitz, Mechanikus 275F | =Gamper, Wittwe *305\nKlenc, B., Geschäftsm. 112 | Kray-Löliger, Bwe. M. *267\nKlett, Geb., Fabrikarb. 185 | Krayer, Em., Bestäter 937A\nKaspar, Fabrikarb. 529 | Sam., Unterbest. 1045B\nKling, Wittwe, Glaser 1087 | Christ., Fabrikarb. 1683\nMelchior, Ferger 1672 | Krebs, Joh., Maler 363A\n=Keller, F. F., Zoller *272 | Hier., Schuhmacher *37\n=Weiß, Maria 1155 | Kromer, Dav., Siegrift 1500\nKlingelsuß, Ed., Tabakfl. 1076 | F. P., Schuhmacher 1744\nEperrer 1276 | Emanuel, Metzger *186\nLukas, Seiler 1555 | Krug, M., Buchbinder 668\nKath., Wittwe 1157 | Hieron., Thorzoller 999\n=Langmesser, Bwe., F. 1506 | Wilh., Hutmacher 1551\nFgfr., B. M. 888 | Johann, Archivar 1611\nKlipfel, Sch., Weinhdlg. 15-16 | Kruse, Fch., Schreiner 588\nMartin, Weinhdlg. 754BC | Kübler-Gren, Bwe., K. 951\nKnecht, B., Rechnungsl. 677 | =Uebelin, Bwe., Kübler 1133\nKnellwolf-Keller, Bwe. 690 | Kühl, Kasp., Commis *131\nWittwe, Kosthaus 1108 | Kuhn, Dav., Zimmerm. 971A\nKnickmeyer, Phil. 1664 | Kühn, F. F., Schuhm. 958\nKnop, C., Musik.=Hdlg. 1547 | F., Tabackhandlung 1589\nKnopf, F. F., Weinsch. 150 | =Weiß, Wittwe 675\nKober, Andr., Maurer 400 | Kummer, Konr., Liseur 649\nKoch, Karl, Desfinateur 191 | F. K., Rathsbote 1656-57\nFoh., Buchdrucker 697 | Bwe., Schreiner 547ABC\nFoh., Commis 1566 | Kundert, Bwe., Anna *85\nu. Ostermann, Lingerie 1566 | Kündig, Philipp, Beck 28\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8460,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2252,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p124",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p124.jpg",
+      "bytes": 1192499,
+      "sha256": "8adc9522af602243651b234d0986c2980608c1711556be289f5a7b985ab8b1cc",
+      "sha256_of": "original",
+      "working_copy": "1850_p124.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:29+00:00"
+  }
+}

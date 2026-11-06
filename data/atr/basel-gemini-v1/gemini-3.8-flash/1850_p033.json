@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p033",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p033.jpg",
+    "bytes": 1068048,
+    "sha256": "3cb062be03be7feb493afddd9919a99e3a452e6fd7130754ca8a4a139567ecb9",
+    "sha256_of": "original",
+    "working_copy": "1850_p033.jpg"
+  },
+  "text": "Spahlen - Quartier.\n21\n\n456 Herzog-Reber, Emanuel, Partikular.\nMerian-Respinger, Wittwe, Rentière.\nA 456 Streckeisen, Eml., Cassier auf der Bank.\nSenn-Gysin, Ol., Zollbeamter.\nB 456 Burckhardt-Wick, Wittwe, Rentière.\nWick, Frau Pfarrer, Wittwe.\n457 Ludwig, J. H., Wittwe, Weinschenk.\nWerenfels, Eml., Maler.\n458 Ryff, Wittwe, Wirthschaft.\n\nHinter dem Spahlenthurm.\n\n459 Obrigkeitlich.\n460 Schärer, Leonhard, Metzger.\n461 Wernly, Ab.\n462 Holdenecker, Achilles, Buchhändler, (vereint mit\nNr. 457 A) und Leihbibliothek.\n463 Müller, Heinrich, Spezierer.\n\nBeim Spahlenthurm.\n\n464 Häfler, Hch., Flachmaler.\n465 Euler-Frey, Rudolf, Handelsmann.\nFäcklin, Ol., Postofficiant.\n466 Glock-Scherb, Peter, Küfer.\nBaumgartner, W., Ferger.\n467 Jenny-Minder, Wittwe.\n468 Bossardt, Rudolf, Kornmesser.\n469 Wiesner, Eml., Maler.\n\nOberer Spahlenberg.\n\n470 Meyer-Linder, Phil., Handelsmann.\n471 Geßler, Kaspar, Rothgerber.\n472 Bücher, Joh., Schuhmacher. Siegrist zu St. Peter.\nHoff, Charles, engl. Sprachlehrer.\n473 Flubacher, Eml., Commis und Spezierer.\nHosch-Buxtorf, Wittwe.\n474 Marbach, Isaak, Kürschner, Civilgerichtswaibel.\n475 Buser, Hieronymus, Pastetenbeck.\n476 Siegrist, Joseph, Kutscher.\nHerzog, B., Kutscher.\n477 Sandreuter, Eman., Beck.\nFischer, J. J., Fabrikarbeiter.\n478 Müller, Heinrich, Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6355,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1298,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p033",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p033.jpg",
+      "bytes": 1068048,
+      "sha256": "3cb062be03be7feb493afddd9919a99e3a452e6fd7130754ca8a4a139567ecb9",
+      "sha256_of": "original",
+      "working_copy": "1850_p033.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:33+00:00"
+  }
+}

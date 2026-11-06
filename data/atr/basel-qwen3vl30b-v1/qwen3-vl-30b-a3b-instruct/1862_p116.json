@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p116",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p116.jpg",
+    "bytes": 1440689,
+    "sha256": "5d4c8f5b162e248d21ea3c39ea221690283a510661f188d6a0b0afab67a847b3",
+    "sha256_of": "original",
+    "working_copy": "1862_p116.jpg"
+  },
+  "text": "Gerbergasse.\n51\nNeue Haus-Nr. | Quar-\ntier. | Alte\nHaus-Nr. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n2 | VI. | 1666 | z. gelben Wind u.\nz. gold. Lamm. | Schmid-Villiger, Christoph.\nSchmid-Villiger, Christoph, Mezger.\nBohny-Krumm, Wb. Anna Maria, Spezier.\nStrickler-Krumm, Rudolf, Wirth.\nBohny, Eduard, Kaufmann.\n3 | VI. | 1647 | z. schwarz. Stern. | Horat-Zeller, Caspar.\nHorat-Zeller, Caspar, Detailhändler.\nDenicola-Domenga, Seb., Glaser.\n4 | VI. | 1665 | z. klein. gold. Löwen. | Baumann, Samuel.\nBaumann, Sophie, Mercerie = u. Woll-\nwaarenhandlung.\n5 | VI. | 1648 | zum Biberstein. | Hef-Mugglin, Hans Rudolf.\nHef-Mugglin, H. R., Lehrer u. Kaufm.\n6 | VI. | 1664 | z. Hennenbrunnen. | Knickmeyer-Malzacher, Wb. Frieder.\nKnickmeyer-Malzacher, Wb. F., Goldschm.\n7 | VI. | 1649 | z. Stadt Mühlhausen. | Brüderlin-Schmid, Wb. Ursula.\nBrüderlin-Schmid, Wb. Ursula.\nBreiter-Brüderlin, Wilh., Kaufmann.\n8 | VI. | 1663 | zum Pilger. | Bargäzi, Peter.\nBargäzi, Peter, Schneider.\nUngerer-Weber, J. Fr., Schneider.\n10 | VI. | 1661—62 | zu den drei Böcken. | Bauer, Johann.\nBauer, Johann, Kaufmann.\nLienhardt-Hänger, Heinrich, Commis.\nLienhardt-Hänger, Frau, Gebamme.\n11 | VI. | 1650 | Zunft zu Safran. | Corporationsgut.\nBaumann-Gebhardt, Jerome, Traiteur.\nSimoninus u. Bard, Agentur.\nHegel-Gebner, Johann, Kaufmann.\n12 | VI. | 1660 | zum alten Safran. | Schoch, Erhard.\nSchoch, Erhard, Eisenhandlung.\n(Firma: Erhard und Jakob Schoch.)\n14 | VI. | 1659 | Zunft z. Kürschner. | Corporationsgut.\nOswald, Gebr. u. Comp.\nComptoir d'escompte.\nButscher, Franz August, Commis.\n15 | VI. | 1634 E. | hint. Postgebäude. | Staat.\n16 | VI. | 1658 | Gasthof zur Post. | Meister-Erny, Henriette.\nMeister-Erny, Henriette, Gastwirthin.\n18 | VI. | 1657 | zum Nauenberg. | Salathé-Hunziker, Joh. Georg.\nSalathé-Hunziker, J. Gg., Mezger.\nRumpf-Salathé, Carl, Postcommis.\n19 | VI. | 648 | | Theiler-Biirgy, Heinrich.\nTheiler-Blirgy, Heinrich, Gärtner.\nKleintwitz-Schmidt, Wb. Margaretha,\nGebamme.\nAenderli, Joh., Maler.\nWeisse-Schaaf, Heinrich, Graveur.\n20 | VI. | 1656 | zum Ruckenberg. | Bloch, Rudolf.\nSchröter-Meyer, Aug., Musiker.\nBögelin, Joh. Jacob, Kaufmann.\nWeber-Müller, Sam., Ellenwaarenhdlg.\n4*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7198,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2197,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.63,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p116",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p116.jpg",
+      "bytes": 1440689,
+      "sha256": "5d4c8f5b162e248d21ea3c39ea221690283a510661f188d6a0b0afab67a847b3",
+      "sha256_of": "original",
+      "working_copy": "1862_p116.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:51+00:00"
+  }
+}

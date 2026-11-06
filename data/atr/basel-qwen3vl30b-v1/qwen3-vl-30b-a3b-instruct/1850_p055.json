@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p055",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p055.jpg",
+    "bytes": 948184,
+    "sha256": "f3e50947187f668a8ee2647a40d378472d4a9390f304e8ea4cf25a7c6f358058",
+    "sha256_of": "original",
+    "working_copy": "1850_p055.jpg"
+  },
+  "text": "42\nAefchen = Quartier.\n939 Gnöpf, Joh., Weißbeck, Weinschenk. *Baader, Friedrich, Straßen-Inspektor.\n940 Dobler-Burkhardt, Wittwe Helene, Rentière.\nRyhiner, Karl, Bandfabrikant.\n941 Wieland, Jgfr., Anna Maria, Kapitalistin.\n942 Christ-Kyburc, F. F., Spezereihdlg.\n943 Meyer, F. F., Beck.\nDebrunner, Hch., Commis.\n944 Dietrich, Wilhelm, Beck.\nMerian, geb. Bloch, Wittwe, M. M., Rentière.\n945-46 Werthemann, Andr., Obrist, Commis. = und Spe-\nditionshandlung.\nWerthemann, Jgfr., Marg., Kapitalistin.\n947 Kehlstadt, Ludwig, Sohn, Beck.\n948 Merian, Benedikt, Sattler.\n949-50 Gemuseus-Respinger, Hier., Kaufmann.\nRespinger-Preiswerf, Wittwe, A. M. Rentière.\nGemuseus, Jgfr, Julie, Rentière.\nRespinger-Gemuseus, B., Kaufmann.\nTschudy, F. Christoph, Commis.\n951 Kübler-Gren, Wittwe, Cath.\nSchmied, Dl., Kübler.\n952 Rohner, Schweferm. *j. A. J. Kellner, Kupferstich\n953 Eisinger, G. F., Spengler.\n954 Bürtler-Best, F. F., Commis.\n955 Hauser-Bürtler, Dav., Geschäftsagent. Comptoir in\nNr. 1542.\n956 Nonus, Jgfr., Kathar., Kapitalistin.\n957 Mende, Benedikt, Hafner.\nBloch-Herzog, Dan., Commis.\n958 Kühn, F. F., Schuhmacher, Weinficher.\nBaur-Bader, Georg, Ferger.\nFischer-Werdenberg, Wittwe.\n959-60 Horner, Daniel, Weißbeck.\nSternengäßlein.\n961 Zimmermann, Peter, Kutscher.\n962 Freyburger-Salathe, W., Trödlerin.\n963 Bollier, Georg, Posamenter.\n964 Baumgartner, Johann, Schuhmacher.\n965 Herbel, Eberhard, Zimmergeselle.\n966 Schaub, Martin, Kofthaus.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4780,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1437,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p055",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p055.jpg",
+      "bytes": 948184,
+      "sha256": "f3e50947187f668a8ee2647a40d378472d4a9390f304e8ea4cf25a7c6f358058",
+      "sha256_of": "original",
+      "working_copy": "1850_p055.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:22+00:00"
+  }
+}

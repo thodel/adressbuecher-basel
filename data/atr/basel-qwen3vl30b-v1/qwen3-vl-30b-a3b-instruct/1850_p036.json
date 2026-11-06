@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p036",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p036.jpg",
+    "bytes": 1038029,
+    "sha256": "a058b501395a9fabfce399db4368ff8e870003a7e71cc35117d070c4c14a78fa",
+    "sha256_of": "original",
+    "working_copy": "1850_p036.jpg"
+  },
+  "text": "24\nSpahlen = Quartier.\n537 Hinterhaus von 539, Weber-Karger, F. G., Wittwe.\n538 \" \" 591, Grillo, Lukas, Küfer.\nSeul, Buchdrucker.\n539 Thommen, Wittwe Cath., Kostgeberin.\n540 Hofer, Sam. Rud., Spezereihandlung.\n541 Wasermann, Jgfr. Dorothea, Wirthschaft.\n542 Heckel, F. F., Ladendiener.\n543 Frey, Adolf, Küfer.\n544 Zollinger, Marg, Gärtner.\n545 Wiefendanger, Ulrich, Fabrikarbeiter.\nAdelberg.\n546 Stückelberger-Berri, Emanuel, Wittwe.\n547 Burckhardt-Zselin, Oberst, Wittwe.\nBurckhardt-Zselin, Aug., Sohn, Handelsmann.\nImbergäsklein, St. Andreasplatz,\nAdelberg.\nABC547 Kunmer, Matthias, Wittwe, Schreiner.\n548 BonderMühl-Bischoff, Eml., Handelsmann.\n549 Keller-Bischoff, F. F., Wittwe.\n550 Stäbelin-Stückelberger, Peter, Pfarrer.\n551 Eichard, Joh. Konrad, Handelsmann.\nRueff, Adolph, Handelsmann.\n552 LaRoche, German, Deputat.\nLaRoche-Burckhardt, August, Appellationsrath.\n553 LaRoche-Bez, Eml.\n554 Spreng, Joh. Jak., Wechsel-Senfal.\n555 Walter, Joh. H., Handels-Commis.\nBollinger, F. F., Ferger.\n556 Linder, F. Fb., Bandfabrikant.\nKaufmann-Neufkirch, Rudolf, Agent.\n557 Hek, Johannes, Spitalpfarrer.\nSt. Peters-Stiftsgasse.\n558 Hoz, Rudolf, Privatlehrer.\n559 Dan, Wittwe M. M. geb. Hornung, Schreiner.\n560 Bernoulli-Respinger, Hier., Kriegs-Kommisär.\nSt. Peters-Stiftsgasse und Zeughaus:\nGraben.\n561 Baur, F. F., Mechaniker und Eichmeister.\nMeyer, Joh. Ludwig, Stadtschreiber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4564,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1375,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 32.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p036",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p036.jpg",
+      "bytes": 1038029,
+      "sha256": "a058b501395a9fabfce399db4368ff8e870003a7e71cc35117d070c4c14a78fa",
+      "sha256_of": "original",
+      "working_copy": "1850_p036.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:03+00:00"
+  }
+}

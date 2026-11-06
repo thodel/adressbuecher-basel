@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p127",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p127.jpg",
+    "bytes": 1077273,
+    "sha256": "f0ae3e42a292c32fa136465af9c39315255bc20bae8ac34001182dade956f995",
+    "sha256_of": "original",
+    "working_copy": "1850_p127.jpg"
+  },
+  "text": "114\nMangold, S., Zimmerm. 778 | Mazinger, Lukas, Sohn *73\nJoh., Wirth 1685 | Wittwe, Schlosser 86\nManz, Remigius 7 | =Deck, Fr. M., Modiste 1132\nJoh., Maler 784 | Salomea, Mercerie 648\nMarbach, F., Gerichtsweib, 474 | =Nell, Wittwe *179\nMarfort, F. B., Bergolder 225 | Fgfr., Anna Elisab. *88\n=Meyer, Wwe., \" 649 | Fgfr., Ros., Korbdl. *381\nWittwe, Sattler 1442 | Maurer, Jak., Spengler *76\nMaring, Peter, Schlosser 1102 | vonMechel, B., Landjäger 784\nEml., Rentier 1612 | Rud., Küfer *279\n=Bogt, Wittwe 1736 | Meck, Elias, Commis 1332\nWwe., Ellenwaarenhg. *380 | Joh., Commis 1332\nMärklin, A., Drehöler 650 | Mehr, F. F., Kosthaus 1647\nP. Euch., Ferger 1045A | Meister, Sch., Zimmerm. 890\n=Gnöpf, Wwe., Dor. 443 | Dietrich, Geschäftsm. 1704\nFgfr., M., Bandladen 654 | Mende, Ben., Hafner 957\nGeschwister *374 | F. G., Antiquar 1562\nMärky, K. Fr., Ferger 876 | Adam *122\nMarolf, F., Schreiblehrer 77 | Menger, Karl 1275A\nMarriott, W., Phil. Dr. 453 | Mengis=Brand, Mart. 37\nMartin, Georg, Schreiner 188 | Peter 900-2\nHeinr., Flachmaler 752 | Menrich, K., Zimmerm. 1336\nAndr., Fabrikausseher 859 | Merian=Köchlin, Eduard 41\nLeonh., Hafner 1019 | Nikolaus 108\nMatth., Wirth 1266 | =Legrand, Peter 242B\nF. F., Flachmaler *166 | =Keller, Alb. 267C\nMasaren, Fz., Färber *270 | =Frischmann, Rud. 350\nMassini, Rud., Commis 1618 | Eml., Apotheker 417\nMaß, R., Postoffiziant 296 | =Merian, Balthasar 434A\nF. F., Buchdrucker 1622 | =Reber, Partikular 448\nMatrmüller, G., Kutscher 248 | Gustav, Bierbrauer 619\nMatth., Kutscher 1356 | Eml., Küfer, Bierbr. 701-2\nMazinger, F. F., Commis 86 | Friedr., Bierbrauer 870\nSam., Commis 86 | Ludw., Partikular 870\nFranz, Schreiblehrer 232 | =Forkart, F. 912\nChr., Commis 861 | =Jselin, Karl, Kaufm. 938\nSch., Kaminfeger 1278 | Benedikt, Sattler 948\nF. B., Siegrift 1413 | F. F., Condukteur 989\nBernh., Commis 1423 | =Bernoulli, M., Fr. 1025\nBened., Schuhmacher 1673 | =Bernoulli, F. R., Prof. 1026\nL., Spengler *11 | =Burchhardt, Christ. 1046\nKonrad, Schuhmacher *44 | =Weiß, R., Küfer 1078-79\n=Bloch, F. F., Bater *73 | =Bischoff, Saml. 1200\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7849,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2082,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p127",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p127.jpg",
+      "bytes": 1077273,
+      "sha256": "f0ae3e42a292c32fa136465af9c39315255bc20bae8ac34001182dade956f995",
+      "sha256_of": "original",
+      "working_copy": "1850_p127.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:53+00:00"
+  }
+}

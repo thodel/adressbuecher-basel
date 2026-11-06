@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p119",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p119.jpg",
+    "bytes": 1079531,
+    "sha256": "7df816d501c138022646449cf4251db3764dee0b2526273000cde6afc832b81b",
+    "sha256_of": "original",
+    "working_copy": "1850_p119.jpg"
+  },
+  "text": "106\nGrimm, Luk. Rud. 1689 | Gysin, Joh., Weißbeck 804\nGrifanti, Dav., Weinsch. 708 | F. P., Küfer 881\nGriffard, F. G., Mechan. *273 | Konrad, Commis 842\nGroben, Jak., Glaser 1628 | F. F., Commissär 1078-79\nGrollimund, F. F., älter 9BC | Alex., Lithograph 1100\nF. F., jünger, Posam. 9D | F. G. R., Posam. 1307\nFelix, Sattler 504 | Ludw., Tuchhandlung 1612\nF. F., Ferger 817 | Heinrich, Bater 1693\nGros, Joh., Postbeamter 166 | Sam., Courtier 1693\nJoh., Fabrikausf. 1490A | Peter, Bierbrauer 1708\nWittwe, Maria 166 | Ulrich, Färber *435\nGrosmann, F. F., Maur. 432A | Wittwe, Hebamme 658\nGrübler, Elisabeth 846-47 | Gysler, Sohn, Heinr. 1084\nGrüblin, Joh. Jak. *50 | Ludw., Bandfabrik. 1610\nJoh., Weinschenk *291 | =Handmann, Wittwe 522\nGrunauer, Seb., Hdlsm. 635 | =Wierz, Wittwe, M. 1015\nGottl., Kaufmann 759 | Jgfrn. Schwestern 655\nChrist., Pfarrer 1325 | Haag, Leonh., Hufschmied 1267\nA., Seckler 1569 | =Reim, Wittwe *421\nFriedr., Commis *295 | Haagen, K. Gottfr. 1275A\nRud., Coiffeur *379 | Haarven-Kürsteiner 58\nFrau, Hebamme 635 | Haas, Karl, Küfer 482\nGrundeler, Jak. Christ. *437 | W. u. Ed., Schriftgieß. 750\nGrüninger, Eml., Trödl. 614 | =Georg, Aug., Maler 884\nRud., Küfer 618 | Stephan, Schirmfabr. 1727\nRud., Müller *303 | Schwirn, Schneider. 1602\nGschwind, Joh. Balth. 673 | Haberstock, Frz., Commis 57\nFrau, M. U., Modistin 673 | Habicht, Barbara *105\nGubler, Joh., Weinsch. 1522 | Hablüzel, Karl 1430\nGuiring, Joh. Mart. *213 | Häfelsinger, Joh. Rud. 754A\nGuise, Konstantin 561 | F. R., Sohn, Comm. 754A\nGürtler, F. F., Commis 954 | Joh. Friedr., Commis 804\nGut, Rud., Metzger 1350 | Häfelin, F., Zahnarzt 1631\nGutknecht, F. A. 1316C | Häfeling, Jakob 171\nGukwiler, C., Kunstmal. 225 | Häfser, Sch., Flachmaler 464\nIgnaz, Kunstmaler 1172 | Hagenbach, Karl 226\nGyfendörfer, Joh. Konr. 1162 | Friedr., Apotheker 596\nGysin-Garnaus, Lehrer 230 | Geigy, K. R., Prof. 691\nDaniel, Sattler 292 | =Paravicini, Peter 1451\nSam., Ladendiener 531 | =Geigy, Wittwe 754O\nEuch., Postangestellter 633 | Hägler, M., Ladendien. 356\nDaniel, Metzger 599 | Haldy, F. P. C., Lehrer 1375\nHeinr., Spezereihdlg. 705 | Haller, Viktor u. Urs 1688\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8148,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2144,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:13:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p119",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p119.jpg",
+      "bytes": 1079531,
+      "sha256": "7df816d501c138022646449cf4251db3764dee0b2526273000cde6afc832b81b",
+      "sha256_of": "original",
+      "working_copy": "1850_p119.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:48+00:00"
+  }
+}

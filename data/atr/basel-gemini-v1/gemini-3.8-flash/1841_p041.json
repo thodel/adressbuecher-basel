@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p041",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p041.jpg",
+    "bytes": 912910,
+    "sha256": "e474be202f8e5ca2574dfc7c6d48920f56837bd05ebdc503e74b110c72a64e46",
+    "sha256_of": "original",
+    "working_copy": "1841_p041.jpg"
+  },
+  "text": "34\nNro.\n895–897 * Zehnt-Scheune, der Stadt gehörend.\n898 u. 899 * Spital geh.\n  Schneider, Martin, Vater und Sohn, Lehenmann.\n900–902 Mengis, Peter, Haus, Remise und Stallung.\n903 Keßler, Peter, Zimmergeselle.\n904 Fichter, J. J., Kaufmann.\n  Frey, Heinrich, Candidat.\n905 Reinle, Joh., Zimmermann.\n  Schellenbaum, J., Adjutant.\n  Nidecker, J. J., Hafner.\n906 Zum Brunn, Heinrich, Fabrikaufseher.\n  Schaub, Joh. Georg, Mechanikus.\n907 Schwob, Hans Jakob, Brunnknecht.\n908 Wieland, Jungfer, Anna Maria.\n909 Bienz, Joh. Jakob, Kaminfeger.\n910 Lichtenhahn, J. Rud., Schreiner.\n911 * Bischoff-Kestner geh.\n  Breck, Ludwig, und Comp., Tabackhandlung.\n912 Bischoff-Kestner, J. J., Tabackfabrikant.\n  Merian-Forkart, J., Oberst.\n  Merian, Jungfer, Fanny.\n913 Kiburt, Bernh. Dietr., Kaufmann.\n914 Gnöpfk, Achilles, Schmid und Thierarzt.\n915 u. 916 Wieland-Rottmann, Carl.\n917 * Bernoulli-Huber, Leonhard.\n918 * Wielandt, Hieronymus, alt Dreierherr.\n  Forkart-Gentschik, Rud.\n  Koch, Joh. Franz, Gärtner.\n919 Wielandt, Hieronymus, alt Dreierherr.\n  Alioth, J. Siegm., Kaufmann.\n920 Jung, Carl Gustav, Med. Dr. und Professor.\n921 Hübscher, Emanuel, Stadtrath.\n922 Allemann, Urs Jos., Zimmergeselle, aus dem K. Solothurn.\n923 Scheune, zum goldenen Löwen geh.\n924 Eingang zu Nro. 939.\n925 Friedrich, Rud., Maurer und Steinmetz.\n926 * St. Elisabethen-Kirche.\n927 Wölfflin, Rud. Claudius, Kaufmann.\n928 Burckhardt-Von der Mühll, Hieron., Partikular.\n929 Burckhardt, Frau Rosina.\n930 Thommen, J. J., Küfer.\n931–933 Burckhardt-Ryhiner, J. J., Dr. Juris u. Appellationsrichter.\n  Ryhiner-Schönauer, Kaufmann.\n\nSteinenberg.\n\n934 Weibel-Meyer, Rud., Handels-Commis.\n  Ostertag, A., Candidat der Theologie.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8450,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1685,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p041",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p041.jpg",
+      "bytes": 912910,
+      "sha256": "e474be202f8e5ca2574dfc7c6d48920f56837bd05ebdc503e74b110c72a64e46",
+      "sha256_of": "original",
+      "working_copy": "1841_p041.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:44+00:00"
+  }
+}

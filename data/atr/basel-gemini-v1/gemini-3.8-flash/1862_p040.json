@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p040",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p040.jpg",
+    "bytes": 1379713,
+    "sha256": "3a68d832a4c2f9fa31aa5ebe0543afc631674fc90888011ce88517a199c9ab46",
+    "sha256_of": "original",
+    "working_copy": "1862_p040.jpg"
+  },
+  "text": "Verzeichniß\n\nder im\n\nRagionenbuche\n\neingeschriebenen Handlungsfirmen.\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nAlbäck, J. H. | Jacob Heinrich Albäck, allein. | Quincaillerie.\nAlbrecht-Dietschy. | Johann Conr. Albrecht Speiser. | Colonialwaarenhandlg.\n  Joh. Conr. Albrecht, Sohn.\nAllenspach-Rudin, Jm. | Joachim Allenspach-Rudin, allein. | Käse- u. Spezereihdlg.\nAmans, H. u. C. | Heinrich Amans. | Seidenhandlung.\n  Constant Amans.\nAmberger, H. | H. Amberger-Schlosser, allein. | Buchhandlung.\nArles Dufour et Comp. | Gustav Arles. | Rohe Seide.\n  Alphonse Arles.\n  F. Maurice Chabrière.\n  Fr. Arles, als Commanditaire.\n  Hugo Herzer, als Prokuraträger.\nArtmann, Jul. Agent. | J. Artmann, allein. | Agent. f. Colonialwaaren.\nBachofen u. Sohn, J. J. | Carl Bachofen-Burckhardt. | Bandfabrik.\n  Wilh. Bachofen-Vischer.\nBahnmeier's Buch- | Carl Detloff, allein. | Buchhandlung.\n  handlung.\nBallif, S. L. | Serge Louis Ballif, allein. | Buchhändler.\n  Joh. Huber, Interessent.\nBalmer u. Riehm. | Dr. J. J. Balmer. | Buchdruckerei und Ver-\n  Ferd. Riehm. | lagsbuchhandlung.\nBank in Basel, mit | Ed. Früh, Bankdirector. | Actien - Gesellschaft mit\n  einem Actienkapital | Joh. Rud. Schilling, Bankcassier. | einem Kapital von 4\n  von 4 Million. Frkn. | Wilh. Burckhardt-For- | Millionen Franken.\n  cart, Präsident.\n  D. Heusler-Thurneysen.\n  Carl Vonder Mühll-Me-\n  rian.\n  Carl Bachofen-Burck-\n  hardt.\nBarbe, J. | J. Barbe, allein. | Auswanderung.\n  Friedr. Burckhardt, Procuraträger.\nBauer, F. et Comp. | Friedrich Bauer. | Agentur - Commissions-\n  Heinrich Bastady-Hörler. | geschäft.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9460,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1615,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:30:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p040",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p040.jpg",
+      "bytes": 1379713,
+      "sha256": "3a68d832a4c2f9fa31aa5ebe0543afc631674fc90888011ce88517a199c9ab46",
+      "sha256_of": "original",
+      "working_copy": "1862_p040.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:15+00:00"
+  }
+}

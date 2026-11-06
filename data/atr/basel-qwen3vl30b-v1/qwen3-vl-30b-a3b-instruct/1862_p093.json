@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p093",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p093.jpg",
+    "bytes": 1280549,
+    "sha256": "481fd0bcb620b44c063854c424697f977dd10e75d528b9fc3a8237c41e62ebbc",
+    "sha256_of": "original",
+    "working_copy": "1862_p093.jpg"
+  },
+  "text": "28 Binninger-Straße. — Birfigstraße. — Blumenrain.\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n5 III. 193 ………… Paravicini-Merian, Ludwig.\n7 III. 193 a ………… Paravicini-Merian, Ludwig.\n12 III. 191 alte Gasfabrik. Stadtgemeinde.\nWilli-Herzog, Urs Eusebius, Abwart\nim Laboratorium d. obrigkeitl. Chemik.\n13 III. 193 d ………… Paravicini-Merian, Ludwig.\nBriinger-Kratt, Friedrich, Schreiner.\n15 III. 192 D ………… Wetter-Graf, Johannes.\nWetter-Graf, Johannes, Wirth.\n17 III. 192 C ………… Glaz, Peter fel. Erben.\nGlaz-Gyfin, Wb. Elisabeth, Part.\nGlaz-Hug, Wilhelm. Lehrer.\nGlaz, Caspar, Particular.\n19 III. 192 B ………… Glaz, Peter fel. Erben.\n21 III. 192 A ………… Glaz, Peter fel. Erben.\nBaarsuk-Lüscher, Johannes, Schreiner.\nMollinet-Glaz, Wilh., Fassinn.u.Seiler.\nGlaz, Peter fel. Erben.\nGlaz-Zeller, Jacob, Gärtner.\n23 III. 192 ………… Glaz, Peter fel. Erben.\nBirfigstraße.\n7 III. ………… Harder, Arnold.\nHarder, Arnold, Mechaniker.\nHarder-DeBarn, Wb. Urjula.\n10 III. ………… Bürgy, Heinrich, Seifenfieder.\n15 III. 182 ………… Weitnauer-Bieler, Friedrich.\nWeitnauer-Bieler, Fr., Schreiner und\nFarbholzmüller.\nMüller-Hug, Joh. Jak. Fr., Holzmüller.\nSpengler-Frey, Heinr., Bittualienhdg.\nMäglin-Paravicini, Fr. Rud., Commis.\n26 III. 159 A z. neuen Gießerei. Burchardt-Ecklin, Franz, Mechan.\nKopp-Wullich, Barthol., Gießermester.\nAcker-Abt, Carl, Schreiner.\nBlumenrain.\n1 I. 121 z.a.Blumenschmidte Roth-Weiß, Heinrich.\nRoth-Weiß, Heinrich, Metzger.\nStihl-Martin, Friedrich, Commis.\nFlud, Joh., Roßgeber.\n2 I. 123 ………… Ott-Sutter, Heinrich.\nOtt-Sutter, Heinrich, Coiffeur.\n3 I. 120 z. goldenen Laute. Schönauer, Hieronimus.\nSchönauer, Hieronimus, Spezereihdlg.\n4 VI. in 115 ………… Staat.\n5 I. 119 ………… Durchgang zum Rhein in Kro. 8 neu.\nRyhiner-Schönauer, Andreas.\nRyhiner-Schönauer, Andreas, Rentier.\n7 I. 118 zum Kriebbaum. Hasler-vonMechel, Gottlieb.\nHasler-vonMechel, Lithograph, Kunst-\nund Antiquitätenhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6452,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1936,
+    "lines": 60,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0167,
+    "mean_line_chars": 31.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:32:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p093",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p093.jpg",
+      "bytes": 1280549,
+      "sha256": "481fd0bcb620b44c063854c424697f977dd10e75d528b9fc3a8237c41e62ebbc",
+      "sha256_of": "original",
+      "working_copy": "1862_p093.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:17+00:00"
+  }
+}

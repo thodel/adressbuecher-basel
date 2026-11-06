@@ -1,0 +1,59 @@
+Neue
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauzeigenthümer
+und Bewohner.
+9 V. 1480 Lehrerwohnung. Staat.
+Meyer-Lichtenhan, Rem., Dr., Lehrer.
+Sarasin-Merian, Wb. Jul., f. Erb.
+Merian-Sarasin, Wilh., Landökonom.
+Raillard, Emma, Jgfr., Erzieherin.
+11 V. 1479 Lehrerwohnung. Staat.
+Meyer-Kraus, Heinrich, V. D. M. Lehrer
+13 V. 1478 Lehrerwohnung. Staat.
+Burckhardt-Piguet, Theophil, Lehrer.
+Burckhardt-Bernoulli, Charlotte.
+Burckhardt-Bernoulli, Charl. Wb., Rent.
+15 V. 1477 Burckhardt-Keller, J. Rud.
+17 V. 1476 Burckhardt-Keller, J. K., App.-Ger.-Präf.
+19 V. 1475 Auguſtinerhof. His-Laroche, Eduard.
+Miescher-His, Friedr. Eduard, Dr. u. Prof.
+His-Bischof, Wilh., Dr. und Prof.
+21 V. 1474
+Auſtrase.
+24 II. 166 A Geßler-Wierz, Daniel.
+Schneider, Geschw. Jul. u. Paul., Part.
+Lutz-Hagnauer, Johann, Commis.
+26 II. 166 B Geßler-Wierz, Daniel.
+Pfander-Carle, Wb. Margaretha, Part.
+Pfander-Kaltenbach, Jacob, Part.
+Schmidt, Johann Ulrich, Agent.
+28 II. 166 D Geßler-Wierz, Daniel.
+Geßler-Wierz, Daniel, Part.
+30 II. 166 Widmann-Schweighauser, Heinrich.
+Widmann-Schweighauser, Heinr., Lehrer.
+Girard-Baretta, Friedrich, Centralbahn-
+Beamter:
+32 II. 166 E Wißt-Hügin, Leonhard.
+Wißt-Hügin, Leonhard, Schreiner.
+Wagner, J. C., Chef d. Contr. d. Centralb.
+Delhasen, Samuel, Mechaniker.
+Abt, Albert, Postbeamter.
+47 II. 168 Stäubli-Scholl, Bernhard.
+Stäubli-Scholl, Bernhard, Gärtner.
+48 II. 169 B Boillat-Stihl, Cölestin.
+Boillat-Stihl, Cölestin, Schreiner.
+Grob-Stengelen, Jakob, Cassier.
+50 II. 169 Bischoff-Buxtorf, Wb. Adele.
+Rickenbach, Jakob, Lehrenbeständer.
+71 II. 137
+Bachlettenstraße.
+10 III. Pulvermagazin. Staat.
+11 III. 180 Bürgin, Heinrich.
+Schneider-Studer, Benedict, Ziegler.
+Engler-Preisentanz, Heinrich.
+15 III. 181 Engler-Preisentanz, Heinrich, Ziegler.

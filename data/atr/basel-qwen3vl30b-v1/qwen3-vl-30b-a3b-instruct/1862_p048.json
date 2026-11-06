@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p048",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p048.jpg",
+    "bytes": 1498123,
+    "sha256": "40c7b5ce87404dfb8c14b411f9452f2032470fb656ed42c846d0baf3aa7cddea",
+    "sha256_of": "original",
+    "working_copy": "1862_p048.jpg"
+  },
+  "text": "Ragionenbuch.\nXLV\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nHugo, Gebrüder. | Ferd. Diehl, allein. | Tabakfabrik.\n| C. W. Zuber, Prokuraträger. | Musikalienhandlung.\n| A. Hunold-Roth, allein. | Spezereihandlung.\nHunold, A. | J. J. Jenny, allein. | Eisen- u. Quincailerie-\nJenny, J. J. Sohn. | Daniel Jenny. | handlung.\nJenny u. Böcklin. | Friedr. Böcklin, Sohn. | Spedition.\n| L. DeWette-Jersing, allein. |\nJersing, F., Sohn. | Dietr. Wölfflin, Prokuraträger. |\nImhof, Melchior, u. | Joh. Jac. Imhof-Forcart, allein. | Leder- u. Häutehandlung\nSöhne. | Friedr. Dippel, Prokuraträger. | en gros. Gerberei.\nImhof-Wenk. | Hier. Imhof-Falkner, allein. |\nImhof-Mieg. | Markus Kohner-Imhof, allein. | Weinhandlung.\nJordan, Charles D. | Ch. D. Jordan-Mannonviller, | Cigarren- u. Tabakhdlg.\n| allein. | en gros et détail.\n| | Agentur u. Commission.\n| | Baumwollspinnerei und\n| | Weberei im Wiefenthal.\n| | Tuchhandlung.\nJselin et Comp. | Isaak Jselin-Burckhardt. |\n| J. Jselin-Bischoff. |\n| Rud. Merian, Commanditair. |\nJselin, Gebrüder. | Joh. Lucas Jselin-Forcart. | Bankgeschäft.\n| Rud. Jselin-Christ. |\n| Wilh. Jselin. |\n| G. Nidecker, Prokuraträger. |\nJselin u. Stähelin. | Ludw. Jselin-LaRoche. | Bankgeschäft.\n| Carl Stähelin-Bucknor. |\nJselin, J. J. u. R. | J. J. Jselin-LaRoche. |\n| Rud. Jselin-DeBary. |\nKaufmann u. Lüscher. | Rud. Kaufmann-Neukirch. | Baumwollen-Agentur u.\n| Carl Lüscher-Stapfer. | Bankgeschäft.\nKaufmann-Burckhardt. | Kaufmann-Burckhardt, allein. | Wein- u. Spirituosenge-\n| | schäft.\nKeller u. Hoenes. | Carl Keller. | Colonialwaaren en gros\n| August Hoenes. | Commission u. Spedition.\nKern u. Sohn. | Elias Kern de Croufaz. | Seidenbandfabrikation.\n| Friedr. Kern-Bischoff.\n| Aug. Kern-Ryhiner.\n| Ed. Kern-Werthemann.\nKiefer, Georg. | Georg Kiefer. | Quincaileriehandlung.\nKiefer, J. H. | Vincenz v. Salis-Kern. |\n| J. H. Kiefer, allein. | Commission f. d. Ankauf\n| | v. Bändern.\nKirch, J. C. | Wb. Ch. Marg. Kirch, geb. Lin- | Agenturen.\n| denmeyer, allein. |\n| Arnold Kirch, Prokuraträger. |\nKlaiber et Comp. | Ludw. Klaiber-Dettinger, allein. | Commiff., Landesprodukt.\n| | u. Weingeist en gros.\nKnobel u. König, | J. J. Knobel. | Bandfabrikation, uni et\n| Maurice König. | façonnée.\nKöchlin u. Söhne. | Alphons Köchlin-Geigy. | Seidenbandfabrikation.\n| Ed. Köchlin. |\n| Eugen Köchlin-Burckhardt. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7593,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2354,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:23:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p048",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p048.jpg",
+      "bytes": 1498123,
+      "sha256": "40c7b5ce87404dfb8c14b411f9452f2032470fb656ed42c846d0baf3aa7cddea",
+      "sha256_of": "original",
+      "working_copy": "1862_p048.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:32+00:00"
+  }
+}

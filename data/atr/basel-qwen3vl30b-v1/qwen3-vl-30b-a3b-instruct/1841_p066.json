@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p066",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p066.jpg",
+    "bytes": 953286,
+    "sha256": "89e6b1ef4f71f7086d6b1e9a525235529cd4bbe184f2ae3a7a336cf1d4ef2a2c",
+    "sha256_of": "original",
+    "working_copy": "1841_p066.jpg"
+  },
+  "text": "59\nNro.\nMarkt.\n1666 u. } Schmid-Billinger, Christoph, Meßger.\n1666 a } Bohny, Ambrosius, Handelsmann.\nMärklin, Peter Eucharius, Commis.\n1667 Fäsch-Dünner, Joh. Jakob, Handelsmann.\nHutgasse.\n1668 Fischer-Werdenberg, Niklaus, Ausschnitthandel u. Geldwechsel.\n1669 * Bischer, Wilh., Rathsherr, geh.\nBienz, Frau Maria Magd., geb. König.\n1670 Petri, Emanuel, Schuhmacher.\n1671 * Baur, Johannes, Gerber, geh.\n1672 Zucker, Ulrich, Handelsmann.\n1673 Präcker, Wittwe, geb. Marg. Steidinger, Zenghandlung.\n1674 Braunschweig, Raphtali, Handelsjude.\n1675 Fäsch-Mieg, Joh. Rud., Weinhandlung.\n1676 Fäsch, Heinrich Ludw., Pastetenbäcker und Kaffeewirth.\n1677 Gesler, Daniel, Hutmacher.\n1678 Piccard, Raphael Moses, Handelsjude.\nHinter der Münz.\n1679 Hekel, Georg Friedrich, Mechanikus.\n1680 * Brandmüller-Eckenstein, Heinrich, geh.\nSoder, Joseph, von Möhlin, Hausknecht.\nRuttelgäßlein.\n1681 * Hekel, Georg Friedrich, Mechanikus, geh.\nStohler, Bernh., von Zysen.\n1682 Frey, Salomon, von Hoffetten, Kant. Zürich.\n1683 Krayer, Christian, von Enmendingen, Fabrikarbeiter.\n1684 * Ruttelhaus. Lok, Johannes, Meßger und Ruttler.\n1685 Mangold, Christian, von Lupsingen, Fabrikarbeiter.\n1686 * Scheidecker, Joh. Georg, von Mühlhausen, geh.\nThurnherr, Philipp, Aufwärter.\nHinter der Kümliusmühle.\n1687 * Zunft zu Schmieden.\nRumpf, Wittwe, geb. Suf. Wülf, Stubenverwalterin.\n1688 Haller, Victor, Küfer.\nFeuerstein-Jaillet, Handels-Commis.\n1689 Ludin, Wittwe, geb. Escher Brodbeck.\nGrünpfahlgäßlein.\n1690\n1691 } Holzach, Bernh. sel., Wittwe, geb. Schölli, Spezereihandlung.\n1692 }",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4879,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1554,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p066",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p066.jpg",
+      "bytes": 953286,
+      "sha256": "89e6b1ef4f71f7086d6b1e9a525235529cd4bbe184f2ae3a7a336cf1d4ef2a2c",
+      "sha256_of": "original",
+      "working_copy": "1841_p066.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:49+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p130",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p130.jpg",
+    "bytes": 1069783,
+    "sha256": "8be7f93c922d6508442df4b5550347b1778808d1317dd79688490e92108fdd61",
+    "sha256_of": "original",
+    "working_copy": "1841_p130.jpg"
+  },
+  "text": "47\n\nVischer-Legrand, Anna Maria, Wittwe. 1199 Am Bäumlein.\nVogel, Franz Martin, Schneider. 1068 Beim Aeschen-Schwibbogen.\nVogt, Joh. Georg, Handelsmann. 1575 Markt.\nVogt, Joh., Grabmacher. 197 Unterer Herbergberg.\nVogt, Wittwe, geb. A. Barb. Burckhardt, von Lauwil. 1695_a\n  Schnabelgäßlein.\nVogt, Jungfer, Susanna Salomea, Schneiderin. 663 Gerbergasse.\nVogt, Jos., Kutscher bei Hrn. Merian-Forkart. 887 Klosterberg.\nVollenweider, Joh. Rud., Porträtmaler. 587 St. Andreasplatz.\nVollenweider, Joh. Heinrich, Schriftsetzer. 402 Heuberg.\nVöllmy, J. J., Fabrikarbeiter. 786 Vordere Steinen-Vorstadt.\nVöllmy, Jakob sel., Wittwe. 1223 St. Alban-Vorstadt.\nVon Arx, Johannes, Wirth. 678 Hinteres Gerbergäßlein.\nVon Brunn, Nikol., Pfarrer. 1499 St. Martin.\nVon Brunn, Simon, Schreiner. 184 Unterer Herbergberg.\nVon der Mühll, Jungfer, Valeria. 442 Spießhofgasse.\nVon der Mühll = Hoffmann, Leonhard. 1230 St. Alban-Vorstadt.\nVon der Mühll = Burckhardt, Georg. 1345 St. Alban-Vorstadt.\nVon der Mühll = Merian, Carl Georg. 1225 St. Alban-Vorstadt.\nVon der Mühll = Bischoff, Emanuel, Kaufmann. 548 Adelberg.\nVon der Mühll = Keller, Joh. Georg, Seidenwaarenhandlung. 1553\n  Bei der Brodlaube.\nVonkilch, Leonhard Georg, Metzger. 629 Gerbergäßlein.\nVonkilch, Joh., Weißbeck. 8 St. Johann-Vorstadt.\nVonkilch, Peter, Partikular. 784 Vordere Steinen-Vorstadt.\nVon Speyr, Emil, Wundarzt. 1077 Am Bäumlein.\nVon Speyr, J. Heinrich. (Alterthümer-Kabinet.) 415 Heuberg.\nVon Speyr, Sus., geb. Bernoulli, Wittwe. 1422 Freie Straße.\nVon Speyr, Carl, Dr., Notar. 1422 Freie Straße.\nVon Speyr, Johannes, Handelsmann. 1422 Freie Straße.\nVon Speyr, Theodor, alt Rathsherr. 1188 Freie Straße.\nVon Speyr und Gysin, Kaufleute. 758 Kohliberg.\nVon Speyr = Ryhiner, Eduard. 1043 Aeschen-Vorstadt.\nVon Speyr = Fischer, J. Heinrich. 1194 Am Bäumlein.\nVuilleumier, Samson, franz. Pfarrer. 507 Adelberg.\n\nW.\n\nWackernagel, Wilhelm, Professor der Philosophie. 259 a Neue\n  Vorstadt.\nWäffler, Jakob, Feilenhauer. 1075 Tiefe.\nWäffler, Sam., Posamentier, nebst Waarenhandlung. 652 Gerbergasse.\nWagner, Elisabetha, Lehrerin an der Petersschule. 240 Kirchgäßlein.\nWagner, Friedrich, Taglöhner. 876 Thorsteinen.\nWagner, Conrad, Postoffiziant. 174 Brunngäßlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8740,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2211,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p130",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p130.jpg",
+      "bytes": 1069783,
+      "sha256": "8be7f93c922d6508442df4b5550347b1778808d1317dd79688490e92108fdd61",
+      "sha256_of": "original",
+      "working_copy": "1841_p130.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:00+00:00"
+  }
+}

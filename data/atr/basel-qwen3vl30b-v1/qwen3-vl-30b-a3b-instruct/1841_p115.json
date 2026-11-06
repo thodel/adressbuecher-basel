@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p115",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p115.jpg",
+    "bytes": 939610,
+    "sha256": "bb141bd027842c49f4dbfdc96091dd805b1d296d762283d50c783fb367101950",
+    "sha256_of": "original",
+    "working_copy": "1841_p115.jpg"
+  },
+  "text": "32\nMüller=Weitnauer, J. J., Kaufmann. 797 Bord. Steinen=Vorst.\nMüller=Haufer, J. J., Seidenfärbcr. 61 St. Joh.=Vorstadt.\nMüller=Linder, Rud., Müller. 1305 St. Alban=Thal.\nMüller=Sutter, Jos., Gasthof zu Drei=Königen. 115 Blumenrain.\nMüller=Jfelin, Georg Rud., Partikular. 289 Spahlen=Vorstadt.\nMünch, Heinrich, Schloffer. 202 Unt. Herbergberg.\nMuff, Dorothea, geb. Suter. 89 St. Johann=Vorstadt.\nMunzinger, Jakob Friedrich, Tuchhändler. 153 Fischmarkt.\nMunzinger, Lucas Dietrich, Briefträger. 1741 Hinter der School.\nMunzinger, Benedikt, Feuerwerker. 1624 Untere Freienstraße.\n\nN.\nNägelin, Joh. Andr., Schuhmacher. 1748 Sattelgasse.\nNeufkirch, Joh. Georg, Buchdruckerei und Buchhandlung. 1524\nFischmarkt.\nNeuschwander, J. J., Spannermeister. 407 Heuberg.\nNidecker, J. J., Hafner. 905 St. Elisabethen.\nNidecker, Carl, Weißbeck. 1235 St. Alban=Vorstadt.\nNidecker, Mathias, Handels=Commis. 1324 St. Alban=Vorstadt.\nNidecker=Linder, Joh. 1274 St. Alban=Thorgasse.\nNeustück, geb. Bloch, Wittwe. 723 Hinter dem Stöcklein.\nNeustück, Heinrich, Bildhauer. 723 Hinter dem Stöcklein.\nNeustück, Jakob, Kunstmaler. 723 Hinter dem Stöcklein.\nNörbel, Joh., Direktor der Strafanstalt. 577 Schneidergasse.\nNörbel, Hieronymus, Sohn, Küfer. 664 Gerbergasse.\nNörbel-Gernler, Waarenhandlung. 1158 Gerbergasse.\nNöklín, Joh. Ulrich, Weinhändler. 489 Oberer Spahlenberg.\nNusser, J. M., Profeftor. 559 St. Peterstiftsgasse.\n\nO.\nOberlin, Anna Maria. 66 St. Johann=Vorstadt.\nObermeyer, Johannes. 1621 Untere Freienstraße.\nObermeyer, Elis., Wittwe, geb. Bernoulli. 1169 Freie Straße.\nObermeyer, Burkhardt. 1640 Untere Freienstraße.\nObermeyer=Albrecht, Joh. B. sel., Wittwe, Apotheke. 1169 Freie\nStraße.\nOberriedt, Joh. Georg, Spezereihändler. 623 Grün Pfahlgäflein.\nOberst, Sebastian, Zimmermann am Lohnamt. 738 Barfüsserplaz.\nObrecht, Joh., Kammnachcr. 544 u. 545 Imbergäflein.\nObrecht, Joh. Emanuel, Kammnachcr. 592 Schneidergasse.\nObrecht, Joh. Jakob, Fcrgcr. 1757 Schneidergasse.\nOchs, Anna Elisabetha. 245 u. 246 Kaltkellergäflein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6541,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2008,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:56:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p115",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p115.jpg",
+      "bytes": 939610,
+      "sha256": "bb141bd027842c49f4dbfdc96091dd805b1d296d762283d50c783fb367101950",
+      "sha256_of": "original",
+      "working_copy": "1841_p115.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:20+00:00"
+  }
+}

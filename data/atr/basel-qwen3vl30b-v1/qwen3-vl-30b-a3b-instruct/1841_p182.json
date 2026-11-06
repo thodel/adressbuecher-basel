@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p182",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p182.jpg",
+    "bytes": 1077929,
+    "sha256": "16042609f1a9d9a7b6421109d6a0eb2539c837e11a28b6f0ed7674c5d0241ae9",
+    "sha256_of": "original",
+    "working_copy": "1841_p182.jpg"
+  },
+  "text": "— 29 —\n\nGorgé, Anna, geb. Häßler, Wittwe, von Monible, Gutsbesitzerin. 108 Burgfelderstraße. U. B.\nGrieder, Jakob, von Binningen, Kaufhausarbeiter. 218 Nauengäcklein. O. B.\nGrillo, Lukas, Küfer und Gutsbesitzer. 23 Klingelberg. U. B.\nGrifanti, David, Mechanikus und Wirthschaft. 239 A. Mittleres Gundeldingen. O. B.\nGroskman, Jakob, Maurer am Lohnamt. 314 Weidengäcklein. O. B.\nGürtler, Joseph, v. Alschwil, Lehrenmann. 76 Burgfelderstraße. U. B.\nGulde, Joseph, von Dettingen, Hardtförster. 338 Bei der Birsbrücke.\nGysin, Elisabeth, geb. Degen, Wittwe, von Hölstein, Gutsbesitzerin. 303 Herdsträcklein. O. B.\n\nH.\nHabegger, Verena, geb. Brunner, Wittwe von Trub, Lehrenfrau. 177 Neubadstraße. U. B.\nHägler, Jakob, von Langenbruck, Lehrenmann. 233 Münchensteinerstraße. O. B.\nHämmerlin, Michael, von Hagenthal, Gärtner. 222 St. Jakobstraße. O. B.\nHäner, Johannes, von Hölstein, Lehrenmann. 243 Bei Gundeldingen. O. B.\nHänger, Heinrich, von Langenbruck. 68 Davidsboden. U. B.\nHagmann, Johannes, v. Sevelen, Taglöhner. 161 Lohstampsberg U. B.\nHartmann, Konrad, von Oberneuforn, Lehrenmann. 31 Klingelberg. U. B.\nHartmann, Sam., Kaufhausarbeiter. 239 Mittleres Gundeldingen. O. B.\nHartmann, Joh., Wittwer. 239 a. Mittl. Gundeldingen. O. B.\nHartmann, Jakob, von Prattelen, Gutsbesitzer. 241 Mittl. Gundeldingen. O. B.\nHausmann, Konrad, von Reudern, Maurer. 303 Herdsträcklein. U. B.\nHedendorf, Joh. Martin, Joh. Jakob und Barbara, von Langenbruck. 241 Mittl. Gundeldingen. O. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4752,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1472,
+    "lines": 22,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 65.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p182",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p182.jpg",
+      "bytes": 1077929,
+      "sha256": "16042609f1a9d9a7b6421109d6a0eb2539c837e11a28b6f0ed7674c5d0241ae9",
+      "sha256_of": "original",
+      "working_copy": "1841_p182.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:13+00:00"
+  }
+}

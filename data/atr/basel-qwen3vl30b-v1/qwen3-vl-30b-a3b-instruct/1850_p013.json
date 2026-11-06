@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p013",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p013.jpg",
+    "bytes": 1167320,
+    "sha256": "502ac3f1fc2fe873198b5fa5331be6b5c20c36455012b648ed51767303ec518f",
+    "sha256_of": "original",
+    "working_copy": "1850_p013.jpg"
+  },
+  "text": "St. Johann = Quartier. 3\n49 Fabrikgebäude.\n50 Dietzsch=Lichtenhahn, Jakob, Bandfabrikant.\nLichtenhahn, Rud., Kaufmann.\n51 Preiswerk=Bischoff, Wilh., Handelsmann.\n52 Straubhardt, Joseph, Hausknecht.\n53 Burckhardt=Preiswerk, Wilhelm, Bandfabrikant,\nErlacher, Joh., Commis.\nA 53 Stall und Remise.\n54 Brand, Jaaß, Alt=Gerichtsherr.\n55 Würz, Karl August, Nädler.\n56 Jenni, Friedrich, Dessinateur.\n57 Haberstock, Franz, Commis.\n58 Borderhaus unbewohnt. Hinterhaus: Haarvey-Kür-\nsteiner, Partikular.\n59 Lok=Wick, Samuel, Spezerei=Handlung.\nLangmesser=Paravicini, David, Kaufmann.\nA 59 Remise.\n60 Basler-Bernoulli, Joh., Stadtrath.\n61 Müller-Hauser, F. F., Seidenfärbcr.\n62 Riggenbach, F. F., Weißbeck.\nRiggenbach, F. F., Postofficiant.\n63 Preiswerk, Gebr., Niklaus und Peter, Rentierö.\nA 63 Magazin.\nA 64 Preiswerk=Keller, D., Kaufmann.\nKeller, Jungfrau, Wilhemine, Rentière.\nB 64 Ryhiner=Bischoff, Sam., Rentier.\nKern=Ryhiner, August, Bandfabrikant.\n65 Magazin.\n66 Oberlin, Jungfrau, Susanna, Näherin.\n67 Burckhardt=Gysin, F. L., Wittwe, Rentière.\nBurckhardt, L. A., Dr. J., Kriminalgerichts=Präsid.\nZimmerlin=Preiswerk, Catharine, Wittwe, Rentière.\n68 Schmidt, Peter, Weinficher und Quartierschreiber.\n69 Scholp, Rud., Handlungs-Commis.\n70 Zselin=Debary, Rud., Handelsmann.\n71 Zselin=LaRoche, F. F., Handelsmann.\n72 Roth, Bernhard, Schuhmacher.\n73 Hindenlang=Roth, Fb., Weinschenk und Seiler.\n74 Lacher, Joseph, Kunstmaler.\nBirmann, Helene, geb. Meyer, Wittwe, Rentière.\nHasler, Geb., Feger.\n75 Meyer-François, F. F., Kaufmann.\n76 Schaubek, Samuel, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4819,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1556,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p013",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p013.jpg",
+      "bytes": 1167320,
+      "sha256": "502ac3f1fc2fe873198b5fa5331be6b5c20c36455012b648ed51767303ec518f",
+      "sha256_of": "original",
+      "working_copy": "1850_p013.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:30+00:00"
+  }
+}

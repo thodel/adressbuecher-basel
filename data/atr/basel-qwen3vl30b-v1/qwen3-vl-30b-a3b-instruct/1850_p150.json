@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p150",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p150.jpg",
+    "bytes": 1038472,
+    "sha256": "402eeb96c9429bc7c03b64f801b6b714c6634db186ecef12ab21aaa251a5bf8c",
+    "sha256_of": "original",
+    "working_copy": "1850_p150.jpg"
+  },
+  "text": "137\nL.\n416 Langmeffer jünger Joh. Ulrich Nötzlin.\n552 Emanuel LaRoche . German LaRoche.\nSalomon Sauvin, Procuraträger.\n553 Eml. LaRoche, Sohn . Emanuel LaRoche, Sohn.\nRudolf Merian-Frischmann.\n520 Benedikt LaRoche . Benedikt LaRoche-Stehelin.\nCarl Gustav LaRoche-Merian.\n228 Nicolaus LeGrand . Adolph LeGrand.\n1596 Og. u. Bal. Lerch . Valentin Lerch.\nJoh. Peter Lerch, ppa.\n1146 Langmeffer & David Langmeffer.\nSchellenberg Joh. Christian Ludwig\nSchellenberg.\n113 Leucht & Cie. . Carl Friedrich Leucht.\nJoh. Jakob Hindenlang-Hübscher.\n609 A. Levy . Abraham Levy.\n751 F. R. Lichtenhan . Wittwe Lichtenhan, geb. Kirchberger.\nJoh. Rudolf Lichtenhan, Sohn.\nFriedr. Wilh. De Goumois.\n149 Joh. Linder älter . Jakob Ludwig Linder.\n556 Joh. Jak. Linder . Joh. Jakob Linder.\n390 Achilles Lok, Vater . Achilles Strübin.\n516 Andreas Ludwig . Andreas Ludwig.\n1534 Wittwe Lok-Jäslin . Eduard Lok.\n1174 Joh. Jb. Lüssi . F. F. Lüssi.\nJoh. Schmid-Awengen.\n404 Joh. Jb. Lückelmann . Joh. Jb. Lückelmann.\nM.\n335 Madeux & Wohlich\nJoh. Baptist Madeux.\nFranz Wohlich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3536,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1045,
+    "lines": 33,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p150",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p150.jpg",
+      "bytes": 1038472,
+      "sha256": "402eeb96c9429bc7c03b64f801b6b714c6634db186ecef12ab21aaa251a5bf8c",
+      "sha256_of": "original",
+      "working_copy": "1850_p150.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:13+00:00"
+  }
+}

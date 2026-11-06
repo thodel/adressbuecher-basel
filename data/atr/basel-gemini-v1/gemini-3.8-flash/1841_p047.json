@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p047",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p047.jpg",
+    "bytes": 868359,
+    "sha256": "bebcfc414895a49ae6fe4c33c94a4be72803f72b11c39726eb24ee054871f096",
+    "sha256_of": "original",
+    "working_copy": "1841_p047.jpg"
+  },
+  "text": "40\n\nNro.\n1092 * Stähelin, P. sel., Wittwe.\n  Merian, Wittwe, geb. Anna Cath. Bischoff.\n1093 * Meyer, Joh., und Sohn.\n\nBarfüßerplatz.\n\n1094 Meyer, Joh. sel., Wittwe, geb. Merian. Englische, franzö-\n  sische und schweizerische Manufakturwaaren-Handlung\n  en gros et en détail.\n1095 * Stähelin, P. sel., Wittwe.\n  Stähelin, Benedikt sel., Wittwe, geb. Merian.\n1096 Barfüßerkirche.\n1097 Salzmagazin.\n\nStreitgasse.\n\n1098 Frey, Joh. Jakob, Weinsticher.\n1099 Mager, Charlotte, Jungfer, Seilerwaaren.\n1100 Schmidlin, Anton, Sattler.\n1101 Schaub, Joh. Jakob, Handschuhmacher.\n1102 Roth, Joh. Peter, Glaser.\n1103 Schwarz, Friedrich, Buchbinder.\n1104 Bulacher, Niklaus, Metzger.\n  Eckenstein, J., Professor.\n1105 * Stähelin, P. sel., Wittwe.\n1106 Spreyermann, Elias sel., Wittwe.\n\nWeiße Gasse.\n\n1107 Hindermann, J. Jakob.\n  Firma: Bleiler, Jakob, Spezereihandlung.\n1108 * Hindermann, Joh. Jakob.\n1109 Leuthard, Peter, Schuhmacher.\n\nRinggäßlein.\n\n1110 Hinterhaus von Nro. 1106.\n1111 Versammlungshaus, der Brüdergemeinde geh.\n\nWeiße Gasse.\n\n1112 * Linder, Emanuel, Indiennefabrikant.\n  Bellwitz, Carl Friedrich, Lehrer.\n1113 Bloch, G., Wittwe.\n1114 Spreyermann, Georg, Schneider.\n1115 Die neue School.\n1116 Schlachthaus.\n1117 Hindermann, Eman., Lithograph sel., Wittwe.\n1118 Tschopp, Joh. Jakob, Fabrikarbeiter.\n1119 Stallung zu Nro. 1178.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6107,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1326,
+    "lines": 42,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 30.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.003,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:47:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p047",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p047.jpg",
+      "bytes": 868359,
+      "sha256": "bebcfc414895a49ae6fe4c33c94a4be72803f72b11c39726eb24ee054871f096",
+      "sha256_of": "original",
+      "working_copy": "1841_p047.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:24+00:00"
+  }
+}

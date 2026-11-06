@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p022",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p022.jpg",
+    "bytes": 1085165,
+    "sha256": "49698b0fa1b2a4e87dd49276fa1479f2ba4fc8d223d5241a2540f53f3203dd54",
+    "sha256_of": "original",
+    "working_copy": "1850_p022.jpg"
+  },
+  "text": "12\nSt. Johann=Quartier.\nB 253 Lichtenbahn, Karl, Alt-Stadtrath, gehörend.\n254 Hoffmann, Jungfrau, Mar. Sal., Kapitalistin.\nSt. Peters-Graben.\n255 Keller-Paravicini's Erben gehörend, unbewohnt.\n256 Fäsch-Paravicini, Wittwe, Kapitalistin.\nNeue Vorstadt.\n257 Bürgerspital, (ehem. Markgräffscher Hof.)\nWeitnauer-Braun, Ach., Spitalmeister.\nHoffmann, Joh., Errenauffeher.\nFrey, Alf., Med. Dr., Spitalarzt.\nSchneider, Theod., Med. Dr., Spitalarzt.\nUebelin, Sml., Spitalapotheker.\nB 257 Bienz-Pfaff, Wittwe, A. M.\nC 257 Stall und Remise, zu Nr. 249 B geh.\n258 Hubel, G. R., Schreiner.\nMeyri-Fenni, Joh., Antiquar.\nA 259 Frey, Hans Ulrich, Schreiner.\nFrey, Friedr., Sohn, Architekt.\nB 259 Zäslin-Falkeisen, Kaufmann, Comptoir in Nr. 1491.\n260 Stähelin-Bernoulli, Balth., Handelsmann.\nA 260 Spreng-Heukler, Eml., Handelsmann.\n261 Buxtorf-Preiswerk, R., Pfarrer im Waifenhaus.\n262 Preiswerk-Stückelberger, F. F., sel. Wittwe.\n263 Hindermann, Frau M. M., Rentiere.\n264-65 Siber-Bischoff, Chr. Heinr., Seidenbandfabrikant.\n266 Falkner, Nifl., Alt-Direktorialschreiber.\nA 267 Alwengen-Bruckner, F. F., Architect.\nKöchlin, geb. Thurneyssen, Rentiere.\nB 267 Kern-Vischoff, Friedr., Bandfabrikant.\nC 267 — (Merian-Keller, Alb., gehörend, unbewohnt.)\n268 Kappeler, Joh. Abr., Hafner.\nA 269 Huber-Stehelin, Rud., Kaufmann.\nSiebenmann-Huber, Fr., Kaufmann.\nB 269 Burkhardt-Gemuseus, Joh. Conrad.\nComptoir von Kern & Sohn, Bandfabrikanten.\nC 269 BonderMühl-Bürgy.\nSt. Peters-Graben.\n270 Kelterborn, Ludw. Adam, Zeichnungslehrer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5091,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1508,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 36.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p022",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p022.jpg",
+      "bytes": 1085165,
+      "sha256": "49698b0fa1b2a4e87dd49276fa1479f2ba4fc8d223d5241a2540f53f3203dd54",
+      "sha256_of": "original",
+      "working_copy": "1850_p022.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:10+00:00"
+  }
+}

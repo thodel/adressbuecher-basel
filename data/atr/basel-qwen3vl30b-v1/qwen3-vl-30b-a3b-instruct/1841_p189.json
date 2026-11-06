@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p189",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p189.jpg",
+    "bytes": 964528,
+    "sha256": "6ab888559f15d0cf0d5e380626c6fb1647519a9daa35b08e6d9f207ef91fccee",
+    "sha256_of": "original",
+    "working_copy": "1841_p189.jpg"
+  },
+  "text": "B. Bläfis-Bann.\nA.\nAbt, Jakob, Gutsbesitzer. 76 Beim alten Bannwartshäuslein.\nAlt, Leonhard, Bleicher. 75 Beim alten Bannwartshäuslein.\nUmstein, Jakob, von Wila, K. Zürich, Gärtner. 48\nAlibekkstraße.\nB.\nBauer, Johannes, von Neuweg, Lehrenmann. 80 Mittlere\nStraße.\nBemmler, Judith, geb. Fricker, Wittwe, Gutsbesitzerin.\n14 Alibekkstraße.\nBinz, Samuel, von Bettingen, Gärtner. 33 Alibekkstraße.\nBlumhardt, Julie, geb. Meyer, Wittwe. 80 Mittlere\nStraße.\nBollinger, Hans Rud., von Leutwil, Posamenter. 29\nAlibekkstraße.\nBresin, Martin, Gutsbesitzer. 68 Mittlere Straße.\nBrömmel, Friedrich, Professor der Geschichte. 59 Un\nder Alibek.\nBrudermann, Daniel, von Waldenburg, Lehrenmann. 83\nMittlere Straße.\nBrudermann, J. J., Bater, von Waldenburg, Taglöhner,\n83 Mittlere Straße.\nBrunschweiler, Joh. Friedrich, von Erlen, Erziehungs-\nanstalt für Knaben. 53 Alibekkstraße.\nBüchy, Peter und Helena, Geschwister. 48 Alibekkstraße.\nBührer, Kaspar, von Bibern, Gärtner. 82 Mittlere Straße.\nBussinger, Xaver, von Weitnau, Lehrenmann. 55 Un\nder Alibek.\nBurkard, Franz Anton, von Westhofen, Gärtner. 27\nAlibekkstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3581,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1100,
+    "lines": 31,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.129,
+    "mean_line_chars": 34.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p189",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p189.jpg",
+      "bytes": 964528,
+      "sha256": "6ab888559f15d0cf0d5e380626c6fb1647519a9daa35b08e6d9f207ef91fccee",
+      "sha256_of": "original",
+      "working_copy": "1841_p189.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:44+00:00"
+  }
+}

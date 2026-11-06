@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p076",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p076.jpg",
+    "bytes": 991784,
+    "sha256": "8e8e05a4059f2e21aca8bad10514fa914dbf024e3f6a1a7bc1631ebebb260c9b",
+    "sha256_of": "original",
+    "working_copy": "1850_p076.jpg"
+  },
+  "text": "St. Alban=Quartier. 63\nMünsterplaz.\n1412 (Münsterkirche) Obrigkeitlich.\nSpitalsprung.\n1413 Mazinger, F. B., Siegrist und Nadler.\n1414 Gally, Joh., Anatomiediener.\n1415 Duthaler, Ferdinand, Commis.\n1416 Schmidt, Melch., Schneider.\n1417 Geigy-Burkorf, Karl, Material- u. Farbwaarenhdlg.\n1418 Riedtmann, Eml.\nFreuler, Nikl., Schuhmacher.\n1419 Thurneisen-Bell, Heinr., Schneider.\nFreie Straße.\n1420 Bernoulli-Cailler, Eml., Seidenhandlung.\n1421 Müller, Konrad, Bater, Schuhmacher.\n1422 von Speyr-Bernoulli, Wittwe, Susanna\nvon Speyr, Karl Wilh., J. U. D., Notar.\nLaRoche, Joh. David, Rentier.\n1423 Mazinger-Löw, Bernh., Commis.\nFenny-Erlacher, Wittwe, Geschirrladen.\n1424 Hosch, F. F., Commis.\nAlibert, F., Parfumerie- und Strohhuthandlung.\n1425 (Zunft zum goldenen Stern) Schabelik-Flick, Jak.\nChrist., Buchbinder, Buchhandlung.\nSchabelik, F. L., Redakteur der Nat.-Zeitung.\n1426 Brenner-Guéniard, Wittwe Adèle, Seidenwaaren-\nhandlung.\n1427 Treulin, Joh. Jak., Postfaktor.\nRigiani, D., Chocoladefabrikant.\n1428 Bemmerer, Ludwig, Spengler.\n1429 Grether, Matthias, Materialist.\nGrether, Dl., Rentier.\n1430 Beck, Alexander, Gürtler und Bronceur.\nHablüzel, Karl, Zollangestellter.\n1431 Leuba, Ch., Sohn, Uhrenmacher.\nMüller, Joh., Kostgeber.\n1432 Schnegg, Joh. Jak., Glockengießer.\n1433 Müller, Wittwe Ernestine, Posamentier.\n1434 Beaudroi-Lippe, Wittwe Sal., Metzger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4457,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1361,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p076",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p076.jpg",
+      "bytes": 991784,
+      "sha256": "8e8e05a4059f2e21aca8bad10514fa914dbf024e3f6a1a7bc1631ebebb260c9b",
+      "sha256_of": "original",
+      "working_copy": "1850_p076.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:56+00:00"
+  }
+}

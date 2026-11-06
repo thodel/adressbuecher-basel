@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p105",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p105.jpg",
+    "bytes": 981473,
+    "sha256": "eeb7b371da3c941fc49c2462b182b6a0d8b683c3ef8b6de7d8c88a957be42e55",
+    "sha256_of": "original",
+    "working_copy": "1841_p105.jpg"
+  },
+  "text": "22\nJersing=Jäslin, Wittwe. 1014 Aeschen=Vorstadt.\nJersing, Friedrich, Sohn, Commissions- und Speditions-handlung.\n1014 Aeschen=Vorstadt.\nJefonig, Johannes, Schreiner. 1283 St. Alban=Thal.\nImhof, Andreas, Beck. 321 Spahlen=Vorstadt.\nImhof, Joh. Christoph, Oberst. 839 Rosmarkt.\nImhof, Joh. Friedrich, Buchbinder. 684 Hinteres Gerbergässlein.\nImhof, B., Zoller. 1002 Hinter der Ringmauer.\nImhof, Wilhelm, Goldschmied. 1580 Sporengasse.\nImhof, Conrad, Musiker. 404 Heuberg.\nImhof, Bernhard, Partikular. 410 Blumenrain.\nImhof, Samuel, Papierfabrikant. (Firma: Imhoffsche Papierfabrik.) 1285 St. Alban=Thal.\nImhof, Friedrich, Schuhmacher. 1258 Malzgasse.\nImhof, Joh. Jakob, Bater, Fuhrhalter. 404 Heuberg.\nImhof, Judith, geb. Meyer, Wittwe. 944 Aeschen=Vorstadt.\nImhof=Burckhardt, Joh. Ludwig, Spezereihändler. 651 Gerbergasse.\nImhof=Heik, Dr. Med. 602 Unterer Spahlenberg.\nImhof=Roschet, Joh. Jakob, Weißgerber und Lederhandlung. 1576 Sporengasse.\nImhof=Falkner, Hieronymus, Sohn. 1642 Markt.\nImhof=Forkart, Kaufmann. 1515 Augustinergasse.\nImhof=Weik, Hieronymus, Bater. 1642 Markt.\nImmler, Gottlieb, Instrumentenmacher. 443 Spießhofgasse.\nImmler, Wilhelm, Schreiner. 351 Spahlen=Vorstadt.\nJordan, Leonhard, Ferger. 657 Gerbergasse.\nJrion, Abraham, Maurer. 411 Trillengässlein.\nJselin, Dietrich, alt Statthalter. 1268 St. Alban=Thorgasse.\nJselin, Remigius, Kunstmaler. 151 Fischmarkt.\nJselin, Isaak. 1203 a Luftgässlein.\nJselin, Esther und Adelheid, Jungfrauen. 972 Sternengässlein.\nJselin=Wettstein, Daniel, Handelsmann. 938 Aeschen=Vorstadt.\nJselin=Debary, Rudolf, Kaufmann. 274 a Lottergasse.\nJselin=Laroche, J. J., Kaufmann. 71 St. Johann=Vorstadt.\nJselin=Christ, Rud. 1312 St. Alban=Vorstadt.\nJselin=Burckhardt, Handelsmann. 1211 Rittergasse.\nJselin=Debary, Rud., Kaufmann. 70 St. Joh.=Vorstadt.\nJselin=Forkart, J. E., Wollentuchhandlung. 1312 St. Alban=Vorstadt.\nJselin=Jselin, Abraham. 250 St. Petersplatz.\nZucker, Benedikt, Musiklehrer. 191 Unterer Herbergberg.\nZucker, Ulrich, Handelsmann. 1672 Hutgasse.\nJuillerat, Ludwig, David, Schreiblehrer. 1580 Sporengasse.\nJung, Carl Gustav, Med. Dr. und Professör. 920 St. Elisabethen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6767,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2132,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:54:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p105",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p105.jpg",
+      "bytes": 981473,
+      "sha256": "eeb7b371da3c941fc49c2462b182b6a0d8b683c3ef8b6de7d8c88a957be42e55",
+      "sha256_of": "original",
+      "working_copy": "1841_p105.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:54:24+00:00"
+  }
+}

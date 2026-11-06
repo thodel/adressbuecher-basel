@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p190",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p190.jpg",
+    "bytes": 1062085,
+    "sha256": "a5bd06bfa409990ffd3f061b857dc66effd01e8cb8e28fde50053abcedb25f38",
+    "sha256_of": "original",
+    "working_copy": "1841_p190.jpg"
+  },
+  "text": "— 37 —\n\nC.\nCadet, Martin, von St. Prié, Seidenfärber. 74 Beim\n  alten Bannwartshäuslein.\n\nD.\nDannmeyer, Karl, von Bamlach, Werkmeister. 79 Am Teich.\nDettwiler, Heinrich, von Langenbruck, Lehenmann. 62\n  Horburg.\nDubach, Joseph, von Inzlingen, Lehenmann. 59 b. An\n  der Klibeck.\n\nE.\nEllmer, Josua, Fabrikarbeiter. 86 Mittlere Straße.\nErlacher, Durs, von Rodersdorf, Lehenmann. 77 Beim\n  alten Bannwartshäuslein.\n\nF.\nFäsch, Lukas, Wiesenbannwart. 63 b. An der Wiesenbrücke.\nFischer, Ursula, Jgfr., Part. 63 a. An der Wiesenbrücke.\nFreyburger, Licentiat sel. Wittwe. 59 Klibeckstraße.\nFritschin, Elisabeth, geb. Hallauer, Wittwe, von Erlikon,\n  Gärtnerin. 29 Klibeckstraße.\nFrizon, Désiré Françoise Catherine, née Durand,\n  Wittwe und Tochter, von Rouen, Partikularin.\n  11 b. Klibeckstraße.\nFrutiger, Johannes, von Sigriswil, Lehenmann. 50\n  Klibeckstraße.\nFürbringer, Wilhelm, Gärtner und Weinschenk. 10\n  Klibeckstraße.\nFurrer, Jakob, von Mogelsberg, Gärtner. 40 Klibeckstr.\n\nG.\nGötz-Buser, Emanuel, Gutsbesitzer und Bandfabrikant.\n  80 Mittlere Straße.\n\nH.\nHäfelin, Durs, von Mümliswil, Lehenmann. 79 Am Teich.\nHäfelin, Joh. Hieron., von Mümliswil, Lehenmann. 84\n  Mittlere Straße.\nHagenbach, Joh. Christian, Gutsbesitzer. 41 Klibeckstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5745,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1241,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0556,
+    "mean_line_chars": 32.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:06:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p190",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p190.jpg",
+      "bytes": 1062085,
+      "sha256": "a5bd06bfa409990ffd3f061b857dc66effd01e8cb8e28fde50053abcedb25f38",
+      "sha256_of": "original",
+      "working_copy": "1841_p190.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:01+00:00"
+  }
+}

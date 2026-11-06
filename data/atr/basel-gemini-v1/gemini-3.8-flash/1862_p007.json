@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p007",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p007.jpg",
+    "bytes": 1177588,
+    "sha256": "93a2b7c76e1bd8b012106b2671895ea17f5b5ca8682ed8f7b69c969a1c159f5e",
+    "sha256_of": "original",
+    "working_copy": "1862_p007.jpg"
+  },
+  "text": "Vorwort.\n\nDie Arbeit, welche hiermit E. E. Publikum übergeben wird, macht\naus natürlichen Gründen keinen Anspruch auf Vollkommenheit. Bei dem\nsteten Wohnungswechsel, den vielfachen Handänderungen und Todesfällen\nund der großen Mangelhaftigkeit der Einträge in den Ausfüllbogen konnte\nes nicht wohl anders möglich sein, als daß manche Unrichtigkeiten mit-\nunterliefen. Es ist daher eine Anzahl Berichtigungen, die während dem\nDruck ergangenen Handänderungen und die Neubauten vor dem alphabetischen\nVerzeichniß der Straßen Seite LVI aufgenommen worden, welche man\nvor dem Gebrauch zu berichtigen bittet, kleinere Fehler wolle der geneigte\nLeser entschuldigen und selbst verbessern.\nEin später herauszugebendes Supplement zu vorliegendem Buch soll\nbis zu einer neuen Auflage desselben den im Lauf der Zeit eintretenden\nMängeln abzuhelfen suchen.\nDer dem Werk beigegebene Plan der Stadt wird Vielen eine will-\nkommene Zugabe sein und die Orientirung wesentlich erleichtern.\nEs sei hiermit das Buch der Nachsicht E. E. Publikums bestens\nempfohlen.\nBasel im September 1862.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5503,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1068,
+    "lines": 19,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 55.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p007",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p007.jpg",
+      "bytes": 1177588,
+      "sha256": "93a2b7c76e1bd8b012106b2671895ea17f5b5ca8682ed8f7b69c969a1c159f5e",
+      "sha256_of": "original",
+      "working_copy": "1862_p007.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:29+00:00"
+  }
+}

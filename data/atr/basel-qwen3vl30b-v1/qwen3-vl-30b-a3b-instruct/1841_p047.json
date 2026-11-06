@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p047",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p047.jpg",
+    "bytes": 868359,
+    "sha256": "bebcfc414895a49ae6fe4c33c94a4be72803f72b11c39726eb24ee054871f096",
+    "sha256_of": "original",
+    "working_copy": "1841_p047.jpg"
+  },
+  "text": "40\nNro.\n1092 * Stähelin, P. fel., Wittwe.\nMerian, Wittwe, geb. Anna Cath. Bischoff.\n1093 * Meyer, Joh., und Sohn.\nBarfüsserplaz.\n1094 Meyer, Joh. fel., Wittwe, geb. Merian. Englische, französische und schweizerische Manufakturwaaren-Handlung\nen gros et en détail.\n1095 * Stähelin, P. fel., Wittwe.\nStähelin, Benedikt fel., Wittwe, geb. Merian.\n1096 Barfüsserkirche.\n1097 Salzmagazin.\nStreitgasse.\n1098 Frey, Joh. Jakob, Weinsticher.\n1099 Mager, Charlotte, Jungfer, Seilerwaaren.\n1100 Schmidlin, Anton, Sattler.\n1101 Schaub, Joh. Jakob, Handschuhmacher.\n1102 Roth, Joh. Peter, Glaser.\n1103 Schwarz, Friedrich, Buchbinder.\n1104 Bulacher, Niklaus, Metzger.\nEdenstein, J., Professor.\n1105 * Stähelin, P. fel., Wittwe.\n1106 Spreyermann, Elias fel., Wittwe.\nWeiße Gasse.\n1107 Hindermand, J. Jakob.\nFirma: Bleiler, Jakob, Spezereihandlung.\n1108 * Hindermand, Joh. Jakob.\n1109 Leuthard, Peter, Schuhmacher.\nRinggässlein.\n1110 Hinterhaus von Nro. 1106.\n1111 Versammlungshaus, der Brüdergemeinde geh.\nWeiße Gasse.\n1112 * Linder, Emanuel, Indiennefabrikant.\nBellwiz, Carl Friedrich, Lehrer.\n1113 Bloch, G., Wittwe.\n1114 Spreyermann, Georg, Schneider.\n1115 Die neue School.\n1116 Schlachthaus.\n1117 Hindermand, Eman., Lithograph fel., Wittwe.\n1118 Eschopp, Joh. Jakob, Fabrikarbeiter.\n1119 Stallung zu Nro. 1178.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4233,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1299,
+    "lines": 41,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 30.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0031,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:47:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p047",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p047.jpg",
+      "bytes": 868359,
+      "sha256": "bebcfc414895a49ae6fe4c33c94a4be72803f72b11c39726eb24ee054871f096",
+      "sha256_of": "original",
+      "working_copy": "1841_p047.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:26+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p148",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p148.jpg",
+    "bytes": 1069053,
+    "sha256": "5758bd58b8de1509e2871281cfd47296cd93f10cc3570857897d3146cac3e396",
+    "sha256_of": "original",
+    "working_copy": "1850_p148.jpg"
+  },
+  "text": "766\nGlock & Hübscher Gustav Glock, Sohn.\nGötz & Ecklin . Emanuel Götz-Bufer.\nJohann Heinrich Ecklin-\nPümpin.\n624 Wilhelm Götz . . . . Wilhelm Götz.\n1429 Mathias Grether . . . Mathias Grether.\n1162 F. C. Gysfendörfer-Herzog Joh. Conrad Gysfendörfer.\n705 Heinrich Gysin . . . . Heinrich Gysin.\n1612 Ludwig Gysin . . . . Ludwig Gysin.\n1084 H. Gysler, Sohn . Heinrich Gysler, Sohn.\n16 Ludwig Gysler . . . . Chr. de Jof. Jakob\nBurchhardt.\nFrau Anna Margretha\nGysler geb. Handmann\nper procura.\nEduard Meyer, Procurat-\nräger.\nH.\n171 Jakob Häfelingcr . . Jakob Häfelingcr\n1526 F. F. Halter . . . Johann Nikolaus Halter,\nSohn.\n172 F. F. Handmann . . . Joh. Jakob Handmann.\n974 R. Hauser=Ofer . . Rudolf, Hauser=Ofer.\n774 Lud. Henz . . . . Ludwig Henz.\n*368 Leonhard Heusler & Cie. . Leonhard Heusler.\nWilhelm Heusler.\nCarl Leonhard Heusler.\n1059 F. Ulrich Heusler . . Frau Wittwe Elise Heus-\nler geb. Geign, ohne\nUnterschrift.\nEduard Geign.\nJoh. Jakob Breiter, Pro-\ncuraträger.\nAbel Heusler, Procurat-\nräger.\n1281 Markus Heusler . . Emanuel Heusler.\n1200 F. F. Hindermann=Me-\nrian\nF. F. Hindermann.\n540 C. Rudolf Hofer . . . Samuel Rudolf Hofer.\n1547 F. Lukas Hoch . . . Joh. Lukas Hoch.\n135",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4022,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1182,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0233,
+    "mean_line_chars": 26.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p148",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p148.jpg",
+      "bytes": 1069053,
+      "sha256": "5758bd58b8de1509e2871281cfd47296cd93f10cc3570857897d3146cac3e396",
+      "sha256_of": "original",
+      "working_copy": "1850_p148.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:05+00:00"
+  }
+}

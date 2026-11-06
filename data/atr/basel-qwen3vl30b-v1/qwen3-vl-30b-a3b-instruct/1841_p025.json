@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p025",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p025.jpg",
+    "bytes": 893349,
+    "sha256": "dc08a8f9d64cbc7fe30928c180a79adae4370aeeceb30fd84275edfbccadb587",
+    "sha256_of": "original",
+    "working_copy": "1841_p025.jpg"
+  },
+  "text": "Nro.\n451 Schnell-Riggenbach, Joh., Professior.\n452 Dill, Ben. fel., Wittwe, geb. Dold. (Spenglerwaaren.)\n453 Salathe, Joh. Georg, Sattler.\n454 Hermann, Heinrich, Fabrikferger.\n455 Haas, Carl Wilh., Küfer.\n  Jäcklin, Daniel, Postoffiziant.\n  Schneider, Emanuel, Dr. Juris.\n  Segiser, J. H., Clavierlehrer.\n456 * Frei, Ulrich, Tischmacher, geh.\n  Burtorf, J. Rud., Pfarrer am Waifenhaus.\n  Burtorf, Friedrich, Senfal.\n457 * a Ludwig, Joh. Heinrich, Schreiner.\n458 Schölli, geb. Kron, Wittwe.\nBeim Spahlenthurm.\n459 * Kalkhof, obrigkeitlich.\n460 Freuler, Franz Jos., Schriftseker.\n  Wiesner, M., Flachmaler.\n461 Erzberger, Joh. Jakob Heinrich, Sohn, Zuckerbeck.\n  Hartmann, Samuel, Kaufhausarbeiter.\n462 Bereint mit Nro. 457.\n463 Müller, Heinrich, Spezereiladen.\nHinter dem Spahlenthurm.\nBeim Spahlenthurm.\n463 a Holdenecker, Achilles, Buchhändler.\n464 * Magazin, Buser, Hieronymus, gehörend.\n465 Euler, Rud., Kaufmann.\n  Passavant, Th., Pfarrer zu St. Jakob.\n466 Scherb, Samuel, Salzfaktor.\n  Glock, Peter, Küfer.\n467 Jenni, geb. Minder, Wittwe.\n  Schöner, Adam, Schneider.\n468 Boffardt, Rudolf, Büchsenmacher.\n  Ludwig, Andreas, Eisenhändler.\n  Märklin, Baleria, Glätterin.\n469 Engler, Cath., geb. Roth, Wittwe.\n470 Schärer, Conrad, Schuhmacher.\n  Pfannenschmid, Christoph, Büchsenmacher.\nOberer Spahlenberg.\n471 Hindenlang, geb. Heusler, Wittwe. (Spezereihandel.)\n472 Bücher, Joh., Schuhmacher.\n473 Huber, geb. Stähelin, Pfr. Wittwe.\n474 Marbach, Isaak, Kürschner und Civilgerichtsweibel.\n18",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4528,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1491,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 32.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:44:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p025",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p025.jpg",
+      "bytes": 893349,
+      "sha256": "dc08a8f9d64cbc7fe30928c180a79adae4370aeeceb30fd84275edfbccadb587",
+      "sha256_of": "original",
+      "working_copy": "1841_p025.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:01+00:00"
+  }
+}

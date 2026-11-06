@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p106",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p106.jpg",
+    "bytes": 1109301,
+    "sha256": "8ca215162399fe4e541cb0ddfd5568c162b5a5d8b27f9e06728b793a32374cdb",
+    "sha256_of": "original",
+    "working_copy": "1850_p106.jpg"
+  },
+  "text": "Bläsy = Quartier. 93\n374 Märflin, Geschwister.\n375 Langmesser-Engel, F. Ulr., Sattler, Quartierschreib.\n376 Otto, Eml., Handelsmann.\nBei der Rheinbrücke.\n377 (Schlachthaus, School) Obrigkeitlich.\n378 Allemann, Ch., Wirth.\n  Treu, Wittwe.\n  Treu, Rudolf, Deler.\n  Müller-Sutter, Landökonom.\nKrempergasse.\n379 Schnewlin, Karl, Kaufmann. Comptoir in Nr. 582,\n  Grunauer, Rud., Coiffeur.\n380 Maring, Wittwe, Ellenwaarenhandlung.\n381 Mäzinger, Jgfr. Rosine, Korbhandel.\n382 Wagner, F. F., Buchdrucker.\n383 Oppermann, Wilhelm, Kunstmaler.\n  Riedtmann-Oppermann, Wittwe, Weinschenk.\n384 Trüb, Wittwe Elis., Spezerei- u. Tabackhandlung.\n385 Brodmann, Johann, Schuhmacher.\n386 Dolt-Bonwiller, Chr. Fr., Metzger.\n  Bonwiller, Wittwe, Metzger.\n387 Brunner, F. Hch., Küfer, Fasshinner.\n388 Weisenberger, Johann, Chir. Dr., Bundarzt.\n389 Hörler, Johann, Bater, Pastetenbeck.\n  Hörler-Lieberknecht, Joh.,\n390 Loz, Jgfr. Elisabetha, Spezereihandlung.\n  Strübin, Ach., Commissions- und Speditionshandlg.\n391-92 (Gasthof z. roth. Löwen) Bienz, Rud., Bater u. Sohn.\n393 Glaz, Johann Kaspr., Spengler.\n394 Eisenlohr-Bloch, Wittwe, Spezereihandlung.\n395 Wohlich, Jaf. Jos., Spezereihandlung.\nUdengasse.\n396 Unbewohnt. Heinrich Bienz geb. Müller, Heilig zuförmnd.\n397 Stallung und Scheune.\n398 Gernler, Karl, Kornmesser.\n  Gernler, Joh., Commis.\n399 Scheune.\n400 Bienz, Sch., Weinhandlung. Müller, Heilig zuförmnd.\n  Briccar-Stilli, Wittwe Maria, Rentiere.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4754,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1435,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p106",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p106.jpg",
+      "bytes": 1109301,
+      "sha256": "8ca215162399fe4e541cb0ddfd5568c162b5a5d8b27f9e06728b793a32374cdb",
+      "sha256_of": "original",
+      "working_copy": "1850_p106.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:06+00:00"
+  }
+}

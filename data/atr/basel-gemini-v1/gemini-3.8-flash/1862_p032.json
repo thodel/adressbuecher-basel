@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p032",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p032.jpg",
+    "bytes": 1471276,
+    "sha256": "d3021ba2f1bf02979ef7cd802ae373decc256937423fe00baa9d2b12a7376dda",
+    "sha256_of": "original",
+    "working_copy": "1862_p032.jpg"
+  },
+  "text": "Kranken-, Alters-Cassen ꝛc. Vereine zu wissensch. Zwecken. XXIX\n\n* Kranken- und Begräbniß = Casse\nzum\nFreundschafts - Verein.\nGegründet 1851.\nVerwalter u. Cassier: Heinr. Wießner,\nSpitalstraße 30.\n\n* Kranken-Casse der Mechaniker.\nGegründet 1853.\nVorsteher: Hr. Martin Keller.\n\n* Hülfs-Casse für kranke Posamenter.\nGegründet 1855.\nVorsteher: Hr. Friedr. Bürgin, St. Alban-\nkloster.\nCassier: Hr. Jacob Wiedler, Rheingasse 40.\n[spalte 2]\n* Hülfs = Casse des weibl. Geschlechts\nin Krankheits- und Sterbefällen.\nGegründet 1855.\nPräsident: Hr. Joh. Kistler, Steinenvor-\nstadt 13.\n\nKranken-, Sterbe- & Invalidencasse\nder Haas'schen Gießerei.\nGegründet 1858.\nVerwalter: Hr. H. Jünemann.\n\nVicariats = Cassen\nzur Bestreitung der Vicariatskosten der Leh-\nrer, welche unfreiwillig die Schule versäumen\nmüssen:\n1) Für die Gemeindeschulen gemeinschaftlich,\ngegründet 1826.\n2) Für die Töchterschule, gegründet 1844.\n3) Für die Gymnasien u. Realschule ge-\nmeinschaftlich.\n\nVereine und Anstalten zu wissenschaftl. Zwecken.\n\nNaturforschende Gesellschaft.\nGegründet 1817 als Fortsetzung der 1751\ngestifteten Societas physica medica.\nVorstand: Hr. Prof. F. C. Schönbein.\n\nFreiwillige akademische Gesellschaft.\nGegründet 1835.\nVorstand:\nHr. Professor A. Heusler, Präsident.\n„ Rathsherr P. Merian, Seckelmeister.\n„ Dr. E. Thurneysen, Schreiber.\n„ Altbürgermeister I. I. Burckhardt.\n„ W. Burckhardt-Forcart.\n„ Bürgermeister C. F. Burckhardt.\n„ Christ. Ronus-Gemuseus.\n„ Professor W. Vischer.\n„ Dr. H. Iselin.\n\nHistorische Gesellschaft.\nGegründet 1836.\nHr. Dr. Fechter, Präsident.\n„ Professor Müller, Seckelmeister.\n„ Candidat Heß, Schreiber.\n„ Dr. I. I. Merian, Bibliothekar.\n[spalte 2]\nJuristischer Lesezirkel.\nGegründet 1839.\nVorstand: Hr. Dr. Carl Burckhardt-Burck-\nhardt.\nDer Verein hält gemeinschaftlich mit der\nLesegesellschaft u. der öffentlichen Bibliothek eine\nAnzahl juristischer Zeitschriften, welche zuerst\nauf der Lesegesellschaft aufgelegt werden, dann\nbei den Mitgliedern des Vereins circuliren und\nzuletzt auf die öffentliche Bibliothek kommen.\nZweck des Vereins ist: seine Mitglieder mit den\nFortschritten der Wissenschaft und der Praxis\nbekannt zu machen.\n\nGesellschaft f. vaterländ. Alterthümer.\nGegründet 1842.\nHr. Professor W. Vischer, Präsident.\n„ Dr. Bernoulli-Reber, Seckelmeister.\n„ W. Vischer, Schreiber.\n„ I. I. Merian, Bibliothekar.\n\nPädagogia.\nGegründet 1844.\nVorstand:\nHr. Albert Immer, Präses.\n„ Jacob Steiger, Actuar.\n„ Friedr. Vischer, Quästor.\n„ Alfons Riggenbach, Beisitzer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8592,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2486,
+    "lines": 84,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0357,
+    "mean_line_chars": 28.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:29:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p032",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p032.jpg",
+      "bytes": 1471276,
+      "sha256": "d3021ba2f1bf02979ef7cd802ae373decc256937423fe00baa9d2b12a7376dda",
+      "sha256_of": "original",
+      "working_copy": "1862_p032.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:09+00:00"
+  }
+}

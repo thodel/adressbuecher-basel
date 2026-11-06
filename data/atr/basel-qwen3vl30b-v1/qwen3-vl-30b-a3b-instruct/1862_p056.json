@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p056",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p056.jpg",
+    "bytes": 1502907,
+    "sha256": "6b186f79015144acf32a4e8b4329acae7202013bd2b569b7b21c998ed8276a00",
+    "sha256_of": "original",
+    "working_copy": "1862_p056.jpg"
+  },
+  "text": "Ragionenbuch.\nLIII\nHandlungsfirma. | Interessenten u. Firmasührer. | Natur des Geschäfts.\nSpeitel, J. | Jos. Speitel, allein. | Tapetenhandlung.\nvonSpeyr et Comp. | Eduard vonSpeyr. | Bank, Commission und\n| Fr. Goppelsröder-vonSpeyr. | Spedition.\n| Carl vonSpeyr=Jselin. |\n| Joh. von Speyr=Riggenbach, allein. | Techn. Materialwaaren,\n| | Farben und Firnisse.\n| | Buchhandlung.\nvonSpeyr, Joh. | | |\nSpittler, C. F. | Chr. Friedrich Spittler. | |\n| Jakob Ludw. Jäger. | |\nSpörlin,Wb.,et Comp. | S. Spörlin, geb. Merian. | Wollen-, Baumwollen-,\n| Hieron. Loz=Spörlin. | Leinen-, Sticgarn,\n| | Bandwaaren, Faden,\n| | Mercerie.\nStähelin, Gebrüder. | Rud. Stähelin=Stähelin. | Colonialwaarenhandlg.\n| Balthasar Merian=Merian. | |\nStähelin, Balth. de | Bened. Stähelin=Bischoff. | Bandfabrification.\nBened. | Bened. Stähelin=Linder. | |\n| Chrift. Stähelin=Reber. | |\nStampfer=Otto, W. | Wilhelm Stampfer=Otto, allein. | Garn-, Mercerie- und\n| | Strumpfwaarengesch.\n| | en gros et détail.\n| | Agenturen.\nStehelin, Jerome. | Jerome Stehelin=Roch, allein. | |\n| Emil Girard, Prokuraträger. | |\nStehelin, Gottfried. | Gottfried Stehelin. | Colonialwaaren en gros.\n| Eduard Stehelin. | |\nSteinmann, Gebrüder. | Joh.MelchiorSteinmann=Simmen. | Müllerei und Getreide-\n| Eduard Steinmann. | handlung.\nStrübin-Roduner,J.J. | J. J. Strübin-Roduner. | Bonneterie, Mercerie,\n| | Chaussures und Par-\n| | fumerie.\n| | Spezereiwaaren-, Tabak-\n| | und Cigarrenhandlg.\n| | Papierhandlg. Agentur\n| | für Tabak.\nStuder, J. C. | J. C. Studer, allein. | Colonialwaarenhandlg.\n| | Commission u. Spe-\n| | dition.\nStuder, J. Fr. | J. F. Studer=Chätti, allein. | |\nStumm, J. F., et | J. Fried. Stumm. | |\nComp. | Gustav Stumm. | |\nStumm, Carl, Eisen- | Carl Stumm, allein. | Tabakfabrik u. Colonial-\nbahn=Agentur. | | waarenhandlung.\nSulger, Und. u. Rud. | A. Sulger=Stähelin, allein. | Bandfabrification.\nSulger und Stüickel- | Joh. Sulger=Heusler. | Quincaillerie- u. Merc-\nberger. | Andreas Stüickelberger=Speifer. | cieriewaaren.\nSutter=Raifer. | Sutter=Raifer, allein. | |\nTheiler, C., et Comp. | Ed. Theiler. | |\n| Anna Häfelin, geb. Möhr, Com- | |\n| manditaire. | |\nThommen, Joh.,Sohn. | J. Thommen=Meyer, allein. | Spedition, Commission,\n| | Agenturen. Special-\n| | bureau f. Versendun-\n| | gen nach Italien.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6876,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2285,
+    "lines": 58,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:26:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p056",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p056.jpg",
+      "bytes": 1502907,
+      "sha256": "6b186f79015144acf32a4e8b4329acae7202013bd2b569b7b21c998ed8276a00",
+      "sha256_of": "original",
+      "working_copy": "1862_p056.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:06+00:00"
+  }
+}

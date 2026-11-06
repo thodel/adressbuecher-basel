@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p079",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p079.jpg",
+    "bytes": 903968,
+    "sha256": "5ab8655d02fbbe604aa9d24a00b311c32eec3209b45f92390d39b3fac3b77270",
+    "sha256_of": "original",
+    "working_copy": "1850_p079.jpg"
+  },
+  "text": "66 St. Alban-Quartier.\n\n1486 Siegrist, Johann, Fabrikferger.\n  Hesse, J. A., Schneider.\n1487 Woringer, L. Alph., Lehrer am Gymnasium.\n\nAugustinergasse.\n\n1488 Magazin.\n1489 (Museum) Obrigkeitlich.\n  Gerlach, D., Prof.\n  Schneider, A., Präparator und Abwart im Museum.\n\nSt. Martin.\n\n1490 Bischoff-Merian, Wilh., Bandfabrikant.\n  Bischoff, Peter, Seidenhdlg., Comptoir in Nr. 1388.\nA 1490 Groß, Joh, Fabrikaufseher.\n1491 Comptoir von Zäslin-Falkeisen, Konr.\n  Tobler-Gengenbach, Heinrich, Lehrer.\n  Braun, Jungfrau Caroline, Lehrerin.\n1492 His-LaRoche, Ed., Bandfabrikant.\n  His, Eduard u. Friedrich, Bandfabrikanten.\nA 1492 (Fabrikgebäude) Hs. Frz. Sarasin gehörend.\n  Grimm, Christ., Posamenter.\n1493 Näszger, Heinrich, Posamenter.\n1494 Cuénod, Wittwe Elise, Rentière.\n1495 Schaub, Jakob, Posamenter.\n1496 Schmid, Abrh., Oberst-Rathsdiener.\n  Schmid, Rud., Sohn, Kanzlist.\n1497 Abgebrochen.\n1498 (St. Martinskirche) Obrigkeitlich.\n1499 Stockmeyer, Immanuel, Pfarrer.\n1500 Kromer, Dav., Siegrist bei St. Martin.\n1501 Stockmeyer, Nikl., Postangestellter.\n\nRheinsprung.\n\n1502 Asch, Conrad, Posamenter.\n1503 Zeinler, Wittwe, Trödlerin.\n1504 Hegnauer, J., Posamenter.\n1505 Scherb, Heinrich, Flachmaler und Trödler.\n1506 Klingelfuß-Langmesser, Wittwe J., Schneiderin.\n1507 Müller, Wittwe Maria.\n  Sutter, R. E., Schirmfabrikant.\n1508 (Unt. Collegium u. anatomisches Museum)\n  Bürgin, Karl, Buchbinder u. Pedell.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9001,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1404,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p079",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p079.jpg",
+      "bytes": 903968,
+      "sha256": "5ab8655d02fbbe604aa9d24a00b311c32eec3209b45f92390d39b3fac3b77270",
+      "sha256_of": "original",
+      "working_copy": "1850_p079.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:34+00:00"
+  }
+}

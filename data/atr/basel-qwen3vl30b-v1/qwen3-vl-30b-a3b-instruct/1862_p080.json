@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p080",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p080.jpg",
+    "bytes": 1411321,
+    "sha256": "9266d2b57d6226fb0de3cd28b82a290773a32faf603c5b4b54e5e94a718e86b1",
+    "sha256_of": "original",
+    "working_copy": "1862_p080.jpg"
+  },
+  "text": "St. Albanthorgraben. — St. Alban-Vorstadt. 15\nNeue Haus=Nr. | Quar= tier. | Alte Haus=Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n46 | V. | 1279 | | Wezel=Maxinger, J. J.\n48 | V. | 1278 E | | Heusler=Fatio, Wb. Ester.\n50 | V. | 1278 D | | Frey=Ulrich, Heinrich, Rutcher.\n52 | V. | 1278 | | Heusler=Fatio, Wb. Ester.\n56 | V. | 1277 | | Hasler=Bonesch, Ruprecht, Schreiner.\n| | | | Weher=Rappeler, Xaver, Mechaniker.\n| | | | Heusler=Fatio, Wb. Ester.\n| | | | Heusler=Fatio, Wb. Ester, Rentiere.\n| | | | Heusler, Richard, Kaufmann.\n| | | | Heusler, Rudolf\n| | | | Tschudin=Tschopp, J. Jakob.\n| | | | Schreinerwerkstatt von P. F. Böglin.\nSt. Albanthorgraben.\n1 | IV. | 1001 | z. frohen Ausficht. | Banga=Pfaff, Rudolf.\n3 | IV. | 1000 | | Banga=Pfaff, Rudolf, Schneider.\n4 | V. | 308 B | | Sprüngli=Schmidlin, David.\n| | | | Sprüngli=Schmidlin, D., Baumeister.\n| | | | Egger=Eggmann, Sam., Bauunternehm.\n11 | IV. | 1006 A | | Rober, Andreas, u. Theod. Emlin.\n| | | | Rober-Herzog, Andreas, Baumeister.\n| | | | Trefzger, Leonhard, Koch (Traiteur).\n| | | | Zutt=Fecht, Friedrich, D. J. u. Advokat.\n31 | V. | 1271 A | | Köchlin=Geign, Alphons.\n| | | | Köchlin=Geign, Alphons, Bandfabrikant.\n35 | V. | 1273 A | | Weitnauer=Fischer, Rudolf.\n| | | | (Remise und Stallung.)\n46 | V. | 307 | | Sarasin=Sauvain, Carl.\n| | | | (Remise und Stallung.)\n52 | V. | 308 A | | Kufmaul=Schlack, Michael.\n| | | | (Heuhäuschen.)\n54 | V. | 308 | | Kufmaul=Schlack, Michael.\n| | | | Schmidlin=Fischer, Wilhelm, Director\n| | | | der Centralbahn.\n62 | V. | 306 | | Kufmaul=Schlack, Michael, Mechaniker.\n| | | | Kufmaul=Schlack, Michael.\n72 | V. | 306 A | | (Gärtnerwohnung.)\n| | | | Bischoff und Söhne.\n| | | | Bischoff=Geign, Emil, Bandfabrikant.\nSt. Alban-Vorstadt.\n1 | V. | 1354 u.55 | | Burchardt=Preiswerk, Wilh.\n| | | | Burchardt=Preiswerk, W., Bandfabrik.\n2 | V. | 1214 | zum Nußbaum. | BonderMühl=Hoffmann, Wb., A.\n4 | V. | 1215 | zum Däublein. | Catharina.\n| | | | Heusler=Wölfflin, Christof, Waifen=\n| | | | hausverwalter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7222,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2024,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0213,
+    "mean_line_chars": 42.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p080",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p080.jpg",
+      "bytes": 1411321,
+      "sha256": "9266d2b57d6226fb0de3cd28b82a290773a32faf603c5b4b54e5e94a718e86b1",
+      "sha256_of": "original",
+      "working_copy": "1862_p080.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:56+00:00"
+  }
+}

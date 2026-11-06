@@ -1,0 +1,61 @@
+40
+Engelgasse. — Fischmarkt.
+Nre
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Engelgasse.
+55 | V. | 310 A | . . . . . . . . . . . . . . | Horner=Mechel, Daniel.
+57 | V. | 310 | zur Flora. | Siegrift=Gabler, Martin.
+| | | | | Siegrift=Gabler, Martin, Part.
+64 | V. | 264 | . . . . . . . . . . . . . . | Jaeggi=Schopflin, Theodor.
+| | | | | Jaeggi=Schopflin, Theod. Bannwart.
+Fischmarkt.
+1 | VI. | 1525 | zum Binzheim. | Waffermann=Schweizer, Fritz.
+| | | | | Waffermann=Schweizer, Fritz, Buchdr.
+2 | VI. | 1524 | zum hintern Tanz. | Steinmann=Bonwiler, Jakob.
+| | | | | Montandon=Heinzer, Abr. Fried., Lithg.
+| | | | | Bader=Faesch, Ad. Sattler u. Tapez.
+| | | | | Bijchoff, Peter, Rentier.
+| | | | | Gyfin=Reichenbach, Jak., Polizeicommis.
+3 | VI. | 1523 | zum Kießen. | Christmann=Steinmann, Joseph.
+| | | | | Christmann=Steinmann, Jos. Weinhdlg.
+| | | | | Lok=Bricar, Hieronimus, Kaufmann.
+| | | | | Walter, Maria, Delikateffenhandlung.
+4 | VI. | 1522 | zum Helm. | Wölflin=Anklin, Mar. Barb., Wb.
+| | | | | Wölflin=Anklin, Mar. Barb., Fintenw.
+5 | VI. | 1521 | zum Steg. | Lacher=Dettwylar, Heinrich.
+| | | | | Lacher=Dettwylar, Heinr., Schneider.
+6 | VI. | zu 1553 | . . . . . . . . . . . . . . | Einfahrt zu Nr. 2 Stadthausgasse.
+7 | VI. | 158 | zum Lachs. | Dhl, Joh. Wilh.
+| | | | | Dhl, Joh. Wilh., Coiffeur.
+8 | VI. | 159 | zum gold. Stern. | Lüdin=Goebelin, Wb. Suf.
+| | | | | Lüdin=Goebelin, Wittwe. Suf.
+| | | | | Burkhardt, Achilles, Dr. med.
+9 | I. | 156 | zum gold. Ring. | Merian=Bister, Heinrich.
+| | | | | Merian=Bister, Heinr., Manuf.=u.Tapetl.
+10 | I. | 155 | Zunft zu Fischern. | Corporationsgut.
+| | | | | Flubacher=Wirz, Carl, Café=Wirth.
+11 | I. | 154 | zur Glocke. | Betulius=Bernoulli, Carl.
+| | | | | Betulius=Bernoulli, Carl, Apotheker.
+| | | | | Lévéque, Eduard, Kaufmann.
+| | | | | Fromann=Exlin, Heinrich, Kaufmann.
+12 | I. | 153 | zum Bubeneck. | Munzinger=Faesch, Cath. Wb.
+| | | | | Munzinger=Faesch, Cath. Wb., Kent.
+| | | | | Burkhardt=Edenstein, Heinr., Kfm.
+13 | I. | 152 | zum Salzberg. | Kleimt, Joseph.
+| | | | | Kleimt, Joseph, Uhrmacher.
+| | | | | Frey=Keller, C., Landj., Tab.=u.Cigarhdl.
+14 | I. | 151 | zum Rechtberg. | Soller=Frey, Wilhelm.
+| | | | | Soller=Frey, Wilh., Schuhmacher.
+15 | VI. | 138 | zum Rannenbaum. | Schalch=Baur, Joh. Ulrich, sel. Erb.
+| | | | | Schalch=Baur, Wb. Sal. Elis., Goldarb.
+16 | VI. | 136—137 | zum Samson. | Braendlin=Mechel, Magd. Wb.
+| | | | | Mechel=Heusler, Modehandlung.
+| | | | | Braendlin=Mechel, Mar. Magdalena.
+| | | | | Schilling, Rudolph, Bankcassier.

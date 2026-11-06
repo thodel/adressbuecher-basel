@@ -1,0 +1,19 @@
+10
+Aeschenvorstadt.
+Nro. | Neue Haus-Nr. | Quar- tier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+49 | IV. | 1017 | zum rothen Löwen. | Grauwiler, Jakob. Grauwiler, Jak., Metzger.
+50 | IV. | 984 | zum Hirschen. | Burckhardt-Forcart, Ludwig. Burckhardt-Forcart, L., Kaufmann.
+51 | IV. | 1016 | zum kleinen Löwen. | Müller-Menzlínger, Leonhard. Müller-Menzlínger, Leonh., Schlosser Cappeler, Caspar, Spital-Unterschreiber.
+52 | IV. | 987 | 3. Hirschen schmiede. | Roth-Fischer, Achilles. Roth-Fischer, Achilles, Schmied. Menrich-Hasler, Cour., Zimmerparlier.
+53 | IV. | 1015 | | Gysler, Adolf. Gysler, Adolf, Conditor. Sengelin, Henri, Commis. Bögelin, Martin, Commis. Brünchli, Johannes, Commis. Keller, Heinrich, Commis.
+54 | IV. | 988 | | Roth-Fischer, Achilles. Löw-Hasler, Friedrich, Commis. Steinmann-Hefti, Martin. Steinmann, Balthasar.
+55 | IV. | 1014 | zum Hirzenhörnli. | DeWette-Jersing, Dr. I. Wilh. DeWette-Jersing, L. W., Arzt. VonSpeyr-Ryhiner, Ed., Banquier.
+56 | IV. | 989 | zum gelben Rad. | Merian-vonMechel, Margar., Wb. Merian-vonMechel, Margaretha, Wb. Merian, Paul, Seiler. Merian-Löw, Carl, Wagner.
+57 | IV. | 1013 | zum Weiher. | Hoch-Laubheim, Jakob. Hoch-Laubheim, J., Bäcker. Müller-Linder, Franz, Particular.
+58 | IV. | 990 | | Götz-Linder, Margaretha, Wb. Götz-Linder, Margar., Wb., Part.
+59 | IV. | 1012 | | Werensels-Speiser, Emil. Werensels-Speiser, Emil, Seiler. Bieder-Wettstein, Elisab. Wb., Spezer.
+60 | IV. | 991 | zum Riedschnepf. | Riedtmann, Johann Christoph. Riedtmann, Joh. Christoph, Bäcker. Herrmann-Stehlin, Friedrich, Schmied. Kilndig, Rudolf, Tapezierer.
+61 | IV. | 1011 | | Weissenburger, Carl. Weissenburger, Carl, Commis.
+62 | IV. | 992 | zum Winkelin. | Staenz-May, Conrad. Staenz-May, Conrad, Spezerei- und Ellenwaarenhandlung.
+63 | IV. | 1010 | | Berri-Boegt, Elias. Berri-Boegt, Elias, Bäcker.
+64 | IV. | 993 | | Krug-Hörner, Hieronimus. Krug-Hörner, Hieronim., Alt-Wachmstr. Götty-Weissenburger, Georg, Rath- boten-Bifar.

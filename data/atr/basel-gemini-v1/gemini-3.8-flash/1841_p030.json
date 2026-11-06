@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p030",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p030.jpg",
+    "bytes": 957395,
+    "sha256": "8f67d9ba11de14bc5e1d2113d2fbaab62864905d1d2d798e6ac329ade18ff78a",
+    "sha256_of": "original",
+    "working_copy": "1841_p030.jpg"
+  },
+  "text": "23\nNro.\n599 Gysin, Daniel, Metzger.\n600 Bossardt, Heinrich und Jakob, Vater und Sohn, Uhrenmacher.\n601 * Mende, Gottlieb, Kübler.\n602 * Dreyfuß, Isaak, Kaufmann, Bandhandlung.\n  Imhof-Heitz, Dr. Med.\n603 Mäglin, Benedikt, Küfer und Bierbrauer.\n  Wohnlich, geb. Rosenburger, u. Rosenburger, Peter, Vater.\n604 Bebler, J. Georg, Kaufmann.\n  Höhn, geb. Fluhbacher, Maria, Kaffeewirthschaft.\n605 u. 606 Sutter, Joh., Wirthschaft.\n607 Antoni, Georg Heinrich, Kaufmann.\n  Meier, M., Indiennehandlung.\nSchnabelgäßlein.\n608 Bulacher, Emanuel, Metzger.\n609 Levi, Abraham, Waarenhandlung, von Blotzheim.\n610 * a b Tschientschy, Heinrich, Geldwechsler.\n\nC. Steinen-Quartier.\nSchnabelgäßlein.\n611 Schimpf, Wittwe, geb. Borer.\n  Schimpf, Nikolaus, Schreiner.\n  Schimpf, Andreas, Porträtmaler.\n  Päschlin, Aufseher des Missionshauses.\n612 Fischer, J. Heinrich, Küfer und Essigsieder.\nHinter der Rümlinsmühle.\n613 Schneider, Emanuel, Wittwe.\n614 Tschudy, Ulrich, Schneider, von Bennweil.\n  Leuba, Ludwig, Uhrenmacher.\n615 Dättwyler, Joh.. Metzger.\n  Knecht, Bernh., Rechnungsmeister.\n  Gaugler, Joh., Fabrikarbeiter.\n616 Stöcklin, Joh. Ulrich.\n  Holzach, Joh., Buchbinder.\n617 Langmesser, Elisabeth, geb. Gruber, abgesch.\n618 Grüninger, Rudolf, Küfer.\n  Hosch, geb. Buxtorf, Wittwe.\n  Roth, Maria, Wascherin.\n619 Merian, Friedrich, Bierbrauer.\n620 Schlosser, Fr., Glaser.\n  Bohni, Nikolaus, beim Kaufhaus.\n621 Lippe, Joh. Jakob, Müller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6646,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1420,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 32.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:45:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p030",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p030.jpg",
+      "bytes": 957395,
+      "sha256": "8f67d9ba11de14bc5e1d2113d2fbaab62864905d1d2d798e6ac329ade18ff78a",
+      "sha256_of": "original",
+      "working_copy": "1841_p030.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:30+00:00"
+  }
+}

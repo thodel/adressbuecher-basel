@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p110",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p110.jpg",
+    "bytes": 1495810,
+    "sha256": "ee1a03331cbc346f6b1c027876e42e8571c6b78110ca11119b965d88705a9fa7",
+    "sha256_of": "original",
+    "working_copy": "1862_p110.jpg"
+  },
+  "text": "Freie Straße.\n45\nNene\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n54 IV. 1185 zum Palast. Schulthef=Schneider, W. Ernst Lud.\nSchulthef=Schneider, Ernst, Modehdlg.\nWiese, Georg, Engroshandlung.\nSiehe Ringgässlein, Nr. 2.\n55 V. 1433 zum Weissenstein. Müller=Eisenlohr, Wb. Erst. sel. Erb.\nWengi, A., Goldschmied.\nSchaub, Emanuel, Fruchthändler.\n56 IV. 1188 zum grünen Ring. Von Speyr u. Comp.\nGoppelsröder=vonSpeyr, G. Fried., Kfm.\nGoppelsröder, Dr. Christ. Fried., Sohn,\nöffentlicher Chemiker.\n57 V. 1432 zum Zgel. Schnegg=Merian, Wb. Margaretha.\nSchnegg=Merian, Wb. Margth. Part.\nSchnegg, Joh. Jak., Zinn u. Glockengieß.\nUebelhardt, Joseph, Commis.\n58 IV. 1189 zur Muschel. Schwab=Preiswerk, Johannes.\nSchwab=Preiswerk, Joh., Dr. med.\n59 V. 1431 zum gelben Kopf. Garnjobst=Senn, Joh. Hermann.\nGarnjobst=Senn, Joh. Hermann, Säckler\nu. Kappenmacher, Chegerichtsamttn.\n60 IV. 1190 zum Miltenberg. Zberg, Gottlieb.\nZberg, Gottlieb, Mech. u. Optiker.\n61 V. 1430 zum weisen Boß. Bueß=Leisinger, Emanuel.\nBueß=Leisinger, Emanuel, Kaufmann.\nGötzinger, Max. Wilh., Uhrenmacher.\nDumitsch=Peier, Ed., Schreiner.\nTouffaint, Peter, Kunstmaler.\n62 IV. 1191 .................. Sutter=Baumgartner, Jakob.\nEckenstein=Gerster, Barb. Wb., Modehdl.\nEgli-Hägler, Anna Wb., Seidenhandl.\n63 V. 1429 zum rothen Boß. Woerwag=Bartenbach, Conrad.\nWoerwag=Bartenbach, Conrad, Metzger.\n64 IV. 1192 zum Ortenberg. Raillard=Weiß, Wb. Theod. sel. Erb.\nRaillard=Weiß, Wb. Maria, Uhrenhdlg.\nRaillard, Theodor, Kaufmann.\nSchulthef, Bertha u. Marg., Modisten.\nMeyer=Thurneyssen, Theod., Buchbinder.\n65 V. 1428 z. großen Elephant. Bemmerer=Köchlin, Louis.\nBemmerer=Köchlin, Ludw. Spengler.\nBohny, Gebrüder, Kleiderhandlung.\n66 IV. 1086 zur Hündin. Wolleb, Rud. sel. Erben.\nHohl, J. Rob., St. Gall.u. Appenzellwaar.\nSefer, Wilh., Zahnarzt.\n67 V. 1427 z. klein. Elephanten. Treulin=Senn, Joh. Jacob.\nBögele, Joh. Jak., Material-u.Farbwihlg.\n68 IV. 1085 zum Schlegel. Eppens=Hug, Adolf.\nEppens=Hug, Adolf, Schuhmacher.\n69 V. 1426 zum Rämpfer. Brenner=Guéniard, Adelh. Wb.\nBrenner=Guéniard, Adelheid, Wittwe.\nmarchande de nouveautés.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7227,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2141,
+    "lines": 61,
+    "longest_char_run": 18,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0084,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p110",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p110.jpg",
+      "bytes": 1495810,
+      "sha256": "ee1a03331cbc346f6b1c027876e42e8571c6b78110ca11119b965d88705a9fa7",
+      "sha256_of": "original",
+      "working_copy": "1862_p110.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:10+00:00"
+  }
+}

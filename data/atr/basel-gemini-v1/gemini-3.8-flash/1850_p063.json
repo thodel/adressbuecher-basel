@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p063",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p063.jpg",
+    "bytes": 884162,
+    "sha256": "c60ecb495f95ff0e38c40f162e7605cb0e658d58e3938ec1a689ab8fc86fee5e",
+    "sha256_of": "original",
+    "working_copy": "1850_p063.jpg"
+  },
+  "text": "50\tAeschen = Quartier.\n\n1106\tHeller-Spreyermann, H., Spezereihandlung.\n\tRohner, Wittwe, geb. Fischer.\n\nWeiße Gasse und Streitgasse.\n\n1107\tHindermann-Weydmann, J. J., Spezerei- und Käs-\n\t  handlung.\n\tHindermann, J. J., Sohn.\n\tMüller, Werner, Bestäter.\n\nWeiße Gasse.\n\n1108\tThommen, Dan., Landjäger-Wachtmeister.\n\tKnellwolf, Wittwe, Kosthaus.\n1109\tLeuthard, Wittwe, Maria, Schuhmacher.\n\nRinggäßlein.\n\n1110\tKißlig, Saml., Schuhmacher.\n1111\tDer Brüdergemeinde gehörend.\n\nWeiße Gasse.\n\n1112\tDer Brüdergemeinde gehörend.\n\tHenning, Fz. W., Vorsteher.\n\tRoth, Rudolf, Geschirrladen.\n1113-14\tSpreyermann, Joh. Georg, Schneider.\n1115\t(Neue School.) Obrigkeitlich.\n1116\t(Schlachthaus.) Obrigkeitlich.\n1117\tHindermann-Lippe, Wittwe Cath., Lithographie.\n1118\tGeßler, Karl, Metzger.\n1119\t(Remise u. Stallung.) Detloff, K. Alb., geh.\n\nPfluggäßlein.\n\n1120\tBretscher, Jakob, Schuhmacher.\n1121\tBrolli, Anton, Fabrikarbeiter.\n\nWeißgäßlein.\n\n1122\tRohner, Joh. Mark., Wirth.\n1123\tFluri, Frau Cath., abgeschied. Schmidt, Schneiderin.\n1124\tTschopp, Heinrich, Spezerei- u. Nudelnhandlung.\n1125\tSchärer-Frey, Wittwe Marie, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5813,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1108,
+    "lines": 33,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0303,
+    "mean_line_chars": 31.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0036,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p063",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p063.jpg",
+      "bytes": 884162,
+      "sha256": "c60ecb495f95ff0e38c40f162e7605cb0e658d58e3938ec1a689ab8fc86fee5e",
+      "sha256_of": "original",
+      "working_copy": "1850_p063.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:38+00:00"
+  }
+}

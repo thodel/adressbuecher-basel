@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p164",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p164.jpg",
+    "bytes": 1146126,
+    "sha256": "063509052d5f91b09a51de89791dfdf418a73ee00c883f6e6f6a32850523c1c7",
+    "sha256_of": "original",
+    "working_copy": "1841_p164.jpg"
+  },
+  "text": "- 11 -\n\n* Linder-Passavant, Emanuel. 386 Missionsgasse.\nLorenz, Wilhelm, Krankenwärter. 1756 Schneidergasse.\n* Lotz, Rosina geb. Stückelberger. 18 St. Johann-Vorst.\nLotz-Lüscher, Rud., Oberadjunkt auf der Post. 251 a.\n  St. Petersplatz.\n* Lotz-Spörlin, Hier., Pfundzoller. 713 Barfüßerplatz.\nLudwig, Joh. Heinrich, Schreiner, Weinschenk. 457 a.\n  Beim Spahlenthurm.\nLuttringshausen, J. J., Kunstmaler. 863 Thorsteinen.\n\nM.\n\nMäglin, Anton, Heuwäger. 1013 Aeschen-Vorstadt.\nMännerich, Konrad, Zimmergesell. 905 St. Elisabethen.\nMärklin-Bitterlin, Jakob, Posamenter. 218 Im Winkel.\nMartin, Johannes, Profos in der Strafanstalt. 271\n  Joh. Graben.\nMartin-Schmerber. 251 b. St. Peterplatz.\nMast-Pfannenschmid, J. J., Buchdrucker. 277 Zeughaus.\nMassini, Geschwister. 174 Brunngäßlein.\nMassini, geb. Keller, Wittwe, Quincailleriehandlung.\n  1535 Eisengasse.\nMatzinger, Rud., sel. Wittwe, geb. Müller. 86. St. Joh. Vorst.\nMatzinger, Friedrich, Kornmesser. 100 St. Joh. Schwibbogen.\nMatzinger-Hofer, Rud., Schlosser. 86 St. Joh. Vorstadt.\nMatzinger-Löw, Jak. Balthasar, Nadler. 1028 Aeschen-Vorst.\nMatzinger-Dörflinger, Christ.,* Kaufhausangestellter. 1689\n  Hinter der Rümlinsmühle.\nMaurer, Joh. Jakob, v. Bern, Zimmergesell. 338 Fröschgasse.\nMechel, Bernh. v., Landjägerfourier. 695 Im Lohnhof.\nMeyer, Ludwig, Sohn, Handelsmann. 1094 Barfüßerplatz.\nMeyer, Emanuel, Schneider. 480 Oberer Spahlenberg.\n* Meyer, Emanuel Walter, Wundarzt. 754 f. Kohliberg.\nMeyer, geb. Meyer, M. Marg. 775 Vordere Steinen-Vorst.\nMeyer, Eduard, Handels-Commis. 1274 St. Alban-Thorgasse\nMeyer, Jakob, Brunnknecht. 1570 hinter der School.\nMeyer, Karl, Handlungs-Commis. 1643 Markt.\nMeyer, Philipp Jakob, Handlungs-Commis. 670 Gerbergasse.\nMeyer, Joh. L., J. U. C., Stadtschreiber. 351 Spahlen-Vorst.\nMeyer, Anna Maria, geb. Seiler, von Baselaugst, Vor-\n  gängerin. 713 Barfüßerplatz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9398,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1852,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:02:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p164",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p164.jpg",
+      "bytes": 1146126,
+      "sha256": "063509052d5f91b09a51de89791dfdf418a73ee00c883f6e6f6a32850523c1c7",
+      "sha256_of": "original",
+      "working_copy": "1841_p164.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:57+00:00"
+  }
+}

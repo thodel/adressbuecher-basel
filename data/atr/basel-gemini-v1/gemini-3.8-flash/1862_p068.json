@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p068",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p068.jpg",
+    "bytes": 1370735,
+    "sha256": "249250c85f8cb5c7ba2c862b9f662960603c9fc21baff976bc4c87d56ca1d485",
+    "sha256_of": "original",
+    "working_copy": "1862_p068.jpg"
+  },
+  "text": "Verzeichniß der Quartiere und Straßen. 3\n\nHirzbodenweg.\nSt. Jakob.\nSt. Jakobs-Straße, links Nro. 3 bis u. mit 35\n  und von da links und rechts bis St. Jakob.\nLange Gasse.\nLehenmattweg.\nLindenweg.\nLuftgäßlein.\nMalzgasse.\nSt. Martins-Gasse Nro. 20.\nMühlenberg.\nMühlengraben.\n\n[spalte 2]\nMünchensteiner Straße, links Nro. 1, 9, 11,\n  23 und 25.\nMünsterberg.\nMünsterhof.\nMünsterplatz.\nIn den Neusätzen.\nRennweg.\nRittergasse.\nSchlüsselberg Nro. 2 bis und mit 17.\nSeevogel-Straße.\nSingerweg.\nStapfelberg, Nro. 2 und 4.\nWeidengasse.\n\nVI. Stadt-Quartier.\n\nBlumenrain Nro. 2.\nEisengasse.\nFischmarkt Nr. 1 bis und mit 8 und 15 u. 16.\nFreie Straße, links Nro. 1 bis und mit 25;\n  rechts Nro. 2 bis 38.\nGemsberg, links Nro. 1 bis und mit 11.\nGerbergasse, links Nro. 1 bis und mit 43;\n  rechts Nro. 2 bis und mit 74.\nGerbergäßlein.\nGrünpfahlgäßlein.\nHeuberg, links Nro. 13 bis und mit 33.\nUnterer Heuberg.\nHutgasse.\nKronengasse.\nSt. Leonhardsberg, rechts Nro. 2 bis u. mit 16.\nSt. Leonhards-Stapfelberg.\nMarktplatz.\nSt. Martins-Gasse, von Nro. 1 bis u. mit 20.\nSt. Martins-Gäßlein.\n\n[spalte 2]\nSt. Martinskirchplatz.\nMünzgäßlein.\nPfluggäßlein, rechts Nro. 4 bis und mit 16.\nRheinsprung.\nRüdengäßlein.\nRümelinsplatz.\nSattelgasse.\nSchifflände.\nSchlüsselberg Nro. 1.\nSchnabelgäßlein.\nSchneidergasse, links Nro. 1 bis und mit 33.\nSchwanengasse, links Nro. 1 bis und mit 11.\nSpalenberg, links Nro. 1 bis und mit 21.\nSporengasse.\nStadthausgasse, rechts Nro. 2 bis und mit 20;\n  links Nro. 1 bis und mit 11.\nStapfelberg, links Nro. 1, 3, 5 und 7.\nTrillengäßlein.\n\nVII. Bläsi-Quartier.\n\nBadergäßlein.\nBahnhofstraße Nro. 4, 6, 7, 8 u. folg.\nHintere Bahnhofstraße.\nSt. Blasien-Ringweg.\nBleicheweg.\nSt. Claragraben, links Nro. 9, 11 und 13.\nSt. Claraplatz, Nro. 1, 2, 3 und 4.\nSt. Clarastraße, links Nro. 1 bis u. mit 49.\nDrathzugstraße.\nFabrikstraße.\nFreiburger-Straße.\nGreifengasse, links Nro. 1 bis und mit 39.\nHammerstraße Nro. 25, 27, 28 u. folg.\nHorburgstraße.\nKlingenthal.\nKlingenthalgraben.\n\n[spalte 2]\nKlingenthalstraße.\nKlybeckstraße.\nMattweg.\nOchsengasse.\nRappoltshof.\nUntere Rebgasse.\nUntere Rheingasse.\nUnterer Rheinweg.\nRiehen-Straße, links Nro. 29 bis und mit 83.\nRiehenteichweg.\nSägergäßlein.\nSchorenweg.\nTeichgäßlein.\nBei der Wiesenschanze.\nWebergasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9033,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2245,
+    "lines": 99,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0202,
+    "mean_line_chars": 21.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p068",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p068.jpg",
+      "bytes": 1370735,
+      "sha256": "249250c85f8cb5c7ba2c862b9f662960603c9fc21baff976bc4c87d56ca1d485",
+      "sha256_of": "original",
+      "working_copy": "1862_p068.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:03+00:00"
+  }
+}

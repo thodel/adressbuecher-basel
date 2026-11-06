@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p109",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p109.jpg",
+    "bytes": 1033053,
+    "sha256": "bc27c22801052cd908333859635088ebcd06f59cf7a65c4dfa192223dc5096b5",
+    "sha256_of": "original",
+    "working_copy": "1850_p109.jpg"
+  },
+  "text": "Register.\n(Die mit * bezeichneten Nummern find im Kl. Basel.)\nAbig, Em., Spengler                          *78  | Aenig, G.                            *93\nAbig, G., Schloffer                        *100  | Aisch, K., Posamenter               1502\nAbt, Bl., Hausknecht                       1314  | Aismus, Fr., Zimmerm.                *72\nAbt, F. P., Conduct.                        1557  | Audran-Ebner, Alex.                   208\nAckermann, B., Schule                        698  | Auer, Karl Jakob                     785\nAckermann, P., Fuhrh.                        977  | Aweng, Rud., Beck                     90\nAenishänslı, M.                           *156  | Awengen, F. F., Archit.             267A\nAlbäck, F. H., Quincail.                  1447  | Awengen, Wittwe                      352A\nAlbtez, Joh., Kostgeber                     194  | Awengen, K., Commis                  441\nAlbrecht, K., Spezierer                     *281  | Baader, Fr., Inspektor                939\nAlibert, F., Strohhuth.                   1424  | Bachmann, C., Commis                 862\nAllinger, Albwart                           1634  | Bachmann, Geschwister                894\nAllioth, Siegm., M. Dr.                    1202  | Bachofen, G., Metzger                308\nAllemann, Urs, Maurer                       788  | Bachofen, F. M.                      875\nAllemann, Ch., Wirth                       *378  | Bachofen, F. F., Trait.             1175\nAllemann, Urs Joseph                        922  | Bachofen, F. F., Bandf.             1209\nAllenspach, Spezierer                      1330  | Bachofen, F. F., J. U. D.           1209\nAlt, Frau, geb. Mechel                       629  | Bachofen, W., Bandfab.             1209\nAlt, Daniel, Beck                          *152  | Bachofen, K., Bandfab.             1510\nAltorfer, H., Messerschm.                    658  | Bader, Jos., Wirth                    298\nAmans, F. W., Hutn.                        1541  | Bader, Joh., Spezierer                640\nAmans, A., Dessinateur                     1541  | Bader, U. F., Spengler                727\nAmans, H., Commission.                     1541  | Bader, Adolf, Sattler                1393\nAmman, A., Siebmach.                         671  | Bader, H., Maurer                   *301\nAmmon, Joh. F.                             343—44  | Baldner-Nörbel, F. Ch.              1158\nAndreas, F., Postoffiz.                    *67  | Bamberger, F., Commis                 397\nAndreas, Wwe., Schuhm.                     *67  | Banga, R., Schneider                 1001\nAnflin, Jos., Schreiner                     765  | Bär, Th. R., Perrückenn.             580\nAnstein, Joh., Küfer                         97  | Bär, Abr., Perrückenn.             1567\nAnstein, Wwe., Helena                      1092  | Bärrı, H., Blattmacher               371\nAnstein, F. F., Küfer                     1378  | Barth, D., Bauverwalt.               286",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7134,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2924,
+    "lines": 33,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 87.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p109",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p109.jpg",
+      "bytes": 1033053,
+      "sha256": "bc27c22801052cd908333859635088ebcd06f59cf7a65c4dfa192223dc5096b5",
+      "sha256_of": "original",
+      "working_copy": "1850_p109.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:22+00:00"
+  }
+}

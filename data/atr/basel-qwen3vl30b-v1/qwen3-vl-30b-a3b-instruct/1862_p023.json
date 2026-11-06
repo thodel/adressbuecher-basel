@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p023",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p023.jpg",
+    "bytes": 1248628,
+    "sha256": "fe0d2abf06ca272c99ec3246c5ee131be419fb87f31791ca82b129c0ef5bcf04",
+    "sha256_of": "original",
+    "working_copy": "1862_p023.jpg"
+  },
+  "text": "XX G. Gesellschaften d. Stadt Basel. — Privat-Gemeinden.\nDie C. Gesellschaften der Stadt Basel.\nRebhaus.\nHr. Sam. Minder, neuer Meister.\n„ G. Bischoff, J. U. D., alter Meister.\nHären.\nHr. Albert Loz, neuer Meister.\n„ Friedrich Schaffner, alter Meister.\nGreiffen.\nHr. Amadeus Merian, neuer Meister.\n„ Rudolf Bienz-Deschger, alter Meister.\nMeister der Vorstadt-Gesellschaften.\nSt. Johann: Hr. Daniel Preiszwerk-Keller.\nSpalen: „ Rud. Merian-Frischmann.\nSteinen: „ Ludwig Merian, Bater.\nAeschen: „ Karl Burkhardt-Heufler.\nSt. Alban: „ Wilhelm Ifelin.\nDie Feuerschützen.\nHr. Friedrich Loz-Eglin, Ober-Schützen-\nmeister.\n„ Joh. Jak. Hindermann-Merian, Ober-\nSchützenmeister.\n„ Heinrich Merian-BonderMüll, Seckel-\nmeister.\n„ Dr. Joh. Jakob Wirz, Sekretär.\n„ Fr. Merian-Brandmüller,\n„ Wilh. Falkner,\n„ Rud. Schneider-Grifanti,\n„ Friedr. Buser-Eschudy,\n„ Rudolf Schmid-Haas,\nSchützen-\nmeister.\nPrivat-Gemeinden.\nEvangelische Brüder-Societät.\nGegründet 1740.\nVersammlungsaal Ringgäklein Nro. 4.\nHr. Senft, Vorsteher.\nKatholische Gemeinde.\nGegründet 1798.\nGeistlicher Vorstand.\nHr. Burkhardt Jurt, Pfarrer.\n„ Nic. Flury, Vikar.\n„ Jos. Günther, Hilfspriester.\n„ Brey, Abbé, Hilfspriester.\nWeltlicher Vorstand:\nHr. Carl Wahr, Präsident.\n„ Hauser-Businger.\n„ Pfeifer-Elmiger.\n„ Paul Meyer.\n„ Adam Weiß.\n„ Etienne Haas.\n„ Fridolin Eckert.\n„ Theobald Rech.\n„ Peter Leuthardt.\nHr. Wilhelm Jöpger.\n„ Victor Cruffaire.\n„ August Schäublin.\n„ Leonhord Schäle.\n„ Joseph Emenegger.\n„ Alohs Frey.\nKatholische Schule.\nGegründet 1800.\nHr. Michael Göpp, Oberlehrer.\n„ Jacob Küfer, Lehrer.\n„ Ignaz Scheel, Lehrer.\nFreie Gemeine.\nHr. Niklaus Bernoulli, Vorsteher.\nApostolische Gemeinde.\nGegründet 1849.\nDie Gemeinde feiert ihre Gottesdienste zur\nZeit noch in Nro. 27 Neue Vorstadt und zwar\nSonntags früh um 6 Uhr, Vormittags\nhalb 10 Uhr mit Feier des heil. Abendmahls,",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5711,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1840,
+    "lines": 73,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0274,
+    "mean_line_chars": 24.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p023",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p023.jpg",
+      "bytes": 1248628,
+      "sha256": "fe0d2abf06ca272c99ec3246c5ee131be419fb87f31791ca82b129c0ef5bcf04",
+      "sha256_of": "original",
+      "working_copy": "1862_p023.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:36+00:00"
+  }
+}

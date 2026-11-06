@@ -1,0 +1,63 @@
+22
+St. Andreasplatz. — Augustinergasse.
+Nrn
+Neue
+Haus-Nr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+10 | II. | 547 B a | | Buz-Kieder, Josef Franz.
+| | | | (Magazin.)
+11 | II. | 547 C a | | Buz-Kieder, Josef Franz.
+| | | | Weiß-Klarren, Wilhelm, Knecht.
+12 | II. | 547 C b | | Buz-Kieder, Josef Franz.
+| | | | (Magazin.)
+13 | II. | 547 a | | Wiesendanger-Peter, Adam.
+| | | | Wiesendanger-Peter, Adam, Schuhm.
+| | | | Brauneisen, Therefia, Modiste.
+14 | II. | 588 | zum hintern Seffel. | Schweizer, Nikl., Schreiner und
+| | | | Frau S. Weber-Verbert.
+| | | | Weber-Verbert, S. Friedr., Kaufmann.
+| | | | Wick-Burggraf, Mart., Spezierer.
+| | | | Sutter-Glor, Rud., Schreiner.
+| | | | Koch-Joerz, Joseph, Schreiner.
+| | | | Hunziker-Hartmann, Jak., Holzhändler.
+15 | II. | 587 | zum St. Andreas. | Follenweider, Gebr.
+| | | | Follenweider, Adolf, Porträtmaler.
+| | | | Follenweider, Albert Rud., Kaufmann,
+| | | | Cigarren- u. Tabakhandlung,
+| | | | Schwander-Schneider, Matth.
+| | | | Schwander-Schneider, Matth., Kaufhsarb.
+| | | | Schwander, Mt., Sohn, Commis.
+16 | II. | 586 | 3. Hofftätten. | Sandreuter-Reinhard, Wb. Jakobea
+| | | | Catharina, Schneiderin.
+17 | II. | 585 | 3. hint. Thurnschaale | Steib, J. Michael.
+| | | | Brunner-von Arx, Dan.
+| | | | Siehe Nro. 18, Schneidergasse.
+18 | II. | 582 | zum kl. Esringen. |
+Augustinergasse.
+1 | V. | 1484 | 3. hohen Sonnenluft | DeBary-Sarasin, Joh.
+| | | | DeBary-Sarasin, Joh., Bandfabrikant.
+| | | | DeBary, Aug., Bandfabrikant.
+2 | V. | 1489 | Museum. | Staat.
+| | | | Gerlach, Franz Doroth., Prof. u. Ober-
+| | | | bibliothekar.
+| | | | Kaufmann-Marbach, Franz, Abwart des
+| | | | Museums und Buchbinder.
+3 | V. | 1483 | | DeBary-Sarasin, Joh.
+| | | | DeBary-Burckhardt, Joh., Bandfabrik.
+4 | V. | 1488 | Morituro sat. | Bachofen-Merian, Joh. Jak.
+| | | | Moergelin, Joh., Tabakfabrikant.
+5 | V. | 1482 | zum gold. Stauffen | Bischoff-Burckhardt, Wilh.
+| | | | Bischoff-Sarasin, Alb., Bandfabrikant.
+6 | V. | 1473 B | Reinacherhof. | Burckhardt-Keller, Johann Rudolf.
+| | | | (Stallung, Remise u. Kutscherwohn.)
+7 | V. | 1481 | zum Rappenfels. | Fischer-Burckhardt, Heinrich.
+| | | | Fischer-Burckhardt, Heinr., Schreiner.
+8 | V. | 1473 A | Reinacherhof. | Burckhardt-Keller, Johann Rudolf.
+| | | | BonderMühl-Bilrgy, Wb. Mar., Rent.
+| | | | Frey-Stähelin, Wb. Doroth., Rent.

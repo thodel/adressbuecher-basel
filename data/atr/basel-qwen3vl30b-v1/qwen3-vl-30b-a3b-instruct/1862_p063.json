@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p063",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p063.jpg",
+    "bytes": 1361655,
+    "sha256": "012a651c979b1430bb02ada59e6bba385e1a14311a7459d28a4c93590ce7c211",
+    "sha256_of": "original",
+    "working_copy": "1862_p063.jpg"
+  },
+  "text": "LX Berichtigungen, Sandänderungen und Neubauten.\nSeite. | Straße. | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.\n---|---|---|---|---|---\n74 | St. Johann-Vorstadt. | lies | 88 | I | 1 B | Hübicher=Lichtenhahn, Wilh.\n75 | \" | einschalt. | 90 | I | 155 b | Landjägerposten.\n76 | \" | \" | 3 | I | 244 | Betulius-Bernoulli, Carl.\n77 | Klingerbergstr. | lies | 4 ft. 6 | I | 34 | Stöcker, Johannes, Zimmermann.\n77 | Kohlenberg. | \" | 17 | III | 760 | Wybert-Thurneyssen, Joh. Jac., sel. Erben.\n78 | \" | \" | 1 | III | 744 A | Kohrer, Johannes.\n78 | Kohlenberggasse | \" | 8 | III | 752 A | Plattner, Johannes u. Ed. Bruckner=Merian.\n78 | \" | \" | 4 | III | 752 B | Bruckner=Merian, Eduard.\n79 | \" | \" | 6 | III | 795 B | Imhof=Forhart, J. J. (z. Steinenmihle.)\n79 | \" | \" | 30 | III | 795 A | Imhof=Forhart, J. J.\n80 | Lehenmattweg. | \" | 32 | III | 347 | Stadtgemeinde (Flohhaus).\n80 | \" | \" | 8 | V | 340, b, c. | Heusler=Fatio, Wb. Esther.\n81 | \" | \" | 16,18,20 | V | 341 | Heusler=Fatio, Wb. Esther.\n81 | \" | \" | 22 | V | 284 | Willin, Johannes, wohnt allda.\n81 | \" | \" | 32 | III | 692 | Boillat=Stihl, Cölestin, Schreiner.\n81 | Leimenstraße. | einschalt. | 8 | III | 445 | Heinz=Huber, Eduard (z. Paradies).\n81 | St. Leonhards-Berg. | lies | 15 | III | 436 | Stühelin, Pfar. Joh. sel. Erben.\n83 | St. Leonhards-Graben. | \" | 23 | II | 381 | Schnell=Burckhardt, Wb. Mar. Sal.\n84 | \" | \" | 41 | II | 391 | Staat (Siegristenwohnung).\n85 | St. Leonhards=Stapfelberg fümmtliche Nummern in's Stadtquartier (VI), statt Steinenquartier (III) zu setzen.\n85 | \" | lies | 3 | VI | 685 | Böhler, Wb. Catharina (z. oben Reinach).\n87 | Malzgasse. | \" | 4 | V | 1239 b | Merian, Ed. de J. J. sel. Erben.\n88 | \" | \" | 17 | V | 1251—52 | Dobler=Burckhardt, Emil. sel., Erb.\n88 | St. Margareth.=Straße. | einschalt. | 10 | III | 1489 b | Burckhardt, Friedrich, Agent.\n90 | St. Martins-gasse. | lies | 20 | V | 1489 b | Staat (Spritzenhaus).\n91 | Missionsstraße. | einschalt. | 2 | II | 42 | C. C. Bann von St. Peter u. St. Leonhard (Gottesackerkapelle).\n94 | Mostackerstraße | lies | 17, 19, 21 | III | 152 A,a,b. | Plattner=Hofsch, Johannes statt Jac.\n95 | \" | einschalt. | 23 | III | 154 b | Geßler=Plattner, Emil.\n95 | \" | lies | 40 | III | 164 A | Schilling=Weitnauer, Wb. Margar.\n95 | \" | \" | 42 | III | 164 | Roschet=Mangold, Hieronimus.\n95 | \" | \" | 44 u. 48 | III | 163 A | Steib=Anstein, Math.\n95 | \" | \" | 50 | III | 162 A | Ernst=Rudin, Joh. (Magazin).\n98 | Münsterplatz. | \" | 6 | V | 1465, 66 | Stüdkelberger, Wb. Ernestine.\n99 | \" | \" | 19 | V | 1457 ft. 58 | Rosenburger=Rapp, Wb. Anna Elisabeth (ehem. Oberstpfarrhaus).\n99 | \" | \" | 5 u. 9 | VI | 1680 u. 81 | Schoch, Joh. Jac. (z. alten Münz).\n101 | Münzgäßlein. | \" | 12 | VI | 1709 | Roschet, Emil (z. Sperber).\n101 | Madelberg. | \" | 19 | II | 546 | Hauser, Caspar.\n101 | \" | \" | 24 | II | 511 | Fürstenberger=Burckhardt, sel. Erben (z. Platte).",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10173,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2915,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 70.12,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:27:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p063",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p063.jpg",
+      "bytes": 1361655,
+      "sha256": "012a651c979b1430bb02ada59e6bba385e1a14311a7459d28a4c93590ce7c211",
+      "sha256_of": "original",
+      "working_copy": "1862_p063.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:50+00:00"
+  }
+}

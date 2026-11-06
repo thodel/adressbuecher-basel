@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p154",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p154.jpg",
+    "bytes": 1046132,
+    "sha256": "bd661a6c14ba736eacd8c64c31a861b0d89c875fd8f146aaab31608aada2e51f",
+    "sha256_of": "original",
+    "working_copy": "1841_p154.jpg"
+  },
+  "text": "Groß:Basel.\nAlphabetisch geordnetes Namens-Register.\nN.\nAbt, geb. Bölkle, und Tochter, von Arlesheim, Schnei-\nderin. 1416 Spitalsprung.\nAllinger, Jakob, Flachmaler. 204 Spiegelgasse.\n* Allioth, Joh. Sigmund, Kaufmann. 1202 Luftgäßlein.\nAlt, Daniel, Bater, Stubenverwalter (Wirthschaft). Zunft\nzu Gerbern. 637 Gerbergäßlein.\nAlwens, August, Musiklehrer. 1390 Am Bäumlein.\nAnstein, geb. Lok, Helena, Wittwe. 1378 Am Bäumlein.\nAntoni, Georg Heinrich sel., Wittwe, geb. Schilling. 607\nUnterer Spahlenberg.\nB.\nBaader, Friedr., Unterbau-Inspectör. 1533 b. d. Rheinbrücke.\nBachofen, Joh. Jakob, Sohn, J. U. Dr. 1209 Rittergasse.\nBachofen, Joh. Jakob, Tuchschérer. 875 Thorsteinen.\nBachofen=Miville, Hier., Koch. 651 Gerbergasse.\nBader, Johannes, Meßger und Aufwärter, Freimaurer-\nLoge. 1450 Schlüsselberg.\nBarrey, Wittwe, geb. Kath. Maglin. 848 Unterer Klosterberg.\nBattier, Felip, Postoffiziant. 169 Storchengasse.\nBauler, Margaretha, Jungfrau. 1006 Ueschen=Vorstadt.\nBauler, Emanuel, Siegriff an der St. Alban=Kirche.\n1263 St. Alban=Thorgasse.\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3696,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1040,
+    "lines": 26,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:59:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p154",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p154.jpg",
+      "bytes": 1046132,
+      "sha256": "bd661a6c14ba736eacd8c64c31a861b0d89c875fd8f146aaab31608aada2e51f",
+      "sha256_of": "original",
+      "working_copy": "1841_p154.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:55+00:00"
+  }
+}

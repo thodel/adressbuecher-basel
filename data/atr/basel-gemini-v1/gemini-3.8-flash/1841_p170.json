@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p170",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p170.jpg",
+    "bytes": 1096770,
+    "sha256": "abb2b94ae9219a3b8c8809f9163598b9a7050cab4a5fe8c53f33915cfa5d21f7",
+    "sha256_of": "original",
+    "working_copy": "1841_p170.jpg"
+  },
+  "text": "— 17 —\n\nSpindler, Leonh., v. Liestal, Zimmermann. 1316 St. Alb.Vst.\nSpörlin, Rudolf, Speddermeister. 399 Heuberg.\nSprenger-Fäsch, Margaretha, Wittwe, Seidenwaaren-\nlager. 1728 Markt.\nSprüngli-Schmidlin, David, Architekt. 1009 Aeschen-Vst.\nStähelin, Emil, Dr. der Med., Chir. und Geburtshülfe\n319 Spahlen-Vorstadt.\nStähelin, Balthasar, sel. Wittwe, geb. Merian. 1095\nBarfüßerplatz.\nStähelin, Karl, Kaufmann, Firma: Stähelin und Comp.\n1179 Freienstraße.\nStähelin, Gottfried, Sohn, Kaufmann. 313 Spahlen-Vst.\n* Stähelin Bischoff, Bened., Bandfabr. 377 und 378 St.\nLeonhardsgraben.\nStähelin-Stähelin, Rud., Kaufmann. 816 Vordere\nSteinen-Vorstadt.\nStarke, Christ. Daniel, Fabrikarbeiter. 1534 Eisengasse.\nStehlin, Benedikt, Maurerpolier. 1235 St. Alban-Vorst.\nSteiger, Joh. Jakob, Handlungs-Commis. 483 Oberer.\nSpahlenberg.\nSteigmeyer-Kyburz, Joh., Schreiber. 1627 Unt. Freienstr.\nSteinmann, Gottfried, v. St. Gallen, Part. 257 b.\nNeue Vorstadt.\nSteinmann, Peter, Kutscher. 1245 Malzgasse.\nSteinmann, Johannes, Naturalist. 1316 St. Alb. Vorst.\nStempel-Bureau. 623 Grünpfahlgäßlein, beim Kaufhaus.\n* Sternenberger, J. J. 195 Herbergberg.\nStocker, Anton, Chorist. 257 b. Neue Vorstadt.\nStraumann-Wertenberg, Rud., Ferger. 1242 Malzgasse.\nStreckeisen-Hosch, Emanuel, Kaufmann. 1731 Beim\nKornmarktbrunnen.\nStreuber, Wilh. Theod., Cand. der Theol. 107 Blumenrain.\nStrub, Georg, Schuhmacher. 720 Hinter dem Stöcklin.\nStrübin, Joh. Jakob, Sohn, Uhrenmacher. 521 Adelberg,\nStückelberger, Johannes, Cand. d. Theol. 416 Heuberg.\nStückelberger-Berri, Sus., Wittwe, Part. 546 Adelberg.\nStuder, Jakob, Seidenfärbergesell. 1710 Unt. Spahlenb.\nStupanus, Heinrich, Buchbinder, 700 St. Leonhardsberg.\nSulger-Stähelin, And., Kaufmann. 1181 Freienstraße.\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7229,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1732,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:03:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p170",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p170.jpg",
+      "bytes": 1096770,
+      "sha256": "abb2b94ae9219a3b8c8809f9163598b9a7050cab4a5fe8c53f33915cfa5d21f7",
+      "sha256_of": "original",
+      "working_copy": "1841_p170.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:45+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p055",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p055.jpg",
+    "bytes": 879976,
+    "sha256": "3adda6184a3092eb108ee6a9e7e10b3c1a1a9bd9a83528b258feb7e31c4c531f",
+    "sha256_of": "original",
+    "working_copy": "1841_p055.jpg"
+  },
+  "text": "48\nNro. St. Alban:Vorstadt.\n1334 Bärwart=Carle, Joh., Handels-Commis und Agent der Stutt-\ngarter Renten-Anstalt.\nCarle, Leonhard, Mundarzt.\n1335 Gesellschaftshaus zum h. Dolder. Schärer, Felix, Traiteur.\n1336 Unstein, J. J., Küfer.\n1337 Gernler, J. J. sel., Wittwe.\n1338 Hermann, Adam, Schlosser.\n1339—1342 * Bischer=Legrand sel. Wittwe.\nStähelin=Bischer, Handelsmann.\n1343 * Bischoff=Frey sel. Wittwe geh.\nBischoff=Preiswerk sel. Wittwe.\n1344 Bischoff=Frey sel. Wittwe.\nBischoff, Christoph.\n1345 Burkhardt, Carl, alt Dreierherr.\nVon der Mühl=Burkhardt, Georg.\n1346 Bischoff=Frey, Joh. sel., Wittwe.\nFirma: Christoph und Joh. Bischoff.\n1347 * Derselben. Bischoff=Stähelin, Carl.\n1348 Wieland=Bischoff, Oberst sel., Wittwe.\n1349 Burkhardt, Christoph.\n1350 Guth, Rud. sel., Wittwe, Megger.\nGuth, Rud., Sohn, dito\n1351 Burkhardt, Gedeon.\n1352 Thurneisen=Burkhardt, Balthasar.\n1353 Bernoulli, Nikl., Notar und Criminalgerichts-Präsident.\n1354 Thurneisen, Joh. Fr., Weißbeck.\nHeusler=Thurneisen, Dan., Handelsmann.\n1355 Forkart=Marian, Dietrich.\nNittergasse.\n1356 Burkhardt=Werthemann, Eman.\nFirma: Burkhardt, Dietrich.\n1357 Ebendemselben. Müller, Joh. Jakob, Appreteur.\n1358—1360 Bischer, Benedikt, Oberst.\nBischer=Handmann, Sohn.\n1361 Merian=Burkhardt, J. J.\n1362 Merian, Dan. de Phil.\n1363 Bischoff, Achilles.\nBischoff, Sara, Jungfer.\n1364 Bischer=Valentin, Wilh.\nParavicini=Bischer, Rud.\n(Firma: Bischer und Sohn.)\n1365 Ryhiner=Streckeisen, A. P., Wittwe.\nStreckeisen=Cäsar sel., Wittwe.\n1366 Bischer, Sal. und Sus., Jungfern.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4802,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1525,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:48:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p055",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p055.jpg",
+      "bytes": 879976,
+      "sha256": "3adda6184a3092eb108ee6a9e7e10b3c1a1a9bd9a83528b258feb7e31c4c531f",
+      "sha256_of": "original",
+      "working_copy": "1841_p055.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:56+00:00"
+  }
+}

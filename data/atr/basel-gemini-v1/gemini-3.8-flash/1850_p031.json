@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p031",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p031.jpg",
+    "bytes": 1132988,
+    "sha256": "ed5024101ea04acc7cd860819da3c03d4fe236bfb9f07d0f1ef886c4ed03665c",
+    "sha256_of": "original",
+    "working_copy": "1850_p031.jpg"
+  },
+  "text": "Spahlen-Quartier. 19\n\n  406 Dettwyler, J. J., Alt-Sternenwirth, Wittwe.\n  407 Neuschwander, D., Spannmstr.\n  408 Herzog, Jungfrau Esther.\n\nTrillengäßlein.\n\n  409 Kaul, Frau Maria, Krankenwärterin.\n  410 Fricker, Wittwe, Kostgeberin.\n  411 Bögle, Simon, Maurer.\n  412 Bonin, Georg, Schreiner.\n\nHeuberg.\n\n  413 Huber, J. J., Pfarrer.\n  414 Direktions-Comite des Vereins der Freunde Israel.\n  Hemann, David, Proselytenlehrer.\n  415 VonSpeyr’sches Fidei-Commis-Haus. [handschriftlich: J. E. Burckh Maler]\n  VonSpeyr, Joh. H., Alterthümerkabinet\n  416 Nözlin, Ulr., Weinhandlung.\n  417 Merian-Miville, Chr., Wittwe, Kapitalistin.\n  Merian, Eml., Apotheker.\n  418 Brunner, And., Commis.\n  419 Oser-Iselin, W., Amtsdiener.\n  Hunzicker, A. A., Agent.\n  Kirsch, F. Bhd., Mechaniker.\n  420 Kündig, Andreas, Küfer.\n  Rochow, J. F., Commis.\nA 421 Magazin.\nB 421 Hinterhaus von Nr. 426.\n  422 Frey, Heinrich, Fabrikarbeiter.\n  423 Schweickhardt, Eml. Jak., Schuhmacher.\n  424 Goßwyler, Konrad, Eselhalter.\n  425 Säuberlin, Wittwe.\n  426 Bider, Joh., Hausknecht.\n  427 Jäcklin, Christ., Schreiner.\n  428 Wassermann, Joh. R., Kaminfeger.\n  429 Dietrich, Wittwe, A. M., geb. Ehinger.\n  430 Schatzmann, Konrad, Maurer.\n  431 Stauber, Rudolf, Apreteur.\n  432 Schaub, J. Georg, Ferger.\n  Schaub, R., Buchbinder.\nA 432 Großmann, J. J., Maurer.\n  433 Lichtenhahn-Gysler, Ben., Wechsel-Sensal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6698,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1371,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p031",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p031.jpg",
+      "bytes": 1132988,
+      "sha256": "ed5024101ea04acc7cd860819da3c03d4fe236bfb9f07d0f1ef886c4ed03665c",
+      "sha256_of": "original",
+      "working_copy": "1850_p031.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:19+00:00"
+  }
+}

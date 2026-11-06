@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p138",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p138.jpg",
+    "bytes": 975189,
+    "sha256": "aa6ea6ea0c8777f315fe2ab6b9a63d8086b3f097ff252b3ddfc543f465d6c9c1",
+    "sha256_of": "original",
+    "working_copy": "1841_p138.jpg"
+  },
+  "text": "55\nGubler, Jakob, Blattmacher. 270 Beim Bläsithor.\nGukwiller, Ignaz, Kunstmaler. 183 Rebgaſse.\nGyſin, Ulrich, Seidenfärber. 435 Udengaſse.\nH.\nHaag, Wittwe, geb. Ursula Erlacher. 171 Rebgaſse.\nHaag, Samuel, Commis. 8 An der Rheinbrücke.\nHaas, Hieronymus, Müller. 354 Ochſengaſse.\nHalder, Franz Joseph, Gerbergeſell. 261 Im Rumpel.\nHartmann, Samuel, Kaufmann. 108 Am Lindenberg.\nHasler, Niklaus, Schullehrer. 206 a Rebgaſse.\nHaufer, geb. Jäsch, Wittwe. 378 Bei der Rheinbrücke.\nHecht, Jakob, Zimmermann. 125 Obere Rebgaſse.\nHenz, Nikolaus, Hafner. 12 An der Rheinbrücke.\nHerzog, Joh. Jakob, Sohn, Notarius. 49 Rheingaſse.\nHekel, Joh., Gewerbsführer. 266 Im Rumpel.\nHeusler, Abraham, Candidat der Theologie. 176 Rebgaſse.\nHeusler, Joh., Schneider. 32 Rheingaſse.\nHeusler=Jfelin, Dan., Präsident des Stadtraths. 206 Rebgaſse.\nHeusler=Thurneyſen, Leonhard. 368 Untere Rheingaſse.\nHill, Joh. Jakob, Fabrikarbeiter. 82 Rheingaſse.\nHindenlang, J. Rud., Schiffmann. 86 Rheingaſse.\nHindenlang, Carl Friedrich, Seidenfärber. 206 Rebgaſse.\nHindenlang, J. J., Schiffmann. 59 Rheingaſse.\nHindenlang, Heinrich, Küfer. 120 Obere Rebgaſse.\nHindermann, J. Caspar, Schönfärbler. 290 Webergaſse.\nHindermann, Philipp, Unterlehrer. 135 Kirchgäflein.\nHik, J. J., Schreiners sel. Wittwe, geb. Bohny. 226 Greifengaſse.\nHörler, Joh., Pastetenbäcker. 389 Krempergaſse.\nHörler=Früh, J. J., Sohn. 389 Krempergaſse.\nHoser, Reinhard, Schneider. 234 Greifengaſse.\nHoser, Sebastian. 384 Krempergaſse.\nHorner, Joh. Heinrich, Weißbeck. 215 Greifengaſse.\nHosch, Johannes, Schneider. 33 Rheingaſse.\nHottenfen, Carl Aug. Fried., Gerber. 201 Rebgaſse.\nHuber, Heinrich, Seidenfärber. 180 Rebgaſse.\nHuber, Heinrich, Straßenpflasterer. 74 Rheingaſse.\nHuber, Hieronymus, Weinschenk. 188 Rebgaſse.\nHuber, Joseph, Hauptmann. 188 Rebgaſse.\nHug, Georg, Fischer. 42 Rheingaſse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6167,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1829,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:58:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p138",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p138.jpg",
+      "bytes": 975189,
+      "sha256": "aa6ea6ea0c8777f315fe2ab6b9a63d8086b3f097ff252b3ddfc543f465d6c9c1",
+      "sha256_of": "original",
+      "working_copy": "1841_p138.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:53+00:00"
+  }
+}

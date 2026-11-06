@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p019",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p019.jpg",
+    "bytes": 1292206,
+    "sha256": "d49dcd09e970fe3a16fad787efd39238298818385fb8d1a01d227e74477a81f2",
+    "sha256_of": "original",
+    "working_copy": "1862_p019.jpg"
+  },
+  "text": "XVI Lehr- und Schulanstalten. — Ehrw. Geistlichkeit.\nB. Gemeindeschulen der Stadt Basel.\nKnabenschulen.\nMünstergemeinde:\nFr. Leonhard Oser, S. M. C.\n„ Rudolf Hoz.\n„ David Witzig.\n„ David Glaz (an der provisorischen Parallelklasse).\nSt. Petergemeinde:\n„ Jakob Müller, S. M. C.\n„ W. Bubek.\n„ Joh. Martin Hübscher.\nSt. Leonhardgemeinde:\n„ Benedikt Meyer.\n„ Heinrich Widmann.\n„ H. L. Böllmy.\nSt. Theodorgemeinde:\n„ Friedrich Schaffner.\n„ Philipp Hindermann.\n„ Samuel Burckhardt.\nMädchenschulen.\nMünstergemeinde:\nFr. Eduard Tobler, Hauptlehrer.\n„ Joh. Schneider, Sohn.\nFrau Seiler-Mast, Lehrerin im Französ.\n„ Perret, Lehrerin in weibl. Arbeiten.\n„ Koch-Ruster, desgl.\nSt. Petergemeinde.\nFr. Christoph Weiß, S. M. C., Hauptlehrer.\n„ Franz Schöllly.\nIgfr. Sophie Burckhardt, Lehrerin im Französischen.\nFrau Wagner, Lehrerin in weibl. Arbeit.\nIgfr. Elise Jffenthaler.\nSt. Leonhardgemeinde:\nFr. Christ. Beck, Hauptlehrer.\n„ Carl Schmidt.\n„ Fr. Erhardt Schneider, Vater.\nIgfr. Charlotte Schneider, Lehrerin im wissensch. Unterricht.\nFrau Schneider, Lehrerin in weibl. Arb.\n„ Dorothea Rosenfeld, Lehrerin in weibl. Arbeiten.\nSt. Theodorgemeinde:\nFr. Friedr. Fäsch, Hauptlehrer.\n„ Wilh. Glaz.\n„ Flury-Halbmeyer.\nIgfr. Emma Favre, Lehrerin im Franz.\nFrau Rebamen, Lehrerin in weibl. Arb.\nIgfr. Marg. Bürgin, Lehrerin in weibl. Arbeiten.\nDie Ehrwürdige Geistlichkeit.\nKirchenrath.\nFr. Antistes Samuel Preiswerk, Th. D.,\nPräsident.\n„ Rathsherr Adolf Christ.\n„ „ Leonhard Heusler.\n„ „ Stadtrath Hieronimus Burckhardt.\n„ C. R. Hagenbach, Th. D.\n„ J. J. Stähelin, Th. D.\n„ J. G. Müller, Th. D.\n„ Joh. Riggenbach, Th. D.\n„ Pfarrer J. J. Miville.\n„ „ Euch. Ründig.\n„ „ J. J. Bischoff.\nSchreiber: Herr Obersthelfer Abel Burckhardt.\nEhrw. Stadt- und Land-Ministerium.\nIm Münster:\nFr. Sam. Preiswerk, Th. D., Pfarrer und Antistes.\n„ Abel Burckhardt, oberster Helfer.\n„ Immanuel Stockmeyer, Th. D., Pfr. bei St. Martin, zweiter Helfer.\n„ Samuel Preiswerk, Sohn, Pfarrer bei St. Alban, dritter Helfer.\n„ Carl Sartorius, Pfarrer bei St. Elisabeth, vierter Helfer.\nZu St. Peter.\n„ Joh. Jakob Miville, Pfarrer.\n„ Johannes Stückelberger, Helfer.\n„ Theoph. Wilhelm Ecklin, „",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6254,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2145,
+    "lines": 73,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0411,
+    "mean_line_chars": 28.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p019",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p019.jpg",
+      "bytes": 1292206,
+      "sha256": "d49dcd09e970fe3a16fad787efd39238298818385fb8d1a01d227e74477a81f2",
+      "sha256_of": "original",
+      "working_copy": "1862_p019.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:09+00:00"
+  }
+}

@@ -1,0 +1,40 @@
+Aefchen=Quartier.
+45
+Aefchen:Vorstadt.
+1007 Schneider, Daniel, Schuhmacher.
+    Fäk, Kaspar, Maurerparlier.
+    Gremmer, G., Leitschneider.
+1008 (Gasthaus z. schwarz. Bären) Müller, Fz., Gastgeber.
+1009 Zbenthaler, Matthias, Taglöhner.
+1010 Berri, Elias, Beck.
+    Neidhardt, F. F., Steinmeß-Parlier.
+1011 Weisenburger, Karl, Commis.
+    Lok, Rudolf, Alt-Postoffiziant.
+1012 Oppermann, Joh. Georg, Schreiner. [handschriftlich: gestrichen]
+1013 Mäglin, Benedikt de Anton, Handels-Commis.
+1014 Zersing-Zeslin, Wittwe, Caroline, Commissions- u.
+    Expeditions-handlung.
+    deWette-Zersing, L. W. F., Med. Dr.
+1015 Gyßler-Wierz, Wittwe, Marie, Zuckerbeck.
+1016 Müller, Leonhard, Schlosser.
+    Kappeler, Kaspar, Spitalunterschreiber.
+1017 Mohler, Heinrich, Seiler.
+1018 Brand, Rud., Kerzen- u. Seifenfabrikant.
+Brunngäfklein.
+1019 Martin, Leonhard, Hafner.
+1020 Scheune und Stallung.
+1021 Ohiander, Stuhlschreiner.
+1022 DeWette, Sophie, geb. Streckefen, Rentiere.
+1023 (Scheune u. Stallg.) Forkart-Bachofen, Rud., geh.
+Aefchen:Vorstadt.
+1024 Unbewohnt. [handschriftlich: gestrichen]
+1025 Merian-Bernoulli, M., Fr., ehem. Pfr.
+1026 Merian-Bernoulli, Joh. Rud., Phil. Dr. u. Prof.
+1027 Burckhardt, Abraham, Weißbeck.
+    Baumann, Hs., Hafner.
+1028 Barbierstube von Lukas Treu.
+    Steiger, Nikl., Stadtbote.
+1029 Winzenried, Sam., Spezierer.
+Rappengäfklein.
+1030 Barnjobst, Simon Herrmann Christ., Auffeher der
+    Zuchtanstalt.

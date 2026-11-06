@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p074",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p074.jpg",
+    "bytes": 1015397,
+    "sha256": "38b2b230b24d5378032f94eb113442fc8a915f66cb5cdd871803ee9eaa3263f2",
+    "sha256_of": "original",
+    "working_copy": "1841_p074.jpg"
+  },
+  "text": "67\nNro.\n117 * Sutter, J. J., Sattler.\n  Früh, Caspar, Schuhmacher.\n118 * Der E. Gesellschaft des Rebhauses geh.\n  Euler, Abraham, Küfer.\n119 Gasquet, Fr. Wilhelm, Zimmermann.\n  Oberer, Martin, Posamentier.\n  Thommen, Jakob, Schneider.\n120 Jäggi, J. J., Beck, geh.\n  Hindenlang, Heinrich, Küfer.\n  Merian, Wittwe, geb. Dorothea Gengenbach.\n121 Pack, Christina, geb. Mosis.\n  Schardt, Mathias, Spengler.\n122 Bieler-Salathe, Joh. Jakob, Küfer und Wirth.\n  Krey, Frau Pfarrer, geb. Hagenbuch.\n123 Pack, Peter, Kornhausschreiber.\n124 Brevin, Joh., von Laufen, Weißbeck.\n125 Hecht, Jakob, Zimmermann.\n  Oswald, Fr., Schuhmacher.\n126 Müri, Jakob, Feilenhauer.\n127 u. 128 Wahl, Heinrich, Spezereihändler.\n\nUnteres und oberes Kirchgäßlein.\n129 Iselin, Charlotte, geb. Bienz, Lohnwascherin.\n130 * Huber, Hieronymus, Weinhändler, geh.\n131 * Fäsch, Franz, Bauverwalter.\n132 * Waisenhaus. — Burckhardt, J. R. L., Pfr. u. Waisenvater.\n  Erlacher, Leonhard, Aufseher.\n  Kuhny, Leonhard, von Frenkendorf, Lehrer.\n  Frei, Nikolaus, von Armenstorf, dito.\n  Eckert, Christian, \" dito.\n  Jgfr. Dor. Dickemann u. Marie Von Brunn, Lehrerinnen.\n133 * Sigristwohnung. — Bulacher, Hieronymus, Sigrist und\n  Geschäftsmann.\n134 * Knabenschulhaus. — Schaffner, Fr., Oberlehrer.\n135 * dito Hindermann, Philipp, Unterlehrer.\n136 * Fäsch, Franz, Bauverwalter.\n  Förster, Ernst, Zimmermann.\n137 * Fäsch, Bauverwalter, geh.\n  Müller, Jakob, Fuhrmann.\n137 a * Ebendemselben. Stallung und Schopf.\n\nBeim Riehen-Thor.\n138 * Der Stadt. — Schaub, Leonhard, Ziegler sel., Wittwe.\n139 * Das Riehenthor.\n139 a * Magazin hinter der Ziegelhütte, Glockengießerei.\n140 Tester, Josua, Zimmermann.\n  Geßler, Christina, geb. Burckhardt, Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7274,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1695,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p074",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p074.jpg",
+      "bytes": 1015397,
+      "sha256": "38b2b230b24d5378032f94eb113442fc8a915f66cb5cdd871803ee9eaa3263f2",
+      "sha256_of": "original",
+      "working_copy": "1841_p074.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:37+00:00"
+  }
+}

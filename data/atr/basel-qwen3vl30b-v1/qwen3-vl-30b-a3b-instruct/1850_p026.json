@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p026",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p026.jpg",
+    "bytes": 1113811,
+    "sha256": "ee39f9697164bb009fb0cdc7cfcaa66445d4fd05d8d7b29702a99dc912aeb334",
+    "sha256_of": "original",
+    "working_copy": "1850_p026.jpg"
+  },
+  "text": "Spahlen = Quartier. 15\n307 David-Lichtenhahn, Pfarrer, Wittwe.\n308 Bachofen-Finninger, Sam., Hauptmann bei der\n  Standestruppe, Mezger.\n  Brether, E. Fch., Commis.\n309 (Stachelschüzenhaus) Weissenburger-Sigt, Jakobea,\n  Wittwe, Kosthaus.\n310 Tschudy, F., Werkmeister am Lohnamt.\nSpahlen-Vorstadt.\n311 (Spahlen thor) obrigkeitl., Naab, H. G., Thorzoller.\n312 Strübin-Lok, Nikl., Mezger und Weinschenk.\n313 Stehelin, Gottfried, Spezereihandlung.\n314 Sommer, Melchior, Flachmaler.\n  Bucherer, Jakob, Commis.\n  Spahr, Dl., Commis.\n  Siegrist, Eml., Commis.\n  Schilling, Peter, Schneider.\n315 Kiefer, Friedrich, Weisbeck.\n316 Schmidt, F. Ch., Beck und Weinschenk.\n317 Mohler, Jakob, Beck.\n  Baumgartner, Martin, Magazinier.\n318 Stauber, Beck.\n319 Rohr-Schmidt, Joh., Commis.\n320 Imhof, Benedikt.\n321 Imhof, Andreas, Weisbeck.\n  Treier, Carl, Flachmaler.\n322 Stückselberger, Reinhard, Weisbeck.\n  Lipp, Hch., Zettlermeister.\n323 Pfannenschmied, Luk., Wittwe, Mezger.\n324 Bücher, Joh., Schuhmacher.\n  Zemp, Anton, Lithograph.\n325 Ungerer, Jakob, Mezger.\nFröschgasse.\n326 (Gasth. z. schwarz. Schen) Müller, H., Gastgeber.\n327 Salathe, Em., Küfer.\n328 Kellenberger, F. Fb., Schuhmacher.\n  Straker, Jakob, Schreiner.\n329 Henz, Georg, Hufschmied.\n  Henz, Jakob, Beck.\n330 Meyer, Georg, Stadtbote.\n  Deck, Andreas, Kaufhausbeamter, im Bahnhof.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4335,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1331,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p026",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p026.jpg",
+      "bytes": 1113811,
+      "sha256": "ee39f9697164bb009fb0cdc7cfcaa66445d4fd05d8d7b29702a99dc912aeb334",
+      "sha256_of": "original",
+      "working_copy": "1850_p026.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:23+00:00"
+  }
+}

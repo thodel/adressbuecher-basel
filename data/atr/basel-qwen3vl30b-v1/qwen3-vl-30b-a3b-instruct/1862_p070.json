@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p070",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p070.jpg",
+    "bytes": 1412740,
+    "sha256": "691338f445e539bebd72262244b5d5b555db41d38479a908417918130593ecb6",
+    "sha256_of": "original",
+    "working_copy": "1862_p070.jpg"
+  },
+  "text": "Verzeichniß\nder Straßen, in alphabetischer Reihenfolge, der Häuser und deren\nBenennung mit Angabe der alten und neuen Hausnummer und des\nQuartiers, in dem sie gelegen, der Hauseigenthümer und der Be-\nwohner des Hauses.\n\nNB. Die mit größerer Schrift gedruckten Namen bezeichnen den Hauseigenthümer, die klein\ngedruckten Namen dagegen die Bewohner des betreffenden Hauses. Die römischen Ziffern be-\nzeichnen das Quartier nach Angabe Seite 1.\n\nGroße Stadt.\nAeschen-Graben.\n\nNro. | Neue Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n---|---|---|---|---|---\n2 | IV. | 998 a | | | Mähly-Fininger, Jakob Caspar.\n4 | IV. | 999 | | | Eichner-Burckhardt, Rud., Bauführer.\n5 | IV. | 220 C | | | Götz-Hauser, Rud. Heinr.\n7 | IV. | 220 | | | Götz-Hauser, Rudolf Heinrich.\n8 | IV. | 998 A | | | Wimmer-Albrecht, Joh.\n| | | | | Wimmer-Albrecht, Joh., Partikular.\n| | | | | Meyer-Simmen, Gedeon.\n| | | | | Meyer-Simmen, Ged., Kaufmann.\n| | | | | Meyer u. Hindenlang, Agentur u. Com.\n| | | | | Wieland-Gemuseus, Emil, Rentier.\n10 | IV. | 998 B | | | Brenner-Kron, Carl.\n| | | | | Brenner-Kron, Dr. Carl, Advokat.\n| | | | | deGoumois-Eichtenhahn, Fr. W., Rent.\n11 | IV. | 220 B | | | Stähelin-Bührle, Christof.\n| | | | | Stähelin-Bührle, Christ., Professor.\n12 | IV. | 998 C | | | Friedrich-Hug, Leonhard.\n| | | | | Friedrich-Hug, Leonh., Baumeister.\n| | | | | Restner, Charlotte, Partikular.\n| | | | | Schwarz-Hauser, Christian.\n| | | | | Schwarz-Hauser, Christ., Kaufmann.\n| | | | | Firma: Schwarz und Hermann, Roh-\n| | | | | feidehandel und Commission.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5192,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1589,
+    "lines": 34,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:28:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p070",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p070.jpg",
+      "bytes": 1412740,
+      "sha256": "691338f445e539bebd72262244b5d5b555db41d38479a908417918130593ecb6",
+      "sha256_of": "original",
+      "working_copy": "1862_p070.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:44+00:00"
+  }
+}

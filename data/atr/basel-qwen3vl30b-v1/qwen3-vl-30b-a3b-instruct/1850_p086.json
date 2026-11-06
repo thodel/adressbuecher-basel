@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p086",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p086.jpg",
+    "bytes": 1024209,
+    "sha256": "91c88f1b7c3a9d7d3fcb4a6c29b53f415d0c9dd6c8240ee09a5ba280e276fcfe",
+    "sha256_of": "original",
+    "working_copy": "1850_p086.jpg"
+  },
+  "text": "Stadt=Quartier. 73\n1627 Wölfflin, Johann Georg, Papierhandlung, Bureau des Tagblattes.\n  Madöry, Fch., Stuhlschreiner.\n  Freyvogel-Wirz, Friedrich, Partikular.\n1628 Groben, Jakob, Glaser, Glashandlung in ordin.\n  französischen und böhmischen Glas- u. Kristallwaaren, Steingut, Fayence und Spiegel.\n  Wybert-Hug, C., Med. et Chir. Pract., Garnisons-Chirurg.\n1629 Speiser-Hauser, F. F., Bankdirektor.\n  Comptoir der Bank.\n1930 (Zunft zum Schlüssel) Rumpf-Bachofen, Hieron.,\n  Stubenverwalter.\n  Ersparniskassa- u. Vorschusskassa-Bureau.\n1631 Material- und Farbwaarenhandlung von N. de F.\n  Bernouly & Sohn.\n  Häfelin, F., Zahnarzt.\n1632 C. Brenner, Dr. Jur., Advocat.\n1633 Steinmann-Berri, Jakob, Spengler.\n  Ecklin, OI., Med. Dr.\n  Weber-Sutter, Heinr., Ladendiener.\n1634 (Chemaliges Kaufhaus) Obrigkeitlich.\n  Ullinger, Abwart.\n  Schwarz, Dor., Tabackhandlung.\n1635 Scheurmann-Zäslin, Joh., Commis.\n  Holzach, C., Mehlhandlung.\n1636 Hunziger, Schneider.\n1637 Kirch, Spezereihandlung.\n  Streckeisen, Karl, Dr. Med. et Chir.\n1638 Meyer, Franz Josef, Hutmacher.\n1639 Schäfer-Weber, Sam., Bierbrauer.\n1640 Burckhardt-Basler, Christof de Christof, Quinquailieriehandlung.\n1641 Leuba, Heinrich, älter, Uhrenmacher.\n  Gall-Fischer, Wittwe Kath., Wollenhandlung.\n  Christ, Rud., Metzger.\n1642 Imhof-Falkner, H., Wollenwaarenhandlung.\n  Imhof-Wenk, Hier., Bater, Partikular.\nMarkt.\n1643",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4508,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1377,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p086",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p086.jpg",
+      "bytes": 1024209,
+      "sha256": "91c88f1b7c3a9d7d3fcb4a6c29b53f415d0c9dd6c8240ee09a5ba280e276fcfe",
+      "sha256_of": "original",
+      "working_copy": "1850_p086.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:42+00:00"
+  }
+}

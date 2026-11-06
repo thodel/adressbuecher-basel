@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p082",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p082.jpg",
+    "bytes": 1445238,
+    "sha256": "985ee93634b15b09cbbb757f77b84b56181eadf904cad44d9f8464703900c746",
+    "sha256_of": "original",
+    "working_copy": "1862_p082.jpg"
+  },
+  "text": "St. Alban-Vorstadt.\n17\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n25 V. 1340—42 Rheinhof. Stähelin-Brunner, Aug.\nStähelin-Brunner, August, Fabrikant,\nStänderath.\nThurneyssen-Paravicini, Emil, Rent.\n26 V. 1226 Bischoff-Bischoff, Hieron.\nPfister, Jakob, Bedienter.\nWurft, J. G., Rutscher.\nBühler-Meyer, Heinr., Schreiner.\n27 V. 1339 Stähelin-Brunner, Aug.\n28 V. 1227 Bischoff-Bischoff, Hieron.\nBauler-Schilling, Wb. Mar. Sal.\n29 V. 1338 Stähelin-Brunner, Aug.\nRoth, Rud., Schuhmacher.\n30 V. 1228 Bischoff-KeSpinger, Hieron.\nBischoff-KeSpinger, H., Stadtrathspräf.\nKeSpinger, C., Directer d. Centralbahn.\nBurchhardt, Albert, Kaufmann.\n31 V. 1337 Gernler-Roth, Wb. Rosine.\nGernler-Roth, Wb. Rosine.\nGernler, Ros. u. Marg., Modistes.\n33 V. 1336 Heimers, Rudolf Heinrich Wilhelm.\nHeimers, Rudolf Heinrich Wilhelm.\nBodenmüller-Gut, Jof. Ant., Mechaniker.\n34 V. 1229 zum Rodenburg. Bischoff-Bischoff, Hieronimus.\nBischoff-Bischoff, Hieronimus, Kaufm.\n35 V. 1335 zum hohen Dolder. Gesellschaftshaus, Corporationsgut.\nBürgin-Schneider, Joh. Jakob, Abwart.\n36 V. 1230 im Hof. BonderMühl-Hoffmann, Wb.\nBonderMühl-Hoffmann, Wb. An. Cath.\nForcart, Emil, Rentier. [Rentiere.\nBonderMühl-Fürstenberger,Alfred, Sei-\ndenstofffabrikant.\n37 V. 1334 Bärwart-Carle, Joh.\nBärwart-Carle, Johannes, Kaufmann.\n39 V. 1333 Zeisn, Franz.\nZeisn, Franz, Bater, Packer.\n40 V. 1231 Frey-Stückelberger, Joh. Rudolf.\nFrey-Stückelberger, Joh. Rud., Senjat.\n41 V. 1332 Meck-Schellenberg, Gebrüder.\nMeck-Schellenberg, Joh., Commis.\nMeck-Schellenberg, Carl\nZäslin-Mechel, Carl, Commis.\"\nBurchhardt, Jacob, Professör.\n42 V. 1231 A zum Nußbaum. Merian-Bischoff, Samuel.\nMerian-Bischoff, Sam., Kaufmann.\n43 V. 1331 zum Mühleberg. Rudin-Gerster, Johannes.\nRudin-Gerster, Johannes, Pintenwirth.\nTschudin-Weber, Jakob, Metger.\nSchönlaub-Schaub, Joh., Schneider.\n44 V. 1232 Baur-Lippe, Louis.\nBaur-Lippe, Louis, Schlosser.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6640,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1932,
+    "lines": 63,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p082",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p082.jpg",
+      "bytes": 1445238,
+      "sha256": "985ee93634b15b09cbbb757f77b84b56181eadf904cad44d9f8464703900c746",
+      "sha256_of": "original",
+      "working_copy": "1862_p082.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:11+00:00"
+  }
+}

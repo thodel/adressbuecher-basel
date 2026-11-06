@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p148",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p148.jpg",
+    "bytes": 941701,
+    "sha256": "a8f0ef1280d56777ef8222418fc55f7257260f128ec8fd72800f839cadddc1c6",
+    "sha256_of": "original",
+    "working_copy": "1841_p148.jpg"
+  },
+  "text": "Nachschrift.\n\nDer Zweck möglichster Richtigkeit dieses Einwohner-Verzeichnisses\nist vom Bearbeiter mit allem Fleiße erstrebt und zu mehrerer Sicher-\nheit die Durchsicht des Manuscriptes und die Correktur einem mit\nden betreffenden städtischen Verhältnissen Basels auf amtlichem Wege\nvertrauten Manne übertragen worden. Diesem, so wie dem ganzen\nverehrlichen Publikum, welches durch bereitwillige Angaben die Arbeit\ndes Herausgebers wesentlich erleichterte, sagt Letzterer hiermit gezie-\nmend Dank.\n  Das verzögerte Erscheinen des Nummernbuches wolle mit der\nSchwierigkeit des ganzen Unternehmens gütigst entschuldigt werden.\n  Um dem verehrlichen Publikum übrigens zu beweisen, daß\n  es dem Herausgeber um die Sache selbst und die möglichste\n  Tadellosigkeit seiner Arbeit wirklich Ernst ist, so fordert\n  derselbe alle Diejenigen, welche während des Druckes dieses\n  Buches ihre Wohnungen verändert oder sonst Berichtigungen\n  oder Nachträge mitzutheilen hätten, höflichst auf, davon an\n  Herrn I. C. Schabelitz, Obere Freie Strasse Nro. 1425\n  in Basel gefällige schriftliche Anzeige zu machen. Es wird\n  alsdann in Zeit von acht Wochen ein ergänzender und be-\n  richtigender Nachtrag dieses Buches den verehrlichen Abon-\n  nenten gratis nachgeliefert werden.\nBasel, Oktober 1840.\nDer Herausgeber,\nI. H. Locher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6445,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1313,
+    "lines": 25,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:01:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p148",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p148.jpg",
+      "bytes": 941701,
+      "sha256": "a8f0ef1280d56777ef8222418fc55f7257260f128ec8fd72800f839cadddc1c6",
+      "sha256_of": "original",
+      "working_copy": "1841_p148.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:07+00:00"
+  }
+}

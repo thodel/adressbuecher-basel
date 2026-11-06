@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p060",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p060.jpg",
+    "bytes": 933392,
+    "sha256": "45bc2abf110e50f18e4aa52cc08325bbbda61ed564845f372033c519a7a15dc9",
+    "sha256_of": "original",
+    "working_copy": "1841_p060.jpg"
+  },
+  "text": "53\n\nNro.\n1498  St. Martins-Kirche.\n1499  * Pfarrhaus. Von Brunn, Nikol., Pfarrer.\n1500  * Sigristwohnung. Kromer, David, Sigrist bei St. Martin.\n1501  { Schaffner-Fuchs, Sebast., Metzger (halb).\n  { Siegrist, geb. Fuchs, Maria (halb).\n1502  * Debary und Bischoff, Joh., geh.\n  Gaß, Joh., Fabrikarbeiter.\n1503  Zeinler, Isaak, Schuhmacher.\n\nRheinsprung.\n\n1504  Siegrist, Eman., Schuhmacher.\n1505  Scherb, Heinrich, Flachmaler.\n1506  Devit, Rudolf sel., Wittwe.\n1507  Klingenfuß, Joh., Schneider.\n1508  Unteres Collegium, der Zeit Bureau des Bau-Collegiums.\n  Scholer, Eman., Pedell.\n1509  Vischer-Passavant, Peter, Handelsmann.\n  His, Eduard, Appellationsrath.\n1510  * Bachofen, J. J. sel., Erben geh.\n  Burckhardt-Bachofen, Christoph.\n1511  Bischoff-Debary sel. Wittwe.\n1512  Bischoff-Wieland, Hieronymus.\n\nAugustinergasse.\n\n1513  Bischoff, Peter, Wittwe, Bandfabrik.\n  Bischoff-Buxtorf, Joh.\n1514  * Magazin, Debary-Sarasin, Joh., geh.\n1515  Forkart-Respinger, Lucas.\n  Imhof-Forkart, Kaufmann.\n1516  Rumpf, Christoph. Meyri, Joh., Antiquar.\n1517  Buxtorf-Preiswerk, Christoph, Taback- und Spezereihandlung.\n1518  Soulzner, Alex., Confiseur.\n1519  u. 1520 abgebrochen.\n\nF. Stadt-Quartier.\n\nFischmarkt.\n\n1521  * Gubler, Joh., gehörend.\n1522  dito  Wohnhaus und Weinschenke.\n1523  Fleiner, Joh. Wilh., Handels-Commis.\n  Perret, Louis, dito\n1524  Neukirch, Joh. Georg, Buchdruckerei u. Buchhandlung.\n1525  * Scheuermann-Zäslin, J., geh.\n  Scholer, Emanuel, Zinngießer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6375,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1466,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p060",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p060.jpg",
+      "bytes": 933392,
+      "sha256": "45bc2abf110e50f18e4aa52cc08325bbbda61ed564845f372033c519a7a15dc9",
+      "sha256_of": "original",
+      "working_copy": "1841_p060.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:03+00:00"
+  }
+}

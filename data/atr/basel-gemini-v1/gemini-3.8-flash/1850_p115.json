@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p115",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p115.jpg",
+    "bytes": 1078194,
+    "sha256": "3de8531e69655c2c9a6ad1300a23874d35ba8b8fa61dff87b5df78840952973b",
+    "sha256_of": "original",
+    "working_copy": "1850_p115.jpg"
+  },
+  "text": "102\n\nDénéréaz, F., Speditor 1582\nDetloff, Karl Alb. 1178\nDettwyler, Wittwe 406\n  Ludw., Posamenter 793\n  -Hauser, F. J., Küf. 1172\n  F. J., Schneider 1560\n  Eml. 1751\nDeWette-Fersing, W. F. 1014\n  Sophie, Wittwe 1022\nDichtel, Joh., Posam. 767\nDickenmann, Eml. *356\nDiel, Joh. Jak. *264B\nDieticker, Melch. 598\nDietrich, Hch., Schneid. 500\n  Wilh., Beck 944\n  Wittwe A. M. 429\nDietsch, Dietr., 1661-62\nDietschy-Lichtenhahn, F. 50\n  -Fäsch, Weinhandlg. 1041\n  -Wick, Wittwe 1573\n  -Gebhard, Zimmerm. *25\n  Conrad, Metzger *40\nDietz, Karl Dietr. Not. 447\nDill-Dold, Wittwe 452\nDinkel, Joh., Spezierer 27\nDittmar, Rud., Fabrik. 1704\nDizerens, F. L. 982\nDobler-Burkhardt, Wwe. 940\n  Jgfrn. Kath. u. M. 1053\n  -Debary, Erben 1249B\n  Jgfr. Maria 1250-52\nDoggwyler, Hch. *139\nDollfuß, Wittwe 1574\nDollmar, Agent 764\nDolt-Vonwiller, Chr. Fr. *386\nDorn, Karl, Appreteur *407\nDorner-Breiting, Gastw. *192\nDorrenberger, Peter 1245\nDötschmann, Wilh. 1179\nDreis, Christian 1665\nDreifuß, Jak., Handlsm. 455\n  Sml. u. Leop., Hdlsl. 602\nDroz-Stierlin, Friedr., 1151\n[spalte 2]\nDubach, Gg., Seidenf. *296\nDubois, Louis, Uhrenm. 117\n  Aug., Schuhmacher 193\nDubost-Holzach, Wwe. 1724\nDuby, F. B. 1556\nDunkel, Wwe., Wasch. *433\nDuthaler, Ferd., Comm. 1415\nDürig, Jos., Müller *250\nDüring, Wwe., Kostg. 1589\nDürrenberger, Jak. 585\nEckenstein, Ed., Kaufm. 870A\n  Wilh., Bierbrauer 1176\nEckert, Jos., Prof. 190\nEckhardt, Joh. Conr. 551\nEcklin-Pümpin, F. Hch. 644\nEcklin, Leonh. 972\n  Joh. Burkh., Mech. 1204\n  Ol., Med. Dr. 1633\n  -v. Mechel, Wittwe 12-13\n  -Hindermann, Wwe. 42\n  Jgfr., Spezereiladen 644\n  Rud., Commis *312\n  Wittwe, Aufseherin *311\nEderer, Jgfr. 524\nEffinger, C. F., Comm. 577\nEglin, Fdch., Tuchhdlg. 657\nEglinger, Eml., S. M. C. 1482\n  Jgfr. Sus. Kapital. 246\nEgloff, David, Schuhm. 643\nEhinger-VonSpeyr, Ch. 1038\n  Dr. J. 1381 Not.-Bur. 1038\n  -LaRoche, Wittwe 1381\nEisinger, G. F., Spengl. 953\nEisenlohr-Bloch, Wwe. *394\nElsner, Joh., Schuhm. 210\n  F. H., Rathsbote 816\n  Frau, Hebamme 816\n  F. F., Kornmesser 1589\nEngler, Eml., Schlosser 446\nEngressat, Wittwe 1572\nEnholz-Sandreuter, K. 1735\nEpple, Gottl., Mechan. 971\nErismann, W. E., Hafner 782",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11272,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2145,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:18:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p115",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p115.jpg",
+      "bytes": 1078194,
+      "sha256": "3de8531e69655c2c9a6ad1300a23874d35ba8b8fa61dff87b5df78840952973b",
+      "sha256_of": "original",
+      "working_copy": "1850_p115.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:54+00:00"
+  }
+}

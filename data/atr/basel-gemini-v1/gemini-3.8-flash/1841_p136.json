@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p136",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p136.jpg",
+    "bytes": 980688,
+    "sha256": "d6e3eabcfbee33e9047e18a82a2363d22b5ed4f08a2114cdf8147a7562c4c033",
+    "sha256_of": "original",
+    "working_copy": "1841_p136.jpg"
+  },
+  "text": "53\n\nD.\n\nDalang, Jakob, Beck. 60 Rheingasse.\nDavid, Joh., Adlerwirth und Metzger. 348 Ochsengasse.\nDavid, Hieronymus, Metzger. 280 Webergasse.\nDavid, J. Conrad, Metzger und Weinschenk. 100 Am Lindenberg.\nDavid, Joh. Rud., Metzger. 48 Rheingasse.\nDavid, Joh. Georg, Fuhrhalter. 173 Rebgasse.\nDavid, Chr., Schiffmann und Wirth. 80 Rheingasse.\nDavid-Meyer, Rud., Metzger. 107 Am Lindenberg.\nDegen, Heinrich, Zimmermann. 329 Badergäßlein.\nDevit, Friedrich, Commis. 253 Untere Rebgasse.\nDickemann, Emanuel, Bader. 356 Sägergäßlein.\nDickemann, Jungfer Dorothea, Lehrerin. 132 Kirchgäßlein.\nDiehl, Jakob, Schleifer. 264 Im Rumpel.\nDietschy, Conrad, Metzger. 40 Rheingasse.\nDömmelin, Jak., Hafners Wittwe, geb. Meyer. 12 An der Rheinbrücke.\nDorn, Ludwig, Bleibüchsenmacher. 272 Beim Bläsithor.\nDubach, Georg, Seidenfärber. 296 Webergasse.\nDünner, Joh. Jakob, Lohnwascher. 289 Webergasse.\nDunkel, Jakob, Maurer, von Kleinhüningen. 433 Udengasse.\n\nE.\n\nEckert, Christian, Lehrer. 132 Kirchgäßlein.\nEglin, Christoph, Zimmermann. 418 Udengasse.\nEisenlohr, Joh. Chr. sel., Wittwe, geb. Bloch, Spezereihandlung,\n  394 Krempergasse.\nEppler, Joh., Schneider. 344 Untere Webergasse.\nErismann, Joh. Jakob, Comptorist und Wascherei. 288 Webergasse.\nErlacher, Leonhard, Aufseher. 132 Kirchgäßlein.\nEschmann, Dorothea und Margaretha. 58 Rheingasse.\nEuler, Abraham, Küfer. 118 Obere Rebgasse.\nEuler, Joh. Jakob, Schuhmacher. 96 Am Lindenberg.\n\nF.\n\nFäsch, Emanuel, Beck. 9 An der Rheinbrücke.\nFäsch, Rud., Kupferschmid. 238 Greifengasse.\nFäsch, Mag., Leonhard, Lehrer. 104 Am Lindenberg.\nFäsch, Jakob, Weißbeck. 333 Untere Webergasse.\n\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8097,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1612,
+    "lines": 38,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p136",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p136.jpg",
+      "bytes": 980688,
+      "sha256": "d6e3eabcfbee33e9047e18a82a2363d22b5ed4f08a2114cdf8147a7562c4c033",
+      "sha256_of": "original",
+      "working_copy": "1841_p136.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:49+00:00"
+  }
+}

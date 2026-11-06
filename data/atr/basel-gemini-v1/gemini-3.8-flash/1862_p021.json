@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p021",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p021.jpg",
+    "bytes": 1358627,
+    "sha256": "d4a906cb40a20aad13d77539a6b07767d713ab6ef470c94dd5c1c5c23ceb7a74",
+    "sha256_of": "original",
+    "working_copy": "1862_p021.jpg"
+  },
+  "text": "XVIII   Gemeindsbehörden.\n\nHr. Stadtrath Leonhard Bernoulli.\n  „     „     Hier. Burckhardt-Iselin.\n  „     „     Dr. Elias Burckhardt.\n  „ Wilh. Burckhardt-Forcart.\n  „ Karl Burckhardt-Vischer.\n  „ Fritz Vischer-Bischoff.\nKommission der Stadtkassa-\nverwaltung.\nHr. Stadtrath Leonh. Bernoulli, Präsid.\nLadenamts-Verwaltung.\nHr. Daniel Jäcklin, Stadt-Sekretär.\nZins-Amt.\nHr. Balthasar Fischer.\nPfundzoller.\nHr. Hieronimus Lotz.\n  „ Heinrich Debrunner.\nWaagmeister.\nHr. Heinr. Altorfer, Messerschmied.\nHeuwäger.\nHr. Rudolf Braun.\nBrunn- und Bauamt.\nHr. Stadtrath Joh. Jakob Minder, Präsid.\n  J. J. Müller, Brunnenmeister.\n  Martin Schmidtmann, Bauführer.\nFaßsinner\nder mehrern Stadt.\nWilhelm Mollinet, Seiler.\nAdolf Frey, Küfer.\nder mindern Stadt.\nJakob Hindermann, Wagner.\nHeinrich Staab.\nBürgerkommission.\nHr. Stadtrath Eman. Ryhiner, Präsident.\nBeleuchtungskommission.\nHr. Stadtrath Wegner, Präsident.\nLand- und Waldinspektion.\nHr. Stadtrath Elias Burckhardt, Präsid.\nPolizei-Aufsichtskommission.\nHr. Stadtrath Leonh. Bernoulli, Präsident.\n  „     „     Elias Burckhardt-Breck, J.U.D.\n  „ R. aWengen-Treu, St Johannquart.\n  „ Gottfr. Stähelin, Spalenquartier.\n  „ Hieron. Lotz-Spörlin, Steinenquartier.\n  „ Rudolf Hauser-Oser, Aeschenquartier.\n  „ Heinr. Tschopp, Spengler, St. Albanq.\n  „ Ludw. Linder, Messerschm., Stadtquart.\n  „ Oberstl. Friedr. Meyenrock, Riehenquart.\n  „ August Raillard, St. Bläsiquartier.\n[spalte 2]\nQuartierschreiber.\nHr. Ludwig Stöcklin, St. Johannquart.\n  „ Ludwig Stöcklin, Spalenquartier.\n  „ Joh. Ludw. Kehlstadt, Steinenquart.\n  „ Joh. Balth. Fischer, Aeschenquartier.\n  „ Joh. Fischer, Sohn, St. Albanquart.\n  „ Joh. Ludw. Linder, Stadtquartier.\n  „ Joh. Jakob Jenni, Riehenquartier.\n  „ Joh. Jakob Jenni, St. Bläsiquartier.\nKornhaus-Inspektion.\nHr. Stadtrath Leonh. Bernoulli, Präsid.\n  Kornhausverwalter: Hr. Joh. Henz.\nSchätzungskommission über\nBrandschaden.\nHr. Stadtrath Elias Kern, Präsident.\nRevisions-Kommission.\nHr. Stadtrath Joh. Jakob Minder, Präsid.\nEinquartierungs-Kommission.\nHr. Stadtrath Em. Ryhiner, Präsident.\nTaxations-Kommission.\nHr. Stadtrath Joh. Jak. Minder, Präsid.\nAlmosenamt.\nHr. Stadtrath Elias Kern, Präsident.\n  „ Notar J. Herzog, Almosenschaffner und\n    Sekretär.\nSpitalpfleger.\nHr. Stadtrath Rud. Wegner, Präsident.\n  „ Arnold Laur, Verwalter.\n  „ Dr. Theod. Meyer, Spitalmeister.\nWaisenhaus-Inspection.\nHr. Stadtrath Leonh. Bernoulli, Präsid.\nHr. Friedr. Lichtenhahn, V.D.M., Waisenvater.\n  „ Christoph Heußler, Verwalter.\nBannherren.\nIm Münster.\nHr. Stadtrath J. R. Burckhardt, J. U.D.\n  „ Samuel Merian-Merian.\n  „ Andreas Bischoff-Ehinger.\n  „ Hieronimus Bischoff-Bischoff.\n  „ Emil Thurneysen-Paravicini.\n  „ Rudolf Hauser-Oser.\nZu St. Peter.\nHr. Stadtrath Leonhard Bernoulli.\n  „ Christof Ronus.\n  „ August LaRoche-Burckhardt.\n  „ Andr. Werthemann-Von der Mühll.\n  „ Rudolf Bischoff-Merian.\nZu St. Leonhard.\nHr. Stadtrath Friedrich Hagenbach.\n  „ Balthasar Fischer-Bulacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11317,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2946,
+    "lines": 100,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.05,
+    "mean_line_chars": 27.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:27:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p021",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p021.jpg",
+      "bytes": 1358627,
+      "sha256": "d4a906cb40a20aad13d77539a6b07767d713ab6ef470c94dd5c1c5c23ceb7a74",
+      "sha256_of": "original",
+      "working_copy": "1862_p021.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:29+00:00"
+  }
+}

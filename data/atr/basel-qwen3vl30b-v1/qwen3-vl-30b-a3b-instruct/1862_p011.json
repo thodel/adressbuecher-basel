@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p011",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p011.jpg",
+    "bytes": 1295003,
+    "sha256": "651643b333804c7bdc58153398dc9ecd1db60b876657ed83d83ea075932cd10b",
+    "sha256_of": "original",
+    "working_copy": "1862_p011.jpg"
+  },
+  "text": "VIII\nBehörden und Beamte.\nBehörden und Beamte\ndes\nKantons Basel-Stadt.\nI. Gesetzgebende Behörde.\nDer Große Rath.\nFr. eidg. Oberst R. Paravicini, Präsident.\n\" Wilh. Bischoff=Merian, Statthalter.\nPetitions=Kommission.\nFr. Wilh. Bischoff=Merian, Präsident.\nII. Regierungsbehörde,\nmit ihren Kollegien, Kommissionen, un-\ntergeordneten Kammern u. Beamten.\nA. Der Kleine Rath.\nFr. Carl Felix Burckhardt, J.U.D., Amts-\nbürgermeister.\nFr. eidg. Oberst F. J. Stehlin, zweiter\nBürgermeister.\n\" Peter Merian, Ph. Dr.\n\" Adolf Christ=Garafin.\n\" Leonhard Heusler=Thurneyssen.\n\" F. Christof Schmidt=Jäsch.\n\" Karl Garafin=Sauvain.\n\" Eml. Burckhardt=Fürstenberger, J.U.D.\n\" Leonhard Fininger.\n\" Joh. Jak. Imhof=Forhart.\n\" Karl Bischoff=Merian.\n\" Heinr. Unholz=Siglin.\n\" Eduard Burckhardt=Schrickei.\n\" Alphons Köchlin=Geigy.\n\" Rudolf Merian=Jselin.\nFr. G. Bischoff, J. U. D., Staatschreiber.\n\" Carl Burckhardt, J. U. D., Rathschreiber.\nB. Die Collegien und die denselben\nuntergeordneten Kammern.\nI. Staatscollegium.\nFr. Amtsbürgern. C. F. Burckhardt, Präs.\nII. Finanzcollegium.\nFr. Rathsherr Leonh. Heusler=Thurneyssen,\nPräsident.\na. Ohmgeldskammer.\nFr. Rathsherr Alphons Köchlin=Geigy, Präsident.\nWeinsticher der Stadt.\nQuartier:\nSt. Alban. Fr. Ludwig Kehlstadt.\nSpalen. \" Joh. Franz Roth, Schneid.\nStadt. \" Jer. Frey, Sohn, Knopfm.\nSteinen. \" Joh. Fischer.\nAeschcn. \" Kühn, F. F., Schuhmacher.\nSt. Johann. \" Johs. Elsner, Schuhmach.\nBläsi. \" F. F. Martin, Flachmaler.\nRiehen. \" Emanuel Schuler.\nb. Salzskammer.\nFr. Rathsherr Ed. Burckhardt=Schrickei,\nPräsident.\nStempelcommissär.\nFr. Rudolf Raillard=Stähelin.\nIII. Kirchen- und Schulcollegium.\nFr. Rathsherr Adolf Christ, Präsident.\nIV. Erziehungscollegium.\nFr. Rathsherr Peter Merian, Präsident.\na. Curatel der Universität u. des\nPädagogiums.\nFr. Rathsherr Peter Merian, Ph. Dr.,\nPräsident.\nb. Inspektion des humanistischen\nGymnasiums.\nFr. Prof. Dr. Andr. Heusler, Präsident.\nc. Inspektion des Realgymnasiums\nund der Gewerbeschule.\nFr. Alt-Rathsherr Aug. Stähelin, Prä-\nsident.\nd. Inspektion der Realschule u. der\nAnaben-Gemeindeschulen.\nFr. Pfarrer Imman. Stockmeyer, Prä-\nsident, Theol. Dr.\ne. Inspektion der Töchterschule.\nFr. Rud. Liechtenhan=Hagenbach.\nf. Inspektion der Mädchen-Gemein-\ndeschulen.\nFr. Rud. Liechtenhan=Hagenbach, Prä-\nsident.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7247,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2281,
+    "lines": 83,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0361,
+    "mean_line_chars": 26.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p011",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p011.jpg",
+      "bytes": 1295003,
+      "sha256": "651643b333804c7bdc58153398dc9ecd1db60b876657ed83d83ea075932cd10b",
+      "sha256_of": "original",
+      "working_copy": "1862_p011.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:08+00:00"
+  }
+}

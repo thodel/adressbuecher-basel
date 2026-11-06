@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p021",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p021.jpg",
+    "bytes": 1100626,
+    "sha256": "7aec67cbb656bdd321a5f40c88138179ba92402dee0830aede2cfcb4ca3dd4f7",
+    "sha256_of": "original",
+    "working_copy": "1850_p021.jpg"
+  },
+  "text": "St. Johann-Quartier. 11\n\nKirchgäßlein.\n\n239 Borst, August, Schneider.\n240 Frutiger-Hägler, Wittwe.\n  Pfaff, J. J., Commis.\n241 Burckhardt, Leonhard, Wittwe, Flachmaler.\nA 242 Falkner, Geschwister, Wilhelm, Ludwig u. Louise.\nB 242 Merian-Legrand, Peter, Handelsmann.\n243 LaRoche, Sim. Emanuel, Pfarrer bei St. Peter.\n\nKaltkellergäßlein.\n\n244 Miville-Miville, J. J., Diacon bei St. Peter.\n245 Senn-Geist, Friedrich, Commis.\n\nBei St. Peter.\n\n246 Eglinger, Jungfrau Sus., Kapitalistin.\n247 Lotz, Christian, Sohn, Schneider.\n\nSt. Petersplatz.\n\nB 247 Fäsch-Zäslin, J. J., Sohn, J. U. D., Notarius,\n  Spitalverwalter.\n  Schmid-Awengen, J., Kaufmann.\n248 Mattmüller, Georg, Kutscher.\n249 Werthemann, Wittwe A. Cath. geb. Burckhardt, Rent.\n\nNeue Vorstadt.\n\nB 249 Merian-Merian, Balth., Kaufmann.\n  Schneider, Eml., Dr. J. Rathschreiber.\n  Antiquariat von J. Meyri.\n  Bernoulli, Carl, Lehrer.\n\nSt. Petersplatz.\n\n250 Iselin-Iselin, Abr., Hypotheken-Verwalter.\n251 Pfannenschmied, J. J., Vergolder.\nA 251 Hörler, Franz, Lehrer.\n  Kestner, Fanny, Wittwe, Rentière.\n  Iselin, Remigius, Kunstmaler.\nB 251 Fäsch, Joh. von Johann, Kanzlist.\n252 Holzmüller, A., gehörend.\nA 253 Herrsperger, Jungfrau, Elisabetha.\n  Herrsperger, Jungfrau, Barb.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5810,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1225,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 32.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:08:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p021",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p021.jpg",
+      "bytes": 1100626,
+      "sha256": "7aec67cbb656bdd321a5f40c88138179ba92402dee0830aede2cfcb4ca3dd4f7",
+      "sha256_of": "original",
+      "working_copy": "1850_p021.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:26+00:00"
+  }
+}

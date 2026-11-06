@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p091",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p091.jpg",
+    "bytes": 881687,
+    "sha256": "c78ccdf5b27f5ff7f885a0b126c4d1744265958068519f34db3152cb54325918",
+    "sha256_of": "original",
+    "working_copy": "1850_p091.jpg"
+  },
+  "text": "78\nStadt=Quartier.\n1738 Landerer-Jäcklin, Wittwe Marie, Bürstenbinder.\n1739 Ruprecht, Stephan, Wirth u. Kosthaus.\n1740 Rieger, Heinr., Zimmermann.\n1741 Siegrist-Heukler, Abrah., Korbhandlung.\nMunzinger, Luf. Dietr., Post-Commis.\nSattelgasse.\n1742 Reinhold, Gottfried, Zimmermann.\n1743 Hermann, Jakob, Nagelschmied.\n1744 Kromer, Johann Peter, Schuhmacher.\nNägelin, And., Schuhmacher.\n1745 Stöcklin, Joseph, Maurer.\n1746 Schrämlí, Matthias, Flachmaler.\n1747 Caillet, Jgfr. Louise, Lingeriehandel.\nHinter der School.\n1748 Löw, Joh. Georg, Trödler, Kostgeber.\n1749 Weiß, Innocenz, Kostgeber.\nSchneidergasse.\n1750 Liebreich, F. K., Schneider u. Gantrusfer.\n1751 Detwiler, Eman., Fabrikarbeiter.\n1752-53 Zimmermann-Früh, Wittwe, Uhrenmacher.\n1754 Peschel, Karl, Säckler. Verkaufslökal in Nr. 581.\n1755 Fuchs, Lorenz, Buchbinder.\n1756 Meyer, Joh. R., Magazinarbeiter.\nRäber, F., Schuhmacher.\n1757 Obrecht, Johann Jakob, Ferger.\n1758 Bauler, Jgfrn., Anna u. Valeria.\nBurgdorf-Elöner, Wittwe Elise, Ellenwaarenhdlg.\n1759 Wolf, Schwestern, Modistinnen.\nWolf, Gebrüder, Lithograph und Zeichner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3918,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1083,
+    "lines": 31,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p091",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p091.jpg",
+      "bytes": 881687,
+      "sha256": "c78ccdf5b27f5ff7f885a0b126c4d1744265958068519f34db3152cb54325918",
+      "sha256_of": "original",
+      "working_copy": "1850_p091.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:03+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p149",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p149.jpg",
+    "bytes": 970556,
+    "sha256": "917aaf8afc647b5f603c28b5fd7b1fa10e8fca0298900ddc71715bed1a5dc701",
+    "sha256_of": "original",
+    "working_copy": "1850_p149.jpg"
+  },
+  "text": "136\n1219 Emanuel Hoffmann . . Eman. Hoffmann, Sohn.\n. F. Bärwart, Procuraträger.\n1592 Theodor Hoffmann . . Georg Hoffmann.\nA. Holzmüller . . Adolf Holzmüller,\n. Emile Robert. ppa.\n822 Eduard Hosch . . Eduard Hosch.\n917 Carl Huber, Sohn . . Eduard Bernoulli, Sohn.\n1595 Fques Huber,z.Palmbaum Joh. Jakob Huber.\n1597 Emanuel Hübscher . . Emanuel Hübscher.\n. Adolf Hübscher.\n*239 F. F. Jenny, Sohn . . F. F. Jenny, Sohn.\n1014 F. Ferfing, Sohn . . Caroline Ferfing=Zeslin.\n. Dietr. Wilh. Wölfflin,\n. Procuraträger.\n1642 Imhof=Menf . . Hieronimus Imhof.\n1576 Melchior Imhof u. Söhne Daniel Imhof.\n. F. F. Imhof=Forcart.\n1312 Gebrüder Fselin . . F. Luk. Fselin=Forkart.\n. Rudolf Fselin=Christ.\n. Wilhelm Fselin.\n70 F. F. u. R. Fselin . . Joh. Jakob Fselin.\n. Rudolf Fselin.\n269B Kern u. Sohn . . Elias Kern=de Crousaz.\n. Friedrich Kern, Sohn.\n. Augnst Kern, Sohn.\n1547 Ernst Knop . . Ernst Knop.\n. Knuty & Cie. . Christian Knuty.\n692 F. Franz Kuster . . Joh. Franz Kuster.\n153 Georg Kiefer . . Georg Kiefer.\n. Rudolf Bienz.\n1006G Köchlin u. Söhne Köchlin=Burchhardt\n. Alphons Köchlin.\n. Eduard Köchlin, Procuraträger.\n1637 Caspar Krug . . Joh. Christ. Kirch.\n1589 F. F. Kühn . . F. F., Kühn=Grandjean.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4150,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1195,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p149",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p149.jpg",
+      "bytes": 970556,
+      "sha256": "917aaf8afc647b5f603c28b5fd7b1fa10e8fca0298900ddc71715bed1a5dc701",
+      "sha256_of": "original",
+      "working_copy": "1850_p149.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:09+00:00"
+  }
+}

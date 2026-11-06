@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p152",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p152.jpg",
+    "bytes": 1031329,
+    "sha256": "281eddb873a47fd29149f0ec3576c51e5f4772611c8ac88f6c32c84cca8dbda1",
+    "sha256_of": "original",
+    "working_copy": "1850_p152.jpg"
+  },
+  "text": "1158 Nörbel-Gernler . Frau Wittwe Katharina\n1043 Nörbel & Hoffmann Nörbel-Schmid.\nAlbert Hoffmann.\nSchmidt-Götz, Com.\nCarl Nebelin, ppa.\nD.\n623 F. G. Oberriedt . . Joh. Georg Oberriedt.\n1292 H. Ofer . . Wittwe Ofer, geb.\nThurneisen.\nWilhelm Arnold Ofer,\nppa.\n126 Gebrüder Öswald . . Eml. Walter Öswald.\nM. Öswald & Comp. Matth. Öswald-Hinder-\nmann.\nB.\n490 F. Pack-Burckhardt . . Isaak Pack-Burckhardt.\n1435 Leonhard Paravicini . . Emanuel Paravicini,\nSohn.\nBenedikt Mäglin, Pro-\ncuraträger.\nConstantin Borgognon,\nProcuraträger.\nEm. BonderMühl, Sohn,\nProcuraträger.\n92 Passavant & Cie. Em. Passavant-Bachofen.\nAlphons Passavant.\nFrau Wittwe Elise Passa-\nvant, geb. Streckeisen.\n53 Lukas Preiswerk . . Wilh. Burckhardt-Preis-\nwerk.\nRudolf Euler ppa.\n1543 Mathias Preiswerk . . Joh. Jakob Preiswerk.\nJohannes Bolliger ppa.\n46 Johannes Preiswerk u. Sohn Joh. Preiswerk, Sohn.\nWilhelm Preiswerk.\nPeter Preiswerk, Pro-\ncuraträger.\nCarl Preiswerk, Pro-\ncuraträger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3250,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 957,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0769,
+    "mean_line_chars": 23.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p152",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p152.jpg",
+      "bytes": 1031329,
+      "sha256": "281eddb873a47fd29149f0ec3576c51e5f4772611c8ac88f6c32c84cca8dbda1",
+      "sha256_of": "original",
+      "working_copy": "1850_p152.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:20+00:00"
+  }
+}

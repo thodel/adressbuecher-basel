@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p031",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p031.jpg",
+    "bytes": 1132988,
+    "sha256": "ed5024101ea04acc7cd860819da3c03d4fe236bfb9f07d0f1ef886c4ed03665c",
+    "sha256_of": "original",
+    "working_copy": "1850_p031.jpg"
+  },
+  "text": "Spahlen=Quartier. 19\n406 Dettwyler, F. F., Alt-Sternenwirth, Wittwe.\n407 Neuschwander, D., Spannmstr.\n408 Herzog, Jungfrau Esther.\nTrillengäflein.\n409 Raul, Frau Maria, Krankenwärterin.\n410 Fricker, Wittwe, Kostgeberin.\n411 Bögle, Simon, Maurer.\n412 Bonin, Georg, Schreiner.\nHeuberg.\n413 Huber, F. F., Pfarrer.\n414 Direktions-Comite des Vereins der Freunde Israel.\nHemann, David, Profelyntenlehrer.\n415 BonSpenr'sches Fidei-Commis-Haus. J. Brunn/Merlan\nBonSpenr, Joh. H., Alterthümernkabinett\n416 Nößlin, Uhr., Weinhandlung.\n417 Merian-Miville, Chr., Wittwe, Kapitalistin.\nMerian, Eml., Apotheker.\n418 Brunner, And., Commis.\n419 Ofer-Fselin, W., Amtsdieners.\nHunzicker, A. A., Agent.\nKirsch, F. Bhd., Mechaniker.\n420 Ründig, Andreas, Küfer.\nRochow, F. F., Commis.\nA 421 Magazin.\nB 421 Hinterhaus von Nr. 426.\n422 Fren, Heinrich, Fabrikarbeiter.\n423 Schweichardt, Eml. Zak., Schuhmacher.\n424 Gokwylcr, Konrad, Eselhalter.\n425 Säuberlin, Wittwe.\n426 Bider, Joh., Hausknecht.\n427 Jäcklin, Christ., Schreiner.\n428 Wassermann, Joh. N., Kaminfeger.\n429 Dietrich, Wittwe, A. M., geb. Ehinger.\n430 Schazmann, Konrad, Maurer.\n431 Staubcr, Rudolf, Apreteur.\n432 Schaub, F. Georg, Fcrgcr.\nSchaub, A., Buchbinder.\nA 432 Grosmann, F. F., Maurer.\n433 Lichtenhahn=Oyßler, Ben., Wechfel=Senfai.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4467,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1278,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p031",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p031.jpg",
+      "bytes": 1132988,
+      "sha256": "ed5024101ea04acc7cd860819da3c03d4fe236bfb9f07d0f1ef886c4ed03665c",
+      "sha256_of": "original",
+      "working_copy": "1850_p031.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:40+00:00"
+  }
+}

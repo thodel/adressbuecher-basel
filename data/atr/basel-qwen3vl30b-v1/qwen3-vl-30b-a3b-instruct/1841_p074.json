@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p074",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p074.jpg",
+    "bytes": 1015397,
+    "sha256": "38b2b230b24d5378032f94eb113442fc8a915f66cb5cdd871803ee9eaa3263f2",
+    "sha256_of": "original",
+    "working_copy": "1841_p074.jpg"
+  },
+  "text": "67\nNro.\n117 * Sutter, J. J., Sattler.\n    Früh, Caspar, Schuhmacher.\n118 * Der C. Gesellschaft des Rebhauses geh.\n    Euler, Abraham, Küfer.\n119 Gasquet, Fr. Wilhelm, Zimmermann.\n    Oberer, Martin, Posamentier.\n    Thommen, Jakob, Schneider.\n120 Jäggi, J. J., Beck, geh.\n    Hindenlang, Heinrich, Küfer.\n    Merian, Wittwe, geb. Dorothea Gengenbach.\n121 Pack, Christina, geb. Mosis.\n    Schardt, Mathias, Spengler.\n122 Bieler-Salathe, Joh. Jakob, Küfer und Wirth.\n    Krey, Frau Pfarrer, geb. Hagenbuch.\n123 Pack, Peter, Kornhauschreiber.\n124 Brevin, Joh., von Laufen, Weißbeck.\n125 Hecht, Jakob, Zimmermann.\n    Oswald, Fr., Schuhmacher.\n126 Müri, Jakob, Feilenhauer.\n127 u. 128 Wahl, Heinrich, Spezereihändler.\nUnteres und oberes Kirchgässlein.\n129 Jselin, Charlotte, geb. Bienz, Lohnwascherin.\n130 * Huber, Hieronymus, Weinhändler, geh.\n131 * Fäsch, Franz, Bauerverwalter.\n132 * Maisenhaus. — Burkhardt, J. N. L., Pfr. u. Maisenvater.\n    Erlacher, Leonhard, Auffeher.\n    Kuhn, Leonhard, von Frenkendorf, Lehrer.\n    Frei, Nikolaus, von Armenstorf, dito.\n    Eckert, Christian, dito.\n    Jgfr. Dor. Dickemann u. Marie Von Brunn, Lehrerinnen.\n133 * Sigristwohnung. — Bulacher, Hieronymus, Sigrist und\n    Geschäftsman.\n134 * Knabenschulhaus. — Schaffner, Fr., Oberlehrer.\n135 * dito\n    Hindermann, Philipp, Unterlehrer.\n136 * Fäsch, Franz, Bauerverwalter.\n    Förster, Ernst, Zimmermann.\n137 * Fäsch, Bauerverwalter, geh.\n    Müller, Jakob, Fuhrmann.\n137 a * Ebendemselben. Stallung und Schopf.\nBeim Riehen-Thor.\n138 * Der Stadt. — Schaub, Leonhard, Ziegler sel., Wittwe.\n139 * Das Riehenthor.\n139 a * Magazin hinter der Ziegelhütte, Glockengießerei.\n140 Tester, Josua, Zimmermann.\n    Geßler, Christina, geb. Burkhardt, Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5069,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1733,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p074",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p074.jpg",
+      "bytes": 1015397,
+      "sha256": "38b2b230b24d5378032f94eb113442fc8a915f66cb5cdd871803ee9eaa3263f2",
+      "sha256_of": "original",
+      "working_copy": "1841_p074.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:24+00:00"
+  }
+}

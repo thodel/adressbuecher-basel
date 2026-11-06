@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p159",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p159.jpg",
+    "bytes": 1052700,
+    "sha256": "91b76c63f44cd7aea03aa90ffe2b2f8884a8d97034d3706d183272fb7c257af5",
+    "sha256_of": "original",
+    "working_copy": "1850_p159.jpg"
+  },
+  "text": "146\n\nKornhaus-Inspektion:  Herr Sadtrath R. Forcard.\nLadenamts-Verwaltung:  „  Kanzlist J. R. Frey.\nLand- u. Wald-Inspection:  „  Stadtrath A. Sulger.\nLand-Armen-Commission:  „  Rathsherr S. Stump.\nLösch-Anstalten:  „  Stadtrath E. Ryhiner.\nMarkt-Amt:  „  L. Linder, Messerschmied.\nMilitär-Collegium:  „  Rathsh. J. J. Stehlin.\nMilitärdienst-Taxat.-Commiss:  „  Major Jch. Kern.\nMontirungs-Kammer:  „  Hauptm. Th. Kündig.\nNiederlassungs-Commission:  „  Bürgerm. J. Burckhardt.\nNotariats-Commission:  „  Rathsh. Em. Burckhardt.\nOhmgeld-Kammer:  „    „    C. Geigy.\nPetitions-Commission:  „  Ch. Ronus-Gemuseus.\nPolizei-Aufsichts-Commission:  „  Stadtrath F. Bloch.\nPolizei-Gericht:  „  R. Wölfflin.\nPost-Commission:  „  Rathsherr B. Socin.\nRagionenbuch-Commission:  „  Stadtrath R. Christ.\nRechnungs-Kammer:  „    „    H. Bischoff.\nRevisions-Commission:  „    „    Burckhardt.\nSalz-Kammer:  „  Rathsh. J. J. Iselin.\nSanitäts-Collegium:  „    „    M. Oswald.\nSpital-Pflegamt:  „  Stadtrath E. Thurneysen.\nStaats-Collegium:  Der Herr Amtsbürgermeister.\nStadt-Cassa-Verwaltung:  Herr Stadtrath R. Christ.\nStraf-Anstalt-Commission:  „  Rathsherr E. Burckhardt.\nWaisen-Gericht:  „  Chr. Ronus-Gemuseus.\nWaisenhaus-Inspection:  „  Stadtrath D. Burckhardt.\nZeughaus-Kammer:  „  Major Rud. Paravicini.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6861,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1292,
+    "lines": 29,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p159",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p159.jpg",
+      "bytes": 1052700,
+      "sha256": "91b76c63f44cd7aea03aa90ffe2b2f8884a8d97034d3706d183272fb7c257af5",
+      "sha256_of": "original",
+      "working_copy": "1850_p159.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:11+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p121",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p121.jpg",
+    "bytes": 1082406,
+    "sha256": "3db35beb5f6716563977bff41e42bb77234adac81b9fb3d6fa6581095c35a092",
+    "sha256_of": "original",
+    "working_copy": "1850_p121.jpg"
+  },
+  "text": "108\nHeukler-Fatio, Cl. 1281 | Hoffmann, F., Ferren-Auff. 257\n=Fselin, Dan. 1309A =Preiswerk, C. 1219\nJoh., Schneider *32 EmL., Bandfabrikant 1219\nKarl Leonh., Kaufm. *206 G. u. R., Tuchhdlg. 1592\nFriedrich, Spengler *362 Jgfr., M. Salomea 254\n=Thurneyssen, L. *368-69 =Meyer, Wittwe 1592\n=BonKilch, Wittwe 2 Hofmann, H., Zuchtaufkalt 271\n=Geigy, Wwe., Elis. 1059 Höfl, G. F., Musiklehrer 754K\n=Hegi, Wittwe 1389 Hossfetter, Dl., Papierer 1289\nHilbert, Johann *261 Höhlin, Hs., Postfaktor 1728\nHindelang, F. P., Holzsek. 5 Höhn, Wittwe 604\n=Roeth, Jak., Seiler 73 Holdenecker, A., Buchhdlg. 462\nSimon, Commis 754I Holinger, Sch., Hauskn. *367\nLukas, Major 828 Holzach, Rud., Küfer 355\nMatth., Commis 832 Dietrich, Seiler 647\n=Hübscher, F. F. 1160 Lukas, Wirth 968\n=Stulger, F., Schiffm. *59 F. C., Spielwaarenhlg. 1616\nFrau, Hebamme *59 Euch., Wehlhandlung 1635\nFriedrich, Commis *59 =Schölli, Wittwe 1690-91\nF. Rud., Schiffmann *86 Franz, Kaufmann 1692\nHindermann, F. F. 352A Fr., Partikular 1731\nJoh. Wilh., Beck 762 Alb., Kaufmann *284\n=Weidmann, F. F. 1107 =Konus, Wittwe, M. 222\nF. F., Sohn 1107 =Krauer, Frau Karol. 1439\n=Merian, F. F., Bandf. 1200 Holzbacher, F. G., Apoth. 1619\n=Landerer, Ph., Lehrer *135 Holzmüller, A. 252\nF. K., Schönfärber *290 Karl, Uhrenmacher 717\nFrau, M. M. 263 Holzreuter, Eug., Färber *245\nLippe, Wwe., Kath. 1117 Hönes, August, Commis 234\nHis-LaRoche, Ed. 1492 Honesta, F., Musiklehrer 744B\nEd. u. Fr., Bandfab. 1492 Horandt, M., Bandfab. *177\n=Bischer, Wittwe 516 Hörler, Franz, Lehrer 251A\nHix-Bohny, Wwe., A. *226 F., Bater, Pastetenbeck *389\nHoch, Joh. 683 =Früh, Joh. *389\nLukas, Merceriehdlg. 1547 Horner, Dan., Beck 959-60\nJakob, Weißbeck 339 Friedr., Kunstmaler 1460\nHodel, Ber., Krankenwärts. 715 Wittwe, Rentiere *215\nHof, Christ., Schneider 361 Hosh-Mengis, H., Senfal 43\nHofer, C. R., Spezierer 540 =Roeth, Joh., Beck 108\nSeb., Tabakfabrik. *273C Pet., Appellat.-Weibel 150\nHoff, Ch., engl. Sprachlehr. 472 Nifl., Lithograph 441\nHoffmann-Merian, Theod. 29 Ed., Geschäftsmann 822\n=Schäfer, Ch. H. 101 F. F., Commis 1424",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7886,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2065,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p121",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p121.jpg",
+      "bytes": 1082406,
+      "sha256": "3db35beb5f6716563977bff41e42bb77234adac81b9fb3d6fa6581095c35a092",
+      "sha256_of": "original",
+      "working_copy": "1850_p121.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:04+00:00"
+  }
+}

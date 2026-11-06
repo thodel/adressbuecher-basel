@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p048",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p048.jpg",
+    "bytes": 936658,
+    "sha256": "d7ae55132319b4a1add534f1ed134a824fdad1f5db09a2e4f37380375da6e780",
+    "sha256_of": "original",
+    "working_copy": "1841_p048.jpg"
+  },
+  "text": "41\nNro.\nPfluggasse.\n1120 Weniger, Ruprecht, Gürtler.\n1121 Gemuseus=Stähelin.\n1122 Frischknecht, Joh., Handels-Commis.\n1123 Schmidt-Flury, Frau Catharina.\nWeisgäflein.\n1124 Riemensperger, Valent., Spezereihandlung.\n1125 * Moll, J. C., Küfer.\n1126 * Baur, Jakob, Zeugschmid.\n    Epple, Christ., Schreiner.\n1127 Deck, Joh. Ulrich, Glockengießer.\n1128 Schlumpf, J., Seifensieder, Wittwe.\n1129 Pfaff, Heinrich, Schuhmacher.\nWeiße Gasse.\n1130 Moll, Joh. Christoph, Küfer.\n1131 Gaf=Sirt, Joh. Heinrich, Schneider.\n1132 Seiler, Heinrich, Fabrikarbeiter.\n1133 Rubli, Heinrich, Schreiner.\n1134 Ottenburg, Joh. Heinrich, Wittwe.\n    Bell, Joh. Jakob, Meßger.\n1135 Abt, Heinrich, Meßger, Wittwe.\n1136 Hug, Christoph, Spengler.\n1137 Rosenmund, Joh., Meßger.\n1138 Gaf, J. J., Roch und Pintenschenk.\n1139 Mende, Adam, Schlosser.\n    Frischknecht, Joh.\n1140 Jenny, Friedrich, Magazinier.\n    Füller, Joseph, Gärtner.\n1141 Strub, Joh. Georg, Meßger.\n    Strub, Lucas, Sohn, Meßger.\n1142 * Linder, Eman., Indiennefabrikant, geh.\n    Roth, Martha, geb. Rißler, Wittwe.\n1143 Hug, Joh. Jakob, Schuhmacher.\nBarfüsserplaz.\n1144 Schaub, Jakob fel., Wittwe, Pintenschenk.\n1145 u. 1146 Kitter, Joh. Jakob, Gastwirth zum Schiff.\nHinter dem Stöcklein.\n1147 u. 1148 Bürgy, Joh., Seifensieder und Weinschenk.\n1149 Cruffaire, N. S., Zucker- und Pasketenbäcker.\n1150 Ofer, Leonhard, Mehlschreiber.\n    Schneider=Ofer, Friedrich, Meßger.\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4619,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1406,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.34,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:47:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p048",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p048.jpg",
+      "bytes": 936658,
+      "sha256": "d7ae55132319b4a1add534f1ed134a824fdad1f5db09a2e4f37380375da6e780",
+      "sha256_of": "original",
+      "working_copy": "1841_p048.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:31+00:00"
+  }
+}

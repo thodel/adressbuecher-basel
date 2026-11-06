@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p030",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p030.jpg",
+    "bytes": 1464537,
+    "sha256": "0e3b25e0ac219ec7ebb94401e2080099de12819d9b5ad19438bdfca806905b83",
+    "sha256_of": "original",
+    "working_copy": "1862_p030.jpg"
+  },
+  "text": "Wittwen- & Waifen-; Kranken-, Begräbnis-Cassen 2c. XXVII\nFreiwillige\nbürgerliche Wittwen- & Waifen-Casse\nder Stadt Basel.\nGegründet 1795.\nVerwaltung:\nHr. Dr. Fritz Burckhardt-Brenner, Vorsteher.\n„ Notar Carl Wieland-Dietzsch, Statthalter.\n„ Ed. Preiswerk-Burckhardt, Schreiber.\n„ J. K. Häfelfinger-Rupp, Cassier.\nAlte Beisitzer:\nHr. Michael Sautter-Reff.\n„ Samuel Rieder-Frey.\n„ C. Detloff-Lafontaine.\nNeue Beisitzer:\nHr. Carl Heinrich Dietrich-Martin.\n„ Wilh. Hef-Burckhardt, S. M. C.\n„ J. K. Stähelin-Stähelin.\nRechnungs-Revisoren:\nHr. Aug. Barth-vonderKrone.\n„ Joh. Nifl. Halter-Fäsch.\n„ C. L. K. Maffini-Seiler.\nLehrer-Wittwen- & Waifen-Casse\nder Stadt Basel.\nGegründet 1838.\nVorstand:\nHr. Rathshr. P. Merian, Präsident.\n„ Prof. Andr. Hensler, Sekelmeister.\n„ Dr. Fr. Burckhardt-Brenner, Schreiber.\n„ F. Rebicker in Kleinhiiningen, Beisitzer.\nArbeiter-Wittwen- & Waifen-Casse.\nGestiftet 1845.\nMitgliederzahl 35. Waifen 12.\nVorstand:\nHr. Heinrich Uebelin-Mollinet, Vorsteher.\n„ J. J. Pfaff. Cassier.\n„ Mart. Pfaff-Jenzer, Schreiber.\n„ Fischer-Trantvetter.\n„ Schmidlin-Müller.\n„ Hägler-Laub.\n„ Blicher-Morell.\n„ Geßler-Tanner.\n„ Zemp-Haab.\nWittwen- und Waifen-Casse\nder\nHandlungsdieners.\nGegründet 1849.\nHr. C. Labhardt-Miville, Vorsteher.\n„ J. Salathé-Boscardt, Cassier.\nÄrztliche\nWittwen-, Waifen- & Invalidencasse.\nGegründet 1857.\nVorstand: Hr. Em. Wybert, Med.\net Chir. Dr.\nUmfaßt alle Medicinalpersonen, die hier\netabliert und Schweizerbürger sind, also auch\nZahnärzte, Thierärzte und Apotheker 2c.\nKrankheits-, Begräbnis-, Alters-, Pensions-\nund ähnliche Kassen.\n(Die mit * bezeichneten Kassen stehen mit der Kommission für Fabrik-Arbeiter-\nVerhältnisse der Gemeinnützigen Gesellschaft in Verbindung.)\n* Unterstützungsgesellschaft für\nBuchdrucker.\nGegründet 1661.\nVerwaltung:\nHr. Heinrich Tharin, d. Z. Präses.\n„ Christof Mazinger, Schreiber.\n„ Heinrich Fricke,\n„ Eduard Bäumle,\n„ Carl Stahmann, Beisitzer.\n* Krankenverpflegungsgesellschaft\nder katholischen Gemeinde.\nGegründet 1812.\nVorsteher: Hr. Carl Frey.\n* Kranken- und Begräbnis-Casse\nder Bandfabrik-Arbeiter.\nGegründet 1824.\nHr. Andr. Mezmer, Präsident.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6828,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2118,
+    "lines": 78,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0385,
+    "mean_line_chars": 26.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:21:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p030",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p030.jpg",
+      "bytes": 1464537,
+      "sha256": "0e3b25e0ac219ec7ebb94401e2080099de12819d9b5ad19438bdfca806905b83",
+      "sha256_of": "original",
+      "working_copy": "1862_p030.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:30+00:00"
+  }
+}

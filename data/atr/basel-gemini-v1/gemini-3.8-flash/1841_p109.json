@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p109",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p109.jpg",
+    "bytes": 990520,
+    "sha256": "7d6422faf5142b0e15697beecfad6d0cc0be4032d10c280b85170ba08c492882",
+    "sha256_of": "original",
+    "working_copy": "1841_p109.jpg"
+  },
+  "text": "26\n\nLangmesser, David Ulrich, Bestäter. 22 b St. Johann-Vorstadt.\nLangmesser, Hieronymus, Weinhändler. 489 Oberer Spahlenberg.\nLangmesser, Joh. Jakob, Sattler. 1626 Untere Freienstraße.\nLangmesser, Elisabeth, geb. Gruber, abgesch. 617 Hinter der Rüm-\n  linsmühle.\nLa Roche, Joh. David. 1447 Freie Straße.\nLa Roche, Andreas. 1461 Münsterplatz.\nLa Roche, Simon, Pfarrer bei St. Peter. 243 Kirchgäßlein.\nLa Roche, Emanuel, Vater, Appellationsrath. 553 Adelberg.\nLa Roche, Germann, Deputat. 552 Adelberg.\nLa Roche, Daniel, Rektor. 1461 Münsterplatz.\nLa Roche-Gemuseus, Carl, Handelsmann. 1731 Beim Kornmarkt-\n  brunnen.\nLa Roche-Stähelin, Benedikt. 520 Adelberg.\nLa Roche-Burckhardt, August, Civilgerichtspräsident. 552 Adelberg.\nLa Roche-Bischer, J. J., Banquier, Commissions- und Speditions-\n  Handlung. 520 Adelberg.\nLa Roche-Grasset, Emanuel. 558 St. Peterstiftsgasse.\nLaubheim, Joh. Jakob, Weißbeck. 317 Spahlen-Vorstadt.\nLaubheim, J. G., Wittwe, geb. Salathe. 318 Spahlen-Vorstadt.\nLaudier, Simon Heinrich, Sohn, Commis. 180 Unt. Herbergberg.\nLaudier, Simon Alex., Sprachlehrer, von Straßburg. 180 Unterer\n  Herbergberg.\nLaur-Zäslin, Ferd., Gesanglehrer. 349 Spahlen-Vorstadt.\nLefebvre, Peter, Modehandlung. 1534 Eisengasse.\nLe Grand, Adolf, Kaufmann. 228 Schwarze Pfahlgasse.\nLe Grand-Heusler sel. Wittwe. 384 Missionsgasse.\nLe Grand = de Neufville, Lucas, Kaufmann. 231 Ob. Herbergberg.\nLeibzig, geb. Martin, Gasthof zur Blume. 142 Blumengasse.\nLeicher, Georg Heinrich. 1166 Gerbergasse.\nLerch, Georg u. Val., Seidenhandlung. 1607 Sporrengasse.\nLeser, Adolf, Wirthschaft. 355 St. Leonhardsgraben.\nLeser, Joh. Friedrich, Kutscher. 1201 Luftgäßlein.\nLeuba, Ludwig, Uhrenmacher. 614 Hinter der Rümlinsmühle.\nLeuba, Franz, Buchbinder. 482 Oberer Spahlenberg.\nLeuba, Heinrich, Uhrenmacher. 1641 Untere Freienstraße.\nLeucht, Friedrich, Negt. (Rag. : Leucht u. Comp.) 113 Blumenrain.\nLeuthard, Joh., Schlosser, von Arlesheim. 131 Kronengasse.\nLeuthard, Peter, Schuhmacher. 1109 Weiße Gasse.\nLeuthard, Heinrich, Hutmacher. 1159 Gerbergasse.\nLeuzinger, Conrad, Fabrikarbeiter, v. Nettstal. 179 Unt. Herbergberg.\nLevi, Abr., von Bletzheim, Waarenhandlung. 609 Schnabelgäßlein.\nLex, Felix Jos., Notar. 1381 a Am Bäumlein.\nLichtenhahn, J. Rud., Negt. 234 St. Petersgasse.\nLichtenhahn, Benedikt, Oberstlieutenant u. Kaufmann. 433 Heuberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8292,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2329,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:56:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p109",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p109.jpg",
+      "bytes": 990520,
+      "sha256": "7d6422faf5142b0e15697beecfad6d0cc0be4032d10c280b85170ba08c492882",
+      "sha256_of": "original",
+      "working_copy": "1841_p109.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:00+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p100",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p100.jpg",
+    "bytes": 1073909,
+    "sha256": "19839e3b44faf7149b71b49c3ce5ab8c459139bbd5a645f82bf59b47bcfd6a01",
+    "sha256_of": "original",
+    "working_copy": "1850_p100.jpg"
+  },
+  "text": "Riehen=Quartier. 87\n202 Schardt, Peter, Küfer.\n  Schardt, Ludw., Sohn, Polizei-Sekretär.\n203 Obrigkeitlich.\n204 Wegner, Joh. Rud., Seidenfärber.\n205 (Mehlwaage) Obrigkeitlich.\n206 Heukler, Karl Leonh., Kaufmann.\n  Schuler, Adam, Weißgerber.\nA 206 Schupp, Joseph, Kutscher.\n207–11 Wohnhaus, Remise u. Stallung, Braun, Jean,\n  Bater, gehörend.\n212 Hediger, F. Rud., Fabrikarbeiter.\n213 Guiring, Joh. Martin, Schneider.\n\nGreifengasse.\n214 Özwald, Friedrich, Schuhmacher.\n215 Horner, Wittwe, Rentière.\n216 Müller, Heinrich, Schlosser.\n217 Reber-Biermann, Ph. Th., Arzt.\n  Dalang-Heger, Ed., Feger.\n218–20 Bertrand, Jos., Lohnkutscher, Weinschenk.\n221 Zäslin, Heinrich, Thorschreiber.\n  Zäslin, Franz, Buchbinder.\n222 Münch, Joh. Kaspar, Med. et Chir. Dr., Stadt-\n  physikus.\n223 Hoz, Jak., Fabrikarbeiter.\n224 (Gesellschaftshaus z. Greifen.)\n  Kellermann, Joh. Christ., Apotheker.\n225 Weix, Jungfrau Judith, f. z. subm.\n226 Hiz-Bohni, Wittwe Anna, Partikularin.\n227 Bulacher, Joh., Seifen- u. Kerzenfabrikant.\n228 Meyer, F. F., Weißbeck.\n229 Lang-Oser, Wittwe, Partikularin.\n  Dehl-Lang, Heinrich, Commis.\n230 Schmidt, Daniel, Kübler.\n231 Neukomm, Joh., Wirth.\n232 Gaf, Andreas, Schuhmacher.\n233 Flubacher, Heinrich, Hausknecht\n  Glaser, Friedrich, Fischer.\n235 Langmeffer, F. H., Seiler.\n236 Wohlnlich, Wittwe, Weißbeck.\n237 Baumgartner, Franz Heinrich, Schneider.\n238 Fäsch, N., Kupferschmid, Salzhauschreiber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4661,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1408,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p100",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p100.jpg",
+      "bytes": 1073909,
+      "sha256": "19839e3b44faf7149b71b49c3ce5ab8c459139bbd5a645f82bf59b47bcfd6a01",
+      "sha256_of": "original",
+      "working_copy": "1850_p100.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:40+00:00"
+  }
+}

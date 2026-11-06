@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p089",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p089.jpg",
+    "bytes": 913538,
+    "sha256": "e331a853c62d0edab65208f13bee1878798f9ee6e743a67dbceb022b81842814",
+    "sha256_of": "original",
+    "working_copy": "1850_p089.jpg"
+  },
+  "text": "76 Stadt-Quartier.\n\nKuttelgäßlein.\n1693 Gysin, Heinrich, Vater.\n  Gysin, Samuel, Courtier.\n1694 Bicard, Wittwe Ester, Kostgeberin.\n1695 Streicher, Joh.\n  Schnäbelin, Leonh., Schuhmacher.\n\nSchnabelgäßlein.\nA 1695 Schardt, Matth., Spengler.\n\nKuttelgäßlein.\n1696 Wuchner, Peter.\n  Lotz, Karl, Schlosser.\n1697 Künzle-Gögel, Wittwe, Glätterin.\n\nSchnabelgäßlein.\n1698 Linder, Gottlieb Nikl., Mechanikus.\n  Kündig, Rudolf, Tapezierer.\n1699 Cappeler, J., Schuhmacher.\n1700 Kunz, Wittwe.\n1701 Bürgin, Heinr., Posamenter.\n1702 Weiß, Karl Ludwig, Kübler.\n1703 Meyer, Gedeon, Spezierer.\n\nUnterer Spahlenberg.\n1704 Rudin, Johann, Fabrikferger.\n  Dittmer, Rudolf, Fabrikant.\n  Meister, Dietrich, Geschäftsmann.\n  Burckhardt-Fäsch, Wittwe Emilie, Partikularin.\n1705 Schnäbelin, Adam, Kiefer.\n1706 Tschudy, Joh. Ulrich, Schneider.\n1707 Bernoulli, Joh. Jak., Vater, Rentier.\n1708 Gysin, Peter, Bierbrauer.\n  Schneider, Eml., Amtmann.\n  Oplinger, Ab. u. Dl., Commis u. Dessinateur.\n1709 Roschet, Abrh., Kürschner u. Rauchwaarenhdlg.\n1710 Ungerer, Andreas, Weinschenk.\n1711 Hosch, Eduard, Spengler.\n  Lutz, J. U., Uhrenmacher.\n1712 Jörin, J. Heinrich, Handelsmann, [handschriftlich: Jetzige Eigenthümerin]\n  Schmidt, Schlosser. [handschriftlich: Wb. Wassermann geb. Jäcklin]\n  Bloch, Joseph, Pferdhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6713,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1286,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0513,
+    "mean_line_chars": 31.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p089",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p089.jpg",
+      "bytes": 913538,
+      "sha256": "e331a853c62d0edab65208f13bee1878798f9ee6e743a67dbceb022b81842814",
+      "sha256_of": "original",
+      "working_copy": "1850_p089.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:40+00:00"
+  }
+}

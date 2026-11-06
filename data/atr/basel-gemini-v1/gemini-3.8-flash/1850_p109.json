@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p109",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p109.jpg",
+    "bytes": 1033053,
+    "sha256": "bc27c22801052cd908333859635088ebcd06f59cf7a65c4dfa192223dc5096b5",
+    "sha256_of": "original",
+    "working_copy": "1850_p109.jpg"
+  },
+  "text": "Register.\n\n(Die mit * bezeichneten Nummern sind im Kl. Basel.)\n\nAbig, Em., Spengler\t*78\nAbig, G., Schlosser\t*100\nAbt, Bl., Hausknecht\t1314\nAbt, F. P., Conduct.\t1557\nAckermann, B., Schule\t698\nAckermann, P., Fuhrh.\t977\nAenishänsli, M.\t*156\nAlbäck, F. H., Quincaill.\t1447\nAlbiez, Joh., Kostgeber\t194\nAlbrecht, K., Spezierer\t*281\nAlibert, F., Strohhuth.\t1424\nAlinger, Abwart\t1634\nAlioth, Siegm., M. Dr.\t1202\nAllemann, Urs, Maurer\t788\nAllemann, Ch., Wirth\t*378\nAllemann, Urs Joseph\t922\nAllenspach, Spezierer\t1330\nAlt, Frau, geb. Mechel\t629\nAlt, Daniel, Beck\t*152\nAltorfer, H., Messerschm.\t658\nAmans, F. W., Hutm.\t1541\nAmans, A., Dessinateur\t1541\nAmans, H., Commission.\t1541\nAmmann, A., Siebmach.\t671\nAmmon, Joh. T.\t343—44\nAndreas, F., Postoffiz.\t*67\nAndreas, Wwe., Schuhm.\t*67\nAnklin, Jos., Schreiner\t765\nAnstein, Joh., Küfer\t97\nAnstein, Wwe., Helena\t1092\nAnstein, F. J., Küfer\t1378\n[spalte 2]\nAenz, G.\t*93\nAsch, K., Posamenter\t1502\nAsmus, Fr., Zimmerm.\t*72\nAudran-Ebner, Alex.\t208\nAuer, Karl Jakob\t785\nAweng, Rud., Beck\t90\nAwengen, F. F., Archit.\t267A\nAwengen, Wittwe\t352A\nAwengen, K., Commis\t441\nBaader, Fr., Inspektor\t939\nBachmann, E., Commis\t862\nBachmann, Geschwister\t894\nBachofen, S., Metzger\t308\nBachofen, F. M.\t875\nBachofen, F. F., Trait.\t1175\nBachofen, F. F., Bandf.\t1209\nBachofen, F. F., J. U. D.\t1209\nBachofen, W., Bandfab.\t1209\nBachofen, K., Bandfab.\t1510\nBader, Jos., Wirth\t298\nBader, Joh., Spezierer\t640\nBader, U. F., Spengler\t727\nBader, Adolf, Sattler\t1393\nBader, H., Maurer\t*301\nBaldner-Nörbel, J. Ch.\t1158\nBamberger, J., Commis\t397\nBanga, R., Schneider\t1001\nBär, Th. R., Perrückenm.\t580\nBär, Abr., Perrückenm.\t1567\nBärri, H., Blattmacher\t371\nBarth, D., Bauverwalt.\t286",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8222,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1679,
+    "lines": 65,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 24.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p109",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p109.jpg",
+      "bytes": 1033053,
+      "sha256": "bc27c22801052cd908333859635088ebcd06f59cf7a65c4dfa192223dc5096b5",
+      "sha256_of": "original",
+      "working_copy": "1850_p109.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:53+00:00"
+  }
+}

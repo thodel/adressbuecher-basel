@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p034",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p034.jpg",
+    "bytes": 1508895,
+    "sha256": "79a34b649082eaa12260b3ce270e39704f2102d7aa49e66a3aafabd6ed5b30c2",
+    "sha256_of": "original",
+    "working_copy": "1862_p034.jpg"
+  },
+  "text": "Vereine & Anstalten für Kunst, Musik & Geselligkeit. XXXI\n\nHr. Cand. F. L. Oser, Statthalter.\n„ Albert de Alb. Burckhardt, Seckelmeister.\n„ Dr. Aug. Heusler, Statthalter.\n„ Dr. Rem. Meyer.\n„ Stadtrath Dr. Rud. Burckhardt.\n„ Professor Wackernagel.\n„ Friedr. VonderMühll-Vischer.\n„ C. Respinger.\n„ Professor Ed. Hagenbach.\n„ Dr. F. A. Maehly.\nHr. F. Düring-Kühn, Bibliothekar.\nIst täglich von Morgens 10 bis Abends 9\nUhr geöffnet, hält einige 80 Zeitungen, unge-\nfähr 160 Zeitschriften sammt Bibliothek von\ncirca 30,000 Bänden aus allen Fächern. Die-\nselbe ist von über 500 Mitgliedern und 150\nAbonnenten besucht, durch welche Fremde ein-\ngeführt werden dürfen. Die Mitglieder zah-\nlen Fr. 30 jährlich, die Abonnenten Fr. 36,\nFr. 20 u. Fr. 12, für 12, 6 und 3 Monate.\nDie jährlichen Einnahmen belaufen sich auf\nFr. 25,000.\n\nKämmerlein zum Verein.\nGegründet 1807,\nbeging am 22. September 1857 sein 50jäh-\nriges Jubiläum.\nZweck: Gesellige Unterhaltung.\nCommission:\nHr. Jakob Sprenger, Präsident.\n„ F. F. Müeller-Pack, Cassier.\n„ Philippi-Stierlin, Sekretär.\n„ Philipp Hindermann, Bibliothekar.\n„ F. C. Schabelitz.\n„ J. E. Marget.\n„ F. Kelterborn.\n„ F. Imhoff, Sohn.\n„ Klipfel, Sohn.\n\nGesang-Verein.\nGegründet 1823.\nZweck: Erweckung und Pflege des Sinns\nfür gediegene Musik.\n\nGesellschaft\ndes\nCasino im St. Jakobs-Garten.\nGegründet 1823, reorganisirt 1843.\nVorstand: Hr. Rathshr. Köchlin-Geigy.\n\nGesellschaft des Stadt-Casino.\n1824 auf Actien gegründet zum Zweck geselli-\nger und musikalischer Vereinigungen.\nVorstand: Hr. W. Burckhardt-Sarasin.\n\n[spalte 2]\nMänner-Chor.\nGegründet 1825 zur Hebung des Volksgesangs.\nMitgliederzahl 72 active und 84 passive.\nDirector: Hr. Hs. Krebs.\n\nAkademischer Männerchor.\nGegründet 1828 zur Hebung und Pflege des\nGesangs unter den Studierenden.\nMitgliederzahl: 30.\nCommission:\nHr. B. Buser, Stud. theol.\n„ A. Burckhardt, „\n„ Joh. Schmidt, „\nDirector: Hr. M. Kahnt.\n\nAktien-Theater.\nGegründet 1828.\nCommission:\nHr. LaRoche-Bez, Präsident.\n„ Emil Forcart.\n„ Dr. F. Mähly.\n\nKunst-Verein.\nGegründet 1839 zur Unterstützung der Kunst\ndurch Veranstaltung von Ausstellungen und\nAnkauf von Gemälden oder Leistung von Bei-\nträgen an den Ankauf von solchen an die Kunst-\nsammlung des Museums.\nCommission:\nHr. Rathshr. Merian-Iselin, Präsident.\n„ Stehlin-Burckhardt, Statthalter.\n„ Eduard Bischoff, Seckelmeister.\n„ Dr. F. F. Merian, Seckelmeister.\n„ Burckhardt-Sarasin.\n„ Albrecht Burckhardt.\n„ Dr. Adolf Burckhardt.\n\nPosamenter-Gesang-Verein.\nGestiftet 1841 zur Ausbildung des Volks-\ngesangs.\nHr. F. Jakob Calm, Präsident.\n„ F. Hunziker, Cassier.\n„ Adolf Simmler, Aktuar.\n\nKünstler-Gesellschaft.\nReconstituirt 1842.\nHr. Imhof-Forcart, Präsident.\n„ Amadeus Merian, Stadtr., Statthalter.\n„ F. Müller-Stähelin, Schreiber.\n„ Meili, Bildhauer, Conservator.\n„ Maring, Architekt, Cassier.\nVersammlung alle Dienstage.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10801,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2829,
+    "lines": 99,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0303,
+    "mean_line_chars": 27.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:29:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p034",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p034.jpg",
+      "bytes": 1508895,
+      "sha256": "79a34b649082eaa12260b3ce270e39704f2102d7aa49e66a3aafabd6ed5b30c2",
+      "sha256_of": "original",
+      "working_copy": "1862_p034.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:29+00:00"
+  }
+}

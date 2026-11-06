@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p027",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p027.jpg",
+    "bytes": 1055803,
+    "sha256": "8c6eb8613c5af5aeaed0e880eecb224cdbf01604c4eb3f005a3a3675f622b428",
+    "sha256_of": "original",
+    "working_copy": "1850_p027.jpg"
+  },
+  "text": "16\tSpahlen = Quartier.\n\n331\tSixt, Wittwe Elis. geb. Weitnauer.\n\tSchneider, F. Fch., Commis.\n332\t(Magazin) zu Nr. 313, Stehelin, Gottf., geh.\n333\tZäslin-Streckeisen, Joh., Commiss.- u. Sped.-Hdlg.\n334\t(Magazin) zu Nr. 313, Stehelin, Gottf., geh.\n335\tMadeux, Joh., Commiss.- u. Speditions-Handlung.\n336\tZum Gasth. zum schwarzen Ochsen geh.\n337\tMagazin.\nA 337\tid.\n338\tBrüstlin, Georg, Zimmermann.\n339\tBarth, Matth., Nagelschmied.\n\tBarth, Wittwe, Cath., Partikularin.\n\tBarth, Gottfried, Bestätereigehülfe.\n\tLutz, Ed., Kapellmeister.\n340\tMagazin.\n341\tid.\n342\tRumpf, Karl Chr., Handlungs-Commis.\n343-44\tSchilling, Abraham, Wagner.\n\tAmmon, Joh. T., Partikular.\n\tImhof - Burckhardt, Joh. Ludw., Geschäftsmann.\n345\tMüller, J. Ph., S. M. C., Lehrer zu St. Peter.\n\tMüller, Jungfrau, Cath., Partikularin.\n346\t(Scheune u. Stall.) Müller, H., Ochsenwirth, geh.\n347\tMeyer, Peter, Metzger.\n\tSchuster, Aug., Musik- und Gesanglehrer.\n\nSpahlen-Vorstadt.\n\n348\tSchilling, J. R., Hufschmied.\n349\t(Gesellsch. z. Krähe) Wohnlich-Hagenbach, F., Kaufm.\n350\tMerian - Frischmann, Rud., Banquier.\n\tMerian - Stückelberger, Wittwe, Kapitalistin.\n351\tHenz - Bernet, Jakob, Weißbeck.\n\tHenz, Euchar., Wagner.\nA 352\tHindermann, F. J., Tuchscherer.\n\tAwengen, Wittwe geb. Dietschy, Partikular.\nC 352\t(Gasth. z. Kanne) Ulmann, Wittwe, Gastwirthin.\n353\t(Gasth. z. Engel) Stössel, Joh., Gastgeber.\n354\tHenz - Fischer, Joh., Weißbeck.\n\tMüller - Heinzgen, Fr., Flachmaler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6961,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1430,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p027",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p027.jpg",
+      "bytes": 1055803,
+      "sha256": "8c6eb8613c5af5aeaed0e880eecb224cdbf01604c4eb3f005a3a3675f622b428",
+      "sha256_of": "original",
+      "working_copy": "1850_p027.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:00+00:00"
+  }
+}

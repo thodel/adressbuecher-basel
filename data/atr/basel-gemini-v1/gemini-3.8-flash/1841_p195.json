@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p195",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p195.jpg",
+    "bytes": 1027774,
+    "sha256": "7722b373a687d6d0656bb18c1fa270a124a3d3fd6ee34a931a53b90acf31838a",
+    "sha256_of": "original",
+    "working_copy": "1841_p195.jpg"
+  },
+  "text": "— 42 —\n\nJöcker, Durs Jakob, von Oberbuchseten, Lehenmann. 86\n  Im Vogelgesang.\nJsenring, Joh. Bapt. Othmer, von Niederußwil, Fabrik-\n  arbeiter. 32 b. Riehenstraße.\n\nK.\n\nKleinwitz, Johannes, Mechanikus. 6 Mittlere Straße.\nKöllner, Rudolf, Part. 69 Grenzgacherstr.\nKoch, Johannes, von Leimen, Gärtner. 39 An der\n  Riehenstraße.\n\nL.\n\nLabrem, Jonas David, von Chesard, K. Neuenburg, Lohn-\n  wascher. 11 Am Teich.\nLäuchlin, Johannes, von Hottwil, Gärtner. 24 An der\n  Riehenstraße.\nLäuchlin, Rudolf, von Hottwil, Gärtner. 76 An der\n  Grenzacherstraße.\nLäuchlin, Jakob, von Hottwil, Gärtner. 77 An der\n  Grenzacherstraße.\nLäuchlin, Johannes, Sohn, von Hottwil, Gärtner. 81\n  Grenzacherstraße.\nLäuchlin, Rud., v. Hottwil, Gärtner. 69 Grenzacherstraße.\nLangenberger, Elisabeth, Wittwe, geb. Martin, Lohn-\n  wascherin. 10 Am Teich.\nLangenecker, Chrischona, geb. Welti, von Baar, K. Zug,\n  Wascherin. 33 An der Riehenstraße.\nLe Grand, Christoph und Anna Maria, Geschwister, Part.\n  und Gutsbes. 33 An der Riehenstraße.\nLindenmeyer = Böhler, Joh. Georg, Weinhändler. 9 Am\n  Teich.\nLobacher, Konrad, von Bühler, Straßenarbeiter. 37\n  Auf dem Gotterbarm.\nLotz, Franz, Faktor auf der Post. 14 Am Teich.\n\nM.\n\nMasselot, Heinrich, von Joinville, Gärtner. 65 Grenzacherstr.\nMaurer, Jakob, von Diepflingen, Lehenknecht. 85 Im\n  Vogelgesang.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6812,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1322,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0811,
+    "mean_line_chars": 33.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:06:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p195",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p195.jpg",
+      "bytes": 1027774,
+      "sha256": "7722b373a687d6d0656bb18c1fa270a124a3d3fd6ee34a931a53b90acf31838a",
+      "sha256_of": "original",
+      "working_copy": "1841_p195.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:32+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p156",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p156.jpg",
+    "bytes": 1014143,
+    "sha256": "6b5a9d1e7c456f3719cf65691843a5719c4b7796f843b08c284daa0d7ed48ed4",
+    "sha256_of": "original",
+    "working_copy": "1850_p156.jpg"
+  },
+  "text": "582\nSchnewlin & Cie. Carl Schnewlin.\nMichael Gautter, Procuraträger.\nZ.\n1282 Thurneisen'sche\nPapierfabrik Ludwig Andreas Thurneisen.\nHans Rud. Thurneisen,\nProcuraträger.\n*384 Rudolf Trueb . Wittwe Elisabeth Trueb,\ngeb. Näf.\nB.\n1386 F. Bernh. Best, jünger . Johann Bernhard Best\njünger.\n1590 Emanuel Best . Emanuel Best.\n1364 Vischer u. Sohn . Friedr. Vischer-Bischoff.\nCarl Awengen-Müller,\nProcuraträger.\nM. Breiter-Brüderlin,\nProcuraträger.\n1575 F. G. Vogt & Cie. Joh. Georg Vogt.\nAugust Bennig (Procurat-\nJohann Welte (raträ-\nNikolaus Rogg (ger.\n1598 BonderMühl u.\nSöhne Joh. Georg Bonder-\nMühl.\nJohannes BonderMühl.\nAugust BonderMühl.\n1230 BonderMühl-Hoffmann\nLeonhard BonderMühl.\nFr. BonderMühl-Bischer, Procuraträger.\nA. BonderMühl-Fürstenberger, Procuraträger.\n1230 Gebrüder BonderMühl . Fritz BonderMühl.\nAlfred BonderMühl.\nF. F. Simmen, Procuraträger.\n143",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3186,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 863,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0556,
+    "mean_line_chars": 23.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0023,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p156",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p156.jpg",
+      "bytes": 1014143,
+      "sha256": "6b5a9d1e7c456f3719cf65691843a5719c4b7796f843b08c284daa0d7ed48ed4",
+      "sha256_of": "original",
+      "working_copy": "1850_p156.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:34+00:00"
+  }
+}

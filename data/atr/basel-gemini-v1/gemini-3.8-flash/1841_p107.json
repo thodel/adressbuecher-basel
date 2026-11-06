@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p107",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p107.jpg",
+    "bytes": 981491,
+    "sha256": "eb7e7d1bb18c648b0800378d805ff5915db0c3dcf9e609c5d0349253ccad3976",
+    "sha256_of": "original",
+    "working_copy": "1841_p107.jpg"
+  },
+  "text": "24\n\nKleiber, Andreas, Schuhmacher. 1602 Sporrengasse.\nKlein, Simon, Fabrikarbeiter, von Kandern. 175 Brunngäßlein.\nKlein, Wilh. Mädchenlehrer. 937 a Töchterschule. Steinenberg.\nKleinert, Joh. sel., Wittwe. 399 b Heuberg.\nKleinpeter, Heinrich, Grieser sel., Wittwe. 1739 Hinter d. School.\nKlenk, Viktor. (Agentsgeschäfte.) 521 Adelberg.\nKling, Elias, Glaser. 1087 Streitgasse.\nKlingelfuß, Barb., Jungfer, Frauenzimmerschneiderin. 888 Klosterberg.\nKlingelfuß, Lucas, Seiler. 1555 Bei der Brodlaube.\nKlingelfuß, Jak. Christoph, Schneider. 1157 Gerbergasse.\nKlingenfuß, Heinrich, Thor-Zoller. 311 Spahlenthor.\nKlingenfuß, Fr., Seiler. 294 Spahlen-Vorstadt.\nKlipfel, Heinr., Weinhändler, v. Bischweiler. 15 u. 16 St. Joh.-Vorst.\nKnecht, Bernh., Rechnungsmeister. 615 Hinter der Rümlinsmühle.\nKnellwolf, Peter, Partikular. 819 Kurzer Steg.\nKnop, Ernst, Musikalienhandlung. 1547 Eisengasse.\nKnopf, Jak. Fr., Schuhmacher u. Weinschenk. 150 Schwanengasse.\nKnopf, Geschwister, Modehandlung. 159 Fischmarkt.\nKober, Andr., Maurer-Polier. 400 Heuberg.\nKoch, Wittwe, geb. Spreiermann. 697 St. Leonhardsberg.\nKoch, Joh. Franz, Gärtner. 918 St. Elisabethen.\nKoch, Joh., von Großbliedersdorf. 1566 Schneidergasse.\nKöchlin, Heinrich, Gypser. 1174 Freie Straße.\nKöchlin, Jungfrau. 267 c Neue Vorstadt.\nKöchlin-Burckhardt, Sam., Partikular. 24 St. Joh.-Vorstadt.\nKohl, Jungfer, Catharina, Blumenmacherin. 413 Heuberg.\nKorn, Heinrich, Buchbinder. 1004 Aeschen-Vorstadt.\nKrauer, Rud., Sohn, Müller. 1304 St. Alban-Thal.\nKraus, Daniel, Pfarrer. 393 Bei St. Leonhard.\nKrayer, Emanuel, Unterbestäter. 1657 Rindermarkt.\nKrayer, Christian, Fabrikarbeiter, von Emmendingen. 1683 Kuttel-\n  gäßlein.\nKromer, Johann Peter. 687 a St. Leonhardsberg.\nKromer, David, Sigrist bei St. Martin. 1500 Sigristwohnung.\nKrug, J. Georg, Kaufmann. 355 St. Leonhardsgraben.\nKrug, Joh., Archivar. Das Rathhaus. 1611 Markt.\nKrug, Ludwig. 293 Spahlen-Vorstadt.\nKrug, Hieron., Thorschreiber. 999 Aeschen-Thor.\nKrug, Joh. Jakob, Spezereihandlung. 1637 Untere Freienstraße.\nKrug, Markus, Buchbinder. 668 Gerbergasse.\nKrug-Stierlin, Wilh., Hutmacher. 1551 Eisengasse.\nKrull, Frau, Margaretha, geb. Strub. 528 Imbergäßlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7868,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2169,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:55:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p107",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p107.jpg",
+      "bytes": 981491,
+      "sha256": "eb7e7d1bb18c648b0800378d805ff5915db0c3dcf9e609c5d0349253ccad3976",
+      "sha256_of": "original",
+      "working_copy": "1841_p107.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:43+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p111",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p111.jpg",
+    "bytes": 1112153,
+    "sha256": "e0673554bd7cb36974006d41c6b7ce76987dee298fc2d554778fa5f2f3fe7c3f",
+    "sha256_of": "original",
+    "working_copy": "1850_p111.jpg"
+  },
+  "text": "98\n\nBienz, Wwe., A. M. 257B\n  Joh. Rud., Schreiner 770\n  -Gerster, K. P., Commis 863\n  J. J., Kaminfeger 909\n  Joh., Schneider *63\n  Georg, Schreiner *119\n  Rudolf, Metzger *391-92\n  Heinr., Weinhdlg. *400\nBirmann, Gottfried 170\n  Gebr., Rud. u. Wilh. 227\n  Oskar, Dr. Jur. 227\n  Dr. u. W. Merian 149A\n  Daniel, Amtsweibel 633\n  Georg, Postoffiziant 1160\n  Jak. Friedr. *147\n  Wittwe, Hel. 74\nBierschenk, Ad., Gerber 796\nBilsinger, Wwe., Elis. 442\nBinz, Joh. Ulr., Ferger 817\nBischoff, A., Spezereihdlg. 4\n  -Merian, R., Handelsm. 375\n  -Keller, Andreas 437\n  -Kestner, J. J., Banqr. 912\n  -Respinger, Hieron. 1228\n  -Bischoff, H., Tuchhlg. 1229\n  Geschwister 1343\n  Karl, Stofffabr. 1346\n  -Iselin, Christof 1346\n  -Ritter, Achilles 1363\n  Achilles, Sohn 1363\n  -Ehinger, A., Hdlsm. 1381\n  Peter, Seidenhdlg. 1388\n  Joh., Kaufmann 1471\n  -Fürstenberger, Aug. 1485\n  Peter, Seidenhdlg. 1490\n  -Merian, W., Bandfkt. 1490\n  -Burckhardt, Wilh. 1511\n  Karl de Joh. 1511\n  -Buxtorf, Johannes 1513\n  -Preiswerk, Wittwe 1344\n  -Wieland, Wwe., Val. 1440\n  -Debary, Wwe., Sus. 1471\n  Jgfr., Sara 1363\n[spalte 2]\nBischoff, Jgfrn., M. u. L. 1471\n  J. J., Pfarrer *176\n  Gottl. Polizeihauptm. *176\n  Arnold, Postoffiziant *176\nBlackwell, Jgfr., Jane 754M\nBlanc, David, Commis 1617\nBleiler, R., Hdlsm. 357-58\nBlendinger, Jak. 1329\nBlessing, Wwe., Marg. 1223\nBleuler, Wittwe 199\nBloch-Kündig, Wittwe 278\n  -Fatio, Joh. 703\n  -Herzog, D., Commis 957\n  Peter, Seiler 1621\n  Euch., Zuckerbeck 1622\n  Jos., Pferdehändler 1712\nBlüher, C. F. 1105\nBöcklin, F., Commis 766\nBödegger, W., Zimmerm. *82\nBögle, Simon, Maurer 411\nBöhler, Nepomuk 685\nBöhme, F. B., Schrein. 1005\nBohny, J., Hufschmied 290\n  N., Lehrer 443\n  J. J., Eheger.-Amtm. 1057\n  Nikl., Ausschnitthdlg. 1663\n  Ambr., Spezereihdlg. 1666A\n  Joh., Hufschmied *163\nBöhrlin, J., Schleif. *252-53\nBollier, Georg, Posam. 963\nBolliger-Miville, J. 1550\nBollinger, J. J., Ferger 555\nBolly, Melch., Appret. 274A\nBonin, Georg, Schreiner 412\nBonnant, P., Appret. 1256\nBorgognon, Frz. L. Const. 763\nBorn, Eug., Weinhändl. 22B\nBorst, Aug., Schneider 239\nBöschenstein, Sgd. 1006\nBossardt-Wolleb, Frau 288\n  Rud., Kornmesser 468\n  J. J., Großuhrenmach. 600\n  Andr., Liseur 855",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9529,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2203,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:18:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p111",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p111.jpg",
+      "bytes": 1112153,
+      "sha256": "e0673554bd7cb36974006d41c6b7ce76987dee298fc2d554778fa5f2f3fe7c3f",
+      "sha256_of": "original",
+      "working_copy": "1850_p111.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:12+00:00"
+  }
+}

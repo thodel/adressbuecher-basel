@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p077",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p077.jpg",
+    "bytes": 944188,
+    "sha256": "2e53e399aea30762737ee5737a5f20964354a7578105bede4d282ae85769bf52",
+    "sha256_of": "original",
+    "working_copy": "1841_p077.jpg"
+  },
+  "text": "70\nNro.\n204 Wegner, Joh. Rud., Seidenfärber.\n  Miville, Rud., Rentier.\n205 * Mehlwaghäuslein, der Stadt geh.\n206 Hindenlang, Carl Fried., Seidenfärber.\n  Heußler-Iselin, Dan., Präsident des Stadtraths.\n206 a Haßler. Niklaus, Schullehrer.\n207—211 Wohnung, Magazin, Remise und Stallung von Braun-\n  Weiß, Andr., Oberst.\n212 * Bertrand, Jos., Lohnkutscher und Wirth.\n  Bürer, Caspar, Schneider.\n\nGreifengasse.\n\n213 Breitenstein, Joh., Weißbeck.\n  Scherzinger, Franz, Mechanikus, von Köln.\n214 Becker, geb. Etienne, Wittwe, Baumwollen- und Wollen-\n  waarenhandlung.\n215 Horner, Joh. Heinrich, Weißbeck.\n216 Müller, Heinrich, Schlosser.\n217 Iselin, Joh. Ludwig, Partik.\n218—220 Bertrand, Joh., Wirth und Lohnkutscher.\n221 Zäslin, Joh. Heinr., Thorschreiber und Buchbinder.\n222 Münch, J. Caspar, Med. u. Chirurg. Dr. u. Stadtphysikus.\n223 Roth, Ursus, von Reigoldswyl.\n224 * Gesellschaftshaus zum Greifen.\n  Kellermann, Joh. Chr., Apotheker.\n225 Weiß, Jungfer, Judith.\n226 Hitz, J. J., Schreiners sel. Wittwe, geb. Bohny.\n227 Bulacher, Joh., Seifensieder und Kerzenfabrikant.\n228 Meyer, Jakob, Weißbeck.\n229 Lang, Emanuel, Weinhändler sel., Wittwe, geb. Oser.\n230 Schmidt, Daniel, Kübler.\n231 Landolt, Fried., Bierbrauer.\n232 Gaß, Andr., Schuhmacher, von Liestal.\n233 * Lang, Eman., Weinhändlers sel. Wittwe geh.\n234 Ruprecht, Stephan, Krempler.\n  Hofer, Reinhard, Schneider.\n235 Langmesser, J. Heinr., Seiler und Holzsetzer.\n236 Wohnlich, Jakob sel., Wittwe, Bäckerei.\n237 Baumgartner, Franz Heinrich, Schneider.\n  Lotz, Franz, Stadtbote.\n238 Fäsch, Rud., Kupferschmid.\n\nOchsengasse.\n\n239 u. 240 Jenny, Joh., Spezerei- und Käsehändler.\n241 * Lindenmeyer, Carl, Vater.\n242 * Horner, J. H., Weißbeck, geh.\n  Schälklin, Joh. Jakob, Beck.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7013,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1729,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p077",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p077.jpg",
+      "bytes": 944188,
+      "sha256": "2e53e399aea30762737ee5737a5f20964354a7578105bede4d282ae85769bf52",
+      "sha256_of": "original",
+      "working_copy": "1841_p077.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:58+00:00"
+  }
+}

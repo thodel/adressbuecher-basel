@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p032",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p032.jpg",
+    "bytes": 1471276,
+    "sha256": "d3021ba2f1bf02979ef7cd802ae373decc256937423fe00baa9d2b12a7376dda",
+    "sha256_of": "original",
+    "working_copy": "1862_p032.jpg"
+  },
+  "text": "Kranken-, Alters-Cassen. Vereine zu wissensch. Zwecken. XXIX\n* Kranken- und Begräbnis-Casse | * Hülfs-Casse des weibl. Geschlechts\nzum | in Krankheits- und Sterbefällen.\nFreundschaf ts-Verein. | Gegründet 1855.\nGegründet 1851. | Präsident: Hr. Joh. Ristler, Steinenvor-\n| stadt 13.\n| Kranken-, Sterbe- & Invalidencasse\n| der Haas'schen Gießerei.\n| Gegründet 1858.\n| Verwalter: Hr. H. Jiinemann.\n| Bicariats-Cassen\n| zur Bestreitung der Bicariatskosten der Leh-\n| rer, welche unfreiwillig die Schule versäumen\n| müssen:\n| 1) Für die Gemeindeschulen gemeinschaftlich,\n| gegründet 1826.\n| 2) Für die Töchterschule, gegründet 1844.\n| 3) Für die Gymnasien u. Realschule ge-\n| meinschaftlich.\n| * Kranken-Casse der Mechaniker.\n| Gegründet 1853.\n| Vorsteher: Hr. Martin Keller.\n| * Hülfs-Casse für kranke Posamenter.\n| Gegründet 1855.\n| Vorsteher: Hr. Friedr. Bürgin, St. Alban-\n| kloster.\n| Cassier: Hr. Jacob Wiedler, Rheingasse 40.\n| Verwalter u. Cassier: Heinr. Mießner,\n| Spitalstraße 30.\n| Vereine und Anstalten zu wissenschaf tl. Zwecken.\n| Naturforschende Gesellschaft.\n| Gegründet 1817 als Fortsetzung der 1751\n| gestifteten Societas physica medica.\n| Vorstand: Hr. Prof. F. C. Schönbein.\n| Freiwillige akademische Gesellschaft.\n| Gegründet 1835.\n| Vorstand:\n| Hr. Profess or A. Heusler, Präsident.\n| \" Kathsherr P. Merian, Sekelmeister.\n| \" Dr. C. Thurneyssen, Schreiber.\n| \" Altbürgermeister F. F. Burckhardt.\n| \" W. Burckhardt-Forc art.\n| \" Bürgermeister C. F. Burckhardt.\n| \" Christ. Konus-Genus eus.\n| \" Professor W. Bischer.\n| \" Dr. H. Jfelin.\n| Historische Gesellschaft.\n| Gegründet 1836.\n| Hr. Dr. Fechter, Präsident.\n| \" Profess or Müller, Sekelmeister.\n| \" Candidat Hef, Schreiber.\n| \" Dr. F. F. Merian, Bibliothekar.\n| Juristischer Lesezirkel.\n| Gegründet 1839.\n| Vorstand: Hr. Dr. Carl Burckhardt-Burck-\n| hardt.\n| Der Verein hält gemeinschaftlich mit der\n| Lesegesellschaft u. der öffentlichen Bibliothek eine\n| Anzahl juristischer Zeitschriften, welche zuerst\n| auf der Lesegesellschaft aufgelegt werden, dann\n| bei den Mitgliedern des Vereins circuliren und\n| zuletzt auf die öffentliche Bibliothek kommen.\n| Zweck des Vereins ist: seine Mitglieder mit den\n| Fortschritten der Wissenschaft und der Praxis\n| bekannt zu machen.\n| Gesellschaft f. vaterländ. Alterthümer.\n| Gegründet 1842.\n| Hr. Profess or W. Bischer, Präsident.\n| \" Dr. Bernoulli-Reber, Sekelmeister.\n| \" W. Bischer, Schreiber.\n| \" F. F. Merian, Bibliothekar.\n| Pädagogia.\n| Gegründet 1844.\n| Vorstand:\n| Hr. Albert Zimmer, Präses.\n| \" Jacob Steiger, Actuar.\n| \" Friedr. Bischer, Quästor.\n| \" Alfons Riggenbach, Beisitzer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7961,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2603,
+    "lines": 78,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0128,
+    "mean_line_chars": 32.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:21:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p032",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p032.jpg",
+      "bytes": 1471276,
+      "sha256": "d3021ba2f1bf02979ef7cd802ae373decc256937423fe00baa9d2b12a7376dda",
+      "sha256_of": "original",
+      "working_copy": "1862_p032.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:46+00:00"
+  }
+}

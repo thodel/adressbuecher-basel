@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p098",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p098.jpg",
+    "bytes": 1041412,
+    "sha256": "9d313b95e228d13ecb9c7d01903e452e110f6fb658fc17d9cbc8a328f7fff8de",
+    "sha256_of": "original",
+    "working_copy": "1841_p098.jpg"
+  },
+  "text": "15\n\nG.\n\nGall, Wittwe, geb. Sus. Cath. Fischer, Wollenhandlung. 1641\n  Untere Freienstraße.\nGamper, Wilh., Kutscher. 1493 St. Martin.\nGarnaus, geb. Cath. Felber, Wittwe. 810 Steinenbruck.\nGarnjobst, Simon Christ., Ausläufer. 1030 Rappengäßlein.\nGaß, Joh., Fabrikarbeiter. 1502 St. Martin.\nGaß-Sirt, Joh. Heinrich, Schneider. 1131 Weiße Gasse.\nGaß, Joh. Adam, Kunstgärtner. 1273 St. Alban-Thorgasse.\nGaß, J. J., Koch und Pintenschenk. 1138 Weiße Gasse.\nGaß, Rudolf, Schuhmacher. 177 Brunngäßlein.\nGaß, Abr., Postadjunkt, von Oltingen. 330 Fröschgasse.\nGaß, Heinrich, Schneidermeister. 77 St. Johann-Vorstadt.\nGaß, Joh. Jakob, Metzger. 662 Gerbergasse.\nGaß, Melchior, Commissions- u. Speditionshandlg. 663 Gerbergasse.\nGasser, Wittwe, A. M., geb. Weißenburger. 836 Roßmarkt.\nGassert, Franz Nikl. sel., Wittwe. 205 Spiegelgasse.\nGaugler, Joh., Fabrikarbeiter. 615 Hinter der Rümlinsmühle.\nGeelhar, Heinrich, Zeichnungslehrer an der Töchternschule. 372 St.\n  Leonhardsgraben.\nGeering, Leonhard, Opticus. 1196 Am Bäumlein.\nGeigy, Thomas, Vater und Sohn, Kaufmann. 404 Heuberg.\nGeigy-Preiswerk, Carl, Droguerie. 1417 Spitalsprung.\nGeigy, Hieron. sel., Wittwe, geb. Sarasin. 383 St. Leonhardsgraben.\nGeist, Carl Ludwig, Schuhmacher. 167 Storchengasse.\nGemuseus, Joh. Rud., Handelsmann. 1177 Freie Straße.\nGemuseus-Le Grand, A. M. D. 231 Oberer Herbergberg.\nGemuseus, Hieronymus. 1177 Freie Straße.\nGemuseus-Respinger, Hieron., Handelsmann. 949 Aeschen-Vorst.\nGemuseus-Frey, Wilh. 1238 St. Alban-Vorstadt.\nGemuseus, Wittwe, geb. Marg. Respinger. 1729 Beim Korn-\n  marktbrunnen.\nGengenbach, Frau Elis., geb. Mieg. 1060 Tiefe.\nGeorg, Achilles, Schuhmacher. 526 Imbergäßlein.\nGeorg, Joh. Jakob, Handelsmann. 1609 Sporrengasse.\nGeorg, Franz, Metzger. 659 Gerbergasse.\nGerlach, Franz, Dr., Professor und Bibliothekar. 1373 Hinter\n  dem Münster.\nGernler, J. J. sel., Wittwe. 1337 St. Alban-Vorstadt.\nGerster, Friedrich, Bestäter. 646 Gerbergasse.\nGeßler, Leonhard, Buchbinder. 1720 Hutgasse.\nGeßler, Heinrich, Metzger. 1756 Schneidergasse.\nGeßler, Emanuel, Tuchhandlung. 1714 Hutgasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8893,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2070,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:53:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p098",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p098.jpg",
+      "bytes": 1041412,
+      "sha256": "9d313b95e228d13ecb9c7d01903e452e110f6fb658fc17d9cbc8a328f7fff8de",
+      "sha256_of": "original",
+      "working_copy": "1841_p098.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:52+00:00"
+  }
+}

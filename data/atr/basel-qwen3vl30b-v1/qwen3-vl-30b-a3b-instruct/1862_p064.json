@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p064",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p064.jpg",
+    "bytes": 1546509,
+    "sha256": "ccead4f3136697aaa005ccb6d2ddf90507877c0373cdb64dcabf353f14d897f5",
+    "sha256_of": "original",
+    "working_copy": "1862_p064.jpg"
+  },
+  "text": "Seite.\nStrafe.\nNeue\nHaus-Nr.\nQuart.\nAlte\nHaus-Nr.\nName der Hauseigenthümer.\n101\nNadelberg.\nlies\n25 u. 27\nII\n519\nFüürstenberger-Debarh, Hans Gg., sel. Erben.\n105\nNonnenweg.\neinschalt.\n37\n25 a\nII\n512\nFüürstenberger-Burckhardt, sel. Erb.\n107\nSt. Petersberg.\nlies\n24 u. 26\nI\n182 u. a\nFischer-Burckhardt, Heinr. (Holz-\n108\nSt. Petersgasse.\neinschalt.\n1\nI\n104\nschopf).\n1\nI\n221\nLang-Kuef, Jos., Weinhändler (z.\n1\nI\n212\nBaumgartner, Wilhelm.\n1\nI\n93 b\nJselin-Passavant, Heinrich und\n111\nSt. Peters-\nlies\n13 u. 15\nI\n227 u. b\nHenriette Passavant (Remise.)\n112\n\" \n\" \n53 ft. 55\nII\n463 A\nHoldenecker, Achilles (z. Altane).\n113\nSt. Peters-Platz\n\" \n\" \n55 ft. 57\nII\n457\nLudwig-Frey, Anna Elisabeth.\n115\nPlatzgässlein.\n\" \n\" \n11\nI\n247 B\nChristen-Euler, Nicolaus.\n119\nRümelinbach-\n\" \n\" \n15 u. 17\nII\n298, 299\nSchardt-Breiting, Carl.\n121\nSchanzenstraße.\n\" \n\" \n24\nI\nStadtgemeinde (Mefzbudenschof).\n127\nSchützengraben\n\" \n\" \n37\nII\n139 D\nErnst-Hug, Friedrich, Ferger.\n1\nI\n147 B\nGoldfus, Carl Heinr. Friedr.\n1\nIII\n147\nImhof, Wilh., Rentier.\n1\nIII\n352 A a\nUllmann, Reg. u. Sophie.\n1\nII\n139 A\nHäfelfinger, Jacob.\n1\nII\n338\nKaufmann, Friedrich.\n131\nSchwanengasse.\n\" \n\" \n8\nI\n144\nRohler, Andr., Schuhmacher (zum\n133\nSpalenberg.\n\" \n\" \n6\nII\n599\nThommen, Joh. Mezger.\n134\n\" \n\" \n26\nII\n492—493\nErb, Eduard (zum halben Rad).\n135\n\" \n\" \n47\nII\n473\nGyfin, Maria Dorothea (z. schönen\n137\nSpalenthorweg.\neinschalt.\n27\nII\nMann).\n138\nSpalenvorstadt.\nlies\n38\nII\nGötte-Wafer, Joh., Zimmermstr.\n1\nII\n281\nStumm-Schabeliz, Gust., Kaufm.\n1\nII\n325\nGeßler-Zeller, F., Bäcker (z. Erker).\n140\n\" \n\" \n6\nII\n312\nHunziker-Hartmann, Jacob, Holz-\n142\nSpitalstraße.\n\" \n\" \n22\nI\n274 B\nhändler.\n1\nI\n41 d u. e\nReber-Glaser, Cathar., Wirthin.\n143\n\" \n\" \n41\nI\nFäsch, Balth., sel. Erben.\n146\nStapfelberg.\nlies\n5\nVI\n1626—27\nMeyer-Merian, Dan. (Remise).\n147\nSteinenbach-\n\" \n\" \n7\nVI\n1490\nStaat (Neue Strafanftalt).\n150\nSteinengraben.\n\" \n\" \n1\nII\n374 A. b.\nEingang zu 17 u. 19 Freie Straße.\n152\nSteinenvorstadt\n\" \n\" \n18\nIII\n771\nBischoff, Gebrüder.\n\" \n\" \n22\nIII\n773\nSchmidt-Götz, F. Andr. (Stallung.)\nSchmidt-Lok, Heinrich.\nGroßmann-Heinzelmann, Rudolf\n(zum Wertenberg).\nHegetschwyler, Joh., Cigarrenfabr.\nSpalenberg.\n\" \n\" \n47\nII\n473\nGyfin, Maria Dorothea (z. schönen\nMann).\nGötte-Wafer, Joh., Zimmermstr.\nStumm-Schabeliz, Gust., Kaufm.\nGeßler-Zeller, F., Bäcker (z. Erker).\nHunziker-Hartmann, Jacob, Holz-\nhändler.\nReber-Glaser, Cathar., Wirthin.\nFäsch, Balth., sel. Erben.\nMeyer-Merian, Dan. (Remise).\nStaat (Neue Strafanftalt).\nEingang zu 17 u. 19 Freie Straße.\nBischoff, Gebrüder.\nSchmidt-Götz, F. Andr. (Stallung.)\nSchmidt-Lok, Heinrich.\nGroßmann-Heinzelmann, Rudolf\n(zum Wertenberg).\nHegetschwyler, Joh., Cigarrenfabr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10015,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "repetitive",
+    "chars": 2645,
+    "lines": 262,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.4275,
+    "mean_line_chars": 8.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:28:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p064",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p064.jpg",
+      "bytes": 1546509,
+      "sha256": "ccead4f3136697aaa005ccb6d2ddf90507877c0373cdb64dcabf353f14d897f5",
+      "sha256_of": "original",
+      "working_copy": "1862_p064.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:00+00:00"
+  }
+}

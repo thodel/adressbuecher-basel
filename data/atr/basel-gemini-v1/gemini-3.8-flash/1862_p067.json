@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p067",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p067.jpg",
+    "bytes": 1294602,
+    "sha256": "7096e7fab4eb7ea20a1bd7f22ddcac30e808a5eef0b03fbf61710450ef94ad88",
+    "sha256_of": "original",
+    "working_copy": "1862_p067.jpg"
+  },
+  "text": "2 Verzeichniß der Quartiere und Straßen.\n\nIII. Steinen-Quartier.\n\nAeschengraben Nro. 37, 39 und 41.\nAustraße, rechts Nro. 24 bis und mit 50,\n  links Nro. 47.\nBachlettenstraße.\nBarfüßerplatz Nro. 7, 8, 9 bis und mit 34.\nBinninger Straße.\nBirsigstraße.\nBysangweg, rechts Nro. 40 und 42.\nCentralbahnplatz.\nCentralbahnstraße Nro. 1 bis und mit 10.\nFeierabendstraße.\nGüterstraße bis zur Heumattstraße.\nHasenberg.\nHeumattstraße, rechts Nro. 8 bis u. mit 16 2c.\nAeußere Heumattstraße, rechts.\nHolbeins-Platz.\nHoleeweg.\nKanonengasse.\nKlosterberg Nro. 2, 4, 6, 8, 14, 15 bis u. mit 31.\nKlostergasse, untere Seite.\nKohlenberg.\nKohlenberggasse.\n[spalte 2]\nKüchegäßlein.\nLeimenstraße.\nSt. Leonhards-Berg, links Nro. 1 und 3.\nSt. Leonhardskirchplatz Nro. 2, 3, 4 und 5.\nSt. Leonhards-Straße, links Nro. 1 bis u. mit\n  17, links u. rechts Nro. 23 bis u. mit 34.\nLohnhofgäßlein.\nSt. Margarethen-Straße.\nMostackerstraße.\nNeubadstraße, links Nro. 5.\nRümelinbachweg.\nSchützengraben, links Nro. 7 bis u. mit 19.\nSchützenmattstraße, links Nro. 25 bis u. mit 57.\nSteinenbachgäßlein.\nSteinenberg Nro. 4, 6, 8, 9 bis u. mit 14.\nSteinengraben Nro. 19, 21 und 23.\nSteinenringweg.\nSteinenthorberg.\nSteinenthorstraße.\nSteinenvorstadt.\nTheaterstraße.\n\nIV. Aeschen-Quartier.\n\nAeschengraben, links und rechts, Nro. 2 bis\n  und mit 32.\nAeschenvorstadt.\nSt. Alban-Graben, rechts Nro. 2 bis u. mit 10\nSt. Albanthorgraben, links Nro. 1, 3 u. 11.\nBarfüßergasse Nro. 1, 2, 3, 4, 6, 8 bi\n  und mit 14.\nBarfüßerplatz Nro. 1 bis und mit 6.\nBruderholzstraße Nro. 6 u. 22.\nBruderholzweg Nro. 4, 6 und 10.\nBrunngäßlein Nro. 4, 5, 6, 7, 11 und 24.\nSt. Elisabethen-Straße.\nFreie Straße, rechts Nro. 40 bis u. mit 96.\nGerbergasse, links Nro. 45 bis und mit 79.\nGartenstraße, rechts Nro. 62 bis u. mit 72.\nGundoldinger Straße.\nHeumattstraße, links Nro. 5 bis u. mit 21.\n[spalte 2]\nAeußere Heumattstraße Nro. 1 und 21.\nHirschgasse.\nSt. Jakobs-Straße, rechts Nro. 2 bis u. mit 20.\nKaufhausgasse.\nKlosterberg Nro. 7, 9, 11 und 13.\nKlostergasse, obere Seite.\nMünchensteiner Straße, rechts Nro. 2, 4, 8,\n  10 und 22.\nNauenstraße.\nPfluggäßlein, links Nro. 1 bis und mit 9.\nRinggäßlein.\nSchnurrenweg.\nSteinenberg Nro. 1, 3, 5, 7 und 9.\nSternengäßlein.\nStreitgasse.\nWallstraße.\nWeiße Gasse.\n\nV. St. Alban-Quartier.\n\nSt. Alban-Graben Nro. 1, 5, 7, 9, 12 bis\n  und mit 24.\nSt. Albankirchrain.\nSt. Albanringweg.\nSt. Albanrheinweg Nro. 102 u. 106.\nSt. Alban-Thal.\nSt. Albanthorgraben Nro. 4, 24, 31, 35,\n  52, 54 und 72.\nSt. Alban-Vorstadt.\nAugustinergasse.\nBäumleingasse.\n[spalte 2]\nBirsstraße.\nIn der Breite.\nBreite Straße.\nBrückliberg.\nBrunngäßlein Nro. 13.\nEngelgasse.\nFreie Straße, links Nro. 27 bis und mit 117.\nGartenstraße, von der Engelgasse bis St. Ja-\n  kobs-Straße.\nGellertstraße.\nHardtstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10826,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2747,
+    "lines": 106,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0189,
+    "mean_line_chars": 24.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:34:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p067",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p067.jpg",
+      "bytes": 1294602,
+      "sha256": "7096e7fab4eb7ea20a1bd7f22ddcac30e808a5eef0b03fbf61710450ef94ad88",
+      "sha256_of": "original",
+      "working_copy": "1862_p067.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:54+00:00"
+  }
+}

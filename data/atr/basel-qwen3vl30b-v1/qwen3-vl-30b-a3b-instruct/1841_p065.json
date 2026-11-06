@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p065",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p065.jpg",
+    "bytes": 867058,
+    "sha256": "5f0282f2cbd4a5614e77c38d19026cb0653dd7b3510631479d6c594aebfea8e4",
+    "sha256_of": "original",
+    "working_copy": "1841_p065.jpg"
+  },
+  "text": "58\nNro.\nMarkt.\n1642 Imhof-Falkner, Hieronymus, Sohn.\nImhof-Wenk, Hieronymus, Vater.\n1643 Miville, Achilles, Hutmacher.\nHuber, Rudolf.\nGeymüller, Andreas, Polizei-Commissär.\n1644 Brüderlin, Niklaus, Tuchhandlung.\nKespinger, Wittwe, geb. Burckhardt.\n1645 * von Speyr, Joh. Conrad fel., Wittwe, geh.\nBrändlin, Joh. Jakob, v. Fischenthal, Schuhmacher.\n1646 Ebenderfelsen Wohnhaus.\n1647 Huggenberger, Joh. Heinrich, Schneider.\n1648 Mik, Ludwig, Knopfmacher.\nMik, Wittwe, geb. Ziegler.\n1649 Basler, Johannes, Handelsmann.\nBasler, Wittwe, geb. M. Elis. v. Mechel.\n1650 * Zunft zu Safran.\nHeusler-Braun, Lucas, Traiteur.\nNidengäplein.\n1651 Frey, Mathias, Weinschenk.\nKindermarkt.\n1652 Sirt, Lucas fel., Wittwe, geb. Weitnauer, Wirthschaft.\n1653 * Ebenderfelsen geh.\nKeller-Zeller, Friedrich, Kaufhausangestellter.\n1654 * Dem Kanton geh.\nSchaub, Georg, Fabrikarbeiter.\n1655 }\n1656 } Kummer, Joh. Conrad, Rathsbote und Weinschenk.\n1657 Krayer, Emanuel, Unterbestäter.\n1658 Ewig, Joh. Georg, Gastwirth zum Schnabel.\n1659 * Zunft zu Kürschner, unbewohnt.\n1660 Brandmüller-Eckenstein, Heinrich, Spezereihandlung.\nWahr-Bené, Carl, Handelsmann.\nSteiger, Wittwe, geb. Marg. Eckenstein.\n1661 }\n1662 } Baur, Johannes, Gerber.\nSchneider, Emanuel, Gerichtsamtmann.\nWidmer-Tis, Joh. Christ., Handels-Commis.\n1663 Bohny, Niklaus, Handelsmann.\n1664 Studler, Samuel, von Seengen, Hutmacher.\n1665 Dreiß, Christian, Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4303,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1402,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.63,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p065",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p065.jpg",
+      "bytes": 867058,
+      "sha256": "5f0282f2cbd4a5614e77c38d19026cb0653dd7b3510631479d6c594aebfea8e4",
+      "sha256_of": "original",
+      "working_copy": "1841_p065.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:44+00:00"
+  }
+}

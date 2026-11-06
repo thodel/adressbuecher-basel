@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p103",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p103.jpg",
+    "bytes": 1293890,
+    "sha256": "c878cfefadbd4932509eb4453ea760287443f64073f8d21df2063894b8638e87",
+    "sha256_of": "original",
+    "working_copy": "1862_p103.jpg"
+  },
+  "text": "38\nSt. Elisabethen Straße.\nNene\nHaus-Nr. | Quar-\ntier. | Alte\nHaus-Nro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n---|---|---|---|---\n33 | IV. | 910 | | Lichtenhahn-Haas, Joh. Rudolf.\n| | | | Lichtenhahn-Haas, Joh. Rud., Schreiner.\n| | | | Ott, Henri, Coiffeur.\n34 | IV. | 894 B | | Zeugin-Frisch, Jacob.\n| | | | Zeugin-Frisch, Jacob, Spezierer.\n35 | IV. | 909 | | Bienz, Jacob.\n| | | | Bienz, Jacob, Kaminfeger.\n36 | IV. | 895 | | Day-Beck, Wb. Catharina.\n| | | | Day-Beck, Wb. Catharina, Part.\n| | | | Martin, Emanuel, Kaufmann.\n| | | | Krapp-v. Reding, Johannes, Major.\n37 | IV. | 908 | | Wohnsiedel-Günther, Ulrich.\n| | | | Wohnsiedel-Günther, Ulrich, Commis.\n38 | IV. | | | Siegrift und Rukmaul.\n40 | IV. | | | Siegrift und Rukmaul.\n41 | IV. | 906 | | Fichter und Söhne.\n| | | | Fichter-Seiler, Benedict, Bandfabrikant.\n| | | | Comptoir von Fichter u. Söhne.\n| | | | Siegrift und Rukmaul.\n42 | IV. | | | Schweizerische Eidgenossenschaft.\n43 | IV. | 905 | | Schimpf-Kei, Dr. Karl Ferd., Zolldir.\n| | | | Fichter-Schneider, Joh. Jakob.\n| | | | Fichter, Joh. Jakob, Bandfabrikant.\n| | | | Brugger-Fichter, Joseph, Bandfabrikt.\n| | | | Fichter, Frau Julie.\n45 | IV. | 904 | | Fichter, Joh. Jakob.\n| | | | Bürgin-Meyer, Jacob, Posamenter.\n| | | | Zurbruch-Heitz, Samuel, Packer.\n| | | | Wierz-Handschin, Friedrich, Hausknecht.\n47 | IV. | 903 | | Mengis, Peter fel., Erben.\n| | | | Mengis, Sgfr. Maria, Particularin.\n49 | IV. | 902 | | Mengis, Peter fel., Erben.\n| | | | Rublin, Heinrich, Eisenbahnangestellter.\n51 | IV. | 901 | | Mengis, Peter fel., Erben.\n| | | | (Magazin.)\n53 | IV. | 900 | | Dppliger, Abraham Rudolf.\n| | | | Dppliger, Abr. Rud., Handelscommis.\n| | | | Lüdin-Roth, J. J., Commis.\n| | | | Rahnt, Moriz, Musiker.\n| | | | Buek-Gyfin, Adolf, Eisenbahnbeamter.\n54 | IV. | 897 A | | Corporationsgut.\n| | | | Gottesackerkapelle. | Corporationsgut.\n55 | IV. | 900 B | | Tschopp-Schwab, Wb. Marg. Dor.\n56 | IV. | 897 B | | Lichtenhahn-Hauser, Wilhelm, Notar.\n| | | | zur Aussicht. | Grisanti-Hartmann, David.\n| | | | | Gürtler-Grisanti, Kreispostcontroleur.\n58 | IV. | 897 C | | C. C. Bann der Münstergemeinde.\n59 | IV. | 900 A | Leichenhaus. | Ernst-Eger, Balthasar, Fabrikarbeiter\n| | | | u. Aufseher auf d. St. Elis.Gottesacker.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7536,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2261,
+    "lines": 57,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:34:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p103",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p103.jpg",
+      "bytes": 1293890,
+      "sha256": "c878cfefadbd4932509eb4453ea760287443f64073f8d21df2063894b8638e87",
+      "sha256_of": "original",
+      "working_copy": "1862_p103.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:16+00:00"
+  }
+}

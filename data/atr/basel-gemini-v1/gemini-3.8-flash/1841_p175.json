@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p175",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p175.jpg",
+    "bytes": 973844,
+    "sha256": "ff110223933120999e815df1515b4057dbfd6b7a371b019c8954ceb63f2cd8cd",
+    "sha256_of": "original",
+    "working_copy": "1841_p175.jpg"
+  },
+  "text": "—  22  —\n\nD.\n\nDavid, Johannes, zum schwarzen Adler. 348 Ochsengasse.\nDavid, Rudolf, Schuhmacher. 276 Untere Rebgasse.\nDavid, Georg, Sohn, Metzger. 100 Am Lindenberg.\nDickenmann, Sam., Lohnamtsarbeiter. 28 Rheingasse.\n\nE.\n\nEcklin, Joh. Heinr., Aufseher in der Armen-Anstalt. 312\n  Im Klingenthal.\n\nF.\n\nFuchs, Urs, v. Frenkendorf, Rheinknecht. 131 Unt. Kirchgäßlein.\n\nG.\n\nGaß, Joh., Fabrikarbeiter. 357 Sägergäßlein.\nGengenbach, Joh. Em., Kand. d. Theol. 111 Rheinweg.\nGysler, geb. Blech, M. Magd., Wittwe. 186 Rebgasse.\nGlunz, Geschwister, Schneiderinnen und Matratzen-\n  macherinnen. 240 Ochsengasse.\nGoßweiler, J. U., Fabrikaufseher. 382 Krempergasse.\nGraf, Johannes, Maler. 68 Rheingasse.\nGrether, Mathias, Apotheker. 224 Greifengasse.\nGrunauer, Fried., Handels=Commis. 295 Webergasse.\nGrunauer, Sebastian, Sperr=Einnehmer. 206 A. Rebgasse.\n\nH.\n\nHalder, Franz Jos., von Stetten, Gerbergesell. 426 Udengasse.\nHaldy, Joh., zweiter Real=Lehrer, von Saanen. 249 A.\n  Teichgäßlein.\nHaupt, Leonh., v. Buchs, K. Zürich, Straßenpflasterer.\n  287 Webergasse.\nHenz-Felber, J. J., Mehlwäger. 227 Greifengasse.\nHeß, Andreas, Alt=Steinenmüller. 422 Udengasse.\nHeußler, Abraham, Dr. der Theol., Lehrer am Gym-\n  nasium. 176 Rebgasse.\nHolinger, Heinrich, Hausknecht. 367 Untere Rheingasse.\nHörler, Franz, Cand. der Theol. 389 Krempnergasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6223,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1327,
+    "lines": 34,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0023,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p175",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p175.jpg",
+      "bytes": 973844,
+      "sha256": "ff110223933120999e815df1515b4057dbfd6b7a371b019c8954ceb63f2cd8cd",
+      "sha256_of": "original",
+      "working_copy": "1841_p175.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:15+00:00"
+  }
+}

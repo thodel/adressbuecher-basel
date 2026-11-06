@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p189",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p189.jpg",
+    "bytes": 964528,
+    "sha256": "6ab888559f15d0cf0d5e380626c6fb1647519a9daa35b08e6d9f207ef91fccee",
+    "sha256_of": "original",
+    "working_copy": "1841_p189.jpg"
+  },
+  "text": "B.  Bläsi-Bann.\nA.\nAbt, Jakob, Gutsbesitzer.  76 Beim alten Bannwartshäuslein.\nAlt, Leonhard, Bleicher.  75 Beim alten Bannwartshäuslein.\nAmstein, Jakob, von Wila, K. Zürich, Gärtner.  48\n  Klibeckstraße.\nB.\nBauer, Johannes, von Neuweg, Lehenmann.  80 Mittlere\n  Straße.\nBemmler, Judith, geb. Fricker, Wittwe, Gutsbesitzerin.\n  14 Klibeckstraße.\nBinz, Samuel, von Bettingen, Gärtner.  33 Klibeckstraße.\nBlumhardt, Julie, geb. Meyer, Wittwe.  80 Mittlere\n  Straße.\nBollinger, Hans Rud., von Leutwil, Posamenter.  29\n  Klibeckstraße.\nBresin, Martin, Gutsbesitzer.  68 Mittlere Straße.\nBrömmel, Friedrich, Professor der Geschichte.  59 An\n  der Klibeck.\nBrudermann, Daniel, von Waldenburg, Lehenmann.  83\n  Mittlere Straße.\nBrudermann, J. J., Vater, von Waldenburg, Taglöhner,\n  83 Mittlere Straße.\nBrunschweiler, Joh. Friedrich, von Erlen, Erziehungs-\n  anstalt für Knaben.  53 Klibeckstraße.\nBüchy, Peter und Helena, Geschwister.  48 Klibeckstraße.\nBührer, Kaspar, von Bibern, Gärtner.  82 Mittlere Straße.\nBussinger, Xaver, von Weitnau, Lehenmann.  55 An\n  der Klibeck.\nBurkard, Franz Anton, von Westhofen, Gärtner.  27\n  Klibeckstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8014,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1136,
+    "lines": 31,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.129,
+    "mean_line_chars": 34.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p189",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p189.jpg",
+      "bytes": 964528,
+      "sha256": "6ab888559f15d0cf0d5e380626c6fb1647519a9daa35b08e6d9f207ef91fccee",
+      "sha256_of": "original",
+      "working_copy": "1841_p189.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:55+00:00"
+  }
+}

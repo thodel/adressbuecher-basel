@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p038",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p038.jpg",
+    "bytes": 1403793,
+    "sha256": "fbaf7456761e9de693ca4883f21e959134be6ba2d26ba974eae2ad018e25bb88",
+    "sha256_of": "original",
+    "working_copy": "1862_p038.jpg"
+  },
+  "text": "Agenturen fremder Versicherungs-Gesellschaften. XXXV\nThe Defender.\nLebensversicherungsGesellschaft in London.\nAgent: Hr. Dr. S. A. Schwarzkopf.\nDeutscher Phönir,\nLebens- und Feuerver sicherungs-Gesellschaft\nin Frankfurt.\nAgent: Merian, Heimlicher u. Stehlin.\nDresdener\nFeuerver sicherungs- und Transport-\nGesellschaft.\nAgent: Casimir Meyer.\nEuropäische\nLebensversicherungs- & Leibrenten-\nGesellschaft\nin London.\nAgent: Notar Dr. Schaub.\nFeuerver sicherungs-Gesellschaft\nfür Deutschland\nin Gotha.\nAgent: Dr. S. A. Schwarzkopf.\nFranzösischer Phönir,\nLebens- und Feuerver sicherungs-Gesellschaft\nin Paris.\nAgent: Rognon und Comp.\nGermania,\nLebensversicherungs-Gesellschaft in Stettin.\nAgent: C. Goldfus.\nLe Globe,\nGesellschaft\nfür Versicherung und Rückversicherung\ngegen\nFeuer- und Gasexplosions schaden\nin Paris.\nAgent: Gebrüder Oswald.\nGothaer Lebensversicherungs bank\nfür\nDeutschland.\nAgent: Bischoff und Riindig.\nNiederrheinische\nGüter = Assekuranz = Gesellschaft\nin Wesel.\nAgent: H. und H. Pfister.\nHelvetia,\nTransport-Versicherung zur See, Tand, Fluß\nund auf Binnengewässern\nin St. Gallen.\nAgent: Emanuel Martin.\nHelvetia,\nFeuer-Versicherungs-Gesellschaft\nin St. Gallen.\nAgent: Emanuel Martin.\nLebensversicherungs- und Ersparniskbank\nin Stuttgart.\nAgent: Schnewlin und Comp.\nNationale,\nFeuer- und Lebensversicherungs-Gesellschaft.\nAgent: Rudolf Kaufmann.\nNederland,\nLebensversicherungs-Gesellschaft in Amsterdam.\nAgent: Karl F. Jordan.\nVereinigte\nNiederländer & Düsseldorfer\nallgemeine Versicherungs-Gesellschaft\nfür\nSee-, Fluß- und Land-Transport.\nAgent: Notar Schmid.\nNorthern Assecuranz-Company,\nFeuer- und Lebensversicherungs-Gesellschaft\nin London.\nAgent: Dr. Rud. und Ad. Schmid.\nPreußische National-\nVersicherungs-Gesellschaft gegen Feuerschaden.\nAgent: Karl D. Jordan.\nProvidentia,\nFrankfurter Versicherungs-Gesellschaft.\nAgent: Andreas Zwischenbart.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5071,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1861,
+    "lines": 77,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.1039,
+    "mean_line_chars": 23.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p038",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p038.jpg",
+      "bytes": 1403793,
+      "sha256": "fbaf7456761e9de693ca4883f21e959134be6ba2d26ba974eae2ad018e25bb88",
+      "sha256_of": "original",
+      "working_copy": "1862_p038.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:26+00:00"
+  }
+}

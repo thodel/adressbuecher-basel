@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p012",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p012.jpg",
+    "bytes": 1512285,
+    "sha256": "4802c9edc86cafd0ac761fdf3f799274691fc27ac806a341c2fe0497152ad152",
+    "sha256_of": "original",
+    "working_copy": "1862_p012.jpg"
+  },
+  "text": "Behörden und Beamte. IX\n\nV. Militärcollegium.\nHr. Rathsherr u. eidg. Oberstl. Rud.\nMerian, Präsident.\na. Zeughauskammer.\nHr. Major Alfred VonderMühll, Prä-\nsident.\nb. Kommission zur Untersuchung\nkörperlicher Gebrechen der Miliz-\npflichtigen.\nHr. eidg. Oberst Friedr. Kern, Präsident.\nc. Kommission zur Taxation und\nKlassifikation der des gewöhn-\nlichen Militärdienstes enthobe-\nnen Mannschaft.\nHr. Major Alfred VonderMühll, Prä-\nsident.\nd. Kommission für das Löschwesen.\nH. Rathsherr Leonhard Fininger, Prä-\nsident.\n\nVI. Justiz- u. Polizeicollegium.\nHr. Rathsherr Adolf Christ, Präsident.\nGrundbuch-Verwalter.\nHr. Carl Bernoulli, J. U. D.\nHypothekenbuch- und Katasterver-\nwalter des Stadtbezirks.\nHr. Abraham Iselin.\n„ Friedrich Rudolf Falkner, Kataster-\nGeometer.\n\nVII. Baucollegium.\nHr. Rathsherr Carl Sarasin, Präsident.\nLandwirthschaftliche Kammer.\nHr. Prof. Rud. Merian, Präsident.\nBaubeamte.\nHr. J. Merian, Kantonsingenieur. (prov.)\n„ Ludw. Calame, Bauinspektor. (prov.)\n„ Friedr. Baader, Straßeninspektor.\n„ Daniel Barth, Bauverwalter.\n„ J. J. Uebelin, Bauschreiber.\n„ Eduard Hosch, Baucassier.\n„ G. Schuster, Stadtgärtner.\n„ Leonhard Brefin, Feuerschaubeamter.\nBaupolizei-Commission.\nHr. Altbürgermeister Dr. J. J. Burck-\nhardt, Präsident.\n\nVIII. Handelscollegium.\nHr. Rathsherr Carl Vischer, Präsident.\nDas Ragionenbuch\nwird abwechslungsweise von den Mitglie-\ndern des Handelscollegiums unter Bei-\nziehung des Sekretärs besorgt.\n\n[spalte 2]\nBeeidigte Wechsel-Sensalen.\nHr. Achilles Burckhardt.\n„ Hier. Hosch.\n„ Friedr. Buxtorf.\n„ Rud. Frey-Stückelberger.\n„ Carl Oser.\n„ August Buxtorf.\n\nIX. Handwerkscollegium.\nHr. Rathsherr J. Chr. Schmidt, Prä-\nsident.\n\nX. A. Sanitätscollegium.\nHr. Rathsherr J. J. ImHof, Präsident.\na. collegium medicum.\nHr. Prof. C. G. Jung, M. et Ch. Dr.,\nPräsident.\nb. Wundschau.\nHr. Dr. Ludwig deWette, Physikus, Prä-\nsident.\nc. Aerzte, Wundärzte, Thierärzte,\nApotheker u. Hebammen.\nAerzte.\nHr. Johannes Kiffel, M. et Ch. Dr.\n„ Professor J. J. Mieg, M. et Ch. D.\n„ Prof. J. G. Jung, M. et Ch. D.\n„ Joh. Schwab, M. D.\n„ Emanuel Raillard, M. D.\n„ Ludwig Imhof, M. D.\n„ Melchior Berry, M. D.\n„ J. R. Burckhardt-Haller, M. D.\n„ Prof. Carl Fr. Meißner, M. et Ch. D.\n„ Benjamin Siegmund, M. D.\n„ Emanuel Wybert, M. et Ch. D.\n„ Aug. Burckhardt-Dick, M. et Ch. Dr.\n„ Prof. F. Brenner, M. et Ch. D., Irrenarzt.\n„ Rud. Maas, M. et Ch. D.\n„ Prof. Carl Streckeysen, M. et Ch. D.\n„ Rud. Burckhardt-Burckhardt, M. et\nCh. D.\n„ Ludwig deWette, M. et Ch. D.\n„ Christ. Burckhardt-Bischoff, M. et Ch. D.\n„ Heinrich Iselin, M. et Ch. D.\n„ Emil Stähelin, M. et Ch. D.\n„ Daniel Ecklin, M. et Ch. D.\n„ Georg Scherb, M. et Ch. D.\n„ Theod. Meyer, M. et Ch. D.\n„ Achilles Burckhardt, M. et Ch. D.\n„ Alfred Frey, M. et Ch. D.\n„ Philipp Neber, M. et Ch. D.\n„ Prof. Fr. Miescher, M. et Ch. D.\n„ Martin Burckhardt-His, M. et Ch. D.\n„ Wilhelm Münch, M. et Ch. D.\nAa",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10538,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2867,
+    "lines": 104,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0481,
+    "mean_line_chars": 26.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:26:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p012",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p012.jpg",
+      "bytes": 1512285,
+      "sha256": "4802c9edc86cafd0ac761fdf3f799274691fc27ac806a341c2fe0497152ad152",
+      "sha256_of": "original",
+      "working_copy": "1862_p012.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:04+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p104",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p104.jpg",
+    "bytes": 1041716,
+    "sha256": "6d6a98fba6e1fb0fa3af47305bb5b15028198d9a14172b19a2f144e48fb1b3c9",
+    "sha256_of": "original",
+    "working_copy": "1841_p104.jpg"
+  },
+  "text": "21\nHuber, Marcus de Joh. Ant. 259 b Neue Vorstadt.\nHuber, Jakob, Schuster, aus dem Kanton Thurgau. 183 Unterer Herbergberg.\nHuber, Rud., Jeger. 1155 Gerbergasse.\nHuber, J. J., Apotheker. 1533 Bei der Rheinbrücke.\nHuber, Christ. fel., Wittwe. 869 Thorsteinen.\nHuber, geb. Stähelin, Pfr. Wittwe. 473 Oberer Spahlenberg.\nHuber, Achilles, Architekt. 835 Rosmarkt.\nHuber, S., Jungfrau. 1004 Aefchen-Vorstadt.\nHuber-Schmitter, J. J., Commissionshandlg. 148 Schwanengasse.\nHubel, G. R., Schreiner. 258 Neue Vorstadt.\nHübscher, Emanuel, Stadtrath. 921 St. Elisabethen.\nHübscher, D. Gottfried, Wollenwaarenhandlung. 640 Gerbergasse.\nHübscher, Rudolf, Rothgerber. 625 u. 626 Grün Pfahlgäklein.\nHübscher, Wilhelm, Zimmermeister. 1 a St. Johann-Vorstadt.\nHübscher, Rudolf, Bater, Gerber. 1 b St. Johann-Vorstadt.\nHübscher=von Speyr, Emanuel, Kürschner. 1546 Eifengasse.\nHug, J. J., alt Chegerichtschreiber. 1489 Colleg. Alumn. Augustinergasse.\nHug, Christoph, Spengler. 1136 Weiße Gasse.\nHug, Joh. Jakob, Schuhmacher. 1143 Weiße Gasse.\nHug, Jakob Emanuel, Buchdruckerei-Faktor. 479 Ob. Spahlenberg.\nHug, Joh., Postoffiziant. 281 Spahlen-Vorstadt.\nHug, Wittwe, geb. Geymüller. 663 Gerbergasse.\nHug, Hans Ulrich, Part. 846 u. 847 Unterer Klosterberg.\nHuggenberger, Joh. Heinrich, Schneider. 1647 Kindermarkt.\nHummel, Joh., Kutscher. 257 c Neue Vorstadt.\nHunziker, Rudolf, Lohnkutscher. 717 Barfüsserplaz.\nJ.\nJäcklin, Daniel, Postoffiziant. 455 Beim Spahlenthurm.\nJäcklin, Joh., Schreiner. 32 St. Johann-Vorstadt.\nJäcklin, Benedikt, Schreiner. 427 Heuberg.\nJäger, Helena, Jungfer, Modiste. 652 Gerbergasse.\nJäggi, Wilhelm, Weißbeck. 994 Aefchen-Vorstadt.\nJaillet, Margaretha, geb. Bruckner, Wittwe. 504 Adelberg.\nJaquet, Fr. August, Oberst. 227 Schwarze Pfahlgasse.\nJaus, Jos., Weißbeck. 880 Oberer Klosterberg.\nJauslin, Abraham, Handelsmann. 1625 Untere Freienstraße.\nJenny, Friedrich, Magazinier. 1140 Weiße Gasse.\nJenny, Caspar, Trödler. 488 Oberer Spahlenberg.\nJenny, geb. Minder, Wittwe. 467 Beim Spahlenthurm.\nJenny-Erlacher, Nikolaus. 1423 Freie Straße.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6509,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2047,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:54:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p104",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p104.jpg",
+      "bytes": 1041716,
+      "sha256": "6d6a98fba6e1fb0fa3af47305bb5b15028198d9a14172b19a2f144e48fb1b3c9",
+      "sha256_of": "original",
+      "working_copy": "1841_p104.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:54:17+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p091",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p091.jpg",
+    "bytes": 986996,
+    "sha256": "d454c27a08f2b3043fde0c578ea8bbbd374591cbeb75b8b5603cbe975ec99b3e",
+    "sha256_of": "original",
+    "working_copy": "1841_p091.jpg"
+  },
+  "text": "8\n\nBurckhardt-Werthemann, Eman. 1356 Rittergasse.\nBurckhardt, Wernhard, Glaser. 502 Adelberg.\nBurckhardt, Jungfern, Marie und Emilie. 935 Steinenberg.\nBurckhardt, Dan. sel., Wittwe, geb. Linder. 1491 St. Martin.\nBurckhardt, geb. Iselin, Wittwe. 516 Hinter dem Spahlenthurm.\nBurckhardt, Margaretha, Jungfer. 1481 Augustinergasse.\nBurckhardt, Frau Rosina. 929 St. Elisabethen.\nBurckhardt, Wittwe, geb. Dor. Oschgi. 1696 Kuttelgäßlein.\nBurckhardt-Heß, Wittwe. 525 Adelberg.\nBurckhardt-Hoffmann sel. Wittwe. 1211 Rittergasse.\nBurckhardt, geb. Heusler, Esther, Wittwe. 352 Spahlen-Vorstadt.\nBurckhardt, Johannes, Platz-Commandant. 828 Blömlein.\nBurckhardt, Carl, Bürgermeister. 1460 Münsterplatz.\nBurckhardt, Martin sel., Wittwe, geb. Keller. 1468, 1469, 1470\n  Münsterplatz.\nBurckhardt, Rud., Oberst. 274 Lottergasse.\nBurckhardt-Respinger, Albr., Rathsherr. 802 Vord. Steinen-Vorst.\nBurckhardt, Andreas, alt Thorschreiber u. Modelstecher. 826 Vord.\n  Steinen-Vorstadt.\nBürgin, Heinrich, Posamenter. 1701 Schnabelgäßlein.\nBürgin, Joh. Jakob, Schuhmacher. 98 St. Joh.-Schwibbogen.\nBürgin, Carl, Buchbinder. 1088 Streitgasse.\nBürgin, Heinrich, Metzger. 831 Blömlein.\nBürgin, Elisabeth, geb. Singeisen. 642 Zunft zu Gartnern.\n  Gerbergasse.\nBürgin, Joh. Jakob, Wirthschaft. 660 Gerbergasse.\nBürgy, Joh., Seifensieder und Weinschenk. 1147 u. 1148 Hinter\n  dem Stöcklein.\nBürgy, Jakob, Kutscher. 1416 Spitalsprung.\nBuser, Samuel. 65 St. Johann-Vorstadt.\nBuser, Joh. 99 St. Johann-Schwibbogen.\nBuser, Hieronymus, Pastetenbeck. 475 Oberer Spahlenberg.\nBuser, Peter, Schuhmacher. 1167 Gerbergasse.\nBuser, Fr., Kaufmann. 65 St. Johann-Vorstadt.\nBuser, Georg Christoph. 969 Sternengäßlein.\nBuser-Wüst, Joh., Weinschenk. 300 Spahlen-Vorstadt.\nBuser, Dorothea, Jungfer. 1400 Spitalsprung.\nBuxtorf, Friedrich, Sensal. 456 Beim Spahlenthurm.\nBuxtorf, J. Rud., Pfarrer am Waisenhaus. 456 Beim Spahlenthurm.\nBuxtorf-Merian, Ludwig, Handelsmann. 886 Klosterberg.\nBuxtorf-Preiswerk, Christoph, Taback- und Spezereihandlung. 1517\n  Bei der Rheinbrücke.\nBuxtorf, J. J., Hypothekenbuch-Verwalter. 735 Barfüßerplatz.\nBuxtorf, Wittwe, geb. Burckhardt. 221 Schwarze Pfahlgasse.\nBuxtorf-Bischoff, Andr., Bandfabrikant. 379 u. 380 St. Leonhards-\n  graben.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7697,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2224,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.06,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:52:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p091",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p091.jpg",
+      "bytes": 986996,
+      "sha256": "d454c27a08f2b3043fde0c578ea8bbbd374591cbeb75b8b5603cbe975ec99b3e",
+      "sha256_of": "original",
+      "working_copy": "1841_p091.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:52+00:00"
+  }
+}

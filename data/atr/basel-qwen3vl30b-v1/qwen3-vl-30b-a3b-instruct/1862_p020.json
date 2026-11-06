@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p020",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p020.jpg",
+    "bytes": 1464228,
+    "sha256": "f2d4ef67f5189403f0a4ad7e328b2ec1385ecd9f78dbff0eb594e5b9ca5d14bf",
+    "sha256_of": "original",
+    "working_copy": "1862_p020.jpg"
+  },
+  "text": "Chrw. Geistlichkeit. — Gemeindebehörden. XVII\nZu St. Leonhard.\nHr. Eucharius Ründig, Pfarrer.\n,, J. R. Kespinger, Helfer.\n,, Carl Roth, Helfer.\nZu St. Theodor.\n,, J. J. Bischoff, Pfarrer.\n,, Martin Schaffner, Helfer.\n,, Albert Barth, Helfer.\n,, Ernst Stähelin, Th. Lic., Helfer.\nZu Riehen.\n,, Christoph Stähelin.\nZu Kleinhiiningen.\n,, Friedrich Seiler.\n,, Französische Prediger.\n,, Gabriel Cramer.\n,, Henri Quinche.\n,, Emanuel Eglinger, Pfarrer an der\nStrafanstalt.\n,, Rud. Anstein, Pfarrer am Spital.\n,, Oscar Zimmermann, Pfr. zu St. Jakob.\n,, Rud. Buxtorf, Pfr. im Waifenhaus.\nSt. Elisabeth: Hr. Joh. Jakob Schaub.\nSt. Peter: ,, Joh. Bücher.\nSt. Leonhard: ,, Emanuel Flubacher.\nSt. Theodor: ,, Hieron. Bulacher.\nOrganisten.\nMünster: Hr. Benedikt Fucker.\nSt. Martin: ,, Carl Renz.\nSt. Alban: ,, August Schröter.\nSt. Elisabeth: ,, Wilh. Jenny (prov.).\nSt. Peter: ,, Jakob Brobst.\nSt. Leonhard: ,, Jakob Wagner.\nSt. Theodor: ,, Leonhard Fäsch.\nSt. Jakob: ,, Chr. Heinr. Geelhaar,\nzugleich Vorsinger.\nCantoren.\nMünster: Hr. Ernst F. Soifstmann.\nSt. Martin: ,, Albert Roth.\nSt. Alban: ,, Wilhelm Bubek.\nSt. Elisabeth: ,, Joh. Jakob Seul.\nSt. Peter: ,, Melchior Schmidt.\nSt. Leonhard: ,, E. G. Honesta.\nSt. Theodor: ,, Daniel Saffi (prov.).\nSiegrift und Vorsinger im Spital:\nHr. Friedrich Grimm. Organist daselbst:\nHr. August Schuster. Beide provisorisch.\nSiegrift in St. Jakob, vom Waifen-\nhaus angestellt: Johannes Rietshin.\nVerzeichniß der untern Kirchen-\nbeamten.\nSiegriffen.\nMünster: Hr. Friedrich Wohnlisch.\nSt. Martin: ,, David Kromer.\nSt. Alban: ,, Karl Leonh. Nidecker.\nGemeindebehörden.\nVorgefekte der Stadt Basel,\nihre Beamten, Zunft- und Gesellschaftsvorsteher.\nStadtrath zu Basel.\nHr. Hieron. Bischoff-Kespinger, Präsident.\n,, Joh. Jakob Minder-Zäslin, Statth.\n,, Elias Kern-de Crousaz.\n,, Leonhard Bernoulli-Bär.\n,, Emanuel Ryhiner.\n,, Rudolf Wegner-Dünner.\n,, Hieronimus Burckhardt-Jselin.\n,, Friedrich Hagenbach-Merian.\n,, Elias Burckhardt, J. U. D.\n,, Amadeus Merian.\n,, Joh. Rud. Burckhardt, J. U. D.\nStadt-Kanzlei.\nHr. Hans Burckhardt, J. U. D., Kanzlei-\nvorsteher und Stadtschreiber.\n,, Daniel Jäcklin, erster Sekretär.\n,, Heinr. Gyffendörffer, zweit. Sekretär.\nStadthoten: Georg Meyer, Joh. Bulacher,\nPhilipp Jäcklin.\nKommissionen und Beamte.\nRechnungskammer.\nHr. Hieron. Bischoff-Kespinger, Präsid.\n,, Statthalter Joh. Jakob Minder.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6743,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2350,
+    "lines": 81,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p020",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p020.jpg",
+      "bytes": 1464228,
+      "sha256": "f2d4ef67f5189403f0a4ad7e328b2ec1385ecd9f78dbff0eb594e5b9ca5d14bf",
+      "sha256_of": "original",
+      "working_copy": "1862_p020.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:16+00:00"
+  }
+}

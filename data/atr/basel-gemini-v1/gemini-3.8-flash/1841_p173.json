@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p173",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p173.jpg",
+    "bytes": 917984,
+    "sha256": "5c398246c9f7d7b9e78eeeb3798f3c280ca9131853cf4c97706fd94603608458",
+    "sha256_of": "original",
+    "working_copy": "1841_p173.jpg"
+  },
+  "text": "— 20 —\n\nWiesner, Joh. Em., v. Bubendorf, Flachmaler. 460\n  hinter dem Spahlenthurm.\nWiesner, Joh. Heinrich, Lohnfuhrmann. 821 Vordere\n  Steinen-Vorstadt.\nWitschy, Gottlieb, Conducteur, von Büren, K. Bern.\n  569 Todtengäßlein.\nWölflin-Lotz, Diet. Wilhelm, Kaufmann. 997 Beim\n  Aeschen-Thor.\nWürz, Heinrich, Seidenweber. 268 Neue Vorstadt.\nWunderlich, Karl Adolf, von Göttingen, Prof. d. R.\n  1337 St. Alban-Vorstadt.\nWybert-Knopf, J. J., Handels-Commis. 156 Fischm.\n\nZ.\n\nZäslein, geb. Thurneysen, Elis., Wittwe. 274 b. Lottergasse.\nZemp, Anton, v. Luzern, Lithograph. 69 St. Joh. Vorst.\nZimmerlin, geb. Preiswerk, Kath., Wittwe. 521 Adelb.\nZimmermann, P., v. Warmbach, Kutscher. 961 Sternengäßl.\nZimmermann, Karl Ferd., Kand. d. Theol. 1641 Untere\n  Freienstraße.\n* Zwilchenbart, R. und E. 40 b. St. Joh. Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6564,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 813,
+    "lines": 21,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0025,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p173",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p173.jpg",
+      "bytes": 917984,
+      "sha256": "5c398246c9f7d7b9e78eeeb3798f3c280ca9131853cf4c97706fd94603608458",
+      "sha256_of": "original",
+      "working_copy": "1841_p173.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:04+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p008",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p008.jpg",
+    "bytes": 1298582,
+    "sha256": "8c5cde8d5573dae1b4d3ac871e06824c6caefac441e4a5b4c394163292f8769a",
+    "sha256_of": "original",
+    "working_copy": "1862_p008.jpg"
+  },
+  "text": "Inhaltsverzeichniß.\n\nSeite.\nSchweizerische Bundesbehörden und Beamte für 1862 VII\nBehörden und Beamte des Kantons Basel-Stadt VIII\nGemeindsbehörden. Vorgesetzte der Stadt Basel, ihre Beamte, Zunft- und\n  Gesellschaftsvorsteher XVII\nPrivatgemeinden XX\nVerkehrsanstalten XXI\nFreiwillige Vereine XXI\nAgenturen fremder Versicherungs-Gesellschaften XXXIV\nVerzeichniß der im Ragionenbuch eingeschriebenen Handels-Firmen XXXVII\nBerichtigungen, Handänderungen und Neubauten LVI\n\nVerzeichniß der Quartiere mit den Straßen- und Hausnummern 1\nVerzeichniß der Straßen in alphabetischer Reihenfolge, der Häuser und deren\n  Benennung, mit Angabe der alten und neuen Hausnummern und des\n  Quartiers in dem sie gelegen, der Hauseigenthümer und Bewohner 5\nAlphabetisches Verzeichniß der Häuser nach ihren Benennungen 211\nAlphabetisches Verzeichniß der Häuserbesitzer 225\nAlphabetisches Verzeichniß der Bürger und Einwohner 253\nAlphabetisches Verzeichniß der Berufsarten 364\nAnzeigen.\nDie Fuß- und Fahrboten, ihre Absteigequartiere und Fahrtage siehe auf der Rückseite\n  des Umschlags.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5322,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1067,
+    "lines": 23,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0028,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p008",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p008.jpg",
+      "bytes": 1298582,
+      "sha256": "8c5cde8d5573dae1b4d3ac871e06824c6caefac441e4a5b4c394163292f8769a",
+      "sha256_of": "original",
+      "working_copy": "1862_p008.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:35+00:00"
+  }
+}

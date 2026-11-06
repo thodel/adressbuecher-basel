@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p185",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p185.jpg",
+    "bytes": 957616,
+    "sha256": "8ef9642d75a821d59b59ac6d3f2c6ede30e272bc20f8d962ad36f10ccb78da8e",
+    "sha256_of": "original",
+    "working_copy": "1841_p185.jpg"
+  },
+  "text": "— 32 —\n\nMüller, Jakob, von Oberkulm, Lehenmann. 3 Straße\n  nach St. Louis U. B.\nMundwiler, Sus., geb. Frey, Wittwe, v. Tenniken, Tag-\n  löhnerin. 186 Lohstampfberg. U. B.\nMundwiler, Nikolaus, v. Tenniken, Landmann. 240 Mittl.\n  Gundeldingen. O. B.\n\nN.\n\nNußbaumer, Peter, von Lüterkofen, Lehenmann. 138\n  Allschwilergasse. U. B.\nNußbaumer, Michael, von Lüterkofen, 236 Lehenmann.\n  Scheurenfeld. O. B.\n\nO.\n\nOppliger, Rudolf, von Siegriswil, Gutsbesitzer. 250 St.\n  Jakobstraße. O. B.\n\nP.\n\nPlattner, Heinrich, von Binningen, Gutsbesitzer. 16 a.\n  Straße nach St. Louis. U. B.\nPlattner, Jakob, Gutsbesitzer. 155 Mostacker. U. B.\nPlattner, Heinrich, Zimmermeister. .155 Mostacker. U. B\nProbst, Jakob, Lehenmann. 302 Herdsträßlein. O. B.\n\nR.\n\nReber, Samuel, von Schangnau, Blutigelwächter. 284\n  Am St. Alban-Teich. O. B.\nRech, Theobald, von Thann, Buchdrucker und Gutsbesitzer.\n  145 Schützenmattengasse. U. B.\nRickli, Johannes, von Thunstetten, Lehenmann. 293\n  Gellert. O. B.\nRietschy, Katharina, geb. Jauslin, Wittwe, von Pratteln.\n  281 St. Jakob. O. B.\nRietschy, Leonhard, von Pratteln, Siegrist. 281 St.\n  Jakob. O. B.\nRoth, Karl Ludwig, von Buggingen, Dr., Privatlehrer.\n  124 Hägenheimerstraße. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6128,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1204,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p185",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p185.jpg",
+      "bytes": 957616,
+      "sha256": "8ef9642d75a821d59b59ac6d3f2c6ede30e272bc20f8d962ad36f10ccb78da8e",
+      "sha256_of": "original",
+      "working_copy": "1841_p185.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:27+00:00"
+  }
+}

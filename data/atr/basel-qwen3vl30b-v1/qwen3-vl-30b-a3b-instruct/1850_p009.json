@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p009",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p009.jpg",
+    "bytes": 986018,
+    "sha256": "839da44c2ff254d2ffb37943471f50807aee360d790a37d61b8eb5ae04e681af",
+    "sha256_of": "original",
+    "working_copy": "1850_p009.jpg"
+  },
+  "text": "II\nDer dem Titel angehängte lithographirte Plan von\nBasel dürfte ebenfalls als angemessene Zugabe sich\ngeltend machen.\nIn der Zeit, in welcher der Druck vollendet wor-\nden, haben sowohl in Hausverkäufen als Miethsver-\nträgen verschiedene Veränderungen stattgefunden.\nWo solche noch im Text eingeschaltet werden konn-\nten, geschah es; bei andern hingegen konnte nur noch\nim Register davon Notiz genommen werden, und bei\neinigen Wenigen aber auch dieses nicht mehr.\nDer vielen Verbesserungen und Zugaben ungeach-\ntet, ist der Preis dieses Büchleins dennoch billiger als\nalle früheren Editionen. Möge daher dasselbe von Seite\nC. C. Publikums eine wohlwollende Aufnahme finden.\n\nDer Herausgeber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 2181,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 691,
+    "lines": 16,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0029,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p009",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p009.jpg",
+      "bytes": 986018,
+      "sha256": "839da44c2ff254d2ffb37943471f50807aee360d790a37d61b8eb5ae04e681af",
+      "sha256_of": "original",
+      "working_copy": "1850_p009.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:16+00:00"
+  }
+}

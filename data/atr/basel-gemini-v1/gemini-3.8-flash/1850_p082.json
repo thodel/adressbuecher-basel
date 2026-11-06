@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p082",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p082.jpg",
+    "bytes": 1015427,
+    "sha256": "613275f780a5abb702aee444cf63ebdbd635f0951255a4cbcd2a642edebc7672",
+    "sha256_of": "original",
+    "working_copy": "1850_p082.jpg"
+  },
+  "text": "Stadt-Quartier. 69\n\n1545 Trübner-Felber, Dor., Wittwe.\n1546 Huggenberger, Joh. Heinr., Schneider.\n  Huggenberger, J. H., Sohn, Tuchhandlung.\n1547 Knop, Ernst, Musikalien- u. Strohhuthandlung.\n  Hoch, Lukas, Mercerie- und Bandhandlung.\n  Oswald, Matth., Handelsmann.\n1548 Roth, Joh. Kasp., Spengler.\n1549 Gonin-Linder, Carl, Band- u. Merceriehandlung.\n1550 Bolliger-Miville, J., Wollenwaarenhandlung.\n1551 Krug, Wilhelm, Hutmacher.\n1552 Stierlin, Eml., Wollenwaarenhandlung.\n\nBei der Brodlaube.\n\n1553 VonderMühll-Keller, J. G., Handelsmann.\n1554 Christ, Joh. Bapt., Schuhmacher.\n1555 Klingelfuß, Lukas, Vater, Seiler.\n1556 Duby, J. B., Quincailleriehandlung.\n1557 Bureau der badisch. Eisenbahn-Omnibus u. Düssel-\n  dorfer Dampfschiffe.\n  Abt, J. Peter, Kondukteur.\n1558 Schneider-Meyri, J. J., Uhrenmacher.\n\nSchneidergasse.\n\n1559 Linder, J. Ludw., Messerschmied, Quartierschreiber.\n1560 Detwiler, Joh. Jak., Schneider.\n1561 Bruckner-Eckenstein, J. J., Spezerei- und Pulver-\n  handlung.\n  Bruckner, Samuel, Handelsmann.\n1562 Mende, Friedr. Gottlieb, Kübler und Alterthümer-\n  kabinet.\n  Benz, Achilles, Kunstmaler.\n  Schneider-Meyer, Modiste.\n  Weber, Sml., Ellenwaarenhandlung.\n  Oswald, Michael, Flachmaler.\n1563 Brändlin, Franz, Metzger.\n1564 Schaffner, Seb., Schneider.\n1565 Heitz, Joh. Jak., Drechsler.\n1566 Koch, Johann, Commis.\n  Koch & Ostermann, Lingerie et Nouveautés.\n  Vest, Jgfr. Salome, Rentière.\n1567 Bär, Abraham, Coiffeur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5876,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1437,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.12,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p082",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p082.jpg",
+      "bytes": 1015427,
+      "sha256": "613275f780a5abb702aee444cf63ebdbd635f0951255a4cbcd2a642edebc7672",
+      "sha256_of": "original",
+      "working_copy": "1850_p082.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:51+00:00"
+  }
+}

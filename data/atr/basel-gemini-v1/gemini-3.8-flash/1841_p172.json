@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p172",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p172.jpg",
+    "bytes": 1098044,
+    "sha256": "1a6b25e141ae56cb342ae3c346ae1ff7edb615744f99e7adc16639090677c407",
+    "sha256_of": "original",
+    "working_copy": "1841_p172.jpg"
+  },
+  "text": "— 19 —\n\n* Völlmy, geb. Känner, Kath., Wittwe. 1452 Schlüsselb.\nVonBrunn-VonSpeyr, J. J., Sohn, Pfarrer. 1499\n  St. Martin.\nVon der Mühll, Christoph, Part. 192 Herbergberg.\nVon der Mühll, Friedrich, Kaufmann. 1230 St. Alban-Vorst.\nVon der Mühll, Joh. und Aug. 1553 Bei der Brodlaube.\nVon der Mühll und Söhne, Seidenwaarenhandl. 1598 Eiseng.\nVon Speyr, Joh. Conr., Kaufmann. 314 Spahlen-Vst.\nVon Speyr und Comp., Bank, Commission und Spedition.\n  1188 Freienstraße.\nVon Speyr, Karl, J. U. Dr., Not. und Kriminalgericht-\n  schreiberei-Substitut. 1422 Freienstraße.\n\nW.\n\nWagner, Andreas, Commis. 27 St. Joh. Vorstadt.\nWahr, Philipp, Sohn, Kaufmann. 1446 Freienstraße.\nWahr, Hieronymus, Sohn, Kaufmann. 1446 Freienstr.\nWaidmann, Mar. Magd. u. Elis., Jgfr. 39 St. Joh. Vorst.\nWaldner, Heinrich, Spannermeister. 635 Gerbergäßlein.\nWallich, Jakob, von Lahr, Kutscher. 855 Thor-Steinen.\nWeber-Karger, Joh. Georg, Ehegerichts-Amtmann. 593\n  Schneidergasse.\nWegmann, Jakob, von Fällanden, Kaufhausarbeiter.\n  1734 Beim Kornmarktbrunnen.\nWeißenburger, Ulr., sel. Wittwe, geb. Schwarz, Bäckerei.\n  943 Aeschen-Vorstadt.\nWeiß, Innocenz. 145 Blumengasse.\nWeiß, Heinrich, Schneider. 1682 Kuttelgäßlein.\nWeiß, Wittwe, geb. Val. Freyburger, und Töchter, Schnei-\n  derinnen. 840 Hintere Steinen-Vorstadt.\n* Wenk, Karl. 239 St. Peters-Kirchgäßlein.\nWerenfels, J. J., Schreiber. 1167 Gerbergasse.\nWertenberg, Andreas, Ferger. 1749 Sattelgasse.\nWertenberg-Langmesser, Abr., Sohn. 1713 Unt. Spahlenberg.\nWettstein, Wittwe, geb. Iselin. 938 Aeschen-Vorstadt.\nWezel, Jakob, Sohn, Commis. 1317 St. Alban-Vorst.\nWiederkehr, Heinrich, Zettlermeister. 904 St. Elisabethen.\n* Wielandt, Anna Maria, Jgfr. 941 Aeschen-Vorstadt.\nWinkler, Heinrich, Fabrikarbeiter. 1284 St. Alban-Thal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6035,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1751,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:03:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p172",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p172.jpg",
+      "bytes": 1098044,
+      "sha256": "1a6b25e141ae56cb342ae3c346ae1ff7edb615744f99e7adc16639090677c407",
+      "sha256_of": "original",
+      "working_copy": "1841_p172.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:57+00:00"
+  }
+}

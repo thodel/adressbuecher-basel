@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p073",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p073.jpg",
+    "bytes": 919984,
+    "sha256": "e44603537162f7a6ef9af237ff5e9d861a3fc6af283329e85f93547e2cf3b507",
+    "sha256_of": "original",
+    "working_copy": "1841_p073.jpg"
+  },
+  "text": "66\n\nNro.\nAm Lindenberg.\n\n93 Miville, Achilles, Stadtrath.\n94 Grundeler, J. Christian, Schlosser.\n95 Burckhardt, Rudolf, Metzger.\n96 Euler, Joh. Jakob, Schuhmacher.\n  Schaffner, Emanuel, Geschäftsreisender.\n97 * Holzmagazin. Eglin, Christoph, Zimmermeister, geh.\n98 Wetzel, Jakob Friedrich, Taglöhner.\n99 Zürcher, Samuel, Schneider.\n100 David, J. Conrad, Metzger und Weinschenk.\n101 Glaser, Jakob, Zimmermann.\n102 Widemann, Joh. Jakob, Fabrikarbeiter.\n103 Stohler, Martin, von Zyfen, Fabrikarbeiter.\n103 a Imhof-Boschet, Weißgerber, geh.\n104 Fäsch, M. Leonhard, Lehrer.\n  Frey, Phil. Carl, Lehrer.\n105 Pfannenschmid, Heinrich, Metzger.\n106 * Der katholischen Gemeinde geh.\n  Von Büren, Seb., kathol. Pfarrer.\n  Fluri, Nikolaus, dito Vikar.\n  Lohner, Benedikt, Oberlehrer an der kathol. Schule.\n  Röllin, Joh. Jos., Aushülfs-Priester.\n107 David-Meyer, Rudolf, Metzger.\n  Frei, geb. Bär, Wittwe.\n108 * Steffan, Joh. sel., Wittwe, von Mühlhausen, geh.\n  Hartmann, Samuel, Kaufmann.\n109 * Magazin von David-Meyer, Rud.\n110 Riedtmann, Nikolaus, Metzger und Wirth.\n110 a * Schäfer, August, Zimmermeister.\n  Speiser-Hauser, Joh. Jakob, Sohn, Kaufmann.\n\nRheinweg.\n\n111 Gengenbach-Frei, Amad., Kaufmann.\n112 Riedtmann, Heinrich sel., Wittwe.\n112 b Riedtmann, Niklaus, Metzger.\n112 c * Scheune von N. Riedtmann, Metzger.\n113 Oberes Rheinthor, obrigkeitlich.\n114 * Schlosser, Friedrich, Glaser, geh.\n  Courvoisier, August, Kaufmann.\n  Schlatter, Xaver, Gärtner.\n115 * Magazin, der Stadt geh.\n\nObere Rebgasse.\n\n116 * Carthause von Bernoulli-Bär, Leonh.\n116 a * Pack, Christina, geb. Mosis, geh.\n  Pack, Lucas, Steinmetz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7909,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1607,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p073",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p073.jpg",
+      "bytes": 919984,
+      "sha256": "e44603537162f7a6ef9af237ff5e9d861a3fc6af283329e85f93547e2cf3b507",
+      "sha256_of": "original",
+      "working_copy": "1841_p073.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:30+00:00"
+  }
+}

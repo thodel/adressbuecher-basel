@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p158",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p158.jpg",
+    "bytes": 1129142,
+    "sha256": "fd162735a0e3dd7cc07cef69b85bc265c46340eb49584622782b8bb1c6b5527f",
+    "sha256_of": "original",
+    "working_copy": "1841_p158.jpg"
+  },
+  "text": "— 5 —\n\n* Engler, Emanuel, Schlosser. 569 Todtengäßlein.\nErismann, Wilh., Hafner. 782 Vordere Steinen-Vorstadt.\nErnst, Heinrich, Stempel-Commissär. 989 Aeschen-Vorstadt.\nErnst-Hug, Friedrich, Ferger. 281 Spahlen-Vorstadt.\nErzberger, Joh., Zoller. 1 St. Joh. Thor.\nEwig, J. G., Gastwirth zum Schnabel. 1658 Am Rindermarkt.\n\nF.\n\nFäsch, Emanuel, Kaufmann. 30 b. St. Joh. Vorstadt.\nFäsch, geb. Landerer, Sal., Wittwe, Part. 810 Steinenbruck.\nFäsch, U., Stadtrath u. Kupferschmied. 722 Hint. d. Stöcklein.\nFalkner, Marie Elisabeth, Jgfr. 1327 St. Alban-Vorstadt.\nFaust, Joh. Heinrich, Lohnamtsarbeiter. 819 Kurzer Steg.\nFechter, Martin, Hauptmann. 97 St. Joh. Schwibbogen.\nFenner, M., Gärtner, v. Aesch, K. Zürich. 880 Ob. Klosterberg.\nFichter, Heinrich, Ferger. 347 Fröschgasse.\nFinninger, Sam., Sattler, sel. Wittwe. 1393 Am Bäumlein.\nFischer, Reinh., Handels-Commis. 99 St. Joh. Schwibbogen.\nFischer, Wittwe, geb. Urs. Früh. 805 Vordere Steinen-Vorst.\nFlubacher, Joh. Isaak, Schuhmacher. 1179 Freienstraße.\nFöhr, Joh. Balthasar, Kaufmann. 342 Fröschgasse.\nForkart-Respinger, Lukas, Handelsmann. 1515 Rheinsprung.\nFrey, Joh. Jakob, sel. Wittwe. 1098 Streitgasse.\nFrey, Salomon, sel. Wittwe, von Hofstetten, K. Zürich. 1682\n  Kuttelgäßlein.\nFrey, geb. Stähelin, Wittwe, Part. 1066 Aeschen-Schwibbogen.\nFrey, Elis., Jgfr., Ausschnitthandel. 1082 Am Bäumlein.\nFrey, Jeremias, Polizeidiener. 1082 Am Bäumlein.\nFrey, Jak., v. Auenstein, Steinhauer. 1317 St. Alban-Vorst.\nFrey, Jeremias, Kaufmann. 1462 Münsterplatz.\nFrey-Laudier, Jeremias, Sohn, Knopfmacher. 180 Unterer\n  Herbergberg.\nFrey-Stückelberger, Joh. Rud., Kaufm. 1231 St. Alban-Vorst.\n* Freyvogel und Böcklin. 1301 und 1307 St. Alban-Thal.\nFrick, Joh., v. Dinglingen, Kutscher. 1237 St. Alban-Vorst.\nFrüh, J. J., sel. Wittwe, geb. Fäsch. 1313 St. Alban-Vorst.\nFrutiger, Christian, Ferger. 196 Herbergberg.\n* Fürstenberger-Debary, J. G., Magazin. 519 a. Am Adelberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9390,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1917,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:02:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p158",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p158.jpg",
+      "bytes": 1129142,
+      "sha256": "fd162735a0e3dd7cc07cef69b85bc265c46340eb49584622782b8bb1c6b5527f",
+      "sha256_of": "original",
+      "working_copy": "1841_p158.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:08+00:00"
+  }
+}

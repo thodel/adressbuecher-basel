@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p033",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p033.jpg",
+    "bytes": 1317915,
+    "sha256": "c7587883d5caf27247676bca2f230c584a66a12c02938ced99ba4c535a2953bd",
+    "sha256_of": "original",
+    "working_copy": "1862_p033.jpg"
+  },
+  "text": "XXX  Vereine zu wissenschaftl. und wirthschaftl. Zwecken.\nLehrer-Berein.\nGegründet 1846.\nHr. J. W. Hek, Lehrer am Realgymnasium, Präsident.\nHr. F. Jjelin, Lehrer am humanistischen Gymnasium, Schreiber.\nHr. F. Rienle, Lehrer am human. Gymnasium, Cassier.\nMuseums-Berein.\nGegründet 1849.\nVorstand: Hr. Professor F. C. Schönbein.\nStenographen-Berein (nach Stolze).\n(Section Basel.)\nGegründet 1859.\nPräsident: Hr. Dr. Zehnter, Redactor der Basler Nachrichten.\nVicepräf. u. Cassier: Carl Hoff, Lehrer der englischen Sprache.\nActuar: Hr. J. J. Madöry, Kaufmann.\nZweck: Weitere Fortbildung der Mitglieder in der Stenographie und Verbreitung dieser Kunst. Der Verein versammelt sich jeden Donnerstag Abend in Nr. 2. Kronengasse, wo Anmeldungen zum Eintritt sowie zu den jeweilen am 1sten eines jeden Monats anfangenden Cursen entgegengenommen werden.\nMedicinische Gesellschaft.\nGegründet 1860.\nVorstand: Hr. Professor Hs.\n\" Dr. Friedr. Müller.\nAdvokaten-Berein.\nGegründet 1861.\nPräsident: Hr. Dr. Carl Stehlin.\nDuoästor: \" Dr. Ed. Heusler.\nActuar: \" Dr. A. Schaub.\nVereine zu wirthschaftlichen Zwecken.\nBerein\nder\nSeidenband- und Seidenstoff-Fabrikanten.\nGegründet im 17. Jahrhundert.\nVorstand: Hr. Gebrüder Bischoff.\nAllgemeine Arbeiter-Gesellschaft.\nGegründet 1849\nzum Zweck billigerer Beschaffung der unentbehrlichsten Lebensmittel.\nHandwerker- und Gewerbe-Berein.\nGegründet 1854.\n(Dermalen Centralcomité d. schweiz. Gewerbe-Vereins.)\nLeise-Fortbildungsverein für Handwerker und gegenwärtig der einzige Sammelpunkt der Handwerke aller Berufsarten.\nVorstand: Hr. Rathsherr Schmidt-Fäsch.\nFiliale\nder\nZürcher-Seiden-Trocknungs-Anstalt.\nAussichts-Commission:\nHr. J. J. Schütz.\nGartenbau-Gesellschaft.\nGegründet 1856\nzum Zweck der Hebung und Förderung der Blumen-, Gemüse- u. Obstzucht.\nVorstand: Hr. Dr. L. Dewette.\nVereine & Anstalten für Kunst, Musik & Geselligkeit.\nConcert-Gesellschaft.\nGegründet 1717.\nVorstand: Hr. Peter Bischer-Burckhardt.\nMusikalische Angelegenheiten find an den Bibliothekar, Hr. Dr. Emil Merian, Eintritts- u. Austritts-Anzeigen an den Cassier, Hr. Dr. Andreas Heusler, zu adressiren.\nAllgemeine Leise-Gesellschaft.\nGegründet 19. October 1787.\nVorstand:\nHr. Dr. Friedr. Burckhardt-Brenner, Vorsteher.\n\" Dr. J. J. Bischer-Jjelin, Statthalter.\n\" Dr. J. J. Merian, Schreiber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7049,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2291,
+    "lines": 59,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0169,
+    "mean_line_chars": 37.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:21:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p033",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p033.jpg",
+      "bytes": 1317915,
+      "sha256": "c7587883d5caf27247676bca2f230c584a66a12c02938ced99ba4c535a2953bd",
+      "sha256_of": "original",
+      "working_copy": "1862_p033.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:54+00:00"
+  }
+}

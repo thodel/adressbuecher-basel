@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p193",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p193.jpg",
+    "bytes": 975724,
+    "sha256": "0c93bf61c2c7e077e7b56734e077712691b5929392c032c93f6ca07728e064b8",
+    "sha256_of": "original",
+    "working_copy": "1841_p193.jpg"
+  },
+  "text": "C. Riehen-Bann.\n\nA.\n\nAlleman, Urs, von Kleinlützel, Maurergesell. 39 Riehenstraße\nAssal, Christoph, Chemiker. 38 Riehenstraße.\n\nB.\n\nBachthaler, Paul., v. Stetten, Lehenmann. 50 Grenzacherstr.\nBader, Jakob, von Langenbruck, Lehenmann. 88 Auf dem\n  Gotterbarm.\nBastady, Jakob, v. Bubendorf, Posamenter. 4 Mittlere Straße.\nBlattner, Marg., geb. Fasler, Wittwe, von Küttigen,\n  Lehensfrau. 93 Grenzacherstraße.\nBlind, Georg, Zimmermann. 83 Im Dutli.\nBöhler, Katharina, geb. Vannier, Wittwe, von Arnoldsloch,\n  Wascherin. 9 Am Teich.\nBrodbeck, Wilhelm, von Liestal, Lehenmann. 28 Riehenstr.\nBrosy, Peter, von Mümliswil, Posamenter. 6 Mittl. Straße.\nBrunner, Viktor, von Mümliswil, Lehenmann. 39\n  Riehenstraße.\nBurckhardt, Susanna, Wittwe, Part. 86 Auf dem\n  Gotterbarm.\n\nC.\n\nChristen, Melchior, von Wolfenschießen, Lehenmann. 82\n  Auf dem Gotterbarm.\n\nD.\n\nDeubelbeiß, Joh. Ulr., von Holderbank, Gärtner. 52\n  Grenzacherstraße.\nDill, Nikolaus, von Prattelen, Gutsbesitzer. 90 Galgenfeld.\nDürwell, Stephan, von Sulz, Gärtner. 36 Riehenstraße.\n\nE.\n\nEbert, Maria, geb. Dörflinger, Wittwe. 55 Grenzacherstr.\nEglinger, Nikolaus, alt Pfarrer. 53 Grenzacherstraße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5614,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1152,
+    "lines": 31,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0323,
+    "mean_line_chars": 35.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:06:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p193",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p193.jpg",
+      "bytes": 975724,
+      "sha256": "0c93bf61c2c7e077e7b56734e077712691b5929392c032c93f6ca07728e064b8",
+      "sha256_of": "original",
+      "working_copy": "1841_p193.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:19+00:00"
+  }
+}

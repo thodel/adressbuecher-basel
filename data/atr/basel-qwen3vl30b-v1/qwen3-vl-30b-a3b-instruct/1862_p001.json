@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p001",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p001.jpg",
+    "bytes": 1554961,
+    "sha256": "1bd55495a192b45ce1e30a0faff9be55902e6287d870f9183691c763235226d3",
+    "sha256_of": "original",
+    "working_copy": "1862_p001.jpg"
+  },
+  "text": "Neues\nNummern- & Adreßbuch\nder\nStadt Basel.\nIm Auftrage einer hohen Regierung herausgegeben.\nBasel, 1862.\nVerlag .en Otto Studert\nMöstacherstraße No. 25.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 1862,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 153,
+    "lines": 8,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 18.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0131,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p001",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p001.jpg",
+      "bytes": 1554961,
+      "sha256": "1bd55495a192b45ce1e30a0faff9be55902e6287d870f9183691c763235226d3",
+      "sha256_of": "original",
+      "working_copy": "1862_p001.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:48+00:00"
+  }
+}

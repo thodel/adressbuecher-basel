@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p028",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p028.jpg",
+    "bytes": 1102287,
+    "sha256": "b8e202dd59d4821492911982461a0b09b7a45a686bfbedc32349f50bbbc1db17",
+    "sha256_of": "original",
+    "working_copy": "1850_p028.jpg"
+  },
+  "text": "Spahlen=Quartier. 17\nSt. Leonhards:Graben.\n355 Raff, Aug., Handelsmann.\n    Holzach, Rud., Küfer.\n356 Hägler, Math., Ladendiener.\n357-58 Bleiler=Mieg, Rud., Handelsmann.\n359-60 Schölli, Joh. Caspar, Wagner.\n    Werkstätte von Werenfels, Fz., Wagner.\n    Werkstätte von Werenfels, Eml., Maler.\n361 Fischer, And., Metzger.\n    Hof, Christoph, Schneider.\nAuf der Leis.\n362 Magazin.\n363 Hausammann, Peter, Commis.\nA 363 Krebs, Joh., Maler.\n364 Stallung.\n365-66 Meyer, Eml., Pfarrer in St. Jakob.\n    Meyer=Steiger, Eml., Dr. Med. et Chir.\n367 Billingier, Melchior, Holzhändler.\n368-69 Schmied, Ch., Schreiner.\n    Linder=Ort, Eml., Commis.\n370 Lindenmeyer, Saml., Schreiner.\n    Pery, Paul, Commis.\nSt. Leonhards:Graben.\n371 Bärry, Heinrich, Blattmacher.\n372 Baumann, Joh.\n373 Magazin.\n374 Braun, Wittwe, Chrischona geb. Weis.\nA 374 Schmidt=Götz, Andr., Rentier.\n375 Brändlin=Nörbel, Peter, Wittwe.\n    Brändlin, Rud., Sohn, Flachmaler.\n    Brändlin, Ed., Thierarzt.\n    Bischoff=Merian, Rud., Handelsmann.\n376 Burckhardt=Anhiner, Elias, Rathsherr.\n    Burckhardt=Breck, C. B., Dr. Juris.\n377-78 Stähelin=Bischoff, Ben., Bandfabrikant.\n    Stähelin, Ben., Sohn, Bandfabrikant.\n379-80 Bugtorf=Bischoff, Andr., Bandfabrikant.\n    Bugtorf, And., Sohn, Bandfabrikant.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4276,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1261,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 29.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p028",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p028.jpg",
+      "bytes": 1102287,
+      "sha256": "b8e202dd59d4821492911982461a0b09b7a45a686bfbedc32349f50bbbc1db17",
+      "sha256_of": "original",
+      "working_copy": "1850_p028.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:32+00:00"
+  }
+}

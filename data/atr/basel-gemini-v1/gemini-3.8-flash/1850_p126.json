@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p126",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p126.jpg",
+    "bytes": 1186424,
+    "sha256": "1f6a05d785409e720d3211d8a93e6650fefda59344160416ebbca79ff1e961db",
+    "sha256_of": "original",
+    "working_copy": "1850_p126.jpg"
+  },
+  "text": "113\n\nLichtenhahn, Ben., Beck  868\n  Joh. Rud., Schreiner  910\n  -Holzach, Wittwe  851\n  -Kirchberger, Wwe. M.  1468\nLiebreich, J. K.  1750\nLienin, M., Musiklehrer  1274B\nLindenmeyer, J. J., Beck  282\n  Saml., Schreiner  370\n  -Schmidt, J. J.  707-10\n  Balt., Wachtmeister  858\n  J. G., Sohn, Weinhg.  *417\n  J. R., S. M. C.  *417\nLinder-Stehlin, Fh. L.  149\n  Eml., Commis  368-69\n  -Courvoisier, Th., Sohn  386\n  Joh. Jak., Bandfabr.  556\n  J. J., Hafner  972\n  Ed., Zimmermeister  985A\n  Joh., Obersthelfer  1374\n  J. L., Messerschmied  1559\n  Gottl. Nikl., Mechan.  1698\n  Heinr., Alt-Kanzlist  *274\nLindner, Ed., Buchbinder  589\nLipp, Hr., Zettlermeister  322\nLippe, Geschwister  621\nLocher-Keller, Frau Elis.  494\nLöhle, Karl, Commis  *341\nLohner, Bened., Lehrer  *106\nLöliger, Wwe., Wirthsch.  1003\nLorenz, Jos., Lohubed.  528\nLotz-Wick, Sl., Spezierer  59\n  Joh., Schlosser  88\n  Leonh., pens. Siegrist  238\n  Chr., Sohn, Schneider  247\n  Eduard, Tabakhändler  525\n  -Spörlin, H.  712-13\n  Rud., Alt-Postoffiziant  1011\n  Leonh., Knopfmacher  1684\n  Leonh., Kuttler  1684\n  Karl, Schlosser  1696\n  A., Sohn, Seidenfärb.  *46\n  Fr., Vater  \"  *52-55\n  Leonh., Metzger  *150\n\n[spalte 2]\n\nLotz-Eglin, F., Zimmerm.  *175\n  Wittwe, Wascherin  18\n  -Lüscher, Frau  1004\n  -Zäslin, Wwe., Tabackl.  1534\n  Jgfr., El., Spezereihg.  *390\nLöw, Leonh., Schuhm.  506\n  J. J., Eisenwaarenhg.  670\n  J., Wirth  730\n  Abr., Abwart  731-33\n  Wilh., Musterweber  790\n  Joh., Magazinier  1277\n  J. G., Trödler  1748\nLüdin, Joh., Zimmerm.  1331\n  -Göbelin, Wittwe  159\nLudwig, Andr., Eisenhdlg.  516\n  Wittwe, Weinschenke  457\nLugeon, Franz, Commis  299\nLüppold, Ros., Wascherin  801\nLüscher, Karl, Commis  1222\nLüssi, J. J. 1626. Compt. 1174\nLuthringshauser, Heinr.  84\n  J. J., Zeichnungslehrer  863\n  Ed., Commis  1523\nLutz, Ed., Kapellmeister  339\n  J. U., Uhrenmacher  1711\nLützelmann, J. 20. Compt. 404\nMaas, R., Med. Dr.  725\nMackler, J. J., Schuhm.  *251\nMäder, J. P., Piqueur  *198\nMadeux, Spedit.-Hdlg.  335\nMadöry, F., Stuhlschr.  1627\n  Wittwe, Marg.  1311D\nMäglin, Benj., Küfer  603\n  Gustav, Tabackladen  660\n  Rud., Commis  754L\n  J. R., Spezereihdlg.  855\n  Ben. de Ant., Commis  1013\n  Ldw., Metzger  *29\n  Christ., Metzger  *142\n  J. Isaak, Maler  *151\nMähly-Lamy, Kunsthdlg.  127\n  Jak. Kasp., Küfer  998\nMangold, J. J., Posam.  396\n9",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9661,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2340,
+    "lines": 89,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 24.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:20:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p126",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p126.jpg",
+      "bytes": 1186424,
+      "sha256": "1f6a05d785409e720d3211d8a93e6650fefda59344160416ebbca79ff1e961db",
+      "sha256_of": "original",
+      "working_copy": "1850_p126.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:46+00:00"
+  }
+}

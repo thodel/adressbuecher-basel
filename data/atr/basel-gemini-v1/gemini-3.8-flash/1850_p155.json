@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p155",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p155.jpg",
+    "bytes": 946499,
+    "sha256": "a2baa722fdca63680629182e9d61c7ca445bf67b96bcf0cd1ff6436c5af58beb",
+    "sha256_of": "original",
+    "working_copy": "1850_p155.jpg"
+  },
+  "text": "142\n\n451 | J. O. | Simoth | Jul. Otto Simoth.\n566 A | A. | Socin u. Sohn | Abel Socin-Legrand.\n  Eduard Socin-Frey.\n  Carl Gauthey, Procura-\n    träger.\n*178 |  | Soller & Cie. | Joh. Friedrich Soller.\n  Martin Horandt.\n  Jakob Christof Schöck,\n    Commanditaire.\n156 | Jb. | Speiser | Jakob Speiser.\n1188 |  | von Speyr & Cie. | Eduard von Speyr.\n  Georg Friedrich Goppels-\n    röder.\n  Carl von Speyr-Iselin.\n  Joh. Heinrich von Speyr,\n    Procuraträger.\n438 | Joh. | von Speyr | Joh. von Speyr.\n1449 | C. F. | Spittler | Christ. Friedr. Spittler.\n712 | Wittwe | Spörlin & Cie. | Sara Spörlin geb. Me-\n    rian.\n  Hieron. Lotz-Spörlin.\n1623 | Joh. | Sprüngly sel.\n    Wittwe | Jungfrau Elisabeth\n    Weydmann.\n1091 | Gebrüder | Stähelin | Rudolf Stähelin.\n  Balth. Merian-Merian.\n260 |  | Stähelin-Bernoulli | Balthasar Stähelin-Ber-\n    noulli.\n1613 | Benedikt\n    u. Emanuel | Stähelin | Balthasar Stähelin-\n    Christ.\n378 | Balth. de\n    Bened. | Stähelin | Benedikt Stähelin.\n  Benedikt Stähelin, Sohn.\n313 | Gottfried | Stehelin | Gottfr. Stehelin, Vater.\n  Gottfr. Stehelin, Sohn.\n1045B | Jakob | Stückelberger | Jakob Stückelberger.\n164 | J. F. | Stumm & Cie. | Johann Friedr. Stumm.\n1181 | A. u. R. | Sulger | Andr. Sulger-Stähelin.\n1269A |  | Sulger & Stückel-\n    berger | Joh. Sulger-Heusler.\n  Andr. Stückelberger.\n1386 |  | Suter-Ronus | Rudolf Suter-Ronus.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6084,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1373,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:24:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p155",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p155.jpg",
+      "bytes": 946499,
+      "sha256": "a2baa722fdca63680629182e9d61c7ca445bf67b96bcf0cd1ff6436c5af58beb",
+      "sha256_of": "original",
+      "working_copy": "1850_p155.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:24:49+00:00"
+  }
+}

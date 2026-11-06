@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p134",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p134.jpg",
+    "bytes": 919136,
+    "sha256": "35530f7904662ac364b46120a298609f6ccb37fe8773a663d1fe698201d343c0",
+    "sha256_of": "original",
+    "working_copy": "1841_p134.jpg"
+  },
+  "text": "Klein-Basel.\n\nA.\n\nAlbeck, geb. Doroth. Lüdin, Wittwe. 362 Untere Rheingasse.\nAlbeck, Joh. Heinrich, Kaufmann. 362 Untere Rheingasse.\nAlbrecht, Conrad, Spezereihändler. 281 u. 282 Webergasse.\nAlt, Daniel, Weißbeck. 152 Rebgasse.\nAltweg-Richter, Kaufmann. 36 Rheingasse.\nAmmann, Caspar, Seidenfärber. 14 An der Rheinbrücke.\nAndres, Jakob, Schuhmacher. 67 Rheingasse.\n\nB.\n\nBarth-Otto, S. (Handlung von Gebrüder Otto.) 36 Rheingasse.\nBasler, Joh. Jakob, Weißbeck. 168 Rebgasse.\nBasler, Bernhard, Seidenfärber. 321 Untere Webergasse.\nBaumgartner, Franz Heinrich, Schneider. 237 Greifengasse.\nBaumgartner, Leonhard, Kübler. 277 Untere Rebgasse.\nBaumgartner, Heinrich, Maler. 413 Udengasse.\nBecker, geb. Etienne, Wittwe, Baumwollen= und Wollenwaaren-\n  Handlung. 214 Greifengasse.\nBegle, Joh. Jakob, Maurermeister. 66 Rheingasse.\nBell, Heinrich, Fischer. 35 Rheingasse.\nBertrand, Joh., Wirth und Lohnkutscher. 218—220 Greifengasse.\nBieler-Salathe, Joh. Jakob, Küfer und Wirth. 122 Ob. Rebgasse.\nBienz, Rud., Wirth und Metzger. 391 u. 392 Krempergasse.\nBienz, Joh., Vorsinger und Zoller. 63 Rheingasse.\nBirmann, Jakob Friedrich. 147 Beim Riehen-Thor.\nBischoff, J. J., Pfarrer bei St. Theodor. 176 Rebgasse.\nBlindenbacher, Christoph, Gerbergesell. 438 Udengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7203,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1253,
+    "lines": 27,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p134",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p134.jpg",
+      "bytes": 919136,
+      "sha256": "35530f7904662ac364b46120a298609f6ccb37fe8773a663d1fe698201d343c0",
+      "sha256_of": "original",
+      "working_copy": "1841_p134.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:35+00:00"
+  }
+}

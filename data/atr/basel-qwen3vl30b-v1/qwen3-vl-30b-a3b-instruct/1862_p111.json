@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p111",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p111.jpg",
+    "bytes": 1291882,
+    "sha256": "c5f65246ec00f8776961c88ccdec1e5a9d91965b5e1eeef8ebeebf5ef1b800ae",
+    "sha256_of": "original",
+    "working_copy": "1862_p111.jpg"
+  },
+  "text": "46\nFreie Straße.\nNre\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n70 IV. 1084 zum Jakobs-Keller. Riefer-Weibel, Joh. Heinrich.\nRiefer-Weibel, Joh. Heinrich, Kaufm.\nMaring-Wierz, Ludwig, Architekt.\n71 V. 1425 Zunft z.gold.Stern. Corporationsgut.\nSchabelitz-Flick, J. Christ., Buchbinder.\nFirma F. E. Schabelitz, Papier-,Schreib-\nu. Zeichnungsmaterialien-Handlung.\nChretien-Vivier, M., magasin de vin\net comestibles.\n72 IV. 1083 zum Sodeck. Lichtensteiger, Friedrich, Postbeamter.\nFischer-Eberle, Hans.\nFischer-Eberle, Hans, Tuchhandlung.\n73 V. 1424 zur Welt. Walter-Keller, Karl.\nWalter-Keller, K., Fabr. chirur. Instr.\nBihrer-Pregger, Louis.\nBihrer-Pregger, Louis, Uhrenmacher.\nKommel, Philipp, Commis.\n74 IV. 1082 ———— Bihrer-Pregger, Louis.\n75 V. 1423 zur obern Welt. Schaub-Gyfin, Joh. Jacob.\nSchaub-Gyfin, Joh. Jac., Handschuh-\nmacher u. Siegriff bei St. Elisabethen.\nThurneyssen-Gaß, Wittwe, Margaretha.\nThurneyssen, Louis, Commis.\nLehr, Wilhelm, Uhrenmacher, Arbeits-\nlocal Nr. 10. Streitgasse.\n76 IV. 1081 zum Eichhörnlein. Müller, Wittwe sel. Erben.\nBreisch, Fried., Ellenwaarenhandlung.\n77 V. 1422 zum Weinberg. Biedert u. Comp.\nHuber-Burckhardt, Joh. Jak., Kaufmann.\nBiedert, J. Heinrich, Eisenhandlung.\n78 IV. 1080 zum Eichhorn. Christ-Socin, Hermann.\nChrist-Hoffmann, Christine, Wittwe.\nChrist-Socin, Hermann, Civil-Gerichts-\nschreiber, J. U. D.\nHeusler, Aug., J. U. D., Notariatsbureau.\n79 V. 1421 zum St. Jacob. Müller-Stolz, Conrad.\nMüller-Stolz, Conrad, Schuhmacher.\n80 IV. 1079 ———— Merian-Weiß, Rud. sel. Erben.\nHolweg-Weiß, A. Maria Wb., Modiste.\n81 V. 1420 zum Schaltenbrand. Bernoulli-Cailler, Emanuel.\nBernoulli-Cailler, Em., Bandfabrication\nu. Seidenwaarenhandlung.\nBernoulli, Emanuel, Sohn.\n82 IV. 1063 ———— Iffenthaler-Schölli, Ludwig.\nIffenthaler-Schölli, L., Schuhmacher.\n83 V. 1492 zur Krippe. Beck-Kaifer, Christchona, Wittwe.\nBeck-Kaifer, Christchona, Wb., Rentiere.\nBachmann-Bell, Joh. Fried., Pintenwth.\n84 IV. 1062 zum Ehrenfels. Schneider-Frey, Heinrich.\nSchneider-Frey, Heinrich, Particular.\nRuster-Schneider, Joh. Jak., Secretär\nder Niederlassungs-Commission.\nRigiani, Peter u. Rudolf.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6863,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2168,
+    "lines": 64,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p111",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p111.jpg",
+      "bytes": 1291882,
+      "sha256": "c5f65246ec00f8776961c88ccdec1e5a9d91965b5e1eeef8ebeebf5ef1b800ae",
+      "sha256_of": "original",
+      "working_copy": "1862_p111.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:16+00:00"
+  }
+}

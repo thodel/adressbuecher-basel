@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p123",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p123.jpg",
+    "bytes": 1086418,
+    "sha256": "94658da6a30f675c541c54ced734748c1531eca8b68caf6f8ac5faa5c2791026",
+    "sha256_of": "original",
+    "working_copy": "1850_p123.jpg"
+  },
+  "text": "110\nImhof-Forkart, F. 1576 | Kaufmann, G., Mezger 9A\nW., Goldschmied 1580 | N., Agent 556\nH., Wollenwaarenhlg. 1642 | Jakob, Fabrikmeister 1290\n=Benk, Hier., Bater 1642 | Kaul, Frau Maria 409\n=Mieg, F. F. *293 | Kauz, M., Schneider 1165\n=Roschet, Wittwe 1084 | Kehlstadt, A., Tapezierer 607\nZmmler, Schreiner 687 | Joh. Phil., Tapezierer 624\nZoos, Ch., Tabackmüller *319 | Leonh., Postoffiziant 822\nJordan, F. F., Spez. 625-26 | Ludw., Sohn, Beck 947\nAdam, Commis 1062 | Kehrer, A., Schachtelmn. 398\nLeonh., Ferger 1179 | Kellenberger, Joh. Jak. 328\nConr., Zolleinnehmer *136 | Keller, Saml., Kübler 672\nFörin, F. Hch., Commis 1149 | Sch., Unterbestäter 764\nFosenhans, Inspektor 387-89 | Lukas, Mezger 836\nFselin-Debary, Rud. 70 | Georg, Schuhmacher 1720\n=LaRoche, F. F. 71 | Fr., Kutscher *28\n=Passavant, H., Med. Dr. 92 | Kaver, Gärtner *114\n=Fselin, Abraham 250 | =Mazinger, Wittwe 78\nRemig., Kunstmaler 251A | =Bischoff, Wittwe 549\n=Wettstein, Daniel 938 | Wittwe, Kostgeberin 1646\n=Burckhardt, Jos. Ach. 1211 | Jgfr. Wilhelmine 64A\nDieter., Rentier 1268 | Kellermann, Joh. Chr. *224\n=Forkart, F. L. 1312 | Kelterborn, Ludw. Ad. 270\nWilh., Sohn 1312 | Kempf, Georg, Kutscher 1081\n=Christ, Rudolf 1312 | Eman., Beck *145\n=Reichenstein, Ludw. *149 | Kern-Ryhiner, August 64B\n=Roulet, Wittwe 1203 | Jakob, Fabrikarbeiter 183\nFrau Susanna 1311A | =Bischoff, Friedr. 267B\nFrau, Lohnwäscherin *129 | u. Sohn, Comptoir 269B\nZucker, B., Musiklehrer 191 | F. B., Rothgerber 1725\nUlrich, Rentier 1672 | -deCrousaz, Elias *317\nJung, K. G., Med. Dr. 920 | =Herzog, Wwe., Jud. 28\nFrau Kath., Lwdhdlg. 1645 | =Schmerber, Wwe., L. 854\nJunfer, F. F., Chir. Dr. 1574 | Kestenholz, Wittwe *264A\nRachel, Luk. Hr., Mezger 1624 | Kefner, Wwe., Fanny 251A\nKammer, F., Ladendiener 1540 | Kefler, Pet., Zimmerm. 903\nKammerer, S., Fuhrhalter*120 | Matth., Seidenwinder 1315\nKappler, Dl. Friedr. 9D | Ketterer, F., Weinsch. 1652-53\nKappeler, Joh. Abrah. 268 | Kiefer, F. H., Agent 125A\nKasp., Spitalschreiber 1016 | G., Quincailleriehdlg. 153\nWittwe, Gantfrau 1570 | Friedrich, Beck 315\nKarle, Joh., Holzmüller 1308 | Joh., Commis 1275\nKatheder, C. F. Th. 42 | Joh., Lohnwäscher 1280\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8149,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2172,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p123",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p123.jpg",
+      "bytes": 1086418,
+      "sha256": "94658da6a30f675c541c54ced734748c1531eca8b68caf6f8ac5faa5c2791026",
+      "sha256_of": "original",
+      "working_copy": "1850_p123.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:20+00:00"
+  }
+}

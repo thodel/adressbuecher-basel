@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p136",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p136.jpg",
+    "bytes": 980688,
+    "sha256": "d6e3eabcfbee33e9047e18a82a2363d22b5ed4f08a2114cdf8147a7562c4c033",
+    "sha256_of": "original",
+    "working_copy": "1841_p136.jpg"
+  },
+  "text": "53\nD.\nDalang, Jakob, Beck. 60 Rheingasse.\nDavid, Joh., Adlerwirth und Mekger. 348 Ochsen-gasse.\nDavid, Hieronymus, Mekger. 280 Webergasse.\nDavid, J. Conrad, Mekger und Weinschenk. 100 Am Lindenberg.\nDavid, Joh. Rud., Mekger. 48 Rheingasse.\nDavid, Joh. Georg, Fuhrhalter. 173 Reb-gasse.\nDavid, Chr., Schiffmann und Wirth. 80 Rheingasse.\nDavid-Meyer, Rud., Mekger. 107 Am Lindenberg.\nDegen, Heinrich, Zimmermann. 329 Badergäfklein.\nDevit, Friedrich, Commis. 253 Untere Reb-gasse.\nDicfemann, Emanuel, Bader. 356 Sägergäfklein.\nDicfemann, Jungfer Dorothea, Lehrerin. 132 Kirchgäfklein.\nDiehl, Jakob, Schleifer. 264 Im Rumpel.\nDietfch, Conrad, Mekger. 40 Rheingasse.\nDömmelin, Jak., Hafners Wittwe, geb. Meyer. 12 An der Rheinbrücke.\nDorn, Ludwig, Bleibüchfenmacher. 272 Beim Bläfithor.\nDubach, Georg, Seidenfärber. 296 Webergasse.\nDünner, Joh. Jakob, Lohnwäscher. 289 Webergasse.\nDunkel, Jakob, Maurer, von Kleinhüningen. 433 Udengasse.\nC.\nEckert, Christian, Lehrer. 132 Kirchgäfklein.\nEglin, Christoph, Zimmermann. 418 Udengasse.\nEifenlohr, Joh. Chr. fel., Wittwe, geb. Bloch, Spezerei-handlung, 394 Krempergasse.\nEppfer, Joh., Schneider. 344 Untere Webergasse.\nErfmann, Joh. Jakob, Comptorift und Wascherei. 288 Webergasse.\nErlacher, Leonhard, Auffeher. 132 Kirchgäfklein.\nEßchmann, Dorothea und Margaretha. 58 Rheingasse.\nEuler, Abraham, Küfer. 118 Obere Reb-gasse.\nEuler, Joh. Jakob, Schuhmacher. 96 Am Lindenberg.\nF.\nFäsch, Emanuel, Beck. 9 An der Rheinbrücke.\nFäsch, Rud., Kupferschmid. 238 Greifengasse.\nFäsch, Mag., Leonhard, Lehrer. 104 Am Lindenberg.\nFäsch, Jakob, Weißbeck. 333 Untere Webergasse.\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5275,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1605,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:58:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p136",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p136.jpg",
+      "bytes": 980688,
+      "sha256": "d6e3eabcfbee33e9047e18a82a2363d22b5ed4f08a2114cdf8147a7562c4c033",
+      "sha256_of": "original",
+      "working_copy": "1841_p136.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:40+00:00"
+  }
+}

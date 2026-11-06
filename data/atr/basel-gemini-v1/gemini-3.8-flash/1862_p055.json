@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p055",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p055.jpg",
+    "bytes": 1345354,
+    "sha256": "6580e62610f0e471ab0a0a41eeb1217fb7508f5294d518894fde642a1631b16b",
+    "sha256_of": "original",
+    "working_copy": "1862_p055.jpg"
+  },
+  "text": "LII | Ragionenbuch.\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nSchaub et Comp. | Jakob Schaub, allein. | Agentur f. Baumwolle,\n  Farb-, Colonial-, Dro-\n  guerie u. Fettwaaren,\n  Schafwolle, Metalle,\n  Hauptagentur\n  der Rheinschifffahrts-\n  Assekuranzgesellschaft\n  in Mainz.\nSchaub, J. | Jakob Schaub, allein. | Specerei-, Cigarren- u.\n  Tabakhandlung.\nSchermar, A. | Joh. Ant. Schermar, allein. | Manufacturwaaren.\nScheuchzer, M. | Math. Scheuchzer, Vater. | Eisenhandlung u. Con-\n  Aug. Scheuchzer, Sohn. | structions-Atelier.\nSchmidt-Fäsch, J. | Jb. Chr. Schmidt-Fäsch, allein. | \nSchneider, Ed. | Ed. Schneider-Lindenmeyer, allein. | Quincaillerie-, Kinder-\n  spiel-, Modewaaren-,\n  Blum.-u.Strohhuthdl.\nSchneider'sche, Felix, | Traugott Geering. | \n  Buchhandlung. | Emil Ludwig Geering.\n  Joh. Wassermann, Prokuratträger. | \nSchnewlin et Comp. | Carl Schnewlin. | Specereiwaaren u. Lan-\n  Mich. Sautter. | desprodukte, Spedition\n  u. Commission.\nSchoch, Erhard u. Jak. | Erhard Schoch, allein. | Eisenhandlung.\nSchölli, J. J., Sohn. | Sam. Schölli, Vater. | Bandfabrikation.\n  Wilh. Best-Schölli. | \nSchönauer, Jerome. | Jerome Schönauer, allein. | Spezereihandlung.\nSchorrer, Schwestern. | Maria Schorrer. | \n  Margaretha Schorrer. | \nSchwarz u. Hermann. | Chr. Friedr. Schwarz. | Commission u. Handel\n  Theodor Hermann. | in Rohseide.\nSchweighauser'sche | Hans Wieland-Bischoff, allein. | \n  Verlags-Buchhdlg. | Ach. Holdenecker, Prokuratträger. | \nSchweighauser'sche | H. Amberger, allein. | \n  Sortiments-Buchhg. |  | \nSehringer, J. G. | J. G. Sehringer, allein. | Gemischte Waarenhdlg.\nSeiler, Leonhard. | Carl Seiler, allein. | Leinwand-, Mode- und\n  Manufacturwaarenhg.\nSiegfried-Merian, A. | A. Siegfried-Merian, allein. | Weinhandlung.\nSiegfried et Comp. | N. Siegfried. | Seidenband u. Mercerie.\n  Carl Merian-Respinger, Prokura-\n  träger. | \nSiegrist u. Fender. | Rudolf Siegrist. | Bankgeschäft.\n  Wilhelm Fender. | \nSimmoth, J. D. | Gustav Burckhardt. | \nSimonin u. Bard. | Ch. Simonin. | Rohseidehandlung.\n  B. Bard. | \nSocin u. Sohn, A. | Abel Socin-LeGrand. | \n  Eduard Socin-Frey. | \nSocin-Werthemann. | Chr. Socin-Werthemann, allein. | Wollenstoffe.\nSoller-Keller. | Soller-Keller, allein. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8966,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2245,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:32:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p055",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p055.jpg",
+      "bytes": 1345354,
+      "sha256": "6580e62610f0e471ab0a0a41eeb1217fb7508f5294d518894fde642a1631b16b",
+      "sha256_of": "original",
+      "working_copy": "1862_p055.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:40+00:00"
+  }
+}

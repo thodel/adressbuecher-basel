@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p123",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p123.jpg",
+    "bytes": 973039,
+    "sha256": "ea08ee6a19b8dc3cc4bf5be6909085b5e5c1a84fa2a693cd09c339c8355f2e6a",
+    "sha256_of": "original",
+    "working_copy": "1841_p123.jpg"
+  },
+  "text": "40\nSchmidlin, W., Lehrer der Mathematik am Gymnasium. 108\nBlumenrain.\nSchmidt, Jak. Heinrich, Küfer und Tassfinner. 588 St. Andreasplatz.\nSchmidt, Joh. Jakob fel., Wittwe, geb. Schwarz. 1165 Gerbergasse.\nSchmidt, J. J. fel., Wittwe, geb. Landerer. 1323 St. Alban-Vorstadt.\nSchmidt, Peter, Beck. 68 St. Johann-Vorstadt.\nSchmidt, Abraham, Oberst-Kathysdiener. 1496 St. Martin.\nSchmidt, Carl, Wein-Courtier. 87 St. Johann-Vorstadt.\nSchmidt-Flury, Frau Catharina. 1123 Pfuggasse.\nSchmidt-Götz, Andre., Kaufmann. 822 Bordere Steinen-Vorstadt.\nSchmidt-Lok, Heinrich, Küfer. 824 Bordere Steinen-Vorstadt.\nSchnäbeli, Heinrich, Lohnkutscher. 422 Heuberg.\nSchnäbelin, Leonhard, Schuhmacher. 632 Gerbergäßlein.\nSchnegg, J. J., Glockengießer. 1432 Freie Straße.\nSchneider, Fr., Schreiner. 594 Schneidergasse.\nSchneider, Emanuel, Wittwe. 613 Hinter der Kümlinsmühle.\nSchneider, Emanuel, Gerichtsamtmann. 1662 Kindermarkt.\nSchneider, Emanuel, Dr. Juris. 455 Beim Spahlenthurm.\nSchneider, Joh. Jakob, Uhrenmacher. 1558 Bei der Brodlaube.\nSchneider, Ehrhard, Schullehrer. 1173 Gerbergasse.\nSchneider, Julius. 1005 Aeschen-Vorstadt.\nSchneider, Andre., Präparateur und Abwart im Museum. 1403\nMünsterplatz.\nSchneider, Heinrich, Sattler. 1062 Tiefe.\nSchneider, Martin, Bater u. Sohn, Lehrenmann. 898 St. Elisabethen.\nSchneider, Daniel. 204 Spiegelgasse.\nSchneider, Julius, Wagner. 980 Aeschen-Vorstadt.\nSchneider, Daniel, Schuhmacher. 1005 Aeschen-Vorstadt.\nSchneider, Felix, Buchdrucker, Buchhändler und Antiquar, 1196\nAm Bäumlein.\nSchneider, Martin, Gerichtschreiber. 1382 Am Bäumlein.\nSchneider, Theodor fel., Wittwe, geb. Braun. 1579 Sporengasse.\nSchneider, Jungfer, Judith, Bandhändlerin. 721 Hint. d. Stöcklein.\nSchneider, Samuel, Schuhmacher u. Wirth. 729 Barfüsserplatz.\nSchneider, Martin, Meßger. 658 Gerbergasse.\nSchneider, Jak. Christ., Schuhmacher u. Korbhändler. 667 Gerbergasse.\nSchneider, G. David, Schneider. 716 Barfüsserplatz.\nSchneider, Emanuel, Hufschmid. 852 u. 852 a Hint. Steinen-Vorstadt.\nSchneider-Oser, Friedrich, Meßger. 1150 Hinter dem Stöcklein.\nSchneiter, Martin, Schuster. 210 Schwarze Pfahlgasse.\nSchnell, Joh. Rud. fel., Wittwe, geb. Preiswerk. 1711 Unterer\nSpahlenberg.\nSchnell-Riggenbach, Joh., Professor. 451 Beim Spahlenthurm.\nSchnell-Früh, C., Sigrist. 1413 Münsterplatz.\nSchnell-Christ, Ulrich, Sigrist zu St. Elisabethen. 769 Bordere\nSteinen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7069,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2371,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p123",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p123.jpg",
+      "bytes": 973039,
+      "sha256": "ea08ee6a19b8dc3cc4bf5be6909085b5e5c1a84fa2a693cd09c339c8355f2e6a",
+      "sha256_of": "original",
+      "working_copy": "1841_p123.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:15+00:00"
+  }
+}

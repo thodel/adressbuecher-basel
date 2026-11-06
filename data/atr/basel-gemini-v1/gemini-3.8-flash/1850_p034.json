@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p034",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p034.jpg",
+    "bytes": 1023098,
+    "sha256": "425857e155484c2cf46eaeea0e1a67317d3c708cdaf0f498ef6829b33cdbb410",
+    "sha256_of": "original",
+    "working_copy": "1850_p034.jpg"
+  },
+  "text": "22 Spahlen-Quartier.\n\n479 Scherb-Schmied, Mezger.\n  Schmied, And., Mezger.\n480 Vereint mit 477.\n481 Saiter, Emanuel, Mezger.\n482 Haas, Karl, Küfer.\n  Schilling, Wittwe.\n483 Bulacher, Eml., Mezger.\n  Schuler, Rudolf, Partikular.\n484 Frey, J., Vater, Knopfmacher, Quartierschreiber.\n  Soller, Wilhelm, Schuhmacher.\n485 Feissy, Ch., Dessinateur und Krankenwärter.\n  Wältin, Hch., Cigarrenhandel.\n486 Schmaßmann, Hch., Seckler u. Cravattenmacher.\n487 Wolf, Simon, von Oberhagenthal.\n488 Thurneysen, Peter, Drechsler.\n489 Langmesser, Hier., Rentier.\n490 Pack-Burckhardt, J., Spezerei-, Käs- und Brannt-\n  wein-Handlung.\n  Müller-Pack, J. J., Commis.\n491 Buser, Wittwe, Modiste.\n492}\n493} Ruef, Abrah., von Hegenheim, Handelsmann.\n494 Locher-Keller, Frau Elisabetha.\n495 Sulzmann, Wilh., Schuhmacher und Leistschneider.\n496 Rehlin, Leonhard, Trödler.\n497-Näff, Samuel, Posamenter.\n498 Schulz, Joh. Joseph, Maurerparlier.\n499 Hug, Wittwe, geb. Geymüller.\n\nAdelberg.\n\n500 Dietrich, Heinrich, Schneider.\n501 Wagner, Peter, Buchdrucker.\n502 Burckhardt, Wernhard, Glaser.\n503 Langmesser, Samuel, Schreiner.\n504 Grollimund, Felix, Sattler.\n505 Kircher-Merian, Jak., Clavierlehrer.\n506 Löw, Leonh., von Benken, Schuhmacher.\n507 Brenner-Stähelin, Joh., Handelsmann.\n508 Riedtmann, Joh. Ludwig, Schuhmacher.\n509 Sandreuter-Heußler, Wittwe.\n510 Comptoir von Buxtorf-Merian, Lud., Farbwaaren-\n  handlung u. Tapetenlager.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6443,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1403,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p034",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p034.jpg",
+      "bytes": 1023098,
+      "sha256": "425857e155484c2cf46eaeea0e1a67317d3c708cdaf0f498ef6829b33cdbb410",
+      "sha256_of": "original",
+      "working_copy": "1850_p034.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:39+00:00"
+  }
+}

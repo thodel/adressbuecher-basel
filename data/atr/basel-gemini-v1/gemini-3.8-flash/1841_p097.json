@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p097",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p097.jpg",
+    "bytes": 957596,
+    "sha256": "781fd5263c9ff60fdbdace15a58f58b1898d3a82d15dde539a70678fc0ac00a8",
+    "sha256_of": "original",
+    "working_copy": "1841_p097.jpg"
+  },
+  "text": "14\n\nFrey, Salomea, Jungfer. 1377 Hinter dem Münster.\nFrey-Thurneysen u. Christ, Bandfabrik. 1207 Rittergasse.\nFrey, J. J., Commissions- u. Speditionshandlung. 1160 Gerbergasse.\nFrey, Jer., Knopfmacher. 180 Unterer Herbergberg.\nFrey, Ursus, Landjäger. 720 Hinter dem Stöcklein.\nFrey, Joh. Rudolf, Bürgermeister. 1462 Münsterplatz.\nFrey, Daniel, alt Landjäger. 1074 Tiefe.\nFrey, Heinrich, Candidat. 904 St. Elisabethen.\nFrey, Herkules, Schneider. Gesellschaftshaus zum Rupf. 1040\n  Aeschen-Vorstadt.\nFrey, Hans Ulrich, Schreiner. 259 a Neue Vorstadt.\nFreyburger, Hieron. sel., Wittwe. 962 Sternengäßlein.\nFreyvogel und Böcklin. 1309 St. Alban-Thal.\nFreuler, Jakob, Kaufmann. 351 Spahlen-Vorstadt.\nFreuler, Franz Jos., Schriftsetzer. 460 Hinter dem Spahlenthurm.\nFrick, Geschwister, Näherinnen. 586 St. Andreasplatz.\nFricker, Joh., ab dem Nußhof. 410 Trillengäßlein.\nFriedmann, Hermann, Schneider. 726 Barfüßerplatz.\nFriedrich, Rud., Maurer und Steinmetz. 925 St. Elisabethen.\nFriedrich, J. J., Spetter. 963 Sternengäßlein.\nFries, Joh. Jakob, Glaser. 573 Todtengäßlein.\nFrieß, Leonhard, Buchbinder. 162 Storchengasse.\nFrischknecht, Joh., Handels-Commis. 1122 Pfluggasse.\nFrischknecht, Joh. 1139 Weiße Gasse.\nFrüh-Ronus, Hieron., Kanzlei-Sekretär. 1535 Eisengasse.\nFrüh, Abraham, Hufschmid und Thierarzt. 141 Blumengasse.\nFrüh, Ludwig, Hufschmid. 141 Blumengasse.\nFrüh, Jakob Friedrich, Spannermeister. 864 Thorsteinen.\nFrutiger, J. Abraham, im Eisenladen der HH. Paravicini. 240\n  Kirchgäßlein.\nFüllemann, Ludw., Schneider u. Abwart auf der Anatomie. 1007\n  Aeschen-Vorstadt.\nFüller, Joseph, Gärtner. 1140 Weiße Gasse.\nFürst, Christian, Landjäger. 1700 Schnabelgäßlein.\nFürstenberger-Burckhardt, Joh. 512 Adelberg.\nFürstenberger-Debary, Joh. Georg, Wollenhandlung. 511 Adelberg.\nFürstenberger, Joh., Partikular. 375 St. Leonhardsgraben.\nFürstenberger, Wittwe sel., Erben. 1482 Augustinergasse.\nFürstenberger, geb. Socin, Wittwe. 90 St. Johann-Vorstadt.\nFürstenberger, Maria Salomea, Jungfer. 439 Spießhofgasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8454,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2007,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 47.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:53:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p097",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p097.jpg",
+      "bytes": 957596,
+      "sha256": "781fd5263c9ff60fdbdace15a58f58b1898d3a82d15dde539a70678fc0ac00a8",
+      "sha256_of": "original",
+      "working_copy": "1841_p097.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:43+00:00"
+  }
+}

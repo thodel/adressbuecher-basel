@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p166",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p166.jpg",
+    "bytes": 1112303,
+    "sha256": "ab83d47c1cf3599c46f4f2d5ae0bea5b318406a68cc25b207f036acc3c4afeca",
+    "sha256_of": "original",
+    "working_copy": "1841_p166.jpg"
+  },
+  "text": "— 13 —\n\nNörbel, Jos., Direktor der Strafanstalt. 31 St. Joh. Vorst.\nNörbel-Schmidt, Math., Kaufm.. 774 Vord. Steinen-Vorst.\n\nO.\n\nOberlin, Susanna, Jgfr., Näherin. 66 St. Joh. Vorst.\nObrecht, Johannes, Kammmacher und praktischer Optikus.\n  544. 545 Imbergäßlein.\nOehlhafen, Joh. Sam., Mechaniker. 29 St. Joh. Vorst.\nOser, geb. Gaß, Chrischona, Wittwe. 1071 Tiefe.\nOstertag = Von Speyr, A., Kand. d. Theol. 934 Steinenb.\n* Oswald, Mathias, Maurermeister. 434 Heuberg.\n* Ott, Joh. Kasp., Säckler und Kappenmacher. 1737\n  Hinter der Schcol.\n\nP.\n\n* Palmert. K., Ferger, v. Herrischried. 1700 Schnabelgäßl.\nPäschlin, Joh., Aufseher des Missionshauses. 1444 Spießhofg.\nParavicini, Felix, Notariats-Bureau. 1603 Sporrengasse.\nParmentier, Benedikt, Kondukteur. 474 Oberer Spahlenberg.\nPassavant, Em., Sohn, Kaufmann. 92 St. Joh. Vorstadt.\nPery, Paul, v. Audincourt, Handelsmann. 1174 Freienstraße.\nPfaff, Wilhelm, Papierer, v. Liestal. 1299 St. Alban-Thal.\nPfannenschmid, Rud., Gerber, alt Oberstmstr. 1173 Freienstr.\nPfister, Jakob, Kutscher, 1226 St. Alban-Vorstadt.\nPietschmann, Gustav, Spengler. 452 Beim Spahlenthurm.\nPlattner, Heinrich, Zimmermann. 767 Hinterer Bach.\nPowers, Stephan, General-Consul der vereinigten Staaten\n  von Nordamerika. 1444 Freienstraße.\nPreiswerk, Mathias, Tuchhandlung. 1543 Eisengasse.\nPreiswerk, Susanna, Jgfr. 521 Adelberg.\nPreiswerk, Sam., Diakon bei St. Leonhard. 560 St.\n  Peters Stiftsgasse.\nPreiswerk-Burckhardt, Joh., Kaufmann. 46 St. Joh. Vorst.\nPreiswerk-Bischoff, Dietrich, Kaufmann. 46 St. Joh. Vorst.\nPümpin, Sam., Part. 644 Grabengasse.\nPullich, Sebastian, Schuhmacher. 713 Barfüßerplatz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8398,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1626,
+    "lines": 35,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:03:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p166",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p166.jpg",
+      "bytes": 1112303,
+      "sha256": "ab83d47c1cf3599c46f4f2d5ae0bea5b318406a68cc25b207f036acc3c4afeca",
+      "sha256_of": "original",
+      "working_copy": "1841_p166.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:14+00:00"
+  }
+}

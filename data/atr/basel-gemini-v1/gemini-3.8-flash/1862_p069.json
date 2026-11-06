@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p069",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p069.jpg",
+    "bytes": 1181420,
+    "sha256": "cff781b2949d533c081dd6af660ea823ee1623e0d34ca45f8179f9d7af813605",
+    "sha256_of": "original",
+    "working_copy": "1862_p069.jpg"
+  },
+  "text": "4\nVerzeichniß der Quartiere und Straßen.\n\nVIII. Riehen-Quartier.\n\nBahnhofstraße, Nro. 1 und 3.\nBurgweg.\nHinterer Burgweg.\nSt. Claragraben, Nro. 15, 17 und 19.\nSt. Clarahofweg.\nSt. Claraplatz, Nro. 7 Kirche.\nSt. Clara-Straße, rechts Nro. 2 bis u. mit 32.\nDuttliweg.\nFischerweg.\nBäumleinhofweg.\nGreifengasse, rechts Nro. 2 bis und mit 40.\nGrenzacher-Straße.\nGotterbarmweg.\nHammerstraße, links Nro. 1 bis 23; rechts\n  Nro. 2 bis und mit 26.\nHerrenmattweg.\n[spalte 2]\nKarthausgäßlein.\nKirchgasse.\nLindenberg.\nRebgasse.\nRheingasse.\nOberer Rheinweg.\nRiehenringweg.\nRiehen-Straße, links und rechts Nro. 1 bis und\n  mit 28 und von da rechts bis 94.\nRiehenthorstraße.\nRosengartenweg.\nSchafgäßlein.\nSt. Theodors-Graben.\nSt. Theodorskirchplatz.\nUtengasse.\nVogelsangweg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5278,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 758,
+    "lines": 36,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 19.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.004,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p069",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p069.jpg",
+      "bytes": 1181420,
+      "sha256": "cff781b2949d533c081dd6af660ea823ee1623e0d34ca45f8179f9d7af813605",
+      "sha256_of": "original",
+      "working_copy": "1862_p069.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:08+00:00"
+  }
+}

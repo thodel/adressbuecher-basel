@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p025",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p025.jpg",
+    "bytes": 1318496,
+    "sha256": "4e6f2ded0e38bb6e8e5123f2fbf62db02c7aa51744e63b0fc1b193d5d27fd973",
+    "sha256_of": "original",
+    "working_copy": "1862_p025.jpg"
+  },
+  "text": "XXII Gesellschaft d. Guten u. Gemein. Vaterländ. u. polit. Vereine.\nHr. Direktor W. Schmidlin, Beisitzer. | Hr. Professör Wilh. Wackernagel, Beisitzer.\n\" Direktor Theod. Meyer, Beisitzer. | \" Dr. Ed. Thurneisen, Beisitzer.\nDie Gesellschaft des Guten und Gemeinnützigen verzweigt sich in einer Anzahl von\nCommissionen zur Beförderung gemeinnütziger oder wohlthätiger Zwecke; mit andern der-\nartigen Anstalten steht sie in Verbindung. Das Verzeichniß der von der Gemeinnützigen\nGesellschaft ausgehenden oder mit ihr in Verbindung stehenden Anstalten ist folgendes:\n1) Delegierte zur Kranken-Commission. | 13) Commission zur Berathung entlassener\n2) Commission zur Fabrik- und französi- | Sträflinge und Zwangsarbeiter.\nschen Repetir-Schule. | 14) Delegierte zur Handwerkerbank.\n3) Commission zur Unterstüzung von Ge- | 15) Delegierte zu den Kleinkinderschulen in\nwerbslehrlingen. | Verbindung mit Tit. Armenkollegium.\n4) Commission zur Zeichnungs- u. Model- | 16) Delegierte zu den Sonntagsfählen für\nlirschule. | Mädchen.\n5) Commission zur Suppen-Anstalt in Ver- | 17) Commission für Fabrikarbeiterverhält-\nbindung mit Tit. Armen-Collegium. | nisse.\n6) Commission zur Bürger-, Jugend- u. | 18) Commission zur Frauenbad-Anstalt.\nArbeiter-Bibliothek. | 19) Commission zur Abhilfe der Thierquä-\n7) Verwaltung der Zinstragenden Erspar- | lerei.\nnisscasse. | 20) Delegierte bei der Commission der Aktien-\n8) Commission für Gesang- und Orgel- | gesellschaft für Arbeiterwohnungen\nunterricht. | auf der Breite.\n9) Commission zum Neujahrsblatt. | 21) Commission zur Lukasstiftung.\n10) Delegierte zum Turnen. | 22) Commission zur Arbeitsanstalt Kloster-\n11) Delegierte zur Versorgung junger Taub- | fiedchen.\nstummen. | 23) Commission zur Erstellung einer Schlitt-\n12) Commission zur Schwimm- und Bad- | schuhbahn.\nAnstalt. |\n \nVaterländische und politische Vereine.\nFreiwillige Militärgesellschaft. | Schweizerische Militärgesellschaft.\nGegründet 1760. | Section Basel.\n| Gegründet 1849.\nVorstand: Hr. Oberst Rud. Paravicini. | Vorstand: Hr. Albert Loz, Commandant.\n \nNeu Zofinger-Verein. | Unteroffizier-Verein des Bataillons\nSection Basel. | Nro. 80 von Basel-Stadt.\nGegründet 1818. | Gegründet 1854.\nVorstand: | \nHr. Albert BonderMühl, Stud. juris. | Jäger-Verein.\n\" Albert Barth, \" theol. | Gegründet 1857.\n\" Jakob Jäck, \" \" | Besteht aus schweizerischen Unteroffizieren\n\" H. Bischoff, \" medic. | und Soldaten und bezweckt körperliche und\n| militärische uebungen, als Fechten, Marsch-\n| und Schießübungen, Gesang, Vorlesungen und\n| kameradschaftliche Zusammenkünfte.\n \nGrütli-Verein. | Vorstand:\nGegründet 1844. | Hr. H. Pliß, Präsident,\n| \" Joh. Müller, Schreiber.\nLokal: Zunft zur Mägd, St. Johann-Vorstadt. | \" G. Brenner, Cassier.\nDer Vorstand wird vierteljährlich erneuert. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7518,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2775,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 55.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p025",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p025.jpg",
+      "bytes": 1318496,
+      "sha256": "4e6f2ded0e38bb6e8e5123f2fbf62db02c7aa51744e63b0fc1b193d5d27fd973",
+      "sha256_of": "original",
+      "working_copy": "1862_p025.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:51+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p043",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p043.jpg",
+    "bytes": 907392,
+    "sha256": "f6e4fc11e36b38a0f517da44260b302d2bf1facbae8cad9bb2c38e7139a5a214",
+    "sha256_of": "original",
+    "working_copy": "1841_p043.jpg"
+  },
+  "text": "36\n\nNro.\n967 Roth, Peter, Flachmaler.\n968 Bayer, Wittwe, geb. Anna Maria Frech.\n969 Buser, Georg Christoph.\n970 Fischer, Joh. Balth., Tuchscherer.\n971 Kuhn, David, Zimmermann.\n972 Linder, J. J., Hafner.\n  Linder, Eduard, Zimmermeister.\n  Iselin, Esther und Adelheid, Jungfrauen.\n973 * Hauser-Oser, Rudolf, Sensal.\n  Herzog, geb. Wybert, Wittwe.\n974 u. 975 Ebenderselbe, nebst Panorama im Garten.\n976 u. 977 Ackermann, Peter, Weinschenk.\n978 * Stallung, zu Nro. 981 geh.\n979 Wagner, J. J., Leinenweber.\n\nAeschen-Vorstadt.\n\n980 Schneider, Julius, Wagner.\n981 Günther, Joh. Jakob, Gastgeber zum Sternen.\n982 Breiting, Peter, Metzger.\n983 Dobler-Burckhardt, Emanuel.\n984 Forkart-Iselin, Achilles, Handelsmann.\n985 * Götz, Heinrich, Maler.\n  Schellenberg, Christ. Ludwig, Agent.\n986, 987 u. } Finninger, Joh. Jakob, Hufschmid.\n988\n989 von Mechel, Benedikt, Küfer.\n990 Götz, Heinrich, Flachmaler.\n991 Knöpff, Carl, Weißbeck.\n992 Säckinger, Anton, Zimmergesell.\n993 Bueß, J. J., Fabrikaufseher.\n994 Heitz, Wittwe, geb. Stutz.\n  Jäggi, Wilh., Weißbeck.\n995 Feierabend, Christoph, Schuhmacher.\n996 Werkstätte von Michael Kußmaul.\n\nBei und auf dem Thor.\n\n997 Kußmaul, Michael, Mechanikus.\n  Uebelin-Geßler, Carl, Handels-Commis.\n998 Mähly, Jakob Caspar, Küfer.\n999 Aeschenthor. — Krug, Hieron., Thorschreiber.\n\nHinter der Ringmauer.\n\n1000 Heimlicher, Jakob, Maurer und Steinmetz.\n1001 Banga, Rud., Schneider.\n1002 Euler, Abraham, Handels-Commis.\n  Imhof, B., Zoller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5709,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1456,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.91,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p043",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p043.jpg",
+      "bytes": 907392,
+      "sha256": "f6e4fc11e36b38a0f517da44260b302d2bf1facbae8cad9bb2c38e7139a5a214",
+      "sha256_of": "original",
+      "working_copy": "1841_p043.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:57+00:00"
+  }
+}

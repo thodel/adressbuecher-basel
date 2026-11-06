@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p047",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p047.jpg",
+    "bytes": 1278539,
+    "sha256": "38de1a9246a5d763108d9af57239c3b7a2f855d5642999be87f538bd2fdcc50e",
+    "sha256_of": "original",
+    "working_copy": "1862_p047.jpg"
+  },
+  "text": "XLIV | Ragionenbuch.\nHandlungsfirma. | Interessenten u- Firmaführer. | Natur des Geschäfts.\nHandwerker-Bank. | für welche unterzeichnet:\n  H. David, Präsident.\n  Gust. Bernoulli, Vice-Präsident. |\nHaubensack, Friedr. | Fr. Haubensack-Neiber, allein. |\nHausamann, P. | P. Hausamann, allein. | Wein- u. Spirituosen-\n  handlung.\nHauser-Oser, R. | Rud. Hauser-Oser, allein. | Spirituosenhandlung.\n  Wilh. Strub, Prokuraträger. |\nHauser u. Steigmeyer. | David Hauser-Gürtler.\n  Joh. Steigmeyer. |\nHediger et Comp. | J. M. Aug. Gottf. Hediger, allein. | Bandfabrikation.\nHefti, J. H. | J. H. Hefti, allein. | Cigarren- u. Tabakhdlg.\nHegetschweiler, Johann | Joh. Hegetschweiler, allein. | Tabak- u. Cigarrenfa-\n  Sohn. | | brikation.\nHeidegger, H. F. | H. F. Heidegger, allein. | Seide-Sensal.\nHerzog-Scheitlin. | Achilles Herzog-Scheitlin, allein. | Leinwandlager u. Ellen-\n  waarenhandlung.\nHetzel et Comp. | F. Hetzel-Wunderlin, allein. | Floretspinnerei.\n  J. C. Schöck, Commanditair.\n  J. J. Merian-Burckhardt, Com-\n  manditair.\nHeusler, Ld. et Comp. | Leonh. Heusler-Thurneysen. | Rohe Baumwolle und\n  Carl. Leonh. Heusler-Wegner. | Farbwaarenhandlung.\n  Wilh. de Leonh. Heusler. |\nHindermann-Merian, | J. J. Hindermann-Merian, allein. | Seidenbandfabrikation.\n  J. J. |\nHirzel, Salom. | Sal. Rud. Hirzel-Müller, allein. | Wagengarniturenhdlg. u.\n  Lager von Bandsägen-\n  blättern.\nHoch et Comp. | J. L. Hoch-Schneider. | Band- u. Seidenwaaren-\n  Ad. Wertenberg, Prokuraträger. | und Merceriehdlg. en\n  gros et détail. Commi-\n  sion für d. Bandfach.\nHoffmann, Eman. | Eml. Hoffmann-Eglin. | Bandfabrikation.\n  Joh. Bärwart, Prokuraträger. |\nHoffmann, Gönner et | Albert Hoffmann. | Tuchhandlung.\n  Comp. | Adolf Gönner.\n  And. Schmidt-Götz, Commandi-\n  tair.\n  Math. Nörbel-Schmidt, Comman-\n  ditair.\n  Carl Uebelin, Prokuraträger. |\nHoffmann, Joh. | Joh. Hoffmann-Strub, allein. | Kurz- u. Merceriewaar.\nHohl, J. Robert. | J. Robert Hohl-Lutz, allein. | Broderie- u. St. Galler\n  Artikel in allen Genres\n  en gros et détail.\nHorandt u. Söhne. | Martin Horandt, Vater. | Seidenbandfabrikation.\n  Adolf Horandt, Sohn. |\nHorlacher u. Hiltbrand. | Abr. Horlacher-Reinle.\n  Joh. Hiltbrand. |\nHübscher, E. et Comp. | Adolf Hübscher, allein. | Pelzwaarenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8744,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2257,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:31:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p047",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p047.jpg",
+      "bytes": 1278539,
+      "sha256": "38de1a9246a5d763108d9af57239c3b7a2f855d5642999be87f538bd2fdcc50e",
+      "sha256_of": "original",
+      "working_copy": "1862_p047.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:31:27+00:00"
+  }
+}

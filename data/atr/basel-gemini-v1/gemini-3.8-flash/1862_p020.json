@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p020",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p020.jpg",
+    "bytes": 1464228,
+    "sha256": "f2d4ef67f5189403f0a4ad7e328b2ec1385ecd9f78dbff0eb594e5b9ca5d14bf",
+    "sha256_of": "original",
+    "working_copy": "1862_p020.jpg"
+  },
+  "text": "Ehrw. Geistlichkeit. — Gemeindsbehörden. XVII\n\nZu St. Leonhard.\nHr. Eucharius Kündig, Pfarrer.\n„ I. R. Respinger, Helfer.\n„ Carl Roth, Helfer.\nZu St. Theodor.\n„ I. I. Bischoff, Pfarrer.\n„ Martin Schaffner, Helfer.\n„ Albert Barth, Helfer.\n„ Ernst Stähelin, Th. Lic., Helfer.\nZu Riehen.\n„ Christoph Stähelin.\nZu Kleinhüningen.\n„ Friedrich Seiler.\nFranzösische Prediger.\n„ Gabriel Cramer.\n„ Henri Quinche.\n„ Emanuel Eglinger, Pfarrer an der\nStrafanstalt.\n„ Rud. Anstein, Pfarrer am Spital.\n„ Oscar Zimmermann, Pfr. zu St. Jakob.\n„ Rud. Burckorf, Pfr. im Waisenhaus.\n\nVerzeichniß der untern Kirchen-\nbeamteten.\nSiegristen.\nMünster: Hr. Friedrich Wohnlich.\nSt. Martin: „ David Kromer.\nSt. Alban: „ Karl Leonh. Nidecker.\n[spalte 2]\nSt. Elisabeth: Hr. Joh. Jakob Schaub.\nSt. Peter: „ Joh. Bücher.\nSt. Leonhard: „ Emanuel Flubacher.\nSt. Theodor: „ Hieron. Bulacher.\n\nOrganisten.\nMünster: Hr. Benedikt Jucker.\nSt. Martin: „ Carl Renz.\nSt. Alban: „ August Schröter.\nSt. Elisabeth: „ Wilh. Jenny (prov.).\nSt. Peter: „ Jakob Probst.\nSt. Leonhard: „ Jakob Wagner.\nSt. Theodor: „ Leonhard Fäsch.\nSt. Jakob: „ Chr. Heinr. Geelhaar,\nzugleich Vorsinger.\n\nCantoren.\nMünster: Hr. Ernst F. Soistmann.\nSt. Martin: „ Albert Roth.\nSt. Alban: „ Wilhelm Bubeck.\nSt. Elisabeth: „ Joh. Jakob Seul.\nSt. Peter: „ Melchior Schmidt.\nSt. Leonhard: „ E. G. Honesta.\nSt. Theodor: „ Daniel Sassi (prov.).\nSiegrist und Vorsinger im Spital:\nHr. Friedrich Grimm. Organist daselbst:\nHr. August Schuster. Beide provisorisch.\nSiegrist in St. Jakob, vom Waisen-\nhaus angestellt: Johannes Nietschin.\n\nGemeindsbehörden.\n\nVorgesetzte der Stadt Basel,\nihre Beamten, Zunft- und Gesellschaftsvorsteher.\n\nStadtrath zu Basel.\nHr. Hieron. Bischoff-Respinger, Präsident.\n„ Joh. Jakob Minder-Zäslin, Statth.\n„ Elias Kern-de Crousaz.\n„ Leonhard Bernoulli-Bär.\n„ Emanuel Ryhiner.\n„ Rudolf Wegner-Dünner.\n„ Hieronimus Burckhardt-Iselin.\n„ Friedrich Hagenbach-Merian.\n„ Elias Burckhardt, J. U. D.\n„ Amadeus Merian.\n„ Joh. Rud. Burckhardt, J. U. D.\n[spalte 2]\nStadt-Kanzlei.\nHr. Hans Burckhardt, J. U. D., Kanzlei-\nvorsteher und Stadtschreiber.\n„ Daniel Jäcklin, erster Sekretär.\n„ Heinr. Gyssendörffer, zweit. Sekretär.\nStadtboten: Georg Meyer, Joh. Bulacher,\nPhilipp Jäcklin.\n\nKommissionen und Beamte.\nRechnungskammer.\nHr. Hieron. Bischoff-Respinger, Präsid.\n„ Statthalter Joh. Jakob Minder.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8485,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2335,
+    "lines": 83,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.012,
+    "mean_line_chars": 27.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:27:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p020",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p020.jpg",
+      "bytes": 1464228,
+      "sha256": "f2d4ef67f5189403f0a4ad7e328b2ec1385ecd9f78dbff0eb594e5b9ca5d14bf",
+      "sha256_of": "original",
+      "working_copy": "1862_p020.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:18+00:00"
+  }
+}

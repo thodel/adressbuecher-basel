@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p142",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p142.jpg",
+    "bytes": 981303,
+    "sha256": "f3d5e8ccd3b6e7e4ae1b54e9d04b2024e08ddbc8271c7ee8626e493752cbb87f",
+    "sha256_of": "original",
+    "working_copy": "1841_p142.jpg"
+  },
+  "text": "59\nP.\nPack, Jakob Christoph, Steinmek. 392 Krempergasse.\nPack, Peter, Kornhaus schreiber. 123 Obere Reb gasse.\nPack, Christina, geb. Mosis. 121 Obere Reb gasse.\nPack, Lucas, Steinmek. 116 Obere Reb gasse.\nParavicini=Zäslin, Felix, Notar. 194 Reb gasse.\nParavicini=Burckhardt, Leonhard. 197 Reb gasse.\nParrayon, Anton, von Lyon, Dessinateur. 202 Reb gasse.\nPfannenschmid, Lucas, Mezger. 51 Rheingasse.\nPfannenschmid, Jungfer, Jakobea, Kremplerin. 51 Rheingasse.\nPfannenschmid, Heinrich, Mezger. 105 Am Linden berg.\nPfister, Ursus Viktor, Schreiner. 150 Reb gasse.\nPfister, Ludwig, von Muttenz, Weinschenk. 23 Schafgäßlein.\nR.\nRaab, J. Rud., Schneider. 387 Krempergasse.\nRaillard, Peter, Gerber. 372 Untere Rheingasse.\nRenz, Carl, Sohn, Chemiker. 180 Reb gasse.\nKespinger, Carolina, geb. Dörflinger, Haubenwascherin. 332 Untere Webergasse.\nReuenthaler, geb. Briccard, Wittwe. 199 Reb gasse.\nRickenbacher, Mathias, Lehrer. 146 Beim Riehen-Thor.\nRiedtmann, J. J., Wirth. 383 Krempergasse.\nRiedtmann, Joh. Heinrich, Rheinzoller. 77 Rheingasse.\nRiedtmann, Heinrich sel., Wittwe. 112 Rheinweg.\nRiedtmann, Nikolaus, Mezger und Wirth. 110 Am Lindenberg.\nRitter, Hieronymus, Mezger. 29 Rheingasse.\nRitter, Rud. sel., Wittwe. 409 Udengasse.\nRöllin, Joh. Jos., Aushülfz-Priester. 106 Am Lindenberg.\nRohner, Joh. Markus, Färber. 301 Webergasse.\nRohner, Markus, Chef des Landjägerkorps. 293 Webergasse.\nRoth, Peter, Müller. 352 Ochfengasse.\nRoth, Joh. Jakob, Lohnwascher. 287 Webergasse.\nRoth, Christoph, Zeugschmid. 366 Untere Rheingasse.\nRoth, Ursus, von Reigolds wyl. 223 Greifengasse.\nRoth, Joh., Beck. 352 Ochfengasse.\nRudin, geb. Eschudy, Näherin. 383 Krempergasse.\nRühl in, J. G., Lohnwascher. 258 Im Kumpel.\nRuprecht, Stephan, Krempler. 234 Greifengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5725,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1748,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.03,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:59:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p142",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p142.jpg",
+      "bytes": 981303,
+      "sha256": "f3d5e8ccd3b6e7e4ae1b54e9d04b2024e08ddbc8271c7ee8626e493752cbb87f",
+      "sha256_of": "original",
+      "working_copy": "1841_p142.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:18+00:00"
+  }
+}

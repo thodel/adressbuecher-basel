@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p074",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p074.jpg",
+    "bytes": 1495480,
+    "sha256": "8c57a9768c3a48c0694cd7a217d23100a78ec61d665100d8169a4b63f130941d",
+    "sha256_of": "original",
+    "working_copy": "1862_p074.jpg"
+  },
+  "text": "Aeschenvorstadt.\n9\nNene\nHaus=No. | Quar-\ntier. | Alte\nHaus=No. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n34 | IV. | 956 | | Dict, Jgfr. Caroline.\n| | | | | Dict, Jgfr. Carol., Particularin.\n| | | | | Bernoulli=Dict, Joh., Alt=Postdirector.\n| | | | | Bernoulli, Carl, J. U. D., Kanzleisekret.\n| | | | | Bernoulli, Jgfr. Mathilde.\n35 | IV. | 1029 | zum Löwenberg. | Bisikummer=Fischer, J. Mich.\n| | | | | Bisikummer=Fischer, J. M., Handelsm.\n| | | | | Rieger Müller, Joh. Jak., Mustermacher.\n36 | IV. | 957 | zur Rose. | Bloch=Herzog, Daniel.\n| | | | | Bloch=Herzog, Daniel, Kaufmann.\n37 | IV. | 1028 | zur Wog. | Senn=Zwicky, Heinrich.\n| | | | | Senn=Zwicky, Heinrich, Flachmaler.\n| | | | | Weber, Joh., Tabak- u. Cigarrenhandl.\n| | | | | Schäfer, Matthias, Commis.\n| | | | | Erust=Glirtler, Sara, Wb., Particul.\n38 | IV. | 958 | zum vordern Hafen. | Kühn=Grandjean, Joh. Jakob.\n| | | | | Kühn=Grandjean, J. J., Schuhmacher\n| | | | | und Weinsticher.\n| | | | | Bokardt=Adelung, Frau Sujette.\n| | | | | Detis=Suchry, Ros., Wb., Vorgängerin.\n| | | | | Sirt=Kühn, Emil., Commis.\n39 | IV. | 1027 | 3. schwarzen Thurm. | Burkhardt=Stierlin, Abraham.\n| | | | | Burkhardt=Stierlin, Abr., Bäcker.\n| | | | | Jenny, Jakob, Flachmaler.\n40 | IV. | 959 | zu den drei Hafen. | Horner=Mechel, Daniel.\n| | | | | Horner=Mechel, Daniel, Bäcker.\n41 | IV. | 1026 | Schwarzen Bären. | Merian=Bernoulli, Rudolf.\n| | | | | Merian=Bernoulli Rudolf, Prof. d. Math.\n42 | IV. | 980 | | Schaub=Weber, Jakob.\n| | | | | Schaub=Weber, Jakob, Wirth.\n| | | | | Merz=Christen, Jakob, Muster=Weber.\n43 | IV. | 1025 | | Göttisheim=Reifer, Friedr., Bat.\n| | | | | Göttisheim=Reifer, Fr., Spezereihdlg.\n44 | IV. | 981 | zum Stern, Gasthof. | Breiting=Heukler, Samuel.\n| | | | | Breiting=Heukler, Sam., Gastwirth.\n| | | | | Heukler=Lima, Carl, Partikular.\n45 | IV. | 1024 | zum Nepper. | Bulacher=Hofsch, Sal., Wb.\n| | | | | Bulacher Hofsch, Sal. Wb., Bierbrauer.\n| | | | | Hofsch=Buxtorf, Salome, Wb.\n| | | | | Hofsch, Eduard, Bautassier.\n46 | IV. | 932 | zum kleinen Stern. | Breiting=Schardt, Peter.\n| | | | | Breiting=Schardt, Peter, Metzger.\n| | | | | Dizerens, Louis, Marbrier\n| | | | | Göttisheim=Breiting, Fr., Red. d. Tagbl.\n47 | IV. | 1018 | zum Echweihcr. | Brand=Fries, Marie, Wb.\n| | | | | Brand=Fries, Marie, Wb., Kerzenmacher.\n| | | | | Weber=Schaffner, Wilh., Mechaniker.\n48 | IV. | 983 | | Kiefer=Kochty, Johannes.\n| | | | | Kiefer=Kochty, Joh., Commis.\n| | | | | Bogt=Freyler, J., Feger.\n| | | | | Freyler=Theodor, Dessinateur.\n| | | | | Guise, Fräulein J., Sprachlehrerin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8460,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2570,
+    "lines": 59,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p074",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p074.jpg",
+      "bytes": 1495480,
+      "sha256": "8c57a9768c3a48c0694cd7a217d23100a78ec61d665100d8169a4b63f130941d",
+      "sha256_of": "original",
+      "working_copy": "1862_p074.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:15+00:00"
+  }
+}

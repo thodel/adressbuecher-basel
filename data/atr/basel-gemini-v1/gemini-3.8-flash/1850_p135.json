@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p135",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p135.jpg",
+    "bytes": 1121828,
+    "sha256": "6b12e621c90e0b936fcd2d7c5df72a7859f27f10145e909871fd01eba0ab5385",
+    "sha256_of": "original",
+    "working_copy": "1850_p135.jpg"
+  },
+  "text": "122\n\nSchnegg, Joh. Jak. 1432\nSchnewlin, K., Kaufm. *379\n  u. Comp., Sped.-Hdlg. 582\nSchneider, E., Rathschr. 249B\n  Theod., Med. Dr. 257\n  Joh. Jch., Commis 331\n  Jch., Schreiner 594\n  Fr., Sohn, Grieser 613\n  J. J., Maler 613\n  Samuel, Schuhmacher 729\n  F., Metzger 816\n  Em., Hufschmied 852-52A\n  Erhard, Lehrer 937B\n  Dan., Schuhmacher 1007\n  Joh., Packer 1090\n  Heinr., Sattler 1062\n  Jeremias, Ausläufer 1243\n  W., Traiteur 1351\n  M., Gerichtschreiber 1382\n  J. Appellger.-Schreib. 1382\n  A., Abwart im Museum 1489\n  J. J., Uhrenmacher 1558\n  Eduard, Kaufmann 1579\n  Franz, Mehlhdlg. 1655-56\n  Emanuel, Amtmann 1708\n  J. J., Küfer *370\n  Jak., Zimmermann *422\n  Jak., Schreiner *438\n  -Meyer, Wittwe 613\n  -Ecklin, Wittwe, Elis. 716\n  Wittwe, Verena 980\n  -Meyer, Modiste 1562\n  -Braun, Wittwe 1579\n  Jgfr. Jud., Bandladen 721\n  Jgfr. Salomea *184\nSchnell-Burckhardt, Wwe. 381\n  J. J., Civilger.-Präsid. 755\n  Ulrich, Siegrist 834\nSchoch, J. F., Eisenhdlg. 1589\nSchöck-Hindenlang, J. Ch. 79\n  -Henz, Wittwe 805\nSchölly, J. K., Wagner 359-60\n  -Bruckner, Wittwe 45\n\n[spalte 2]\nSchölly, Sl., Bandf. 1538-39\nScholer, N., Wagner *336\nScholp, Rud., Commis 69\nSchönauer, H., Spez.-Hlg. 120\nSchönbein, F., Prof. *113A\nSchöner, F. H., Ferger 797\n  Jak., Schneider 1071\nSchoop, K. L., Ferger 19\nSchram, N., Zimmerm. *31\nSchramberger, Jos. 833A\nSchrämli, M., Flachm. 1746\nSchrämlin, Frau, Elise 889\nSchreiber, Fr., Gastgeber 161\nSchrenk, J., Unterbest. 1057\nSchröder, K., Mechan. *273\nSchuhmacher, Rud. 1128\nSchuler, Rudolf 483\n  Konr., Metzger 812\n  Ad., Rothgerber 850\n  Adam, Weißgerber *206\n  Eml., Hufschmied *335\nSchultheiß, P., Tapez. 217\nSchulz, J. F., Parlier 498\nSchupp, F., Kutscher *206A\nSchüsseler-Miville, Trait. *1-2\nSchuster, A., Gesangl. 347\nSchütz, Jakob, Commis 1063\nSchwab, Andr., Metzger 196\n  -Preiswerk, Med. Dr. 1189\nSchwander, Spannerm. 586\nSchwarz, D., Geschäftsm. 146\n  Karl, Schlosser 880\n  Dor., Tabackhdlg. 1634\n  Leonh., Schreiner *68\n  Ph., Maler *100\n  Wittwe 792\nSchweickhardt, Eml. Fb. 423\nSchweighauser’sche Buchh. 139\nSchweizer, N., Schreiner 287\n  Joh., Agent 290\n  Rudolf, Ferger 291\n  Heinrich, Kupferschied 722\n  Joh., Posamenter 856",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9984,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2169,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:22:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p135",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p135.jpg",
+      "bytes": 1121828,
+      "sha256": "6b12e621c90e0b936fcd2d7c5df72a7859f27f10145e909871fd01eba0ab5385",
+      "sha256_of": "original",
+      "working_copy": "1850_p135.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:16+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p099",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p099.jpg",
+    "bytes": 961259,
+    "sha256": "1c35793f2d4fe9053e643eb3f6055971eed3522dc36c195c8e1a52817f4f59ba",
+    "sha256_of": "original",
+    "working_copy": "1841_p099.jpg"
+  },
+  "text": "16\nGessler, Daniel, Hutmacher. 1677 Hutgasse.\nGessler, Susanna, Modiste. 1172 Freie Straße.\nGessler, Carl, Meßger. 1706 Unterer Spahlenberg.\nGessler, Carl Achilles, Weißbeck. 767 Bord. Steinen-Vorstadt.\nGessler-Merian, Rud., Spezereihändler. 827 Bordere Steinen-Vorstadt.\nGeyger, Achilles, Spezereihändler. 27 St. Johann-Vorstadt.\nGeymüller, Andreas, Polizei-Commissär. 1463 Markt.\nGiefen, Caspar sel., Wittwe. 1088 Streitgasse.\nGirard, J. L., Lehrer am Gymnasium. 1487 Augustinergasse.\nLehrerwohnung.\nGirard, Carl Franz, Lehrer. 23 b St. Johann-Vorstadt\nGlafer, Emanuel, Uhrenmacher. 392 Bei St. Leonhard.\nGlafer=Herzog, S., Beck. 57 St. Johann-Vorstadt.\nGlafer, Andreas, Seiler. 1236 St. Alban-Vorstadt.\nGlafer, Johannes, von Binningen, Eselhalter. 754 e Kohliberg.\nGlock, Peter, Küfer. 466 Beim Spahlenthurm.\nGlock, Jeremias, Bestäter. 755 Kohliberg.\nGlock, Joh. Jakob, Schuhmacher und Weinsticher. 666 Gerbergasse.\nGnehm, Caspar, Lohnkutscher. 401 Heuberg.\nGnöpf, Johannes, Weißbeck. 939 Aeschen-Vorstadt.\nGnöpf, Achilles, Schmid und Thierarzt. 914 St. Elisabethen.\nGnöpf, Rud., Bater. 339 Aeschen-Vorstadt.\nGnöpf, Carl, Weißbeck. 991 Aeschen-Vorstadt.\nGnöpf, Joh. Jakob sel., Wittwe, geb. Kinder 325 Spahlen-Vorst.\nGönner, Ursula, geb. Gutherz, Kremplerin. 299 Spahlen-Vorst.\nGötti, Jakob. 750 St. Johann-Schanze.\nGötz, Heinrich, Flachmaler. 990 Aeschen-Vorstadt.\nGolde, Samuel, Spengler. 569 Todtengäßlein.\nGoppelsroder=von Speyr, Georg Friedr. 1381 a Um Bäumlein.\nGoschwiler, Conrad, Fabrikarbeiter. 424 Heuberg.\nGräflin, Jungfer, Dorothea, Glätterin. 641 Gerbergasse.\nGrauer, Rudolf, Müller. 795 Hinterer Bach.\nGrell, Math., Graveur. 482 Oberer Spahlenberg.\nGrether, Math., Apotheker. 1429 Freie Straße.\nGrether, Daniel, Meßger sel., Wittwe. 1429 Freie Straße.\nGrieder, Joh., von Brezweil. 21 St. Johann-Vorstadt.\nGrollimund, J. J., Posamenter, v. Lupfingen. 9 a St. Joh.=Vorst.\nGrosch, Johann, Knopfmacher. 166 Storchengasse.\nGrunauer, August, Säckler u. Kappenmacher. 1569 Hinter d. School.\nGrunauer, Christ., Pfarrer. 1325 St. Alban-Vorstadt.\nGrunauer, Jungfer, Esther, Kleinkinderschule. 699 St. Leonhardsberg.\nGrüninger, Rudolf, Küfer. 618 Hinter der Kümlinsmühle.\nGubler, Joh., Wohnhaus und Weinschenke. 1522 Fischmarkt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6678,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2234,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:53:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p099",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p099.jpg",
+      "bytes": 961259,
+      "sha256": "1c35793f2d4fe9053e643eb3f6055971eed3522dc36c195c8e1a52817f4f59ba",
+      "sha256_of": "original",
+      "working_copy": "1841_p099.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:43+00:00"
+  }
+}

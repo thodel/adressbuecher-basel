@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p152",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p152.jpg",
+    "bytes": 1031329,
+    "sha256": "281eddb873a47fd29149f0ec3576c51e5f4772611c8ac88f6c32c84cca8dbda1",
+    "sha256_of": "original",
+    "working_copy": "1850_p152.jpg"
+  },
+  "text": "139\n\n1158 | Nörbel-Gernler | Frau Wittwe Katharina\n  Elis. Nörbel-Gernler.\n1043 | Nörbel & Hoffmann | Nörbel-Schmid.\n  Albert Hoffmann.\n  Schmidt-Göz, Com.\n  Carl Uebelin, ppa.\n\nO.\n\n623 | J. G. | Oberriedt | Joh. Georg Oberriedt.\n1292 | H. | Oser | Wittwe Oser, geb.\n  Thurneisen.\n  Wilhelm Arnold Oser,\n  ppa.\n126 | Gebrüder | Oswald | Eml. Walter Oswald.\n | M. | Oswald & Comp. | Matth. Oswald-Hinder-\n  mann.\n\nP.\n\n490 | J. | Pack-Burckhardt | Isaak Pack-Burckhardt.\n1435 | Leonhard | Paravicini | Emanuel Paravicini,\n  Sohn.\n  Benedikt Mäglin, Pro-\n  curaträger.\n  Constantin Borgognon,\n  Procuraträger.\n  Em. VonderMühll, Sohn,\n  Procuraträger.\n92 | Passavant & Cie. | Em. Passavant-Bachofen.\n  Alphons Passavant.\n  Frau Wittwe Elise Passa-\n  vant, geb. Streckeisen.\n53 | Lukas | Preiswerk | Wilh. Burckhardt-Preis-\n  werk.\n  Rudolf Euler ppa.\n1543 | Mathias | Preiswerck | Joh. Jakob Preiswerk.\n  Johannes Bolliger ppa.\n46 | Johannes | Preiswerck u. Sohn | Joh. Preiswerck, Sohn.\n  Wilhelm Preiswerck.\n  Peter Preiswerck, Pro-\n  curaträger.\n  Carl Preiswerk, Pro-\n  curaträger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7840,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1082,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0732,
+    "mean_line_chars": 24.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:24:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p152",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p152.jpg",
+      "bytes": 1031329,
+      "sha256": "281eddb873a47fd29149f0ec3576c51e5f4772611c8ac88f6c32c84cca8dbda1",
+      "sha256_of": "original",
+      "working_copy": "1850_p152.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:24:30+00:00"
+  }
+}

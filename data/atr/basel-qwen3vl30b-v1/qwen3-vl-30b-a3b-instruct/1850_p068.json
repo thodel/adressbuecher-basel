@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p068",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p068.jpg",
+    "bytes": 1023132,
+    "sha256": "e57955b410ad44593cb45e34de8d11d8e745a56145ec12e5b7da9bf4619b4102",
+    "sha256_of": "original",
+    "working_copy": "1850_p068.jpg"
+  },
+  "text": "St. Alban=Quartier.\n55\nRittergasse.\n1210 Burckhardt-Vischer, Karl, Bandfabrikant.\nSauvain-Stehlin, Sal., Commis.\n1211 Fselin-Burckhardt, Jos. Ach., Bandfabrikant.\n1212 Tschientsch, Wittwe.\nSt. Alban-Vorstadt.\n1213 BonderMühl, Alfred.\nBonderMühl-Vischer, Fr., Stofffabrikant.\n1214-15 Heufler-Wölflin, Chr., Waissenhaus-Verwalter.\n1216 Burckhardt-Linder, Maria, Wittwe.\n1217 LaRoche-Heufler, Cath., Wittwe.\nLaRoche, Andr., Partikular.\n1218 Merian-Ryhiner, Lukas, Rentier.\n1219 Hoffmann-Preiswerk, Eml., Rentier.\nHoffmann, Eml., Bandfabrikant.\n1220 BonderMühl-Hoffmann, Eml., Handelsmann.\n1221 Merian-BonderMühl, Heinr., Rentier.\nMerian, Rud., de F. F.\n1222 Stapfer, F. F., Handels-Commis.\nLüscher, Karl Friedr., Commis.\n1223 Blessing, Wittwe, Margar., Fabrikarbeiterin.\n1224 Deck, Wittwe, Elis., Taglöhnerin.\nDeck, Johann, Schneider.\n1225 BonderMühl-Merian, Karl, Handelsmann.\n1226 Pfister, Jakob, Hausbediente.\n1227 Wiedmer, Jak. Christ., Commis.\n1228 Bischoff-Respinger, Hier., Banquier, Commissions-\nund Speditions-handlung, Stadtrathspräsident.\nSarasin-Heufler, Frau Wittwe.\nBurckhardt-Haller, Rud., Med. Dr.\n1229 Bischoff-Bischoff, Hier., Buchhandlung, das Comp-\ntoir in Nr. 919.\n1230 BonderMühl-Hoffmann, Leonh., Rentier.\nBonderMühl-Fselin, Emilie, Wittwe, Rentière.\n1231 Fren-Stückelberger, F. Rud., Canzlist.\nWackernagel-Sarasin, W., Prof. Phil.\n1232 Hermann, Ad., Schlosser.\nSchaub, U. Ch., Zettlermeister.\n1233 Winfler, Joh., Kutscher.\n1234 Rublin, Conrad, Zimmermann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4804,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1476,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p068",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p068.jpg",
+      "bytes": 1023132,
+      "sha256": "e57955b410ad44593cb45e34de8d11d8e745a56145ec12e5b7da9bf4619b4102",
+      "sha256_of": "original",
+      "working_copy": "1850_p068.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:18+00:00"
+  }
+}

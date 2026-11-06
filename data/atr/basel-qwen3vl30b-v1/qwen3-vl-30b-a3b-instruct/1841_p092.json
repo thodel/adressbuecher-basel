@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p092",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p092.jpg",
+    "bytes": 1046248,
+    "sha256": "e3aa645c6faf982c67cda7512edc106d1bde4cbc917000d976aca3ae60e6b1d9",
+    "sha256_of": "original",
+    "working_copy": "1841_p092.jpg"
+  },
+  "text": "9\n\nC.\n\nCaillat, Franz, Gärtner. 1248 a Malzgasse.\nCarle, Leonhard, Mundarzt. 1334 St. Alban-Vorstadt.\nChrist, Joh. Baptist, von Arlesheim, Schuh- u. Stiefelmacher. 1554\nBei der Brodlaube.\nChrist, Benedikt. 1372 Hinter dem Münster.\nChrist, Ludwig, Schuhmacher. 1073 Tiefe.\nChrist, J. J., Notar und Statthalter. 1080 Am Bäumlein.\nChrist, Remigius, Stadtrath. 1206 Rittergasse.\nChrist, Geschwister, Waarenlager. 648 Gerbergasse.\nChrist-Falkner, Lucas, und Dehlhafen, Joh. Samuel, Mechaniker.\n29 St. Johann-Vorstadt.\nChrist-Sarafin, Adolf. 1210 Rittergasse.\nChrist-Rybur, J. J., Spezereihandlung. 942 Aeschenvorstadt.\nChrist, Conrad, Mezger sel., Wittwe, Stubenverw. 1578 Sporengasse.\nChrist, geb. Uffal, Wittwe. 771 Bord. Steinen-Vorstadt.\nChristen, Peter, Handels-Commis. 882 Oberer Klosterberg.\nChristen, Niklaus, Seidenwaaren. 674 Gerbergasse.\nChristen, Joh. Emanuel, Spezereihandlung. 949 Unt. Klosterberg.\nChristen, Joh. Jakob, Taglöhner. Thorsteinen.\nChristen, Johannes, Posamentier. 865 Thorsteinen.\nChristmann, Jos., Gasthof zum Schwanen. 147 Schwanengasse.\nCollet, Frau, Weberschneiderin. 1727 Hutgasse.\nCourvoisier = Bon der Mühl, Kaufmann. 192 Unt. Herbergberg.\nCruffaire, N. S., Zucker- und Pastetenbäcker. 1149 Hinter dem\nStöcklein.\nCruffaire, Joh. Ludwig, Pastetenbäcker. 590 Schneidergasse.\n\nD.\n\nDättwyler, Joh., Mezger. 615 Hinter der Rümlinsmühle.\nDay, Joh., Schreiner, von Schönenbuch. 559 St. Petersfistsgasse.\nDay, Joh., Sohn, Schreiner. 894 St. Elisabethen.\nDay, J. B., Tapezierer. 1424 Freie Straße.\nDavid, Pfarrer, Wittwe, geb. Lichtenhahn. 307 St. Petersplaz.\nDavid, J. Georg, Schmid. 290 u. 291 Spahlen-Vorstadt.\nDavid, J. J., Mezger. 1239 St. Alban-Vorstadt.\nDavid-Waidmann, Lucas, Mezger. 1623 Untere Freienstraße.\nDavid, Emanuel, Lohnwäscher. 798 Bord. Steinen-Vorstadt.\nDavid, Heinrich, Verwalter des Kirchen- und Schulguts. 839\nRopmarkt.\nDavid, J. Nikl., u. Cons., Tuchhandl. 561 b St. Petersfistsgasse.\nDebary-Sarafin, Joh. 1483 u. 1484 Augustinergasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6103,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1981,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:52:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p092",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p092.jpg",
+      "bytes": 1046248,
+      "sha256": "e3aa645c6faf982c67cda7512edc106d1bde4cbc917000d976aca3ae60e6b1d9",
+      "sha256_of": "original",
+      "working_copy": "1841_p092.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:56+00:00"
+  }
+}

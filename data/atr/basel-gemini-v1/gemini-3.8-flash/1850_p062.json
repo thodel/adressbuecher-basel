@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p062",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p062.jpg",
+    "bytes": 998235,
+    "sha256": "71e2bad508e25c0157f1102078c1ef8dfa1b777ab704675368e496302689684e",
+    "sha256_of": "original",
+    "working_copy": "1850_p062.jpg"
+  },
+  "text": "Aeschen = Quartier. 49\n\n1086 Wolleb, Wittwe, Goldschmied und Modiste.\n  Sester, Wilhelm, Zahnarzt.\n\nStreitgasse.\n\n1087 Kling, Elias, Wittwe, Glaser.\n1088 Giesen-Müller, Wittwe, Marg., Buchbinder.\n1089 Meyer, Joh. Christof, Zuckerbeck.\n  Kirchberger, Hch., Rentier.\n1090 Schneider, Joh., Packer.\n1091 Stähelin-Stähelin, Rud., Handelsmann.\n  Burkhardt-Stähelin, Rud., Graveur.\n1092 Kindweiler, Frdch., Flachmaler.\n  Anstein-Lotz, Wittwe Helene.\n\nBaarfüßerplatz.\n\n1093-94 Meyer-Merian, Joh., Wittwe, Ellenwaarenhdlg.\n  Meyer, Ludw., Kaufmann.\n1095 Schilling, Joh., Zolleinnehmer.\n  Baumgartner, Jakob, Dessinateur.\n\nNeue Kaufhausgasse.\n\n1096 Caféhaus, Ritter, J. J., gehörend.\n  Hentz, J. L., Commis.\n\nBaarfüßerplatz.\n\n1097 Wehrlin-Himmeli, Karl, Ferger.\n\nStreitgasse.\n\n1098 Frei-Tschopp, J. J., Wittwe.\n  Nusser, J. M., Med. Dr., Prosector.\n1099 Plattner-Mager, Wittwe Marie Charl.\n1100 Gysin, Alexand., Lithograph u. Ehegerichtssamtmann.\n1101 Schaub, J. J., Handschuhmacher.\n1102 Schäublin, J. J., Schuhmacher.\n  Maring, Peter, Schlosser.\n1103 Goldemann-Ketterer, Ab.\n1104 Plattner, Mart., Spengler.\n1105 Der Brüder-Societät gehörend.\n  Blüher, C. T., Vorsteher.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6967,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1163,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0556,
+    "mean_line_chars": 30.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p062",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p062.jpg",
+      "bytes": 998235,
+      "sha256": "71e2bad508e25c0157f1102078c1ef8dfa1b777ab704675368e496302689684e",
+      "sha256_of": "original",
+      "working_copy": "1850_p062.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:32+00:00"
+  }
+}

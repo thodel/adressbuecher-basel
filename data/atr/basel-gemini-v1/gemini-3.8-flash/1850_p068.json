@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p068",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p068.jpg",
+    "bytes": 1023132,
+    "sha256": "e57955b410ad44593cb45e34de8d11d8e745a56145ec12e5b7da9bf4619b4102",
+    "sha256_of": "original",
+    "working_copy": "1850_p068.jpg"
+  },
+  "text": "St. Alban-Quartier. 55\n\nRittergasse.\n1210 Burckhardt-Vischer, Karl, Bandfabrikant.\n  Sauvain-Stehlin, Sal., Commis.\n1211 Iselin-Burckhardt, Jos. Ach., Bandfabrikant.\n1212 Tschientschy, Wittwe.\n\nSt. Alban-Vorstadt.\n1213 VonderMühll, Alfred.\n  VonderMühll-Vischer, Fr., Stofffabrikant.\n1214-15 Heußler-Wölfflin, Chr., Waisenhaus-Verwalter.\n1216 Burckhardt-Linder, Maria, Wittwe.\n1217 LaRoche-Heußler, Cath., Wittwe.\n  LaRoche, Andr., Partikular.\n1218 Merian-Ryhiner, Lukas, Rentier.\n1219 Hoffmann-Preiswerk, Eml., Rentier.\n  Hoffmann, Eml., Bandfabrikant.\n1220 VonderMühll-Hoffmann, Eml., Handelsmann.\n1221 Merian-VonderMühll, Heinr., Rentier.\n  Merian, Rud., de F. J.\n1222 Stapfer, J. J., Handels-Commis.\n  Lüscher, Karl Friedr., Commis.\n1223 Blessing, Wittwe, Margar., Fabrikarbeiterin.\n1224 Deck, Wittwe, Elis., Taglöhnerin.\n  Deck, Johann, Schneider.\n1225 VonderMühll-Merian, Karl, Handelsmann.\n1226 Pfister, Jakob, Hausbediente.\n1227 Wiedmer, Jak. Christ., Commis.\n1228 Bischoff-Respinger, Hier., Banquier, Commissions-\n  und Speditionshandlung, Stadtrathspräsident.\n  Sarasin-Heußler, Frau Wittwe.\n  Burckhardt-Haller, Rud., Med. Dr.\n1229 Bischoff-Bischoff, Hier., Tuchhandlung, das Comp-\n  toir in Nr. 919.\n1230 VonderMühll-Hoffmann, Leonh., Rentier.\n  VonderMühll-Iselin, Emilie, Wittwe, Rentière.\n1231 Frey-Stückelberger, J. Rud., Canzlist.\n  Wackernagel-Sarasin, W., Prof. Phil.\n1232 Hermann, Ad., Schlosser.\n  Schaub, U. Ch., Zettlermeister.\n1233 Winkler, Joh., Kutscher.\n1234 Rublin, Conrad, Zimmermann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6797,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1513,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p068",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p068.jpg",
+      "bytes": 1023132,
+      "sha256": "e57955b410ad44593cb45e34de8d11d8e745a56145ec12e5b7da9bf4619b4102",
+      "sha256_of": "original",
+      "working_copy": "1850_p068.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:11+00:00"
+  }
+}

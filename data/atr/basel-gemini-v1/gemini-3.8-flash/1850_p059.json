@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p059",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p059.jpg",
+    "bytes": 927083,
+    "sha256": "119ba93be06869b24117afac582acabeda1d97664867a679845cb4d09becd8c2",
+    "sha256_of": "original",
+    "working_copy": "1850_p059.jpg"
+  },
+  "text": "46 Aeschen-Quartier.\n\n1031 Roth, Martin, Wirthschaft.\n1032 Pfunder, C. L., Kutscher.\n1033 Roth, Martin, Fabrikmeister.\n1034 VonArx, Fabrikarbeiter.\n1035 Schäfer, Abraham, Heuwäger.\n1036 Bueß, Cath., Bettmacherin.\n1037 Brandenberger, Conrad, Kübler.\n1038 Ehinger-vonSpeyr, Christ. Matth., Banq., Comm.-\n  u. Speditionshandlung.\n  Notariatsbureau von Dr. L. Ehinger.\n1039 Burckhardt-Heußler, Karl, Bandfabrikant.\n1040 Gesellschaftshaus zum Rupf.\n1041 Dietschy-Fäsch, Wein- und Branntweinhandlung.\n1042 Ryhiner-Bischoff, Julius, Rentier.\n1043 Ryhiner-Werthemann, Susanna, Wittwe, Rentière.\n  VonSpeyr-Ryhiner, Eduard, Handelsmann.\n  Comptoir von Nörbel und Hoffmann.\n1044 Rognon-Schölly, Heinr. Jonas, Handels-Commis.\nA 1045 Weitnauer, Rud., Metzger u. Wirth.\n  Märklin-Huber, P. Euchar., Ferger.\n\nSt. Alban-Graben.\n\nB 1045 Stückelberger, J. J., Wein-, Branntwein- und\n  Essighandlung.\n  Krayer-Roth, Sam., Unterbestäter.\n1046 Merian-Burckhardt, Christ., Rentier.\n1047 Sarasin-Merian, Julie, Wittwe.\n1048 Forkart-Bachofen, Rudolf, Rentier.\n  Vischer-Forkart, Marg., Wittwe, Kapitalistin.\n1049 Remise und Scheune.\n1050-51 Burckhardt-Forkart, Marg., Wittwe, Kapitalistin.\n1052 Comptoir der Handels-Ragion Forkart-Weiß und\n  Burckhardt-Wildt.\n1053 Dobler, Jgfrn., Kath. und M., Kapitalistinnen.\n1054 Burckhardt-Forkart, Wilh., Hdlsm.\n\nBeim Aeschen-Schwibbogen.\n\n1055 Forkart-Hofmann, Rudolf, Rentier.\n1056 Ebendemselben geh. Spitalgäßlein. Kutscherwohng.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7090,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1448,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p059",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p059.jpg",
+      "bytes": 927083,
+      "sha256": "119ba93be06869b24117afac582acabeda1d97664867a679845cb4d09becd8c2",
+      "sha256_of": "original",
+      "working_copy": "1850_p059.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:14+00:00"
+  }
+}

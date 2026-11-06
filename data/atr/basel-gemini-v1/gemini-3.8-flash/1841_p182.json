@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p182",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p182.jpg",
+    "bytes": 1077929,
+    "sha256": "16042609f1a9d9a7b6421109d6a0eb2539c837e11a28b6f0ed7674c5d0241ae9",
+    "sha256_of": "original",
+    "working_copy": "1841_p182.jpg"
+  },
+  "text": "— 29 —\n\nGorgé, Anna, geb. Hägler, Wittwe, von Monible, Guts-\n  besitzerin. 108 Burgfelderstraße. U. B.\nGrieder, Jakob, von Binningen, Kaufhausarbeiter. 218\n  Nauengäßlein. O. B.\nGrillo, Lukas, Küfer und Gutsbesitzer. 23 Klingelberg. U. B.\nGrisanti, David, Mechanikus und Wirthschaft. 239 A.\n  Mittleres Gundeldingen. O. B.\nGroßmann, Jakob, Maurer am Lohnamt. 314 Weiden-\n  gäßlein. O. B.\nGürtler, Joseph, v. Allschwil, Lehenmann. 76 Burgfelder-\n  straße. U. B.\nGulde, Joseph, von Dettingen, Hardtförster. 338 Bei\n  der Birsbrücke.\nGysin, Elisabeth, geb. Degen, Wittwe, von Höllstein,\n  Gutsbesitzerin. 303 Herdsträßlein. O. B.\n\nH.\n\nHabegger, Verena, geb. Brunner, Wittwe von Trub,\n  Lehenfrau. 177 Neubadstraße. U. B.\nHägler, Jakob, von Langenbruck, Lehenmann. 233 München-\n  steinerstraße. O. B.\nHämmerlin, Michael, von Hagenthal, Gärtner. 222 St.\n  Jakobstraße. O. B.\nHäner, Johannes, von Höllstein, Lehenmann. 243 Bei\n  Gundeldingen. O. B.\nHänger, Heinrich, von Langenbruck. 68 Davidsboden. U. B.\nHagmann, Johannes, v. Sevelen, Taglöhner. 161 Loh-\n  stampfberg U. B.\nHartmann, Konrad, von Oberneuform, Lehenmann. 31\n  Klingelberg. U. B.\nHartmann, Sam., Kaufhausarbeiter. 239 Mittleres Gun-\n  deldingen. O. B.\nHartmann, Joh., Wittwer. 239 a. Mittl. Gundeldingen. O. B.\nHartmann, Jakob, von Prattelen, Gutsbesitzer. 241 Mittl.\n  Gundeldingen. O. B.\nHausmann, Konrad, von Reudern, Maurer. 303 Herd-\n  sträßlein. U. B.\nHeckendorn, Joh. Martin, Joh. Jakob und Barbara, von\n  Langenbruck. 241 Mittl. Gundeldingen. O. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6810,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1516,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0256,
+    "mean_line_chars": 36.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p182",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p182.jpg",
+      "bytes": 1077929,
+      "sha256": "16042609f1a9d9a7b6421109d6a0eb2539c837e11a28b6f0ed7674c5d0241ae9",
+      "sha256_of": "original",
+      "working_copy": "1841_p182.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:05+00:00"
+  }
+}

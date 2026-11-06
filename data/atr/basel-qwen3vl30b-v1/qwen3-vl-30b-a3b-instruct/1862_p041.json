@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p041",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p041.jpg",
+    "bytes": 1302228,
+    "sha256": "5767c295dbca1c7de1db926b3dba3bb43def20288660bbdf9c42021a9ded199e",
+    "sha256_of": "original",
+    "working_copy": "1862_p041.jpg"
+  },
+  "text": "XXXVIII.\nRagionenbuch.\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nBedk u. Herzog. | Carl Bedk. | Expedition u. Commission.\n| Achilles Herzog-Berri. | Colonisation in Santafé\n| Rudolf Glosk, Profuraträger. | (La Plata.)\nBedk-Herzog et Comp. | Cl. Bedk-Bernard in Santafé. |\n| Ach. Herzog-Berri, als Gemein- | Spec. i. roh. Baumwolle.\n| den der Handlung Bedk u. Herzog, | Manufacturwaaren.\n| als Commanditaire: eine Ac- |\n| tiengeellschaft u. in deren Na- |\n| men K. Hauser-Ofer. |\nBeglinger, J. | Beglinger-Zwicki, allein. |\nBernoulli u. Labhardt. | Emil Bernoulli-Kellermann. |\n| Ferdinand Labhardt. |\n| Joh. Luk, Profuraträger. |\nBernoulli, Emil. | Emil Bernoulli-Kellermann, allein. | Manufacturwaaren.\nBernoulli und Sohn, | Adolf Kespinger. | Materialwaaren.\nN. de H. | Wilhelm Kespinger-Passavant. |\n| Ed. Schill, Profuraträger. |\nBernoulli, Emanuel. | Aug. Emanuel Bernoulli. | Seidenbandfabrikation.\n| Bernhard Collin-Bernoulli. |\n| Emanuel Bernoulli-Caillier, |\n| Commanditair u. Profuraträger. |\nBernoulli, Leonhard. | Leonhard Bernoulli-Bär. | Material- und Farb-\n| Joh. Bernoulli, Sohn. | waarenhandlung.\n| Wilh. Leonh. Bernoulli, Sohn. |\n| Aug. Barth-BonderCrone, Profura- |\n| träger. |\nBertsche, St., et Comp. | St. Bertsche, allein. | Papierfabrik.\n| Gust. Heinr. Steinbrüchel-Nägeli, |\n| als Commanditair und Profura- |\n| träger. |\nBicard, R. M. | Abrah. Bicard-Dreifus, allein. | Manufacturw. en gros.\nBiedert et Comp. | Joh. Heinr. Biedert. | Eisenhandlung.\n| Joh. Jac. Huber-Burckhardt. |\nBinz et Comp. | F. Binz-Heuser, allein. | Bandhandlung.\nBischoff zu. St. Alban. | Hier. Bischoff-Kespinger. | Bank, Rohseide, Spe-\n| Eduard Zahn-Kognon. | dition u. Commission.\n| Albert Burckhardt. |\n| Daniel Bloch, Profuraträger. |\n| Bened. Kespinger, Profuraträger. |\nBischoff, Gebrüder. | Aug. Bischoff-Fürstenberger. | Bandfabrikation.\n| Wilh. Bischoff-Merian. |\n| Wb. Bischoff-Burtof. |\n| Gustav Bischoff. |\nBischoff, Benedict. | Hieron. Bischoff-Bischoff, allein. | Tuchhandlung.\n| Carl Sandoz-Luna, Profuraträger. |\n| An. Bischoff-Ehinger, Profuraträg. |\n| Rd. Bischoff-Merian, Profuraträg. |\nBischoff, Chr. u. Joh. | Ed. Bischoff. | Seidenstoff-Fabrikation.\n| Gust. Bischoff. |\n| Alphons de Chr. Bischoff. |\n| J. M. Riederer-Linder, Profuraträg. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6856,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2289,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0185,
+    "mean_line_chars": 41.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p041",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p041.jpg",
+      "bytes": 1302228,
+      "sha256": "5767c295dbca1c7de1db926b3dba3bb43def20288660bbdf9c42021a9ded199e",
+      "sha256_of": "original",
+      "working_copy": "1862_p041.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:42+00:00"
+  }
+}

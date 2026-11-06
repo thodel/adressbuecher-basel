@@ -1,0 +1,59 @@
+Aeschenvorstadt.
+9
+Nene
+Haus=No. | Quar-
+tier. | Alte
+Haus=No. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+34 | IV. | 956 | | Dict, Jgfr. Caroline.
+| | | | | Dict, Jgfr. Carol., Particularin.
+| | | | | Bernoulli=Dict, Joh., Alt=Postdirector.
+| | | | | Bernoulli, Carl, J. U. D., Kanzleisekret.
+| | | | | Bernoulli, Jgfr. Mathilde.
+35 | IV. | 1029 | zum Löwenberg. | Bisikummer=Fischer, J. Mich.
+| | | | | Bisikummer=Fischer, J. M., Handelsm.
+| | | | | Rieger Müller, Joh. Jak., Mustermacher.
+36 | IV. | 957 | zur Rose. | Bloch=Herzog, Daniel.
+| | | | | Bloch=Herzog, Daniel, Kaufmann.
+37 | IV. | 1028 | zur Wog. | Senn=Zwicky, Heinrich.
+| | | | | Senn=Zwicky, Heinrich, Flachmaler.
+| | | | | Weber, Joh., Tabak- u. Cigarrenhandl.
+| | | | | Schäfer, Matthias, Commis.
+| | | | | Erust=Glirtler, Sara, Wb., Particul.
+38 | IV. | 958 | zum vordern Hafen. | Kühn=Grandjean, Joh. Jakob.
+| | | | | Kühn=Grandjean, J. J., Schuhmacher
+| | | | | und Weinsticher.
+| | | | | Bokardt=Adelung, Frau Sujette.
+| | | | | Detis=Suchry, Ros., Wb., Vorgängerin.
+| | | | | Sirt=Kühn, Emil., Commis.
+39 | IV. | 1027 | 3. schwarzen Thurm. | Burkhardt=Stierlin, Abraham.
+| | | | | Burkhardt=Stierlin, Abr., Bäcker.
+| | | | | Jenny, Jakob, Flachmaler.
+40 | IV. | 959 | zu den drei Hafen. | Horner=Mechel, Daniel.
+| | | | | Horner=Mechel, Daniel, Bäcker.
+41 | IV. | 1026 | Schwarzen Bären. | Merian=Bernoulli, Rudolf.
+| | | | | Merian=Bernoulli Rudolf, Prof. d. Math.
+42 | IV. | 980 | | Schaub=Weber, Jakob.
+| | | | | Schaub=Weber, Jakob, Wirth.
+| | | | | Merz=Christen, Jakob, Muster=Weber.
+43 | IV. | 1025 | | Göttisheim=Reifer, Friedr., Bat.
+| | | | | Göttisheim=Reifer, Fr., Spezereihdlg.
+44 | IV. | 981 | zum Stern, Gasthof. | Breiting=Heukler, Samuel.
+| | | | | Breiting=Heukler, Sam., Gastwirth.
+| | | | | Heukler=Lima, Carl, Partikular.
+45 | IV. | 1024 | zum Nepper. | Bulacher=Hofsch, Sal., Wb.
+| | | | | Bulacher Hofsch, Sal. Wb., Bierbrauer.
+| | | | | Hofsch=Buxtorf, Salome, Wb.
+| | | | | Hofsch, Eduard, Bautassier.
+46 | IV. | 932 | zum kleinen Stern. | Breiting=Schardt, Peter.
+| | | | | Breiting=Schardt, Peter, Metzger.
+| | | | | Dizerens, Louis, Marbrier
+| | | | | Göttisheim=Breiting, Fr., Red. d. Tagbl.
+47 | IV. | 1018 | zum Echweihcr. | Brand=Fries, Marie, Wb.
+| | | | | Brand=Fries, Marie, Wb., Kerzenmacher.
+| | | | | Weber=Schaffner, Wilh., Mechaniker.
+48 | IV. | 983 | | Kiefer=Kochty, Johannes.
+| | | | | Kiefer=Kochty, Joh., Commis.
+| | | | | Bogt=Freyler, J., Feger.
+| | | | | Freyler=Theodor, Dessinateur.
+| | | | | Guise, Fräulein J., Sprachlehrerin.

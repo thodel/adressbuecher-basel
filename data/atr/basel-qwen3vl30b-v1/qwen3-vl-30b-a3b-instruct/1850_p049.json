@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p049",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p049.jpg",
+    "bytes": 921572,
+    "sha256": "0a40ba069ef24282629cb4270af82230154cc51969cb85d2651d8449c8092f85",
+    "sha256_of": "original",
+    "working_copy": "1850_p049.jpg"
+  },
+  "text": "36\nSteinen=Quartier.\n797 Weitnauer, Friedrich, Schreiner.\n    Schöner, F. H., Feger.\n798 David, Emanuel, Handels-Commis, Lohnwascher.\n799 Baumann, Heinr. Gottl., Seidenfärbcr.\n    Wizig, Dl., Lehrer.\n800 Faust, Kaspar, Tuchscheerer.\n801 Lüppold, Frau Rosine, Wascherin.\n802 Burckhardt-Respinger, Wittwe Louife, Rentière.\n803 Waldner, Heinrich, Bandfabrikant.\n    Stücksberger-Holzach, Wittwe Marg.\n804 Gyfin, Jakob, Weißbek u. Wirth.\n    Schäffer, Matthias, Feger.\n    Häfelsfinger, F. F., Commis.\nSteinenbruck.\n805 Schöck-Henz, Gertrud, Wittwe, Spezereihandlung.\n806 Bernard, Sebastian, Färber.\n807 Plattner, Heinrich.\n808 Stöcklin, Leonhard, Fabrikausseher.\n809 Schaub, Hch., Fabrikausseher.\n810 Fäsch, Wittwe geb. Landerer.\n    Fäsch, Jungfrau Salome.\nBordere Steinen-Vorstadt.\n811 Feycrabend, Peter, Schuhmacher.\n812\nA 812 Schuler, Konrad, Mezger.\n813 Gök, Balthasar, Färber.\n814 Day, Beda, Tapezierer.\n815 Bölmin, Joh., Stuhlschreiner.\n816 (Zunft z. Webern.) Elsner, F. H., Stubenverwalter, Rathsbote.\n    Elsner, Frau, Hebámme.\n    Schneider, F., Mezger.\n817 Binz, Johann Ulrich, Feger.\n    Grollimund, F. F., Feger.\n818 Gyfin, F. P., Küfer.\nKurzer Steg.\n819 Stöcklin, Leonhard, Schuhmacher.\n820 Schmidt-Lok, Helena, Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4304,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1230,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p049",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p049.jpg",
+      "bytes": 921572,
+      "sha256": "0a40ba069ef24282629cb4270af82230154cc51969cb85d2651d8449c8092f85",
+      "sha256_of": "original",
+      "working_copy": "1850_p049.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:55+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p133",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p133.jpg",
+    "bytes": 1060490,
+    "sha256": "874f0f8a3228c8643c2c44313596034423ea21992f4d77192d0bf265012511dd",
+    "sha256_of": "original",
+    "working_copy": "1850_p133.jpg"
+  },
+  "text": "120\nRyhiner u. Söhne *261A | Schachtler, Jakob *45\nu. Söhne (Fabrikgeb.) *302 | Schäfer, H., Pintensc. 89\nArchitekt *427 | Abr., Heuwäger 1035\nSacher, Ant., Hdlsm. 675 | Sch., Fabrikmeister 1257A\nSaiter, Eml., Metzger 481 | =Weber, S., Bierbr. 1639\nSalathe, Eml., Küfer 327 | Jak., Schreiner *130\n=Boschart, F., Hdlsm. 444 | Nill., Schuhm. *321-22\nF. G., Weinhändler 453 | Aug., Zimmermeister *431\nF. G., Postfaktor 592 | Wittwe, Rosina *431\nN., Koch u. Stubenverw. 642 | Schäffer, Math., Ferger 804\nSch., Desfinateur 1184 | Schaffner, Sch., Wirth 11\nJak., Tapezierer 1184 | Sam., Kutschcr 20\nF. Christ., Weinschenk *14 | H., Sohn, Schneider 148\nWittwe, Kostgeberin 1184 | Rem., Fabrikarbeiter 218\nvon Salis, Joh. 1403 | Sam., Schneider 1069\nSalzmann, L., Kutscher 1248 | Joh., Posamenter 1259\nSandoz, Karl August 918 | Seb., Schneider 1564\nSandreuter, F. F. 297 | =Jordan, Wwe., Urf. 1062\n=Langmesser, Rudolf 297 | =Schäfer, F., Lehrer *134\nEml., Beck 477 | Martin, Diacon *200\nF. F., Spengler 576 | Jak., Fabrikarbeiter *201\nRud., Schuhmacher 581 | Schalch, F. U., Goldschm. 138\nE., Südfrüchtehdlg. 1735 | Schardt, Em., Buchb. 645\n=Heusler, Wittwe 509 | Dan., Schuhmacher 719\nSänger, Leonh., Commis 201 | Lukas, Commis 1152\nSarasin, Ad., Pfarrer 1248C | Matth., Spengler 1695A\nK., Bandfabr. 1311 | Frz., Küfer *143\nFelix, Bürgerm. 1319-22 | Peter, Küfer *202\n=Burckhardt, Wwe. 1319-22 | L., Polizei-Sekretär *202\n=Heusler, Lukas *368-69 | F. U., Metzger *424\n=Marian, Wwe., Julie 1047 | Schärer, L., Metzger 460\n=Heusler, Wittwe 1228 | =Frey, Wwe., Marie 1125\nSäuberlin, Wittwe 425 | Scharf, Alois, Lehrer 593\nSauerbeck, Jak. *116A | Schärflin, Fz., Metzger *20\nSauerbren, B., Zeugw. 277 | Schärr, Schneider 1727\nSauter, Jos., Commis 143 | Schaub, F., Posamenterm. 47\nSautter, Mich., Commis 582 | Sch., Todtengräber 399\nSauvain, Sal., Commis 1210 | F. G., Ferger 432\nSager, F. Sch. *269 | R., Buchbinder 432\nSchabelik-Flick, F. Chr. 1425 | Georg, Schreiner 754M\nF. E. Redaktor 1425 | Joh., Kaufhausarb. 754D\n=Kok, Commis 1596 | Matth., Schuhmacher 773\nSchachenmann, F. C. 275F | Sch., Fabrikausseher 809\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7901,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2116,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p133",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p133.jpg",
+      "bytes": 1060490,
+      "sha256": "874f0f8a3228c8643c2c44313596034423ea21992f4d77192d0bf265012511dd",
+      "sha256_of": "original",
+      "working_copy": "1850_p133.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:42+00:00"
+  }
+}

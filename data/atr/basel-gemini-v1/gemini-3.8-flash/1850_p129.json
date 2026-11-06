@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p129",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p129.jpg",
+    "bytes": 1080643,
+    "sha256": "cc5512f01291f5e6b62d3465829cbea0eb44b3f792b6fff5f07bb942935782ec",
+    "sha256_of": "original",
+    "working_copy": "1850_p129.jpg"
+  },
+  "text": "116\n\nMiville, F. J., Diacon  244\n  R., Condukteur  578\n  -Krug, H., Antiquar  1455\n  Wittwe, Hutmacher  169\n  -Preiswerk, Wittwe  1474\nMöcklin, R., Gefangenw.  695\nMohler, Jakob, Beck  317\n  Heinr., Seiler  1017\nMollinet, S., Schuhm.  642\n  W., Seiler  767\nMontfort, F., Commis  985A\nMörgelin, F., Tabackf.  911\nMorin, Wwe., Kostgeb.  620\nMöschinger-Boos, Wwe.  679\nMosley, H., Sprachlehrer  522\nMoyon, F. Th., Kunstm.  918\nMück, F. Th., Degraiss.  1536\nMüller-Kübler, Unterbest.  18\n  Alb., Mineralog  45\n  -Hauser, F. J., Seidenf.  61\n  Matthias  207\n  F. J., Profos  271\n  -Stähelin, F.  275B\n  -Iselin, G. R.  289\n  H., Gastgeber  326\n  F. Ph., Lehrer  345\n  -Heinzgen, F., Flachm.  354\n  M. W., Flachmaler  382\n  Heinrich, Spezierer  463\n  Hch., Fabrikarbeiter  478\n  -Pack, F. J., Commis  490\n  -Link, Heinr., Postoff.  518\n  Wilh., Posamenter  627\n  Christoph, Hafner  687A\n  Joh. Bapt., Hauskn.  844\n  F. J., Brunnmeister  866\n  Karl, Gypser  872\n  Franz, Gastgeber  1008\n  Leonh., Schlosser  1016\n  Werner, Bestäter  1107\n  Christ., Ausläufer  1298\n  Joh., Kostgeber  1431\n  Rud., Kunstmaler  1460\n\n[spalte 2]\n\nMüller-Burckhardt, F.G.  1467\n  -Willy, A., Kosth.  *16-17\n  -Walz, F. E., Gastw.  *18-19\n  Joh., Kutscher  *26\n  Gustav, Weinhandlg.  *36\n  Jak., Lohnfuhrhalter  *138\n  Hch., Schlosser  *216\n  -Linder, R., Landök.  *250\n  -Weitnauer, F. J.  *373\n  Gottfr., Seidenfärber  *415\n  Joh., Färber  *436\n  -Schölly, Wittwe  45\n  -Fuchs, Wittwe  872\n  Wwe., E., Posam.  1433\n  Wittwe, Maria  1507\n  Jgfr. Katharina  345\n  Jgfrn. Schwestern  726\nMühlebach, Joh., Beck  *147\nMünch, F. H., Schlosser  202\n  A., Commis  1626\n  Melch., Metzger  *164\n  F. K., Stadtphysikus  *222\n  Chr., V. D. M.  *345\n  Jgfr. Susanna  *431\nMunzinger, L. D., Comm.  1741\n  -Fäsch, Wittwe  153\nMury, F. F., Fabrikarb.  391\nMüry, Jak., Wirth  *126\nNäf, Frau Magdalena  622\nNäff, Sam., Posamenter  497\nNäfzger, Hch., Posam.  1493\nNägelin, A., Schuhm.  1744\n  Konr., Wirth  *429-30\nNeithardt, F. F., Parlier  1010\nNeukirch, F. G., Buchdr.  1524\nNeukomm, F., Wirth  *231\nNeuschwander, Daniel  407\nNeustück, H., Bildhauer  723\n  Jakob, Kunstmaler  723\n  -Bloch, Wittwe  723\nNidecker, K. L., Beck  1262\n  Georg, Commis  839\n  Franz, Schlosser  1139",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10146,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2232,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:21:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p129",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p129.jpg",
+      "bytes": 1080643,
+      "sha256": "cc5512f01291f5e6b62d3465829cbea0eb44b3f792b6fff5f07bb942935782ec",
+      "sha256_of": "original",
+      "working_copy": "1850_p129.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:16+00:00"
+  }
+}

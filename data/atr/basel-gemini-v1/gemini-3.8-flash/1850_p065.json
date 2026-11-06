@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p065",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p065.jpg",
+    "bytes": 938140,
+    "sha256": "576b6f4d237f6c33406bff43828ae7c77093913276e8223a94fe069f6fb0b539",
+    "sha256_of": "original",
+    "working_copy": "1850_p065.jpg"
+  },
+  "text": "52 Aeschen- und St. Alban-Quartier.\n\n1154 Breiter, J. J., Handels-Commis.\n1155 Kling, Maria, geb. Weiß.\n  Golde, Sml., Spengler.\n1156 Garnjobst, J. U., Seckler u. Kappenmacher.\n1157 Klingelfuß, Cath., Wittwe.\n1158 Baldner-Nörbel, Joh. Christ., Handelsmann.\n1159 Leithard, Heinrich, Hutmacher.\n1160 Hindenlang-Hübscher, J. J., Handelsmann.\n  Comptoir von Frey, Johann Jakob.\n  Hübscher, Gottfried, Pfundzoller.\n  Biermann, Georg, Postoffiziant.\n1161 Wölfklin-Mengis, Joh. Rud., Zuckerbeck, Polizei-\n    gerichtspräsident.\n1162 Gysendörfer-Herzog, Joh. Conr., Wollen- u. Leinen-\n    tuchhandlung.\n1163 Gräf, Ph., Coiffeur.\n1164 Rimmensperger, Frau Karoline, Nudelnhandlung.\n  Hauser, Joh., Commis.\n1165 Kauz, M., Schneider.\n  Hottensen, Karl, Rothgerber.\n1166 Schwob, J. J., Gerichtsamtmann.\n1167 Buser, Peter, Schuhmacher.\n\nSt. Alban-Quartier.\nNiedengäßlein.\n\n1168 Baur, J. W., sel. Erben, Buchdruckerei d. Tagbl.\n  Schmidt, Gottfr. Th., Faktor der Druckerei.\n1169 Wimmer, Joh., Apotheker.\n\nFreie Straße.\n\nA 1169 Criminalgerichts-Kanzlei.\n  Best-Brenner, H. Criminalgerichtsschreiber.\n1170 Wierz-Carle, Dan., Alt-Kanzlist.\n  Heitz, Jgfr., Rosine, Modiste.\n1171 (Zunft zu Becken.) Burckhardt-Miville, Achilles,\n    Zuckerbeck, Stubenverwalter.\n  Oser-Best, Ed., eidg. Zollbeamter.\n1172 Dettwyler-Hauser, J. J., Küfer.\n  Wortmann, Buchbinder.\n  Gutzwyler, Ignaz, Kunstmaler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7924,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1371,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.13,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p065",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p065.jpg",
+      "bytes": 938140,
+      "sha256": "576b6f4d237f6c33406bff43828ae7c77093913276e8223a94fe069f6fb0b539",
+      "sha256_of": "original",
+      "working_copy": "1850_p065.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:52+00:00"
+  }
+}

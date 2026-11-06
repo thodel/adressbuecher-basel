@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p119",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p119.jpg",
+    "bytes": 1079531,
+    "sha256": "7df816d501c138022646449cf4251db3764dee0b2526273000cde6afc832b81b",
+    "sha256_of": "original",
+    "working_copy": "1850_p119.jpg"
+  },
+  "text": "106\n\nGrimm, Luk. Rud.  1689\nGrisanti, Dav., Weinsch.  708\nGrissard, J. G., Mechan.  *273\nGroben, Jak., Glaser  1628\nGrollimund, J. J., älter  9BC\n  J. J., jünger, Posam.  9D\n  Felix, Sattler  504\n  J. J., Ferger  817\nGroß, Joh., Postbeamter  166\n  Joh., Fabrikaufseher  1490A\n  Wittwe, Maria  166\nGroßmann, J. J., Maur.  432A\nGrübler, Elisabeth  846-47\nGrüblin, Joh. Jak.  *50\n  Joh., Weinschenk  *291\nGrunauer, Seb., Hdlsm.  635\n  Gottl., Kaufmann  759\n  Christ., Pfarrer  1325\n  A., Seckler  1569\n  Friedr., Commis  *295\n  Rud., Coiffeur  *379\n  Frau, Hebamme  635\nGrundeler, Jak. Christ.  *437\nGrüninger, Eml., Trödl.  614\n  Rud., Küfer  618\n  Rud., Müller  *303\nGschwind, Joh. Balth.  673\n  Frau, M. U., Modistin  673\nGubler, Joh., Weinsch.  1522\nGuiring, Joh. Mart.  *213\nGuise, Konstantin  561\nGürtler, J. J., Commis  954\nGut, Rud., Metzger  1350\nGutknecht, J. A.  1316C\nGutzwiller, S., Kunstmal.  225\n  Ignaz, Kunstmaler  1172\nGysendörfer, Joh. Konr.  1162\nGysin-Garnaus, Lehrer  230\n  Daniel, Sattler  292\n  Sam., Ladendiener  531\n  Euch., Postangestellter  633\n  Daniel, Metzger  599\n  Heinr., Spezereihdlg.  705\n[spalte 2]\nGysin, Joh., Weißbeck  804\n  J. P., Küfer  881\n  Konrad, Commis  842\n  J. J., Commissär  1078-79\n  Alex., Lithograph  1100\n  J. G. R., Posam.  1307\n  Ludw., Tuchhandlung  1612\n  Heinrich, Vater  1693\n  Sam., Courtier  1693\n  Peter, Bierbrauer  1708\n  Ulrich, Färber  *435\n  Wittwe, Hebamme  658\nGysler, Sohn, Heinr.  1084\n  Ludw., Bandfabrik.  1610\n  -Handmann, Wittwe  522\n  -Wierz, Wittwe, M.  1015\n  Jgfrn. Schwestern  655\nHaag, Leonh., Hufschmied  1267\n  -Keim, Wittwe  *421\nHaagen, K. Gottfr.  1275A\nHaarvey-Kürsteiner  58\nHaas, Karl, Küfer  482\n  W. u. Ed., Schriftgieß.  750\n  -Georg, Aug., Maler  884\n  Stephan, Schirmfabr.  1727\n  Schwstrn, Schneider.  1602\nHaberstock, Frz., Commis  57\nHabicht, Barbara  *105\nHablützel, Karl  1430\nHäfelsinger, Joh. Rud.  754A\n  J. R., Sohn, Comm.  754A\n  Joh. Friedr., Commis  804\nHäfelin, J., Zahnarzt  1631\nHäselinger, Jakob  171\nHäsler, Hch., Flachmaler  464\nHagenbach, Karl  226\n  Friedr., Apotheker  596\n  Geigy, K. R., Prof.  691\n  -Paravicini, Peter  1451\n  -Geigy, Wittwe  7540\nHägler, M., Ladendien.  356\nHaldy, J. P. E., Lehrer  1375\nHaller, Viktor u. Urs  1688",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10918,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2248,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:19:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p119",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p119.jpg",
+      "bytes": 1079531,
+      "sha256": "7df816d501c138022646449cf4251db3764dee0b2526273000cde6afc832b81b",
+      "sha256_of": "original",
+      "working_copy": "1850_p119.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:34+00:00"
+  }
+}

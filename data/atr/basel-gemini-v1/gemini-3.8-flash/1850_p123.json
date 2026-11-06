@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p123",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p123.jpg",
+    "bytes": 1086418,
+    "sha256": "94658da6a30f675c541c54ced734748c1531eca8b68caf6f8ac5faa5c2791026",
+    "sha256_of": "original",
+    "working_copy": "1850_p123.jpg"
+  },
+  "text": "110\n\nImhof-Forkart, J. 1576\nW., Goldschmied 1580\nH., Wollenwaarenhlg. 1642\n-Wenk, Hier., Vater 1642\n-Mieg, J. J. *293\n-Roschet, Wittwe 1084\nImmler, Schreiner 687\nJoos, Ch., Tabackmüller *319\nJordan, J. F., Spez. 625-26\nAdam, Commis 1062\nLeonh., Ferger 1179\nConr., Zolleinnehmer *136\nJörin, J. Hch., Commis 1149\nJosenhans, Inspektor 387-89\nIselin-Debary, Rud. 70\n-LaRoche, J. J. 71\n-Passavant, H., Med. Dr. 92\n-Iselin, Abraham 250\nRemig., Kunstmaler 251A\n-Wettstein, Daniel 938\n-Burckhardt, Jos. Ach. 1211\nDietr., Rentier 1268\n-Forkart, J. L. 1312\nWilh., Sohn 1312\n-Christ, Rudolf 1312\n-Reichenstein, Ludw. *149\n-Roulet, Wittwe 1203\nFrau Susanna 1311A\nFrau, Lohnwascherin *129\nJucker, B., Musiklehrer 191\nUlrich, Rentier 1672\nJung, K. G., Med. Dr. 920\nFrau Kath., Lwdhdlg. 1645\nJunker, J. J., Chir. Dr. 1574\nKachel, Luk. Hr., Metzger 1624\nKammer, J., Ladendiener 1540\nKammerer, S., Fuhrhalter *120\nKappler, Dl. Friedr. 9D\nKappeler, Joh. Abrah. 268\nKasp., Spitalschreiber 1016\nWittwe, Gantfrau 1570\nKarle, Joh., Holzmüller 1308\nKatheder, C. F. Th. 42\n[spalte 2]\nKaufmann, G., Metzger 9A\nN., Agent 556\nJakob, Fabrikmeister 1290\nKaul, Frau Maria 409\nKautz, M., Schneider 1165\nKehlstadt, A., Tapezierer 607\nJoh. Phil., Tapezierer 624\nLeonh., Postoffiziant 822\nLudw., Sohn, Beck 947\nKehrer, A., Schachtelnm. 398\nKellenberger, Joh. Jak. 328\nKeller, Saml., Kübler 672\nHch., Unterbestäter 764\nLukas, Metzger 836\nGeorg, Schuhmacher 1720\nFr., Kutscher *28\nXaver, Gärtner *114\n-Mazinger, Wittwe 78\n-Bischoff, Wittwe 549\nWittwe, Kostgeberin 1646\nJgfr. Wilhelmine 64A\nKellermann, Joh. Chr. *224\nKelterborn, Ludw. Ad. 270\nKempf, Georg, Kutscher 1081\nEman., Beck *145\nKern-Ryhiner, August 64B\nJakob, Fabrikarbeiter 183\n-Bischoff, Friedr. 267B\nu. Sohn, Comptoir 269B\nJ. B., Rothgerber 1725\n-deCrousaz, Elias *317\n-Herzog, Wwe., Jud. 28\n-Schmerber, Wwe., L. 854\nKestenholz, Wittwe *264A\nKestner, Wwe., Fanny 251A\nKeßler, Pet., Zimmerm. 903\nMatth., Seidenwinder 1315\nKetterer, J., Weinsch. 1652-53\nKiefer, J. H., Agent 125A\nG., Quincailleriehdlg. 153\nFriedrich, Beck 315\nJoh., Commis 1275\nJoh., Lohnwascher 1280",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9600,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2092,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:20:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p123",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p123.jpg",
+      "bytes": 1086418,
+      "sha256": "94658da6a30f675c541c54ced734748c1531eca8b68caf6f8ac5faa5c2791026",
+      "sha256_of": "original",
+      "working_copy": "1850_p123.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:15+00:00"
+  }
+}

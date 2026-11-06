@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p075",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p075.jpg",
+    "bytes": 920057,
+    "sha256": "aaeb7e6390a749913f3ed9bf78866deec36abb8f40899f8a784f1ceb2133f157",
+    "sha256_of": "original",
+    "working_copy": "1850_p075.jpg"
+  },
+  "text": "62\nSt. Alban=Quartier.\n1382 (Gerichtschreiberei) Schneider, Martin, J. U. D.\nNotar, Gerichtschreiber\nSchneider, Julius, J. U. D., Appellations=Ge-\nrichtsschreiber.\n1383 Bernoulli=Obermeyer, D., J. U. D., Notar.\nBernoulli, Dl., Kaufmann.\n1384 Best-Piton, Rudolf, Buchbinder.\n1385 Sutter-Ronus, Rudolf, Stofffabrikant.\n1386 Best-Wenk, Joh. Bernh., Spezereihandlung.\nBest, Heinr., Sohn, Quartierschreiber.\n1387 Mislapp=Pöhlß, Adolph, Commis.\n1388 Wendel, Anna Maria, Wittwe.\nBischoff, Peter, Seidenhandlung und Comptoir.\n1389 Heusler=Hegi, Wittwe.\n1390 Stöffel, Rudolf, Kutscher.\n1391 Beurmann, Georg Fch., Handelsmann.\nSchmied-Kloz, Kaver, Barbier. (Die Stube in\nNr. 1077.)\n1392 Beck=Kaiser, Wittwe, Weinschenke.\n1393 Bader, Adolph, Sattler.\n1394 Frey, Jungfrauen, Modistinnen.\nSpitalsprung.\n1395 Segisser, Lud., Weinficher u. Détailladen.\n1396 Wertenberg, Ed., Spengler.\n1397 Meyer, Georg, Maurer.\n1398 Byfelder, Wittwe, Schachtelnmacherin.\n1399 Häring, Joh., Conducteur.\n1400 Wirz, Jgfr., Franziska, Schneiderin [handschriftlich: gestrichen]\n1401 Roth, Abraham, Schlosser.\nMünsterplatz.\n1402 Burckhardt-Schrickel, Ed. de Leonh., Handelsmann.\nMerian-Thurneisen, Peter, Phil. Dr. u. Professör.\n1403 (Mädchen-Realschule) Klein, Wilhelm, Vater und\nSohn, Lehrer.\nBonSalis, Joh., Partikular.\n1404 Merian-Merian, Samuel, Banquier.\n1405 Burckhardt, Jakob, Antistes.\nHinter dem Münster.\n1406-11 Obrigkeitsl. Fruchtspeicher und Keller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4684,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1425,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p075",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p075.jpg",
+      "bytes": 920057,
+      "sha256": "aaeb7e6390a749913f3ed9bf78866deec36abb8f40899f8a784f1ceb2133f157",
+      "sha256_of": "original",
+      "working_copy": "1850_p075.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p039",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p039.jpg",
+    "bytes": 857526,
+    "sha256": "a85fa00260c1b7dbfa199417934622e18d4c5ba7e4a85906a3e30bf2bd07b838",
+    "sha256_of": "original",
+    "working_copy": "1841_p039.jpg"
+  },
+  "text": "32\nNro.\nHinterе Steinen-Vorstadt.\n840 * Eschopp, Joh., Beck.\n841 Gysin-Rosenburger, J. Chr., Geldwechsler.\n    Abt, Daniel, Posamentier.\n    Basler, Rud., Steinhauer.\n842 Gysin, Conrad, Handels-Commis.\n    Gysin-Fuchs, P., Waffenhandlung.\n843 Löw, Joh., Schneider.\n844 Müller, Joh. Bapt., Hausknecht.\n845 * Magazin, den HH. Gebr. Stähelin geh.\nUnterer Klosterberg.\n846 u. 847 Hug, Hs. Ulrich, Partikular.\n848 Eschopp, Joh., Beck.\n949 Christen, Joh. Em., Spezerei-handlung.\n850 Schuler, Eman. sel., Wittwe, Rothgerber.\nHinterе Steinen-Vorstadt.\n851 Lichtenhahn, C. Chr., Rathschreiber sel., Wittwe.\n    Lichtenhahn, Carl, Staatschreiber.\n852 \n852 a } Schneider, Emanuel, Hufschmid.\nThorsteineu.\n853 Paravicini, Ludwig, Zimmermann.\n    Wüst, Math., Zimmergesell.\n854 * Bürgin, J., Seifenfieder, geh.\n855 Boffart, Andr., Fabrikferger.\n856 Schweizer, J., Posamentier.\n    Christen, Joh. Jakob, Taglöhner.\n857 * Paravicini, Ludw., Zimmermann, geh.\n858 Lindenmeyer, B., Wachtmeister. (Zollerwohnung.)\n    Auf dem Thor, Heinrich Thommen.\n859 Martin, Emanuel, Weißbeck.\n    Lang, Joh. Rud., Commis.\n    Martin, Andre., Fabrikausfcher.\n860 Engler, Joh. sel., Wittwe.\n    Blech, Joh. Jakob.\n861 u. 862 Siegrist, Heinrich, Meßger und Spezereihändler.\n    Luttringshausen, J. J., Kunstmaler.\n863 Bienz, Carl Peter, Commis.\n864 Früh, Jak. Fr., Spanner.\n865 Köslin, J. Rud., Fabrikarbeiter.\n    Christen, Joh., Posamentier.\n    Stöcklin, J. Heine., Posamentier.\n866 Müller, Joh. Jakob, Brunntmeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4452,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1486,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0222,
+    "mean_line_chars": 30.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:46:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p039",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p039.jpg",
+      "bytes": 857526,
+      "sha256": "a85fa00260c1b7dbfa199417934622e18d4c5ba7e4a85906a3e30bf2bd07b838",
+      "sha256_of": "original",
+      "working_copy": "1841_p039.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:48+00:00"
+  }
+}

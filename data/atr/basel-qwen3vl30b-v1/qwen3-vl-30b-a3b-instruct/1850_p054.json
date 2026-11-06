@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p054",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p054.jpg",
+    "bytes": 1089445,
+    "sha256": "cb819ddbeeca80b5f5e6c1396d9ee79ada0a0fcc061d7026c045022dda94b884",
+    "sha256_of": "original",
+    "working_copy": "1850_p054.jpg"
+  },
+  "text": "Aefchen = Quartier.\n41\n912 Bischoff-Reitner, F. F., Banquier.\n    Merian-Forkart, F., Obrist, Rentier.\n    Merian, Jgfr., Susanna.\n913 Ryburt-Rumpf, Wittwe, Juditha, Partik.\n914 Gnöpf, Achill., Hufschmied und Thierarzt.\n915-16 Paravicini-Bischer, Rud., Bandfabrikant.\n917 Bernoulli-Huber, Leonhard, Tuchhandlung.\n    Bernoulli, Ed., Sohn, Tuchhdlg.\n918 Sandoz, Carl August, Kaufmann.\n    Moyon, F. Th., Kunstmaler.\n    Fürbringer, F. G., Gärtner.\n919 Köchlin-Geign, Alph., Bandfabrikant.\n920 Jung, Karl Gust., Med. Dr. u. Prof.\n921 Hübacher-Stähelin, Emil., Rentier.\n922 Allemann, Urs Jos., Zimmergeselle.\n923 Scheune und Stallung zu Nr. 940.\n924 (Scheune und Stallung) zu Nr. 938, Zselin-Wett-\n    stein, Dan., geh.\n925 Friedrich, Rud., Maurer und Steinmech.\n926 (St. Elisabethen Kirche) Obrigkeitlich.\n927 Wölflin-Loz, Dietr. Wilh., Commis.\n928 Burckhardt-BonderMühl, Hieron., Rentier.\n929 Burckhardt, Wittwe, Ros. Valeria, Rentière.\n930 Thommen, Joh. Jak., Küfer.\nSteinenberg.\n931-33 Ryhiner-Schönauer, And., Rentier.\n    Burckhardt-Zselin, Hier., Bankier.\n934 Weibel-Meyer, Rudolf, Commis.\n    Burkhardt, Alfred, Rentier.\n935 Burckhardt, Jgfrn. Schwef., Maria und Emilia,\n    Kapitalistinnen.\n936 Wolleb-Linder, M., Karl Rudolf, Pfarrer zu St.\n    Elisabeth.\na 937 (Knabenschule) Meyer-Krauß, Bened., Lehrer.\nb 937 (Mädchenschule) Schneider, Erhard, Lehrer.\nA 937    Euler, Eucharius, Kaufhausverwalter.\n         Kaufhaus Krayer-Alt, Emil., Bestäter.\nB 937    Siegrist, F. R., Kaufhausbeamter.\nAefchen=Vorstadt.\n938 Zselin-Wettstein, Dan., Rentier.\n    Merian-Zselin, Karl, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4962,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1587,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p054",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p054.jpg",
+      "bytes": 1089445,
+      "sha256": "cb819ddbeeca80b5f5e6c1396d9ee79ada0a0fcc061d7026c045022dda94b884",
+      "sha256_of": "original",
+      "working_copy": "1850_p054.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:17+00:00"
+  }
+}

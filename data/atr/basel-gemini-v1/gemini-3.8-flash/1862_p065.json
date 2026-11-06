@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p065",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p065.jpg",
+    "bytes": 1499424,
+    "sha256": "6ad17a118f46cfee8dbce176c0929ddbf0f8d7265f3285c429c713784992381e",
+    "sha256_of": "original",
+    "working_copy": "1862_p065.jpg"
+  },
+  "text": "LXII  Berichtigungen, Handänderungen und Neubauten.\n\nSeite. | Straße. |  | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.\n159 | Todtengäßlein. | einschalt. | 15 | II | 556 a | Linder-Hopf, Joh. Jacob.\n160 | Todtentanz. | lies | 18 | I | 71 b | Iselin-LaRoche, Joh. Jacob.\n  |  |  | 19 | I |  | Staat (franz. Kirche).\n161 | Wallstraße. | \" | 5 | IV | 898 D | Bussinger-Schlag, J.\n  | \" | einschalt. | 11 | IV |  | Kaiser, August, Schreiner.\n  | \" | lies | 12 | IV |  | Nippert-Lindemann, Ludwig (Me-\n  thod. Bethaus).\n  | \" | \" | 14 | IV |  | Riggenbach-Huber, Charlotte.\n  | \" | einschalt. | 16 | IV | 899 A | Kaltenmeyer-Kircher, J.\n161 | Wallstraße. | lies | 26 st. 24 | IV | 899 F | Schäublin-Vögtlin, Joh. Jac.\n  | Weidengasse. | einschalt. | 39 | V | 314 | Kußmaul-Schlack, Michael.\n162 | \" | lies | 28 | V | 316 | Bretscher-Schöllkopf, Joh. sel. Erb.\n  | \" | \" | 32 | V | 315 | Hediger-Weber, Hans Rud.\n164 | Badergäßlein. | \" | 2 u. 4 | VII | 324 | Christen-Rieder, Matth.\n165 | Bahnhofstraße. | \" | 31 | VII | 82 A | Rühlin, Georg u. Bertrand, Joseph.\n166 | hint. Bahnhofst. | \" | 48 | VII | 77 F | Frey-Frey, Alois, Maurer.\n168 | St. Clara-Platz | \" | 5 | VIII |  | Staat (Clara-Kirche).\n  St. Clara-Straße. Nr. 2, 4, 6 in's Riehenquart. (VIII) statt Bläsiquart. (VII) zu setzen.\n169 | St. Clarastraße. | lies | 15 | VII |  | Schaffner, Johann Jacob.\n171 | Fabrikstraße. | \" | 35 | VII | 86 H | Schorle, Otto.\n172 | Greifengasse. | \" | 15 | VII | 393 | Meyer, Johan., Seidenfärber (zum\n  Schönau).\n173 | \" | \" | 23 | VII | 234 | Erni-Handschin, Joh. Fried., Metz-\n  ger (z. rothen Eichhorn).\n175 | Grenzacher- | \" | 45 | VIII | 50 d | Merian-Thurneysen, Alfred.\n  Straße.\n176 | \" | \" | 105 | VIII | 81 | Jecker, Ludwig (z. Rank).\n177  Die Num. 25. 27 bis 59 in's Bläsiquart. (VII) statt Riehenquart. (VIII) zu setzen.\n181 | Klingenthal- | \" | 2 | VII | 1 d | Lotz-Bricar, Hieronimus.\n  graben.\n182 | Klingenthalstr. | \" | 39 | VII | 82 E | Märky-Kuser, Carl.\n  | \" | \" | 45 | VII |  | Jenny, Johannes.\n  | Klybeckstraße. | \" | 1 | VII | 1 | Lotz-Bricar, Hieronimus.\n  | \" | \" | 7-9 | VII |  | Minder-Zäslin, Anna Catharina.\n183 | \" | einschalt. | 68 | VII |  | Koch-Geiger, Christian.\n191 | Unt. Rebgasse. | lies | 5 | VIII | 211 | Bertrand, Josef.\n192 | \" | \" | 17 | VII | 249 A | Braun, Andr. de Samuel.\n194 | Rheingasse. | \" | 38 | VIII | 50 | Weber, Jacob, Magazinier.\n197 Unt. Rheingasse sämmtl. Num. in's Bläsiquart. (VII) statt Riehenquart. (VIII) zu setzen.\n198 | Unt. Rheingasse | lies | 5 | VII | 373 | Engelmann-Lang, Christ., Apothek.\n  | \" | einschalt. | 12 | VII | 358 b | Merian, Amadeus.\n  | Ob. Rheinweg. | \" | 92 | VIII | 93 a | LaRoche, Emanuel, Sohn.\n  | \" | lies | 94 | VIII | 93 | LaRoche, Emanuel, Sohn.\n  | \" | \" | 96 | VIII | 112 A | LaRoche, Emanuel, Sohn.\n  Unt. Rheinweg No. 20, 25, 32 u. 33 in's Bläsiquart. (VII) statt Riehenquart. (VIII) zu setzen.\n205 | Utengasse. | lies | 1 | VIII | 238 | Baumgartner, Franz, Schneider-\n  meister (Sterneneck).\n206 | \" | \" | 26 | VIII | 412 | Eingang zu Nr. 27 Rheingasse.\n209 | Webergasse. | \" | 24 | VII | 295 | Hinden, Conrad, Polizeimann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12413,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3138,
+    "lines": 51,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 59.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:34:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p065",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p065.jpg",
+      "bytes": 1499424,
+      "sha256": "6ad17a118f46cfee8dbce176c0929ddbf0f8d7265f3285c429c713784992381e",
+      "sha256_of": "original",
+      "working_copy": "1862_p065.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:29+00:00"
+  }
+}

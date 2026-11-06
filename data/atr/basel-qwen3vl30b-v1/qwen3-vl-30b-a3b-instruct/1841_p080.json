@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p080",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p080.jpg",
+    "bytes": 979920,
+    "sha256": "2b7086d802114082fe56aa6c81959d692d19cb59b9c0751f9f3bc1d164f3c98d",
+    "sha256_of": "original",
+    "working_copy": "1841_p080.jpg"
+  },
+  "text": "Nro.\n73\nIm Klingenthal.\n302 Füffinger, Ulrich, Müller.\n303 * Burckhardt, Leonhard, Grieger, geh.\n303 a * Stallung, zu Nro. 302 geh.\n304 Burckhardt, Leonhard, Grieger.\n305 u. 306 Kruse, Marg., Wittwe, geb. Camper.\n  Oberer, geb. Kaufmann, Salomea, Wascherin.\n307 * Holzschopf, Magazin und Stallung, zu Nro. 293 geh.\n308 * Holzschopf, dem Kanton geh.\n308 a * Leipzig, Peter Anton, Lohnkutscher.\n309 Furler, Joh., Stuhlschreiner.\n309 a Leipzig, Peter Anton, Lohnkutscher.\n310 Klingenthal-Kaserne, dem Staat.\n  Seiler, Heinrich, Schneider und Cafernier.\n310 a * Füffinger, Ulrich, Müller.\n311 * Minder, J. J., Sohn, geh.\n312 * Der Stadt geh. Ecklin, J. H., Auffeher der Armenanstalt.\n313, 314 u. 315 * Klingenthalmühle, Remise, Scheune, Stallung\n  und Wohnung. Sam. Minder, Rathsherr, geh.\n  Minder, J. J., Sohn.\n316 Stallung, zu Nro. 317 geh.\n317 * Der Stadt geh. Kern, Elias, Rathsherr.\n318 Minder, J. J., Kaufhausbestäter.\nUntere Webergasse.\n319 * Sulger, Andre., Kaufmann.\n  Linder, Wittwe, geb. Barbara Heusler.\n320 * Sägemühle Minder, Sam., geh.\n321 u. 322 Schäfer, Nikolaus, Schuhmacher.\n  Basler, Bernh., Seidenfärbcr.\n323 Zindel, Jakob, Müller.\nBadergässlein.\n324 * Neukom, Joh., Lohnwascher.\n325 Masarey, Franz, Seidenfärbcr.\n  Fischer, Andre. sel., Wittwe, Lohnwascherin.\n326 * Raillard, Peter, Gerber, geh.\n327 u. 328 * Remise und Stallung, zu Nro. 323 geh.\n329 Degen, Heinrich, Zimmermann.\n330 * Neukom, J., Wascher.\nUntere Webergasse.\n331 * Sulger, Andreas.\n332 Kespinger, Karolina, geb. Dörflinger, Haubenwascherin.\n333 Fäsch, Jakob, Weißbeck.\n10",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4974,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1557,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0222,
+    "mean_line_chars": 33.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p080",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p080.jpg",
+      "bytes": 979920,
+      "sha256": "2b7086d802114082fe56aa6c81959d692d19cb59b9c0751f9f3bc1d164f3c98d",
+      "sha256_of": "original",
+      "working_copy": "1841_p080.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:53+00:00"
+  }
+}

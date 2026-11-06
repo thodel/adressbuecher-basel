@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p097",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p097.jpg",
+    "bytes": 959083,
+    "sha256": "faacb18ec13c503c091327479336c62be6b7df135319c75db33bff45a2f5519f",
+    "sha256_of": "original",
+    "working_copy": "1850_p097.jpg"
+  },
+  "text": "84 Riechen-Quartier.\n\n121 Buser, Friedrich, Mechaniker.\n122 Bieler-Salathe, Joh. Jak., Küfer.\n  Mende, Adam, Partikular.\n  Walz, Karl, Commis.\n123 Hentz, Eduard, Ferger.\n  Gluntz, Friedrich, Dessinateur.\n124 Bresin, Martin, Weißbeck.\n125 Hecht, Jakob, Zimmermann.\n126 Müry, Jakob, Wirth.\n\nOberes und unteres Kirchgäßlein.\n\n127-28 Wall, Heinrich, Spezerei- und Käshandlung.\n129 Iselin, Frau, Lohnwascherin.\n130 Schäfer, Jak., Schreiner.\n  Meyer, Ludw., Schuhmacher.\n131 Jäcklin, Eml., Baumeister.\n  Kuhl, Caspar, Commis.\n132 (Waisenhaus) Burkhardt, Joh. Rud. Luk., Pfarrer,\n  Waisenvater.\n133 Bulacher, Hieron., Siegrist bei St. Theodor, Ge-\n  schäftsmann.\n134 (Knabenschulhaus) Schaffner-Schäfer, Fr., Phil.\n  Laur., Lehrer.\n135 (Knabenschulh.) Hindermann-Landerer, Ph., Lehrer.\n136 Siegmund, Jakob, Kunstmaler.\n  Siegmund, Peter.\n  Jordan, Conrad, Zolleinnehmer.\n137 Fäsch, Eml., Zimmermann.\n  Thommen, Heinrich, Fuhrhalter.\n\nBeim Riechenthor.\n\n138 Obrigkeitlich.\n  Tschientschy, Simon, Säger.\n  Müller, Jakob, Lohnfuhrhalter.\n139 (Riechenthor) Obrigkeitlich.\n  Doggwyler, Hch., Färbergesell.\n140-40A Tester-Geßler, Josua, Zimmermeister.\n141 vonBrunn-Braun, Wittwe Marg., Spezereihandlg.\n142 Mäglin, Christ., Metzger, Weinschenk.\n  Stelzer, Leonhard, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6106,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1262,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p097",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p097.jpg",
+      "bytes": 959083,
+      "sha256": "faacb18ec13c503c091327479336c62be6b7df135319c75db33bff45a2f5519f",
+      "sha256_of": "original",
+      "working_copy": "1850_p097.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:31+00:00"
+  }
+}

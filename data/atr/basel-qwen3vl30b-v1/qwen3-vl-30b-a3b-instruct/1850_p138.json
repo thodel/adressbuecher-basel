@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p138",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p138.jpg",
+    "bytes": 1247722,
+    "sha256": "6580773659047c80bdc4627beef5837a90e735fd9c10a811b427b8be8ed8e846",
+    "sha256_of": "original",
+    "working_copy": "1850_p138.jpg"
+  },
+  "text": "Streuber, Christ. Wilh. 107\nW. Theod., Phil. Dr. 107\nStricker, L. D., Kupferdr. 438\nStrub, Lukas, Meßger 397\nEduard, Meßger 823\nHs. G., Bater, Meßger 1141\nEmanuel, Wirth *27\nStrübin, Hr., Zimmerm. 44\n=Loz, Meßger 312\nAch., Spedit.=Hdlg. *390\nWwe., Marie, Beck 1237\n=Hunziger, Ag., Wwe. 1253\nWittwe, Uhrenmacher 1528\nStuber, F., Fabrikarb. *57\nStucky, Ed., Tabachdgl. 116\nStückelberger, R., Beck 322\nF. F., Weinhdgl. 1045B\nAndreas, Bandfabrik. 1292\nUlrich, Pfarrer 1465-66\n=Berri, Wittwe 546\n=Holzach, Wwe., Marg. 803\nWittwe 1665-66\nStuckert, Commis 1380\nStuder, Joh., Müller *354\nWwe. A. M., Kostgeb. *21\nStumm, Fr., Spez.=Hdlg. 164\nStupanus, Chr., Commis 160\nJeremias, Buchbinder 201\nStürchler, Wittwe 1568\nSüßert-Mieg, Kunstmal. 25\nSulger, Rud., Sperer 1\n=Stähelin, Andr.\n& Stückelberger 1269AB\n=Heufler, Joh. 1311C\n=Stähelin, Tab.=Mühle*319\n=Dobler, Wwe. Louise, 1182\n=Sprecher, Wittwe 1473\n=Dobler, Wwe. Louise 1512\nSulzmann, W., Schuhm. 495\nSurgan, Kl., Partikular *110\nSurgand, C. M. *157\nSutter, F., Wildprethlg. 605-6\nJakob, Taglöhner 876\nSutter, Rudolf, Posam. 910\nChrist., Spezierer 1318\n=Konus, Rudolf 1385\nR. E., Schirmfabrik. 1507\nJoh. Jak., Sattler 1602\nJoh. Jak., Gerber 1602\nHeinrich, Commis *80\nTefer-Geßler, Josua *140\nTharin, H., Schriftfeger *146\nTheubet, Bist., Partif. 1590\nThierry, Fz. Jos., Kostgeb. 1254\nThoma, Bonifaz, Kutscher 829\nThommen, Wwe. Cath. 539\nJoh. Jak., Küfer 930\nF., Küfer 1064\nD., Landjäg.=Wachtm. 1108\nJoh. Jak., Gärtner 1135\nJoh., Fabrikfeger  *65\nFak., Zollangestellter *65\n=Hunzifer, H., *71\nHeinr., Appreteur *90\nHeinr., Fuhrhalter *137\nFfaak, Lohnwäscher *325\nWittwe, Lohnwäscherin*263\nThurneyfen, P., Drechsler 488\nLudw., Weißgerber 665\nGottlieb, Partikular 783\nL. Andr., Papierfabr. 1282\nChristoph, Rentier 1292\n=Paravicini, Emil 1340\n=Merian, E., Bandfabr. 1352\nJoh. Sch. Ed., J. U. D. 1352\n=Burckhardt, Wwe. 1352\n=Bell, Sch., Schneider 1419\n=Gak, Wwe., Beck 1354\n=Ryhiner, Wwe. Bal. 1377\nTobler-Gengenbach, Sch. 1491\nTrapet, Rich., Goldschm. 1537\nTreier, Karl, Flachmaler 321\nTreu, Lukas, Wundarzt 982\nRudolf, Deler *378\nWittwe *378\nTreulin, F. F., Postfaktor 1427\n125",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8821,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2119,
+    "lines": 87,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p138",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p138.jpg",
+      "bytes": 1247722,
+      "sha256": "6580773659047c80bdc4627beef5837a90e735fd9c10a811b427b8be8ed8e846",
+      "sha256_of": "original",
+      "working_copy": "1850_p138.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:24+00:00"
+  }
+}

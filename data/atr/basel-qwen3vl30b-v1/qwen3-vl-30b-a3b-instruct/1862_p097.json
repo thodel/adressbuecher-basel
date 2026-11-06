@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p097",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p097.jpg",
+    "bytes": 1274307,
+    "sha256": "5e1e8b2ecc79a1a336ff64072e588dbb9f57babb9a633e7c3d190e44466e616f",
+    "sha256_of": "original",
+    "working_copy": "1862_p097.jpg"
+  },
+  "text": "32 Brunn Gäflein. — Burgfelder-Straße. — Byfangweg.\nNene\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nBrunngäflein.\n4 IV. 1019 zum roth. Löwen. Martin, Gebrüder.\nMartin-Zeug, Rudolph, Hafnermeister.\nMartin, Johannes, Hafnermeister.\nBuek-Hofer, Wilhelm, Mechaniker.\nUrech-Mohler, Jakob, Schreiner.\n5 IV. 1024 Bulacher, Wb. Salome.\n7 IV. 1023 Forcart-Hoffmann sel., Erben.\nBirg, Verena, Wittwe, Partikularin.\n6\n8} IV. 1020 Joh. Rud. Geigh u. Heusler.\n(Magazin.)\n11 IV. 1022 hint. Würtemb. Hof Wackernagel-Sarasin, Wilh.\nWackernagel, Wilhelm, Dr. u. Prof.\n13 V. 1021 rothes Haus. Sarasin-Forcart, Pfarrer u. Jgfr.\nElise Forcart gemeinschaftlich.\nDflander-Feierabend, Johann August,\nSchreiner.\n24\n26} IV. 1006 BuC Roehlin u. Söhne.\nRoehlin u. Söhne, Bandfabriken.\nBurgfelder-Straße.\n6 I. 71 Borer-Kaltenbach, Beda.\nBorer-Kaltenbach, Beda, Landmann.\n12 I. 75 A Schneider-Wiesner, Elis. Wb.\nSchneider-Wiesner, Elisab. Wb., Guts-\nbesitzerin.\n16 I. 75 B Schneider-Schweighauser, Martin.\nSchneider-Schweighauser, Mart., Guts-\nbesitzer.\n20 I. 77 Zollanmeldungspost. Staat.\n22 I. 76 Gürtler-Bogt, Joseph.\nGürtler-Bogt, Joseph, Gutsbesitzer.\nByfangweg.\n2 II. 168 A Mazinger-Wäffler, Bernhard.\nMazinger-Wäffler, Bernhard, Commis.\nRosenmund-Bohny, Fr., Zollbeamter.\n4 II. 172 A Beck-Berlinger, Joh. Jakob.\nBeck-Berlinger, Joh. Jakob, Schlosser.\nBachmann-Weil, Conrad, Commis.\n32 II. 161 EuD Schneider-Wirz, Wilhelm.\nRosenfeld-Munkinger, Josef Eduard,\nKunstmalер.\nHibbert-Hoyle, Robert, Particular.\n34 II. 161 D Schneider-Wirz, Wilhelm.\nPeter, Johanna u. Verena, Particul.\nJünemann-Apitz, Hermann, Gießerei-\nFactor.\nMilliet-Grooben, Franz Ludw., Kohlen-\nhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5849,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1696,
+    "lines": 60,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:32:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p097",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p097.jpg",
+      "bytes": 1274307,
+      "sha256": "5e1e8b2ecc79a1a336ff64072e588dbb9f57babb9a633e7c3d190e44466e616f",
+      "sha256_of": "original",
+      "working_copy": "1862_p097.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:44+00:00"
+  }
+}

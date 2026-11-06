@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p120",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p120.jpg",
+    "bytes": 1047590,
+    "sha256": "ea8807dc86aaf98f11253249ba5e1135603a001e2cd85bcf60bbf301c636f77f",
+    "sha256_of": "original",
+    "working_copy": "1841_p120.jpg"
+  },
+  "text": "37\nRyff, Peter, Kohliberger. 752 Kohliberg.\nRyhiner, Carl, Handelsmann. 940 Aeschen-Vorstadt.\nRyhiner, Benedikt, Hauptmann. 252 St. Petersplaz.\nRyhiner, Samuel, Appellationsgerichts-Präsident. 64 a St. Johann-\nVorstadt.\nRyhiner, Peter, Rentier. 64 b St. Johann-Vorstadt.\nRyhiner, geb. Battier, Wittwe. 1064 Spitalgässlein.\nRyhiner-Schönauer, Kaufmann. 933 St. Elisabethen.\nRyhiner-Christ, Eman., Kaufmann. 1377 Hinter dem Münster.\nRyhiner-Streckeisen, A. P., Wittwe. 1365 Hinter dem Münster.\nRyhiner-Bischoff, Samuel, Rentier. 127 Neue Straße.\nRyhiner-Bischer, Chr., Kaufmann. 228 Schwarze Pfahlgasse.\nRyhiner-Werthemann sel. Wittwe. 1043 Aeschen-Vorstadt.\nRyhiner-Frischmann sel. Wittwe. 30 a St. Johann-Vorstadt.\nS.\nSäckinger, Anton, Zimmergesell. 992 Aeschen-Vorstadt.\nSäuberlin, Joseph, Kutscher. 425 Heuberg.\nSalathe, Emanuel, Küfer. 327 Fröschgasse.\nSalathe, Joh. Jakob, Mechanikus. 9 b St. Johann-Vorstadt.\nSalathe, Heinrich sel., Wittwe. 1184 Freie Straße.\nSalathe, Joh. Georg, Sattler. 453 Beim Spahlenthurm.\nSalathe, Joh., Kaufmann. 444 Spiekhofgasse.\nSalathin, Johannes. 793 Hinterer Bach.\nSandoz, Carl. 1615 Markt.\nSandreuter, Wittwe, geb. Heusler. 509 Adelberg.\nSandreuter, Rudolf, Schuhmacher. 581 Schneidergasse.\nSandreuter, Joh. Jakob, Schuhmacher. 576 Schneidergasse.\nSandreuter, Rudolf, Mezger, Weinschenk. 297 Spahlen-Vorstadt.\nSandreuter, Emanuel, Spengler. 1735 Beim Kornmarktbrunnen.\nSandreuter, Heinrich, Schneider. 1568 Schneidergasse.\nSarafin, Benedikt, Handelsmann. 551 Adelberg.\nSarafin, Adolf, Pfarrer. 1051 St. Albangraben.\nSarafin, Lucas, Wechsel-Senfai. 551 Adelberg.\nSarafin, L. A. sel., Wittwe, geb. Merian. 1213 St. Alban-Vorst.\nSarafin, geb. Maria Socin, Wittwe. 438 Spiekhofgasse.\nSarafin-Heusler, Carl. 1228 St. Alban-Vorstadt.\nSarafin-Burckhardt sel. Wittwe. 1479 Augustinergasse.\nSauvain-Stehlin, David Sal. 1311 St. Alban-Vorstadt.\nSchabelik, J. C., Buch- und Schreibmaterialien-Handlung, Buch-\ndruckerei und Buchbinderei. 1425 Freie Straße.\nSchäffer, Abraham. 1035 Aeschen-Vorstadt.\nSchäffer, Heinrich, Pintenschenk. 89 St. Johann-Vorstadt.\nSchäffer, Joh. sel., Wittwe. 1246 Malzgasse.\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6665,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2128,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:56:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p120",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p120.jpg",
+      "bytes": 1047590,
+      "sha256": "ea8807dc86aaf98f11253249ba5e1135603a001e2cd85bcf60bbf301c636f77f",
+      "sha256_of": "original",
+      "working_copy": "1841_p120.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:54+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p018",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p018.jpg",
+    "bytes": 950077,
+    "sha256": "b94cd2d99ce4ba9103a7207442f0a7edb1c75775c8614fc6e53290af03d31cb5",
+    "sha256_of": "original",
+    "working_copy": "1841_p018.jpg"
+  },
+  "text": "11\nNro.\n261 Merian, Abel, alt Stadtschreiber.\n262 Preiswerk, J. J. sel. Wittwe, geb. Stücksberger.\n263 Wohlnich, Jungfer Margaretha.\n  Spiek, Rudolf, Schreiber.\n264 u. 265 Siber-Bischoff, Seidenfabrikant.\n266 Falkner, Nikolaus, alt Direktorialschreiber.\n267 a Alweng, J. J. sel. Wittwe, geb. Dietzchy.\n267 b Sirt, J. J., Flachmaler.\n267 c Köchlin, Jungfrau.\n268 Kappeler, J. Abr., Hafner.\n269 a Lindenmeyer, Samuel, Schreiner.\n  Jäsch-Jäslin, Oberschreiber am Spital.\n269 b Burckhardt-Jfelin, Emanuel, alt Rathsherr.\n  Burckhardt und Kern, Seidenfabrikanten.\n  Merian, Nikol., Stud. d. Theologie.\n269 c Burckhardt-Gemuseus, Sohn.\nSt. Johann-Graben.\n270 * Botanischer oder Doktor-Garten.\n271 * Zuchtanstalt.\nIm Kloster.\n272 * Franz. Pfarrhaus. — Billard, Emil, v. Evillard, franz. Pfr.\n  Herzog, Emanuel, Sigrist.\n272½ Hekel, Gottl. Fr., Mechanikus.\nLottergasse.\n273 * Burckhardt, Rudolf de Joh. Burckhardt-Gemuseus geh.\n274 a Jfelin-Debary, Rudolf, Kaufmann.\n274 * b Jäsch, Balthasar, Kaufmann, geh. Burckhardt, Rud., Oberst.\nSt. Johann-Schanze.\n275 a Müller, Leonhard, Steinmeß.\n275 b dito Meyer-Hoffmann, Kaufmann.\n275 c Obrigkeitlicher Holzschopf.\n275 d Profosen-Wohnung. — Jakob Götti.\nB. Spahlen-Quartier.\n276 * Großes Zeughaus, dem Kanton gehörend.\n277 * Wohnung des Zeugwarts dito — Karl Pfannenschmid.\nZeughausgraben.\n278 * Stadtschlosserei. — Bloch, geb. Ründig, Wittwe.\n279 * Schaffnereihaus. — Rosenburger, J. Chr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4489,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1425,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p018",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p018.jpg",
+      "bytes": 950077,
+      "sha256": "b94cd2d99ce4ba9103a7207442f0a7edb1c75775c8614fc6e53290af03d31cb5",
+      "sha256_of": "original",
+      "working_copy": "1841_p018.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:28+00:00"
+  }
+}

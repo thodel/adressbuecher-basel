@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p156",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p156.jpg",
+    "bytes": 1014143,
+    "sha256": "6b5a9d1e7c456f3719cf65691843a5719c4b7796f843b08c284daa0d7ed48ed4",
+    "sha256_of": "original",
+    "working_copy": "1850_p156.jpg"
+  },
+  "text": "143\n\n582 | Schnewlin & Cie. | Carl Schnewlin.\n  Michael Sautter, Pro-\n  curaträger.\n\nT.\n\n1282 | Thurneisen'sche\n  Papierfabrik | Ludwig Andreas Thurn-\n  eisen.\n  Hans Rud. Thurneisen,\n  Procuraträger.\n*384 Rudolf | Trueb | Wittwe Elisabeth Trueb,\n  geb. Näf.\n\nV.\n\n1386 J. Bernh. | Vest, jünger | Johann Bernhard Vest,\n  jünger.\n1590 Emanuel | Vest | Emanuel Vest.\n1364 | Vischer u. Sohn | Friedr. Vischer-Bischoff.\n  Carl Awengen-Müller,\n  Procuraträger.\n  W. Breiter-Brüderlin,\n  Procuraträger.\n1575 J. G. | Vogt & Cie. | Joh. Georg Vogt.\n  August Benniz Procu-\n  Johann Welte raträ-\n  Nikolaus Rogg ger.\n1598 | VonderMühll u.\n  Söhne | Joh. Georg Vonder-\n  Mühll.\n  Johannes VonderMühll.\n  August VonderMühll.\n1230 | VonderMühll-Hoff-\n  mann | Leonhard VonderMühll.\n  Fr. VonderMühll - Vi-\n  scher, Procuraträger.\n  A. VonderMühll-Fürsten-\n  berger, Procuraträger.\n1230 Gebrüder | VonderMühll | Friz VonderMühll.\n  Alfred VonderMühll.\n  J. J. Simmen, Procu-\n  raträger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5715,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 971,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.05,
+    "mean_line_chars": 21.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:24:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p156",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p156.jpg",
+      "bytes": 1014143,
+      "sha256": "6b5a9d1e7c456f3719cf65691843a5719c4b7796f843b08c284daa0d7ed48ed4",
+      "sha256_of": "original",
+      "working_copy": "1850_p156.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:24:55+00:00"
+  }
+}

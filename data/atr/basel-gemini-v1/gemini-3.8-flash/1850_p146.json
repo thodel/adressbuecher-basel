@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p146",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p146.jpg",
+    "bytes": 1035173,
+    "sha256": "45794681a15f248dfd910141b0e32f8d0bf118919be9efd4bd95427dde9fa48d",
+    "sha256_of": "original",
+    "working_copy": "1850_p146.jpg"
+  },
+  "text": "133\n\nD.\n1381 A Jn Nas David & Consort. Christoph Socin-Werthe-\n  mann.\n1239 Johannes David . . . Johannes David.\n1483 Johann Debary & Bischoff Johannes Debary - Sa-\n  rasin.\n  Wilhelm Bischoff-Burck-\n  hardt.\n  Joh. Jakob Fiechter.\n1041  Dietschy-Fäsch . Joh. Dietschy-Fäsch.\n1582 Siméon Dénéréaz . . Siméon Dénéréaz.\n598 Melchior Dieticker . . Melchior Dietiker.\n602  Isaak Dreifuß,\n  Söhne  Leopold Dreifuß-Hirsch.\n  Samuel Dreifuß - Neu-\n  mann.\n  Jaques Dreifuß-Feidels.\n665 Christian Dreis . . . Christian Dreis.\n\nE.\n870A Eduard Eckenstein . . Eduard Eckenstein.\n551 J. C. Eckhard . . Johann Conrad Eckhard.\n657 Friedrich Eglin . . . Friedrich Eglin.\n1038  Ehinger & Cie. Christoph Matthias Ehin-\n  ger-vonSpeyr.\n  Hierons. de Benedict\n  Burckhardt.\n  Jonas Heinrich Rognon,\n  Procuraträger.\n*394 Wittwe Eisenlohr . . Elisabeth Eisenlohr, geb.\n  Bloch.\n\nF.\n1667  Faesch-Dünner . Faesch-Dünner.\n1083 Joh. Fischer . . Johannes Fischer.\n1668 Nikolaus Fischer . . Friedrich Meyer.\n1063 Rud. Fischer . . Anton Schmidt-Brenner.\n1052  Forcart = Weis &\n  Burckhardt-Wildt Rudolf Forcart = von\n  Gentschik.\n  Dl. Burckhardt-Forcart.\n  Lud. Burckhardt-Forcart.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6458,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1155,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 26.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p146",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p146.jpg",
+      "bytes": 1035173,
+      "sha256": "45794681a15f248dfd910141b0e32f8d0bf118919be9efd4bd95427dde9fa48d",
+      "sha256_of": "original",
+      "working_copy": "1850_p146.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p006",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p006.jpg",
+    "bytes": 1154722,
+    "sha256": "9c91a9d642121bca44f15b56052f2592694ef123f7446fa68ad68772bb6cd3cf",
+    "sha256_of": "original",
+    "working_copy": "1850_p006.jpg"
+  },
+  "text": "Grau & Breulizany & Co m. n.\nNeues\nAdressen - Buch\n(Nummernbüchlein)\nder\nStadt Basel.\nHerausgegeben\nvon\nJ. G. Wölfflin.\n/4 43\nBasel 1850.\nDruck von J. W. Baur sel. Erben.\nStaatsarchiv\nBasel-Stadt\nKATALOG",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 1627,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 203,
+    "lines": 15,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 12.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0099,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p006",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p006.jpg",
+      "bytes": 1154722,
+      "sha256": "9c91a9d642121bca44f15b56052f2592694ef123f7446fa68ad68772bb6cd3cf",
+      "sha256_of": "original",
+      "working_copy": "1850_p006.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:11+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p021",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p021.jpg",
+    "bytes": 915183,
+    "sha256": "3abf4e24ab6f3b9eea441a9c9f31269911692862a73175897980e5b628108646",
+    "sha256_of": "original",
+    "working_copy": "1841_p021.jpg"
+  },
+  "text": "14\nNro.\n335 Madeur, Joh. (Rag. : Madeur u. Wohhlich), Commissions-,\n    Speditions- und Colonialwaaren-Handlung.\n335 * a Brennhaus, Emanuel Salathe, Küfer, geh.\n336 * Stallung v. Hrn. Müller, Ochsenwirth.\n337 * a Magazin der H.H. Madeur und Wohhlich.\n337 * b       ,       , Courvoisier u. Comp.\n338 Bühl-Jenny, Georg Fr., Straßenpflasterer.\n339 Barth, Wittwe und Söhne, (Magelhandlung).\n    Berardie, Louis de St. Etienne, Dessinateur pour\n    Rubans et Etoffes.\n340 * Wittwe von Abraham Ziegler geh.\n341 * Magazin von Bernoulli, Sohn, Nik. de Hieronymus.\n342 Föhr, Wittwe, geb. Schnebeli, und Sohn.\n343 u. 344 Ammon, J. Thoni, Wagner.\n345 Müller, J. J., Bater.\n346 * Stallung v. Müller zum Ochsen.\n347 Meyer, Peter, Mezger.\nSpahlen-Vorstadt.\n348 Schilling, Wittwe, geb. Herzog.\n    Schilling, Rudolf, Hufschmid.\n349 * Gesellschaftshaus zur Krähe.\n    Laur-Jäslin, Ferd., Gesanglehrer.\n350 Merian-Frischmann, Rud., Banquier.\n    Merian, Wittwe, geb. Stücksberger.\n351 Henz, Jakob, Weißbeck.\n    Freuler, Jakob, Kaufmann.\n    Immler, Wilhelm, Schreiner.\n352 Schölli, Caspar, Tuchscheerer.\n    Burchhardt, geb. Heusler, Esther, Wittwe.\n    Meyer-Lichtenhahn, Candidat.\n352 a Ullmann, Moses, Bater, Wirth zur Ranne.\n353 Stößel, Joh., Gasthaus zum Engel.\n354 Henz, Joh., Weißbeck.\n    Spörlin, Lucas, Schuhmacher.\n    Müller, Friedr., Maler.\nSt. Leonhardsgraben.\n355 Raff, Franz, Bater und Sohn, Pofamentierstuhlmacher.\n    Senn, Jakob, Kunstmaler.\n    Lefer, Adolf, Wirthschaft.\n    Krug, J. Georg, Kaufmann.\n356 * Magazin von Hieronymus Bernoulli, Sohn.\n357 Bleyler, Rudolf, Commissions- Speditions- u. Colonialwaaren-\n    Handlung.\n358 * Magazin von R. Bleyler.\n359 Schölli, Joh. Caspar, Sohn, Wagner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5009,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1701,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p021",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p021.jpg",
+      "bytes": 915183,
+      "sha256": "3abf4e24ab6f3b9eea441a9c9f31269911692862a73175897980e5b628108646",
+      "sha256_of": "original",
+      "working_copy": "1841_p021.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:42+00:00"
+  }
+}

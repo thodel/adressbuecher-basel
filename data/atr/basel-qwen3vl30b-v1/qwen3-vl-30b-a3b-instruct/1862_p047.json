@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p047",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p047.jpg",
+    "bytes": 1278539,
+    "sha256": "38de1a9246a5d763108d9af57239c3b7a2f855d5642999be87f538bd2fdcc50e",
+    "sha256_of": "original",
+    "working_copy": "1862_p047.jpg"
+  },
+  "text": "XLIV\nRagionenbuch.\nHandlungs firma. | Interessenten u= Firmaführer. | Natur des Geschäfts.\nHandwerker=Bank. | für welche unterzeichnet: | \n| H. David, Präsident. | \n| Gust. Bernoulli, Vice-Präsident. | \n| Fr. Haubenfack=Reiber, allein. | \n| P. Hausamann, allein. | \nHaubenfack, Friedr. | | Weinz u. Spirituosen= \nHausamann, P. | | handlung. \n| | Spirituosenhandlung. \nHaufer=Ofer, R. | Rud. Haufer=Ofer, allein. | \n| Wilh. Strub, Prokuraträger. | \nHaufer u. Steigmeyer. | David Haufer=Gürtler. | \n| Joh. Steigmeyer. | \nHediger et Comp. | J. M. Aug. Gottf. Hediger, allein. | Bandfabrification. \nHefti, J. H. | J. H. Hefti, allein. | Cigarren= u. Tabakhdlg. \nHegetschweiler, Johann | Joh. Hegetschweiler, allein. | Tabak= u. Cigarrenfa= \nSohn. | | brifikation. \nHeidegger, H. F. | H. F. Heidegger, allein. | Seide=Senfal. \nHerzog=Scheitlin. | Achilles Herzog=Scheitlin, allein. | Leinwandlager u. Ellen= \n| | waarenhandlung. \n| | Floretspinnerei. \nHezel et Comp. | F. Hezel=Wunderlin, allein. | \n| J. C. Schöck, Commanditair. | \n| J. J. Merian=Burckhardt, Com= | \n| manditair. | \nHeusler, I'd. et Comp. | Leonh. Heusler=Thurneyssen. | Rohe Baumwolle und \n| Carl. Leonh. Heusler=Wegner. | Farbwaarenhandlung. \n| Wilh. de Leonh. Heusler. | \nHindermaun=Merian, | J. J. Hindermaun=Merian, allein. | Seidenbandfabrifikation. \nJ. J. | | \nHirzel, Salom. | Sal. Rud. Hirzel=Müller, allein. | Wagengarniturenhdlg. u. \n| | Lager von Bandfägen= \n| | blättern. \nHoch et Comp. | J. L. Hoch=Schneider. | Band= u. Seidenwaaren= \n| Ad. Wertenberg, Prokuraträger. | und Merceriehdg. en \n| | gros et détail. Commi= \n| | sion für d. Bandfach. \nHoffmann, Eman. | Emil. Hoffmann=Eglin. | Bandfabrifikation. \n| Joh. Bärwart, Prokuraträger. | \nHoffmann, Gönnner et | Albert Hoffmann. | Tuchhandlung. \nComp. | Adolf Gönnner. | \n| And. Schmidt=Götz, Commandi= | \n| tair. | \n| Math. Nörbel=Schmidt, Comman= | \n| ditair. | \nHoffmann, Joh. | Carl Uebelin, Prokuraträger. | Kurz= u. Mercierwaar. \nHohl, J. Robert. | Joh. Hoffmann=Strub, allein. | Broderie= u. St. Galler \n| J. Robert Hohl=Lutz, allein. | Artikel in allen Genres \n| | en gros et détail. \nHorandt u. Söhne. | Martin Horandt, Bater. | Seidenbandfabrifikation. \n| Adolf Horandt, Sohn. | \nHorlacher u. Hiltbrand. | Abr. Horlacher=Reinle. | \n| Joh. Hiltbrand. | \nHübscher, E. et Comp. | Adolf Hübscher, allein. | Pelzwaarenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7736,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2363,
+    "lines": 56,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:23:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p047",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p047.jpg",
+      "bytes": 1278539,
+      "sha256": "38de1a9246a5d763108d9af57239c3b7a2f855d5642999be87f538bd2fdcc50e",
+      "sha256_of": "original",
+      "working_copy": "1862_p047.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:25+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p094",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p094.jpg",
+    "bytes": 1107655,
+    "sha256": "886d9de8d14d714c746a513bc4ab51728576ad386efe5d7077b907395ba345e9",
+    "sha256_of": "original",
+    "working_copy": "1850_p094.jpg"
+  },
+  "text": "Riehen=Quartier.\n81\n57 Stuber, Johann, Fabrikarbeiter.\n58 Eschmann, Jungfr. M.\n59 Hindenlang-Sulger, F. F., Schiffmann.\nHindenlang-Sulger, Frau, Hebamme.\nHindenlang, Friedr., Commis.\nSpyri, Friedrich, Färbermeister.\n60 Dalang, Jakob u. Heinrich, Weißbek.\nA 61 (Gerberei) Baumgartner, Panfrazius.\n61 Braun-Gekler, Andreas, Gerber.\n62 Burckhardt, Eml., Schuhmacher.\n63 Bienz, Johann, Schneider.\n64 Bonfich, Seb., Wittwe, Schiffmann.\n65 Thommen, Joh., Fabrikferger.\nThommen, Jakob, Sohn, Zollangestellter.\nHug, Matth., Schwimmlehrer.\n66 Huth, Philipp, Sattler.\n67 Andreas, Wittwe, Schuhmacher.\nAndreas, Jakob, Postoffiziant.\n68 Schwarz, Leonh., Schreiner. [handschriftlich: gestrichen]\n69 Unbewohnt.\n70 Winfler, Clemenz, Schiffmann.\n71 Thommen-Hunziker, H., Wollenwäscher.\n72 Asmus, Friedrich, Zimmermann.\n73 Mazinger-Bloch, Joh. Jak., Vater und Lukas,\nSohn, Fischer.\n74 Huber, Heinrich, Gassenbeseker.\n75 Schneeberger, Rud., Schuhmacher.\n76 Maurer, Jakob, Spengler.\n77 Riedtmann, Joh. Heinrich, Rheinzoller.\nWeber-Riedtmann, Wittwe Marie, Ausschnittladen.\n78 Abig, Eml., Spengler.\n79 Brömmel, Friedrich, Professor.\nLeupin, Bened., Commis.\nHantho, Karl, Partikular.\n80 David, Christof, Schiffmann u. Weinschenk.\nSutter, Heinr., Commis.\n81 Wizig, Martin, Vater und Sohn, Seidenfärberei,\ngefallen.\n82 Bödegger, Wilhelm, Zimmermann.\n83 Christ, Wittwe Elis., Schuhmacher.\nZumkehr, Friedrich, Stuhlschreiner.\nChrist, Christian, Schneider.\n84 (Magazin) Lok, Friedrich, Seidenfärbere, gehörend.\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4503,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1486,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.33,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p094",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p094.jpg",
+      "bytes": 1107655,
+      "sha256": "886d9de8d14d714c746a513bc4ab51728576ad386efe5d7077b907395ba345e9",
+      "sha256_of": "original",
+      "working_copy": "1850_p094.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:15+00:00"
+  }
+}

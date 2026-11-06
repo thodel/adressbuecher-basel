@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p059",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p059.jpg",
+    "bytes": 895037,
+    "sha256": "d961057c38c1decc20171b9d08dd7b55352f6cf256444da37838822a3e96b007",
+    "sha256_of": "original",
+    "working_copy": "1841_p059.jpg"
+  },
+  "text": "52\nNro.\n1465 u. 1466 Stückelberger, geb. Stückelberger, Wittwe.\nOfer, Jungfrauen Margaretha, Emilie und Maria.\n1467 Bernoulli, Franz fel., Wittwe, geb. Werthemann.\n1468\n1469 Burckhardt, Martin fel., Wittwe, geb. Keller.\n1470\n1471 Bischoff, J. J. fel., Wittwe, geb. Debary.\nBischoff, Joh. und Friedrich, Söhne.\n1472 Rosenburger-Rapp, J. J.\n1473 Stähelin, Ph. fel., Wittwe, geb. Reber.\nAugustinergasse.\n1474 Miville, geb. Jäsch, Wittwe.\nMiville, J. J., Candidat.\n1475 Burckhardt, Martin fel., Erben.\n1476 Bischoff-Burckhardt, Wilh., Oberst und Handelsmann.\n1477 * Burckhardt, J. Rud., d. Theol. Dr., Lehrer am Gymnasium.\n1478 * Kürsteiner, Joh., Conrector.\n1479 Sarasin-Burckhardt fel. Wittwe.\n1480 * Werenfels, Franz, Magister, penf. Lehrer am Gymnasium.\n1481 Burckhardt, Margaretha, Jungfer.\n1482 Fürstenberger, Wittwe fel., Erben geh.\nEglinger, Eman. S. M. C., Privat-Mädchenschule.\n1483 u. 1484 Debary-Sarasin, Joh.\nDebary-Respinger, Wittwe.\n(Bandfabrik und Comptoir von Joh. Debary u. Bischoff.)\n1485 Bischoff-Burkorf, Peter.\n1486 Heller, Heinrich, Handels-Commis.\n1487 * Lehrerwohnung. Girard, J. L., Lehrer am Gymnasium.\n1488 Holzhaus, zu Nro. 1472 geh.\n1489 * Colleg. Alumn. Hug, J. J., alt Ehegerichtschreiber.\nSt. Martin.\n1490 * Bischoff, Gebrüder, geh.\nHorant, M., Werkführer.\nMadöri, Friedrich.\n1491 Jäslin-Falkeisen, Conrad.\n1492 * Sarasin-Burckhardt, Wittwe, geh.\n(Birma : Felix Sarasin und Heusler.)\n1493 * Stähelin-Reber fel. Wittwe geh.\nCamper, Wilh., Rutschcr.\n1494 Hinterhaus zu Nro. 1613, Stähelin-Christ geh.\nRiggenbach-Landerer, Wittwe.\n1495 * Sarasin, Hans Franz, geh.\n1496 * Schmidt, Abraham, Oberst-Rathsdiencr.\n1497 abgebrochen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5231,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1652,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p059",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p059.jpg",
+      "bytes": 895037,
+      "sha256": "d961057c38c1decc20171b9d08dd7b55352f6cf256444da37838822a3e96b007",
+      "sha256_of": "original",
+      "working_copy": "1841_p059.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:15+00:00"
+  }
+}

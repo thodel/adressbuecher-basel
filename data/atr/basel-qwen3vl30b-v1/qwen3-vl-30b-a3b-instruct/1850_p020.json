@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p020",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p020.jpg",
+    "bytes": 1080937,
+    "sha256": "20e9f92bf99fd25b110f8d9dbc7ea24700ac0e3604c2b76dea36a6750ccd02bc",
+    "sha256_of": "original",
+    "working_copy": "1850_p020.jpg"
+  },
+  "text": "10\nSt. Johann=Quartier.\nSchwarze Pfahlgasse.\n219 Fäsch=Spindler, Nikl., Wittwe.\nFäsch, Jungfrauen, modistes.\nGauthey, Charles, Kaufmann.\n220 Oser, Jungfrauen Julie u. Henriette, Partikularin.\n221 Bugtorf=Burckhardt, Wittwe, Rentière.\n222 Holzach, Wittwe Marg. geb. Nonus, Rentière.\nNonus, Wittwe Elisab. geb. Gemuseus, Rentière.\n223 Secrètan, A., franz. Pfarrer.\n224 Zimmerlin=von Speyr, Tabakfabrik. (Comptoir.)\nBurckhardt, Wittwe Lucie geb. Jacot, Rentière.\n225 Marfort, Joh. Bapt., Bergolder.\nGuzwiller, Seb., Kunstmaler.\n226 Hagenbach, Karl, Partikular.\n227 Biermann, Gebr., Rud. u. Wilh., Handelsleute.\nBiermann, Oskar, Dr. Juris. (Comptoir in Nr.\n149 A.\n228 Legrand, Adolf, Banquier.\nWerthemann=VonderMühll, And., Handelsmann.\nOberer Herbergberg.\n229 (Armenherberge) Fäsch, F. F., Bater, Herbergmei-\nster, Notar, J. U. D.\n230 Gyfin=Garnaus, Lehrer.\nGeiger, Jungfrauen, modistes.\nScherb, Adam, Bureau für technische Literatur.\n231 Legrand=deNeufville, Lukas, Rentier.\nGemuseus=Legrand, Wittwe.\nBattier, Geschwister.\n232 Mazinger, Franz, Schreiblehrer.\nSchmidt=Bächlin, Lehrer.\n233 Brenner, F. Fr., Med. Dr.\n234 Bayhinger=Wick, C. A., Speditor.\nHönes, August, Commis.\nRamus, August, Postbeamter.\n235 Schilling, Eml., Maler.\n236 Fazer, Frau, Pack- und Wachstuchverkauf.\n237 Tschudy, Jakob, Schneider, Rathsbote.\n238 Lok, Leonh., Siegriff, pensionirt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4373,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1353,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p020",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p020.jpg",
+      "bytes": 1080937,
+      "sha256": "20e9f92bf99fd25b110f8d9dbc7ea24700ac0e3604c2b76dea36a6750ccd02bc",
+      "sha256_of": "original",
+      "working_copy": "1850_p020.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:01+00:00"
+  }
+}

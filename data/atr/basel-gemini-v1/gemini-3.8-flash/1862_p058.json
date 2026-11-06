@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p058",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p058.jpg",
+    "bytes": 1401249,
+    "sha256": "fc6c62b30a62cd9dbc4de9004be6dde65b3e05e35b3dfcc6bcb01010e2be0757",
+    "sha256_of": "original",
+    "working_copy": "1862_p058.jpg"
+  },
+  "text": "Ragionenbuch. | LV\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nWiese, Gg., Agent. | Georg Wiese, allein. | Commissionär in Seide-\n  waaren.\nWild, J. | J. Wild, allein. | Spedition, Commission,\n  Incasso, Agenturen.\nWintsch. | J. R. Wintsch-Lorin, allein. | Bau- u. Brennholzhdlg.\nWirz, Hermann. | Hermann Wirz, allein. | Baumwollenagentur.\nWölfflin, R., Sohn. | Wilh. Rudolf Wölfflin, allein. | Tüll u. Spitzen en gros.\nWolf, Elie. | Elie Wolf, allein. | Schreibmaterialien- und\n  Antiquitätenhandlg.\nWüst, Heinrich. | Joh. Heinrich Leonz Wüst, allein. | Käsehandlung.\nZäslein, Joh. | Conrad Zäslein-Falkeisen und\n  Fäsch-Zäslein, Notar, als Vögte.\n  H. Itschner, Prokuraträger. | \nZäslein-Falkeisen, C. | Conrad Zäslein-Falkeisen, allein. | Speculation.\nZäslin und Baumann. | Emanuel Zäslin-Sulzberger.\n  H. Zäslin-Thurneysen.\n  Zäslin-Fäsch.\n  Eml. von Fr. Paravicini-Zäslin.\n  J. J. Völlmy, Prokuraträger. | Commission, Spedition,\n  Landesprodukte, Colo-\n  nialwaaren.\nZimmerlin, A. | Fr. August Zimmerlin-VonSpeyr,\n  allein. | Tabakfabrikation.\nZwilchenbart, A. | Andreas Zwilchenbart, allein.\n  Otto Stör, Prokuraträger und\n  Interessent.\n  Schmid, J. U., Interessent. | Auswanderungsbureau\n  u. Agenturen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5958,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1239,
+    "lines": 30,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:33:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p058",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p058.jpg",
+      "bytes": 1401249,
+      "sha256": "fc6c62b30a62cd9dbc4de9004be6dde65b3e05e35b3dfcc6bcb01010e2be0757",
+      "sha256_of": "original",
+      "working_copy": "1862_p058.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:06+00:00"
+  }
+}

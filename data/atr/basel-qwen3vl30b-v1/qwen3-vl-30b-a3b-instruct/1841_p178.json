@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p178",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p178.jpg",
+    "bytes": 1075487,
+    "sha256": "34dec16df442ce994fb2c80437c84fad284c80df810d96003aae22c239eb3fa3",
+    "sha256_of": "original",
+    "working_copy": "1841_p178.jpg"
+  },
+  "text": "- 25 -\nSchmidt, J. J., von Seon, R. Vargau, Lohnamtsarbeiter.\n349 Ochsen gaffe.\nSchneider, Jakob, Zimmergesell. 422 Uden gaffe.\nSenn, Joh., v. Siffach, Fabrikarbeiter. 241 Ochsen gaffe.\nSiber=Loz, Kaspar, Part. 46 Rheingasse.\nSiegfried, geb. Mäzinger, Agnes, Wittwe. 198 Reb gaffe.\nSiegrist, Franz, Schuhmacher. 147 Am Riehen=Thor.\n* Soller, Joh. Hier., Weißbäcker. 339 Untere Weber gaffe.\nStelzer, Leonhard, Schreiner. 27 Schafgäcklein.\nStierlin=Mathez, Christ. Ludw., Commis. 226 Greifeng.\nStückelberger, Jeremias, Fassiner. 382 Kremper gaffe.\nStürchler, Joh. Baptist, von Arlesheim, Landjäger. 50\nRheingasse.\nSutter, Mich., sel. Wittwe, zum schwarzen Bären. 18\nund 19 Rheingasse.\nT.\nTripet, Franz, Dr. d. Phil. 122 Obere Reb gaffe.\nTripet, Friedrich, Kaufmann. 122 Obere Reb gaffe\nTschopp, Christian, Fabrikarbeiter. 357 Sägergäcklein.\nU.\n* Uhlmann=Mäzinger, Abraham, Feger. 381 Kremper gaffe.\nV.\nBöllmy, Joh. Jakob, Feger. 286 Weber gaffe.\nVon Brunn, geb. Braun, Marg. 141 Beim Riehenthör.\nVon Speyr, Lukas, Schlosser. 308 a. Im Klingenthal.\nW.\nWenk, geb. Spreng, Dorothea, Wittwe. 375 Untere Rheing.\nWenk, Nikolaus, von Alp, Gerbergesell. 355 Ochsen gaffe.\nWertenberg, Abraham, Schneider. 117 Obere Reb gaffe.\nWüst, Joh., von Holzhausen, Zimmermann. 30 Rheing.\nZ.\nZäslein, Joh. Jakob, Commis. 100 Am Lindenberg.\nZäslein, Franz, Buchbinder. 4 Rheingasse.\nZäslein, geb. Falkeisen, Kath., Wittwe. 194 Reb gaffe.\nZäslein, Franz, Part. 194 Reb gaffe.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4797,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1452,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:02:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p178",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p178.jpg",
+      "bytes": 1075487,
+      "sha256": "34dec16df442ce994fb2c80437c84fad284c80df810d96003aae22c239eb3fa3",
+      "sha256_of": "original",
+      "working_copy": "1841_p178.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:56+00:00"
+  }
+}

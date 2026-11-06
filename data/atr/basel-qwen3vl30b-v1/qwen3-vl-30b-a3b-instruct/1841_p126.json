@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p126",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p126.jpg",
+    "bytes": 1049103,
+    "sha256": "e86adf8df1d0bfb7b7d79f95e4d521e611d5a6f5a0ecc1f4037104d7951ef9d6",
+    "sha256_of": "original",
+    "working_copy": "1841_p126.jpg"
+  },
+  "text": "43\nSpieß, Rudolf, Schreiber. 263 Neue Vorstadt.\nSpieß, Joh. Jakob, Posamentier. 690 St. Leonhardsberg.\nSpittler, Christ. Friedrich, Sekretär. 1449 Schlüsselberg.\nSpik, Leonh., Hausknecht. 52 St. Johann-Vorstadt.\nSpörlin, Lucas, Schuhmacher. 354 Spahlen-Vorstadt.\nSpörlin, J. Ulrich fel., Wittwe, geb. Wolleb. 529 Imbergässlein.\nSpörlin, Wittwe, geb. Merian. 712 Barfüsserplatz.\nSpreyermann, Elias fel., Wittwe. 1106 Streitgasse.\nSpreyermann, Georg, Schneider. 1114 Weiße Gasse.\nSpreyermann, Elias, Sohn, Kaufmann. 764 Bordere Steinen-Vorst.\nSpreng, Joh. Jakob, Wechself-Senfal. 554 Adelberg.\nSpreng-Heusler, Emanuel, Kaufmann. 260 a Neue Vorstadt.\nSprenger, Joh. Jak., Kaufmann. 40 a St. Johann-Vorstadt.\nSprünglin, Jungfer, Kölsch- und Bettfedernhandlung. 1623 Untere\n  Freiestraße.\nStapfer, Joh. Jakob, Handelsmann. 1629 Untere Freienstraße.\nStauber, Rudolf, Fabrikkaufseher. 413 Heuberg.\nStähelin, Christoph, Handelsmann. 1066 u. 1067 b. Aeschen-Schwibb.\nStähelin-Bonhorst, Balth., Kaufmann. 260 Neue Vorstadt.\nStähelin, Benedikt, Vater. 377 St. Leonhardsgraben.\nStähelin, Benedikt, Sohn, Bandfabrikant. 378 St. Leonhardsgraben.\nStähelin, Benedikt fel., Wittwe, geb. Merian. 1095 Barfüsserplatz.\nStähelin, J. J., Professor. 547 Adelberg.\nStähelin, geb. Preiswerk, Wittwe. 436 Spießhofgasse.\nStähelin, Gottfried, Spezereihändler. 313 Spahlenvorstadt.\nStähelin, Gebrüder, Comtoir. 1091 Streitgasse.\nStähelin, Catharina u. Salomea, Jungfern. 445 Spießhofgasse.\nStähelin, Ph. fel., Wittwe, geb. Reber. 1473 Münsterplatz.\nStähelin, P. fel., Wittwe. 1091 Streitgasse.\nStähelin-Christ, Balthasar, Eisenhandlung. 1613 Markt.\nStähelin-Schönauer, Hieronimus. 1197 Bäumlein.\nStähelin-Stückelberger, Peter, alt Pfarrer in Frenkendorf. 550 Adelb.\nStähelin-Bischer, August. 1220 und 1342 St. Alban-Vorstadt.\nSteffan, geb. v. Mechel, Wittwe, Bäckerei. 825 Bord. Steinen-Vorst.\nStehlin, Jos., Conducteur. 577 Schneidergasse.\nStehlin, J. J., Zimmermann. 1249 Malzgasse.\nStehlin, J. J. fel., Wittwe. 1311 St. Alban-Vorstadt.\nSteiger, Nikolaus, Gürtler. 582 Schneidergasse.\nSteiger, J. J. fel. Erben, Leckerli- und Syrup-Fabrikation. 589\n  Schneidergasse.\nSteiger, geb. Marg. Eckenstein, Wittwe, 1660 Kindermarkt.\nSteiger, Nikolaus, auf der Stadtkanzlei. 660 Gerbergasse.\nSteiner, Caspar, zum goldenen Kopf. 1531 u. 1532 Neue Straße.\nSteiner, geb. Allemann, Marie, Wittwe. 788 Bordere Steinen-Vorst.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7369,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2383,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p126",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p126.jpg",
+      "bytes": 1049103,
+      "sha256": "e86adf8df1d0bfb7b7d79f95e4d521e611d5a6f5a0ecc1f4037104d7951ef9d6",
+      "sha256_of": "original",
+      "working_copy": "1841_p126.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:36+00:00"
+  }
+}

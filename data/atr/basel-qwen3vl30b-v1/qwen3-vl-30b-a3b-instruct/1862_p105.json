@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p105",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p105.jpg",
+    "bytes": 1290504,
+    "sha256": "545dd99745dd2bd4811323ffd27eea1314dfe4104a227fffa3bc1ffe550c20d0",
+    "sha256_of": "original",
+    "working_copy": "1862_p105.jpg"
+  },
+  "text": "40\nEngelgasse. — Fischmarkt.\nNre\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nEngelgasse.\n55 | V. | 310 A | . . . . . . . . . . . . . . | Horner=Mechel, Daniel.\n57 | V. | 310 | zur Flora. | Siegrift=Gabler, Martin.\n| | | | | Siegrift=Gabler, Martin, Part.\n64 | V. | 264 | . . . . . . . . . . . . . . | Jaeggi=Schopflin, Theodor.\n| | | | | Jaeggi=Schopflin, Theod. Bannwart.\nFischmarkt.\n1 | VI. | 1525 | zum Binzheim. | Waffermann=Schweizer, Fritz.\n| | | | | Waffermann=Schweizer, Fritz, Buchdr.\n2 | VI. | 1524 | zum hintern Tanz. | Steinmann=Bonwiler, Jakob.\n| | | | | Montandon=Heinzer, Abr. Fried., Lithg.\n| | | | | Bader=Faesch, Ad. Sattler u. Tapez.\n| | | | | Bijchoff, Peter, Rentier.\n| | | | | Gyfin=Reichenbach, Jak., Polizeicommis.\n3 | VI. | 1523 | zum Kießen. | Christmann=Steinmann, Joseph.\n| | | | | Christmann=Steinmann, Jos. Weinhdlg.\n| | | | | Lok=Bricar, Hieronimus, Kaufmann.\n| | | | | Walter, Maria, Delikateffenhandlung.\n4 | VI. | 1522 | zum Helm. | Wölflin=Anklin, Mar. Barb., Wb.\n| | | | | Wölflin=Anklin, Mar. Barb., Fintenw.\n5 | VI. | 1521 | zum Steg. | Lacher=Dettwylar, Heinrich.\n| | | | | Lacher=Dettwylar, Heinr., Schneider.\n6 | VI. | zu 1553 | . . . . . . . . . . . . . . | Einfahrt zu Nr. 2 Stadthausgasse.\n7 | VI. | 158 | zum Lachs. | Dhl, Joh. Wilh.\n| | | | | Dhl, Joh. Wilh., Coiffeur.\n8 | VI. | 159 | zum gold. Stern. | Lüdin=Goebelin, Wb. Suf.\n| | | | | Lüdin=Goebelin, Wittwe. Suf.\n| | | | | Burkhardt, Achilles, Dr. med.\n9 | I. | 156 | zum gold. Ring. | Merian=Bister, Heinrich.\n| | | | | Merian=Bister, Heinr., Manuf.=u.Tapetl.\n10 | I. | 155 | Zunft zu Fischern. | Corporationsgut.\n| | | | | Flubacher=Wirz, Carl, Café=Wirth.\n11 | I. | 154 | zur Glocke. | Betulius=Bernoulli, Carl.\n| | | | | Betulius=Bernoulli, Carl, Apotheker.\n| | | | | Lévéque, Eduard, Kaufmann.\n| | | | | Fromann=Exlin, Heinrich, Kaufmann.\n12 | I. | 153 | zum Bubeneck. | Munzinger=Faesch, Cath. Wb.\n| | | | | Munzinger=Faesch, Cath. Wb., Kent.\n| | | | | Burkhardt=Edenstein, Heinr., Kfm.\n13 | I. | 152 | zum Salzberg. | Kleimt, Joseph.\n| | | | | Kleimt, Joseph, Uhrmacher.\n| | | | | Frey=Keller, C., Landj., Tab.=u.Cigarhdl.\n14 | I. | 151 | zum Rechtberg. | Soller=Frey, Wilhelm.\n| | | | | Soller=Frey, Wilh., Schuhmacher.\n15 | VI. | 138 | zum Rannenbaum. | Schalch=Baur, Joh. Ulrich, sel. Erb.\n| | | | | Schalch=Baur, Wb. Sal. Elis., Goldarb.\n16 | VI. | 136—137 | zum Samson. | Braendlin=Mechel, Magd. Wb.\n| | | | | Mechel=Heusler, Modehandlung.\n| | | | | Braendlin=Mechel, Mar. Magdalena.\n| | | | | Schilling, Rudolph, Bankcassier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8618,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2589,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:34:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p105",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p105.jpg",
+      "bytes": 1290504,
+      "sha256": "545dd99745dd2bd4811323ffd27eea1314dfe4104a227fffa3bc1ffe550c20d0",
+      "sha256_of": "original",
+      "working_copy": "1862_p105.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:32+00:00"
+  }
+}

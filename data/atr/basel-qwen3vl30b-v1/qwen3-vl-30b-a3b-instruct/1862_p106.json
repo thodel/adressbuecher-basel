@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p106",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p106.jpg",
+    "bytes": 1417274,
+    "sha256": "1e9504105f6a17b5a534b5eba0bb7da5cec0d60b71a385a9f93ec83751dc57a3",
+    "sha256_of": "original",
+    "working_copy": "1862_p106.jpg"
+  },
+  "text": "Neue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nFreie Straße.\n1 | VI. | 1618 | zum Appenzell. | Schneider=Grifanti, Rudolph.\nSchneider=Grifanti, Rud., Uhrmacher.\nMärklin, Andreas, Handlungsreisender.\n2 | VI. | 1639 | zum rothen Thurm. | Imhoff=Falkner, Hieronimus.\nImhoff=Falkner, Hieron., Wollwaaren-\nund Mercerie-Handlung.\nAlmandi=Chinger, Wb. Julie, Kent.\n3 | VI. | 1619 | zum Halbmond. | Meißner=Fischer, Marcus.\nMeißner=Fischer, Marcus, Apotheker.\nMeißner, Adolph, Apothekergehilfe.\nTrüdinger, Georg, Kaufmann.\n4 | VI. | 1638 | zur Schere. | Burckhardt=Mieg, Joh. Jac.\nBurckhardt=Mieg, Joh. Jac., Kaufmann.\nQuincaillerie, Parfumerie.\nFirma Christof v. Christof Burckhardt.\n5 | VI. | 1620 | zur goldenen Lilie. | Riedtmann=Erlacher, Wilhelm.\nRiedtmann=Erlacher, Wilh., Kaufmann.\n6 | VI. | 1637 | 3. Himmelsporten. | Stierlin=Schwab, Emanuel.\nPhilippi=Stierlin, Wilhelm Rud. Franz,\nKaufmann.\n7 | VI. | 1621 | 3. schwarzen Haus. | Bloch, Peter.\nBloch, Peter, Seiler.\n8 | VI. | 1636 | zur Himmelspforte. | Kirch, J. C. fel. Wb. Christ. Marg.\nKirch=Lindemeyer, Wb. Christ. Marg.\nKaufm., Spezerei u. Comestiblegesch.\nFirma Casp. Krug.\nKirch, J. C., Agenturgeschäft.\nKirch, Peter, Kaufmann.\nKirch, Arnold, Kaufmann.\n3. schmal. Sonne. | |\n9 | VI. | 1622 | 3. goldenen Falken. | Bernaur=Müller, Victor.\nBernaur=Müller, Victor, Kaufmann.\nSchütz=Chabrol, Emil, Commis.\n10 | VI. | 1635 | | Georg=Neufirch, Heinrich.\nGeorg=Neufirch, Heinr., Buchhändler.\nNeufirch'iche Buch- u. Kunsthandlung.\nBischoff u. Ründig, Advokatur und No-\ntariatsbureau. Polizeigerichtskanzlei.\nBlandet, Jeanne Suf. Paul., Kent.\n11 | VI. | 1623 | | Oswald, Gebrüder.\nWolf=Meyer, Benjamin, Kaufmann.\n12 | VI. | 1634 | Post. | Staat.\nMaurer=Wölfflin, Joh., Postdirector.\nSulzer, Jakob Wilhelm, Kaufmann.\n13 | VI. | 1624 | zum Hermelin. | Settelen=Settelen, Frz. Anton.\nSettelen=Settelen, Frz. Ant., Schneider-\nmeister u. Kleiderhandlung.\n14 | VI. | 1633 | zum Frauenstein. | Steinmann=Bonwiler, Jakob.\nSteinmann=Bonwiler, Jakob, Spengler.\nUllmann=David, Felix, Kaufmann in\nWeißwaaren u. Broderien.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6863,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2111,
+    "lines": 61,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.62,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:34:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p106",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p106.jpg",
+      "bytes": 1417274,
+      "sha256": "1e9504105f6a17b5a534b5eba0bb7da5cec0d60b71a385a9f93ec83751dc57a3",
+      "sha256_of": "original",
+      "working_copy": "1862_p106.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:39+00:00"
+  }
+}

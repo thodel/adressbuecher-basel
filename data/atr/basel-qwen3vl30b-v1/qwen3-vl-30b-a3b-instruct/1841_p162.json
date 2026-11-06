@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p162",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p162.jpg",
+    "bytes": 1146986,
+    "sha256": "4c9ddd6a3d2895429e6509ace1c1625df81eca3d190f3c033ef4b9b792f876c9",
+    "sha256_of": "original",
+    "working_copy": "1841_p162.jpg"
+  },
+  "text": "- 9 -\nJerfing = Stähelin, Wittwe, Part. 1045 St. Alban = Graben.\nIffenthaler, geb. Mohler, Elif., Wittwe. 910 St. Elisabethen.\nImhof, Joh. Christoph, Oberst, Bauschreiber. 839 Roschmarkt.\nImhof, Joh., Schuhmacher. 1705 Unterer Spahlenberg.\nImhof, Bernhard, Part. 110 Am Blumenrein.\nImhof, Melchior, u. Söhne. Weißgerberei u. Lederhandlung\n(bewohnt durch J. S. Imhof=Roschet). 1576 Sporren gasse.\nImhof, Daniel, Sohn, Kaufmann. 1576 Sporren gasse.\nImhof=Burckhardt, Joh. Ludw., Part. 1172 Freienstraße.\n* Imhof=Heiz, Ludw., Med. Dr. 1208 Rittergasse.\nJöry, Johannes, Spannermeister. 1653 Kindermarkt.\n* Jordan, Joh. Leonh., Jeger. 1179 Freienstraße.\nJordan, Konrad, Zoller. 1276 St. Albangasse.\nIselin, Wilhelm. 1312 St. Alban=Vorstadt.\nS.\nKappeler, Joh. Luk., Schneider. 1686 Ruttelgäcklein.\nKappeler, Kaspar, Sohn, Spital=Unterschreiber. 1016\nUeschen=Vorstadt.\nKaufmann, Jakob, Zettlermeister. 1297 St. Alban=Thal.\nKaufmann, Friedr., Dampfschiffahrts=Agent der Adler auf\ndem Rhein und Kommissionär. 1451 Schlüsselberg.\nKauz, Joh. Mich., Schneider. 726 Barfüsserplatz.\nKehlstadt, Ud. Sohn, Tapezierer. 624. Grün=Pfahlgäcklein,\nbeim Kaufhaus.\nReigerlin, Ul., v. Foltisburg, Kunstmaler. 347 Spahlen=Vorft.\nKeller, Ulrich, Mezger. 294 Spahlen=Vorstadt.\nKeller, J. J., Rupferschmied. 952 Ueschen=Vorstadt.\nKeller, Heinrich, Mezger. 73 St. Joh. Vorstadt.\nKeller, Joh. Christ., Schneider. 521 Adelberg.\nKelterborn, Lud. Ud., Zeichnungslehrer. 270 St. Joh. Graben.\nKirchberger, Heinrich, Part., 1102 Streitgasse.\n* Klaiber, Andreas, Schuhmacher. 151 Fischmarkt.\nKleinert, David, Fabrikant. 1753 Schneidergasse.\nKlett, Gottfried, Handelsmann. 1593 Eisengasse.\nKling, J. J., Handelsmann. 1200 Um Bäumlein.\nKlingenfuk, Joh., Schneider. 1505 Rheinsprung.\nKlipfel, Martin, Weinhändler. 754 a. Kohliberg.\nKlippel, Em., Straßenpflasterer. 87 St. Joh. Vorstadt.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6038,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1848,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:00:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p162",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p162.jpg",
+      "bytes": 1146986,
+      "sha256": "4c9ddd6a3d2895429e6509ace1c1625df81eca3d190f3c033ef4b9b792f876c9",
+      "sha256_of": "original",
+      "working_copy": "1841_p162.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:43+00:00"
+  }
+}

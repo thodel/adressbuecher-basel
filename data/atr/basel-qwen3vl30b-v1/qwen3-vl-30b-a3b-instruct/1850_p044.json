@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p044",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p044.jpg",
+    "bytes": 1141728,
+    "sha256": "9606293d6b523561071c5d32d4a0c4edea54a3c186c760a5c5af61889160dd04",
+    "sha256_of": "original",
+    "working_copy": "1850_p044.jpg"
+  },
+  "text": "Steinen=Quartier. 31\n700 Meyer, Johannes, Spetter.\n701-2 Merian, Eml., Küfer, Bierbrauer und Weinschenk.\nHinter dem Stöcklin.\n703 Bloch-Fatio, Joh., Färber, Stadtrath.\nSchmid, Rud., Notarius.\nA 704 Seiler, Heinrich, Fabrikarbeiter.\nB 704 Eschopp, Heinrich, Kaufhausarbeiter.\n705 Gysin, Heinrich, Spezereihandlung.\n706 Bürgin, F. F., Commis.\n707-10 Lindenmeyer-Schmidt, F. F., gehörend.\n708 Grisanti, David, Weinschenk.\n711 Rudin, Heinrich, Fabrikarbeiter.\nBaarfüsserplatz.\n712-13 Lok-Spörlin, H., Wollenwaarenhdg., Pfundzoller.\nSpörlin-Merian, Wittwe Sara.\n714 Niedtmann, Niklaus, Schneider.\n715 Hodel, Serena, geb. Galbi, Krankenwärterin.\nFricke, Jgfr., Sal., Mousfelinladen.\n716 Schneider-Eklin, Wittwe Elisabetha.\nChrist, Jungfrau Maria, Ausschnittladen.\n717 Holzmüller, Karl, Uhrmacher.\nHinter dem Stöcklin.\n718 Faust, Joh., Schneider, Kleiderhandlung.\n719 Schardt, Daniel, Schuhmacher.\n720 Frey, Jeremias, Polizeidiener und Trödler.\n721 Schneider, Jungfrau, Judith, Bändelladen.\n722 Schweizer, Heinrich, Kupferschmied.\n723 Neustück-Bloch, Wittwe.\nNeustück, Heinrich, Bildhauer.\nNeustück, Jakob, Kunstmaler.\nBaarfüsserplatz.\nA 724 Roth-Hamberger, Daniel, Wittwe, Spezerei- und\nFarbwaarenhandlung.\nFröhlich, Joseph, Lehrer.\nB 724 Bell, Samuel, Mezger, Weinschenk.\nBell, Johann Rudolf, Sohn, Mezger.\n725 Maas-Müller, R., Med. et Chir. Dr., Barbierstube.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4445,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1355,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0526,
+    "mean_line_chars": 34.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p044",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p044.jpg",
+      "bytes": 1141728,
+      "sha256": "9606293d6b523561071c5d32d4a0c4edea54a3c186c760a5c5af61889160dd04",
+      "sha256_of": "original",
+      "working_copy": "1850_p044.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:34+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p090",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p090.jpg",
+    "bytes": 1101987,
+    "sha256": "572fd9747fbb1a815014566a176af3cd31686befed9d6d66fd63fd8cdba7eb6e",
+    "sha256_of": "original",
+    "working_copy": "1841_p090.jpg"
+  },
+  "text": "7\n\nBurckhardt, Carl Leonhard, Kaufmann. 867 Thorsteinen.\nBurckhardt-Huber, Achilles, Sensal. 1041 Aeschen-Vorstadt.\nBurckhardt, Eduard. 1402 Münsterplatz.\nBurckhardt, Abraham, Wechsel-Sensal. 1632 Untere Freienstraße.\nBurckhardt, Jos., Quincaillerie- u. Waarenhandlung. 103 Blumenrain.\nBurckhardt, Christoph. 1349 St. Alban-Vorstadt.\nBurckhardt, Peter, Bestäter. 645 Gerbergasse.\nBurckhardt, Leonhard, Flachmaler. 295 Spahlen-Vorstadt.\nBurckhardt, Joh. Rud., Fiskal. 1381 a Am Bäumlein.\nBurckhardt, Carl, alt Dreierherr. 1345 St. Alban-Vorstadt.\nBurckhardt, August, Med. Dr. 1453 Schlüsselberg.\nBurckhardt, Gedeon. 1351 St. Alban-Vorstadt.\nBurckhardt, Aug., Appellationsgerichtsschreiber. 67 St. Joh.-Vorst.\nBurckhardt, Rud., Bandfabrikant. 51 St. Joh.-Vorstadt.\nBurckhardt, Martin sel., Erben. 1475 Augustinergasse.\nBurckhardt-Basler, Christoph, Quincailleriehandlung. 1640 Unter\n  Freienstraße.\nBurckhardt-Bernoulli, Benedikt. 1601 Sporrengasse.\nBurckhardt-Burckhardt, Emanuel. 1270 St. Alban-Thorgasse.\nBurckhardt-Bachofen, Christoph. 1510 Rheinsprung.\nBurckhardt-Gemuseus, Sohn. 269 c Neue Vorstadt.\nBurckhardt, Dietrich. 1356 Rittergasse.\nBurckhardt - Dürand, Joh. Conrad, Hauptmann. 1628 Untere\n  Freienstraße.\nBurckhardt, Seb., Zucker- und Pastetenbäcker. 1193 Am Bäumlein.\nBurckhardt-Frey, J. J., Handelsmann. 940 Aeschen-Vorstadt.\nBurckhardt-Forkart, Daniel, Kaufmann. 249 b St. Petersplatz.\nBurckhardt-Forkart, Wilh., Handelsmann. 1054 St. Albangraben.\nBurckhardt-Gysin sel. Wittwe, Rent. 67 St. Johann-Vorstadt.\nBurckhardt-Forkart, Ludwig, Kaufmann. 247 b St. Petersplatz.\nBurckhardt-Heußler, Carl, Handelsmann. 1200 Am Bäumlein.\nBurckhardt-Heusler, Carl, Handelsmann. 1039 Aeschen-Vorstadt.\nBurckhardt-Iselin, Jer. 257 c Neue Vorstadt.\nBurckhardt-Imhof, Peter, Rathsherr. 440 Spießhofgasse.\nBurckhardt, geb. Iselin, Wittwe. 284 Spahlen-Vorstadt.\nBurckhardt und Kern, Seidenfabrikanten. 269 Neue Vorstadt.\nBurckhardt-Kündig, Leonhard, Grieser. 1732 u. 1733 Beim Korn-\n  marktbrunnen.\nBurckhardt-Iselin, Emanuel, alt Rathsherr. 269 b Neue Vorstadt.\nBurckhardt-Haller, Med. Dr. 386 Missionsgasse.\nBurckhardt-Von der Mühll, Hieron., Partikular. 928 St. Elisabethen.\nBurckhardt-Pelletier, Philipp, Partikular. 104 Blumenrain.\nBurckhardt-Preiswerk, Handelsmann. 1042 Aeschen-Vorstadt.\nBurckhardt-Ryhiner, J. J., Dr. Juris und Appellationsrichter.\n  931—933 St. Elisabethen.\nBurckhardt-Vischer, Carl. 1210 Rittergasse.\nBurckhardt-Roth, Joh., Bandfabrikant. St. Johann-Vorstadt.\nBurckhardt-Vischer, Leonh., Kaufmann. 23 a St. Joh.-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9312,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2544,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0204,
+    "mean_line_chars": 50.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:52:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p090",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p090.jpg",
+      "bytes": 1101987,
+      "sha256": "572fd9747fbb1a815014566a176af3cd31686befed9d6d66fd63fd8cdba7eb6e",
+      "sha256_of": "original",
+      "working_copy": "1841_p090.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:44+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p116",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p116.jpg",
+    "bytes": 1063387,
+    "sha256": "608a67a2ad25f22f61836fac05d362fe7324f211120be44dd8a3ae741da8a109",
+    "sha256_of": "original",
+    "working_copy": "1841_p116.jpg"
+  },
+  "text": "33\nOehlmeier, Jakob sel., Wittwe, geb. Gyfin. 1036 Aeschenvorst.\nOhl, J. Wilh., Perrückenmacher. 158 Fischmarkt.\nOhl, Georg Michael, Beck. 68 St. Johann-Vorstadt.\nOppermann, C. L., Flachmaler. 868 Thorsteinen.\nOppermann, J. G., Schreiner. 1012 Aeschenvorstadt.\nOfer, Leonhard, Mehlschreiber. 1150 Hinter dem Stöcklein.\nOfer, J. J., Kaufmann. 220 Schwarze Pfahlgasse.\nOfer, Leonhard, Oberlehrer. — Schulhaus. 1204 a Luftgäflein.\nOfer, Heinrich sel., Wittwe, Papierfabrik. 1292 St. Alban-Thal.\nOfer, J. J., Schuhmacher. 1071 Tiefe.\nOfer, Wilh., Kerzenfabrikant. 419 Heuberg.\nOfer, Geb. sel., Wittwe, geb. Thurnenfen. 1272 St. Alban-Thorgasse.\nOfer, Wilhelm, Sohn. 1292 St. Alban-Thal.\nOfer, Jungfrauen, Margaretha, Emilie u. Maria. 1465 Münsterplaz.\nOfer, Adam, Färber. 739 Ochfengraben.\nOfer-Falkner sel. Wittwe. 1327 St. Alban-Vorstadt.\nOstertag, A., Candidat der Theologie. 934 Steinenberg.\nOswald-Hoffmann, Lud., Seifen- u. Kerzenfabrikant. 551 Adelberg.\nOtto, Joh. Caspar, Kappenmacher. 1737 Hinter der School.\nOttenburg, Joh. Heinrich, Wittwe. 1134 Weisse Gasse.\nOtto, Friedrich, Knopfmacher. 579 Schneidergasse.\nOtto, Elisabeth, geb. Frey. 282 Spahlen-Vorstadt.\nOtto, Andr. S. M. C., Rektor der obrigkeitlichen Töchterschule.\n571 Todtengäflein.\nOtto, Landerer, Küfer. 125 a Neue Straße.\nP.\nPack-Burckhardt, Isaak, Spezerei-, Käse- u. Branntweinhandlung.\n490 Oberer Spahlenberg.\nPäschlin, Auffeher des Missionshauses. 611 Schnabelgäflein.\nParavicini, Friedrich, Notariats-Büreau. 1603 Sporengasse.\nParavicini sel. Wittwe, geb. Rosina Mende. 683 Hint. Gerbergäflein.\nParavicini, Ludwig, Zimmermann. 853 Thorsteinen.\nParavicini-Preiswerk, Rudolf, Rentier. 892 St. Elisabethen.\nParavicini-Bischer, Rud. (Firma: Bischer und Sohn.) 1364 Hinter\ndem Münster.\nParavicini-von der Mühll, Eman. 1435 u. 1436 Freie Straße.\nPassavant, Th., Pfarrer zu St. Jakob. 465 Beim Spahlenthurm.\nPassavant-Streckeisen, Em., Banquier. 92 St. Joh.=Schwibbogen.\nPassavant-Bischer, Joh. Heinrich. 80 u. 81 St. Joh.=Vorstadt.\nPerret, Louis, Commis. 1523 Fischmarkt.\nPeschei, Joh., Säckler und Kappenmacher. 1562 Schneidergasse.\nPetri, Emanuel, Schuhmacher. 1670 Hutgasse.\nPfaff, Heinrich, Schuhmacher. 1129 Weißgäflein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6802,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2194,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:56:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p116",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p116.jpg",
+      "bytes": 1063387,
+      "sha256": "608a67a2ad25f22f61836fac05d362fe7324f211120be44dd8a3ae741da8a109",
+      "sha256_of": "original",
+      "working_copy": "1841_p116.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:27+00:00"
+  }
+}

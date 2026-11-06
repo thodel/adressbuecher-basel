@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p052",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p052.jpg",
+    "bytes": 1039640,
+    "sha256": "9a2e13f379b78988443768ca9869a955d9211807a1ae26bceb69a0ef0a0fc92a",
+    "sha256_of": "original",
+    "working_copy": "1850_p052.jpg"
+  },
+  "text": "Steinen-Quartier. 39\n\n858 (Zollerwohnung) Lindenmeyer, Balth., Wachtmeist.\n(Steinenthor) Obrigkeitlich.\n859 Martin, Andreas, Fabrikaufseher und Beckerei.\n860 Schmid, J. H., Ferger.\n861 Siegrist, Heinr., Metzger, Weinschenk u. Spezerei-\n  handlung.\n  Mazinger, Ch., Commis.\n862 Bachmann, Eml., Commis.\n  Siegrist, J. H., Beck.\n863 Hartmann, Johann, Weißbeck.\n  Bienz-Gerster, K. P., Handels-Commis.\n  Schmidt-Luttringshauser, J. J., Commis.\n  Luttringshauser, J. J., Zeichnungslehrer.\n864 Früh, Jakob Friedrich, Spanner.\n865 Röslin, Joh. Rudolf, Posamenter.\n866 Müller, Joh. Jak., Brunnmeister.\n  Merian-Fäsch, Wittwe, Rentière.\n867 Burckhardt-Burckhardt, Karl Leonh., Seiden- und\n  Taffetfabrik.\n868 Oppermann, Karl Lud., Flachmaler.\n  Lichtenhahn, Bend., Beck.\n869 Riggenbach-Huber, Joh., Banquier.\n  Huber-Iselin, Wittwe, Partikularin.\n870 Merian, Friedrich, Bierbrauer.\n  Merian, Ludwig, Partikular.\nA 870 Eckenstein, Eduard, Kaufmann.\n871 Garnaus-Felber, Kathar., Wittwe.\n  Garnaus, J. J., Commis.\n872 Müller-Fuchs, Wittwe.\n  Müller, Karl, Gypser.\n873 Bieler, Simon, Schuhmacher.\n874 Labhardt, Gebrüder, Kaspar u. J. J., Commis.\n875 Bachofen, Joh. Matth., Tuchscherer.\n876 Märky, Karl Friedr., Ferger.\n  Sutter, Jakob, Taglöhner.\n877 Wehrlin, Johann, Fabrikarbeiter.\n  Wehrlin, J. J., Spannermeister.\n878 Kramer, Jakob, Kaufhausarbeiter.\n\nOberer Klosterberg.\n879 Bauhof von Bruckner und Kober, Architecten.\nA 879 Brühl, Wittwe.\n880 Schwarz, Karl, Schlosser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6602,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1461,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p052",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p052.jpg",
+      "bytes": 1039640,
+      "sha256": "9a2e13f379b78988443768ca9869a955d9211807a1ae26bceb69a0ef0a0fc92a",
+      "sha256_of": "original",
+      "working_copy": "1850_p052.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:27+00:00"
+  }
+}

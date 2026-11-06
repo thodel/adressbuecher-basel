@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p193",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p193.jpg",
+    "bytes": 975724,
+    "sha256": "0c93bf61c2c7e077e7b56734e077712691b5929392c032c93f6ca07728e064b8",
+    "sha256_of": "original",
+    "working_copy": "1841_p193.jpg"
+  },
+  "text": "C. Niehen-Bann.\nA.\nAllemann, Urs, von Kleinlüzel, Maurergesell. 39 Riehenstrafe\nUffal, Christoph, Chemiker. 38 Riehenstrafe.\nB.\nBachthaler, Paul., v. Stetten, Lehrenmann. 50 Grenzacherstr.\nBader, Jakob, von Langenbruck, Lehrenmann. 88 Auf dem\nGotterbarm.\nBastady, Jakob, v. Bubendorf, Posamenter. 4 Mittlere Strafe.\nBlattner, Marg., geb. Fasler, Wittwe, von Rüttigen,\nLehenfrau. 93 Grenzacherstrafe.\nBlind, Georg, Zimmermann. 83 Im Dutli.\nBöhler, Katharina, geb. Bannier, Wittwe, von Arnoldshoch,\nWascherin. 9 Im Teich.\nBrodbeck, Wilhelm, von Liestal, Lehrenmann. 28 Riehenstr.\nBrosy, Peter, von Mümliswil, Posamenter. 6 Mittl. Strafe.\nBrunner, Viktor, von Mümliswil, Lehrenmann. 39\nRiehenstrafe.\nBurckhardt, Susanna, Wittwe, Part. 86 Auf dem\nGotterbarm.\nC.\nChristen, Melchior, von Wolfenschiefen, Lehrenmann. 82\nAuf dem Gotterbarm.\nD.\nDeubelbeiß, Joh. Ulr., von Holderbank, Gärtner. 52\nGrenzacherstrafe.\nDill, Nikolaus, von Prattelen, Gutsbesitzer. 90 Galgenfeld.\nDürwell, Stephan, von Sulz, Gärtner. 36 Riehenstrafe.\nE.\nEbert, Maria, geb. Dörflinger, Wittwe. 55 Grenzacherstr.\nEglinger, Nikolaus, alt Pfarrer. 53 Grenzacherstrafe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3759,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1132,
+    "lines": 31,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0323,
+    "mean_line_chars": 35.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:04:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p193",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p193.jpg",
+      "bytes": 975724,
+      "sha256": "0c93bf61c2c7e077e7b56734e077712691b5929392c032c93f6ca07728e064b8",
+      "sha256_of": "original",
+      "working_copy": "1841_p193.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:00+00:00"
+  }
+}

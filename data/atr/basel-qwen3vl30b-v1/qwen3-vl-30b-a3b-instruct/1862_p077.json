@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p077",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p077.jpg",
+    "bytes": 1331747,
+    "sha256": "6bb5b0c49c884d9a9c7b9230ae8cbd3914143d6e2d2c834ca6bc14f9a94d9bcf",
+    "sha256_of": "original",
+    "working_copy": "1862_p077.jpg"
+  },
+  "text": "12\nSt. Alban-Graben. — St. Albankirchrain.\nNrn.\nHaus-Nr.\nQuarz-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauzeigenthümer\nund Bewohner.\nSt. Alban-Graben.\n1 | V. | 1202 | | Rognon-Landerer, Eugen.\n| | | | | Rognon-Landerer, Eugen, Kaufmann.\n| | | | | Rognon-Meyenroß, Eduard, Kaufm.\n2 | IV. | 1045 A | hint. Truchseßerhof. | Merian-Burckhardt, Marg., Wb.\n| | | | | Kespinger-Stockmeyer, Leonh., Kaufm.\n4 | IV. | 1046 | zum Ernauерhof. | Merian-Burckhardt, Marg., Wb.\n| | | | | Merian-Burckhardt, Marg., Wb., Rent.\n5 | V. | 1203 A | | Jfelin-Roulet, Emilie, Wb.\n| | | | | Jfelin-Roulet, Emilie, Wb., Rentiere.\n| | | | | Roulet, Jgfr. Georgina.\n| | | | | VonderMühl-Jfelin, Emilie, Wb., Rent.\n6 | IV. | 1047 | zur Kammerei. | Sarasin, Wb. Julie sel., Erben.\n| | | | | Chinger-Sarasin, Dr. Ludw.\n7 | V. | 1209 | zur Domprobstei. | Bachofen-Merian, Joh. Jacob.\n| | | | | Bachofen-Merian, Kaufmann.\n| | | | | Bachofen, J. J., D. J. u. Professor.\n| | | | | Passavant-Bachofen, Em., Banquier.\n8 | IV. | 1048 | Groß-Colmar. | Heusler-Christ, Daniel.\n| | | | | Imhof-Roschet, Wb. Barbara.\n| | | | | Heusler-Christ, Daniel, Bandfabrikant.\n| | | | | Heusler-Bischoff, Rud. desgl.\n10 | IV. | 1049 | ehem. Zehntenjch. | Gehört zu Nro. 8. (1048)\n12 | V. | 1050 | | Burckhardt-Forcart, Daniel.\n| | | | | (Remise und Stallung.)\n14 | V. | 1051 | Württembergerhof. | Burckhardt-Forcart, Daniel.\n| | | | | Burckhardt-Forcart, Dan., Bandfabr.\n| | | | | Burckhardt-Thurneysen, Dan., Bandf.\n16 | V. | 1052 | | Burckhardt-Forcart, Daniel.\n18 | V. | 1053 | zum Riedy. | Dobler, Schwestern.\n| | | | | Dobler, Jgfr. Catharina, Partikularin.\n| | | | | Dobler, Jgfr. Maria,\n20 | V. | 1054 | | Burckhardt-Forcart, Wilhelm.\n| | | | | Burckhardt-Forcart, Wilhelm, Rentier.\n21 | V. | 1356 | Deutsches Haus. | Bischer-Burckhardt, Peter.\n23 | | | | \n22 | V. | 1213 | Kleiner Burghof. | VonderMühl-Hoffmann, Emanuel.\n| | | | | Köchlin-Burckhardt, Eug., Bandfabrik.\n| | | | | VonderMühl-Bischer, Fr., Stofffabr.\nSt. Albankirchrain.\n2 | V. | 1277 | | Tschudi-Tschopp, J. J.\n| | | | | Tschudi-Tschopp, Joh. Jak., Bäcker und\n| | | | | Wirth.\n| | | | | Foure-Dezorme, Emil Jos., Dessinateur.\n| | | | | Böglins-Zentsch, Julius, Schreiner.\n4 | V. | 1282 B-83 | | Thurneisen-Fäsch, Ludw. Andr.\n| | | | | (Eingang zur Papierfabrik.)\n6 | V. | 1277 A | | Bischoff-Kespinger, Hieron.\n| | | | | (Magazin.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8025,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2362,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p077",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p077.jpg",
+      "bytes": 1331747,
+      "sha256": "6bb5b0c49c884d9a9c7b9230ae8cbd3914143d6e2d2c834ca6bc14f9a94d9bcf",
+      "sha256_of": "original",
+      "working_copy": "1862_p077.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:36+00:00"
+  }
+}

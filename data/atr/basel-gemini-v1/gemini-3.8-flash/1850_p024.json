@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p024",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p024.jpg",
+    "bytes": 1090907,
+    "sha256": "4279b88b501a9761478a399ceee99af4efb1f47651b8f9eef6c2e9275d7d7d5b",
+    "sha256_of": "original",
+    "working_copy": "1850_p024.jpg"
+  },
+  "text": "St. Johann- und Spahlen-Quartier. 13\n\n271 (Zuchtanstalt) Hofmann, Heinr., Hausmeister.\n  Müller, Joh. Jak., Profos.\n272 (Salzhaus) obrigkeitlich.\n  (Französische Kirche) obrigkeitlich.\nA 272 Herzog, Eml., Siegrist bei der franz. Kirche.\n\nIm Kloster.\n\nB 272 Villard, Emil, franz. Pfarrer.\n\nLottergasse.\n\n272½ Obrigkeitlich.\n273 Witschy, Gottlieb, Fuhrhalter.\nB 273 Bandfabrike von Freyvogel u. Heusler.\nA 274 Bolly, Melchior, Appreteur.\nB 274 Fäsch, Joh. Balth., Rentier.\n275 Kiefer, Jungfrau Annette, Partikularin.\n  Huber, Wittwe, geb. Berenet, Rentière.\n  Würslin, Gustav, Commis.\nB 275 Müller-Stähelin, Joh., Steinmetz.\nC 275 Obrigkeitlich.\nD 275 Göttin, Jak., Profos.\nF 275 Kleinwitz, Mechanikus.\n  Bahnhofgebäude.\n  Schachenmann, F. C., Eisenbahnbeamter.\n\nSpahlen-Quartier.\n\nZeughaus-Graben.\n\n276 (Zeughaus) obrigkeitlich.\n277 Sauerbrey, Valentin, Zeugwart.\n278 Bloch-Kündig, sel. Wittwe.\n  Werenfels, Fz., Wagner.\n279 Uebelin, F. F., Bauschreiber.\n\nSpahlen-Vorstadt.\n\n280 (Kornhaus) obrigkeitlich.\n281 Ernst-Hug, Friedrich, Ferger.\n  Siegrist, Wittwe, Anna Maria geb. Beckel.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6891,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1081,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.06,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:08:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p024",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p024.jpg",
+      "bytes": 1090907,
+      "sha256": "4279b88b501a9761478a399ceee99af4efb1f47651b8f9eef6c2e9275d7d7d5b",
+      "sha256_of": "original",
+      "working_copy": "1850_p024.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:39+00:00"
+  }
+}

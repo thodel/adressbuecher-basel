@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p141",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p141.jpg",
+    "bytes": 1106580,
+    "sha256": "00f6b0807f71b20714d8a0be91b6eca1f46f21ab321c9f25c1b6b993dda1d061",
+    "sha256_of": "original",
+    "working_copy": "1850_p141.jpg"
+  },
+  "text": "128\n\nWenk-Brandmüller H.1721-22\n  Karl Friedr., Commis *247\n  Wittwe, Wascherin *326\nWeniger, Rud. Eml. 1728\nWerenfels, Frz., Wagner 278\n  Eml., Maler 457\n  Wittwe Marg. 208\nWernly, Ab. 461\nWertenberg, Rud. 584\n  Abrah., Büralist 641\n  Ed., Spengler 1396\nWerthemann-Vonder Mühll228\n  A., Commissionshg. 945-46\n  -Burckhardt, Wwe.Cath. 249\n  Jgfr. M. 945-46\nWettler, Fr., Parlier 1061\nWettstein'sche Apotheke 1193\n  -Hoffmann, Wittwe 1193\nWezel, Adam, Papierer 1278\n  J. J., Lohnwascher 1279\n  J. J., Ferger 1279\n  M., Papierformenmach. 1317\n  -Schweizer, J. J. 1317\n  Jak. Fried., Fabrikarb. *98\nWick, Emil, Mechanikus 99\n  -Hindermann, Karl 215-16\n  Wittwe, Pfarrer 456B\nWicky, Jos., Kleiderputzer *30\nWiedemann, V., Commis 1069\nWiedmer, Jak. Christ. 1227\nWieland, H., Buchhändler 139\n  Eml., Kaufmann *36\n  -Landerer, Wittwe 139\n  -Bischoff, Wittwe 1348\n  -Schweighauser, Wwe. 1456\n  Jgfr. Anna Maria 941\nWierz-Braun, E., 1618\n  -Carle, D., Alt-Canzlist 1170\nWiesendanger, Ulr. 545\nWiesner, Eml., Maler 469\n  Hch., Lohnkutscher *112\nWießler, Frz., Buchbinder *4\nWilhelm, Joh. Christ. 607\n[spalte 2]\nWimmer, Joh., Apotheker 1169\nWindscheid, Prof. Jur. 137\nWinkler, Joh., Kutscher 1233\n  Clemenz, Schiffmann *70\n  Bl., Fabrikarbeiter *260\nWinter, Luk. Friedr. *285\nWinterlin, A., Kunstm. *183\nWinzenried, Saml. 1029\nWirz, J. J., Dr. Jur. 1601\n  Wittwe 1601\n  Jgfr. Franziska 1400\nWitt, Fch., Posamentirer 611\nWitschy, Gottl., Fuhrhalter 273\nWitzig, Daniel, Lehrer 799\n  Mart., Vater u. Sohn *81\nWohnlich, Eml., 155\n  -Hagenbach, Fr. 349\n  Joh. Friedr., Schneider 661\n  Adolf, Handelsmann 838\n  J. J., Spezereihandlg. *395\n  Wittwe, Holzhandlung 667\n  Wittwe, Weißbeck *236\n  Wittwe Cath. *311\nWohnsiedel, Ulr., Commis 774\nWolf, Simon 487\n  Gebrüder 1759\n  Schwest., Modistinnen 1759\nWölfflin-Lotz, Diet. W. 927\n  -Mengis, J. Rud. 1161\n  Bened. 1533\n  J. Gg., Papierhandlg. 1627\nWolleb-Linder, M. K. N. 936\n  Wwe., Goldschmied 1086\nWoringer, L. Alphons 1487\nWortmann, Wwe. Barb. 1615\n  Buchbinder 1172\nWuchner, Peter 1696\nWürslin, Gust., Commis 275\nWurster, Friedr. *242\nWüst, Leonh., Schreiner 611\nWürz, Carl Aug., Nadler 55\n  Joh., Zuckerbeck 1313\nWybert-Thurneysen, J. J. 760",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9345,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2177,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p141",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p141.jpg",
+      "bytes": 1106580,
+      "sha256": "00f6b0807f71b20714d8a0be91b6eca1f46f21ab321c9f25c1b6b993dda1d061",
+      "sha256_of": "original",
+      "working_copy": "1850_p141.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:20+00:00"
+  }
+}

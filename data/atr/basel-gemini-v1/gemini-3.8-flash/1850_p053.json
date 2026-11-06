@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p053",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p053.jpg",
+    "bytes": 939365,
+    "sha256": "2d11ac307f19e7519e5a51007fdec42a7e6a81ae651339ac19fc8fc95ac54892",
+    "sha256_of": "original",
+    "working_copy": "1850_p053.jpg"
+  },
+  "text": "40 Aeschen-Quartier.\n\n  881 Brolly, Martin, Tabackspinner.\n  882 Christen, Peter, Ferger.\n  883 Magazin.\n\nAeschen-Quartier.\nKlosterberg.\n\n  884 Haas-Georg, August, Flachmaler.\n  885 Magazin.\n  886 Buxtorf-Merian, Lud., Handelsmann.\n  887 Vogt, Joseph, Kutscher.\n  888 Klingelfuß, Jgfr., B. M., Schneiderin.\n\nSt. Elisabethen.\n\n  889 Schrämlin, Frau Elise, Kostgeberin.\n  890 Meister, Heinrich, Zimmermann.\n  891 Magazin von Werthenmann-Burkhardt.\n892-93 Unbewohnt.\nA 893 LeGrand-LaRoche, Wilh., Pfarrer.\nB 893 Rumpf-Imhof, W., S. M. C., Lehrer.\n  Beck, Karl, Kaufmann. Comptoir in Nr. 759.\n  894 Day, Johann, Sohn, Schreiner.\n  Bachmann, Geschwister.\n895-97 (Zehndscheune) obrigkeitlich.\n898-99 (Spitalscheune) löbl. Spital-Verwaltung geh.\n  Gottesacker und Todtenhaus.\n  Ernst, Balthasar, Abwart.\n900-2 Mengis, Peter, Partikular.\n  903 Keßler, Peter, Zimmermann.\n  904 Fiechter, Joh. Jak., Bandfabrikant.\n  Brugger-Fiechter, Jos., Handels-Commis.\n  905 Burckhardt-Iselin, Wittwe, Cath., Rentière.\nA 905 Reinle, Johann, Zimmermeister.\n  906 (Fabrikgebäude) Pfister, Joh., Aufseher.\n  907 Schwob, Hans Jak., Brunnknecht.\n  908 Schmiedlin-Fischer, Wilhelm, Lehrer.\n  909 Bienz, J. J., Kaminfeger.\n  910 Lichtenhahn, Joh. Rud., Schreiner.\n  Sutter, Rudolf, Posamenter.\n  911 Bref, Ludwig, Tabackfabrikant.\n  Mörgelin, Joh., Tabacksfabrikant.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6284,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1337,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p053",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p053.jpg",
+      "bytes": 939365,
+      "sha256": "2d11ac307f19e7519e5a51007fdec42a7e6a81ae651339ac19fc8fc95ac54892",
+      "sha256_of": "original",
+      "working_copy": "1850_p053.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:33+00:00"
+  }
+}

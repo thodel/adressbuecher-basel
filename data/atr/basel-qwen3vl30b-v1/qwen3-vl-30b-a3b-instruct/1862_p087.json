@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p087",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p087.jpg",
+    "bytes": 1288659,
+    "sha256": "44ec64bd58693ab6cfe72865205f9cb347fe38d9b61a26129481520442709b53",
+    "sha256_of": "original",
+    "working_copy": "1862_p087.jpg"
+  },
+  "text": "22\nSt. Andreasplatz. — Augustinergasse.\nNrn\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n10 | II. | 547 B a | | Buz-Kieder, Josef Franz.\n| | | | (Magazin.)\n11 | II. | 547 C a | | Buz-Kieder, Josef Franz.\n| | | | Weiß-Klarren, Wilhelm, Knecht.\n12 | II. | 547 C b | | Buz-Kieder, Josef Franz.\n| | | | (Magazin.)\n13 | II. | 547 a | | Wiesendanger-Peter, Adam.\n| | | | Wiesendanger-Peter, Adam, Schuhm.\n| | | | Brauneisen, Therefia, Modiste.\n14 | II. | 588 | zum hintern Seffel. | Schweizer, Nikl., Schreiner und\n| | | | Frau S. Weber-Verbert.\n| | | | Weber-Verbert, S. Friedr., Kaufmann.\n| | | | Wick-Burggraf, Mart., Spezierer.\n| | | | Sutter-Glor, Rud., Schreiner.\n| | | | Koch-Joerz, Joseph, Schreiner.\n| | | | Hunziker-Hartmann, Jak., Holzhändler.\n15 | II. | 587 | zum St. Andreas. | Follenweider, Gebr.\n| | | | Follenweider, Adolf, Porträtmaler.\n| | | | Follenweider, Albert Rud., Kaufmann,\n| | | | Cigarren- u. Tabakhandlung,\n| | | | Schwander-Schneider, Matth.\n| | | | Schwander-Schneider, Matth., Kaufhsarb.\n| | | | Schwander, Mt., Sohn, Commis.\n16 | II. | 586 | 3. Hofftätten. | Sandreuter-Reinhard, Wb. Jakobea\n| | | | Catharina, Schneiderin.\n17 | II. | 585 | 3. hint. Thurnschaale | Steib, J. Michael.\n| | | | Brunner-von Arx, Dan.\n| | | | Siehe Nro. 18, Schneidergasse.\n18 | II. | 582 | zum kl. Esringen. |\nAugustinergasse.\n1 | V. | 1484 | 3. hohen Sonnenluft | DeBary-Sarasin, Joh.\n| | | | DeBary-Sarasin, Joh., Bandfabrikant.\n| | | | DeBary, Aug., Bandfabrikant.\n2 | V. | 1489 | Museum. | Staat.\n| | | | Gerlach, Franz Doroth., Prof. u. Ober-\n| | | | bibliothekar.\n| | | | Kaufmann-Marbach, Franz, Abwart des\n| | | | Museums und Buchbinder.\n3 | V. | 1483 | | DeBary-Sarasin, Joh.\n| | | | DeBary-Burckhardt, Joh., Bandfabrik.\n4 | V. | 1488 | Morituro sat. | Bachofen-Merian, Joh. Jak.\n| | | | Moergelin, Joh., Tabakfabrikant.\n5 | V. | 1482 | zum gold. Stauffen | Bischoff-Burckhardt, Wilh.\n| | | | Bischoff-Sarasin, Alb., Bandfabrikant.\n6 | V. | 1473 B | Reinacherhof. | Burckhardt-Keller, Johann Rudolf.\n| | | | (Stallung, Remise u. Kutscherwohn.)\n7 | V. | 1481 | zum Rappenfels. | Fischer-Burckhardt, Heinrich.\n| | | | Fischer-Burckhardt, Heinr., Schreiner.\n8 | V. | 1473 A | Reinacherhof. | Burckhardt-Keller, Johann Rudolf.\n| | | | BonderMühl-Bilrgy, Wb. Mar., Rent.\n| | | | Frey-Stähelin, Wb. Doroth., Rent.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7679,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2375,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0159,
+    "mean_line_chars": 36.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p087",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p087.jpg",
+      "bytes": 1288659,
+      "sha256": "44ec64bd58693ab6cfe72865205f9cb347fe38d9b61a26129481520442709b53",
+      "sha256_of": "original",
+      "working_copy": "1862_p087.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:46+00:00"
+  }
+}

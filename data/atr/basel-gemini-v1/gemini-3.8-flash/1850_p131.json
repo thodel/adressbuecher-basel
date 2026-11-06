@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p131",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p131.jpg",
+    "bytes": 1110269,
+    "sha256": "4a63342c5b1d50d248cf30ef3fea9105c2ce641a7eec35a105d02fc1f55ef79e",
+    "sha256_of": "original",
+    "working_copy": "1850_p131.jpg"
+  },
+  "text": "118\n\nPlattner, M., Spengler 1104\n  Hr., Hausknecht 1140\n  Joh., Lohnfuhrhalter 1271\nPlüß, Joh., Liseur 1574\nPöhls, Friedr. 1195\n  Lukas, Schlosser 1195\nPorte, El., Sprachlehrer 214\nPrattler, Jak., Beck *13\nPreiswerk-Burckhardt, F. 46\n  -Bischoff, W., Hdlsm. 51\n  Gebr., Nikl. u. Peter 63\n  -Keller, D., Kaufm. 64A\n  -Fürstenberger, C. R. 386A\n  Saml., Pfarrer 393\n  -Paravicini, Karl 566A\n  -Eman., Spezereihdlg. 597\n  -Oser, F., Tuchhdlg. 1543\n  -Stückelberger, Wwe. 262\n  -Bernoulli, Wittwe 1343\n  -Klingler, Frau Ros. 1534\nPrevot, L., Portraitm. 652\nProsser, Ch., Spengler 184\nPuppikofer, R., Buchb. 688\n  Leonhard, Fabrikarb. 688\nPümpin, Sam., Sohn 1669\n  Sam., Major *12\nRaab, H. G., Thorzoller 311\n  Rud., Schneider 686\nRäber, F., Schumacher 1756\nRächer, Hch., Spetter 399B\nRaff, Aug., Hdlsm. 355\nRaillard, Th., Spezierer 1192\n  Eman., Med. Dr. 1479\n  R. Stempelkommissär 191\n  -Brenner, Peter *372\n  -Stähelin, August *372\nRamhofer, Fr., Commis *28\nRamsperger-Hug, Eml. 1442\nRamus, A., Postbeamter 234\nRanz, W., Dessinateur *280\nRapp, Joh. Konrad 91\nRau, Jgfr. Caroline 23B\nReber-Geilinger, J. J. 563\n\n[spalte 2]\n\nReber-Burckhardt, Nikl. 747\n  -Sulger, B. 750\n  -Sulger, Balth., Lehrer 1473\n  -Biermann, Ph. Th. *217\nRebsaamen, J., Commis 513\n  Joh. Ben., Wagner 514\n  Sam., Gürtler 643\n  Hieron., Dessinateur 744A\nRees, Kasp., Fabrikaufs. *302\nRehlin, Leonh., Trödler 496\nReindlin, Jos., Metzger *23\nReinhard, D., Zeugladen 1075\nReinhold, G., Zimmerm. 1742\nReinle, F., Zimmerm. 905A\nReiter-Bildstein, E. 754O\nReischacher, J. F. 99\nRenz, Karl, Chemiker *180\nRespinger-Iselin, Adolf 40\n  -Passavant, Wilh. 80-81\n  J. R., Diacon 693A\n  Leonh., Commis 754N\n  -Gemuseus, B. 949-50\n  -Bernoulli, Eml. 1448\n  -Isenegger, Friedr. 1616\n  -Preiswerk, Wwe. 949-50\n  -Burckhardt, Wittwe 1595\n  Jgfr. Salomea 761\n  -Dörflinger, Wittwe *332\nRieber, J., Spezierer 1599\n  J. J., Wollenhdlg. 1582\nRieder, Em., Commis 1247\nRiedtmann, Joh. Ludw. 508\n  Nikl., Schneider 714\n  Emanuel 1418\n  J. H., Rheinzoller *77\n  Nikl., Holzhändler *113A\n  -Oppermann, Wittwe *383\n  Wittwe *112AB\nRieger, Hr., Zimmerm. 1740\nRiffel, Hr., Commis 578\nRiggenbach, F., Flachmaler 6\n  J. F., Beck 62\n  J. F., Postoffiziant 62",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11244,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2193,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:21:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p131",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p131.jpg",
+      "bytes": 1110269,
+      "sha256": "4a63342c5b1d50d248cf30ef3fea9105c2ce641a7eec35a105d02fc1f55ef79e",
+      "sha256_of": "original",
+      "working_copy": "1850_p131.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:38+00:00"
+  }
+}

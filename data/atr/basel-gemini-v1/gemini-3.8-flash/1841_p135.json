@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p135",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p135.jpg",
+    "bytes": 909940,
+    "sha256": "d47bc00f0f2bfe1801c32b6e942f5509855fea711a1804b3328fc14a9937fed5",
+    "sha256_of": "original",
+    "working_copy": "1841_p135.jpg"
+  },
+  "text": "52\n\nBödecker, Wilh., Zimmermann. 385 Krempergasse.\nBöhrlin, Joh., Schleifer und Stuhlschreiner. 252 u. 253 Untere\n  Rebgasse.\nBöttcher, Joh. Christian, Mechaniker. 365 Untere Rheingasse.\nBohny, Joh., Schmid. 163 Rebgasse.\nBrand, Leonhard, Rothgerber. 256 Im Rumpel.\nBratteler, Jakob, Weißbeck. 13 An der Rheinbrücke.\nBraun, Samuel, Tabackfabrikant. 249 u. 249 a Teichgäßlein.\nBraun, Rudolf, Kunstmaler. 43 Rheingasse.\nBraun-Baumgartner, J., Kaufmann. 378 Bei der Rheinbrücke.\nBraun-Geßler, Andreas, Rothgerber. 61 Rheingasse.\nBraun-Weiß, Andr., Oberst. 207-211 Rebgasse.\nBreitenstein, Joh., Weißbeck. 213 Greifengasse.\nBrevin, Joh., von Lausen, Weißbeck. 124 Obere Rebgasse.\nBricard, Samuel, Küfer und Weinhändler. 400 Udengasse.\nBrodmann, Joh., von Ettingen, Schuhmacher. 155 Rebgasse.\nBrüderlin, Joh., Commis. 434 Udengasse.\nBrunner, J. Heinrich, Küfer. 423 Udengasse.\nBüchlin-Schlichter, Joh. Ulrich, Gantrufer. 151 Rebgasse.\nBürer, Caspar, Schneider. 212 Rebgasse.\nBulacher, Hieronymus, Vater. 188 Rebgasse.\nBulacher, Joh., Seifensieder u. Kerzenfabrikant. 227 Greifengasse.\nBulacher, Hieronymus, Sigrist u. Geschäftsmann. 133 Kirchgäßlein.\nBurckhardt, Samuel, Weißbeck. 185 Rebgasse.\nBurckhardt, Rudolf, Metzger. 95 Am Lindenberg.\nBurckhardt, J. R. L., Pfarrer und Waisenvater. 132 Kirchgäßlein.\nBurckhardt, geb. Wüst, Wittwe. 62 Rheingasse.\nBurckhardt-Schönauer, L., Kunstmaler. 274 Beim Bläsithor.\nBuser, Math., Lehrer. 45 Rheingasse.\nBuser, Joh. Jakob, Lehrer. 87 Rheingasse.\nBuß, Joh. Jakob, Informator. 161 Rebgasse.\nBuxtorf-Falkeisen, Carl, Candidat. 61 Rheingasse.\n\nC.\n\nChrist, Christian, Schuhmacher. 83 Rheingasse.\nChrist, Christian, Schneider. 83 Rheingasse.\nClavel-Linder, Alexander, Seidenfärber. 274 Beim Bläsithor.\nCourvoisier, August, Kaufmann. 114 Rheinweg.\nCramer, August Wilhelm sel. Wittwe, Spezereihandel. 5 An der\n  Rheinbrücke.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6861,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1854,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p135",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p135.jpg",
+      "bytes": 909940,
+      "sha256": "d47bc00f0f2bfe1801c32b6e942f5509855fea711a1804b3328fc14a9937fed5",
+      "sha256_of": "original",
+      "working_copy": "1841_p135.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:41+00:00"
+  }
+}

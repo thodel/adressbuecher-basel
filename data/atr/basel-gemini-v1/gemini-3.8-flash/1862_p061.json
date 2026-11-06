@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p061",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p061.jpg",
+    "bytes": 1372692,
+    "sha256": "0e1b6d6e4fc448e5fb9273425da4034fa2e7f97bc1aa8fde2d147fa631b615ab",
+    "sha256_of": "original",
+    "working_copy": "1862_p061.jpg"
+  },
+  "text": "LVIII Berichtigungen, Handänderungen und Neubauten.\n\nSeite. | Straße. | | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.\n\n23 | Austraße. | einschalt. | 29 | III | | Rosenmund-Bohny, Joh. Friedr.\n  | \" | lies | 48 | III | 167 | Stäubli-Scholl, Bernhard.\n  | \" | | 50 | III | 167 A | Boillat-Stihl, Cölestin.\n  | \" | einschalt. | 62 | II | 136 | Bernoulli-Bär, Leonhard.\n24 | Bachlettenstraß. | lies | 23 | III | 183 | Spitalpflegamt.\n24 | Bäumleingasse sämmtl. Nummern in's St. Albanquartier (V) statt Aeschenquartier (IV)\nu25 | | | | | zu setzen. |\n25 | Barfüßergasse. | lies | 2 | IV | 1078 | Merian-Weiß, Rudolf sel. Erben\n  | | | | | | (zum blauen Berg).\n  | \" | \" | 6 | IV | 1077 D | Stadtgemeinde (Spritzenhaus).\n26 | Barfüßerplatz. | \" | 5 | IV | 1093 und 1094 | Meyer, Ludwig. (z. hohen Thurm, Schilteck.)\n  | \" | \" | 7 | III | 937 B f | Stadtgemeinde (Barfüßerkirche).\n  | \" | \" | 10 | III | 730 a | Kromer-Niederhauser, Jac. Christ.\n27 | \" | \" | 19 | III | 707 u. 708 | Lindenmeyer, Carl (z. weiß. Adler).\n28 | Binninger-Str. | \" | 7 | III | 193 a | Paravicini-Merian, Ludwig.\n  | \" | einschalt. | 9 | III | 193 b | id. id.\n  | \" | | 11 | III | 193 c | id. id.\n  | Birsigstraße. | lies | 3 u. 5 | III | | Harder, Arnold.\n  | \" | | 10 | III | 184 B | Bürgin, Heinrich, Seifensieder.\n  | \" | einschalt. | 17 | III | 182 h | Weitnauer, Friedrich.\n  | \" | | 28 | III | 159 A f | Burckhardt-Ecklin, Franz, Mechan.\n  | Blumenrain. | lies | 4 | I | in 115 | Staat.\n31 | Bruderholzweg. | einschalt. | 22 | IV | 246 A | Gesellsch. d. Guten u. Gemeinnütz.\n  | | | | | | (Klostersiechten).\n32 | Brunngäßlein. | lies | 5 | IV | 1024 | Glock, Eduard, Bierbrauer.\n  | Burgfelderstr. | \" | 20 | I | 77 | Eidgenossenschaft (Zollanmeldungs-\n  | | | | | | posten).\n  | \" | \" | 22 | I | 76 A | Vogt, Heinrich, Gutsbesitzer.\n  | Bysangweg sämmtl. Nummern in's Steinenquart. (III), statt Spalenquart. (II) zu setzen.\n  | \" | einschalt. | 8 a | III | | Bienz-Hartmann, J. Gg., Schreinr.\n33 | Centralbahnpl. | lies | 5 | III | 204 | Recher, J. Jacob.\n  | Im Davidsbod. | | 20 | I | 59 | Merian-Frischmann, Rudolf.\n36 | Eisengasse. | \" | 28-30 | VI | 1547-48 | Hoch-Schneider, Joh. Lucas.\n  | \" | \" | 34-36 | VI | 1450-51 | Krug-Bader, Wilh. (z. Rosenstock).\n38 | St.Elisabethen-Straße. | \" | 38 | IV | 895 A | Siegrist und Kußmaul.\n  | \" | \" | 40 | IV | 895 B | id. id.\n  | \" | \" | 42 | IV | 895 C | id. id.\n  | \" | \" | 55 | IV | 900 B | E. E. Bann der Münstergemeinde.\n  | | | | | | (Gottesackerkapelle.)\n  | \" | \" | 58 | IV | 897 C | Eckenstein, J. J., Spezierer (zur\n  | | | | | | Aussicht).\n39 | Elsäßer-Straße | \" | 24 | I | 5 | Rych, Christian, sel. Erben.\n  | \" | \" | 36 | I | 8 | Schaffner-Frey, Samuel.\n  | \" | \" | 37 | I | 11 | Eidgenossenschaft (Zollanmeldungs-\n  | | | | | | posten).\n40 | Engelgasse. | einschalt. | 1 u. 21 | V | 309 | Friedrich, Leonhard.\n41 | Freie Straße. | lies | 10 | III | 1635 | Georg-Neukirch, Hch (z. Eberstein).\n44 | \" | \" | 44 | IV | 1180 | Kormann-Leithardt, Aug., Schnei-\n  | | | | | | der (z. rothen Thurm).\n  | \" | \" | 52 | IV | 1184 | Corporationsgut (Schuhmachern-\n  | | | | | | zunft).\n48 | \" | \" | 105 | V | 1071 | Oser, Joh. Jacob (zum vordern\n  | | | | | | Maulbeerbaum).",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12804,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3227,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0182,
+    "mean_line_chars": 56.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:33:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p061",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p061.jpg",
+      "bytes": 1372692,
+      "sha256": "0e1b6d6e4fc448e5fb9273425da4034fa2e7f97bc1aa8fde2d147fa631b615ab",
+      "sha256_of": "original",
+      "working_copy": "1862_p061.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:40+00:00"
+  }
+}

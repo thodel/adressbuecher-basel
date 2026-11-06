@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p132",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p132.jpg",
+    "bytes": 1216386,
+    "sha256": "5a15538d1a7ceea35fc716078614abeaabc44529574ccd07e8c0ac32f4452d4c",
+    "sha256_of": "original",
+    "working_copy": "1850_p132.jpg"
+  },
+  "text": "Riggenbach, Alb., Kaufm. 755\n=Schmid, Sped.=Hdlg. 830\nJoh. 869. Comptoir 1202\n=Stehlin, Fch., Bang. 983\n= Sulger, Chr., Acht. 1457\nAug., Lehrer 1607\nFranz, Kaufmann 1607\nF. F., Ladengehilfe *90\n=Huber, Wittwe 755\nRimmenesperger, Frau C. 1164\nRigiani, Chocoladefabr. 1427\nRitter, F. F., Gastgeber 1145\n=Fischer, Mezger 1235\nWittwe, Marie *409\nRittmann, D., Zahnarzt 1649\nRoché-Bersail, Wittwe 1306\nRochow, F. F., Commis 420\nRognon-Schölln, H. F. 1044\nRohner, F. M., Wirth 1122\nJoh., Beck 1316\n=Imhof, M., Hdlsm. *293\nSchwester 952\n=Fischer, Wittwe 1106\nRohr-Schmidt, Joh. 319\nRonus-Gemuseus, Christ. 105\nu. Holzach, Quinc.=Hlg.1540\n=Gemuseus, Wwe., Cl. 222\nFgfr. Katharina 956\nRoschet, Hier., Cattler 140\nHier., Seiler 140\nAbraham, Kürschner 1709\nFgfr. Margaretha 1084\nRosenburger-Rapp, F. 1472\nRosenfeld, Eduard 1625\nRosenmund, Joh. Jaf. 1544\nKöslin, F. R., Spezierer 152\nF. R., Posamenter 865\nRud., Ferger 1191\nRoth, Bernh., Schuhm. 72\nF. F., Postfaktor 96\nHeinrich, Mezger 121\nFranz, Schneider 191\n=Oser, Balth., Glaser 651\nRoth-Hamberger, Wwe. 724A\nPeter, Flachmaler 967\nMartin, Wirthschaft 1031\nMartin, Fabrikmeister 1033\nRudolf, Geschirrladen 1112\nAbraham, Schlosser 1401\nJoh. Kaspr., Spengler 1548\nJoh. Peter, Müller *352\nChrist., Schlosser *366\n=Soein, Wittwe 99\nF. F., Lohnwäscher *287\nRottwill, Fgfr. Kath. *426\nRoulet, Fgfr. Georgine 1203\nRübenstahl, F., Steinmeß 769\nRublin, K., Zimmern. 1234\nRudin, H., Fabrikarbeiter 711\nJoh., Fabrikferger 1704\nRuef, Ahr., Hdlsm. 492-93\nRueff, Adolph, Hdlsm. 551\nRühlin, F. G., Lohnwäschr. *258\nF. G., Nestel-Fabrik. *354\nRumpf, Dan., Wundarzt 165\nKarl Chr., Commis 342\n=Imhof, W., Lehrer 893B\nEml., Bürstenbinder 1074\nChrist., Partikular 1516\nF. W., Cand. Theol. 1516\n=Bachofen, Hieron. 1630\nRuprecht, Stephan 1739\nRych-Bratsch 1734\nRyff, Wwe., Wirthsch. 458\nWwe., Sal., Wasch. *283\nRyhiner-Bischoff, Sam. 64B\n=Schönauer, Andr. 931-33\nKarl, Bandfabrikant 940\n=Bischoff, Jul. 1042\n=Bischoff, K., Fabr. 1084A\n=Bischer, Chr. 1084A\n=Menger, Eml. 1275A\n=Christ, Eml. 1377\n=Werthemann, Wwe. 1043\n=Streckeisen, Wittwe 1365\n=Bernoulli, W. *249B\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8443,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2095,
+    "lines": 87,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p132",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p132.jpg",
+      "bytes": 1216386,
+      "sha256": "5a15538d1a7ceea35fc716078614abeaabc44529574ccd07e8c0ac32f4452d4c",
+      "sha256_of": "original",
+      "working_copy": "1850_p132.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:34+00:00"
+  }
+}

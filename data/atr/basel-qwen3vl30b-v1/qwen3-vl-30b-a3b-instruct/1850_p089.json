@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p089",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p089.jpg",
+    "bytes": 913538,
+    "sha256": "e331a853c62d0edab65208f13bee1878798f9ee6e743a67dbceb022b81842814",
+    "sha256_of": "original",
+    "working_copy": "1850_p089.jpg"
+  },
+  "text": "76\nStadt=Quartier.\nRuttelgäfklein.\n1693 Gysin, Heinrich, Bater.\n    Gysin, Samuel, Courtier.\n1694 Bicard, Wittwe Ester, Kostgeberin.\n1695 Streicher, Joh.\n    Schnäbelin, Leonh., Schuhmacher.\nSchnabelgäfklein.\nA 1695 Schardt, Matth., Spengler.\nRuttelgäfklein.\n1696 Buchner, Peter.\n    Lok, Karl, Schloffer.\n1697 Künzle-Gögel, Wittwe, Glätterin.\nSchnabelgäfklein.\n1698 Kinder, Gottlieb Nikl., Mechanikus.\n    Ründig, Rudolf, Tapezierer.\n1699 Cappeler, F., Schuhmacher.\n1700 Kunz, Wittwe.\n1701 Bürgin, Heinr., Posamenter.\n1702 Weiß, Karl Ludwig, Kübler.\n1703 Meyer, Gedeon, Spezierer.\nUnterer Spahlenberg.\n1704 Rudin, Johann, Fabrikferger.\n    Dittmer, Rudolf, Fabrikant.\n    Meister, Dietrich, Geschäftsmann.\n    Burckhardt-Fäsch, Wittwe Emilie, Partikularin.\n1705 Schnäbelin, Adam, Kiefer.\n1706 Eschudy, Joh. Ulrich, Schneider.\n1707 Bernoulli, Joh. Jak., Bater, Rentier.\n1708 Gysin, Peter, Bierbrauer.\n    Schneider, Eml., Amtmann.\n    Oplinger, Ab. u. Dl., Commis u. Desfinateur.\n1709 Roschet, Abh., Kürschner u. Rauchwaarenhdg.\n1710 Ungerer, Andreas, Weinschenk.\n1711 Hosch, Eduard, Spengler.\n    Luk, F. U., Uhrenmacher.\n1712 Förin, F. Heinrich, Handelsmann, Giftzig Eignaßumair\n    Schmidt, Schloffer.\n    Bloch, Joseph, Pferdhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4233,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1237,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.05,
+    "mean_line_chars": 28.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p089",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p089.jpg",
+      "bytes": 913538,
+      "sha256": "e331a853c62d0edab65208f13bee1878798f9ee6e743a67dbceb022b81842814",
+      "sha256_of": "original",
+      "working_copy": "1850_p089.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:54+00:00"
+  }
+}

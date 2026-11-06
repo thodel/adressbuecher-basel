@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p144",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p144.jpg",
+    "bytes": 1032047,
+    "sha256": "5c244eed43a33d53a80032eb131c2a89b3298a722353c9614775d9e99f8e5e24",
+    "sha256_of": "original",
+    "working_copy": "1850_p144.jpg"
+  },
+  "text": "1228\nBischoff zu St.\nAlban\n918 Benedikt Bischoff\n1490 Gebrüder Bischoff\n1347 Chr. u. Joh. Bischoff\n1388 Peter Bischoff\n1107 Jakob Bleiler\nN.\n1666 A Ambros. Bohny\n1663 Nikl. Bohny\n1550 F. Bolliger-Miville\n1660 Joh. Rud. Brandmüller\n1591 Andreas Braun\n244* Andreas Braun, Tabakfa-\nbrifant\n911 Ludwig Bref & Cie.\n103 Brenner-Fäsch\n1426 Brenner-Guéniard\n400* Bricar u. Bienz\n131\nHieronimus Bischoff.\nDaniel Bloch\nB. Kespinger Procu-\nEduard Zahn ) raträger.\nHieronimus Bischoff=\nBischoff.\nAndr. Bischoff\nCarl Sandoz\nRud. Bischoff\nHieronimus Bischoff.\nJohannes Bischoff.\nAugust Bischoff.\nWilhelm Bischoff.\nChristoff Bischoff.\nCarl Bischoff.\nJoh. Matthias Riedeker,\nProcuraträger.\nPeter Bischoff.\nRud. Bleiler.\nJoh. Jak. Hindermann-\nWeydmann.\nAugust Bischoff, Procu-\nraträger.\nRud. Bloch.\nAmbrosius Bohny.\nNiklaus Bohny.\nJohannes Bolliger-Mi-\nville.\nHeinrich Brandmüller=\nEckenstein.\nJohannes Braun, Bater.\nJohannes Braun, Sohn.\nLudwig Bref.\nF. Jak. Bischoff\nF. Mörgelin\nProcu-\nraträger.\nAugust Brenner.\nWittwe Brenner-Gué-\nniard.\nHeinrich Bienz, Bater.\nSamuel Bricar, Sohn,\nProcuraträger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3818,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1082,
+    "lines": 64,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0469,
+    "mean_line_chars": 15.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0028,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p144",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p144.jpg",
+      "bytes": 1032047,
+      "sha256": "5c244eed43a33d53a80032eb131c2a89b3298a722353c9614775d9e99f8e5e24",
+      "sha256_of": "original",
+      "working_copy": "1850_p144.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:59+00:00"
+  }
+}

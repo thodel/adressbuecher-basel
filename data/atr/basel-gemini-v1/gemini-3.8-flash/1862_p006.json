@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p006",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p006.jpg",
+    "bytes": 1353455,
+    "sha256": "fe2d4f6e7d37f2a718cd439bb5935d195d7336dcec8084dda3e61d9e119ca425",
+    "sha256_of": "original",
+    "working_copy": "1862_p006.jpg"
+  },
+  "text": "Neues\n\nNummern- & Adreßbuch\n\nder\n\nStadt Basel.\n\nIm Auftrag einer hohen Regierung\n\nherausgegeben.\n\nMit einem Plane der Stadt.\n\nBasel, 1862.\nVerlag von Otto Stuckert\nMostackerstraße No. 25.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4231,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 187,
+    "lines": 10,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 17.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0107,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p006",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p006.jpg",
+      "bytes": 1353455,
+      "sha256": "fe2d4f6e7d37f2a718cd439bb5935d195d7336dcec8084dda3e61d9e119ca425",
+      "sha256_of": "original",
+      "working_copy": "1862_p006.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:24+00:00"
+  }
+}

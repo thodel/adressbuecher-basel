@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p079",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p079.jpg",
+    "bytes": 903968,
+    "sha256": "5ab8655d02fbbe604aa9d24a00b311c32eec3209b45f92390d39b3fac3b77270",
+    "sha256_of": "original",
+    "working_copy": "1850_p079.jpg"
+  },
+  "text": "66\nSt. Alban=Quartier.\n1486 Siegrift, Johann, Fabrikferger.\nHeffe, F. A., Schneider.\n1487 Moringer, L. Alph., Lehrer am Gymnasium.\nAugustinergasse.\n1488 Magazin.\n1489 (Museum) Obrigkeitlich.\nGerlach, D., Prof.\nSchneider, A., Präparator und Abwart im Museum.\nSt. Martin.\n1490 Bischoff=Merian, Wilh., Bandfabrikant.\nBischoff, Peter, Seidenhdlg., Comptoir in Nr. 1388.\nA 1490 Grob, Joh., Fabrikausseher.\n1491 Comptoir von Jäcklin=Falkeisen, Konr.\nTobler=Gengebach, Heinrich, Lehrer.\nBraun, Jungfrau Caroline, Lehrerin.\n1492 His=LaRoche, Ed., Bandfabrikant.\nHik, Eduard u. Friedrich, Bandfabrikanten.\nA 1492 (Fabrikgebäude) Hs. Frz. Sarasin gehörend.\nGrimm, Christ., Posamenter.\n1493 Näfzger, Heinrich, Posamenter.\n1494 Cuénod, Wittwe Elise, Rentière.\n1495 Schaub, Jakob, Posamenter.\n1496 Schmid, Ahrh., Oberst=Kathödienor.\nSchmid, Rud., Sohn, Kanzlist.\n1497 Abgebrochen.\n1498 (St. Martinskirche) Obrigkeitlich.\n1499 Stockmeyer, Emmanuel, Pfarrer.\n1500 Kromer, Dav., Siegrift bei St. Martin.\n1501 Stockmeyer, Nikl., Postangestellter.\nRheinprung.\n1502 Asch, Conrad, Posamenter.\n1503 Zeinler, Wittwe, Trödlerin.\n1504 Hegnauer, F., Posamenter.\n1505 Scherb, Heinrich, Flachmaler und Trödler.\n1506 Klingelsuk=Langmesser, Wittwe F., Schneiderin.\n1507 Müller, Wittwe Maria.\nSutter, R. E., Schirmfabrikant.\n1508 (Unt. Collegium u. anatomisches Museum)\nBürgin, Karl, Buchbinder u. Pedell.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4561,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1375,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p079",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p079.jpg",
+      "bytes": 903968,
+      "sha256": "5ab8655d02fbbe604aa9d24a00b311c32eec3209b45f92390d39b3fac3b77270",
+      "sha256_of": "original",
+      "working_copy": "1850_p079.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:11+00:00"
+  }
+}

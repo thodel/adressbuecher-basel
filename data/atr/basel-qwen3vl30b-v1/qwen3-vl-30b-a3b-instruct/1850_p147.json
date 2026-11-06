@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p147",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p147.jpg",
+    "bytes": 929606,
+    "sha256": "29bc60c50c222fba3c91880780cb8d1b5340e5fdf2a30edb11e7dbf89c45790f",
+    "sha256_of": "original",
+    "working_copy": "1850_p147.jpg"
+  },
+  "text": "134\n1207 Fren, Thurneisen\n& Christ . Adolf Christ.\nEmil Thurneysen.\n1160 F. F. Fren . . . Wittwe Gengenbach.\nGustav Gengenbach.\n1309 A Freyvogel & . Friedr. Freyvogel=Im-\nHeufler . . Hof.\nDan. Heufler=Stelin.\n1442 Abraham Früh an der Freien-\nstraße . . Eml. Ramsperger, Sohn.\n511 Hs. Georg Fürstenberger . . Paul Simonius.\nCommanditaires:\nFran Wittwe Fürsten-\nberger-Debary.\nAugust Bischoff-Fürsten-\nberger.\nEm. Burchhardt-Fürsten-\nberger.\nAlfred SonderMühl-\nFürstenberger.\nJohannes Siegrist, Pro-\ncuraträger.\nS.\n1417 Joh. Rud. Geigy . . . . Carl Geigy=Preiswerk.\nEduard Geigy.\nJoh. Rohr=Schmidt,\nProcuraträger.\n1600 Geigy & Bernoulli Leonard Bernoulli=Bär.\nCarl Geigy=Preiswerk;\nCommanditaire.\nJakob Sprenger, Pro-\ncuraträger.\n1593 C. Gemuseus . . . Carl Gemuseus.\n1177 Joh. Rud. Gemuseus . . . Joh. Rudolf Gemuseus,\nSohn.\n1238 W. Gemuseus . . . Wilhelm Gemuseus.\n*8 Andr. Gekler . . . Andreas Gekler, Sohn.\nHeinr. Dehl, Procuratr.\n1714 Emanuel Gekler . . . Emanuel Gekler.\n827 Rudolf Gekler . . . Rudolf Gekler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3540,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1013,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0488,
+    "mean_line_chars": 23.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p147",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p147.jpg",
+      "bytes": 929606,
+      "sha256": "29bc60c50c222fba3c91880780cb8d1b5340e5fdf2a30edb11e7dbf89c45790f",
+      "sha256_of": "original",
+      "working_copy": "1850_p147.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:01+00:00"
+  }
+}

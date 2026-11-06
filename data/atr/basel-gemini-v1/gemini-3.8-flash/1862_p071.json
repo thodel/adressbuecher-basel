@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p071",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p071.jpg",
+    "bytes": 1265076,
+    "sha256": "5a48891578ef1bc32fb8ee34b1c36f4a4d628972edcf61586d1a2888f49740e4",
+    "sha256_of": "original",
+    "working_copy": "1862_p071.jpg"
+  },
+  "text": "6 Aeschengraben.\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\n13 | IV. | 220 A | | Zahn-Rognon, Eduard.\n  Zahn-Rognon, Eduard, Kaufmann.\n14 | IV. | 998 D | | Witzig-Bovet, David.\n  Witzig-Bovet, David, Lehrer.\n  Scherb-Baumann, Jak. Adam, Bureau\n  f. techn. Liter. (Verlagsbuchhandlg.)\n  Specker-Meyer, Maria Dorothea, Wb.\n  Soistmann-Hifferich, Ferdin., Cantor\n  und Musiklehrer.\n  Lotz-Baune, Adolf, Commis.\n16 | IV. | 998 E | | Lüscher-Stapfer, Carl.\n  Lüscher-Stapfer, Carl, Kaufmann.\n  Stapfer, Wb. Barbara, Partikular.\n17 | IV. | 219 | | Grimm-Schneider, Christian.\n  Grimm-Schneider, Christ., Dr. med.\n  Schneider-Frey, Wb. Elisab., Part.\n21 | IV. | 218 | | Boelger-Hindermann, Markus.\n  Boelger-Hindermann, Markus, Theilh.\n  der Firma Markus Boelger.\n24 | IV. | 998 F | | Kaltenmeyer-Kircher, Jakob.\n  Kaltenmeyer-Kircher, Jak., Baumeister.\n  Kircher-Merian, Jak., Partikular.\n  Bernoulli-Bernoulli, Wb. Soph., Part.\n25 | IV. | 217 | | Frey-Thurneisen und Christ.\n  (Zettlerei und Winderei.)\n  Buser Eduard, Ferger.\n27 | IV. | 216 C | | Grether-Scholer, J. J.\n  Grether-Scholer, Joh. Jak., Kfm.\n  J. Grether u. Comp., Band und Mode-\n  Artikel.\n  Mylius, Jonas Carl, Architekt.\n28 | IV. | 991 | | Delhafen, Sam., Mechan.\n  Dreifus u. Söhne, Isaak, Bandfabrike.\n29 | IV. | 216 B | | Kaufmann-Burckhardt, Joh.\n  Kaufmann-Burckhardt, Joh., Wein- und\n  Spirituosenhandlung.\n  Kaufmann, Carl, Commis.\n  Déjosez-Hofer, W., Architekt.\n30 | IV. | 991 A | | Delhafen, Sam., Mechan.\n  Chêvre-Dinger, Joseph, Dessinateur.\n32 | IV. | 971 A | | Gasquet-Siegrist, Friedr. Wilh.,\n  Zimmermeister.\n37 | III. | 202 B | | Meyer-Müller, Joh.\n  Meyer-Müller, Joh., Partikular.\n  Gyssendörffer Heinr., Kanzleisekretär.\n  Simmen-Becker, J. Heinr., Kaufmann.\n39 | III. | 202 C | | Iselin-LaRoche, Dan. Ludw.\n  Iselin-LaRoche, D. Ludw., Kaufmann.\n41 | III. | 202 D | | Merian-Köchlin, Eduard.\n  Merian-Köchlin, Eduard, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8767,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1974,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p071",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p071.jpg",
+      "bytes": 1265076,
+      "sha256": "5a48891578ef1bc32fb8ee34b1c36f4a4d628972edcf61586d1a2888f49740e4",
+      "sha256_of": "original",
+      "working_copy": "1862_p071.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:23+00:00"
+  }
+}

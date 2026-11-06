@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p144",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p144.jpg",
+    "bytes": 1032047,
+    "sha256": "5c244eed43a33d53a80032eb131c2a89b3298a722353c9614775d9e99f8e5e24",
+    "sha256_of": "original",
+    "working_copy": "1850_p144.jpg"
+  },
+  "text": "131\n\n1228 | Bischoff zu St. |\n | Alban . . | Hieronimus Bischoff.\n | | Daniel Bloch ) Procu-\n | | B. Respinger ) raträger.\n | | Eduard Zahn )\n918 Benedikt | Bischoff . . | Hieronimus Bischoff-\n | | Bischoff.\n | | Andr. Bischoff ) Procu-\n | | Carl Sandoz ) raträger.\n | | Rud. Bischoff )\n1490 Gebrüder | Bischoff . . | Hieronimus Bischoff.\n | | Johannes Bischoff.\n | | August Bischoff.\n | | Wilhelm Bischoff.\n1347 Chr. u. Joh. | Bischoff . . | Christoff Bischoff.\n | | Carl Bischoff.\n | | Joh. Matthias Ryhiner,\n | | Procuraträger.\n1388 Peter | Bischoff . . | Peter Bischoff.\n1107 Jakob | Bleiler . . | Rud. Bleiler.\n | | Joh. Jak. Hindermann-\n | | Weydmann.\n | | August Bischoff, Procu-\n | | raträger.\nR. | Bloch . . | Rud. Bloch.\n1666 A Ambros. | Bohny . . | Ambrosius Bohny.\n1663 Nikl. | Bohny . . | Niklaus Bohny.\n1550 J. | Bolliger-Miville . | Johannes Bolliger-Mi-\n | | ville.\n1660 Joh. Rud. | Brandmüller . | Heinrich Brandmüller-\n | | Eckenstein.\n1591 Andreas | Braun . . | Johannes Braun, Vater.\n244* Andreas | Braun, Tabakfa- |\n | brikant | Johannes Braun, Sohn.\n911 Ludwig | Bref & Cie. . | Ludwig Bref.\n | | J. Jak. Bischoff ) Procu-\n | | J. Mörgelin ) raträger.\n103 | Brenner-Fäsch . | August Brenner.\n1426 | Brenner-Guéniard | Wittwe Brenner-Gué-\n | | niard.\n400* | Bricar u. Bienz . | Heinrich Bienz, Vater.\n | | Samuel Bricar, Sohn,\n | | Procuraträger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6099,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1367,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 29.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p144",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p144.jpg",
+      "bytes": 1032047,
+      "sha256": "5c244eed43a33d53a80032eb131c2a89b3298a722353c9614775d9e99f8e5e24",
+      "sha256_of": "original",
+      "working_copy": "1850_p144.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:38+00:00"
+  }
+}

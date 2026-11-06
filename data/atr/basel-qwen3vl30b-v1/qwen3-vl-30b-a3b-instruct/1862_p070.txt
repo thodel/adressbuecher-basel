@@ -1,0 +1,37 @@
+Verzeichniß
+der Straßen, in alphabetischer Reihenfolge, der Häuser und deren
+Benennung mit Angabe der alten und neuen Hausnummer und des
+Quartiers, in dem sie gelegen, der Hauseigenthümer und der Be-
+wohner des Hauses.
+
+NB. Die mit größerer Schrift gedruckten Namen bezeichnen den Hauseigenthümer, die klein
+gedruckten Namen dagegen die Bewohner des betreffenden Hauses. Die römischen Ziffern be-
+zeichnen das Quartier nach Angabe Seite 1.
+
+Große Stadt.
+Aeschen-Graben.
+
+Nro. | Neue Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+---|---|---|---|---|---
+2 | IV. | 998 a | | | Mähly-Fininger, Jakob Caspar.
+4 | IV. | 999 | | | Eichner-Burckhardt, Rud., Bauführer.
+5 | IV. | 220 C | | | Götz-Hauser, Rud. Heinr.
+7 | IV. | 220 | | | Götz-Hauser, Rudolf Heinrich.
+8 | IV. | 998 A | | | Wimmer-Albrecht, Joh.
+| | | | | Wimmer-Albrecht, Joh., Partikular.
+| | | | | Meyer-Simmen, Gedeon.
+| | | | | Meyer-Simmen, Ged., Kaufmann.
+| | | | | Meyer u. Hindenlang, Agentur u. Com.
+| | | | | Wieland-Gemuseus, Emil, Rentier.
+10 | IV. | 998 B | | | Brenner-Kron, Carl.
+| | | | | Brenner-Kron, Dr. Carl, Advokat.
+| | | | | deGoumois-Eichtenhahn, Fr. W., Rent.
+11 | IV. | 220 B | | | Stähelin-Bührle, Christof.
+| | | | | Stähelin-Bührle, Christ., Professor.
+12 | IV. | 998 C | | | Friedrich-Hug, Leonhard.
+| | | | | Friedrich-Hug, Leonh., Baumeister.
+| | | | | Restner, Charlotte, Partikular.
+| | | | | Schwarz-Hauser, Christian.
+| | | | | Schwarz-Hauser, Christ., Kaufmann.
+| | | | | Firma: Schwarz und Hermann, Roh-
+| | | | | feidehandel und Commission.

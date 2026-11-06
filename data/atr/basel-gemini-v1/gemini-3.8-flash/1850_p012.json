@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p012",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p012.jpg",
+    "bytes": 1057807,
+    "sha256": "b6176aca8d8e7fe1f107b55d1408b7ba6daef6d5473322337d05fd7768d5bdb3",
+    "sha256_of": "original",
+    "working_copy": "1850_p012.jpg"
+  },
+  "text": "2  St. Johann-Quartier.\n\n  22 Langmesser, David, Rentier.\nA 22 Baumann, Victor, Kaufmann.\n  Comptoir von Zäslin u. Baumann, Speditions- u.\n    Commissionshandlung.\nB 22 Born, Eugen, Weinhändler.\nA 23 Burckhardt, Anna, Wittwe, geb. Vischer, Rentière.\nB 23 (Kinder-Spital.) Rau, Jungfrau Carol., Pflegerin\n    des Kinder-Spitals.\n  24 Köchlin-Burckhardt, Sam., Handelsmann.\n  Köchlin, Ed., Sohn, Fabrikant.\n  25 Covis, Jos. Ant., Direktor der Mallepost.\n  Süffert-Mieg, Kunstmaler.\n  26 Stallung, zu Nr. 24 gehörend.\n  27 Heß, H., Historienmaler.\n  Dinkel, Joh., Spezierer.\n  28 Kündig-Geiger, Wittwe, Magdalena.\n  Kündig, Philipp, Weißbeck.\n  Kern-Herzog, Judith, Wittwe, Rentière.\n  29 Oehlhafen, Joh. Sam., Mechanikus.\n  Hoffmann-Merian, Theodor, Zolldirektor.\n  30 Unbewohnt.\n  31 Siegfried, Jak. Philipp, Geometer.\n  Nörbel, Joseph, Strafanstaltverwalter.\n  32 Fäcklin, Joh., Schreiner.\n33—34 Abgebrochen.\n35—36 Unbewohnt, Jgfr. Ziegler von Bern gehörend.\n  37 Mengis-Brand, Martin, Partikular.\n  38 (Gesellschaftshaus zur Mägde) Schmidt, Karl, Wirth\n    und Kunstmaler.\n  39\n  40 Burcktorf-Falkeisen, Cand., Lehrer.\n  Respinger-Iselin, Adolph, Kaufmann.\n  41 Merian-Köchlin, Eduard, Handelsmann.\n  42 Ecklin-Hindermann, Jul., sel. Wittwe.\n  Katheder, C. F. Th., Handelsagent.\n  43 Hosch-Mengis, H., Wechsel-Sensal.\n  44 Strübin, Heinr., Zimmermann, von Liestal.\n  45 Schölly-Bruckner, Sam., Wittwe, Partikularin.\n  Müller-Schölly, Wittwe.\n  Müller, Alb., Mineralog.\n  46 Preiswerk-Burckhardt, Joh., Kaufmann.\n  47 Schaub-Trefzger, J. J., Posamentermeister.\n  48 Remise.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6507,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1573,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p012",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p012.jpg",
+      "bytes": 1057807,
+      "sha256": "b6176aca8d8e7fe1f107b55d1408b7ba6daef6d5473322337d05fd7768d5bdb3",
+      "sha256_of": "original",
+      "working_copy": "1850_p012.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:20+00:00"
+  }
+}

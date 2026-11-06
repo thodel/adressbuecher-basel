@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p036",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p036.jpg",
+    "bytes": 916262,
+    "sha256": "4d5024e40906ce12542182e9ac9d7c2ab14378e42deeb8c6aa43c22f8b709cd8",
+    "sha256_of": "original",
+    "working_copy": "1841_p036.jpg"
+  },
+  "text": "29\nNro.\nHinterer Bach.\n767 * Frei, Math. Weinmann geh.\n    Faust, Joh., Schneider.\n768 Breitenstein, geb. Schaub, Wittwe.\nBordere Steinen=Vorstadt.\n769 * Merian-Burckhardt, Christ., Kaufmann.\n    Sirt, Abraham, Tapezierer.\n    Schnell-Christ, Ulrich, Sigrist zu St. Elisabetha.\n770 Bienz, Joh. Rudolf, Schreiner.\n771 Christ, geb. Uffal, Wittwe.\n772 Fischer, Andreas, alt Stadtrath.\n773 Schaub, Math., Schuster.\n774 Henz, Nikol., Weißbeck.\n775 Fischer, Elias, Weißbeck.\nHinterer Bach.\n776 * Fischer, Andreas, Stadtrath.\n    Kunz, geb. Walliser, Wascherin.\n777 Schlumpf, Conrad, Ladendiener.\n778 Mangold, Samuel, Zimmermann.\n779 Benz, Joh., Landjägerwachtmeister.\nBordere Steinen=Vorstadt.\n780 Brodbeck, Friedrich, Kaufmann.\n781 Simmler, Joh. Heinrich, Fabrikarbeiter.\n    Dill, Joh., Schuhmacher.\n782 * Günther, J. J., Gastwirth zum Sternen geh.\n    Häring, Heinrich, Hafner.\n783 Specker, Heinrich, Bierbrauer.\n784 * Bon Mechel, Bernh., Landjägerfourier, geh.\n    Bonkilch, Peter, Partikular.\n785 Bryner, Felix, Seidenfärber.\n786 Böllmi, J. J., Fabrikarbeiter.\n787 Kühn, Franz, Schlosser.\n788 Steiner, geb. Allemand, Marie, Wittwe.\n789 Streitmatter, Andreas, Zimmergesell.\n790 * v. Mechel, Jakob Heinrich, Buchdrucker.\n791 * Würz, Wittwe.\n    Thommen, Math., Lohnwäscher.\n    Gukwiler, Seb., Kunstmaler.\nHinterer Bach.\n792 Schwarz, Wittwe.\n793 Mangold, Barbara, Wittwe, geb. Biedermann.\n    Salathin, Joh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4240,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1404,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0682,
+    "mean_line_chars": 30.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:45:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p036",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p036.jpg",
+      "bytes": 916262,
+      "sha256": "4d5024e40906ce12542182e9ac9d7c2ab14378e42deeb8c6aa43c22f8b709cd8",
+      "sha256_of": "original",
+      "working_copy": "1841_p036.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:45+00:00"
+  }
+}

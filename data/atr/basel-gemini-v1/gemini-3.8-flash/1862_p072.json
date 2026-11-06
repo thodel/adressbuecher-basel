@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p072",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p072.jpg",
+    "bytes": 1449077,
+    "sha256": "cbf12b6f54e3637c9705f38d04231f901fbba6bc2a6a67fd724e9a7c608b04d4",
+    "sha256_of": "original",
+    "working_copy": "1862_p072.jpg"
+  },
+  "text": "Aeschenvorstadt. | 7\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n\nAeschenvorstadt.\n1 | IV. | 1045 A. | Truchsesserhof. | Weitnauer-Fischer, Rudolf.\n  Weitnauer-Fischer, Metzger u. Pintenw.\n  Weiß-Fischer, Carl Bened., Kaufmann.\n2 | IV. | 939 | z. Ritter St. Georg | Gnoepff-Landolt, Carl.\n  Gnoepff-Landolt, C., Bäckermeister.\n  Gnoepff-Bauer, C., Kaufmann.\n  Gnoepff, Rud., Commis.\n  Faus, Wittwe, geb. Faesch, Rentiere.\n  Widemann-Schuhmacher, Balth., Com.\n3 | IV. | 1044 | | Weitnauer-Fischer, Rudolf.\n  Jezler-Klein, H., Lagerhausdirektor.\n  Klein-Salis, Anna Cathar., Wb., Part.\n4 | IV. | 940 | z. goldenen Löwen. | Dobler-Burckhardt, Hel., Wb. und\n  Jgfr. M. Burckhardt gemeinsch.\n  Dobler-Burckhardt, Wb. Hel.\n  Ryhiner-Merian, Valerie, Wb.\n  Ryhiner, Carl, Kaufmann.\n  Comptoir v. Marc. Boelger, Floretspin.\n5 | IV. | 1043 | zum Wilhelm Tell. | Ryhiner-Werthemann, Sus., Wb.\n  Ryhiner-Werthemann, Sus., Wb., Rent.\n  Ryhiner, Julius.\n6 | IV. | 941 | zum Körblein. | Wieland, A. M., Jgfr. sel. Erben.\n  Wieland-Landerer, Barbara, Wb.\n  Wieland, Emilia, Jgfr.\n  Wieland, Joh. Hein., eidg. Oberstlieutn.\n7 | IV. | 1042 | zum Hertenstein. | Ryhiner-Werthemann, Wb.\n  Burckhardt-Ryhiner, Joh. Jak., Altbrgm.\n  Burckhardt, Joh. Jakob, J. U. D.\n  Burckhardt, Alfred, Kaufmann.\n8 | IV. | 942 | zum Sonnenberg. | Schmidt-Luttringshausen, J. Fdr.\n  Schmidt-Luttringshausen, J. F., Kaufm.\n  (Firma J. F. Christ-Ryhurt).\n  Bachmann, Emil, Commis.\n9 | IV. | 1041 | | Boelger-Burckhardt, August.\n  Boelger-Burckhardt, August, Particulier\n  (Floretspinnerei im Schönthal.)\n10 | IV. | 943 | zur obern Sonne. | Weißenburger-Riggenbach, J. Jak.\n  Weißenburger-Riggenbach, J. J., Bäcker.\n  Meyer-Schwarz, J. J., Part.\n  Fürbringer-Goetschin, Wilh., Gärtner.\n11 | IV. | 1040 | zum Rupf. | Corporationsgut.\n  Schneider-Bader, Dan., Stubenverwalt.\n12 | IV. | 944 | zur obern Sonne. | Gamper-Eberlin, Wb. Anna Maria.\n  Gamper-Eberlin, Wb. A. M., Schlosser.\n  Schellmann-Schmid, Fr., Schuhmacher.\n  Dürliwanger, Joh., Schlosser.\n13 | IV. | 1039 | zum Paradies. | Burckhardt-Heusler, Carl.\n  Burckhardt-Heusler, C., Oberstlt. Rent.\n  Koller-Burckhardt, Gottl., Ingenieur.\n14 | IV. | 945 | zum neuen Bau. | Werthemann, Jgfr. Margaretha.\n  Sibold-Häfeli, Mag.-Knecht.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11271,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2308,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p072",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p072.jpg",
+      "bytes": 1449077,
+      "sha256": "cbf12b6f54e3637c9705f38d04231f901fbba6bc2a6a67fd724e9a7c608b04d4",
+      "sha256_of": "original",
+      "working_copy": "1862_p072.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p160",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p160.jpg",
+    "bytes": 1133229,
+    "sha256": "b212bc13fc4af26d4791787f1dca03ce9616e540cd1752f94b74b176dcf3f75a",
+    "sha256_of": "original",
+    "working_copy": "1841_p160.jpg"
+  },
+  "text": "— 7 —\n\nGysin, Samuel, Ladendiener. 1562 Schneidergasse.\nGysin, Lukas, Aufseher am Kaufhaus. 1638 Untere Freienstr.\nGysin, Jakob, Hausknecht. 756 Kohliberg.\nGysin, Samuel, Kaufmann. 758 Kohliberg.\n\nH.\n\nHaas, Eduard, Schriftgießer. 750 St. Leonhardsgraben.\nHäfelfinger, Friedr., Ferger. 1279 St. Albanthal.\nHäfelfinger, Joh., Ferger. 426 Heuberg.\nHäfelfinger, Jos., v. Gissach. Papierer. 1295 St. Albanthal.\nHäfler, Heinrich, Maler. 689 St. Leonhardsberg.\nHäfler, Franz Jakob, Buchbinder, v. Bottmingen. 689\n  St. Leonhardsberg.\nHäner, Martin, v. Bettingen. 793 Hinterer Bach.\nHagg, G. J., v. Rieth, Mühlemacher. 1307 St. Albanthal.\nHarder, geb. Debary, Ursula, Wittwe 882 Oberer Klosterberg.\nHarscher, Nikolaus, Sohn, J. U. D. 43 St. Joh. Vorst.\nHasler, Friedrich, v. Buus, Mechaniker. 627 Grün-Pfahlgäßl.\nHauser-Euler, Karl, Bäcker u. Kaufhaus-Adjunkt. 283\n  Spahlen-Vorstadt.\nHauser-Oser, Rud., Wechsel-Sensal. 973 Sternengäßlein.\nHeggendorn, Christ., Tabakfabrikant. 1622 Unt. Freienstr.\nHeidegger, Heinrich, Kaufmann. 106 Blumenrain.\nHeinimann, Heinrich, Feilenhauer. 272 Im Kloster.\nHeitz, geb. Mäglin, Sus., Wittwe. 1013 Aeschen-Vorstadt.\nHeitz, Joh. Jakob, Spanner. 1529 Kronengasse.\nHeitz, Joh. Jakob, Drechsler. 1565 Schneidergasse.\nHesse, Joh. Andreas, Schneider. 9 a. St. Joh. Vorstadt.\nHeß, Dorothea, Jgfr., Lehrerin. 945 Aeschen-Vorstadt.\nHeß, Johannes, Magasinier. 1267. St. Alban-Thorgasse.\nHeß, Johannes, v. Eriswil, Papierer. 1286 St. Albanthal.\n* Heußler, Christoph, Kaufmann; Verwalter des Waisen-\n  hauses, 1430 Freienstraße.\nHeußler, Daniel, Sohn, Kaufmann. 1380 Bäumlein.\nHeußler-Fatio, Emanuel. 1281 St. Albanthal.\nHeußler-Kuder, Daniel, sel. Wittwe. 1380 Bäumlein.\nHimmelin, Joh. Peter, Schreiber. 862 Thorsteinen.\nHindenlang, Wittwe, geb. A. B. Keller, 1160 Gerbergasse.\nHindenlang, Heinrich, Küfer. 1394 Am Bäumlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7157,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1841,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:02:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p160",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p160.jpg",
+      "bytes": 1133229,
+      "sha256": "b212bc13fc4af26d4791787f1dca03ce9616e540cd1752f94b74b176dcf3f75a",
+      "sha256_of": "original",
+      "working_copy": "1841_p160.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:23+00:00"
+  }
+}

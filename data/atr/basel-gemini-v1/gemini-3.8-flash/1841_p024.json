@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p024",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p024.jpg",
+    "bytes": 955044,
+    "sha256": "c5a045a3f3033c02ae5c123c3a093924d98a52e3adf5e44872d8a4439d2a3ad3",
+    "sha256_of": "original",
+    "working_copy": "1841_p024.jpg"
+  },
+  "text": "17\nNro.\n421 * Magazin von Benedikt Lichtenhahn.\n422 Frei, Heinrich, Fabrikarbeiter.\n  Schnäbeli, Heinrich, Lohnkutscher.\n423 Studer, Wittwe, geb. Dinkel, Schuhmacherei.\n424 Goßwyler, Conrad, Fabrikarbeiter.\n425 Säuberlin, Joseph, Kutscher.\n  Schaubeck, Samuel, Schuhmacher.\n426 Bidert, Joh., von Oberdorf, Hausknecht.\n426 a Preiswerk, Emanuel, gehörend.\n427 Jäcklin, Benedikt, Schreiner.\n428 Wassermann, J. Rudolf, Kaminfeger.\n429 Dietrich, Joh. Jakob, alt Gerber.\n430 Schatzmann, Conrad, Maurer.\n431 Müller, Chr. Jakob, Spettermeister.\n432 Schaub, Joh. Georg, Vater, Fabrikarbeiter.\n  Schaub, Rudolf, Sohn, Buchbinder.\n433 Gysler, geb. Gemuseus, Ursula, Wittwe.\n  Lichtenhahn, Benedikt, Oberstlieutenant u. Kaufmann.\n434 Hosch-Merian, Joh. Jakob, Vater, Sensal.\n\nSpießhofgasse.\n435 Hosch, Nikolaus, Lithograph.\n436 Stähelin, geb. Preiswerk, Wittwe.\n437 Bischoff-Keller, Andr., Kaufmann.\n438 Salathe, Joh. Georg, Sattler.\n  Sarasin, geb. Maria Socin, Wittwe.\n439 Fürstenberger, Maria Salomea, Jungfer.\n  Gysler, Maria, geb. Schardt, Wittwe.\n440 Burckhardt-Imhof, Peter, Rathsherr.\n441 Reber-Burckhardt, Bandfabrikant,\n  und Handlung von Balthasar de Benedikt Stähelin.\n441 * a Remise von Balthasar de Benedikt Stähelin.\n442 Vischer-Bilsinger, Wilh., Phil. Dr. und Professor.\n  Bilsinger, geb. Von der Mühll, Elisabetha.\n  Von der Mühll, Jungfer, Valeria.\n443 Imler, Gottlieb, Instrumentenmacher.\n444 Salathe, Joh., Kaufmann.\n445 Stähelin, Catharina und Salomea, Jungfern.\n446 Gysler, Nikolaus, Waaren-Sensal.\n  Trapet, Richard, Juwelier.\n\nOberer Spahlenberg.\n447 Dietz, Carl Dietrich, Notarius.\n448 Merian-Stähelin, Joh., Kaufmann.\n449 Fäsch, Leonhard, Notar und Bezirksschreiber.\n450 Bischoff-Vischer, Nikolaus sel., Wittwe.\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7604,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1727,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:44:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p024",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p024.jpg",
+      "bytes": 955044,
+      "sha256": "c5a045a3f3033c02ae5c123c3a093924d98a52e3adf5e44872d8a4439d2a3ad3",
+      "sha256_of": "original",
+      "working_copy": "1841_p024.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:49+00:00"
+  }
+}

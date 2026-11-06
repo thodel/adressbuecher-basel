@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p073",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p073.jpg",
+    "bytes": 971970,
+    "sha256": "d7da4690c2bbce5b736d49620dc9c12827518cde89e03407f0d455ff8c43c263",
+    "sha256_of": "original",
+    "working_copy": "1850_p073.jpg"
+  },
+  "text": "60 St. Alban=Quartier.\n1336 Heimers, Sch. W., Mechaniker.\nMennrich, Konrad, Zimmermann.\n1337 Gernler, Geschwister, Commis u. Modiste.\nGernler, Buchbinder.\n1338 Hef, Joh., Magazinknecht.\n1339 Remise und Stallung.\nUeberegger, Peter, Kutscher.\n1340 Stähelin=Vischer, Aug., Handelsmann.\nThurneyfen=Paravicini, Emil, Handelsmann.\n1341-42 Abgebrochen.\n1343 Bischoff, Johannes, Alfred und Marie, Geschwister,\ngehörend.\nPreiswerk=Bernoulli, Wittwe.\n1344 Bischoff=Preiswerk, Wittwe.\n1345 BonderMühl=Burckhardt, G., Handelsmann.\nBurckhardt, Karl Felix Jul. J. U. D.\n1346 Bischoff=Iffelin, Christof, Stofffabrikant.\n1347 Bischoff, Karl, Stofffabrikant.\n1348 Wieland=Bischoff, Wittwe, Rentière.\nComptoir von Sch. Merian=BonderMühl.\n1349 Burckhardt=Burckhardt, Christof de F. Faf., Hdlsm.\n1350 Gut=Himmeli, Rudolf, Metzger.\n1351 Jeannot, Jacques, Commis. j. A. C. Wimmer, Lireur\nSchneider, W., Traiteur.\nLevy, Licentiat en droit.\n1352 Thurneisen=Burckhardt, Wittwe, Elif., Rentière.\nThurneisen=Merian, Emil, Bandfabrikant.\nThurneisen, Joh. Sch. Ed. J. U. D.\n1353 Bernoulli=Werthemann, Nifl., J. U. D., Notar.\n1354 Thurneisen=Gaf, Wittwe, Weißbeck.\nBurckhardt=Burckhardt, R., Med. Dr.\n1355 Forkart=Merian, Dietrich, Rentier.\nRittergasse:\n1356 Burckhardt=Werthemann, E., Bandfabrikant.\nVischer=Burckhardt, Peter, Bandfabrikant.\nMattmüller, Math., Kutscher.\n1357 Comptoir u. Fabrike von Dietr. Burckhardt.\n1358-60 Vischer=Preiswerk, B., Oberst, Rentier.\nComptoir von Sarasin, Karl, Bandfabrikant.\n1361 Burckhardt=Iffelin, Wittwe, Rosine, Rentière.\n1362 LaRoche=Merian, Gustav, Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5037,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1573,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p073",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p073.jpg",
+      "bytes": 971970,
+      "sha256": "d7da4690c2bbce5b736d49620dc9c12827518cde89e03407f0d455ff8c43c263",
+      "sha256_of": "original",
+      "working_copy": "1850_p073.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:42+00:00"
+  }
+}

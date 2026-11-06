@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p022",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p022.jpg",
+    "bytes": 965225,
+    "sha256": "10ffc244bde73ef53ed2317d86b3b4a55f9ccf29ac0e2bdbe964f358752f9bd1",
+    "sha256_of": "original",
+    "working_copy": "1841_p022.jpg"
+  },
+  "text": "15\nNro.\n360 * Magazin von Schölli, Caspar, Wagner.\n361 Brändlin, P. fel., Wittwe, geb. Nörbel.\nAuf der Leis.\n362 * Magazin von Speyr-Ryhiner, Theodor.\n363 * Remise von Bleuler-Mieg.\n364 * dito Professor Mieg.\n365 u. 366 * Bleuler-Mieg, Rud., Kaufmann.\nMeyer, Emanuel, alt Pfarrer.\nMieg, Geschwister.\n367 Billingер, Melchior, Wirthschaft.\n368 u. 369 Ludwig, Joh. Heinrich, Schreiner.\nDietzchy-Fäsch, Joh.\n370 * Remise v. Emanuel Von der Mühl-Bischoff.\nSt. Leonhardsgraben.\n371 Bäri, Heinr., Blattmacher, von Lieftal.\n372 Mähly, Achilles, Senfal.\nGeelhar, Heinr., Zeichnungslehrer an der Töchterschule.\n373 * Salathe, J. G., Sattler.\n374 Bischoff, Benedikt, Sohn, Rentier.\n375 Fürstenberger, Joh., Partikular.\n376 Burkhardt, Elias, Rathsherr.\n377 Stähelin, Benedikt, Vater.\n378 Stähelin, Benedikt, Sohn, Bandfabrikant.\n379 u. 380 Burtorf-Bischoff, Andreas, Bandfabrikant.\n381 Kindweiler, J. J., Bandfabrikant.\nMariot, Wilh., Prof. der englischen Sprache.\n382 Müller, Wilh., Maler.\n383 Geigy, Hieronymus fel., Wittwe, geb. Sarasin.\nMissionsgasse.\n384 Legrand-Heusler fel. Wittwe.\n385 Hagenbach, Karl Fr., Med. Dr. und Professor.\n386 Blumhardt, Julie, geb. Meier, Wittwe.\nBurckhardt-Haller, Med. Dr.\n387 Hoffmann, Wilh., Inspektor der Missionsanstalt.\n388 u. 389 * Missionshaus.\n390 Abgebrochen.\nBei St. Leonhard.\n391 Wibert, Balth., Schuhmacher und Bannwart.\n392 Best, Jungfer, Salomea.\nGlafer, Emanuel, Uhrenmacher.\n393 * Kraus, M. Dan., Pfarrer bei St. Leonhard.\n394 * Remise von Hieronymus Hofsch.\n395 Weiß, J. R., Kappenmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4756,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1528,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p022",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p022.jpg",
+      "bytes": 965225,
+      "sha256": "10ffc244bde73ef53ed2317d86b3b4a55f9ccf29ac0e2bdbe964f358752f9bd1",
+      "sha256_of": "original",
+      "working_copy": "1841_p022.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:47+00:00"
+  }
+}

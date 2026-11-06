@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p166",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p166.jpg",
+    "bytes": 1112303,
+    "sha256": "ab83d47c1cf3599c46f4f2d5ae0bea5b318406a68cc25b207f036acc3c4afeca",
+    "sha256_of": "original",
+    "working_copy": "1841_p166.jpg"
+  },
+  "text": "- 13 -\nNörbel, Jof., Direktor der Strafanstalt. 31 St. Joh. Vorst.\nNörbel-Schmidt, Math., Kaufm.. 774 Bord. Steinen-Vorst.\n\nO.\nOberlin, Susanna, Igsfr., Näherin. 66 St. Joh. Vorst.\nObrecht, Johannes, Kammnacher und praktischer Optikus.\n544. 545 Imbergäcklein.\nOehlhasen, Joh. Sam., Mechaniker. 29 St. Joh. Vorst.\nOfer, geb. Gak, Chrischona, Wittwe. 1071 Tiefe.\nOstertag=Bon Speyr, U., Rand. d. Theol. 934 Steinenb.\n* Oswald, Mathias, Maurermeister. 434 Heuberg.\n* Ott, Joh. Kaspr., Säckler und Kappenmacher. 1737\nHinter der School.\n\nP.\n* Palmert. R., Ferger, v. Herrischried. 1700 Schnabelgäckl.\nPäschlin, Joh., Auffseher des Missionshauses. 444 Spiekhofg.\nParavicini, Felix, Notariats-Bureau. 1603 Sporrenngasse.\nParmentier, Benedikt, Kondukteur. 474 Oberer Spahlenberg.\nPassavant, Em., Cohn, Kaufmann. 92 St. Joh. Vorstadt.\nPery, Paul, v. Audincourt, Handelsmann. 1174 Freienstrake.\nPfaff, Wilhelm, Papierer, v. Lieftal. 1299 St. Alban=Thal.\nPfannenschmid, Rud., Gerber, alt Oberstnstr. 1173 Freienstr.\nPfister, Jakob, Rutscher, 1226 St. Alban=Vorstadt.\nPietschmann, Gustav, Spengler. 452 Beim Spahlenthurm.\nPlattner, Heinrich, Zimmermann. 767 Hinterer Bach.\nPowers, Stephan, General-Consul der vereinigten Staaten\nvon Nordamerika. 1444 Freienstrake.\nPreiswerk, Mathias, Tuchhandlung. 1543 Eisengasse.\nPreiswerk, Susanna, Igsfr. 521 Adelberg.\nPreiswerk, Cam., Diakon bei St. Leonhard. 560 St.\nPeters Stiftsgasse.\nPreiswerk-Burckhardt, Joh., Kaufmann. 46 St. Joh. Vorst.\nPreiswerk-Bischoff, Dietrich, Kaufmann. 46 St. Joh. Vorst.\nPümpin, Cam., Part. 644 Grabengasse.\nPullich, Sebastian, Schuhmacher. 713 Barfüsserplaz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5347,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1619,
+    "lines": 35,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:01:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p166",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p166.jpg",
+      "bytes": 1112303,
+      "sha256": "ab83d47c1cf3599c46f4f2d5ae0bea5b318406a68cc25b207f036acc3c4afeca",
+      "sha256_of": "original",
+      "working_copy": "1841_p166.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:05+00:00"
+  }
+}

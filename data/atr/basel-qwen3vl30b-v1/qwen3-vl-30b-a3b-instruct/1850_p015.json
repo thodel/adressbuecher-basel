@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p015",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p015.jpg",
+    "bytes": 1185729,
+    "sha256": "f01be5bf7a8904b3a6a3ad6aae02c0a02be0663289bd5746004c3a900b837b2a",
+    "sha256_of": "original",
+    "working_copy": "1850_p015.jpg"
+  },
+  "text": "St. Johann=Quartier. 5\nBlumenrain.\n103 Brenner=Jäsch, Aug., Mercerie u. Wollenhandlung.\n104 Pelletier, Oile. F. Louise, Rentière.\nBurckhardt, Geschwister.\nMeyer, Gedeon, Notar.\n105 Nonus=Genuscus, Christ., Handelsmann.\n106 Fluck, F. F., Postfaktor und Modehandlung.\n107 Streuber, Christ. Wilh., Partikular.\nStreuber, Wilh. Theod., Phil. Dr.\n108 Hosch=Henz, Wittwe Susanna, Rentière.\nHosch=Roth, Johann, Handelsmann und Weißbier.\nMerian, Nicolaus, Rentier.\n109 Schmidt, Georg Michael, Ingenieur u. Modehdlg.\n110 Meyer, Jungfrau, Marg., Partikularin.\nZmho=Schäublin, Bernhard, Partikular.\n111 (Kaffee. zu 3 Kön.) Landerer=Maring, L., Kaffeewirth.\n112 Klenc, Viktor, Geschäftsmann, Agentur der Basel-\nStraß. Eisenbahn, Köln. Dampfschiffe, Messa-\ngerie générale u. für Auswanderer.\nWalz, Friedr., Kunsthandlung.\n113 Leucht=Keller, Friedr., Bandfabrikant.\n114 Vereinigt mit Nr. 112.\nBlumenplatz.\n115 (Gasth. z. 3 Königen) Senn F. F., Gastgeber.\n116 Zimmerlin=v. Speyr, Aug., Tabakfabrikant.\nStucky=Roch, Eduard, Tabackhandlung.\n117 Dubois, Louis, Uhrmacher.\n118 Hasler=v. Mechel, Gottl., Lithograph u. Kunsthändl.\n119 Ründig=Kinder, Theodor, Rentier.\nA 119 (Spiegelgasse) Heckendorn, Jgfr. Lisette, Haar-\nflechterin.\n120 Schönauer, Hier., Spezereihandlung.\nZwischenbart=Blum, Andr., Hdlsm., Nord-Amerik.\nVice=Consul.\n121 Roth=Weiß, Heinrich, Metzger.\nOtt, Sch., Coiffeur.\n122 Rheinlagerhaus.\n123 Graf=Schaad, Wittwe Elisa, Wirthin.\nBulacher, Friedr., Conducteur.\n124 Delhafen, Gottf., Zucker- und Pästetenbäck.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4754,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1505,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p015",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p015.jpg",
+      "bytes": 1185729,
+      "sha256": "f01be5bf7a8904b3a6a3ad6aae02c0a02be0663289bd5746004c3a900b837b2a",
+      "sha256_of": "original",
+      "working_copy": "1850_p015.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:39+00:00"
+  }
+}

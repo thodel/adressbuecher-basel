@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p070",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p070.jpg",
+    "bytes": 905472,
+    "sha256": "44b6c57761d6d26976fa5e8d420284f5ddca786eb8bcf37cab10fe00e83893da",
+    "sha256_of": "original",
+    "working_copy": "1841_p070.jpg"
+  },
+  "text": "63\n\nKleine Stadt.\n\nSt. Bläsi-Quartier.\n\nAn der Rheinbrücke.\nNro.\n1 weggebrochen.\n2 * Gesellschaftshaus, den drei Ehrengesellschaften jens. geh.\n3 Fausel, Gottlieb, Straßenpflasterer und Weinschenk.\n4 * Schlueb, Fr., Fabrikaufseher, geh.\n5 Cramer, Aug. Wilh. sel., Wittwe, Spezereihandel.\n6 Isenegger, Heinrich, Vater, Hafner.\n  Janot, Louise, von La Chaux-de-Fonds, Modiste.\n7 Wässler, Hieronymus sel., Wittwe, Bäckerei.\n  Müller, Joh. Jakob, Rheinbrückzoller.\n8 Geßler, Andreas, Rothgerber.\n  Haag, Samuel, Commis.\n9 Fäsch, Emanuel, Beck.\n10 * (Reitschule.) Jetzt Remise u. Stallung, zu Nro. 15 geh.\n11 * Gesellschaftshaus zur Hären. — Matzinger, Lucas, Spengler.\n12 Dömmelin, Jakob, Hafners Wittwe, geb. Meyer.\n  Henz, Nikolaus, Hafner.\n13 Bratteler, Jakob, Weißbeck.\n14 Salathe, Jakob Christ., Weinschenk.\n  Ammann, Caspar, Seidenfärber.\n15 * Willin, Carl sel., Wittwe, geh.\n  Uez, Joh., Gastwirth zum weißen Kreuz.\n16 u. 17 Müller, Achilles, Spezereihändler.\n18 u. 19 Sutter, Michael, Gastwirth zum Bären.\n\nSchafgäßlein.\n20 Schärflin, Franz, Metzger.\n21 Studer, Anna Maria, geb. Wiederkehr.\n  Wehrli, Joh., Blattmacher, von Küttigen.\n22 Schöttly, Joh., von Unterhallau, Schuhmacher.\n23 Pfirter, Ludwig, von Muttenz, Weinschenk.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6194,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1231,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p070",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p070.jpg",
+      "bytes": 905472,
+      "sha256": "44b6c57761d6d26976fa5e8d420284f5ddca786eb8bcf37cab10fe00e83893da",
+      "sha256_of": "original",
+      "working_copy": "1841_p070.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:08+00:00"
+  }
+}

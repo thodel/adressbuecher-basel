@@ -1,0 +1,41 @@
+LX Berichtigungen, Sandänderungen und Neubauten.
+Seite. | Straße. | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.
+---|---|---|---|---|---
+74 | St. Johann-Vorstadt. | lies | 88 | I | 1 B | Hübicher=Lichtenhahn, Wilh.
+75 | " | einschalt. | 90 | I | 155 b | Landjägerposten.
+76 | " | " | 3 | I | 244 | Betulius-Bernoulli, Carl.
+77 | Klingerbergstr. | lies | 4 ft. 6 | I | 34 | Stöcker, Johannes, Zimmermann.
+77 | Kohlenberg. | " | 17 | III | 760 | Wybert-Thurneyssen, Joh. Jac., sel. Erben.
+78 | " | " | 1 | III | 744 A | Kohrer, Johannes.
+78 | Kohlenberggasse | " | 8 | III | 752 A | Plattner, Johannes u. Ed. Bruckner=Merian.
+78 | " | " | 4 | III | 752 B | Bruckner=Merian, Eduard.
+79 | " | " | 6 | III | 795 B | Imhof=Forhart, J. J. (z. Steinenmihle.)
+79 | " | " | 30 | III | 795 A | Imhof=Forhart, J. J.
+80 | Lehenmattweg. | " | 32 | III | 347 | Stadtgemeinde (Flohhaus).
+80 | " | " | 8 | V | 340, b, c. | Heusler=Fatio, Wb. Esther.
+81 | " | " | 16,18,20 | V | 341 | Heusler=Fatio, Wb. Esther.
+81 | " | " | 22 | V | 284 | Willin, Johannes, wohnt allda.
+81 | " | " | 32 | III | 692 | Boillat=Stihl, Cölestin, Schreiner.
+81 | Leimenstraße. | einschalt. | 8 | III | 445 | Heinz=Huber, Eduard (z. Paradies).
+81 | St. Leonhards-Berg. | lies | 15 | III | 436 | Stühelin, Pfar. Joh. sel. Erben.
+83 | St. Leonhards-Graben. | " | 23 | II | 381 | Schnell=Burckhardt, Wb. Mar. Sal.
+84 | " | " | 41 | II | 391 | Staat (Siegristenwohnung).
+85 | St. Leonhards=Stapfelberg fümmtliche Nummern in's Stadtquartier (VI), statt Steinenquartier (III) zu setzen.
+85 | " | lies | 3 | VI | 685 | Böhler, Wb. Catharina (z. oben Reinach).
+87 | Malzgasse. | " | 4 | V | 1239 b | Merian, Ed. de J. J. sel. Erben.
+88 | " | " | 17 | V | 1251—52 | Dobler=Burckhardt, Emil. sel., Erb.
+88 | St. Margareth.=Straße. | einschalt. | 10 | III | 1489 b | Burckhardt, Friedrich, Agent.
+90 | St. Martins-gasse. | lies | 20 | V | 1489 b | Staat (Spritzenhaus).
+91 | Missionsstraße. | einschalt. | 2 | II | 42 | C. C. Bann von St. Peter u. St. Leonhard (Gottesackerkapelle).
+94 | Mostackerstraße | lies | 17, 19, 21 | III | 152 A,a,b. | Plattner=Hofsch, Johannes statt Jac.
+95 | " | einschalt. | 23 | III | 154 b | Geßler=Plattner, Emil.
+95 | " | lies | 40 | III | 164 A | Schilling=Weitnauer, Wb. Margar.
+95 | " | " | 42 | III | 164 | Roschet=Mangold, Hieronimus.
+95 | " | " | 44 u. 48 | III | 163 A | Steib=Anstein, Math.
+95 | " | " | 50 | III | 162 A | Ernst=Rudin, Joh. (Magazin).
+98 | Münsterplatz. | " | 6 | V | 1465, 66 | Stüdkelberger, Wb. Ernestine.
+99 | " | " | 19 | V | 1457 ft. 58 | Rosenburger=Rapp, Wb. Anna Elisabeth (ehem. Oberstpfarrhaus).
+99 | " | " | 5 u. 9 | VI | 1680 u. 81 | Schoch, Joh. Jac. (z. alten Münz).
+101 | Münzgäßlein. | " | 12 | VI | 1709 | Roschet, Emil (z. Sperber).
+101 | Madelberg. | " | 19 | II | 546 | Hauser, Caspar.
+101 | " | " | 24 | II | 511 | Fürstenberger=Burckhardt, sel. Erben (z. Platte).

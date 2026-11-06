@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p033",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p033.jpg",
+    "bytes": 1317915,
+    "sha256": "c7587883d5caf27247676bca2f230c584a66a12c02938ced99ba4c535a2953bd",
+    "sha256_of": "original",
+    "working_copy": "1862_p033.jpg"
+  },
+  "text": "XXX Vereine zu wissenschaftl. und wirthschaftl. Zwecken.\n\nLehrer-Verein.\nGegründet 1846.\nHr. J. W. Heß, Lehrer am Realgymnasium,\n  Präsident.\nHr. F. Iselin, Lehrer am humanistischen\n  Gymnasium, Schreiber.\nHr. F. Kienle, Lehrer am human. Gymna-\n  sium, Cassier.\n\nMuseums-Verein.\nGegründet 1849.\nVorstand: Hr. Professor F. C. Schönbein.\n\nStenographen-Verein (nach Stolze).\n(Section Basel.)\nGegründet 1859.\nPräsident: Hr. Dr. Zehnter, Redactor\n  der Basler Nachrichten.\nVicepräs. u. Cassier: Carl Hoff, Leh-\n  rer der englischen Sprache.\n\n[spalte 2]\nActuar: Hr. J. J. Madöry, Kaufmann.\nZweck: Weitere Fortbildung der Mit-\nglieder in der Stenographie und Verbreitung\ndieser Kunst. Der Verein versammelt sich je-\nden Donnerstag Abend in Nr. 2. Kronengasse,\nwo Anmeldungen zum Eintritt sowie zu den\njeweilen am 1sten eines jeden Monats anfan-\ngenden Cursen entgegengenommen werden.\n\nMedicinische Gesellschaft.\nGegründet 1860.\nVorstand: Hr. Professor His.\n  \" Dr. Friedr. Müller.\n\nAdvokaten-Verein.\nGegründet 1861.\nPräsident: Hr. Dr. Carl Stehlin.\nQuästor: \" Dr. Ed. Heusler.\nActuar: \" Dr. A. Schaub.\n\nVereine zu wirthschaftlichen Zwecken.\n\nVerein\nder\nSeidenband- und Seidenstoff-\nFabrikanten.\nGegründet im 17. Jahrhundert.\nVorstand: HHr. Gebrüder Bischoff.\n\nAllgemeine Arbeiter-Gesellschaft.\nGegründet 1849\nzum Zweck billigster Beschaffung der unent-\n  behrlichsten Lebensmittel.\n\nHandwerker- und Gewerbe-Verein.\nGegründet 1854.\n(Dermalen Centralcomité d. schweiz. Gewerbe-\n  Vereins.)\n\nLese-Fortbildungsverein für Handwerker und\n  gegenwärtig der einzige Sammelpunkt der\n  Handwerke aller Verfassarten.\nVorstand: Hr. Rathsherr Schmidt-Fäsch.\n\nFiliale\nder\nZürcher-Seiden-Trocknungs-Anstalt.\nAufsichts-Commission:\nHr. J. J. Schütz.\n\nGartenbau-Gesellschaft.\nGegründet 1856\nzum Zweck der Hebung und Förderung der\n  Blumen-, Gemüse- u. Obstzucht.\nVorstand: Hr. Dr. L. Dewette.\n\nVereine & Anstalten für Kunst, Musik & Geselligkeit.\n\nConcert-Gesellschaft.\nGegründet 1717.\nVorstand: Hr. Peter Vischer-Burckhardt.\nMusikalische Angelegenheiten sind an den\nBibliothekar, Hr. Dr. Emil Merian, Eintritts-\nu. Austritts-Anzeigen an den Cassier, Hr. Dr.\nAndreas Heusler, zu adressiren.\n\n[spalte 2]\nAllgemeine Lese-Gesellschaft.\nGegründet 19. October 1787.\nVorstand:\nHr. Dr. Friedr. Burckhardt-Brenner, Vor-\n  steher.\n\" Dr. J. J. Vischer-Iselin, Statthalter.\n\" Dr. J. J. Merian, Schreiber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9326,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2368,
+    "lines": 82,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 27.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:29:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p033",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p033.jpg",
+      "bytes": 1317915,
+      "sha256": "c7587883d5caf27247676bca2f230c584a66a12c02938ced99ba4c535a2953bd",
+      "sha256_of": "original",
+      "working_copy": "1862_p033.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:18+00:00"
+  }
+}

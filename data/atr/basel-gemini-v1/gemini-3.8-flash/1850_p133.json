@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p133",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p133.jpg",
+    "bytes": 1060490,
+    "sha256": "874f0f8a3228c8643c2c44313596034423ea21992f4d77192d0bf265012511dd",
+    "sha256_of": "original",
+    "working_copy": "1850_p133.jpg"
+  },
+  "text": "120\n\nRyhiner u. Söhne *261A\n  u. Söhne (Fabrikgeb.) *302\n  Architekt *427\nSacher, Ant., Hdlsm. 675\nSaiter, Eml., Metzger 481\nSalathe, Eml., Küfer 327\n  -Boshart, F., Hdlsm. 444\n  J. G., Weinhändler 453\n  J. G., Postfaktor 592\n  A., Koch u. Stubenverw. 642\n  Hch., Dessinateur 1184\n  Jak., Tapezierer 1184\n  J. Christ., Weinschenk *14\n  Wittwe, Kostgeberin 1184\nvonSalis, Joh. 1403\nSalzmann, L., Kutscher 1248\nSandoz, Karl August 918\nSandreuter, F. J. 297\n  -Langmesser, Rudolf 297\n  Eml., Beck 477\n  J. J., Spengler 576\n  Rud., Schuhmacher 581\n  E., Südfrüchtehdlg. 1735\n  -Heußler, Wittwe 509\nSänger, Leonh., Commis 201\nSarasin, Ad., Pfarrer 1248C\n  K., Bandfabr. 1311\n  Felix, Bürgerm. 1319-22\n  -Burckhardt, Wwe. 1319-22\n  -Heußler, Lukas *368-69\n  -Merian, Wwe., Julie 1047\n  -Heußler, Wittwe 1228\nSäuberlin, Wittwe 425\nSauerbeck, Jak. *116A\nSauerbrey, B., Zeugw. 277\nSauter, Jos., Commis 143\nSautter, Mich., Commis 582\nSauvain, Sal., Commis 1210\nSaxer, J. Fch. *269\nSchabelitz-Flick, J. Chr. 1425\n  J. L. Redaktor 1425\n  -Lotz, Commis 1596\nSchachenmann, J. C. 275F\n[spalte 2]\nSchachtler, Jakob *45\nSchäfer, H., Pintensch. 89\n  Abr., Heuwäger 1035\n  Fch., Fabrikmeister 1257A\n  -Weber, S., Bierbr. 1639\n  Jak., Schreiner *130\n  Nikl., Schuhm. *321-22\n  Aug., Zimmermeister *431\n  Wittwe, Rosina *431\nSchäffer, Math., Ferger 804\nSchaffner, Fch., Wirth 11\n  Sam., Kutscher 20\n  H., Sohn, Schneider 148\n  Rem., Fabrikarbeiter 218\n  Sam., Schneider 1069\n  Joh., Posamenter 1259\n  Seb., Schneider 1564\n  -Jordan, Wwe., Urs. 1062\n  -Schäfer, F., Lehrer *134\n  Martin, Diacon *200\n  Jak., Fabrikarbeiter *201\nSchalch, J. U., Goldschm. 138\nSchardt, Em., Buchb. 645\n  Dan., Schuhmacher 719\n  Lukas, Commis 1152\n  Matth., Spengler 1695A\n  Frz., Küfer *143\n  Peter, Küfer *202\n  L., Polizei-Sekretär *202\n  J. U., Metzger *424\nSchärer, L., Metzger 460\n  -Frey, Wwe., Marie 1125\nScharf, Alois, Lehrer 593\nSchärflin, Fz., Metzger *20\nSchärr, Schneider 1727\nSchaub, J., Posamenterm. 47\n  Hch., Todtengräber 399\n  J. G., Ferger 432\n  R., Buchbinder 432\n  Georg, Schreiner 754M\n  Joh., Kaufhausarb. 754D\n  Matth., Schuhmacher 773\n  Hch., Fabrikaufseher 809",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10194,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2144,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:21:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p133",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p133.jpg",
+      "bytes": 1060490,
+      "sha256": "874f0f8a3228c8643c2c44313596034423ea21992f4d77192d0bf265012511dd",
+      "sha256_of": "original",
+      "working_copy": "1850_p133.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:21:56+00:00"
+  }
+}

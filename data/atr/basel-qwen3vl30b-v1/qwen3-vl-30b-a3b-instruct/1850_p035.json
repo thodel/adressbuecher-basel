@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p035",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p035.jpg",
+    "bytes": 1113004,
+    "sha256": "7d9c16a322059f63f9724bf208667949aa9963e4965c53f26aa574a3752fe990",
+    "sha256_of": "original",
+    "working_copy": "1850_p035.jpg"
+  },
+  "text": "Spahlen = Quartier. 23\n511 Fürstenberger-Debarn, Wittwe, Wollenhandl.\n512 Burkhardt-Fürstenberger, Eml., Dr. J., Rathsherr.\nKoschhofgasse.\n513 Rebfaamen, Joh., Commis.\n514 Rebfaamen, Joh., Benedikt, Wagner. Mis. Obwald, Mohn.\n515 Berardio, Dessinateur. g. v. Mignan.\n516 His-Bischer, Wittwe, Kapitalistin.\nSimonius, Karl, Commis.\nEisenhandlung von Andreas Ludwig.\nAdelberg.\n517 Falkner, Jgfr., Marg., Partikularin.\n518 Müller-Zink, Heinrich, Postoffiziant.\nDurchgang zu Nr. 602. Dreifus, Jsaak, gehörend.\n519 (Magazin) zu Nr. 511. Fürstenberger-Debarn ge-\nhörend.\n520 LaRoche-Bischer, J. J., Bater, Rentier.\nLaRoche-Stähelin, Benedikt, Banquier, Commis.=\nu. Speditionsbdlg.\n521 (Almofenschaffnei) Herzog, Joh., Notar und Almo-\nfenschaßner.\nA 521 Gekler, Dan., Hutmacher gehörend.\n522 Gysler-Handmann, Lud., Wittwe.\nMosley, H., engl. Sprachlehrer.\n523 Erlacher-Heinzen, Flachmaler, Wittwe.\n524 Ederer, Jungfrau Maria.\n525 Meyer-Merian, Th., Med. Dr.\nLok-Zäslin, Wittwe.\nLok, Eduard, Tabakhändl. (Comptoir in Nr. 1534.)\nImbergässlein.\n526 Frey, Peter Hans, Geschäftsmann.\n527 Kindhauser, Johannes.\n528 Lorenz, Joseph, Lohnbedienter.\n529 Klett, Kaspar, Fabrikarbeiter.\n530 Walliser, Joh. Friedr., Fabrikarbeiter.\n531 Gysin, Samuel, Ladendiener.\n532 Bell, Friedrich, gehörend.\n533 Ullmann, Joseph, Gypser.\n534 Hinterhaus von 597, Preiswerk, Emanuel.\n535 \" \" 596, Hagenbach, Friedrich.\n536 \" \" 594, Schneider, Friedrich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4635,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1415,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p035",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p035.jpg",
+      "bytes": 1113004,
+      "sha256": "7d9c16a322059f63f9724bf208667949aa9963e4965c53f26aa574a3752fe990",
+      "sha256_of": "original",
+      "working_copy": "1850_p035.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:59+00:00"
+  }
+}

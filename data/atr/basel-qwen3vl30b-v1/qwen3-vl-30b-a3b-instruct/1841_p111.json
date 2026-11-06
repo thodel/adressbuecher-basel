@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p111",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p111.jpg",
+    "bytes": 982427,
+    "sha256": "c57f9cda2bbdafa200bd66fda581740d11eb3721c9ecd0e9f87a6b81f893c1bd",
+    "sha256_of": "original",
+    "working_copy": "1841_p111.jpg"
+  },
+  "text": "28\nLudwig, Andreas, Eisenhändler. 468 Beim Spahlenthurm.\nLudwig, Joh. Heinr., Schreiner. 368 u. 369 Auf der Leis.\nLüdin, Georg fel., Wittwe, geb. Göbelin. 159 Fischmarkt.\nLüdin, Wittwe, geb. Esther Brodbeck. 1689 Hint. d. Kümliinsmühle.\nLüdin=Wagner, Joh. Franz, Fabrikfeger. 1612 Markt.\nLüthy, Ulrich. 945 Aeschen=Borstadt.\nLüzelmann, Joh. Jakob, Geschäftsreisender. 20 St. Joh.=Borst.\nLuttringshausen, Heinrich, Kunstmaler. 84 St. Johann=Borstadt.\nLuttringshausen, J. J., Kunstmaler. 861 u. 862 Thorsteinen.\nM.\nMaas, geb. Kohl, Wittwe. 413 Heuberg.\nMaas, Rudolf, Med. Dr. 725 Barfüsserplaz.\nMadeux, Joh. (Rag.: Madeux u. Wohlnlich.) Commissions-, Speziditions- und Colonialwaaren-Handlung. 335 Fröschgasse.\nMadöri, Friedrich. 1490 St. Martin.\nMäglin, Ben. de Anton, Handels-Commis. 1013 Aeschen=Borst.\nMäglin, Benedikt, Küfer und Bierbrauer. 603 Unt. Spahlenberg.\nMähly, Hieron., Ros- und Waldhaarhandlung. 1151 Gerbergasse.\nMähly, Jakob Caspar, Küfer. 998 Bei dem Aeschen=Thor.\nMähly, Achilles, Senfal. 372 St. Leonhardsgraben.\nMähly=Lamy, Fr., hält Kunsthandlungen in Basel, Bern u. Genf.\n127 Neue Straße.\nMärklin, Baleria, Glätterin. 468 Bei dem Spahlenthurm.\nMärklin, Andreas, Drechsler. 650 Gerbergasse.\nMärklin, Jungfer, Margaretha; Bandladen. 654 Gerbergasse.\nMärklin, Peter Eucharius, Commis. 1666 Markt.\nMärklin, Johannes, Drechsler. 1628 Untere Freienstraße.\nMärklin=Christ, Joh. Rud., Spezereihandlung. 1635 Unt. Freienstraße.\nMager, Charlotte, Jungfer, Seilerwaaren. 1099 Streitgasse.\nMangold, Christ., v. Lupsingen, Fabrikarbeiter. 1685 Kuttelgässlein.\nMangold, Joh., Fabrikausseher. 1290 St. Alban=Thal.\nMangold, Samuel, Zimmermann. 778 Hinterer Bach.\nMangold, Barbara, Wittwe, geb. Biedermann. 793 Hint. Bach.\nMarbach, Agnes, Näherin. 477 Oberer Spahlenberg.\nMarbach, Isaak, Kürschner und Civilgerichtsweibel. 474 Oberer Spahlenberg.\nMarfort, Jof. Anton, Bergolder. 649 Gerbergasse.\nMarfort, Ant. Joseph, Sattler. 1443 Freie Straße.\nMarfort, J. B., Bergolder und Spiegelhändler. 225 Schwarze Pfahlgasse.\nMaring, Georg fel., Wittwe, Rammnacher. 1736 Hinter d. School.\nMaring, Emanuel, Kaffeewirth. 111 Blumenrain.\nMariot, Wilh., Prof. der engl. Sprache. 381 St. Leonhardsgraben.\n[spalte 2]\nM.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6683,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2208,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0233,
+    "mean_line_chars": 50.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:55:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p111",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p111.jpg",
+      "bytes": 982427,
+      "sha256": "c57f9cda2bbdafa200bd66fda581740d11eb3721c9ecd0e9f87a6b81f893c1bd",
+      "sha256_of": "original",
+      "working_copy": "1841_p111.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:05+00:00"
+  }
+}

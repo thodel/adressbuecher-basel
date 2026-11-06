@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p070",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p070.jpg",
+    "bytes": 1080808,
+    "sha256": "db952d1ff0223813ade25924097b8b8cc4d7ec681211944dc4a30a2e61ffb5f7",
+    "sha256_of": "original",
+    "working_copy": "1850_p070.jpg"
+  },
+  "text": "St. Alban=Quartier.\n57\n1264 Magazin, Remise und Stallung zu Nr. 1356 geh.\n1265 Magazin, Remise u. Stallung zu Nr. 1312 B geh.\n1266 Martin, Mathias, Wirth.\n1267 Haag, Leonhard, Hufschmied.\n1268 Zselin, Dietr., Rentier.\nAB 1269 Bandfabrike von Sulger und Stückerberger.\n1270 Burckhardt-Burckhardt, Eml., Rentier.\nBurckhardt-Piguet, Theophil, Lehrer.\n1271 Plattner, Joh., Lohnfuhrhalter.\n1272 Ofer, Rudolf, Thierarzt.\n1273 deGoumois-Lichtenhahn, W., Handelsmann.\nA 1273 Weber, Melchior, Posamenter.\n1274\nA 1274 Heusler-Thurneyssen, Dan., Handelsmann.\nB 1274 Lienin, Markus, Musiklehrer.\nE 1274 Sevin, Wilhelm, Commis.\n1275 Kiefer, Joh., Commis.\nB 1275 Magazin von Burckhardt und VonderMühl.\nA 1275 Ryhiner-Menger, Eml., Rentier, Stadtrath.\nMenger, Karl, Partikular.\nHaagen, Karl Gottfried, Kaufmann.\n1276 (St. Alban-Thor) Klingelsuf, Sperrer.\nHenz, F. F., Thorschreiber.\nSt. Albanthal.\nAB 1276 (Magazin) Bischoff-Respinger, Hier., gehörend.\n1277 Löw, Johannes, Magazinier.\n1278 Wezel, Adam, Papierer.\nMazinger, Sch. Kaminfeger.\n1279 Wezel, F. F., Lohnwascher.\nWezel, F. F., Ferger.\nSchaub, F. A., Ferger.\n1280 Kiefer, Joh., Lohnwascher u. Weinschenk.\n1281 Heusler-Fatio, Emanuel, Bleicher.\n1282 Thurneisen, Ludwig Andreas, Papierfabrikant.\n1283 Büchle, Rudolf, Holzmüller.\n1284 Frick, Peter, Papierer.\n1285 Zeffonig, Johann, Schreiner.\n1286 Abgebrochen.\nA 1287 Papiermühle von Wittwe Ofer.\n1287-88 Kufmaul, Mechanikus, gehörend.\n1289 Hofstetter, Dl., Papierer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5026,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1457,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.91,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p070",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p070.jpg",
+      "bytes": 1080808,
+      "sha256": "db952d1ff0223813ade25924097b8b8cc4d7ec681211944dc4a30a2e61ffb5f7",
+      "sha256_of": "original",
+      "working_copy": "1850_p070.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:28+00:00"
+  }
+}

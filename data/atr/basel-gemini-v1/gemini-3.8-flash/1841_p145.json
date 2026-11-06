@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p145",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p145.jpg",
+    "bytes": 940679,
+    "sha256": "7843179c28d6a539c5717167db29520d27bb6925897c935ce29afac467c4ffc8",
+    "sha256_of": "original",
+    "working_copy": "1841_p145.jpg"
+  },
+  "text": "62\n\nVest, Lucas, Vater, Partikular. 178 Rebgasse.\nVest, Ludwig. 376 Bei der Rheinbrücke.\nVest, Joh. Jakob, Küfer. 75 Rheingasse.\nVest-Wenk, Joh. Rud. sel., Erben; Wollen- und Baumwollen-\n  Handlung. 376 Bei der Rheinbrücke.\nVon Brunn, Wittwe, geb. Braun. 141 Beim Riehen-Thor.\nVon Brunn, Marie, Lehrerin. 132 Kirchgäßlein.\nVon Büren, Seb., kathol. Pfarrer. 106 Am Lindenberg.\nVonkilch, Sebastian, Schiffmann. 64 Rheingasse.\nVon Mechel, Rudolf, Küfer. 279 Webergasse.\nVon Speyr, Lucas, Schlosser. 365 Untere Rheingasse.\nVoawiller, Emanuel, Metzger. 386 Krempergasse.\n\nW.\n\nWäffler, Hieron. sel., Wittwe, Bäckerei. 7 Bei der Rheinbrücke.\nWahl, Heinrich, Spezereihändler. 127 u. 128 Obere Rebgasse.\nWalliser, Conrad, Schreiner. 189 Rebgasse.\nWeber, Joh. Jakob, Commis. 77 Rheingasse.\nWeber, Jakob, Wirth. 272 Beim Bläsithor.\nWeber, Heinrich, Kunstmaler. 183 Rebgasse.\nWeber, Rud., Lohnwascher. 262 Im Rumpel.\nWegner, Joh. Rud., Seidenfärber. 204 Rebgasse.\nWehrli, Johannes, Blattmacher, von Küttigen. 21 Schafgäßlein.\nWeiß, Thomas, Weinschenk. 148 Beim Riehen-Thor.\nWeiß, Jungfer, Judith. 225 Greifengasse.\nWeiß, Johannes, Kaufhausarbeiter. 27 Rheingasse.\nWeißenberger, Joh., Wundarzt. 388 Krempergasse.\nWeißenburger, Rud., Beck. 86 Rheingasse.\nWetzel, Jakob Friedrich, Taglöhner. 98 Am Lindenberg.\nWidemann, Joh. Jakob, Fabrikarbeiter. 102 Am Lindenberg.\nWierz, Joh. Jakob, Commis. 199 Rebgasse.\nWilli, Wittwe, geb. Anna Elis. Kern. 43 Rheingasse.\nWinkler, Johannes, Schiffmann. 70 Rheingasse.\nWinkler, Clemenz, Schiffmann. 70 Rheingasse.\nWinter, Lucas Fr., Weißbeck. 285 Webergasse.\nWirz, Wittwe. 47 Rheingasse.\nWitzig, Martin, Vater u. Sohn, Seidenfärbergesellen. 81 Rheingasse.\nWohnlich, Isaak, Spezereihändler. 395 Krempergasse.\nWohnlich, Jakob sel., Wittwe, Bäckerei. 236 Greifengasse.\nWollenschlegel, Jakob, am Kaufhaus. 171 Rebgasse.\n\nZ.\n\nZäslin, Joh. Heinr., Thorschreiber u. Buchbinder. 221 Greifengasse.\nZäslin-Bleyenstein, Theodor, Partikular. 194 (195) Rebgasse.\nZeller, Christoph, Thorschreiber. 272 Beim Bläsithor.\nZindel, Jakob, Müller. 323 Untere Webergasse.\nZürcher, Samuel, Schneider. 99 Am Lindenberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8161,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2117,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:01:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p145",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p145.jpg",
+      "bytes": 940679,
+      "sha256": "7843179c28d6a539c5717167db29520d27bb6925897c935ce29afac467c4ffc8",
+      "sha256_of": "original",
+      "working_copy": "1841_p145.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:00+00:00"
+  }
+}

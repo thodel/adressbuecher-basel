@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p192",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p192.jpg",
+    "bytes": 1070050,
+    "sha256": "470bb814726deed569f6fbae73e15d263ffe2d19ac3324267428e52507baf126",
+    "sha256_of": "original",
+    "working_copy": "1841_p192.jpg"
+  },
+  "text": "- 39 -\nMöcklin, Margaretha, geb. May, Wittwe, von Oberschlatt, Gärtnerin. 3 Klibeckstrasse.\nMüller, Georg, von Buschweiler, Gärtner. 34 Klibeckstr.\nN.\nRamsperger, Emanuel, Gutsbesitzer. 38 Klibeckstrasse.\nRubly, Jakob, von Essingen. 78 Schorenbrücke.\nO.\nSalathe, Joseph, von Binningen, Lehennann. 7 Klibeckstr.\nSarer, Jakob, von Altstetten, Maurer. 84 Mittlere Straße.\nSarer, Friedr., v. Altstetten, Taglöhner. 73 a. Mittl. Straße.\nSchäublin, Heinrich, von Oberdorf, Lehennann. 28 Klibeckstr.\nSchmucklin, Michael, v. Allenjoie, Lehennann. 53 Klibeckstr.\nSchmucklin, Magdalena, geb. Neuhauer, von Allenjoie, Part. 57 In der Klibeck.\nSchmucklin, Johannes, von Allenjoie, Lehennann. 57\n  In der Klibeck.\nSchneider, Johannes, von Niedereggenen, Lehennann. 81 Mittlere Straße.\nSchneider, Nikolaus, von Langenbruck, Gutsbesitzer. 79\n  Am Teich ob der Schorenbrücke.\nSchwarz, Rudolf, Gärtner. 17 Klibeckstrasse.\nSiegriß, Rudolf, Gärtner. 30 Klibeckstrasse\nStuk, Heinrich, v. Lieftal, Kammacher. 80 Mittlere Straße.\nP.\nEschopp, Agatha, geb. Freuder, von Waldenburg. Gärtnerin. 12 Klibeckstr.\nQ.\nBögele, Anton, von Eyen, Gutsbesitzer. 42 Klibeckstr.\nBogt, Johannes, von Lauwil, Steindrucker. 2 Klibeckstr.\nR.\nWolleb, Johannes, erster Sekretär der Polizei-Direktion. 53 Klibeckstrasse.\nS.\nZeder, Jakob, von Luthern, Gutsbesitzer. 71 Mittlere Str.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4253,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1336,
+    "lines": 30,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p192",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p192.jpg",
+      "bytes": 1070050,
+      "sha256": "470bb814726deed569f6fbae73e15d263ffe2d19ac3324267428e52507baf126",
+      "sha256_of": "original",
+      "working_copy": "1841_p192.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:57+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p083",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p083.jpg",
+    "bytes": 1265610,
+    "sha256": "4de308166b49e066c5de5a4b8f33eefd961a3bb566c433e61cf7193911d72d39",
+    "sha256_of": "original",
+    "working_copy": "1862_p083.jpg"
+  },
+  "text": "18\nSt. Alban-Vorstadt.\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n45 V. 1330 Allenspach=Rudin, Joachim.\nAllenspach=Rudin, Joach., Kaufmann.\n46 V. 1233 Schweizer=Gros, Heinrich.\nSchweizer=Gros, H., Fabrikarbeiter.\nRudin=Weber, Adolf, Lisieur.\n47 V. 1329 Blendinger=Sandreuter, Joh. Jakob\nBlendinger=Sandreuter, Joh. Jak., Zollb.\n48 V. 1234 Rubin, Konrad.\nRublin, Konrad, Zimmermann.\nRudin=Rublin, Jakob, Musterweber.\n49 V. 1320 A zum schönen Eck. Sarasin, Felix, sel., Erben.\nSarasin-Brunner, Julia Charl. Rosalie,\nFelix sel. Wb., Bürgermeisters.\nBureau und Magazine der Firma\nFelix Sarasin und Heusler.\n50 V. 1235 Ritter=Fischer, Joh. Jakob.\nRitter=Fischer, Joh. Jakob, Meßger.\n51 V. 1319 Sarasin, Felix sel., Erben.\n(Stallung und Remise.)\n52 V. 1236 Glaser=Andres, Andreas.\nGlaser=Andres, Andreas, Seiler.\n53 V. 1318 Frok, Georg Jakob.\nFrok, Friedrich, Fabrikarbeiter.\n54 V. 1237 Gemuseus=Kespinger, Wilhelm.\n55 V. 1317 Rohner=Wertenberg, Joh., Bäcker.\nErb=Wagner, Johannes, Magazinknecht.\n56 V. 1238 das Klösterlein. Gemuseus=Kespinger, Wilhelm.\nGemuseus=Kespinger, Wilh., Kaufmann.\n57 V. 1316 Rohner=Wertenberg, Johann.\nRohner=Wertenberg, Joh., Bäcker.\n58 V. 1239 zum Brigittathor. Merian, Henriette und Anna.\nMerian=Bischoff, Wittwe Pauline, Kent.\nComptoir der Herren H. Merian=Bon-\nderMühll, Rud. Merian=Jselin u. der\nErben v. Hrn. C. Merian=Bischoff sel.\nWalter=Bienz, Chr. Fr.\nWalter=Bienz, Ch. Friedrich, Magazin-\narbeiter und Spezierer.\n59 V. 1315 Fischer, Joh. Jakob.\nFischer, Joh. Jakob, Schloffer.\n60 V. 1260 Bischoff, Karl.\nStingelin=Abt, Joh., Feger.\n61 V. 1314 Felber, Daniel.\nFelber, Daniel, Senfgruben-Entleerer.\n62 V. 1261 zur Ehrenburg. Moos=Brugger, Rudolf.\nMoos=Brugger, Rudolf, Bäcker.\n63 V. 1313 zur rothen Tanne. Riedeker=Salathe, Carl Leonh.\nRiedeker=Salathe, C. L., Siegrift zu\nSt. Alban.\nHeusler=Geizer, Adolph, Bäcker.\nVortisch, Marie u. Pauline, Part.\n64 V. 1262",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6545,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1945,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0159,
+    "mean_line_chars": 29.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p083",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p083.jpg",
+      "bytes": 1265610,
+      "sha256": "4de308166b49e066c5de5a4b8f33eefd961a3bb566c433e61cf7193911d72d39",
+      "sha256_of": "original",
+      "working_copy": "1862_p083.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:18+00:00"
+  }
+}

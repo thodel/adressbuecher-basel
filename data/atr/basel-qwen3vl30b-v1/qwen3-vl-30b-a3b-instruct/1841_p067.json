@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p067",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p067.jpg",
+    "bytes": 928358,
+    "sha256": "35e88bff03c3512da1fd66f0c20fb7c3c59bc5d94623d466f60eaeb0556a7333",
+    "sha256_of": "original",
+    "working_copy": "1841_p067.jpg"
+  },
+  "text": "60\nNro.\nRuttelgäfklein.\n1693 Holzach, Joh. Leonhard, Bader.\n1694 Piccard, Samuel, Handelsjude.\n1695 Meyer, Wittwe, geb. M. M. Bauler.\nSchmackmann, Heinrich, Landjäger.\nSchnabelgäfklein.\n1695 a Bogt, Wittwe, geb. A. Barb. Burckhardt, von Lauwil.\nRuttelgäfklein.\n1696 Burckhardt, Wittwe, geb. Dor. Oschgi.\nBloch, Joseph, Handelsjude.\n1697 * Künzi, Wittwe, geb. M. Gögel, v. Adelboden, R. Bern, geh.\nBasler, Heinrich, Schneider, von Kleinhüningen.\nSchnabelgäfklein.\n1698 Linde, Gottlieb, Mechanikus.\nRebsamen, Johannes, Lohnbedienter.\n1699 Baur, J. G. fel., Wittwe, geb. Stuk.\nBaur, J. W. fel., Wittwe, geb. Fricker, Buchdruckerei.\n1700 * Zselin, Wittwe, geb. Elisabeth Müller, geh.\nFürst, Christian, Landjäger.\n1701 * Haller, Viktor, Küfer, geh.\nBürgin, Heinrich, Posamentier.\n1702 Weiß, Carl Ludwig, Kübler.\nUnterer Spahlenberg.\n1703 Tschientschy, Heinrich, Weinschenk und Geldwechsler.\nFechter, Wittwe, geb. Bollenweider.\n1704 Jäsch, Johannes, Kanzlist.\n1705 * Langmeffer, Hieronymus, geh.\n1706 Tschudy, Joh. Ulrich, Schneider.\nGesler, Carl, Metzger.\n1707 Bernoulli=Jäslein, Joh. Jakob.\n1708 Bernoulli=Kespinger, Hieronymus, Apotheker.\n1709 Roschet, Abraham, Kürschner.\n1710 Ungerer, Andreas, Wirthschaft.\n1711 Schnell, Joh. Rud. fel., Wittwe, geb. Preiswerk.\nSchnell=Riggenbach, Joh., Professor.\n1712 Waffermann, Joh. Rud., Messerschmid.\n1713 * Sandreuter=Langmeffer, J. R., geh.\nHutgasse.\n1714 Gesler, Emanuel, Tuchhandlung.\n1715 * Magazin (hinter der Münz), Brandmüller=Eskenstein, H., geh.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4784,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1493,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0476,
+    "mean_line_chars": 34.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p067",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p067.jpg",
+      "bytes": 928358,
+      "sha256": "35e88bff03c3512da1fd66f0c20fb7c3c59bc5d94623d466f60eaeb0556a7333",
+      "sha256_of": "original",
+      "working_copy": "1841_p067.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:54+00:00"
+  }
+}

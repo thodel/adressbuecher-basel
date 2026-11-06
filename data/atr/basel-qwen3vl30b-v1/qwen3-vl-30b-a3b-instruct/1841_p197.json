@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p197",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p197.jpg",
+    "bytes": 970055,
+    "sha256": "4231dfc374e8862b47e995fa1d38e9d121d1f64a923006fd049d16736fe18bc7",
+    "sha256_of": "original",
+    "working_copy": "1841_p197.jpg"
+  },
+  "text": "- 44 -\nSchaub, Christian, von Wittisburg, Zettlermeister. 39\nRiehenstraße.\nSchenkel, Jakob, von Klein-Hüningen, Lohnwäscher. 13\nAm Teich.\nSchlueb, Friedrich, Fabrikkaufseher. 39 Riehenstraße.\nSchönbein, Christ. Friedr., Dr. der Philosophie und Prof.\nder Chemie. 6 Mittlere Straße.\nSchük, Joseph, von Marbach. 82 Auf dem Gottenbarn.\nSpinnler, Ursula, Isgfr., Part. 33 An der Riehenstraße.\nSteiger, Sebastian, Salzschreiber. 6 Mittlere Straße.\nStuk, Anna Maria, geb. Widmer, Wittwe. 45 Grenzacherstr.\nSulzer, Nikolaus, von Riehen, Gärtner. 44 Grenzacherstr.\nSutter, Salomea, Isgfr., Schneiderin. 2 Beim Riehenthör.\nT.\nThommen, Heinrich, von Niederdorf, Gutsbesitzer. 75\nGrenzacherstraße.\nW.\nWalliser, Johannes, von Reigoldschwil, Lehennann. 7\nMittlere Straße.\nWalter, Viktor, v. Wiefen, Lehennann. 45 Grenzacherstraße.\nWeihrauch, Jakob und Emil, Gärtner. 41 Grenzacherstr.\nWerenfels, Valeria, Isgfr., Gutsbesitzerin. 45 Grenzacherstr.\nWertenberg, Barbara, Isgfr. 8 Am Teich.\nWitschin, Samuel, Gärtner. 46 Grenzacherstraße.\nZ.\nZuber, Joseph, von Gerspach, Lehennann. 54 Grenzacherstr.\nZurflue, Joh. v, Trued, Lehennann. 15 Am Teich.\nDruck von J. C. Schabelitz.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3770,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1157,
+    "lines": 29,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p197",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p197.jpg",
+      "bytes": 970055,
+      "sha256": "4231dfc374e8862b47e995fa1d38e9d121d1f64a923006fd049d16736fe18bc7",
+      "sha256_of": "original",
+      "working_copy": "1841_p197.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:07+00:00"
+  }
+}

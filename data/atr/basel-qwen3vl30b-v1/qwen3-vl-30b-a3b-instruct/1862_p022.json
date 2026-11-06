@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p022",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p022.jpg",
+    "bytes": 1424594,
+    "sha256": "78777f95b820b50b0b7db742c13006ccbef69344e87fe65eef99c39c2d83f353",
+    "sha256_of": "original",
+    "working_copy": "1862_p022.jpg"
+  },
+  "text": "Gemeindsbeförden. — Die C. Zünfte.  XIX\nFr. Heinrich Lox=Spörlin.\n„ Rudolf Wölfflin.\n„ Benedikt Stähelin=Bischoff.\n  Zu St. Theodor.\nFr. Stadtrath Joh. Jakob Minder.\n„ Leonhard Heukler=Thurneyssen.\n„ Kaspar Giber=Loz.\n„ Friedrich Meyenroth.\n„ Ludwig Schweizer.\n  Aelteste der französischen Kirche.\nFr. Ludw. Aug. Burchhardt, J. U. D.\n„ Heinrich Iselin, Dr. med.\n„ Carl Sandoz=Luya.\n„ Ludwig Courvoisier=VonderMühll.\n„ Prof. Franz Girard.\n„ François Martin=Schmerber.\n„ Jerome Stehelin=Roch.\nDie C. Zünfte der Stadt Basel.\nKaufleuten oder Schliisselzunft.\nFr. Wilh. Bischoff=Merian, neuer Meister.  Fr. Joh. Jakob Dettwyler, Meister zu\n„ Leonh. Heukler=Thurneyssen, alt. Meist.  Schneidern.\n  Hausgenossen.  Fr. Adolf Hübcher, Meister zu Kürschn.\nFr. Wilh. Bischoff=Burchhardt, neuer Mstr.  Gartnern.\n„ Karl Burchhardt=Bischer, alter Meister.  Fr. Rudolf Hauser=Oser, neuer Meister.\n  Weinleuten.  „ Hans Burchhardt, J. U. D., alter Meister.\nFr. German LaRoche, neuer Meister.  Mezgern.\n„ Wilh. Freikwer=Vishoff, alter Meister.  Fr. Rudolf Bienz, Sohn, neuer Meister.\n  Safran.  „ J. Weber=Engel, alter Meister.\nFr. Hier. Imhoff=Fallner, neuer Meister.  Spinnwettern.\n„ Friedr. Hagenbach=Merian, alt. Mstr.  Fr. Ludwig Merian, neuer Meister.\n  Rebleuten.  „ Christof Konus=Gemuseus, alter Mstr.\nFr. Nicolaus Halter, neuer Meister.  Schärer, Maler und Sattler.\n„ Joh. Philipp Kehlstadt, alter Meister.  Fr. B. D. Rumpf, Meister zum gol-\n  Brodbeden.  denen Stern.\nFr. Rudolf àWengen, neuer Meister.  Fr. Gottlieb Hasler, Meister z. Himmel.\n„ J. Chr. Schmidt, alter Meister.  Leinwetter und Weber.\n  Schmieden.  Fr. Rud. Schmid, J. U. D., neuer Mstr.\nFr. Leonhard Fininger, neuer Meister.  „ Rudolf Wegner, alter Meister.\n„ Samuel Minder, alter Meister.  Schiffleute und Fischcr.\n  Schuhmacher und Gerber.  Fr. Joh. Fäsch=Binet, Mstr. zu Schiffleuten.\nFr. Joh. Jakob Bücher, Vater, Meister  „ Joh. Löw=Geßler, Meister zu Fischern.\n  zu Schuhmachern.  Akademische Zunft.\n„ Andreas Braun=Geßler, Meister zu  Fr. Peter Merian, D. Ph., neuer Meister.\n  Gerbern.  „ Andreas Heukler, J. U. D., alt. Mstr.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6481,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2095,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p022",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p022.jpg",
+      "bytes": 1424594,
+      "sha256": "78777f95b820b50b0b7db742c13006ccbef69344e87fe65eef99c39c2d83f353",
+      "sha256_of": "original",
+      "working_copy": "1862_p022.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:31+00:00"
+  }
+}

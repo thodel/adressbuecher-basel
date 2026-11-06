@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p088",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p088.jpg",
+    "bytes": 1017918,
+    "sha256": "1d63b92965cda0878401d0463bf1a8a6bd0d341309502b230880d0bd24459acd",
+    "sha256_of": "original",
+    "working_copy": "1850_p088.jpg"
+  },
+  "text": "Stadt-Quartier. 75\n\nHutgasse.\n\n1667 Fäsch-Dünner, J. J., Seidenwaarenhandlung.\n  Stierlin-Mathes, Tapetenlager.\n1668 Meyer, Friedrich, Ausschnitthandlung.\n1669 Geßler, Leonhard, Buchbinder.\n  Pümpin, Samuel, Sohn, Postfaktor.\n1670 Petri, Emanuel, Schuhmacher.\n1671 Folz, Wittwe, Fürkäuferin.\n1672 Fucker, Ulrich, Rentier.\n  Kling, Melch., Ferger.\n1673 Mazinger, Bdkt., Schuhmacher.\n1674 Braunschweig, Wittwe, Waarenhandlung.\n1675-76 Fäsch-Hauser, Heinr. Ludw., Zuckerbeck.\n1677 Geßler-Ritter, Daniel, Hutmacher.\n\nHinter der Münz.\n\n1678 Biccard, Abrah., Kaufmann.\n1679 Hetzel, G. Fr., Mechaniker u. Schleifer.\n\nKuttelgäßlein.\n\n1680 Tschopp, Johannes, Landjäger.\n1681 Hetzel, Gottl., geh., Mechanikerwerkstätte.\n1682 Breithaupt, Jakob, Fabrikarbeiter.\n1683 Krayer, Christian, Fabrikarbeiter.\n1684 (Kuttelhaus) Lotz, Leonh., Metzger u. Kuttler.\n  Lotz, Leonh., Knopfmacher.\n1685 Mangold, Johann, Wirth.\n  Brolly, Franz Anton, Ferger.\n\nHinter der Rümlinsmühle.\n\n1686 Scheidecker, Wittwe, Kostgeberin.\n1687 (Zunft zu Schmieden) Weiß, J. R., Stubenverw.\n1688 Haller, Viktor u. Urs, Küfer.\n1689 Grimm, Lukas Rudolf, Schuhmacher.\n\nGrünpfahlgäßlein.\n\n1690-91 Holzach-Schölly, Wittwe, Käs-, Branntwein und\n    Spezereihandlung.\n1692 Holzach, Franz, Kaufmann.\n  Merian, Ludwig, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6381,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1276,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p088",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p088.jpg",
+      "bytes": 1017918,
+      "sha256": "1d63b92965cda0878401d0463bf1a8a6bd0d341309502b230880d0bd24459acd",
+      "sha256_of": "original",
+      "working_copy": "1850_p088.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:34+00:00"
+  }
+}

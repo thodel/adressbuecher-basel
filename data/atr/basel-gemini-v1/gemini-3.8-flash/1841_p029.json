@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p029",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p029.jpg",
+    "bytes": 900701,
+    "sha256": "152cf242fbfd10ad14d27422336420ec79096b748e6c0f1188cd67cc96bfb768",
+    "sha256_of": "original",
+    "working_copy": "1841_p029.jpg"
+  },
+  "text": "22\n\nNro.\n570 Bonnet, geb. Früh, Barbara, Wittwe.\n571 * Mädchenschule. — Otto, And., S. M. C., Rektor der obrig-\nkeitlichen Töchterschule.\n572 * Remise, J. J. Rieber geh.\n573 Fries, Joh. Jakob, Glaser.\n\nSchneidergasse.\n574 * Remise und Stallung, zur Post geh.\n575 Brüderlin, Adam sel., Wittwe (Zuckerbäckerei).\n576 Sandreuter, Joh. Jakob, Schuhmacher.\nBischoff, Melchior, an der Bestäterei Minder.\n577 u. 578 Heitz, Hieron., Vater, Drechsler.\nStehlin, Jos., Conducteur.\nNörbel, Joh., Direktor der Strafanstalt.\n579 Otto, Friedrich, Knopfmacher.\nHeß, Leonhard, alt Aktuar der Strafanstalt.\n580 Schmid, Melchior, Schneider.\n581 Sandreuter, Rudolf, Schuhmacher.\n582 Steiger, Nikolaus, Gürtler.\n583 Abgebrochen.\n584 Wertenberg, Rudolf, Bürstenbinder.\n\nSt. Andreas-Platz.\n585 Stuber, Johannes, Fabrikarbeiter, von Lohn, K. Solothurn.\n586 * Schneider, Christ., Schuhmacher, geh.\nFrick, Geschwister, Näherinnen.\n587 Vollenweider, Joh. Rudolf, Porträtmaler.\n588 Schmidt, Jak. Heinrich, Küfer und Faßsinner.\n\nSchneidergasse.\n589 Lindner-Forkart, Ed., Buchbinder.\nJ. J. Steigers sel. Erben, Leckerli- u. Syrup-Fabrikation.\n590 Crussaire, Joh. Ludwig, Pastetenbeck.\n591 * Leuthard, Hutmacher.\n592 Obrecht, Joh. Emanuel, Kammmacher.\n593 Weber, Joh. Georg, Kaufmann.\nLocher, Jungfrau, Kleinkinderschule.\n594 Schneider, Fr., Schreiner.\n595 Frei, Jakob, Schreiner.\n596 Hagenbach, Fr., Apotheker.\nHagenbach, Eduard, Med. Dr.\n\nUnterer Spahlenberg.\n597 Preiswerk, Emanuel, Spezereihändler.\n598 Lotz-Zäslin, Ulrich, Waaren-Sensal.\nTollmann, Wittwe, geb. Motschi, Musikalien-Bibliothek\nund Kunstblumen-Verlag.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6290,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1588,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0222,
+    "mean_line_chars": 34.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:45:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p029",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p029.jpg",
+      "bytes": 900701,
+      "sha256": "152cf242fbfd10ad14d27422336420ec79096b748e6c0f1188cd67cc96bfb768",
+      "sha256_of": "original",
+      "working_copy": "1841_p029.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:23+00:00"
+  }
+}

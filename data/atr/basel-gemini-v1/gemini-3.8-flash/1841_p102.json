@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p102",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p102.jpg",
+    "bytes": 1066016,
+    "sha256": "84f58919abf1c6f647363c3295b23075f2308e1201461e9bb9ca17f97502613d",
+    "sha256_of": "original",
+    "working_copy": "1841_p102.jpg"
+  },
+  "text": "19\n\nHerbel, Eberhard, Zimmergeselle. 965 Sternengäßlein.\nHermann', Adam, Schlosser. 1338 St. Alban-Vorstadt.\nHermann, Heinrich, Fabrikferger. 454 Beim Spahlenthurm.\nHerrgob, J. Ludwig, Sprachlehrer, aus Bayern. 176 Brunngäßlein.\nHersperger, Barbara, Lehrerin an der Petersschule. 253 St. Petersplatz.\nHersperger, Jungfer, Elisabetha. 253 a St. Petersplatz.\nHertner, Heinrich, Fabrikferger. 561 St. Peterstiftsgasse.\nHerzog, geb. Wybert, Wittwe. 973 Sternengäßlein.\nHerzog, J. J., Partikular. 408 Heuberg.\nHerzog, Jakob Christoph, Schriftsetzer. 311 Spahlen-Thor.\nHerzog, Emanuel, Sigrist. 272 Im Kloster.\nHerzog, Joh. Jakob, Notar und Almosenschaffner. 737 Barfüßerplatz.\nHerzog, Emanuel, Kaufmann. (Firma: Herzog und Waldner.) 803\n  Vordere Steinen-Vorstadt.\nHerzog, Frau Pfarrer, geb. de Lachenal. 827 Vord. Steinen-Vorst.\nHesse, Joh. Andr., Schneider. 94 St. Johann-Vorstadt.\nHeß, Hieronymus, Kunstmaler. 282 Spahlen-Vorstadt.\nHeß, Leonhard, alt Aktuar der Strafanstalt. 579 Schneidergasse.\nHeß, Johannes, Magister, Spitalpfarrer. 736 Barfüßerplatz.\nHetzel, Georg Friedrich, Mechanikus. 1679 Hinter der Münz.\nHeusler, Andreas, Rathsherr. 1203 Luftgäßlein.\nHeusler-Hägi, Martin. (Alte Lesegesellschaft.) 1458 Münsterplatz.\nHeusler, Friedrich, Rentier. 94 St. Johann-Schwibbogen.\nHeusler-Fatio, Markus. (Firma: Heusler, Markus, Papierfabrikant.)\n  1281 St. Alban-Thal.\nHeusler, Christoph, Kaufmann. 1424 Freie Straße.\nHeusler, Lucas, alt Sensal. 2 St. Johann-Vorstadt.\nHeusler-Thurneisen, Dan., Handelsmann. 1354 St. Alban-Vorst.\nHeusler-Bienz sel. Wittwe. 1277 u. 1278 St. Alban-Thal.\nHeusler-Kuder, Daniel. 1380 Am Bäumlein.\nHeußler, Abel, Handelsmann. 1058 u. 1059 Tiefe.\nHeußler-Braun, Lucas, Traiteur. 1650 Rindermarkt, Zunft zu Safran.\nHill, Alexander, Fabrikarbeiter. 953 Aeschen-Vorstadt.\nHindenlang, geb. Heusler, Wittwe. (Spezereihandel.) 471 Oberer\n  Spahlenberg.\nHindenlang, Joh. Peter, Seiler. 5 St. Johann-Vorstadt.\nHindenlang, J. J. 1160 Gerbergasse.\nHindenlang, Schwestern. 1394 Am Bäumlein.\nHindenlang, Lucas, Hauptmann. 828 Blömlein.\nHindenlang, Geschwister. 832 Kurzer Steg.\nHindermann, J. J. (Firma: Bischoff jünger u. Söhne.) 1200 Am\n  Bäumlein.\nHindermann, Eman., Lithograph sel., Wittwe. 1117 Weiße Gasse.\nHindermann, J. Jakob. 1107 Weiße Gasse.\nHindermann, Joh. Ulrich, Weißbeck. 762 Vordere Steinen-Vorst.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8196,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2331,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:55:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p102",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p102.jpg",
+      "bytes": 1066016,
+      "sha256": "84f58919abf1c6f647363c3295b23075f2308e1201461e9bb9ca17f97502613d",
+      "sha256_of": "original",
+      "working_copy": "1841_p102.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:01+00:00"
+  }
+}

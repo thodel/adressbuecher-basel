@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p044",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p044.jpg",
+    "bytes": 1472073,
+    "sha256": "2c82049829687ec0fea53b9aa2910e3fb9c5210bcf0cd15753856e699b4aaadb",
+    "sha256_of": "original",
+    "working_copy": "1862_p044.jpg"
+  },
+  "text": "Ragionenbuch.\nXLl\nHandlungsfirma. | Interessenten u. Firmasührer. | Natur des Geschäfts..\nDietzsch Michael, et | Mich. Dietzsch. |\nComp. | Bischoff-Jselin, Commanditair. |\n| C. Fleiner, Commanditair und |\n| Prokuraträger. |\nDirectorium der schweiz- | Mitglieder des Directoriums: |\nzerischen Central- | And. Sulger. |\nBahn. | J. Trog. |\n| C. Kespinger. |\n| Wilh. Schmidlin. |\nDoelli, Bercher et | J. G. Bercher-Soulzener. |\nComp. | J. C. Doelli. |\nDoelly, Gust. | Gust. Doelly, allein. | Agentur in roher Seide\n| | u. Foulardfabrikation.\nDreyfus, Isaak Söhne. | Leopold Dreyfus-Hirsch. | Bandfabrikation.\n| Samuel Dreyfus-Neumann. |\n| Jacob Dreyfus-Jeidels. |\nDreyfus, Emanuel. | Emanuel Dreyfus-Lang. | Geschäftsmann.\nDreyfus-Schmoll. | Salomon Schmoll-Dreyfus. | Rohe Fellhandlung en\n| | gros.\nEckhard, J. C. | Joh. Conrad Eckhard, allein. | Manufacturwaaren en\n| | gros.\nEckenstein, Eduard. | Eduard Eckenstein-Schermar, allein. | Malzfabrik u. Handlung\n| | von Hopfen, Gerste u.\n| | Harz.\n| | Bankgeschäft.\nEhinger et Comp. | Chr. Math. Ehinger-BonSpehr. |\n| Fr. Brotbeck, Prokuraträger. |\nFisenlohr, Wb. | Arnold Theod. Bischoff-Fiechter. | Spezereihandlung.\nFichter u. Söhne. | J. J. Fichter, Bater. | Bandfabrikation.\n| Bened. Fichter-Seiler. |\n| J. Brugger-Fichter. |\nFischer, H. et Comp. | H. Fischer-Grunauer. | Papier- u. Schreibmate-\n| J. M. Imhof-Meyer, Comman- | rial-Handlung.\n| ditair. |\nFischer, Johannes. | Joh. Fischer, allein. | Tuchhandlung.\nFleiner, Bater u. Sohn. | J. Wilh. Fleiner, Bater. | Rohe Seide.\n| C. Fleiner, Sohn. |\nFlersheim, S. et Comp. | Sal. Mich. Flersheim, von Frank- | Seidenbandhdlg en gros.\n| furt a. M. |\n| Adolf Flersheim, von Frankfurt |\n| a. M. |\n| Nathan Rosenberg. |\n| Sal. Hirschfeld. |\n| Jonas Emil Braunschweig, Pro- |\n| kuraträger. |\nForcart-Weiß u. Burch- | Rud. Forcart-BonGentschid. | Bandfabrikation.\nhardt-Wildt. | Daniel Burchhardt-Forcart. |\n| Ludwig Burchhardt-Forcart. |\n| Daniel Burchhardt-Thurneyfen. |\nCc",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6253,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1969,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0189,
+    "mean_line_chars": 36.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:23:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p044",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p044.jpg",
+      "bytes": 1472073,
+      "sha256": "2c82049829687ec0fea53b9aa2910e3fb9c5210bcf0cd15753856e699b4aaadb",
+      "sha256_of": "original",
+      "working_copy": "1862_p044.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:03+00:00"
+  }
+}

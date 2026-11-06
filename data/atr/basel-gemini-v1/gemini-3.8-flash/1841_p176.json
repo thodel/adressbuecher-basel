@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p176",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p176.jpg",
+    "bytes": 1059986,
+    "sha256": "96e51b1f617947bc12195cca6d2fe3f37a7e8a22969c977d7c82443eb4f9bc91",
+    "sha256_of": "original",
+    "working_copy": "1841_p176.jpg"
+  },
+  "text": "— 23 —\n\nHolzach-Wertenberg, Albrecht, Commis. 3 An d. Rheinbrücke.\nHosch, Wittwe, geb. Wegner. 47 Rheingasse.\nHufnagel, Joh., von Holzhausen, Appreteur. 167 Rebgasse.\n\nK.\n\nKirschner, Wilhelm. 75 Rheingasse.\n* Kocherhans, Jakob, Bäcker. 145 Beim Riehenthor.\n\nL.\n\nLanderer, Rudolf, Rheinknecht 92 Rußgäßlein.\nLaubheim, Georg, Armenvogt. 130 Unteres Kirchgäßlein.\nLeibzig, Pet. Ant., Lohnkutscher. 308 a. Klingenthal.\nLinder, Heinrich, Kanzlist. 192 Rebgasse.\nLotz, Achilles, Sohn, Seidenfärber. 53 Rheingasse.\nLotz, Friedr., Sohn, Zimmermeister. 53 Rheingasse und\n  175 Rebgasse.\n\nM.\n\nMäglin, Rud., Metzger. 179 Rebgasse.\nMaring, Peter, Schlosser. 429 Udengasse.\nMartin, Elias, Magasinier. 228 Greifengasse.\nMatzinger, Abel, Metzger, 436 Udengasse.\nMatzinger, Rud., Sohn. 436 Udengasse\nMatzinger, Friedr., Schiffmann. 40 Rheingasse.\nMatzinger, Karl, Hafner. 78 Rheingasse.\nMeiry, Joh., Antiquar. 4 Rheingasse.\nMeiry, Cand. sel. Wittwe, geb. Münch. 57 Rheingasse.\nMeister, Elias, von Benken, K. Zürich, Kostgeber. 27\n  Rheingasse.\n* Merian, Ludwig, zum rothen Ochsen. 246 Ochsengasse.\nMerian, Karl, Säger. 358 Sägergäßlein.\nMeyer, Joh., Zimmergesell. 370 Untere Rheingasse.\nMinder, Margaretha, Jgfr. 318 Im Klingenthal.\nMiville, geb. Keller, Sal., Wittwe. 167 Rebgasse.\nMüller und Comp., Weinhandlung. 396 Udengasse.\nMunzinger, Hier., Bläser. 31 Rheingasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6968,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1354,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p176",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p176.jpg",
+      "bytes": 1059986,
+      "sha256": "96e51b1f617947bc12195cca6d2fe3f37a7e8a22969c977d7c82443eb4f9bc91",
+      "sha256_of": "original",
+      "working_copy": "1841_p176.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:22+00:00"
+  }
+}

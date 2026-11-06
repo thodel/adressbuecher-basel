@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p116",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p116.jpg",
+    "bytes": 1176475,
+    "sha256": "ce7d4edff8adc72ed47afd052a98e70c6658c6b2374a5b466a505e15c2f58647",
+    "sha256_of": "original",
+    "working_copy": "1850_p116.jpg"
+  },
+  "text": "103\nErismann, F. F. *288 | Fäsch, Frau S., Kostgeb. 1620\nErlacher, Joh., Commis 53 | Jungfrn., Modistes 219\nF. G., Winschenk 821 | Fgfr. Salomea 810\n=Heinzgen, Wittwe 523 | Fäx, Casp., Maurerparl. 1007\nErnst-Hug, Fch. Ferger 281 | Faure, Matth. 1523\nBalth., Abwart 898-99 | Faufel, Gottl. *3\nHeinrich 989 | Fauß, Heinrich 680\nJoh., Ferger 1000 | Joh., Kleiderhandlung 718\nErzberger, Hier., Comm. 662 | Kasp., Tuchscheerer 800\n=Krauer, Wittwe 1445 | Fazer, Frau 236\nEschmann, Fgfr. M. *58 | Fechter=Hanhart, D. A. 1379\nEuler-Frey, Rud. 465 | Federer, Ant., Färbergef. *248\nF. F., S. M. C. 565 | Feig, Frau, Modistin 595\nEuch., Kaufhausverw. 937A | Feindel, F. 601\nAbr., Handels-Comm. 1002 | Felber, Daniel 1261\nF. F., Schuhmacher *96 | G., J. U. D. Staatsfschr. 1533\nAbraham, Küfer *118 | Feuerstein, Daniel 764\nEwig, F. G., Gastgeb. 1658 | Fenerabend, Peter 811\nFaconnier, Kl., Seidenf. 211 | Christ., Schuhmacher 995\nFalkner, Geschwister 242A | Fichter, Abr. 754GH\nNifl. 266 | Fiechter, Joh. Faf. 904\nFgfr. Margaretha 517 | Joh., Commis 1006\nFungfr. 728 | Finninger, Joh. Rud. 288\nFungfr. M. E. 997 | Leonh., Hufschmied 987-88\nFäsch, F. F., Notar 229 | H., Mezger *278\n=Zäßlin, F. F. 247B | Wittwe *278\nJoh. v. Joh. 251B | Fischer, Andr., Mezger 361\n=Paravicini, Wittwe 256 | F. F., Fabrikarbeit. 477\nJoh. Balth. 274B | Heinr., Sohn, Küfer 611\nRud., Commis 658 | F. H., Küfer 612\n=Siß, F. F. 1609 | Eml., Siegrift 694\n=Dünner, F. F. 1667 | Joh. Balth. 772\n=Haufer, H. L. 1675-76 | Elias, Weißbeck 775\nFriedr., Lehrer *87 | =Werdenberg, Wittwe 958\nMag., Leonh. Organ. *104 | Rud., Speditor 1063\nEml., Zimmermann *137 | Joh., Tuchhandlung 1083\nLudw., Bierbrauer *169-71 | F. Peter u. Daniel 1571\nRud., Kupferschmied *238 | Reinb., Stubenverw. 1650\nEml., Weißbeck *276 | Friedr., Prof. Phil. *113A\nFaf., \" *333 | F. B. *154\n=Spindler, Wittwe 219 | Flamm, Joh., Seidenf. *56\nNotar sel. Wittwe 449 | Fleiner, W., Commis 1525\n=Landerer, Wittwe 810 | Flick, Wittwe, Theres. 102",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7718,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1971,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:13:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p116",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p116.jpg",
+      "bytes": 1176475,
+      "sha256": "ce7d4edff8adc72ed47afd052a98e70c6658c6b2374a5b466a505e15c2f58647",
+      "sha256_of": "original",
+      "working_copy": "1850_p116.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:23+00:00"
+  }
+}

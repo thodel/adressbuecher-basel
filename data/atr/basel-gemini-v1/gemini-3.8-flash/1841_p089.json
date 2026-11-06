@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p089",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p089.jpg",
+    "bytes": 990519,
+    "sha256": "a4b8383e3bca8a5b310e3ca16fce56784cb84c0be54358f74f8bae344f3f3ee5",
+    "sha256_of": "original",
+    "working_copy": "1841_p089.jpg"
+  },
+  "text": "6\n\nBraun, Rudolf, Hafner. 880 Oberer Klosterberg.\nBraun, Andr., Spezerei- und Tabackhandlung. 1537 Eisengasse.\nBraun, J., Gypser, aus dem Kant. Thurgau. 178 Brunngäzlein.\nBraunschweig, Naphtali, Handelsjude. 1674 Hutgasse.\nBratteler, Fr., Schuster. 501 Oberer Spahlenberg.\nv. Breck, Achilles, Consul in Moskau. 1453 Schlüsselberg.\nBreck, Ludwig, u. Comp., Tabackhandlung. 911 St. Elisabethen.\nBreitenstein, J. J., Krempler. 186 Unt. Herbergberg.\nBreitenstein, geb. Schaub, Wittwe. 768 Hinterer Bach.\nBreiter, J. J., Handels-Commis. 1154 Gerbergasse.\nBreiting, Samuel, Wirthschaft. 2 St. Johann-Vorstadt.\nBreiting, Peter, Metzger. 982 Aeschen-Vorstadt.\nBrenner, Carl, Dr. Juris. 1441 Freie Straße.\nBrenner-Guéniard, J. J., Seidenwaarenhandlung. 1426 Freie Straße.\nBrenner-Stähelin, Joh., Kaufmann. 507 Adelberg.\nBrenner, J. F., Dr. Med. 233 St. Petersgasse.\nBrenner-Scheuchzer, J. J. sel., Wittwe. 1441 Freie Straße.\nBrodbeck, Joh., von Liestal. 134 Kronengasse.\nBrodbeck, Joh., Flachmaler. 401 d Heuberg.\nBrodbeck, Friedrich, Kaufmann. 780 Vordere Steinen-Vorstadt.\nBrödlin, Wilh., Weinschenk. 1005 Aeschen-Vorstadt.\nBrolly, Martin, Tabackarbeiter. 881 Oberer Klosterberg.\nBruckner-Eckenstein, J. J., Spezereihandlung. 1561 Schneidergasse.\nBruckner, Heinrich, Handelsmann. 1174 Freie Straße.\nBruckner, Abraham, Diakon zu St. Leonhard. 693 Auf d. Kirchhof.\nBrüderlin, Niklaus, Tuchhandlung. 1644 Markt.\nBrüderlin, Adam sel., Wittwe (Zuckerbäckerei). 575 Schneidergasse.\nBrunner-Scholer, Jos. 1333 St. Alban-Vorstadt.\nBrunner, Phil., Schreiner. 872 Thorsteinen.\nBrunner, Daniel, Schneider. 678 Hinteres Gerbergäßlein.\nBryner, Felix, Seidenfärber. 785 Vordere Steinen-Vorstadt.\nBücher, Joh., Schuhmacher. 472 Oberer Spahlenberg.\nBühl-Jenny, Georg Fr., Straßenpflasterer. 338 Fröschgasse.\nBueß, Cath., Jungfer, Bettmacherin. 1007 Aeschen-Vorstadt.\nBueß, J. J., Fabrikaufseher. 993 Aeschen-Vorstadt.\nBulacher, Emanuel, Metzger. 608 Schnabelgäßlein.\nBulacher, Niklaus, Metzger. 1104 Streitgasse.\nBurckhardt, J. Friedrich, Goldschmid. 1577 Sporrengasse.\nBurckhardt, J. Rud., der Theologie Dr., Lehrer am Gymnasium.\n  1477 Augustinergasse.\nBurckhardt, Elias, Rathsherr. 376 St. Leonhardsgraben.\nBurckhardt, Jakob, Antistes. 1405 Münsterplatz, Pfarrhaus.\nBurckhardt, Abraham, Weißbeck. 1027 Aeschen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9157,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2299,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:52:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p089",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p089.jpg",
+      "bytes": 990519,
+      "sha256": "a4b8383e3bca8a5b310e3ca16fce56784cb84c0be54358f74f8bae344f3f3ee5",
+      "sha256_of": "original",
+      "working_copy": "1841_p089.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:35+00:00"
+  }
+}

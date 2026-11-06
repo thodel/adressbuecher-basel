@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p006",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p006.jpg",
+    "bytes": 1154722,
+    "sha256": "9c91a9d642121bca44f15b56052f2592694ef123f7446fa68ad68772bb6cd3cf",
+    "sha256_of": "original",
+    "working_copy": "1850_p006.jpg"
+  },
+  "text": "[handschriftlich: Brand Versicherungs Comn]\n\nNeues\nAdressen - Buch\n(Nummernbüchlein)\nder\nStadt Basel.\n\nHerausgegeben\nvon\nJ. C. Wölfflin.\n\n[handschriftlich: H 43]\n\nBasel 1850.\nDruck von J. W. Baur sel. Erben.\n\n[stempel: Staatsarchiv\nBasel-Stadt] [stempel: KATALOG]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3930,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 263,
+    "lines": 14,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 17.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0076,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:06:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p006",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p006.jpg",
+      "bytes": 1154722,
+      "sha256": "9c91a9d642121bca44f15b56052f2592694ef123f7446fa68ad68772bb6cd3cf",
+      "sha256_of": "original",
+      "working_copy": "1850_p006.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:57+00:00"
+  }
+}

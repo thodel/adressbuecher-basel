@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p071",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p071.jpg",
+    "bytes": 1265076,
+    "sha256": "5a48891578ef1bc32fb8ee34b1c36f4a4d628972edcf61586d1a2888f49740e4",
+    "sha256_of": "original",
+    "working_copy": "1862_p071.jpg"
+  },
+  "text": "6\nAeschengraben.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n13 | IV. | 220 A | | Zahn=Kognon, Eduard.\n14 | IV. | 998 D | | Zahn=Kognon, Eduard, Kaufmann.\n| | | | Witzig=Bovet, David.\n| | | | Witzig=Bovet, David, Lehrer.\n| | | | Scherb=Baumann, Jak. Adam, Bureau\n| | | | f. techn. Liter. (Verlagsbuchhandlg.)\n| | | | Specker=Meyer, Maria Dorothea. Wb.\n| | | | Soifftmann-Hifferich, Ferdin., Cantor\n| | | | und Musiklehrer.\n| | | | Loz=Baune, Adolf, Commis.\n16 | IV. | 998 E | | Lüscher=Stapfer, Carl.\n| | | | Lüscher=Stapfer, Carl, Kaufmann.\n| | | | Stapfer, Wb. Barbara, Partikular.\n17 | IV. | 219 | | Grimm=Schneider, Christian.\n| | | | Grimm=Schneider, Christ., Dr. med.\n| | | | Schneider=Frey, Wb. Elisab., Part.\n21 | IV. | 218 | | Boelger=Hindermand, Markus.\n| | | | Boelger=Hindermand, Markus, Theilh.\n| | | | der Firma Markus Boelger.\n24 | IV. | 998 F | | Kaltenmeyer=Kircher, Jakob.\n| | | | Kaltenmeyer=Kircher, Jak., Baumeister.\n| | | | Kircher=Merian, Jak., Partikular.\n| | | | Bernoulli-Bernoulli, Wb. Soph., Part.\n25 | IV. | 217 | | Frey=Thurneisen und Christ.\n| | | | (Zettlerei und Winderei.)\n| | | | Bujer Eduard, Feger.\n27 | IV. | 216 C | | Grether=Scholer, F. F.\n| | | | Grether=Scholer, Joh. Jak., Kfm.\n| | | | F. Grether u. Comp., Band und Mode=\n| | | | Artikel.\n| | | | Mylius, Jonas Carl, Architekt.\n28 | IV. | 991 | | Delhafen, Sam., Mechan.\n| | | | Dreifus u. Söhne, Jaaß, Bandfabrike.\n29 | IV. | 216 B | | Kaufmann=Burchhardt, Joh.\n| | | | Kaufmann=Burchhardt, Joh., Wein- und\n| | | | Spirituosenhandlung.\n| | | | Kaufmann, Carl, Commis.\n| | | | Déjofez=Hofer, W., Architekt.\n30 | IV. | 991 A | | Delhafen, Sam., Mechan.\n| | | | Chèvre=Dinger, Joseph, Dessinateur.\n32 | IV. | 971 A | | Gasquet-Siegrift, Friedr. Wilh.,\n| | | | Zimmermeister.\n37 | III. | 202 B | | Meyer=Müller, Joh.\n| | | | Meyer=Müller, Joh., Partikular.\n| | | | Gyffendörffer Heinr., Kanzleisekretär.\n| | | | Simmen=Becker, J. Heinr., Kaufmann.\n39 | III. | 202 C | | Zselin=LaRoche, Dan. Ludw.\n| | | | Zselin=LaRoche, D. Ludw., Kaufmann.\n41 | III. | 202 D | | Merian=Röchlin, Eduard.\n| | | | Merian=Röchlin, Eduard, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7249,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2171,
+    "lines": 61,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:28:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p071",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p071.jpg",
+      "bytes": 1265076,
+      "sha256": "5a48891578ef1bc32fb8ee34b1c36f4a4d628972edcf61586d1a2888f49740e4",
+      "sha256_of": "original",
+      "working_copy": "1862_p071.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:51+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p017",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p017.jpg",
+    "bytes": 891339,
+    "sha256": "df9e870f8fe59bb49fb4eef1be8f7d2e056d6e65b70f191ec7f83750970f5534",
+    "sha256_of": "original",
+    "working_copy": "1841_p017.jpg"
+  },
+  "text": "10\nNro.\n242 a Falkner, Joh. Ludwig, Med. Dr. sel. Wittwe.\nWerthemann = von der Mühl, Kaufmann.\n242 b Merian = Legrand, Peter, Kaufmann.\n243 * Pfarrhaus. — La Roche, Simon, Pfarrer bei St. Peter.\nKaltfellergäßli.\n244 * Pfarrhaus. — Wick, J. J., Diacon.\n245 u. 246 Ochs, Anna Elisabetha.\n247 * a Altes Schulhaus. Lok, Christian, Schneider.\nSt. Petersplaz.\n247 b Burckhardt-Forkart, Ludwig, Kaufmann.\n248 * Werthemann-Burckhardt, Benedikt, Kaufmann.\n249 a Werthemann-Burckhardt, Kaufmann.\n249 b Burckhardt-Forkart, Daniel, Kaufmann.\n250 Lindner, Jungfer S. E. geh.\nJfelin=Jfelin, Abraham.\n251 a Pfannenschmid, Joh. Jakob, Bergolder.\nMartin, Franz, Kaufmann.\nMarolf, Franz Karl, Schreiblehrer.\n251 b Respinger, Leonhard, Kaufmann.\n252 Ryhiner, Benedikt, Hauptmann.\n253 a Herpberger, Jungfer Elisabetha.\nHerpberger, Barbara, Lehrerin an der Petersschule.\n253 b Lichtenhahn, Karl, alt Stadtrath.\nSt. Petersgraben.\n254 Hoffmann, Jungfer M. Salomea.\n255 Keller=Paravicini, Jakob, Eisenhändler.\n256 Jäsch, geb. Paravicini, Wittwe. (Firma Jäsch=Paravicini,\nEisenhandlung.\nHandmann, geb. Jfelin.\nNeue Vorstadt.\n257 a Markgr. Hof, dem Spital geh.\nKelterborn, Ludwig Adam.\n257 b Bienz, Jakob, Schreiner.\nStocker, Anton, Chorist.\nKappeler, Chr. F., Jerger.\n257 c Burckhardt=Jfelin, Jer., geh.\nHummel, Joh., Kutscher.\n258 Hubel, G. R., Schreiner.\n259 a Frei, Hans Ulrich, Schreiner.\nWackernagel, Wilhelm, Professor der Philosophie.\n259 b Huber, Marcus de Joh. Ant.\n260 Stähelin=Bonhorst, Balth., Kaufmann.\n260 a Spreng=Heusler, Emanuel, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4541,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1531,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p017",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p017.jpg",
+      "bytes": 891339,
+      "sha256": "df9e870f8fe59bb49fb4eef1be8f7d2e056d6e65b70f191ec7f83750970f5534",
+      "sha256_of": "original",
+      "working_copy": "1841_p017.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:24+00:00"
+  }
+}

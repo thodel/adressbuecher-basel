@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p024",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p024.jpg",
+    "bytes": 1090907,
+    "sha256": "4279b88b501a9761478a399ceee99af4efb1f47651b8f9eef6c2e9275d7d7d5b",
+    "sha256_of": "original",
+    "working_copy": "1850_p024.jpg"
+  },
+  "text": "St. Johann= und Spahlen=Quartier. 13\n271 (Zuchthanftalt) Hofmann, Heinr., Hausmeifter.\n    Müller, Joh. Jak., Profos.\n272 (Salzhaus) obrigkeitlich.\n    (Französische Kirche) obrigkeitlich.\nA 272 Herzog, Eml., Siegrift bei der franz. Kirche.\nIm Kloster.\nB 272 Billard, Emil, franz. Pfarrer.\nLottergaffe.\n272½ Obrigkeilich.\n273 Witsch, Gottlieb, Fuhrhalter.\nB 273 Bandfabrike von Freyvogel u. Heusler.\nA 274 Bolly, Melchior, Appretcur.\nB 274 Fäsch, Joh. Balth., Rentier.\n275 Kiefer, Jungfrau Annette, Partikularin.\n    Huber, Wittwe, geb. Berenet, Rentière.\n    Würslin, Gustav, Commis.\nB 275 Müller-Stähelin, Joh., Steinmeß.\nC 275 Obrigkeilich.\nD 275 Göttin, Jak., Profos.\nF 275 Kleinwicz, Mechanikus.\n    Bahnhofgebäude.\n    Schachenmann, F. C., Eisenbahnbeamter.\nSpahlen=Quartier.\nZeughaus: Graben.\n276 (Zeughaus) obrigkeitlich.\n277 Sauerbrey, Valentin, Zeugwart.\n278 Bloch-Ründig, sel. Wittwe.\n    Werenfels, Fz., Wagner.\n279 Uebelin, F. F., Bauschreiber.\nSpahlen-Vorstadt.\n280 (Kornhaus) obrigkeitlich.\n281 Ernst-Hug, Friedrich, Ferger.\n    Siegrift, Wittwe, Anna Maria geb. Beckel.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3802,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1085,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p024",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p024.jpg",
+      "bytes": 1090907,
+      "sha256": "4279b88b501a9761478a399ceee99af4efb1f47651b8f9eef6c2e9275d7d7d5b",
+      "sha256_of": "original",
+      "working_copy": "1850_p024.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:14+00:00"
+  }
+}

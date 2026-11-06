@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p157",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p157.jpg",
+    "bytes": 892038,
+    "sha256": "05ebffbd238527adcb62c1370acacf998dd1a6405a637ea5c6e20c35ed5b73ee",
+    "sha256_of": "original",
+    "working_copy": "1850_p157.jpg"
+  },
+  "text": "144\n234 A. Bayhinger-Wick . Carl Albert Bayhinger-\nWick.\nAugust Hoenes, Procu-\nraträger.\nB.\n1446 Gebrüder Wahre. . Philipp Wahre.\nCarl Wahre.\n803 Waldner & Stä-\nhelin Heinrich Waldner.\nSamuel Stähelin.\n112 Friedrich Walz . Friedrich Walz.\n1721 Hr. Wenk-Brandmüller Heinrich Wenk-Brand-\nmüller.\n947 A. Werthemann u.\nSohn Andr. de Ben. Werthe-\nmann.\nJoh. Heinrich Walter,\nProcuraträger.\n3.\n1491 C. Zäslein-Falkeisen. Conr. Zäslein-Falkeisen.\n333 Joh. Zäslein . Joh. Zäslein-Strekeisen.\n22A Zäslein & Bau-\nmann Emanuel Zäslein.\nVictor Baumann.\n224 A. Zimmerlin . Friedrich August Zim-\nmerlin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 2378,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 589,
+    "lines": 27,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 20.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0051,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p157",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p157.jpg",
+      "bytes": 892038,
+      "sha256": "05ebffbd238527adcb62c1370acacf998dd1a6405a637ea5c6e20c35ed5b73ee",
+      "sha256_of": "original",
+      "working_copy": "1850_p157.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:37+00:00"
+  }
+}

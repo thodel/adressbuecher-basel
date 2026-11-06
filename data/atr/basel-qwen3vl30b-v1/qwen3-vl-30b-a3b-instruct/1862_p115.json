@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p115",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p115.jpg",
+    "bytes": 1255943,
+    "sha256": "4c7e2d48c47e67feacc1c9e6479021c5f114a1b52c417888611570d2bfdeb102",
+    "sha256_of": "original",
+    "working_copy": "1862_p115.jpg"
+  },
+  "text": "50 Gellertstraße. — Gemöberg. — Gerbergasse.\nNeue Haus=Kr | Quar= tier. | Alte Haus=Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n46 | V. | 265 | | Debary, J., und Söhne. (Arbeiterwohnung.)\n47 | V. | 276 | | Debary, J., und Söhne. Böcklin-Lippe, Friedr., Fabrikdirector.\n48 | V. | 266 | | Debary, J., und Söhne. (Arbeiterwohnung.)\n49 | V. | 277 | | Debary, J., und Söhne. (Fabrikgebäude.)\n52 | V. | 274 A. | | Friedrich, Leonhard.\nGemöberg.\n1 | VI. | 608 | zum Pflug. | Hegner=Schneider, Stephan.\n| | | | Schneider=Wagner, Martin, Part.\n| | | | Krause=Huber, Niklaus, Schneider.\n| | | | Hollinger=Grimm, Friedr., Pintenwirth.\n2} | II. | 416 | zum Löwen Zorn. | Noeklin=Langmeffer, Joh. Ulrich.\n4} | | | | Noeklin=Langmeffer, J. U., Kaufmann.\n| | | | Firma: Langmeffer jünger.\n| | | | Imhof=Bell, Samuel, Commis.\n5 | VI. | 415 | zum grünen Helm. | Baur, Samuel, Sohn.\n| | | | Baur, Samuel, Maler.\n| | | | Baur=Gysin, Sam., Kanzlei-Secretär.\n| | | | Halle-Hoffmann, Hermann, Agentur f. Band- und Seidewaaren.\n| | | | Schirrmeister=Kling, Carl, Commis.\n6 | II. | 417 | zum dürren God. | Merian=Miville, Wb. Rosine Elisabeth sel., Erben.\n| | | | Merian, Emanuel, Apotheker.\n| | | | Merian, Jgfr. Anna Cath., Part.\n7 | VI. | 414 | zum Gemöberg. | Comité der Freunde Israels.\n| | | | Hemann=Bauer, David, Profesitenlehrer.\n8 | II. | 418 | zum Liebenstein. | Seul=Guggenmos, J. Christian.\n| | | | Seul=Guggenmos, J. Chr., Lithograph.\n| | | | Brunner=Ernst, Christian, Holzhändler.\n| | | | Wiesner=Müller, Samuel, Schuhmacher.\n9 | VI. | 420 | zur Scheuren. | Grüninger, Johann Anton.\n| | | | Grüninger, Joh. Anton, Küfermeister.\n| | | | Roth, Joh. Christoph, Agent.\n| | | | Schwarzenbach=Wybert, Heinr., Musiker.\n11 | VI. | 421 | | Burchardt=Ründig, Wb. Maria Ros. (Magazin.)\nGerbergasse.\n1 | VI. | 1645 | zum Stern. | Lang, Alois.\n| | | | Lang, Alois, Restaurateur.\n| | | | Ryser, Caspar, Hafner.\n| | | | Denicola=Moretti, Peter Paul, Glaser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6802,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1955,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p115",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p115.jpg",
+      "bytes": 1255943,
+      "sha256": "4c7e2d48c47e67feacc1c9e6479021c5f114a1b52c417888611570d2bfdeb102",
+      "sha256_of": "original",
+      "working_copy": "1862_p115.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:44+00:00"
+  }
+}

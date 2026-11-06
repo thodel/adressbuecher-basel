@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p018",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p018.jpg",
+    "bytes": 1447042,
+    "sha256": "1b966bafb712d62de329861226269575818b086f2f225079ffd7966bd361cf61",
+    "sha256_of": "original",
+    "working_copy": "1862_p018.jpg"
+  },
+  "text": "Lehr- und Schulanstalten.\nXV\nKommission für die botanische\nAnstalt.\nHr. Prof. C. Fr. Meisner, Präsident.\nKommission für die mittelalterliche\nSammlung.\nHr. Prof. Wilh. Wackernagel, Präsident.\nPedell: Hr. Emanuel Beck.\n2. Pädagogium.\nDie Lektionen werden theils von den Professoren der philosophischen Fakultät,\ntheils von angenommenen Lehrern ertheilt.\n3. Gewerbeschule.\nRektor: Herr Friedrich Autenheimer.\nHr. Prof. Franz Girard, Ph. D.\n\" \" Ludw. Rütimeyer, M. et Ch. D.\n\" \" Balth. Reber, Ph.D.\n\" \" Friedrich Becker.\n\" \" Heinrich Mosley.\n\" \" Hermann Kinkelin.\n\" \" Alfred Maul, Turnlehrer.\n\" \" Felix Bertholet (zur Aushilfe).\n4. Humanistisches Gymnasium.\nRektor: Hr. Joh. Rud. Burckhardt, Ph. D.\nHauptlehrer:\nHr. Daniel Alb. Fechter, Ph.D., Conrektor.\n\" Remigius Meyer, Ph. D.\n\" Heinrich Meyer, V. D. M.\n\" Theophil Burckhardt.\n\" Friedrich Burckhardt, Ph. D.\n\" Friedrich Ifelin.\nHilfslehrer.\n\" Ludw. Adam Kelterborn, Zeichnungslehrer.\n\" Ernst Hauschild, Ph. D., Gesanglehr.\n\" Felix Bertholet, franz. Sprachlehrer.\n\" Joh. Martin Hübscher, Schreiblehrer.\n\" J. J. Bernoulli, Ph. D.\n\" Theodor Hoch, S. M. C.\n\" Karl Rienle.\nBikar:\n\" Karl Grüninger.\n5. Realgymnasium.\nRektor: Herr Wilh. Rumpf, S. M. C.\nHauptlehrer:\nHr. Remigius Meyer, Ph. D. et S. M. C.\n\" Karl Zimmermann, Ph. D. et V. D. M.\n\" Wahrmund Hef, S. M. C.\n\" Ludwig Georg, Ph. D.\n\" Jakob Achilles Mähly, Ph. D.\nHilfslehrer:\nHr. Joh. Jakob Schäublin.\n\" Ludwig Adam Kelterborn, Zeichnungslehrer.\n\" Alfred Maul.\n\" Ludwig Sieber.\n\" François Recordon.\n\" Gotthold Eglinger.\nBikare:\n\" Ferdinand Baumgartner.\n\" August Jenny.\n6. Realschule.\nRektor: Herr Heinrich Frey, S. M. C.\nHauptlehrer:\nHr. Carl Buxtorf, Ph. D. et S. M. C.\n\" Joh. Jakob Buxinger.\nHilfslehrer:\n\" Franz Carl Marolf, Schreiblehrer.\n\" Ludw. Adam Kelterborn, Zeichnungslehrer.\n\" Carl Bernoulli.\n\" Christoph Lotz, V. D. M.\n\" Friedrich Meißner.\n\" Johannes Rägi.\n\" Hieronimus Best, S. M. C.\n\" Friedrich Wilh. Jenny.\n7. Allgemeine Töchterschule.\nRektor: Hr.\n\" Friedrich Caumont, Hauptlehrer.\n\" Chr. Fr. Cherbuin, V. D. M., Hauptlehrer.\n\" Franz Hörler, S. M. C., Hilfslehrer.\n\" Dr. Jak. Balmer, Hilfslehrer.\n\" Rudolf Löw, Gesanglehrer.\n\" Pfr. Samuel Barth, Religionslehrer.\n\" Franz Carl Marolf, Schreiblehrer.\n\" C. H. Geelhaar, Zeichnungslehrer.\n\" Prof. Joh. Riggenbach, Lehrer an der 5ten Klasse.\n\" Dan. Ecklin, M. D., Turnlehrer.\nFrau Ramus, Hauptlehrerin.\n\" Pfarrer Hef, Hauptlehrerin.\nJgfr. Katharina Neischacher, Hauptlehr.\n\" Julie Krug, Hilfslehrerin.\n\" Celest. Billars,\n\" Dorothea Imhof,\n\" Susanna Schmidt,\n\" Marie Renz,\n\" Sophie Hef,",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7599,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2546,
+    "lines": 94,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0532,
+    "mean_line_chars": 26.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p018",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p018.jpg",
+      "bytes": 1447042,
+      "sha256": "1b966bafb712d62de329861226269575818b086f2f225079ffd7966bd361cf61",
+      "sha256_of": "original",
+      "working_copy": "1862_p018.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:03+00:00"
+  }
+}

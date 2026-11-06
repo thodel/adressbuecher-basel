@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p016",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p016.jpg",
+    "bytes": 1444944,
+    "sha256": "b4d55ff21ba902f1b51e65ba7ff16c9e05de761b934807e94102a9c0bf84d359",
+    "sha256_of": "original",
+    "working_copy": "1862_p016.jpg"
+  },
+  "text": "Behörden und Beamte. XIII\n\nKriegsgericht.\nHr. Major Rud. Burckhardt, Großrichter.\n„ Oberstlt. Aug. Burckhardt, Richter.\n„ eidg. Oberst Sam. Bachofen, Richter.\n„ Hauptm. Aug. Raillard, „\n„ Commandant Albert Lotz, „\n„ Hauptm. Hans Burckhardt, J. U. D.,\n  Suppleant.\n„ Ed. Bischoff, Suppleant.\n„ Major Em. Burckhardt, J. U. D.,\n  Oberauditor.\n„ Hauptm. J. J. Heimlicher, J. U. D.,\n  Auditor.\n„ Lieut. Andr. Schaub, J. U. D., Ge-\n  richtsschreiber.\nDienstbotenrichter.\nHr. Notar Andreas Schaub, J. U. D.\n\nBezirks-Gerichte.\nBezirk Basel.\nCivilgericht.\nHr. Prof. Joh. Schnell, J. U. D., Prä-\n  sident.\n„ Ed. Bernoulli-Riggenbach, Statthalt.\n„ Aug. Bischoff-Fürstenberger.\n„ Heinrich Merian-VonderMühll.\n„ Friedr. VonderMühll-Vischer.\n„ Elias Burckhardt, J. U. D.\n„ Benedikt Stähelin-Linder.\n„ Christoph Ronus-VonSpeyr.\n„ Johannes de Leonhard Bernoulli.\n„ Rud. Geigy-Merian.\n„ Albert Bischoff-Sarasin.\n„ Ed. Preiswerk-Burckhardt.\n„ Adolf Burckhardt-Bischoff.\nSuppleanten.\nHr Andr. Heußler-Sarasin, J. U. D.\n„ Eduard Bruckner-Merian.\n„ Adolf Burckhardt, J. U. D.\n„ Ferdinand Labhardt.\nHr. Hermann Christ, J.U.D., Gerichtsschreiber.\n„ Fritz Bernoulli, Subst. d. Gerichtsschreib.\n„ J. J. Schwob, Amtmann.\n„ B. D. Rumpf, „\n„ Bened. Haga, „\nKonrad Liebrich, Weibel.\nJakob Zuber, Gantrufer.\n\n[spalte 2]\nBaugericht.\nHr. Christ. Riggenbach, Architekt, Prä-\n  sident.\n„ Rud. Bischoff-Merian, Statthalter.\n„ Joh. Müller, Maurermeister.\n„ Friedrich Lotz, Zimmermeister.\n„ J. J. Awengen, Architekt.\n„ Carl Ryhiner-Bischoff.\n„ August Raillard-Stähelin.\n„ Wilhelm Müller, Sohn.\n„ Andreas Heußler-Sarasin, J. U. D.\nSuppleanten.\nHr. Friedr. Frey, Maurermeister.\n„ Josua Lester, Zimmermeister.\nHr. Aug. Kündig, J.U.D., Gerichtsschreiber.\nGeorg Meyer, Weibel.\n\nGescheidsgericht der mehrern\nStadt.\nHr. Alfred VonderMühll - Fürstenberger,\n  Präsident.\n„ Wilh. Burckhardt-Preiswerk, Statth.\n„ Emil Thurneysen-Merian.\n„ Wilh. Müller, Sohn, Schreiber.\n„ Joh. DeBary, Sohn.\n„ Rud. Oser-Thurneysen\n„ Friedr. Vischer-Bischoff.\n„ Rud. Gemuseus-vonBrunn.\n„ Dr. August Heußler.\nJ. Bürgin, Martin Schneider, Theodor\n  Jäggi, Bannwarte.\n\nGescheidsgericht der mindern\nStadt.\nHr. Aug. Schäfer-Euler, Präsident.\n„ August Raillard - Stähelin, Statt-\n  halter.\n„ Andreas Braun-Geßler.\n„ Franz Hindermann.\n„ Carl Heußler-Wegner.\n„ Albert Lotz.\n„ David Urech, Schreiber.\n„ Rud. Krauer.\n„ Rud. Bienz-Oeschger.\nHans Holzach, Carl Falkner, Bannwarte.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8437,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2402,
+    "lines": 91,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.033,
+    "mean_line_chars": 25.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:26:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p016",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p016.jpg",
+      "bytes": 1444944,
+      "sha256": "b4d55ff21ba902f1b51e65ba7ff16c9e05de761b934807e94102a9c0bf84d359",
+      "sha256_of": "original",
+      "working_copy": "1862_p016.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:42+00:00"
+  }
+}

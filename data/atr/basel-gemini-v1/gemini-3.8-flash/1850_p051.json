@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p051",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p051.jpg",
+    "bytes": 911632,
+    "sha256": "dc1ac8905b80276e5c17155312f9c7c03dd9239c56728876bce82f05eb87d57c",
+    "sha256_of": "original",
+    "working_copy": "1850_p051.jpg"
+  },
+  "text": "38 Steinen-Quartier.\n\nKlosterberg.\n\n839 (Steinenkloster) Kirchen- u. Schulgutsverw. geh.\nDavid, Heinrich, Verwalter.\nNidecker, Gg., Commis.\n\nHintere Steinen-Vorstadt.\n\n840 .Stöcklin, Hch., Posamenter,\n841 Ungerer, Achilles, Hafner. [handschriftlich: gestrichen] [handschriftlich: Marti Moser, Schreiner]\n842 Gysin, Konr., Handels-Commis.\nSpreyermann-Märklin, Wittwe, Elisab.\n843 Siegrist, Eml., Mezger.\n844 Müller, Johann Baptist, Hausknecht.\nPalmert, Caspar, Ferger.\n845 (Magazin) Stähelin, Gebrüder, gehörend.\n\nUnterer Klosterberg.\n\n846-47 Hug-Heußler, Wittwe Marie, Rentière.\nGrübler, Elisab., Hüppenbäckerin.\n848 Tschopp-Schwob, Johann, Handels-Commis, Beck.\n\nHintere Steinen-Vorstadt.\n\n849 Christen, Wittwe, Magd., Spezereihandlung.\n850 Schuler, Ad., Rothgerber.\nGlock, Rud., Agent bei der badischen Eisenbahn.\n851 Lichtenhahn-Holzach, Wittwe.\nSeidel-Fürstenberger, F., Fabrikant.\n\nThorsteinen.\n\n852-52A Schneider-Platter, Eml., Hufschmied.\nSchäublin, J. F., Lehrer.\nGermann, F. G., Nägelhandlung.\n853 Paravicini-Merian, Lud., Zimmermann.\nWahr-Sulzmann, F. Rentier.\nSchellenberg, Ludwig, Speditor.\n854 Bürgin, Joh. Heinr., Kerzen- und Seifenfabrikant.\nKern-Schmerber, Wittwe Louise.\n855 Bossart, Andreas, Liseur.\nMäglin, F., R., Spezereihandlung.\n856 Schweizer, Joh., Posamenter.\n857 Bürgin, J. F., Posamenter.\nA 857 Weibel, Hch., Apreteur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6564,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1345,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 34.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p051",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p051.jpg",
+      "bytes": 911632,
+      "sha256": "dc1ac8905b80276e5c17155312f9c7c03dd9239c56728876bce82f05eb87d57c",
+      "sha256_of": "original",
+      "working_copy": "1850_p051.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:20+00:00"
+  }
+}

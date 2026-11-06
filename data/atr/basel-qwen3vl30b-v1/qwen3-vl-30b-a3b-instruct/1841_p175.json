@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p175",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p175.jpg",
+    "bytes": 973844,
+    "sha256": "ff110223933120999e815df1515b4057dbfd6b7a371b019c8954ceb63f2cd8cd",
+    "sha256_of": "original",
+    "working_copy": "1841_p175.jpg"
+  },
+  "text": "— 22 —\n\nD.\nDavid, Johannes, zum schwarzen Adler. 348 Ochfengasse.\nDavid, Rudolf, Schuhmacher. 276 Untere Rebgaſse.\nDavid, Georg, Sohn, Meßger. 100 Am Lindenberg.\nDickenmann, Cam., Lohnamtsarbeiter. 28 Rheingasse.\n\nE.\nEßlin, Joh. Heinr., Auffeher in der Armen-Anſtalt. 312\nIm Klingenthal.\n\nF.\nFuchs, Urs, v. Frenkendorf, Rheinknecht. 131 Unt. Kirchgäklein.\n\nG.\nGaf, Joh., Fabrikarbeiter. 357 Sägergäklein.\nGengenbach, Joh. Em., Rand. d. Theol. 111 Rheinweg.\nGyßler, geb. Blech, M. Magd., Wittwe. 186 Rebgaſse.\nGlunz, Geschwister, Schneiderinnen und Matraken-\nmacherinnen. 240 Ochfengasse.\nGoschweiler, J. U., Fabrikauffeher. 382 Krempergaſse.\nGraf, Johannes, Maler. 68 Rheingasse.\nGrether, Mathias, Apotheker. 224 Greifengasse.\nGrunauer, Fried., Handels-Commis. 295 Webergasse.\nGrunauer, Sebastian, Sperr-Einnehmer. 206 A. Rebgaſse.\n\nH.\nHalder, Franz Jof., von Stetten, Gerbergeſell. 426 Udengasse.\nHaldy, Joh., zweiter Real-Lehrer, von Saanen. 249 A.\nTeichgäklein.\nHaupt, Leonh., v. Buchs, K. Zürich, Straßenpflasterer.\n287 Webergasse.\nHenz-Felber, J. J., Mehlwäger. 227 Greifengasse.\nHef, Andreas, Alt-Steinenmüller. 422 Udengasse.\nHeußler, Abraham, Dr. der Theol., Lehrer am Gym-\nnasium. 176 Rebgaſse.\nHolinger, Heinrich, Hausknecht. 367 Untere Rheingasse.\nHörler, Franz, Cand. der Theol. 389 Krempergaſse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4396,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1308,
+    "lines": 34,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0023,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:02:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p175",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p175.jpg",
+      "bytes": 973844,
+      "sha256": "ff110223933120999e815df1515b4057dbfd6b7a371b019c8954ceb63f2cd8cd",
+      "sha256_of": "original",
+      "working_copy": "1841_p175.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:42+00:00"
+  }
+}

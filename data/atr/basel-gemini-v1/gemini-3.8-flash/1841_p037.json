@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p037",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p037.jpg",
+    "bytes": 884442,
+    "sha256": "5c44eec31dcd25d8c43aa03fd81bf327ba09dac072c581edaee2dc113ee5571f",
+    "sha256_of": "original",
+    "working_copy": "1841_p037.jpg"
+  },
+  "text": "30\n\nNro.\n794 Zimmermann, Gabriel, Taglöhner.\n795 Grauer, Rudolf, Müller.\n\nVordere Steinen-Vorstadt.\n\n796 * Imhof, Roschet, J. J.\n797 * Weitnauer, Joachim, Tapezierer.\n  Weitnauer, Friedrich, Schreiner.\n  Müller-Weitnauer, Joh. Jakob, Kaufmann.\n798 David, Emanuel, Lohnwascher.\n799 Mast, Mathias, Seidenfärber.\n  Haas, J. J., Schriftgießer.\n  Martin, Heinrich, Flachmaler.\n800 Faust, Caspar, von Sewis.\n801 Bidert, Joh., Schriftgießer.\n802 Burckhardt-Respinger, Albrecht, Rathsherr.\n803 Waldner, Heinrich, Bandfabrikant.\n  Herzog, Eman., Kaufmann. (Firma: Herzog u. Waldner.)\n804 Gysin, Jakob, Weißbeck.\n  Rumpf, Frau Pfarrer, geb. Hoch.\n805 Schöck, geb. Gertrud Henz, Spezereihandlung.\n\nSteinenbruck.\n\n806 Brändlin, geb. Falkeisen, Salomea. (Seidenfärberei.)\n807 Blattner, Heinrich, Müller.\n808 u. 809 Stöcklin, Leonhard, Posamentier.\n810 * Fäsch, geb. Landerer, Salomea.\n  Garnaus, geb. Cath. Felber, Wittwe.\n\nVordere Steinen-Vorstadt.\n\n811 Feierabend, Peter, Schuhmacher.\n812 Schuler, Conrad, Metzger.\n813 } Arnz, Peter, Gottl., Tuchhändler u. Färber.\n813 a }\n814 Bonnet, geb. Süß, Anna Maria.\n  Weiß, Adam, Wirthschaft.\n  Beck, Jakob, Stadttambour.\n815 * Böhrlin, J., Posamentstuhlmacher, geh.\n816 * Zunft zu Webern. — Elsner, J. H., Stubenverwalter.\n817 Binz, Ulrich, Fabrikferger.\n818 * Gysin, J. Peter, Küfer.\n\nKurzer Steg.\n\n819 Knellwolf, Peter, Partikular.\n  Fäsch, Joh. Jakob, Schneider.\n820 Schmid, geb. Lotz, Helena, Wittwe.\n  Stöcklin, Leonhard, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6509,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1470,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 31.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p037",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p037.jpg",
+      "bytes": 884442,
+      "sha256": "5c44eec31dcd25d8c43aa03fd81bf327ba09dac072c581edaee2dc113ee5571f",
+      "sha256_of": "original",
+      "working_copy": "1841_p037.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:17+00:00"
+  }
+}

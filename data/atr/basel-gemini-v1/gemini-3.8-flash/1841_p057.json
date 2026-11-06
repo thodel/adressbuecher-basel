@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p057",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p057.jpg",
+    "bytes": 902557,
+    "sha256": "19b0503a033ae1a532081d17bc0e2de9754d28acaddd7f8e52c2615c3e0c3450",
+    "sha256_of": "original",
+    "working_copy": "1841_p057.jpg"
+  },
+  "text": "50\n\nNro.\n1397 Steinmann, Georg Friedrich, Schneider.\n1398 Bifelder, Peter, Fabrikarbeiter.\n1399 Roth, Christoph, Schneider.\n1400 Buser, Dorothea, Jungfer.\n1401 * Münch, Heinrich, Schlosser, geh.\n\nMünsterplatz.\n\n1402 Burckhardt, Eduard.\n  Merian, Peter, Rathsherr.\n1403 * Dem Kanton gehörend.\n  Schneider, Andr., Präparateur und Abwart im Museum.\n1404 Merian-Merian, Samuel.\n1405 * Pfarrhaus. Burckhardt, Jakob, Antistes.\n1406–1411 * Obrigkeitliche Fruchtspeicher.\n1412 * Münsterkirche.\n1413 * Schnell-Früh, E., Sigrist.\n1414 Weber, Conrad sel., Wittwe.\n\nSpitalsprung.\n\n1415 Duthaler, Ferd., Fabrikarbeiter.\n1416 Bürgy, Jakob, Kutscher.\n1417 Geigy-Preiswerk, Carl, Droguerie.\n1418 Riedtmann, Emanuel, Kaufhausgehülfe.\n1419 Weitstich, Joh., Uhrenmacher.\n\nFreie Straße.\n\n1420 Bernoulli, Emanuel, Manufakturwaarenhandlung.\n  Bernoulli, C., Jungfer.\n1421 Müller, Conrad, Schuhmacher.\n1422 Von Speyr, Sus., geb. Bernoulli, Wittwe.\n  Von Speyr, Carl, Dr., Notar.\n  Von Speyr, Johannes, Handelsmann.\n1423 Jenny-Erlacher, Nikol.\n  Matzinger, Bernh., Handels-Commis.\n1424 Day, J. B., Tapezierer.\n  Heusler, Christoph, Kaufmann.\n1425 * Zunft zum goldenen Stern.\n  Schabelitz, J. C., Buchbinderei und Buchdruckerei,\n  Schreibmaterialien-, Buch- und Kunsthandlung.\n1426 Brenner-Guéniard, J. J., Seidenwaarenhandlung.\n1427 Schmid, Joh. Heinrich, Handels-Commis.\n1428 Schmidlin, J. J., Spengler.\n1429 Grether, Daniel, Metzger sel., Wittwe.\n  Grether, Math., Apotheker.\n1430 Rumpf-Müller, Carl Christ., Commis.\n1431 Bienz, Nikl., Perrückenmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10194,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1530,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:48:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p057",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p057.jpg",
+      "bytes": 902557,
+      "sha256": "19b0503a033ae1a532081d17bc0e2de9754d28acaddd7f8e52c2615c3e0c3450",
+      "sha256_of": "original",
+      "working_copy": "1841_p057.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:42+00:00"
+  }
+}

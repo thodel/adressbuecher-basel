@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p147",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p147.jpg",
+    "bytes": 929606,
+    "sha256": "29bc60c50c222fba3c91880780cb8d1b5340e5fdf2a30edb11e7dbf89c45790f",
+    "sha256_of": "original",
+    "working_copy": "1850_p147.jpg"
+  },
+  "text": "134\n\n1207 Frey, Thurneisen\n  & Christ . . Adolf Christ.\n  Emil Thurneysen.\n1160 J. J. Frey . . . Wittwe Gengenbach.\n  Gustav Gengenbach.\n1309 A Freyvogel &\n  Heußler . . Friedr. Freyvogel-Im-\n  hof.\n  Dan. Heußler-Iselin.\n1442 Abraham Früh an der Freien-\n  straße . . Eml. Ramsperger, Sohn.\n511 Hs. Georg Fürstenberger . Paul Simonius.\n  Commanditaires:\n  Frau Wittwe Fürsten-\n  berger-Debary.\n  August Bischoff-Fürsten-\n  berger.\n  Em. Burckhardt-Fürsten-\n  berger.\n  Alfred VonderMühll-\n  Fürstenberger.\n  Johannes Siegrist, Pro-\n  curaträger.\n\nG.\n\n1417 Joh. Rud. Geigy . . . Carl Geigy-Preiswerk.\n  Eduard Geigy.\n  Joh. Rohr-Schmidt,\n  Procuraträger.\n1600 Geigy & Bernoulli Leonhard Bernoulli-Bär.\n  Carl Geigy - Preiswerk,\n  Commanditaire.\n  Jakob Sprenger, Pro-\n  curaträger.\n1593 C. Gemuseus . . Carl Gemuseus.\n1177 Joh. Rud. Gemuseus . . Joh. Rudolf Gemuseus,\n  Sohn.\n1238 W. Gemuseus . . Wilhelm Gemuseus.\n*8 Andr. Geßler . . Andreas Geßler, Sohn.\n  Heinr. Oehl, Procuratr.\n1714 Emanuel Geßler . . Emanuel Geßler.\n827 Rudolf Geßler . . Rudolf Geßler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6626,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1058,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0476,
+    "mean_line_chars": 22.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p147",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p147.jpg",
+      "bytes": 929606,
+      "sha256": "29bc60c50c222fba3c91880780cb8d1b5340e5fdf2a30edb11e7dbf89c45790f",
+      "sha256_of": "original",
+      "working_copy": "1850_p147.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:58+00:00"
+  }
+}

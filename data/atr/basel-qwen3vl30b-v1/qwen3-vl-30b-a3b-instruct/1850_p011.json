@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p011",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p011.jpg",
+    "bytes": 1162733,
+    "sha256": "e7864647f7b0e59057412fe32fa8cf558c3c2685f6b838a0ae3b6b596e446141",
+    "sha256_of": "original",
+    "working_copy": "1850_p011.jpg"
+  },
+  "text": "Große Stadt.\nSt. Johann=Quartier.\nSt. Johann: Vorstadt.\nNº. 1 (St. Johannthor) Sulger, Rudolf, Sperer.\nA 1 Hübsher, C. Wilh., Zimmermeister.\nZimmermann, Carl, Cand., Gymnasiallehrer.\nLichtenhahn, F., Stucator.\nB 1 Hegar, Fr., Musikal.-, Instrum.- u. Clavier-Hdlg.\n2 Heusler-BonKilch, Wittwe.\nWydler-Heusler, Wittwe, Wirthschaft.\nHeim, Karl, Eisenbahnbeamter.\n3 Weisenburger, Joh. Jak., Weißbeck.\n4 Bischoff, Aug., Handels-Commis u. Spezerei-Hdlg.\n5 Hindenlang, Joh. Peter, Holzfeger.\n6 Rienzy, Patriz., Weißbeck.\nRiggenbach, F., Flachmaler.\n7 (Stallung.) Manz, Remigius.\n8 BonKilch, Joh., Wittwe, Weißbeck.\nA 9 Stohler, Heinrich, Ferger. Jos. Bengymlbund, Markant.\nKaufmann, Georg, Metzger.\nBC 9 Grollimund, F. F., älter, Posamenter.\nD 9 Grollimund, F. F., jünger, Posamenter.\nKappler, Dl. Fd., Eisenbahnangestellter.\n10 Remife.\n11 Schaffner, Friedrich, Wirth.\n12—13 Eßlin v. Mechel, Paul, sel. Wittwe, Rentière.\n14 Zäslin, Daniel, Waaren-Senfal.\nZäslin, Eml. Kaufmann. Comptoir in Nr. 22 A.\n15—16 Klipfel, Heinrich, Weinhandlung.\n17 Tschopp, Jakob, Kutscher.\n18 Lok, Rudolf's, Wittwe, Wascher.\nMüller-Kübler, Eisenbahn-Unterbestäter.\n19 Schoop, Carl Leonhard, Ferger.\nMiville, Joh. Fd., eidg. Zoller.\n20 Schaffner, Samuel, Kutscher.\nLükelmann, F. F., Kaufmann.\n21 Kocherhans, Johannes, MagazinKnecht.\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4368,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1303,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p011",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p011.jpg",
+      "bytes": 1162733,
+      "sha256": "e7864647f7b0e59057412fe32fa8cf558c3c2685f6b838a0ae3b6b596e446141",
+      "sha256_of": "original",
+      "working_copy": "1850_p011.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:20+00:00"
+  }
+}

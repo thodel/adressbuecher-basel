@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p075",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p075.jpg",
+    "bytes": 920057,
+    "sha256": "aaeb7e6390a749913f3ed9bf78866deec36abb8f40899f8a784f1ceb2133f157",
+    "sha256_of": "original",
+    "working_copy": "1850_p075.jpg"
+  },
+  "text": "62 St. Alban-Quartier.\n\n1382 (Gerichtsschreiberei) Schneider, Martin, J. U. D.\n  Notar, Gerichtsschreiber\n  Schneider, Julius, J. U. D., Appellations-Ge-\n  richtsschreiber.\n1383 Bernoulli-Obermeyer, D., J. U. D., Notar.\n  Bernoulli, Dl., Kaufmann.\n1384 Vest-Piton, Rudolf, Buchbinder.\n1385 Sutter-Ronus, Rudolf, Stofffabrikant.\n1386 Vest-Wenk, Joh. Bernh., Spezereihandlung.\n  Vest, Heinr., Sohn, Quartierschreiber.\n1387 Mislapp-Pöhls, Adolph, Commis.\n1388 Wendel, Anna Maria, Wittwe.\n  Bischoff, Peter, Seidenhandlung und Comptoir.\n1389 Heußler-Hegi, Wittwe.\n1390 Stössel, Rudolf, Kutscher.\n1391 Beurmann, Georg Fch., Handelsmann.\n  Schmied-Klotz, Xaver, Barbier. (Die Stube in\n  Nr. 1077.)\n1392 Beck-Kaiser, Wittwe, Weinschenke.\n1393 Bader, Adolph, Sattler.\n1394 Frey, Jungfrauen, Modistinnen.\n\nSpitalsprung.\n\n1395 Segisser, Lud., Weinsticher u. Détailladen.\n1396 Wertenberg, Ed., Spengler.\n1397 Meyer, Georg, Maurer.\n1398 Byfelder, Wittwe, Schachtelmacherin.\n1399 Häring, Joh., Conducteur.\n1400 Wirz, Jgfr., Franziska, Schneiderin [handschriftlich: gestrichen] [handschriftlich: Gehilfe der Schneider]\n1401 Roth, Abraham, Schlosser.\n\nMünsterplatz.\n\n1402 Burckhardt-Schrickel, Ed. de Leonh., Handelsmann.\n  Merian-Thurneisen, Peter, Phil. Dr. u. Professor.\n1403 (Mädchen-Realschule) Klein, Wilhelm, Vater und\n  Sohn, Lehrer.\n  VonSalis, Joh., Partikular.\n1404 Merian-Merian, Samuel, Banquier.\n1405 Burckhardt, Jakob, Antistes.\n\nHinter dem Münster.\n\n1406-11 Obrigkeitl. Fruchtspeicher und Keller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7192,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1497,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p075",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p075.jpg",
+      "bytes": 920057,
+      "sha256": "aaeb7e6390a749913f3ed9bf78866deec36abb8f40899f8a784f1ceb2133f157",
+      "sha256_of": "original",
+      "working_copy": "1850_p075.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:02+00:00"
+  }
+}

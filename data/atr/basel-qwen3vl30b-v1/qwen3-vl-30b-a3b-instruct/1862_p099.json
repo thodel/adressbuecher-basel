@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p099",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p099.jpg",
+    "bytes": 1260833,
+    "sha256": "c2c126c19e20e308f7d2e7aec5ef5a264d0a1faa36eaa8b965edff338a379f5b",
+    "sha256_of": "original",
+    "working_copy": "1862_p099.jpg"
+  },
+  "text": "34\nDavidsgasse. — Gisengasse.\nNeue\nHaus=Mr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nDavidsgasse.\n1 | I. | 273 A | | Schöllkopf=Schumacher, Gottlieb Friedrich.\n2 | I. | 274 A b | | Schöllkopf=Schumacher, Gottl. Friedrich, Maurermeister.\n4 | I. | 274 C. | | Strub=Thommen, Fried., Wirth.\n| | | | Heiz-Erismann, Joh. Jaf., Kaufhausang.\n| | | | Müller=Haufer, Joh. Jaf. (Remise).\n5 | I. | 273 B | | Jfelin=DeBarn, Rudolf.\n| | | | (Remise und Stallung.)\n17 | I. | 275 N | | Bürgy u. Comp. Emanuel.\n| | | | Müller=Staehelin, Joh⁸⁸. Baumeist.\n| | | | von Salis-Kern, Vinz. Kaufmann.\n| | | | Kern=Schmerber, Louife, Wtwe. Part.\n| | | | Kern, Emanuel, Kaufmann.\nGisengasse.\n1 | VI. | 1519 | Polizeiposten. | Staat.\n2 | VI. | 1533 | zum Landeck. | Huber=Molitor, Joh. Jakob.\n| | | | | Huber=Molitor, Joh. Jaf., Apotheker.\n| | | | | Dürschncr, Karl, Kaufmann.\n3 | VI. | 1518 | zum Rheineck. | Soulzener=Widmer, Alexander.\n| | | | | Soulzener=Widmer, Alexand., Conditor.\n4 | VI. | 1534 | zum Morgenstern. | Wié, Jgfr. Nanette.\n| | | | | Wié, Jgfr. Nanette, Maison garnie.\n| | | | | Fröhlicher=Fleuriel, Franz Josef, Merceriehandlung.\n| | | | | Calame, Louis, Architekt.\n5 | VI. | 1589 | pinnwetternzunft. | Corporationsgut.\n| | | | | Lok=Wölfflin, Daniel Eduard, Tabak- und Cigarren Handlung.\n| | | | | Wolf, Elie, Papier- u. Antiquitätenhdlg.\n| | | | | Elsner=Jahreis, Joh. Jaf., Junftabwart.\n6 | VI. | 1535 | | Haas=Honold, Carl.\n| | | | | Haas=Honold, Carl, Hutmacher.\n| | | | | Hübshcr-Kleiber, Emil, Kaufmann.\n| | | | | Andres=Nägeli, Joh. Jaf., Post=Cassier.\n7 | VI. | 1590 | zum Rauz. | Best=Theubet, Emanuel.\n| | | | | Best=Theubet, Emanuel, Kaufm. u. eidgenöß. Zoll-Controleur.\n| | | | | Theubet-d'Elgger, Victor, Oberst, Part.\n8 | VI. | 1536 | zum Pilger. | Reinhardt=Lok, J. Conrad.\n| | | | | Reinhardt-Lok, J. Conr., Handelsmann.\n| | | | | Comptoir von Rahn u. Trog, Agentur.\n| | | | | Rahn, Anton, Kaufmann.\n9 | VI. | 1591 | | Sulger=Stähelin, Andreas.\n| | | | | Sulger=Stähelin, Andr., Kaufmann u. Director der Centralbahn.\n| | | | | Schaub, J., Spezereihandlung.\n| | | | | Müller, Geschwister, Weizwaarenhdlg.\n[spalte 2]\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7536,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2212,
+    "lines": 70,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:32:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p099",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p099.jpg",
+      "bytes": 1260833,
+      "sha256": "c2c126c19e20e308f7d2e7aec5ef5a264d0a1faa36eaa8b965edff338a379f5b",
+      "sha256_of": "original",
+      "working_copy": "1862_p099.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:57+00:00"
+  }
+}

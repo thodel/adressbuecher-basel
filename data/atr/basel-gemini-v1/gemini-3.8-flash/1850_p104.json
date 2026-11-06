@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p104",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p104.jpg",
+    "bytes": 1060261,
+    "sha256": "4f5958eb5b28a4297c001fe47f50f63ce3eb842204c2c6f7d5d7f2c2c13cbad9",
+    "sha256_of": "original",
+    "working_copy": "1850_p104.jpg"
+  },
+  "text": "Bläsy = Quartier. 91\n\nA 310 (Sprizenhaus.) Obrigkeitlich.\n311 Wohnlich, Wittwe Cath., Wascherin.\n312 (Klingenthal, Armenanstalt) Obrigkeitlich.\nEcklin, Wittwe, Aufseherin.\nEcklin, Rudolf, Commis.\n313 Minder-Zäslin, Joh. Jak., Müller.\n314-16 Remise, Scheune und Stallung.\n317 Kern-deCrousaz, Elias, Kaufmann.\n318 Minder, Joh. Jak., Kaufhausbestäter.\n\nUntere Webergasse.\n\n319 (Tabackmühle) Sulger-Stähelin geh.\nFoos, Ch., Tabackmüller.\n320 Minder, Gustav, Müller.\n321-22 Schäfer, Nikl., Schuhmacher.\n323 Zindel, Jakob, Müller.\n\nBadergäßlein.\n\n324 Christen, Matth., Lohnwascher.\n325 Thommen, Isaak, Lohnwascher.\n326 Wenk, Wittwe, Wascherin.\n327-28 Remise und Stallung.\n329 Degen, Heinrich, Zimmermann.\n320 Brunner, Val., Taglöhner.\n\nUntere Webergasse.\n\n331 Magazin.\n332 Respinger-Dörflinger, Wittwe Karolina, Modiste u.\nReinwascherin.\n333 Fäsch, Jakob, Weißbeck.\n334 Schmidt, Rud., Weißbeck u. Weinschenk.\n335 Schuler, Eml., Hufschmied.\nPiaud, F. Bapt., Dessinateur.\n336 Scholer, Nikl., Wagner.\n337 Magazin.\n338 Uehlinger, F. G., Trödler und Lederlackirer.\n339 Hoch, Jakob, Weißbeck.\n340 Scheune und Stallung.\n341 Löhle, Carl, Commis, [handschriftlich: gestrichen] Spezereiladen [handschriftlich: Joh. David Wenk.]\n342 Merian, Joh. Jak.\n343 Kindwiller, Matth., Indiennedrucker.\n344 Zeller-Keller, Schwestern, Näherinnen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7209,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1317,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 31.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0023,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p104",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p104.jpg",
+      "bytes": 1060261,
+      "sha256": "4f5958eb5b28a4297c001fe47f50f63ce3eb842204c2c6f7d5d7f2c2c13cbad9",
+      "sha256_of": "original",
+      "working_copy": "1850_p104.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:17+00:00"
+  }
+}

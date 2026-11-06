@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p016",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p016.jpg",
+    "bytes": 1059251,
+    "sha256": "597a79b67f7615cd64f111ff9cbf6d9298975548638b0253a7b042c734f386eb",
+    "sha256_of": "original",
+    "working_copy": "1850_p016.jpg"
+  },
+  "text": "6 St. Johann-Quartier.\n\nNeue Straße.\n\n125 Weibel-Gerster, J. J., Kaffe- und Weinwirthschaft.\nA 125 Kiefer-Weibel, J. H., Agent.\n  Hegar, Carl August, Musikalienh. und Lithographie.\n126 Comptoir von Oswald, Gebrüder, in St. Louis.\n127 Mähly-Lamy, Friedr., sel. Erben, Kunsthandlung.\n  Heidegger, Fch. Agent.\n\nKronengasse.\n\n128 Burkhardt, Seb., Wirth und Conducteur.\n  Wägelin, Joh., Agent für Auswanderer.\n129 Tschopp-Halter, Jb. Kaufmann.\n130 David, L. Glaser.\n131 Leuthardt, Jos., v. Arlesheim, Schlosser.\n  Zäslin, H., Schleifer.\n132 Werkstätte.\n133 Waschhaus.\n134 Züllig, Seb.\n135 Vogel, Ch., Schuhmacher.\n\nFischmarkt.\n\n136-37 Brändlin-v. Mechel, Leonh., Modehandlung.\n  Windscheid, Prof. Juris.\n138 Schalch, Joh. Ulrich, Goldschmied.\n\nBlumengasse.\n\n139 Wieland-Landerer, Aug. Heinr., Wittwe.\n  Wieland, Hans, Buchhändler.\n  Firma Schweighausersche Buchhandlung. Bureau\n    des Intelligenzblattes.\n140 Roschet, Hieronimus, Sattler.\n  Roschet, Hieronimus, Seiler.\n141 Früh, Lud., Hufschmied.\n  Früh, Abraham, Vater, Hufschmied und Thierarzt.\n142 (Gasth. z. gold. Blume) Leibzig, P. H., Gastwirth.\n143 Sauter, Joseph, Commis.\n  Scheurer, Abr., Fuhrhalter.\n144 Magazin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7230,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1169,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p016",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p016.jpg",
+      "bytes": 1059251,
+      "sha256": "597a79b67f7615cd64f111ff9cbf6d9298975548638b0253a7b042c734f386eb",
+      "sha256_of": "original",
+      "working_copy": "1850_p016.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:48+00:00"
+  }
+}

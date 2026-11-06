@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p062",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p062.jpg",
+    "bytes": 1508874,
+    "sha256": "89e527d21d8dbef76420f9266d9544354e837c6c750fab70365d6bd4f13c15eb",
+    "sha256_of": "original",
+    "working_copy": "1862_p062.jpg"
+  },
+  "text": "Berichtigungen, Handänderungen und Neubauten. | LIX\n\nSeite. | Straße. |  | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.\n48 | Freie Straße. | lies | 109 | V | 1069 | Friedrich, Max (zum Eichbaum).\n | ″ | ″ | 111 | V | 1068 | Meyer-Vogel, Frau Mar. Victoria\n  (zur niedern Schwelle).\n49 | Gasstraße. | ″ | 6 | I | 6 | Stadtgemeinde (Gasanstalt).\n | Gellertstraße. | ″ | 40 | V | 287 | Merian-Burckhardt. Wb. Margar.\n | ″ | ″ | 43 | V | 282 | Emil Forkart.\n51 | Gerbergasse. | ″ | 10 | VI | 1661-62 | Geßler-Tanner, Leonhard (zu den\n  3 Böcken).\n52 | ″ | ″ | 21 | VI | 649 | Riesterer-Meyer, Agathe (z. Wach-\n  holderbaum).\n53 | ″ | ″ | 44 | VI | 639 | Naumann, H., Apotheker (z. Ritter).\n55 | Gerbergäßlein. | ″ | 13 | VI | 639 | id. id. id.\n57 | ″ | ″ | 41 | VI | 674 | Hodel-Böniger, Wb. Amalie (zum\n  Schleifstein).\n | Güterstraße. | ″ | 21 | III | 199 h h | Eidgenossenschaft (Lagerhaus).\n | Gundoldinger- | ″ | 6 | IV | 238 D | Ostertag-vonSpeyr, Albert, Dr.\n  Straße. |  |  |  |  |   (Lehenhaus).\n58 | Hägenheimer- | einschalt. | 35 | II | 125 A | Fischer-Trautvetter, Reinhard.\n  Straße.\n | Hardstraße. | lies | 37 | V | 302 | Rudin-Clicheri, Conrad.\n | ″ | ″ | 39 | V | 302 a | Salathe und Schmid. (Scheune.)\n59 | Heuberg. | ″ | 1 | II | 473 B | Gysin, Maria Dorothea.\n60 | ″ | ″ | 6 | II | 445 | Heintz-Huber, Eduard (z. Paradies).\n | ″ | ″ | 24 | II | 436 | Erben von Wb. Stähelin sel. (zum\n  Mörsberg).\n61 | ″ | ″ | 27 | VI | 398 | Sommerhalder-Wehrlin, Wb. Ro-\n  sina (z. rothen Eck).\n62 | Unt. Heuberg. | ″ | 10 | VI | 426 A | Preiswerk, Emanuel.\n63 | ″ | einschalt. | 33 | VI | 399 b | Kleiner, Wb. sel., Erben.\n | Heumattstraße. | lies | 7 | IV | 214 | Weber-Lüttner, Sebastian.\n | ″ | ″ | 9 | IV | 213 A | id. id.\n65 | Hutgasse. | ″ | 7 | VI | 1670 | Studer, J. J. (z. unt. Pfannenberg).\n | ″ | ″ | 9 | VI | 1671 | Geßler-Tanner, Leonhard.\n66 | St. Jakobs- | ″ | 3 | V | 257 | Thoma, Carl, Bierbrauer (zum\n  Straße. |  |  |  |  |   Biergarten).\n67 | ″ | ″ | 12 | IV | 224 | Günther-Schaub, Jacob.\n | ″ | ″ | 23 | V | 251 | Ryhiner-Bischoff, Carl und Zellwe-\n  ger-Ryhiner, Cäcilie.\n | ″ | ″ | 25 | V | 250 | Friedrich-Hug, Leonhard.\n | ″ | ″ | 27 | V | 250 A | id. id.\n | ″ | ″ | 29 | V | 249 | id. id.\n69 | Imbergäßlein. | ″ | 24 st. 26 | II | 544 | Zollinger-Lüscher, Joh. (z. untern\n  Blumenberg).\n | ″ | ″ | 26 st. 28 | II | 545 | Wiesendanger-Frick, Ulrich (z. obern\n  Blumenberg).\n | ″ | ″ | 28 st. 30 | II | 547 C | Butz-Rieder, Franz Jos. (z. Imber).\n71 | St. Johann- | ″ | 30 | I | 45 | Schölly-Bruckner, Wb. Susanna.\n  Vorstadt.\n72 | ″ | ″ | 45 | I | 22 A | Zäslin u. Baumann (z. Irrgarten).\n | ″ | ″ | 49 | I | 11 | Florang, Ant (z. Schweizerhäusl.).\n73 | ″ | ″ | 60 | I | 21 | Trinnler, Catharina.\n | ″ | ″ | 71 | I | 2 A | Hübscher und Sprünglin.\n74 | ″ | lies | 81 | I |  | Staat (St. Johannthor).\n | ″ | ″ | 84 | I | 1 | Hübscher-Lichtenhahn, Wilh. (St.\n  Johanniterhaus).",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11862,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2923,
+    "lines": 57,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0175,
+    "mean_line_chars": 49.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:33:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p062",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p062.jpg",
+      "bytes": 1508874,
+      "sha256": "89e527d21d8dbef76420f9266d9544354e837c6c750fab70365d6bd4f13c15eb",
+      "sha256_of": "original",
+      "working_copy": "1862_p062.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:52+00:00"
+  }
+}

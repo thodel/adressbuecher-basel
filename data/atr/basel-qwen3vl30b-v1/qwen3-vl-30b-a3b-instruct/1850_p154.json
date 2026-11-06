@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p154",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p154.jpg",
+    "bytes": 1025240,
+    "sha256": "51b922b526959918bf3b7bcc0c848301aee821d61571c4402e12689e50eea16e",
+    "sha256_of": "original",
+    "working_copy": "1850_p154.jpg"
+  },
+  "text": "940 Carl Ryhiner . . Carl Ryhiner.\n*266 Ryhiner u. Söhne Friedrich Seidel, ppa.\nRyhiner-Bischer.\nWilhelm Ryhiner.\nCarl Ryhiner-Bischoff.\n\nS.\n1509 Hs. Franz Sarasin . . Eduard His.\nKarl Bischer-Merian.\nP. Bischer-Burckhardt.\nEduard His, Sohn.\n1358 Sarasin & Cie. . Frau Wittwe Maria\nSalome Sarasin, geb.\nHeusler, ohne Unter-\nschrift.\nKarl Sarasin, Sohn.\nWilhelm Sévin, Procu-\nraträger.\n1319 Felix Sarasin & Heusler Felix Sarasin.\nDaniel Heusler.\nAugust Stähelin.\nF. F. Stapfer, ppa.\n1731 A. Schermer . . Johann Anton Scher-\nmar.\n852 Emanuel Schneider . . Emanuel Schneider.\n1579 Wittwe Schneider née . Wittib Schneider née\nBraun . Braun.\n1589 F. u. F. Schoch . . Jakob Schoch.\n1539 F. F. Schölln . . Samuel de Jakob Chri-\nstof Schölln.\n120 Jérome Schönauer . . Jérome Schönauer.\n139 Schweighauser'sche\nBuchhandlung\nWittwe Barbara Wie-\nland, geb. Landerer.\nHans Wieland, Procu-\nraträger.\n675 Anton Sacher . . Anton Sacher.\n172B F. G. Sehringer . . Joh. Georg Sehringer.\n1617 Leonhard Seiler . . Leonhard Seiler.\n264 Siber-Bischoff . . Christoff Heinrich Siber.\n1741 Abraham Siegrift . . Abraham Siegrift.\n163 F. Siegrift & Cie. . Johannes Siegrift-Fren.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3799,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1151,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 26.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p154",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p154.jpg",
+      "bytes": 1025240,
+      "sha256": "51b922b526959918bf3b7bcc0c848301aee821d61571c4402e12689e50eea16e",
+      "sha256_of": "original",
+      "working_copy": "1850_p154.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:27+00:00"
+  }
+}

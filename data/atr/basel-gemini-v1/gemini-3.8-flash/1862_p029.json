@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p029",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p029.jpg",
+    "bytes": 1349732,
+    "sha256": "aa36573de0f5530fcabbdfde375345fe9375bf1508b04d75d927960ae4900795",
+    "sha256_of": "original",
+    "working_copy": "1862_p029.jpg"
+  },
+  "text": "XXVI  Vereine u. Anstalten zu Wohlthätigkeits-Zwecken.\n\nFrauen-Comité.\nFrau Professor Steffensen-Burckhardt.\n  „  Socin-Werthemann.\n  „  Bernoulli-Werthemann.\nHr. A. Roth, Hausvater der Anstalt.\n\nFrauenverein der 4 Pfarrgemeinden.\nSt. Peter, gegründet 1846.\nSt. Theodor,    „    1846.\nMünster,        „    1847.\nSt. Leonhard,   „    1847.\n\nArmen-Hülfs-Verein\nfür Frauenspersonen.\nGegründet 1848.\n\nPrämien-Stiftung\nfür männliche\nDienstboten, Handwerksgesellen und\nFabrikarbeiter.\n\nAnstalt für\nBildung weiblicher Dienstboten.\nGegründet 1849.\nVorstand:\nHr. [unlesbar] , Vorsteher.\n  „  Pfarrer W. LeGrand, Schreiber.\n  „  J. J. Minder-Zäslin, Cassier,\nund ein Frauen-Comité.\nHausmutter: Jungfr. B. Habicht.\n\nMägde-Stiftung.\nGegründet 1849.\nVorstand: Hr. E. Thurneysen-Paravicini.\n\nDiakonissen-Anstalt in Riehen.\nGegründet 1852\nzur Ausbildung von Krankenpflegerinnen in\nöffentl. Anstalten u. Privathäusern.\nVorstand des Comité:\nHr. Bischoff-Respinger.\n\n[spalte 2]\nFabrik-Anstalt von Richter-Linder.\nGegründet 1853\nzur Erziehung armer Mädchen für das häus-\nliche Leben und zu tüchtigen Fabrik-\narbeiterinnen.\nHauseltern: Hr. Lehrer Näs u. dessen Gattin.\n\nVerein\nzur\nUnterstützung älterer Taubstummen.\nGegründet 1856.\nVorstand: Hr. Decan Stähelin in Riehen.\nDer Verein nimmt sich der Taubstummen,\ndie ihre Bildungszeit in Riehen beendigt haben\nu. einen Beruf erlernen sollten, an und versucht\nin der Anstalt in Bettingen solche Taubstum-\nmen, welche nie in einer Anstalt gewesen sind\nund wegen überschrittenem gesetzlichem Alter\nnirgends mehr aufgenommen werden, innerlich\nzu bilden und auch brauchbar zu machen für\ndie menschliche Gesellschaft.\n\nIsraelitischer Wohlthätigkeitsverein.\nGegründet 1857.\nVorstand: Hr. Sam. Braunschweig.\n\nAnstalt zur Hoffnung.\nGegründet 1857\nzur Erziehung und Heilung blödsinniger\nKinder.\nDirector: Hr. Professor Jung.\n\nMägdeherberge auf der Schoren.\nGegründet 1858\nzur Aufnahme dienstloser Mägde.\nVorstand des Herren-Comités:\nHr. Pfarrer A. Barth-Lotz.\n\nWittwen- und Waisen-Cassen.\n\nPrediger-Wittwen- & Waisen-Casse.\nGestiftet 1777.\nDiese Kasse ist eine Privatstiftung durch\nfreiwilligen Zusammentritt von Geistlichen\nzu Basel, von welcher die Hinterlassenen der\nMitglieder ihre den Statuten gemäß bestimm-\nten Gehalte nicht als eine Steuer, sondern\nals eine von Rechtswegen zukommende Ge-\nbühr zu beziehen haben.\nVorsteher der Inspection:\nHr. Pfarrer Lotz-LeGrand.\n\n[spalte 2]\nAelteste\nallgem. Wittwen- & Waisen-Casse.\nGestiftet 1788.\nVorstand:\nHr. J. M. Montfort, Vorsteher.\n  „  Steinmann-Simmen.\n  „  Matzinger-Buser, Seckelmeister.\n  „  Straumann-Wertenberger, } Beisitzer.\n  „  Zumbrunn-Vollmer,       }\n  „  Rosenmund-Bohny, } Rechnungs-\n  „  Lüdin-Wagner,    } Revisoren.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9799,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2704,
+    "lines": 94,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0319,
+    "mean_line_chars": 27.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:28:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p029",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p029.jpg",
+      "bytes": 1349732,
+      "sha256": "aa36573de0f5530fcabbdfde375345fe9375bf1508b04d75d927960ae4900795",
+      "sha256_of": "original",
+      "working_copy": "1862_p029.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:40+00:00"
+  }
+}

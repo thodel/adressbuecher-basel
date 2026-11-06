@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p117",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p117.jpg",
+    "bytes": 1065296,
+    "sha256": "3b3088fe334ee9acfce0357fe914957b88f973e1403e23151da2e67c4ba9c9cd",
+    "sha256_of": "original",
+    "working_copy": "1850_p117.jpg"
+  },
+  "text": "104\n\nFluck, J. J., Postfakt.  106\nFlubacher, E., Commis  473\n  Isaak, Schuhmacher  1180\n  Heinr., Hausknecht  *233\nFluri, Nikl., Vikar  *106\n  Frau Katharina  1123\nFöhr, Balthas., Comm.  1362A\nFollenweider, J. R.  587\n  Adolf, Kunstmaler  587\nFolz, Wittwe, Fürkäuf.  1671\nForkart-Bachofen, Rud.  1048\n  -Weiß (Comptoir)  1052\n  -Hoffmann, Rud.  1055\n  -von Gentschick  1248A\n  -Merian, Dietr.  1355\n  -Respinger, Lukas  1515\n  Jgfr., Elise  1248B\nFrank, Fr., Schlosser  88\nFreuler, Nikl., Schuhm.  1418\nFrey-Laudier, J.  180\n  Alfr., Med. Dr.  257\n  Hs. Ulr., Schreiner  259A\n  Jch., Sohn, Archit.  259A\n  Heinr., Fabrikarbeiter  422\n  J., Vater, Knopfmach.  484\n  Peter Hs., Geschäftsm.  526\n  Adolf, Küfer  543\n  Johann Rudolf  564\n  Jakob, Schreiner  595\n  Jeremias, Polizeidien.  720\n  Beat. Herkules  781\n  Gustav, Commis  1066\n  -Tschopp, Wittwe  1098\n  Joh. Jakob  1160\n  Thurneysen  1206-7\n  -Stückelberger, J. R.  1231\n  -Freyvogel, H., Rekt.  1458\n  Dl., Krankenwärt.  1655-56\n  Franz  *91\n  Karl, Lehrer  *96\n  Jgfrn., Modistinnen  1394\nFreyburger, Wittwe  962\nFreyler, Rud.  101\n[spalte 2]\nFreyvogel u. Heusler  1309A\n  -Imhof, Friedr.  1309A\n  -Wirz, Jch.  1627\nFrick, Peter, Papierer  1284\nFricker, Wittwe  410\n  Jgfr., Salomea  715\nFriedrich, Rud., Maurer  925\n  -Hug, L., Baumeister  970\nFrischknecht, J. J.  1130\nFrize, Wittwe  *162\nFröhlich, Jos., Lehrer  724A\nFrossard, A., Schneider  765\nFrüh, Abraham, Vater  141\n  Ludw., Hufschmied  141\n  Kasp., Buchbinder  162\n  Jak. Friedr., Spanner  864\n  -Remy, Hier., Müller  1333\n  -Nonus, Hieron.  1535\n  Ed., Commis  1535\nFrutiger, Chr., Ferger  196\n  -Hägler, Wittwe  240\nFuchs, Lor., Buchbind.  1755\n  -Grüninger, Wittwe.  *303\nFürbringer, J. G.  918\nFürstenberger, Wittwe  511\nGall-Fischer, Wwe. Cath.  1641\nGally, Joh.  1414\nGarnaus-Felber, Wwe.  871\n  J. J., Comm.  871\nGarnjobst, S. H. Ch.  1030\n  J. H., Seckler  1061\n  J. U., „  1156\nGassert, Wittwe  205\nGasquet, Fr. W.  970\nGaß, Abr., Postadjunct  291\n  -Thurneisen, J.  662\n  J. J., Metzger  754K\n  -Thurneisen, Hch.  980\n  -Sixt, Joh. Hch.  1131\n  J. R., Schriftsetzer  1137\n  J. J., Koch  1138\n  Jakob, Posamenter  1299\n  Joh., Weißbeck  *150",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9749,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2169,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.42,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:19:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p117",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p117.jpg",
+      "bytes": 1065296,
+      "sha256": "3b3088fe334ee9acfce0357fe914957b88f973e1403e23151da2e67c4ba9c9cd",
+      "sha256_of": "original",
+      "working_copy": "1850_p117.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:13+00:00"
+  }
+}

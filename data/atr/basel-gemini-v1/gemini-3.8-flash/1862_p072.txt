@@ -1,0 +1,56 @@
+Aeschenvorstadt. | 7
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+Aeschenvorstadt.
+1 | IV. | 1045 A. | Truchsesserhof. | Weitnauer-Fischer, Rudolf.
+  Weitnauer-Fischer, Metzger u. Pintenw.
+  Weiß-Fischer, Carl Bened., Kaufmann.
+2 | IV. | 939 | z. Ritter St. Georg | Gnoepff-Landolt, Carl.
+  Gnoepff-Landolt, C., Bäckermeister.
+  Gnoepff-Bauer, C., Kaufmann.
+  Gnoepff, Rud., Commis.
+  Faus, Wittwe, geb. Faesch, Rentiere.
+  Widemann-Schuhmacher, Balth., Com.
+3 | IV. | 1044 | | Weitnauer-Fischer, Rudolf.
+  Jezler-Klein, H., Lagerhausdirektor.
+  Klein-Salis, Anna Cathar., Wb., Part.
+4 | IV. | 940 | z. goldenen Löwen. | Dobler-Burckhardt, Hel., Wb. und
+  Jgfr. M. Burckhardt gemeinsch.
+  Dobler-Burckhardt, Wb. Hel.
+  Ryhiner-Merian, Valerie, Wb.
+  Ryhiner, Carl, Kaufmann.
+  Comptoir v. Marc. Boelger, Floretspin.
+5 | IV. | 1043 | zum Wilhelm Tell. | Ryhiner-Werthemann, Sus., Wb.
+  Ryhiner-Werthemann, Sus., Wb., Rent.
+  Ryhiner, Julius.
+6 | IV. | 941 | zum Körblein. | Wieland, A. M., Jgfr. sel. Erben.
+  Wieland-Landerer, Barbara, Wb.
+  Wieland, Emilia, Jgfr.
+  Wieland, Joh. Hein., eidg. Oberstlieutn.
+7 | IV. | 1042 | zum Hertenstein. | Ryhiner-Werthemann, Wb.
+  Burckhardt-Ryhiner, Joh. Jak., Altbrgm.
+  Burckhardt, Joh. Jakob, J. U. D.
+  Burckhardt, Alfred, Kaufmann.
+8 | IV. | 942 | zum Sonnenberg. | Schmidt-Luttringshausen, J. Fdr.
+  Schmidt-Luttringshausen, J. F., Kaufm.
+  (Firma J. F. Christ-Ryhurt).
+  Bachmann, Emil, Commis.
+9 | IV. | 1041 | | Boelger-Burckhardt, August.
+  Boelger-Burckhardt, August, Particulier
+  (Floretspinnerei im Schönthal.)
+10 | IV. | 943 | zur obern Sonne. | Weißenburger-Riggenbach, J. Jak.
+  Weißenburger-Riggenbach, J. J., Bäcker.
+  Meyer-Schwarz, J. J., Part.
+  Fürbringer-Goetschin, Wilh., Gärtner.
+11 | IV. | 1040 | zum Rupf. | Corporationsgut.
+  Schneider-Bader, Dan., Stubenverwalt.
+12 | IV. | 944 | zur obern Sonne. | Gamper-Eberlin, Wb. Anna Maria.
+  Gamper-Eberlin, Wb. A. M., Schlosser.
+  Schellmann-Schmid, Fr., Schuhmacher.
+  Dürliwanger, Joh., Schlosser.
+13 | IV. | 1039 | zum Paradies. | Burckhardt-Heusler, Carl.
+  Burckhardt-Heusler, C., Oberstlt. Rent.
+  Koller-Burckhardt, Gottl., Ingenieur.
+14 | IV. | 945 | zum neuen Bau. | Werthemann, Jgfr. Margaretha.
+  Sibold-Häfeli, Mag.-Knecht.

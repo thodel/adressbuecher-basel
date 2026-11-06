@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p138",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p138.jpg",
+    "bytes": 1247722,
+    "sha256": "6580773659047c80bdc4627beef5837a90e735fd9c10a811b427b8be8ed8e846",
+    "sha256_of": "original",
+    "working_copy": "1850_p138.jpg"
+  },
+  "text": "125\n\nStreuber, Christ. Wilh. 107\n  W. Theod., Phil. Dr. 107\nStricker, L. D., Kupferdr. 438\nStrub, Lukas, Metzger 397\n  Eduard, Metzger 823\n  Hs. G., Vater, Metzger 1141\n  Emanuel, Wirth *27\nStrübin, Hr., Zimmerm. 44\n  -Lutz, Metzger 312\n  Ach., Spedit.-Hdlg. *390\n  Wwe., Marie, Beck 1237\n  -Hunziger, Ag., Wwe. 1253\n  Wittwe, Uhrenmacher 1528\nStuber, J., Fabrikarb. *57\nStucky, Ed., Tabackhdlg. 116\nStückelberger, R., Beck 322\n  F. J., Weinhdlg. 1045B\n  Andreas, Bandfabrik. 1292\n  Ulrich, Pfarrer 1465-66\n  -Berri, Wittwe 546\n  -Holzach, Wwe., Marg. 803\n  Wittwe 1665-66\nStuckert, Commis 1380\nStuder, Joh., Müller *354\n  Wwe. A. M., Kostgeb. *21\nStumm, Fr., Spez.-Hdlg. 164\nStupanus, Chr., Commis 160\n  Jeremias, Buchbinder 201\nStürchler, Witttwe 1568\nSüffert-Mieg, Kunstmal. 25\nSulger, Rud., Sperrer 1\n  -Stähelin, Andr. 1181\n  & Stückelberger 1269AB\n  -Heußler, Joh. 1311C\n  -Stähelin, Tab.-Mühle *319\n  -Dobler, Wwe. Louise, 1182\n  -Sprecher, Wittwe 1473\n  -Dobler, Wwe. Louise 1512\nSulzmann, W., Schuhm. 495\nSurgan, Kl., Partikular *110\nSurgand, C. M. „ *157\nSutter, J., Wildprethlg. 605-6\n  Jakob, Taglöhner 876\n[spalte 2]\nSutter, Rudolf, Posam. 910\n  Christ., Spezierer 1318\n  -Nonus, Rudolf 1385\n  R. E., Schirmfabrik. 1507\n  Joh. Jak., Sattler 1602\n  Joh. Jak., Gerber 1602\n  Heinrich, Commis *80\nTester-Geßler, Josua *140\nTharin, H., Schriftsetzer *146\nTheubet, Vikt., Partik. 1590\nThierry, Fz. Jos., Kostgeb. 1254\nThoma, Bonifaz, Kutscher 829\nThommen, Wwe. Cath. 539\n  Joh. Jak., Küfer 930\n  J., Küfer 1064\n  D., Landjäg.-Wachtm. 1108\n  Joh. Jak., Gärtner 1135\n  Joh., Fabrikserger *65\n  Jak., Zollangestellter *65\n  -Hunziker, H., *71\n  Heinr., Appreteur *90\n  Heinr., Fuhrhalter *137\n  Isaak, Lohnwascher *325\n  Wittwe, Lohnwascherin *263\nThurneysen, P., Drechsler 488\n  Ludw., Weißgerber 665\n  Gottlieb, Partikular 783\n  L. Andr., Papierfabr. 1282\n  Christoph, Rentier 1292\n  -Paravicini, Emil 1340\n  -Merian, E., Bandfabr. 1352\n  Joh. Hch. Ed., J. U. D. 1352\n  -Burckhardt, Wwe. 1352\n  -Bell, Hch., Schneider 1419\n  -Gaß, Wwe., Beck 1354\n  -Ryhiner, Wwe. Val. 1377\nTobler-Gengenbach, Hch. 1491\nTrapet, Nich., Goldschm. 1537\nTreier, Karl, Flachmaler 321\nTreu, Lukas, Wundarzt 982\n  Rudolf, Oeler *378\n  Wittwe *378\nTreulin, J. J., Postfaktor 1427",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11532,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2261,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:22:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p138",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p138.jpg",
+      "bytes": 1247722,
+      "sha256": "6580773659047c80bdc4627beef5837a90e735fd9c10a811b427b8be8ed8e846",
+      "sha256_of": "original",
+      "working_copy": "1850_p138.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:49+00:00"
+  }
+}

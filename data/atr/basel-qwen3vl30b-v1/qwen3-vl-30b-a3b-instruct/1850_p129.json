@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p129",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p129.jpg",
+    "bytes": 1080643,
+    "sha256": "cc5512f01291f5e6b62d3465829cbea0eb44b3f792b6fff5f07bb942935782ec",
+    "sha256_of": "original",
+    "working_copy": "1850_p129.jpg"
+  },
+  "text": "116\nMiville, F. F., Diacon 244 | Müller-Burckhardt, F. G. 1467\nR., Condukteur 578 |=Willy, A., Kosth. *16-17\n=Krug, H., Antiquar 1455 =Walz, F. E., Gastw. *18-19\nWittwe, Hutmacher 169 Joh., Kutscher *26\n=Preiswerk, Wittwe 1474 Gustav, Weinhandlg. *36\nMöcklin, R., Gefangennw. 695 Jaf., Lohnfuhrhalter *138\nMohler, Jakob, Beck 317 Sch., Schloffer *216\nHeinr., Seiler 1017 =Linder, R., Landöf. *250\nMollinet, G., Schuhm. 642 =Weitnauer, F. F. *373\nW., Seiler 767 Gottfr., Seidenfärbcr *415\nMontfort, F., Commis 985A Joh., Färber *436\nMörgelin, F., Taback. 911 =Schölly, Wittwe 45\nMorin, Wwe., Kostgeb. 620 =Fuchs, Wittwe 872\nMöschinger-Boos, Wwe. 679 Wwe., C., Posam. 1433\nMoslen, H., Sprachlehrer 522 Wittwe, Maria 1507\nMoyon, F. Th., Kunstm. 918 Jgfr. Katharina 345\nMück, F. Th., Degraiss. 1536 Jgfrn. Schwestern 726\nMüller-Kübler, Unterbest. 18 Mühlebach, Joh., Beck *147\nAlb., Mineralog 45 Münch, F. H., Schloffer 202\n=Haufer, F. F., Seidenf. 61 A., Commis 1626\nMatthias 207 Melch., Mezger *164\nF. F., Profos 271 F. K., Stadtphysikus *222\n=Stähelin, F. 275B Chr., V. D. M. *345\n=Zselin, G. R. 289 Jgfr. Susanna *431\nH., Gastgeber 326 Munzinger, L. D., Comm. 1741\nF. Ph., Lehrer 345 =Fäsch, Wittwe 153\n=Heinzgen, F., Flachm. 354 Murn, F. F., Fabrikarb. 391\nM. W., Flachmaler 382 Mürn, Jaf., Wirth *126\nHeinrich, Spezierer 463 Näf, Frau Magdalena 622\nSch., Fabrikarbeiter 478 Näf, Sam., Posamenter 497\n=Pac, F. F., Commis 490 Näfzger, Sch., Posam. 1493\n=Link, Heinr., Postoff. 518 Nägelin, A., Schuhm. 1744\nWilh., Posamenter 627 Konr., Wirth *429-30\nChristoph, Hasner 687A Neidhardt, F. F., Parlier 1010\nJoh. Bapt., Hauskn. 844 Neufkirch, F. G., Buchdr. 1524\nF. F., Brunntneister 866 Neufomm, F., Wirth *231\nKarl, Gypser 872 Neuschwander, Daniel 407\nFranz, Gastgeber 1008 Neustück, H., Bildhauer 723\nLeonh., Schloffer 1016 Jakob, Kunstmaler 723\nWerner, Bestäter 1107 =Bloch, Wittwe 723\nChrist., Ausläufer 1298 Nidecker, K. L., Beck 1262\nJoh., Kostgeber 1431 Georg, Commis 839\nRud., Kunstmaler 1460 Franz, Schloffer 1139\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7860,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2030,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.13,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p129",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p129.jpg",
+      "bytes": 1080643,
+      "sha256": "cc5512f01291f5e6b62d3465829cbea0eb44b3f792b6fff5f07bb942935782ec",
+      "sha256_of": "original",
+      "working_copy": "1850_p129.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:09+00:00"
+  }
+}

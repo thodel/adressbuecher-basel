@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p068",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p068.jpg",
+    "bytes": 1026726,
+    "sha256": "24d1bf70f635ffa1c30e72120c889bb5a7274a6d49a602ffa2f1a297a07b840c",
+    "sha256_of": "original",
+    "working_copy": "1841_p068.jpg"
+  },
+  "text": "61\nNro.\n1716 Benz, Joh. Rud., Schneider.\n1717 Waser, Jakob, Spengler, von Zürich.\n1718 Pfaff, Johannes, Bürstenbinder.\n1719 Keller, Joh. Georg, Schuhmacher.\n1720 Deck, Andreas, Kaufhausangestellter.\n  Geßler, Leonhard, Buchbinder.\n1721 Wenck-Brandmüller, H., Wechsel-Sensal.\n1722 * Ebendemselben.\n  Siegfried, Niklaus, Grieser.\n1723 Weber, Georg Friedrich, Schuhmacher.\n  Schärer, Joh. Heinrich, Schneider.\n1724 Dübost, Peter Franz, Ausschnitthandel.\n1725 Kern-Heußler, Joh. Bernh., Gerber.\n1726 Karle, Joh. Jakob.\n1727 Weniger, Rudolf, Gürtler und Weinschenk.\n  Collet, Frau, Weiberschneiderin.\n1728 Spann, Heinrich Michael, Maler. Kaffeewirthschaft.\n\nBeim Kornmarktbrunnen.\n\n1729 Gemuseus, Wittwe, geb. Marg. Respinger.\n1730 * Hübscher, Rudolf, Gerber, geh.\n1731 Schermar-Bloch, Anton, Handelsmann.\n  La Roche-Gemuseus, Karl, Handelsmann.\n1732 } Burckhardt-Kündig, Leonhard, Grieser.\n1733 }\n  Berri, Melchior, Med. Dr.\n1734 Rych, Wittwe, geb. Elisabeth Bratschy.\n1734 a Geschirrladen, Ebenderselben geh.\n1735 Sandreuter, Emanuel, Spengler.\n\nHinter der School.\n\n1736 Maring, Georg sel., Wittwe, Kammmacher.\n1737 * Keller, David, geh.\n  Ott, Joh. Caspar, Kappenmacher.\n1738 Landerer, Niklaus, Bürstenbinder.\n1739 Kleinpeter, Heinrich, Grieser sel., Wittwe.\n1740 * Müller, Leonhard, Steinmetz und Maurermeister, geh.\n  Wassermann, Joh., Kaufhausarbeiter.\n1741 Siegrist-Heußler, Abraham, Korbhandlung.\n  Munzinger, Lucas Dietr., Briefträger.\n\nSattelgasse.\n\n1742 Reinhold, Gottfried, Zimmermann.\n1743 * Schölli, Caspar, Tuchscherer, geh.\n1744 Bloch, Wittwe, geb. Werdenberg.\n1745 Rieder, Heinrich, Kaufhausarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7880,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1612,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p068",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p068.jpg",
+      "bytes": 1026726,
+      "sha256": "24d1bf70f635ffa1c30e72120c889bb5a7274a6d49a602ffa2f1a297a07b840c",
+      "sha256_of": "original",
+      "working_copy": "1841_p068.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:57+00:00"
+  }
+}

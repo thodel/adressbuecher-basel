@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p139",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p139.jpg",
+    "bytes": 1132763,
+    "sha256": "922491987d7fed281d61267709453fa0304458883aa878c7c40da81c7feacee6",
+    "sha256_of": "original",
+    "working_copy": "1850_p139.jpg"
+  },
+  "text": "126\n\nTripet, Wwe. Henriette *190\nTrüb, Wittwe Elise *384\nTrübner, Ludw., Buchbind. 641\nTrübner-Felber, Wwe. D., 1545\nTschientschy, W., Drechsl. 653\n  Sim., Säger *138\n  Wittwe 1212\nTschopp, Jak., Kutscher 17\n  -Halter, Jak., Kaufm. 129\n  Hch., Kaufhausarbeit. 704B\n  -Schwob, Joh., Beck 848\n  Heinr., Spezereihdlg. 1124\n  -Holzach, Hch., Spengl. 1438\n  Joh., Landjäger 1680\n  Rud., Färber *153\n  Heinrich, Wascher *299\nTschudy, M., Maurer 179\n  Jak., Schneider 237\n  J., Werkmeister 310\n  Joh., Maurer 632\n  J. Christ., Commis 949-50\n  Joh. Ulr., Schneider 1706\nUebelin, S., Spital-Apoth. 257\n  J. J., Bauschreiber 279\n  Heinrich, Commis 743\n  Joh. Friedr., Commis 743\n  -Brodmann, Dessinateur 743\n  -Geßler, Carl, Commis 985A\nUeberegger, Pet., Kutscher 1339\nUehlinger, J. G., Lederlak. *338\nUhlinger, Jak., Glaser *38\nUhlmann, Jos., Gypser 533\n  -Glock, J. G., Commis 666\n  -Mazinger, Abr. *272A\n  Wittwe, Gastwirthin 352C\nUngerer, Jak., Metzger 325\n  Achilles, Hafner 841\n  Andr., Weinschenk 1710\n  J. Jch., Schneider 1652-53\nUrech, J. D., Handelsm. 282\n  A., Mechaniker *261A\n  Jgfr. E., Kunstm. 754M\nUster, C. Dl., Schneider 1133\n\n[spalte 2]\n\nUzberger-Dübelin, J. *355\nValentin-deCrousaz 1364\nVayhinger-Wick, Speditor 234\nVery-Wieland, Wittwe 295\n  Viktor, Sohn 295\nVest, J. J., Küfer 297\n  Georg, Lithograph 633\n  -Brenner, H. 1169A\n  -Piton, Rud., Buchbind. 1384\n  -Wenk, Joh. Bernh. 1386\n  Heinrich, Sohn 1386\n  Jungfr. Sal. 1566\n  -Theubet, Eml. 1590\n  Christ., Metzger *189\n  Wittwe 1572\n  Jgfr. Sal., Partikularin 392\nVillars, Emil, Pfarrer 272B\nVillinger, Melch. Holzhdlr. 367\nVischer-Bilfinger, W. Prof. 442\n  -Christ, Rud. Handelsm. 1190\n  -Preiswerk, B. 1358-60\n  -Bischoff, Friedrich 1364\n  -Passavant, Peter 1509\n  -Merian, K., Bandfabr. 1509\n  -Forkart, Wwe. Marg. 1048\n  -Handmann, Wittwe 1311A\n  -Valentin, Wittwe 1364\n  Jgfr. Salomea 1366\nVogel, Frz., Käsehandlg. 100\n  Ch., Schuhmacher 135\n  Frz. Mart., Schneider 1068\nVogelbacher, Frz. Jos. 985\nVogt, Jos., Kutscher 887\n  Joh. Gg., Glashdlg. 1575\nVollenhals, Michael 1294-95\nVöllmin, Joh., Stuhlschr. 815\nVonArx, Fabrikarbeiter 1034\nVonBrunn, J. J., Pfarrer *165\n  -Braun, Wittwe *141\nVonderMühll-Bürgy 269C\n  -Bischoff, Eman. 548\n  Alfred 1213\n  -Vischer, Fr., Stofffabr. 1213",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11510,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2249,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p139",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p139.jpg",
+      "bytes": 1132763,
+      "sha256": "922491987d7fed281d61267709453fa0304458883aa878c7c40da81c7feacee6",
+      "sha256_of": "original",
+      "working_copy": "1850_p139.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:00+00:00"
+  }
+}

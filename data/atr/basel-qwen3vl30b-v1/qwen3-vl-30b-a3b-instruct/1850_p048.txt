@@ -1,0 +1,38 @@
+Steinen=Quartier. 35
+774 Henz, Ludwig, Sohn, Beck.
+    Wohnsiedel, Ulrich, Commis.
+775 Fischer, Elias, Weißbeck.
+Hinterer Bach.
+776 Siegrist, Rudolf, Posamenter.
+777 Schlumpf, Konrad.
+778 Mangold, Samuel, Zimmermann.
+779 Benz, Johannes, Landjäger-Feldwebel.
+Bordere Steinen-Vorstadt.
+780 Brodbeck=Spittler, Friedrich, Handels-Commis.
+    Schmiedlin, Johannes, Feger.
+781 Frey, Beat, Herkules, Schneider.
+782 Erismann, Wilhelm Emanuel, Hafner.
+783 Specker, Heinrich, Bierbrauer.
+    Thurnenfen, Gottlieb, Partikular.
+784 BonMechel, Bernhard, Landjäger-Fourier, geh.
+    Manz, Joh., Maler.
+785 Auer, Karl Jakob, Fabrikausseher.
+786 Steiner, Jakob, Fabrikarbeiter.
+787 Geiger, F. Rud., Schlosser.
+    Meyri, Chr., Commis.
+788 Allemann, Urs, Maurer.
+789 Streitmatter, Andreas, Zimmermann.
+A 789 Magazin.
+790 Lichtenhahn, Fr., Maler.
+    Löw, Wilhelm, Musterweber.
+791 Kunk, Rudolf, Flachmaler.
+    Leicher=Heusler, Wittwe M. M., Partikularin.
+Hinterer Bach.
+792 Schwarz, Wittwe.
+793 Dettwyler, Ludwig, Posamenter.
+794 Zimmermann, Gabriel, Wascher.
+795 (Steinen=Mühle) Hug, Adolf, Müller.
+    Hug=Buser, Wittwe Kath., Partikularin.
+Bordere Steinen-Vorstadt.
+796 Imhof, Daniel, Gerber.
+    Bierschenk, Adam, Gerber.

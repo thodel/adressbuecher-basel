@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p044",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p044.jpg",
+    "bytes": 1472073,
+    "sha256": "2c82049829687ec0fea53b9aa2910e3fb9c5210bcf0cd15753856e699b4aaadb",
+    "sha256_of": "original",
+    "working_copy": "1862_p044.jpg"
+  },
+  "text": "Ragionenbuch. XLI\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts..\nDietschy Michael, et | Mich. Dietschy. | \nComp. | Bischoff-Iselin, Commanditair. | \n | E. Fleiner, Commanditair und | \n  Prokuraträger.\nDirectorium der schwei- | Mitglieder des Directoriums: | \nzerischen Central- | And. Sulger. | \nBahn. | I. Trog. | \n | C. Respinger. | \n | Wilh. Schmidlin. | \nDoelli, Bercher et | I. G. Bercher-Soultzener. | Fabrikation chem. Pro-\nComp. | I. C. Doelli. | ducte u. Droguerie-\n |  | handlung. Gleiche\n |  | Firma in Uttwil am\n |  | Bodensee.\nDoelly, Gust. | Gust. Doelly, allein. | Agentur in roher Seide\n |  | u. Foulardsfabrikation.\nDreyfuß, Isaak Söhne. | Leopold Dreyfuß-Hirsch. | Bandfabrikation.\n | Samuel Dreyfuß-Neumann. | \n | Jacob Dreyfuß-Feidels. | \nDreyfuß, Emanuel. | Emanuel Dreyfuß-Lang. | Geschäftsmann.\nDreyfuß-Schmoll. | Salomon Schmoll-Dreyfuß. | Rohe Fellhandlung en\n |  | gros.\nEckhard, I. C. | Joh. Conrad Eckhard, allein. | Manufacturwaaren en\n |  | gros.\nEckenstein, Eduard. | Eduard Eckenstein-Schermar, allein. | Malzfabrik u. Handlung\n |  | von Hopfen, Gerste u.\n |  | Harz.\nEhinger et Comp. | Chr. Math. Ehinger-VonSpeyr. | Bankgeschäft.\n | Fr. Brotbeck, Prokuraträger. | \nEisenlohr, Wb. | Arnold Theod. Bischoff-Fiechter. | Spezereihandlung.\nFichter u. Söhne. | I. I. Fichter, Vater. | Bandfabrikation.\n | Bened. Fichter-Seiler. | \n | I. Brugger-Fichter. | \nFischer, H. et Comp. | H. Fischer-Grunauer. | Papier- u. Schreibmate-\n | I. M. Imhof-Meyer, Comman- | rial-Handlung.\n  ditair.\nFischer, Johannes. | Joh. Fischer, allein. | Tuchhandlung.\nFleiner, Vater u. Sohn. | I. Wilh. Fleiner, Vater. | Rohe Seide.\n | C. Fleiner, Sohn. | \nFlersheim, S. et Comp. | Sal. Mich. Flersheim, von Frank- | Seidenbandhdlg en gros.\n | furt a. M. | \n | Adolf Flersheim, von Frankfurt | \n  a. M.\n | Nathan Rosenberg. | \n | Sal. Hirschfeld. | \n | Jonas Emil Braunschweig, Pro- | \n  kuraträger.\nForcart-Weis u. Burck- | Rud. Forcart-VonGentschick. | Bandfabrikation.\nhardt-Wildt. | Daniel Burckhardt-Forcart. | \n | Ludwig Burckhardt-Forcart. | \n | Daniel Burckhardt-Thurneysen. | \n\nCc",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10681,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2118,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0185,
+    "mean_line_chars": 37.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:31:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p044",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p044.jpg",
+      "bytes": 1472073,
+      "sha256": "2c82049829687ec0fea53b9aa2910e3fb9c5210bcf0cd15753856e699b4aaadb",
+      "sha256_of": "original",
+      "working_copy": "1862_p044.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:31:00+00:00"
+  }
+}

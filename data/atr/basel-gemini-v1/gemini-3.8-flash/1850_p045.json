@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p045",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p045.jpg",
+    "bytes": 972827,
+    "sha256": "379562e0cb46303d40f2dc2c87007c24ad5bf8322e3f83969a37121d82ae5970",
+    "sha256_of": "original",
+    "working_copy": "1850_p045.jpg"
+  },
+  "text": "32 Steinen-Quartier.\n\n726 Haug, Johannes, Schuhmacher.\n  Müller, Jgfrn. Schwestern, Dor. und Sophie,\n  Schneiderinnen.\n727 Bader, Urs Joseph, Spengler.\n728 Falkner, Jungfrau.\n729 Schneider, Samuel, Schuhmacher und Weinschenk.\n  Mollinet, Seilerladen.\n730 Löw, Joh., Wirth.\n\nSteinenberg.\n\n731-33 (Casino) der Casino-Gesellschaft gehörend.\n  Löw, Abraham, Abwart des Casino's.\n\nBaarfüßerplatz.\n\n734-38 Abgebrochen.\n739 Oser, Adam, Färber und Weinhandlung.\n\nNeuer Kohliberg.\n\nA 739 Oser, Adam, Färber, gehörend.\n740-42 Abgebrochen.\n743 Uebelin, Johann Friedrich, Commis.\n  Uebelin, Heinrich, Commis.\n  Uebelin-Brodmann, Georg, Dessinateur.\nA 744 Rebsamen, Hier., Dessinateur.\nB 744 Honesta, Joseph, Musiklehrer.\n745-46 Remise und Stallung.\n\nMissionsgasse.\n\n747 Stähelin, Wittwe, Rentière.\n  Stähelin, Sam., Bandfabrikant.\n  Reber-Burckhardt, Niklaus, Rentier.\nA 747 Magazin.\n748 Magazin.\n\nAlter Kohliberg.\n\n749 Magazin.\n\nSt. Leonhards-Graben.\n\n750 Haas, Wilh. u. Ed., Schriftgießerei u. Buchdruck.\n  Reber-Sulger, Ben., Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5233,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1029,
+    "lines": 35,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:42+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p045",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p045.jpg",
+      "bytes": 972827,
+      "sha256": "379562e0cb46303d40f2dc2c87007c24ad5bf8322e3f83969a37121d82ae5970",
+      "sha256_of": "original",
+      "working_copy": "1850_p045.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:42+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p070",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p070.jpg",
+    "bytes": 905472,
+    "sha256": "44b6c57761d6d26976fa5e8d420284f5ddca786eb8bcf37cab10fe00e83893da",
+    "sha256_of": "original",
+    "working_copy": "1841_p070.jpg"
+  },
+  "text": "63\nKleine Stadt.\nSt. Bläsi-Quartier.\nAn der Rheinbrücke.\nNro.\n1 weggebrochen.\n2 * Gesellschaftshaus, den drei Ehrengeellschaften jens. geh.\n3 Fausel, Gottlieb, Straßenpflasterer und Weinschenk.\n4 * Schluch, Fr., Fabrikausseher, geh.\n5 Cramer, Aug. Wilh. sel., Wittwe, Spezereihandel.\n6 Zfenegger, Heinrich, Bater, Hafner.\n  Janot, Louise, von La Chaux-de-Fonds, Modiste.\n7 Wäffler, Hieronymus sel., Wittwe, Bäckerei.\n  Müller, Joh. Jakob, Rheinbrückzoller.\n8 Gesler, Andreas, Rothgerber.\n  Haag, Samuel, Commis.\n9 Jäsch, Emanuel, Beck.\n10 * (Reitschule.) Jekt Remise u. Stallung, zu Nro. 15 geh.\n11 * Gesellschaftshaus zur Hären. — Mäkinger, Lucas, Spengler.\n12 Dömmelin, Jakob, Hafners Wittwe, geb. Meyer.\n  Henz, Nikolaus, Hafner.\n13 Bratteler, Jakob, Weißbeck.\n14 Salathe, Jakob Christ., Weinschenk.\n  Ammann, Caspar, Seidenfärbcr.\n15 * Willin, Carl sel., Wittwe, geh.\n  Uez, Joh., Gastwirth zum weisen Kreuz.\n16 u. 17 Müller, Achilles, Spezereihändler.\n18 u. 19 Sutter, Michael, Gastwirth zum Bären.\nSchafgäklein.\n20 Schärflin, Franz, Mezger.\n21 Studer, Anna Maria, geb. Wiederkehr.\n  Wehri, Joh., Blattmacher, von Rüttigen.\n22 Schöttly, Joh., von Unterhallau, Schuhmacher.\n23 Pfirter, Ludwig, von Muttenz, Weinschenk.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3820,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1222,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p070",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p070.jpg",
+      "bytes": 905472,
+      "sha256": "44b6c57761d6d26976fa5e8d420284f5ddca786eb8bcf37cab10fe00e83893da",
+      "sha256_of": "original",
+      "working_copy": "1841_p070.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:05+00:00"
+  }
+}

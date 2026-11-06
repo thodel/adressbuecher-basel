@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p072",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p072.jpg",
+    "bytes": 1006340,
+    "sha256": "b1e570e8e6b57f12aa5ad283f669a41bf62c44b18dd3d060e4273901c30d4f9f",
+    "sha256_of": "original",
+    "working_copy": "1850_p072.jpg"
+  },
+  "text": "St. Alban-Quartier.\n59\n\nC 1311 Sulzer-Heusler, Joh., Bandfabrikant. (Comptoir\nin Nr. 1269.)\nB 1311 (Sprizenhaus) Obrigkeitlich.\n1312 Iselin-Forkart, J. Luk., Wolltuchhandlung.\nIselin, Wilhelm, Sohn.\nIselin-Christ, Rudolf.\n\nSt. Alban-Vorstadt.\n\nHinterhaus von Nr. 1325. Grunauer, Chrst., Pfr.\n1313 Würz, Johann, Zuckerbeck.\n1314 Abt, Blasius, Hausknecht.\n1315 Keßler, Matthias, Seidenwinder.\n1316 Rohner, Joh., Weißbeck.\nC 1316 (Hinterhaus) Gutknecht, J. A., Münzenhändler.\n1317 Wezel, Martin, Papierformenmacher.\nWezel-Schweizer, J. J., Commis.\n1318 Sutter, Christof, Spezierer.\n1319-22 Sarasin-Brunner, Felix, Bürgermeister.\nSarasin, Wittwe, Carol., geb. Burckhardt, Rent.\n\nSt. Albanthal.\n\n1323 Unbewohnt.\n1324 Riedecker-Linder, J. Matth., Commis.\n1325 Grunauer, Christof, Pfarrer.\n1326 Abgebrochen.\n\nSt. Alban-Vorstadt.\n\n1327 Oser-Falkner, Rosine, Wittwe, Rentière.\n1328 Schilling-Dietschy, J. Rud., Commis.\n1329 Blendinger, Jakob, Gehülfe auf dem eidgenössischen\nZollbureau.\n1330 Allenspach-Rudin, Spezierer.\n1331 Lüdin, Johannes, Zimmermann. [handschriftlich: ✓]\nKraus, Bernh., Mechaniker.\n1332 Meck, Elias, Commis.\nMeck, Joh., Commis.\nStähelin, Christ., Chemiker, Privatdozent.\nBauler, Eml., Siegrist zu St. Alban.\nBurkhardt, Jakob, Professor.\n1333 Früh-Remy, Hieronimus, Müller.\n1334 Bärwart-Carle, Joh., Handels-Commis.\n1335 Gesellschaftshaus zum hohen Dolder.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6429,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1367,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 32.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p072",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p072.jpg",
+      "bytes": 1006340,
+      "sha256": "b1e570e8e6b57f12aa5ad283f669a41bf62c44b18dd3d060e4273901c30d4f9f",
+      "sha256_of": "original",
+      "working_copy": "1850_p072.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:39+00:00"
+  }
+}

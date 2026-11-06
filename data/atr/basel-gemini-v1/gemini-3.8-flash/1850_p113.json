@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p113",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p113.jpg",
+    "bytes": 1053079,
+    "sha256": "3b15973a617a44b95ac93d9ed52851e4efa72459ddf5ba5ee01f0100694411ca",
+    "sha256_of": "original",
+    "working_copy": "1850_p113.jpg"
+  },
+  "text": "100\n\nBurckhardt-Roth, Joh.  90\n  Seb., Wirth u. Conduct.  128\n  Achilles, Med. Dr.  159\n  -Gemuseus, J. Conr.  269B\n  -Breck, C. B., Dr. Jur.  376\n  -Ryhiner, Elias  376\n  Eml. Pfarrer  436\n  Wernhard, Glaser  502\n  -Fürstenberger, E., Dr. J.  512\n  -Iselin, Aug., Sohn  547\n  Joh., Metzger  591\n  K., Hauptmann  754M\n  -Burckhardt, K. Leonh.  867\n  -VonderMühll, Hier.  928\n  -Iselin, Hier.  931-33\n  Alfred  934\n  -Forkart, Lud., Hdlsm.  984\n  Abraham, Weißbeck  1027\n  -Heußler, K., Bandf.  1039\n  -Forkart, W., Hdlsm.  1054\n  -Stähelin, R., Graveur  1091\n  -Miville, Ach., Zuckerb.  1171\n  Sebast., Partikular  1194\n  -Vischer, Karl  1210\n  -Haller, R., Med. Dr.  1228\n  -Burckhardt, Eml.  1270\n  -Piguet, Theoph.  1270\n  Jak., Professor  1332\n  K. Fel. Jul. J. U. D.  1345\n  -Burckhardt, Chr. de J.  1349\n  Rudolf, Med. Dr.  1354\n  -Werthemann, Em.  1356\n  Dietrich  1357\n  J. R., Fiskal  1362A\n  -Schrickel, Ed. de L.  1402\n  Jakob, Antistes  1405\n  Aug., Med. & Chir. Dr.  1453\n  -Buxtorf, J. R., Rekt.  1461\n  -Ryhiner, J. J.  1462\n  -His, Martin  1470\n  -Keller, Rudolf  1475\n  -Steffani, Jakob  1470\n  Christ., Med. Dr.  1476\n[spalte 2]\nBurckhardt-Huber, Ach.  1521\n  Gottlieb, Schneider  1536\n  Samuel, Goldschmied  1577\n  -Basler, Chr. de Chr.  1640\n  -Vischer, Wwe., Anna  23A\n  -Gysin, Wittwe  67\n  -Jacot, Wittwe, Lucie  224\n  Leonh., Wittwe  241\n  -Imhof, Wwe., Sus.  440\n  -Wick, Wittwe  456B\n  -Iselin, Wittwe  547\n  -Respinger, Wwe., L.  802\n  -Iselin, Wwe., Kath.  905\n  Wittwe, Ros. Valeria  929\n  -Forkart, Wwe., M.  1050-51\n  -Linder, Wwe., Mar.  1216\n  -Iselin, Wwe., Ros.  1361\n  -Bernoulli, Wittwe  1476\n  -Vischer, Wittwe  1509\n  -Bachofen, Helena  1510\n  -Fäsch, Wwe., Emil.  1704\n  -Kündig, Wittwe  1732-33\n  Geschwister  104\n  Jgfrn., Mar. u. Em.  935\n  Jgfr., Margaretha  1481\n  Sam., Schuhmacher  *62\n  Rudolf, Metzger  *95\n  J. R. L., Waisenvater  *132\n  Daniel, Baumeister  *177\n  Saml., Weißbeck  *185\n  -Schönauer, L.  *274\nvonBüren, Seb., Pfr.  *106\nBürger, J. G., Agent  *274\nBürgin, J. J., Schuhm.  98\n  -Wüst, Fuhrhalter  300\n  J. J., Commis  706\n  Heinrich, Metzger  831\n  J. H., Kerz- u. Seifens.  854\n  J. F., Posamenter  857\n  Fr., Metalldrechsler  1190\n  Karl, Buchbinder  1508\n  Heinrich, Posamenter  1701\nBuser, Hieronimus  475",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11430,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2274,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:18:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p113",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p113.jpg",
+      "bytes": 1053079,
+      "sha256": "3b15973a617a44b95ac93d9ed52851e4efa72459ddf5ba5ee01f0100694411ca",
+      "sha256_of": "original",
+      "working_copy": "1850_p113.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:34+00:00"
+  }
+}

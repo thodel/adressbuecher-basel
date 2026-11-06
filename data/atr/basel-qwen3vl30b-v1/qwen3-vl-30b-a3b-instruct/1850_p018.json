@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p018",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p018.jpg",
+    "bytes": 1162974,
+    "sha256": "5c6baf60b7a487487e7f6de5a0897c1580ac99575e574c5df01520f17d297ab4",
+    "sha256_of": "original",
+    "working_copy": "1850_p018.jpg"
+  },
+  "text": "8\nSt. Johann=Quartier.\n163 Siegrist-Frey, Joh., Tabak- u. Spezereihandlung.\nSiegrist, Joh., Commis.\n164 Stumm, Friedr., Tabak- und Spezereihandlung.\n165 Rumpf, Daniel, Wundarzt und Amtmann.\n166 Grob, Wittwe Maria geb. Bruckner, Knopfmacher.\nGrob, Joh., Postbeamter.\n167 Geist, Wittwe Anna geb. Gaf, Schuhmacher.\n168 Bernoulli, Jak. Hier., Commis.\n169 Wittwe Miville, Hutmacher.\n170 Biermann, Gottfried, Messerschmied.\n171 Häfelingen, Jakob, Geldwechsler.\n172 Handmann, F. F., Goldschmied.\nA 172 (Sprikenhaus) obrigkeitlich.\nB 172 Sehringer, Gg., Kleiderhandlung.\n173 (Posthaus) Bernoulli-Dick, Joh., Postdirektor.\nBrunngäflein.\n174 Wagner, Konrad, Fisch- und Holzhandlung.\nSteiger-Ballon, Geschäftsmann und Töchterschule.\n175 Zäggi-Hiller, Maurer.\n176 Hergott, F. Ludwig, Lehrer.\n177 Breitenstein, Amb., Wirth.\nUnterer Herbergberg.\n178 Beck, Christ., obrigkeitl. Ausrüfer u. Stadttambour.\n179 Eschudy, Martin, Maurer.\n180 Frey-Laudier, F., Sohn, Knopfmacher u. Weinficher.\n181 Abgebrochen.\n182 Magazin.\n183 Kern, Jakob, Fabrikarbeiter.\nSenn-Kern, Hch., Commis.\n184 Prosser, Ch., Spengler.\n185 Allett, Sebastian, Fabrikarbeiter.\n186 Breitenstein, F. F., Trödler u. Spezierer.\n187 Weiß, Joh., Magazinarbeiter.\nHerbergberg.\n188 Martin, Georg, Schreiner.\n189 Kupferschmied, Lukas, Schlosser.\n190 Eckert, Jos., Professor der Mathematik.\n191 Zucke, Benedikt, Musiklehrer.\nReischacher, F. F., Kaufmann.\nKoch-Monin, Karl, Dessinateur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4701,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1426,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p018",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p018.jpg",
+      "bytes": 1162974,
+      "sha256": "5c6baf60b7a487487e7f6de5a0897c1580ac99575e574c5df01520f17d297ab4",
+      "sha256_of": "original",
+      "working_copy": "1850_p018.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:52+00:00"
+  }
+}

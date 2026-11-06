@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p129",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p129.jpg",
+    "bytes": 925176,
+    "sha256": "fcbad85593ebe083c9f8602d35ce73a5590a0f21c1a7f9f25c6b1c3d47903d0c",
+    "sha256_of": "original",
+    "working_copy": "1841_p129.jpg"
+  },
+  "text": "46\n\nTschopp, H. Jak., Kutscher, von Brezweil. 17 St. Joh.-Vorstadt.\nTschopp, Joh. Jakob, Fabrikarbeiter. 1118 Weiße Gasse.\nTschopp, Bernhard, Fabrikarbeiter, von Zyfen. 889 Klosterberg.\nTschopp, Heinrich, Spengler. 1438 Freie Straße.\nTschopp, Johannes, Beck, 848 Unterer Klosterberg.\nTschudy, Ulrich, Schneider, von Bennweil. 614 Hinter der Rüm-\n  linsmühle.\nTschudy, Joh., Maurermeister. 632 Gerbergäßlein.\nTschudy, Joh. Ulrich, Schneider. 1706 Unterer Spahlenberg.\nTschudy, Jakob, Schneider. 237 St. Petersgasse.\n\nU.\n\nUebelin, Joh. Friedrich, Büralist. 743 Ochsengraben.\nUebelin-Geßler, Carl, Handels-Commis. 997 Beim Aeschen-Thor.\nUlmann, Moses, Vater, Wirth zur Kanne. 352 a Spahlen-Vorst.\nUlrich, Conrad, Schneidermeister, von Unter-Stammheim. 18 St.\n  Johann-Vorstadt.\nUngerer, Andreas, Wirthschaft. 1710 Unterer Spahlenberg.\nUster, Joh. Jakob. 207 Spiegelgasse.\nUster, Daniel, Schneider. 1018 Aeschen-Vorstadt.\nUtz, Joh. Fr., Fabrikarbeiter. 56 St. Johann-Vorstadt.\n\nV.\n\nVan Laer, J. A. L. 941 Aeschen-Vorstadt.\nVernier, Friedrich, Schreiblehrer. 657 Gerbergasse.\nVest, Joh. Rudolf, Schuhmacher. 1572 Hinter der School.\nVest, Emanuel, Kaufmann. 235 St. Petersgasse.\nVest, Hieronymus, Gerichtschreiber. 1202 Luftgäßlein.\nVest, Jungfer, Salomea. 392 Bei St. Leonhard.\nVest, Joh. Rudolf, Buchbinder. 1384 Am Bäumlein.\nVest, geb. Müller, Wittwe. 826 Vordere Steinen-Vorstadt.\nVest-Wenk, Joh. Bernh. 1385 u. 1386 Am Bäumlein.\nVillard, Emil, von Evillard, franz. Pfarrer. 272 Im Kloster.\nVillinger, Melchior, Wirthschaft. 367 Auf der Leis.\nVischer, Benedikt, Oberst. 1358—1360 Rittergasse.\nVischer, Salomea und Susanna, Jungfern. 1366 Hint. d. Münster.\nVischer-Handmann, Eduard. 1311 a St. Alban-Vorstadt.\nVischer-Bilfinger, Wilh., Phil. Dr. und Professor. 442 Spieß-\n  hofgasse.\nVischer-Forkart, Margaretha, Wittwe. 1048 St. Albangraben.\nVischer-Valentin, Wilh. 1364 Hinter dem Münster.\nVischer-Passavant, Peter, Handelsmann. 1509 Rheinsprung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7967,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1945,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:58:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p129",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p129.jpg",
+      "bytes": 925176,
+      "sha256": "fcbad85593ebe083c9f8602d35ce73a5590a0f21c1a7f9f25c6b1c3d47903d0c",
+      "sha256_of": "original",
+      "working_copy": "1841_p129.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:52+00:00"
+  }
+}

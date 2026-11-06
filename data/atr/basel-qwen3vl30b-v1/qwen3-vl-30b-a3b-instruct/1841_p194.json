@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p194",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p194.jpg",
+    "bytes": 1055208,
+    "sha256": "c40d5d475a4bdd7d62834785235795a35a9d2c1dcb1a42eb3923776b1f4186ec",
+    "sha256_of": "original",
+    "working_copy": "1841_p194.jpg"
+  },
+  "text": "— 41 —\n\nEglinger, Bernhard. 53 Grenzacherstraße.\nErlacher, Joh., v. Herbetswil, Lehennann. 39 Riehenstraße.\n\nF.\n\nFischer, Joachim, Zoller. 2 Beim Riehenthör.\nFlück, Katharina, geborne Häfelin, von Mümliswil,\nLehenfrau. 55 Grenzacherstraße.\nForster, Wittwe, geb. Müller, von Thalwil, Gärtnerin.\n41 Grenzacherstraße.\nFröhlich, Seraphin, von Wehr, Taglöhner. 39 Riehenstr.\nFrüh, Katharina, Igsfr., Lohnwascherin. 12 Am Teich.\nFurler, Fried., von Zysen, Posamenter. 84 a. Vogelgesang.\n\nG.\n\nGraber, Martin, von Langenbruck, Taglöhner. 55\nGrenzacherstraße.\nGrieshaber, Anna, geb. Gloor, Wittwe, von Unter-Hallau,\nLehenfrau. 39 Riehenstraße.\nGrollimund, Isaak, von Lupfingen, Posamenter. 6 Mittl.\nStraße.\n\nH.\n\nHäfelin, Jakob, von Seengen, Posamenter. 69 Grenzacherstr.\nHänger, Lukas, von Langenbruck, Lehennann. 91 Auf\ndem Bohner.\nHagist, Friedrich, von Riehen, Posamenter. 48 Grenzacherstr.\nHagist, Jakob, von Riehen, Landmann. 48 Grenzacherstr.\nHelfenberger, Joh., von Prattelen, Gutsbesitzer. 84\nVogelgesang.\nHierholzer, Joseph, von Staufen, Gärtner. 94 Bäumlinhof.\nHolinger-Reber, Johannes, Pfarrer. 21 Riehenstraße.\nHösch, Susanna, Igsfr., Part. 45 Grenzacherstraße.\nHösch-Merian, Joh. Jakob, Part. 89 Galgenfeld.\n\nJ.\n\nJenny, Joh. Jakob, Fabrikausseher. 87 Auf dem Gott-\nerbarm.\n\n6",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4098,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1279,
+    "lines": 35,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:04:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p194",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p194.jpg",
+      "bytes": 1055208,
+      "sha256": "c40d5d475a4bdd7d62834785235795a35a9d2c1dcb1a42eb3923776b1f4186ec",
+      "sha256_of": "original",
+      "working_copy": "1841_p194.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:04+00:00"
+  }
+}

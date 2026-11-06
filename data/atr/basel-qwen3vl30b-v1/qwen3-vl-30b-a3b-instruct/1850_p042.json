@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p042",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p042.jpg",
+    "bytes": 1185206,
+    "sha256": "f3894c1a725b20b33b65fb10ee779b76614ccf6675ea79fe0bf6c80a6316a183",
+    "sha256_of": "original",
+    "working_copy": "1850_p042.jpg"
+  },
+  "text": "Steinen=Quartier. 29\n649 Marfort, Wittwe, geb. Meyer, Bergolder.\n    Kummer, Konrad, Liseur.\n650 Märklin, Andreas, Drechsler.\n651 Roth-Ofer, Balthasar, Glaser u. Glashandlung.\n652 Wässler, Sam., Posamentirer, nebst Handlg.\n    Prevot, Louis, Porträtmaler.\n653 Berri, Rob., Rothgerber.\n    Eschientsch, Wilhelm, Drechsler.\n654 Märklin, Jgfr., Marg., Bandladen.\n655 Hunold, Anton, Musiklehrer.\n    Gysler, Jgfrn., Schwefern.\n656 Stockmeyer-Roth, Eman., Spengler.\n657 Eglin, Friedrich, Tuchhandlung.\n    Steiger, Wittwe, A. M.\n658 Altorfer, Heinrich, Messerschmied, Waagmeister.\n    Fäsch, Rudolf, Commis.\n    Gysin, Wittwe, Hebamme.\n659 Schäublin, Joh. Abel, Unterbestäter.\n660 Mäglin, Gustav, Tabakladen.\n    Brunner, Dl., Schneider.\n661 Wohlnich, Joh. Friedrich, Schneider.\n662 Gak-Thurneisen, F., Mezger.\n    Erzberger, Hier., Commis.\n663 Spengler, Wittwe, Papierladen.\n    Grethener, F. F., musikalische Instrumentenmacher.\n664 Nörbel-Geymüller, Hier., Küfer, Wein- u. Brannt-\n    weinhandlung.\n665 Thurneisen, Ludwig, Weißgerber.\n666 Uhlmann-Glock, F. G., Handels-Commis.\n667 Wohlnich, Wittwe, Holzhandlung.\n668 Krug, Markus, Buchbinder.\n669 Hanhart, F. K., Schuhmacher, Quartierschreiber.\n    Stockmeyer, Friedrich, Partikular.\n670 Löw, Joh. Jakob, Eisenwaarenhandlung.\n671 Ammann, Achilles, Sieb- und Trommelmacher.\n672 Keller, Samuel, Kübler.\n673 Oschwind, F. Balth., Güterschaffner.\n    Oschwind, Frau M. U., Modistin.\n674 Christen, Niklaus, Seidenfensal.\n675 Kühn-Weik, Wittwe.\n    Sacher, Anton, Ellenwaarenhandlung.\n    Meyri, Franz, Stadtbote.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4850,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1554,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p042",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p042.jpg",
+      "bytes": 1185206,
+      "sha256": "f3894c1a725b20b33b65fb10ee779b76614ccf6675ea79fe0bf6c80a6316a183",
+      "sha256_of": "original",
+      "working_copy": "1850_p042.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:25+00:00"
+  }
+}

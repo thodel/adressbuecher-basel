@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p070",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p070.jpg",
+    "bytes": 1412740,
+    "sha256": "691338f445e539bebd72262244b5d5b555db41d38479a908417918130593ecb6",
+    "sha256_of": "original",
+    "working_copy": "1862_p070.jpg"
+  },
+  "text": "Verzeichniß\n\nder Straßen, in alphabetischer Reihenfolge, der Häuser und deren\nBenennung mit Angabe der alten und neuen Hausnummer und des\nQuartiers, in dem sie gelegen, der Hauseigenthümer und der Be-\nwohner des Hauses.\n\nNB. Die mit größerer Schrift gedruckten Namen bezeichnen den Hauseigenthümer, die klein\ngedruckten Namen dagegen die Bewohner des betreffenden Hauses. Die römischen Ziffern be-\nzeichnen das Quartier nach Angabe Seite 1.\n\nGroße Stadt.\n\nAeschen-Graben.\n\nNeue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n2 | IV. | 998 a | | Mähly-Fininger, Jakob Caspar.\n  Eichner-Burckhardt, Rud., Bauführer.\n4 | IV. | 999 | | Götz-Hauser, Rud. Heinr.\n  Götz-Hauser, Rudolf Heinrich.\n5 | IV. | 220 C | | Wimmer-Albrecht, Joh.\n  Wimmer-Albrecht, Joh., Partikular.\n7 | IV. | 220 | | Meyer-Simmen, Gedeon.\n  Meyer-Simmen, Ged., Kaufmann.\n  Meyer u. Hindenlang, Agentur u. Com.\n  Wieland-Gemuseus, Emil, Rentier.\n8 | IV. | 998 A | | Brenner-Kron, Carl,\n  Brenner-Kron, Dr. Carl, Advokat.\n  deGoumois-Lichtenhahn, Fr. W., Rent.\n10 | IV. | 998 B | | Stähelin-Bührlen, Christof.\n  Stähelin-Bührlen, Christ., Professor.\n11 | IV. | 220 B | | Friedrich-Hug, Leonhard.\n  Friedrich-Hug, Leonh., Baumeister.\n  Kestner, Charlotte, Partikular.\n12 | IV. | 998 C | | Schwarz-Hauser, Christian.\n  Schwarz-Hauser, Christ., Kaufmann.\n  Firma: Schwarz und Hermann, Roh-\n  seidehandel und Commission.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6525,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1435,
+    "lines": 33,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p070",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p070.jpg",
+      "bytes": 1412740,
+      "sha256": "691338f445e539bebd72262244b5d5b555db41d38479a908417918130593ecb6",
+      "sha256_of": "original",
+      "working_copy": "1862_p070.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:15+00:00"
+  }
+}

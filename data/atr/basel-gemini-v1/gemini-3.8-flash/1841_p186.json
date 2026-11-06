@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p186",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p186.jpg",
+    "bytes": 1072482,
+    "sha256": "7b431d360e82c2b4d4397ecc9715914ffa6d6eb751375f013bb66a4d50eb1731",
+    "sha256_of": "original",
+    "working_copy": "1841_p186.jpg"
+  },
+  "text": "— 33 —\n\nRoth, Jakob, von Mühlethal, Kaufhausarbeiter. 281\n  St. Jakob. O. B.\nRych, Peter, sel. Wittwe, geb. Widmer, von Bieterthal,\n  Lehenfrau. 5 Straße nach St. Louis. U. B.\n\nS.\n\nSacher, Joh., von Zuzgen, Maurer. 281 St. Jakob. O. B.\nSäger, Christian, von Mömpelgard, Schneider. 281\n  St. Jakob. O. B.\nSahner, Jakob, von Trimbach, Lehenmann. 238 Gundel-\n  dingen. O. B.\nSchäublin, Mathias, von Herrischried, Säger. 313 Brückli-\n  berg. O. B.\nSchaffner, Jakob, von Eptingen, Lehenmann. 8 Straße\n  nach St. Louis. U. B.\nSchlag, Heinrich, Lehrer und Gutsbesitzer. 202 Kuchen-\n  gäßlein. O. B.\nSchlag, Sebastian, von Waldenburg, Gutsbesitzer. 216\n  Nauengäßlein. O. B,\nSchlienger, Johannes, v. Helliken, Taglöhner. 264 In-\n  nere Neusäß. O. B.\nSchlöth, Ludwig und Lukas Ferd., Schlosser. 158 Loh-\n  stampfberg. U. B.\nSchmid, Emanuel, Gutsbesitzer. 81 Burgfelderstraße. U. B.\nSchneider, Joh. Jakob, von Reigoldschwil, Lehenmann.\n  65 Davidsboden. U. B.\nSchneider, Johannes, von Reigoldschwil, Lehenmann. 67\n  Davidsboden. U. B.\nSchneider, Heinrich, von Langenbruck, Gutsbesitzer. 75 a.\n  Burgfelderstraße. U. B.\nSchneider, Martin und Jakob, von Langenbruck, Guts-\n  besitzer. 75 b. Burgfelderstraße. U. B.\nSchneider, Friedrich, Schneidermeister und Gutsbesitzer.\n  84 Burgfelderstraße. U. B.\nSchneider, Joh. Ludw., von Langenbruck, Gutsbesitzer.\n  219 Stadtgrabenstraße. O. B.\nSchneider-Scherb, Daniel, Gutsbesitzer. 19 Straße nach\n  St. Louis. U. B.\nSchnöbelin, Heinrich, von Oetenbach, Lehenmann. 121\n  Burgfelderstraße. U. B.\n\n5",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6389,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1528,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0488,
+    "mean_line_chars": 35.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p186",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p186.jpg",
+      "bytes": 1072482,
+      "sha256": "7b431d360e82c2b4d4397ecc9715914ffa6d6eb751375f013bb66a4d50eb1731",
+      "sha256_of": "original",
+      "working_copy": "1841_p186.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:33+00:00"
+  }
+}

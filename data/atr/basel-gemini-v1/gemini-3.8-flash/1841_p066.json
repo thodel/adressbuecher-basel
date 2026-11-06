@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p066",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p066.jpg",
+    "bytes": 953286,
+    "sha256": "89e6b1ef4f71f7086d6b1e9a525235529cd4bbe184f2ae3a7a336cf1d4ef2a2c",
+    "sha256_of": "original",
+    "working_copy": "1841_p066.jpg"
+  },
+  "text": "59\n\nNro.\n\nMarkt.\n\n1666 u. } Schmid-Villinger, Christoph, Metzger.\n1666 a } Bohny, Ambrosius, Handelsmann.\n  Märklin, Peter Eucharius, Commis.\n1667 Fäsch-Dünner, Joh. Jakob, Handelsmann.\n\nHutgasse.\n\n1668 Fischer-Werdenberg, Niklaus, Ausschnitthandel u. Geldwechsel.\n1669 * Vischer, Wilh., Rathsherr, geh.\n  Bienz, Frau Maria Magd., geb. König.\n1670 Petri, Emanuel, Schuhmacher.\n1671 * Baur, Johannes, Gerber, geh.\n1672 Jucker, Ulrich, Handelsmann.\n1673 Präcker, Wittwe, geb. Marg. Steidinger, Zeughandlung.\n1674 Braunschweig, Naphtali, Handelsjude.\n1675 Fäsch-Mieg, Joh. Rud., Weinhandlung.\n1676 Fäsch, Heinrich Ludw., Pastetenbäcker und Kaffeewirth.\n1677 Geßler, Daniel, Hutmacher.\n1678 Piccard, Raphael Moses, Handelsjude.\n\nHinter der Münz.\n\n1679 Hetzel, Georg Friedrich, Mechanikus.\n1680 * Brandmüller-Eckenstein, Heinrich, geh.\n  Soder, Joseph, von Möhlin, Hausknecht.\n\nKuttelgäßlein.\n\n1681 * Hetzel, Georg Friedrich, Mechanikus, geh.\n  Stohler, Wernh., von Zysen.\n1682 Frey, Salomon, von Hofstetten, Kant. Zürich.\n1683 Krayer, Christian, von Emmendingen, Fabrikarbeiter.\n1684 * Kuttelhaus. Lotz, Johannes, Metzger und Kuttler.\n1685 Mangold, Christian, von Lupsingen, Fabrikarbeiter.\n1686 * Scheidecker, Joh. Georg, von Mühlhausen, geh.\n  Thurnherr, Philipp, Aufwärter.\n\nHinter der Rümlinsmühle.\n\n1687 * Zunft zu Schmieden.\n  Rumpf, Wittwe, geb. Sus. Wüst, Stubenverwalterin.\n1688 Haller, Victor, Küfer.\n  Feuerstein-Jaillet, Handels-Commis.\n1689 Ludin, Wittwe, geb. Esther Brodbeck.\n\nGrünpfahlgäßlein.\n\n1690 }\n1691 } Holzach, Bernh. sel., Wittwe, geb. Schölli, Spezereihandlung.\n1692 }",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6380,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1589,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.35,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p066",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p066.jpg",
+      "bytes": 953286,
+      "sha256": "89e6b1ef4f71f7086d6b1e9a525235529cd4bbe184f2ae3a7a336cf1d4ef2a2c",
+      "sha256_of": "original",
+      "working_copy": "1841_p066.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:43+00:00"
+  }
+}

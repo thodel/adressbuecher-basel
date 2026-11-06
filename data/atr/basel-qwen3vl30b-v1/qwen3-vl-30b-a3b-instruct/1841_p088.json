@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p088",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p088.jpg",
+    "bytes": 1074494,
+    "sha256": "9251bfe1a3aee21fee2b433407556deea534808ff384d08ea1224c99f13e69dc",
+    "sha256_of": "original",
+    "working_copy": "1841_p088.jpg"
+  },
+  "text": "5\nBischoff, J. J. fel., Wittwe, geb. Debary. 1471 Münsterplaz.\nBischoff, Sara, Jungfer. 1363 Rittergasse.\nBlattner, Heinrich, Müller. 807 Steinenbruck.\nBlech, Joh. Jakob. 860 Thorsteinen.\nBleich, Julius, Buchhändler-Commis. 651 Gerbergasse.\nBlendinger, Jakob, Ferge. 1329 St. Alban-Vorstadt.\nBleuler, Joh., Fabrikarbeiter, v. Herrliberg. 199 Unt. Herbergberg.\nBleyler, Rudolf, Commissions-, Speditions- und Colonialwaaren-Handlung. 357 St. Leonhardsgraben.\nBloh, Daniel, Seiler. 1621 Untere Freienstraße.\nBloh, Daniel, Handels-Commis. 957 Aeschen-Vorstadt.\nBloh, Joseph, Handelsjude. 1696 Ruttelgässlein.\nBloh, Wittwe, geb. Werdenberg. 1744 Sattelgasse.\nBloh, geb. Kündig, Wittwe. 278 Zeughausgraben.\nBloh, Johannes, Stadtrath. 703 Hinter dem Stöcklein.\nBloh, Johannes, jünger, Färber. 763 Bordere Steinen-Vorstadt.\nBloh, G., Wittwe. 1113 Weise Gasse.\nBlumhardt, Julie, geb. Meier, Wittwe. 386 Missionsgasse.\nBohni, Nikolaus, Kaufhausarbeiter. 620 Hinter d. Kümlinsmühle.\nBohny, Ambrosius, Handelsmann. 1666 a Markt.\nBohny, Niklaus, Handelsmann. 1663 Kindermarkt.\nBolli, Melchior, von Beringen, Kantons Schaffhausen. 102 St. Johann-Schwibbogen.\nBolli, Daniel, Bundarzt. 146 Schwanengasse.\nBollinger, Joh. Jakob, Kaufmann. 555 Adelberg.\nBonnand, Peter, Appreteur. 1250 Malzgasse.\nBonnet, geb. Süß, A. Maria. 814 Bordere Steinen-Vorstadt.\nBonnet, geb. Früh, Barbara, Wittwe. 570 Todtengässlein.\nBorgognon, Constantin, Kaufmann. 763 Bordere Steinen-Vorst.\nBorst, August, Schneider. 321 Spahlen-Vorstadt.\nBosfardt, Rudolf, Büchsenmacher. 468 Beim Spahlenthurm.\nBosfardt, Heinrich und Jakob, Bater u. Sohn, Uhrenmacher. 600 Unterer Spahlenberg.\nBosfardt, Joh., Uhrenmacher und Bannwart. 1156 Gerbergasse.\nBosfardt, J. J., Oberlehrer. Knabenschule. 937 Steinenberg.\nBosfart, Andr., Fabrikferger. 855 Thorsteinen.\nBoskhardt, J., Fabrikarbeiter, v. Burgfelden. 6 St. Joh.=Vorstadt.\nBrand, Isaak, Gerichtsherr. 54 St. Johann=Vorstadt.\nBrändlin, P. fel., Wittwe, geb. Norbel. 361 St. Leonhardsgraben.\nBrändlin=von Mechel, Leonhard, Modehandlung. 137 Fischmarkt.\nBrändlin, geb. Falkeisen, Salomea, Seidenfärberei. 806 Steinenbruck.\nBrändlin, Joh. Jakob, v. Fischenthal, Schuhmacher. 1645 Markt.\nBrandmüller-Eckenflein, Heinr., Spezereihandl. 1660 Kindermarkt.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7109,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2250,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 52.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:52:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p088",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p088.jpg",
+      "bytes": 1074494,
+      "sha256": "9251bfe1a3aee21fee2b433407556deea534808ff384d08ea1224c99f13e69dc",
+      "sha256_of": "original",
+      "working_copy": "1841_p088.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:28+00:00"
+  }
+}

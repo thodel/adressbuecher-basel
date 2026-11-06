@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p072",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p072.jpg",
+    "bytes": 975558,
+    "sha256": "1d62641650b25f4fea417a31e087e2f3f5432d9ba80ecea9fe95b984844afe8f",
+    "sha256_of": "original",
+    "working_copy": "1841_p072.jpg"
+  },
+  "text": "65\n\nNro.\n60 Dalang, Jakob, Beck.\n61 Braun-Geßler, Andreas, Rothgerber.\n  Buxtorf-Falkeisen, Carl, Candidat.\n62 Burckhardt, geb. Wüst, Wittwe.\n  Murbach, Salomea, geb. Burckhardt, Seilergeschäft.\n63 Bienz, Joh., Vorsinger und Zoller.\n64 Bonkilch, Sebastian, Schiffmann.\n65 Thommen, Joh., Ferger.\n  Spielmann, Jakob, Kaufhausarbeiter.\n66 Begle, Joh. Jakob, Maurermeister.\n  Hunziker, geb. Cath. Heußler.\n67 Andres, Jakob, Schuhmacher.\n68 Langmesser, geb. Brenner, Wittwe.\n  Kirschner, Wilh., Lohnkutscher.\n  Freuler, geb. Beyfelder, Barbara, Matratzenmacherin.\n69 Schnell-Burckhardt, Emanuel, Rentier.\n70 Winkler, Clemenz, Schiffmann.\n  Winkler, Johannes, Schiffmann.\n71 Thommen, Hieronymus, von Aristorf.\n72 Glaser, Friedrich, Fischer.\n73 Mätzinger-Bloch, Vater, und Lucas u. Peter, Söhne, Fischer.\n74 Huber, Heinrich, Straßenpflasterer.\n75 Best, Joh. Jakob, Küfer.\n76 * Wertenfels, Jungfer, geh.\n77 Riedtmann, Joh. Heinrich, Rheinzoller.\n  Weber, Joh. Jakob, Commis.\n78 Mätzinger-Brenner, Jakob, Fischer.\n79 Senn, Jakob, von Sissach, Schreiner.\n80 David, Chr., Schiffmann und Wirth.\n  Sternenberger, Euch., Postoffiziant.\n81 Witzig, Martin, Vater und Sohn, Seidenfärbergesellen.\n82 Hill, Joh. Jakob, Fabrikarbeiter.\n83 Christ, Christian, Schuhmacher.\n  Christ, Christian, Schneider.\n84 * Magazin, Fr. Lotz geh.\n85 Kundert, Fridolin, von Bettschwanden, Taglöhner.\n86 Hindenlang, J. Rud., Schiffmann.\n  Weißenburger, Rudolf, Beck.\n87 * Mädchenschule. — Buser, Joh. Jakob, Lehrer.\n88 Mätzinger, Jungfer, Anna, und Frau Geiger, geb. Mätzinger.\n89 Schmidlin, Jakob, Zimmermann.\n\nNußgäßlein.\n\n90 Murbach, Heinrich, Schreiner.\n91 Frei, Franz, Fabrikarbeiter.\n92 Landerer, geb. D'Annone, Wittwe.\n\n9",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7138,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1690,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.69,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p072",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p072.jpg",
+      "bytes": 975558,
+      "sha256": "1d62641650b25f4fea417a31e087e2f3f5432d9ba80ecea9fe95b984844afe8f",
+      "sha256_of": "original",
+      "working_copy": "1841_p072.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:22+00:00"
+  }
+}

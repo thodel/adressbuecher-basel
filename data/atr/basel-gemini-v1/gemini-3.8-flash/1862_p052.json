@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p052",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p052.jpg",
+    "bytes": 1509184,
+    "sha256": "b8fc576ac78427df71567cbea54223dc56110911edc4d714daba05030535297d",
+    "sha256_of": "original",
+    "working_copy": "1862_p052.jpg"
+  },
+  "text": "Ragionenbuch. | XLIX\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nMüller, J. J., et Comp. | J. J. Müller-Pack. | Farbholzmühlen, Farb-\n | Soller-Keller, Commanditair. | holzextract- u. Anilen-\n | Joh. Gysin, Prokuratträger. | farbenfabrik.\nNabholz-Rauchenstein, | Leonh. Nabholz-Rauchenstein, allein. | Agenturen in Wollen-\n  Leonh. | | waaren.\nNeukirch’sche Buchhdlg. | Heinr. Georg-Neukirch, allein. | Besitzer von H. Georgs\n | | Sortimentsbuchhdlg.,\n | | Genf, Corraterie 10.\nNordmann, Elias. | Elias Nordmann-Dietisheim, allein. | Bandhandlung en gros.\nOberriedt, J. G. | Wittwe Bucherer, geb. Parmentier. | Speditions-, Commis-\n | Theodor Reinhold, Prokuraträger. | sions- u. Samengesch.\nDehl, H., u. Casader. | H. Oehl. | Strickwolle, wollene ge-\n | M. Casader-Mieg. | strickte Waaren 2c.\n | Fs. Martin, Commanditair und\n  Prokuraträger. |\nOser u. Gemuseus. | Chr. Rud. Oser. | Mechan. Papierfabrik.\n | Joh. Rud. Wilh. Gemuseus. |\nOswald Gebrüder et | Eman. Walter Oswald-Falkner, | Bankgeschäft.\n  Comp. | Peter Oswald-Linder, |\n  (Comptoir d’escompte.) | eine Gesellschaft von Aktionärs |\n | mit 1000 Aktien im Betrag von |\n | zwei Millionen Frank. als Com- |\n | manditairs, in deren Namen |\n | Lud. Aug. Burckhardt J. U. D. |\n | unterzeichnet hat. |\n | G. Schürer, Prokuraträger. |\nOswald, Gebrüder. | Eman. Walter Oswald-Falkner. | Commission u. Spedit.\n | Peter Oswald-Linder. |\n | Fried. Steinbrüchel, Prokuraträger. |\n | Georg Schürer, Prokuraträger. |\nOstermann et Comp. | Jean Ostermann-Humbel. | Weißwaaren, Lingerie,\n | J. R. Laube, Commanditair. | Broderie, Rideaux,\n | | Stoffwaaren in den\n | | Specialität. f. Trauer,\n | | Halbtrauer und Nou-\n | | veautés.\nPack-Burckhardt, J. | Ernst Gysin-Madöry, allein. | Spezerei-, Käse- und\n | | Branntweinhandlung.\nParavicini, Leonhard. | Wittwe Julie Paravicini-Vonder | Eisen- u. Metallhandl.\n | Mühll. |\n | Eman. de Carl Burckhardt-Burck- |\n | hardt. |\n | Wilhelm Burckhardt-Sarasin. |\n | Eman. Vonder Mühll-Hoffmann. |\n | Const. Borgognon, Prokuraträger. |\nParavicini, Dietiker et | in Liquidation. | Bandfabrik.\n  Comp. | Caspar Siber-Lotz. |\n | Albert Lotz-Holzach. |\nPassavant et Comp. | Em. Passavant-Bachofen, allein. | Bankgeschäft.\nPernaux, Viktor. | Viktor Pernaux-Müller, allein. | Quincaillerie.\nPeter, F. H. | F. H. Peter, allein. | Agenturgeschäft.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9961,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2351,
+    "lines": 53,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:32:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p052",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p052.jpg",
+      "bytes": 1509184,
+      "sha256": "b8fc576ac78427df71567cbea54223dc56110911edc4d714daba05030535297d",
+      "sha256_of": "original",
+      "working_copy": "1862_p052.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:13+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p083",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p083.jpg",
+    "bytes": 918667,
+    "sha256": "a4306496cce73296064e9d11bb83d1ddf3123a3836d74ac5c83c849444ae0753",
+    "sha256_of": "original",
+    "working_copy": "1850_p083.jpg"
+  },
+  "text": "70 Stadt = Quartier.\n\nHinter der Schoor.\n\n1568 Stürchler, Wittwe.\n1569 Grunauer, A., Seckler und Kappenmacher.\n1570 Kappeler, Wittwe, Trödlerin und Gantfrau.\n1571 Fischer, Joh. Peter und Daniel, Küfer.\n1572 Vest, Wittwe.\n  Engressat, Wittwe, Parapluiemacher.\n1573 Dietschy-Wick, Wittwe, Weinschenk.\n1574 Junker, J. J., Wundarzt.\n  Dollfuß, Wittwe, Partikularin.\n  Plüß, Joh., Liseur.\n\nMarkt.\n\n1575 Vogt, Joh. Georg, Glas- u. Eisenwaarenhandlung.\n\nSporrengasse.\n\n1576 Imhof-Forkart, J. J., Lederhandlung.\n1577 Burckhardt, Samuel, Goldschmied.\n1578 (Zunft zu Metzgern) Obrigkeitlich.\n  Pfannenschmid, Lukas, Metzger.\n1579 Schneider-Braun, Wittwe, Quincaillerie- u. Stroh-\n  huthandlung.\n  Schneider, Eduard, Kaufmann.\n1580 Imhof, Wilhelm, Goldschmied.\n1581 Merian-Respinger, Karl Franz Jos., Spezereihdlg.\n1582 Dénéréaz, J. Frz. Sim., Speditor.\n  Rieber-Meyer, J. J., Wollenwaarenhandlung.\nA 1583 (Stadtpolizeibureau u. Brodlaube) Obrigkeitlich.\n\nEisengasse.\n\n1584-88 Durch die neue Häusereintheilung weggefallen.\n1589 (Spinnwetternzunft) Elsner, J. J., Kornmesser,\n  Stubenverwalter.\n  Kühn, J., Tabackhandlung.\n  Schoch, J. J., Eisenhandlung.\n  Düring, Wittwe, Kostgeberin.\n1590 Vest-Theubet, Em., Fayence- u. Porzellanhandlung.\n  Theubet, Viktor, Partikular.\n1591 Braun, J., Vater, Spezerei- und Tabackhandlung. [handschriftlich: gestrichen]\n  [handschriftlich: Versteigert an d. Selegner.[?] I Füzeli]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6821,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1403,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p083",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p083.jpg",
+      "bytes": 918667,
+      "sha256": "a4306496cce73296064e9d11bb83d1ddf3123a3836d74ac5c83c849444ae0753",
+      "sha256_of": "original",
+      "working_copy": "1850_p083.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:57+00:00"
+  }
+}

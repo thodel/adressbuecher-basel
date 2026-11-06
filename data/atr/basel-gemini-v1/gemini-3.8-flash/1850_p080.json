@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p080",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p080.jpg",
+    "bytes": 964754,
+    "sha256": "d916d08c593c9bfb24aeb0f1fc9867c6fb2690298f067b39f3f50d436d07e45a",
+    "sha256_of": "original",
+    "working_copy": "1850_p080.jpg"
+  },
+  "text": "St. Alban- und Stadt-Quartier. 67\n\n1509 Vischer-Passavant, Peter, Rentier.\n  Vischer-Merian, Karl, Bandfabrikant.\n  Burckhardt-Vischer, Wittwe, Rentière.\n1510 Burckhardt-Bachofen, Helene, Rentière.\n  Bachofen-Burckhardt, Karl, Bandfabrikant.\n1511 Bischoff-Burckhardt, Wilh., Obristl., Bandfabrikant.\n  Bischoff, Karl de Johann, Rentier.\n1512 Sulzer-Dobler, Wittwe Louise, Rentière. [handschriftlich: gestrichen] [handschriftlich: Kaufmann Stehlin]\n1513 Bischoff-Buxtorf, Joh., Bandfabrikant.\n\nSt. Martin.\n\n1514 (Magazin) Debary und Bischoff, Joh., gehörend.\n\nRheinsprung.\n\n1515 Forkart-Respinger, Lukas, Handelsmann.\n1516 Rumpf, Christof, Partikular.\n  Rumpf, J. W., Cand. Theol.\n\nBei der Rheinbrücke.\n\n1517 Buxtorf-Preiswerk, Christof, Taback- und Spezerei-\n  handlung.\n1518 Soulzener, Alexander, Zuckerbeck.\n1519 Obrigkeitlich.\n1510 Abgebrochen.\n\nStadt-Quartier.\n\nFischmarkt.\n\n1521 Burckhardt-Huber, Ach., Wechselsensal.\n1522 Gubler, Johann, Weinschenk.\n1523\n  Luthringshauser, Ed., Commis.\n  Faure, Matth., Schirmfabrikant.\n1524 Neukirch-Flick, Joh. Georg, Buchdruckerei u. Buch-\n  handlung.\n1525 Fleiner-Fäsch, Wilh., Commis, hält feine französ.\n  Weine in Flaschen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5011,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1170,
+    "lines": 33,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0303,
+    "mean_line_chars": 33.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p080",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p080.jpg",
+      "bytes": 964754,
+      "sha256": "d916d08c593c9bfb24aeb0f1fc9867c6fb2690298f067b39f3f50d436d07e45a",
+      "sha256_of": "original",
+      "working_copy": "1850_p080.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:39+00:00"
+  }
+}

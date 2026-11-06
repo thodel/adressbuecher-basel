@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p144",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p144.jpg",
+    "bytes": 1011038,
+    "sha256": "14b09d65b0f7d92e2929862030ea051b426bc22b34db846a4044d7c73cd8ccf6",
+    "sha256_of": "original",
+    "working_copy": "1841_p144.jpg"
+  },
+  "text": "61\n\nSocin, Peter, Weinhändler. 294 Webergasse.\nSocin-Heusler, Bernhard, Rathsherr. 174 Rebgasse.\nSoller, Emanuel, Kübler. 161 Rebgasse.\nSoller, Friedrich, Weißbeck. 339 Untere Webergasse.\nSoller, Friedrich, Kaufmann. 157 Rebgasse.\nSpeiser-Hauser, Joh. Jak., Sohn, Kaufmann. 110 a Am Lindenberg.\nSpielmann, Jakob, Kaufhausarbeiter. 65 Rheingasse.\nStaab, Heinrich, Schiffmann. 42 Rheingasse.\nStengelin, Jonathan, Wagner. 190 Rebgasse.\nSternenberger, Euch., Postoffiziant. 80 Rheingasse.\nStockmeyer, Emanuel, Candidat. 379 Krempergasse.\nStohler, Martin, von Zysen, Fabrikarbeiter. 103 Am Lindenberg.\nStrub, Emanuel, Weißbeck. 292 Webergasse.\nStuder, Anna Maria, geb. Wiederkehr. 21 Schafgäßlein.\nSulger-Heusler, Joh., Kaufmann. 369 Untere Rheingasse.\nSulger-Stähelin, Andr., Kaufmann. 192 Rebgasse.\nSuter, Heinrich, Fabrikaufseher. 297 Webergasse.\nSutter, Joh. Jakob, Sattler. 371 Untere Rheingasse.\nSutter, Mich., Gastwirth zum Bären. 18 u. 19 An der Rheinbrücke.\n\nT.\n\nTester, Josua, Zimmermann. 140 Beim Riehen-Thor.\nThommen, Peter, Metzgers sel. Wittwe, geb. Kistler. 56 Rheingasse.\nThommen, Joh., Ferger. 65 Rheingasse.\nThommen, Joh., Schuhmacher. 263 Im Rumpel.\nThommen, Jakob, Schneider. 119 Obere Rebgasse.\nThommen, Rud., Sattler. 387 Krempergasse.\nThommen, Hieronymus, von Aristorf. 71 Rheingasse.\nTreu, Wittwe, geb. Bienz. 363 u. 364 Untere Rheingasse.\nTreu, Rud., Müller und Oeler. 364 Untere Rheingasse.\nTripet, Franz, Dr. der Philosophie. 280 Webergasse.\nTrüb, Rud., Spezerei- und Tabackhändler. 384 Krempergasse.\nTschopp, Rud., Seidenfärber. 186 Rebgasse.\n\nU.\n\nUebelin, J. J., Diakon bei St. Theodor. 165 Rebgasse.\nUehlinger, Joh. Adam, Glaser. 38 Rheingasse.\nUehlinger, Joh. Georg, Fabrikant von Tschakodeckel und lakirtem\n  Leder. 338 Untere Webergasse.\nUetz, Joh., Gastwirth zum weißen Kreuz. 15 An der Rheinbrücke.\nUrech, geb. Sus. Wierz, Wittwe. 416 Udengasse.\n\nV.\n\nVest, Christoph, Sohn, Metzger. 178 Rebgasse.\nVest, Jungfer, Salomea. 270 Beim Bläsithor.\n\n8",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7287,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1973,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:00:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p144",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p144.jpg",
+      "bytes": 1011038,
+      "sha256": "14b09d65b0f7d92e2929862030ea051b426bc22b34db846a4044d7c73cd8ccf6",
+      "sha256_of": "original",
+      "working_copy": "1841_p144.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:52+00:00"
+  }
+}

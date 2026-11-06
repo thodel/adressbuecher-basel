@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p013",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p013.jpg",
+    "bytes": 1267792,
+    "sha256": "8731143b1ce8ab2bd5a556411c4bda3675ff7ef60c980c9c0fffb4d25e24100e",
+    "sha256_of": "original",
+    "working_copy": "1862_p013.jpg"
+  },
+  "text": "X\nBehörden und Beamte.\nHr. Prof. Ignaz Hoppe, M. et Ch. D. | Patentiert ohne Apotheken.\n\" Bernhard Rumpf, M. et Ch. D. | Hr. J. J. Bernoulli, Ph. Dr.\n\" Prof. Wilh. His, M. et Ch. D. | \" Friedrich Hagenbach.\n\" Christian Grimm, M. et Ch. D. | \" J. Christian Kellermann, Bater.\n\" Prof. Ludw. Rütimeyer, M. et Ch. D. | \" Emanuel Merian.\n\" Gust. Bernoulli, M. et Ch. D. | \" Johannes Wimmer.\n\" Alfred Stähelin, M. et Ch. D. | \" August Riggenbach.\n\" Theophil Bruckner, M. et Ch. D. | \" Georg Rauch.\n\" Hermann Haagen, M. et Ch. D. | \" Jonathan Hoch.\n\" Christoph Aebi, M. et Ch. D. | \" Carl Bulacher, Ph. Dr.\n\" Ludwig Widmann, M. et Ch. D. | \" Joh. Jak. Mieg.\n\" Aug. Socin, M. et Ch. D.\n\" Friedrich Müller, M. et Ch. D.\n\" Gottlieb Burckhardt, M. et Ch. D.\n\" Albert Siegrist, M. et Ch. D.\n\" H. Schief, M. et Ch. D.\n\" Arnold Rosenburger, M. et Ch. D.\n\" J. A. Schaub, Ch. D. et M. L., in\nRiehen.\n\" J. J. Weissenberger, Ch. et M. L.\nin Riehen.\nWundärzte.\nHr. Daniel Rumpf.\n\" Lucas Treu.\n\" Xaver Schmid.\nZahnärzte.\nHr. David Rittmann.\n\" W. Sefter.\n\" C. Siegmund, Sohn.\n\" Alphons Cartier.\n\" Carl August Sievers.\n\" Jakob Stohler.\n\" Ch. S. Putnam.\nThierärzte.\nHr. Friedrich Meyer.\n\" Rudolf Ofer.\n\" Achilles Gnöpf.\n\" Emanuel Eglinger.\nApotheker.\nHr. Jakob Huber.\n\" Emil Kellermann.\n\" Heinrich Naumann.\n\" Carl Betulius.\n\" Wilhelm Kind.\n\" Ferdinand Thamm, Provifor der\nWettsteinifchen Apotheke.\n\" Markus Meisner.\n\" Fr. Geiger, Dr. phil.\nHebammen.\nFrau M. M. Gysin.\n\" Verena Baur.\n\" Catharina Hindenlang.\n\" Friederike Elsner.\n\" Catharina Dubois.\n\" Helena Falkner.\n\" Lienhardt-Hänger.\n\" Maria Kleinwitz.\n\" Elise Taschner.\n\" A. M. Christen-Mangold.\nCatharina Hug.\nMagd. Flubacher.\nd. Vom Sanitätskollegium ernann-\nter Schaumeister.\nHr. Thierarzt Rudolf Ofer.\nFleischschauer.\nHr. J. Strübin.\n\" L. Pfannenschmied.\ne. Waffenmeister.\nHr. Thierarzt Friedrich Meyer.\nf. Dessentlicher Chemiker.\nHr. Friedr. Goppelsröder, Ph. Dr.\nX. B. Sanitätsausschuss.\nHr. Rathsherr J. J. Imhof, Präsident.\nMarktherren.\nAuf dem Kraut-, Obst-, Anken-, Fisch-\nu. Holzmarkt.\nHr. Ludwig Linde-Engressat, Präsident.\n\" J. J. Steinmann.\n\" Rud. Schuler.\n\" Peter Thurneyßen, Drehslcr.\nAuf dem Viehmarkt.\nHr. Balth. Fischer, Präsident.\n\" Mark. Krug.\n\" Philipp Kehlstadt, Bater.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6891,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2222,
+    "lines": 86,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 24.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p013",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p013.jpg",
+      "bytes": 1267792,
+      "sha256": "8731143b1ce8ab2bd5a556411c4bda3675ff7ef60c980c9c0fffb4d25e24100e",
+      "sha256_of": "original",
+      "working_copy": "1862_p013.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:24+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p100",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p100.jpg",
+    "bytes": 1073909,
+    "sha256": "19839e3b44faf7149b71b49c3ce5ab8c459139bbd5a645f82bf59b47bcfd6a01",
+    "sha256_of": "original",
+    "working_copy": "1850_p100.jpg"
+  },
+  "text": "Riehen-Quartier.\n87\n\n202 Schardt, Peter, Küfer.\n  Schardt, Ludw., Sohn, Polizei-Sekretär.\n203 Obrigkeitlich.\n204 Wegner, Joh. Rud., Seidenfärber.\n205 (Mehlwaage) Obrigkeitlich.\n206 Heußler, Karl Leonh., Kaufmann.\n  Schuler, Adam, Weißgerber.\nA 206 Schupp, Joseph, Kutscher.\n207-11 Wohnhaus, Remise u. Stallung, Braun, Jean,\n  Vater, gehörend.\n212 Hediger, J. Rud., Fabrikarbeiter.\n213 Guiring, Joh. Martin, Schneider.\n\nGreifengasse.\n\n214 Oswald, Friedrich, Schuhmacher.\n215 Horner, Wittwe, Rentière.\n216 Müller, Heinrich, Schlosser.\n217 Reber-Biermann, Ph. Th., Arzt.\n  Dalang-Heger, Ed., Ferger.\n218-20 Bertrand, Jos., Lohnkutscher, Weinschenk.\n221 Zäslin, Heinrich, Thorschreiber.\n  Zäslin, Franz, Buchbinder.\n222 Münch, Joh. Kaspar, Med. et Chir. Dr., Stadt-\n  physikus.\n223 Hotz, Jak., Fabrikarbeiter.\n224 (Gesellschaftshaus z. Greifen.)\n  Kellermann, Joh. Christ., Apotheker.\n225 Weiß, Jungfrau Judith [handschriftlich: seel. Erben]\n226 Hitz-Bohni, Wittwe Anna, Partikularin.\n227 Bulacher, Joh., Seifen- u. Kerzenfabrikant.\n228 Meyer, J. J., Weißbeck.\n229 Lang-Oser, Wittwe, Partikularin.\n  Oehl-Lang, Heinrich, Commis.\n230 Schmidt, Daniel, Kübler.\n231 Neukomm, Joh., Wirth.\n232 Gaß, Andreas, Schuhmacher.\n233 Flubacher, Heinrich, Hausknecht. [handschriftlich: gestrichen] [handschriftlich: Joh. Ulrich Pfirter Roßschlächterknecht]\n234 Glaser, Friedrich, Fischer.\n235 Langmesser, J. H., Seiler.\n236 Wohnlich, Wittwe, Weißbeck.\n237 Baumgartner, Franz Heinrich, Schneider.\n238 Fäsch, N., Kupferschmid, Salzhausschreiber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7785,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1523,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p100",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p100.jpg",
+      "bytes": 1073909,
+      "sha256": "19839e3b44faf7149b71b49c3ce5ab8c459139bbd5a645f82bf59b47bcfd6a01",
+      "sha256_of": "original",
+      "working_copy": "1850_p100.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:51+00:00"
+  }
+}

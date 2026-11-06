@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p058",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p058.jpg",
+    "bytes": 1008170,
+    "sha256": "150182cf3a5240b7e45f9822928da95a287f7bd4c13c5e0facde4e1971f69e88",
+    "sha256_of": "original",
+    "working_copy": "1841_p058.jpg"
+  },
+  "text": "51\nNro.\n1432 Schnegg, J. J., Glockengießer.\n1433 Müller, Jakob fel., Wittwe, Knopfmascher.\n1434 Beaudroi, Andr., Metzger fel., Wittwe.\n1435 u. 1436 Paravicini = Bon der Mühl, Eman.\n    (Ragion der Eisenhandlung : Leonhard Paravicini.)\n1437 Ebendemselben.\n1438 Tschopp, Heinrich, Spengler.\n1439 Holzach, H. Friedrich.\n    (Firma der Glashandlung : Joh. Conrad Holzach.)\n1440 Raillard=Geilinger, Rud., Weinhandlung.\n1441 Brenner=Scheuchzer, J. J. fel., Wittwe.\n    Brenner, Carl, Dr. Juris.\n1442 Ramsperger-Hug, Eman., Spezereihandlung.\n1443 Marfort, Ant. Jos., Sattler.\n1444 Gasthof zum wilden Mann. Pfander, J. J.\n    Bernoulli, Hieron., älter, u. Comp., Tabakniederlage.\n    Pfander, J. J., Gold- und Silberwaaren-Niederlage.\n1445 * Zunft zum Himmel. Erzberger, Rud., Zuckerbeck.\n1446 Wahr, Ph., älter, Tuchhandlung.\n1447 Wahr, Ign., jünger, dito\n    La Roche, Joh. David.\n1448 Respinger-Bernoulli, Emanuel.\nSchlüsselberg.\n1449 Spittler, Christ. Friedrich, Sekretär.\n1450 Freimaurer-Loge.\n1451 Hagenbach, Peter, alt Oberförster.\n    Hagenbach, Joh. fel., Wittwe, geb. Sarasin.\n1452 * Thurneyssen, Elise, Jungfer, geh.\n    Müller, Joh. Georg, Professor.\n1453 v. Brec, Achilles, Consul in Moskau.\n    Burckhardt, August, Med. Dr.\n1454 Universitäts-Bibliothek.\n1455 Reber=Geilinger, J. J.\n1456 Wieland, Joh. Heinrich fel., Wittwe.\nMünsterplatz.\n1457 * Rosenburger-Rapp geh.\n    Riggenbach, Christoph, Architekt.\n1458 * Alte Lesegesellschaft. Heusler-Hägi, Martin.\n1459 Merian-Wieland, J. J., Rentier.\n1460 * Burckhardt, Carl, Bürgermeister.\n1461 * Gymnasium. La Roche, Daniel, Rektor.\n    La Roche, Andreas.\n1462 * Frey, Joh. Rud., Bürgermeister.\n    Socin-Frey, Eduard, Kaufmann.\n1463 u. 1464 * Neue Lesegesellschaft. Mieg, J. J., Bibliothekar.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5217,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1743,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p058",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p058.jpg",
+      "bytes": 1008170,
+      "sha256": "150182cf3a5240b7e45f9822928da95a287f7bd4c13c5e0facde4e1971f69e88",
+      "sha256_of": "original",
+      "working_copy": "1841_p058.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:10+00:00"
+  }
+}

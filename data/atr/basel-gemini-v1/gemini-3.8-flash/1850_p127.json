@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p127",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p127.jpg",
+    "bytes": 1077273,
+    "sha256": "f0ae3e42a292c32fa136465af9c39315255bc20bae8ac34001182dade956f995",
+    "sha256_of": "original",
+    "working_copy": "1850_p127.jpg"
+  },
+  "text": "114\n\nMangold, S., Zimmerm. 778\n  Joh., Wirth 1685\nManz, Remigius 7\n  Joh., Maler 784\nMarbach, J., Gerichtsweib. 474\nMarfort, J. B., Vergolder 225\n  -Meyer, Wwe., „ 649\n  Wittwe, Sattler 1442\nMaring, Peter, Schlosser 1102\n  Eml., Rentier 1612\n  -Vogt, Wittwe 1736\n  Wwe., Ellenwaarenhg. *380\nMärklin, A., Drechsler 650\n  P. Euch., Ferger 1045A\n  -Knöpf, Wwe., Dor. 443\n  Jgfr., M., Bandladen 654\n  Geschwister *374\nMärky, K. Fr., Ferger 876\nMarolf, F., Schreiblehrer 77\nMarriott, W., Phil. Dr. 453\nMartin, Georg, Schreiner 188\n  Heinr., Flachmaler 752\n  Andr., Fabrikaufseher 859\n  Leonh., Hafner 1019\n  Matth., Wirth 1266\n  J. J., Flachmaler *166\nMasarey, Fz., Färber *270\nMassini, Rud., Commis 1618\nMast, R., Postoffiziant 296\n  J. J., Buchdrucker 1622\nMattmüller, G., Kutscher 248\n  Matth., Kutscher 1356\nMazinger, J. J., Commis 86\n  Sam., Commis 86\n  Franz, Schreiblehrer 232\n  Chr., Commis 861\n  Hch., Kaminfeger 1278\n  J. B., Siegrist 1413\n  Bernh., Commis 1423\n  Bened., Schuhmacher 1673\n  L., Spengler *11\n  Konrad, Schuhmacher *44\n  -Bloch, J. J., Vater *73\n[spalte 2]\nMazinger, Lukas, Sohn *73\n  Wittwe, Schlosser 86\n  -Deck, Fr. M., Modiste 1132\n  Salomea, Mercerie 648\n  -Nell, Wittwe *179\n  Jgfr., Anna Elisab. *88\n  Jgfr., Ros., Korbhdl. *381\nMaurer, Jak., Spengler *76\nvonMechel, B., Landjäger 784\n  Rud., Küfer *279\nMeck, Elias, Commis 1332\n  Joh., Commis 1332\nMehr, F. J., Kosthaus 1647\nMeister, Hch., Zimmerm. 890\n  Dietrich, Geschäftsm. 1704\nMende, Ben., Hafner 957\n  F. G., Antiquar 1562\n  Adam *122\nMenger, Karl 1275A\nMengis-Brand, Mart. 37\n  Peter 900-2\nMennrich, K., Zimmerm. 1336\nMerian-Köchlin, Eduard 41\n  Nikolaus 108\n  -Legrand, Peter 242B\n  -Keller, Alb. 267C\n  -Frischmann, Rud. 350\n  Eml., Apotheker 417\n  -Merian, Balthasar 434A\n  -Neber, Partikular 448\n  Gustav, Bierbrauer 619\n  Eml., Küfer, Bierbr. 701-2\n  Friedr., Bierbrauer 870\n  Ludw., Partikular 870\n  -Forkart, F. 912\n  -Iselin, Karl, Kaufm. 938\n  Benedikt, Sattler 948\n  J. J., Kondukteur 989\n  -Bernoulli, M., Fr. 1025\n  -Bernoulli, J. R., Prof. 1026\n  -Burckhardt, Christ. 1046\n  -Weiß, R., Küfer 1078-79\n  -Bischoff, Saml. 1200",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8920,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2121,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 21.74,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:20:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p127",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p127.jpg",
+      "bytes": 1077273,
+      "sha256": "f0ae3e42a292c32fa136465af9c39315255bc20bae8ac34001182dade956f995",
+      "sha256_of": "original",
+      "working_copy": "1850_p127.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:54+00:00"
+  }
+}

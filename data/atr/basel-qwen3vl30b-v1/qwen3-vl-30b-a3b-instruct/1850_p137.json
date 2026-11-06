@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p137",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p137.jpg",
+    "bytes": 1125647,
+    "sha256": "064603fe50eebba2bf17ba1dff9f2e151ce65842a730964906c5c5ede0daa6e0",
+    "sha256_of": "original",
+    "working_copy": "1850_p137.jpg"
+  },
+  "text": "124\nvon Speyr, Wittwe 1422 | Steiger, Wittwe, A. M. 657\nSpittler, Chr., Buchhdlr. 1450 | R., Flachmaler *289\nSpörlin-Merian, Bwe. 712-13 | Steigmeyer, F. 1595\nWittwe Katharina *406 | Stelzer, L., Schreiner *142\nSpreng-Heusler, Eml. 260A | Stengelin, F., Wagner *190\nJoh. Jaf., Senfal 554 | Steinbrüchel, F. F. 598\nSprenger, F., Commis *280 | Steiner, F., Fabrikarb. 786\nSpreyermann, Elias 754 | Wittwe, Gastgeb. 1531-32\nF. G., Schneider 1113-14 | Steingas, Professor 438\n=Märklin, Wittwe 842 | Steinmann, F., Schneider 643\nSprünglin, D., Maurer 1000 | F. M., Müller 1305\nJgfr., Partikularin 1623 | =Berri, F., Spengler 1633\nSpyri, Fch., Färber *59 | Sternenberger, Euch. *294\nStähelin-Bernoulli, B. 260 | Wittwe, Kostgeberin 195\nBenedikt, Sohn 377-78 | Stieler, Jof., Musiker 299\n=Bitschoff, Ben. 377-78 | Stierlin, E., Wollenhlg. 1552\n=Zimmerlin, F. F. 434 | -Matheß *43, Tapetenf. 1667\n=Stückelberger, Peter 550 | Stocker, Al., Pintensf. 758\nSam., Bandfabrikant 747 | Stöcklin, F. U., Zettlerm. 616\n=Stähelin, R., Hdlsm. 1091 | Leonh., Fabrikausseher 808\n=Schönauer, Hier. 1197 | Leonh., Schuhmacher 819\nChrist., Privat-Dozent 1332 | Heinrich, Posamenter 840\n=Vischer, A., Hdlsm. 1340 | F. F., Commis 1077B\n=Christ, B., Eisenhdlg. 1613 | Joseph, Maurer 1745\nWittwe, Rentière 747 | Stockmeyer, E., Spengler 656\nJgfr. Salomea 445 | Friedrich, Partikular 669\nStählin, Ant., Stuhlschr. 1719 | Jmanuel, Pfarrer 1499\nStaib, M., Schlosser 1529 | Niklaus, Postangest. 1501\nStänz, F. C., Posam. 992 | Abraham *186\nStapfer, F., Commis 1222 | Stohler, Hch., Ferger 9A\nStauber, Rudolf, Beck 318 | Wittwe, Elisabeth *103\nRudolf, Appreteur 431 | Stoll, Jof., Schreiner 213\nU. R., Cigarrenm. *308A | Stöffel, Jof., Gastgeber 353\nStefan, R., Weißbeck 825 | Rudolf, Kutscher 1390\n=von Mechel, Wittwe 825 | Straker, F., Schreiner 328\nStehelin-Imhof, Ed. 283 | Straubhardt, F., Hauskn. 52\nG., Spez.-Hdlg. 313 | Straumann, R., Ferger 1242\nEmil, Med. Dr. 441 | Streckeisen, Eml. 456A\nStehlin, F. F., Zimmerm. 1249 | Jgfr. Emma 1365\nSteiger, Sebastian 162 | Karl, Med. Dr. 1637\n=Ballon, Geschäftsm. 174 | =Cäsar, Wittwe 1365\nF. F., sel. Erben 589 | Streicher, Jof. 1695\nR., Stadtbote 1028 | Streitmatter, Andreas 789\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8319,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2207,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p137",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p137.jpg",
+      "bytes": 1125647,
+      "sha256": "064603fe50eebba2bf17ba1dff9f2e151ce65842a730964906c5c5ede0daa6e0",
+      "sha256_of": "original",
+      "working_copy": "1850_p137.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:15+00:00"
+  }
+}

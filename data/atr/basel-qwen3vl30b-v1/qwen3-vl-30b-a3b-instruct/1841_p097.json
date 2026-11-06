@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p097",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p097.jpg",
+    "bytes": 957596,
+    "sha256": "781fd5263c9ff60fdbdace15a58f58b1898d3a82d15dde539a70678fc0ac00a8",
+    "sha256_of": "original",
+    "working_copy": "1841_p097.jpg"
+  },
+  "text": "14\nFrey, Salomea, Jungfer. 1377 Hinter dem Münster.\nFrey-Thurneyfen u. Chrift, Bandfabrik. 1207 Rittergasse.\nFrey, J. J., Commissions- u. Speditions-handlung. 1160 Gerbergasse.\nFrey, Jer., Knopfmacher. 180 Unterer Herbergberg.\nFrey, Ursus, Landjäger. 720 Hinter dem Stöcklein.\nFrey, Joh. Rudolf, Bürgermeister. 1462 Münsterplatz.\nFrey, Daniel, alt Landjäger. 1074 Tiefe.\nFrey, Heinrich, Candidat. 904 St. Elisabethen.\nFrey, Herkules, Schneider. Gesellschaftshaus zum Rupf. 1040\n  Aeschen-Borstadt.\nFrey, Hans Ulrich, Schreiner. 259 a Neue Borstadt.\nFreyburger, Hieron. sel., Wittwe. 962 Sternengäcklein.\nFreyvogel und Böcklin. 1309 St. Alban-Thal.\nFreuler, Jakob, Kaufmann. 351 Spahlen-Borstadt.\nFreuler, Franz Jos., Schriftseker. 460 Hinter dem Spahlenthurm.\nFric, Geschwister, Näherinnen. 586 St. Andreasplatz.\nFricke, Joh., ab dem Rukhof. 410 Trillengäcklein.\nFriedmann, Hermann, Schneider. 726 Barfüsserplatz.\nFriedrich, Rud., Maurer und Steinmeß. 925 St. Elisabethen.\nFriedrich, J. J., Spetter. 963 Sternengäcklein.\nFries, Joh. Jakob, Glaser. 573 Todtengäcklein.\nFries, Leonhard, Buchbinder. 162 Storchengasse.\nFrischknedt, Joh., Handels-Commis. 1122 Pfluggasse.\nFrischknedt, Joh. 1139 Weiße Gasse.\nFrüh-Konus, Hieron., Kanzlei-Sekretär. 1535 Eifengasse.\nFrüh, Abraham, Hufschmid und Thierarzt. 141 Blumengasse.\nFrüh, Ludwig, Hufschmid. 141 Blumengasse.\nFrüh, Jakob Friedrich, Spannermeister. 864 Thorsteinen.\nFrutiger, J. Abraham, im Eifenladen der HH. Paravicini. 240\n  Kirchgäcklein.\nFüllemann, Ludw., Schneider u. Abwart auf der Anatomie. 1007\n  Aeschen-Borstadt.\nFüller, Joseph, Gärtner. 1140 Weiße Gasse.\nFürst, Christian, Landjäger. 1700 Schnabelgäcklein.\nFürstenberger-Burchardt, Joh. 512 Adelberg.\nFürstenberger-Debary, Joh. Georg, Wollenhandlung. 511 Adelberg.\nFürstenberger, Joh., Partikular. 375 St. Leonhardsgraben.\nFürstenberger, Wittwe sel., Erben. 1482 Augustinergasse.\nFürstenberger, geb. Socin, Wittwe. 90 St. Johann-Borstadt.\nFürstenberger, Maria Salomea, Jungfer. 439 Spiekhofgasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6349,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2007,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 47.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:53:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p097",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p097.jpg",
+      "bytes": 957596,
+      "sha256": "781fd5263c9ff60fdbdace15a58f58b1898d3a82d15dde539a70678fc0ac00a8",
+      "sha256_of": "original",
+      "working_copy": "1841_p097.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:53:30+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p161",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p161.jpg",
+    "bytes": 1025094,
+    "sha256": "0fe61b26684ca473126f6eb517a890d7097d06ba105bac634286e45df75d9a40",
+    "sha256_of": "original",
+    "working_copy": "1841_p161.jpg"
+  },
+  "text": "— 8 —\n\nHindenlang, Emanuel, Lohnamtsarbeiter. 524 Adelberg.\n* Hindermann-Kling, Joh. Jakob. 1756 Schneidergasse.\nHölz, Hieronymus, Faktor auf der Post. 579 Schneidergasse.\nHodel, Jakob Friedrich, Schuhmacher. 1155 Gerbergasse.\nHörler-Früh, Johann Jakob, Sohn, Zucker- und Pasteten-\n  bäcker. 1602 Sporrengasse.\nHofer, Rud., v. Anwil, Papierer. 1273 St. Albanthorgasse.\nHofer-Petri, J. J., Handels-Kommis. 1235 St. Alb. Vorst.\nHofmann, Heinrich, Hausmeister in der Strafanstalt. 271\n  St. Joh. Graben.\nHoffmann-Meyer, Georg Rud. 1592 Eisengasse.\nHolzach, Friedrich, Part., 1533 Bei der Rheinbrücke.\nHolzach, Eucharius, Grieser. 1662 Rindermarkt.\nHolzach, Barbara, Jgfr., 1439 Freienstraße.\nHolzach, Joh. Bernhard. 1669 Hutgasse.\nHolzach, M. Katharina, Hebamme. 1669 Hutgasse.\nHorner, J. J., Schuhmacher. 568 Todtengäßlein.\nHosch, Lukas, Schuhmacher. 977 Sternengäßlein.\nHuber, Geschwister. 853 Thorsteinen.\nHuber-Schmitter, J. J., Kommissionsh. 1595 Eiseng.\nHübscher, Adolf, Kürschner. 1597 Eisengasse.\nHübscher, D. Gottfried, Pfundzoller und Wollenwaaren-\n  handlung. 640 Gerbergasse.\nHübscher-Von Speyr, Em., Kürschner. 1597 Eisengasse.\nHug, Wittwe, geb. Sus. Charl. Schnäbelin. 1163 Gerbergasse.\nHunold, Anton, Musiklehrer. 1643 Markt.\nHurter, Fr., v. Schaffhausen, Commis. 312 Spahlen-Vorst.\nHurth, Joh., v. Hegenheim, Kutscher. 922 St. Elisabeth.\nHusson, Leopold, v. Mez, Rentier. 1426 Freienstraße.\n\nJ.\n\nJäcklin-Grüninger, Em., Steinmetz. 1548 Eisengasse.\nJaissy, Franz, von Blauen. 1003 Aeschen-Vorstadt.\nJaissy, Joh., v. Blauen. 288 Spahlen-Vorstadt.\nJaus, Martin, Glaser. 101 St. Joh. Schwibbogen.\nJauslin, A., Sohn, Kand. d. Theol. 1625 Unt. Freienstr.\nJenny, J. J., Kaufhausarbeiter. 461 Hint. d. Spahlenthurm.\nJenny, J. J., Spannermeister. 683 Hinteres Gerbergäßlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8012,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1778,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:02:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p161",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p161.jpg",
+      "bytes": 1025094,
+      "sha256": "0fe61b26684ca473126f6eb517a890d7097d06ba105bac634286e45df75d9a40",
+      "sha256_of": "original",
+      "working_copy": "1841_p161.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:31+00:00"
+  }
+}

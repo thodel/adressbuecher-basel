@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p033",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p033.jpg",
+    "bytes": 1068048,
+    "sha256": "3cb062be03be7feb493afddd9919a99e3a452e6fd7130754ca8a4a139567ecb9",
+    "sha256_of": "original",
+    "working_copy": "1850_p033.jpg"
+  },
+  "text": "Spahlen = Quartier. 21\n456 Herzog=Neber, Emanuel, Partikular.\nMerian=Kespinger, Wittwe, Rentière.\nA 456 Streckefen, Eml., Cassier auf der Bank.\nSenn=Gysin, Dl., Zollbeamter.\nB 456 Burckhardt-Wick, Wittwe, Rentière.\nWick, Frau Pfarrer, Wittwe.\n457 Ludwig, F. H., Wittwe, Weinschenk.\nWerenfels, Eml., Maler.\n458 Ryff, Wittwe, Wirthschaft.\nHinter dem Spahlenthurm.\n459 Obrigkeitlich.\n460 Schärer, Leonhard, Meßger.\n461 Wernly, Ab.\n462 Holdenecker, Achilles, Buchhändler, (vereint mit\nNr. 457 A) und Leihbibliothek.\n463 Müller, Heinrich, Spezierer.\nBeim Spahlenthurm.\n464 Häfner, Sch., Flachmaler.\n465 Euler-Fren, Rudolf, Handelsmann.\nJäcklin, Dl., Postofficiant.\n466 Block-Scherb, Peter, Küfer.\nBaumgartner, W., Ferger.\n467 Jenny-Minder, Wittwe.\n468 Boffardt, Rudolf, Kornmesser.\n469 Wiesner, Eml., Maler.\nOberer Spahlenberg.\n470 Meyer-Kinder, Phil., Handelsmann.\n471 Geßler, Kaspar, Nothgerber.\n472 Bücher, Joh., Schuhmacher. Siegrift zu St. Peter.\nHoff, Charles, engl. Sprachlehrer.\n473 Flubacher, Eml., Commis und Spezierer.\nHosch-Buxtorf, Wittwe.\n474 Marbach, Jaaß, Kürschner, Civilgerichtswaibel.\n475 Buser, Hieronymus, Pastetenbeck.\n476 Siegrift, Joseph, Kutscher.\nHerzog, B., Kutscher.\n477 Sandreuter, Eman., Beck.\nFischer, F. F., Fabrikarbeiter.\n478 Müller, Heinrich, Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4336,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1288,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p033",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p033.jpg",
+      "bytes": 1068048,
+      "sha256": "3cb062be03be7feb493afddd9919a99e3a452e6fd7130754ca8a4a139567ecb9",
+      "sha256_of": "original",
+      "working_copy": "1850_p033.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:49+00:00"
+  }
+}

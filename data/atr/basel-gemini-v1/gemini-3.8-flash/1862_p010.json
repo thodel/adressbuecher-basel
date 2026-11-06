@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p010",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p010.jpg",
+    "bytes": 1358694,
+    "sha256": "6c05b3681c5cfda613af6b98582d4b89f12c59d50089c349cee7a803636b1e46",
+    "sha256_of": "original",
+    "working_copy": "1862_p010.jpg"
+  },
+  "text": "Schweizerische\n\nBundesbehörden und Beamte.\n\nfür das Jahr 1862.\n\nBundesrath.\nHr. Jakob Stämpfli, Präsident, Chef des\n  politischen Departements.\n„ Constant Fornerod, Vice-Präsident,\n  Chef des Militär-Departements.\n„ Joseph Martin Knüsel, Chef des\n  Finanz-Departements.\n„ Wilhelm Näff, Chef des Post-De-\n  partements.\n„ Friedrich Frey-Herosee, Chef des\n  Handels- und Zoll-Departements.\n„ Giovanni Battista Pioda, Chef des\n  Dep. des Innern u. d. Bauwesens.\n„ Jakob Dubs, Chef des Justiz- und\n  Polizei-Departements.\n\nBundeskanzlei.\nHr. Ulrich Schieß, Kanzler, Sekretär d.\n  Nationalraths.\n„ J. Kern-Germann, Stellvertreter,\n  Sekretär des Ständeraths.\n\nNationalrath.\nKreis XXIII Basel-Stadt.\nHr. J. J. Stehlin, Nationalrath.\n\nStänderath.\nBasel-Stadt.\nHr. Aug. Stähelin-Brunner, Ständerath.\n\n[spalte 2]\nBundesgericht.\nHr. Arnold Otto Aepli, Präsident.\n„ Ed. Eugen Blösch, Vice-Präsident.\n„ Dr. Eugen Escher, Gerichtsschreiber.\n\nEidgenössischer Schulrath.\nHr. Carl Kappeler, Präsident.\n„ Dr. Alfred Escher, Vice-Präsident.\n„ Joh. Gust. Stocker, Prof., Sekretär.\n„ Dr. Pompejus Bolley, Director der\n  polytechnischen Schule.\n„ Dr. Gustav Zeuner, Vice-Director.\n\nSchweizerische Zollverwaltung.\nI. Zollgebiet Basel.\n(Grenzlinie der Cantone Bern, Solothurn,\n  Basel-Stadt, Basel-Landschaft, Aargau.)\nHr. Dr. Carl Ferdinand Schimpf, Director.\n\nSchweizerische Postverwaltung.\nV. Postkreis Basel.\nHr. Joh. Maurer, Direktor.\n„ Johannes Gürtler, Controleur.\n\nSchweiz. Telegraphenverwaltung.\nII. Telegraphenkreis Bern.\nHr. August Frey, Inspector.\n  Bureau Basel.\n„ Leopold Brogle, Chef.\n\nA",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9393,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1578,
+    "lines": 56,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 26.55,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p010",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p010.jpg",
+      "bytes": 1358694,
+      "sha256": "6c05b3681c5cfda613af6b98582d4b89f12c59d50089c349cee7a803636b1e46",
+      "sha256_of": "original",
+      "working_copy": "1862_p010.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:44+00:00"
+  }
+}

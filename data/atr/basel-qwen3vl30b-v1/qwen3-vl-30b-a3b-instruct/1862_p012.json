@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p012",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p012.jpg",
+    "bytes": 1512285,
+    "sha256": "4802c9edc86cafd0ac761fdf3f799274691fc27ac806a341c2fe0497152ad152",
+    "sha256_of": "original",
+    "working_copy": "1862_p012.jpg"
+  },
+  "text": "Behörden und Beamte.\nIX\nV. Militärcollegium.\nFr. Rathsherr u. eidg. Oberstl. Rud.\nMarian, Präsident.\n  a. Zeughauskammer.\n  Fr. Major Alfred BonderMühl, Prä-\n  sident.\n  b. Kommission zur Untersuchung\n  körperlicher Gebrechen der Miliz-\n  pflichtigen.\n  Fr. eidg. Oberst Friedr. Kern, Präsident.\n  c. Kommission zur Taxation und\n  Klassifikation der des gewöhn-\n  lichen Militärdienstes enthobe-\n  nen Mannschaft.\n  Fr. Major Alfred BonderMühl, Prä-\n  sident.\n  d. Kommission für das Löschwesen.\n  Fr. Rathsherr Leonhard Fininger, Prä-\n  sident.\nVI. Justiz- u. Polizeicollegium.\nFr. Rathsherr Adolf Christ, Präsident.\n  Grundbuch-Verwalter.\n  Fr. Carl Bernoulli, J. U. D.\n  Hypothekenbuch- und Katasterver-\n  walter des Stadtbezirks.\n  Fr. Abraham Ifelin.\n  \" Friedrich Rudolf Falkner, Kataster-\n  Geometer.\nVII. Baucollegium.\nFr. Rathsherr Carl Sarasin, Präsident.\n  Landwirthschaftliche Kammer.\n  Fr. Prof. Rud. Merian, Präsident.\n  Baubeamte.\n  Fr. F. Merian, Kantonsingenieur. (prov.)\n  \" Ludw. Calame, Bauinspektor. (prov.)\n  \" Friedr. Baader, Straßeninspektor.\n  \" Daniel Barth, Bauverwalter.\n  \" F. F. Uebelin, Bauschreiber.\n  \" Eduard Hosch, Baucassier.\n  \" G. Schuster, Stadtgärtner.\n  \" Leonhard Bresin, Feuerschaubeamter.\n  Baupolizei-Commission.\n  Fr. Altbürgermeister Dr. F. F. Burck-\n  hardt, Präsident.\nVIII. Handelscollegium.\nFr. Rathsherr Carl Bischer, Präsident.\n  Das Ragionenbuch\n  wird abwechslungsweise von den Mitgliedern des Handelscollegiums unter Beiziehung des Sekretärs befolgt.\nBeeidigte Wechfel-Senfalen.\nFr. Achilles Burckhardt.\n\" Hier. Hosch.\n\" Friedr. Buxtorf.\n\" Rud. Frey-Stückelberger.\n\" Carl Oser.\n\" August Buxtorf.\nIX. Handwerkscollegium.\nFr. Rathsherr J. Chr. Schmidt, Prä-\nsident.\nX. A. Sanitätscollegium.\nFr. Rathsherr J. J. SmHof, Präsident.\n  a. collegium medicum.\n  Fr. Prof. C. G. Jung, M. et Ch. Dr.,\n  Präsident.\n  b. Wundschau.\n  Fr. Dr. Ludwig deWette, Physikus, Prä-\n  sident.\n  c. Aerzte, Wundärzte, Thierärzte,\n  Apotheker u. Hebammen.\n  Aerzte.\n  Fr. Johannes Riffel, M. et Ch. Dr.\n  \" Professor J. J. Mieg, M. et Ch. D.\n  \" Prof. J. G. Jung, M. et Ch. D.\n  \" Joh. Schwab, M. D.\n  \" Emanuel Raillard, M. D.\n  \" Ludwig Imhof, M. D.\n  \" Melchior Berry, M. D.\n  \" J. R. Burckhardt-Haller, M. D.\n  \" Prof. Carl Fr. Meisner, M. et Ch. D.\n  \" Benjamin Siegmund, M. D.\n  \" Emanuel Wybert, M. et Ch. D.\n  \" Aug. Burckhardt-Dief, M. et Ch. Dr.\n  \" Prof. F. Brenner, M. et Ch. D., Irrenarzt.\n  \" Rud. Maas, M. et Ch. D.\n  \" Prof. Carl Streckefsen, M. et Ch. D.\n  \" Rud. Burckhardt-Burckhardt, M. et\n  Ch. D.\n  \" Ludwig deWette, M. et Ch. D.\n  \" Christ. Burckhardt-Bischoff, M. et Ch. D.\n  \" Heinrich Ifelin, M. et Ch. D.\n  \" Emil Stühelin, M. et Ch. D.\n  \" Daniel Ecklin, M. et Ch. D.\n  \" Georg Scherb, M. et Ch. D.\n  \" Theod. Meyer, M. et Ch. D.\n  \" Achilles Burckhardt, M. et Ch. D.\n  \" Alfred Frey, M. et Ch. D.\n  \" Philipp Reber, M. et Ch. D.\n  \" Prof. Fr. Miescher, M. et Ch. D.\n  \" Martin Burckhardt-His, M. et Ch. D.\n  \" Wilhelm Münch, M. et Ch. D.\nAa",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8909,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3000,
+    "lines": 102,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.049,
+    "mean_line_chars": 26.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p012",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p012.jpg",
+      "bytes": 1512285,
+      "sha256": "4802c9edc86cafd0ac761fdf3f799274691fc27ac806a341c2fe0497152ad152",
+      "sha256_of": "original",
+      "working_copy": "1862_p012.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:17+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p056",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p056.jpg",
+    "bytes": 959870,
+    "sha256": "3c3545b822d305e0671a42ba3feb6a5dddc47c7b75190f6e9f983ed20a072d39",
+    "sha256_of": "original",
+    "working_copy": "1841_p056.jpg"
+  },
+  "text": "49\nNro.\n1367 * Christ, Remigius, Stadtrath, geh.\nRudin, Joh., Jeger.\n1368 Magazin, demselben geh.\n1369 Preiswerk, geb. Forkart, A. M.\n1369 a Magazin von Achilles Bischoff.\n1370 * Der Stadt geh.\nVon der Mühl-Burckhardt, Magazin.\n1371 Schulhaus, der Stadt geh.\n1372 * Bischoffs-Hof, der Stadt geh.\nChrist, Benedikt.\n1373 * Der Kirchen- und Schulguts-Verwaltung geh.\nGerlach, Franz, Dr., Professor u. Bibliothekar.\n1374 * Derselben. Linder, Johannes, Obersthelfer.\n1375 * Derselben. Wagner, Friedrich, Reallehrer.\n1376 * Thurneisen-Burckhardt, Balthasar, geh.\n1377 Rhüner-Christ, Eman., Kaufmann.\nFrey, Salomea, Jungfer.\nAm Bäumlein.\n1378 Lok, J. J., Küfer.\nPichioni, Ludwig, Professor.\n1379 * Der Kirchen- und Schulguts-Verwaltung.\nFechter, Dan. Alb., Doktor.\n1380 Heusler-Kuder, Daniel.\n1381 Chinger-La Roche sel. Wittwe.\nChinger-von Speyr, Chr. Math., Banquier.\n1381 a Lex, Felix Jof., Notar.\nGoppelsröder-von Speyr, Georg Friedr.\nBurckhardt, J. Rud., Fiskal.\n1382 * Dem Kanton geh. Schneider, Martin, Gerichtschreiber.\n1383 Bernoulli, Daniel, Dr., Notar.\n1384 Best, Joh. Rud., Buchbinder.\n1385 u. 1386 Best-Wenk, Joh. Bernh.\nReischach, Joh. Jakob.\n1387 u. 1388 Mendel, Joh. C., Wittwe.\n1389 Rächer, J. J., Schuhmacher.\n1390 Stöffel, Rud., Kutscher.\nHeik, C. F. sel., Wittwe.\n1391 * Heik, geb. Eltester, Wittwe, geh.\nHeik, August Christoph, Notar.\n1392 Beck, Eman. sel., Wittwe.\n1393 Finninger, Sam., Sattler.\n1394 * Bienz, Nikol., geh.\nSchwester Hindelang.\nSpitalsprung.\n1395 Segiser, Ludwig, Schuhmacher.\n1396 Mohler, Schwester.\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4808,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1532,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p056",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p056.jpg",
+      "bytes": 959870,
+      "sha256": "3c3545b822d305e0671a42ba3feb6a5dddc47c7b75190f6e9f983ed20a072d39",
+      "sha256_of": "original",
+      "working_copy": "1841_p056.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:00+00:00"
+  }
+}

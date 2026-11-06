@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p095",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p095.jpg",
+    "bytes": 947412,
+    "sha256": "c53e4b91b9bf725b20ceaaa5fc2a7ee56eb99781e65e6ed9f8bd97ab404635a9",
+    "sha256_of": "original",
+    "working_copy": "1850_p095.jpg"
+  },
+  "text": "82\nRiehen = Quartier.\n85 Kundert, Wittwe Anna, Seidenwinderin.\n86 Hindenlang, Joh. Rud., Schiffmann.\nHasler, Nikl., Beck.\n87 (Mädchenschulhaus) Fäsch, Friedrich, Lehrer.\n88 Makinger, Jgfr. Anna Elisabeth.\n89 Schmidlin, Jakob, Zimmermann.\nAufgäfklein.\n90 Riggembach, F. F., Ladengehilfe.\nThommen, Heinrich, Appreteur.\n91 Frey, Franz, Fabrikarbeiter.\n92 Landerer d'Annon, Wittwe.\nLindenberg.\n93 Arnz, G., Partikular.\nPhilippi, Alb. Julius, Commis.\n94 Schilling, Peter, Kremper.\nKöllner, Rud., Geschäftsmann.\n95 Burkhardt, Rudolf, Metzger.\n96 Euler, F. F., Schuhmacher, Quartierschreiber.\nFrey, Karl, Lehrer.\n97 Huttinger, Wittwe Louise.\n98 Wezel, Jak. Friedr., Fabrikarbeiter.\n99 Zürcher, Heinr., Schneider.\nUdengasse.\n100 Laudier, Simon, Zettlermeister.\nAbig, G., Schlosser.\nSchwarz, Ph., Maler.\nLindenberg.\n101 Glasler, Jakob, Zimmermann.\n102 Bresin, M., Kaminfeger.\n103 Stohler, Wittwe Elisabeth, Kostgeberin.\nA 103 (Magazin) Imhof, Söhne, gehörend.\n104 Fäsch, Mag., Leonh., Organist.\n105 Bildungs-Anstalt für weibliche Dienstboten.\nHabicht, Barbara, Hausmutter.\n106 von Büren, Sebastian, Pfarrer.\nFluri, Niklaus, Vikar.\nLohner, Benedikt, Lehrer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3764,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1147,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0256,
+    "mean_line_chars": 28.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p095",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p095.jpg",
+      "bytes": 947412,
+      "sha256": "c53e4b91b9bf725b20ceaaa5fc2a7ee56eb99781e65e6ed9f8bd97ab404635a9",
+      "sha256_of": "original",
+      "working_copy": "1850_p095.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:19+00:00"
+  }
+}

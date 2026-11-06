@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p155",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p155.jpg",
+    "bytes": 946499,
+    "sha256": "a2baa722fdca63680629182e9d61c7ca445bf67b96bcf0cd1ff6436c5af58beb",
+    "sha256_of": "original",
+    "working_copy": "1850_p155.jpg"
+  },
+  "text": "142\n451 F. D. Simoth . Jul. Otto Simoth.\n566 A N. Socin u. Sohn . Abel Socin-Legrand.\n               . Eduard Socin-Fren.\n               . Carl Gauthey, Procurat-\n                 träger.\n*178 Soller & Cie. Joh. Friedrich Soller.\n               . Martin Horandt.\n               . Jakob Christof Schöck,\n                 Commanditaire.\n156 Fb. Speifer . Jakob Speifer.\n1188 von Speyr & Cie. Eduard von Speyr.\n               . Georg Friedrich Goppels-\n                 röder.\n               . Carl von Speyr-Jselin.\n               . Joh. Heinrich von Speyr,\n                 Procuraträger.\n438 Joh. von Speyr . . Joh. von Speyr.\n1449 C. F. Spittler . . Christ. Friedr. Spittler.\n712 Wittwe Spörlin & Cie. . Sara Spörlin geb. Me-\n                 rian.\n               . Hieron. Loz-Spörlin.\n1623 Joh. Sprüngly fel.\n               Wittwe Jungfrau Elisabeth\n               Weydmann.\n1091 Gebrüder Stähelin . . Rudolf Stähelin.\n               . Balth. Merian-Merian.\n260 Stähelin-Bernoulli Balthasar Stähelin-Ber-\n                 noulli.\n1613 Benedikt\n               u. Emanuel Stähelin . . Balthasar Stähelin-\n                 Christ.\n378 Balth. de\n               Bened. Stähelin . . Benedikt Stähelin.\n               . Benedikt Stähelin, Sohn.\n313 Gottfried Stehelin . . Gottfr. Stehelin, Bater.\n               . Gottfr. Stehelin, Sohn.\n1045B Jakob Stückelberger . Jakob Stückelberger.\n164 F. F. Stumm & Cie. . Johann Friedr. Stumm.\n1181 A. u. N. Sulger . . Andr. Sulger-Stähelin.\n1269A Sulger & Stückel-\n               berger Joh. Sulger-Heusler.\n               . Andr. Stückelberger.\n1386 Suter-Ronus . Rudolf Suter-Ronus.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4248,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1621,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p155",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p155.jpg",
+      "bytes": 946499,
+      "sha256": "a2baa722fdca63680629182e9d61c7ca445bf67b96bcf0cd1ff6436c5af58beb",
+      "sha256_of": "original",
+      "working_copy": "1850_p155.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:31+00:00"
+  }
+}

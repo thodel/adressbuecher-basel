@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p058",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p058.jpg",
+    "bytes": 1019227,
+    "sha256": "fcf0ac0efb5a314b0bb439983ac5ca90d59062089a4e76c595a38d617e88e993",
+    "sha256_of": "original",
+    "working_copy": "1850_p058.jpg"
+  },
+  "text": "Aeschen-Quartier.\n45\n\nAeschen-Vorstadt.\n\n1007 Schneider, Daniel, Schuhmacher.\n  Fäß, Kaspar, Maurerparlier.\n  Gremmer, G., Leistschneider.\n1008 (Gasthaus z. schwarz. Bären) Müller, Fz., Gastgeber.\n1009 Isenthaler, Matthias, Taglöhner.\n1010 Berri, Elias, Beck.\n  Neithardt, F. F., Steinmetz-Parlier.\n1011 Weißenburger, Karl, Commis.\n  Lotz, Rudolf, Alt-Postoffiziant.\n1012 Oppermann, Joh. Georg, Schreiner. [handschriftlich: gestrichen] [handschriftlich: Jb. Hofstetter]\n1013 Mäglin, Benedikt de Anton, Handels-Commis.\n1014 Fersing-Zeslin, Wittwe, Caroline, Commissions- u.\n  Speditionshandlung.\n  de Wette-Fersing, L. W. F., Med. Dr.\n1015 Gyßler-Wierz, Wittwe, Marie, Zuckerbeck.\n1016 Müller, Leonhard, Schlosser.\n  Kappeler, Kasp., Spitalunterschreiber.\n1017 Mohler, Heinrich, Seiler.\n1018 Brand, Rud., Kerzen- u. Seifenfabrikant.\n\nBrunngäßlein.\n\n1019 Martin, Leonhard, Hafner.\n1020 Scheune und Stallung.\n1021 Osiander, Stuhlschreiner.\n1022 DeWette, Sophie, geb. Streckeisen, Rentière.\n1023 (Scheune u. Stallg.) Forkart-Bachofen, Rud., geh.\n\nAeschen-Vorstadt.\n\n1024 Unbewohnt. [handschriftlich: gestrichen] [handschriftlich: Joh Friedr. Erlenacher, Hafner.]\n1025 Merian-Bernoulli, M., Fr., ehem. Pfr.\n1026 Merian-Bernoulli, Joh. Rud., Phil. Dr. u. Prof.\n1027 Burckhardt, Abraham, Weißbeck.\n  Baumann, Hs., Hafner.\n1028 Barbierstube von Lukas Treu.\n  Steiger, Nikl., Stadtbote.\n1029 Winzenried, Sam., Spezierer.\n\nRappengäßlein.\n\n1030 Garnjobst, Simon Herrmann Christ., Aufseher der\n  Zuchtanstalt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6714,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1497,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 35.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p058",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p058.jpg",
+      "bytes": 1019227,
+      "sha256": "fcf0ac0efb5a314b0bb439983ac5ca90d59062089a4e76c595a38d617e88e993",
+      "sha256_of": "original",
+      "working_copy": "1850_p058.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:06+00:00"
+  }
+}

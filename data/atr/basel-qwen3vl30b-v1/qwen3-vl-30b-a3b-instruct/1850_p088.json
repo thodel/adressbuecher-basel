@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p088",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p088.jpg",
+    "bytes": 1017918,
+    "sha256": "1d63b92965cda0878401d0463bf1a8a6bd0d341309502b230880d0bd24459acd",
+    "sha256_of": "original",
+    "working_copy": "1850_p088.jpg"
+  },
+  "text": "Stadt=Quartier. 75\nHutgasse.\n1667 Fäsch-Dünner, F. F., Seidenwaarenhandlung.\n    Stierlin-Mathes, Tapetenlager.\n1668 Meyer, Friedrich, Auschnitthandlung.\n1669 Geßler, Leonhard, Buchbinder.\n    Pümpin, Samuel, Sohn, Postfaktor.\n1670 Petri, Emanuel, Schuhmacher.\n1671 Folz, Wittwe, Fürkäuferin.\n1672 Fucker, Ulrich, Rentier.\n    Kling, Melch., Feger.\n1673 Mazinger, Bdt., Schuhmacher.\n1674 Braunschweig, Wittwe, Waarenhandlung.\n1675-76 Fäsch-Hauser, Heinr. Ludw., Zuckerbeck.\n1677 Geßler-Ritter, Daniel, Hutmacher.\nHinter der Münz.\n1678 Biccard, Abrah., Kaufmann.\n1679 Hezel, G. Fr., Mechaniker u. Schleifer.\nRuttelgäfklein.\n1680 Tschopp, Johannes, Landjäger.\n1681 Hezel, Gottl., geh., Mechanikerwerkstätte.\n1682 Breithaupt, Jakob, Fabrikarbeiter.\n1683 Kräner, Christian, Fabrikarbeiter.\n1684 (Ruttelhaus) Lok, Leonh., Metzger u. Ruttler.\n    Lok, Leonh., Knopfmacher.\n1685 Mangold, Johann, Wirth.\n    Brolly, Franz Anton, Feger.\nHinter der Rümlinsmühle.\n1686 Scheidecker, Wittwe, Kostgeberin.\n1687 (Zunft zu Schmieden) Weiß, F. N., Stubenverw.\n1688 Haller, Viktor u. Urs, Küfer.\n1689 Grimm, Lukas Rudolf, Schuhmacher.\nGrünpfahlgäfklein.\n1690-91 Holzach-Schölln, Wittwe, Käs-, Branntwein und\n    Spezereihandlung.\n1692 Holzach, Franz, Kaufmann.\n    Merian, Ludwig, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4413,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1272,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p088",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p088.jpg",
+      "bytes": 1017918,
+      "sha256": "1d63b92965cda0878401d0463bf1a8a6bd0d341309502b230880d0bd24459acd",
+      "sha256_of": "original",
+      "working_copy": "1850_p088.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:50+00:00"
+  }
+}

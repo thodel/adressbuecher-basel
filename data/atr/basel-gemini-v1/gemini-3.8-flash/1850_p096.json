@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p096",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p096.jpg",
+    "bytes": 1051579,
+    "sha256": "943aa56b3974e18e89746e00aeb92c8f616fb0d4899824a09121572cab5e1e62",
+    "sha256_of": "original",
+    "working_copy": "1850_p096.jpg"
+  },
+  "text": "Riehen-Quartier.\n83\n\n107 David-Meyer, Rudolf, Metzger.\nWeber-Salathe, Friedrich, Dessinateur.\n108 Hartmann, Sml., Ferger.\n109 Magazin.\n110 Brenner-Sager, J., Commis.\nA 110 Surgan, Karl, Partikular.\n\nRheinweg.\n\n111 Gengenbach, Wittwe Salomea.\nGengenbach, Gust., Kaufmann.\nGengenbach, Eml., Cand.\n112 Wießner, Hch., Lohnkutscher.\nBasler, Jakob, Beck.\nAB112 Riedtmann, Wittwe.\nCD112 (Scheune, Stallung und Magazin.)\n113 (Das obere Rheinthor) Obrigkeitlich.\nA 113 Riedtmann, Nikl., Holzhändler.\nFischer, Friedr., Prof. Phil.\nSchönbein, Friedr., Prof. de Chemie.\nMinder, Sam., Rathsherr.\n113 Obrigkeitliches Rheinzollbureau.\n114 (Karthaus) Keller, Xaver, Gärtner. [handschriftlich: gestrichen] [handschriftlich: Jnst. d. Waisenhauses.]\nCourvoisier, August, Commis.\n115 (Magazin) Obrigkeitlich.\n\nObere Rebgasse.\n\n116 (Magazin. Karthauseck.)\n\nKirchgäßlein.\n\nA 116 Bernoulli-Bär, Leonhard, gehörend.\nSauerbeck, Jakob, Magazinier.\n\nObere Rebgasse.\n\n117 Meyer, Casp., Appreteur.\nKrasten, Hch., Stuhlschreiner.\n118 Euler, Abraham, Küfer, Stubenverwalter.\n119 Bienz, Georg, Schreiner.\n120 Kammerer, Simon, Fuhrhalter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5918,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1105,
+    "lines": 36,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 29.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0027,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p096",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p096.jpg",
+      "bytes": 1051579,
+      "sha256": "943aa56b3974e18e89746e00aeb92c8f616fb0d4899824a09121572cab5e1e62",
+      "sha256_of": "original",
+      "working_copy": "1850_p096.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:25+00:00"
+  }
+}

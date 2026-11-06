@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p100",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p100.jpg",
+    "bytes": 1460999,
+    "sha256": "a9941bc76875115ee9e515eef604322d55915edf7af2d14cde42dcd848ee29ad",
+    "sha256_of": "original",
+    "working_copy": "1862_p100.jpg"
+  },
+  "text": "Gisengasse. 35\nNeue Haus=Nr. | Quar= tier. | Alte Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n10 | VI. | 1537 | zum Pilger. | Leuba=Obrecht, Joh. Jakob.\n | | | | Leuba=Obrecht, Joh. Jak., Uhrenmacher.\n | | | | Müller, Geschw. (siehe Nr. 9.)\n | | | | Fröhlicher=Fleuriel, Franz Jos., Kaufm.\n | | | | Mangold=Müller, Wb. Esther.\n11 | VI. | 1592 | zum neuen Haus. | Ründig=Holinger, Carl.\n | | | | Ründig=Holinger, Cl., Band-u. Modewhd.\n | | | | Hofmann=Meier, Wb. Marg., Rent.\n | | | | Holinger, Samuel, Kaufmann.\n12 | VI. | 1539 | zum Regenbogen. | Schöllÿ=Schöllÿ, Samuel.\n | | | | Schöllÿ=Schöllÿ, Samuel, Kaufmann.\n | | | | Best=Schöllÿ, Wilhelm, Kaufmann.\n | | | | (Firma Joh. Jak. Schöllÿ Sohn.)\n13 | VI. | 1593 | zum neuen Haus. | Gemuseus=Wüfstner, Carl.\n | | | | Gemuseus=Wüfstner, Carl, Manufactur=waarenhdg. (Firma: C. Gemuseus.)\n14 | VI. | 1540 | zum grünen Berg u. zum falten Keller. | Konus=Gemuseus, Christoph.\n | | | | Quincaillerie=Hdlg. d. Firma Ch. Konus.\n | | | | Kammer=Saner, Joseph, Magazinier.\n15 | VI. | 1594 | zum St. Johann. | Däntlifer=Schleiniger, Wb. Luise.\n | | | | Däntlifer=Schleiniger, Wb. Luise, Mode= magazin.\n | | | | Steffan=Burkhalter, Commis.\n16 | VI. | 1541 | zum Hauferthurm. | Buri=Gramehr, Lorenz.\n | | | | Buri=Gramehr, Lorenz, Kleiderhandlung.\n | | | | Schröter=Walter, Fr. Aug., Photograph.\n17 | VI. | 1595 | zum Palmbaum. | Ostermann, Johannes.\n | | | | Ostermann, Joh., Kaufmann. (Firma:\n | | | | Ostermann u. Comp.)\n | | | | Fäsch=Paravicini, Wb. Marg., Rent.\n | | | | Zäslin=Fäsch, Daniel, Kaufmann.\n18 | VI. | 1542 | zum Köklein. | Petit und Schwestern Cassal.\n | | | | Cassal, Sgfrn. Celestine u. Antoinette,\n | | | | Modewaarenhandlung.\n | | | | Cassal, Sgfr. Victoire, Rentiere.\n | | | | Piaud, Jean Bapt., Tabakhandlung.\n19 | VI. | 1596 | zum Löwenberg. | Berri=Linder, Melchior.\n | | | | Berri=Linder, Melchior, Med. Dr.\n | | | | Lerch, Jos., Seidenh. (Firm. Geb. Lerch.)\n | | | | Preiswerck=Ofer, Joh. Jakob.\n | | | | Preiswerck=Ofer, Jak. Joh., Kaufmann.\n | | | | Tuchhandl. d. Firma Math. Preiswerck.\n20 | VI. | 1543 | zum Tanz. | Hübscher, Adolf.\n | | | | Hübscher, Adolf, Pelzhändler.\n21 | VI. | 1597 | zum Maaser. | Schönauer=Gutmann, Heinrich, J. U. D.,\n | | | | Criminalgerichtschreiber.\n22 | VI. | 1544 | z. rothen Salmen. | Rosenmund=Zeller, Joh. Jakob.\n | | | | Rosenmund=Zeller, Joh. Jak., Kammach.\n23 | VI. | 1598 | zur Linde. | BonderMühl=Ryhiner, Johannes.\n | | | | BonderMühl=Ryhiner, Joh., Kaufm.\n24 | VI. | 1545 | Docketen Känsterli. | Triibner=Felber, Wb. Dorothea.\n | | | | Triibner=Felber, Wb. Dor., Laden.\n3*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8405,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2612,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:33:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p100",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p100.jpg",
+      "bytes": 1460999,
+      "sha256": "a9941bc76875115ee9e515eef604322d55915edf7af2d14cde42dcd848ee29ad",
+      "sha256_of": "original",
+      "working_copy": "1862_p100.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:05+00:00"
+  }
+}

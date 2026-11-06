@@ -1,0 +1,262 @@
+Seite.
+Strafe.
+Neue
+Haus-Nr.
+Quart.
+Alte
+Haus-Nr.
+Name der Hauseigenthümer.
+101
+Nadelberg.
+lies
+25 u. 27
+II
+519
+Füürstenberger-Debarh, Hans Gg., sel. Erben.
+105
+Nonnenweg.
+einschalt.
+37
+25 a
+II
+512
+Füürstenberger-Burckhardt, sel. Erb.
+107
+St. Petersberg.
+lies
+24 u. 26
+I
+182 u. a
+Fischer-Burckhardt, Heinr. (Holz-
+108
+St. Petersgasse.
+einschalt.
+1
+I
+104
+schopf).
+1
+I
+221
+Lang-Kuef, Jos., Weinhändler (z.
+1
+I
+212
+Baumgartner, Wilhelm.
+1
+I
+93 b
+Jselin-Passavant, Heinrich und
+111
+St. Peters-
+lies
+13 u. 15
+I
+227 u. b
+Henriette Passavant (Remise.)
+112
+" 
+" 
+53 ft. 55
+II
+463 A
+Holdenecker, Achilles (z. Altane).
+113
+St. Peters-Platz
+" 
+" 
+55 ft. 57
+II
+457
+Ludwig-Frey, Anna Elisabeth.
+115
+Platzgässlein.
+" 
+" 
+11
+I
+247 B
+Christen-Euler, Nicolaus.
+119
+Rümelinbach-
+" 
+" 
+15 u. 17
+II
+298, 299
+Schardt-Breiting, Carl.
+121
+Schanzenstraße.
+" 
+" 
+24
+I
+Stadtgemeinde (Mefzbudenschof).
+127
+Schützengraben
+" 
+" 
+37
+II
+139 D
+Ernst-Hug, Friedrich, Ferger.
+1
+I
+147 B
+Goldfus, Carl Heinr. Friedr.
+1
+III
+147
+Imhof, Wilh., Rentier.
+1
+III
+352 A a
+Ullmann, Reg. u. Sophie.
+1
+II
+139 A
+Häfelfinger, Jacob.
+1
+II
+338
+Kaufmann, Friedrich.
+131
+Schwanengasse.
+" 
+" 
+8
+I
+144
+Rohler, Andr., Schuhmacher (zum
+133
+Spalenberg.
+" 
+" 
+6
+II
+599
+Thommen, Joh. Mezger.
+134
+" 
+" 
+26
+II
+492—493
+Erb, Eduard (zum halben Rad).
+135
+" 
+" 
+47
+II
+473
+Gyfin, Maria Dorothea (z. schönen
+137
+Spalenthorweg.
+einschalt.
+27
+II
+Mann).
+138
+Spalenvorstadt.
+lies
+38
+II
+Götte-Wafer, Joh., Zimmermstr.
+1
+II
+281
+Stumm-Schabeliz, Gust., Kaufm.
+1
+II
+325
+Geßler-Zeller, F., Bäcker (z. Erker).
+140
+" 
+" 
+6
+II
+312
+Hunziker-Hartmann, Jacob, Holz-
+142
+Spitalstraße.
+" 
+" 
+22
+I
+274 B
+händler.
+1
+I
+41 d u. e
+Reber-Glaser, Cathar., Wirthin.
+143
+" 
+" 
+41
+I
+Fäsch, Balth., sel. Erben.
+146
+Stapfelberg.
+lies
+5
+VI
+1626—27
+Meyer-Merian, Dan. (Remise).
+147
+Steinenbach-
+" 
+" 
+7
+VI
+1490
+Staat (Neue Strafanftalt).
+150
+Steinengraben.
+" 
+" 
+1
+II
+374 A. b.
+Eingang zu 17 u. 19 Freie Straße.
+152
+Steinenvorstadt
+" 
+" 
+18
+III
+771
+Bischoff, Gebrüder.
+" 
+" 
+22
+III
+773
+Schmidt-Götz, F. Andr. (Stallung.)
+Schmidt-Lok, Heinrich.
+Großmann-Heinzelmann, Rudolf
+(zum Wertenberg).
+Hegetschwyler, Joh., Cigarrenfabr.
+Spalenberg.
+" 
+" 
+47
+II
+473
+Gyfin, Maria Dorothea (z. schönen
+Mann).
+Götte-Wafer, Joh., Zimmermstr.
+Stumm-Schabeliz, Gust., Kaufm.
+Geßler-Zeller, F., Bäcker (z. Erker).
+Hunziker-Hartmann, Jacob, Holz-
+händler.
+Reber-Glaser, Cathar., Wirthin.
+Fäsch, Balth., sel. Erben.
+Meyer-Merian, Dan. (Remise).
+Staat (Neue Strafanftalt).
+Eingang zu 17 u. 19 Freie Straße.
+Bischoff, Gebrüder.
+Schmidt-Götz, F. Andr. (Stallung.)
+Schmidt-Lok, Heinrich.
+Großmann-Heinzelmann, Rudolf
+(zum Wertenberg).
+Hegetschwyler, Joh., Cigarrenfabr.

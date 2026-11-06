@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p028",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p028.jpg",
+    "bytes": 1524181,
+    "sha256": "1d71ba058c6585d9b502018314ba9f3a8f382f77399d48c70fe02735fc6da6aa",
+    "sha256_of": "original",
+    "working_copy": "1862_p028.jpg"
+  },
+  "text": "Vereine u. Anstalten zu Wohlthätigkeits-Zwecken. XXV\n\nVereine und Anstalten zu Wohlthätigkeits- und\nHumanitäts-Zwecken.\n\nAllgemeine\nArmenanstalt zum Silberberg.\nUtengasse Nr. 11.\nGegründet 1805.\nVorstand: Hr. Antistes Preiswerk.\n\nHerport’sche Stiftung.\nGegründet 1764\nfür unbemittelte Predigerwittwen und eltern-\nlose Waisen der Pfarrer, Helfer und Filialisten\nder Stadt.\nInspection:\nHr. Obersthelfer Burckhardt, Vorsteher.\n„ Pfarrer Im. Stockmeyer.\n„ „ Preiswerk, St. Alban.\n„ „ Sartorius.\n„ „ Anstein, Spitalpfarrer.\n„ „ Stückelberger.\n„ „ Grunauer, Curator.\n\nKranken - Kommission.\nGegründet 1783.\nHr. Pfarrer Peter Stähelin, Vorsteher.\n„ F. Hagenbach, Statthalter.\n„ Dr. Arnold Rosenburger, Schreiber.\n„ Candidat Vest, Statthalter.\n„ Rapp-Wick, Cassier für die Einnahmen.\n„ Rohr-Schmidt, Cassier für die Ausgaben.\n\nFreiwillige\nArmenschullehrer- und Armenkinder-\nErziehungs-Anstalt in Beuggen.\nGegründet 1820.\nDas aus 13 Mitgliedern bestehende Comité\nhat seinen Sitz in Basel. — Die Anstalt\nhat kein Eigenthum; Haus, Garten, Feld 2c.\nist gepachtet von der großh. badischen Domaine\nund besitzt auch sonst kein Vermögen.\nHauseltern:\nHr. Reinhardt Zeller, Inspector und\nFrau Elise Zeller-Bohn.\n\nVerein\nzur\nlandwirthschaftlichen Armenschule.\nGegründet 1824.\nHausvater: Hr. Lehrer Meister.\n\n[spalte 2]\nTaubstummen-Anstalt in Riehen.\nGegründet 1832 in Beuggen, seit 1838\nin Riehen.\nSteht unter einem Comité von 10 Mitgliedern.\nInspector der Anstalt: Hr. W. Arnold.\n\nVerein für Sonntagssäle.\nGegründet 1832.\nVorstand: Hr. Adolf Christ, Rathsherr.\nIn drei getrennten Sälen wird während\nder sechs Wintermonate an den Sonntag-\nNachmittagen und Abenden Knaben, Lehr-\nlingen und Handwerksgesellen Gelegenheit zum\nSchreiben, Lesen und Zeichnen gegeben. Ebenso\nwird gesungen und erzählt. In dem letzten\nWinter waren 400 Knaben, 400 Lehrlinge\nund 1100 Handwerksgesellen als Besucher\neingeschrieben.\n\nVerein f. Sonntagssäle für Mädchen.\nGegründet 1838.\n\nFroben’sche Stiftung.\nGegründet 24. Juni 1840,\ndurch eine Kollekte von Fr. 500\nzum Zweck, um am nächstfolgenden 100jähri-\ngen Gedächtnißtag der Erfindung der Buch-\ndruckerkunst unter die Genossen des Gewerbs\nvertheilt zu werden.\n\nLeonhard Paravicini’sche Stiftung.\nGegründet 1844.\nVorstand: Hr. Fr. Hagenbach, Stadtrath.\n\nKinderspital.\nGegründet 1846. Neu erbaut u. bezogen 1862.\nErweitert und neu erbaut aus den Stif-\ntungen von Frau Charlotte His-Vischer und\nFrau Lisette Burckhardt-Vischer sel.\nComité:\nHr. Pfarrer W. LeGrand, Vorstand.\n„ C. F. Spittler.\n„ Prof. Dr. Streckeisen, Arzt der Anstalt.\n„ E. Thurneysen-Merian, Cassier.\n„ B. Stähelin-Linder, Schreiber.\n„ C. Burckhardt-Burckhardt, J. U. D.\n„ Ad. Burckhardt-Burckhardt, J. U. D.\n„ M. Birmann-Socin.\n„ M. Burckhardt-His, med. Dr.\n\nB*",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10124,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2735,
+    "lines": 92,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0007,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:28:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p028",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p028.jpg",
+      "bytes": 1524181,
+      "sha256": "1d71ba058c6585d9b502018314ba9f3a8f382f77399d48c70fe02735fc6da6aa",
+      "sha256_of": "original",
+      "working_copy": "1862_p028.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:30+00:00"
+  }
+}

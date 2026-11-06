@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p113",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p113.jpg",
+    "bytes": 1300474,
+    "sha256": "cc1c7a811d8d1d5cf1339a17594e8414d812784741eeb1c913297db48c8a650c",
+    "sha256_of": "original",
+    "working_copy": "1862_p113.jpg"
+  },
+  "text": "48\nFreie Straße.\nNene\nHaus=Nr. | Quar-\ntier. | Alte\nHaus=No. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n101 | V. | 1074 | zum Tannenwald. | Rumpf=Hartmann, Anna Mar. Wb.\nRumpf=Hartmann, Anna Maria, Wb., Bürstenmacher.\n103 | V. | 1072\n1073 | zur Nachtigall. | Meyer=Heusler, Johannes.\nMeyer=Heusler, Joh., Coiffeur.\nAlbrecht, Jakob Christof, Commis.\n105 | VI. | 1071 | zum vordern Maul-\nbeerbaum. | Djer, Joh. Jakob.\nDjer, Joh. Jakob, Schuhmacher.\nAckermann, Johann, Schuhmacher.\nSchöner, Joh. Adam, Part.\n107 | V. | 1070 | zur Mohrin. | Wezel=Schoelli, Joh. Fried.\nWezel=Schoelli, Joh. Friedr., Bäcker.\n109 | V. | 1069 | zum Eichbaum. | Robert=Chevalier, Emil.\nRobert=Chevalier, Emil, Wirth u. Cen-\ntralbahn=Angestellter.\nRoth=Hunziker, Urfr., Cigarrenhändler,\n(siehe Nro. 36).\nGyfin, Eman., Commis.\n111 | V. | 1068 | z. niedern Schwelle. | Vogel=Hug, Maria Sal., Wittwe.\nVogel=Hug, Maria Sal., Part.\nMeyer=Vogel, Casimir, Agent.\n113 | V. | 1067 | zum Rettenhof. | Riggenbach=Stehlin, Friedrich.\nRiggenbach=Stehlin, Friedr., Banquier.\n(Firma F. Riggenbach.)\n115 | V. | 1066 | zum Rettenhof. | Riggenbach=Stehlin, Friedrich.\nStehlin=Hagenbach, Joh. Jakob, Bürger-\nmeister u. Nationalrath.\n117 | V. | 1065 | | Heitz=Dewette, Aug., Notar. J. U. D.\nLardet u. Comp., Mathieu, maison\nde Commission et Exportation.\nGartenstraße.\n62 | IV. | 211 | | Schaub=Seiler, Jacob.\nSchaub=Seiler, Jacob, Zettlermeister.\nDjer=Iselin, Wilhelm, Amtsdieners.\nZimmermann, Oskar Friedrich, Pfarrer.\n64 | IV. | 211 B | | Epple=Stücklin, Christian.\nEpple=Stücklin, Christian, Mechaniker.\nKindweiler, Fritz, Maler.\nMatthys=Schauenburg, F. F., Commis.\nHabrecht=Heinz, Adolf Moritz, Preuß.\nBer.=Inspector.\n66 | IV. | 211 C | | Epple=Stücklin, Christian.\nFörin=Meyer, Johann, Restaurant.\nSchorrer, Igsfrn. Elisabeth Margaretha\nu. Anna Maria.\n68 | IV. | 211 D | | Epple=Stücklin, Christian.\nMac=Walz, Kaver, Mechaniker.\nMösch, Wendolin, Portier b. d. Centralb.\nSchaffner, Friedr., Centralb.=Angestellt.\n70 | IV. | 211 E | | Epple=Stücklin, Christian.\nMüller=Scheerer, Carl, Gütler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6857,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2067,
+    "lines": 59,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p113",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p113.jpg",
+      "bytes": 1300474,
+      "sha256": "cc1c7a811d8d1d5cf1339a17594e8414d812784741eeb1c913297db48c8a650c",
+      "sha256_of": "original",
+      "working_copy": "1862_p113.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:30+00:00"
+  }
+}

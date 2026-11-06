@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p155",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p155.jpg",
+    "bytes": 1080320,
+    "sha256": "fd1d7d180d6ba6240becc1f96155bc92072f8aa3b166f691b5d7e48c53aea6f1",
+    "sha256_of": "original",
+    "working_copy": "1841_p155.jpg"
+  },
+  "text": "— 2 —\n\nBaumann, Hieronymus, Hafner, von Waldenburg. 1027\nUefchen = Vorstadt.\nBaumann, Heinr., v. Hirzel, Drathflechter. 1416 Spitalsprung.\n* Baumann, Heinrich Gottlieb, Seidenfäerber. 799 Vor-\ndere Steinen = Vorstadt.\nBaur, Samuel, Staatskanzlei-Sekretär. 630 Gerbergässlein.\nBaur, Verena, geborne Gyfin, Hebamme. 630 Gerbergässlein.\nBechert, Meyer und Comp., Quincaillerie=Handlung en\ngros. 1630 Untere Freienstraße.\nBeck, Rudolf, Glaser. 641 Gerbergasse.\nBeck, Rudolf, Spannermeister. 1392 Um Bäumlein.\nBeck = Uebelin, Joh. Georg. 1034 Uefchen = Vorstadt.\nBell, Joh. Rudolf, Sohn, Meßger. 724 b. Barfüsserplatz.\nBernoulli, Margaretha, Jungfrau. 168 Storchengasse.\nBernoulli, Christ., Lehrer am Gymnasium. 284 Spahlen = Vorst.\nBernoulli = Bernoulli, Franz, Med. Dr. 659 Gerbergasse.\nBernoulli = Huber, Leonhard (Firma: C. Huber, Sohn). 917\nSt. Elisabethen.\nBerri, Melchior, Med. Dr. 1596 Eifengasse.\nBerri, Robert, Gerber und Wagmeister. 704 Hinter dem\nStöcklein.\nBerri = Streckfeisen, J. J., Kaufmann. 1419 Spitalsprung.\nBieler, Peter, Stadtbote. 601 Unterer Spahlenberg.\nBieler = Rebhamen, Rud., Handl.-Commis. 435 Spießhofgasse.\nBienz, Frau Maria Magd., geb. König. 1639 Untere Freienstr.\nBiermann, Dan., Zuchtscherer u. Amtsdienner. 633 Gerbergässl.\nBiermann, Wittwe, Forsetschneiderin. 675 Gerbergasse.\nBierschenk, Adam, Weizgerber. 653 Gerbergasse.\nBischoff, August, Sohn, 1485 Augustinergasse.\nBischoff = Reitner, J. J., Bankier (Firma: J. Merian-\nForkart). 912 St. Elisabethen.\nBischoff, Karl, Sohn, Kaufmann. 1511 Rheinsprung.\n* Bissinger, Christ. Jak., von Böblingen, Zimmermann. 179\nUnterer Herbergberg, und 689 St. Leonhardsberg.\nBleich, Julius, Buchhändler-Commis. 672 Gerbergasse.\nBlendinger, Heinrich, Commis. 1102 Streitgasse.\nBloch, Peter, Sohn. Seiler. 1621 Untere Freienstraße.\nBloch, geb. Schlöth, Sal., Wittwe, Part. 824 Bordere\nSteinen = Vorstadt.\nBloch, geb. Schöll, Wittwe. 804 Bordere Steinen = Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6120,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1930,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:00:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p155",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p155.jpg",
+      "bytes": 1080320,
+      "sha256": "fd1d7d180d6ba6240becc1f96155bc92072f8aa3b166f691b5d7e48c53aea6f1",
+      "sha256_of": "original",
+      "working_copy": "1841_p155.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:01+00:00"
+  }
+}

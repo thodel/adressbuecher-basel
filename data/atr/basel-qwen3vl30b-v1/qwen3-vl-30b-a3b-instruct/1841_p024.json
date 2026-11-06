@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p024",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p024.jpg",
+    "bytes": 955044,
+    "sha256": "c5a045a3f3033c02ae5c123c3a093924d98a52e3adf5e44872d8a4439d2a3ad3",
+    "sha256_of": "original",
+    "working_copy": "1841_p024.jpg"
+  },
+  "text": "17\nNro.\n421 * Magazin von Benedikt Lichtenhahn.\n422 Frei, Heinrich, Fabrikarbeiter.\n    Schnäbeli, Heinrich, Lohnkutscher.\n423 Studer, Wittwe, geb. Dinkel, Schuhmacherel.\n424 Gschwyler, Conrad, Fabrikarbeiter.\n425 Säuberlin, Joseph, Kutscher.\n    Schauber, Samuel, Schuhmacher.\n426 Bidert, Joh., von Oberdorf, Hausknecht.\n426 a Preiswerk, Emanuel, gehörend.\n427 Jäcklin, Benedikt, Schreiner.\n428 Waffermaun, J. Rudolf, Raminfeger.\n429 Dietrich, Joh. Jakob, alt Gerber.\n430 Schazmann, Conrad, Maurer.\n431 Müller, Chr. Jakob, Spettermeister.\n432 Schaub, Joh. Georg, Bater, Fabrikarbeiter.\n    Schaub, Rudolf, Sohn, Buchbinder.\n433 Gysler, geb. Gemuseus, Ursula, Wittwe.\n    Lichtenhahn, Benedikt, Oberstlieutenant u. Kaufmann.\n434 Hofch-Merian, Joh. Jakob, Bater, Senfal.\nSpieckhofgasse.\n435 Hofch, Nikolaus, Lithograph.\n436 Stähelin, geb. Preiswerk, Wittwe.\n437 Bischoff-Keller, Andr., Kaufmann.\n438 Salathe, Joh. Georg, Sattler.\n    Sarafin, geb. Maria Socin, Wittwe.\n439 Fürstenberger, Maria Salomea, Jungfer.\n    Gysler, Maria, geb. Schardt, Wittwe.\n440 Burkhardt-Imhof, Peter, Nathsherr.\n441 Reber-Burckhardt, Bandfabrikant,\n    und Handlung von Balthasar de Benedikt Stähelin.\n441 * a Remise von Balthasar de Benedikt Stähelin.\n442 Bischer-Bilsinger, Wilh., Phil. Dr. und Professor.\n    Bilsinger, geb. Von der Mühli, Elisabetha.\n    Von der Mühli, Jungfer, Baleria.\n443 Imler, Gottlieb, Instrumentenmacher.\n444 Salathe, Joh., Kaufmann.\n445 Stähelin, Catharina und Salomea, Jungfern.\n446 Gysler, Nikolaus, Waaren-Senfal.\n    Trapet, Richard, Juwelier.\nOberer Spahlenberg.\n447 Diez, Carl Dietrich, Notarius.\n448 Merian-Stähelin, Joh., Kaufmann.\n449 Fäsch, Leonhard, Notar und Bezirkschreiber.\n450 Bischoff-Bischer, Nikolaus sel., Wittwe.\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5012,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1742,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p024",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p024.jpg",
+      "bytes": 955044,
+      "sha256": "c5a045a3f3033c02ae5c123c3a093924d98a52e3adf5e44872d8a4439d2a3ad3",
+      "sha256_of": "original",
+      "working_copy": "1841_p024.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:57+00:00"
+  }
+}

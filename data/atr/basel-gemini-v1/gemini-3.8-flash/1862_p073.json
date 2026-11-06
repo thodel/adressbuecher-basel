@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p073",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p073.jpg",
+    "bytes": 1357175,
+    "sha256": "e5bc167f7cc0a4117801605ff13feff6ed55f8b84e95591ccee4e83d3bec67b7",
+    "sha256_of": "original",
+    "working_copy": "1862_p073.jpg"
+  },
+  "text": "8 Aeschenvorstadt.\n\nNeue Haus-Nr | Quar-tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n15 | IV. | 1038 | zum Raben. | Ehinger-vonSpeyr, Christof Math.\n  Ehinger-vonSpeyr, C. M., Banquier.\n  Diehl, Ferdinand, Tabakfabrikant.\n  Ehinger u. Comp., Bankgeschäft.\n16 | IV. | 946 | zum neuen Bau. | Werthemann, Jgfr. Marg.\n  Werthemann, Jgfr. Marg., Rentiere.\n17 | IV. | 1037 |  | Ehinger-vonSpeyr, Christof Math.\n  Thoma, Jgfr., Modistin.\n  Gardé, Jakob, Cassadiener.\n18 | IV. | 947 | zum rothen Krebs. | Merz-Tellenbach, Johann Jakob.\n  Merz-Tellenbach, J. J., Bäcker.\n19 | IV. | 1036 |  | Bueß, Jgfr. Cath. Dorothea.\n  Bueß, Jgfr. Cath. Dor., Bettmacherin.\n  Bürgin, Johannes, Dessinateur.\n20 | IV. | 948 |  | Merian-Christ, Benedict.\n  Merian-Christ, Ben., Sattler.\n21 | IV. | 1035 |  | Oppermann-Schweizer, W. Andr.\n  Oppermann-Schweizer, W. A., Schrein.\n22 | IV. | 949. 950 | zum Drachen. | Gemuseus-Respinger, Hieronimus.\n  Gemuseus-Respinger, H., Rentier.\n  Gemuseus-Burckhardt, Albert, Kaufm.,\n  Firma Ludw. Respinger, Col.-W.-Hdlg.\n  Thurneysen-Gemuseus, Eduard, J. U. D.\n  Respinger-Preiswerk, A. M. Wb., Rent.\n  Gemuseus, Fräulein Julie, Rentiere.\n23 | IV. | 1034 |  | Oppermann-Schweizer, W. Andr.\n  Oppermann-Schweizer, Wilh. Andreas,\n  Schreinermeister.\n24 | IV. | 951 | zum Winkeli. | Schmidt-Walser, Daniel, Sohn.\n  Schmidt-Walser, Dan., Sohn, Kübler.\n25 | IV. | 1033 |  | Roth-Keller, Sophia, Wb.\n  Roth-Keller, Soph. Wb., Kostgeberin.\n  Fürst-Erhardt, Rudolf, Schneider.\n26 | IV. | 952 | z. mittl. Löwenberg. | Keller, Joh. Jakob.\n  Keller, J. J., Kupferschmied.\n  Lüthy-Stotz, Frau Dor., Weißwollwäsch.\n27 | IV. | 1032 |  | Hug-Heusler, Maria, Wb.\n  Wirz-Handschin, Sebast., Posamenter.\n28 | IV. | 953 | zum Löwenberg. | Eisinger, Georg Joseph.\n  Eisinger, G. J., Spengler.\n29 | IV. | 1032 A |  | Hug-Heusler, Maria, Wb.\n  Thommen-Senn, Jak., Fabrikarbeiter.\n30 | IV. | 954 | zum Rölinseck. | Hauser-Gürtler, David.\n  Hauser-Gürtler, David, Kaufmann.\n31 | IV. | 1031 |  | Seifert-Jenni, Anton.\n  Seifert-Jenni, Anton, Kostgeber.\n32 | IV. | 955 | zum Lämmlein. | Hauser-Gürtler, David.\n  Seiler-Gürtler, Emil, Kaufmann.\n33 | IV. | 1030 |  | Garnjobst-Schweizer, Verena, Wb.\n  Garnjobst-Schweizer, Verena, Wb.\n  Faust-David, Joh., Schneider.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 14343,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2289,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p073",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p073.jpg",
+      "bytes": 1357175,
+      "sha256": "e5bc167f7cc0a4117801605ff13feff6ed55f8b84e95591ccee4e83d3bec67b7",
+      "sha256_of": "original",
+      "working_copy": "1862_p073.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:49+00:00"
+  }
+}

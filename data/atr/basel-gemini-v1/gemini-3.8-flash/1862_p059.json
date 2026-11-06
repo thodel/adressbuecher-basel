@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p059",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p059.jpg",
+    "bytes": 1278096,
+    "sha256": "b1bca358907929879a6584722e4892b16a4508a91e6de026e1a6d73dc5cfa080",
+    "sha256_of": "original",
+    "working_copy": "1862_p059.jpg"
+  },
+  "text": "Berichtigungen.\n\nSeite XXXIII Zeile 9 von oben lies Lokal: Marktplatz No. 3, statt 12.\n„ XLIII „ 5 von unten „ Häfelinger, Jacob, statt Häfelfinger.\n\nSeite. Spalte. Zeile. St. Johann-Quartier.\n  1 1 2 von oben Burgfelderstraße lies: 16, 20 und 22, statt 16 und 20.\nSpalen-Quartier.\n„ „ 18 v. o. Austraße lies: 62 und 71, statt 71.\n„ „ 28 „ St. Leonhards-Straße lies: Nr. 2 bis 22, statt bis 20.\n„ „ 30 „ Missionsstraße lies: links Nr. 1 bis u. mit 65, statt 63.\n„ 2 11 v. u. Schützenmattstraße lies: rechts Nr. 2 bis u. mit 64, statt bis u. mit 58.\n„ „ 12 „ Schützengraben streiche: links Nr. 7 bis 19.\n„ „ 14 „ Schützengasse lies: rechts Nr. 2, 10 u. 12, statt Nr. 10 u. 12.\nSteinen-Quartier.\n„ „ 5 v. o. Barfüßerplatz lies: bis und mit 35, statt 34.\n„ „ 3 „ St. Leonhards-Berg lies: links Nr. 1, 3 u. 15, statt 1 u. 3.\n„ 2 13 „ Schützenmattstraße lies: links Nr. 25 bis und mit 65.\n„ 2 15 „ Steinenberg streiche: Nr. 9.\nAeschen-Quartier.\n„ 1 11 v. o. Brunngäßlein lies: 11, 24 u. 26, statt 11 u. 24.\n„ 2 3 „ St. Jacobs-Straße lies: rechts Nr. 2 bis u. mit 22, statt 20.\nSt. Alban-Quartier.\n3 2 1 v. o. Münchensteiner Straße schalte ein: Nr. 13.\nStadt-Quartier.\n„ 2 15 v. o. Stadthausgasse lies: rechts Nr. 2 bis u. mit 22, statt 20.\nRiehen-Quartier.\n4 1 1 v. o. einzuschalten: Bäumleinhofweg.\n„ „ 6 „ St. Clara-Platz lies: Nr. 5, statt Nr. 7.\nS. 296, Z. 2 v. u. und unter den Anzeigen lies: Honegger, Carl, statt Honegger u. Leuthold.\n\nIm Verzeichniß der Bürger u. Einwohner sind einzuschalten:\n  Bernoulli, Wilhelm, Dr. med., St. Peters-Gasse 7.\n  Bicard-Dreyfuß, Abr., St. Leonhards-Graben 8, statt Picard.\n  Dannacher, Paul, Schreiner, Rebgasse 25.\n  Heusler, Dr. August, Notar, Freie Straße 78.\n  Koch, Franz, Möbelhändler, Weiße Gasse 28.\n  Merian-Brandmüller, Friedrich, Bierbrauer, Steinenthorstraße 23.\n  Rueff, Gabriel, Kaufmann, Steinenvorstadt 69.\n  Weitbrecht-Klau, Commis, Spalenvorstadt 24, statt Weibrecht.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8312,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1923,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.43,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:33:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p059",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p059.jpg",
+      "bytes": 1278096,
+      "sha256": "b1bca358907929879a6584722e4892b16a4508a91e6de026e1a6d73dc5cfa080",
+      "sha256_of": "original",
+      "working_copy": "1862_p059.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:15+00:00"
+  }
+}

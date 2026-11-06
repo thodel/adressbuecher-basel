@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p071",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p071.jpg",
+    "bytes": 911560,
+    "sha256": "d971c225f1905289a8a547612f8ced718bafcbfe7586c3b7072b3063fe91bf09",
+    "sha256_of": "original",
+    "working_copy": "1841_p071.jpg"
+  },
+  "text": "64\n\nA. Riehen-Quartier.\n\nSchafgäßlein.\nNro.\n24, 25 u. 26 * Barth-Otto, Samuel, geh.\n\nRheingasse.\n27 Weiß, Joh., Kaufhausarbeiter.\n  Schäfer, Joh., Fabrikarbeiter.\n28 Isenegger, Heinrich, Sohn, Hafner.\n29 Ritter, Hieronymus, Mezger.\n30 Kray, Zacharias, Fischer.\n31 * Unholz, J. J., von Riehen, geh.\n32 Heusler, Joh., Schneider.\n33 Hosch, Joh., Schneider.\n34 Scherb, Joh. Jakob, Barbier und Briefträger.\n35 Schneider, Andreas, Schiffmann.\n  Bell, Heinrich, Fischer.\n36 Barth-Otto, S. (Handlung von Gebrüder Otto.)\n  Altweg-Richter, Kaufmann.\n37 Krebs, Math. sel., Wittwe, Schuster.\n38 Uehlinger, Joh. Adam, Glaser.\n39 Meier, J. J., Gastwirth zur Sonne.\n40 Dietschy, Conrad, Mezger.\n41 Schweizer, Ludwig, Flachmaler.\n42 Hug, Georg, Fischer.\n  Staab, Heinrich, Schiffmann.\n43 Braun, Rudolf, Kunstmaler.\n  Willi, Wittwe, geb. Anna Elis. Kern.\n44 Mazinger, Conrad, Schuhmacher.\n  Grunauer, Sebast., Spedition u. Commission.\n45 Köchlin, Magdalena, geb. Kuster, Gypser.\n  Buser, Math., Lehrer.\n46 * Lotz, Fr., Seidenfärber, geh.\n47 Wirz, Wittwe.\n48 David, Joh. Rudolf, Mezger.\n49 * Eglin, Christoph, Zimmermeister, geh.\n  Herzog, Joh. Jakob, Sohn, Notarius.\n50 Grüblin, J. J., Posamentier, von Höllstein.\n51 Pfannenschmid, Jungfer, Jakobea, Kremplerin.\n  Pfannenschmid, Lucas, Mezger.\n52 Lotz, Fr., Seidenfärber, geh.\n53—55 Lotz, Fr., Seidenfärber.\n56 Thommann, Peter, Mezgers sel. Wittwe, geb. Kistler.\n57 * Meiri, Jungfer, Barbara, sel. Erben geh.\n58 Eschmann, Dorothea und Margaretha.\n59 Hindenlang, J. J., Schiffmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6761,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1513,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p071",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p071.jpg",
+      "bytes": 911560,
+      "sha256": "d971c225f1905289a8a547612f8ced718bafcbfe7586c3b7072b3063fe91bf09",
+      "sha256_of": "original",
+      "working_copy": "1841_p071.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:15+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p041",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p041.jpg",
+    "bytes": 1005178,
+    "sha256": "dbb475f13b2a8cf4da96bba309f8557659669b491f4e1a1cf4629d4be4fdb5cd",
+    "sha256_of": "original",
+    "working_copy": "1850_p041.jpg"
+  },
+  "text": "28 Steinen=Quartier.\n629 BonKilch, Leonh. Georg, Mezger.\n    Alt, Frau, geb. Mechel.\n630 Baur=Byfin, Sam., Kanzlist.\n    Baur=Byfin, Frau Serena, Hebamme.\n631 Weif, Wittwe, Matrakennmacherin.\n632 Tschudy, Johann, Maurer.\n633 Biermann, Dl., Amtsweibel.\n    Byfin, Eucharius, Postangestellter.\n    Best, Georg, Lithograph.\n634 Weif, Andreas, Geschäftsmann.\n635 Brunauer, Sebastian, Handelsmann. Spezereihdlg.,\n    Niederlage chemischer Schwefelhölzchen.\n    Brunauer, Frau, Hebamme.\n636 Meyer, Jakob, Mezger.\n637 (Zunft zu Gerbern) Bruder, Fch., Lithograph,\n    Stubenverwalter.\n638 Meyer, Joh., Spezierer.\n    Gerbergasse.\n639 Mieg, F. F., Apotheker.\n640 Bader, Joh., Spezierer.\n641 Trübner, Edg., Buchbinder.\n    Wertenberg, Abraham, Buralist.\n642 (Zunft z. Gartnern) Salathe, Abraham, Roch,\n    Kostgeber, Stubenverwalter.\n    Mollinet, Samuel, Schuhmacher.\n643 (Zunft z. Schneidern) Steinmann, Friedr. Ben.,\n    Schneider, Stubenverwalter.\n    Egloff, Dd., Schuhmacher.\n    Rebfaamen, Samuel, Gürtler.\n644 Eeclin=Pümpin, Joh. Heinr., Bandfabrikant.\n    Eeclin, Jungfrau, Spezereiladen.\n645 Schardt, Eml., Buchbinder.\n    Götz, Wilhelm, Ferger.\n    Niedengäfklein.\n646 Gerster, Friedrich, Alt-Bestäter.\n647 Holzach, Dietrich, Seiler.\n    Gerbergasse.\n648 Schilling=Snöpf, Wittwe.\n    Mazinger, Sal., Mercerie.\n    Jäcklin, Philipp, Schreiner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4377,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1343,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 29.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p041",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p041.jpg",
+      "bytes": 1005178,
+      "sha256": "dbb475f13b2a8cf4da96bba309f8557659669b491f4e1a1cf4629d4be4fdb5cd",
+      "sha256_of": "original",
+      "working_copy": "1850_p041.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:20+00:00"
+  }
+}

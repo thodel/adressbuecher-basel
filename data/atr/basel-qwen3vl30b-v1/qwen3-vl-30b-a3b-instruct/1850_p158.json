@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p158",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p158.jpg",
+    "bytes": 1108013,
+    "sha256": "ad288ac0da0d98093163228aa061df7313fca40c1954856fb0297883600e7c12",
+    "sha256_of": "original",
+    "working_copy": "1850_p158.jpg"
+  },
+  "text": "Verzeichniß\nder\nPräsidanten sämmtlicher kantonalen und städtischen\nBehörden, Collegien und Commissionen.\n\nGroßer Rath:\nKleiner Rath:\nGroßer Stadtrath:\nKleiner Stadtrath:\nAppellations-Gericht:\nAllmosen-Amt:\nBau-Collegium:\nBau-Amt:\nBau-Experten-Commission:\nBau-Gericht:\nBeleuchtungs-Commission:\nBrand-Verich.-Commission:\nBrandschaden-Schakung:\nBürger-Commission:\nCivil-Gericht:\nCriminal- u. Correct.-Gericht:\nEhe-Gericht:\nErziehungs-Collegium:\nEinquartierungs-Commission:\nEisenbahn-Commission:\nFinanz-Collegium:\nGescheid, dieffets:\nGescheid, jenseits:\nHandels-Collegium:\nHandwerks-Collegium:\nHandlungs-Committee:\nHypotheken-Verwaltung:\nJustiz- u. Polizei-Collegium:\nKaufhaus-Kommission:\nKirchen- u. Schulgut-Colleg.:\nHerr Burkhardt-Keller.\n\" Amts Bürgermeister.\n\" Bischoff-Nespinger.\n\" Rud. Burkhardt-Keller.\n\" Stadtrath F. Bloch.\n\" Rathsherr G. Minder.\n\" Stadtrath F. Bloch.\n\" Kern.\n\" Architekt Niggenbach.\n\" Stadtrath Basler.\n\" Rathsherr Fch. Stumm.\n\" Stadtrath F. Bloch.\n\" F. Schnell, J. Ü. D.\n\" L. A. Burkhardt, J. U. D.\n\" P. Hagenbach.\n\" Rathsherr P. Merian.\n\" Stadtrath N. Forkard.\n\" Rathsherr A. Bischoff.\n\" B. Socin.\n\" A. Ryhiner-Schönauer.\n\" Rud. Wegner.\n\" Rathsherr M. Oswald.\n\" A. Stähelin.\n\" Saml. Köchlin.\n\" A. Fselin.\n\" Rathsherr A. Christ.\n\" C. Geigy.\n\" A. Christ.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4013,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1277,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0323,
+    "mean_line_chars": 19.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p158",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p158.jpg",
+      "bytes": 1108013,
+      "sha256": "ad288ac0da0d98093163228aa061df7313fca40c1954856fb0297883600e7c12",
+      "sha256_of": "original",
+      "working_copy": "1850_p158.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:41+00:00"
+  }
+}

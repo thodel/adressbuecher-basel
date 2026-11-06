@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p062",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p062.jpg",
+    "bytes": 1508874,
+    "sha256": "89e527d21d8dbef76420f9266d9544354e837c6c750fab70365d6bd4f13c15eb",
+    "sha256_of": "original",
+    "working_copy": "1862_p062.jpg"
+  },
+  "text": "Seite. | Straße. | | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.\n48 | Freie Straße. | lies | 109 | V | 1069 | Friedrich, Mar (zum Eichbaum).\n  | \" | \" | 111 | V | 1068 | Meyer-Bogel, Frau Mar. Victoria (zur niedern Schwelle).\n49 | Gasstraße. | \" | 6 | I | 6 | Stadtgemeinde (Gasanstalt).\n  | Gellertstraße. | \" | 40 | V | 287 | Merian-Burckhardt. Wb. Margar.\n  | \" | \" | 43 | V | 282 | Emil Forkart.\n51 | Gerbergasse. | \" | 10 | VI | 1661—62 | Geßler-Tanner, Leonhard (zu den 3 Böcken).\n52 | \" | \" | 21 | VI | 649 | Riefterer-Meyer, Agathe (z. Wachholderbaum).\n53 | \" | \" | 44 | VI | 639 | Naumann, H., Apotheker (z.Kitter).\n55 | Gerbergäßlein. | \" | 13 | VI | 639 | id. id. id.\n57 | \" | \" | 41 | VI | 674 | Hodel-Böniger, Wb. Amalie (zum Schleiffstein).\n  | Gitterstraße. | \" | 21 | III | 199 h h | Eidgenossenschaft (Lagerhaus).\n  | Gundoldingenstraße. | \" | 6 | IV | 238 D | Ostertag-vonSpeyr, Albert, Dr. (Lehenhaus).\n58 | Hagenheimerstraße. | einschalt. | 35 | II | 125 A | Fischer-Trautvetter, Reinhard.\n  | Hardstraße. | lies | 37 | V | 302 | Rudin-Elicheri, Conrad.\n  | \" | \" | 39 | V | 302 a | Salathe und Schmid. (Scheune.)\n59 | Heuberg. | \" | 1 | II | 473 B | Gysin, Maria Dorothea.\n60 | \" | \" | 6 | II | 445 | Heinz-Huber, Eduard (z. Paradies).\n  | \" | \" | 24 | II | 436 | Erben von Wb. Stähelin sel. (zum Mörzberg).\n61 | \" | \" | 27 | VI | 398 | Sommerhalder-Wehrlein, Wb. Rosina (z. rothen Eck).\n62 | Unt. Heuberg. | \" | 10 | VI | 426 A | Breiswerf, Emanuel.\n63 | \" | einschalt. | 33 | VI | 399 b | Kleiner, Wb. sel., Erben.\n  | Heumattstraße. | lies | 7 | IV | 214 | Weber-Littner, Sebastian.\n  | \" | \" | 9 | IV | 213 A | id. id.\n65 | Hutgasse. | \" | 7 | VI | 1670 | Studer, F. F. (z. unt. Pfannenberg).\n  | \" | \" | 9 | VI | 1671 | Geßler-Tanner, Leonhard.\n66 | St. Jakobs-Straße. | \" | 3 | V | 257 | Thoma, Carl, Bierbrauer (zum Biergarten).\n67 | \" | \" | 12 | IV | 224 | Günther-Schaub, Jacob.\n  | \" | \" | 23 | V | 251 | Rhyner-Bischoff, Carl und Zellweger-Rhyner, Cäcilie.\n  | \" | \" | 25 | V | 250 | Friedrich-Hug, Leonhard.\n  | \" | \" | 27 | V | 250 A | id. id.\n  | \" | \" | 29 | V | 249 | id. id.\n69 | Imbergäßlein. | \" | 24 ft. 26 | II | 544 | Zollinger-Litscher, Joh. (z. untern Blumenberg).\n  | \" | \" | 26 ft. 28 | II | 545 | Wiesendanger-Fric, Ulrich (z. obern Blumenberg).\n  | \" | \" | 28 ft. 30 | II | 547 C | Bux-Rieder, Franz Jof. (z. Imber).\n71 | St. Johann-Vorstadt. | \" | 30 | I | 45 | Schöllly-Bruckner, Wb. Susanna.\n72 | \" | \" | 45 | I | 22 A | Zäslin u. Baumann (z. Irrgarten).\n  | \" | \" | 49 | I | 11 | Florang, Ant (z. Schweizerhäusl.).\n73 | \" | \" | 60 | I | 21 | Trinler, Catharina.\n  | \" | \" | 71 | I | 2 A | Hübcher und Spreinglin.\n74 | \" | lies | 81 | I | 1 | Staat (St. Johannthor).\n  | \" | \" | 84 | I | 1 | Hübcher-Lichtenhahn, Wilh. (St. Johanniterhaus).",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9922,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2815,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 65.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:27:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p062",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p062.jpg",
+      "bytes": 1508874,
+      "sha256": "89e527d21d8dbef76420f9266d9544354e837c6c750fab70365d6bd4f13c15eb",
+      "sha256_of": "original",
+      "working_copy": "1862_p062.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:40+00:00"
+  }
+}

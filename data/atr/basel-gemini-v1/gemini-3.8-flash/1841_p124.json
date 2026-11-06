@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p124",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p124.jpg",
+    "bytes": 1047673,
+    "sha256": "c93100fcd8f843ee11ac6e6b479eb5be3f9d5e9df5ec1ce06962f2682b6c676b",
+    "sha256_of": "original",
+    "working_copy": "1841_p124.jpg"
+  },
+  "text": "41\n\nSchneßler, Leonhard, Schuhmacher. 635 Gerbergäßlein.\nSchöck, Jak. Chr., Bandfabrikant. 79 St. Johann-Vorstadt.\nSchöck, geb. Gertrud Henz, Spezereihandlung. 805 Vordere Steinen-\n  Vorstadt.\nSchölli, Joh. Jakob, Seiler. 1011 Aeschen-Vorstadt.\nSchölli, Caspar, Tuchscheerer. 352 Spahlen-Vorstadt.\nSchölli, Joh. Caspar, Sohn, Wagner. 359 St. Leonhardsgraben.\nSchölli, geb. Bruckner. 45 St. Johann-Vorstadt.\nSchölli, geb. Kron, Wittwe. 458 Beim Spahlenthurm.\nSchölli-Bruckner, Jak. Christ., alt Stadtrath. 1626 Unt. Freienstraße.\nSchölli-Schölli, Samuel, Sohn. 1536 Eisengasse.\nSchönauer-Bernoulli, Spezereihandlung. 120 Blumenplatz und 224\n  Schwarze Pfahlgasse.\nSchöner, Adam, Schreiner. 467 Beim Spahlenthurm.\nScholer, Emanuel, Zinngießer. 1525 Fischmarkt.\nScholer, Emanuel, Pedell. 1508 Rheinsprung.\nScholp, Rud., Spezereihändler. 69 St. Johann-Vorstadt\nSchoop, Joh. Jakob, von Romanshorn. 19 St. Johann-Vorstadt.\nSchrenk, J. J., Unterbestäter. 1057 Tiefe.\nSchreiber, Friedrich, Kunsthändler. 112 u. 114 Blumenrain.\nSchütz, Jakob, Handels-Commis. 1063 Tiefe.\nSchuhmacher, J. G., Maurer. 1226 St. Alban-Vorstadt.\nSchuler, Conrad, Metzger. 812 Vordere Steinen-Vorstadt.\nSchuler, Emanuel sel., Wittwe, Rothgerber. 850 Hint. Steinen-Vorst.\nSchwarz, Th., Schneider. 213 Schwarze Pfahlgasse.\nSchwarz, Wittwe. 792 Hinterer Bach.\nSchwarz, Joh. Fr., Schlosser sel., Wittwe. 1232 St. Alban-Vorst.\nSchwarz, Friedrich, Buchbinder. 1103 Streitgasse.\nSchweighauser'sche Buchhandlung. 139 Blumengasse.\nSchweizer, Christ. sel., Wittwe, Weinschenk. 1263 St. Alban-\n  Thorgasse.\nSchweizer, Nikolaus, Schreiner. 287 Spahlen-Vorstadt.\nSchweizer, J. J., Kaufhausarbeiter. 130 Kronengasse.\nSchweizer, J., Posamentier. 856 Thorsteinen.\nSchwob, Hans Jakob, Brunnknecht. 907 St. Elisabethen.\nSchwob, Joh., Med. Dr. 1189 Freie Straße.\nSegiser, Friedrich, Kaufhausangestellter. 118 Blumenplatz.\nSegiser, J. H., Clavierlehrer. 455 Beim Spahlenthurm.\nSegiser, Ludwig, Schuhmacher. 1395 Spitalsprung.\nSeifert, Anton, Weinschenk. 1608 Sporrengasse.\nSeiler, Heinrich, Fabrikarbeiter. 1132 Weiße Gasse.\nSeiler, Leonhard, Tuchhandlung. 1618 Markt.\nSeiter, Emanuel, Metzger. 481 Oberer Spahlenberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10216,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2166,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:58:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p124",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p124.jpg",
+      "bytes": 1047673,
+      "sha256": "c93100fcd8f843ee11ac6e6b479eb5be3f9d5e9df5ec1ce06962f2682b6c676b",
+      "sha256_of": "original",
+      "working_copy": "1841_p124.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:09+00:00"
+  }
+}

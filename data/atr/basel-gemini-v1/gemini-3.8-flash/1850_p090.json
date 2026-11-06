@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p090",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p090.jpg",
+    "bytes": 1031002,
+    "sha256": "19a4ed97c8e1142c732b712e61c1842e1783b51e46de23193aff8f55fbb884bf",
+    "sha256_of": "original",
+    "working_copy": "1850_p090.jpg"
+  },
+  "text": "Stadt-Quartier. 77\n\n1713 Brunner-VonArx, Ol., Schneider.\n  Baumberger, Andr., Ferger.\n\nHinter der Münz.\n\n1714 Geßler, Emanuel, Tuchhandlung.\n1715 (Magazin) Brandmüller-Eckenstein, Heinr., geh.\n\nHutgasse.\n\n1716 Ott, Friedrich, Schneider.\n1717 Waser, Jakob, Spengler.\n1718 Pfaff, Johann, Bürstenbinder.\n1719 Stählin, Anton, Stuhlschreiner.\n1720 Keller, Georg, Schuhmacher.\n1721-22 Wenk-Brandmüller, Heinr., Fabrikant d. Knochen-\n  düngmehls.\n1723 Geßler, Heinrich, Metzger.\n1724 Dubost-Holzach, Wittwe M. Kath., Ausschnitthdlg.\n1725 Kern-Siegrist, Joh. Bern., Rothgerber.\n  Barth, Samuel, Geschäftsmann.\n1726 Leuba, Luk. Hieronimus, Uhrenmacher.\n1727 Schärr, Schneider.\n  Haas, Stephan, Schirmfabrikant.\n1728 Weniger, Rud. Eml., Weinschenk.\n  Höhlin, Hier., Postfaktor.\n\nBeim Kornmarktbrunnen.\n\n1729 Gemuseus-Respinger, Wittwe, Rentière.\n1730 Hübscher, Rudolf, Vater, Gerber.\n  Hübscher, Jch., Kaufmann.\n1731 Schermar-Bloch, Ant., Tuchhandlung.\n  Holzach, Friedrich, Partikular.\n1732-33 Burckhardt-Kündig, Wittwe Rosine, Mehlhandlung.\n1734 Rych-Bratschy, Geschirrhandlung.\n1735 Sandreuter-Oser, E., Südfrüchtehdlg. u. Commis.\n  Enholz-Sandreuter, Karl, Decorations-Maler.\n\nHinter der School.\n\n1736 Maring-Vogt, Wittwe, Trödlerin.\n  Ott, Joh. Kasp., Seckler u. Kappenmacher.\n  Ott, Joh. Christ., Kaminfeger.\n1737 Schwarz, Friedr., Commissions-, Logis- u. Stellen-\n  gesuch-Bureau.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6723,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1377,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p090",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p090.jpg",
+      "bytes": 1031002,
+      "sha256": "19a4ed97c8e1142c732b712e61c1842e1783b51e46de23193aff8f55fbb884bf",
+      "sha256_of": "original",
+      "working_copy": "1850_p090.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:47+00:00"
+  }
+}

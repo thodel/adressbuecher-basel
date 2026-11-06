@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p063",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p063.jpg",
+    "bytes": 895303,
+    "sha256": "78c24e4803868218d5a7ea69bd45cf18b418297ddc7869d2cdbf295972ee7874",
+    "sha256_of": "original",
+    "working_copy": "1841_p063.jpg"
+  },
+  "text": "56\nNro.\n1589 * Zunfthaus zu Spinnwettern.\n1590 * Eglin, Christoph, u. Huber, Achilles, Baumstr., geh.\n1591 * Braun, Joh., Vater, geh.\n1592 * Hoffmann-Meyer, Georg Rud.\n1593 * Eglin, Christoph, Baumeister, geh.\n1594 * Scholer, Emanuel, Zinngießer, geh.\n1595 * Huber-Schmitter, Joh. Jakob, geh.\n1596 * Berry, Melchior, Med. Dr., geh.\n1597 * Hübscher-von Speyr, Emanuel, Kürschner, geh.\n1598 * Von der Mühll-Keller, Joh. Georg, geh.\n1599 Rieber, Jakob, Spezerei- und Tabackhandlung.\n\nSporrengasse.\n1600 Bernoulli, Nikl. de Joh.\n  Bernoulli-Bär, Leonhard.\n1601 Burckhardt-Bernoulli, Benedikt.\n1602 Wagner, Jungfer, Margaretha.\n  Kleiber, Andreas, Schuhmacher.\n1603 * Paravicini, Leonhard, geh., Eisenhandlung.\n  Notariats-Bureau von Paravicini, Friedrich.\n  Schaub-Fischer, Christoph, alt Bezirksschrbг. u. Notar.\n\nSt. Martinsgäßlein und Kirchhof.\n1604 * Hinterhaus von Nro. 1602. Wagner, Jungfer Margaretha.\n  Schaub, Wittwe, geb. Cath. Zeinler, Näherin.\n1605 * Hinterhaus von Nro. 1597. Hübscher-von Speyr, Em., geh.\n1606 * dito ,, Nro. 1602. Wagner, Jgfr. Margar., geh.\n  Sutter, Heinrich, von Ormalingen.\n\nSporrengasse.\n1607 Kern, Eman. sel., Wittwe, geb. Schmerber.\n  Hägler, Mathias, Ladendiener.\n  Lerch, Georg u. Vol., Seidenhandlung.\n1608 Silbernagel, J. J., geh.\n  Seifert, Anton, Weinschenk.\n1609 Georg, Joh. Jakob, Handelsmann.\n  Fäsch-Süß, Joh. Jakob.\n1610 * Gyßler, Ludw., Bandfabrik.\n\nMarkt.\n1611 Das Rathhaus. Krug, Joh., Archivar.\n1612 Gysin, Ludwig.\n  Lüdin-Wagner, Joh. Franz, Fabrikferger.\n1613 Stähelin-Christ, Balthasar, Eisenhandlung.\n1614 Merian, Heinrich, Wollengarnhandlung.\n  Felber, Georg, Rathschreiber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6877,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1628,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 35.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p063",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p063.jpg",
+      "bytes": 895303,
+      "sha256": "78c24e4803868218d5a7ea69bd45cf18b418297ddc7869d2cdbf295972ee7874",
+      "sha256_of": "original",
+      "working_copy": "1841_p063.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:23+00:00"
+  }
+}

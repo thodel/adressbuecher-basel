@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p126",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p126.jpg",
+    "bytes": 1186424,
+    "sha256": "1f6a05d785409e720d3211d8a93e6650fefda59344160416ebbca79ff1e961db",
+    "sha256_of": "original",
+    "working_copy": "1850_p126.jpg"
+  },
+  "text": "Lichtenhahn, Ben., Beck 868 | Lok-Eglin, F., Zimmerm. *175\nJoh. Rud., Schreiner 910 | Wittwe, Wascherin 18\n=Holzach, Wittwe 851 | =Lüscher, Frau 1004\n=Kirchberger, Wwe. M. 1468 | =Zäslin, Wwe., Tabackl. 1534\nLiebreich, F. A. 1750 | Fgfr., Gl., Spezereihg. *390\nLienin, M., Musiklehrer 1274B | Löw, Leonh., Schuhm. 506\nLindenmeyer, F. F., Beck 282 | F. F., Eisenwaarenhg. 670\nSaml., Schreiner 370 | F., Wirth 730\n=Schmidt, F. F. 707-10 | Abr., Abwart 731-33\nBalt., Wachtmeister 858 | Wilh., Musikerweber 790\nF. G., Sohn, Weinhg. *417 | Joh., Magazinier 1277\nF. R., S. M. C. *417 | F. G., Trödler 1748\nLinder-Stehlin, Fb. L. 149 | Lüdin, Joh., Zimmerm. 1331\nEml., Commis 368-69 | =Göbelin, Wittwe 159\n=Courvoisier, Th., Sohn 386 | Ludwig, Andr., Eisenhdlg. 516\nJoh. Faf., Bandfabr. 556 | Wittwe, Weinschenke 457\nF. F., Hasner 972 | Lugeon, Franz, Commis 299\nEd., Zimmermeister 985A | Lüppold, Ros., Wascherin 801\nJoh., Obersthelfer 1374 | Lüscher, Karl, Commis 1222\nF. L., Messerschmied 1559 | Lüffl, F. F. 1626. Compt. 1174\nGottl. Nifl., Mechan. 1698 | Luthringshäuser, Heinr. 84\nHeinr., Alt-Kanzlist *274 | F. F., Zeichnungslehrer 863\nLindner, Ed., Buchbinder 589 | Ed., Commis 1523\nLipp, Hr., Zettlermeister 322 | Luk, Ed., Kapellmeister 339\nLippe, Geschwister 621 | F. U., Uhrenmacher 1711\nLocher-Keller, Frau Elis. 494 | Lüzelmann, F. 20. Compt. 404\nLöhle, Karl, Commis *341 | Maas, R., Med. Dr. 725\nLohner, Bened., Lehrer *106 | Mackler, F. F., Schuhm. *251\nLöliger, Wwe., Wirthsch. 1003 | Mäder, F. P., Piqueur *198\nLorenz, Fof., Lohnbed. 528 | Madeux, Spedit.=Hdlg. 335\nLok-Wick, Gl., Spezierer 59 | Madöry, F., Stuhlschr. 1627\nJoh., Schloffer 88 | Wittwe, Marg. 1311D\nLeonh., pens. Siegrist 238 | Maglin, Benj., Küfer 603\nChr., Sohn, Schneider 247 | Gustav, Tabackladen 660\nEduard, Tabackhändler 525 | Rud., Commis 754L\n=Spörlin, H. 712-13 | F. R., Spezereihdlg. 855\nRud., Alt-Postoffiziant 1011 | Ben. de Ant., Commis 1013\nLeonh., Knopfmacher 1684 | Edw., Mezger *29\nLeonh., Ruttler 1684 | Christ., Mezger *142\nKarl, Schloffer 1696 | F. Faaß, Maler *151\nL., Sohn, Seidenfärb. *46 | Mähly-Lamy, Kunsthdlg. 127\nFr., Bater *52-55 | Faf. Kasp., Küfer 998\nLeonh., Mezger *150 | Mangold, F. F., Posam, 396\n9",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8443,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2209,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p126",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p126.jpg",
+      "bytes": 1186424,
+      "sha256": "1f6a05d785409e720d3211d8a93e6650fefda59344160416ebbca79ff1e961db",
+      "sha256_of": "original",
+      "working_copy": "1850_p126.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:45+00:00"
+  }
+}

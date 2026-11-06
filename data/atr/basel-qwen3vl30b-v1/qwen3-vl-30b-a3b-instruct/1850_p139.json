@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p139",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p139.jpg",
+    "bytes": 1132763,
+    "sha256": "922491987d7fed281d61267709453fa0304458883aa878c7c40da81c7feacee6",
+    "sha256_of": "original",
+    "working_copy": "1850_p139.jpg"
+  },
+  "text": "126\nTripet, Bwe. Henriette *190 | Uzberger-Dübelin, F. *355\nTrüb, Wittwe Elise *384 | Valentin-deCrousaz 1364\nTrübner, Ludw., Buchbind. 641 | Bayhinger-Wick, Speditor 234\nTrübner-Felber, Bwe.D., 1545 | Bery-Wieland, Wittwe 295\nTschientsch, W., Drehstl. 653 | Viktor, Sohn 295\nSim., Säger *138 | Best, F. F., Küfer 297\nWittwe 1212 | Georg, Lithograph 633\nTschopp, Jaf., Kutscher 17 | =Brenner, H. 1169A\n=Halter, Jaf., Kaufm. 129 | =Piton, Rud., Buchbind. 1384\nSch., Kaufhausarbeit. 704B | =Wenk, Joh. Bernh. 1386\n=Schwob, Joh., Bedf 848 | Heinrich, Sohn 1386\nHeinr., Spezereihdlg. 1124 | Jungfr. Sal. 1566\n=Holzach, Sch., Spengl. 1438 | =Theubet, Eml. 1590\nJoh., Landjäger 1680 | Christ., Mezger *189\nRud., Färber *153 | Wittwe 1572\nHeinrich, Wascher *299 | Jgfr. Sal., Partikularin 392\nTschudy, M., Maurer 179 | Billars, Emil, Pfarrer 272B\nJaf., Schneider 237 | Billinger, Melch. Holzhdlr. 367\nF., Werkmeister 310 | Bischer-Bilsinger, W. Prof. 442\nJoh., Maurer 632 | =Christ, Rud. Handelsm. 1190\nF. Christ., Commis 949-50 | =Preiswerk, V. 1358-60\nJoh. Uhr., Schneider 1706 | =Bischoff, Friedrich 1364\nUebelin, G., Spital-Apoth. 257 | =Passavant, Peter 1509\nF. F., Bauschreiber 279 | =Merian, K., Bandfabr. 1509\nHeinrich, Commis 743 | =Forkart, Bwe. Marg. 1048\nJoh. Friedr., Commis 743 | =Handmann, Wittwe 1311A\n=Brodmann, Dessinateur 743 | =Valentin, Wittwe 1364\n=Gesler, Carl, Commis 985A | Jgfr. Salomea 1366\nUeberegger, Pet., Kutscher 1339 | Vogel, Frz., Käsehandlg. 100\nUehlinger, J.G., Lederlaf. *338 | Ch., Schuhmacher 135\nUhlinger, Jaf., Glaser *38 | Frz. Mart., Schneider 1068\nUhlmann, Jof., Gypser 533 | Vogelbacher, Frz. Jof. 985\n=Block, J. G., Commis 666 | Bost, Jof., Kutscher 887\n=Maxinger, Abr. *272A | Joh. Gg., Glashdlg. 1575\nWittwe, Gastwirthin 352C | Bollenhals, Michael 1294-95\nV Ungerer, Jaf., Mezger 325 | Bölmin, Joh., Stuhlschr. 815\nAchilles, Hasner 841 | Bonlrg, Fabrikarbeiter 1034\nV Andr., Weinschenk 1710 | BonBrunn, J. J., Pfarrer *165\nF. Jch., Schneider 1652-53 | =Braun, Wittwe *141\nUrech, J. D., Handelsm. 282 | BonderMühl-Bürgy 269C\nA., Mechaniker *261A | =Bischoff, Eman. 548\nJgfr. E., Kunstm. 754M | Alfred 1213\nUfer, C. Dl., Schneider 1133 | =Bischer, Fr., Stofffabr. 1213",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8288,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2207,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p139",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p139.jpg",
+      "bytes": 1132763,
+      "sha256": "922491987d7fed281d61267709453fa0304458883aa878c7c40da81c7feacee6",
+      "sha256_of": "original",
+      "working_copy": "1850_p139.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:32+00:00"
+  }
+}

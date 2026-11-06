@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p154",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p154.jpg",
+    "bytes": 1046132,
+    "sha256": "bd661a6c14ba736eacd8c64c31a861b0d89c875fd8f146aaab31608aada2e51f",
+    "sha256_of": "original",
+    "working_copy": "1841_p154.jpg"
+  },
+  "text": "Groß-Basel.\n\nAlphabetisch geordnetes Namens-Register.\n\nA.\n\nAbt, geb. Völkle, und Tochter, von Arlesheim, Schnei-\n  derin. 1416 Spitalsprung.\nAlinger, Jakob, Flachmaler. 204 Spiegelgasse.\n* Alioth, Joh. Sigmund, Kaufmann. 1202 Luftgäßlein.\nAlt, Daniel, Vater, Stubenverwalter (Wirthschaft). Zunft\n  zu Gerbern. 637 Gerbergäßlein.\nAlwens, August, Musiklehrer. 1390 Am Bäumlein.\nAnstein, geb. Lotz, Helena, Wittwe. 1378 Am Bäumlein.\nAntoni, Georg Heinrich sel., Wittwe, geb. Schilling. 607\n  Unterer Spahlenberg.\n\nB.\n\nBaader, Friedr., Unterbau-Inspektor. 1533 b. d. Rheinbrücke.\nBachofen, Joh. Jakob, Sohn, J. U. Dr. 1209 Rittergasse.\nBachofen, Joh. Jakob, Tuchscherer. 875 Thorsteinen.\nBachofen-Miville, Hier., Koch. 651 Gerbergasse.\nBader, Johannes, Metzger und Aufwärter, Freimaurer-\n  Loge. 1450 Schlüsselberg.\nBarrey, Wittwe, geb. Kath. Mäglin. 848 Unterer Klosterberg.\nBattier, Felix, Postoffiziant. 169 Storchengasse.\nBauler, Margaretha, Jungfrau. 1006 Aeschen-Vorstadt.\nBauler, Emanuel, Siegrist an der St. Alban-Kirche.\n  1263 St. Alban-Thorgasse.\n\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5335,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1056,
+    "lines": 26,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.04,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:01:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p154",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p154.jpg",
+      "bytes": 1046132,
+      "sha256": "bd661a6c14ba736eacd8c64c31a861b0d89c875fd8f146aaab31608aada2e51f",
+      "sha256_of": "original",
+      "working_copy": "1841_p154.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:34+00:00"
+  }
+}

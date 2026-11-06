@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p089",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p089.jpg",
+    "bytes": 1309550,
+    "sha256": "80353e54ddd0856e8cc179355ee3495f4920f44ee84f553787d79bb380174fc0",
+    "sha256_of": "original",
+    "working_copy": "1862_p089.jpg"
+  },
+  "text": "24\nBachlettenstraße. — Bäumleingasse.\nNre\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=No.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n19 III. 181 a Weinzollstätte. Engler=Preisentanz, Heinrich.\nJordan=Weiersmüller, Conr., Zollbeamt.\n21 III. 181 A Bert sche=David, Samuel.\nBert sche=David, Samuel, Papierfabrik.\n23 III. 183 Wasserhaus. Steinbrüchel=Nägeli, Gustav, Papierf.\nStadtgemeinde.\nBiedert=Guzwiler, Jakob, Wasserknecht.\nBäumleingasse.\n1 IV. 1383 zum Kameel. Bernoulli=Obermeyer, Daniel.\nBernoulli=Obermeyer, Daniel, J. U. D.\nBernoulli, Daniel, Kaufmann.\n2 IV. 1076 zum goldenen Ort. Wagner=Mayr, Wb. Elise.\nWagner=Mayr, Wb. Elise, Leinwdhdlg.\nBertholet=Wagner, Felix, Lehrer.\n3 IV. 1382 Pfäsenzerhof. Staat, Gerichtshaus.\nTschann=Salathe, Bernhard, Weibel u.\nAbwart.\n4 IV. 1193 z. nied. Mehlbaum. Wettstein=Hoffmann, Wb. Sophie.\nWettstein-Hoffmann, Wb. Soph., Apoth.\nThamm, Ferd., Apotheke=Verwalter.\n5 IV. 1381 A z. unt. Sternenfels. Socin=Werthemann, Christoph.\nSocin-Werthemann, Christoph, Kaufm.\nSocin, Christoph, Sohn, Mechaniker.\nKündig=von Speyr, Aug. Theod., Ph. Dr\n6 IV. 1194 zum blauen Berg. Wettstein=Hoffmann, Wb. Sophia.\nSchaffner=Diiring, Wilhelm, Commis.\nKellenberger, Adolf, Zeichner.\n7 IV. 1381 oberer Sternenfels. Ehinger=LaRoche, Wb. Anna Cath.\nEhinger=LaRoche, Wb. Anna Cath., Part.\nBischoff=Ehinger, Andr., Handelsmann.\n8 IV. 1195 zur Traube. Pöhls=Müller, Lucas.\nPöhls=Müller, Lucas, Schloffer.\n9 IV. 1380 St. Johannes. Chirger=LaRoche, Wb. Anna Cath.\nStreckeisen=Ehinger, Carl, Dr.M. u. Prof.\n10 IV. 1196 zum Haidweiler. Geering, Geschwister.\nGeering, Emil Ludwig, V. D. M.\nGeering, Schwester.\nFirma: Felix Schneiders Buchhandlung,\nBuchdruckerei und Antiquariat.\n11 IV. 1379 Lehrerwohnung. Staat.\nFechter=Hanhart, Dr. Dan. Alb., Correct.\n12 IV. 1197 z. Maulbeerbaum. Salathe=Geßler, Jakob.\nSalathe-Geßler, Jakob, Tapezierer.\nZucker-Müller, Benedict, Organist.\nSalathe-Bärwart, Hieron., Dessinateur.\nPapierhandlung von J. F. Studer.\n13 IV. 1378 zum Pharifäer. Anstein=Wölfflin, Wb. Margaretha.\nAnstein=Wölfflin, Wb. Marg., Part.\nWirz=Streicher, Joh. Jak., Küfer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6821,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2091,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p089",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p089.jpg",
+      "bytes": 1309550,
+      "sha256": "80353e54ddd0856e8cc179355ee3495f4920f44ee84f553787d79bb380174fc0",
+      "sha256_of": "original",
+      "working_copy": "1862_p089.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:59+00:00"
+  }
+}

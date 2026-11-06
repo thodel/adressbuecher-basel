@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p117",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p117.jpg",
+    "bytes": 956098,
+    "sha256": "acc4264db6354a83f24db711bf93139307dd36ac0cdfdf78f49a29c3cddbd226",
+    "sha256_of": "original",
+    "working_copy": "1841_p117.jpg"
+  },
+  "text": "34\n\nPfaff, Johannes, Bürstenbinder. 1718 Hutgasse.\nPfander, J. J., Gold- und Silberwaaren = Niederlage. 1444 Freie\n  Straße.\nPfander, J. J., Gasthof zum wilden Mann. 1444 Freie Straße.\nPfannenschmid, Lucas sel., Wittwe. 323 Spahlen-Vorstadt.\nPfannenschmid, Christoph, Büchsenmacher. 470 Beim Spahlenthurm.\nPfannenschmid, Carl, Zeugwart. 277 Zeughausgraben.\nPfannenschmid, Joh. Jakob, Vergolder. 251 a St. Petersplatz.\nPfirter, Jos., Criminalgerichtsweibel. 198 Unt. Heubergberg.\nPiccard, Raphael Moses, Handelsjude. 1678 Hutgasse.\nPiccard, Samuel, Handelsjude. 1694 Kuttelgäßlein.\nPicchioni, Ludwig, Professor. 1378 Am Bäumlein.\nPlattner, Friedrich, Pintenschenk. 1034 Aeschen-Vorstadt.\nPlattner, Joh., Fuhrhalter. 1271 St. Alban-Thorgasse.\nPlattner, Johannes, Zimmermann. 754 Kohliberg.\nPöhls, Friedrich, Schlosser. 1195 Am Bäumlein.\nPorte, Elias, französischer Sprachlehrer. 488 Oberer Spahlenberg.\nPräcker, Wittwe, geb. Marg. Steidinger, Zeughandlung. 1673\n  Hutgasse.\nPreiswerk, Emanuel, Spezereihändler. 597 Unt. Spahlenberg.\nPreiswerk, Lucas, Bandfabrikant. 53 St. Johann-Vorstadt.\nPreiswerk, Nikl. Peter, und Sara, Geschwister. 63 St. Joh.-Vorst.\nPreiswerk, Abraham, Handschuhmacher. 1189 Freie Straße.\nPreiswerk, Rud., Candidat. 1270 St. Alban-Thorgasse.\nPreiswerk, J. J. sel., Wittwe, geb. Stückelberger. 262 Neue Vorst.\nPreiswerk, Math. sel., Wittwe, geb. Bernoulli. 1543 Eisengasse.\nPreiswerk, Samuel, Gemeinhelfer. 239 Kirchgäßlein.\nPreiswerk, Joh. Dietrich, Kaufmann. 46 St. Johann-Vorstadt.\nPreiswerk, geb. Forkart, A. M. 1369 Hinter dem Münster.\nPreiswerk-Oser, Joh. Jakob, Tuchhandlung. 1543 Eisengasse.\nPreiswerk-Bischoff, Wilhelm. 36 St. Johann-Vorstadt.\nPullich, Emanuel sel., Wittwe. 218 Im Winkel.\nPuppikofer, Leonhard, Fabrikarbeiter. 688 St. Leonhardsberg.\n\nR.\n\nRächer, J. J., Schuhmacher. 1389 Am Bäumlein.\nRaff, Franz, Vater und Sohn, Posamenterstuhlmacher. 355 St.\n  Leonhardsgraben.\nRaillard, geb. E. Meyenrock, Wittwe. 1192 Freie Straße.\nRaillard, Theodor; Verichthaus. 1192 Freie Straße.\nRaillard, Emanuel, Med. Dr. 1024 Aeschen-Vorstadt.\nRaillard-Geilinger, Rud., Weinhandlung. 1440 Freie Straße.\nRamsperger-Hug, Emanuel, Spezereihandlung. 1442 Freie Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7424,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2188,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:57:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p117",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p117.jpg",
+      "bytes": 956098,
+      "sha256": "acc4264db6354a83f24db711bf93139307dd36ac0cdfdf78f49a29c3cddbd226",
+      "sha256_of": "original",
+      "working_copy": "1841_p117.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:08+00:00"
+  }
+}

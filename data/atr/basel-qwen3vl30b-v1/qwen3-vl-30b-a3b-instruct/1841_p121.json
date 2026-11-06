@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p121",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p121.jpg",
+    "bytes": 957080,
+    "sha256": "fea9ba95880abf0ae0225e9d1ff25405a3bf4efa46a02a4baf4ad405e741e493",
+    "sha256_of": "original",
+    "working_copy": "1841_p121.jpg"
+  },
+  "text": "38\nSchäffer, S., Handels-Commis. 1172 Freie Straße.\nSchärer, Felix, Traiteur. (Gesellschaftshaus zum h. Dolder.) 1335\nSt. Alban-Vorstadt.\nSchärer, Conrad, Schuhmacher. 470 Beim Spahlenthurm.\nSchärer, Leonhard, Mezger. 622 Grün Pfahlgässlein.\nSchärer, Joh. Heinrich, Schneider. 1723 Hutgasse.\nSchärer, Catharina u. Margar., Jgfrn. 513 Hint. d. Spahlenthurm.\nSchäublin, Joh. Jakob, Schuster. 324 Spahlen-Vorstadt.\nSchäublin, Rudolf, Schuhmacher, von Lieftal. 334 Fröschgasse.\nSchaffner, Heinrich, Schneider. 1552 Eisengasse.\nSchaffner, Samuel, Schneider. 123 Blumenplatz.\nSchaffner, Sam., Rutscher, von Anwyl, Basellandschaft. 20 St.\nJohann-Vorstadt.\nSchaffner, J. J., Wittwe, Weinschenk. 1069 Tiefe.\nSchaffner, Sebastian, Schneider. 1564 Schneidergasse.\nSchaffner, Joh. Martin, Commis. 700 St. Leonhardsberg.\nSchaffner-Fuchs, Sebastian, Mezger. 1501 St. Martin.\nSchald, Joh. Ulrich, Goldschmid. 138 Fischmarkt.\nSchardt, Lucas, Buchbinder und Leihbibliothek. 1152 Gerbergasse.\nSchardt, Daniel, Schuhmacher. 719 Hinter dem Stöcklein.\nSchardt, Schuhmacher. 412 Trillengässlein.\nScharf, Aloys, Privatlehrer, von Zeiningen. 174 Storchengasse.\nSchazmann, Conrad, Maurer. 430 Heuberg.\nSchaub, Joh. Georg, Mechanikus. 906 St. Elisabethen.\nSchaub, Joh. Jakob, Fabrikkaufseher. 47 St. Johann-Vorstadt.\nSchaub, Jakob sel., Wittwe, Pintenschenk. 1144 Barfüsserplatz.\nSchaub, Rudolf, Johann, Buchbinder. 432 Heuberg.\nSchaub, Martin, Fabrikarbeiter. 966 Sternengässlein.\nSchaub, Joh. Adam, Fabrikferger. 1017 Aeschen-Vorstadt.\nSchaub, Georg, Fabrikarbeiter. 1654 Kindermarkt.\nSchaub, Joh. Jakob, Handschuhmacher. 1101 Streitgasse.\nSchaub, Joh. Georg, Bater, Fabrikarbeiter. 432 Heuberg.\nSchaub, Joh. Georg, Schreiner. 412 Trillengässlein.\nSchaub, Wittwe, geb. Cath. Zeinler, Näherin. 1604 St. Martins-\ngässlein.\nSchaub, Mathias, Schuster. 773 Bordere Steinen-Vorstadt.\nSchaub-Fischer, Christoph, alt Bezirksschreiber und Notar. 1603\nSporrengasse.\nSchaubek, Samuel, Schuhmacher. 425 Heuberg.\nScheidecker-Mähly, Peter. 127 Neue Straße.\nSchellenbaum, J., Adjutant. 905 St. Elisabethen.\nSchellenberg, Christ. Ludwig, Agent. 985 Aeschen-Vorstadt.\nSchenk, Georg, Feger und Lohnwäscher. 677 Hint. Gerbergässlein.\nSchenkel, Daniel, Lizenciat, von Schaffhausen. 159 Fischmarkt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6991,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2253,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p121",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p121.jpg",
+      "bytes": 957080,
+      "sha256": "fea9ba95880abf0ae0225e9d1ff25405a3bf4efa46a02a4baf4ad405e741e493",
+      "sha256_of": "original",
+      "working_copy": "1841_p121.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:01+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p038",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p038.jpg",
+    "bytes": 1102300,
+    "sha256": "72c584798cd3c1dc98c90dbc6c2e85ba9f1ea77c1f17793cc91ab7d4889131ca",
+    "sha256_of": "original",
+    "working_copy": "1850_p038.jpg"
+  },
+  "text": "Spahlen = Quartier. 25\n561 Guife, Konstantin, Zeichnungslehrer.\nMeyer-Kraus, Sch., Lehrer.\n562 Kündig, Eucharius, Diacon bei St. Peter.\n563 Neber-Geilinger, Joh. Jak., Rentier.\n564 Socin-Frey, Eduard, Handelsmann.\nFrey, Joh. Rud., alt Bürgermeister.\nBei St. Peter.\n565 Euler, F. F., S. M. C., Oberlehrer der Anabens-\nschule bei St. Peter.\nSt. Peters-Stiftsgasse.\n566 Weiß, Christoph, Mädchenlehrer.\nA 566 Socin-Legrand, Abel, Buchhandlung.\nPreiswerk-Paravicini, Karl, Kaufmann.\nTodtengäßlein.\n567-68 Singeisen, F. F., Schreiner.\n569 Sirt, Leonard, Tapezierer.\n570 Schringer, F. G., Handelsmann.\n571 (Obrigkeitl. Töchterschule.)\nHeusler-Bischoff, Abraham, S. M. C., Rektor.\n572 (Magazin) zu Nr. 1599, Nieber, F. F., geh.\n573 Lapp, Felix, Papierer.\nSchneidergasse.\n574 (Remise und Stallung) zum Posthaus geh.\n575 Brüderlin, Ambrosius, Zuckerbeck.\n576 Sandreuter, F. Jakob, Spengler.\n577 Eßinger, C. F., Commis. Nr. 577 u. 48 Joh. Gr. 7°: Wilh. F. J. F.\nChrist, Ludwig, Schuhmacher.\n578 Miville, Rud., Conducteur.\nRiffel, Sch., Commis.\n579 Otter, Joseph, Sattler.\n580 Bär, Th. Rud., Perückenmacher.\n581 Sandreuter, Rud., Schuhmacher.\nPeschei, Kappenmacherwerkstätte.\n582 Claßen-Steiger, C. A.\nSchnewlin & Comp., Spedition, Commission- und\nSpezereiwaaren.\nSautter, Michael, Commis.\n584 Wertenberg, Rudolf, Bürstenbinder.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4442,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1316,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p038",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p038.jpg",
+      "bytes": 1102300,
+      "sha256": "72c584798cd3c1dc98c90dbc6c2e85ba9f1ea77c1f17793cc91ab7d4889131ca",
+      "sha256_of": "original",
+      "working_copy": "1850_p038.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:08+00:00"
+  }
+}

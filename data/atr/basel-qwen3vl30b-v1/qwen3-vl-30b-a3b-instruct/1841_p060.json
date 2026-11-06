@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p060",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p060.jpg",
+    "bytes": 933392,
+    "sha256": "45bc2abf110e50f18e4aa52cc08325bbbda61ed564845f372033c519a7a15dc9",
+    "sha256_of": "original",
+    "working_copy": "1841_p060.jpg"
+  },
+  "text": "53\nNro.\n1498 St. Martins=Kirche.\n1499 * Pfarrhaus. Bon Brunn, Nikol., Pfarrer.\n1500 * Sigristwohnung. Kromer, David, Sigrist bei St. Martin.\n1501 { Schaffner=Fuchs, Sebalt., Mezger (halb).\n{ Siegrist, geb. Fuchs, Maria (halb).\n1502 * Debary und Bischoff, Joh., geh.\nGaf, Joh., Fabrikarbeiter.\n1503 Zeinler, Jsaak, Schuhmacher.\nRheinsprung.\n1504 Siegrist, Eman., Schuhmacher.\n1505 Scherb, Heinrich, Flachmaler.\n1506 Devit, Rudolf fel., Wittwe.\n1507 Klingenfus, Joh., Schneider.\n1508 Unteres Collegium, der Zeit Bureau des Bau=Collegiums.\nScholer, Eman., Pedell.\n1509 Bischof=Passavant, Peter, Handelsmann.\nHis, Eduard, Appellationsrath.\n1510 * Bachofen, J. J. fel., Erben geh.\nBurchhardt=Bachofen, Christoph.\n1511 Bischoff=Debary fel. Wittwe.\n1512 Bischoff=Wieland, Hieronymus.\nAugustinergasse.\n1513 Bischoff, Peter, Wittwe, Bandfabrik.\nBischoff=Buxtorf, Joh.\n1514 * Magazin, Debary=Sarasin, Joh., geh.\n1515 Forkart=Kespingen, Lucas.\nImhof=Forkart, Kaufmann.\n1516 Rumpf, Christoph. Meyri, Joh., Antiquar.\n1517 Buxtorf=Preiswerk, Christoph, Tabak= und Spezereihandlung.\n1518 Soulzner, Alex., Confiseur.\n1519 u. 1520 abgebrochen.\nF. Stadt-Quartier.\nFischmarkt.\n1521 * Gubler, Joh., gehörend.\n1522 dito Wohnhaus und Weinschenke.\n1523 Fleiner, Joh. Wilh., Handels-Commis.\nPerret, Louis, dito\n1524 Neukirch, Joh. Georg, Buchdruckerei u. Buchhandlung.\n1525 * Scheuermann=Zäslin, J., geh.\nScholer, Emanuel, Zinngießer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4519,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1410,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p060",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p060.jpg",
+      "bytes": 933392,
+      "sha256": "45bc2abf110e50f18e4aa52cc08325bbbda61ed564845f372033c519a7a15dc9",
+      "sha256_of": "original",
+      "working_copy": "1841_p060.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:20+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p085",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p085.jpg",
+    "bytes": 952508,
+    "sha256": "499c54b329aceeb6d428748e3277cc082320ec4cd7fbb393d29176e5f10a2d9e",
+    "sha256_of": "original",
+    "working_copy": "1850_p085.jpg"
+  },
+  "text": "72\nStadt = Quartier.\n1608 Silbernagel, Joh. Jaf., Weinschenk.\n    Göttisheim, Fch., Handlungsdieners.\n1609 Georg, Joh. Jaf., Ausschnitthandlung.\n    Fäsch-Süß, Joh. Jaf., Rentier.\n1610 Comptoir von Gyßler, Ludwig, Bandfabrik.\nMarkt.\n1611 (Das Rathhaus) Obrigkeilich.\n    Krug, Johann, Archivar.\n1612 Gyßin, Ludwig, Tuchhandlung.\n    Maring, Eml., Rentier.\n1613 Stähelin-Christ, Balth., Eisenhandlung.\n1614 Merian-Bister, Eml. Heinr., Wollenwaarenhandlg.\n1615 Wortmann, Wittwe Barbara, Ellenwaarenhandlg.\n    Wortmann, H., Buchbinder. (Werkst. in Nr. 1172.)\n1616 (Zunft zu Weinkleuten) Kespinger-Jsenegger, Friedr.\n    Holzach, F. E., Spielwaarenhandlung.\n1617 Seiler, Leonh., Wollen- u. Leintuchhandlung.\n    Blanc, David, Commis.\n    Menenrock, Schwestern, Rentieres.\n1618 Massini-Seiler, Rudolf, Commis.\n    Wierz-Braun, C., Lingerie et nouveautés.\nUntere freie Straße.\n1619 Holzbacher-Merian, F. G., Apotheker.\n1620 Fäsch, Frau Sophie, Kostgeberin u. Schirmhandel.\n1621 Kloch, Peter, Seiler.\n    Obermeyer, Burkhardt, Rentier.\n1622 Maß, F. F., Buchdrucker.\n    Bloch, Eucharius, Zuckerbeck.\n1623 Weidmann, Jgfr. Em., Ellenwaaren- und Bett-\n    federnhandlung.\n    Sprünglin, Jgfr., Partikularin.\n1624 Rachel, Lukas Heinrich, Metzger.\n    Grey, Christf., Abw. am Stempelbureau.\n    Meyer, Karl u. Ulrich, Spielwaarenhandlung.\n1625 Heiz, Bernhard, Drechsler.\n    Rosenfeld, Ed., Zeichnungslehrer.\n1626 Langmesser, F. F., jünger, Sattler.\n    Lüfty, F. F., Tabakhändler. (Verkaufsblokal in\n    Nr. 1444.)\n    Münch, A., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4783,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1527,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p085",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p085.jpg",
+      "bytes": 952508,
+      "sha256": "499c54b329aceeb6d428748e3277cc082320ec4cd7fbb393d29176e5f10a2d9e",
+      "sha256_of": "original",
+      "working_copy": "1850_p085.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:37+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p177",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p177.jpg",
+    "bytes": 972434,
+    "sha256": "e2aa136ef35385e6ffcccaac9f0bb60d10ad65448dbecfee0bc43d0e2c4d8084",
+    "sha256_of": "original",
+    "working_copy": "1841_p177.jpg"
+  },
+  "text": "— 24 —\n\nO.\n\nOppermann, Wilhelm, Maler. 383 Krempergasse.\nOswald, Math., Rathsherr. 341 Untere Webergasse.\n\nP.\n\nPack, Jakob Christoph, Steinmetz. 123 Obere Rebgasse.\nPfrunder, Jakob, v. Männedorf, Rheinknecht. 62 Rheingasse.\nPlattner, Durs, Speddermeister. 64 Rheingasse.\nPümpin, Sam., Zimmermann. 371 Untere Rheingasse.\n\nR.\n\nRieber, Jakob, Commis. 17 Rheingasse.\nRyff, Heinrich, Seidenfärber. 220 Greifengasse.\nRitter, Joh. Jakob, Sohn, Metzger. 72 Rheingasse.\nRösler, Wilhelm, von Nürnberg, Perruquier. 34 Rheingasse.\nRoth, J. J., Schneider. 239 Ochsengasse.\n* Rühlin, J. G., Lohnwascher. 309 u. 309 c. Beim Klingen-\n  thal. (Gemeinschaftlich mit Rud. Schmidt, Weiß-\n  beck, — siehe diesen.)\n\nS.\n\nSalathe, Abraham, Bannwart. 117 Rebgasse.\nSandreuter, Em., Metzger. 23 Schafgäßlein.\nSchäfer, Sam., Ferger. 231 Greifengasse.\nSchäfer, Aug., sel. Wittwe, geb. Matzinger. 431 und\n  432 Udengasse.\nSchäfer, Aug., Sohn, Zimmermann. 431 und 432 Udengasse.\nSchardt, Mathias, Spengler. 100 Am Lindenberg.\nSchardt, Joh. Ludwig, zweiter Polizei-Sekretär. 202 Rebg.\nSchaub, Jakob Friedr., Ziegler. 138 Beim Riehenthor.\nSchaub, Friedrich, von Wittisburg, Schuhmacher. 179\n  Rebgasse.\nSchilling, Peter, Tagl. 275 Untere Rebgasse.\n* Schmidt, Rud., Weißbeck. 309 u. 309 c. Beim Klingen-\n  thal. (Gemeinschaftlich mit J. G. Rühlin, Lohn-\n  wascher, — siehe diesen.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6750,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1348,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p177",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p177.jpg",
+      "bytes": 972434,
+      "sha256": "e2aa136ef35385e6ffcccaac9f0bb60d10ad65448dbecfee0bc43d0e2c4d8084",
+      "sha256_of": "original",
+      "working_copy": "1841_p177.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:29+00:00"
+  }
+}

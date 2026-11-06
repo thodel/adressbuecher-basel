@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p054",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p054.jpg",
+    "bytes": 1089445,
+    "sha256": "cb819ddbeeca80b5f5e6c1396d9ee79ada0a0fcc061d7026c045022dda94b884",
+    "sha256_of": "original",
+    "working_copy": "1850_p054.jpg"
+  },
+  "text": "Aeschen = Quartier. 41\n\n912 Bischoff-Kestner, J. J., Banquier.\n  Merian-Forkart, J., Obrist, Rentier.\n  Merian, Jgfr., Susanna.\n913 Kyburt-Rumpf, Wittwe, Judith, Partik.\n914 Gnöpf, Achill., Hufschmied und Thierarzt.\n915-16 Paravicini-Vischer, Rud., Bandfabrikant.\n917 Bernoulli-Huber, Leonhard, Tuchhandlung.\n  Bernoulli, Ed., Sohn, Tuchhdlg.\n918 Sandoz, Carl August, Kaufmann.\n  Moyon, J. Th., Kunstmaler.\n  Fürbringer, J. G., Gärtner.\n919 Köchlin-Geigy, Alph., Bandfabrikant.\n920 Jung, Karl Gust., Med. Dr. u. Prof.\n921 Hübscher-Stähelin, Eml., Rentier.\n922 Allemann, Urs Jos., Zimmergeselle.\n923 Scheune und Stallung zu Nr. 940.\n924 (Scheune und Stallung) zu Nr. 938, Iselin-Wett-\n  stein, Dan., geh.\n925 Friedrich, Rud., Maurer und Steinmetz.\n926 (St. Elisabethen Kirche) Obrigkeitlich.\n927 Wölfflin-Lotz, Dietr. Wilh., Commis.\n928 Burckhardt-Von der Mühll, Hieron., Rentier.\n929 Burckhardt, Wittwe, Ros. Valeria, Rentière.\n930 Thommen, Joh. Jak., Küfer.\n\nSteinenberg.\n\n931-33 Ryhiner-Schönauer, And., Rentier.\n  Burckhardt-Iselin, Hier., Bankier.\n934 Weibel-Meyer, Rudolf, Commis.\n  Burkhardt, Alfred, Rentier.\n935 Burckhardt, Jgfrn. Schwest., Maria und Emilia,\n  Kapitalistinnen.\n936 Wolleb-Linder, M., Karl Rudolf, Pfarrer zu St.\n  Elisabeth.\na 937 (Knabenschule) Meyer-Kraus, Bened., Lehrer.\nb 937 (Mädchenschule) Schneider, Erhard, Lehrer.\nA 937 Kaufhaus Euler, Eucharius, Kaufhausverwalter.\n  Krayer-Alt, Eml., Bestäter.\nB 937 Siegrist, J. R., Kaufhausbeamter.\n\nAeschen-Vorstadt.\n\n938 Iselin-Wettstein, Dan., Rentier.\n  Merian-Iselin, Karl, Kaufmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7012,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1560,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.48,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p054",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p054.jpg",
+      "bytes": 1089445,
+      "sha256": "cb819ddbeeca80b5f5e6c1396d9ee79ada0a0fcc061d7026c045022dda94b884",
+      "sha256_of": "original",
+      "working_copy": "1850_p054.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:40+00:00"
+  }
+}

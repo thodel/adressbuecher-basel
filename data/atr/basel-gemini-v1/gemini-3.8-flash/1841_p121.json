@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p121",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p121.jpg",
+    "bytes": 957080,
+    "sha256": "fea9ba95880abf0ae0225e9d1ff25405a3bf4efa46a02a4baf4ad405e741e493",
+    "sha256_of": "original",
+    "working_copy": "1841_p121.jpg"
+  },
+  "text": "38\n\nSchäffer, S., Handels-Commis. 1172 Freie Straße.\nSchärer, Felix, Traiteur. (Gesellschaftshaus zum h. Dolder.) 1335\n  St. Alban-Vorstadt.\nSchärer, Conrad, Schuhmacher. 470 Beim Spahlenthurm.\nSchärer, Leonhard, Metzger. 622 Grün Pfahlgäßlein.\nSchärer, Joh. Heinrich, Schneider. 1723 Hutgasse.\nSchärer, Catharina u. Margar., Jgfrn. 513 Hint. d. Spahlenthurm.\nSchäublin, Joh. Jakob, Schuster. 324 Spahlen-Vorstadt.\nSchäublin, Rudolf, Schuhmacher, von Liestal. 334 Fröschgasse.\nSchaffner, Heinrich, Schneider. 1552 Eisengasse.\nSchaffner, Samuel, Schneider. 123 Blumenplatz.\nSchaffner, Sam., Kutscher, von Anwyl, Basellandschaft. 20 St.\n  Johann-Vorstadt.\nSchaffner, J. J., Wittwe, Weinschenk. 1069 Tiefe.\nSchaffner, Sebastian, Schneider. 1564 Schneidergasse.\nSchaffner, Joh. Martin, Commis. 700 St. Leonhardsberg.\nSchaffner-Fuchs, Sebastian, Metzger. 1501 St. Martin.\nSchalch, Joh. Ulrich, Goldschmid. 138 Fischmarkt.\nSchardt, Lucas, Buchbinder und Leihbibliothek. 1152 Gerbergasse.\nSchardt, Daniel, Schuhmacher. 719 Hinter dem Stöcklein.\nSchardt, Schuhmacher. 412 Trillengäßlein.\nScharf, Aloys, Privatlehrer, von Zeiningen. 174 Storchengasse.\nSchatzmann, Conrad, Maurer. 430 Heuberg.\nSchaub, Joh. Georg, Mechanikus. 906 St. Elisabethen.\nSchaub, Joh. Jakob, Fabrikaufseher. 47 St. Johann-Vorstadt.\nSchaub, Jakob sel., Wittwe, Pintenschenk. 1144 Barfüßerplatz.\nSchaub, Rudolf, Sohn, Buchbinder. 432 Heuberg.\nSchaub, Martin, Fabrikarbeiter. 966 Sternengäßlein.\nSchaub, Joh. Adam, Fabrikferger. 1017 Aeschen-Vorstadt.\nSchaub, Georg, Fabrikarbeiter. 1654 Rindermarkt.\nSchaub, Joh. Jakob, Handschuhmacher. 1101 Streitgasse.\nSchaub, Joh. Georg, Vater, Fabrikarbeiter. 432 Heuberg.\nSchaub, Joh. Georg, Schreiner. 412 Trillengäßlein.\nSchaub, Wittwe, geb. Cath. Zeinler, Näherin. 1604 St. Martins-\n  gäßlein.\nSchaub, Mathias, Schuster. 773 Vordere Steinen-Vorstadt.\nSchaub-Fischer, Christoph, alt Bezirksschreiber und Notar. 1603\n  Sporrengasse.\nSchaubeck, Samuel, Schuhmacher. 425 Heuberg.\nScheidecker-Mähly, Peter. 127 Neue Straße.\nSchellenbaum, J., Adjutant. 905 St. Elisabethen.\nSchellenberg, Christ. Ludwig, Agent. 985 Aeschen-Vorstadt.\nSchenk, Georg, Ferger und Lohnwascher. 677 Hint. Gerbergäßlein.\nSchenkel, Daniel, Lizenciat, von Schaffhausen. 159 Fischmarkt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8821,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2258,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:57:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p121",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p121.jpg",
+      "bytes": 957080,
+      "sha256": "fea9ba95880abf0ae0225e9d1ff25405a3bf4efa46a02a4baf4ad405e741e493",
+      "sha256_of": "original",
+      "working_copy": "1841_p121.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:41+00:00"
+  }
+}

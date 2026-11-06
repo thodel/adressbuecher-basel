@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p047",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p047.jpg",
+    "bytes": 1139368,
+    "sha256": "701c4c3418a2dfeea3438b5a518efc8e273b43e33324c0a5b5c9adf216e87750",
+    "sha256_of": "original",
+    "working_copy": "1850_p047.jpg"
+  },
+  "text": "34\nSteinen=Quartier.\n757 (Magazin) Stähelin, Gebrüder, geh.\n758 Stocker, Alois, Pintenschenk.\n759 Brunauer, Gottlieb, Kaufmann.\nAuswanderungsbureau von Beck u. Herzog, alleinige\nHauptagenten für die Schweiz, der regelmässigen\nPostschiffe zwischen Havre und New-York.\n760 Wybert=Thurneisen, F. F., Rentier.\nComptoir von Beck u. Herzog. Commission u. Spe-\ndition. Haupt=Agentur des deutschen Phönix u.\nder Frankfurter Lebensversicherungs=Gesellschaft,\nUnterdirektion der Caisse paternelle, Direktion\nfür die Schweiz der Sécurité commerciale.\nBordere Steinen=Vorstadt.\n761 Geßler, Karl Achilles, Beck.\nNespinger, Jungfrau Salome.\nMeyer, Jungfrau Appollonie.\n762 Hindermann, Joh. Wilh., Beck.\n763 Borgognon, Franz Ludwig Konst., Handels-Commis.\nA 763 (Farbhaus.) Ebendemselben.\n764 Feuerstein, Daniel, Commis.\nKeller-Zeller, Hch., Unterbestäter.\nDollmar, R., Agent der Schaffhauser Eilfuhre.\n765 Unklin, Joseph, Schreiner und Wirth.\nFrossard, A., Schneider.\n766 Böcklin, F., Bandfabrikant.\nComptoir von Glocq u. Hübscher, Speditor.\nHinterer Bach.\n767 Dichtel, Joh., Posamenter.\nMollinet, W., Seiler. (Laden in Nr. 730.)\n768 Breitenstein, Frau, geb. Schaub, Schneiderin.\nBordere Steinen=Vorstadt.\n769 Rübenstahl, Jakob, Steinmetz u. Wirth.\nLang, Georg, Anton u. Joseph, Musiker.\n770 Bienz, Joh. Rudolf, Schreiner.\n771 Häring, August, Schreiner.\n772 Fischer, Joh. Balthasar, Partikular, Quartierschrei-\nber des Aeschen=Quartiers.\n773 Schaub, Matthias, Schuhmacher.\nFauslin, F. F., Ferger.\n774 Henz=Schölln, Niklaus, Weißbeck.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4542,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1519,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 35.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p047",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p047.jpg",
+      "bytes": 1139368,
+      "sha256": "701c4c3418a2dfeea3438b5a518efc8e273b43e33324c0a5b5c9adf216e87750",
+      "sha256_of": "original",
+      "working_copy": "1850_p047.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:46+00:00"
+  }
+}

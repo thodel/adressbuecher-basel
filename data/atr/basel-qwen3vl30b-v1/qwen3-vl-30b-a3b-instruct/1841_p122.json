@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p122",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p122.jpg",
+    "bytes": 1057461,
+    "sha256": "6958fc95be572dae5ff97f62b3b77428ef96be45d084632d789197aa38b2bff4",
+    "sha256_of": "original",
+    "working_copy": "1841_p122.jpg"
+  },
+  "text": "39\nScherb, Samuel, Salzfaktor. 466 Beim Spahlenthurm.\nScherb, Balthasar, Schneider. 197 Unterer Herbergberg.\nScherb, Emanuel, Wundarzt. 284 Spahlen=Vorstadt.\nScherb, Heinrich, Flachmaler. 1505 Rheinprung.\nScherb, Heinrich, Zimmermann. 310 St. Petersplatz.\nScherlin, A. M., von Eberseck, Schneiderin. 527 Imbergäcklein.\nSchermar=Bloch, Ant., Handelsmann. 1731 Beim Kornmarktbrunnen.\nScheuermann, Joh., Fabrikausseher. 1006 Aeschenvorstadt.\nSchilling, Rudolf, Hufschmid. 348 Spahlen=Vorstadt.\nSchilling, Emanuel, Gerichtsamtmann. 648 Gerbergasse.\nSchilling, Joh. Rud., Handels-Commis. 1328 St. Alban-Vorstadt.\nSchilling, Wittwe, geb. Herzog. 348 Spahlen=Vorstadt.\nSchimpf, Sebastian, Schreiner, Wittwe. 213 Schwarze Pfahlgasse.\nSchimpf, Nikolaus, Schreiner. 611 Schnabelgäcklein.\nSchimpf, Andreas, Porträtmaler. 611 Schnabelgäcklein.\nSchimpf, Seb., Schreiner, v. Altenstadt. 213 Schwarze Pfahlgasse.\nSchimpf, Wittwe, geb. Borer. 611 Schnabelgäcklein.\nSchlegel, Wittwe. 155 Fischmarkt.\nSchlöth, geb. Treu, Salomea, Wittwe. 823 Bord. Steinen=Vorstadt.\nSchloffer, Caspar, Weißbeck. 1070 Tiefe.\nSchloffer, Fr., Glaser. 620 Hinter der Kümlinsmühle.\nSchluep, Joh. Jakob, Handelsmann. 485 Oberer Spahlenberg.\nSchlumpf, geb. Dunkel, von Münchaltorf. 101 St. Johann=Schwibbogen.\nSchlumpf, J., Seifensieder, Wittwe. 1128 Weißgäcklein.\nSchlumpf, Conrad, Ladendiener. 777 Hinterer Bach.\nSchmasmann, Heinrich, Landjäger. 1695 Kuttelgäcklein.\nSchmid, Jak. Chr., Beck und Weinschenk. 316 Spahlen=Vorstadt.\nSchmid, Peter, Lehrer. 78 St. Johann=Vorstadt.\nSchmid, Carl, Wirth, Kunstmaler. 38 St. Johann=Vorstadt.\nSchmid, Rud., erster Sekretär der Staatskanzlei. 289 Spahlen=Vorstadt.\nSchmid, Joh. Heinrich, Kübler. 1090 Streitgasse.\nSchmid, Melchior, Schneider. 580 Schneidergasse.\nSchmid, Joh. Heinrich, Handels-Commis. 1427 Freie Straße.\nSchmid, J. R., Seifen- und Kerzenfabrikant. 217 Im Winkel.\nSchmid, Georg Michael, Ingenieur. 109 Blumenrain.\nSchmid, Elisabetha, geb. Suter. 319 Spahlen=Vorstadt.\nSchmid, Joh. Caspar, Meßger. 660 Gerbergasse.\nSchmid, geb. Lok, Helena, Wittwe. 820 Kurzer Steg.\nSchmid, Joh. Jakob, Schreiner sel., Wittwe. 826 Bordere Steinen=Vorstadt.\nSchmid=Billinger, Christoph, Meßger. 1666 Markt.\nSchmidlin, Anton, Sattler. 1100 Streitgasse.\nSchmidlin, Sam., Fabrikausseher. 1009 Aeschenvorstadt.\nSchmidlin, J. J., Spengler. 1428 Freie Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7298,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2349,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 52.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:57:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p122",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p122.jpg",
+      "bytes": 1057461,
+      "sha256": "6958fc95be572dae5ff97f62b3b77428ef96be45d084632d789197aa38b2bff4",
+      "sha256_of": "original",
+      "working_copy": "1841_p122.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:57:08+00:00"
+  }
+}

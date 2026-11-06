@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p122",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p122.jpg",
+    "bytes": 1192771,
+    "sha256": "260ab30bac4d018cf32b4a17168be72c4a275785d4e4b21a9a356dba0ce4f1d2",
+    "sha256_of": "original",
+    "working_copy": "1850_p122.jpg"
+  },
+  "text": "109\nHosch, Ed., Spengler 1711 | Huggenberger, F., Sohn 1546\nJoh., Schneider *33 | Hunold, A., Musiklehrer 655\nLukas, Schuhmacher *145 | Hunziger, Schneider 1636\n=Henz, Wittwe, Suf. 108 | Hunzicker, Rud. 395\n=Merian, Wittwe, Urf. 435 | A. A., Agent 419\n=Buxtorf, Wittwe 473 | Faß., Hausknecht *182\nHottenfen, K., Nothgerb. 1165 | Hurth, F. Chr., Comm. 987-88\nHok, Rud., Privatlehrer 558 | Huth, Phil., Sattler *66\nFaß., Fabrikarbeiter *223 | Huttinger, Wwe., Louife *97\nHubel, G. R., Schreiner 258 | Hüsser, B., Drechsler *143\nHuber-Stähelin, Rud. 269A | Jäcklin, F., Schreiner 32\nF. F., Pfarrer 413 | Christ., Schreiner 427\nAchilles, Architekt 835 | Dan., Postoffiziant 465\n=Kanderer, Karl 1263 | Philipp, Schreiner 648\n=Molitor, F., Apothek. 1533 | Eml., Baumeister *131\nF. F., Commis.=Hdlg. 1595 | Jäggi-Hiller, Maurer 175\nRud., Kunstmaler *47 | =Seul, Wilh., Beck 994\nHeinr., Gassenbefezer *74 | F. F., Wirth 1005\nHieron., Weinschenk *188 | A. L., Bildhauer 1005\nD., Färber *292 | Adolf, Metzger 1006\n=Berenet, Wittwe 275 | Fauslin, F. F., Ferger 773\n=Fselin, Wittwe 869 | Abrah., Commis 1660\nFgfr., G. 1004 | Zbenthaler, Matthias 1009\nGeschwister 1193 | Zberg, Gottl., Mechan. 1190\nHübscher, G. W., Zimmerm. 1A | Feannot, Faq., Commis 1351\nR., Eisenbahnbeamt. 625-26 | Feissy, Chr., Krankenw. 485\n=Stehelin, Eman. 921 | Fenni, Fr., Desfinateur 56\nGottfr., Pfundzoller 1160 | Fenny-Minder, Wittwe 467\n=BonSpenr, Eml. 1597 | =Erlacher, Wittwe 1423\nAdolf, Kürschner 1605 | Joh., Spezierer *239\nRudolf, Bater, Gerber 1730 | Zerling, Wwe., Carol. 1014\nFriedr., Kaufmann 1730 | Wittwe, Sara 1373\nHug, Adolf, Müller 795 | Zeffonig, F., Schreiner 1285\n=Buser, Wittwe 795 | Imhof-Schäublin, B. 110\nJoh. Chr., Spengler 1136 | Benedikt 320\nDaniel, Liseur 1438 | Andreas, Weißbeck 321\nGeorg, Fischer *42 | =Burckhardt, F. L. 343-44\nMatth., Schwimmlehrer *65 | F. Fr., Lohnwäscher 684\nJoh. Faß., Maurer *439 | Hr., Fabrikausseher 754GH\n=Geymüller, Wittwe 499 | Daniel, Gerber 796\n=Heusler, Wwe., M. 846-47 | =Heiz, L., Med. Dr. 1208\n=Kok, Wittwe, Agnes 1143 | Fr., Schuhmacher 1258\nHuggenberger, F. Sch. 1546 | F. R., Schuhmacher 1527",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8058,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2125,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:14:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p122",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p122.jpg",
+      "bytes": 1192771,
+      "sha256": "260ab30bac4d018cf32b4a17168be72c4a275785d4e4b21a9a356dba0ce4f1d2",
+      "sha256_of": "original",
+      "working_copy": "1850_p122.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:12+00:00"
+  }
+}

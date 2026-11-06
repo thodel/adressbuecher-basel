@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p112",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p112.jpg",
+    "bytes": 1218562,
+    "sha256": "ff6d42e8ae6f6621f1f3a487db6d09ee96f2251cdf5f61f251ff6ff12d4d0c91",
+    "sha256_of": "original",
+    "working_copy": "1850_p112.jpg"
+  },
+  "text": "Boulerot, P. Ch. 1607 | Bretscher, F., Schuhm. 1120\nBrand, F., Alt-Gerichtsh. 54 | Bricar, Sam., Rentier *143\nRud., Kerzenfabrik. 1018 | Bricar-Stilli, Wittwe *400\nLeonh., Rothergerber *256 | Brodbeck, F., Flachmal. 401\nBrandenberger, Konrad 1037 | =Spittler, F., Comm. 780\nBrandmüller, Heinrich 1660 | Brodmann, F., Schuhm. *385\nBrändlin, L., Modehlg. 136-37 | Brolly, M. Tabakspinn. 881\nRud., Wirth 145 | Anton, Fabrikarbeit. 1121\n=Nörbel, Wittwe 375 | Frz. Ant., Ferger 1685\nR., Sohn, Flachmaler 375 | Brömmel, Friedr., Prof. *79\nEd., Thierarzt 375 | Bruckner, Abr., Diafon 693\nFranz, Mezger 1563 | Ed., Architekt\nBraun, Rud., Hasner 1004 | u. Kober, (Bauhof) 879\nF., Bat., Spezereihlg. 1591 | F. F., Spezereihdlg. 1561\nAndreas, Lederhdlg. 1535 | Eml., Handelsmann 1561\n=Weiß, Wwe., Chrisch. 374 | Rud., Kaufmann *418\nFgfr., Car., Lehrerin 1491 | Bruder, F., Lithograph 637\nRud., Kunstmaler *43 | Brudermann, H., Kostgeb. 213\nAndreas, Gerber *61 | Brüderlin, A., Zuckerbeck 575\nJean, Bater *207-11 | =Schmid, N., Tuchhlg. 1644\n=Kiefer, Johann *244 | Joh., Commis *434\nAndr. de Samuel *249 | Brugger, Jos., Commis 904\n=Baumgartner, Joh. *357 | Brühl, Wittwe 879A\nBraunschweig, Wittwe 1674 | Brunner, Jaf., Ferger 194\nBresin, M., Raminfeger *102 | Andreas, Commis 418\nMartin, Weißbeck *124 | Daniel, Schneider 1713\nBreiter, Wilh., Commis 1644 | Valentín, Taglöhner *330\nF. F., Commis 1154 | Joh. Heinr., Küfer *387\nBreitenstein, A., Wirth 177 | Brüstlin, Og., Zimmerm. 338\nF. F., Spezierer 186 | Bucherer, Jb., Commis 314\n=Schaub, Frau 768 | Bücher, Joh., Schuhm. 324\nBreithaupt, Jaf. 1682 | F., Schuhm. u. Siegrift 472\nBreiting-Heukler, Saml. 981 | Büchle, N., Holzmüller 1283\n=Schartd, P., Mezger 982 | Büchlin-Schlichter, Wwe. *151\nBreck, L., Tabakfabr. 911 | Buek, Kath., Bettmach. 1036\nBrenner-Fäsch, Aug. 103 | F. F., Schreiblehrer *167\nF. Friedr., Med. Dr. 233 | Bühler, M., Schneiderin 148\nPeter, Sekretär 439 | Bulacher, Fr., Conduct. 123\n=Stähelin, F., Hdlsm. 507 | Eml., Mezger 483\nKarl, Dr. Jur., Advok. 1632 | Hier., Siegrift *133\n= Sulger, Wwe., Luise 1182 | Joh., Seifenfabrik. *227\n-Guéniard, Wittwe 1426 | Burkhardt, W., Bandfab. 53\n=Sager, F., Commis *110 | L. A., Criminalger. =Präf. 67\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8140,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2217,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p112",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p112.jpg",
+      "bytes": 1218562,
+      "sha256": "ff6d42e8ae6f6621f1f3a487db6d09ee96f2251cdf5f61f251ff6ff12d4d0c91",
+      "sha256_of": "original",
+      "working_copy": "1850_p112.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:51+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p188",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p188.jpg",
+    "bytes": 1066299,
+    "sha256": "d0df666a68378626a5483d47cfda7a9b974d8a2830f328f62a637f338bb72e6d",
+    "sha256_of": "original",
+    "working_copy": "1841_p188.jpg"
+  },
+  "text": "- 35 -\nSchientschy, Simon, Wirth. 280 St. Jakob. O. B.\nTuback, Johannes, von Romoos, Lehennann. 147 Ul-\nschwilergasse. U. B.\nB.\nBögtlin, Ludwig, Commis. 80 Burgfelderstrafe. U. B.\nBon Brunn, Anna Maria. 234 Münchensteinerstrafe. O. B.\nW.\nWäber, Peter Franz, von Signau, Lehennann. 304\nHerdtsträflein. O. B.\nWagner, Eufanna, Igfr. 188 Lohftampsberg. U. B.\nWeber, Johannes, von Reigoldfchwil, Taglöhner. 32\nKlingelberg. U. B.\nWerenfels, Suf. Marg., geb. Maglin, Wittwe, Schüken-\nwirthin. 174 Schükenmatte.\nWermuth, Bernhard, Tanz- und Schwimmlehrer. 156\nLohftampsberg. U. B.\nWernli, Anna Maria, geb. Meyer, Wittwe, von Thalheim,\nGutsbefikerin. 168 Unteres Schükenmattgäpf. U. B.\nWick, Johannes, Gutsbefiker, Wirthschaft. 323 — 326\nIn der Breite. O. B.\nWild, Joh. Jakob, von Richterschweil, Ingenieur. 16\nStrake nach St. Louis. U. B.\nWildy, Jakob, von Schafisheim, Druckermeifter. 281 St.\nJakob. O. B.\nWilly, Johannes, von Herisau, Gutsbefiker. 284 Um\nSt. Alban-Teich. O. B.\nWohlgemuth, Abraham, von Gutenschweil, Fabrikarbeiter.\n193 Binningerstrafe. O. B.\nWürz, Jakob, von Diepflingen, Blattmacher und Guts-\nbefiker. 234 Münchensteinerstrafe. O. B.\n3.\nZankeisen, Ignaz, Taglöhner. 193 Binningerstrafe. O. B.\nZimmermann, Fridolin, von Hardfchwend, Ziegler. 239 a.\nMitt. Gundeldingen. O. B.\nZollinger, Markus, von Goffau, Gärtner und Gutsbefiker.\n82 Burgfelderstrafe. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4606,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1369,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.03,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p188",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p188.jpg",
+      "bytes": 1066299,
+      "sha256": "d0df666a68378626a5483d47cfda7a9b974d8a2830f328f62a637f338bb72e6d",
+      "sha256_of": "original",
+      "working_copy": "1841_p188.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:40+00:00"
+  }
+}

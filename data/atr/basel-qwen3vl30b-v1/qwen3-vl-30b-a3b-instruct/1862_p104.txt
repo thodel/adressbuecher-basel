@@ -1,0 +1,57 @@
+St. Elisabethen Straße. — Elsässer Straße. 39
+Nene
+Haus=Nr. | Quar-
+tier. | Alte
+Haus=Kro. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+--- | --- | --- | --- | ---
+60 | IV. | 897 D | | Lutz, Eduard.
+ | | | | Lutz, Eduard, Conditor.
+ | | | | Lutz-Mundwiler, Eduard, Kapellmeister.
+ | | | | Merian, Joh. Ludw., Kaufmann.
+62 | IV. | 897 E | zum Sonnenberg. | Grisanti-Hartmann, David.
+ | | | | Grisanti-Hartmann, Caséwirth u. Restr.
+ | | | | Schumacher-Küthi, Jakob, Gypper.
+Elsässer Straße.
+3 | I. | 20 | zum Imp. | Meyer-Hoffmann, Daniel.
+4 | I. | 1 | | Meyer-Hoffmann, Daniel, Part.
+ | | | | Hübsher, Wilh. Zimmermeister.
+ | | | | (Droischken-Anstalt.)
+ | | | | Zandt-Loeffel, Johs., Wagen-Meister.
+ | | | | Jaedklin-Baur, Rud., Mechaniker.
+5 | I. | 20 A | | Awengen-Rübenstahl, Albert.
+ | | | | Awengen-Rübenstahl, Alb., Bierbrauer.
+7 | I. | 19 | | Schneider-Scherb, Daniel.
+ | | | | Schneider-Scherb, Daniel, Gutsbesitzer.
+8 | I. | 2 | | Ehrsam-Schneider, Eduard.
+ | | | | Ehrsam-Schneider, Eduard, Sattler.
+ | | | | Bendely-Ingold, Philipp, Schmied.
+9 | I. | 18 | | Ecklin-von Mechel, Wb. Beren. Barb.
+12 | I. | 3 | | His-Laroche, Ed. alt Appell. Kath.
+ | | | | Stadelmann-Vogel, Joost, Eehenmann.
+13 | I. | 17 | | Erb-Gyfin, Jakob.
+ | | | | Erb-Gyfin, Jakob, Gutsbesitzer.
+19 | I. | 16 | | Kauffmann-Ingold, Barb. Wb.
+ | | | | Kauffmann-Ingold, B. Wb., Chaijenfab.
+ | | | | Kauffmann-Kauffmann, Ach., Reijender.
+23 | I. | 16 A | | Blattner, Heinrich, Gutsbesitzer.
+24 | I. | 5 | | Widmer-Widmer, Jakob.
+ | | | | Widmer-Widmer, Jakob, Landwirth.
+29 | I. | 13 | | Berger-Heine, Joh. Nepomuk.
+ | | | | Berger-Heine, Nep., Joh., Gutsbesitzer.
+31 | I. | 14 | | Zimmermann-Subinger, Carl.
+ | | | | Zimmermann-Subinger, C., Gutsbesitzer.
+34 | I. | 8 | | Schaffner-Frey, Samuel.
+ | | | | Schaffner-Frey, Sam., Polizeisecretär.
+ | | | | Mathieu-Winzler, Aug. Alex., Commis.
+37 | I. | 9 | Zollanmeldungs=
+posten. | Eidgenossenschaft, Hauptzollstätte
+ | | | | Lysbüchel.
+ | | | | Blendinger, Leonh. Albert, Gehülfe.
+ | | | | Zeller, Joh. Jak., Einnehmer.
+ | | | | Behra, Mathias, Controleur.
+ | | | | Wyß-Egger, Urs Vikt., Landjäg.-Corpor.
+39 | I. | 9 | Landjägerposten | Nussbaumer-Anill, Wolfgang.
+41 | I. | 12 | auf'm Lysbüchel. | Nussbaumer-Anill, Wolfg., Gutsbesitzer.
+42 | I. | 10 | auf dem Lysbüchel. | Wagner, Mathias.
+ | | | | Wagner, Mathias, Gutsbesitzer.

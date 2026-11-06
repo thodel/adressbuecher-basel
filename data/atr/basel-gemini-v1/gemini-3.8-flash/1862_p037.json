@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p037",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p037.jpg",
+    "bytes": 1272813,
+    "sha256": "6bb776bb3bcba375d476fc958d3e7c8306c4a6487fbb3f9ca56152dc0385adea",
+    "sha256_of": "original",
+    "working_copy": "1862_p037.jpg"
+  },
+  "text": "XXXIV Agenturen fremder Versicherungs-Gesellschaften.\n\n  Die Gewährung von Vorschüssen und Eröffnung von Crediten, ebenso wie die An-\nnahme verzinslicher Gelder ist nicht an die Eigenschaft eines Actionärs der Bank geknüpft.\n  Die Entlehner müssen im hiesigen Kantons-Theil wohnhaft sein, einen unbescholtenen\nRuf genießen, und sollen in der Regel einen selbstständigen Beruf und zwar vorzugsweise\nein Handwerk oder Gewerbe ausüben.\n  Als Sicherheit für die Darlehen und Credite werden angenommen:\n    a) Stellung eines oder mehrerer soliden Bürgen;\n    b) Mitunterschrift der Ehefrau mit ihrem beigebrachten Vermögen;\n    c) faustpfändliche Hinterlage von Werthpapieren, Gold oder Silber;\n    d) Verpfändung von Liegenschaften, Mobilien, Rohstoffen oder Fabriken.\n  Die Angelegenheiten der Bank werden besorgt theils durch General-Versammlungen\nder Actionäre, theils durch den Ausschuß und die Direction.\n\nAgenturen fremder\nVersicherungs-Gesellschaften.\n\nVersicherungs-Gesellschaft\n„Agrippina“\ngegen\nSee-, Fluß- & Landtransportschaden\nin Cöln.\nAgent: Andr. Zwilchenbart.\n\nAllgemeine\nEisenbahn-Versicherungs-Gesellschaft\nin Berlin.\nAgent: Herr F. Wild.\n\nAllgemeine\nRenten-Anstalt in Stuttgart.\nAgent: Notar Dieth. Schultheß-Schmid.\n\nAllgemeine\nVersicherungs-Gesellschaft\nfür\nSee-, Fluß- & Land-Transportwesen\nin Dresden.\nAgent: J. H. Peter.\n\nBadische\nSchifffahrts-Assekuranz-Gesellschaft\nin Mannheim.\nAgent: Rudolf Kaufmann.\n[spalte 2]\nLa Belgique.\nFeuerversicherungs-Gesellschaft in Brüssel.\nAgent: J. E. Marget.\n\nCaisse paternelle,\nLebensversicherungs-Gesellschaft in Paris.\nAgent: Notar Dr. Wilh. Lichtenhahn.\n\nCompagnie d'Assurances\ngegen\nBrandschaden und theilweise auf das\nmenschliche Leben.\nAgent: Walter Merian.\n\nCompagnie du Soleil,\nFeuerversicherungs-Gesellschaft\nin Paris.\nAgent: Friedrich Walz.\n\nCompagnie générale\ngegen\nSee- und Flußschaden in Paris.\nAgent: Notar F. Herzog.\n\nLe Conservateur,\nLebens-Versicherungs-Gesellschaft\nin Paris.\nAgent: Dr. Carl Wieland.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6588,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1974,
+    "lines": 62,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0968,
+    "mean_line_chars": 30.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:29:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p037",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p037.jpg",
+      "bytes": 1272813,
+      "sha256": "6bb776bb3bcba375d476fc958d3e7c8306c4a6487fbb3f9ca56152dc0385adea",
+      "sha256_of": "original",
+      "working_copy": "1862_p037.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:53+00:00"
+  }
+}

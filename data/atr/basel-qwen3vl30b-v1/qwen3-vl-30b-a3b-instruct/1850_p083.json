@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p083",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p083.jpg",
+    "bytes": 918667,
+    "sha256": "a4306496cce73296064e9d11bb83d1ddf3123a3836d74ac5c83c849444ae0753",
+    "sha256_of": "original",
+    "working_copy": "1850_p083.jpg"
+  },
+  "text": "70\nStadt = Quartier.\nHinter der School.\n1568 Stürchler, Wittwe.\n1569 Grunauer, A., Seckler und Kappenmacher.\n1570 Kappeler, Wittwe, Trödlerin und Gantfrau.\n1571 Fischer, Joh. Peter und Daniel, Küfer.\n1572 Best, Wittwe.\n  Engressat, Wittwe, Parapluiemacher.\n1573 Dietzsch-Wick, Wittwe, Weinschenk.\n1574 Junfer, F. F., Mundarzt.\n  Dollfus, Wittwe, Partikularin.\n  Plüß, Joh., Lifeur.\nMarkt.\n1575 Bogt, Joh. Georg, Glas- u. Eisenwaarenhandlung.\nSporrengasse.\n1576 Imhof-Forkart, F. F., Lederhandlung.\n1577 Burckhardt, Samuel, Goldschmied.\n1578 (Zunft zu Meßgern) Obrigkeitslich.\n  Pfannenschmid, Lukas, Meßger.\n1579 Schneider-Braun, Wittwe, Quinquailerie- u. Stroh-\n  huthandlung.\n  Schneider, Eduard, Kaufmann.\n1580 Imhof, Wilhelm, Goldschmied.\n1581 Merian-Respinger, Karl Franz Jof., Spezereihdlg.\n1582 Dénéréaz, F. Frz. Sim., Speditor.\n  Rieber-Meyer, F. F., Wollenwaarenhandlung.\nA 1583 (Stadtpolizeibureau u. Brodlaube) Obrigkeitslich.\nEisengasse.\n1584-88 Durch die neue Häusereintheilung weggefallen.\n1589 (Spinnwetternzunft) Elsner, F. F., Kornmesser,\n  Stubenverwalter.\n  Kühn, F., Tabackhandlung.\n  Schoch, F. F., Eisenhandlung.\n  Düring, Wittwe, Kostgeberin.\n1590 Best-Theubet, Em., Fayence- u. Porzellanhandlung.\n  Theubet, Viktor, Partikular.\n1591 Braun, F., Bater, Spezerei- und Tabackhandlung.\n  Ferdinand A. A. H. 1862",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4476,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1330,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.46,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p083",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p083.jpg",
+      "bytes": 918667,
+      "sha256": "a4306496cce73296064e9d11bb83d1ddf3123a3836d74ac5c83c849444ae0753",
+      "sha256_of": "original",
+      "working_copy": "1850_p083.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:28+00:00"
+  }
+}

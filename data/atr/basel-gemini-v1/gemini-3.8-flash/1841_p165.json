@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p165",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p165.jpg",
+    "bytes": 1060384,
+    "sha256": "4e7613022691b45548e8f3b55ea6bd8fb71403a055d51a57172470d28ae2d1b5",
+    "sha256_of": "original",
+    "working_copy": "1841_p165.jpg"
+  },
+  "text": "— 12 —\n\nMeyer, Benedikt, Provisor an der Knabenschule der Münster-\n  gemeinde. 783 Vordere Steinen-Vorstadt.\nMeyer-Merian, Daniel, Kaufmann. 77 St. Joh. Vorstadt.\nMeyer-Bischoff, J. C., Kaufmann. 116 Blumenrain.\n* Meyer-Bischoff, J. C., Kaufmann. 1440 Freienstraße.\nMerian, Wittwe, geb. Bloch. 1028 Aeschen-Vorstadt.\nMerian, Balthasar, Sohn, Kaufmann. 1085 Am Bäumlein.\nMerian, Helena, Jgfr. 1198 Am Bäumlein.\nMeßmer, Fr. J., v. Muttenz, Papierer. 1289 St. Alban-Thal.\nMiescher, Friedr., Med. et Chirurg. Dr. und Professor.\n  1214 St. Alban-Vorstadt.\nMiville, Rud., Faktor auf der Post. 1635 Untere Freienstraße.\nMiville, Heinrich, Wittwer, in der Missions-Anstalt. 387\n  Missionsgasse.\nMörgelin, Johannes, Handels-Commis. 911 St. Elisab.\nMohler, Heinrich, Landjäger. 1006 Aeschen-Vorstadt.\nMühlschleger, J. J., Schriftsetzer. 1114 Weißegasse.\nMüller, Christian, Posamenter, v. Zysen. 890 Klosterberg.\nMüller, L., Schlosser u. Windenmacher. 1016 Aeschen-Vorst.\nMüller, J. J., Profos in d. Strafanstalt. 271 St. Joh. Grab.\nMüller, Werner, Handlungs-Commis. 1107 Weißegasse.\nMüller, A. Magd. und Maria, Jgfrn. 1204 a. Luftgäßl.\n* Müller, Joh. Jakob, Parapluiemacher. 1507 Rheinsprung.\nMüller, J., Conducteur. 1548 Eisengasse.\nMüller, Jakob, v. Läufelfingen, Kaufhausarbeiter. 635\n  Gerbergäßlein.\nMüller, H., Adjunkt auf der Post. 463 hinter d. Spahlenthurm.\nMüller, J. Georg, d. Theol. Lic. u. Professor, 347 Fröschgasse.\nMüller, Judith, geb. Müller, Wittwe, Part. 766\n  Vordere Steinen-Vorstadt.\nMunzinger, Benedikt, sel. Feuerwerkers Wittwe. 1624\n  Untere Freienstraße.\n\nN.\n\nNäf-Landerer, Esther, Wittwe, Part. 1153 Gerbergasse.\nNeuschwander, Daniel, Spannermeister. 407 Heuberg.\nNiedecker, Karl Leonhard, Weißbäcker. 1262. St. Alban-\n  Thorgasse.\nNiggli, Samuel, Gärtner. 1037 Aeschen-Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8681,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1796,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 44.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:03:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p165",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p165.jpg",
+      "bytes": 1060384,
+      "sha256": "4e7613022691b45548e8f3b55ea6bd8fb71403a055d51a57172470d28ae2d1b5",
+      "sha256_of": "original",
+      "working_copy": "1841_p165.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:06+00:00"
+  }
+}

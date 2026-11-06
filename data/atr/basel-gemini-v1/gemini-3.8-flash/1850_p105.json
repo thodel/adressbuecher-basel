@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p105",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p105.jpg",
+    "bytes": 929148,
+    "sha256": "c912e544984d50ba384b77621fc965885216d5d20887e63a0753896365384d57",
+    "sha256_of": "original",
+    "working_copy": "1850_p105.jpg"
+  },
+  "text": "92 Bläsy = Quartier.\n\n345 Münch, Chr., V. D. M., eidgen. Zoll-Revisor.\n346 Scheune und Stallung.\n\nOchsengasse.\n\n347 Scheune.\n348 Bell, Jakob, Metzger, Gastgeber.\n349 Schmidt, Joh. Jak., Lohnamtsarbeiter.\n350 Scheune und Remise.\n351 Weber, Tobias, Schmied.\n352 Roth, Johann Peter, Müller.\n\nBadergäßlein.\n\n353 Herr, Fidely, Gerbergehülfe.\n\nOchsengasse.\n\n354 Rühlin, Joh. Georg, Nestelfabrikation.\n  Studer, Joseph, Müller.\n355 Uzberger-Dübelin, J., Färbergehülfe.\n356 Dickenmann, Em., Badanstalt.\n\nSägergäßlein.\n\n357 Braun-Baumgartner, Joh., gehörend.\n358 Merian, Karl, Sohn, Säger.\n  Merian, Amadeus, Bauinspektor.\n359-60 Magazin von Leonh. Heußler-Thurneisen.\n361 Meyer, Joh. Jak., Feuerwerker.\n362 Heußler, Jch., Spengler.\n\nUntere Rheingasse.\n\n363-64 Krauer-Treu, Rudolf, Müller.\n365 Bell, Heinrich, Fischer.\n366 Roth-Bürgy, Christ., Zeugschmied u. Schlosser.\n367 Holinger, Heinrich, Hausknecht.\n368-69 Heußler-Thurneisen, Leonh., Handelsmann.\n  Sarasin-Heußler, Lukas, Wechsel-Sensal.\n370 Schneider, Joh. Jak., Küfer.\n  Zeller-Brunner, Mark., Commis.\n371 Soller, J., Beck.\n372 Raillard-Brenner, Peter, Rothgerber.\n  Raillard-Stähelin, August,       \"\n373 Müller-Weitnauer, J. J., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6196,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1189,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 30.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p105",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p105.jpg",
+      "bytes": 929148,
+      "sha256": "c912e544984d50ba384b77621fc965885216d5d20887e63a0753896365384d57",
+      "sha256_of": "original",
+      "working_copy": "1850_p105.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:23+00:00"
+  }
+}

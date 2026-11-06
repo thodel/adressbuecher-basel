@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p016",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p016.jpg",
+    "bytes": 950182,
+    "sha256": "5f6c29948990f5fbe7219e8581e2eefc136ac6fe170ca4151b43a67550c2f70b",
+    "sha256_of": "original",
+    "working_copy": "1841_p016.jpg"
+  },
+  "text": "9\nNro.\nSchwarze Pfahlgasse.\n219 Fäsch, Nifl. sel. Wittwe, geb. Spindler.\nWohnlich=Hagenbach, Kaufmann.\n220 Oser, J. J., Kaufmann.\n221 Burtorf, Wittwe, geb. Burkhardt.\n222 Holzach=Konus, Emanuel, Kaufmann.\n223 Franz. Pfarrhaus: Ebray, J. Heinrich, franz. Pfarrer.\n224 Schönauer=Bernoulli, Kaufmann.\n225 Marfort, J. B., Bergolder und Spiegelhändler.\n226 Hagenbach, Karl.\n227 Birmann, Rud., Speditions- und Commissionshandlung, nebst\nAmelung=Fabrikation.\nJaquet, Fr. August, Oberst.\nLindenmeyer, J. G., Weinhändler.\n228 Le Grand, Adolf, Kaufmann.\nRyhiner=Bischof, Chr., Kaufmann.\nOberer Herbergberg.\n229 * Der Stadtgemeinde: Fäsch, J. J., Bater, Notar.\nRespinger, Lud. de Ludwig.\n230 Weitnauer, Joachim, Oberst und Tapezierer.\n231 Le Grand = de Neufville, Lukas, Kaufmann.\nGemuseus Le Grand, A. M. D.\nBattier, Wittwe, mit Tochter.\nSt. Peters-Gasse.\n232 Mäkinger, Franz, Schreiblehrer.\nHuber, J. J., Pfarrer.\nHägler, Cath., Nähschule.\n233 Brenner, J. F., Dr. Med.\n234 Lichtenhahn, J. Rud., Regt.\n235 Link, Lukas, Flachmaler.\nBest, Emanuel, Kaufmann.\n236 Wiedenfeller, Maria, geb. Refer. (Pack- und Wachstuchverkauf.)\n237 Eschudy, Jakob, Schneider.\nKirchgässlein.\n238 * Der Stadt.\nLok, Leonhard, Sigrist der St. Peters-Kirche.\n239 Dietzsch, J. L. sel. Wittwe geh.\nPreiswerk, Samuel, Gemeinhelfer.\n240 Frutiger, J. Abraham, im Eisenladen der HH. Paravicini.\nWagner, Elisabetha, Lehrerin an der Petersschule.\n241 * Falkner, J. L. sel. Wittwe, geb. La Roche.\nRapp, Martin, Schreiner.\n2",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4511,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1477,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p016",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p016.jpg",
+      "bytes": 950182,
+      "sha256": "5f6c29948990f5fbe7219e8581e2eefc136ac6fe170ca4151b43a67550c2f70b",
+      "sha256_of": "original",
+      "working_copy": "1841_p016.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:19+00:00"
+  }
+}

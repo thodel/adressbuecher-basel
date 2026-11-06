@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p014",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p014.jpg",
+    "bytes": 1460328,
+    "sha256": "49d5449e6f8908a30a6830232e18bf0a6b967779e6206442fc24fe9deaa89f4a",
+    "sha256_of": "original",
+    "working_copy": "1862_p014.jpg"
+  },
+  "text": "Behörden und Beamte.\nXI\nHolzfecker.\nLeonhard Baumgartner.\nNiklaus Schweizer.\nSalomon Bommer.\nAnton Entinger.\nEucharius Henz.\nJakob Meyer.\nAbraham Hiob Löw.\nC. Kommissionen.\nI. Brandversicherungskommission.\nHr. Rathsherr Leonh. Heufler, Präsident.\nII. Kaufhauskommission.\nHr. Rathsherr Alphons Köchlin-Geigy,\nPräsident.\nKaufhausinspektor.\nHr. Bestäter Krayer.\nLagerhausdirektor.\nHr. Hch. Sezler-Klein.\nIII. Landarmenkommission.\nHr. Rathsherr H. Unholz, Präsident.\nIV. Notariatskommission.\nHr. Rathsherr Eman. Burckhardt, J. U. D.,\nPräsident.\n„ Staats schreiber Gottl. Bischoff, J. U. D.\nVerzeichniß der auf der Notariats-\nmatrikel befindlichen Notarien, so-\nwohl der practizirenden als der\nnicht practizirenden.\nHr. Daniel Bernoulli, J. U. D.\n„ Niklaus Bernoulli, J. U. L.\n„ Hieronimus Best, J. U. C.\n„ Johs. Herzog.\n„ Rudolf Schmid, J. U. D.\n„ August Heitz, J. U. D.\n„ Gedeon Meyer.\n„ Walter Merian.\n„ F. F. Fäsch, Sohn, J. U. D.\n„ Andreas Schaub, J. U. D.\n„ Ludw. Matth. Chinger, J. U. D.\n„ Carl Wieland, J. U. C.\n„ Walter Merian, Sohn, J. U. C.\n„ F. F. Heimlicher, J. U. D.\n„ Karl Rud. Stehlin, J. U. D.\n„ Wilh. Lichtenhahn, J. U. C.\n„ Eduard Heufler, J. U. D.\n„ Hermann Chrift, J. U. D.\n„ August Ründig, J. U. D.\n„ Karl de Joh. Bernoulli, J. U. D.\nHr. August Heufler, J. U. D.\n„ Adolf Schmid, J. U. D.\n„ Fritz Bernoulli.\n„ Diethelm Schultheß.\nV. Strafanstaltenkommission.\nHr. Rathsherr Em. Burckhardt-Fürsten-\nberger, Präsident.\nDirektor d. Strafanstalten.\nHr. F. Salis.\nVI. Eisenbahnkommission.\nHr. Rathsherr Carl Bischer-Merian,\nPräsident.\nVII. Niederlassungskommission.\nHr. Rathsherr Leonhard Fininger, Prä-\nsident.\nVII. Kommission für Beaufsichtigung\nder Transmisionen und Dampfma-\nschinen.\nHr. Rathsherr Carl Sarafin, Präsident.\n„ Friedrich Autenheimer, Rektor, obrigt.\nTechniker.\nD. Kanzlei des Kantons.\nHr. G. Bischoff J. U. D., Staats schreib.\n„ Carl Burckhardt, J. U. D., Raths-\nschreiber.\n„ Johannes Krug, Archivar.\n„\nHr. Samuel Baur, Sekret. u. Pfaffschreiber.\n„ Hier. Friih-Ronus, Sekretär.\n„ Rudolf Schmid, Sekretär.\n„ Leonhard Kehlstadt, Oberstrathsdien.\n„ Jakob Tschudy u. Eman. Otto, Rathshoten.\n„ Wilhelm Oser u. F. F. Nidecker, Amtsdien.\nE. Polizei-Direktion.\nHr. F. F. Wirz, J. U. D., Polizei-Di-\nrektor.\n„ Johannes Wolleb, Polizeisekretär.\n„ Sam. Schaffner, Polizeisekretär und\nChef d. Pafabtheilung.\n„ Joh. Kraps, Major, Chef des Po-\nlizei-Corps.\n„ Hauptm. Rud. Hoffmann, 1. Offizier.\n„ August Häring, II. „\n„ Johann Benz, Lieut., III. „\nHr. Sam. Winzenried, Thurmwart.\nHr. Jakob Baur, Eichmeister.\n„ Gustav Mäglin, Glasfinner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7832,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2551,
+    "lines": 97,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0206,
+    "mean_line_chars": 25.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p014",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p014.jpg",
+      "bytes": 1460328,
+      "sha256": "49d5449e6f8908a30a6830232e18bf0a6b967779e6206442fc24fe9deaa89f4a",
+      "sha256_of": "original",
+      "working_copy": "1862_p014.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:32+00:00"
+  }
+}

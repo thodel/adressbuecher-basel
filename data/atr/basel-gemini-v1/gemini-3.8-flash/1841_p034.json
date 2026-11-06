@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p034",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p034.jpg",
+    "bytes": 965512,
+    "sha256": "d38cde05fa697235e9a412cd41376341cc97b169acd773588f2fd08fbe5da26e",
+    "sha256_of": "original",
+    "working_copy": "1841_p034.jpg"
+  },
+  "text": "27\nNro.\nBarfüsserplatz.\n712 Lotz-Spörlin, Hieron., Pfundzoller.\n  Spörlin, Wittwe, geb. Merian.\n713 Meyer, Jungfer, Maria.\n714 Riedtmann, Nikol., Schneider.\n715 Hodel, Abraham, Schuhmacher.\n716 Schneider, G. David, Schneider.\n717 Hunziker, Rudolf, Lohnkutscher.\n\nHinter dem Stöcklein.\n718 Reber, Joh. Rudolf, Schuhmacher.\n719 Schardt, Daniel, Schuhmacher.\n720 Frei, Ursus, Landjäger.\n721 Schneider, Jungfer, Judith, Bandhändlerin.\n722 Fäsch, Andreas, Stadtrath und Kupferschmid.\n723 Neustück, geb. Bloch, Wittwe.\n  Neustück, Heinrich, Bildhauer.\n  Neustück, Jakob, Kunstmaler.\n\nBarfüsserplatz.\n724 a Roth, Daniels sel. Wittwe, Farbwaaren- u. Spezereihandlung.\n724 b Bell, Samuel, Metzger und Weinschenk.\n725 Maas, Rudolf, Med. Dr.\n  Keller, Ulrich, Partikular.\n726 * Spörlin, Lucas sel., Wittwe.\n  Friedmann, Hermann, Schneider.\n727 Lindenmeyer, Heinrich, Pergamenter.\n728 Falkner, geb. Meley, Elisabetha, Wittwe.\n729 Schneider, Samuel, Schuhmacher und Wirth.\n730 Strohmeyer, Michael, Metzger und Wirth.\n731-733 * Stadt-Casino. — Löw, Abrah., Abwart des Casino.\n734 * Herzog, J. J., Notar und Almosenschaffner.\n734 a Pfundzollstüblein, der Stadt geh.\n735 * Burtorf, J. J., Hypothekenbuchverwalter.\n736 * a Pfarrhaus. — Heß, M. Joh., Spitalpfarrer.\n736 * Magazin von Hindermann, Joh. Jakob.\n737 * Der Stadt. — Hoffmann, J., Aufseher.\n738 * Der Stadt geh. — Oberst, Sebast., Zimmermann am Lohnamt.\n\nOchsengraben.\n739 Oser, Adam, Färber.\n740, 741 u. 742 abgebrochen.\n743 Uebelin, Joh. Friedr., Büralist.\n744 a Honesta, Joseph, Musiklehrer.\n744 b Bader, Heinrich, Spannermeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6426,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1575,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 34.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:45:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p034",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p034.jpg",
+      "bytes": 965512,
+      "sha256": "d38cde05fa697235e9a412cd41376341cc97b169acd773588f2fd08fbe5da26e",
+      "sha256_of": "original",
+      "working_copy": "1841_p034.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:57+00:00"
+  }
+}

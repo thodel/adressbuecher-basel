@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p022",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p022.jpg",
+    "bytes": 1085165,
+    "sha256": "49698b0fa1b2a4e87dd49276fa1479f2ba4fc8d223d5241a2540f53f3203dd54",
+    "sha256_of": "original",
+    "working_copy": "1850_p022.jpg"
+  },
+  "text": "12 St. Johann-Quartier.\n\nB 253 Lichtenhahn, Karl, Alt-Stadtrath, gehörend. [handschriftlich: gestrichen] [handschriftlich: W[...] Brotbeck u. [...]h]\n254 Hoffmann, Jungfrau, Mar. Sal., Kapitalistin.\n\nSt. Peters-Graben.\n\n255 Keller-Paravicini's Erben gehörend, unbewohnt.\n256 Fäsch-Paravicini, Wittwe, Kapitalistin.\n\nNeue Vorstadt.\n\n257 Bürgerspital, (ehem. Markgräflischer Hof.)\n  Weitnauer-Braun, Ach., Spitalmeister.\n  Hoffmann, Joh., Irrenaufseher.\n  Frey, Alf., Med. Dr., Spitalarzt.\n  Schneider, Theod., Med. Dr., Spitalarzt.\n  Uebelin, Sml., Spitalapotheker.\nB 257 Bienz-Pfaff, Wittwe, A. M.\nC 257 Stall und Remise, zu Nr. 249 B geh.\n258 Hubel, G. R., Schreiner.\n  Meyri-Jenni, Joh., Antiquar.\nA 259 Frey, Hans Ulrich, Schreiner.\n  Frey, Friedr., Sohn, Architekt.\nB 259 Zäslin-Falkeisen, Kaufmann. Comptoir in Nr. 1491.\n260 Stähelin-Bernoulli, Balth., Handelsmann.\nA 260 Spreng-Heußler, Eml., Handelsmann.\n261 Burckorf-Preiswerk, R., Pfarrer im Waisenhaus.\n262 Preiswerk-Stückelberger, J. J., sel. Wittwe.\n263 Hindermann, Frau M. M., Rentière.\n264-65 Siber-Bischoff, Chr. Heinr., Seidenbandfabrikant.\n266 Falkner, Nikl., Alt-Direktorialschreiber.\nA 267 Awengen-Bruckner, J. J., Architect.\n  Köchlin, geb. Thurneysen, Rentière.\nB 267 Kern-Bischoff, Friedr., Bandfabrikant.\nC 267 — (Merian-Keller, Alb., gehörend, unbewohnt.)\n268 Kappeler, Joh. Abr., Hafner.\nA 269 Huber-Stehelin, Rud., Kaufmann.\n  Siebenmann-Huber, Fr., Kaufmann.\nB 269 Burckhardt-Gemuseus, Joh. Conrad.\n  Comptoir von Kern & Sohn, Bandfabrikanten.\nC 269 VonderMühll-Bürgy.\n\nSt. Peters-Graben.\n\n270 Kelterborn, Ludw. Adam, Zeichnungslehrer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6356,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1612,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0256,
+    "mean_line_chars": 39.67,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:08:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p022",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p022.jpg",
+      "bytes": 1085165,
+      "sha256": "49698b0fa1b2a4e87dd49276fa1479f2ba4fc8d223d5241a2540f53f3203dd54",
+      "sha256_of": "original",
+      "working_copy": "1850_p022.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:32+00:00"
+  }
+}

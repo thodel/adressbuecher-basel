@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p090",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p090.jpg",
+    "bytes": 1101987,
+    "sha256": "572fd9747fbb1a815014566a176af3cd31686befed9d6d66fd63fd8cdba7eb6e",
+    "sha256_of": "original",
+    "working_copy": "1841_p090.jpg"
+  },
+  "text": "7\nBurchhardt, Carl Leonhard, Kaufmann. 867 Thorsteinen.\nBurchhardt-Huber, Achilles, Senfal. 1041 Aeschen-Borstadt.\nBurchhardt, Eduard. 1402 Münsterplaz.\nBurchhardt, Abraham, Wechfel-Senfal. 1632 Untere Freienstrafe.\nBurchhardt, Jos., Quincaillerie-u. Waarenhandlung. 103 Blumenrain.\nBurchhardt, Christoph. 1349 St. Alban-Borstadt.\nBurchhardt, Peter, Bestäter. 645 Gerbergasse.\nBurchhardt, Leonhard, Flachmaler. 295 Spahlen-Borstadt.\nBurchhardt, Joh. Rud., Fiskal. 1381 a Am Bäumlein.\nBurchhardt, Carl, alt Dreierherr. 1345 St. Alban-Borstadt.\nBurchhardt, August, Med. Dr. 1453 Schlüffelberg.\nBurchhardt, Gedeon. 1351 St. Alban-Borstadt.\nBurchhardt, Aug., Appellationsgerichtsschreiber. 67 St. Joh.=Borst.\nBurchhardt, Rud., Bandfabrikant. 51 St. Joh.=Borstadt.\nBurchhardt, Martin fel., Erben. 1475 Augustinergasse.\nBurchhardt-Basler, Christoph, Quincailleriehandlung. 1640 Unter\n  Freienstrafe.\nBurchhardt-Bernoulli, Benedikt. 1601 Sporren gaffe.\nBurchhardt-Burchhardt, Emanuel. 1270 St. Alban-Thorgasse.\nBurchhardt-Bachofen, Christoph. 1510 Rheinsprung.\nBurchhardt-Gemuseus, Sohn. 269 c Neue Borstadt.\nBurchhardt, Dietrich. 1356 Rittergasse.\nBurchhardt-Dürand, Joh. Conrad, Hauptmann. 1628 Untere\n  Freienstrafe.\nBurchhardt, Seb., Zucker- und Pastetenbäcker. 1193 Am Bäumlein.\nBurchhardt-Frey, J. J., Handelsmann. 940 Aeschen-Borstadt.\nBurchhardt-Forkart, Daniel, Kaufmann. 249 b St. Petersplaz.\nBurchhardt-Forkart, Wilh., Handelsmann. 1054 St. Albangraben.\nBurchhardt-Gysin fel. Wittwe, Rent. 67 St. Johann-Borstadt.\nBurchhardt-Forkart, Ludwig, Kaufmann. 247 b St. Petersplaz.\nBurchhardt-Heusler, Carl, Handelsmann: 1200 Am Bäumlein.\nBurchhardt-Heusler, Carl, Handelsmann. 1039 Aeschen-Borstadt.\nBurchhardt-Jselin, Jer. 257 c Neue Borstadt.\nBurchhardt-Jmhof, Peter, Rathsherr. 440 Spiekhofgasse.\nBurchhardt, geb. Jselin, Wittwe. 284 Spahlen-Borstadt.\nBurchhardt und Kern, Seidenfabrikanten. 269 Neue Borstadt.\nBurchhardt-Kündig, Leonhard, Griefer. 1732 u. 1733 Beim Korn-\n  marktbrunnen.\nBurchhardt-Jselin, Emanuel, alt Rathsherr. 269 b Neue Borstadt.\nBurchhardt-Haller, Med. Dr. 386 Missionsgasse.\nBurchhardt-Von der Mühl, Hieron., Partikular. 928 St. Elisabethen.\nBurchhardt-Pelletier, Philipp, Partikular. 104 Blumenrain.\nBurchhardt-Preiswerk, Handelsmann. 1042 Aeschen-Borstadt.\nBurchhardt-Ryhiner, J. J., Dr. Juris und Appellationsrichter.\n  931—933 St. Elisabethen.\nBurchhardt-Bischer, Carl. 1210 Rittergasse.\nBurchhardt-Roth, Joh., Bandfabrikant. St. Johann-Borstadt.\nBurchhardt-Bischer, Leonh., Kaufmann. 23 a St. Joh.=Borstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7602,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2537,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0204,
+    "mean_line_chars": 50.63,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:52:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p090",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p090.jpg",
+      "bytes": 1101987,
+      "sha256": "572fd9747fbb1a815014566a176af3cd31686befed9d6d66fd63fd8cdba7eb6e",
+      "sha256_of": "original",
+      "working_copy": "1841_p090.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:43+00:00"
+  }
+}

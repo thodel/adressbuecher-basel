@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p084",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p084.jpg",
+    "bytes": 1406222,
+    "sha256": "e6fef172735c59cdb35d7e18732488db437053c35fc246b08dcac654a778dde0",
+    "sha256_of": "original",
+    "working_copy": "1862_p084.jpg"
+  },
+  "text": "St. Alban-Borstadt. 19\nNrn\nHaus-Nr.\nQuar-\ntier.\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n65 V. 1325 d Pfarrhaus.\nStaat.\nPreiswerk=Stähelin, Samuel, Pfarrer.\nDavid=Stähelin, Reinhard sel. Erb.\nDavid=Stähelin, Wittwe Cölestin.\nGysin=Tschiudin, Johannes, Wirth.\nSchmid=Leis, Johs., Drechsler.\n66 V. 1263\nZselin, Rudolf u. Wilhelm.\n(Magazin.)\n68 V. 1264\n69 V. 1312\n70 V. 1265\n71 V. 1312 b\n72 V. 1266\n74 V. 1267\n76 V. 1268\n78 V. 1269\n80 V. 1269 c\n81 V. 1311 B Sprikenhaus.\n82 V. 1270\n83 V. 1311 C\n85 V. 1311 Aa\n86 V. 1271\n87 V. 1311 A\n88 V. 1272\n90 V. 1273\n91 V. 1311 E\n92 V. 1273 A\n93 V. 1311 D\nZselin=Christ, Rud., u. Zselin, Wilh.\nZselin=Christ, Rudolf, Tuchhändler.\nHeuzler=Bischoff, Rud.\n(Remise und Stallung.)\nZselin, Wilh., u. Zselin=Christ., Rud.\nZselin, Wilhelm, Tuchhändler.\nGoldenmann=Müller, Martin.\nGoldenmann=Müller, Martin, Wirth.\nSitterlin=Brüllmann, Fr., Schreiner.\nHaag=Kraus, Leonhard.\nHaag=Kraus, Leonhard, Hufschmied.\nSchär, Friedrich, Kunstmalер.\nSiber=Heuzler, Friedrich.\nSulger u. Stüdelberger.\n(Bandfabrik.)\nSulger u. Stüdelberger.\n(Bandfabrik.)\nStaat.\nMerian=BonderMühl, Heinrich.\nMerian=BonderMühl, Heinrich, Rentier.\nMerian=Zselin, Rudolf.\nMerian=Zselin, Rud., Rentier, d. Raths.\nBischoer=Handmann, Wb.\n(Remise und Stallung.)\nWeitnauer, Rudolf.\nSchwenk=Musculus, Wb. Carolina\nJosepha, Hufschmied.\nBischoer=Handmann, Wb. An. Maria.\nBischoer=Handmann, Wb., A. M., Partic.\nBachofen=Bischoer, Wilh., Bandfabrikant.\nz. Schweizerbund.\nz. vorderen Klösterl. Dser, Rudolf.\nDser, Rudolf, Thierarzt.\nzum Fällklein. Sarasin=Sauvain, Karl.\nSarasin=Sauvain, Karl, Bandfabrikant\nund Rathsherr.\nSarasin=Heuzler, Wittwe, Salomea.\nSarasin u. Comp.\nSarasin=Stehlin, Rud., Bandfabrikant.\nSarasin=Sauvain, Karl.\nGelzer=Sarasin, Heinrich, Dr. u. Prof.\nSarasin u. Comp.\nComptoir von Sarasin u. Cie., Bandfab.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6818,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1835,
+    "lines": 82,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.061,
+    "mean_line_chars": 21.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p084",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p084.jpg",
+      "bytes": 1406222,
+      "sha256": "e6fef172735c59cdb35d7e18732488db437053c35fc246b08dcac654a778dde0",
+      "sha256_of": "original",
+      "working_copy": "1862_p084.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:24+00:00"
+  }
+}

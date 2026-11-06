@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p040",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p040.jpg",
+    "bytes": 1379713,
+    "sha256": "3a68d832a4c2f9fa31aa5ebe0543afc631674fc90888011ce88517a199c9ab46",
+    "sha256_of": "original",
+    "working_copy": "1862_p040.jpg"
+  },
+  "text": "Verzeichnis\nder im\nRagionenbuche\neingeschriebenen Handlungsfirme.\n\nHandlungsfirma. | Interessenten u. Firmasiihrer. | Natur des Geschäfts.\nAlbäck, J. H. | Jacob Heinrich Albäck, allein. | Quincaillerie.\nAlbrecht-Dietzsch. | Johann Conr. Albrecht Speiser. | Colonialwaarenhandlg.\n| Joh. Conr. Albrecht, Sohn. | Käse- u. Spezereihdlg.\n| | Seidenhandlung.\nAllenpach-Rudin, Jm. | Joachim Allenpach-Rudin, allein. | Buchhandlung.\nAmans, H. u. C. | Heinrich Amans. | Rohe Seide.\n| Constant Amans. |\n| H. Amberger-Schloffer, allein. |\nAmberger, H. | Gustav Arles. |\n| Arles Dufour et Comp. | Alphonse Arles. |\n| | F. Maurice Chabrière. |\n| | Fr. Arles, als Commanditaire. |\n| | Hugo Herzer, als Prokuraträger. |\n| | J. Artmann, allein. |\nArtmann, Jul. Agent. | Carl Bachofen-Burckhardt. | Agent.f.Colonialwaaren.\nBachofen u. Sohn, J. J. | Wilh. Bachofen-Bischer. | Bandfabrik.\n| Carl Detloff, allein. |\nBahnmeier's Buch- | | Buchhandlung.\nhandlung. |\nBallif, G. I. | Serge Louis Ballif, allein. | Buchhändler.\n| Joh. Huber, Interessent. |\nBalmer u. Riehm. | Dr. J. J. Balmer. | Buchdruckerei und Ver-\n| Ferd. Riehm. | lagsbuchhandlung.\n| | Actien-Gesellschaft mit\nBank in Basel, mit | Ed. Früh, Bankdirector. | einem Kapital von 4\neinem Actienkapital | Joh. Rud. Schilling, Bankcassier. | Millionen Franken.\nvon 4 Million. Frkn. | Wilh. Burckhardt=For- |\n| cart, Präsident. |\n| D. Heusler-Thurneyßen. |\n| Carl BonderMühl=Me- |\n| rian. |\n| Carl Bachofen=Burck- |\n| hardt. |\n| | Bankvorsteherfschaft. |\n| | Mitglieder |\nBarbe, J. | J. Barbe, allein. | Auswanderung.\n| Friedr. Burckhardt, Procuraträger. |\nBauer, J. et Comp. | Friedrich Bauer. | Agentur = Commissionsg-\n| Heinrich Bastady-Hörler. | geschäft.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5468,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1698,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p040",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p040.jpg",
+      "bytes": 1379713,
+      "sha256": "3a68d832a4c2f9fa31aa5ebe0543afc631674fc90888011ce88517a199c9ab46",
+      "sha256_of": "original",
+      "working_copy": "1862_p040.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:35+00:00"
+  }
+}

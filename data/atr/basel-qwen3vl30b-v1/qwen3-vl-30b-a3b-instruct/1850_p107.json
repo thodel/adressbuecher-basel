@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p107",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p107.jpg",
+    "bytes": 958256,
+    "sha256": "11395213d15bc96ab8a6e8ac51e4b1877300cf23eef01f59e0b0a63d8d2c79da",
+    "sha256_of": "original",
+    "working_copy": "1850_p107.jpg"
+  },
+  "text": "94 Bläsy = und Riehen = Quartier.\n401 Magazin.\n402 Scheune.\n403 Haupt, Leonhard, Gassenbeseker.\n404 (Stall, Remise, Scheune) zum schwarz. Bären geh.\n405 \" \" \" zum rothen Löwen geh.\nRiehen=Quartier.\nUdengasse.\n406 Spörlin, Wittwe Cath.\n407 Dorn, Karl, Appreteur.\n408 Heckendorn, Franz, Färber.\n409 Ritter, Wittwe Marie, Kapitalistin.\n410 Farbhaus.\n411 Scheune.\n412 Stallung.\n413 Baumgartner, Heinrich, Flachmaler.\n414 Farbhaus.\n415 Müller=Geßler, Gottfried, Seidenfärber.\n416 Scheune.\n417 Lindenmeyer, Joh. Rud., S. M. C., Waisenlehrer.\nWeinhandlung von Lindenmeyer, F. Georg, Sohn.\n418 Bruckner=Eglin, Rudolf, Kaufmann.\n419 (Herberei.)\n420 (Magazin.)\n421 Haag=Keim, Wittwe, Wirthin.\n422 Schneider, Jakob, Zimmermann.\n423 Buser, Matth., Ferger.\n424 Schardt, Joh. Ulrich, Meßger.\n425 Bök, N. W., Devisenmacher.\n426 Rottwill, Jgfr. Cath., Wascherin.\n427 Merian, Jgfrn. Friederika u. Wilhelmine.\nRyhner, Architect, Geschäftsführer.\n428 (Bauhof.)\n429-30 Nägelin, Conrad, Wirth.\n431 Schäfer, Wittwe Rosine.\nSchäfer, August, Zimmermeister.\nMünch, Jgfr. Susanna, Kleinkinderschule.\n432 Zimmerhof.\n433 Dunfel, Wittwe, Wascherin.\n434 Brüderlin, Joh., Handels-Commis.\n435 Gyfin, Ulrich, Färber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4136,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1183,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p107",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p107.jpg",
+      "bytes": 958256,
+      "sha256": "11395213d15bc96ab8a6e8ac51e4b1877300cf23eef01f59e0b0a63d8d2c79da",
+      "sha256_of": "original",
+      "working_copy": "1850_p107.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:11+00:00"
+  }
+}

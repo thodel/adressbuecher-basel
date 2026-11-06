@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p131",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p131.jpg",
+    "bytes": 961497,
+    "sha256": "cec7dafb2186ce1ff20542b44c36f554b76774ed29a4ff03be1b6d437e8f7077",
+    "sha256_of": "original",
+    "working_copy": "1841_p131.jpg"
+  },
+  "text": "48\n\nWagner, Friedrich, Handels-Commis. 1279 St. Alban-Thal.\nWagner, J. J., Leinenweber. 979 Sternengäßlein.\nWagner, Jungfer, Margaretha. 1602 Sporrengasse.\nWagner, Friedrich, Reallehrer. 1375 Hinter dem Münster.\nWagner, Lucas, Papierer. 1233 St. Alban-Vorstadt.\nWagner-Heilmann, Friedrich, Kinderspielwaaren = Handlung. 124\n  Blumenplatz.\nWagner-Rudin sel. Wittwe; Spezereihandlg. 1330 St. Alban-Vorst.\nWahr, Ph., älter, Tuchhandlung. 1446 Freie Straße.\nWahr, Ign., jünger, Tuchhandlung. 1447 Freie Straße.\nWahr-Bené, Carl, Handelsmann. 1660 Rindermarkt.\nWaidmann, geb. Sprüngli, Ph. sel. Wittwe. 39 St. Joh.-Vorst.\nWaldner, Heinrich, Bandfabrikant. 803 Vordere Steinen-Vorstadt.\nWalliser, J. Fr., Fabrikarbeiter. 530 Imbergäßlein.\nWalter, Joh. Jakob, Commis. 145 Blumengasse.\nWalter, Caspar, Kaufmann. 486 Oberer Spahlenberg.\nWalter, Jakob Heinrich, Kaufmann. 555 Adelberg.\nWalter, Fr., Schreiner. 85 St. Johann-Vorstadt.\nWalter, Caspar, Lithograph, von Lohningen. 99 St. Joh.-Schwibb.\nWalz, Frau Louise, geb. Hänel, Shawl = und Manufakturwaaren=\n  Handlung. 1550 Eisengasse.\nWalz, Fr., Kunsthändler. 42 St. Johann-Vorstadt.\nWaser, Jakob, Spengler, von Zürich. 1717 Hutgasse.\nWassermann, Carl, Schneider. 1527 Kronengasse.\nWassermann, Joh., Kaufhausarbeiter. 1740 Hinter der School.\nWassermann, Joh. Rud., Messerschmid. 1712 Unt. Spahlenberg.\nWassermann, J. Rud., Kaminfeger. 428 Heuberg.\nWassermann, Jungfer, Dorothea. 541 Imbergäßlein.\nWeber, J. G. sel., Wittwe. 1298 St. Alban-Thal.\nWeber, Joh. Georg, Kaufmann. 593 Schneidergasse.\nWeber, Georg Friedrich, Schuhmacher. 1723 Hutgasse.\nWeber, Conrad sel., Wittwe. 1414 Münsterplatz.\nWeber, Heinrich, Schuhmacher. 1754 Schneidergasse.\nWeber, Anton, von Pfeffingen, Geschäftsmann. 764 Vordere\n  Steinen-Vorstadt.\nWehrlin, Joh., Fabrikarbeiter, von Küttigen. 877 Thorsteinen.\nWehrlin, J. J., Müller. 1308 St. Alban-Thal.\nWeibel-Meyer, Rud., Handels-Commis. 934 Steinenberg.\nWeibel-Gerster, J. J., Wirthschaft. 125 Neue Straße.\nWeiß, Jak. Chr., Mädchenlehrer. 566 St. Peterstiftsgasse.\nWeiß, Carl Ludwig, Kübler. 1702 Schnabelgäßlein.\nWeiß, J. J., Geschäftsmann. 1153 Gerbergasse.\nWeiß, Hieronymus, Küfer. 1172 Freie Straße.\nWeiß, J. R., Kappenmacher. 395 Bei St. Leonhard.\nWeiß, Conrad, Matratzenmacher. 631 Gerbergäßlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8085,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2271,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p131",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p131.jpg",
+      "bytes": 961497,
+      "sha256": "cec7dafb2186ce1ff20542b44c36f554b76774ed29a4ff03be1b6d437e8f7077",
+      "sha256_of": "original",
+      "working_copy": "1841_p131.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:08+00:00"
+  }
+}

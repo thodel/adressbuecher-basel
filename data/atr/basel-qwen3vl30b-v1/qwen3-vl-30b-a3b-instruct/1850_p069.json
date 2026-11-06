@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p069",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p069.jpg",
+    "bytes": 950988,
+    "sha256": "fa79170000623bfb3248eb13eb7bfa75a488be26429f26f4c488b905273ef905",
+    "sha256_of": "original",
+    "working_copy": "1850_p069.jpg"
+  },
+  "text": "56\nSt. Alban=Quartier.\n1235 Ritter=Fischer, Mezger.\n1236 Glaser, Andreas, Seiler.\n1237 Strübin, Wittwe Marie, Weißbek.\n1238 Gemuseus-Frey, Wilh., Handelsmann.\n1239 David=Sickler, Joh., Wein- u. Branntweinhandlg.\nMalzgasse.\n1240 Magazin.\n1241 Remise und Stallung.\n1242 Strauman, Rudolf, Ferker.\n1243 Schneider, Jeremias, Ausläufer.\n1244 Berri=Burckhardt, Melch., Architekt.\n1245 Dorrenberger, Peter, Gärtner.\n    Bieler, Joh. F., Zettlermeister.\n1246 Lehre, Wittwe, Kostgeberin.\n1247 Rieder, Emil., Commis.\n1248 Salzmann, L., Kutscher.\nA 1248 Forkardt=vonGentschick, Fabrikant.\nB 1248 Forkardt, Jungfrau, Elis., Rentière.\nC 1248 Sarasin=Forkardt, Adolph, Pfarrer.\n1249 Stehlin=Hagenbach, F. F., eidg. Oberst, Zimmermeist.\nB 1249 Dobler=Debary Erben gehörend.\n1250-52 Dobler, Jgfr., Maria, Rentière.\n1253 Strübin-Hunziger, Agnes, Wittwe.\n1254 Thierry, Franz Josef, Kostgeber.\n1255 Simmen-Hunzicker, F. F., Commis.\n    Zahn=Rognon, Ed., Handelsmann.\n1256 Bonnant, Peter, Appreteur.\n1257 Siegrist, Nikl. Heinrich, Schreiner.\nA 1257 (Fabrikgebäude) Schäfer, Sch., Fabrikmeister.\n1258 Imhof, Friedr., Schuhm. u. Wirth.\n1259 Schaffner, Joh., Posamenter.\nSt. Albanthorgasse.\n1260 Gräfin, Wilh., Posamenter. [handschriftlich: gestrichen]\n1261 Felber, Daniel, Taglöhner.\n    Däntlicker, Jgfr., Kath., Schneiderin.\n1262 Nidecker, Karl Leonhard, Weißbek.\n1263 David=Stähelin, Reinhard, Mezger.\n    Huber=Landerer, Karl, Commis.\n    Schreinerwerkstätte von F. Weitnauer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4872,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1457,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.07,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:09:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p069",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p069.jpg",
+      "bytes": 950988,
+      "sha256": "fa79170000623bfb3248eb13eb7bfa75a488be26429f26f4c488b905273ef905",
+      "sha256_of": "original",
+      "working_copy": "1850_p069.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:23+00:00"
+  }
+}

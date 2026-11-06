@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p059",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p059.jpg",
+    "bytes": 895037,
+    "sha256": "d961057c38c1decc20171b9d08dd7b55352f6cf256444da37838822a3e96b007",
+    "sha256_of": "original",
+    "working_copy": "1841_p059.jpg"
+  },
+  "text": "52\nNro.\n1465 u. 1466 Stückelberger, geb. Stückelberger, Wittwe.\n  Oser, Jungfrauen Margaretha, Emilie und Maria.\n1467 Bernoulli, Franz sel., Wittwe, geb. Werthemann.\n1468\n1469 Burckhardt, Martin sel., Wittwe, geb. Keller.\n1470\n1471 Bischoff, J. J. sel., Wittwe, geb. Debary.\n  Bischoff, Joh. und Friedrich, Söhne.\n1472 Rosenburger-Rapp, J. J.\n1473 Stähelin, Ph. sel., Wittwe, geb. Reber.\n\nAugustinergasse.\n1474 Miville, geb. Fäsch, Wittwe.\n  Miville, J. J., Candidat.\n1475 Burckhardt, Martin sel., Erben.\n1476 Bischoff-Burckhardt, Wilh., Oberst und Handelsmann.\n1477 * Burckhardt, J. Rud., d. Theol. Dr., Lehrer am Gymnasium.\n1478 * Kürsteiner, Joh., Conrector.\n1479 Sarasin-Burckhardt sel. Wittwe.\n1480 * Werenfels, Franz, Magister, pens. Lehrer am Gymnasium.\n1481 Burckhardt, Margaretha, Jungfer.\n1482 Fürstenberger, Wittwe sel., Erben geh.\n  Eglinger, Eman. S. M. C., Privat-Mädchenschule.\n1483 u. 1484 Debary-Sarasin, Joh.\n  Debary-Respinger, Wittwe.\n  (Bandfabrik und Comptoir von Joh. Debary u. Bischoff.)\n1485 Bischoff-Buxtorf, Peter.\n1486 Heller, Heinrich, Handels-Commis.\n1487 * Lehrerwohnung. Girard, J. L., Lehrer am Gymnasium.\n1488 Holzhaus, zu Nro. 1472 geh.\n1489 * Colleg. Alumn. Hug, J. J., alt Ehegerichtsschreiber.\n\nSt. Martin.\n1490 * Bischoff, Gebrüder, geh.\n  Horant, M., Werkführer.\n  Mädöri, Friedrich.\n1491 Zäslin-Falkeisen, Conrad.\n  Burckhardt, Dan. sel., Wittwe, geb. Linder.\n1492 * Sarasin-Burckhardt, Wittwe, geh.\n  (Firma: Felix Sarasin und Heusler.)\n1493 * Stähelin-Reber sel. Wittwe geh.\n  Gamper, Wilh., Kutscher.\n1494 Hinterhaus zu Nro. 1613, Stähelin-Christ geh.\n  Riggenbach-Landerer, Wittwe.\n1495 * Sarasin, Hans Franz, geh.\n1496 * Schmidt, Abraham, Oberst-Rathsdiener.\n1497 abgebrochen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7889,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1722,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:48:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p059",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p059.jpg",
+      "bytes": 895037,
+      "sha256": "d961057c38c1decc20171b9d08dd7b55352f6cf256444da37838822a3e96b007",
+      "sha256_of": "original",
+      "working_copy": "1841_p059.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:56+00:00"
+  }
+}

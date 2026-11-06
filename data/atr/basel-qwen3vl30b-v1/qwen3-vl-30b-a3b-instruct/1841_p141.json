@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p141",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p141.jpg",
+    "bytes": 931446,
+    "sha256": "905982ecc1846a09955f230ecdc4fd586aec9a14e4741371c8f0c33e8789e3a7",
+    "sha256_of": "original",
+    "working_copy": "1841_p141.jpg"
+  },
+  "text": "58\nMeyer, J. J., Gastwirth zur Sonne. 39 Rheingasse.\nMeyer, Carl Ludwig, Schuhmacher. 147 Beim Kiehen-Thor.\nMerian, Daniel, Partikular. 181 Rebgaſse.\nMerian, Joh. Jakob, Müller. 342 Untere Webergasse.\nMerian, A., Bauinspektor. 358 Sägergäflein.\nMerian, Wittwe, geb. Dorothea Gengenbach. 120 Obere Rebgaſse.\nMerian, Wittwe, geb. Pfannenschmid. 358 Sägergäflein.\nMerian-Stähelin, Remigius, Maurermeister. 427 u. 428 Udengasse.\nMeister, Conrad, Seidenfärbler sel., Wittwe. 415 Udengasse.\nMinder, Samuel, Rathsherr. 373 Untere Rheingasse.\nMinder, J. J., Sohn. 313 Im Klingenthal.\nMinder, J. J., Kaufhausbestäter. 318 Im Klingenthal.\nMiville, Rud., Rentier. 204 Rebgaſse.\nMiville, J., Schreiber auf der Polizei. 365 Untere Rheingasse.\nMiville, Achilles, Stadtrath. 93 Am Lindenberg.\nMiville-Preiswerk, Adolf, Müller. 250 Untere Rebgaſse.\nMüller, Heinrich, Parapluiemacher. 336 Untere Webergasse.\nMüller, Jakob, Fuhrmann. 137 Kirchgäflein.\nMüller, Joh. Jakob, Weißbeck. 276 Untere Rebgaſse.\nMüller, Achilles, Spezereihändler. 16 u. 17 An der Rheinbrücke.\nMüller, Joh. Jakob, Rheinbrückzoller. 7 An der Rheinbrücke.\nMüller, Heinrich, Schloffer. 216 Greifengasse.\nMüller, Heinrich, Weinhändler. 400 Udengasse.\nMüller, Wilhelm, Ladengehülfe. 151 Rebgaſse.\nMünch, Chr., Diakon bei St. Theodor. 200 Rebgaſse.\nMünch, J. Caspar, Med. u. Chirurg. Dr. u. Stadtphysikus. 222 Greifengasse.\nMünch, Jungfer, Susanna, Kleinkinderschule. 431 Udengasse.\nMünch, Melchior, Rathsherr. 164 Rebgaſse.\nMüri, Jakob, Feilenhauer. 126 Obere Rebgaſse.\nMurbach, Salomea, geb. Burkhardt, Seilergeschäft. 62 Rheingasse.\nMurbach, Heinrich, Schreiner. 90 Kußgäflein.\nN.\nNeufom, J., Wascher. 324 Badergäflein.\nO.\nOberer, geb. Kaufmann, Salomea, Wascherin. 306 Im Klingenthal.\nOberer, Martin, Posamentier. 119 Obere Rebgaſse.\nOppermann, Wilh., Bater, Schreiner. 383 Krempersgasse.\nOswald, Mathias, Architekt. 177 Rebgaſse.\nOswald, Fr., Schuhmacher. 125 Obere Rebgaſse.\nOswald, Mathias, Rathsherr. 274 Beim Bläfithor.\nOtto, Emanuel, Müller. 300 Webergasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6679,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2016,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:59:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p141",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p141.jpg",
+      "bytes": 931446,
+      "sha256": "905982ecc1846a09955f230ecdc4fd586aec9a14e4741371c8f0c33e8789e3a7",
+      "sha256_of": "original",
+      "working_copy": "1841_p141.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:13+00:00"
+  }
+}

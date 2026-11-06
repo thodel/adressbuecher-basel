@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p153",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p153.jpg",
+    "bytes": 983989,
+    "sha256": "3e7a0d1f6e9f4efe39b51bfcd8ec863e9413043f01ad3713c7a78c6dd4db95ce",
+    "sha256_of": "original",
+    "working_copy": "1841_p153.jpg"
+  },
+  "text": "Berichtigungen zum neuen Nummern- und\nAdressbuch der Stadt Basel.\nIn der dem Nummern- und Adressbuch vorgedruckten Er-\nklärung muß es heissen:\nSeite 4 statt der Worte „die Eigenthümer sind mit * bezeichnet“:\ndie von den Eigenthümern nicht selbst bewohnten\nGebäude sind mit * bezeichnet.\nSodann Seite 7 (13. Seite von unten) statt: Unterer Heuberg:\nUnterer Herbergberg.\nSeite 8 nach Nro. 187: Herbergberg.\nS. 10 nach Nro. 246: Bei St. Peter.\nS. 11 nach Spahlen-Quartier: Zeughausgraben.\nS. 24 nach Nro. 624: Gerbergäcklein.\nS. 48 nach Nro. 1363: Hinter dem Münster.\nS. 53 nach Nro. 1514: Rheinsprung, und nach Nro. 1516: Bei\nder Rheinbrücke.\nS. 58 nach Nro. 1646: Kindermarkt.\nS. 63 nach Nro. 3: Rheingasse.\nS. 76 nach Nro. 405: Kiehen-Quartier.\nDiese im ersten Theile theils unrichtig, theils nicht ange-\ngebenen Straßenbenennungen find jedoch im zweiten Theile\n(Register) grosstheils schon berichtigt.\nIm gegenwärtigen Nachtrage find die seit dem\nErscheinen des Nummern- und Adressbuches stattge-\nfundenen Häuserkäufe mit * bezeichnet.\nWährend des Druckes vom Nachtrage find folgende\nHäuserkäufe geschehen:\nAnmann, Achilles Heinrich, Sieb = und Trommelmacher,\nDrahtflechter und Metallweber, von Ermatingen, kauft\nNro. 671 Gerbergasse.\nBürgin, geb. Singeisen, Anna Elisabeth, kauft Nro. 615\nHinter der Kümlinsmühle.\nBuxtorf-Bischoff, And., Scheune u. Stallung, 394 Bei St. Leonh.\nGysler, Heinrich, Sohn, Handelsmann. 1523 Fischmarkt.\nHeusler, Martin, Handelsmann. 1389 Bäumlein.\nLeuba, Hieronimus Lukas, Uhrenmacher. 1726 Hutgasse.\nLok, Friedrich, Zimmermeister. 175 Reb-gasse.\nMiville-Krug, Heinrich. 1452 Schlüsselberg.\nRudin, Johannes. 1704 Unterer Spahlenberg.\nSchaffner, Heine., Sohn, Schneidermeister. 148 Schwanengasse.\nSchmidlin, Jak. Ant., Sattler, v. Arlesheim. 1393 Am Bäumlein.\nTschopp u. Comp. Buchhandlung, Papier-, Schreibmaterialien-\nund Buchbinder-Fournituren-Geschäft. 1523 Fischmarkt.\nWiefendanger, Ulrich, von Ossingen. 545 Imbergäcklein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5853,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1958,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:59:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p153",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p153.jpg",
+      "bytes": 983989,
+      "sha256": "3e7a0d1f6e9f4efe39b51bfcd8ec863e9413043f01ad3713c7a78c6dd4db95ce",
+      "sha256_of": "original",
+      "working_copy": "1841_p153.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:51+00:00"
+  }
+}

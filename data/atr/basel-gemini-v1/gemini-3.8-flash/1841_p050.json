@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p050",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p050.jpg",
+    "bytes": 959747,
+    "sha256": "9945343beef38391cbdbb6653e63d4e9de7d81da37a4925008f5a0b7f9c5a5bf",
+    "sha256_of": "original",
+    "working_copy": "1841_p050.jpg"
+  },
+  "text": "43\n\nNro.\n1175 * Zunft der Hausgenossen. Bachofen, J. J., Traiteur.\n1176 Eckenstein, Wilh., Bierbrauer.\n  Eckenstein, Ed., Sped. und Hopfenhandlung.\n1177 Gemuseus, Joh. Rud., Handelsmann.\n  Gemuseus, Hieronymus.\n1178 Bahnmeyer, Immanuel Gottl., Buchdrucker u. Buchhändler.\n  Droz, Friedrich, Handels-Commis.\n1179 * Ebendemselben. Ammann, Achilles, Siebmacher.\n1180 * Dreiß, Joh. Christ., geh.\n1181 Sulger-Sprecher, Wittwe.\n1182 Sulger-Dobler, Wittwe.\n  Sulger, Andr. und Rud. (Handelsragion.)\n1183 Zunft zu Rebleuten.\n1184 Zunft zu Schuhmachern.\n  Salathe, Heinrich sel., Wittwe.\n1185 Bernoulli-Huber, L. (Firma : C. Huber, Sohn.)\n\nRinggäßlein.\n\n1186 u. 1187 Versammlungshäuser der Brüdergemeinde.\n\nFreie Straße.\n\n1188 von Speyr, Theodor, alt Rathsherr.\n  Firma : von Speyr u. Comp.\n1189 Preiswerk, Abraham, Handschuhmacher.\n  Schwob, Joh., Med. Dr.\n1190 Eckenstein, J. J. : Spezereihandlung.\n1191 Röslin-Ronus, Joh. Georg sel., Wittwe.\n1192 Raillard, geb. C. Meyenrock, Wittwe.\n  Raillard, Theodor : Berichthaus.\n\nBäumlein.\n\n1193 Burckhardt, Seb., Zucker- und Pastetenbäcker.\n1194 * Ebendemselben. von Speyr-Fischer, J. Heinrich.\n1195 Pöhls, Friedrich, Schlosser.\n1196 Geering, Leonhard, Opticus.\n  Schneider, Felix, Buchdrucker, Buchhändler u. Antique\n1197 Stähelin-Schönauer, Hieronymus.\n1198 Merian-Stähelin, Joh. sel., Wittwe.\n1199 Vischer-Legrand, Anna Maria, Wittwe.\n1200 Hindermann, J. J. Firma : Bischoff jünger u. Söhne.\n  Burckhardt-Heußler, Carl, Handelsmann.\n\nLuftgäßlein.\n\n1201 * Berri, Melchior, Architekt.\n  Leser, Joh. Friedrich, Kutscher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9358,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1555,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.47,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:47:46+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p050",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p050.jpg",
+      "bytes": 959747,
+      "sha256": "9945343beef38391cbdbb6653e63d4e9de7d81da37a4925008f5a0b7f9c5a5bf",
+      "sha256_of": "original",
+      "working_copy": "1841_p050.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:46+00:00"
+  }
+}

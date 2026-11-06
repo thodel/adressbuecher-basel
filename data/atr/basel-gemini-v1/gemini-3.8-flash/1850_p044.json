@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p044",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p044.jpg",
+    "bytes": 1141728,
+    "sha256": "9606293d6b523561071c5d32d4a0c4edea54a3c186c760a5c5af61889160dd04",
+    "sha256_of": "original",
+    "working_copy": "1850_p044.jpg"
+  },
+  "text": "Steinen-Quartier. 31\n\n700 Meyer, Johannes, Spetter.\n701-2 Merian, Eml., Küfer, Bierbrauer und Weinschenk.\n\nHinter dem Stöcklin.\n\n703 Bloch-Fatio, Joh., Färber, Stadtrath.\n  Schmid, Rud., Notarius.\nA 704 Seiler, Heinrich, Fabrikarbeiter.\nB 704 Tschopp, Heinrich, Kaufhausarbeiter.\n705 Gysin, Heinrich, Spezereihandlung.\n706 Bürgin, J. J., Commis.\n707-10 Lindenmeyer-Schmidt, J. J., gehörend.\n708 Grisanti, David, Weinschenk.\n711 Rudin, Heinrich, Fabrikarbeiter.\n\nBaarfüsserplatz.\n\n712-13 Lotz-Spörlin, H., Wollenwaarenhdlg., Pfundzoller.\n  Spörlin-Merian, Wittwe Sara.\n714 Riedtmann, Niklaus, Schneider.\n715 Hodel, Verena, geb. Galbi, Krankenwärterin.\n  Fricker, Jgfr., Sal., Mousselinladen.\n716 Schneider-Eklin, Wittwe Elisabetha.\n  Christ, Jungfrau Maria, Ausschnittladen.\n717 Holzmüller, Karl, Uhrmacher.\n\nHinter dem Stöcklin.\n\n718 Faust, Joh., Schneider, Kleiderhandlung.\n719 Schardt, Daniel, Schuhmacher.\n720 Frey, Jeremias, Polizeidiener und Trödler.\n721 Schneider, Jungfrau, Judith, Bändelladen.\n722 Schweizer, Heinrich, Kupferschmied.\n723 Neustück-Bloch, Wittwe.\n  Neustück, Heinrich, Bildhauer.\n  Neustück, Jakob, Kunstmaler.\n\nBaarfüsserplatz.\n\nA 724 Roth-Hamberger, Daniel, Wittwe, Spezerei- und\n  Farbwaarenhandlung.\n  Fröhlich, Joseph, Lehrer.\nB 724 Bell, Samuel, Metzger, Weinschenk.\n  Bell, Johann Rudolf, Sohn, Metzger.\n725 Maas-Müller, R., Med. et Chir. Dr., Barbierstube.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6215,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1387,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0526,
+    "mean_line_chars": 34.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p044",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p044.jpg",
+      "bytes": 1141728,
+      "sha256": "9606293d6b523561071c5d32d4a0c4edea54a3c186c760a5c5af61889160dd04",
+      "sha256_of": "original",
+      "working_copy": "1850_p044.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:36+00:00"
+  }
+}

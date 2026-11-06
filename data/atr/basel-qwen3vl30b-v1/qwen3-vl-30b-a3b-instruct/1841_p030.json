@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p030",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p030.jpg",
+    "bytes": 957395,
+    "sha256": "8f67d9ba11de14bc5e1d2113d2fbaab62864905d1d2d798e6ac329ade18ff78a",
+    "sha256_of": "original",
+    "working_copy": "1841_p030.jpg"
+  },
+  "text": "23\nNro.\n599 Gysin, Daniel, Meßger.\n600 Boffardt, Heinrich und Jakob, Bater und Sohn, Uhrenmacher.\n601 * Mende, Gottlieb, Kübler.\n602 * Dreyfus, Isaak, Kaufmann, Bandhandlung.\n    Imhof-Heik, Dr. Med.\n603 Mäglin, Benedikt, Küfer und Bierbrauer.\n    Wohlnich, geb. Rosenburger, u. Rosenburger, Peter, Bater.\n604 Bebler, J. Georg, Kaufmann.\n    Höhn, geb. Fluhbacher, Maria, Kaffeewirthschaft.\n605 u. 606 Sutter, Joh., Wirthschaft.\n607 Antoni, Georg Heinrich, Kaufmann.\n    Meier, M., Indienhandlung.\nSchnabelgäßlein.\n608 Bulacher, Emanuel, Meßger.\n609 Levi, Abraham, Waarenhandlung, von Blokheim.\n610 * a b Eschientschy, Heinrich, Geldwechsler.\nC. Steinen-Quartier.\nSchnabelgäßlein.\n611 Schimpf, Wittwe, geb. Borer.\n    Schimpf, Nikolaus, Schreiner.\n    Schimpf, Andreas, Porträtmaler.\n    Päschlin, Auffeher des Missionshauses.\n612 Fischer, J. Heinrich, Küfer und Essigfieder.\nHinter der Kümlinsmühle.\n613 Schneider, Emanuel, Wittwe.\n614 Eschudy, Ulrich, Schneider, von Bennweil.\n    Leuba, Ludwig, Uhrenmacher.\n615 Dättwyler, Joh.. Meßger.\n    Knecht, Bernh., Rechnungsmeister.\n    Gaugler, Joh., Fabrikarbeiter.\n616 Stöcklin, Joh. Ulrich.\n    Holzach, Joh., Buchbinder.\n617 Langmesser, Elisabeth, geb. Gruber, abgesch.\n618 Grüninger, Rudolf, Küfer.\n    Hofch, geb. Burtorf, Wittwe.\n    Roth, Maria, Wascherin.\n619 Merian, Friedrich, Bierbrauer.\n620 Schloffer, Fr., Glaser.\n    Bohni, Nikolaus, beim Kaufhaus.\n621 Lippe, Joh. Jakob, Müller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4412,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1440,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 31.98,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:44:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p030",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p030.jpg",
+      "bytes": 957395,
+      "sha256": "8f67d9ba11de14bc5e1d2113d2fbaab62864905d1d2d798e6ac329ade18ff78a",
+      "sha256_of": "original",
+      "working_copy": "1841_p030.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:26+00:00"
+  }
+}

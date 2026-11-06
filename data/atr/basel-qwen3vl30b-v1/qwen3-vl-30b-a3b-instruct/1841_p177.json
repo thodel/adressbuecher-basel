@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p177",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p177.jpg",
+    "bytes": 972434,
+    "sha256": "e2aa136ef35385e6ffcccaac9f0bb60d10ad65448dbecfee0bc43d0e2c4d8084",
+    "sha256_of": "original",
+    "working_copy": "1841_p177.jpg"
+  },
+  "text": "- 24 -\nD.\nOppermann, Wilhelm, Maler. 383 Krempergasse.\nOswald, Math., Rathsherr. 341 Untere Webergasse.\nP.\nPac, Jakob Christoph, Steinmeß. 123 Obere Rebgasse.\nPfrunder, Jakob, v. Männedorf, Rheinknecht. 62 Rheingasse.\nPlattner, Durs, Speddermeister. 64 Rheingasse.\nPümpin, Sam., Zimmermann. 371 Untere Rheingasse.\nR.\nRieber, Jakob, Commis. 17 Rheingasse.\nRyff, Heinrich, Seidenfärber. 220 Greifengasse.\nRitter, Joh. Jakob, Sohn, Mezger. 72 Rheingasse.\nRösler, Wilhelm, von Nürnberg, Perruquier. 34 Rheingasse.\nRoth, J. J., Schneider. 239 Ochfengasse.\n* Rühlin, J. G., Lohnwäscher. 309 u. 309 c. Beim Klingen- thal. (Gemeinschaftlich mit Rud. Schmidt, Weiß- beck, — siehe diesen.)\nS.\nSalathe, Abraham, Bannwart. 117 Rebgaße.\nSandreuter, Em., Mezger. 23 Schafgäklein.\nSchäfer, Sam., Ferger. 231 Greifengasse.\nSchäfer, Aug., sel. Wittwe, geb. Mazinger. 431 und 432 Udengasse.\nSchäfer, Aug., Sohn, Zimmermann. 431 und 432 Udengasse.\nSchartd, Mathias, Spengler. 100 Am Lindenberg.\nSchartd, Joh. Ludwig, zweiter Polizei-Sekretär. 202 Rebga.\nSchaub, Jakob Friedr., Ziegler. 138 Beim Kiehenthor.\nSchaub, Friedrich, von Wittisburg, Schuhmacher. 179 Rebgaße.\nSchilling, Peter, Tagl. 275 Untere Rebgaße.\n* Schmidt, Rud., Weißbeck. 309 u. 309 c. Beim Klingen- thal. (Gemeinschaftlich mit J. G. Rühlin, Lohn- wascher, — siehe diesen.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4430,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1321,
+    "lines": 28,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:02:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p177",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p177.jpg",
+      "bytes": 972434,
+      "sha256": "e2aa136ef35385e6ffcccaac9f0bb60d10ad65448dbecfee0bc43d0e2c4d8084",
+      "sha256_of": "original",
+      "working_copy": "1841_p177.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:51+00:00"
+  }
+}

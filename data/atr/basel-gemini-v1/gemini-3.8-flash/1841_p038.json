@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p038",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p038.jpg",
+    "bytes": 947019,
+    "sha256": "5083fa94db34e4c3a3a7c8d51fbd6dc24d64dcfa91ffc4b2da2c190b1787588c",
+    "sha256_of": "original",
+    "working_copy": "1841_p038.jpg"
+  },
+  "text": "31\nNro.\nVordere Steinen-Vorstadt.\n\n821 Erlacher, Jakob Georg, Postoffiziant.\n822 Schmidt-Götz, Andr., Kaufmann.\n823 Schlöth, geb. Treu, Salomea, Wittwe.\n  Baumberger, Joh. Rud., Comptorist.\n824 Schmidt-Lotz, Heinrich, Küfer.\n825 Steffan, geb. v. Mechel, Wittwe, Bäckerei.\n826 Schmid, J. J., Schreiner sel., Wittwe.\n  Burckhardt, Andr., alt Thorschreiber u. Modelstecher.\n  Vest, geb. Müller, Wittwe.\n827 Geßler-Merian, Rudolf, Spezereihändler.\n  Herzog, Frau Pfarrer, geb. de Lachenal.\n\nBlömlein.\n\n828 * Kaserne für die Standeskompagnie.\n  Burckhardt, Joh., Platz-Commandant.\n  v. Mechel, J. Lucas, Major.\n  Hindenlang, Lucas, Hauptmann.\n  Küenzli, Ludwig, Lieutenant.\n828 a Magazin, dem Kanton gehörend.\n829 * Bischoff-Wieland, Hieronymus, geh.\n830 Linder, Emanuel, Vater,\n  Linder, Emanuel, Sohn.\n831 Bürgin, Heinrich, Metzger.\n\nKurzer Steg.\n\n832 Hindenlang, Geschwister.\n\nBlömlein.\n\n833 a Häring, Joh., Conducteur.\n833 * Altes Schauspielhaus.\n834 * Marstall. Der Kirchen- und Schulguts-Verwaltung geh. —\n  Landerer, Wittwe.\n\nRoßmarkt.\n\n835 Huber, Achilles, Architekt.\n836 Gasser, Wittwe, Anna Maria, geb. Weißenburger.\n  Wohnlich, Rudolf, Metzger.\n  Häring, Joh.\n837 * Huber, Achilles, Remise und Stallung.\n838 Wohnlich, Rud. sel., Wittwe, Wirthschaft.\n839 David, H., Verwalter des Kirchen- und Schulgutes.\n  Imhof, J. Chr., Oberst.\n  Moser, Christian, Steinhauer-Polier.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5755,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1374,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 30.86,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p038",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p038.jpg",
+      "bytes": 947019,
+      "sha256": "5083fa94db34e4c3a3a7c8d51fbd6dc24d64dcfa91ffc4b2da2c190b1787588c",
+      "sha256_of": "original",
+      "working_copy": "1841_p038.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:22+00:00"
+  }
+}

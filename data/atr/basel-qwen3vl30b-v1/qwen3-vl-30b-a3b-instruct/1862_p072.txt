@@ -1,0 +1,63 @@
+Aefchenvorstadt.
+7
+Nene
+Haus=Nr.
+Quar-
+tier.
+Alte
+Haus=Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+Aefchenvorstadt.
+1 | IV. | 1045 A. | Truchsefferhof. | Weitnauer=Fischer, Rudolf.
+2 | IV. | 939 | 3. Ritter St. Georg | Weitnauer=Fischer, Metzger u. Pintenw.
+ | | | | | Weiß=Fischer, Carl Bened., Kaufmann.
+3 | IV. | 1044 | | Gnoepff=Landolt, Carl.
+ | | | | | Gnoepff=Landolt, C., Bäckermeister.
+ | | | | | Gnoepff=Bauer, C., Kaufmann.
+ | | | | | Gnoepff, Rud., Commis.
+ | | | | | Faus, Wittwe, geb. Faejsch, Rentiere.
+ | | | | | Widemann=Schuhmacher, Balth., Com.
+4 | IV. | 940 | 3. goldenen Löwen. | Weitnauer=Fischer, Rudolf.
+ | | | | | Fezler=Klein, H., Lagerhausdirektor.
+ | | | | | Klein=Salis, Anna Cathar., Wb., Part.
+ | | | | | Dobler=Burckhardt, Hel., Wb. und
+ | | | | | Jgfr. M. Burckhardt gemeinsch.
+ | | | | | Dobler=Burckhardt, Wb. Hel.
+ | | | | | Ryhiner=Merian, Valerie, Wb.
+ | | | | | Ryhiner, Carl, Kaufmann.
+ | | | | | Comptoir v. Marc. Boelger, Floretspin.
+5 | IV. | 1043 | zum Wilhelm Tell. | Ryhiner=Werthemann, Euf., Wb.
+ | | | | | Ryhiner=Werthemann, Euf., Wb., Rent.
+ | | | | | Ryhiner, Julius.
+6 | IV. | 941 | zum Körblein. | Wieland, A. M., Jgfr. sel. Erben.
+ | | | | | Wieland=Landerer, Barbara, Wb.
+ | | | | | Wieland, Emilia, Jgfr.
+ | | | | | Wieland, Joh. Hein., eidg. Oberstlieutn.
+7 | IV. | 1042 | zum Hertenstein. | Ryhiner=Werthemann, Wb.
+ | | | | | Burckhardt=Ryhiner, Joh. Jak., Altbrgm.
+ | | | | | Burckhardt, Joh. Jakob, J. U. D.
+ | | | | | Burckhardt, Alfred, Kaufmann.
+8 | IV. | 942 | zum Sonnenberg. | Schmidt=Luttringshausen, F. Fdr.
+ | | | | | Schmidt=Luttringshausen, F. F., Kaufm.
+ | | | | | (Firma F. F. Christ-Ryburk).
+ | | | | | Bachmann, Emil, Commis.
+9 | IV. | 1041 | | Boelger=Burckhardt, August.
+ | | | | | Boelger=Burckhardt, August, Particular
+ | | | | | (Floretspinnerei im Schönthal.)
+10 | IV. | 943 | zur oberen Sonne. | Weissenburger=Riggenbach, F. Jak.
+ | | | | | Weissenburger=Riggenbach, F. F., Bäcker.
+ | | | | | Meyer=Schwarz, F. F., Part.
+ | | | | | Fürbringer=Goetschin, Wilh., Gärtner.
+ | | | | | Corporationsgut.
+11 | IV. | 1040 | zum Kupf. | Schneider=Bader, Dan., Stubenverwalt.
+12 | IV. | 944 | zur oberen Sonne. | Gamper=Eberlin, Wb. Anna Maria.
+ | | | | | Gamper=Eberlin, Wb. A. M., Schloffer.
+ | | | | | Schellmann=Schmid, Fr., Schuhmacher.
+ | | | | | Dürliwanger, Joh., Schloffer.
+13 | IV. | 1039 | zum Paradies. | Burckhardt=Heusler, Carl.
+ | | | | | Burckhardt=Heusler, C., Oberstlt. Rent.
+ | | | | | Roller=Burckhardt, Gottl., Ingenieur.
+14 | IV. | 945 | zum neuen Bau. | Werthemann, Jgfr. Margaretha.
+ | | | | | Sibold=Häfeli, Mag.=Knecht.

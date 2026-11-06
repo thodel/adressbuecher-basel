@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p040",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p040.jpg",
+    "bytes": 971078,
+    "sha256": "be947f0b39c54434bcb350303f2819f2333cb6e060c56e24c7d039d17fb1b99c",
+    "sha256_of": "original",
+    "working_copy": "1841_p040.jpg"
+  },
+  "text": "33\n\nNro.\n867 Burckhardt, Carl Leonhard, Kaufmann.\n868 Oppermann, C. L., Flachmaler.\n  v. Mechel sel. Wittwe, Beckerin.\n869 Riggenbach-Huber, Joh., Kaufmann.\n  Huber, Christ. sel., Wittwe.\n870 Merian, Ludwig, Bierbrauer.\n871 Beuermann, G. F., Handels-Commis.\n872 Müller, Joh. sel., Wittwe (Metzgers).\n  Brunner, Phil., Schreiner.\n  Lang, Adam, Musiker.\n873 Holzach, Christ., Schlosser.\n874 Labhardt, Joh. Jakob.\n  Labhardt, Caspar.\n875 Bachofen, J. M., Tuchscherer.\n876 Wagner, Fr., Taglöhner.\n877 Wehrlin, Joh., Fabrikarbeiter, von Küttigen.\n878 Müller, Daniel, Hafner.\n\nOberer Klosterberg.\n\n879 * Salathe, J. Georg, Sattler, geh.\n879 * a Thurneysen, Emanuel, Buchdrucker.\n  Stöcklin, Sebast., Buchdrucker.\n880 Jaus, Jos., Weißbeck.\n  Braun, Rudolf, Hafner.\n881 Brolly, Martin, Tabackarbeiter.\n882 Christen, Peter, Handels-Commis.\n883 * Magazin, Bischoff-Kestner geh.\n\nD. Aeschen-Quartier.\n\nKlosterberg.\n\n884 Haas, August, Flachmaler.\n885 * Magazin, Von der Mühll-Hoffmann am St. Albangraben geh.\n886 Buxtorf-Merian, Ludwig, Handelsmann.\n887 Vogt, Jos., Kutscher bei Hrn. Merian-Forkart.\n888 Klingelfuß, Barbara, Jungfer, Frauenzimmerschneiderin.\n889 Tschopp, Bernhard, Fabrikarbeiter, von Zyfen.\n890 Meister, Heinrich, Zimmermann, von Langwiesen.\n\nSt. Elisabethen.\n\n891 * Magazin, dem Spital geh.\n892 Paravicini-Preiswerk, Rudolf, Rentier.\n893 Ebendemselben, Remise und Stallung.\n894 Day, Joh., Sohn, Schreiner.\n\n5",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6209,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1415,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p040",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p040.jpg",
+      "bytes": 971078,
+      "sha256": "be947f0b39c54434bcb350303f2819f2333cb6e060c56e24c7d039d17fb1b99c",
+      "sha256_of": "original",
+      "working_copy": "1841_p040.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:35+00:00"
+  }
+}

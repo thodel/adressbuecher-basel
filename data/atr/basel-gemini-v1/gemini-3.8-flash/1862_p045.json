@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p045",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p045.jpg",
+    "bytes": 1344243,
+    "sha256": "051efbc92478f1b2343246ba02bd8cd8945a03bd0eacaedb1b92052378a122b8",
+    "sha256_of": "original",
+    "working_copy": "1862_p045.jpg"
+  },
+  "text": "XLII | Ragionenbuch. | \nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nFollenweider, R. | Rudolf Follenweider, allein. | Spedition u. Commis-\n  | sion, Tabak, Cigarren\n  | u. Landesproducte.\nFoßeler, J. U. | J. U. Foßeler, allein. | Agentur für Rohseide.\nFrey, J. J. | Conrad Zäslin-Stähelin. | Commission u. Spedi-\n  | J. Walliser, Prokuraträger. | tion, Incasso.\nFrey-Thurneysen und Christ. | Adolf Christ-Sarasin. | Bandfabrikation.\n  | Emil Thurneysen-Merian.\nFreyvogel u. Heusler. | Friedr. Freyvogel-Imhof. | Bandfabrik.\n  | Daniel Heusler-Iselin.\n  | Daniel Heusler-Christ.\n  | Rud. Heusler-Bischoff.\nFreyvogel, E. | Freyvogel-Ramsperger, allein. | Agentur u. Commission.\nFreund, Jos. fils. | Jos. Ant. Freund, allein. | Commission u. Speditn.\nFröhlicher-Fleuriel. | Fröhlicher-Fleuriel, allein. | Mercerie, Bonnetterie u. Gauterie.\nFuchs, J. L. et Comp. | J. L. Fuchs, allein. | Papier-, Kunst-, Schreib-\n  | materialien- u. Tape-\n  | tenhandlung.\nFürstenberger, H. Gg. | Georg Fürstenberger. | Handel mit roh. Wolle.\n  | Paul Simonius, Commanditair.\n  | Wb. Fürstenberger-DeBary.\n  | Aug. Bischoff-Fürstenberger.\n  | Eml. Burckhardt-Fürstenberger.\n  | Alfr. VonderMühl-Fürstenberger.\nGeigy, J. R., u. Heusler, U. | J. R. Geigy-Merian. | Farb-Waarenhandlung en gros.\n  | Abel Heusler.\n  | Wilh. Heusler.\n  | Carl Geigy-Burckorf, Commanditair.\n  | Wb. Elise Heusler-Geigy, Commanditair.\n  | J. Sprenger, Prokuraträger.\nGeigy, Wilhelm et Comp. | W. Geigy, Vater. | Baumwollspinnerei und mech. Weberei.\n  | Carl Weiß, Prokuraträger.\nGemuseus, J. Rud. | Wb. Sal. Gemuseus, geb. Stähelin. | Colonialwaarenhdlg.\n  | Joh. Rud. Gemuseus, Sohn.\n  | Ludw. Aug. Gemuseus.\nGemuseus, C. | Carl Gemuseus-Wüstner, allein. | Manufacturwaarenhdlg.\nGengenbach, G. | Gustav Gengenbach, allein. | Handlung in Rohtabak.\nGeorg, H. | H. Georg, allein. | Verlags- u. Commissionsbuchhandlung.\nGeßler, Rudolf. | Rud. Geßler-Merian, allein. | Spezerei- u. Branntweinhandlung.\nGeßler, Emanuel. | E. Geßler-Pfannenschmied, allein. | Tuchhandlung u. Niederlage v. Peruan'schem Guano.\nGeßler, Andreas. | And. Geßler-Eiber, allein. | Wollwaaren- u. Gauteriehandlung en gros.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8491,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2174,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.53,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:31:09+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p045",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p045.jpg",
+      "bytes": 1344243,
+      "sha256": "051efbc92478f1b2343246ba02bd8cd8945a03bd0eacaedb1b92052378a122b8",
+      "sha256_of": "original",
+      "working_copy": "1862_p045.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:31:09+00:00"
+  }
+}

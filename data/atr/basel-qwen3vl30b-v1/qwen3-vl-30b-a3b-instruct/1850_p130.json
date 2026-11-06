@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p130",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p130.jpg",
+    "bytes": 1195515,
+    "sha256": "5d857eba98ac0d35035df3a3d40328e327d7dc82a29ce394841a0feae933d028",
+    "sha256_of": "original",
+    "working_copy": "1850_p130.jpg"
+  },
+  "text": "117\nNidecker, F. M., Commis 1324 | Ottenburg, Wwe., A. M. 1134\nNörbel, Jof., Verwalter 31 | Otter, Jof., Sattler 579\nHieron., Küfer 664 | Otto, Em., Handelsm. *376\nu. Hoffmann, Compt. 1043 | Pack-Burckhardt, F. 490\nNößlin, Ulr., Weinhdlg. 416 | Palmert, Kaspar, Ferger 844\nNusser, F. M., Med. Dr. 1098 | Panorama-Gebäude 975\nOberer, G., Werkmeister 615 | Passavant u. Comp. 92\nOberlin, Jgfr. Susanna 66 | Th., Pfarrer 384\nObermeyer-Burckhardt 1621 | =Bachofen, Eml. 1209\nOberriedt, F. G. 623 | =Streckeisen, Wittwe 92\nObrecht, F. F., Ferger 1757 | Paravicini-Merian, L. 853\nSchöner, H., Zimmerm. *22 | =Bischer, Rud. 915-16\nDehl, Heinr., Commis *229 | =Battier, Eml. 1435-37\nDehlhafen, F. G., Mecham. 29 | =BonderMühl, Fl. 1435-37\nGottfr., Pastetenbek 124 | u. Schaub, Not.=Bur. 1603\nDhl, F. W., Perückenm. 158 | =Zäslin, Fel., Notar*193-96\nDylinger, Ab. u. Dan. 1708 | Pelletier, Jgfr. Louise 104\nOppermann, K., Flachm. 868 | Pettermand, A. E. 1065\nF. G., Schreiner 1012 | Petri, Eml., Schuhm. 1670\nW., Kunstmaler *383 | Peschel, Karl, Seckler 1754\nOser, W., Amtsdiener 419 | Pern, Paul, Commis 370\nLeonh., Sattler 453 | Pfaff, F. F., Commis 240\nAdam, Färber 739 | Martin, Commis 1058\nJoh. Jak., Schuhm. 1071 | Heinr., Schuhmacher 1129\n=Best, Ed., Zollbeamter 1171 | Joh., Bürstenbinder 1718\n=Müller, L., Lehrer 1204A | Pfander, F., Gastgeber 1444\nRudolf, Thierarzt 1272 | Pfannenschmied, F. F. 251\nRud., Papierfabrik. 1292 | Lukas, Mezger 1578\nWittwe, Katharina 1150 | Wittwe, Mezger 323\n=Thurneisen, Wittwe 1292 | Barb., Schneiderin 1174\n=Falkner, Wwe., Ros. 1327 | Pfister, Jof. Ger.=Weibel 198\nJgfrn. Julie u. Henr. 220 | Ludwig, Gastgeber *246\nOsiander, Stuhlschreiner 1021 | Pfister, Joh., Fabrikauff. 906\nOswald, Gebr., Compt. 126 | Jakob, Hausbedienter 1226\nMatth., Handelsmann 1547 | A., Gastgeber *15\nMichael, Flachmaler 1562 | Pfisterer, N. H., Seckler 1601\nFriedr., Schuhmacher *214 | Pfunder, C. L., Kutscher 1032\nF. Ch., Färber *298 | Philipp, A. Jul., Agent *93\nOtt, Sch., Coiffeur 121 | Piaud, F. B., Dessinat. *335\nMichael, Klavierm. 1373 | Pichioni, L., Phil. Dr. 1594\nFriedr., Schneider 1716 | Plattner, F., Zimmerm. 754\nF. K., Seckler 1736 | Heinrich 807\nF. Chr., Raminfeger 1736 | Wwe., Marie Charl. 1099",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8363,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2226,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p130",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p130.jpg",
+      "bytes": 1195515,
+      "sha256": "5d857eba98ac0d35035df3a3d40328e327d7dc82a29ce394841a0feae933d028",
+      "sha256_of": "original",
+      "working_copy": "1850_p130.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:18+00:00"
+  }
+}

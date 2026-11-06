@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p082",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p082.jpg",
+    "bytes": 979272,
+    "sha256": "e456c7c1537854deac02dfc3cc0acac4fe1e57f83f6978f19bafb6c859c4170a",
+    "sha256_of": "original",
+    "working_copy": "1841_p082.jpg"
+  },
+  "text": "75\nNro.\n366 Roth, Christoph, Zeugschmid.\n367 * Heusler-Thurneisen, Leonhard, Kaufmann,\n368 u. 369 Ebendemselben.\n  Sulger-Heusler, Joh., Kaufmann.\n370 Schneider, J. J., Küfer.\n371 Sutter, Joh. Jakob, Sattler.\n372 Raillard, Peter, Gerber.\n373 Minder, Samuel, Rathsherr.\n374 * Raillard, Peter, Gerber, geh.\n375 Langmesser-Engel, Joh. Ulrich, Sattler.\n\nBei der Rheinbrücke.\n\n376 Vest-Wenk, Joh. Rud. sel., Erben, Wollen- u. Baumwollenhdlg.\n  Vest, Ludwig.\n377 * Schlachthaus.\n378 Lotz, Bernhard, Wirthschaft.\n  Braun-Baumgartner, J., Kaufmann.\n  Hauser, geb. Fäsch, Wittwe.\n\nKrempergasse.\n\n379 * Vest, Ludwig, Sohn.\n  Stockmeyer, Emanuel, Candidat.\n380 Maring, Jakob Friedrich, Knopfmacher.\n381 Leuba, Hieron. Lucas, Uhrenmacher.\n  Jenni, Jak., Ferger.\n382 Glaser, Frau Barbara, gesch. Klingenfuß, Trödlerin.\n383 Oppermann, Wilh., Vater, Schreiner.\n  Riedtmann, J. J., Wirth.\n  Rudin, geb. Tschudi, Näherin.\n384 Trüb, Rudolf, Spezerei- und Tabackhändler.\n  Hofer, Sebastian.\n385 Bödecker, Wilh., Zimmermann.\n386 Bonwiller, Emanuel, Metzger.\n387 Scherb, Rudolf, Schlosser.\n  Raab, J. Rud., Schneider.\n  Thommen, Rud., Sattler.\n388 Weißenburger, Joh., Wundarzt.\n389 Hörler, Joh., Pastetenbäcker.\n  Hörler-Früh, J. J., Sohn.\n390 Lotz, Achilles, Vater, Spezereihändler.\n391 u. 392 Bienz, Rudolf, Wirth und Metzger.\n  Pack, Jakob Christoph, Steinmetz.\n393 Glatz, Joh. Caspar, Spengler.\n394 Eisenlohr, Joh. Chr. sel. Wittwe, geb. Bloch, Spezereihandlg.\n395 Wohnlich, Isaak, Spezereihändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6417,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1481,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:51:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p082",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p082.jpg",
+      "bytes": 979272,
+      "sha256": "e456c7c1537854deac02dfc3cc0acac4fe1e57f83f6978f19bafb6c859c4170a",
+      "sha256_of": "original",
+      "working_copy": "1841_p082.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p046",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p046.jpg",
+    "bytes": 1378312,
+    "sha256": "516de503787a5b7364e6aaf605b58849ee77bbd086fba3509a6a7bd9747cdb0a",
+    "sha256_of": "original",
+    "working_copy": "1862_p046.jpg"
+  },
+  "text": "Ragionenbuch. | XLIII\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nGlock u. Hübscher. | Gustav Glock, Sohn. | Spedition u. Commission.\n  | Friedr. Hübscher-Herzog.\nGnöpff, Karl. | Carl Gnöpff, allein. | Agenturgeschäft für Ge-\n  |  | spinnste.\nGnöpff, Ach. u. Carl. | Gnöpff-Bauer. | Haferhandlung.\n  | Ach. Gnöpff.\nGobat-Monnin. | Gobat-Monnin, allein. | Agenturgeschäft.\n  | Goller-Keller.\nGötz u. Ecklin. | Pet. Wilh. Ecklin. | Seidenbandfabrikation.\n  | Carl Rud. Ecklin.\n  | J. C. Schöck, Commanditair.\n  | F. Siebenmann-Huber, Comman-\n  | ditair.\n  | Fritz Weibel, Prokuraträger.\nGoldfuß, Cl. | Cl. Goldfuß, allein. | Agenturen.\nGreiffenberg u. Probst. | Sam. Probst-Münch, allein. | Consignations- u. Pro-\n  |  | visionshandlung.\nGrether, J. et Comp. | J. Grether-Scholer. | Band- u. Modewaaren.\n  | Samuel Bricard-Schneider's Er-\n  | ben, Commanditair.\nGreuter, Friedr. | Friedr. Greuter-Engel, allein. | Materialwaarenhandlg.\nGröschel, C. | C. Gröschel, allein. | Seidenzwirnerei in Bott-\n  |  | mingen.\nGrunauer, Seb. Vater. | Seb. Grunauer, Vater, allein. | Gesott. Butter en gros\n  |  | et détail, Zündhölzer,\n  |  | Papierlager, Wichse-\n  |  | fabrik, Spezereiwaar.,\n  |  | Insekten- u. Schwa-\n  |  | benpulver.\nGysin, Heinr. | Heinr. Gysin, allein. | Courtier für Verkauf v.\n  | Samuel Gysin. | Liegenschaften u. Ci-\n  |  | garrenhandlung.\nHaas'sche Gießerei. | Otto Stuckert, allein. | Schrift- u. Stereotypen-\n  | François Surgand, Commanditair. | gießerei, Schriftschnei-\n  |  | derei, Anstalt für Gal-\n  |  | vanoplastik, Mechani-\n  |  | sche Werkstätte. Most-\n  |  | ackerstraße 25.\nHäfelfinger, Carl. | Carl Jb. Häfelfinger, allein. | Droguerie. Spalenvor-\n  |  | stadt 17.\nHäfelfinger, Jacob. | Jacob Häfelfinger, allein. | Geldwechsler.\nHäne-Hügin, J. | Jos. Häne-Hügin, allein. | \nHalle-Hoffmann. | Hermann Halle-Hoffmann, allein. | Agenturen, namentlich in\n  |  | Band- u. Seidenwaar.\nHalter, J. J. | Nikl. Halter-Fäsch, allein. | Handlung en gros et\n  |  | détail mit Bettfedern,\n  |  | Pferdehaaren, Wolle\n  |  | u. allen Bettartikeln.\nHandmann, J. J. | J. J. Handmann, allein. | Juwelen-, Gold- u. Sil-\n  |  | berhdlg. m. Fabrikat.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9353,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2185,
+    "lines": 52,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.81,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:31:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p046",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p046.jpg",
+      "bytes": 1378312,
+      "sha256": "516de503787a5b7364e6aaf605b58849ee77bbd086fba3509a6a7bd9747cdb0a",
+      "sha256_of": "original",
+      "working_copy": "1862_p046.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:31:18+00:00"
+  }
+}

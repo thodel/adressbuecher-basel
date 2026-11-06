@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p001",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p001.jpg",
+    "bytes": 1554961,
+    "sha256": "1bd55495a192b45ce1e30a0faff9be55902e6287d870f9183691c763235226d3",
+    "sha256_of": "original",
+    "working_copy": "1862_p001.jpg"
+  },
+  "text": "Neues\n\nNummern- & Adreßbuch\n\nder\n\nStadt Basel.\n\nIm Auftrag einer hohen Regierung herausgegeben.\n\nBasel, 1862.\nVerlag von Otto Stuckert\nMostackerstraße No. 25.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3742,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 158,
+    "lines": 8,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 18.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0127,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p001",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p001.jpg",
+      "bytes": 1554961,
+      "sha256": "1bd55495a192b45ce1e30a0faff9be55902e6287d870f9183691c763235226d3",
+      "sha256_of": "original",
+      "working_copy": "1862_p001.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:20+00:00"
+  }
+}

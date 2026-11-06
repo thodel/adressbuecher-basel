@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p124",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p124.jpg",
+    "bytes": 1192499,
+    "sha256": "8adc9522af602243651b234d0986c2980608c1711556be289f5a7b985ab8b1cc",
+    "sha256_of": "original",
+    "working_copy": "1850_p124.jpg"
+  },
+  "text": "111\n\nKiefer, Jgfr. Anette  275\nKienzy, Patriz., Beck  6\nKindhauser, Johannes  527\nKindweiler, J., Flachm.  1092\nKindwiller, Matth.  *343\nKirchberger, Heinrich  1089\nKircher, J., Klavierlehr.  505\nKirsch, J. B., Mechan.  419\n  J. Ch., Spezereihdlg.  1637\nKissel, Joh., Med. Dr.  83\nKißlig, H., eidg. Beamt.  754I\n  Sam., Schuhmacher  1110\nKlaiber, Andr., Schuhm.  151\nKleimt, Jos., Uhrenm.  152\nKlein, W., Vater u. Sohn  1403\nKleiner, Leonh., Sattler  85\nKleinwitz, Mechanikus  275F\nKlenck, B., Geschäftsm.  112\nKlett, Seb., Fabrikarb.  185\n  Kaspar, Fabrikarb.  529\nKling, Wittwe, Glaser  1087\n  Melchior, Ferger  1672\n  -Keller, J. J., Zoller  *272\n  -Weiß, Maria  1155\nKlingelfuß, Ed., Tabackl.  1076\n  Sperrer  1276\n  Lukas, Seiler  1555\n  Kath., Wittwe  1157\n  -Langmesser, Wwe., J.  1506\n  Jgfr., B. M.  888\nKlipsel, Hch., Weinhdlg.  15-16\n  Martin, Weinhdlg.  754BC\nKnecht, B., Rechnungsf.  677\nKnellwolf-Keller, Wwe.  690\n  Wittwe, Kosthaus  1108\nKnickmeyer, Phil.  1664\nKnop, E., Musik.-Hdlg.  1547\nKnopf, J. J., Weinsch.  150\nKober, Andr., Maurer  400\nKoch, Karl, Dessinateur  191\n  Joh., Buchdrucker  697\n  Joh., Commis  1566\n  u. Ostermann, Lingerie  1566\n[spalte 2]\nKocherhans, J., Magazinier  21\nKöchlin-Burckhardt, Sam.  24\n  -Geigy, Alph., Bandf.  919\n  u. Söhne, Bandf.  1006G\n  Heinr., Gypser  1174\n  J. H., Uhrenmacher  1174\n  -Thurneysen, Frau  267A\nKöhler, K., Fabrikarb.  *24\nKolb, E. Ch.  *273B\nKöllner, R., Geschäftsm.  *94\nKraften, Hch., Stuhlschr.  *117\nKramer, J., Kaufhausarb.  878\n  Andr., Ferger  *286\nKrauer-Treu, R., Müller  1304\n  -Köchlin, Wwe., M.  1439\nKraus, B., Mechaniker  1331\n  -Gamper, Wittwe  *305\nKray-Löliger, Wwe. M.  *267\nKrayer, Em., Bestäter  937A\n  Sam., Unterbest.  1045B\n  Christ., Fabrikarb.  1683\nKrebs, Joh., Maler  363A\n  Hier., Schuhmacher  *37\nKromer, Dav., Siegrist  1500\n  J. P., Schuhmacher  1744\n  Emanuel, Metzger  *186\nKrug, M., Buchbinder  668\n  Hieron., Thorzoller  999\n  Wilh., Hutmacher  1551\n  Johann, Archivar  1611\nKruse, Fch., Schreiner  588\nKübler-Grey, Wwe., K.  951\n  -Uebelin, Wwe., Kübler  1133\nKühl, Kasp., Commis  *131\nKuhn, Dav., Zimmerm.  971A\nKühn, J. J., Schuhm.  958\n  J., Tabackhandlung  1589\n  -Weiß, Wittwe  675\nKummer, Konr., Liseur  649\n  J. K., Rathsnbote  1656-57\n  Wwe., Schreiner  547ABC\nKundert, Wwe., Anna  *85\nKündig, Philipp, Beck  28",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10149,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2330,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 24.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:20:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p124",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p124.jpg",
+      "bytes": 1192499,
+      "sha256": "8adc9522af602243651b234d0986c2980608c1711556be289f5a7b985ab8b1cc",
+      "sha256_of": "original",
+      "working_copy": "1850_p124.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:25+00:00"
+  }
+}

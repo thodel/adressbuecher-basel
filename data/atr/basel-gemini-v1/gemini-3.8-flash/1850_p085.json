@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p085",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p085.jpg",
+    "bytes": 952508,
+    "sha256": "499c54b329aceeb6d428748e3277cc082320ec4cd7fbb393d29176e5f10a2d9e",
+    "sha256_of": "original",
+    "working_copy": "1850_p085.jpg"
+  },
+  "text": "72 Stadt-Quartier.\n\n1608 Silbernagel, Joh. Jak., Weinschenk.\n  Göttisheim, Fch., Handlungsdiener.\n1609 Georg, Joh. Jak., Ausschnitthandlung.\n  Fäsch-Süß, Joh. Jak., Rentier.\n1610 Comptoir von Gysler, Ludwig, Bandfabrik.\n\nMarkt.\n\n1611 (Das Rathhaus) Obrigkeitlich.\n  Krug, Johann, Archivar.\n1612 Gysin, Ludwig, Tuchhandlung.\n  Maring, Eml., Rentier.\n1613 Stähelin-Christ, Balth., Eisenhandlung.\n1614 Merian-Bister, Eml. Heinr., Wollenwaarenhandlg.\n1615 Wortmann, Wittwe Barbara, Ellenwaarenhandlg.\n  Wortmann, H., Buchbinder. (Werkst. in Nr. 1172.)\n1616 (Zunft zu Weinleuten) Respinger-Isenegger, Friedr.\n  Holzach, F. E., Spielwaarenhandlung.\n1617 Seiler, Leonh., Wollen- u. Leintuchhandlung.\n  Blanc, David, Commis.\n  Meyenrock, Schwestern, Rentières.\n1618 Massini-Seiler, Rudolf, Commis.\n  Wierz-Braun, E., Lingerie et nouveautés.\n\nUntere freie Straße.\n\n1619 Holzbacher-Merian, F. G., Apotheker.\n1620 Fäsch, Frau Sophie, Kostgeberin u. Schirmhandel.\n1621 Bloch, Peter, Seiler.\n  Obermeyer, Burkhardt, Rentier.\n1622 Mast, F. J., Buchdrucker.\n  Bloch, Eucharius, Zuckerbeck.\n1623 Weidmann, Jgfr. Em., Ellenwaaren- und Bett-\n  federnhandlung.\n  Sprünglin, Jgfr., Partikularin.\n1624 Kachel, Lukas Heinrich, Metzger.\n  Frey, Chrstf., Abw. am Stempelbureau.\n  Meyer, Karl u. Ulrich, Spielwaarenhandlung.\n1625 Heitz, Bernhard, Drechsler.\n  Rosenfeld, Ed., Zeichnungslehrer.\n1626 Langmesser, F. J., jünger, Sattler.\n  Lüssy, F. J., Tabackhändler. (Verkaufslokal in\n  Nr. 1444.)\n  Münch, A., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8677,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1492,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:15:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p085",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p085.jpg",
+      "bytes": 952508,
+      "sha256": "499c54b329aceeb6d428748e3277cc082320ec4cd7fbb393d29176e5f10a2d9e",
+      "sha256_of": "original",
+      "working_copy": "1850_p085.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:14+00:00"
+  }
+}

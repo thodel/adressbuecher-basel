@@ -1,0 +1,47 @@
+LXII Berichtigungen, Handänderungen und Neubauten.
+Seite. | Straße. | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.
+---|---|---|---|---|---
+159 | Todtengäßlein. | einschalt. | 15 | II | 556 a | Linder-Hopf, Joh. Jacob.
+160 | Todtentanz. | lies | 18 | I | 71 b | Hjelin-LaRoche, Joh. Jacob.
+| | | 19 | I | | Staats (franz. Kirche).
+161 | Wallstraße. | " | 5 | IV | 898 D | Bussinger-Schlag, F.
+| | " | einschalt. | 11 | IV | | Kaiser, August, Schreiner.
+| | " | lies | 12 | IV | | Nippert-Lindemann, Ludwig (Method. Bethaus).
+| | " | " | 14 | IV | | Riggensbach-Huber, Charlotte.
+| | " | einschalt. | 16 | IV | 899 A | Kaltenmeyer-Kircher, F.
+161 | Wallstraße. | lies | 26 ft. 24 | IV | 899 F | Schäublin-Bögtlin, Joh. Jac.
+| | Weidengasse. | einschalt. | 39 | V | 314 | Aukmaul-Schlack, Michael.
+162 | | " | lies | 28 | V | 316 | Bretscher-Schöllkopf, Joh. sel. Erb.
+| | " | " | 32 | V | 315 | Hediger-Weber, Hans Rud.
+| | " | " | 2 u. 4 | VII | 324 | Christen-Rieder, Matth.
+164 | Badergäßlein. | " | 31 | VII | 82 A | Rühlin, Georg. Bertrand, Joseph.
+165 | Bahnhofstraße. | " | 48 | VII | 77 F | Frey-Frey, Alois, Maurer.
+166 | hint. Bahnhof. | " | 5 | VIII | | Staats (Clara-Kirche).
+168 | St. Clara-Platz | " | | | | 
+St. Clara-Straße. Nr. 2, 4, 6 in's Riehenquart. (VIII) statt Bläsiquart. (VII) zu sezen.
+169 | St. Clarastraße. | lies | 15 | VII | | Schaffner, Johann Jacob.
+171 | Fabrikstraße. | " | 35 | VII | 86 H | Schorle, Otto.
+172 | Greifengasse. | " | 15 | VII | 393 | Meyer, Johan., Seidenfärbcr (zum Schönau).
+173 | " | " | 23 | VII | 234 | Erni-Handschin, Joh. Fried., Metzger (z. rothen Fichhorn).
+175 | Grenzacher-Straße. | " | 45 | VIII | 50 d | Merian-Thurneyssen, Alfred.
+176 | " | " | 105 | VIII | 81 | Zedler, Ludwig (z. Kant).
+177 | Die Num. 25, 27 bis 59 in's Bläsiquart. (VII) statt Riehenquart. (VIII) zu sezen.
+181 | Klingenthalgraben. | " | 2 | VII | 1 d | Loz-Bricar, Hieronimus.
+182 | Klingenthalstr. | " | 39 | VII | 82 E | Märky-Kujer, Carl.
+| | " | " | 45 | VII | | Jenny, Johannes.
+| | Alybeckstraße. | " | 1 | VII | 1 | Loz-Bricar, Hieronimus.
+| | " | einschalt. | 7—9 | VII | | Minder-Zäslin, Anna Catharina.
+183 | | " | 68 | VII | | Koch-Seiger, Christian.
+191 | Unt. Rebgaſse. | lies | 5 | VIII | 211 | Bertrand, Josef.
+192 | | " | 17 | VII | 249 A | Braun, Andr. de Samuel.
+194 | Rheingasse. | " | 38 | VIII | 50 | Weber, Jacob, Magazinier.
+197 | Unt. Rheingasse sämmtl. Num. in's Bläsiquart. (VII) statt Riehenquart. (VIII) zu sezen.
+| Unt. Rheingasse | lies | 5 | VII | 373 | Engelmann-Lang, Christ., Apothek.
+198 | Ob. Rheinweg. | einschalt. | 12 | VII | 358 b | Merian, Amadeus.
+| | " | " | 92 | VIII | 93 a | LaRoche, Emanuel, Sohn.
+| | " | lies | 94 | VIII | 93 | LaRoche, Emanuel, Sohn.
+| | " | " | 96 | VIII | 112 A | LaRoche, Emanuel, Sohn.
+Unt. Rheinweg No. 20, 25, 32 u. 33 in's Bläsiquart. (VII) statt Riehenquart. (VIII) zu sezen.
+205 | Utengasse. | lies | 1 | VIII | 238 | Baumgartner, Franz, Schneidemeister (Sternenecf).
+206 | | " | 26 | VIII | 412 | Eingang zu Nr. 27 Rheingasse.
+209 | Webergasse. | " | 24 | VII | 295 | Hinden, Conrad, Polizeimann.

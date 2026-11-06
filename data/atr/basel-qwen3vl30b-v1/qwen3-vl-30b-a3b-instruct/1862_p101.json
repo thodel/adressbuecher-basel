@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p101",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p101.jpg",
+    "bytes": 1290094,
+    "sha256": "40e2f1abd64d9969aed78e801b51304a6572d73f4e3c7acdfad361d2a5e1ee88",
+    "sha256_of": "original",
+    "working_copy": "1862_p101.jpg"
+  },
+  "text": "36\nEisengasse. — St. Elisabethen Straße.\nNro. | Quarti-er. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n25 | VI. | 1599 | zum Pilgerstab. | Bonder Mühl=Kyhiner, Johannes. Bonder Mühl=Kyhiner, Joh., Kaufm.\n26 | VI. | 1546 | z. schwarzen Helm. | Bolliger=Miville, Johannes. Bolliger=Miville, Johannes, Handelsm. Wild, Johannes, Handelsmann. Gekner, Arnold, Zollbeamter.\n28 | VI. | 1547—48 | zum ob. Thor und Rückenberg, zum ob. Kronenberg. | Hoch=Schneider, J. Lukas. Hoch=Schneider, J. Lukas, Kaufmann. Schneider=Bed, Julius, J. U. D., Ap-pellationsgerichtschreiber.\n32 | VI. | 1549 | z. unt. Kronenberg. | Kieber=Heller, Carl. Kieber=Heller, Carl, Kaufmann. Heller=Spreyermann, Heinrich, Kaufm. Merceriehandl. d. Firma Carl Kieber.\n36 | VI. | 1551 | zum Rosenstod. | Krug=Bader, Wilhelm. Krug=Bader, Wilhelm, Hutmacher. Gekler, Igsrn. Suf. u. Kath., Modistes.\n38 | VI. | 1552 | zum Rehstein. | Bachofen=Fininger, Sam., eidg. Oberst. Stierlin, Emanuel, Wollwaaren- und Blutegelhandlung.\nSt. Elisabethen Straße.\n1 | IV. | 938 | zum Lichteneck. | Burchhardt=Jfelin, Hieronimus. Märklin=Huber, Peter Eucharius.\n2 | IV. | 930 | zur Pide. | Märklin=Huber, Pet. Euchar., Ferger. Zimmermann=Kloz, Joseph, Bäcker. Borst=Schluep, August, Commis.\n3 | IV. | 923 | z. goldenen Löwen. | Dobler=Burchhardt, Jgf. Burchhardt. Schlatter, Heinrich, Kutscher.\n4 | IV. | 929 | | Burchhardt, Rosina. Burchhardt, Rosina, Rentiere. Burchhardt, Georg, Rentier.\n5 | IV. | 922 | zum Winfeli. | Baur=Baader, Georg. Baur=Baader, Georg, Comptoirist.\n6 | IV. | 928 | zur Haselburg. | Burchhardt=BonderMühl, Wittwe Anna Cathar. Burchhardt=BonderMühl, Wb. An. Cath. Horner=Stehelin, Friedrich. Horner=Stehelin, Friedrich, Kunstmaler. Horner, Joh. Niklaus, Stempelbeamter.\n7 | IV. | 921 | | Wölfflin=Kok, Dietrich Wilhelm. Wölfflin=Kok, Dietrich Wilh., Kaufm. Mosley, Henry, Sprachlehrer.\n8 | IV. | 927 | | Jung, Karl Gustav. Jung, Karl Gustav, Med. Dr. u. Prof. Staat.\n9 | IV. | 920 | zum Zwinger. | Montfort, Joseph. Montfort, Jof., Tuchhandlung en gros, Firma: Montfort u. Labhardt. Best=Brenner, Hieronimus, Alt-Crimi-nalgerichtschreiber, Rentier.\n10 | IV. | 926 | Kirche. |\n11 | IV. | 919 | der kleine Guthof. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7096,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2215,
+    "lines": 21,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 104.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:33:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p101",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p101.jpg",
+      "bytes": 1290094,
+      "sha256": "40e2f1abd64d9969aed78e801b51304a6572d73f4e3c7acdfad361d2a5e1ee88",
+      "sha256_of": "original",
+      "working_copy": "1862_p101.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:13+00:00"
+  }
+}

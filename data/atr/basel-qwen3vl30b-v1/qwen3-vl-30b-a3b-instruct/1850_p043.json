@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p043",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p043.jpg",
+    "bytes": 1008703,
+    "sha256": "ac71971b46368f253cd2827b080db6f664beb86909aa4bdf2ad681d231d091fc",
+    "sha256_of": "original",
+    "working_copy": "1850_p043.jpg"
+  },
+  "text": "30 Steinen=Quartier.\nHinteres Gerbergässlein.\n676 Leuzy, Steinhauer.\n677 Schenk, Georg, Lohnwäscher.\n  Knecht, B., Rechnungslehrer.\n678 Buser, Jakob, Schneider.\n679 Möschinger=Boos, Wittwe, Lohnwäscherin.\n680 Faust, Sch., Bauamtarbeiter.\n681 Weiß, Ch. H., Schneider und Brieftträger.\n682 Kunz, Seb., Fabrikarbeiter.\n683 Hoch, Joh.\nStapfelberg.\n684 Imhof, Joh. Fr., Buchbinder und Lohnwäscher.\n685 Böhler, Nepomuk, Zimmergesell.\n686 Raab, Rudolf, Schneider. [handschriftlich: gestrichen]\nSt. Leonhardsberg.\n687 Zmmler, Schreiner.\nA 687 Müller, Christoph, Hasner.\n688 Puppikoser, Leonhard, Fabrikarbeiter.\n  Puppikoser, Rudolf, Buchbinder.\n689 Simmler, Sch., Fabrikarbeiter.\n690 Knellwolf-Keller, Wittwe.\nBei St. Leonhard.\n691 Hagenbach-Geigy, K. N., Theol. Dr. und Professor.\n692 Ruster, Johann Franz, Spezierer.\nAuf dem Kirchhof.\n693 Bruckner, Abraham, Diacon bei St. Leonhard.\n  Bruckner, Ed., Architekt.\nA 693 Respinger, J. N., Diacon.\n694 Fischer, Emanuel, Siegrist bei St. Leonhard.\n695 (Lohnhof) löbl. Polizeibureau.\n  Möcklin, Rudolf, Gefangenwärter.\nSt. Leonhardsberg.\n696 Merker, Karl, Bergolder.\n697 Koch, Johannes, Buchdrucker.\n698 Ufermann, Barb., Kleinkinderschule.\n699 Basler=Grunauer, Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4007,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1206,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 31.41,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p043",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p043.jpg",
+      "bytes": 1008703,
+      "sha256": "ac71971b46368f253cd2827b080db6f664beb86909aa4bdf2ad681d231d091fc",
+      "sha256_of": "original",
+      "working_copy": "1850_p043.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:29+00:00"
+  }
+}

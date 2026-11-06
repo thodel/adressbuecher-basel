@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p013",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p013.jpg",
+    "bytes": 1267792,
+    "sha256": "8731143b1ce8ab2bd5a556411c4bda3675ff7ef60c980c9c0fffb4d25e24100e",
+    "sha256_of": "original",
+    "working_copy": "1862_p013.jpg"
+  },
+  "text": "X\tBehörden und Beamte.\n\nHr. Prof. Ignaz Hoppe, M. et Ch. D.\n„ Bernhard Rumpf, M. et Ch. D.\n„ Prof. Wilh. His, M. et Ch. D.\n„ Christian Grimm, M. et Ch. D.\n„ Prof. Ludw. Rütimeyer, M. et Ch. D.\n„ Gust. Bernoulli, M. et Ch. D.\n„ Alfred Stähelin, M. et Ch. D.\n„ Theophil Bruckner, M. et Ch. D.\n„ Hermann Haagen, M. et Ch. D.\n„ Christoph Aeby, M. et Ch. D.\n„ Ludwig Widmann, M. et Ch. D.\n„ Aug. Socin, M. et Ch. D.\n„ Friedrich Müller, M. et Ch. D.\n„ Gottlieb Burckhardt, M. et Ch. D.\n„ Albert Siegrist, M. et Ch. D.\n„ H. Schieß, M. et Ch. D.\n„ Arnold Rosenburger, M. et Ch. D.\n„ J. A. Schaub, Ch. D. et M. L., in\n  Riehen.\n„ J. J. Weißenberger, Ch. et M. L.\n  in Riehen.\n\nWundärzte.\nHr. Daniel Rumpf.\n„ Lucas Treu.\n„ Xaver Schmid.\n\nZahnärzte.\nHr. David Rittmann.\n„ W. Sester.\n„ E. Siegmund, Sohn.\n„ Alphons Cartier.\n„ Carl August Sievers.\n„ Jakob Stohler.\n„ Ch. S. Putnam.\n\nThierärzte.\nHr. Friedrich Meyer.\n„ Rudolf Ofer.\n„ Achilles Gnöpf.\n„ Emanuel Eglinger.\n\nApotheker.\nHr. Jakob Huber.\n„ Emil Kellermann.\n„ Heinrich Naumann.\n„ Carl Betulius.\n„ Wilhelm Rinck.\n„ Ferdinand Thamm, Provisor der\n  Wettsteinischen Apotheke.\n„ , Spitalapotheker.\n„ Markus Meisner.\n„ Fr. Geiger, Dr. phil.\n\n[spalte 2]\nPatentiert ohne Apotheken.\nHr. J. J. Bernoulli, Ph. Dr.\n„ Friedrich Hagenbach.\n„ J. Christian Kellermann, Vater.\n„ Emanuel Merian.\n„ Johannes Wimmer.\n„ August Riggenbach.\n„ Georg Rauch.\n„ Jonathan Hoch.\n„ Carl Bulacher, Ph. Dr.\n„ Joh. Jak. Mieg.\n\nHebammmen.\nFrau M. M. Gysin.\n„ Verena Baur.\n„ Catharina Hindenlang.\n„ Friederike Elsner.\n„ Catharina Dubois.\n„ Helena Falkner.\n„ Lienhardt-Hänger.\n„ Maria Kleinwitz.\n„ Elise Taschner.\n„ A. M. Christen-Mangold.\nCatharina Hug.\nMagd. Flubacher.\n\nd. Vom Sanitätskollegium ernann-\nter Schaumeister.\nHr. Thierarzt Rudolf Ofer.\n\nFleischschauer.\nHr. J. Strübin.\n„ L. Pfannenschmied.\n\ne. Wasenmeister.\nHr. Thierarzt Friedrich Meyer.\n\nf. Oeffentlicher Chemiker.\nHr. Friedr. Goppelsröder, Ph. Dr.\n\nX. B. Sanitätsausschuß.\nHr. Rathsherr J. J. ImHof, Präsident.\n\nMarktherren.\n\nAuf dem Kraut-, Obst-, Anken-, Fisch-\nu. Holzmarkt.\nHr. Ludwig Linder-Engressat, Präsident.\n„ J. J. Steinmann.\n„ Rud. Schuler.\n„ Peter Thurneysen, Drechsler.\n\nAuf dem Viehmarkt.\nHr. Balth. Fischer, Präsident.\n„ Mark. Krug.\n„ Philipp Kehlstadt, Vater.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9655,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2254,
+    "lines": 98,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 21.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:26:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p013",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p013.jpg",
+      "bytes": 1267792,
+      "sha256": "8731143b1ce8ab2bd5a556411c4bda3675ff7ef60c980c9c0fffb4d25e24100e",
+      "sha256_of": "original",
+      "working_copy": "1862_p013.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:14+00:00"
+  }
+}

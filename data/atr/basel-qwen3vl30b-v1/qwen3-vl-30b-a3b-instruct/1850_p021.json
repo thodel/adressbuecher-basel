@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p021",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p021.jpg",
+    "bytes": 1100626,
+    "sha256": "7aec67cbb656bdd321a5f40c88138179ba92402dee0830aede2cfcb4ca3dd4f7",
+    "sha256_of": "original",
+    "working_copy": "1850_p021.jpg"
+  },
+  "text": "St. Johann=Quartier. 11\nKirchgässlein.\n239 Borst, August, Schneider.\n240 Frutiger=Hägler, Wittwe.\nPfaff, F. F., Commis.\n241 Burckhardt, Leonhard, Wittwe, Flachmaler.\nA 242 Falkner, Geschwister, Wilhelm, Ludwig u. Louise.\nB 242 Merian-Legrand, Peter, Handelsmann.\n243 LaRoche, Sim. Emanuel, Pfarrer bei St. Peter.\nRaltkellergässlein.\n241 Miville=Miville, F. F., Diacon bei St. Peter.\n245 Senn=Geist, Friedrich, Commis.\nBei St. Peter.\n246 Eglinger, Jungfrau Sus., Kapitalistin.\n247 Lok, Christian, Sohn, Schneider.\nSt. Petersplaz.\nB 247 Fäsch=Jäcklin, F. F., Sohn, J. U. D., Notarius,\nSpitalverwalter.\nSchmid=Awengen, F., Kaufmann.\n248 Mattmüller, Georg, Kutscher.\n249 Werthemann, Wittwe A. Cath. geb. Burckhardt, Rent.\nNeue Vorstadt.\nB 249 Merian=Merian, Balth., Kaufmann.\nSchneider, Eml., Dr. J. Rathschreiber.\nAntiquariat von F. Meyri.\nBernoulli, Carl, Lehrer.\nSt. Petersplaz.\n250 Fselin=Fselin, Abr., Hypotheken-Verwalter.\n251 Pfannenschmied, F. F., Bergolder.\nA 251 Hörler, Franz, Lehrer.\nReitner, Fanny, Wittwe, Rentière.\nFselin, Remigius, Kunstmaler.\nB 251 Fäsch, Joh. von Johann, Kanzlist.\n252 Holzmüller, A., gehörend.\nA 253 Herrsperger, Jungfrau, Elisabetha.\nHerrsperger, Jungfrau, Barb.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3990,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1195,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 32.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p021",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p021.jpg",
+      "bytes": 1100626,
+      "sha256": "7aec67cbb656bdd321a5f40c88138179ba92402dee0830aede2cfcb4ca3dd4f7",
+      "sha256_of": "original",
+      "working_copy": "1850_p021.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:05+00:00"
+  }
+}

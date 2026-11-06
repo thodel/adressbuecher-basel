@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p108",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p108.jpg",
+    "bytes": 1112392,
+    "sha256": "69b92b8800d07b19c11d884759ab562ac2bf905c0617822da574cec305c3e6be",
+    "sha256_of": "original",
+    "working_copy": "1850_p108.jpg"
+  },
+  "text": "Riehen = Quartier. 95\n436 Müller, Joh., Färber.\n437 Grundeler, Jak. Christ., Schlosser.\n438 Schneider, Jak., Schreiner.\n439 Hug, Joh. Jak., von Zysen, Maurer.\nVerzeichniß der vor den Thoren liegenden industriellen\nund gewerblichen Etablissements.\nSt. Johannthor Nr. 20 Meyer, Karl, Bierbrauerei und\nWirthschaft.\nSpahlenthor \" 145 Rech, zum Mostacker, Wirthschaft.\n\" 173 Hertner, Schüzenwirth.\nSteinenthor \" 158 Schlöth, Gebrüder, Schlosser u.\nOfenfabrikanten.\n\" 182 Weitnauer, Friedr., Fournierfäge.\n\" 184 Holinger, F., Tabackmühle.\n\" 185 Thurneyßen, Ed., Papierfabrike.\n\" 186 Burkhardt, Frz., Mechaniker.\nAeschenthor \" 212 Merian & Eckenstein, Bierwirthsch.\n\" A215 Harder, A., Mechaniker.\n\" 222 Botanischer Garten.\n\" 232 Sommer-Casino. Trefzger, Trait.\n\" A239 Kron & Brändlin, Bierbrauerei\nund Wirthschaft.\n\" 252 Knutty & Comp., Holz-, Kohlen-\nu. Steinkohlenhandlung.\n\" 256 Merian, Eml., Bierbrauerei und\nWirthschaft.\nSt. Albanthor \" 278 Müller, P., Walker in St. Jakob.\n\" 313 Stehlin, F. F., Säge.\n\" 332 Heukler-Fatio, Bleicher.\nRiechenthor \" 1 Richter-Linder, F. F., Bandfabr.\n\" 7 Bürgin, Sch., Wirthschaft, Bad-\nu. Waschanstalt.\n\" 8 Obrigkeittliche Säge.\n\" 38 Uffal, chemisches Laboratorium.\n\" 39 Öswald & Comp., Bandfabrikant.\n\" 80 Begle, Ziegel- u. Kalkbrennerei.\nBläsythor \" 58 Klybeck. Marmorfäge v. Dizerens.\nZiegelbrennerei von Wittwe Heim-\nlicher.\n\" 80 Götz & Ecklin, Bandfabrikant.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4726,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1393,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 33.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p108",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p108.jpg",
+      "bytes": 1112392,
+      "sha256": "69b92b8800d07b19c11d884759ab562ac2bf905c0617822da574cec305c3e6be",
+      "sha256_of": "original",
+      "working_copy": "1850_p108.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:15+00:00"
+  }
+}

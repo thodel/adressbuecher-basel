@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p066",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p066.jpg",
+    "bytes": 1516422,
+    "sha256": "f7589e9df12fe3315043ec3516dbdab68247fe915e02df2a0000bdf235097ab1",
+    "sha256_of": "original",
+    "working_copy": "1862_p066.jpg"
+  },
+  "text": "Verzeichniß\nder Quartiere mit den Straßen und Hausnummern.\n\nI. St. Johann-Quartier.\nII. Spalen-Quartier.\nIII. Steinen-Quartier.\nIV. Neften-Quartier.\nV. St. Alban-Quartier.\nVI. Stadt-Quartier.\nVII. Bläsi-Quartier.\nVIII. Riehen-Quartier.\n\nNB. Diejenigen Straßen, bei welchen keine Hausnummern angegeben find, liegen ganz in dem betreffenden Quartier.\n\nI. St. Johann-Quartier.\nBlumenrain Nro. 1, 3, 5, 6 u. folg.\nBurgfelder-Straße rechts 6, 12, 16 und 20.\nIm Davidsboden.\nDavidsgasse.\nElsässer-Straße.\nFischmarkt von Nro. 9 bis und mit 14.\nGasstraße.\nHerbergsgasse.\nSt. Johann-Kingweg.\nJohanniterstraße.\nSt. Johann-Vorstadt.\nKlingelbergstraße.\nKellergäßlein.\nMissionsstraße rechts Nro. 2 u. folg.\nMittlere Straße.\nNeue Vorstadt.\nSt. Peters-Berg.\nSt. Peters-Gasse.\nSt. Peters-Graben Nro. 1 bis und mit 24.\nSt. Peters-Platz Nro. 7 bis und mit 20.\nSt. Peterskirchplatz Nro. 1, 2, 3, 7 bis\nund mit 14.\nSchanzengasse.\nSchwanengasse, rechts 2, 4 bis und mit 20.\nSpiegelgasse.\nSpitalstraße.\nHintere Spitalgasse.\nStadthausgasse, links Nro. 13 bis u. mit 25.\nTodtengäßlein, rechts.\nTodtentanz.\n\nII. Spalen-Quartier.\nAllschwyler Straße.\nSt. Andreasplatz.\nAustraße Nro. 71.\nBirmanngasse.\nBurgfelder, Straße, links.\nGemsberg rechts Nro. 2, 4, 6 und 8.\nHägenheimer Straße.\nHeuberg, rechts Nro. 2 bis u. mit 50, links\nNro. 1 bis und mit 11.\nImbergäßlein.\nSt. Leonhards-Graben.\nSt. Leonhardskirchplatz Nro. 1.\nSt. Leonhards-Straße, rechts v. Nro. 2 bis 20\nu. v. d. Schlienzennattftr. bis Birmanngasse.\nMissionsstraße, links Nro. 1 bis u. mit 63.\nMadelberg.\nNeubadstraße, rechts oder Westseite.\nNonnenweg.\nSt. Peters-Graben, links und rechts Nr. 27\nbis und mit 55.\nSt. Peterskirchplatz Nro. 5 und 6.\nSt. Peters-Platz, Nro. 1, 2, 3, 4, 5 u. 6.\nPlatzgäßlein, links Nro. 1 bis und mit 17.\nRozhofgasse.\nSchneidergasse, rechts Nro. 2 bis u. mit 34.\nSchlienzengasse, rechts Nro. 10 und 12.\nSchlienzengraben, rechts Nro. 2 bis u. mit 46,\nlinks Nro. 7 bis 19 u. 35 bis u. mit 45.\nSchlienzennattstraße, rechts Nro. 2 bis u. mit 58,\nlinks Nro. 1 bis und mit 23.\nSpalenberg, links Nro. 23 bis u. mit 65,\nrechts Nro. 2 bis und mit 62.\nSpalenringweg.\nSpalenthornweg.\nSpalenvorstadt.\nSteinengraben, links Nro. 1 und 3.\nSteinenmillerweg, Nro. 10 und 12.\nStiftsgasse.\nTodtengäßlein, links Nro 1 bis und mit 15.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7555,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2275,
+    "lines": 82,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 26.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:28:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p066",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p066.jpg",
+      "bytes": 1516422,
+      "sha256": "f7589e9df12fe3315043ec3516dbdab68247fe915e02df2a0000bdf235097ab1",
+      "sha256_of": "original",
+      "working_copy": "1862_p066.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:19+00:00"
+  }
+}

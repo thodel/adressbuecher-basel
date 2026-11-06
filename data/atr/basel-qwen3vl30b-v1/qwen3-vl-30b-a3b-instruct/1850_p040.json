@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p040",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p040.jpg",
+    "bytes": 1100082,
+    "sha256": "55e2311194add0bd786916d8122c1a75883ba81d8aeeff9d47d7e27f5b516a63",
+    "sha256_of": "original",
+    "working_copy": "1850_p040.jpg"
+  },
+  "text": "Steinen=Quartier.\n27\nSteinen=Quartier.\nSchnabelgässlein.\n611 Schimpf, Andreas, Kunstmaler.\nWitt, Friedrich, Posamentirer.\nFischer, Sch., Sohn, Küfer.\nWüst, Leonard, Schreiner.\n612 Fischer, F. H., Küfer und Essigfieder.\nHinter der Kümmelinsmühle.\n613 Schneider-Meyer, Wittwe, Mehlhdlg.\nSchneider, F. F., Maler.\nSchneider, Franz, Sohn, Griesser.\n614 Brüninger, Emanuel, Trödler.\n615 Oberer, Sebastian, Werkmeister.\nMeyer, Nikl., Seidenfärber.\n616 Stöcklin, Joh. Ulr., Zettlermeister.\n617 Langmeffer, Elisabetha, geb. Gruber.\n618 Brüninger, Rudolf, Küfer.\n619 Merian, Gustav, Bierbrauer.\n620 Morin, Wittwe, Kostgeberin, Mehlhandlung.\n621 (Kümmelinsmühle) Lippe, Geschwister.\nSeifert, Sch., Müller.\nGrünpfahlgässlein.\n622 Landerer, Frau Ester.\nNäf, Frau Magdalena, Geschirrhandlung.\n623 Oberriedt, Joh. Georg., Spezerei-, Commissions-\nund Speditionshdlg.\nObrigkeitliches Stempelbureau.\n624 Kehlstadt, Joh. Philipp, Tapezierer.\nGötz, Wilhelm, Modehandlung.\nGerbergässlein.\n625-26 Hübscher, Rud., Eisenbahnbeamter.\nJordan, F. F., Spezereihandlung.\n627 Müller, Wilhelm, Posamentier.\n628 (Badanstalt) Sigmund, Benj., Med. et Chir. Dr.\nZahnarzt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3793,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1136,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 29.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p040",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p040.jpg",
+      "bytes": 1100082,
+      "sha256": "55e2311194add0bd786916d8122c1a75883ba81d8aeeff9d47d7e27f5b516a63",
+      "sha256_of": "original",
+      "working_copy": "1850_p040.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:16+00:00"
+  }
+}

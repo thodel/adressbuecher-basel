@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p010",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p010.jpg",
+    "bytes": 965443,
+    "sha256": "3eff7a5b4dabf043f51ad6519f372317dd47acd04f69d90d7a488c7672863d81",
+    "sha256_of": "original",
+    "working_copy": "1841_p010.jpg"
+  },
+  "text": "Nro.\n51 Burckhardt, Rud., Bandfabrikant.\n52 * Preiswerk=Forkart.\n    Spik, Leonh., Hausknecht.\n53 Preiswerk, Lukas, Bandfabrikant.\n54 Brand, Jsaak, Gerichtsherr.\n55 Würz, Karl Aug., Nadler.\n56 Düring, Jungfer, Elisabetha.\n    Uz, Joh. Fr., Fabrikarbeiter.\n    Roth, Jsaak, Comptorist.\n57 Glasen-Herzog, S. Beck.\n    Frei, Wittwe, geb. Gyff.\n58 Thurneisen=Jäsch, Wittwe.\n    Thurneisen-Paravicini, Emil, Kaufmann.\n59 Lok=Wick, Samuel, Kaufmann.\n60 Basler=Bernoulli, Joh., Kaufmann.\n61 Müller=Haufer, J. J., Seidenfärbcr.\n62 Riggcnbacher, Joh. Jak., Beck.\n    Hasler, Seb., Posamentier, Fabrikausseher.\n63 Preiswerk, Nikl. Peter, und Sara, Geschwister.\n64 a Ryhiner, Samuel, Appellations=Gerichts=Präsident.\n64 b Ryhiner, Peter, Rentier.\n65 Buser, Fr., Kaufmann.\n    Buser, Samuel.\n66 Oberlin, Anna Maria.\n67 Burckhardt=Gyfin fel. Wittwe, Rent.\n    Burckhardt, August, Appellationsgerichts=Schreiber.\n68 Schmidt, Peter, Beck.\n    Dhl, Georg Michael, Beck.\n69 Scholp, Rud., Spezereihändler.\n70 Jfelin=De Bary, Rud., Kaufmann.\n71 Jfelin=Laroche, J. J., Kaufmann.\n72 Roth, Bernhard, Schuhmacher.\n73 Künzig, Jakob, genannt Hindenlang.\n    Holzach, Rudolf, Amtsdiencr.\n74 Lacher, Jos., Kunstmaler.\n    Dietrich, geb. Landerer, Ursula.\n    Gürtler, Fr., Hauptmann.\n75 Handmann, J. fel., Wittwe.\n76 Bertschmann, Jungfer Margaretha.\n77 * Merian=Respingcr.\n    Respingcr, Gebrüder, Kauflcute.\n    Gaf, Heinrich, Schneidermeister.\n78 Keller, geb. Mazingcr, Wittwe.\n    Schmid, Peter, Lehrer.\n    Bächlin, Franz Lukas.\n79 Schöck, Jak. Chr., Bandfabrikant.\n80 u. 81 Paffavant=Vischer, Joh. Heinr.\n82 Bernoulli, Hieronimus fel. Wittwe, geb. de Lachenal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4808,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1638,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:42:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p010",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p010.jpg",
+      "bytes": 965443,
+      "sha256": "3eff7a5b4dabf043f51ad6519f372317dd47acd04f69d90d7a488c7672863d81",
+      "sha256_of": "original",
+      "working_copy": "1841_p010.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:51+00:00"
+  }
+}

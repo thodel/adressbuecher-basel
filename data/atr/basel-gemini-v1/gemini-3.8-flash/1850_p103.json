@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p103",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p103.jpg",
+    "bytes": 947661,
+    "sha256": "6b19200ecfbc2ff0b99e36e4f8089d78d6c3c032d2b08cf8bcd47716981a95d4",
+    "sha256_of": "original",
+    "working_copy": "1850_p103.jpg"
+  },
+  "text": "90 Bläsy-Quartier.\n\n281-82 Albrecht, Conrad, Spezereihandlung.\n283 Ryff, Wittwe Salome, Wascherin.\n284 Holzach, Alb., Kaufmann.\n285 Winter, Lukas Friedr., Weißbeck.\n286 Merkle, J. U., Spezierer.\n  Kramer, Andr., Ferger.\n287 Roth, J. J., Lohnwascherin.\n288 Erismann, J. J., Commis, Wascher.\n289 Steiger, K., Flachmaler, Lohnwascher. [handschriftlich: gestrichen] [handschriftlich: Jaggi. Schiffmann.]\n  Gochta, Anton, Schneider.\n290 Hindermann, J. Casp., Schönfärber, Faßsinner.\n291 Grüblin, Joh., Weinschenk.\n292 Huber, D., Färber.\n293 Imhof-Mieg, Joh. Jak., Rentier.\n  Rohner-Imhof, Markus, Handelsmann.\n294 Sternenberger, Euch., Postoffiziant.\n295 Grunauer, Friedr., Handels-Commis.\n296 Dubach, Georg, Seidenfärber.\n297 Schilling-Roth, Wittwe, Bandladen.\n\nOchsengasse.\n\n298 Oswald, J. Ch., Färbergehülfe.\n\nWebergasse.\n\n299 Tschepp, Christ., Wascher.\n300 Hellstern, Joseph, Müller.\n301 Bader, Heinrich, Maurer. [handschriftlich: gestrichen] [handschriftlich: Wwe Schorer, Wascher]\n\nIm Klingenthal.\n\n302 Fabrikgebäude von Ryhiner und Söhne.\n  Rees, Casp., Fabrikaufseher.\n303 Fuchs-Grüninger, Wittwe, Müllerin.\n  Grüninger, Rud., Müller.\nA303-4 Remisen, Scheunen u. Stallungen.\n305 Kraus-Gamper, Wittwe, Glätterin.\n306-7 Stallungen.\n308 Magazin. Obrigkeitlich.\nA 308 Stauber, U. R., Cigarrenmacher.\n309 Sider, Victor, Appreteur.\n310 (Klingenthal-Caserne.) Obrigkeitlich.\n  Seiler, Heinr., Casernier, Polizeigerichtswaibel.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6992,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1422,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p103",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p103.jpg",
+      "bytes": 947661,
+      "sha256": "6b19200ecfbc2ff0b99e36e4f8089d78d6c3c032d2b08cf8bcd47716981a95d4",
+      "sha256_of": "original",
+      "working_copy": "1850_p103.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:10+00:00"
+  }
+}

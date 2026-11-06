@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p017",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p017.jpg",
+    "bytes": 1109417,
+    "sha256": "c184be958e2f1dd71291347283aa5815c9df1f43a2a37099287669aa68984810",
+    "sha256_of": "original",
+    "working_copy": "1850_p017.jpg"
+  },
+  "text": "St. Johann=Quartier.\n7\n145 Walter, F. F. u. F. Fch., Sohn, Commis.\nBrändlin, Rud., Wirth.\nSchwanengasse.\n146 Siegmund, Benjamin, Chir. Dr. geh. Barbierstube.\nSchwarz, D. F. Geschäftsman.\n147 (Gasthaus z. gold. Schwanen) Christmann, Joseph,\nGastgeber.\n148 Schaffner, Heinr., Sohn, Schneider.\nBühler, M. M., Schneiderin.\nWeiß, G. A., Briefträger.\n149 Linder=Stehlin, Jak. Lud., Bandfab.\nLichtenhahn, Carl, Alt=Stadtrath, Partikular.\nA 149 Advocatur u. Geschäfts bureau von Dr. Birmann &\nW. Merian.\nMüller, Theodor, Conducteur.\n150 Knopf, Joh. Friedr., Weinschenk.\nHofsch, Peter, Appellations=Gerichtswaibel.\nFischmarkt.\n151 Klaiber, Andreas, Schuhmacher.\n152 Kleimt, Josef, Uhrmacher.\nNöslin, F. R., Spezierer.\n153 Munzinger=Fäsch, Frau Wittwe.\nKiefer, Gg., Quincailleriehandlung.\n154 Bernoulli, F. F., Sohn, Apotheker.\n155 (Zunft zur Fischern) Wohntlich, Eml., Kaffeewirth.\n(Kaffee zum Storchen od. Schlegel.)\n156 Speiser, F. F., Waarenlager.\n157 Vereinigt mit Nr. 161 zum Storchen.\n158 Dhl, Joh. Wilh., Perrückenmacher.\n159 Lüdin= Göbelin, Georg, Wittwe.\nBurkhard, Achilles, Med. Dr.\nStorchengasse.\n160 Stupanus, Christ., Handels-Commis.\nBernoulli, Emil, Geschäftsmann, Agentur für Aus-\nwanderung.\n161 (Gasthaus z. Storchen) Schreiber, Fr., Gastgeber.\n162 Früh, Caspar, Buchbinder.\nSteiger, Seb., Partikular.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4320,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1308,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p017",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p017.jpg",
+      "bytes": 1109417,
+      "sha256": "c184be958e2f1dd71291347283aa5815c9df1f43a2a37099287669aa68984810",
+      "sha256_of": "original",
+      "working_copy": "1850_p017.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:48+00:00"
+  }
+}

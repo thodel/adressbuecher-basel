@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p176",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p176.jpg",
+    "bytes": 1059986,
+    "sha256": "96e51b1f617947bc12195cca6d2fe3f37a7e8a22969c977d7c82443eb4f9bc91",
+    "sha256_of": "original",
+    "working_copy": "1841_p176.jpg"
+  },
+  "text": "— 23 —\n\nHolzach-Wertenberg, Albrecht, Commis. 3 Und. Rheinbrücke.\nHosch, Wittwe, geb. Wegner. 47 Rheingasse.\nHufnagel, Joh., von Holzhausen, Appreteur. 167 Rebgaſse.\n\nR.\nKirchner, Wilhelm. 75 Rheingasse.\n* Kocherhans, Jakob, Bäcker. 145 Beim Riehenthor.\n\nL.\nLanderer, Rudolf, Rheinknecht 92 Rugsäklein.\nLaubheim, Georg, Armenvogt. 130 Unteres Kirchgäklein.\nLeibzig, Pet. Unt., Lohnkutscher. 308 a. Klingenthal.\nLinder, Heinrich, Kanzlist. 192 Rebgaſse.\nLok, Achilles, Sohn, Seidenfärber. 53 Rheingasse.\nLok, Friedr., Sohn, Zimmermeister. 53 Rheingasse und\n175 Rebgaſse.\n\nM.\nMäglin, Rud., Meßger. 179 Rebgaſse.\nMaring, Peter, Schlosser. 429 Udengasse.\nMartin, Elias, Magazinier. 228 Greifengasse.\nMakinger, Abel, Meßger, 436 Udengasse.\nMakinger, Rud., Sohn. 436 Udengasse\nMakinger, Friedr., Schiffmann. 40 Rheingasse.\nMakinger, Karl, Hafner. 78 Rheingasse.\nMeiry, Joh., Antiquar. 4 Rheingasse.\nMeiry, Cand. fel. Wittwe, geb. Münch. 57 Rheingasse.\nMeister, Elias, von Benken, R. Zürich, Kostgeber. 27\nRheingasse.\n* Merian, Ludwig, zum rothen Ochsen. 246 Ochsen-gasse.\nMerian, Karl, Säger. 358 Sägergäklein.\nMeyer, Joh., Zimmergesell. 370 Untere Rheingasse.\nMinder, Margaretha, Igsr. 318 Im Klingenthal.\nMiville, geb. Keller, Sal., Wittwe. 167 Rebgaſse.\nMüller und Comp., Weinhandlung. 396 Udengasse.\nMunzinger, Hier., Bläser. 31 Rheingasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4519,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1338,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:02:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p176",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p176.jpg",
+      "bytes": 1059986,
+      "sha256": "96e51b1f617947bc12195cca6d2fe3f37a7e8a22969c977d7c82443eb4f9bc91",
+      "sha256_of": "original",
+      "working_copy": "1841_p176.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:47+00:00"
+  }
+}

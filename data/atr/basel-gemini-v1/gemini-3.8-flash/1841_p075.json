@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p075",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p075.jpg",
+    "bytes": 889028,
+    "sha256": "865e715a1856dd5b6ce169f9b3fb8249d06cd741237c25b98f5b938aab5cad76",
+    "sha256_of": "original",
+    "working_copy": "1841_p075.jpg"
+  },
+  "text": "68\n\nNro.\n141 * Der Handlung Andreas Braun geh.\n  Von Brunn, Wittwe, geb. Braun.\n142 Mäglin, Christoph, Metzger.\n143 Schardt, Franz, Küfer und Weinschenk.\n144 Meyenrock, Jak. Friedr., Miliz-Inspektor und Liqueurfabrikant.\n145 Lutz, Felix, Weißbeck.\n146 * Gaß, Joh., Weißbeck.\n  Rickenbacher, Mathias, Lehrer.\n147 Birmann, Jakob Friedrich.\n  Löhler, Joh., Beck.\n  Meyer, Carl Ludwig, Schuhmacher.\n148 Weiß, Thomas, Weinschenk.\n  Gernler, Carl, Kornmesser.\n149 Iselin-Reichenstein, Ludw., Rentier.\n\nRebgasse.\n\n150 Gaß, Joh., Weißbeck.\n  Feil, Susanna und Lisette, Schneiderinnen.\n  Lotz, Leonhard, Metzger.\n  Pfirter, Ursus Viktor, Schreiner.\n151 Büchlin-Schlichter, Joh. Ulrich, Gantrufer.\n  Müller, Wilh., Ladengehülfe.\n152 Alt, Daniel, Weißbeck.\n153 Lämmlein, Georg sel., Wittwe.\n154 Mäglin, Abraham, Metzger.\n155 Brodmann, Joh., von Ettingen, Schuhmacher.\n156 Schneider, Heinrich, Posamentier.\n157 Soller, Friedrich, Kaufmann.\n158 * Hitz, Jakob, Schreiner sel., Wittwe, geh.\n159 * Pack, Frau, geb. Mosis, geh.\n160 Landerer, Richard, Polizeidirektor.\n161 Soller, Emanuel, Kübler.\n  Buß, Joh. Jakob, Informator.\n162 Fritz, geb. Marg. Frei, Wittwe, Kostgeberin.\n163 Bohny, Joh., Schmid.\n164 Münch, Melchior, Rathsherr.\n165 * Pfarrhaus. Uebelin, J. J., Diakon bei St. Theodor.\n166 Krebs, Joh., Fabrikserger.\n167 Geßler, Joh. Rud., Gypser.\n168 Basler, Joh. Jakob, Weißbeck.\n169 Märklin, Mathäus, Bierbrauer.\n170 * }\n171 * } Ebendemselben geh.\n  Wollenschlegel, Jakob, am Kaufhaus.\n  Haag, Wittwe, geb. Ursula Erlacher.\n172-173 Siber-Lotz, Caspar, geh.\n  David, Joh. Georg, Fuhrhalter.\n  Geschwister Glunz, Schneider u. Matratzenmacherinnen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5975,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1636,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p075",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p075.jpg",
+      "bytes": 889028,
+      "sha256": "865e715a1856dd5b6ce169f9b3fb8249d06cd741237c25b98f5b938aab5cad76",
+      "sha256_of": "original",
+      "working_copy": "1841_p075.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:43+00:00"
+  }
+}

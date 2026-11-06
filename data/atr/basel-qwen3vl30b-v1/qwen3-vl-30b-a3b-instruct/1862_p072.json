@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p072",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p072.jpg",
+    "bytes": 1449077,
+    "sha256": "cbf12b6f54e3637c9705f38d04231f901fbba6bc2a6a67fd724e9a7c608b04d4",
+    "sha256_of": "original",
+    "working_copy": "1862_p072.jpg"
+  },
+  "text": "Aefchenvorstadt.\n7\nNene\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\nAefchenvorstadt.\n1 | IV. | 1045 A. | Truchsefferhof. | Weitnauer=Fischer, Rudolf.\n2 | IV. | 939 | 3. Ritter St. Georg | Weitnauer=Fischer, Metzger u. Pintenw.\n | | | | | Weiß=Fischer, Carl Bened., Kaufmann.\n3 | IV. | 1044 | | Gnoepff=Landolt, Carl.\n | | | | | Gnoepff=Landolt, C., Bäckermeister.\n | | | | | Gnoepff=Bauer, C., Kaufmann.\n | | | | | Gnoepff, Rud., Commis.\n | | | | | Faus, Wittwe, geb. Faejsch, Rentiere.\n | | | | | Widemann=Schuhmacher, Balth., Com.\n4 | IV. | 940 | 3. goldenen Löwen. | Weitnauer=Fischer, Rudolf.\n | | | | | Fezler=Klein, H., Lagerhausdirektor.\n | | | | | Klein=Salis, Anna Cathar., Wb., Part.\n | | | | | Dobler=Burckhardt, Hel., Wb. und\n | | | | | Jgfr. M. Burckhardt gemeinsch.\n | | | | | Dobler=Burckhardt, Wb. Hel.\n | | | | | Ryhiner=Merian, Valerie, Wb.\n | | | | | Ryhiner, Carl, Kaufmann.\n | | | | | Comptoir v. Marc. Boelger, Floretspin.\n5 | IV. | 1043 | zum Wilhelm Tell. | Ryhiner=Werthemann, Euf., Wb.\n | | | | | Ryhiner=Werthemann, Euf., Wb., Rent.\n | | | | | Ryhiner, Julius.\n6 | IV. | 941 | zum Körblein. | Wieland, A. M., Jgfr. sel. Erben.\n | | | | | Wieland=Landerer, Barbara, Wb.\n | | | | | Wieland, Emilia, Jgfr.\n | | | | | Wieland, Joh. Hein., eidg. Oberstlieutn.\n7 | IV. | 1042 | zum Hertenstein. | Ryhiner=Werthemann, Wb.\n | | | | | Burckhardt=Ryhiner, Joh. Jak., Altbrgm.\n | | | | | Burckhardt, Joh. Jakob, J. U. D.\n | | | | | Burckhardt, Alfred, Kaufmann.\n8 | IV. | 942 | zum Sonnenberg. | Schmidt=Luttringshausen, F. Fdr.\n | | | | | Schmidt=Luttringshausen, F. F., Kaufm.\n | | | | | (Firma F. F. Christ-Ryburk).\n | | | | | Bachmann, Emil, Commis.\n9 | IV. | 1041 | | Boelger=Burckhardt, August.\n | | | | | Boelger=Burckhardt, August, Particular\n | | | | | (Floretspinnerei im Schönthal.)\n10 | IV. | 943 | zur oberen Sonne. | Weissenburger=Riggenbach, F. Jak.\n | | | | | Weissenburger=Riggenbach, F. F., Bäcker.\n | | | | | Meyer=Schwarz, F. F., Part.\n | | | | | Fürbringer=Goetschin, Wilh., Gärtner.\n | | | | | Corporationsgut.\n11 | IV. | 1040 | zum Kupf. | Schneider=Bader, Dan., Stubenverwalt.\n12 | IV. | 944 | zur oberen Sonne. | Gamper=Eberlin, Wb. Anna Maria.\n | | | | | Gamper=Eberlin, Wb. A. M., Schloffer.\n | | | | | Schellmann=Schmid, Fr., Schuhmacher.\n | | | | | Dürliwanger, Joh., Schloffer.\n13 | IV. | 1039 | zum Paradies. | Burckhardt=Heusler, Carl.\n | | | | | Burckhardt=Heusler, C., Oberstlt. Rent.\n | | | | | Roller=Burckhardt, Gottl., Ingenieur.\n14 | IV. | 945 | zum neuen Bau. | Werthemann, Jgfr. Margaretha.\n | | | | | Sibold=Häfeli, Mag.=Knecht.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8508,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2635,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0159,
+    "mean_line_chars": 40.25,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p072",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p072.jpg",
+      "bytes": 1449077,
+      "sha256": "cbf12b6f54e3637c9705f38d04231f901fbba6bc2a6a67fd724e9a7c608b04d4",
+      "sha256_of": "original",
+      "working_copy": "1862_p072.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:00+00:00"
+  }
+}

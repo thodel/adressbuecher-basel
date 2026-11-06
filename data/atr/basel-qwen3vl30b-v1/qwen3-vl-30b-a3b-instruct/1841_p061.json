@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p061",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p061.jpg",
+    "bytes": 897081,
+    "sha256": "51191f9dddc6fccc5f053bb9705568c100474631d1005b05709ddfe7bf54ffcf",
+    "sha256_of": "original",
+    "working_copy": "1841_p061.jpg"
+  },
+  "text": "54\nNro.\nKronengasse.\n1526 Halter, J. J. fel., Wittwe, Bettfedernhandlung.\n1527 Waffermann, Carl, Schneider.\n1528 * Petri, Emanuel, geh.\n1529 Seffing, August, Mechanikus.\nNeue Straße.\n1530 Hauser, J. J. fel. Wittwe, zur Krone.\n1531 u. 1532 Steiner, Caspar, zum goldenen Kopf.\nBei der Rheinbrücke.\n1533 Huber, J. J., Apotheker.\nGisengasse.\n1534 * Braun, Andreas, geh.\n    Lesebvre, Peter, Modehandlung.\n1535 Früh-Ronus, Hieronymus, Kanzlei-Sekretär.\n1536 Schölli-Schölli, Samuel, Sohn.\n1537 Braun, Andre., Spezerei- und Tabackhandlung.\n1538 *\n1539 * } Schölli-Schölli, Samuel, geh.\n1540 Ronus, Christoph, Quincailleriehandlung.\n1541 Amans, Joseph Wilhelm, Hutmacher.\n1542 Weitnauer, Emanuel, Tapezierer.\n1543 Preiswerk, Math. fel., Wittwe, geb. Bernoulli.\n    Preiswerk-Ofen, Joh. Jakob, Tuchhandlung.\n1544 Rosenmund, Joh. Jakob, Kammacher, von Lieftal.\n1545 Trübner, Wittwe, geb. Dor. Felber.\n1546 * Der Stadt geh.\n    Hübshcer-von Speyr, Eman., Kürschner.\n1547 Knop, Ernst, Musikalienhandlung.\n1548 Roth, Caspar, Spengler.\n1549 Linder, Joh. Jakob, Bandfabrikant.\n1550 * Krug-Stierlin, Wilh., Hutmacher, geh.\n    Walz, Frau Louise, geb. Hänel, Shawl- u. Manufakturwaarenhandlung.\n1551 Krug-Stierlin, Wilh., Hutmacher.\n1552 * Bachofen, Wittwe, geb. Claufenburg, geh.\n    Stierlin, Benjamin.\n    Schaffner, Heinrich, Schneider.\nBei der Brodlaube.\n1553 Von der Mühle-Keller, Joh. Georg, Seidenwaarenhandlung.\n1554 Christ, Joh. Baptist, von Arlesheim, Schuh- u. Stiefelmacher.\n1555 Klingelfuß, Lucas, Seiler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4694,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1503,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:49:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p061",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p061.jpg",
+      "bytes": 897081,
+      "sha256": "51191f9dddc6fccc5f053bb9705568c100474631d1005b05709ddfe7bf54ffcf",
+      "sha256_of": "original",
+      "working_copy": "1841_p061.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:25+00:00"
+  }
+}

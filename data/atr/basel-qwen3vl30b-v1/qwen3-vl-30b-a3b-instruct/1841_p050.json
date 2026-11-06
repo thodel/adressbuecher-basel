@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p050",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p050.jpg",
+    "bytes": 959747,
+    "sha256": "9945343beef38391cbdbb6653e63d4e9de7d81da37a4925008f5a0b7f9c5a5bf",
+    "sha256_of": "original",
+    "working_copy": "1841_p050.jpg"
+  },
+  "text": "43\nNro.\n1175 * Zunft der Hausgenossen. Bachofen, J. J., Traiteur.\n1176 Eckenstein, Wilh., Bierbrauer.\n    Eckenstein, Ed., Sped. und Hopfenhandlung.\n1177 Gemuseus, Joh. Rud., Handelsmann.\n    Gemuseus, Hieronymus.\n1178 Bahnmeyer, Immanuel Gottl., Buchdrucker u. Buchhändler.\n    Droz, Friedrich, Handels-Commis.\n1179 * Ebendemselben. Ammann, Achilles, Siebmacher.\n1180 * Dreif, Joh. Christ., geh.\n1181 Sulger-Sprecher, Wittwe.\n1182 Sulger-Dobler, Wittwe.\n    Sulger, Andr. und Rud. (Handelsragion.)\n1183 Zunft zu Rebleuten.\n1184 Zunft zu Schuhmachern.\n    Salathe, Heinrich fel., Wittwe.\n1185 Bernoulli-Huber, L. (Firma : C. Huber, Sohn.)\nMinggäflein.\n1186 u. 1187 Versammlungshäuser der Brüdergemeinde.\nFreie Straße.\n1188 von Speyr, Theodor, alt Rathsherr.\n    Firma : von Speyr u. Comp.\n1189 Preiswerk, Abraham, Handschuhmacher.\n    Schwob, Joh., Med. Dr.\n1190 Eckenstein, J. J.: Spezereihandlung.\n1191 Köslin-Konus, Joh. Georg fel., Wittwe.\n1192 Raillard, geb. C. Meyenrock, Wittwe.\n    Raillard, Theodor : Gerichthaus.\nBäumlein.\n1193 Burckhardt, Seb., Zucker- und Pastetenbäcker.\n1194 * Ebendemselben. von Speyr-Fischer, J. Heinrich.\n1195 Pöhls, Friedrich, Schlosser.\n1196 Geering, Leonhard, Opticus.\n    Schneider, Felix, Buchdrucker, Buchhändler u. Antiqu.\n1197 Stähelin-Schönauer, Hieronymus.\n1198 Merian-Stähelin, Joh. fel., Wittwe.\n1199 Bischer-Legrand, Anna Maria, Wittwe.\n1200 Hindermann, J. J. Firma : Bischoff jünger u. Söhne.\n    Burckhardt-Heusler, Carl, Handelsmann.\nLuftgäflein.\n1201 * Berri, Melchior, Architekt.\n    Lefer, Joh. Friedrich, Rutscher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4802,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1567,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:48:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p050",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p050.jpg",
+      "bytes": 959747,
+      "sha256": "9945343beef38391cbdbb6653e63d4e9de7d81da37a4925008f5a0b7f9c5a5bf",
+      "sha256_of": "original",
+      "working_copy": "1841_p050.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:30+00:00"
+  }
+}

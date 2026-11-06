@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p038",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p038.jpg",
+    "bytes": 1102300,
+    "sha256": "72c584798cd3c1dc98c90dbc6c2e85ba9f1ea77c1f17793cc91ab7d4889131ca",
+    "sha256_of": "original",
+    "working_copy": "1850_p038.jpg"
+  },
+  "text": "Spahlen-Quartier. 25\n\n561 Guise, Konstantin, Zeichnungslehrer.\n  Meyer-Kraus, Hch., Lehrer.\n562 Kündig, Eucharius, Diacon bei St. Peter.\n563 Reber-Geilinger, Joh. Jak., Rentier.\n564 Socin-Frey, Eduard, Handelsmann.\n  Frey, Joh. Rud., alt Bürgermeister.\n\nBei St. Peter.\n565 Euler, J. J., S. M. C., Oberlehrer der Knaben-\n  schule bei St. Peter.\n\nSt. Peters-Stiftsgasse.\n566 Weiß, Christoph, Mädchenlehrer.\nA 566 Socin-Legrand, Abel, Tuchhandlung.\n  Preiswerk-Paravicini, Karl, Kaufmann.\n\nTodtengäßlein.\n567-68 Singeisen, J. J., Schreiner.\n569 Sixt, Leonhard, Tapezierer.\n570 Sehringer, J. G., Handelsmann.\n571 (Obrigkeitl. Töchterschule.)\n  Heußler-Bischoff, Abraham, S. M. C., Rektor.\n572 (Magazin) zu Nr. 1599, Rieber, J. J., geh.\n573 Lapp, Felix, Papierer.\n\nSchneidergasse.\n574 (Remise und Stallung) zum Posthaus geh.\n575 Brüderlin, Ambrosius, Zuckerbeck.\n576 Sandreuter, J. Jakob, Spengler.\n577 Effinger, C. F., Commis. [handschriftlich: No 577 u. 78 Joh. Christ: Wilhelm, Schneider]\n  Christ, Ludwig, Schuhmacher.\n578 Miville, Rud., Conducteur.\n  Riffel, Hch., Commis.\n579 Otter, Joseph, Sattler.\n580 Bär, Th. Rud., Perückenmacher.\n581 Sandreuter, Rud., Schuhmacher.\n  Peschel, Kappenmacherwerkstätte.\n582 Claßen-Steiger, C. A.\n  Schnewlin & Comp., Spedition, Commission- und\n    Spezereiwaaren.\n  Sautter, Michael, Commis.\n584 Wertenberg, Rudolf, Bürstenbinder.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6307,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1366,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p038",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p038.jpg",
+      "bytes": 1102300,
+      "sha256": "72c584798cd3c1dc98c90dbc6c2e85ba9f1ea77c1f17793cc91ab7d4889131ca",
+      "sha256_of": "original",
+      "working_copy": "1850_p038.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:00+00:00"
+  }
+}

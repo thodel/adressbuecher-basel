@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p044",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p044.jpg",
+    "bytes": 1011456,
+    "sha256": "6e6be30b8391e3871fe16c5c0748d4c659fcc91b28ec8b9b1d072071c3c1c72d",
+    "sha256_of": "original",
+    "working_copy": "1841_p044.jpg"
+  },
+  "text": "37\nNro.\nAefchen-Vorstadt.\n1003 Keller, J. J., Küfer und Bierbrauer.\nWölfflin, Dietrich Wilh., Handelsmann.\n1004 * Bölder, Marcus, Handelsmann.\nHuber, S., Jungfrau.\nKorn, Heinrich, Buchbinder.\n1005 Brödlin, Wilh., Weinschenk.\nSchneider, Julius.\nSchneider, Daniel, Schuhmacher.\n1006 Hartmann, Heinrich, Weißbeck.\n1006 * g Bachofen und Sohn, Fabrik.\nScheuermann, Joh., Fabrikkaufseher.\n1007 Füllemann, Ludw., Schneider u. Abwart auf der Anatomie.\nBuek, Cath., Jungfer, Bettmacherin.\n1008 Müller, Franz, Gastgeber zum schwarzen Bären.\nLöw-Gesler, Joh., Fabrikferger.\n1009 * Schmidlin, Wilh., Schullehrer.\nSchmidlin, Sam., Fabrikkaufseher.\n1010 Berri, Elias, Weißbeck.\n1011 Schölli, Joh. Jakob, Seiler.\n1012 Oppermann, J. G., Schreiner.\nSimmen, J. J., Handels-Commis.\n1013 Mäglin, Ben. de Anton, Handels-Commis.\n1014 De Wette, Dr. Ludwig Wilh. Jakob.\nJersing, Friedr., Sohn, Commissions u. Speditionshandlg.\nJersing-Zäslin, Wittwe.\n1015 Gysler, Heinrich, Zuckerbeck.\n1016 Kappeler, Caspar, Schlosser.\n1017 Schaube, Joh. Adam, Fabrikferger.\n1018 Witt, A. Fr., Weinschenk und Posamentier.\nUster, Daniel, Schneider.\nBrunngäflein.\n1019 Martin, Leonhard, Hafner.\nMohler, Heinrich, Landjäger.\n1020 * Magazin, Heufler, Joh. Ulrich, Handelsmann, geh.\n1021 * Haus und Garten, Forkart-Weiß geh.\n1022 De Wette, W. M. L., der Theol. Dr. und Professor.\n1023 * Scheune und Stallung, Forkart-Bachofen geh.\nAefchen-Vorstadt.\n1024 Raillard, Eman., Med. Dr.\n1025 Merian, Friedrich, Magister, alt Pfarrer.\n1026 Merian, Rud., Professor der Mathematik.\n1027 Burckhardt, Abraham, Weißbeck.\n1028 Mäkinger, Joh. Bernh., Radler und Spezereihändler.\n1029 Frey, Joh, Spezereiladen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5050,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1649,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0213,
+    "mean_line_chars": 34.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:47:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p044",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p044.jpg",
+      "bytes": 1011456,
+      "sha256": "6e6be30b8391e3871fe16c5c0748d4c659fcc91b28ec8b9b1d072071c3c1c72d",
+      "sha256_of": "original",
+      "working_copy": "1841_p044.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:12+00:00"
+  }
+}

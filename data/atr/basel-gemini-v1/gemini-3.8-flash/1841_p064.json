@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p064",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p064.jpg",
+    "bytes": 1045002,
+    "sha256": "38bc2a4e272ca3da72668bd6665da244520bdb8aff91ca8922ac03aff1c4ada1",
+    "sha256_of": "original",
+    "working_copy": "1841_p064.jpg"
+  },
+  "text": "57\nNro.\n1615 * Bischoff-Debary, Wittwe, geh.\n  Sandoz, Carl.\n  Tuchhandlung von Benedikt Bischoff.\n1616 * Zunft zu Weinleuten.\n  Respinger-Isenegger, Fried., Handels-Commis.\n1617 Wierz, Daniel, Stadt-Canzlist.\n  Siber, Wittwe, geb. Sus. Munzinger, Kaffeewirthschaft.\n1618 Seiler, Leonhard, Tuchhandlung.\n\nUntere Freienstraße.\n\n1619 Holzbacher, Joh. Georg, Apotheker.\n1620 * Seul, Joh. Jakob, geh.\n  Stockmeyer, Emanuel, Spengler.\n1621 Bloch, Daniel, Seiler.\n  Obermeyer, Johannes.\n1622 * Meyer-Hoffmann, Daniel, geh.\n  Heggendorn, Christoph, Tabackhandlung.\n1623 Sprünglin, Jungfer, Kölsch- und Bettfedernhandlung.\n  David-Waidmann, Lucas, Metzger.\n1624 Kachel, Lucas Heinrich, Metzger.\n  Munzinger, Benedikt, Feuerwerker.\n1625 Heitz, Bernhard, Drechsler.\n  Jauslin, Abraham, Handelsmann.\n1626 Langmesser, Joh. Jakob, Sattler.\n  Schölli-Bruckner, Jak. Christoph, alt Stadtrath.\n1627 Wölfflin, Joh. Georg, Buchbinder.\n1628 Märklin, Johannes, Drechsler.\n  Burckhardt-Dürand, Joh. Conrad, Hauptmann.\n  Wybert-Hug, Emanuel, Med. Dr.\n1629 Merian-Herzog, Walter, Notar.\n  Stapfer, Joh. Jakob, Handelsmann.\n1630 * Zunft zum Schlüssel. Rumpf, Hieronymus, Postoffiziant.\n1631 Respinger-Bernoulli, Eman., Material-Handlung.\n1632 Burckhardt, Abraham, Wechsel-Sensal.\n1633 * Streckeisen-Hosch, Emanuel, geh.\n  Ronus und Holzach, Christ., Quincailleriehandlung.\n1634 * Das Kaufhaus, der Stadt geh.\n  Euler, Eucharius, Kaufhausverwalter.\n1635 Märklin-Christ, Joh. Rud., Spezereihandlung.\n1636 Holzmüller, Eman. sel., Wittwe, geb. David.\n1637 Krug, Joh. Jakob, Spezereihandlung.\n1638 Meyer, Franz Jos., von Reinach, Hutmacher.\n1639 Seul, Joh. Jakob, Schneider.\n1640 Burckhardt-Basler, Christoph, Quincailleriehandlung.\n  Obermeyer-Burckhardt.\n1641 Leuba, Heinrich, Uhrenmacher.\n  Gall, Wittwe, geb. Sus. Cath. Fischer, Wollenhandlg.\n8",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7767,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1819,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p064",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p064.jpg",
+      "bytes": 1045002,
+      "sha256": "38bc2a4e272ca3da72668bd6665da244520bdb8aff91ca8922ac03aff1c4ada1",
+      "sha256_of": "original",
+      "working_copy": "1841_p064.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:31+00:00"
+  }
+}

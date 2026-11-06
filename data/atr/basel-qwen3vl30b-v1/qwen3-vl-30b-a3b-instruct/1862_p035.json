@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p035",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p035.jpg",
+    "bytes": 1327489,
+    "sha256": "e21681b9b7301ea06df3161e1180fb7c2248ca1076eb4e63f7eb9ba08efcdde3",
+    "sha256_of": "original",
+    "working_copy": "1862_p035.jpg"
+  },
+  "text": "XXXII Bereine & Anstalten für Kunst, Musik & Geselligkeit.\nDeutscher Arbeiter-Bildungs-Verein.\nLocal bei Hr. Siegrist am Blumenrain.\nGegründet 1850 zur geistig-sittlichen Fortbil-\ndung seiner Mitglieder.\nPräsident: Hr. F. Fromlet.\nFrohsinn.\nLocal: Gasthof zum rothen Ochsen.\nGestiftet 1852 zur Pflege des Gesangs und der\nGeselligkeit.\nPräsident: Hr. Theophil Meyer, Commis.\nLehrer: Hr. S. Rud. Weber, Clavierstimmer.\nLiedertafel.\nGestiftet 1852 zur Pflege eines gediegenen\nMännerchors, vaterländischen Sinns und\nedler Geselligkeit.\nCapell-Gesellschaft.\nGegründet 1856 zur Bildung und Erhaltung\neines möglichst guten u. vollständigen Orchesters.\nVorstand:\nHr. Em. Burckhardt-Burckhardt, Präsident.\n„ Dr. J. J. Heimlicher.\n„ Rud. Trueb-Freikwerf, Capellmeister.\n„ Dr. Wilhelm Lichtenhahn, Cassier.\n„ Dr. Emil Merian.\n„ Rudolf Geigy-Merian.\n„ Dr. J. J. Burckhardt, Sekretär.\nGesangverein Concordia.\nGegründet 1855.\nMitglieder: 12 active, 41 passive.\nLocal: Gartner-Zunft.\nVorstand:\nHr. Bernhard Matzinger-Wässler.\n„ Fr. Breitenstein.\n„ P. Steinmann.\nTypographia.\nGegründet 1857.\nZweck: Vereinigung hiesiger Buchdrucker\nund Schriftgießer zur Aufreibung einer Ver-\nbesserung der materiellen Verhältnisse der Fach-\ngenossen, Beförderung technischer und unter-\nhaltender Lectüre, geselliger Unterhaltung und\nUnterstützung bedürftiger Collegen.\nVorstand: Hr. Fr. Fromlet.\n„ Franz Krebs.\n„ Bisch.\nDudlibet.\nGegründet 1858 zur Pflege einer durch Gesang,\nMusik, dramatische und humoristische Vorstel-\nlungen gewürzten und veredelten Geselligkeit.\nPräsident: Hr. W. Riedtmann.\nCäcilien-Verein.\nKatholischer Gesang-Verein.\nGegründet 1859.\nPräsident: Hr. Xaver Brody.\nDirector: „ Amann, Organist.\nKatholischer Gesellen-Verein.\nGegründet 1859.\nZur Fortbildung und Unterstützung der Ge-\nsellen Basels, zur Anregung und Pflege eines\nkräftigen, religiösen und bürgerlichen Sinnes\nund Lebens, um dadurch einen tüchtigen und\nehrenwerthen Meisterstand heranzubilden.\nVorstand: Hr. Abbé Brey, Vorsitzender.\nTurn-Vereine.\nBürger-Turn-Verein.\n(Sektion des schweizerischen Turn-Vereins.)\nGegründet 1821.\nWöchentlich 2 obligatorische Turn-Abende und\neine Gesangübung.\nDurchschnittlich 76 active Mitglieder, 48 Mit-\nturner und 29 Ehrenmitglieder.\nHr. Walther Rumpf, Präsident.\nAkademischer Turn-Verein.\nGegründet 1855.\nVorstand:\nHr. A. Barth, Stud. theol., Präses.\n„ A. Burckhardt, Stud. theol., Quästor.\n„ F. Müller, Stud. paed., Actuar.\n„ F. Bijcher, Stud. paed., Beisitzer.\nTurnlehrer-Verein.\nGegründet 1859.\nHr. F. Jelin, Präsident.\n„ A. Maul, Vice-Präsident.\n„ M. Jenny, Schreiber.\n„ Cand. Hieron. Best, Bibliothekar.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7360,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2595,
+    "lines": 86,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0581,
+    "mean_line_chars": 29.19,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p035",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p035.jpg",
+      "bytes": 1327489,
+      "sha256": "e21681b9b7301ea06df3161e1180fb7c2248ca1076eb4e63f7eb9ba08efcdde3",
+      "sha256_of": "original",
+      "working_copy": "1862_p035.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:10+00:00"
+  }
+}

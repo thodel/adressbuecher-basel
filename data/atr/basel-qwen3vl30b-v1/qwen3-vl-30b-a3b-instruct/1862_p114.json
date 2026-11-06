@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p114",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p114.jpg",
+    "bytes": 1433005,
+    "sha256": "47bc51e533074ac5f9f27b67d11d7bc440d41676a7e2b5b0875b71795127b0af",
+    "sha256_of": "original",
+    "working_copy": "1862_p114.jpg"
+  },
+  "text": "Gartenstraße. — Gaßstraße. — Gellertstraße. 49\nNene\nHaus=Mr. | Quar-\ntier. | Alte\nHaus=Kro. | Name des Hauses. | Namen der Hauseigenthümer\nund Bewohner.\n72 | IV. | 211 F | | Epple-Stücklin, Christian.\n| | | | Bieler-Gros, Jacob Friedrich, Kaufm.\n| | | | Dinkel-Brüderlin, Franz, Architekt.\n| | | | Schaub-Lehnher, Jac. Fr., Caffier be-\n| | | | der Centralbahn.\nGaßstraße.\n7 | I. | 7 | | Dollfus, Caspar.\n7 | I. | 6 | Gasanstalt. | Stadtgemeinde.\n| | | | Grunner, Carl Heinrich, Ingenieur.\n| | | | Buxmann, Bernh. Gottl. Alb., Chemiker.\n| | | | Ullmann, Jakob Rudolf, Auffeher.\nGellertstraße\n2 | V. | 300 A. | | Burckhardt-Schönauer, Ludwig.\n| | | | Burckhardt-Schönauer, L., Kunstmaler.\n5 | V. | 301 | | Bischoff=Zselin, Christoph.\n| | | | (Sommerwohnung.)\n6 | V. | 299 B. | | Wieland=Gemuseus, Emil.\n7 | V. | 300 | | Bischoff=Zselin, Christoph.\n| | | | (Remise und Stallung.)\n13 | V. | 299 | | Burckhardt=Preiswerk, Wilhelm.\n| | | | Meyer=Wälti, Jacob, Gärtner.\n14 | V. | | | Holzach=Ec, Friedrich.\n| | | | Holzach=Ec, Fr., Ziegelfabrikant.\n15 | V. | 298 | | Burckhardt=Preiswerk, Wilhelm.\n| | | | (Remise und Stallung.)\n16 | V. | | | Gemuseus=Riggenbach, Rud. Wilh.\n| | | | Gemuseus=Riggenbach, R. W., Papierkft.\n19 | V. | 297 | | Bischoff, Carl.\n| | | | Laudis=Felber, Heinrich, Gärtner.\n22 | V. | 298 A. | | Tschopp=Holzach, Heinrich.\n| | | | Tschopp=Holzach, Heinrich, Spengler.\n| | | | Stiickelberger=Speiser, Andr., Bandfbkt.\n| | | | Burckhardt=Schricke, Eduard.\n23 | V. | 293 | | Buser=Müry, Jacob, Lehrenbeständer.\n28 | V. | 296 | | Pfander=Carlé, J. J. sel., Erben.\n| | | | Weber=Mangold, Samuel, Landwirth.\n29 | V. | 286 | | Burckhardt=Schricke, Eduard.\n| | | | Scheidegger=Kramer, Joh., Gärtner.\n30 | V. | 296 A. | | Pfander=Carlé, Joh. Jac. sel., Erben.\n| | | | (Scheune.)\n31 | V. | 286 b. | | Burckhardt=Schricke, Eduard.\n| | | | (Sommerwohnung.)\n40 | V. | 827 | | Merian=Burckhardt, Wb. Margar.\n| | | | (Scheune.)\n43 | V. | 282 | | Sutter=Kaufmann, Joh. Rudolf.\n| | | | Sutter=Kaufmann, J. R., Landwirth.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7014,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2021,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0566,
+    "mean_line_chars": 37.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p114",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p114.jpg",
+      "bytes": 1433005,
+      "sha256": "47bc51e533074ac5f9f27b67d11d7bc440d41676a7e2b5b0875b71795127b0af",
+      "sha256_of": "original",
+      "working_copy": "1862_p114.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:37+00:00"
+  }
+}

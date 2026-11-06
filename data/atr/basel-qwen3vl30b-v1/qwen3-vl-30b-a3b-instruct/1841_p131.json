@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p131",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p131.jpg",
+    "bytes": 961497,
+    "sha256": "cec7dafb2186ce1ff20542b44c36f554b76774ed29a4ff03be1b6d437e8f7077",
+    "sha256_of": "original",
+    "working_copy": "1841_p131.jpg"
+  },
+  "text": "48\nWagner, Friedrich, Handels-Commis. 1279 St. Alban-Thal.\nWagner, J. J., Leinenweber. 979 Sternengäfklein.\nWagner, Jungfer, Margaretha. 1602 Sporren gaffe.\nWagner, Friedrich, Reallehrer. 1375 Hinter dem Münster.\nWagner, Lucas, Papierer. 1233 St. Alban-Borstadt.\nWagner-Heilmann, Friedrich, Kinder Spielwaaren = Handlung. 124\nBlumenplaz.\nWagner-Rudin fel. Wittwe; Spezerei handlg. 1330 St. Alban-Borst.\nWahr, Ph., älter, Tuchhandlung. 1446 Freie Straße.\nWahr, Ign., jünger, Tuchhandlung. 1447 Freie Straße.\nWahr-Bené, Carl, Handelsmann. 1660 Kindermarkt.\nWaidmann, geb. Sprüngli, Ph. fel. Wittwe. 39 St. Joh.=Borst.\nWaldner, Heinrich, Bandfabrikant. 803 Bordere Steinen=Borstadt.\nWallifer, J. Fr., Fabrikarbeiter. 530 Imbergäfklein.\nWalter, Joh. Jakob, Commis. 145 Blumengaffe.\nWalter, Caspar, Kaufmann. 486 Oberer Spahlenberg.\nWalter, Jakob Heinrich, Kaufmann. 555 Adelberg.\nWalter, Fr., Schreiner. 85 St. Johann=Borstadt.\nWalter, Caspar, Lithograph, von Lohningen. 99 St. Joh.=Schwibb.\nWalz, Frau Louise, geb. Hänel, Shawl- und Manufakturwaaren-\nHandlung. 1550 Eifengaffe.\nWalz, Fr., Kunsthändler. 42 St. Johann=Borstadt.\nWafer, Jakob, Spengler, von Zürich. 1717 Hutgaffe.\nWassermann, Carl, Schneider. 1527 Kronengaffe.\nWassermann, Joh., Kaufhausarbeiter. 1740 Hinter der School.\nWassermann, Joh. Rud., Messerschmid. 1712 Unt. Spahlenberg.\nWassermann, J. Rud., Raminfeger. 428 Heuberg.\nWassermann, Jungfer, Dorothea. 541 Imbergäfklein.\nWeber, J. G. fel., Wittwe. 1298 St. Alban-Thal.\nWeber, Joh. Georg, Kaufmann. 593 Schneidergaffe.\nWeber, Georg Friedrich, Schuhmacher. 1723 Hutgaffe.\nWeber, Conrad fel., Wittwe. 1414 Münsterplaz.\nWeber, Heinrich, Schuhmacher. 1754 Schneidergaffe.\nWeber, Anton, von Pfeffingen, Geschäftsmann. 764 Bordere\nSteinen=Borstadt.\nWehrlin, Joh., Fabrikarbeiter, von Rüttigen. 877 Thorsteinen.\nWehrlin, J. J., Müller. 1308 St. Alban-Thal.\nWeibel-Meyer, Rud., Handels-Commis. 934 Steinenberg.\nWeibel-Gerster, J. J., Wirthschaft. 125 Neue Straße.\nWeiß, Jak. Chr., Mädchenlehrer. 566 St. Peterskiftsgaffe.\nWeiß, Carl Ludwig, Kübler. 1702 Schnabelgäfklein.\nWeiß, J. J., Geschäftsmann. 1153 Gerbergaffe.\nWeiß, Hieronymus, Küfer. 1172 Freie Straße.\nWeiß, J. R., Kappenmacher. 395 Bei St. Leonhard.\nWeiß, Conrad, Matrakenmacher. 631 Gerbergäfklein.\n[spalte 2]\nW.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7146,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2282,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:58:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p131",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p131.jpg",
+      "bytes": 961497,
+      "sha256": "cec7dafb2186ce1ff20542b44c36f554b76774ed29a4ff03be1b6d437e8f7077",
+      "sha256_of": "original",
+      "working_copy": "1841_p131.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:11+00:00"
+  }
+}

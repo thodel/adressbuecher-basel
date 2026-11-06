@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p174",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p174.jpg",
+    "bytes": 1022059,
+    "sha256": "b42b2a332096665c058d71dfa757391804ed26caf1c1fb953bf52c1449deb0cd",
+    "sha256_of": "original",
+    "working_copy": "1841_p174.jpg"
+  },
+  "text": "Klein:Basel.\nA.\nAndres, Jakob, Adjunkt auf der Post. 67 Rheingasse.\nB.\nBächlin, J. J., Schreiber. 234 Greifengasse.\nBasler, J. J., Sohn, Beck. 438 Udengasse.\nBeck, Daniel, Holzhacker. 235 Greifengasse.\nBelz, Heinrich, v. Sulz, Kunstmaler. 3 An der Rheinbr.\nBertaur, geb. Schlosser, Marg., Wittwe. 114 Rheinweg.\nBertsche, Isaak, Lohnamtsarbeiter. 86 Rheingasse.\nBienz, Andreas, Schreiner. 312 Im Klingenthal.\nBraun, geb. Reischacher, Wittwe. 61 Rheingasse.\nBraun-Kiefer, Joh., Kaufmann. 244 Ochfengasse.\nBresin, Joh. Jakob Martin, Weißbek. 124 Obere Rebasse.\nBresin, Leonh., Raminfeger. 124 Obere Rebasse.\nBrüllmann, Joh. Georg, von Hemmerschwil, R. St. Gallen,\nDegraisseur. 439 Udengasse.\nBrunner, Joh., v. Oberengstringen, R. Zürich, Bruck-\nknecht. 365 Untere Rheingasse.\nBurchhardt, Joh., Stadtschreiber sel. Wittwe. 44 Rheingasse.\nBurchhardt, Samuel, Schuhmacher. 344 Untere Webergasse.\nC.\nCalame-Reyenthaler, Gustav Adolf, Kaufmann. 199 Rebasse.\nChrist-Uebelin, Balthasar, Commis. 107 Am Lindenberg.\nClamaron, Jos., von Lyon, Seiden-Appreteur. 274\nBeim Bläsithor.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3608,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1067,
+    "lines": 26,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 40.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:02:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p174",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p174.jpg",
+      "bytes": 1022059,
+      "sha256": "b42b2a332096665c058d71dfa757391804ed26caf1c1fb953bf52c1449deb0cd",
+      "sha256_of": "original",
+      "working_copy": "1841_p174.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:38+00:00"
+  }
+}

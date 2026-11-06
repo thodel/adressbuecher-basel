@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p114",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p114.jpg",
+    "bytes": 1180441,
+    "sha256": "17be9658513dcb9dacb0f1a7315fa1d469edd4f04a6e425851fc72b43d078733",
+    "sha256_of": "original",
+    "working_copy": "1850_p114.jpg"
+  },
+  "text": "101\n\nBuser, Wwe., Modiste 491\nJakob, Schneider 678\nGeorg Christ. 969\nJ. J., Ferger 1076\nPeter, Schuhmacher 1167\nJ. J., Sohn, Lehrer 1371\nFriedr., Mechaniker *121\nMatth., Ferger *423\nBuß, J. J., Ferger 993\nBuxtorf-Falkeisen, Cand. 40\n-Preiswerk, R., Pfr. 261\n-Bischoff, A., Bandf. 379-80\nAndreas, Sohn 379-80\n-Merian, L. 886 Compt. 510\n-Bischoff, Fabrike 754GH\n-Fetscherin, F., Sensal 1452\n-Preiswerk, Christ. 1517\n-Burckhardt, Wittwe 221\n-Elsner, Wittwe, El. 1758\nByfelder, Wittwe 1398\nCaillat, Jgfr., Louise 1747\nCalame-Reyenthaler, G. *199\nCappeler, J., Schuhm. 1699\nCaumont, Fr. Ldw. 455\nCherbuin, F., Lehrer 288\nChrist, Ldw., Schuhm. 577\n-Kyburt, J. J. 942\nJ. J., Notar 1080\n-Sarasin, Ad., Bandf. 1205\n-Bischoff, Rem. 1206-7\nBenedikt 1372\nJ. Bapt., Schuhm. 1554\nRud., Metzger 1641\nJgfr., Maria 716\nChristian, Schneider *83\nWittwe, Elise *83\nBalth., Commis *272\nChristen, Nikl., Courtier 674\nPeter, Ferger 882\nWittwe, Magdalena 849\nMath., Lohnwascher *324\nChristmann, Jos., Gastg. 147\nClassen-Steiger, C. A. 582\n[spalte 2]\nClavel-Linder, Alex. *274\nCourvoisier-Lowndes, G. 192\n-vonder Mühll, Hdlsm. 386\n-August, Commis *114\nCovis, Jos. Anton 25\nCramer-Senn, Wwe. M. *5\nCrussaire, Wittwe 590\nLouis, Zuckerbeck 1149\nCuénod, Wwe. Elise 1494\nDalang, Jak. u. Hch. *60\n-Heger, Ed., Ferger *217\nDäntlicker, Jgfr. Cath. 1261\nDänzler, J. R., Hafn. 1651\nDäschler, Claviermacher 591\nDavid, L., Glaser 130\nRudolf, Küfer 608\nEml., Commis 798\nJakob, Ferger 836\nHeinr., Verwalter 839\n-Sickler, Joh. 1239\n-Stähelin, Reinh. 1263\nJ. R. u. Consort. 1381A\n-Lichtenhahn, Wwe. 307\nJoh., Metzger *9\nJoh. Rud., Metzger *48\nChristof, Weinschenk *80\n-Meyer, Rud., Metzg. *107\nHier., Metzger *280\nDay, Wwe. M. M. 559\nBeda, Tapezierer 814\nJoh., Sohn, Schreiner 894\nDebary-Sarasin, Joh. 1483\nJoh., Sohn 1483\n-Respinger, Wwe. 1484\nDebrunner, Heinrich 943\nDeck, Andr., Beamter 330\nJoh., Schneider 1224\nJ. Ulr. u. P. Wilh. 1126\nWittwe Elise 1224\nDeckinger, C., Küfer 85\nDegen, Hch., Zimmerm. *329\nDeggeler, Vd., Schlosser 86\nDeGoumois, Wilh. 1273",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9446,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2017,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 21.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:18:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p114",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p114.jpg",
+      "bytes": 1180441,
+      "sha256": "17be9658513dcb9dacb0f1a7315fa1d469edd4f04a6e425851fc72b43d078733",
+      "sha256_of": "original",
+      "working_copy": "1850_p114.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:43+00:00"
+  }
+}

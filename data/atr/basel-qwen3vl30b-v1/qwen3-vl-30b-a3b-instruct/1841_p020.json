@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p020",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p020.jpg",
+    "bytes": 949536,
+    "sha256": "d7b4f22c07030396646d76b1cfa7ebf64bf43151e18610b6bd1a9429b5b160c2",
+    "sha256_of": "original",
+    "working_copy": "1841_p020.jpg"
+  },
+  "text": "13\nNro.\nSt. Petersplaz.\n307 David, Pfarrer, Wittwe, geb. Lichtenhahn.\n308 Bachofen-Finninger, Samuel, Meßger.\n309 * Stachelschüzenhaus, der Stadt gehörend.\nWeisenburger, Wittwe, geb. Sirt.\n310 * Der Stadt geh. — Scherb, Heinrich, Zimmermann.\nThor.\n311 * Spahlenthor, dem Kanton geh.\nHerzog, Jakob Christoph, Schriftseker.\nKlingensuβ, Heinrich, Thor-Zoller.\nSpahlen-Vorstadt.\n312 Strübin-Lok, Niklaus, Meßger.\n313 Stähelin, Gottfried, Spezereihändler.\n314 Dietzch, Leonhard, Weißbeck.\nGysler, Alb., Thorschreiber.\n315 * Müller, J. J., Bater.\nLindenmeyer, J. J., Weißbeck.\n316 Schmid, Jakob Christoph, Beck und Weinschenk.\n317 Laubheim, Joh. Jakob, Weißbeck.\n318 Laubheim, J. G., Wittwe, geb. Salathe.\n319 Schmid, Elisabetha, geb. Suter.\nBernoulli, Lehrer am Gymnasium.\n320 * Georg, David, Hufschmid sel. Erben.\n321 Henz, Daniel, Wagner, geh.\nBorft, August, Schneider.\nImhof, Andreas, Beck.\n322 Stücksberger, Reinhard, Weißbeck.\n323 Pfannenschmid, Lucas sel., Wittwe.\n324 Schänklin, Joh. Jakob, Schuster.\nElsner, J. J., Kornmesser.\n325 Gnöpff, Joh. Jakob sel., Wittwe, geb. Kinder.\n326 Müller, Heinrich, Sohn, Gasthof zum schwarzen Ochsen.\nFröschgasse.\n327 Salathe, Emanuel, Küfer.\n328 * Bratsch, J. J., Schuhmacher sel. Erben.\nMeier, Fidel, Lohnkutscher, von Bernau.\n329 u. 330 Henz, Daniel, Wagner.\nGaf, Abr., Postadjunkt, von Oltingen.\n331 Biermann, Philipps sel., Wittwe, geb. Meyer.\n332 * Magazin, den HH. Gottfried und Mathias Stähelin geh.\n333 Jäslin-Streckeisen, Joh., Speditions- u. Commissions-Waaren-\nHandlung.\n334 * Magazin und Haus, dem Hrn. Gottfr. Stähelin geh.\nSchäublin, Rudolf, Schuhmacher, von Lieftal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4858,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1619,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.22,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p020",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p020.jpg",
+      "bytes": 949536,
+      "sha256": "d7b4f22c07030396646d76b1cfa7ebf64bf43151e18610b6bd1a9429b5b160c2",
+      "sha256_of": "original",
+      "working_copy": "1841_p020.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:37+00:00"
+  }
+}

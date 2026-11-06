@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p010",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p010.jpg",
+    "bytes": 1358694,
+    "sha256": "6c05b3681c5cfda613af6b98582d4b89f12c59d50089c349cee7a803636b1e46",
+    "sha256_of": "original",
+    "working_copy": "1862_p010.jpg"
+  },
+  "text": "Schweizerische\nBundesbehörden und Beamte.\nfür das Jahr 1862.\n\nBundesrath.\nHr. Jakob Stämpfli, Präsident, Chef des politischen Departements.\n\" Constant Fornerod, Vice-Präsident, Chef des Militär-Departements.\n\" Joseph Martin Knüsel, Chef des Finanz-Departements.\n\" Wilhelm Räff, Chef des Post-Departements.\n\" Friedrich Frey-Herosee, Chef des Handels- und Zoll-Departements.\n\" Giovanni Battista Pioda, Chef des Dep. des Innern u. d. Baufwesens.\n\" Jakob Dubs, Chef des Justiz- und Polizei-Departements.\n\nBundeskanzlei.\nHr. Ulrich Schief, Kanzler, Sekretär d. Nationalraths.\n\" J. Kern-Germann, Stellvertreter, Sekretär des Ständeraths.\n\nNationalrath.\nKreis XXIII Basel-Stadt.\nHr. J. J. Stehlin, Nationalrath.\n\nStänderath.\nBasel-Stadt.\nHr. Aug. Stähelin-Brunner, Ständerath.\n\nBundesgericht.\nHr. Arnold Otto Aeppli, Präsident.\n\" Ed. Eugen Blösch, Vice-Präsident.\n\" Dr. Eugen Escher, Gerichtsschreiber.\n\nEidgenössischer Schulrath.\nHr. Carl Kappeler, Präsident.\n\" Dr. Alfred Escher, Vice-Präsident.\n\" Joh. Gust. Stocker, Prof., Sekretär.\n\" Dr. Pompejus Bollen, Director der polytechnischen Schule.\n\" Dr. Gustav Zeuner, Vice-Director.\n\nSchweizerische Zollverwaltung.\n1. Zollgebiet Basel.\n(Grenzlinie der Cantone Bern, Solothurn, Basel-Stadt, Basel-Landschaft, Aargau.)\nHr. Dr. Carl Ferdinand Schimpf, Director.\n\nSchweizerische Postverwaltung.\nV. Postkreis Basel.\nHr. Joh. Maurer, Direktor.\n\" Johannes Gürtler, Controleur.\n\nSchweiz. Telegraphenverwaltung.\nII. Telegraphenkreis Bern.\nHr. August Frey, Inspector.\nBureau Basel.\n\" Leopold Brogle, Chef.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4722,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1538,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p010",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p010.jpg",
+      "bytes": 1358694,
+      "sha256": "6c05b3681c5cfda613af6b98582d4b89f12c59d50089c349cee7a803636b1e46",
+      "sha256_of": "original",
+      "working_copy": "1862_p010.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:01+00:00"
+  }
+}

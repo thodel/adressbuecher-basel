@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p043",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p043.jpg",
+    "bytes": 1008703,
+    "sha256": "ac71971b46368f253cd2827b080db6f664beb86909aa4bdf2ad681d231d091fc",
+    "sha256_of": "original",
+    "working_copy": "1850_p043.jpg"
+  },
+  "text": "30 Steinen-Quartier.\n\nHinteres Gerbergäßlein.\n\n676 Leuzy, Steinhauer.\n677 Schenk, Georg, Lohnwascher.\n  Knecht, B., Rechnungslehrer.\n678 Buser, Jakob, Schneider.\n679 Möschinger-Boos, Wittwe, Lohnwascherin.\n680 Faust, Hch., Bauamtarbeiter.\n681 Weiß, Dl. H., Schneider und Briefträger.\n682 Kunz, Seb., Fabrikarbeiter.\n683 Hoch, Joh.\n\nStapfelberg.\n\n684 Imhof, Joh. Fr., Buchbinder und Lohnwascher.\n685 Böhler, Nepomuk, Zimmergesell.\n686 Raab, Rudolf, Schneider. [handschriftlich: gestrichen] [handschriftlich: Christl: Christ, Schuhm:r]\n\nSt. Leonhardsberg.\n\n687 Immler, Schreiner.\nA 687 Müller, Christoph, Hafner.\n688 Puppikofer, Leonhard, Fabrikarbeiter.\n  Puppikofer, Rudolf, Buchbinder.\n689 Simmler, Hch., Fabrikarbeiter.\n690 Knellwolf-Keller, Wittwe.\n\nBei St. Leonhard.\n\n691 Hagenbach-Geigy, K. R., Theol. Dr. und Professor.\n692 Kuster, Johann Franz, Spezierer.\n\nAuf dem Kirchhof.\n\n693 Bruckner, Abraham, Diacon bei St. Leonhard.\n  Bruckner, Ed., Architekt.\nA 693 Respinger, F. R., Diacon.\n694 Fischer, Emanuel, Siegrist bei St. Leonhard.\n695 (Lohnhof) löbl. Polizeibureau.\n  Möcklin, Rudolf, Gefangenwärter.\n\nSt. Leonhardsberg.\n\n696 Merker, Karl, Vergolder.\n697 Koch, Johannes, Buchdrucker.\n698 Ackermann, Barb., Kleinkinderschule.\n699 Basler-Grunauer, Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5719,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1262,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 32.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p043",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p043.jpg",
+      "bytes": 1008703,
+      "sha256": "ac71971b46368f253cd2827b080db6f664beb86909aa4bdf2ad681d231d091fc",
+      "sha256_of": "original",
+      "working_copy": "1850_p043.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:30+00:00"
+  }
+}

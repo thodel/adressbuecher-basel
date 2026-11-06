@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p014",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p014.jpg",
+    "bytes": 1460328,
+    "sha256": "49d5449e6f8908a30a6830232e18bf0a6b967779e6206442fc24fe9deaa89f4a",
+    "sha256_of": "original",
+    "working_copy": "1862_p014.jpg"
+  },
+  "text": "Behörden und Beamte. XI\n\nHolzsetzer.\nLeonhard Baumgartner.\nNiklaus Schweizer.\nSalomon Bommer.\nAnton Entinger.\nEucharius Henz.\nJakob Meyer.\nAbraham Hiob Löw.\n\nC. Kommissionen.\n\nI. Brandversicherungskommission.\nHr. Rathsherr Leonh. Heußler, Präsident.\n\nII. Kaufhauskommission.\nHr. Rathsherr Alphons Köchlin-Geigy,\n  Präsident.\nKaufhausinspektor.\nHr. Bestäter Krayer.\nLagerhausdirektor.\nHr. Hch. Jezler-Klein.\n\nIII. Landarmenkommission.\nHr. Rathsherr H. Unholz, Präsident.\n\nIV. Notariatskommission.\nHr. Rathsherr Eman. Burckhardt, J.U.D.,\n  Präsident.\n„ Staatsschreiber Gottl. Bischoff, J.U.D.\nVerzeichniß der auf der Notariats-\nmatrikel befindlichen Notarien, so-\nwohl der praktizirenden als der\nnicht praktizirenden.\nHr. Daniel Bernoulli, J. U. D.\n„ Niklaus Bernoulli, J. U. L.\n„ Hieronimus Vest, J. U. C.\n„ Johs. Herzog.\n„ Rudolf Schmid, J. U. D.\n„ August Heitz, J. U. D.\n„ Gedeon Meyer.\n„ Walter Merian.\n„ J. J. Fäsch, Sohn, J. U. D.\n„ Andreas Schaub, J. U. D.\n„ Ludw. Matth. Ehinger, J. U. D.\n„ Carl Wieland, J. U. C.\n„ Walter Merian, Sohn, J. U. C.\n„ J. J. Heimlicher, J. U. D.\n„ Karl Rud. Stehlin, J. U. D.\n„ Wilh. Lichtenhahn, J. U. C.\n„ Eduard Heußler, J. U. D.\n„ Hermann Christ, J. U. D.\n„ August Kündig, J. U. D.\n„ Karl de Joh. Bernoulli, J. U. D.\n\n[spalte 2]\n\nHr. August Heußler, J. U. D.\n„ Adolf Schmid, J. U. D.\n„ Fritz Bernoulli.\n„ Diethelm Schultheß.\n\nV. Strafanstaltenkommission.\nHr. Rathsherr Em. Burckhardt-Fürsten-\n  berger, Präsident.\nDirektor d. Strafanstalten.\nHr. I. Salis.\n\nVI. Eisenbahnkommission.\nHr. Rathsherr Carl Vischer-Merian,\n  Präsident.\n\nVII. Niederlassungskommission.\nHr. Rathsherr Leonhard Fininger, Prä-\n  sident.\n\nVII. Kommission für Beaufsichtigung\nder Transmissionen und Dampfma-\nschinen.\nHr. Rathsherr Carl Sarasın, Präsident.\n„ Friedrich Autenheimer, Rektor, obrigk.\n  Techniker.\n\nD. Kanzlei des Kantons.\nHr. G. Bischoff J. U. D., Staatsschreib.\n„ Carl Burckhardt, J. U. D., Raths-\n  schreiber.\n„ Johannes Krug, Archivar.\n„\nHr. Samuel Baur, Sekret. u. Paßschreiber.\n„ Hier. Früh-Ronus, Sekretär.\n„ Rudolf Schmid, Sekretär.\n„ Leonhard Kehlstadt, Oberstrathsdiener.\nJakob Tschudy u. Eman. Otto, Rathsboten.\nWilhelm Oser u. J. J. Nidecker, Amtsdiener.\n\nE. Polizei-Direktion.\nHr. J. J. Wirz, J. U. D., Polizei-Di-\n  rektor.\n„ Johannes Wolleb, Polizeisekretär.\n„ Sam. Schaffner, Polizeisekretär und\n  Chef d. Paßabtheilung.\n„ Joh. Krapf, Major, Chef des Po-\n  lizei-Corps.\n„ Hauptm. Rud. Hoffmann, l. Offizier.\n„ August Häring,            ll. „\n„ Johann Benz, Lieut.,       lll. „\nHr. Sam. Winzenried, Thurmwart.\n\nHr. Jakob Baur, Eichmeister.\n„ Gustav Mäglin, Glassinner.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10611,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2606,
+    "lines": 97,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0206,
+    "mean_line_chars": 25.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:26:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p014",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p014.jpg",
+      "bytes": 1460328,
+      "sha256": "49d5449e6f8908a30a6830232e18bf0a6b967779e6206442fc24fe9deaa89f4a",
+      "sha256_of": "original",
+      "working_copy": "1862_p014.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:26:24+00:00"
+  }
+}

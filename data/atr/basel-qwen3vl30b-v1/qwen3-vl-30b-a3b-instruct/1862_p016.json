@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p016",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p016.jpg",
+    "bytes": 1444944,
+    "sha256": "b4d55ff21ba902f1b51e65ba7ff16c9e05de761b934807e94102a9c0bf84d359",
+    "sha256_of": "original",
+    "working_copy": "1862_p016.jpg"
+  },
+  "text": "Behörden und Beamte.\nXIII\nKriegsgericht.\nHr. Major Rud. Burckhardt, Grosrichter. Hr. Christ. Riggembach, Architekt, Prä-\n\" Oberstlt. Aug. Burckhardt, Richter. sident.\n\" eidg. Oberst Sam. Bachofen, Richter. \" Rud. Bischoff-Merian, Statthalter.\n\" Hauptm. Aug. Raillard, \" \" Joh. Müller, Maurermeister.\n\" Commandant Albert Loz, \" \" Friedrich Loz, Zimmermeister.\n\" Hauptm. Hans Burckhardt, J. U. D., \" F. F. Awengen, Architekt.\nSuppleant. \" Carl Rhyner-Bischoff.\n\" Ed. Bischoff, Suppleant. \" August Raillard-Stähelin.\n\" Major Em. Burckhardt, J. U. D., \" Wilhelm Müller, Sohn.\nOberauditor. \" Andreas Heusler-Sarasin, J. U. D.\n\" Hauptm. F. F. Heimlicher, J. U. D.,\nAuditor.\n\" Lieut. Andr. Schaub, J. U. D., Ge-\nrichtschreiber.\nDienstbotenrichter.\nHr. Notar Andreas Schaub, J. U. D.\nBezirks-Gerichte.\nBezirk Basel.\nCivilgericht.\nHr. Prof. Joh. Schnell, J. U. D., Prä-\nsident.\n\" Ed. Bernoulli-Riggembach, Statthalter.\n\" Aug. Bischoff-Fürstenberger.\n\" Heinrich Merian-BonderMühl.\n\" Friedr. BonderMühl-Bischer.\n\" Elias Burckhardt, J. U. D.\n\" Benedikt Stähelin-Linder.\n\" Christoph Konus-BonSpeyr.\n\" Johannes de Leonhard Bernoulli.\n\" Rud. Geigy-Merian.\n\" Albert Bischoff-Sarasin.\n\" Ed. Preiswerk-Burckhardt.\n\" Adolf Burckhardt-Bischoff.\nSuppleanten.\nHr Andr. Heusler-Sarasin, J. U. D.\n\" Eduard Bruckner-Merian.\n\" Adolf Burckhardt, J. U. D.\n\" Ferdinand Labhardt.\nHr. Hermann Christ, J.U.D., Gerichtschreiber.\n\" Fritz Bernoulli, Subst. d. Gerichtschreib.\n\" F. F. Schwob, Amtmann.\n\" B. D. Rumpf,\n\" Bened. Haga,\nKonrad Liebrich, Weibel.\nJakob Zuber, Gaufrufer.\nBaugericht.\n\" Rud. Bischoff-Merian, Statthalter.\n\" Joh. Müller, Maurermeister.\n\" Friedrich Loz, Zimmermeister.\n\" F. F. Awengen, Architekt.\n\" Carl Rhyner-Bischoff.\n\" August Raillard-Stähelin.\n\" Wilhelm Müller, Sohn.\n\" Andreas Heusler-Sarasin, J. U. D.\nSuppleanten.\nHr. Friedr. Frey, Maurermeister.\n\" Josua Tesler, Zimmermeister.\nHr. Aug. Rindig, J.U.D., Gerichtschreiber.\nGeorg Meyer, Weibel.\nGescheidsgericht der mehrern\nStadt.\nHr. Alfred BonderMühl-Fürstenberger,\nPräsident.\n\" Wilh. Burckhardt-Preiswerk, Statth.\n\" Emil Thurneyssen-Merian.\n\" Wilh. Müller, Sohn, Schreiber.\n\" Joh. DeBary, Sohn.\n\" Rud. Oser-Thurneyssen\n\" Friedr. Bischer-Bischoff.\n\" Rud. Gemuseus-vonBrunn.\n\" Dr. August Heusler.\nF. Bürgin, Martin Schneider, Theodor\nJäggi, Bannwarte.\nGescheidsgericht der mindern\nStadt.\nHr. Aug. Schäfer-Euler, Präsident.\n\" August Raillard-Stähelin, Statthalter.\n\" Andreas Braun-Gesler.\n\" Franz Hindermann.\n\" Carl Heusler-Wegner.\n\" Albert Loz.\n\" David Urech, Schreiber.\n\" Rud. Krauer.\n\" Rud. Bienz-Deschger.\nHans Holzach, Carl Falkner, Bannwarte.\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7626,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2601,
+    "lines": 89,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0225,
+    "mean_line_chars": 28.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:19:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p016",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p016.jpg",
+      "bytes": 1444944,
+      "sha256": "b4d55ff21ba902f1b51e65ba7ff16c9e05de761b934807e94102a9c0bf84d359",
+      "sha256_of": "original",
+      "working_copy": "1862_p016.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:48+00:00"
+  }
+}

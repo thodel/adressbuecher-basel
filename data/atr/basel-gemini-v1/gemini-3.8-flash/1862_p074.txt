@@ -1,0 +1,55 @@
+Aeschenvorstadt. 9
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+34 | IV. | 956 | | Dick, Jgfr. Caroline.
+  Dick, Jgfr. Carol., Particulierin.
+  Bernoulli-Dick, Joh., Alt-Postdirektor.
+  Bernoulli, Carl, J. U. D., Kanzleisekret.
+  Bernoulli, Jgfr. Mathilde.
+35 | IV. | 1029 | zum Löwenberg. | Bißlikummer-Fischer, J. Mich.
+  Bißlikummer-Fischer, J. M., Handelsm.
+  Rieger Müller, Joh. Jak., Mustermacher.
+36 | IV. | 957 | zur Rose. | Bloch-Herzog, Daniel.
+  Bloch-Herzog, Daniel, Kaufmann.
+37 | IV. | 1028 | zur Wog. | Senn-Zwicki, Heinrich.
+  Senn-Zwicki, Heinrich, Flachmaler.
+  Weber, Joh., Tabak- u. Cigarrenhandl.
+  Schäfer, Matthias, Commis.
+  Ernst-Gürtler, Sara, Wb., Particul.
+38 | IV. | 958 | zum vordern Hasen. | Kühn-Grandjean, Joh. Jakob.
+  Kühn-Grandjean, J. J., Schuhmacher
+    und Weinsticher.
+  Boßardt-Adelung, Frau Susette.
+  Detis-Guchry, Ros., Wb., Vorgängerin.
+  Sixt-Kühn, Eml., Commis.
+39 | IV. | 1027 | z. schwarzen Thurm. | Burckhardt-Stierlin, Abraham.
+  Burckhardt-Stierlin, Abr., Bäcker.
+  Jenny, Jakob, Flachmaler.
+40 | IV. | 959 | zu den drei Hasen. | Horner-Mechel, Daniel.
+  Horner-Mechel, Daniel, Bäcker.
+41 | IV. | 1026 | Schwarzen Bären. | Merian-Bernoulli, Rudolf.
+  Merian-Bernoulli Rudolf, Prof. d. Math.
+42 | IV. | 980 | | Schaub-Weber, Jakob.
+  Schaub-Weber, Jakob, Wirth.
+  Merz-Christen, Jakob, Muster-Weber.
+43 | IV. | 1025 | | Göttisheim-Reiser, Friedr., Pat.
+  Göttisheim-Reiser, Fr., Spezereihdlg.
+44 | IV. | 981 | zum Stern, Gasthof. | Breiting-Heußler, Samuel.
+  Breiting-Heußler, Sam., Gastwirth.
+  Heußler-Lima, Carl, Partikular.
+45 | IV. | 1024 | zum Repper. | Bulacher-Hosch, Sal., Wb.
+  Bulacher Hosch, Sal. Wb., Bierbrauer.
+  Hosch-Buxtorf, Salome, Wb.
+  Hosch, Eduard, Baukassier.
+46 | IV. | 932 | zum kleinen Stern. | Breiting-Schardt, Peter.
+  Breiting-Schardt, Peter, Metzger.
+  Dizerens, Louis, Marbrier
+  Göttisheim-Breiting, Fr., Red. d. Tagbl.
+47 | IV. | 1018 | zum Eckweiher. | Brand-Fries, Marie, Wb.
+  Brand-Fries, Marie, Wb., Kerzenmachr.
+  Weber-Schaffner, Wilh., Mechaniker.
+48 | IV. | 983 | | Kiefer-Rochty, Johannes.
+  Kiefer-Rochty, Joh., Commis.
+  Vogt-Freyler, J., Ferger.
+  Freyler-Theodor, Dessinateur.
+  Guise, Fräulein J., Sprachlehrerin.

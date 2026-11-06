@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p018",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p018.jpg",
+    "bytes": 1162974,
+    "sha256": "5c6baf60b7a487487e7f6de5a0897c1580ac99575e574c5df01520f17d297ab4",
+    "sha256_of": "original",
+    "working_copy": "1850_p018.jpg"
+  },
+  "text": "8 St. Johann-Quartier.\n\n163 Siegrist-Frey, Joh., Taback- u. Spezereihandlung.\n  Siegrist, Joh., Commis.\n164 Stumm, Friedr., Taback- und Spezereihandlung.\n165 Rumpf, Daniel, Wundarzt und Amtmann.\n166 Groß, Wittwe Maria geb. Bruckner, Knopfmacher.\n  Groß, Joh., Postbeamter.\n167 Geist, Wittwe Anna geb. Gaß, Schuhmacher.\n168 Bernoulli, Jak. Hier., Commis.\n169 Wittwe Miville, Hutmacher.\n170 Biermann, Gottfried, Messerschmied.\n171 Häselinger, Jakob, Geldwechsler.\n172 Handmann, J. J., Goldschmied.\nA 172 (Sprizenhaus) obrigkeitlich.\nB 172 Sehringer, Gg., Kleiderhandlung.\n173 (Posthaus) Bernoulli-Dick, Joh., Postdirektor.\n\nBrunngäßlein.\n\n174 Wagner, Konrad, Fisch- und Holzhandlung.\n  Steiger-Vallon, Geschäftsmann und Töchterschule.\n175 Jäggi-Hiller, Maurer.\n176 Hergott, J. Ludwig, Lehrer.\n177 Breitenstein, Amb., Wirth.\n\nUnterer Herbergberg.\n\n178 Beck, Christ., obrigkeitl. Ausrufer u. Stadttambour.\n179 Tschudy, Martin, Maurer.\n180 Frey-Laudier, J., Sohn, Knopfmacher u. Weinsticher.\n181 Abgebrochen.\n182 Magazin.\n183 Kern, Jakob, Fabrikarbeiter.\n  Senn-Kern, Hch., Commis.\n184 Prosser, Ch., Spengler.\n185 Klett, Sebastian, Fabrikarbeiter. [handschriftlich: gestrichen] [handschriftlich: Karl Vandermeier.]\n186 Breitenstein, J. J., Trödler u. Spezierer.\n187 Weiß, Joh., Magazinarbeiter.\n\nHerbergberg.\n\n188 Martin, Georg, Schreiner.\n189 Kupferschmied, Lukas, Schlosser.\n190 Eckert, Jos., Professor der Mathematik.\n191 Fucker, Benedikt, Musiklehrer.\n  Reischacher, J. J., Kaufmann.\n  Koch-Monin, Karl, Dessinateur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7106,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1515,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.51,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:08:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p018",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p018.jpg",
+      "bytes": 1162974,
+      "sha256": "5c6baf60b7a487487e7f6de5a0897c1580ac99575e574c5df01520f17d297ab4",
+      "sha256_of": "original",
+      "working_copy": "1850_p018.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:04+00:00"
+  }
+}

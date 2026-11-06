@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p078",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p078.jpg",
+    "bytes": 1023307,
+    "sha256": "5a3e5cb2663a6d2fa2b1a983dc2be1880d77d3fbae9bb6acc36fd8c5601629ec",
+    "sha256_of": "original",
+    "working_copy": "1850_p078.jpg"
+  },
+  "text": "St. Alban=Quartier. 65\n1458 (Realschule.) Fren-Frenvogel, Heinrich, S. M. C.,\n  Rector.\n1459 Merian-Burkhardt, F. F., Banquier.\n1460 Horner, Friedr., Kunstmaler.\n  Müller, Rudolf,\n  Gysler, Hch., Handelsmann, Comptoir in Nr. 1084.\n1461 (Gymnasium.) Burkhardt-Burkorf, Johann Rudolf,\n  Phil. Dr., Rector.\n1462 Burkhardt-Ryhiner, F. F., Bürgermeister.\n1463-64 (Neue Lesegesellschaft.) Mieg, F. F., Bibliothekar.\n1465-66 Stücksberger-Stückelberger, Med. Dr., Wittwe.\n  Stücksberger, Ulrich, Pfarrer.\n1467 Müller-Burkhardt, F. G., Prof. theol.\n1468 Lichtenhahn-Kirchberger, Wittwe M., Rentière.\n1469 Stallung.\n1470 Burkhardt-His, Martin, Rentier.\n  Burkhardt-Steffani, Jak., \"\n1471 Bischoff-Debary, Wittwe Sus., Rentière.\n  Bischoff, Johann, Kaufmann.\n  Bischoff, Jgfrn. Marie u. Louise, Rentières.\n1472 Rosenburger-Rapp, F. F., Rentier.\n1473 Sulger-Sprecher, Wittwe, Rentière.\n  Reber-Sulger, Balth., S. M C., Lehrer.\nAugustinergasse.\n1474 Miville-Preiswerk, Wittwe A. C., Rentière.\n1475 Burkhardt-Keller, Rudolf, Rentier, Appellationsge-\n  richts- und Großrathspräsident.\n1476 Burkhardt-Bernoulli, Wittwe Charl., Rentière.\n  Burkhardt, Christ., Med. Dr.\n1477 Girard, Louis, Lehrer am Gymnasium.\n1478 Kürsteiner, Wittwe.\n1479 Raillard, Emanuel, Med. et Chir. Dr.\n1480 Meyer-Lichtenhahn, R., S. M. C., Lehrer.\n1481 Burkhardt, Jgfr. Marg., Kapitalistin.\n1482 Eglinger-Fürstenberger, Emanuel, S. M. C.\n1483 Debary-Sarasin, Joh., Bandfabrikant.\n  Debary, Joh., Sohn.\n1484 Debary-Respinger, Wittwe Doroth., Rentière.\nRheinsprung.\n1485 Bischoff-Fürstenberger, Aug., Bandfabrikant.\n 5",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5046,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1574,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p078",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p078.jpg",
+      "bytes": 1023307,
+      "sha256": "5a3e5cb2663a6d2fa2b1a983dc2be1880d77d3fbae9bb6acc36fd8c5601629ec",
+      "sha256_of": "original",
+      "working_copy": "1850_p078.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:06+00:00"
+  }
+}

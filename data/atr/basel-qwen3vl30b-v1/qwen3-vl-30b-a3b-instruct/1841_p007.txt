@@ -1,0 +1,30 @@
+Erklärung.
+Dieses Nummern- und Adreßbuch besteht aus zwei Theilen:
+der erste Theil enthält, nach der Reihenfolge der Nummern (und
+Straßen) geordnet, die Namen der verehrlichen Besitzer und Einwohner
+von sämmtlichen Häusern; die Eigenthümer find mit * bezeichnet. —
+Der zweite Theil enthält, wie der erste nach der Großen und
+Kleinen Stadt abgetheilt, dieselben Namen nach alpha-
+betischer Ordnung mit Hinzufügung der respectiven Wohnungen,
+und ist demnach selbstständig und als Register des Nummernbuches
+zu gebrauchen.
+Nro.
+1 a
+1 b
+2 f
+3 *
+4 2
+5 f
+6 f
+7 *
+8 2
+9 a
+9 b
+9 c
+10 *
+11 f
+12 u
+14 f
+15 u
+17 2
+18 *

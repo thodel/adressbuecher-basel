@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p179",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p179.jpg",
+    "bytes": 930944,
+    "sha256": "f8d600e7b514597ab33cff735261bb7c1fe99945243e574061aa472f6016b915",
+    "sha256_of": "original",
+    "working_copy": "1841_p179.jpg"
+  },
+  "text": "Bänne.\nA. Groß-Basel-Bann.\nB.\nAbt, Jakob, von Brekwil, Posamenter. 262 St. Jakob-\nstraße. O. B.\nUfermann, Joseph, von Escholzmatt, Lehenmann. 17\nStraße nach St. Louis. U. B.\nAebi, Hartm. Fried., v. Kirchberg. 275 Neuere Neufäk.\nAeschbach, Emanuel, von Diegten, Gärtner. 318 Weiden-\ngäcklein. O. B.\nUndermatt, Franz, von Balfal, Lehenmann. 10 Hüninger\nStraße. U. B.\nB.\nBachmann, Samuel, von Bottenwil, Posamenter. 187\nLohstampfsberg. U. B.\nBachthaler, Johannes, von Stetten, Gärtner. 211 Heu-\nmattgasse. O. B.\nBader, Samuel, von Langenbruck, Lehenmann. 172 Bei\nder Schüzenmatte. U. B.\nBader, Jakob, von Langenbruck, Gutsbesitzer. 22\nKlingenberg. O. B.\nBader, Joh., sel. Wittwe. von Langenbruck, Lehenfrau.\n24 Klingelberg. U. B.\nBaumann, Joh. Heinrich, von Thun, Färber. 189 Loh-\nstampfsberg. U. B.\nBenner, Julie, Jäfr., von Mühlhausen, Näherin. 19\nStraße nach St. Louis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3197,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 875,
+    "lines": 27,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0741,
+    "mean_line_chars": 31.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0023,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:02:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p179",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p179.jpg",
+      "bytes": 930944,
+      "sha256": "f8d600e7b514597ab33cff735261bb7c1fe99945243e574061aa472f6016b915",
+      "sha256_of": "original",
+      "working_copy": "1841_p179.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:59+00:00"
+  }
+}

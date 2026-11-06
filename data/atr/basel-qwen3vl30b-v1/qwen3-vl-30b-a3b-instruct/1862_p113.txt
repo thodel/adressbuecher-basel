@@ -1,0 +1,59 @@
+48
+Freie Straße.
+Nene
+Haus=Nr. | Quar-
+tier. | Alte
+Haus=No. | Name des Hauses. | Namen der Hauseigenthümer
+und Bewohner.
+101 | V. | 1074 | zum Tannenwald. | Rumpf=Hartmann, Anna Mar. Wb.
+Rumpf=Hartmann, Anna Maria, Wb., Bürstenmacher.
+103 | V. | 1072
+1073 | zur Nachtigall. | Meyer=Heusler, Johannes.
+Meyer=Heusler, Joh., Coiffeur.
+Albrecht, Jakob Christof, Commis.
+105 | VI. | 1071 | zum vordern Maul-
+beerbaum. | Djer, Joh. Jakob.
+Djer, Joh. Jakob, Schuhmacher.
+Ackermann, Johann, Schuhmacher.
+Schöner, Joh. Adam, Part.
+107 | V. | 1070 | zur Mohrin. | Wezel=Schoelli, Joh. Fried.
+Wezel=Schoelli, Joh. Friedr., Bäcker.
+109 | V. | 1069 | zum Eichbaum. | Robert=Chevalier, Emil.
+Robert=Chevalier, Emil, Wirth u. Cen-
+tralbahn=Angestellter.
+Roth=Hunziker, Urfr., Cigarrenhändler,
+(siehe Nro. 36).
+Gyfin, Eman., Commis.
+111 | V. | 1068 | z. niedern Schwelle. | Vogel=Hug, Maria Sal., Wittwe.
+Vogel=Hug, Maria Sal., Part.
+Meyer=Vogel, Casimir, Agent.
+113 | V. | 1067 | zum Rettenhof. | Riggenbach=Stehlin, Friedrich.
+Riggenbach=Stehlin, Friedr., Banquier.
+(Firma F. Riggenbach.)
+115 | V. | 1066 | zum Rettenhof. | Riggenbach=Stehlin, Friedrich.
+Stehlin=Hagenbach, Joh. Jakob, Bürger-
+meister u. Nationalrath.
+117 | V. | 1065 | | Heitz=Dewette, Aug., Notar. J. U. D.
+Lardet u. Comp., Mathieu, maison
+de Commission et Exportation.
+Gartenstraße.
+62 | IV. | 211 | | Schaub=Seiler, Jacob.
+Schaub=Seiler, Jacob, Zettlermeister.
+Djer=Iselin, Wilhelm, Amtsdieners.
+Zimmermann, Oskar Friedrich, Pfarrer.
+64 | IV. | 211 B | | Epple=Stücklin, Christian.
+Epple=Stücklin, Christian, Mechaniker.
+Kindweiler, Fritz, Maler.
+Matthys=Schauenburg, F. F., Commis.
+Habrecht=Heinz, Adolf Moritz, Preuß.
+Ber.=Inspector.
+66 | IV. | 211 C | | Epple=Stücklin, Christian.
+Förin=Meyer, Johann, Restaurant.
+Schorrer, Igsfrn. Elisabeth Margaretha
+u. Anna Maria.
+68 | IV. | 211 D | | Epple=Stücklin, Christian.
+Mac=Walz, Kaver, Mechaniker.
+Mösch, Wendolin, Portier b. d. Centralb.
+Schaffner, Friedr., Centralb.=Angestellt.
+70 | IV. | 211 E | | Epple=Stücklin, Christian.
+Müller=Scheerer, Carl, Gütler.

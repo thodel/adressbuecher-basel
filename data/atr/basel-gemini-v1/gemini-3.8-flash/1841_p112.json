@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p112",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p112.jpg",
+    "bytes": 1055272,
+    "sha256": "ab67d2bda18ec884dcb6c832c3faeb0aedd409c120e9e85e9a329047630240eb",
+    "sha256_of": "original",
+    "working_copy": "1841_p112.jpg"
+  },
+  "text": "29\n\nMarolf, Franz Carl, Schreiblehrer. 251 St. Petersplatz.\nMartin, Heinrich, Flachmaler. 799 Vordere Steinen-Vorstadt.\nMartin, Emanuel, Weißbeck. 859 Thorsteinen.\nMartin, Andreas, Fabrikaufseher. 859 Thorsteinen.\nMartin, Math., Werkmeister. 1151 Gerbergasse.\nMartin, Franz, Kaufmann. 251 St. Petersplatz.\nMartin, Georg, Schreiner. 188 Unt. Herbergberg.\nMartin, Leonhard, Hafner. 1019 Brunngäßlein.\nMassini, Gebrüder, Quincailleriehändler. 174 Brunngäßlein.\nMast, Mathias, Seidenfärber. 799 Vordere Steinen-Vorstadt.\nMatzinger, Rudolf, Schlosser. 86 St. Johann-Vorstadt.\nMatzinger, Bernh., Handels-Commis. 1423 Freie Straße.\nMatzinger, Franz, Schreiblehrer. 232 St. Petersgasse.\nMatzinger, Joh. Bernh., Nadler u. Spezereihändler. 1028 Aeschen-\n  Vorstadt.\nv. Mechel sel. Wittwe, Bäckerin. 868 Thorsteinen.\nv. Mechel, J. Lucas, Major. 828 Blömlein.\nv. Mechel, Benedikt, Küfer. 989 Aeschen-Vorstadt.\nMeck, Elias, Handels-Commis. 1332 St. Alban-Vorstadt.\nMeck, Gottlieb, Schreiner. 1332 St. Alban-Vorstadt.\nMeinzer, Wilh. (Taback- u. Cigarrenhandel.) 477 Ob. Spahlenberg.\nMeister, Heinrich, Zimmermann, von Langwiesen. 890 Klosterberg.\nMeyer, J. J., Kübler. 206 Spiegelgasse.\nMeyer, Joh. sel., Wittwe, geb. Merian. Englische, französische\n  und schweizerische Manufakturwaaren-Handlung en gros et\n  en détail. 1094 Barfüßerplatz.\nMeyer, Tischmacher. 412 Trillengäßlein.\nMeyer, Peter, Metzger. 347 Fröschgasse.\nMeyer, Emanuel, Trödler. 477 Oberer Spahlenberg.\nMeyer, Christ. Heinr., Kaufmann, von Stuttgart. 99 St. Johann-\n  Schwibbogen.\nMeyer, Joh. Christoph, Zuckerbäcker. 1089 Streitgasse.\nMeyer, M., Indiennehandlung. 607 Unterer Spahlenberg.\nMeyer, Gedeon, Notar. 104 Blumenrain.\nMeyer, Joh., Perrückenmacher. 1072 Tiefe.\nMeyer, Jakob, Metzger. 1749 Sattelgasse.\nMeyer, Margaretha, Jungfer. 110 Blumenrain.\nMeyer, Franz Jos., v. Reinach, Hutmacher. 1638 Unt. Freienstraße.\nMeyer, Fidel, Lohnkutscher, von Bernau. 328 Fröschgasse.\nMeyer, Wittwe, geb. M. M. Bauler. 1695 Kuttelgäßlein.\nMeyer, Emanuel, alt Pfarrer. 366 Auf der Leis.\nMeyer, Jungfrau, Marie. 713 Barfüßerplatz.\nMeyer, F., Thierarzt. 753 Kohliberg.\nMeyer, Heinrich, Fabrikaufseher. 754 h Kohliberg.\nMeyer-Lichtenhahn, Candidat. 352 Spahlen-Vorstadt.\n5",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7805,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2214,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.94,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:56:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p112",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p112.jpg",
+      "bytes": 1055272,
+      "sha256": "ab67d2bda18ec884dcb6c832c3faeb0aedd409c120e9e85e9a329047630240eb",
+      "sha256_of": "original",
+      "working_copy": "1841_p112.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:26+00:00"
+  }
+}

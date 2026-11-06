@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p171",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p171.jpg",
+    "bytes": 1010914,
+    "sha256": "e52b7f77d4dd93a6a0d0f9192fc849bc1e631e9ead0905361458451669bf052c",
+    "sha256_of": "original",
+    "working_copy": "1841_p171.jpg"
+  },
+  "text": "— 18 —\n\nSulger - Sprecher, Marg., Wittwe. 116 Blumenrain.\nSutter, Ulr., von Schaffsheim, Posamenter. 887 Klosterberg..\nSutter, Joh. Rud., Handels = Commis. 1191 Freienstraße.\nSutter, Martin, von Diegten, Spannmeister. 625\n  Gerbergäßlein.\n* Sutter, Joh. Jakob, Sattler. 1602 Sporrengasse.\n\nT.\n\n* Tester, Josua, Zimmermeister. 434 Heuberg.\nThommen, Daniel, Landjäger. 1108 Weißegasse.\nThommen, Isaak, Sohn, Ferger. 1376 hinter dem Münster.\nThurneysen, Gottlieb, Handels-Commis. 1161 Gerbergasse.\nThurneysen, geb. Merian, Wittwe. 1272 St. Alb. Thorgasse.\nThurneysen, geb. Euler, Wittwe. 565 St. Peter-Stiftsg.\nTrapet, Richard, Juwelier. 1547 Eisengasse.\nTreu, Lukas, Wundarzt. 1737 hinter der School.\nTschan, Wittwe, geb. Kath. Lacher. 320 Spahlen = Vorstadt.\nTschopp, Emanuel, Posamenter. 994 Aeschen = Vorstadt.\nTschopp, Johannes, Landjäger. 1677 Hutgasse.\n* Tschopp, Heinrich, Sohn, Spengler. 1438 Freienstraße.\nTschopp, Joh. Jakob, Sohn, Kaufmann. 1438 Freienstr.\nTschopp und Comp.\nTschudy, Joh., Werkmeister am Bauamt. 310 St. Petersplatz.\n\nU.\n\nUebelin, Heinrich, Commis. 139 Blumengasse.\nUebelin, Wittwe, Schneiderin. 467 Beim Spahlenthurm.\nUhlmann = Glock, Georg, Handels = Commis. 666 Gerberg.\n\nV.\n\nVan Laer, J. A. L., Part. 251 b. St. Petersplatz.\nVest, Heinrich, Sohn, Quartierschreiber. 1386 Am Bäumlein.\nVest, Joh. Georg, Lithograph und Lohnbedienter. 1562\n  Schneidergasse.\nVest, Hieronymus, Kriminalgerichtschreiber, 1169 Freienstr.\nVischer, Rud., Sohn, Kaufmann. 1199 Am Bäumlein.\nVischer = Merian, Karl, Kaufmann. 1448 Freienstraße.\nVollenhals, Michael, Papierer. 1286 St. Alban = Thal.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6590,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1600,
+    "lines": 36,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:03:51+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p171",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p171.jpg",
+      "bytes": 1010914,
+      "sha256": "e52b7f77d4dd93a6a0d0f9192fc849bc1e631e9ead0905361458451669bf052c",
+      "sha256_of": "original",
+      "working_copy": "1841_p171.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:51+00:00"
+  }
+}

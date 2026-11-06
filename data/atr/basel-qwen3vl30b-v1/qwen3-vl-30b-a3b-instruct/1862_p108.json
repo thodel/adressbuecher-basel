@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p108",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p108.jpg",
+    "bytes": 1487968,
+    "sha256": "f3367b0bed28e0861e3fcd7e70b74a1cfc8f7dadfb7b9e6a979f78d4362391f6",
+    "sha256_of": "original",
+    "working_copy": "1862_p108.jpg"
+  },
+  "text": "Freie Straße.\n43\nNrn\nHaus=Hr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n28 VI. 1172 zum rothen Bären. Dettwyler=Haufer, Joh. Jakob.\nDettwyler=Haufer, Joh. Jakob, Riifer.\nWirz=Chriam, Martin, Commis.\nSenglet=Weik, Marc. Franc., Commis.\n29 V. 1447 zum Ehrenfels. Brolly u. Albiez.\nBrolly u. Albiez, Adolf, Chales u.\nSeidenwaarenhandlung.\nAlbiez=Staehle, Elisabeth, Wittwe.\nEslin=Hezel, Daniel, Dr. med.\n(Eingang Nr. 4 am Schliisselberg.)\n30 VI. 1173 zum Fuchß. Weitnauer=Krug, Heinr. Fried.\nWeitnauer=Krug, Sch. Friedr., Megger.\n31 V. 1446 z. kl. rothen Löwen. Wahr, Philipp u. Carl.\nWahr, Philipp, Tuchhandlung.\nWahr=Bené, Carl, Tuchhandlung.\nEngelberger=Wahr, Josef, Kaufmann.\n32 VI. 1174 zur Lilie. Köchlin=Laubheim, Heinrich.\nKöchlin=Laubheim, Heinr., Particular.\nKöchlin, G. Rudolph, Gipser.\nKirchdörfer=Köchlin, Christian, Buchdruck.\nMeyri=David. Christian, Buchhändler.\nKiefen, Wilhelm, Uhrmacher.\nKörner=Wahl, Joh., Stuhlschreiner.\n33 V. 1445 Zunft zum Himmel. Corporationsgut.\nErzberger=Kraier, Sal. Wb., Confiseuse.\nChristen, Sophia Margaretha u. Maria\nSara, Schwestern, Kleinkinderschule.\n34 VI. 1175 zum Bären. Corporationsgut.\n(Zunft z. Hausgenoss.)\nBachofen=Braun, Joh. Jak., Traiteur.\n35 V. 1444 Gasth. z. Wildenm. Brack=Meister, Joh. Jak.\nBrack=Meister, Joh. Jakob, Gastgeber.\nSiehe Schliisselberg Nr. 10.\nAmmann=Stucky, Heinr., Kleiderhandlg.\nWyler=Thomas, Felix, Huthandlung.\n36 VI. 1176 zum Cardinal. Eckenstein=Maring, Henriette.\nEckenstein=Maring, Henr. Wb., Bierbr.\nReber=Glaser, Cath. Wb., Wirthin.\nRoth-Hunziker, Ursus, Tabachandlung.\n37 V. 1443 z. grünen Drachen. Marfort=Flury, Salomea, Wb.\nMarfort=Flury, Salomea, Wittwe.\nMarfort=von Speyr, Albert, Sattler.\nMarfort, Anton, Commis.\n38 VI. 1177 zum Pflug. Gemuseus=Stähelin, Salome, Wb.\nGemuseus=Stähelin, Salome, Wittwe.\nGemuseus, Joh. Rud. Kaufmann.\nGemuseus, L. Aug. Kaufmann.\nCompt. v. J. R. Gemuseus, Colon=WhdIg.\nGemuseus, Charlotte, Jungfrau.\n39 V. 1442 Eisenhut. Ramsperger=Hug, Emanuel.\nRamsperger=Hug, Eman., Kaufmann.\nColonialwaaren u. Mineralwasser=Hdlg.\n40 IV. 1178 Rosenfeld. Detloff=Lafontaine, Carl.\nDetloff=Lafontaine, Carl, Buchhändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7128,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2170,
+    "lines": 65,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:34:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p108",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p108.jpg",
+      "bytes": 1487968,
+      "sha256": "f3367b0bed28e0861e3fcd7e70b74a1cfc8f7dadfb7b9e6a979f78d4362391f6",
+      "sha256_of": "original",
+      "working_copy": "1862_p108.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:55+00:00"
+  }
+}

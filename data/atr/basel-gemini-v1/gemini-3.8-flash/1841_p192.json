@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p192",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p192.jpg",
+    "bytes": 1070050,
+    "sha256": "470bb814726deed569f6fbae73e15d263ffe2d19ac3324267428e52507baf126",
+    "sha256_of": "original",
+    "working_copy": "1841_p192.jpg"
+  },
+  "text": "- 39 -\n\nMöcklin, Margaretha, geb. May, Wittwe, von Oberschlatt,\n  Gärtnerin. 3 Klibeckstraße.\nMüller, Georg, von Buschweiler, Gärtner. 34 Klibeckstr.\nR.\nRamsperger, Emanuel, Gutsbesitzer. 38 Klibeckstraße.\nRubly, Jakob, von Effingen. 78 Schorenbrücke.\nS.\nSalathe, Joseph, von Binningen, Lehenmann. 7 Klibeckstr.\nSaxer, Jakob, von Altstetten, Maurer. 84 Mittlere Straße.\nSaxer, Friedr., v. Altstetten, Taglöhner. 73 a. Mittl. Straße.\nSchäublin, Heinrich, von Oberdorf, Lehenmann. 28 Klibeckstr.\nSchmucklin, Michael, v. Allenjoie, Lehenmann. 53 Klibeckstr.\nSchmucklin, Magdalena, geb. Neuhauser, von Allenjoie,\n  Part. 57 An der Klibeck.\nSchmucklin, Johannes, von Allenjoie, Lehenmann. 57\n  An der Klibeck.\nSchneider, Johannes, von Niedereggenen, Lehenmann.\n  81 Mittlere Straße.\nSchneider, Nikolaus, von Langenbruck, Gutsbesitzer. 79\n  Am Teich ob der Schorenbrücke.\nSchwarz, Rudolf, Gärtner. 17 Klibeckstraße.\nSiegrist, Rudolf, Gärtner. 30 Klibeckstraße\nStuß, Heinrich, v. Liestal, Kammmacher. 80 Mittlere Straße.\nT.\nTschopp, Agatha, geb. Freuder, von Waldenburg. Gärt-\n  nerin. 12 Klibeckstr.\nV.\nVögele, Anton, von Eyen, Gutsbesitzer. 42 Klibeckstr.\nVogt, Johannes, von Lauwil, Steindrucker. 2 Klibeckstr.\nW.\nWolleb, Johannes, erster Sekretär der Polizei-Direktion.\n  53 Klibeckstraße.\nZ.\nZeder, Jakob, von Luthern, Gutsbesitzer. 71 Mittlere Str.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5947,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1347,
+    "lines": 35,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:06:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p192",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p192.jpg",
+      "bytes": 1070050,
+      "sha256": "470bb814726deed569f6fbae73e15d263ffe2d19ac3324267428e52507baf126",
+      "sha256_of": "original",
+      "working_copy": "1841_p192.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:13+00:00"
+  }
+}

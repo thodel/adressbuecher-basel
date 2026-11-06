@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p086",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p086.jpg",
+    "bytes": 1065655,
+    "sha256": "24fe3f1cabd63f46cae793105c7623c5fc98d42723d0ff85d795d86bacc60774",
+    "sha256_of": "original",
+    "working_copy": "1841_p086.jpg"
+  },
+  "text": "3\nBeck, J. J., am Kaufhaus. 292 Spahlen-Vorstadt.\nBeck, Tobias, Professor der Theologie. 1217 St. Alban-Vorstadt.\nBeck, Eman. fel., Wittwe. 1392 Am Bäumlein.\nBeck, Wittwe, geb. Saxe. 305 u. 306 St. Petersplazgässlein.\nBeck, Anna Elis., Jungfrau. 1164 Gerbergasse.\nBeck-Uebelin, Joh. Georg. 396 Heuberg.\nBeck, Jakob, Stadttambour. 814 Bordere Steinen-Vorstadt.\nBell, Friedrich, von Kleinhüningen. 531 Imbergässlein.\nBell, Joh. Jakob, Meßger. 1134 Weiße Gasse.\nBell, J. J., Meßger. 414 Heuberg.\nBell, Samuel, Meßger u. Weinschenk. 724 b Barfüsserplaz.\nBellwitz, Carl Friedrich, Lehrer. 1112 Weiße Gasse.\nBenz, Jak. Ludw., Sohn, Uhrenmacher. 1083 Am Bäumlein.\nBenz, Joh. Rud., Schneider. 1716 Hutgasse.\nBenz, Friedrich, Wittwe, Uhrenmacher. 1061 Tiefe.\nBenz, Johannes, Landjägerwachtmeister. 779 Hinterer Bach.\nBerardie, Louis de St. Etienne, Dessinateur pour Rubans et Etoffes. 339 Fröschgasse.\nBerger, Rudolf Schreiner. 567 u. 568 Todtengässlein.\nBerger, Joh., Spannermeister. 89 St. Johann-Vorstadt.\nBernoulli, Eduard, Pfarrer. 1227 St. Alban-Vorstadt.\nBernoulli, Nikolaus, Notar und Criminalgerichts=Präsident. 1353 St. Alban-Vorstadt.\nBernoulli, Hieron., älter, u. Comp., Tabakniederlage. 1444 Freie Straße.\nBernoulli, J. J., Sohn, Ph. Dr., Apotheker. 154 Fischmarkt.\nBernoulli, Nikl. de Joh. 1600 Sporengasse.\nBernoulli, Daniel, Dr., Notar. 1383 Am Bäumlein.\nBernoulli, J. Hieron., Kaufmann. (Muffelin = und Manufakturwaarenhandlung.) 168 Storchengasse.\nBernoulli, Lehrer am Gymnasium. 319 Spahlen-Vorstadt.\nBernoulli, Eman., Manufakturwaarenhandlung. 1420 Freie Straße.\nBernoulli, Jos., Kaufmann. 97 St. Johann-Schwibbogen.\nBernoulli-Nespinge, Hieron., Apotheker. 1708 Unt. Spahlenberg.\nBernoulli-Bär, Leonhard. 1600 Sporengasse.\nBernoulli-Dick, Joh., Postdirektor. 173 Storchengasse.\nBernoulli-Huber, L. (Firma: C. Huber, Sohn.) 1185 Freie Straße.\nBernoulli-Zässlein, Joh. Jakob. 1707 Unt. Spahlenberg.\nBernoulli, C., Jungfer. 1420 Freie Straße.\nBernoulli, Franz fel., Wittwe, geb. Werthemann. 1467 Münsterplaz.\nBernoulli, Hieron. fel., Wittwe, geb. de Lachenal. 82 St. Joh.=Vorst.\nBerri, Melchior, Med. Dr. 1733 Beim Kornmarktbrunnen.\nBerri, Melchior, Architekt. 1244 a Malzgasse.\nBerri, Elias, Weißbeck. 1010 Aeschenvorstadt.\nBerri, geb. Streckeisen, Pfr. Wittwe. 546 Adelberg.\nBerri-Streckeisen, J. J., Kaufmann. 704 Hinter dem Stöcklein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7383,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2346,
+    "lines": 43,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 53.58,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:51:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p086",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p086.jpg",
+      "bytes": 1065655,
+      "sha256": "24fe3f1cabd63f46cae793105c7623c5fc98d42723d0ff85d795d86bacc60774",
+      "sha256_of": "original",
+      "working_copy": "1841_p086.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:27+00:00"
+  }
+}

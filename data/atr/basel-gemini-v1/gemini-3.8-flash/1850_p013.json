@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p013",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p013.jpg",
+    "bytes": 1167320,
+    "sha256": "502ac3f1fc2fe873198b5fa5331be6b5c20c36455012b648ed51767303ec518f",
+    "sha256_of": "original",
+    "working_copy": "1850_p013.jpg"
+  },
+  "text": "St. Johann = Quartier. 3\n\n49 Fabrikgebäude.\n50 Dietschy-Lichtenhahn, Jakob, Bandfabrikant.\n  Lichtenhahn, Rud., Kaufmann.\n51 Preiswerk-Bischoff, Wilh., Handelsmann.\n52 Straubhardt, Joseph, Hausknecht.\n53 Burckhardt-Preiswerk, Wilhelm, Bandfabrikant.\n  Erlacher, Joh., Commis.\nA 53 Stall und Remise.\n54 Brand, Isaak, Alt-Gerichtsherr.\n55 Würz, Karl August, Nadler.\n56 Jenni, Friedrich, Dessinateur.\n57 Haberstock, Franz, Commis.\n58 Vorderhaus unbewohnt. Hinterhaus: Haarvey-Kür-\n  steiner, Partikular.\n59 Lotz-Wick, Samuel, Spezerei-Handlung.\n  Langmesser-Paravicini, David, Kaufmann.\nA 59 Remise.\n60 Basler-Bernoulli, Joh., Stadtrath.\n61 Müller-Hauser, J. J., Seidenfärber.\n62 Riggenbach, J. J., Weißbeck.\n  Riggenbach, J. J., Postofficiant.\n63 Preiswerk, Gebr., Niklaus und Peter, Rentiers.\nA 63 Magazin.\nA 64 Preiswerk-Keller, D., Kaufmann.\n  Keller, Jungfrau, Wilhemine, Rentière.\nB 64 Ryhiner-Bischoff, Sam., Rentier.\n  Kern-Ryhiner, August, Bandfabrikant.\n65 Magazin.\n66 Oberlin, Jungfrau, Susanna, Näherin.\n67 Burckhardt-Gysin, J. L., Wittwe, Rentière.\n  Burckhardt, L. A., Dr. J., Kriminalgerichts-Präsid.\n  Zimmerlin-Preiswerk, Catharine, Wittwe, Rentière.\n68 Schmidt, Peter, Weinsticher und Quartierschreiber.\n69 Scholp, Rud., Handlungs-Commis.\n70 Iselin-Debary, Rud., Handelsmann.\n71 Iselin-LaRoche, J. J., Handelsmann.\n72 Roth, Wernhard, Schuhmacher.\n73 Hindenlang-Roth, Jb., Weinschenk und Seiler.\n74 Lacher, Joseph, Kunstmaler.\n  Birmann, Helene, geb. Meyer, Wittwe, Rentière.\n  Hasler, Seb., Ferger.\n75 Meyer-Francois, J. J., Kaufmann.\n76 Schaubeck, Samuel, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6702,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1584,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p013",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p013.jpg",
+      "bytes": 1167320,
+      "sha256": "502ac3f1fc2fe873198b5fa5331be6b5c20c36455012b648ed51767303ec518f",
+      "sha256_of": "original",
+      "working_copy": "1850_p013.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:27+00:00"
+  }
+}

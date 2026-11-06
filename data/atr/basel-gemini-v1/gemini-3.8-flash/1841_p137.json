@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p137",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p137.jpg",
+    "bytes": 945319,
+    "sha256": "d96d3c5a73dfc563d4b5e01aac8b1702121a67843ecb2c783bcf54524b6f5946",
+    "sha256_of": "original",
+    "working_copy": "1841_p137.jpg"
+  },
+  "text": "54\n\nFausel, Gottl., Straßenpflasterer u. Weinschenk. 3 An der Rheinbrücke.\nFeil, Susanna und Lisette, Schneiderinnen. 150 Rebgasse.\nFinninger, Heinrich, Vater und Sohn, Metzger. 278 Webergasse.\nFischer, Andr. sel., Wittwe, Lohnwascherin. 325 Badergäßlein.\nFluri, Nikolaus, kathol. Vikar. 106 Am Lindenberg.\nFörster, Ernst, Zimmermann. 136 Kirchgäßlein.\nFrey, Franz, Fabrikarbeiter. 91 Rußgäßlein.\nFrey, geb. Bär, Wittwe. 107 Am Lindenberg.\nFrey, Phil. Carl, Lehrer. 104 Am Lindenberg.\nFrey, Nikolaus, von Armenstorf, Lehrer. 132 Kirchgäßlein.\nFreuler, geb. Beyfelder, Barbara, Matratzenmacherin. 68 Rheingasse.\nFritz, geb. Marg. Frey, Wittwe, Kostgeberin. 162 Rebgasse.\nFrüh, Caspar, Schuhmacher. 117 Obere Rebgasse.\nFuchs, Jakob, Lohnwascher. 270 Beim Bläsithor.\nFurler, Joh., Stuhlschreiner. 309 Im Klingenthal.\nFussinger, Ulrich, Müller. 302 Im Klingenthal.\n\nG.\n\nGasquet, Fr. Wilh., Zimmermann. 119 Obere Rebgasse.\nGaß, Joh., Weißbeck. 150 Rebgasse.\nGaß, Andr., Schuhmacher, von Liestal. 232 Greifengasse.\nGengenbach-Frey, Amad., Kaufmann. 111 Rheinweg.\nGernler, Carl, Kornmesser. 148 Beim Riehen-Thor.\nGeßler, Christina, geb. Burckhardt, Wittwe. 140 Beim Riehen-Thor.\nGeßler, Joh. Rud., Gypser. 167 Rebgasse.\nGeßler, Leonhard, Müller. 265 Im Rumpel.\nGeßler, Rudolf, Müller. 267 Im Rumpel.\nGeßler, Andreas, Rothgerber. 8 An der Rheinbrücke.\nGlaser, Jakob, Zimmermann. 101 Am Lindenberg.\nGlaser, Frau Barbara, gesch. Klingenfuß, Trödlerin. 382 Krempergasse.\nGlaser, Friedrich, Fischer. 72 Rheingasse.\nGlatz, Joh. Caspar, Spengler. 393 Krempergasse.\nGlunz, Geschwister, Schneider u. Matratzenmacherinnen. 173 Rebgasse.\nGötz, Nikol. Wilh., Devisenmacher. 425 Utengasse.\nGoßweiler, J. U., Fabrikaufseher. 336 Untere Webergasse.\nGroben, Jakob, Glaser und Lohnwascher. 283 Webergasse.\nGrüblin, Joh., Wirthschaft. 291 Webergasse.\nGrüblin, J. J., Posamentier, von Höllstein. 50 Rheingasse.\nGrunauer, Leonhard sel., Wittwe, geb. Weiß. 295 Webergasse.\nGrunauer, Sebast., Spedition und Commission. 44 Rheingasse.\nGrundeler, J. Christian, Schlosser. 94 Am Lindenberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6613,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2058,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:59:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p137",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p137.jpg",
+      "bytes": 945319,
+      "sha256": "d96d3c5a73dfc563d4b5e01aac8b1702121a67843ecb2c783bcf54524b6f5946",
+      "sha256_of": "original",
+      "working_copy": "1841_p137.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:56+00:00"
+  }
+}

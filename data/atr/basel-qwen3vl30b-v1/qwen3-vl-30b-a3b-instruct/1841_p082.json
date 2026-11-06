@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p082",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p082.jpg",
+    "bytes": 979272,
+    "sha256": "e456c7c1537854deac02dfc3cc0acac4fe1e57f83f6978f19bafb6c859c4170a",
+    "sha256_of": "original",
+    "working_copy": "1841_p082.jpg"
+  },
+  "text": "75\nNro.\n366 Roth, Christoph, Zeugschmid.\n367 * Heusler-Thurneisen, Leonhard, Kaufmann,\n368 u. 369 Ebendemselben.\n  Sulger-Heusler, Joh., Kaufmann.\n370 Schneider, J. J., Küfer.\n371 Sutter, Joh. Jakob, Sattler.\n372 Raillard, Peter, Gerber.\n373 Minder, Samuel, Rathsherr.\n374 * Raillard, Peter, Gerber, geh.\n375 Langmesser-Engel, Joh. Ulrich, Sattler.\nBei der Rheinbrücke.\n376 Best-Wenk, Joh. Rud. sel., Erben, Wollen- u. Baumwollenhdlg.\n  Best, Ludwig.\n377 * Schlachthaus.\n378 Lok, Bernhard, Wirthschaft.\n  Braun-Baumgartner, J., Kaufmann.\n  Hauser, geb. Fäsch, Wittwe.\nKrempergasse.\n379 * Best, Ludwig, Sohn.\n  Stockmeyer, Emanuel, Candidat.\n380 Maring, Jakob Friedrich, Knopfmacher.\n381 Leuba, Hieron. Lucas, Uhrenmacher.\n  Jenni, Jak., Jeger.\n382 Glaser, Frau Barbara, gesch. Klingensuf, Trödlerin.\n383 Oppermann, Wilh., Bater, Schreiner.\n  Riedtmann, J. J., Wirth.\n  Rudin, geb. Eschudi, Näherin.\n384 Trüb, Rudolf, Spezerei- und Tabakhändler.\n  Hofer, Sebastian.\n385 Bödecker, Wilh., Zimmermann.\n386 Bonviller, Emanuel, Meßger.\n387 Scherb, Rudolf, Schlosser.\n  Raab, J. Rud., Schneider.\n  Thommen, Rud., Sattler.\n388 Weisenburger, Joh., Wundarzt.\n389 Hörler, Joh., Pastetenbäcker.\n  Hörler-Früh, J. J., Sohn.\n390 Lok, Achilles, Bater, Spezereihändler.\n391 u. 392 Bienz, Rudolf, Wirth und Meßger.\n  Pack, Jakob Christoph, Steinmeß.\n393 Gläz, Joh. Caspar, Spengler.\n394 Eisenlohr, Joh. Chr. sel. Wittwe, geb. Bloch, Spezereihandlg.\n395 Wohnlisch, Isaak, Spezereihändler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4718,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1470,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:51:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p082",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p082.jpg",
+      "bytes": 979272,
+      "sha256": "e456c7c1537854deac02dfc3cc0acac4fe1e57f83f6978f19bafb6c859c4170a",
+      "sha256_of": "original",
+      "working_copy": "1841_p082.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:03+00:00"
+  }
+}

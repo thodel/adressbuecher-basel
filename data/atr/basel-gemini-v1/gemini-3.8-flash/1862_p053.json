@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p053",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p053.jpg",
+    "bytes": 1327800,
+    "sha256": "bd894e9a0ea286b2a8bc86b580414136d52b360e2fe7aa5ccd6a5d5613d73614",
+    "sha256_of": "original",
+    "working_copy": "1862_p053.jpg"
+  },
+  "text": "XL | Ragionenbuch. | \nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nPetit et Sœurs Cassal. | Jean Petit-Cassal. | \n  Célestine Cassal.\n  Antoinette Cassal.\nPfister, H. | Heinrich Pfister. | Spedition u. Commission.\nPhilippi-Stierlin. | Rudolf Philippi-Stierlin. | Regenschirmfabrikation.\nPhilippi, A. J., Agent. | A. J. Philippi, allein. | Commission. in Bändern.\n  E. Philippi, Prokuraträger.\nPicard, Leon. | L. Picard, allein. | Seidenband en gros.\nPlattner-Hosch, Johs. | Joh. Plattner-Hosch, allein. | \n  Fr. J. Hurter, Prokuraträger.\nPreiswerk, J., u. Sohn. | Wilhelm Preiswerk-Bischoff. | Seidenhandel, Spedition,\n  Carl Preiswerk. | Commission u. Incasso.\n  Hans Preiswerk.\n  A. Gibert, Prokuraträger.\n  F. Lipp, Prokuraträger.\nPreiswerk, Dietrich, et | Rud. Paravicini-Vischer, allein. | Bandfabrikation.\n  Comp. | Emil Thurneysen-Paravicini, Com-\n  manditair.\n  J. J. Vischer, J. U. D., Comman-\n  ditair.\n  Wilh. Falkner, Prokuraträger.\nPreiswerk, Mathias. | J. J. Preiswerk-Oser, allein. | Tuch- u. Nouveautéshdlg.\n  en gros et détail.\nPreiswerk-Keller. | Dietrich Preiswerk-Keller, allein. | Bettfedern, Flaum, Roß-\n  A. C. Pettermand, Prokuraträger. | haar und Wolle.\nPreiswerk, Lukas. | Wilh. Burckhardt-Preiswerk, allein. | Bandfabrikation.\n  J. Erlacher, Prokuraträger.\nPreiswerk, Emanuel. | Carl Preiswerk-Sulger. | Colonialwaarenhandlg.\n  Eduard Preiswerk-Burckhardt.\nRahn u. Trog. | A. Rahn. | Agenturen.\n  Jul. Trog.\nRaillard, Theodor. | Theodor Raillard, allein. | Uhrenhandlung.\nRamsperger, Emanuel. | Eml. Ramsperger, allein. | Natürl. Mineralwasser,\n  Alpenbutter u. Colo-\n  nialwaaren.\nReinhardt, J. C. | Joh. Conrad Reinhardt, allein. | Lager in Damenmänteln,\n  Seiden- und Moden-\n  artikeln. Eisengasse 8.\nRenz, C. | Carl Renz, Vater. | Chem. Produktenfabrikat.\n  Carl Renz, Sohn.\n  Paul DeRoche.\nRespinger, Gebrüder. | C. Merian-Respinger, allein. | Eidg. patentierter Pulver-\n  verkäufer, Feuerwerke\n  u. Specereiwaaren.\nRespinger, Ludwig. | Albert Gemuseus. | Colonialwaaren.\n  J. C. Tschudy, Prokuraträger.\nRichter-Linder. | Richter-Linder. | \n  C. Richter-Dölli.\n  J. J. Altwegg-Richter.\nRieber, Carl. | C. Rieber-Heller. | Engl. Spitzen u. Tulle,\n  H. Heller, Sohn. | Mercerie.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8115,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2234,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:32:21+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p053",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p053.jpg",
+      "bytes": 1327800,
+      "sha256": "bd894e9a0ea286b2a8bc86b580414136d52b360e2fe7aa5ccd6a5d5613d73614",
+      "sha256_of": "original",
+      "working_copy": "1862_p053.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:21+00:00"
+  }
+}

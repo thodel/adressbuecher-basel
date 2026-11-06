@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p191",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p191.jpg",
+    "bytes": 989602,
+    "sha256": "588b1d0643ba3a631465ad96e81efd166a0b975ead0e5185855c1be35c8f8be4",
+    "sha256_of": "original",
+    "working_copy": "1841_p191.jpg"
+  },
+  "text": "- 38 -\nHaller, Jakob, von Contenschwil, Taglöhner. 68\nMittlere Straße.\nHartmann, Jakob, von Brezwil, Lehennann. 63 a.\nIn der Wiesenbrücke.\nHartmann, Heinrich. 68 Mittlere Straße.\nHaufer, Samuel, von Elm, Gutsbesitzer. 25 Klibeckstraße.\nHausmann, Rudolf, von Schaffsheim, Taglöhner. 59 b.\nIn der Klibeck.\nHeckendorn, Johannes, von Langenbruck, Gärtner. 22\nKlibecckstraße.\nHeer, Romanus, von Klingnau, Bleicherknecht. 75 Beim\nalten Bannwartzhäuslein.\nHindermann, Joh. Jakob, Gutsbesitzer. 53 Klibeckstraße.\nJ.\nJägger, Joseph, von Breitenbach, Posamenter. 73 Mittl.\nStraße.\nJäger, Joh. Rud., von Gutenschwil, Blattmacher. 81\nMittlere Straße.\nK.\nKeller, Jakob, von Wald, R. Zürich, Gärtner. 11\nKlibecckstraße.\nKeller, Michael, von Hauenstein, Gärtner und Lehennann.\n38 Klibeckstraße.\nKlausfelder, Burkhardt, von Basel-Augst, Steinhauer.\n59 In der Klibeck.\nKloz, Peter, von Neudorf, Gärtner. 13 Klibeckstraße.\nKramer, Joh., von Freiburg, Gärtner. 34 Klibeckstraße.\nL.\nLachenal (de), Friedrich, alt Professor. 8 Klibeckstraße.\nLäser, Heinrich, von Contenschwil, Gärtner. 62 Horburg.\nLeu, Jakob, von Hohenrein, Gärtner. 58 In der Klibeck.\nM.\nMeister, Joseph, von Lauberstorf, Lehennann. 69\nMittlere Straße.\nMethua, Alois, von Böllingen, Gärtner. 82 Mittlere Straße.\nMeyer, Mart., v. Eptingen, Posamenter. 68 Mittl. Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4198,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1315,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0811,
+    "mean_line_chars": 34.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p191",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p191.jpg",
+      "bytes": 989602,
+      "sha256": "588b1d0643ba3a631465ad96e81efd166a0b975ead0e5185855c1be35c8f8be4",
+      "sha256_of": "original",
+      "working_copy": "1841_p191.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:52+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p022",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p022.jpg",
+    "bytes": 965225,
+    "sha256": "10ffc244bde73ef53ed2317d86b3b4a55f9ccf29ac0e2bdbe964f358752f9bd1",
+    "sha256_of": "original",
+    "working_copy": "1841_p022.jpg"
+  },
+  "text": "15\n\nNro.\n360 * Magazin von Schölli, Caspar, Wagner.\n361 Brändlin, P. sel., Wittwe, geb. Nörbel.\n\nAuf der Leis.\n362 * Magazin von Speyr-Ryhiner, Theodor.\n363 * Remise von Bleuler-Mieg.\n364 * dito Professor Mieg.\n365 u. 366 * Bleuler-Mieg, Rud., Kaufmann.\n  Meyer, Emanuel, alt Pfarrer.\n  Mieg, Geschwister.\n367 Billinger, Melchior, Wirthschaft.\n368 u. 369 Ludwig, Joh. Heinrich, Schreiner.\n  Dietschy-Fäsch, Joh.\n370 * Remise v. Emanuel Von der Mühll-Bischoff.\n\nSt. Leonhardsgraben.\n371 Bärri, Heinr., Blattmacher, von Liestal.\n372 Mähly, Achilles, Sensal.\n  Geelhar, Heinr., Zeichnungslehrer an der Töchterschule.\n373 * Salathe, J. G., Sattler.\n374 Bischoff, Benedikt, Sohn, Rentier.\n375 Fürstenberger, Joh., Partikular.\n376 Burckhardt, Elias, Rathsherr.\n377 Stähelin, Benedikt, Vater.\n378 Stähelin, Benedikt, Sohn, Bandfabrikant.\n379 u. 380 Buxtorf-Bischoff, Andreas, Bandfabrikant.\n381 Kindweiler, J. J., Bandfabrikant.\n  Mariot, Wilh., Prof. der englischen Sprache.\n382 Müller, Wilh., Maler.\n383 Geigy, Hieronymus sel., Wittwe, geb. Sarasin.\n\nMissionsgasse.\n384 Legrand-Heusler sel. Wittwe.\n385 Hagenbach, Karl Fr., Med. Dr. und Professor.\n386 Blumhardt, Julie, geb. Meier, Wittwe.\n  Burckhardt-Haller, Med. Dr.\n387 Hoffmann, Wilh., Inspektor der Missionsanstalt.\n388 u. 389 * Missionshaus.\n390 Abgebrochen.\n\nBei St. Leonhard.\n391 Wibert, Balth., Schuhmacher und Bannwart.\n392 Vest, Jungfer, Salomea.\n  Glaser, Emanuel, Uhrenmacher.\n393 * Kraus, M. Dan., Pfarrer bei St. Leonhard.\n394 * Remise von Hieronymus Hosch.\n395 Weiß, J. R., Kappenmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7029,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1549,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:44:33+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p022",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p022.jpg",
+      "bytes": 965225,
+      "sha256": "10ffc244bde73ef53ed2317d86b3b4a55f9ccf29ac0e2bdbe964f358752f9bd1",
+      "sha256_of": "original",
+      "working_copy": "1841_p022.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:33+00:00"
+  }
+}

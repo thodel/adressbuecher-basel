@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p032",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p032.jpg",
+    "bytes": 966500,
+    "sha256": "fbe38ba8619355ed7435b16d4fc761d13a934849f1ab48bb4824e2906c7ed101",
+    "sha256_of": "original",
+    "working_copy": "1841_p032.jpg"
+  },
+  "text": "Nro.\n650 Märklin, Andreas, Drehkler.\n    Dittmer, Jakob, Deffinateur.\n651 Imhof=Burckhardt, Joh. Ludwig, Spezereihändler.\n    Bleich, Julius, Buchhändler-Commis.\n652 Wäffler, Samuel, Posamentier, nebst Waarenhandlung.\n    Gysin, Emanuel, Commis.\n    Gysin, Magdalena, Hebamme.\n    Jäger, Helena, Jungfer, Modiste.\n653 * Imhof=Koschet, Melchior, Kaufmann.\n654 Märklin, Jungfer, Margaretha, Bandladen.\n655 Holzach, Wittwe, geb. Berger, Seilergeschäft.\n656 Dürschner, Heinrich, Spenglermeister.\n657 Jordan, Leonhard, Ferger.\n    Bernier, Friedrich, Schreiblehrer.\n658 Altorfer, Heinrich, Messerschmid.\n    Hornung, Wittwe, geb. Nägeli.\n    Schneider, Martin, Meßger.\n659 Georg, Franz, Meßger.\n660 Bürgin, Joh. Jakob, Wirthschaft.\n    Steiger, Nikolaus, auf der Stadtkanzlei.\n    Schmid, Joh. Caspar, Meßger.\n661 Wohlnich, Joh. Friedr., Schneider.\n662 Gaf, J. J., Meßger.\n663 Gaf, Melchior, Commissions- und Speditions-handlung.\n    Hug, Wittwe, geb. Geymüller.\n    Vogt, Jungfer, Suf. Sal., Schneiderin.\n664 Nörbel, Hieronimus, Sohn, Küfer.\n665 Thurneyssen, Ludwig, Weizgerber.\n666 Glock, J. J., Schuhmacher und Weinsticher.\n667 Schneider, Jakob Christoph, Schuhmacher u. Korbhändler.\n668 Krug, Markus, Buchbinder.\n669 Hanhart, Joh. Conrad, Schuhmacher.\n670 Kehlstadt, Leonhard, Postoffiziant.\n671 Roth, Balthasar, Glaser.\n672 Keller, Samuel, Sohn, Kübler.\n673 Steinmann, Jakob, Spengler.\n674 Christen, Niklaus, Seidenwaaren.\n    Stockmeyer, Friedr., Spezereihandlung.\n675 Kühn, Wilhelm, Schlossers-Wittwe.\nHinteres Gerbergäflein.\n676 Wirth, J. J., Hausknecht.\n677 Schenk, Georg, Ferger und Lohnwäscher.\n678 Bon Arz, Joh., Wirth.\n    Brunner, Daniel, Schneider.\n679 Möschinger, Wittwe, geb. Boos, Lohnwäscherin.\n    Stricker, Ludwig, Kupferdrucker.\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5121,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1747,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:45:26+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p032",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p032.jpg",
+      "bytes": 966500,
+      "sha256": "fbe38ba8619355ed7435b16d4fc761d13a934849f1ab48bb4824e2906c7ed101",
+      "sha256_of": "original",
+      "working_copy": "1841_p032.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:45:26+00:00"
+  }
+}

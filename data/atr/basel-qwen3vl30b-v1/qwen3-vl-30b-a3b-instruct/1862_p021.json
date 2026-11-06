@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p021",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p021.jpg",
+    "bytes": 1358627,
+    "sha256": "d4a906cb40a20aad13d77539a6b07767d713ab6ef470c94dd5c1c5c23ceb7a74",
+    "sha256_of": "original",
+    "working_copy": "1862_p021.jpg"
+  },
+  "text": "XVIII\nGemeindebehörden.\nFr. Stadtrath Leonhard Bernoulli.\n\" \" Hier. Burckhardt=Jselin.\n\" \" Dr. Elias Burckhardt.\n\" \" Wilh. Burckhardt=Forcart.\n\" \" Karl Burckhardt=Vischer.\n\" \" Fritz Vischer=Bischoff.\nKommission der Stadtkassa=\nverwaltung.\nFr. Stadtrath Leonh. Bernoulli, Präsid.\nLadenamts=Verwaltung.\nFr. Daniel Jäcklin, Stadt=Secretär.\nZins=Amt.\nFr. Balthasar Fischer.\nPfundzoller.\nFr. Hieronimus Loh.\n\" Heinrich Debrunner.\nWaagmeister.\nFr. Heinr. Altorfer, Messerschmied.\nHeuwäger.\nFr. Rudolf Braun.\nBrunn= und Bauamt.\nFr. Stadtrath Joh. Jakob Minder, Präsid.\nJ. J. Müller, Brunnenmeister.\nMartin Schmidtmann, Bausührer.\nFassfinner\nder mehrern Stadt.\nWilhelm Mollinet, Seiler.\nAdolf Frey, Küfer.\nDer mindern Stadt.\nJakob Hindermand, Wagner.\nHeinrich Staab.\nBürgerkommission.\nFr. Stadtrath Eman. Kyhiner, Präsid.\nBeleuchtungskommission.\nFr. Stadtrath Wegner, Präsid.\nLand= und Waldinspektion.\nFr. Stadtrath Elias Burckhardt, Präsid.\nPolizei=Aufsichtskommission.\nFr. Stadtrath Leonh. Bernoulli, Präsid.\n\" \" Elias Burckhardt=Bred, J.U.D.\n\" \" R. aWengen=Treu, St.Johannquart.\n\" \" Gottfr. Stähelin, Spalenquartier.\n\" \" Hieron. Loh=Spörlin, Steinenquartier.\n\" \" Rudolf Hauser=Oser, Aeschquartier.\n\" \" Heinr. Tschopp, Spengler, St.Albanq.\n\" \" Ludw. Linder, Messerschm., Stadtquart.\n\" \" Oberstl. Friedr. Meyenroth, Kiehenquart.\n\" \" August Raillard, St. Bläsiquartier.\nQuartierschreiber.\nFr. Ludwig Stöcklin, St. Johannquart.\n\" Ludwig Stöcklin, Spalenquartier.\n\" Joh. Ludw. Kehlstadt, Steinenquart.\n\" Joh. Balth. Fischer, Aeschquartier.\n\" Joh. Fischer, Sohn, St. Albanquart.\n\" Joh. Ludw. Linder, Stadtquartier.\n\" Joh. Jakob Jenni, Kiehenquartier.\n\" Joh. Jakob Jenni, St. Bläsiquartier.\nKornhaus=Inspection.\nFr. Stadtrath Leonh. Bernoulli, Präsid.\nKornhausverwalter: Fr. Joh. Henz.\nSchadungskommission über\nBrandshaden.\nFr. Stadtrath Elias Kern, Präsid.\nRevisions=Kommission.\nFr. Stadtrath Joh. Jakob Minder, Präsid.\nEinquartierungs=Kommission.\nFr. Stadtrath Em. Kyhiner, Präsid.\nTaxations=Kommission.\nFr. Stadtrath Joh. Jak. Minder, Präsid.\nAlmosenamt.\nFr. Stadtrath Elias Kern, Präsid.\n\" Notar J. Herzog, Almosenhaffner und\nSecretär.\nSpitalpfleger.\nFr. Stadtrath Rud. Wegner, Präsid.\n\" Arnold Laur, Verwalter.\n\" Dr. Theod. Meyer, Spitalmeister.\nWaisenhaus=Inspection.\nFr. Stadtrath Leonh. Bernoulli, Präsid.\nFr. Friedr. Lichtenhahn, V.D.M., Waisenvater.\n\" Christoph Heusler, Verwalter.\nBannherren.\nIm Münster.\nFr. Stadtrath J. R. Burckhardt, J.U.D.\n\" Samuel Merian=Merian.\n\" Andreas Bischoff=Chinger.\n\" Hieronimus Bischoff=Bischoff.\n\" Emil Thurneyssen=Paravicini.\n\" Rudolf Hauser=Oser.\nZu St. Peter.\nFr. Stadtrath Leonhard Bernoulli.\n\" Christof Konus.\n\" August LaRoche=Burckhardt.\n\" Andr. Werthemann=Bonder Mühll.\n\" Rudolf Bischoff=Merian.\nZu St. Leonhard.\nFr. Stadtrath Friedrich Hagenbach.\n\" Balthasar Fischer=Bulacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8115,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2815,
+    "lines": 100,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.06,
+    "mean_line_chars": 27.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:24+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p021",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p021.jpg",
+      "bytes": 1358627,
+      "sha256": "d4a906cb40a20aad13d77539a6b07767d713ab6ef470c94dd5c1c5c23ceb7a74",
+      "sha256_of": "original",
+      "working_copy": "1862_p021.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:24+00:00"
+  }
+}

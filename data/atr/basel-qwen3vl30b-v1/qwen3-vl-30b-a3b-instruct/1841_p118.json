@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p118",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p118.jpg",
+    "bytes": 1033728,
+    "sha256": "9be08e6604a22ab5c755c5234eea2023af6dde2f8bd2a16b1b192602360193db",
+    "sha256_of": "original",
+    "working_copy": "1841_p118.jpg"
+  },
+  "text": "35\nNapp, Martin, Schreiner. 241 Kirchgässlein.\nNapp, Joh. Conrad, Partikular. 91 St. Johann-Vorstadt.\nNeber, Joh. Rudolf, Schuhmacher. 718 Hinter dem Stöcklein.\nNeber-Burckhardt, Bandfabrikant. 441 Spießhofgasse.\nNeber-Geilinger, J. J., Partikular. 563 St. Petrusstiftsgasse.\nNeber-Sulger, Benedikt. 750 St. Leonhardsgraben.\nNebfaamen, Joh., Commis. 513 u. 514 Hint. d. Spahlenthurm.\nNebfaamen, Johannes, Lohnbedienter. 1698 Schnabelgässlein.\nRehlin, Leonhard, Trödler. 496 Oberer Spahlenberg.\nReinhold, Gottfried, Zimmermann. 1742 Sattelgasse.\nReinle, Joh., Zimmermann. 905 St. Elisabethen.\nReischacher, Joh. Jakob. 1386 Am Bäumlein.\nRespinger, Ludw. de Ludwig, 229 Oberer Herbergberg.\nRespinger, Benedikt, Handelsmann. 950 Aefchen-Vorstadt.\nRespinger, Leonhard, Kaufmann. 251 b St. Petersplaz.\nRespinger, Wittwe, geb. Burckhardt. 1644 Markt.\nRespinger, Gebrüder, Kaufleute. 77 St. Johann-Vorstadt.\nRespinger, Joh. Conrad, Handelsmann. 949 Aefchen-Vorstadt.\nRespinger, Maria, geb. Preiswerk. 150 Schwanengasse.\nRespinger-Bernoulli, Em., Materialhandlung. 1631 Unt. Freienstrafe.\nRespinger-Isenegger, Friedr., Handels-Commis. 1616 Markt.\nNieber, Jakob, Spezerei- und Tabackhandlung. 1599 Eisengasse.\nNieder, Nikol., Fabrikarbeiter. 1247 Malzgasse.\nNieder, Heinrich, Kaufhausarbeiter. 1745 Sattelgasse.\nNiedtmann, Emanuel, Kaufhausgehülfe. 1418 Spitalsprung.\nNiedtmann, Joh. Ludwig, Schuhmacher. 508 Adelberg.\nNiedtmann, Niklaus, Schneider. 714 Barfüsserplaz.\nNiemensperger, Valent., Spezereihandlung. 1124 Weisgässlein.\nRiggenbach, Christoph, Architekt. 1457 Münsterplaz.\nRiggenbach-Landerer, Wittwe. 1494 St. Martin.\nRiggenbach-Huber, Joh., Kaufmann. 869 Thorsteinen.\nRiggenbacher, Joh. Jakob, Beck. 62 St. Johann-Vorstadt.\nRippel, Joh. fel., Wittwe, geb. Lindner. 1041 Aefchen-Vorstadt.\nRitter, Joh. Jakob, Gastwirth zum Schiff. 1145 u. 1146 Bar-\n  füßerplaz.\nRöslein, Rud., Spezereihändler. 1266 St. Alban-Thorgasse.\nRöslein, Joh. Rud., Fabrikarbeiter. 865 Thorsteinen.\nRöslein-Ronus, Joh. Georg fel., Wittwe. 1191 Freie Straße.\nRognon, Jonas Heinrich, Handels-Commis. 1044 Aefchen-Vorstadt.\nRohner, J. Christoph, Schlosser. 952 Aefchen-Vorstadt.\nRohner, Joh., Beck. 1316 St. Alban-Vorstadt.\nRohner, Wittwe, geb. Fischer. 759 Kohliberg.\nRonus, Christoph, Quincailleriehandlung. 1540 Eisengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7025,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2297,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.18,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:56:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p118",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p118.jpg",
+      "bytes": 1033728,
+      "sha256": "9be08e6604a22ab5c755c5234eea2023af6dde2f8bd2a16b1b192602360193db",
+      "sha256_of": "original",
+      "working_copy": "1841_p118.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:40+00:00"
+  }
+}

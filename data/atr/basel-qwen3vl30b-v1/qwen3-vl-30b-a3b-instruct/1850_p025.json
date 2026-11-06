@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p025",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p025.jpg",
+    "bytes": 1010592,
+    "sha256": "420c10998ba6319c25e6d3f8d56b03989e8b308884a5d6e860b4d6a902640820",
+    "sha256_of": "original",
+    "working_copy": "1850_p025.jpg"
+  },
+  "text": "14\nSpahlen = Quartier.\n282 Lindenmeyer, F. F., Beck.\n    Lämmli, Frau Doctor, Partikularin.\n    Urech, F. D., Handelsmann.\n283 Hauser-Euler, Karl, Eisenbahnbestäter.\n    Stehelin-Imhof, Eduard, Kaufmann.\n284 Scherb, Eml., Wundarzt.\n285 (Das Mußhaus) obrigkeitlich, vermieteth an Madeug,\n    Wohnlîch und R. Bleiler.\n286 Barth, OI., Bauverwalter.\n287 Schweizer, Niklaus, Schreiner.\n288 Finninger, Joh. Rud., Weißbeck.\n    Bosfardt, Frau, geb. Wolleb.\n    Cherbuin, Friedr., Lehrer an der Töchterschule.\n289 Müller=Zselin, G. K., Partikular.\n290 Bohny, Joh., Hufschmied.\n    Schweizer, Joh., Agent.\n291 Schweizer-Kiedtmann, Rudolf, Ferger.\n    Gaf, Abr., Postadjunct.\n292 Gyfin, Daniel, Sattler.\n293 Krugisches Fidei-Commis-Haus.\n294 Lechleiter, Fz. F., Commis.\n295 Ziegler, Jungfrau Elisabetha, Partikularin.\n    Bern, Wittwe, geb. Wieland u. Viktor, Sohn.\n296 Maß, Rud., Postoffiziant.\n297 Sandreuter-Langmesser, Rudolf.\n    Sandreuter, F. F., Schuhmacher.\n    Best, F. F., Küfer.\n298 Bader, Joseph, Wirth.\n299 Gönnner, Wittwe, Spezereiladen.\n    Lugeon, Fz., Commis.\n    Stieler, Joseph, Musiker.\n300 Bürgin-Wülf, F. F., Fuhrhalter und Weinschenk.\nSt. Petersplakgäflein.\n301 Hinterhaus von Nr. 296.\n302 id. von Nr. 294.\n303 id. von Nr. 293.\n304 id. von Nr. 292.\nSt. Petersplak.\n305 Seiler, Caspar, Kaufhausarbeiter.\n306 Heinzgen, Jungfrau, Serena.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4520,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1348,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p025",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p025.jpg",
+      "bytes": 1010592,
+      "sha256": "420c10998ba6319c25e6d3f8d56b03989e8b308884a5d6e860b4d6a902640820",
+      "sha256_of": "original",
+      "working_copy": "1850_p025.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:18+00:00"
+  }
+}

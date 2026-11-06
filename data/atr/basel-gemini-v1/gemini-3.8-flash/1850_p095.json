@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p095",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p095.jpg",
+    "bytes": 947412,
+    "sha256": "c53e4b91b9bf725b20ceaaa5fc2a7ee56eb99781e65e6ed9f8bd97ab404635a9",
+    "sha256_of": "original",
+    "working_copy": "1850_p095.jpg"
+  },
+  "text": "82 Riehen-Quartier.\n\n85 Kundert, Wittwe Anna, Seidenwinderin.\n86 Hindenlang, Joh. Rud., Schiffmann.\n  Hasler, Nikl., Beck.\n87 (Mädchenschulhaus) Fäsch, Friedrich, Lehrer.\n88 Mazinger, Jgfr. Anna Elisabeth.\n89 Schmidlin, Jakob, Zimmermann.\n\nNußgäßlein.\n\n90 Riggenbach, J. J., Ladengehülfe.\n  Thommen, Heinrich, Appreteur.\n91 Frey, Franz, Fabrikarbeiter.\n92 Landerer d'Annony, Wittwe.\n\nLindenberg.\n\n93 Arnz, G., Partikular.\n  Philippi, Alb. Julius, Commis.\n94 Schilling, Peter, Kremper.\n  Köllner, Rud., Geschäftsmann.\n95 Burkhardt, Rudolf, Metzger.\n96 Euler, J. J., Schuhmacher, Quartierschreiber.\n  Frey, Karl, Lehrer.\n97 Huttinger, Wittwe Louise.\n98 Wetzel, Jak. Friedr., Fabrikarbeiter.\n99 Zürcher, Heinr., Schneider.\n\nUdengasse.\n\n100 Laudier, Simon, Zettlermeister.\n  Abig, G., Schlosser.\n  Schwarz, Ph., Maler.\n\nLindenberg.\n\n101 Glaser, Jakob, Zimmermann.\n102 Bresin, M., Kaminfeger.\n103 Stohler, Wittwe Elisabeth, Kostgeberin.\nA 103 (Magazin) Imhof, Söhne, gehörend.\n104 Fäsch, Mag., Leonh., Organist.\n105 Bildungs-Anstalt für weibliche Dienstboten.\n  Habicht, Barbara, Hausmutter.\n106 von Büren, Sebastian, Pfarrer.\n  Fluri, Niklaus, Vikar.\n  Lohner, Benedikt, Lehrer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7650,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1174,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 29.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p095",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p095.jpg",
+      "bytes": 947412,
+      "sha256": "c53e4b91b9bf725b20ceaaa5fc2a7ee56eb99781e65e6ed9f8bd97ab404635a9",
+      "sha256_of": "original",
+      "working_copy": "1850_p095.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:19+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p011",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p011.jpg",
+    "bytes": 1295003,
+    "sha256": "651643b333804c7bdc58153398dc9ecd1db60b876657ed83d83ea075932cd10b",
+    "sha256_of": "original",
+    "working_copy": "1862_p011.jpg"
+  },
+  "text": "VIII Behörden und Beamte.\n\nBehörden und Beamte\ndes\nKantons Basel-Stadt.\n\nI. Gesetzgebende Behörde.\nDer Große Rath.\nHr. eidg. Oberst N. Paravicini, Präsident.\n„ Wilh. Bischoff-Merian, Statthalter.\nPetitions-Kommission.\nHr. Wilh. Bischoff-Merian, Präsident.\n\nII. Regierungsbehörde,\nmit ihren Kollegien, Kommissionen, un-\ntergeordneten Kammern u. Beamten.\nA. Der Kleine Rath.\nHr. Carl Felix Burckhardt, J.U.D., Amts-\n  bürgermeister.\nHr. eidg. Oberst J. J. Stehlin, zweiter\n  Bürgermeister.\n„ Peter Merian, Ph. Dr.\n„ Adolf Christ-Sarasin.\n„ Leonhard Heußler-Thurneysen.\n„ J. Christof Schmidt-Fäsch.\n„ Karl Sarasin-Sauvain.\n„ Eml. Burckhardt-Fürstenberger, J.U.D.\n„ Leonhard Fininger.\n„ Joh. Jak. Im Hof-Forkart.\n„ Karl Vischer-Merian.\n„ Heinr. Unholz-Siglin.\n„ Eduard Burckhardt-Schrickel.\n„ Alphons Köchlin-Geigy.\n„ Rudolf Merian-Iselin.\nHr. G. Bischoff, J. U. D., Staatsschreiber.\n„ Carl Burckhardt, J. U. D., Rathsschreiber.\nB. Die Collegien und die denselben\nuntergeordneten Kammern.\nI. Staatscollegium.\nHr. Amtsbürgerm. C. F. Burckhardt, Präs.\nII. Finanzcollegium.\nHr. Rathsherr Leonh. Heußler-Thurneysen,\n  Präsident.\na. Ohmgeldskammer.\nHr. Rathsherr Alphons Köchlin-Geigy,\n  Präsident.\n\n[spalte 2]\nWeinsticher der Stadt.\nQuartier:\nSt. Alban. Hr. Ludwig Kehlstadt.\nSpalen. „ Joh. Franz Roth, Schneid.\nStadt. „ Jer. Frey, Sohn, Knopfm.\nSteinen. „ Joh. Fischer.\nAeschen. „ Kühn, J. J., Schuhmacher.\nSt. Johann. „ Johs. Elsner, Schuhmach.\nBläsi. „ J. J. Martin, Flachmaler.\nRiehen. „ Emanuel Schuler.\nb. Salzkammer.\nHr. Rathsherr Ed. Burckhardt-Schrickel,\n  Präsident.\nStempelcommissär.\nHr. Rudolf Raillard-Stähelin.\nIII. Kirchen- und Schulcollegium.\nHr. Rathsherr Adolf Christ, Präsident.\nIV. Erziehungscollegium.\nHr. Rathsherr Peter Merian, Präsident.\na. Curatel der Universität u. des\nPädagogiums.\nHr. Rathsherr Peter Merian, Ph. Dr.,\n  Präsident.\nb. Inspektion des humanistischen\nGymnasiums.\nHr. Prof. Dr. Andr. Heusler, Präsident.\nc. Inspektion des Realgymnasiums\nund der Gewerbeschule.\nHr. Alt-Rathsherr Aug. Stähelin, Prä-\n  sident.\nd. Inspektion der Realschule u. der\nKnaben-Gemeindeschulen.\nHr. Pfarrer Imman. Stockmeyer, Prä-\n  sident, Theol. Dr.\ne. Inspektion der Töchterschule.\nHr. Rud. Liechtenhan-Hagenbach.\nf. Inspektion der Mädchen-Gemein-\ndeschulen.\nHr. Rud. Liechtenhan-Hagenbach, Prä-\n  sident.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9365,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2313,
+    "lines": 84,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0476,
+    "mean_line_chars": 26.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p011",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p011.jpg",
+      "bytes": 1295003,
+      "sha256": "651643b333804c7bdc58153398dc9ecd1db60b876657ed83d83ea075932cd10b",
+      "sha256_of": "original",
+      "working_copy": "1862_p011.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:53+00:00"
+  }
+}

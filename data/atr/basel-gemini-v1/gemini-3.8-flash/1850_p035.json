@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p035",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p035.jpg",
+    "bytes": 1113004,
+    "sha256": "7d9c16a322059f63f9724bf208667949aa9963e4965c53f26aa574a3752fe990",
+    "sha256_of": "original",
+    "working_copy": "1850_p035.jpg"
+  },
+  "text": "Spahlen = Quartier. 23\n\n511 Fürstenberger-Debary, Wittwe, Wollenhandl.\n512 Burkhardt-Fürstenberger, Eml., Dr. J., Rathsherr.\n\nRoßhofgasse.\n\n513 Rebsaamen, Joh., Commis.\n514 Rebsaamen, Joh., Benedikt, Wagner. [handschriftlich: gestrichen] [handschriftlich: Mich. Oswald, Maler.]\n515 Berardió, Dessinateur. [handschriftlich: gestrichen] [handschriftlich: Gonsler u Steigmeier.]\n516 His-Vischer, Wittwe, Kapitalistin.\n  Simonius, Karl, Commis.\n  Eisenhandlung von Andreas Ludwig.\n\nAdelberg.\n\n517 Falkner, Jgfr., Marg., Partikularin.\n518 Müller-Link, Heinrich, Postoffiziant.\n  Durchgang zu Nr. 602. Dreifuß, Isaak, gehörend.\n519 (Magazin) zu Nr. 511. Fürstenberger-Debary ge-\n  hörend.\n520 LaRoche-Vischer, J. J., Vater, Rentier.\n  LaRoche-Stähelin, Benedikt, Banquier, Commiss.-\n  u. Speditionshdlg.\n521 (Almosenschaffnei) Herzog, Joh., Notar und Almo-\n  senschaffner.\nA 521 Geßler, Dan., Hutmacher gehörend.\n522 Gyßler-Handmann, Lud., Wittwe.\n  Mosley, H., engl. Sprachlehrer.\n523 Erlacher-Heinzgen, Flachmaler, Wittwe.\n524 Ederer, Jungfrau Maria.\n525 Meyer-Merian, Th., Med. Dr.\n  Lotz-Zäslin, Wittwe.\n  Lotz, Eduard, Tabakhändl. (Comptoir in Nr. 1534.)\n\nImbergäßlein.\n\n526 Frey, Peter Hans, Geschäftsmann.\n527 Kindhauser, Johannes.\n528 Lorenz, Joseph, Lohnbedienter.\n529 Klett, Kaspar, Fabrikarbeiter.\n530 Walliser, Joh. Friedr., Fabrikarbeiter.\n531 Gysin, Samuel, Ladendiener.\n532 Bell, Friedrich, gehörend.\n533 Ullmann, Joseph, Gypser.\n534 Hinterhaus von 597, Preiswerk, Emanuel.\n535  \"  \"  596, Hagenbach, Friedrich.\n536  \"  \"  594, Schneider, Friedrich.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7719,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1558,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.37,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:09:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p035",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p035.jpg",
+      "bytes": 1113004,
+      "sha256": "7d9c16a322059f63f9724bf208667949aa9963e4965c53f26aa574a3752fe990",
+      "sha256_of": "original",
+      "working_copy": "1850_p035.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:09:47+00:00"
+  }
+}

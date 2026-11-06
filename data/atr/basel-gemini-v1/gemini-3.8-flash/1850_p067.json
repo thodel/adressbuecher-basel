@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p067",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p067.jpg",
+    "bytes": 896785,
+    "sha256": "12562ba2ce2598cbe98662e2b525a481a667bf9e73ea94d22fb499648102e9ae",
+    "sha256_of": "original",
+    "working_copy": "1850_p067.jpg"
+  },
+  "text": "54 St. Alban-Quartier.\n\n1194 Burkhardt, Sebast., Partikular.\n1195 Pöhls, Lukas, Schlosser.\n  Pöhls, Joh., Partikular.\n1196 Geering, Leonh., Buchhandlung u. Buchdruckerei.\n1197 Stähelin-Schönauer, Hier., Partikular.\n1198 Merian-Stähelin, Elis., Wittwe.\n1199 Vischer-Christ, Rud., Handelsmann.\n1200 Hindermann-Merian, J. J., Bandfabrikant.\n  VonSpeyr, Heinr., Handelsmann.\n  Merian-Bischoff, Saml., Rentier.\n\nBeim Aeschen-Schwibbogen.\n\n1201 Abgebrochen.\n1202 Alioth, Siegmund, Med. Dr.\n  Comptoir von Riggenbach, Joh., Banquier.\n\nLuftgäßlein.\n\nA 1203 Heußler-Ryhiner, Andr., J. U. D., Redakteur der\n  Basler-Zeitung.\n\nSt. Albangraben und Luftgäßlein.\n\n1203 Iselin-Roulet, Frau Wittwe, Rentière.\n  Roulet, Jungfrau Georgine, Partikularin.\n\nLuftgäßlein.\n\nA 1204 (Schulhaus.) Oser-Müller, L., S. M. C., Oberlehrer.\n1204 Ecklin, Joh. Burkhard, Mechanikus.\n1205 Christ-Sarasin, Adolf, Bandfabrikant.\n\nRittergasse.\n\n1206} Christ-Bischoff, Remigius, Rentier.\n1207}\n  Comptoir von Frey, Thurneisen u. Christ.\n1208 Imhof-Heitz, Ludw., Med. Dr.\n\nSt. Alban-Graben.\n\n1209 Bachofen-Merian, Joh. Jak., Bandfabrikant.\n  Bachofen, J. J., Sohn, J. U. D., Appellationsrath.\n  Bachofen, Wilh., Bandfabrikant.\n  Passavant-Bachofen, Eml., Banquier. (Comptoir in\n  Nr. 92.)",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6083,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1249,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 32.75,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p067",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p067.jpg",
+      "bytes": 896785,
+      "sha256": "12562ba2ce2598cbe98662e2b525a481a667bf9e73ea94d22fb499648102e9ae",
+      "sha256_of": "original",
+      "working_copy": "1850_p067.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:04+00:00"
+  }
+}

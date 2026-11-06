@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p030",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p030.jpg",
+    "bytes": 1464537,
+    "sha256": "0e3b25e0ac219ec7ebb94401e2080099de12819d9b5ad19438bdfca806905b83",
+    "sha256_of": "original",
+    "working_copy": "1862_p030.jpg"
+  },
+  "text": "Wittwen- & Waisen-; Kranken-, Begräbniß-Cassen  zc. XXVII\n\nFreiwillige\nbürgerliche Wittwen- & Waisen-Casse\nder Stadt Basel.\nGegründet 1795.\nVerwaltung:\nHr. Dr. Fritz Burckhardt-Brenner, Vorsteher.\n„ Notar Carl Wieland-Dietschy, Statthalter.\n„ Ed. Preiswerk-Burckhardt, Schreiber.\n„ J. R. Häfelsinger-Rupp, Cassier.\nAlte Beisitzer:\nHr. Michael Sautter-Keck.\n„ Samuel Rieder-Frey.\n„ C. Detloff-Lafontaine.\nNeue Beisitzer:\nHr. Carl Heinrich Dietrich-Martin.\n„ Wilh. Heß-Burckhardt, S. M. C.\n„ J. R. Stähelin-Stähelin.\nRechnungs-Revisoren:\nHr. Aug. Barth-vonderKrone.\n„ Joh. Nikl. Halter-Fäsch.\n„ C. L. R. Massini-Seiler.\n\nLehrer-Wittwen- & Waisen-Casse\nder Stadt Basel.\nGegründet 1838.\nVorstand:\nHr. Rathshr. P. Merian, Präsident.\n„ Prof. Andr. Hensler, Seckelmeister.\n„               Schreiber.\n„ Dr. Fr. Burckhardt-Brenner, } Beisitzer.\n„ J. Nebicker in Kleinhüningen, }\n\n[spalte 2]\nArbeiter-Wittwen- & Waisen-Casse.\nGestiftet 1845.\nMitgliederzahl 35. Waisen 12.\nVorstand:\nHr. Heinrich Uebelin-Mollinet, Vorsteher.\n„ J. J. Pfaff. Cassier.\n„ Mart. Pfaff-Jenzer, Schreiber.\n„ Fischer-Trautvetter.\n„ Schmidlin-Müller.\n„ Hägler-Laub.\n„ Bücher-Morell.\n„ Geßler-Tanner.\n„ Zemp-Haab.\n\nWittwen- und Waisen = Casse\nder\nHandlungsdiener.\nGegründet 1849.\nHr. C. Labhardt-Miville, Vorsteher.\n„ J. Salathé-Boßardt, Cassier.\n\nAerztliche\nWittwen-, Waisen- & Invalidencasse.\nGegründet 1857.\nVorstand: Hr. Em. Wybert, Med.\net Chir. Dr.\nUmfaßt alle Medizinalpersonen, die hier\netablirt und Schweizerbürger sind, also auch\nZahnärzte, Thierärzte und Apotheker  zc.\n\nKrankheits-, Begräbniß-, Alters-, Pensions-\nund ähnliche Kassen.\n\n(Die mit * bezeichneten Kassen stehen mit der Kommission für Fabrik-Arbeiter-\nVerhältnisse der Gemeinnützigen Gesellschaft in Verbindung.)\n\n* Unterstützungs = Gesellschaft\nfür\nBuchdrucker.\nGegründet 1661.\nVerwaltung:\nHr. Heinrich Tharin, d. Z. Präses.\n„ Christof Matzinger, Schreiber.\n„ Heinrich Fricker, } Beisitzer.\n„ Eduard Bäumle,   }\n„ Carl Stahmann,   }\n\n[spalte 2]\n* Krankenverpflegungs-Gesellschaft\nder katholischen Gemeinde.\nGegründet 1812.\nVorsteher: Hr. Carl Frey.\n\n* Kranken- und Begräbniß = Casse\nder Bandfabrik-Arbeiter.\nGegründet 1824.\nHr. Andr. Meßmer, Präsident.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8730,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2189,
+    "lines": 82,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0488,
+    "mean_line_chars": 25.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:28:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p030",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p030.jpg",
+      "bytes": 1464537,
+      "sha256": "0e3b25e0ac219ec7ebb94401e2080099de12819d9b5ad19438bdfca806905b83",
+      "sha256_of": "original",
+      "working_copy": "1862_p030.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:49+00:00"
+  }
+}

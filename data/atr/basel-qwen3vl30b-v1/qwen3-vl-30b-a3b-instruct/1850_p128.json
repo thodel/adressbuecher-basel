@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p128",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p128.jpg",
+    "bytes": 1192125,
+    "sha256": "454a5b794b0ab169938430440578fff19791f83eb46923346899be8467203599",
+    "sha256_of": "original",
+    "working_copy": "1850_p128.jpg"
+  },
+  "text": "115\nMarian-Ryhiner, Lukas 1218 | Meyer, Em. W., Kaufm. 754F\nRud. de F. F. 1221 | =Kraus, B., Lehrer 937A\nSch. 1221. Comptoir 1348 | F. F., Beck 943\n=Fischer, F., Müller 1291 | Daniel, Spezierer 1003\n=Thurneisen, P., Prof. 1402 | Joh., Perückenm. 1072-73\n=Marian, Sam. 1404 | Ludw., Kaufmann 1093-94\n=Burckhardt, F. F. 1459 | F. Chr., Zuckerbeck 1089\n=Respinger, K. F. F. 1581 | Georg, Maurer 1397\n=Bister, Em. Heinr. 1614 | =Bischoff, Joh. Christ. 1440\nLudw., Kaufmann 1692 | =Lichtenhahn, Lehrer 1480\nWalthcr, *49. Compt. 149A | Karl u. Ulrich 1624\nJoh. Jaf. *342 | Franz Jos., Hutmach. 1638\nAmad., Bauinspektor *358 | F. A., Wirth 1646\nKarl, Sohn, Säger *358 | Sch., Ausschnitthdlg. 1668\n=Stückelberger, Wwe. 350 | Gedeon, Spezierer 1703\n=Miville, Wittwe 417 | F. R., Magazinarb. 1756\n=Respinger, Wittwe 456 | Heinrich, Schuhm. *34\n=Fäsch, Wittwe 866 | Johann, Seidenfärber *35\n=Bloch, Wwe., M. M. 944 | F. F., Mezger *39\n=vonMechel, Wwe., M. 989 | Kaspar, Apreteur *117\n=Stähelin, Wwe., Ef. 1198 | Ludw., Schuhmacher *130\nFgfr. Susanna 912 | F. F., Weißbeck *228\nFgfrn. Fried. u. Wilh. *427 | Joh., Leitschneider *255\nMerker, Karl, Bergolder 696 | F. F., Feuerwerker *361\nMerkle, F. U., Spez. *286 | =Gysler, Wwe., Sal. 754K\nMeyenrock, F., Weinhdlg. *144 | Fgfr. Apollonia 761\nSchwefern 1617 | =Marian, Wittwe 1093-94\nMeyer-François, F. F. 75 | Fgfr. Margaretha 110\nGedeon, Notar 104 | Meyri-Jenni, F., Antiq. 258\nF. F., Kübler 206 | Franz, Stadtbote 675\nGeorg, Stadtbote 330 | Chr., Commis 787\nPeter, Mezger 347 | Mieg, L., Eisenbahnangest. 78\nEml., Pfarrer 365-66 | F. F., Apotheker 639\nEm., Med. Dr. 365-66 | F. F., Professor 751A\n=Linder, Phil., Hdlsm. 470 | F. F., Biblioth. 1463-64\n=Marian, Th., Med. Dr. 525 | =Meyer, Achilles *181\nF. L., Stadtschreiber 561 | Minder, Sam. *113A\n=Kraus, Sch., Lehrer 561 | =Zäslin, F. F., Müller *313\nNikl., Seidenfärber 615 | F. F., Bestäter *318\nJaf., Mezger 636 | Gustav, Müller *320\nJoh., Spezierer 638 | Mislapp-Pöhls, Adolf 1387\nJoh., Epetter 700 | Nik, L., Sohn, Knopfm. 1648\nFriedr., Thierarzt 753 | Miville, F. F., Zoller 19\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8204,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2087,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p128",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p128.jpg",
+      "bytes": 1192125,
+      "sha256": "454a5b794b0ab169938430440578fff19791f83eb46923346899be8467203599",
+      "sha256_of": "original",
+      "working_copy": "1850_p128.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:01+00:00"
+  }
+}

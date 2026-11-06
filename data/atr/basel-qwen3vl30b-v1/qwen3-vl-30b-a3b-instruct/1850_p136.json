@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p136",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p136.jpg",
+    "bytes": 1256200,
+    "sha256": "2449e50dcc2bfaf9b2cf31b0ab7a1ecdc1f3f7124ccf42722784dcbc660774e2",
+    "sha256_of": "original",
+    "working_copy": "1850_p136.jpg"
+  },
+  "text": "Schweizer, L., Flachmaler *41\nSchwob, Hans Jakob 907\nF. F., Gerichts-Amtm. 1166\nJoh., Fabrikausseher *266\nSecrétan, A., franz. Pfr. 223\nSegisser, L., Detailladen 1395\nSehringer, F. G., Hdlsm. 570\nSeidel-Fürstenberger, F. 851\nSeiden-Trocknungsanst. 1084B\nSeifert, Hch., Müller 621\nSeiler, K., Kaufhausarb. 305\nHch., Fabrikarbeiter 704A\nL.,Woll.-u. Leintuchhlg. 1617\nF. N., Mezger *6\nHeinrich, Kaserier *310\nSenn, F. F., Gastgeber 115\nHeinrich, Commis 183\nFriedrich, Commis 245\n=Byfin,D.,Zollbeamter 456A\nRudolf, Zimmerm. 1127\nSeul, Fz., Buchdrucker 538\nF. F., Schneider 994\nF. F., Stubenverw. 1183\nSevin, W., Commis 1274E\nSeifer, W., Zahnarzt 1086\nSiber-Bischoff, Chr.H. 264-65\n=Loz, Kaspar *172-73\n=Munzinger, Bwe. *7\nSickingen, H., Bildhauer 992\nSider, Viktor, Appret. *309\nSiebenmann-Huber, F. 269A\nSiegfried, Jaf. Philipp 31\nNifl., Griefer 1085\nSigmund, B., Badanstalt 628\nSiegmund, Peter *136\nJakob, Kunstmaler *136\nSiegriß, F., Commis 163\n=Frey, F., Spezierer 163\nEml., Commis 314\nJof., Kutcher 476\nRudolf, Posamenter 776\nEml., Mezger 843\nHeinrich, Mezger 861\nSiegriß, F. H., Beck 862\nF. N., Kaufhausbeamt. 937B\nNifl. Hch., Schreiner 1257\nMart., Müller 1303\nJoh., Fabrikferger 1486\n=Heusler, A., Korbdgl. 1741\nWittwe, A. M. *187\n=Beckel, Bwe., A. M. 281\nSilbernagel, Joh. Jaf. 1608\nSimmen-Hunzicker, F. 1255\nMelch., Zimmermann *268\nSimmier, Heinrich 689\nSimonius, K., Commis 516\nSimoth, F. D., Tabackhlg. 451\nSingeisen, F. F. 567-68\nJgfr. Barbara 1441\nSigt, L., Tapezierer 569\nEml., Commis 971A\n=Roßh, Frau, Hebamme 1528\n=Weitnauer, Wittwe 331\nSocin, Abel, Tuchhdlg. 566A\n=Frey, Ed., Hdlsm. 594\n=Werthemann 1381A\n=Heusler, Bernhard *174\nWittwe, Margaretha *192\nSoller, Wilh., Schuhm. 484\nFriedrich, Bandfabr. *177\nF., Beck *371\nSommer, M., Flachmaler 314\nSoulzener, A., Zuckerbeck 1518\nSpahr, Daniel, Commis 314\nSpecker, H., Bierbrauer 783\nSpeifer, F. F. 156\n=Haufer, F., Bankdirekt. 1629\nJakob, Posamenter *155\nSpengler, Wittwe 663\nvon Speyr=Jfelin, Karl 50\nJoh. Hch., Antiquar 415\nJoh., Material-Hdlg. 438\n=Ryhiner, C., Hdlsm. 1043\nEmil, Sekretär 1077\nHeinrich, Hdlsm. 1200\nKarl Wilh., Notar 1422\n123",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8405,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2107,
+    "lines": 87,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p136",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p136.jpg",
+      "bytes": 1256200,
+      "sha256": "2449e50dcc2bfaf9b2cf31b0ab7a1ecdc1f3f7124ccf42722784dcbc660774e2",
+      "sha256_of": "original",
+      "working_copy": "1850_p136.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:07+00:00"
+  }
+}

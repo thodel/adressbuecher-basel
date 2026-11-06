@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p071",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p071.jpg",
+    "bytes": 922068,
+    "sha256": "f0a0d23b23fe158bfe72b31fd379922d9fa5b63eed4ef25d006c34cc59e34405",
+    "sha256_of": "original",
+    "working_copy": "1850_p071.jpg"
+  },
+  "text": "58\tSt. Alban-Quartier.\n\n1290\tKaufmann, Jakob, Fabrikmeister.\n1291\tMerian-Fischer, Johann, Müller.\n1292\tOser-Thurneisen, Wittwe.\n\tOser, Rudolf, Papierfabrikant.\n\tStückelberger, Andr., Bandfabrikant. (Comptoir in\n\tNr. 1269.)\n\tThurneisen, Christoph, Rentier.\n1293\t(Jeremiaskapelle) Obrigkeitlich.\n1294-95\tOser-Thurneisen, Wittwe, Fabrike.\n\tSchmid, J., Seb., Papierer.\n\tBollenhals, Michael, Papierer.\n1296\tBay, Eml., Papierer.\n1297\tBandfabrike von Siber-Bischof.\n\tZumbrunn, Heinrich, Fabrikaufseher.\n1298\tMüller, Christian, Ausläufer.\n1299\tGaß, Jakob, Posamenter.\n1300\tUnbewohnt.\n1301\tScheune u. Stallung zu Nr. 1309.\n1302\tRemise.\n1303\tSiegrist, Martin, Müller.\n1304\tKrauer-Treu, Rudolf, Müller.\nA 1304\tStall und Magazin.\n1305\tSteinmann-Hesty, J. Melch., Müller.\n1306\tObrigkeitliches Brunnwerk.\n\tRoche, Wittwe, Kath., geb. Versail, Zwirnmühle.\nA 1306\tBicler, Jakob, Lohnwascher.\n\tBicler, Joh. Heinrich, Commis.\n1307\tZu Nr. 1309 gehörend.\n\tGysin, J. G. R., Posamenter.\n1308\tHellstern, Anton, Müller.\n\tKarle, Johann, Holzmüller.\nA 1309\tFreyvogel-ImHof, Friedrich, Bandfabrikant.\n\tHeusler-Iselin, Ol., Bandfabrikant.\n\tSchenkel, Daniel, Prof., Theol. Dr.\nB 1309\tSchaub, Jakob, Fabrikaufseher.\n1310\t(St. Alban-Kirche.) Obrigkeitlich.\n\nSt. Alban-Thorgasse.\n\nD 1311\t(Fabrikgebäude) Madöry, Wittwe, Marg. geb. Pfaff.\n1311\tSarasin-\t, Carl, Bandfabrikant.\nA 1311\tVischer-Handmann, Wittwe, Rentière.\n\tIselin, Frau, Susanna, Rentière.\n\tHandmann, Ludwig.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8271,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1437,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p071",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p071.jpg",
+      "bytes": 922068,
+      "sha256": "f0a0d23b23fe158bfe72b31fd379922d9fa5b63eed4ef25d006c34cc59e34405",
+      "sha256_of": "original",
+      "working_copy": "1850_p071.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:32+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p185",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p185.jpg",
+    "bytes": 957616,
+    "sha256": "8ef9642d75a821d59b59ac6d3f2c6ede30e272bc20f8d962ad36f10ccb78da8e",
+    "sha256_of": "original",
+    "working_copy": "1841_p185.jpg"
+  },
+  "text": "— 32 —\n\nMüller, Jakob, von Oberkulm, Lehennann. 3 Straße\nnach St. Louis U. B.\nMundwiler, Sus., geb. Frey, Wittwe, v. Tenniken, Tag-\nlöhnnerin. 186 Lohstampsberg. U. B.\nMundwiler, Nikolaus, v. Tenniken, Landmann. 240 Mittl.\nGundeldingen. D. B.\n\nN.\nNussbaumer, Peter, von Lüterkofen, Lehennann. 138\nAlschwiler gaffe. U. B.\nNussbaumer, Michael, von Lüterkofen, 236 Lehennann.\nScheurenfeld. D. B.\n\nO.\nOppliger, Rudolf, von Siegriswil, Gutsbesitzer. 250 St.\nJakobstraße. D. B.\n\nP.\nPlattner, Heinrich, von Binningen, Gutsbesitzer. 16 a.\nStraße nach St. Louis. U. B.\nPlattner, Jakob, Gutsbesitzer. 155 Mostacker. U. B.\nPlattner, Heinrich, Zimmermeister. .155 Mostacker. U. B\nProbst, Jakob, Lehennann. 302 Herdsträcklein. D. B.\n\nR.\nReber, Samuel, von Schangnau, Blutigelwächter. 284\nUm St. Alban-Teich. D. B.\nRech, Theobald, von Thann, Buchdrucker und Gutsbesitzer.\n145 Schükenmattengasse. U. B.\nRickli, Johannes, von Thunstetten, Lehennann. 293\nGellert. D. B.\nRietsch, Katharina, geb. Jauslin, Wittwe, von Pratteln.\n281 St. Jakob. D. B.\nRietsch, Leonhard, von Pratteln, Siegrist. 281 St.\nJakob. D. B.\nRoth, Karl Ludwig, von Buggingen, Dr., Privatlehrer.\n124 Hägenheimerstraße. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4089,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1175,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.44,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p185",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p185.jpg",
+      "bytes": 957616,
+      "sha256": "8ef9642d75a821d59b59ac6d3f2c6ede30e272bc20f8d962ad36f10ccb78da8e",
+      "sha256_of": "original",
+      "working_copy": "1841_p185.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:27+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p134",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p134.jpg",
+    "bytes": 1191047,
+    "sha256": "d9287a10412b36c08dbb650784008b11a5c9d18b78ca1ec185e2c5ea478cf93f",
+    "sha256_of": "original",
+    "working_copy": "1850_p134.jpg"
+  },
+  "text": "Schaub, M., Kosthaus 966\nJakob, Schuhmacher 1082\nF. F., Handschuhm. 1101\nF. F., Commis 1144\nBen., Commis 1144\nU. Ch., Zettlermeister 1232\nF. A., Ferger 1279\nFaf., Fabrikausseher 1309B\nD., Ferger 1438\nFaf., Posamenter 1495\nAndreas, Notar 1603\n=Fischer, Wittwe 1603\nSchaubecf, G., Schuhm. 76\nSchaubhut, E. Fr. *169-71\nSchäublin, F., Unterbest. 659\nF. F., Lehrer 852-52A\nF. F., Schuhmacher 1102\nSchakmann, K., Maurer 430\nScheidecker, Wittwe 1686\nSchellenberg, L., Spedit. 853\nSchenk, G., Lohnwäscher 677\nSchenkel, Dl., Prof. 1309A\nFaf., Zimmergehilfe *257\nScherb, F. A.\nEml., Wundarzt 284\n-Schmied, Meßger 479\nSch., Flachmaler 1505\nG., Med. & Chir. Dr. 1528\nWittwe 197\nSchermar-Bloch, Ant. 1731\nScheurer, Abr., Fuhrh. 143\nScheurmann-Zäklin, F. 1635\nSchilling, Eml., Maler 235\nPeter, Schneider 314\nAbr., Wagner 313-44\nF. R., Hufschmied 348\nJoh., Zolleinnehmer 1095\nF. R., Commis 1328\nPeter, Kremper *94\nWittwe 482\n-Gnöpf, Wittwe 648\n-Notb, Bwe., Bandl. *297\nSchimpf, A., Kunstmaler 611\nSchimpf, Seb., Abwart 1450\nSchlatter, F. G., Mechan. *159\nSchlosser, Rasp., Beck 1070\nSchlumpf, Konrad 777\nSchmackmann, Heinrich 486\nSchmidt, Karl, Kunstmaler. 38\nKarl, Trödler 87\nG. Mich., Ingenieur 109\n=Bächlin, Lehrer 232\n=Iwengen, F., Kaufm. 247B\nF. Christ., Beck 316\nCh., Schreiner 368-69\n=Götz, Andreas 374A\nP., Parlier 404\nAndreas, Meßger 479\nRudolf, Notarius 703\n=Loz, Hr., Küfer 824\nF. Theod., Schreiner 826\nF. H., Ferger 860\nF. F., Commis 863\nDaniel, Kübler 951\n=Brenner, A., Sped. 1083B\nG. Th., Buchdr.=Faktor 1168\nF. S., Papierer 1294-95\n=Kloz, Xaver, Barbier 1391\nMelch., Schneider 1416\nA., Oberst=Kathödiener 1496\nRud., Sohn, Kanzlist 1496\nAndreas, Meßger 1657\nChristof, Weinschenk 1666\nDaniel, Kübler *230\nRud., Beck u. Weinsch. *334\nF. F., Lohnamtsarb. *349\n=Loz, Wittwe, Hel. 820\nSchmiedlin, F., Ferger 780\n=Fischer, W., Lehrer 908\nJakob, Zimmermann *89\nG., Zimmermann *168\nSchmucki, Lif., Modiste 1438\nSchnäbelin, L., Schuhm. 1695\nAdam, Riefer 1705\nF. Ulr., Schneider *275\nSchneeberger, Rud. *75\n10\n[spalte 2]",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8002,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2009,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 21.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:15:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p134",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p134.jpg",
+      "bytes": 1191047,
+      "sha256": "d9287a10412b36c08dbb650784008b11a5c9d18b78ca1ec185e2c5ea478cf93f",
+      "sha256_of": "original",
+      "working_copy": "1850_p134.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:15:50+00:00"
+  }
+}

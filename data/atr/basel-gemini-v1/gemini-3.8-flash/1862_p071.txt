@@ -1,0 +1,54 @@
+6 Aeschengraben.
+
+Neue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+
+13 | IV. | 220 A | | Zahn-Rognon, Eduard.
+  Zahn-Rognon, Eduard, Kaufmann.
+14 | IV. | 998 D | | Witzig-Bovet, David.
+  Witzig-Bovet, David, Lehrer.
+  Scherb-Baumann, Jak. Adam, Bureau
+  f. techn. Liter. (Verlagsbuchhandlg.)
+  Specker-Meyer, Maria Dorothea, Wb.
+  Soistmann-Hifferich, Ferdin., Cantor
+  und Musiklehrer.
+  Lotz-Baune, Adolf, Commis.
+16 | IV. | 998 E | | Lüscher-Stapfer, Carl.
+  Lüscher-Stapfer, Carl, Kaufmann.
+  Stapfer, Wb. Barbara, Partikular.
+17 | IV. | 219 | | Grimm-Schneider, Christian.
+  Grimm-Schneider, Christ., Dr. med.
+  Schneider-Frey, Wb. Elisab., Part.
+21 | IV. | 218 | | Boelger-Hindermann, Markus.
+  Boelger-Hindermann, Markus, Theilh.
+  der Firma Markus Boelger.
+24 | IV. | 998 F | | Kaltenmeyer-Kircher, Jakob.
+  Kaltenmeyer-Kircher, Jak., Baumeister.
+  Kircher-Merian, Jak., Partikular.
+  Bernoulli-Bernoulli, Wb. Soph., Part.
+25 | IV. | 217 | | Frey-Thurneisen und Christ.
+  (Zettlerei und Winderei.)
+  Buser Eduard, Ferger.
+27 | IV. | 216 C | | Grether-Scholer, J. J.
+  Grether-Scholer, Joh. Jak., Kfm.
+  J. Grether u. Comp., Band und Mode-
+  Artikel.
+  Mylius, Jonas Carl, Architekt.
+28 | IV. | 991 | | Delhafen, Sam., Mechan.
+  Dreifus u. Söhne, Isaak, Bandfabrike.
+29 | IV. | 216 B | | Kaufmann-Burckhardt, Joh.
+  Kaufmann-Burckhardt, Joh., Wein- und
+  Spirituosenhandlung.
+  Kaufmann, Carl, Commis.
+  Déjosez-Hofer, W., Architekt.
+30 | IV. | 991 A | | Delhafen, Sam., Mechan.
+  Chêvre-Dinger, Joseph, Dessinateur.
+32 | IV. | 971 A | | Gasquet-Siegrist, Friedr. Wilh.,
+  Zimmermeister.
+37 | III. | 202 B | | Meyer-Müller, Joh.
+  Meyer-Müller, Joh., Partikular.
+  Gyssendörffer Heinr., Kanzleisekretär.
+  Simmen-Becker, J. Heinr., Kaufmann.
+39 | III. | 202 C | | Iselin-LaRoche, Dan. Ludw.
+  Iselin-LaRoche, D. Ludw., Kaufmann.
+41 | III. | 202 D | | Merian-Köchlin, Eduard.
+  Merian-Köchlin, Eduard, Kaufmann.

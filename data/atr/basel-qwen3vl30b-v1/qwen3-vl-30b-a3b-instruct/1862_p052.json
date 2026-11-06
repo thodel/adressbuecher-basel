@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p052",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p052.jpg",
+    "bytes": 1509184,
+    "sha256": "b8fc576ac78427df71567cbea54223dc56110911edc4d714daba05030535297d",
+    "sha256_of": "original",
+    "working_copy": "1862_p052.jpg"
+  },
+  "text": "Nagionenbuch.\nXLIX\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nMüller, J. J., et Comp. | J. J. Müller=Pad. | Farbholzmühlen, Farb-\n| Soller=Keller, Commanditair. | holzextract- u. Anilen-\n| Joh. Gyfin, Prokuraträger. | farbenfabrik.\nNabholz=Rauchenstein, | Leonh. Nabholz=Rauchenstein, allein. | Agenturen in Wollen-\nLeonh. | | waaren.\nNeufirch'sche Buchhdlg. | Heinr. Georg=Neufirch, allein. | Besitzer von H. Georgs\n| | Sortimentsbuchhdlg.,\n| | Genf, Corraterie 10.\nNordmann, Elias. | Elias Nordmann=Dietisheim, allein. | Bandhandlung en gros.\nOberriedt, J. G. | Wittwe Bucherer, geb. Parmentier. | Speditions-, Commis-\n| Theodor Reinbold, Prokuraträger. | sions- u. Samengefch.\nDehl, H., u. Cafader. | H. Dehl. | Strickwolle, wollene ge-\n| M. Cafader=Mieg. | strickte Waaren 2c.\n| Fs. Martin, Commanditair und | \n| Prokuraträger. | \nOfer u. Gemuseus. | Chr. Rud. Ofer. | Mech. Papierfabrik.\n| Joh. Rud. Wilh. Gemuseus. | \nOswald Gebrüder et | Eman. Walter Oswald=Falkner, | Bankgeschäft.\nComp. | Peter Oswald=Linder, | \n(Comptoir d'escompte.) | eine Gesellschaft von Aktionärs | \n| mit 1000 Aktien im Betrag von | \n| zwei Millionen Frank. als Com- | \n| manditairs, in deren Namen | \n| Lud. Aug. Burckhardt J. U. D. | \n| unterzeichnet hat. | \n| G. Schürer, Prokuraträger. | \nOswald, Gebrüder. | Eman. Walter Oswald=Falkner. | Commission u. Spedit.\n| Peter Oswald=Linder. | \n| Fried. Steinbrüchel, Prokuraträger. | \n| Georg Schürer, Prokuraträger. | \nOstermann et Comp. | Jean Ostermann=Humbel. | Weißwaaren, Lingerie,\n| J. R. Laube, Commanditair. | Broderie, Rideau,\n| | Stoffwaaren in den\n| | Specialität. f. Trauer,\n| | Halbtrauer und Nou-\n| | veautés.\nPad=Burckhardt, J. | Ernst Gyfin=Madöry, allein. | Spezerei-, Käse- und\n| | Branntweinhandlung.\nParavicini, Leonhard. | Wittwe Julie Paravicini=Bonder | Eisen- u. Metallhandl.\n| Mühll. | \n| Eman. de Carl Burckhardt=Burk- | \n| hardt. | \n| Wilhelm Burckhardt=Sarafin. | \n| Eman. BonderMühl=Hoffmann. | \n| Const. Borgognon, Prokuraträger. | \nParavicini, Dietiker et | in Liquidation. | Bandfabrik.\nComp. | Caspar Siber=Loz. | \n| Albert Loz=Holzach. | \nPaffavant et Comp. | Em. Paffavant=Bachofen, allein. | Bankgeschäft.\n| Bernaur, Viktor. | Viktor Bernaur=Müller, allein. | Quincaillerie.\n| Peter, F. H. | F. H. Peter, allein. | Agenturgeschäft.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7081,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2327,
+    "lines": 54,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:25:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p052",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p052.jpg",
+      "bytes": 1509184,
+      "sha256": "b8fc576ac78427df71567cbea54223dc56110911edc4d714daba05030535297d",
+      "sha256_of": "original",
+      "working_copy": "1862_p052.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:38+00:00"
+  }
+}

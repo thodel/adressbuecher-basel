@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p013",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p013.jpg",
+    "bytes": 883442,
+    "sha256": "7756a1e629830791f80098bac0c179dceed2caa9c525ae097866ede6e793b536",
+    "sha256_of": "original",
+    "working_copy": "1841_p013.jpg"
+  },
+  "text": "6\nNro.\n135 * Salathe, Jakob, Zirkelschmid, von Lieftal.\n     Fäsch, Joh., Kupferschmid.\n136 * Brändlin = von Mechel, L., Modehandlung.\nFischmarkt.\n137 Brändlin = von Mechel, Leonhard, Modehandlung.\n138 Schalch, Joh. Ulrich, Goldschmid.\nBlumengasse.\n139 * Wieland, Major, August fel. Wittwe.\n     (Schweighauserische Buchhandlung.)\n     Miville = Socin, J. J., Waaren = Senfal.\n140 Roschet, Hieronimus, Sattler.\n141 Früh, Abraham, Hufschmid und Thierarzt.\n     Früh, Ludwig, Hufschmid.\n142 Leibzig, geb. Martin, Gasthof zur Blume.\n143 * Remife von Jos. Christmann zum Schwanen.\n144 * Magazin von Merian = Kespinger.\n145 Walter, Joh. Jakob, Commis.\n     Witschi, Gottlieb, Conducteur, von Büren, K. Bern.\nSchwanengasse.\n146 Bölli, Daniel, Wundarzt.\n147 Christmann, Jos., Gasthof zum Schwanen.\n148 Huber = Schmitter, J. J., Commissionslager.\n149 Linder, Jakob Ludwig, Bandfabrikant.\n149 a Dollfus, Joh. Heinrich, Brandaffekuranz = Comptoir.\n150 Knopf, Jakob Friedrich, Schuhmacher und Weinschenk.\n     Kespinger, Maria, geb. Preiswerk.\n     Hosch, Peter Hans, Appellationsgerichts = Weibel.\nFischmarkt.\n151 Gysler, Heinrich, Sohn, Leinwandhändler.\n     Jselin, Remigius, Kunstmaler.\n152 Sting, Sam. Fr. fel. Wittwe, geb. Brang, Bandladen.\n153 Munzinger, Jakob Friedrich, Tuchhändler.\n154 Bernoulli, J. J., Sohn, Ph. Dr., Apotheker.\n155 * Zunft zu Fischern.\n     Schlegel, Wittwe; Wohlnlich, Em. R., Kaffeewirth.\n156 Speifer, J. J., Steingut =, Tapeten =, Zeugwaaren = u. Modehandl.\n157 Landerer, Ludwig, Sohn.\n158 Dhl, J. Wilh., Perückenmacher.\n159 Lüdin, Georg fel. Wittwe, geb. Göbelin.\n     Minder, Melchior, Gegenschreiber.\n     Schenkel, Daniel, Lizenciat, von Schaffhausen.\n     Knopf, Geschwister, Modehandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4953,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1715,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0227,
+    "mean_line_chars": 36.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:05+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p013",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p013.jpg",
+      "bytes": 883442,
+      "sha256": "7756a1e629830791f80098bac0c179dceed2caa9c525ae097866ede6e793b536",
+      "sha256_of": "original",
+      "working_copy": "1841_p013.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:05+00:00"
+  }
+}

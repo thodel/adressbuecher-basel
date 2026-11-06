@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p036",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p036.jpg",
+    "bytes": 1452991,
+    "sha256": "1de7aa99f8d435a3e1c3d073b4b949e9ad8043fa660ae0c28db016c29ca3a027",
+    "sha256_of": "original",
+    "working_copy": "1862_p036.jpg"
+  },
+  "text": "Zinstrag. Ersparnißkasse. Bank. Handwerker-Bank. XXXIII\n\nZinstragende Ersparnißkasse.\nGegründet 1809.\nLocal: Schlüssel-Zunft.\nVorstand: Hr. C. Thurneysen-Paravicini.\n\nBank.\nGegründet 1845.\nLocal: Marktplatz Nr. 12.\nVorsteherschaft:\nHr. Wilh. Burckhardt-Preiswerk, Präsident.\n„ Daniel Heusler-Thurneysen.\nHr. Carl Vonder Mühll-Merian.\n„ Carl Bachofen-Burckhardt.\nHr. Eduard Früh, Bankdirektor.\n„ Joh. Rud. Schilling, Bankkassier.\nDie Bank macht vorbehältlich der durch die Statuten besonders ausgenommenen Fälle\nausschließlich mit hiesigen Handlungshäusern, Partikularen, Korporationen oder Behörden\nGeschäfte, und eröffnet diesen Personen auf Begehren eine laufende Rechnung. Ihre Ge-\nschäfte bestehen in Inkassobesorgung und Giro, in Aufbewahrung von Depositen, in Auf-\nnahme von verzinslichen Geldern, in Ausgabe von Banknoten nach Sicht an den Inhaber\nzahlbar, in Ausgabe von Kassascheinen an Ordre zahlbar, in Diskonto von Wechseln auf\nBasel, Paris und französische Banksukkursalplätze und ausnahmsweise auf andere fremde\nBankplätze, wo besondere Kreditverbindungen hiezu Anlaß geben; ferner in Darlehen und\nVorschüssen auf Hinterlagen, in An- und Verkauf hiesiger Staats- und Stadtobligationen,\nin Baarbezügen von Auswärts zu zeitweiser Verstärkung der Mittel und überhaupt in den\naus Bankverbindungen hervorgehenden Besorgungen.\n\nHandwerker-Bank.\nGegründet 1860.\nDirection:\nHr. H. David, Präsident.\n„ Bernoulli-Oswald, Vice-Präsident.\n„ Rathshr. Schmidt-Fäsch.\n„ I. I. Bohny-Düring.\nHr. Bankdirektor Früh, Beisitzer.\n„ Rathshrr Imhof, „\n„ P. W. Deck, „\n„ Ed. Eckenstein-Schermar, „\nVerwalter und Cassier: Hr. Hieron. Burckhardt-Eckenstein.\nGeschäftslokal: Nro. 12 Markt.\nDasselbe ist jeden Wochentag von 8—12 und 2—5 Uhr geöffnet.\nDie Handwerker-Bank Basel hat zum Zwecke, hiesigen Bürgern und Einwohnern vor-\nübergehende Geld-Vorschüsse zur Förderung ihres Berufes zu leisten.\nDie Geschäfte der Bank bestehen:\na) in Gewährung von Darlehen auf bestimmte Zeit gegen Sicherheit;\nb) in Credit-Eröffnungen, ebenfalls gegen Sicherheit;\nc) in Annahme verzinslicher Gelder auf feste Verfallzeit oder in Conto-Corrent.\nAußer den hier benannten ist die Bank blos zu solchen Geschäften befugt, welche dazu\ndienen, ihr die erforderlichen Betriebsmittel zu verschaffen, oder vorhandene Baarschaft,\nsoweit sie für ihren eigentlichen Zweck entbehrlich ist, zeitweise nutzbringend zu machen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8379,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2382,
+    "lines": 49,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:29:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p036",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p036.jpg",
+      "bytes": 1452991,
+      "sha256": "1de7aa99f8d435a3e1c3d073b4b949e9ad8043fa660ae0c28db016c29ca3a027",
+      "sha256_of": "original",
+      "working_copy": "1862_p036.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:47+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p184",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p184.jpg",
+    "bytes": 1063715,
+    "sha256": "50126bd599d14a111791f8eb26564a99a3723fec96639f228d5975aa05bf6b12",
+    "sha256_of": "original",
+    "working_copy": "1841_p184.jpg"
+  },
+  "text": "— 31 —\n\nL.\nLang, Margar., Jgfr., Näherin, v. Sulz am Neckar.\n  262 B. St. Jakobstraße. O. B.\nLangmesser, Sophie. 108 Burgfelderstraße. U. B.\nLötscher, Johannes, v. Escholzmatt, Lehenmann. 282 St.\n  Alban-Teich. O. B.\nLöw, Wilhelm, v. Benken, Posamenter. 49 Mittlere\n  Straße U. B.\nLützelschwob, Fr., von Minseln, Lehenmann. 258 St.\n  Jakobstraße. O. B.\nLutz, Eduard, von Binningen, Kapellmeister. 240 Mittl.\n  Gundeldingen. O. B.\n\nM.\nMadörin, Friedrich, von Lausen, Knecht. 192 Binninger-\n  straße. O. B.\nMäglin, Isaak, Bannwart. 108 Burgfelderstraße. U. B.\nMäglin, Joh. Jakob, Rathsbote. 165 Unterschützenmatten-\n  gäßlein. U. B.\nMeisner, Karl Friedr., Med. Dr., Professor der Natur-\n  geschichte. 222 A. St. Jakobstraße. O. B.\nMeister, Urs Viktor, von Herbetswil, Fabrikarb. 271\n  Aeußere Neusäß. O. B.\nMeyer, Jakob, von Niedergösgen. 22 Klingelberg. U. B.\nMeyer, Christian, von Ehrsberg, Gutsbesitzer. 49 Mittl.\n  Straße. U. B.\nMeyer, Heinrich, Lehrer im Landwaisenhaus. 201 St.\n  Margarethenstraße. O. B.\nMeyer, Johannes, von Ehrsberg, Lehenmann. 249 St.\n  Jakobstraße. O. B.\nMeyer, Jakob, von Töß, Gärtner. 298 Gellert. O. B.\nMeyer-Hoffmann, Daniel, Bierbrauer. 20 Straße nach\n  St. Louis. U. B.\nMüller, Joh., v. Buschwiler, Gärtner. 297 Gellert. O. B.\nMüller, Joseph, v. Magden, Ziegler. 279. St. Jakob. O. B.\nMüller, Peter, Walker. 278 A. Bei Brüglingen. O. B.\nMüller, Johannes, v. Bärenwil, Gutsbesitzer. 1 Straße\n  nach St. Louis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9003,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1445,
+    "lines": 38,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 36.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p184",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p184.jpg",
+      "bytes": 1063715,
+      "sha256": "50126bd599d14a111791f8eb26564a99a3723fec96639f228d5975aa05bf6b12",
+      "sha256_of": "original",
+      "working_copy": "1841_p184.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:20+00:00"
+  }
+}

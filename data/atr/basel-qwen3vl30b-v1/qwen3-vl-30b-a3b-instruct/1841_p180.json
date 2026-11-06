@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p180",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p180.jpg",
+    "bytes": 1085343,
+    "sha256": "9c21b4f77d2e8becf343b90597a999aa8f45e61684f1669d8a9d51d9c6a5b16a",
+    "sha256_of": "original",
+    "working_copy": "1841_p180.jpg"
+  },
+  "text": "- 27 -\nBernoulli, Christoph, Professör. 98 Burgfelderstraße. U. B.\nBidert, Jakob, von Bärenwil, Mattenknecbt. 183 Loh-\nstampsberg. U. B.\nBircher, Kaspr., v. Lutheru, Gutsbesitzer. 33 Klingelberg. U. B.\nBircher, Joseph, von Lutheru, Gutsbesitzer. 97 Burg-\nfelderstraße. U. B.\nBiermann, Peter, alt Stadtrath. 107 Burgfelderstraße. U. B.\nBiermann=Bischer, Samuel, Gutsbesitzer. 107 Burgfelder-\nstraße. U. B.\nBiermann, Anna Marg., geb. Bussinger. 317 Weiden-\ngäsklein. D. B.\nBolander, Joseph, v. Dogern, Gärtner und Gutsbesitzer.\n153 Mostacker. U. B.\nBrettscher, Elis., geb. Habersaat, Wittwe, v. Töx, Gärtnerin.\n316 Weidengäsklein. D. B.\nBrogie, Ant., v. Stein, Gutsbesitzer. 122 Burgfelderstr. U. B.\nBrugger, Joh., v. Altenburg, Lehennann. 274. Neufere\nNeufäz. D. B.\nBrunner, Elisabeth, geb. Habegger, von Mümliswil,\nLehenfrau. 66 Davidsboden. U. B.\nBüchy, Joh. Christoph, Gutsbesitzer. 24 Klingelberg. U. B.\nBürgin, Jakob, von Rüneburg, Lehennann. 106 Burgfelder-\nstraße. U. B.\nBurchhardt, Samuel, alt Bannwart. 119 Burgfelderstr. U. B.\nBurchhardt, Margaretha, abgeschied. Oberriedt, Part. 250\nSt. Jakobstraße. D. B.\nBurchhardt, Franz, Mechanikus. 252 St. Jakobstr. D. B.\nBuser, Mathias, von Bottmingen, Taglöhner. 194 Bin-\nningerstraße. D. B.\nC.\nCrussaire, Nikolas Simon, von Boul au Bois, Gutsbesitzer.\n25 Klingelberg. U. B.\nD.\nDavid, Joh. Georg, Gutsbesitzer. 14 Straße nach St.\nLouis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4563,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1393,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 37.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p180",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p180.jpg",
+      "bytes": 1085343,
+      "sha256": "9c21b4f77d2e8becf343b90597a999aa8f45e61684f1669d8a9d51d9c6a5b16a",
+      "sha256_of": "original",
+      "working_copy": "1841_p180.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:04+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p108",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p108.jpg",
+    "bytes": 1034078,
+    "sha256": "7013ad9ba9d1ddd2923d3956a6a04418ea1f0cdbc58f3763d0669bdfe97146d2",
+    "sha256_of": "original",
+    "working_copy": "1841_p108.jpg"
+  },
+  "text": "25\nKübler, Carl, Kübler. 96 St. Johann=Schwibbogen.\nKübler, Christ. Gottl. sel., Wittwe, geb. Grey. 951 Aeschen=Vorst.\nKüenzi, Patric., Beck, v. Fric, Kant. Vargau. 6 St. Joh.=Vorst.\nKüenzly, Ludwig, Lieutenant. 828 Blömlein.\nKühn, J. J., Schuhmacher. 958 Aeschen=Vorstadt.\nKühn, Franz, Schlosser. 787 Bordere Steinen=Vorstadt.\nKühn, Wilhelm, Schlossers Wittwe. 675 Gerbergasse.\nKündig, Andreas, Küfer. 420 Heuberg.\nKündig, Euchar., Diakon bei St. Peter. 562 Pfarrhaus. St. Peter=stiftsgasse.\nKündig, Wittwe, geb. Geiger. 11 St. Johann=Vorstadt.\nKündig, Joh., Metzger. 200 Unterer Herbergberg.\nKündig, Rud., Tapezierer. 295 Spahlen=Vorstadt.\nKündig, Philipp, Weißbeck. 28 St. Johann=Vorstadt.\nKündig=Linder, Theodor, Rentier. 119 Blumenplatz.\nKünzig, Jakob, genannt Hindenlang. 73 St. Johann=Vorstadt.\nKürsteiner, Johannes, Conrector. 1478 Augustinergasse.\nKuhn, David, Zimmermann. 971 Sternengäßlein.\nKummer, Mathias, Schreiner. 547 a b c Adelberg.\nKummer, Joh. Conrad, Rathsbote und Weinschenk. 1655 u. 1656 Kindermarkt.\nKunz, geb. Walliser, Wascherin. 776 Hinterer Bach.\nKunz, Franz, Seidenfärbcr. 20 St. Johann=Vorstadt.\nKupferschmid, Heinrich, Schlosser. 189 Unt. Herbergberg.\nKuster, Joh. Franz, Spezereihändler. 692 Bei St. Leonhard.\nKusmaul, Michael, Mechanikus. 997 Bei dem Aeschen=Thor.\nL.\nLabhardt, Joh. Jakob. 874 Thorsteinen.\nLabhardt, Caspar. 874 Thorsteinen.\nLacher, Jos., Kunstmaler. 74 St. Johann=Vorstadt.\nLamy, J. P., Kunsthändler und Antiquar. 127 Neue Straße.\nLanderer, Ludwig, Sohn. 157 Fischmarkt.\nLanderer, Wittwe, geb. Bratschy, Perrückenmacherin. 1567 Schneidgasse.\nLanderer, Niklaus, Bürstenbinder. 1738 Hinter der School.\nLanderer, N. sel., Wittwe, geb. Bienz. 1205 Luftgäßlein.\nLanderer, Wittwe. 834 Blömlein.\nLanderer-Maring, Ludwig. 116 Blumenrain.\nLang, Adam, Musiker. 872 Thorsteinen.\nLang, Joh. Rud., Commis. 859 Thorsteinen.\nLangmesser, Samuel, Schreiner. 503 Adelberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6268,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1904,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:54:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p108",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p108.jpg",
+      "bytes": 1034078,
+      "sha256": "7013ad9ba9d1ddd2923d3956a6a04418ea1f0cdbc58f3763d0669bdfe97146d2",
+      "sha256_of": "original",
+      "working_copy": "1841_p108.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:54:44+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+42
+Freie Straße.
+Nrn
+Haus-Mr.
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+15	VI.	1625	z. ober'n Hermelin.	Heitz-Schwarz, Rosina, Wittwe.
+		Heitz-Schwarz, Ros., Quinquailleriehdlg.
+		Heitz, Hieronimus, Geschäftsmann.
+		Heitz, Bernhard, Roch.
+16	VI.	1632		.	Wirz-Schneble, Joh. Heinr.
+		.	Wirz-Schneble, Joh. Heinr., Zuckerb.
+		.	Hartmann-Scherzer, Friedr., Maler und
+		.	Photograph.
+17	VI.	1626	zur kleinen Sonne.	Langmesser, Joh. Jakob.
+		Langmesser, Joh. Jak. Sattler.
+		Braunschweig-Hirz, Raphael.
+		Kunz, Friedr, Hdgl. in opt. u. mathe-
+		matischen Instrumenten.
+18	VI.	1631 A	Stäblinsbrunnen.	Bernoullÿ u. Sohn, Nikl. de Hieron.
+		Bernoullÿ u. Sohn, Nikl. de Hieron.
+		Compt. u. Magaz., Mater- u. Farbwh.
+19	VI.	1627	zur großen Sonne.	Menrich-Neuschwander, Heinr.
+		Menrich-Neuschwander, H., Schneider.
+		Wyler-Thomas, Sam. Fel., Hutmch.
+20	VI.	1631	Stäblinsbrunnen.	Bernoullÿ u. Sohn, Nikl. de Hier.
+		Bernoullÿ u. Sohn, Nikl. de Hieron.
+		Compt. u. Magazin, Material- und
+		Farbwarenhandlung.
+		Kespinger-Bauer, Adolph, Kaufmann,
+		Burchhardt, Joh. Rud., Stadtr. J.U.Dr.
+21	VI.	1628	zur Bigilanz.	Groben, Geschwister, Glashandlung.
+		Groben, Geschwister, Glashandlung.
+		Wybert-Schmidt, Joh. Jak., Commis.
+		Wybert-Hug, Em., Dr. med., Eingang
+		Stapfelberg. (Siehe Stapfelberg Nr. 6.)
+22	VI.	1169 A		.	Dieticker-David, Melchior.
+		.	Dieticker-David, Melch., Kfm. Seiden-
+		.	warenhandlung.
+		.	Meyenrock, Louise u. Cath., Kent.
+		.	Schill-Ernst, Ed., Commis.
+		.	Pery-Krebs, Anna Elis. Wb., Particul.
+23	VI.	1629	Berner		Kiefer-Bär, Georg.
+		.	Kiefer-Bär, Georg, Reg., Quincaillerie-
+		.	Warenhdlg. (Siehe Stapfelberg Nr. 8.)
+24	VI.	1170	zur Schwanenau.	Ganzer-Jordan, Wilhelm.
+		.	Ganzer-Jordan, Wilh., Pelzwaaren- u.
+		.	Huthandlung.
+25	VI.	1630	Schliessel-Zunft.	Düring-Hofmann, Mar. Wb., Modiste.
+		.	Corporationsgut.
+		.	Rumpf-Bachofen, Hier., Alt-Posthalter.
+		.	Ersparnis-Kaffe-Bureau.
+		.	(Siehe Stapfelberg Nr. 1.)
+26	VI.	1171	Zunft d. Brodbecken.	Corporationsgut.
+		.	Burchhardt-Miville, Achilles, Zucker- und
+		.	Pastetenbäcker.
+		.	Mehri, Christian, Buchhandlung.
+27	V.	1448	zum Stäblin.	Kespinger-Bernoullÿ, Emanuel.
+		.	Kespinger-Bernoullÿ, E., Particular.

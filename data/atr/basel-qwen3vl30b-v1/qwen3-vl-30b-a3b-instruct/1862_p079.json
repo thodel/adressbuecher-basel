@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p079",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p079.jpg",
+    "bytes": 1285795,
+    "sha256": "328355114d0b2342e730431d0ed3aced4f09226bc76636faf74289a222ce3eed",
+    "sha256_of": "original",
+    "working_copy": "1862_p079.jpg"
+  },
+  "text": "14\nSt. Alban-Thal.\nNre\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n16 V. 1296 Königisches Haus. Bay, Emanuel. Bay, Emanuel, Papierer. Bölmy-Hug, Joh. Jak., Stuhlschreiner.\n18 V. 1295 Gesellenhaus. Ofer und Gemuseus. Schmidt, Jac. Seb., Papierer. Grob-Fehr, Heinr., Papiermaschinenfiihr.\n20 V. 1294 Füksiches Haus. Ofer und Gemuseus. 22 V. 1292 A Ballmer-Heinzelmann, Heinr., Papierer. Merian-Mahler, Alfred. Merian-Mahler, Alfred, Müller.\n23 V. 1291 Almosenmühle. Ofer und Gemuseus. Ofer-Thurneyfen, Ch. Rud., Papierfabr. Merian-Mahler, Alfred. (Magazin.)\n24 V. 1292 Herbergmühle. Merian-Mahler, Alfred. 25 V. 1288 zur Herbergmühle. Kuzmaul, Michael. (Mechanische Werkstätte.) 26 V. 1290 Thurneyfen-Fäsch, Ludw. Andr. (Arb.-Whng. d. Thurneyfensc.Papierfb.) 27 V. 1288 A Diehl-Wolf, F., Firma Hugo, Gebr. (Fabrikgeb. zu Nro. 35 (1285). 28 V. 1289 Ofer und Gemuseus. (Mechanische Papierfabrik.) 29 V. 1286 Thurneyfen-Fäsch, Ludw. Andr. (Mechanische Papierfabrik.) 31 V. 1287 A Fehr-Wenziker, Kaspar, Papierer. Thurneyfen-Fäsch, L. A., Com., Pap.Fab. Thurneyfen, Hs. Rud., Stabsmj. desgl. Fäsch, Fräulein Elise. 30 V. 1284 32 34 V. 1282 36 35 V. 1285 Thurneyfen, Hans Rud., u. Frau Wilhelmine Müller-Thurneyfen. Fabrikgebäude und Arbeiterwohnungen. 37 V. 1283 Thurneyfen-Fäsch, Ludw. Andr. (Papierfabrikgebäude.) 39 V. 1282 B Riefer-Waibel, J. Heinrich. Riefer-Bay, Wb. A. M. Elis., Lohnwasch. Schraner-Welti, Xaver, Schmied. 40 V. 1280 Thurneyfen, Hs. Rud., und Mich. Müller-Thurneyfen. Schneebeli-Zeller, Jean, Angestellter d. Thurneyfenschen Papierfabrik. Meyer-Eberwein, Hs. Conr., Mechaniker. 41 V. 1281 Wezel-Mazinger, Joh. Jakob. Wezel-Mazinger, F. F., Lohnwascher. Mazinger-Wezel, Heinr., Kaminfeger. Schaub, Joh. Adam, Ferger. Lüppold-Meyer, Ludw., Maler. 44 V. 1279 zum neuen Bau. 46",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6690,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1839,
+    "lines": 16,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 114.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p079",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p079.jpg",
+      "bytes": 1285795,
+      "sha256": "328355114d0b2342e730431d0ed3aced4f09226bc76636faf74289a222ce3eed",
+      "sha256_of": "original",
+      "working_copy": "1862_p079.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:48+00:00"
+  }
+}

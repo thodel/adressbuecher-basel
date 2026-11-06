@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p046",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p046.jpg",
+    "bytes": 1378312,
+    "sha256": "516de503787a5b7364e6aaf605b58849ee77bbd086fba3509a6a7bd9747cdb0a",
+    "sha256_of": "original",
+    "working_copy": "1862_p046.jpg"
+  },
+  "text": "Ragionenbuch.\nXLIII\nHandlungsfirma. | Interessenten u. Firmasiihrer. | Natur des Geschäftes.\nGlock u. Hübscher. | Gustav Glock, Sohn. | Spedition u. Commisjon.\n| Friedr. Hübscher-Herzog. | Agenturgeschäft für Gespinnste.\n| Carl Gnöpff, allein. | Haserhandlung.\nGnöpff, Karl. | | |\nGnöpff, Ach. u. Carl. | Gnöpff=Bauer. | Agenturgeschäft.\n| Ach. Gnöpff. | |\n| Sobat=Monnin, allein. | |\n| Goller=Keller. | |\nGobat=Monnin. | | |\nGötz u. Ecklin. | Pet. Wilh. Ecklin. | Seidenbandfabrikation.\n| Carl Rud. Ecklin. | |\n| J. C. Schöck, Commanditair. | |\n| F. Siebenmann=Huber, Commanditair. | |\n| Fritz Weibel, Prokuraträger. | |\nGoldfus, Cl. | Cl. Goldfus, allein. | Agenturen.\nGreiffenberg u. Probst. | Sam. Probst=Münch, allein. | Configurations- u. Provisionshandlung.\n| | | Band- u. Modewaaren.\nGrether, J. et Comp. | J. Grether=Scholer. | |\n| Samuel Bricard=Schneider's Erben, Commanditair. | |\nGreuter, Friedr. | Friedr. Greuter=Engel, allein. | Materialwaarenhandlg.\nGröschel, C. | C. Gröschel, allein. | Seidenzwirnerei in Bottmingen.\n| | | Gesott. Butter en gros\n| | | et détail, Zündhölzer,\n| | | Papierlager, Wichsefabrik, Spezereiwaar.,\n| | | Infekten- u. Schwabenpulver.\nGrunauer, Seb. Vater. | Seb. Grunauer, Vater, allein. | Courtier für Verkauf v. Liegenschaften u. Cigarrenhandlung.\n| | | Schrift- u. Stereotypengießerei, Schriftschneiderei, Anstalt für Galvanoplastik, Mechanische Werkstätte. Mostackerstraße 25.\nGyfin, Heinr. | Heinr. Gyfin, allein. | |\n| Samuel Gyfin. | | |\nHaas'sche Gießerei. | Otto Studert, allein. | |\n| François Surgand, Commanditair. | | |\nHäfelfinger, Carl. | Carl Jb. Häfelfinger, allein. | Droguerie. Spalenvorstadt 17.\nHäfelfinger, Jacob. | Jacob Häfelfinger, allein. | Geldwechsler.\nHäne=Hügin, J. | Jof. Häne=Hügin, allein. | Agenturen, namentlich in Band- u. Seidenwaar.\nHalle=Hoffmann. | Hermann Halle=Hoffmann, allein. | Handlung en gros et détail mit Bettfedern, Pferdehaaren, Wolle u. allen Bettartikeln.\nHalter, J. J. | Nikl. Halter=Jäsch, allein. | Juwelen-, Gold- u. Silberhdg. m. Fabrikat.\nHandmann, J. J. | J. J. Handmann, allein. | |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6802,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2086,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 51.17,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:23:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p046",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p046.jpg",
+      "bytes": 1378312,
+      "sha256": "516de503787a5b7364e6aaf605b58849ee77bbd086fba3509a6a7bd9747cdb0a",
+      "sha256_of": "original",
+      "working_copy": "1862_p046.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:17+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p063",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p063.jpg",
+    "bytes": 884162,
+    "sha256": "c60ecb495f95ff0e38c40f162e7605cb0e658d58e3938ec1a689ab8fc86fee5e",
+    "sha256_of": "original",
+    "working_copy": "1850_p063.jpg"
+  },
+  "text": "50\nAefchen = Quartier.\n1106 Heller-Spreyermann, H., Spezerei-handlung.\nRohner, Wittwe, geb. Fischer.\nWeisse Gasse und Streitgasse.\n1107 Hindermand-Weydmann, F. F., Spezerei- und Käsehandlung.\nHindermand, F. F., Sohn.\nMüller, Werner, Bestäter.\nWeisse Gasse.\n1108 Thommen, Dan., Landjäger-Wachtmeister.\nKneuwolf, Wittwe, Kosthaus.\n1109 Leuthard, Wittwe, Maria, Schuhmacher.\nNinggäsklein.\n1110 Rislig, Saml., Schuhmacher.\n1111 Der Brüdergemeinde gehörend.\nWeisse Gasse.\n1112 Der Brüdergemeinde gehörend.\nHenning, Fz. W., Vorsteher.\nRoth, Rudolf, Geschirrladen.\n1113–14 Spreyermann, Joh. Georg, Schneider.\n1115 (Neue School.) Obrigkeitslich.\n1116 (Schlachthaus.) Obrigkeitslich.\n1117 Hindermand-Lippe, Wittwe Cath., Lithographie.\n1118 Geßler, Karl, Mezger.\n1119 (Remise u. Stallung.) Detloff, K. Alb., geh.\nPfluggäsklein.\n1120 Bretscher, Jakob, Schuhmacher.\n1121 Brolli, Anton, Fabrikarbeiter.\nWeißgäsklein.\n1122 Rohner, Joh. Mark., Wirth.\n1123 Fluri, Frau Cath., abgeschied. Schmidt, Schneiderin.\n1124 Tschopp, Heinrich, Spezerei- u. Nudelhandlung.\n1125 Schärer-Frey, Wittwe Marie, Schuhmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3833,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1091,
+    "lines": 33,
+    "longest_char_run": 4,
+    "repeat_ratio": 0.0303,
+    "mean_line_chars": 32.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0037,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:55+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p063",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p063.jpg",
+      "bytes": 884162,
+      "sha256": "c60ecb495f95ff0e38c40f162e7605cb0e658d58e3938ec1a689ab8fc86fee5e",
+      "sha256_of": "original",
+      "working_copy": "1850_p063.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:55+00:00"
+  }
+}

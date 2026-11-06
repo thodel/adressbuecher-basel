@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p045",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p045.jpg",
+    "bytes": 899137,
+    "sha256": "bc2ba68f995fb8b7711dc9fc58cf2c97c713cf5a7d4f17dc7b90123acec7fdf3",
+    "sha256_of": "original",
+    "working_copy": "1841_p045.jpg"
+  },
+  "text": "38\nNro.\n\nRappengäßlein.\n\n1030 Garnjobst, Simon Christ., Ausläufer.\n1031 * Stallung. Barrey, Wittwe, geh.\n1032 * Hug, Joh. Ulrich.\n\nAeschen-Vorstadt.\n\n1033 Barrey, Wittwe, geb. Cath. Mäglin. (Jetzt: Anton Seifert geh.)\n1034 Plattner, Friedrich, Pintenschenk.\n1035 Schäffer, Abraham.\n1036 Oehlmeyer, Jakob sel., Wittwe, geb. Gysin.\n1037 * Ehinger, Sus., geb. Burckhardt, Bürgermstr. sel. Wittwe.\n1038 dito (Handlungsragion: Ehinger u. Comp.\n1039 Burckhardt-Heusler, Carl, Handelsmann.\n1040 Frey, Herkules, Schneider. Gesellschaftshaus zum Rupf.\n1041 Rippel, Joh. sel., Wittwe, geb. Linder.\n  Burckhardt-Huber, Achilles, Sensal.\n1042 Burckhardt-Preiswerk, Handelsmann.\n1043 Ryhiner-Werthemann sel. Wittwe.\n  von Speyr-Ryhiner, Eduard.\n  (Firma: Ryhiner, Eman. de Benedikt.)\n1044 Rognon, Jonas Heinrich, Handels-Commis.\n\nSt. Albangraben.\n\n1045 Banger, Wilh., Küfer und Weinschenk sel., Wittwe.\n  Bachmann, Emanuel.\n1045 a Stückelberger-Holzach, W., Küfer u. Fabrikant v. gebr. Wasser.\n1046 Merian-Hoffmann, Christoph.\n  Merian-Burckhardt, Christoph.\n1047 Merian-Kuder, Wittwe, Anna Margaretha.\n1048 Forkart, Esther, Jungfer.\n  Forkart-Bachofen, Rud., Handelsmann.\n  Vischer-Forkart, Margaretha, Wittwe.\n1049 * Vischer, Wittwe, geb. Margaretha Forkart.\n1050 Remise und Stall, Forkart-Weiß geh.\n1051 u. 1052 Forkart-Weiß, Joh. Rud. sel. Erben.\n  Sarasin, Adolf, Pfarrer.\n1053 Dobler, Catharina u. Magdalena, Jungfern.\n1054 Burckhardt-Forkart, Wilh., Handelsmann.\n\nBeim Aeschen-Schwibogen.\n\n1055 Forkart-Hoffmann, Rud.\n1056 Fischer, Balthasar, Mehlwäger.\n\nTiefe.\n\n1057 Schrenk, J. J., Unterbestäter.\n1058 u. 1059 Heußler, Abel, Handelsmann.\n  Firma: Joh. Ulrich Heußler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7460,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1663,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.36,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:47:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p045",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p045.jpg",
+      "bytes": 899137,
+      "sha256": "bc2ba68f995fb8b7711dc9fc58cf2c97c713cf5a7d4f17dc7b90123acec7fdf3",
+      "sha256_of": "original",
+      "working_copy": "1841_p045.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:12+00:00"
+  }
+}

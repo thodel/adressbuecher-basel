@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p140",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p140.jpg",
+    "bytes": 1226247,
+    "sha256": "ddd56e24d8392174e6e805e9d5eda0414c800ee526376917959f7b671fdd8008",
+    "sha256_of": "original",
+    "working_copy": "1850_p140.jpg"
+  },
+  "text": "BonderMühl, Emil. 1220 | Wasermann, Karl 1527\n=Merian, K., Handelsm. 1225 | Weber, Melch., Posam. 1273A\n=Hoffmann, Leonh. 1230 | =Marfort, Rud. 1442\n=Burkhardt, G. 1345 | Sml., Ellenwaarenhg. 1562\n=Keller, F. G./ 1553 | =Gutter, Heinr. 1633\n=Ryhiner, Joh. 1598 | =Salathe, Friedr. *107\n=Zselin, Wwe. Emilie 1230 | Heinr., Dessinateur *183\nBonfich, Leonh. Georg 629 | Jaf., Metzger u. Wirth *272\nWittwe, Schiffmann *64 | Tob., Schmied *351\nBonwiler, Wittwe *386 | =Karger, Wittwe 593\nWackernagel=Carafin,W. 1231 | =Niedtmann, Wwe. M. *77\nWäcky, A., Färber *158 | Wittwe, Lohnwascherin *262\nWäffler, Sam., Posament, 652 | Wegner, Joh. Rud. *204\nJaf., Feilenhauer 1075 | Wehrlin, Joh. 877\n=Burkhardt, Wwe., Beck *7 | F. F., Spannermstr. 877\nWägelin, Joh., Agent 128 | =Himmely, Karl 1097\nWagner, Conr., Fischhdlg. 174 | Weibel-Gerster, F. F. 125\nPeter, Buchdrucker 501 | Sch., Appreteur 857A\nJoh., Organist 591 | =Meyer, Rud., Commis 934\nF. F., Leinweber 979 | Weidmann, Jgfr. Em. 1623\n=Mayr, A., Commis 1084B | Weinauer=Braun, Ach. 257\nF. F., Buchdrucker *382 | Friedr., Schreiner 797\nWahr=Suizmann, F. 853 | Rud., Metzger 1045A\nGebr., Phil. u. Karl 1446 | H. Fr., Metzger 1173\nWaldner, Heinrich 803 | Hoffmann, Eml., Tapez. 1542\nWaldner, Sch., Schuhm. 1135 | Weiß, G. A., Brieftträger 148\nWall, Heinr., *127-28 | Joh., Magazinarbeiter 187\nWalliser, Joh. Friedr. 530 | Christ., Mädchenlehrer 566\nKonrad, Beck *167 | Andr., Geschäftsmann 634\nKonrad, Schreiner *189 | Dl. H., Schneider 681\nChrist., Bauzeichner *189 | =Erb, F. F., Geschäftsm. 1153\nWalter, F. F. 145 | F. R., Stubenverw. 1687\nKasp., Lithograph 204 | Karl Ludw., Kübler 1702\nJoh. H., Handelscomm. 555 | Innocenz, Kostgeber 1740\nEml., Kaufhauscommis 1076 | Thom., Weinschenk *148\nKarl, Musikdirektor 1362A | Wwe., Matrakenmach. 631\nKarl, Messerschmied 1594 | Jgfr. Lif., Modiste 1078-79\nWältin, H. Cigarrenhand. 485 | Jgfr. Judith *225\nWalz, Sch., Kunsthandlg. 112 | Weixenberger, Joh. *388\nWafer, Jaf., Spengler 1717 | Weixenburger, F. F., Beck 3\nWassermand, Joh. Rud. 428 | =Sigt, Wwe. 309\nJgfr. Dor., Wirthschaft 541 | Karl, Commis 1011\nF. F., Schneider 1180 | Wendel, Wwe. Anna M. 1388\n127",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8067,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2153,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:16:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p140",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p140.jpg",
+      "bytes": 1226247,
+      "sha256": "ddd56e24d8392174e6e805e9d5eda0414c800ee526376917959f7b671fdd8008",
+      "sha256_of": "original",
+      "working_copy": "1850_p140.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:40+00:00"
+  }
+}

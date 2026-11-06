@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p073",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p073.jpg",
+    "bytes": 971970,
+    "sha256": "d7da4690c2bbce5b736d49620dc9c12827518cde89e03407f0d455ff8c43c263",
+    "sha256_of": "original",
+    "working_copy": "1850_p073.jpg"
+  },
+  "text": "60 St. Alban-Quartier.\n\n1336 Heimers, Hch. W., Mechaniker.\n  Mennrich, Konrad, Zimmermann.\n1337 Gernler, Geschwister, Commis u. Modiste.\n  Gernler, Buchbinder.\n1338 Heß, Joh., Magazinknecht.\n1339 Remise und Stallung.\n  Ueberegger, Peter, Kutscher.\n1340 Stähelin-Vischer, Aug., Handelsmann.\n  Thurneysen-Paravicini, Emil, Handelsmann.\n1341-42 Abgebrochen.\n1343 Bischoff, Johannes, Alfred und Marie, Geschwister,\n  gehörend.\n  Preiswerk-Bernoulli, Wittwe.\n1344 Bischoff-Preiswerk, Wittwe.\n1345 Vonder Mühll-Burckhardt, G., Handelsmann.\n  Burckhardt, Karl Felix Jul. J. U. D.\n1346 Bischoff-Iselin, Christof, Stofffabrikant.\n1347 Bischoff, Karl, Stofffabrikant.\n1348 Wieland-Bischoff, Wittwe, Rentière.\n  Comptoir von Hch. Merian-VonderMühll.\n1349 Burckhardt-Burckhardt, Christof de J. Jak., Hdlsm.\n1350 Gut-Himmeli, Rudolf, Metzger.\n1351 Jeannot, Jacques, Commis. [handschriftlich: jetzt C Widmer, Lireur]\n  Schneider, W., Traiteur.\n  Levy, Licentiat en droit.\n1352 Thurneisen-Burckhardt, Wittwe, Elis., Rentière.\n  Thurneisen-Merian, Emil, Bandfabrikant.\n  Thurneisen, Joh. Hch. Ed. J. U. D.\n1353 Bernoulli-Werthemann, Nikl., J. U. D., Notar.\n1354 Thurneisen-Gaß, Wittwe, Weißbeck.\n  Burckhardt-Burckhardt, R., Med. Dr.\n1355 Forkart-Merian, Dietrich, Rentier.\n\nRittergasse.\n\n1356 Burckhardt-Werthemann, E., Bandfabrikant.\n  Vischer-Burckhardt, Peter, Bandfabrikant.\n  Mattmüller, Math., Kutscher.\n1357 Comptoir u. Fabrike von Dietr. Burckhardt.\n1358-60 Vischer-Preiswerk, B., Oberst, Rentier.\n  Comptoir von Sarasin, Karl, Bandfabrikant.\n1361 Burckhardt-Iselin, Wittwe, Rosine, Rentière.\n1362 LaRoche-Merian, Gustav, Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6311,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1627,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:13:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p073",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p073.jpg",
+      "bytes": 971970,
+      "sha256": "d7da4690c2bbce5b736d49620dc9c12827518cde89e03407f0d455ff8c43c263",
+      "sha256_of": "original",
+      "working_copy": "1850_p073.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:45+00:00"
+  }
+}

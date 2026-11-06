@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p050",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p050.jpg",
+    "bytes": 1011678,
+    "sha256": "a80c08cd5cd2e0790b8d6716923291b31c4f22462ee5347c6085eeaf62e6e0c6",
+    "sha256_of": "original",
+    "working_copy": "1850_p050.jpg"
+  },
+  "text": "Steinen-Quartier.\n37\n\nVordere Steinen-Vorstadt.\n821 Erlacher, J. G., Weinschenk u. Küfer.\n  Itschner, Hch., Commis.\n822 Kehlstadt, Leonhard, Postoffiziant.\n  Hosch, Ed., Geschäftsmann.\n823 Strub, Eduard, Metzger.\n824 Schmidt-Lotz, Heinrich, Küfer.\n825 Steffan-vonMechel, Joh. Mich., Wittwe.\n  Steffan, Rudolf, Weißbeck.\n826 Schmidt, Jak. Theodor, Schreiner.\n827 Geßler-Merian, N., Spezerei- u. Branntweinhdlg.\n\nBlömlein.\n828 (Kaserne f. d. Standestruppe) Hindenlang, Lukas,\n  Major.\n829 Thoma, Bonifaz., Kutscher.\n  Magazin.\n  (Neues Schauspielhaus) Theater-Aktionärs gehörend.\n830 Riggenbach-Schmid, Commissions- und Speditions-\n  handlung.\n831 Bürgin, Heinr., Metzger u. Weinschenk.\n\nKurzer Steg.\n832 Hindenlang, Matth., Handels-Commis.\n\nBlömlein.\n833 (Alt. Schauspielhaus) Obrigkeitlich.\nA 833 Schramberger, Joseph, Zimmermann.\n\nRoßmarkt.\n834 (Marstall) Schnell, Ulr., Siegrist.\n  Lang, Simon u. Andreas, Musiker.\n835 Huber, Achilles, Architekt.\n\nSteinenbruck.\n836 Keller, Lukas, Metzger.\n  David, Jakob, Ferger.\n837 (Remise u. Stallung) Huber, Achilles, gehörend.\n\nHintere Steinen-Vorstadt.\n838 Wohnlich, Adolf, Handelsmann u. Wirth.\n  Lang, Adam, Musiker.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5784,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1160,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 28.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p050",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p050.jpg",
+      "bytes": 1011678,
+      "sha256": "a80c08cd5cd2e0790b8d6716923291b31c4f22462ee5347c6085eeaf62e6e0c6",
+      "sha256_of": "original",
+      "working_copy": "1850_p050.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:14+00:00"
+  }
+}

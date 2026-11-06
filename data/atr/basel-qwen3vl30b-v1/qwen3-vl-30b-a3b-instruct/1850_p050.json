@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p050",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p050.jpg",
+    "bytes": 1011678,
+    "sha256": "a80c08cd5cd2e0790b8d6716923291b31c4f22462ee5347c6085eeaf62e6e0c6",
+    "sha256_of": "original",
+    "working_copy": "1850_p050.jpg"
+  },
+  "text": "Steinen-Quartier.\n37\nVordere Steinen-Vorstadt.\n821 Erlacher, F. G., Weinschenk u. Küfer.\n    Ftschner, Hch., Commis.\n822 Kehlstadt, Leonhard, Postoffiziant.\n    Hosch, Ed., Geschäftsmann.\n823 Strub, Eduard, Metzger.\n824 Schmidt-Loz, Heinrich, Küfer.\n825 Steffan-vonMehel, Joh. Mich., Wittwe.\n    Steffan, Rudolf, Weißbck.\n826 Schmidt, Jaf. Theodor, Schreiner.\n827 Gekler-Merian, N., Spezerei- u. Branntweinhdlg.\nBlömlein.\n828 (Kaserne f. d. Standestruppe) Hindenlang, Lukas,\n    Major.\n829 Thoma, Bonifaz., Kutfcher.\n    Magazin.\n    (Neues Schauspielhaus) Theater-Aktionärs gehörend.\n830 Riggenbach-Schmid, Commissions- und Expeditions-\n    handlung.\n831 Bürgin, Heinr., Metzger u. Weinschenk.\nKurzer Steg.\n832 Hindenlang, Matth., Handels-Commis.\nBlömlein.\n833 (Alt. Schauspielhaus) Obrigkeitlich.\nA 833 Schramberger, Joseph, Zimmermann.\nRosmarkt.\n834 (Marstall) Schnell, Uhr., Siegrist.\n    Lang, Simon u. Andreas, Musiker.\n835 Huber, Achilles, Architekt.\nSteinenbruck.\n836 Keller, Lukas, Metzger.\n    David, Jakob, Ferger.\n837 (Remise u. Stallung) Huber, Achilles, gehörend.\nHintere Steinen-Vorstadt.\n838 Wohlnich, Adolf, Handelsmann u. Wirth.\n    Lang, Adam, Musiker.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3829,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1171,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 28.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:07:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p050",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p050.jpg",
+      "bytes": 1011678,
+      "sha256": "a80c08cd5cd2e0790b8d6716923291b31c4f22462ee5347c6085eeaf62e6e0c6",
+      "sha256_of": "original",
+      "working_copy": "1850_p050.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:59+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p048",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p048.jpg",
+    "bytes": 991075,
+    "sha256": "8939206827da4e4c76addeccfdf3ec05334b341661691c703a32719d82cc4acc",
+    "sha256_of": "original",
+    "working_copy": "1850_p048.jpg"
+  },
+  "text": "Steinen-Quartier. 35\n\n774 Henz, Ludwig, Sohn, Beck.\n  Wohnsiedel, Ulrich, Commis.\n775 Fischer, Elias, Weißbeck.\n\nHinterer Bach.\n\n776 Siegrist, Rudolf, Posamenter.\n777 Schlumpf, Konrad.\n778 Mangold, Samuel, Zimmermann.\n779 Benz, Johannes, Landjäger-Feldwebel.\n\nVordere Steinen-Vorstadt.\n\n780 Brodbeck-Spittler, Friedrich, Handels-Commis.\n  Schmiedlin, Johannes, Ferger.\n781 Frey, Beat. Herkules, Schneider.\n782 Erismann, Wilhelm Emanuel, Hafner.\n783 Specker, Heinrich, Bierbrauer.\n  Thurneysen, Gottlieb, Partikular.\n784 VonMechel, Bernhard, Landjäger-Fourier, geh.\n  Manz, Joh., Maler.\n785 Auer, Karl Jakob, Fabrikaufseher.\n786 Steiner, Jakob, Fabrikarbeiter.\n787 Geiger, J. Rud., Schlosser.\n  Meyri, Chr., Commis.\n788 Allemann, Urs, Maurer.\n789 Streitmatter, Andreas, Zimmermann.\nA 789 Magazin.\n790 Lichtenhahn, Fr., Maler.\n  Löw, Wilhelm, Musterweber.\n791 Kunz, Rudolf, Flachmaler.\n  Leicher-Heusler, Wittwe M. M., Partikularin.\n\nHinterer Bach.\n\n792 Schwarz, Wittwe.\n793 Dettwyler, Ludwig, Posamenter.\n794 Zimmermann, Gabriel, Wascher.\n795 (Steinen-Mühle) Hug, Adolf, Müller.\n  Hug-Buser, Wittwe Kath., Partikularin.\n\nVordere Steinen-Vorstadt.\n\n796 Imhof, Daniel, Gerber.\n  Bierschenk, Adam, Gerber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6008,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1201,
+    "lines": 38,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0526,
+    "mean_line_chars": 29.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0025,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:01+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p048",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p048.jpg",
+      "bytes": 991075,
+      "sha256": "8939206827da4e4c76addeccfdf3ec05334b341661691c703a32719d82cc4acc",
+      "sha256_of": "original",
+      "working_copy": "1850_p048.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:01+00:00"
+  }
+}

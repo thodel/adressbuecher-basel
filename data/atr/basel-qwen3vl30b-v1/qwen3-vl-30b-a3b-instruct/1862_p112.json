@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p112",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p112.jpg",
+    "bytes": 1449728,
+    "sha256": "4bab056eb06caf2e3dc7da86af4bd206329945fd250dee6d9bff61b5a67eb5d4",
+    "sha256_of": "original",
+    "working_copy": "1862_p112.jpg"
+  },
+  "text": "Freie Straße.\n47\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n85 V. 1391 zum hohen Steg. Beurmann=Felber, Georg Fried.\nStöcklin=Jenny, Ludw., Quartierschr.\nDürr, Rudolf, Pelzwaarenhandlung.\n86 IV. 1061 Baumann=Scherb, Ulrich,\nBaumann=Scherb, Ulrich, Uhrenmacher.\n87 V. 1390 zum Württemberg. Kübler=Walser, Rud., Schuhmacher.\nSandreuter=Oser, Emanuel.\nSandreuter=Oser, Em., Hdlg. i. Südschdt.\n88 IV. 1060 Bourgnon=Ankli, Joseph.\nBourgnon=Ankli, Jos., Ladendiener.\nBrunner, Jakob, Schneider.\n89 V. 1389 Heusler=Hegy, Helene, Wittwe.\nHeusler=Hegy, Hel., Wb., Kostgeberin.\nHeusler=Geigy, Elife, Wb.\nHeusler=Geigy, Elife, Wittwe.\nHeusler=Abel, Kfm., Farbwaarenhdlg.\nHeusler, Wilh., „\nHeusler, Ed., J. U. D., Anwalt u. Notar.\nAdvokatur u. Notariatsbureau v. Lich-\ntenhahn u. Heusler.\nOhmgeldschreiberei.\n90 IV. 1059 zum Gejäg. Schultheß=Tschanen, Paul.\nSchultheß=Tschanen, Tapez. u. Meuble-\nhandlung.\nJordan, Adam, Buchhalter.\nMori, Stephan, Cigarrenhandlung.\n91 V. 1387 zur Spitalschmiede. Heusler=Geigy, Elife, Wb.\n1388 (Siehe Nro. 90)\n92 IV. 1058 z. unt. Rothenflue. Tschientsch=Krebser, Catharina.\n93 V. 1386 zum Fälslein, zum Tschientsch=Krebser, Carl, Kaufmann.\nGrünstein. Futterer, Carl, Kaufmann.\n94 IV. 1057 z. obern Rothenflue. Dokwald=Seul, Joseph.\nDokwald=Seul, Joseph, Confiseur.\n95 V. 1385 zum Bernau. Tschientsch=Krebser, Frau Cathar.\nKrebs=Koelner, Hier., Clavierstimmer.\n96 IV. 1055 zum Schilthof. Maring, Ludwig, und Heimlicher,\n1056 Joh. Jakob, Dr.\nSeun=Ketterer, Carl, Restaurateur.\nGeigy, Wilh. u. Comp., Comptoir.\nBurkhardt, Achilles u. Comp., „\nMaring, L., Architekt, Bureau.\nHeimlicher=Senn, Joh. Jak., Dr., Statt-\nhalter des Landbezirks.\nMerian, Emil, J. U. D.\n97 V. 1384 zum Rupferberg. Best=Biton, F. Rudolph.\nBest=Biton, F. Rud., Buchbinder, Pa-\npierhdlg. u. Schreibmaterialien.\n99 V. 1075 zum blauen Stein. Frietschi=Wäffler, F.\nWaessler, Christian. Jak.\nFrietschi=Wäffler, Jos., Feilenhauer.\nRanz, G. Josef, Schmied.\nWahl, G. Rud., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6944,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2016,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.02,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p112",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p112.jpg",
+      "bytes": 1449728,
+      "sha256": "4bab056eb06caf2e3dc7da86af4bd206329945fd250dee6d9bff61b5a67eb5d4",
+      "sha256_of": "original",
+      "working_copy": "1862_p112.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:23+00:00"
+  }
+}

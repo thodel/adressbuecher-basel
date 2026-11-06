@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p024",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p024.jpg",
+    "bytes": 1440959,
+    "sha256": "0183fce2c4090d4805d9485c149f875779ab83081e036831481251699e292e92",
+    "sha256_of": "original",
+    "working_copy": "1862_p024.jpg"
+  },
+  "text": "Privat-Gemeinden. Verkehrs-Anstalten. Gesellsch. d. Guten 2c. XXI\n\nNachmittags 2 Uhr und Abends 5 Uhr. Die\nPredigt findet statt Abends 4 Uhr. Außerdem\nan den meisten Werktagen je zwei Gottes-\ndienste. — Sämmtliche Gottesdienste sind öffent-\nlich und es ist deren Besuch, wie auch auf\nvorhergegangene Anmeldung hin der Genuß\ndes heiligen Abendmahles den Christen aller\nConfessionen gestattet.\n\nMethodisten-Gemeinschaft.\nGegründet 1861.\nDie Gemeinschaft hat ihren Betsaal Nr. 14\nan der Wallstraße zu St. Elisabeth. — Die\nöffentlichen Gottesdienste finden statt:\n\nSonntag Abend um 5 Uhr,\nDienstag „ „ 8 „\nFreitag „ „ 8 „\n\nVorstand:\nHr. Ludwig Nippert-Lindemann, Wallstraße.\n\nIsraelitische Gemeinde.\nGegründet 1803.\nVorstand:\nHr. J. Braunschweig.\n„ Licentiat M. Levy.\n„ Leopold Dreyfuß.\n\nVerkehrs-Anstalten.\n\nFranzösische Ostbahn.\nAgent: Hr. Charles Huß.\n\nGroßh. bad. Post- & Eisenbahnamt.\nSeit 1854.\nVorstand: Hr. Friedrich Eckhardt.\nIngenieur: „ Carl Möglich.\nIngenieur-Assistent „ Tobias Wolff.\nCassier: „ Aug. v. Davance.\nGüter-Expeditor: „ Albert Reiß.\nOber-Telegraphist: „ Anton Ell.\nMaterialverwalter: „ Ludw. Jacob Voit.\n\nGroßh. bad. Hauptzollamt bei\nSchusterinsel.\nZollabfertigungsstelle am Bahnhof zu Basel.\nSeit 1855.\nZollinspector: Hr. Abele.\nHauptzollamts-Controlenr: „ Hahn.\n\nSchweizerische Centralbahn.\nDirektoren:\nHr. A. Sulger, Präsident in Basel.\n„ J. Trog, „\n„ Dr. W. Schmidlin. „\n„ K. Respinger „\n\nHauptbeamte:\nHr. A. Sessele, Protokollführer u. Vorstand\n  des Reklamationsbureau.\n„ E. Rilliet, Sekretär und Uebersetzer.\n„ A. Müller, Registrator u. Kanzleivorstand.\n„ H. Hermann, Hauptkassier.\n„ X. Brohy, Vorstand d. Rechnungscontrolle.\n„ G. Koller, Ingenieur, Vorstand des Bu-\n  reau der Betriebs-Verwaltung.\n„ H. Handschin, Vorstand der Material-\n  Verwaltung.\n„ W. Gysin, Drucksachen-Verwalter.\n„ J. Wagner, Vorstand der Betriebscon-\n  trolle.\n„ C. L. Burckhardt, Betriebs-Inspektor.\n„ J. Wenker, Stations-Vorstand.\n„ J. Brohy, Vorstand d. Güterexpedition.\n\nDroschken-Anstalt.\nGegründet 1854.\nLokal: St. Johann.\nDirektor: Hr. Hieron. Rumpf-Bachofen.\n\nConcessionirtes Packträger-Institut.\nGegründet 1862.\nDirektor: Hr. Daniel Senn.\n\nGesellschaft des Guten und Gemeinnützigen.\nGegründet 1777.\nSitzungslokal: Im Gebäude der Lesegesellschaft.\nVorstand:\nHr. R. Merian-Burckhardt, Präsident.\n„ J. J. Schäublin, Statthalter.\n[spalte 2]\nHr. W. Iselin, Seckelmeister.\n„ J. W. Heß, Schreiber.\n„ Dr. H. Iselin, Statthalter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8341,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2432,
+    "lines": 83,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0241,
+    "mean_line_chars": 28.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:27:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p024",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p024.jpg",
+      "bytes": 1440959,
+      "sha256": "0183fce2c4090d4805d9485c149f875779ab83081e036831481251699e292e92",
+      "sha256_of": "original",
+      "working_copy": "1862_p024.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:54+00:00"
+  }
+}

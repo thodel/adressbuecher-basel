@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p073",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p073.jpg",
+    "bytes": 1357175,
+    "sha256": "e5bc167f7cc0a4117801605ff13feff6ed55f8b84e95591ccee4e83d3bec67b7",
+    "sha256_of": "original",
+    "working_copy": "1862_p073.jpg"
+  },
+  "text": "8\nAeischenvorstadt.\nNrn\nHaus-Nr\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n15 IV. 1038 zum Raben. Chinger-vonSpeyr, Christof Math.\nChinger-vonSpeyr, C. M., Banquier.\nDiehl, Ferdinand, Tabakfabrikant.\nChinger u. Comp., Bankgeschäft.\n16 IV. 946 zum neuen Bau. Werthemann, Jgfr. Marg.\nWerthemann, Jgfr. Marg., Rentiere.\n17 IV. 1037 Chinger-vonSpeyr, Christof Math.\nThoma, Jgfr., Modistin.\nGardé, Jakob, Taffadiener.\n18 IV. 947 zum rothen Krebs. Merz-Tellenbach, Johann Jakob,\nMerz-Tellenbach, J. J., Bäcker.\n19 IV. 1036 Buek, Jgfr. Cath. Dorothea.\nBuek, Jgfr. Cath. Dor., Bettmacherin.\nBirgin, Johannes, Desfinateur.\n20 IV. 948 Merian-Christ, Benedict.\nMerian-Christ, Ben., Sattler.\n21 IV. 1035 Oppermann-Schweizer, W. Andr.\nOppermann-Schweizer, W. A., Schrein.\n22 IV. 949. 950 zum Drachen. Gemuseus-Keipinger, Hieronimus.\nGemuseus-Keipinger, H., Rentier.\nGemuseus-Burckhardt, Albert, Kaufm.,\nFirma Ludw.Keipinger, Col.-W.-Hdlg.\nThurneyssen-Gemuseus, Eduard, J. U. D.\nKeipinger-Preiswerk, A. M. Wb., Rent.\nGemuseus, Fräulein Julie, Rentiere.\n23 IV. 1034 Oppermann-Schweizer, W. Andr.\nOppermann-Schweizer, Wilh. Andreas,\nSchreinermeister.\n24 IV. 951 zum Winkeli. Schmidt-Walser, Daniel, Sohn.\nSchmidt-Walser, Dan., Sohn, Kübler.\n25 IV. 1033 Roth-Keller, Sophia, Wb.\nRoth-Keller, Soph. Wb., Kostgeberin.\nFürst-Erhardt, Rudolf, Schneider.\n26 IV. 952 z. mittl. Löwenberg. Keller, Joh. Jakob.\nKeller, J. J., Kupferschmied.\nLithy-Stotz, Fran Dor., Weißwollwäsch.\n27 IV. 1032 Hug-Heuzler, Maria, Wb.\nWirk-Handschin, Sebäst., Posamenter.\n28 IV. 953 zum Löwenberg. Eisinger, Georg Joseph.\nEisinger, G. J., Spengler.\n29 IV. 1032 A Hug-Heuzler, Maria, Wb.\nThommen-Senn, Jak., Fabrikarbeiter.\n30 IV. 954 zum Kölinzek. Hauser-Gürtler, David.\nHauser-Gürtler, David, Kaufmann.\n31 IV. 1031 Seifert-Zenni, Anton.\nSeifert-Zenni, Anton, Kostgeber.\n32 IV. 955 zum Lämmlein. Hauser-Gürtler, David.\nSeiler-Gürtler, Emil, Kaufmann.\n33 IV. 1030 Garnjobst-Schweizer, Verena, Wb.\nGarnjobst-Schweizer, Verena, Wb.\nFaust-David, Joh., Schneider.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6991,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2054,
+    "lines": 62,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.15,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:29:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p073",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p073.jpg",
+      "bytes": 1357175,
+      "sha256": "e5bc167f7cc0a4117801605ff13feff6ed55f8b84e95591ccee4e83d3bec67b7",
+      "sha256_of": "original",
+      "working_copy": "1862_p073.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:29:07+00:00"
+  }
+}

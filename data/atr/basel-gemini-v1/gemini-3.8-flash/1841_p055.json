@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p055",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p055.jpg",
+    "bytes": 879976,
+    "sha256": "3adda6184a3092eb108ee6a9e7e10b3c1a1a9bd9a83528b258feb7e31c4c531f",
+    "sha256_of": "original",
+    "working_copy": "1841_p055.jpg"
+  },
+  "text": "48\nNro.\nSt. Alban-Vorstadt.\n\n1334 Bärwart-Carle, Joh., Handels-Commis und Agent der Stutt-\n  garter Renten-Anstalt.\n  Carle, Leonhard, Wundarzt.\n1335 Gesellschaftshaus zum h. Dolder. Schärer, Felix, Traiteur.\n1336 Anstein, J. J., Küfer.\n1337 Gernler, J. J. sel., Wittwe.\n1338 Hermann, Adam, Schlosser.\n1339–1342 * Vischer-Legrand sel. Wittwe.\n  Stähelin-Vischer, Handelsmann.\n1343 * Bischoff-Frey sel. Wittwe geh.\n  Bischoff-Preiswerk sel. Wittwe.\n1344 Bischoff-Frey sel. Wittwe.\n  Bischoff, Christoph.\n1345 Burckhardt, Carl, alt Dreierherr.\n  Von der Mühll-Burckhardt, Georg.\n1346 Bischoff-Frey, Joh. sel., Wittwe.\n  Firma: Christoph und Joh. Bischoff.\n1347 * Derselben. Bischoff-Stähelin, Carl.\n1348 Wieland-Bischoff, Oberst sel., Wittwe.\n1349 Burckhardt, Christoph.\n1350 Guth, Rud. sel., Wittwe, Metzger.\n  Guth, Rud., Sohn, dito\n1351 Burckhardt, Gedeon.\n1352 Thurneisen-Burckhardt, Balthasar.\n1353 Bernoulli, Nikl., Notar und Criminalgerichts-Präsident.\n1354 Thurneisen, Joh. Fr., Weißbeck.\n  Heusler-Thurneisen, Dan., Handelsmann.\n1355 Forkart-Merian, Dietrich.\n\nRittergasse.\n\n1356 Burckhardt-Werthemann, Eman.\n  Firma: Burckhardt, Dietrich.\n1357 Ebendemselben. Müller, Joh. Jakob, Appreteur.\n1358–1360 Vischer, Benedikt, Oberst.\n  Vischer-Handmann, Sohn.\n1361 Merian-Burckhardt, J. J.\n1362 Merian, Dan. de Phil.\n1363 Bischoff, Achilles.\n  Bischoff, Sara, Jungfer.\n1364 Vischer-Valentin, Wilh.\n  Paravicini-Vischer, Rud.\n  (Firma: Vischer und Sohn.)\n1365 Ryhiner-Streckeisen, A. P., Wittwe.\n  Streckeisen-Cäsar sel., Wittwe.\n1366 Vischer, Sal. und Sus., Jungfern.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7473,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1568,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:48:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p055",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p055.jpg",
+      "bytes": 879976,
+      "sha256": "3adda6184a3092eb108ee6a9e7e10b3c1a1a9bd9a83528b258feb7e31c4c531f",
+      "sha256_of": "original",
+      "working_copy": "1841_p055.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:23+00:00"
+  }
+}

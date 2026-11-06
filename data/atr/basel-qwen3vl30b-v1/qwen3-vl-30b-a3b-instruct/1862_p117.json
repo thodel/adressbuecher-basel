@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p117",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p117.jpg",
+    "bytes": 1328304,
+    "sha256": "6566192d56680d564e5c16aa617bb3b9698ef947994c956bc1b5b36838c52c13",
+    "sha256_of": "original",
+    "working_copy": "1862_p117.jpg"
+  },
+  "text": "52\nGerbergasse.\nNeue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nr.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n21 VI. 649 z. Wachholderbaum. Wildpret=Kiesterer, Ferdinand.\nWildpret-Kiesterer, Ferd., Bergolder.\nSchilling=Onopf, Wb. Susanna, Part.\nSchaub-Müller, Joh. Jac., Spezereihdlg.\n22 VI. 1655 zum Fischgrath. Bloch, Rudolf.\nBloch, Rudolf, Spezierer.\nHeer-Neguet, Conrad, Postbeamter.\n23 VI. 650 z. hint. Freienstraße. Grimm=Wezel, Johannes.\nGrimm-Wezel, Joh., Zollbeamter.\nSutter-Kaiser, Jos., Merceriwaarenh.\n24 VI. 1654 zum Hentschenberg. Staats.\nSchaub-Stuber, Joh. Georg, Fabrikarb.\n25 VI. 651 z. gold. Staufen u. z. grün. Mann. Roth=Oser, Joh. Balthasar.\nRoth-Oser, Joh. Balthasar, Glaser.\nHug, Catharina, Hebamm.\n26 VI. 1653 zum Hammeneck. Roth=Georg, Rudolf.\nWeber, Joh., Café- und Speisewirth.\n27 VI. 652 zum gold. Eglin. Wäffler=Fininger, Samuel.\nWäffler-Fininger, Sam., Posamentirer.\nLuttiger=Gregor, Schuhhandlung.\n28 VI. 1652 zum Hammeneck. Roth=Georg, Rudolf.\nRoth-Georg, Rudolf, Glaser.\n29 VI. 653 z. kleinen Waldeck. Hindenlang=Hurter, Jacob Gottlieb.\nHindenlang-Hurter, J. G., Modenhdlg.\nSchwömmli-Siller, Friedr., Schneider.\n30 VI. 624 zum St. Niklaus. Kehlstadt, Johann Philipp.\nKehlstadt, Joh. Philipp, Particular.\nSchmidt, Gg. Theophil, Cigarrenhändl.\nu. Verleger des Tagblattes.\nSimhof, J., Bäcker.\nMayer, Adolf, engl. Sprachlehrer.\n31 VI. 654 zum Paßt. Meyer=Ziegler, Heinrich.\nMeyer-Ziegler, H., Ellenwaarenhandlg.\nBrandenberger=Maßinger, Conr., Kübler.\nLiiber, Bernhard, Postcommis.\nWeibel=Glaser, Jac. Ludw., Commis.\n32 VI. 645 zum Nußbaum. Schardt-Thurneyßen, Emanuel.\nSchardt-Thurneyßen, Eman., Buchbind.\nWalter=Bloch, Joh., Obst- u. Eierhdlg.\nFehr, Joh., Commis.\n33 VI. 655 zur Tanne. Hunold=Roth, Anton.\nHunold-Roth, A., Musikhdlg. u. Leihanst.\n34 VI. 644 zum Stättlershof. Tischhauser=Geiger, Simon.\nTischhauser=Geiger, Simon, Conditor.\nMüller=Schär, Heinrich, Schreiner.\n35 VI. 656 zum Mond. Stockmeyer=Roth, Emanuel.\nStockmeyer-Roth, Eman., Spengler.\n36 VI. 643 Zunft z. Schneiderin. Corporationsgut.\nSchäublin-Krayer, Joh. Jacob, Schuh-\nmacher.\nSchäublin-Gerold, Sam. Rud., Bäcker.\nBokardt, Heinrich, Cigarrenhandlung.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6958,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2158,
+    "lines": 63,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0159,
+    "mean_line_chars": 33.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p117",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p117.jpg",
+      "bytes": 1328304,
+      "sha256": "6566192d56680d564e5c16aa617bb3b9698ef947994c956bc1b5b36838c52c13",
+      "sha256_of": "original",
+      "working_copy": "1862_p117.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:58+00:00"
+  }
+}

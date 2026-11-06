@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p014",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p014.jpg",
+    "bytes": 958659,
+    "sha256": "5e31dd334f13f0fc2aae6c2e60586a183ede6d96097157e057c49f877624668b",
+    "sha256_of": "original",
+    "working_copy": "1841_p014.jpg"
+  },
+  "text": "7\nNro.\nStorchengasse.\n160 Stupanus, Chr., Comptorist.\n161 * Landerer, Ludwig sel. Wittwe.\n    Bienz, Heinrich, Gasthof zum Storchen.\n162 Fries, Leonhard, Buchbinder.\n163 Siegrist, Joh., Spezereihändler.\n164 Stumm, Fr., Spezerei- und Tabackhandlung.\n165 Rumpf, Daniel, Wundarzt.\n166 Grof, Joh., Knopfmacher.\n167 Geist, Karl Ludwig, Schuhmacher.\n168 Bernoulli, J. Hieron., Kaufmann. (Muffelin- und Manufaktur-\n    waarenhandlung.\n169 Falkner, Samuel, Hutmacher.\n170 Biermann, Gottfried, Messerschmid.\n171 Häfelingcr, Jakob, Geldwechsler.\n    Scharf, Aloys, Privatlehrer, von Zeiningen.\n172 a Handmann, J. J., Goldarbeiter.\n172 b * Sprikenhaus, der Stadt gehörend.\n172 c Seul, J. J., geh. Laden.\n173 * Postgebäude.\n    Bernoulli-Dick, Joh., Postdirektor.\nBrunngäfli.\n174 Wagner, Conrad, Postoffiziant.\n    Heckendorf, Elisabetha, Lehrerin.\n    Massini, Gebrüder, Quincailleriehändler.\n175 Klein, Simon, Fabrikarbeiter, von Kandern.\n176 Hergob, J. Ludwig, Sprachlehrer, aus Bayern.\n177 Dürr, J. J., Holzfecker.\n    Gas, Rudolf, Schuhmacher.\n178 * Braun, Samuel, Wittwe.\n    Braun, J., Gypter, aus dem Kanton Thurgau.\nUnterer Heuberg.\n179 * Göbelin Wittwe sel. Erben.\n    Leuzinger, Conrad, Fabrikarbeiter, von Nettsfal.\n180 Laudier, Simon Alex., Sprachlehrer, von Straßburg.\n    Laudier, Simon Heinrich, Sohn, Commis.\n    Frey, Jer., Knopfmacher.\n181 * Abgebrochen.\n182 * Ründig, Theodor, Hauptmann.\n183 Kern, Jakob, Fabrikarbeiter, aus dem Kanton Aargau.\n    Huber, Jakob, Schuster, aus dem Kanton Thurgau.\n184 Bon-Brunn, Simon, Schreiner.\n185 Haas, Wittwe.\n186 Breitenstein, J. J., Krempler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4755,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1589,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:10+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p014",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p014.jpg",
+      "bytes": 958659,
+      "sha256": "5e31dd334f13f0fc2aae6c2e60586a183ede6d96097157e057c49f877624668b",
+      "sha256_of": "original",
+      "working_copy": "1841_p014.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:10+00:00"
+  }
+}

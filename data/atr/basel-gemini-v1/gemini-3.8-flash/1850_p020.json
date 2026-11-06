@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p020",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p020.jpg",
+    "bytes": 1080937,
+    "sha256": "20e9f92bf99fd25b110f8d9dbc7ea24700ac0e3604c2b76dea36a6750ccd02bc",
+    "sha256_of": "original",
+    "working_copy": "1850_p020.jpg"
+  },
+  "text": "10 St. Johann-Quartier.\n\nSchwarze Pfahlgaſſe.\n\n219 Fäſch-Spindler, Nikl., Wittwe.\n  Fäſch, Jungfrauen, modistes.\n  Gauthey, Charles, Kaufmann.\n220 Oſer, Jungfrauen Julie u. Henriette, Partikularin.\n221 Buxtorf-Burckhardt, Wittwe, Rentière.\n222 Holzach, Wittwe Marg. geb. Nonus, Rentière.\n  Nonus, Wittwe Eliſab. geb. Gemuſeus, Rentière.\n223 Secrètan, A., franz. Pfarrer.\n224 Zimmerlin-vonSpeyr, Tabackfabrik. (Comptoir.)\n  Burckhardt, Wittwe Lucie geb. Jacot, Rentière.\n225 Marfort, Joh. Bapt., Vergolder.\n  Gutzwiller, Seb., Kunſtmaler.\n226 Hagenbach, Karl, Partikular.\n227 Biermann, Gebr., Rud. u. Wilh., Handelsleute.\n  Biermann, Oskar, Dr. Juris. (Comptoir in Nr.\n  149 A.\n228 Legrand, Adolf, Banquier.\n  Werthemann-VonderMühll, And., Handelsmann.\n\nOberer Herbergberg.\n\n229 (Armenherberge) Fäſch, J. J., Vater, Herbergmei-\n  ſter, Notar, J. U. D.\n230 Gyſin-Garnaus, Lehrer.\n  Geiger, Jungfrauen, modistes.\n  Scherb, Adam, Bureau für techniſche Literatur.\n231 Legrand-deNeufville, Lukas, Rentier.\n  Gemuſeus-Legrand, Wittwe.\n  Battier, Geſchwiſter.\n232 Mätzinger, Franz, Schreiblehrer.\n  Schmidt-Bächlin, Lehrer.\n233 Brenner, J. Fr., Med. Dr.\n234 Bayhinger-Wick, C. A., Speditor.\n  Hönes, Auguſt, Commis.\n  Ramus, Auguſt, Poſtbeamter.\n235 Schilling, Eml., Maler.\n236 Fazer, Frau, Pack- und Wachstuchverkauf.\n237 Tſchudy, Jakob, Schneider, Rathsbote.\n238 Lotz, Leonh., Siegriſt, penſionirt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9258,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1392,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.79,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:08:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p020",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p020.jpg",
+      "bytes": 1080937,
+      "sha256": "20e9f92bf99fd25b110f8d9dbc7ea24700ac0e3604c2b76dea36a6750ccd02bc",
+      "sha256_of": "original",
+      "working_copy": "1850_p020.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:20+00:00"
+  }
+}

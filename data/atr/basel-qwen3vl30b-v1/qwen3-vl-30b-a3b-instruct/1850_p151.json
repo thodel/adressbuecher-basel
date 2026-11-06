@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p151",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p151.jpg",
+    "bytes": 942431,
+    "sha256": "fe3b3746c0f123e9037186b27d9eb00c043b18b1505a6a77cba369404813f412",
+    "sha256_of": "original",
+    "working_copy": "1850_p151.jpg"
+  },
+  "text": "138\n1404 S. u. J. J. Merian\n912 F.\n350\n1614 H.\n*144\n470 Phil.\n1094 Joh.\n638 Johannes\n1440\n258 F.\n1691 Hans Jak.\nde Georg Müller\n*17 Achilles\n*36 Wittwe\nMerian-Forcart\nMerian-Frisch-\nmann\nMerian, Sohn\nMeyenrock, Sohn\nMeyer-Kinder\nMeyer u. Sohn\nMeyer\nMeyer-Bischoff\nMeyri, Antiqu.\nMieg-Afai\nMüller\nMüller & Cons.\nSamuel de Joh. Jakob\nMerian.\nJoh. Jakob de Joh.\nJakob Merian.\nJohann Jakob Bischoff=\nKestner.\nEduard Merian.\nF. Merian-Forcart,\nCommanditaire.\nRudolf Merian-Frisch=\nmann.\nHeinrich Merian, Sohn.\nFriedrich Meyenrock.\nPhil. Meyer-Kinder.\nSusanna Meyer, geb.\nMerian.\nLudwig Meyer, Sohn.\nJoh. Meyer.\nJohann Christian Meyer.\nJoh. Meyri, Antiquar.\nTheophil Mieg-Afai.\nJoh. Gg. Bercher, Pro-\ncuraträger.\nFrau Wittwe Anna Ca-\ntharina Holzach=\nSchölln.\nFranz Holzach.\nAchilles Müller.\nFrau Wittwe Müller, geb.\nKleiling, ohne Unter-\nschrift.\nAlbert Holzach-Werten-\nberg.\nGeorg Lindenmeier.\nAugust Burckhardt=Jse=\nlin ppa.\nWilhelm Zentgraff, ppa.\nN.\n1524 G.\nNeufirch\n. J. Georg Neufirch.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3603,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 986,
+    "lines": 69,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0145,
+    "mean_line_chars": 13.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.002,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p151",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p151.jpg",
+      "bytes": 942431,
+      "sha256": "fe3b3746c0f123e9037186b27d9eb00c043b18b1505a6a77cba369404813f412",
+      "sha256_of": "original",
+      "working_copy": "1850_p151.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:16+00:00"
+  }
+}

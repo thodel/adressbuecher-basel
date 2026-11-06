@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p053",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p053.jpg",
+    "bytes": 898084,
+    "sha256": "727cf2c6b9c998ece3b4b3b995cf1bd348384c817ae235a3d49ac7709de5dbd0",
+    "sha256_of": "original",
+    "working_copy": "1841_p053.jpg"
+  },
+  "text": "Nro.\n1264 * Magazin von Burchardt-Werthemann.\n1265 Stall und Remise von Ifelin-Forkart.\n1266 Köslin, Rud., Spezereihändler.\n1267 Haag, Leonhard, Hufschmid.\n1268 Ifelin, Dietrich, alt Statthalter.\n1269 * a b c Hoffmann-Preiswerk, Emanuel, geh. Hoffmann und Forkart, Bandfabrik.\n1270 Burchardt-Burchardt, Emanuel. Preiswerk, Rud., Candidat.\n1271 Plattner, Joh., Fuhralter.\n1272 Ofer, Seb. sel., Wittwe, geb. Thurneysen.\n1273 Gaf, Joh. Adam, Kunstgärtner.\n1274 Mieg, Achilles, Bierbrauer.\n    Lienin, Marx, Musiklehrer.\n    Nidecker-Linder, Joh.\n1274 a Stallung von Hrn. Bischer-Handmann, Eduard.\n1275 Linder, Joh. Heinrich, Wollenspinnerei.\n1276 Wertenberg, Joh., Thorschreiber.\n    (St. Alban=Thor.)\n1276 Magazin von Bischoff-Respinger.\nSt. Alban=Thal.\n1277 u. 1278 Heusler-Bienz sel. Wittwe.\n1279 Wagner, Friedrich, Handels-Commis.\n    Wezel, J. J., Papierer.\n1280 Kiefer, Joh., Papierer und Lohnwäscher.\n1281 Heusler-Fatio, Markus. (Firma: Heusler, Markus, Papierfbt.\n1282 Thurneisen, H. R., alt Pfarrer.\n    Thurneisen, Christoph, Papierfabrikant.\n1283 * Huber, Mark. de J. Ant., Papierfabrikant.\n    Jefonig, Johannes, Schreiner.\n1284 * Ofer, Heinrich sel., Wittwe.\n1285 Imhof, Samuel, Papierfabrikant.\n    (Firma: Imhoffsche Papierfabrik.)\n1286 Ebendemselben.\n1287 * Linder, Joh. Heinrich, Tuchscherer, geh.\n1287 a Ofer, Heinrich sel., Wittwe. Fabrikgebäude.\n1288 Linder, Joh. Heinrich, geh.\n1289 Thurneisen, Pfarrer, gehörend.\n1290 * Sieber-Bischoff, H., Fabrik.\n    Mangold, Joh., Fabrikausseher.\n1291 Merian-Fischer, Joh., Müller.\n1292 Ofer, Heinrich sel., Wittwe, Papierfabrik.\n    Ofer, Wilhelm, Sohn.\n    Stückselberger, And., Handels-Commis.\n1293 Dem Kanton geh.\n1294 u. 1295 * Ofer, Heinrich sel., Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5321,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1717,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 36.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:48:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p053",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p053.jpg",
+      "bytes": 898084,
+      "sha256": "727cf2c6b9c998ece3b4b3b995cf1bd348384c817ae235a3d49ac7709de5dbd0",
+      "sha256_of": "original",
+      "working_copy": "1841_p053.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:45+00:00"
+  }
+}

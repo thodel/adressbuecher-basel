@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p146",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p146.jpg",
+    "bytes": 1035173,
+    "sha256": "45794681a15f248dfd910141b0e32f8d0bf118919be9efd4bd95427dde9fa48d",
+    "sha256_of": "original",
+    "working_copy": "1850_p146.jpg"
+  },
+  "text": "133\nD.\n1381 A  Jn  Nαβ  David & Confort. Christoph Socin-Werthe-\nmann.\n1239 Johannes David . Johannes David.\n1483 Johann Debary & Bischoff Johannes Debary-Sa-\nrasin.\nWilhelm Bischoff-Burck-\nhardt.\nJoh. Jakob Fiechter.\n1041 Dietschy-Fäsch . Joh. Dietschy-Fäsch.\n1582 Siméon Dénéréaz . Siméon Dénéréaz.\n598 Melchior Dietiker . Melchior Dietiker.\n602 Jaaß Dreifus,\nSöhne\nLeopold Dreifus-Hirsch.\nSamuel Dreifus-Neu-\nmann.\nJacques Dreifus-Seidels.\n665 Christian Dreis . Christian Dreis.\nE.\n870A Eduard Eckenstein . Eduard Eckenstein.\n551 F. C. Eckhard . Johann Conrad Eckhard.\n657 Friedrich Eglin . Friedrich Eglin.\n1038 Chinger & Cie. Christoph Matthias Ching-\nger-von Speyr.\nHieron. de Benedict\nBurckhardt.\nJonas Heinrich Rognon,\nProcuraträger.\n*394 Wittwe Eisenlohr . Elisabeth Eisenlohr, geb.\nBloch.\nF.\n1667 Faesch-Dünner . Faesch-Dünner.\n1083 Joh. Fischer . Johannes Fischer.\n1668 Nikolaus Fischer . Friedrich Meyer.\n1063 Rud. Fischer . Anton Schmidt-Brenner.\n1052 Foreart=Weis &\nBurckhardt-Wildt Rudolf Foreart= von\nGentschik.\nDl. Burckhardt-Foreart.\nLud. Burckhardt-Foreart.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3498,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1076,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 24.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:17:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p146",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p146.jpg",
+      "bytes": 1035173,
+      "sha256": "45794681a15f248dfd910141b0e32f8d0bf118919be9efd4bd95427dde9fa48d",
+      "sha256_of": "original",
+      "working_copy": "1850_p146.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:57+00:00"
+  }
+}

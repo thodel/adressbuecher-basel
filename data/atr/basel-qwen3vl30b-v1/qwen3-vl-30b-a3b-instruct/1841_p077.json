@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p077",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p077.jpg",
+    "bytes": 944188,
+    "sha256": "2e53e399aea30762737ee5737a5f20964354a7578105bede4d282ae85769bf52",
+    "sha256_of": "original",
+    "working_copy": "1841_p077.jpg"
+  },
+  "text": "70\nNro.\n204 Wegner, Joh. Rud., Seidenfärbcr.\nMiville, Rud., Rentier.\n205 * Mehlwaghäuslein, der Stadt geh.\n206 Hindenlang, Carl Fried., Seidenfärbcr.\nHeusler-Iselin, Dan., Präsident des Stadtraths.\n206 a Hasler. Niklaus, Schullehrer.\n207—211 Wohnung, Magazin, Remise und Stallung von Braun:\nWeiß, Andr., Oberst.\n212 * Bertrand, Jos., Lohnkutscher und Wirth.\nBürer, Caspar, Schneider.\n\nGreisengasse.\n213 Breitenstein, Joh., Weißbeck.\nScherzinger, Franz, Mechanikus, von Köln.\n214 Becker, geb. Etienne, Wittwe, Baumwollen- und Wollen-\nwaarenhandlung.\n215 Horner, Joh. Heinrich, Weißbeck.\n216 Müller, Heinrich, Schlosser.\n217 Iselin, Joh. Ludwig, Partik.\n218—220 Bertrand, Joh., Wirth und Lohnkutscher.\n221 Bäslin, Joh. Heine., Thorfchreiber und Buchbinder.\n222 Münch, F. Caspar, Med. u. Chirurg. Dr. u. Stadtphysikus.\n223 Roth, Ursus, von Reigoldsweyl.\n224 * Gesellschaftshaus zum Greifen.\nKellermann, Joh. Chr., Apotheker.\n225 Weiss, Jungfer, Judith.\n226 Hik, F. J., Schreiners sel. Wittwe, geb. Bohny.\n227 Bulacher, Joh., Seifenfieder und Kerzenfabrikant.\n228 Meyer, Jakob, Weißbeck.\n229 Lang, Emanuel, Weinhändler sel., Wittwe, geb. Oser.\n230 Schmidt, Daniel, Kübler.\n231 Landolt, Fried., Bierbrauer.\n232 Gass, Andr., Schuhmacher, von Lieftal.\n233 * Lang, Eman., Weinhändlers sel. Wittwe geh.\n234 Ruprecht, Stephan, Krempler.\nHofer, Reinhard, Schneider.\n235 Langmesser, F. Heinr., Seiler und Holzseker.\n236 Wohlnich, Jakob sel., Wittwe, Bäckerei.\n237 Baumgartner, Franz Heinrich, Schneider.\nLok, Franz, Stadtbote.\n238 Jäsch, Rud., Kupferschmid.\n\nOchfengasse.\n239 u. 240 Jenny, Joh., Spezerei- und Käsehändler.\n241 * Lindenmeyer, Carl, Bater.\n242 * Horner, F. H., Weißbeck, geh.\nSchälklin, Joh. Jakob, Beck.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5149,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1707,
+    "lines": 47,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:39+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p077",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p077.jpg",
+      "bytes": 944188,
+      "sha256": "2e53e399aea30762737ee5737a5f20964354a7578105bede4d282ae85769bf52",
+      "sha256_of": "original",
+      "working_copy": "1841_p077.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:39+00:00"
+  }
+}

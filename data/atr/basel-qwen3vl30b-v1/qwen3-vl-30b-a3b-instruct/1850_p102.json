@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p102",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p102.jpg",
+    "bytes": 1056105,
+    "sha256": "725502817ed98b9332f32516068c194264a025ec294ba00347200b4f0f9b2b78",
+    "sha256_of": "original",
+    "working_copy": "1850_p102.jpg"
+  },
+  "text": "Bläsy=Quartier. 89\n266 (Floretfeiden spin nerei) Ryhiner und Söhne geh. Schwob, Joh., Fabrik aufseher.\n267 Kray-Löliger, Wittwe M., Schneiderin.\n268 Lang, Sam., Schuhmacher.\nSimmen, Melch., Zimmermann.\n269 Sager, F. Fh., Fabrikarbeiter.\nBeim Bläsythor.\n270 Masarey, Frz., Seidenfärbcr, Lohnwascher.\n271 Kunz, Peter, Schuhwichsefabrikant.\n272 Weber, Jakob, Mezger und Wirth.\nKling-Keller, Joh. Jaf., Zolleinnehmer.\nChrist, Balth., Commis.\nA 272 Uhlmann-Mazinger, Abr., Ferger.\n273 (St. Bläsythor) Obrigkeitlich.\nZwischen den Thoren (sog. Drathzug).\nA 273 Griffard, F. G., Mechaniker.\nSchröder, Karl, Mechaniker.\nB 273 (Missions-Borankalt.) Kolb, C. Ch., Vorsteher.\nC 273 Hofer, Geb., Tabakfabrikant.\nBeim Bläsythor.\n274 Clavel-Linder, Aeg., Seidenfärbcr.\nLinder, Heinrich, Alt-Kanzlist.\nBurkhardt-Schönauer, L., Kunstmaler.\nBürger, F. Georg, Handels-Agent.\nUntere Nebgasse.\n275 Schnäbelin, Joh. Ulrich, Schneider.\n276 Fäsch, Eml., Sohn, Weißbeck.\n277 Baumgartner, L., Kübler, Holzfeher.\nWebergasse.\n278 Finninger, H., Mezger.\nFinninger, Wittwe.\n279 vonMechel, Rudolf, Küfer.\n280 David, Hieronymus, Mezger.\nSprenger-Malsner, Jaf., Commis.\nRanz, W., Desfinateur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4022,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1159,
+    "lines": 35,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0286,
+    "mean_line_chars": 32.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p102",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p102.jpg",
+      "bytes": 1056105,
+      "sha256": "725502817ed98b9332f32516068c194264a025ec294ba00347200b4f0f9b2b78",
+      "sha256_of": "original",
+      "working_copy": "1850_p102.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:49+00:00"
+  }
+}

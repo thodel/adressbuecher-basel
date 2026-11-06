@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p058",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p058.jpg",
+    "bytes": 1019227,
+    "sha256": "fcf0ac0efb5a314b0bb439983ac5ca90d59062089a4e76c595a38d617e88e993",
+    "sha256_of": "original",
+    "working_copy": "1850_p058.jpg"
+  },
+  "text": "Aefchen=Quartier.\n45\nAefchen:Vorstadt.\n1007 Schneider, Daniel, Schuhmacher.\n    Fäk, Kaspar, Maurerparlier.\n    Gremmer, G., Leitschneider.\n1008 (Gasthaus z. schwarz. Bären) Müller, Fz., Gastgeber.\n1009 Zbenthaler, Matthias, Taglöhner.\n1010 Berri, Elias, Beck.\n    Neidhardt, F. F., Steinmeß-Parlier.\n1011 Weisenburger, Karl, Commis.\n    Lok, Rudolf, Alt-Postoffiziant.\n1012 Oppermann, Joh. Georg, Schreiner. [handschriftlich: gestrichen]\n1013 Mäglin, Benedikt de Anton, Handels-Commis.\n1014 Zersing-Zeslin, Wittwe, Caroline, Commissions- u.\n    Expeditions-handlung.\n    deWette-Zersing, L. W. F., Med. Dr.\n1015 Gyßler-Wierz, Wittwe, Marie, Zuckerbeck.\n1016 Müller, Leonhard, Schlosser.\n    Kappeler, Kaspar, Spitalunterschreiber.\n1017 Mohler, Heinrich, Seiler.\n1018 Brand, Rud., Kerzen- u. Seifenfabrikant.\nBrunngäfklein.\n1019 Martin, Leonhard, Hafner.\n1020 Scheune und Stallung.\n1021 Ohiander, Stuhlschreiner.\n1022 DeWette, Sophie, geb. Streckefen, Rentiere.\n1023 (Scheune u. Stallg.) Forkart-Bachofen, Rud., geh.\nAefchen:Vorstadt.\n1024 Unbewohnt. [handschriftlich: gestrichen]\n1025 Merian-Bernoulli, M., Fr., ehem. Pfr.\n1026 Merian-Bernoulli, Joh. Rud., Phil. Dr. u. Prof.\n1027 Burckhardt, Abraham, Weißbeck.\n    Baumann, Hs., Hafner.\n1028 Barbierstube von Lukas Treu.\n    Steiger, Nikl., Stadtbote.\n1029 Winzenried, Sam., Spezierer.\nRappengäfklein.\n1030 Barnjobst, Simon Herrmann Christ., Auffeher der\n    Zuchtanstalt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4575,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1424,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 33.62,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p058",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p058.jpg",
+      "bytes": 1019227,
+      "sha256": "fcf0ac0efb5a314b0bb439983ac5ca90d59062089a4e76c595a38d617e88e993",
+      "sha256_of": "original",
+      "working_copy": "1850_p058.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p051",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p051.jpg",
+    "bytes": 1335122,
+    "sha256": "48652aa45a983f8a2365b5f7e97b6640ba8729460f26896d35c60e5ebc1fd5a3",
+    "sha256_of": "original",
+    "working_copy": "1862_p051.jpg"
+  },
+  "text": "XLVIII | Ragionenbuch. | \nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nMerian-Bister, H. | Heinr. Merian-Bister, allein. | Manufacturwaar., Tep-\n  pich- u. Tapetenlager.\nMerian-Frischmann. | J. Merian-Frischmann, allein. | \nMeyer-Bischoff. | J. Christian Meyer-Bischoff, allein. | \nMeyer, Casimir, Agent. | Casimir Meyer allein. | Agenturgeschft. u. Haupt-\n  agentur d. Dresdener\n  Feuer- u. Transport-\n  versicherungsgesellsch.\nMeyer, Joh., u. Sohn. | Ludwig Meyer. | Engl. u. franz. Manu-\n  facturwaaren en gros\n  et détail.\n  Eman. Meyer-Merian.\n  Eman. Walter-Meyer, Sohn.\nMeyer, H. | H. Meyer-Ziegler, allein. | Manufacturwaarenhdlg.\nMeyer-Linder, Ph. | Philipp Meyer-Linder, allein. | Käsehandlung.\nMeyer, Johannes. | Friedrich Meyer, allein. | \nMeyer, Ed., et Comp. | Eduard Meyer-Breiter. | Bandfabrikation.\n  Wb. Elis. Burckhardt, geb. Burck-\n  hardt, Commanditaire.\nMeyer u. Hindenlang. | G. Meyer-Simmen. | \n  E. Hindenlang-Silbernagel.\nMeyer, Leopold. | Leopold Meyer. | Bandhandlung. Ein- u.\n  Verkauf von Seiden-\n  abgang. Getreidegesch.\n  Eman. Meyer-Schmoll.\nMeyenrock, Sohn. | Friedr. Meyenrock, allein. | Wein-, Branntwein- u.\n  Hopfenhdlg., Liqueur-\n  u. Extrait d'Absynthe-\n  fabrik.\nMeyri, Ch. | Christian Meyri, allein. | Buchhandlung.\nMinder, J. J., Sohn. | J. J. Minder-Zäslin, allein. | Müllerei.\nMislap-Pöhls, A. | A. Mislap-Pöhls, allein. | Commissions- u. Wechsel-\n  geschäft.\nMissions-Handels-Ge- | Actiengesellschaft. | Export nach Ostindien\n  und Westafrika und\n  Import von da.\n  sellschaft. | Hiefür unterzeichnen die Vorsteher:\n  Ulrich Zellweger.\n  A. Bischoff-Ehinger.\n  Theod. Braun, Prokuraträger.\nModespacher, C. A. | Modespacher-Eckert, allein. | Fabrikation von feinen\n  Korbwaaren, Korb-\n  möbel; Lager en gros\n  et détail. Lager von\n  ord. u. feinen Matten.\nMontfort u. Labhardt. | J. Montfort. | Tuch- u. Stoffhandlung\n  en gros.\n  Casp. Labhardt.\n  Wieland-Rottmann, Commanditair.\nMüller, Hans Jakob | Franz Holzach-Lippe, allein. | Colonialwaaren- u. Lan-\n  desproduktenhandlung\n  en gros.\n  de Georg. |  | \nMüller, Wittib, u. Con- | Aug. Burckhardt-Iselin. | Weinhandlung.\n  sorten. | Wilhelm Zentgraf.\n  Gustav Müller.\n  Wittwe Müller-Kleiling, Com-\n  manditair.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9323,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2236,
+    "lines": 60,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0167,
+    "mean_line_chars": 34.92,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:32:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p051",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p051.jpg",
+      "bytes": 1335122,
+      "sha256": "48652aa45a983f8a2365b5f7e97b6640ba8729460f26896d35c60e5ebc1fd5a3",
+      "sha256_of": "original",
+      "working_copy": "1862_p051.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:03+00:00"
+  }
+}

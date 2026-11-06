@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p169",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p169.jpg",
+    "bytes": 1040834,
+    "sha256": "169c6eef5e181693a7693acdcf3235c49906737f9281744101ebeb9c8b66eab3",
+    "sha256_of": "original",
+    "working_copy": "1841_p169.jpg"
+  },
+  "text": "— 16 —\n\nSchnell, Joh. Rud., fel. Wittwe, geb. Preiszwerck. 451\nBeim Spahlenthurm.\nSchnell=Christ, Ulrich, Siegrist zu St. Elisabethen. 790\nBordere Steinen=Vorstadt.\nSchneßler, Leonh., Schuhmacher. 1104 Streitgasse.\nSchölln, Franz, Rand. d. Theol. 1626 Untere Freienstraße.\nSchölln, Joh. Jakob, Sohn, Bandfabrik und Beuteltuch-\nhandlung. 1536, 1538, 1539 Eisengasse.\nScholer, Emanuel, Zinngießer. 1594 Eisengasse.\nSchrämlin, Mathias, Maler. 1746 Sattelgasse.\nSchwab, Joh, Med. Dr. 1189 Freienstraße,\nSchwab, J. J., Civilgerichtschreiberei=Substitut. 1057 Tiefe.\nSchwarz, Philipp, Schneider. 218 Schwarze Pfahlgasse.\nSchwenkbiere, Heinrich, Maurer. 1529 Kronengasse.\nv. Seckendorf, Freiherr, Eigenthümer der Saline Schweizer-\nhall. 456 Beim Spahlenthurm.\nSegiser, Sus., geb. Bauler, Wittwe. 98 St. Joh. Schwibbogen.\nSeifert, Anton, Weinschenk. 1033 Ueschen=Vorstadt.\nSenn, Ludw., v. Lieftal, Sachträger. 476 Ob. Spahlenb.\nSenn, Friedrich, Vater, v. Binningen, Lohnbedienter.\n556 Adelberg.\nSenn, Jak., Kunstmaler, v. Lieftal. 622 Grünpfahlgäklein.\nSenn=Oyfin, Joh. Daniel, Commis. 818 Bord. Stein. Vst.\nSenn=Bachofen, Friedr., Handlungs-Commis. 556 Adelberg\nSept, Karl, Papierermeister. 1295 St. Alban=Thal.\nSeul und Maßt, Buchdruckerei. 277 Zeughaus.\nSiegrist, Joh. Rud., Kaufhausgehülfe. 1714 Hutgasse.\nSiegrist, Emanuel, Sohn, Meßger. 861 Thorsteinen.\nSilbernagel, J. J., Weinschenk. 1608 Spornengasse.\nSingeisen, Schwestern Magd. und Barbara. 1260 St.\nAlban=Thorgasse.\nSirt, Abraham, Tapezierer. 754 d. Kohliberg.\nSirt, Salomea, Hebamme. 754 d. Kohliberg.\nSocin und Sohn, Abel, Buchhandlung. 564 St. Peters-\nStiftsgasse.\nSocin, Christoph, Cand. d. Theol. 351 Spahlen=Vorstadt.\nSouchon, Claude, Desfinateur. 1734 Beim Kornmarkt=\nBrunnen.\nSpieler, Heinrich. 1223 St. Alban=Vorstadt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6019,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1781,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.52,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:01:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p169",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p169.jpg",
+      "bytes": 1040834,
+      "sha256": "169c6eef5e181693a7693acdcf3235c49906737f9281744101ebeb9c8b66eab3",
+      "sha256_of": "original",
+      "working_copy": "1841_p169.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:23+00:00"
+  }
+}

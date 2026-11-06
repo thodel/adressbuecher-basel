@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p104",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p104.jpg",
+    "bytes": 1060261,
+    "sha256": "4f5958eb5b28a4297c001fe47f50f63ce3eb842204c2c6f7d5d7f2c2c13cbad9",
+    "sha256_of": "original",
+    "working_copy": "1850_p104.jpg"
+  },
+  "text": "Bläsy = Quartier.                                                                                          91\nA 310 (Spriżenhaus.) Obrigkeitlich.\n  311 Wohlnlich, Wittwe Cath., Wascherin.\n  312 (Klingenthal, Armenanstalt) Obrigkeitlich.\n    Ecklin, Wittwe, Auffeherin.\n    Ecklin, Rudolf, Commis.\n  313 Minder-Żäklin, Joh. Jak., Müller.\n  314-16 Remise, Scheune und Stallung.\n  317 Kern-deCrousaz, Elias, Kaufmann.\n  318 Minder, Joh. Jak., Kaufhausbestäter.\nUntere Webergasse.\n  319 (Tabackmühle) Sulger-Stähelin geh.\n    Fros, Ch., Tabackmüller.\n  320 Minder, Gustav, Müller.\n  321-22 Schäfer, Nikl., Schuhmacher.\n  323 Zindel, Jakob, Müller.\nBadergäfklein.\n  324 Christen, Matth., Lohnwascher.\n  325 Thommen, Jsaak, Lohnwascher.\n  326 Wenk, Wittwe, Wascherin.\n  327-28 Remise und Stallung.\n  329 Degen, Heinrich, Zimmermann.\n  320 Brunner, Bal., Taglöhner.\nUntere Webergasse.\n  331 Magazin.\n  332 Kespinger-Dörflinger, Wittwe Karolina, Modiste u.\n    Reinwascherin.\n  333 Fäsch, Jakob, Weißbeck.\n  334 Schmidt, Rud., Weißbeck u. Weinschenk.\n  335 Schuler, Eml., Hufschmied.\n    Piaud, F. Bapt., Dessinateur.\n  336 Scholer, Nikl., Wagner.\n  337 Magazin.\n  338 Uehlinger, F. G., Trödler und Lederlackirer.\n  339 Hoch, Jakob, Weißbeck.\n  340 Scheune und Stallung.\n  341 Löhle, Carl, Commis, Spezereiladen. Jos. Sami Ulm.\n  342 Merian, Joh. Jak.\n  343 Kindwiller, Matth., Indiennedrucker.\n  344 Zeller-Keller, Schwester, Näherinnen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4719,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1430,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 32.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:58+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p104",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p104.jpg",
+      "bytes": 1060261,
+      "sha256": "4f5958eb5b28a4297c001fe47f50f63ce3eb842204c2c6f7d5d7f2c2c13cbad9",
+      "sha256_of": "original",
+      "working_copy": "1850_p104.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:58+00:00"
+  }
+}

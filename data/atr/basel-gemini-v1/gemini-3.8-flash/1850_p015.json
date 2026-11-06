@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p015",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p015.jpg",
+    "bytes": 1185729,
+    "sha256": "f01be5bf7a8904b3a6a3ad6aae02c0a02be0663289bd5746004c3a900b837b2a",
+    "sha256_of": "original",
+    "working_copy": "1850_p015.jpg"
+  },
+  "text": "St. Johann-Quartier. 5\n\nBlumenrain.\n103 Brenner-Fäsch, Aug., Mercerie u. Wollenhandlung.\n104 Pelletier, Dlle. F. Louise, Rentière.\n  Burckhardt, Geschwister.\n  Meyer, Gedeon, Notar.\n105 Ronus-Gemuseus, Christ., Handelsmann.\n106 Fluck, F. J., Postfaktor und Modehandlung.\n107 Streuber, Christ. Wilh., Partikular.\n  Streuber, Wilh. Theod., Phil. Dr.\n108 Hosch-Henz, Wittwe Susanna, Rentière.\n  Hosch-Roth, Johann, Handelsmann und Weißbeck.\n  Merian, Nicolaus, Rentier.\n109 Schmidt, Georg Michael, Ingenieur u. Modehdlg.\n110 Meyer, Jungfrau, Marg., Partikularin.\n  Imhof-Schäublin, Bernhard, Partikular.\n111 (Kaffeh. zu 3 Kön.) Landerer-Maring, L., Kaffeewirth.\n112 Klenck, Viktor, Geschäftsmann, Agentur der Basel-\n    Straßb. Eisenbahn, Köln. Dampfschiffe, Messa-\n    gerie générale u. für Auswanderer.\n  Walz, Friedr., Kunsthandlung.\n113 Leucht-Keller, Friedr., Bandfabrikant.\n114 Vereinigt mit Nr. 112.\n\nBlumenplatz.\n115 (Gasth. z. 3 Königen) Senn F. J., Gastgeber.\n116 Zimmerlin-v. Speyr, Aug., Tabackfabrikant.\n  Stucky-Koch, Eduard, Tabackhandlung.\n117 Dubois, Louis, Uhrmacher.\n118 Hasler-v. Mechel, Gottl., Lithograph u. Kunsthändl.\n119 Kündig-Linder, Theodor, Rentier.\nA 119 (Spiegelgasse) Heckendorn, Jgfr. Lisette, Haar-\n    flechterin.\n120 Schönauer, Hier., Spezereihandlung.\n  Zwilchenbart-Blum, Andr., Hdlsm., Nord-Amerik.\n    Vice-Consul.\n121 Roth-Weiß, Heinrich, Metzger.\n  Ott, Hch., Coiffeur.\n122 Rheinlagerhaus.\n123 Graf-Schaad, Wittwe Elisa, Wirthin.\n  Bulacher, Friedr., Conducteur.\n124 Oelhafen, Gottf., Zucker- und Pastetenbeck.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6982,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1549,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.83,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:41+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p015",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p015.jpg",
+      "bytes": 1185729,
+      "sha256": "f01be5bf7a8904b3a6a3ad6aae02c0a02be0663289bd5746004c3a900b837b2a",
+      "sha256_of": "original",
+      "working_copy": "1850_p015.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:41+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p149",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p149.jpg",
+    "bytes": 970556,
+    "sha256": "917aaf8afc647b5f603c28b5fd7b1fa10e8fca0298900ddc71715bed1a5dc701",
+    "sha256_of": "original",
+    "working_copy": "1850_p149.jpg"
+  },
+  "text": "136\n\n1219 Emanuel Hoffmann . . | Eman. Hoffmann, Sohn.\n  J. Bärwart, Procura-\n  träger.\n1592 Theodor Hoffmann . , | Georg Hoffmann.\n  A. Holzmüller . . | Adolf Holzmüller,\n  Emile Robert. ppa.\n822 Eduard Hosch . . | Eduard Hosch.\n917 Carl Huber, Sohn . | Eduard Bernoulli, Sohn.\n1595 Jques Huber, z. Palmbaum | Joh. Jakob Huber.\n1597 Emanuel Hübscher . | Emanuel Hübscher.\n  Adolf Hübscher.\n\nJ.\n\n*239 J. J. Jenny, Sohn . | J. J. Jenny, Sohn.\n1014 F. Jersing, Sohn . | Caroline Jersing-Zeslin.\n  Dietr. Wilh. Wölfflin,\n  Procuraträger.\n1642  Imhof-Wenk . | Hieronimus Imhof.\n1576 Melchior ImHof u. Söhne | Daniel ImHof.\n  J. J. ImHof-Forcart.\n1312 Gebrüder Iselin . . | J. Luk. Iselin-Forkart.\n  Rudolf Iselin-Christ.\n  Wilhelm Iselin.\n70 J. J. u. R. Iselin . . | Joh. Jakob Iselin.\n  Rudolf Iselin.\n\nK.\n\n269B  Kern u. Sohn . | Elias Kern-de Crousaz.\n  Friedrich Kern, Sohn.\n  August Kern, Sohn.\n1547 Ernst Knop . | Ernst Knop.\n   Knuty & Cie. . | Christian Knuty.\n692 J. Franz Kuster . . | Joh. Franz Kuster.\n153 Georg Kiefer . . | Georg Kiefer.\n  Rudolf Bienz.\n1006G  Köchlin u. Söhne | Köchlin-Burckhardt\n  Alphons Köchlin.\n  Eduard Köchlin, Pro-\n  curaträger.\n1637 Caspar Krug . . | Joh. Christ. Kirsch.\n1589 J. J. Kühn . . | J. J. Kühn-Grandjean.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6295,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1250,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.23,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:24:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p149",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p149.jpg",
+      "bytes": 970556,
+      "sha256": "917aaf8afc647b5f603c28b5fd7b1fa10e8fca0298900ddc71715bed1a5dc701",
+      "sha256_of": "original",
+      "working_copy": "1850_p149.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:24:11+00:00"
+  }
+}

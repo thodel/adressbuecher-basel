@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p049",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p049.jpg",
+    "bytes": 872186,
+    "sha256": "74c5f107b151686fdc6fda0f5be5d722f019eb5c5db59953c0a689dda54ed791",
+    "sha256_of": "original",
+    "working_copy": "1841_p049.jpg"
+  },
+  "text": "42\n\nGerbergaſſe.\n\n1151 Mähly, Hieron., Roß- und Waldhaarhandlung.\n  Martin, Math., Werkmeiſter.\n1152 Schardt, Lucas, Buchbinder und Leihbibliothek.\n1153 Weiß, J. J., Geſchäftsmann.\n1154 Breiter, J. J., Handels-Commis.\n1155 Hodel, Sohn, Abraham, Schuhmacher.\n  Huber, Rud., Ferger.\n1156 Boſſardt, Joh., Uhrenmacher und Bannwart.\n1157 Klingelfuß, Jak. Chriſtoph, Schneider.\n1158 Baldner, Joh. Chriſtian.\n  Nörbel-Gernler, Waarenhandlung.\n1159 Leuthart, Heinrich, Hutmacher.\n1160 Hindenlang, J. J.\n  Frey, J. J., Commiſſions- u. Speditionshandlung.\n1161 Wölfflin, Joh. Rud., Zuckerbäcker.\n1162 Gyſendörfer-Herzog, Conrad, Handelsmann.\n1163 Schneider, Ehrhard, Schullehrer.\n1164 Beck, Anna Eliſ., Jungfrau.\n1165 Schmidt, Joh. Jakob ſel., Wittwe, geb. Schwarz.\n1166 Leicher, Georg Heinrich.\n1167 Buſer, Peter, Schuhmacher.\n\nE. St. Alban-Quartier.\n\nRüdengäßlein.\n\n1167 * Magazin, Weiß, Hieronymus, gehörend.\n1168 Wierz, Daniel, Sohn.\n  Firma Fiſcher, Rudolph.\n\nFreie Straße.\n\n1169 Obermeyer-Albrecht, Joh. B. ſel. Wittwe, Apotheke.\n  Obermeyer, Eliſ., Wittwe, geb. Bernoulli.\n1170 * Wierz, Daniel, Sohn.\n  Keller, Jſaak.\n1171 * Zunfthaus zu Beckern.\n  Steinmann, Jakob, Spengler.\n1172 Weiß, Hieronymus, Küfer.\n  Geßler, Suſanna, Modiſte.\n  Montfort, Handels-Commis.\n  Schäffer, S.,   dito\n1173 Weitnauer, Jakob Friedrich, Metzger.\n1174 Köchlin, Heinrich, Gypſer.\n  Bruckner, Heinrich, Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6297,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1391,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:47:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p049",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p049.jpg",
+      "bytes": 872186,
+      "sha256": "74c5f107b151686fdc6fda0f5be5d722f019eb5c5db59953c0a689dda54ed791",
+      "sha256_of": "original",
+      "working_copy": "1841_p049.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:37+00:00"
+  }
+}

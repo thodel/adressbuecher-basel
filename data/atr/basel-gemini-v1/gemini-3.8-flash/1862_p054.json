@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p054",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p054.jpg",
+    "bytes": 1515223,
+    "sha256": "0a0977e764987993e124147badf74bdb53d83b2e4df3fbc205ccc818a6e1a10e",
+    "sha256_of": "original",
+    "working_copy": "1862_p054.jpg"
+  },
+  "text": "Ragionenbuch. |  | LI.\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nRiggenbach, Wittwe, zum Arm. | Franz Riggenbach. | Colonialwaaren.\n | Th. Zäslin-Müller. | \nRiggenbach, Heinrich. | H. Riggenbach-Schmid. | Commissions- u. Spe-\n  Joh. Rud. Riggenbach-Roschet. | ditionsgeschäft.\n  Carl Riggenbach. | \nRiggenbach, Joh. | Friedrich Riggenbach-Stehlin. | Bankgeschäft.\n  Ed. Bernoulli-Riggenbach. | \n  Wb. Val. Charlotte Riggenbach- | \n  Huber, Commanditair. | \n  Alfred Kaufmann, Prokuratträger. | \nRognon et Comp. | Eugen Heinrich Rognon. | Bankgeschäft. General-\n  Carl Eduard Rognon. | direction f. die Schweiz\n  Conrad Gysin, Sohn. | d. franz. Versicherungs-\n  Wb. Val. Rognon, geb. Schölly. | gesellschaft d. Phönix.\nRonus, Ch. | Chr. Ronus-Gemuseus. | Quincaillerie- u. Mer-\n  Chr. Ronus-VonSpeyr. | ceriewaaren.\nRochet, A. | Carl Rochet. | Rauchwaarenhandlung.\n  Emil Rochet. | \nRoth, J. C. | J. Ch. Roth, allein. | Agentur.\nRühlin et Comp. | J. G. Rühlin, allein. | Baumwollnestel.\nRueff, Gabriel. | L. Rueff-Braunschweig. | Flamm-, Gas-, Schmied-\n  L. Rueff-Lang. | kohlen u. Coakshdlg.\n   | en gros.\nRyhiner u. Söhne. | Wilhelm Ryhiner. | Floretspinnerei.\n  C. Ryhiner-Bischoff. | \n  J. Gust. Bernoulli-Oswald, Pro- | \n  kuraträger. | \nRyhiner, Carl. | Carl Ryhiner, allein. | \nRyhiner et Comp. | Jul. Ryhiner-Bischoff. | Seidenzwirnerei.\n  Fried. Kern-Bischoff. | \nSacher, Anton. | Anton Sacher, allein. | Ellenwaarenhandlung.\nVeuve Sagnol et fils aîné. | Wittwe Jeanne Marie Sagnol. | Bandappretur, Brannt-\n  Jean Marie Sagnol-Erlacher. | weinhdlg. u. Dampf-\n   | brennerei.\nSarasin, Hans Franz. | Carl Vischer-Merian. | Seidenbandfabrikation.\n  B. Vischer-Burckhardt. | \n  Ed. His-Heusler. | \n  Fritz His-Burckhardt. | \nSarasin et Comp. | Carl Sarasin-Sauvain. | Seidenbandfabrikation.\n  Rudolf Sarasin-Stehlin. | \n  Wilh. Sevin, Prokuratträger. | \n  Friedr. Siber, Prokuratträger. | \nSarasin, Felix, und Heußler. | Fel. Sarasin-Brunner. | Baumwollspinnerei.\n  Daniel Heußler-Thurneyßen. | \n  Aug. Stähelin-Brunner. | \nSchäffer, Friedrich. | Fr. Schäffer, allein. | Steinkohlenhandlung.\n  E. J. Marget, Prokuratträger. | \nScheuble, A. | Aug. Scheuble, allein. | Ellenwaarenhandlung.\nSchaffner, J. | J. Schaffner, allein. | \nSchaffter u. Dietiker. | J. Schaffter-Seiler. | \n  Melchior Dietiker-David. |",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10495,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2339,
+    "lines": 53,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:32:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p054",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p054.jpg",
+      "bytes": 1515223,
+      "sha256": "0a0977e764987993e124147badf74bdb53d83b2e4df3fbc205ccc818a6e1a10e",
+      "sha256_of": "original",
+      "working_copy": "1862_p054.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:31+00:00"
+  }
+}

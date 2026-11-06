@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p140",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p140.jpg",
+    "bytes": 1013694,
+    "sha256": "9c51d9f79c1fc346633b4da649dc481eed279ed57252385c61f8d9eb70ab84d5",
+    "sha256_of": "original",
+    "working_copy": "1841_p140.jpg"
+  },
+  "text": "57\nLanderer, Richard, Polizeidirektor. 160 Rebgaſse.\nLandolt, Friedrich, Bierbrauer. 231 Greifengaſse.\nLang, Eman., Weinhändler ſel., Wittwe, geb. Ofer. 229 Greifengaſse.\nLang, Samuel, Maurer. 260 Im Rumpel.\nLangmeſser, geb. Brenner, Wittwe. 68 Rheingaſse.\nLangmeſser, J. Heinr., Seiler und Holzſezer. 235 Greifengaſse.\nLangmeſser-Engel, Joh. Ulrich, Sattler. 375 Untere Rheingaſse.\nLe Chaud, Caspar, Gerbergeſell. 255 Im Rumpel.\nLeibzig, Peter Anton, Lohnkutscher. 309 a Im Klingenthal.\nLeuba, Hieron. Lucas, Uhrenmacher. 381 Krempergaſse.\nLindenmann, Friedrich. 339 Untere Webergaſse.\nLindenmeier, J. Rud., Lehrer am Waifenhause. 416 u. 417 Udengaſse.\nLinder, Wittwe, geb. Barbara Heusler. 319 Untere Webergaſse.\nLöhler, Joh., Beck. 147 Beim Riehen=Thor.\nLohner, Benedikt, Oberlehrer an der kathol. Schule. 106 Im Lindenberg.\nLok, Leonhard, Meßger. 156 Rebgaſse.\nLok, Franz, Stadtbote. 237 Greifengaſse.\nLok, Fr., Seidenfärber. 53—55 Rheingaſse.\nLok, Bernhard, Wirthschaft. 378 Bei der Rheinbrücke.\nLok, Achilles, Bater, Spezereihändler. 390 Krempergaſse.\nLuk, Felix, Weißbeß. 145 Beim Riehen=Thor.\nM.\nMäglin, Abraham, Meßger. 154 Rebgaſse.\nMäglin, Christoph, Meßger. 142 Beim Riehen=Thor.\nMärklin, Math., Bierbrauer. 169 Rebgaſse.\nMaßler, Fr., Schuhmacher. 251 Untere Rebgaſse.\nMaring, Jakob Friedrich, Knopfma cher. 380 Krempergaſse.\nMartin, Joh. Jakob, Flachmaler. 182 Rebgaſse.\nMafarey, Franz, Seidenfärber. 325 Badergäf klein.\nMäzinger, Peter, Schuhmacher. 179 Rebgaſse.\nMäzinger, Jungfer, Anna, und Frau Geiger, geb. Mäzinger. 88\nRheingaſse.\nMäzinger, Conrad, Schuhmacher. 44 Rheingaſse.\nMäzinger, Lucas, Spengler. 11 An der Rheinbrücke.\nMäzinger-Brenner, Jakob, Fischer. 78 Rheingaſse.\nMäzinger-Bloch, Bater, und Lucas u. Peter, Söhne, Fischer. 73\nRheingaſse.\nMeyenrock, Geschwister. (Spezereihandel.) 341 Untere Webergaſse.\nMeyenrock, Jak. Friedr., Miliz-Inspektor u. Liqueurfabrikant. 144\nBeim Riehen=Thor.\nMeyer, Jakob, Weißbeß. 228 Greifengaſse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6789,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1958,
+    "lines": 42,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0238,
+    "mean_line_chars": 45.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:59:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p140",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p140.jpg",
+      "bytes": 1013694,
+      "sha256": "9c51d9f79c1fc346633b4da649dc481eed279ed57252385c61f8d9eb70ab84d5",
+      "sha256_of": "original",
+      "working_copy": "1841_p140.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:59:06+00:00"
+  }
+}

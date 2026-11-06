@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p042",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p042.jpg",
+    "bytes": 979645,
+    "sha256": "4573818549319e7cb3e55367614dedc0bb39818c9df514346ec3fb3cd3f646ff",
+    "sha256_of": "original",
+    "working_copy": "1841_p042.jpg"
+  },
+  "text": "35\nNro.\n935 Burchhardt, Jungfern, Marie und Emilie.\n936 Wölleb, Magister Carl Rudolf, Pfarrer bei St. Elisabethen.\n937 * Knabenschule. — Boffardt, J. J., Oberlehrer.\n937 * a Töchternschule. — Klein, Wilh., Mädchenlehrer.\nAefchen = Vorstadt.\n938 Jselin-Wettstein, Daniel, Handelsmann.\n939 Gnöpff, Johannes, Weißbck.\n    Gnöpff, Rud., Bater.\n940 Burchhardt-Frey, J. J., Handelsmann.\n    Ryhiner, Carl, Handelsmann.\n941 Silbernagel, J. J., Nägelhandlung.\n    Van Laer, J. A. L.\n942 Christ-Ryburtt, J. J., Spezerei-handlung,\n943 Weissenburger, Ulrich, Weißbck.\n944 Imhof, Judith, geb. Meyer, Wittwe.\n945 * Werthemann, Geschwister, geh.\n    Lüthy, Ulrich.\n946 { Werthemann, Andre., Oberstlieutenant.\n    {      Jungfrau Margaretha.\n947 * Kehlstadt, Philipp, Tapezierer, geh.\n    Kehlstadt, Joh. Ludwig, Weißbck.\n    Gysin, Alexander, Lithograph.\n948 Merian, Rudolf, Sattler.\n949 { Gemuseus-Respingcr, Hieronymus, Handelsmann.\n950 { Respingcr, Benedikt, Handelsmann.\n    { Respingcr, Joh. Conrad, dito\n951 Kübler, Christ. Gottl. sel., Wittwe, geb. Grey.\n952 Rohner, J. Christoph, Schlosser.\n953 Hill, Alexander, Fabrikarbeiter.\n954 Görtler-Best, J. J., Handels-Commis.\n955 * Hauser-Görtler, David. (Dem Obigen geh.)\n956 Monus, Catharina, Jungfer.\n957 Mende, Benedikt, Hafner.\n    Bloch, Daniel, Handels-Commis.\n958 Kühn, J. J., Schuhmacher.\n959 u. 960 Horner, Daniel, Weißbck.\nSternengäßlein.\n961 * Urban, Heinrich, Kutscher.\n    Ummann, Rud., Steinhauer.\n962 Freyburger, Hieron. sel., Wittwe.\n963 Friedrich, J. J., Spetter.\n964 Baumgartner, Joh., Schuhmacher.\n965 Herbel, Eberhard, Zimmergeselle.\n    Aberle, J., Taglöhner.\n966 Schaub, Martin, Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4968,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1654,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.28,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:47:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p042",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p042.jpg",
+      "bytes": 979645,
+      "sha256": "4573818549319e7cb3e55367614dedc0bb39818c9df514346ec3fb3cd3f646ff",
+      "sha256_of": "original",
+      "working_copy": "1841_p042.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:03+00:00"
+  }
+}

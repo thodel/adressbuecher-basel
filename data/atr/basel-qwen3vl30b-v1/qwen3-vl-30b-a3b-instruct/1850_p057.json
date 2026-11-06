@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p057",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p057.jpg",
+    "bytes": 930866,
+    "sha256": "9fdee12f6aebb027c61bc677bc07073e1c5eed35de9ae71dd78ffdb69269e281",
+    "sha256_of": "original",
+    "working_copy": "1850_p057.jpg"
+  },
+  "text": "44\nAefchen = Quartier.\n989 Merian, Wittwe, Marg., geb. vonMechel.\n    Merian, F. F., Conducteur.\n    Ernst, H., Stempel-Commissär, pensionirt.\n990 Götz-Linder, Marg., Wittwe, Flachmaler.\n991 Gnöpf, Karl, Weißbeck.\n992 Stänz, F. E., Posamenter.\n    Sickinger, Heinrich, Bildhauer.\n993 Ruf, Johann Jakob, Fabrikferger.\n994 Fäggi-Seul, Wilh., Weißbeck.\n    Seul, F. F., Schneider.\n995 Feuerabend, Christof, Schuhmacher.\n996 (Magazin) Rufmaul, Michael, gehörend.\nBei und auf dem Thor.\n997 Rufmaul, Michael, Mechanikus.\n    Falkner, Jungfrau, M. E., Rentièr.\n998 Mähly, Jak. Kaspr., Küfer und Wirth.\n999 (Aefchen-Thor) Krug, Hieronimus, Thorzoller.\nHinter der Ringmauer.\n1000 Sprünglin, David, Maurermeister.\n    Ernst, Joh., Ferger.\n1001 Banga, Rudolf, Schneider.\n1002 Euler, Abraham, Handels-Commis.\nAefchen: Vorstadt.\n1003 Löliger, Wittwe, Wirthschaft. Jof. Löv\n    Meyer, Daniel, Spezierer.\n1004 Braun, Rudolf, Hafner.\n    Huber, Jungfrau, S., Kapitalistin.\n    Loz-Lüscher, Frau, Spezerei-handlung.\n1005 Böhme, F. B., Schreiner.\n    Fäggi, F. F., Wirth.\n    Fäggi, A. K., Bildhauer.\n1006 Fäggi, Adolf, Metzger.\n    Fiechter, Joh., Commis.\n    Böschenstein, Egd., Goldarbeiter.\nBrunngäfklein.\nG1006 Köchlin und Söhne, Bandfabrik.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4188,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1228,
+    "lines": 38,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0024,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p057",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p057.jpg",
+      "bytes": 930866,
+      "sha256": "9fdee12f6aebb027c61bc677bc07073e1c5eed35de9ae71dd78ffdb69269e281",
+      "sha256_of": "original",
+      "working_copy": "1850_p057.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:30+00:00"
+  }
+}

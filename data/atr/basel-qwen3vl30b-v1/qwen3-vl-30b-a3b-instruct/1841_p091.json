@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p091",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p091.jpg",
+    "bytes": 986996,
+    "sha256": "d454c27a08f2b3043fde0c578ea8bbbd374591cbeb75b8b5603cbe975ec99b3e",
+    "sha256_of": "original",
+    "working_copy": "1841_p091.jpg"
+  },
+  "text": "8\nBurckhardt-Werthemann, Eman. 1356 Rittergasse.\nBurckhardt, Bernhard, Glaser. 502 Adelberg.\nBurckhardt, Jungfern, Marie und Emilie. 935 Steinenberg.\nBurckhardt, Dan. fel., Wittwe, geb. Linder. 1491 St. Martin.\nBurckhardt, geb. Jfelin, Wittwe. 516 Hinter dem Spahlenthurm.\nBurckhardt, Margaretha, Jungfer. 1481 Augustinergasse.\nBurckhardt, Frau Rosina. 929 St. Elisabethen.\nBurckhardt, Wittwe, geb. Dor. Oschgi. 1696 Ruttelgässlein.\nBurckhardt-Hep, Wittwe. 525 Adelberg.\nBurckhardt-Hoffmann fel. Wittwe. 1211 Rittergasse.\nBurckhardt, geb. Heusler, Esther, Wittwe. 352 Spahlen-Borstadt.\nBurckhardt, Johannes, Plaz-Commandant. 828 Blömlein.\nBurckhardt, Carl, Bürgermeister. 1460 Münsterplatz.\nBurckhardt, Martin fel., Wittwe, geb. Keller. 1468, 1469, 1470\nMünsterplatz.\nBurckhardt, Rud., Oberst. 274 Lottergasse.\nBurckhardt-Keipinger, Albr., Rathsherr. 802 Bord. Steinen-Borst.\nBurckhardt, Andreas, alt Thorfchreiber u. Modelstecher. 826 Bord.\nSteinen-Borstadt.\nBürgin, Heinrich, Posamenter. 1701 Schnabelgässlein.\nBürgin, Joh. Jakob, Schuhmacher. 98 St. Joh.=Schwibbogen.\nBürgin, Carl, Buchbinder. 1088 Streitgasse.\nBürgin, Heinrich, Mezger. 831 Blömlein.\nBürgin, Elisabeth, geb. Singeisen. 642 Zunft zu Gartnern.\nGerbergasse.\nBürgin, Joh. Jakob, Wirthschaft. 660 Gerbergasse.\nBürgy, Joh., Seifenfieder und Weinschenk. 1147 u. 1148 Hinter\ndem Stöcklein.\nBürgy, Jakob, Kutscher. 1416 Spitalsprung.\nBuser, Samuel. 65 St. Johann-Borstadt.\nBuser, Joh. 99 St. Johann-Schwibbogen.\nBuser, Hieronymus, Pastetenbeck. 475 Oberer Spahlenberg.\nBuser, Peter, Schuhmacher. 1167 Gerbergasse.\nBuser, Fr., Kaufmann. 65 St. Johann-Borstadt.\nBuser, Georg Christoph. 969 Sternengässlein.\nBuser-Wüst, Joh., Weinschenk. 300 Spahlen-Borstadt.\nBuser, Dorothea, Jungfer. 1400 Spitalsprung.\nBuxtorf, Friedrich, Senfal. 456 Beim Spahlenthurm.\nBuxtorf, J. Rud., Pfarrer am Waifenhaus. 456 Beim Spahlenthurm.\nBuxtorf-Merian, Ludwig, Handelsmann. 886 Klosterberg.\nBuxtorf-Preiswerk, Christoph, Tabak- und Spezereihandlung. 1517\nBei der Rheinbrücke.\nBuxtorf, J. J., Hypothekeubuch-Berwalter. 735 Barfüßerplatz.\nBuxtorf, Wittwe, geb. Burckhardt. 221 Schwarze Pfahlgasse.\nBuxtorf-Bischoff, Andre., Bandfabrikant. 379 u. 380 St. Leonhards-\ngraben.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6962,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2212,
+    "lines": 47,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:52:50+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p091",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p091.jpg",
+      "bytes": 986996,
+      "sha256": "d454c27a08f2b3043fde0c578ea8bbbd374591cbeb75b8b5603cbe975ec99b3e",
+      "sha256_of": "original",
+      "working_copy": "1841_p091.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:52:50+00:00"
+  }
+}

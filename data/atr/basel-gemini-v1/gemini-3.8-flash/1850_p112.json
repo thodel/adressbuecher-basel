@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p112",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p112.jpg",
+    "bytes": 1218562,
+    "sha256": "ff6d42e8ae6f6621f1f3a487db6d09ee96f2251cdf5f61f251ff6ff12d4d0c91",
+    "sha256_of": "original",
+    "working_copy": "1850_p112.jpg"
+  },
+  "text": "99\nBoulerot, P. Ch. 1607\nBrand, Js., Alt-Gerichtsh. 54\nRud., Kerzenfabrik. 1018\nLeonh., Rothgerber *256\nBrandenberger, Konrad 1037\nBrandmüller, Heinrich 1660\nBrändlin, L., Modehlg. 136-37\nRud., Wirth 145\n-Nörbel, Wittwe 375\nR., Sohn, Flachmaler 375\nEd., Thierarzt 375\nFranz, Metzger 1563\nBraun, Rud., Hafner 1004\nF., Vat., Spezereihlg. 1591\nAndreas, Lederhdlg. 1535\n-Weiß, Wwe., Chrisch. 374\nJgfr., Car., Lehrerin 1491\nRud., Kunstmaler *43\nAndreas, Gerber *61\nJean, Vater *207-11\n-Kiefer, Johann *244\nAndr. de Samuel *249\n-Baumgartner, Joh. *357\nBraunschweig, Wittwe 1674\nBresin, M., Kaminfeger *102\nMartin, Weißbeck *124\nBreiter, Wilh., Commis 1644\nJ. J., Commis 1154\nBreitenstein, A., Wirth 177\nJ. J., Spezierer 186\n-Schaub, Frau 768\nBreithaupt, Jak. 1682\nBreiting-Heußler, Saml. 981\n-Schardt, P., Metzger 982\nBreck, L., Tabackfabr. 911\nBrenner-Fäsch, Aug. 103\nJ. Friedr., Med. Dr. 233\nPeter, Sekretär 439\n-Stähelin, F., Hdlsm. 507\nKarl, Dr. Jur., Advok. 1632\n-Sulger, Wwe., Luise 1182\n-Guéniard, Wittwe 1426\n-Sager, F., Commis *110\n[spalte 2]\nBretscher, J., Schuhm. 1120\nBricar, Sam., Rentier *143\nBricar-Stilli, Wittwe *400\nBrodbeck, J., Flachmal. 401\n-Spittler, F., Comm. 780\nBrodmann, J., Schuhm. *385\nBrolly, M. Tabackspinn. 881\nAnton, Fabrikarbeit. 1121\nFrz. Ant., Ferger 1685\nBrömmel, Friedr., Prof. *79\nBruckner, Abr., Diakon 693\nEd., Architekt 693\nu. Kober, (Bauhof) 879\nJ. J., Spezereihdlg. 1561\nSml., Handelsmann 1561\nRud., Kaufmann *418\nBruder, F., Lithograph 637\nBrudermann, H., Kostgeb. 213\nBrüderlin, A., Zuckerbeck 575\n-Schmid, R., Tuchhlg. 1644\nJoh., Commis *434\nBrugger, Jos., Commis 904\nBrühl, Wittwe 879A\nBrunner, Jak., Ferger 194\nAndreas, Commis 418\nDaniel, Schneider 1713\nValentin, Taglöhner *330\nJoh. Heinr., Küfer *387\nBrüstlin, Gg., Zimmerm. 338\nBucherer, Jb., Commis 314\nBücher, Joh., Schuhm. 324\nJ., Schuhm. u. Siegrist 472\nBüchle, R., Holzmüller 1283\nBüchlin-Schlichter, Wwe. *151\nBueß, Kath., Bettmach. 1036\nJ. J., Schreiblehrer *167\nBühler, M., Schneiderin 148\nBulacher, Fr., Conduct. 123\nEml., Metzger 483\nHier., Siegrist *133\nJoh., Seifenfabrik. *227\nBurckhardt, W., Bandfab. 53\nL. A., Criminalger.-Präs. 67",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10130,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2141,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.34,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:18:22+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p112",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p112.jpg",
+      "bytes": 1218562,
+      "sha256": "ff6d42e8ae6f6621f1f3a487db6d09ee96f2251cdf5f61f251ff6ff12d4d0c91",
+      "sha256_of": "original",
+      "working_copy": "1850_p112.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:22+00:00"
+  }
+}

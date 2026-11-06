@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p014",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p014.jpg",
+    "bytes": 1052579,
+    "sha256": "b2267c6eb6d94b345f8825685d2521290dea3ea768b5b7526ffa6c6d3d19fbc4",
+    "sha256_of": "original",
+    "working_copy": "1850_p014.jpg"
+  },
+  "text": "4\nSt. Johann=Quartier.\n77 Marolf, François, Schreiblehrer.\n78 Keller-Mazinger, Wittwe, Partikularin.\nMieg-Keller, Ludwig, Eisenbahn-Einnehmer.\n79 Schöck-Hindenlang, F. Ch., Kaufmann.\n80—81 Kespinger-Passavant, Wilhelm, Kaufmann.\n82 Bernoulli-deLachenal, Hier., Wittwe, Partikularin.\n83 Riffel, Joh., Med. et Chir. Dr.\n84 Luthringshauser, Heinrich, Kunstmaler.\n85 Kleiner, Leonh., Sattler.\nDeckinger, C. Küfer. (In Nr. 97.)\n86 Mazinger, Rud., Schlosser, Wittwe.\nMazinger, F. F., Commis.\nMazinger, Samuel, Commis.\nDeggeler, Bd. Werkführer der Schlosserei.\n87 Schmidt, Karl, Trödler.\n88 Frank, Fr., Schlosser.\nLok, Johann, Schlosser.\n89 Schäfer, Heinrich, Pintenschenk.\n90 Alweng, Rudolf, Weißbier.\nBurckhardt-Roth, Joh., Buchhalter.\nSt. Johann: Schwibbogen.\n91 Rapp, Joh. Konrad, Rentier.\n92 Comptoir von Passavant & Comp., Banquier.\nFselin-Passavant, Heinrich, Med. Dr.\nPassavant-Streckeisen, Eml., Wittwe, Rentière.\n93 Magazin.\n94 Heusler, Friedrich, Rentier.\n95 Nemise und Stallung.\n96 Roth, F. F., Postfaktor Alepiffronard Schmider.\n97 Unstein, Joh., Küfer.\nBernoulli, Joseph, Gerichtssubstitut.\n98 Bürgin, F. F., Schuhmacher.\n99 Wick, Emil, Mechanikus und Optikus.\nRoth-Sozin, Wittwe, Rentière.\n100 Künzlin, R., Angestellter beim Kriegskommissariat.\nBogel, Franz, Käsehandlung.\n101 Hoffmann-Schäfer, Ch. Heinr., Tabakhandlung.\nFreyler, Rud., Geschäfts bureau.\n102 Flick, Wittwe Theresia, Speziererin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4436,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1403,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:35+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p014",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p014.jpg",
+      "bytes": 1052579,
+      "sha256": "b2267c6eb6d94b345f8825685d2521290dea3ea768b5b7526ffa6c6d3d19fbc4",
+      "sha256_of": "original",
+      "working_copy": "1850_p014.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:35+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p127",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p127.jpg",
+    "bytes": 957654,
+    "sha256": "e5ccbbfdf9ade3aeb38f9d5e66a5262d4a68a25e6a665fbeaf5af49d44524f95",
+    "sha256_of": "original",
+    "working_copy": "1841_p127.jpg"
+  },
+  "text": "44\n\nSteinmann, Friedr. Benedikt, Schneider, Zunft zu Schneidern.\n  643 Gerbergasse.\nSteinmann, Jakob, Spengler, Zunft zu Bäckern. 1171 Freie Straße.\nSteinmann, Georg Friedrich, Schneider. 1397 Spitalsprung\nSternenberger, J. J., Wirth. 754 f Kohliberg.\nStierlin, Benjamin. 1552 Eisengasse.\nSting, Sam. Fr. sel. Wittwe, geb. Brang, Bandladen. 152\n  Fischmarkt.\nStohler, Wernh., von Zyfen. 1681 Kuttelgäßlein.\nStocker, Anton, Chorist, 2576 b Neue Vorstadt.\nStockmeyer, Abraham, Spezereihändler. 483 Oberer Spahlenberg.\nStockmeyer, Emanuel, Spengler. 1620 Untere Freienstraße.\nStockmeyer, Friedrich, Spezereihändler. 674 Gerbergasse.\nStöcklin, Sebast. Buchdrucker. 379 Oberer Klosterberg.\nStöcklin, Joh. Ulrich. 616 Hinter der Rümlinsmühle.\nStöcklin, Leonhard. Posamentier. 808 u. 809 Steinenbruck.\nStöcklin, Leonhard, Schuhmacher. 820 Kurzer Steg.\nStöcklin, Joh. Heinrich, Posamentier. 865 Thorsteinen.\nStössel, Rud., Kutscher. 1390 Am Bäumlein.\nStößel, Joh., Gasthaus zum Engel. 353 Spahlen-Vorstadt.\nStraumann, Joh., Posamentermeister, v. Bubendorf. 3 St. Joh.-Vorst.\nStreckeisen, Carl, Dr. Med. 108 Blumenrain.\nStreckeisen-Cäsar sel. Wittwe. 1365 Hinter dem Münster.\nStreckeisen, Dorothea, Jungfrau. 45 St. Johann-Vorstadt.\nStreitmatter, Andreas, Zimmergesell. 789 Vordere Steinen-Vorst.\nStreuber, Chr. Wilh., Rentier. 107 Blumenrain.\nStricker, Ludwig, Kupferdrucker. 679 Hinteres Gerbergäßlein.\nStrohmeyer, Michael, Metzger und Wirth. 730 Barfüßerplatz.\nStrub, Joh. Georg, Metzger. 1141 Weiße Gasse.\nStrub, Lucas, Sohn, Metzger. 1141 Weiße Gasse.\nStrübin, Joh., Uhrenmacher. 569 Todtengäßlein.\nStrübin, Heinrich, Zimmermann, von Liestal. 44 St. Joh.-Vorst.\nStrübin, Martin, Hafner. 1253 Malzgasse.\nStrübin, Joh., Weißbeck. 1237 St. Alban-Vorstadt.\nStrübin-Lotz, Niklaus, Metzger. 312 Spahlen-Vorstadt.\nStuber, Joh., Fabrikarbeiter, von Lohn, Kant. Solothurn. 585\n  St. Andreasplatz.\nStuder, Wittwe, geb. Dinkel, Schuhmacherei. 423 Heuberg.\nStückelberger, Andr., Handels-Commis. 1292 St. Alban-Thal.\nStückelberger, geb. Stückelberger, Wittwe. 1465 u. 1466 Münsterplatz.\nStückelberger, E. Ulrich, alt Pfarrer in Reigoldsweil. 416 Heuberg.\nStückelberger, Reinhard, Weißbeck. 322 Spahlen-Vorstadt.\nStückelberger, Joh. Jakob, Spanner. 1574 Hinter der School.\nStückelberger-Berri. 546 Adelberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9372,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2289,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 49.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:58:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p127",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p127.jpg",
+      "bytes": 957654,
+      "sha256": "e5ccbbfdf9ade3aeb38f9d5e66a5262d4a68a25e6a665fbeaf5af49d44524f95",
+      "sha256_of": "original",
+      "working_copy": "1841_p127.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:36+00:00"
+  }
+}

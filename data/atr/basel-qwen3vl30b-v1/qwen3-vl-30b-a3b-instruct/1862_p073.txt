@@ -1,0 +1,62 @@
+8
+Aeischenvorstadt.
+Nrn
+Haus-Nr
+Quar-
+tier.
+Alte
+Haus-Nro.
+Name des Hauses.
+Namen der Hauseigenthümer
+und Bewohner.
+15 IV. 1038 zum Raben. Chinger-vonSpeyr, Christof Math.
+Chinger-vonSpeyr, C. M., Banquier.
+Diehl, Ferdinand, Tabakfabrikant.
+Chinger u. Comp., Bankgeschäft.
+16 IV. 946 zum neuen Bau. Werthemann, Jgfr. Marg.
+Werthemann, Jgfr. Marg., Rentiere.
+17 IV. 1037 Chinger-vonSpeyr, Christof Math.
+Thoma, Jgfr., Modistin.
+Gardé, Jakob, Taffadiener.
+18 IV. 947 zum rothen Krebs. Merz-Tellenbach, Johann Jakob,
+Merz-Tellenbach, J. J., Bäcker.
+19 IV. 1036 Buek, Jgfr. Cath. Dorothea.
+Buek, Jgfr. Cath. Dor., Bettmacherin.
+Birgin, Johannes, Desfinateur.
+20 IV. 948 Merian-Christ, Benedict.
+Merian-Christ, Ben., Sattler.
+21 IV. 1035 Oppermann-Schweizer, W. Andr.
+Oppermann-Schweizer, W. A., Schrein.
+22 IV. 949. 950 zum Drachen. Gemuseus-Keipinger, Hieronimus.
+Gemuseus-Keipinger, H., Rentier.
+Gemuseus-Burckhardt, Albert, Kaufm.,
+Firma Ludw.Keipinger, Col.-W.-Hdlg.
+Thurneyssen-Gemuseus, Eduard, J. U. D.
+Keipinger-Preiswerk, A. M. Wb., Rent.
+Gemuseus, Fräulein Julie, Rentiere.
+23 IV. 1034 Oppermann-Schweizer, W. Andr.
+Oppermann-Schweizer, Wilh. Andreas,
+Schreinermeister.
+24 IV. 951 zum Winkeli. Schmidt-Walser, Daniel, Sohn.
+Schmidt-Walser, Dan., Sohn, Kübler.
+25 IV. 1033 Roth-Keller, Sophia, Wb.
+Roth-Keller, Soph. Wb., Kostgeberin.
+Fürst-Erhardt, Rudolf, Schneider.
+26 IV. 952 z. mittl. Löwenberg. Keller, Joh. Jakob.
+Keller, J. J., Kupferschmied.
+Lithy-Stotz, Fran Dor., Weißwollwäsch.
+27 IV. 1032 Hug-Heuzler, Maria, Wb.
+Wirk-Handschin, Sebäst., Posamenter.
+28 IV. 953 zum Löwenberg. Eisinger, Georg Joseph.
+Eisinger, G. J., Spengler.
+29 IV. 1032 A Hug-Heuzler, Maria, Wb.
+Thommen-Senn, Jak., Fabrikarbeiter.
+30 IV. 954 zum Kölinzek. Hauser-Gürtler, David.
+Hauser-Gürtler, David, Kaufmann.
+31 IV. 1031 Seifert-Zenni, Anton.
+Seifert-Zenni, Anton, Kostgeber.
+32 IV. 955 zum Lämmlein. Hauser-Gürtler, David.
+Seiler-Gürtler, Emil, Kaufmann.
+33 IV. 1030 Garnjobst-Schweizer, Verena, Wb.
+Garnjobst-Schweizer, Verena, Wb.
+Faust-David, Joh., Schneider.

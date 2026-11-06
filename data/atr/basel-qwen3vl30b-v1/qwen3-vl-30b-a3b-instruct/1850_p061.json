@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p061",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p061.jpg",
+    "bytes": 897158,
+    "sha256": "6630c2ff2636e877285ef0008a3e6572637aa007f0e954313c1825ff6cde29e6",
+    "sha256_of": "original",
+    "working_copy": "1850_p061.jpg"
+  },
+  "text": "48\nAefchen=Quartier.\n1076 Klingelfuß, Ed., Tabakladen.\nBuser, F. F., Feger.\nWalter, Emanuel, Kaufhaus-Commis.\nSpitalgäßlein.\n1077 BonSpeyr, Emil, Sekretair der Niederlassungs-\nCommission.\nBarbierstube.\na 1077 Magazin, obrigkeitlich.\nA 1077 \" von A. Bleiler.\nB 1077 \" Karl Geigy.\nStöcklin, F. F., Commis.\nBäumlein.\n1078-79 Merian-Weiß, A., Küfer.\nWeiß, Fgfr., Lisette, Modiste.\nGysin, F. F., Polizei-Commissär.\n1080 Christ, F. F., J. U. D., Notar, Statthalter des\nLandbezirks und Weinschreiber.\n1081 Kempf, Georg, Kutscher.\n1082 Schaub, Jakob, Schuhmacher.\n1083 Fischer, Johann, Tuchhandlung.\nNeue Straße.\nA 1083 Unbewohnt.\nB 1083 Heimlicher, F. F., Dr. Jur.\nHeimlicher, Wittwe, geb. Brenner.\nSchmidt-Brenner, A., Speditor. Comptoir in Nr. 1063.\nC 1083 Unbewohnt.\nD 1083 \"\n1084 Imhof-Roschet, Wittwe, Rentière.\nRoschet, Fgfr., Marg., Rentière.\nGysler, Sohn. Heinr., Leinwandhdlg.\nA 1084 Rybiner-Fischer, Christoph, Rentier.\nRybiner-Bischoff, Karl, Fabrikant.\nB 1084 Comptoir der Seidentrocknungs-Anstalt.\nLanderer, Baleria, Wittwe, Rentière.\nWagner-Mayr, A., Commis.\nC 1084 Unbewohnt.\nD 1084 \"\n1085 Siegfried, Nil., Griefer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4045,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1123,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 27.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p061",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p061.jpg",
+      "bytes": 897158,
+      "sha256": "6630c2ff2636e877285ef0008a3e6572637aa007f0e954313c1825ff6cde29e6",
+      "sha256_of": "original",
+      "working_copy": "1850_p061.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:47+00:00"
+  }
+}

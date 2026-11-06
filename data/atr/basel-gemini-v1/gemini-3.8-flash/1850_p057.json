@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p057",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p057.jpg",
+    "bytes": 930866,
+    "sha256": "9fdee12f6aebb027c61bc677bc07073e1c5eed35de9ae71dd78ffdb69269e281",
+    "sha256_of": "original",
+    "working_copy": "1850_p057.jpg"
+  },
+  "text": "44 Aeschen = Quartier.\n\n989 Merian, Wittwe, Marg., geb. vonMechel.\n  Merian, J. J., Conducteur.\n  Ernst, H., Stempel-Commissär, pensionirt.\n990 Götz-Linder, Marg., Wittwe, Flachmaler.\n991 Knöpf, Karl, Weißbeck.\n992 Stänz, J. C., Posamenter.\n  Sickinger, Heinrich, Bildhauer.\n993 Buß, Johann Jakob, Fabrikferger.\n994 Jäggi-Seul, Wilh., Weißbeck.\n  Seul, J. J., Schneider.\n995 Feyerabend, Christof, Schuhmacher.\n996 (Magazin) Kußmaul, Michael, gehörend.\n\nBei und auf dem Thor.\n\n997 Kußmaul, Michael, Mechanikus.\n  Falkner, Jungfrau, M. E., Rentière.\n998 Mähly, Jak. Kasp., Küfer und Wirth.\n999 (Aeschen-Thor) Krug, Hieronimus, Thorzoller.\n\nHinter der Ringmauer.\n\n1000 Sprünglin, David, Maurermeister.\n  Ernst, Joh., Ferger.\n1001 Banga, Rudolf, Schneider.\n1002 Euler, Abraham, Handels-Commis.\n\nAeschen-Vorstadt.\n\n1003 Löliger, Wittwe, Wirthschaft. [handschriftlich: gestrichen] [handschriftlich: Joh:s Löv]\n  Meyer, Daniel, Spezierer.\n1004 Braun, Rudolf, Hafner.\n  Huber, Jungfrau, S., Kapitalistin.\n  Lox-Lüscher, Frau, Spezereihandlung.\n1005 Böhme, J. B., Schreiner.\n  Jäggi, J. J., Wirth.\n  Jäggi, A. L., Bildhauer.\n1006 Jäggi, Adolf, Metzger.\n  Fiechter, Joh., Commis.\n  Böschenstein, Sgd., Goldarbeiter.\n\nBrunngäßlein.\n\nG 1006 Köchlin und Söhne, Bandfabrik.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5589,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1259,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0024,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:00+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p057",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p057.jpg",
+      "bytes": 930866,
+      "sha256": "9fdee12f6aebb027c61bc677bc07073e1c5eed35de9ae71dd78ffdb69269e281",
+      "sha256_of": "original",
+      "working_copy": "1850_p057.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:00+00:00"
+  }
+}

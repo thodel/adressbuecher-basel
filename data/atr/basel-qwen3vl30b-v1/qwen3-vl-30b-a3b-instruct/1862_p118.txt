@@ -1,0 +1,54 @@
+Gerbergasse.
+53
+Nro. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+37 | VI. | 657 | zum Leuchtenberg. | Hübicher-Keller, Rudolf.
+| | | | Hübicher-Keller, Rudolf Lederhändler.
+| | | | Hübicher, Rudolf, Spengler.
+38 | VI. | 642 | Zunft zu Gartnern. | Corporationsgut.
+| | | | Fischer-Miville, Emil, Mehlhdl. u. Wirth.
+39 | VI. | 658 | zur rothen Henne. | Ebner, gesch. Audran, Anna Maria.
+| | | | Erdin-Ebner, Franz Joseph, Commis.
+| | | | Altorfer-Weiß, Heinrich, Waagmeister.
+40 | VI. | 641 | 3. weiss. Windhund. | Trißbner-Wolfensberger, Ludwig.
+| | | | Trißbner-Wolfensberger, L., Buchbinder.
+41 | VI. | 659 | 3. klein. Christoffel. | Grethener-Jäggi, Jacob.
+| | | | Grethener-Jäggi, Jac., Bettfedernhdlg.
+42 | VI. | 640 | 3. vordern Greifen. | Bader-Schäfer, Johannes.
+| | | | Bader-Schäfer, Joh., Spezerei-handlung.
+43 | VI. | 660 | zum Friesef. | Uehlinger-Bulacher, Joh. Jakob.
+| | | | Uehlinger-Bulacher, F. F., Seiler.
+| | | | Rickenbacher, Gottlieb, Blichfenmacher.
+| | | | Mieg, Joh. Jakob, Apotheker.
+| | | | Mieg, F. F., Apotheker.
+| | | | Artmann, Julius August, Agent.
+44 | VI. | 639 | zum Ritter. | Buser-Meyer, Wb. Sophia.
+| | | | Buser-Meyer, Wb. Soph., Schuhmach.
+| | | | Heer-Tanner, Heinrich.
+| | | | Heer-Tanner, Heinr., Pelzwaaren-, Hut- und Rappenlager.
+45 | IV. | 1167 | | Buser-Meyer, Wb. Sophia.
+46 | VI. | 661 | zur Hütten. | Heer-Tanner, Heinrich.
+| | | | Heer-Tanner, Heinr., Pelzwaaren-, Hut- und Rappenlager.
+47 | IV. | 1166 | zur großen Treu. | Burger, Christian und Sommer- halder, Jakob.
+| | | | Sommerhalder-Burger, Jac., Spezierer.
+| | | | Burger-Haller, Christian, Graveur.
+48 | VI. | 662 | das alte Bad. | Gaf-Thurneyfen, Wb. Friederika.
+| | | | Gaf-Walter, Friedrich, Metzger.
+| | | | Meyer-Mohler, Joh., Commis.
+49 | IV. | 1165 | | Roth, Balthasar, Sohn.
+| | | | Roth, Balthasar, Sohn, Seidenagent.
+| | | | Firma u. Comptoir von Christen-Roth.
+| | | | Hofch-Roth, Wb. Rosalie, Woll- und Stickerrei-Geschäft.
+50 | VI. | 663 | zum Fürstenberg. | Haller-Marfort, Victor.
+| | | | Haller-Marfort, Victor, Küfer.
+51 | IV. | 1164 | 3. schwarz. Kolben. | Ott-Stählin, Friedrich.
+| | | | Ott-Stählin, Fr., Damenkleidermagazin.
+52 | VI. | 664 | zum rothen Krebs. | Singeisen-Schardt, Joh. Jak. Dan.
+| | | | Singeisen-Schardt, F. F. D., Buchbind.
+53 | IV. | 1163 | zum Ruderbach. | Gräff-Fäsch, Philipp.
+| | | | Gräff-Fäsch, Philipp, Coiffeur.
+54 | VI. | 665 | 3. hangend. Stein. | Thurneyfen-Schneider, Ludwig.
+| | | | Thurneyfen-Schneider, L., Weißgerber.
+55 | IV. | 1162 | zum guten Stein. | Herzog-Scheitlin, Achiles.
+| | | | Herzog-Scheitlin, Ach., Leinwandhdlg.
+| | | | Baumgartner-Scherrer, Wilh., Commis.
+| | | | Brombacher, Carl, Commis.

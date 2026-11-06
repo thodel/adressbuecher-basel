@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p051",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p051.jpg",
+    "bytes": 869436,
+    "sha256": "4ddca4860824fa02ea1315879ac3e21e215dacac78be885904a7868277030ebd",
+    "sha256_of": "original",
+    "working_copy": "1841_p051.jpg"
+  },
+  "text": "44\n\nNro.\n1202 * Forkart-Hoffmann.\n  Best, Hieronymus, Gerichtschreiber.\n1203 * Frey, Jungfrau, Salomea, geh.\n  Heusler, Andreas, Rathsherr.\n1203 a Iselin, Isaak.\n1204 Ecklin, J. Burckhard, Mechanikus.\n1204 a Oser, Leonhard, Oberlehrer. — Schulhaus.\n1205 Landerer, R. sel., Wittwe, geb. Bienz.\n\nRittergasse.\n\n1206 Christ, Remigius, Stadtrath.\n1207 Frey-Thurneyfen u. Christ, Bandfabrik.\n1208 Werthemann, L., sel. Wittwe Erben.\n1209 Bachofen-Merian, J. J., Handelsmann.\n1210 Burckhardt-Vischer, Carl.\n  Christ-Sarasin, Adolf.\n1211 Iselin-Burckhardt, Handelsmann.\n  Burckhardt-Hoffmann sel. Wittwe.\n1212 St. Alban-Schwibbogen.\n  Tschientschy, Joh. Heinrich, Mehlwäger.\n\nSt. Alban-Vorstadt.\n\n1213 * Von der Mühll-Hoffmann, L.\n  Forkart-Hoffmann, Rudolf.\n  Sarasin, L. A. sel., Wittwe, geb. Merian.\n1214 u. 1215 * Heuslers, R. sel., Erben geh.\n  Fischer, Friedrich, Professor.\n1216 Merian, Dan., Rathsherr sel. Wittwe, geb. Werthemann.\n1217 * Einem Verein zu Beförderung christl. theologischer Wissen-\n  schaft gehörend.\n  Beck, Tobias, Professor der Theologie.\n1218 Merian, Lucas, Rathsherr.\n1219 Hoffmann-Preiswerk, Emanuel.\n1220 Ebendemselben. Stähelin-Vischer, August.\n1221 * Keller, Wittwe, geb. Schuler, geh.\n  Häfelfinger, Joh., Ferger.\n1222 * Respinger, Wittwe, geb. Sarasin, sel. Erben.\n1223 Böllmy, Jakob sel., Wittwe.\n1224 Deck, Joh., Schneider.\n1225 * Burckhardt, Carl, alt Dreierherr.\n  Von der Mühll-Merian, Carl Georg.\n1226 * Bischoff-Bischoff, Hieronymus, geh.\n  Schuhmacher, J. G., Maurer.\n1227 Ebendemselben. Bernoulli, Eduard, Pfarrer.\n1228 Bischoff-Respinger, Hieronymus, Stadtrath.\n  Sarasin-Heusler, Carl.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7012,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1622,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:47:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p051",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p051.jpg",
+      "bytes": 869436,
+      "sha256": "4ddca4860824fa02ea1315879ac3e21e215dacac78be885904a7868277030ebd",
+      "sha256_of": "original",
+      "working_copy": "1841_p051.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:53+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p040",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p040.jpg",
+    "bytes": 1100082,
+    "sha256": "55e2311194add0bd786916d8122c1a75883ba81d8aeeff9d47d7e27f5b516a63",
+    "sha256_of": "original",
+    "working_copy": "1850_p040.jpg"
+  },
+  "text": "Steinen-Quartier.\n27\n\nSteinen-Quartier.\n\nSchnabelgäßlein.\n\n611 Schimpf, Andreas, Kunstmaler.\nWitt, Friedrich, Posamentirer.\nFischer, Hch., Sohn, Küfer.\nWüst, Leonhard, Schreiner.\n612 Fischer, J. H., Küfer und Essigsieder.\n\nHinter der Rümmelinsmühle.\n\n613 Schneider-Meyer, Wittwe, Mehlhdlg.\nSchneider, J. J., Maler.\nSchneider, Franz, Sohn, Grieser.\n614 Grüninger, Emanuel, Trödler.\n615 Oberer, Sebastian, Werkmeister.\nMeyer, Nikl., Seidenfärber.\n616 Stöcklin, Joh. Ulr., Zettlermeister.\n617 Langmesser, Elisabetha, geb. Gruber.\n618 Grüninger, Rudolf, Küfer.\n619 Merian, Gustav, Bierbrauer.\n620 Morin, Wittwe, Kostgeberin, Mehlhandlung.\n621 (Rümlinsmühle) Lippe, Geschwister.\nSeifert, Hch., Müller.\n\nGrünpfahlgäßlein.\n\n622 Landerer, Frau Ester.\nNäf, Frau Magdalena, Geschirrhandlung.\n623 Oberriedt, Joh. Georg., Spezerei-, Commissions-\nund Speditionshdlg.\nObrigkeitliches Stempelbureau.\n624 Kehlstadt, Joh. Philipp, Tapezierer.\nGötz, Wilhelm, Modehandlung.\n\nGerbergäßlein.\n\n625-26 Hübscher, Rud., Eisenbahnbeamter.\nJordan, J. F., Spezereihandlung.\n627 Müller, Wilhelm, Posamenter.\n628 (Badanstalt) Sigmund, Benj., Med. et Chir. Dr.\nZahnarzt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5661,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1139,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 29.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:10:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p040",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p040.jpg",
+      "bytes": 1100082,
+      "sha256": "55e2311194add0bd786916d8122c1a75883ba81d8aeeff9d47d7e27f5b516a63",
+      "sha256_of": "original",
+      "working_copy": "1850_p040.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:12+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p178",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p178.jpg",
+    "bytes": 1075487,
+    "sha256": "34dec16df442ce994fb2c80437c84fad284c80df810d96003aae22c239eb3fa3",
+    "sha256_of": "original",
+    "working_copy": "1841_p178.jpg"
+  },
+  "text": "— 25 —\n\nSchmidt, J. J., von Seon, K. Aargau, Lohnamtsarbeiter.\n  349 Ochsengasse.\nSchneider, Jakob, Zimmergesell. 422 Udengasse.\nSenn, Joh., v. Sissach, Fabrikarbeiter. 241 Ochsengasse.\nSiber-Lotz, Kaspar, Part. 46 Rheingasse.\nSiegfried, geb. Matzinger, Agnes, Wittwe. 198 Rebgasse.\nSiegrist, Franz, Schuhmacher. 147 Am Riehen-Thor.\n* Soller, Joh. Hier., Weißbäcker. 339 Untere Webergasse.\nStelzer, Leonhard, Schreiner. 27 Schafgäßlein.\nStierlin-Mathes, Christ. Ludw., Commis. 226 Greifeng.\nStückelberger, Jeremias, Faßsinner. 382 Krempergasse.\nStürchler, Joh. Baptist, von Arlesheim, Landjäger. 50\n  Rheingasse.\nSutter, Mich., sel. Wittwe, zum schwarzen Bären. 18\n  und 19 Rheingasse.\n\nT.\nTripet, Franz, Dr. d. Phil. 122 Obere Rebgasse.\nTripet, Friedrich, Kaufmann. 122 Obere Rebgasse\nTschopp, Christian, Fabrikarbeiter. 357 Sägergäßlein.\n\nU.\n* Uhlmann-Matzinger, Abraham, Ferger. 381 Krempergasse.\n\nV.\nVöllmy, Joh. Jakob, Ferger. 286 Webergasse.\nVon Brunn, geb. Braun, Marg. 141 Beim Riehenthor.\nVon Speyr, Lukas, Schlosser. 308 a. Im Klingenthal.\n\nW.\nWenk, geb. Spreng, Dorothea, Wittwe. 375 Untere Rheing.\nWenk, Nikolaus, von Alp, Gerbergesell. 355 Ochsengasse.\nWertenberg, Abraham, Schneider. 117 Obere Rebgasse.\nWüst, Joh., von Holzhausen, Zimmermann. 30 Rheing.\n\nZ.\nZäslein, Joh. Jakob, Commis. 100 Am Lindenberg.\nZäslein, Franz, Buchbinder. 4 Rheingasse.\nZäslein, geb. Falkeisen, Kath., Wittwe. 194 Rebgasse.\nZäslein, Franz, Part. 194 Rebgasse.\n\n4",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6294,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1455,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p178",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p178.jpg",
+      "bytes": 1075487,
+      "sha256": "34dec16df442ce994fb2c80437c84fad284c80df810d96003aae22c239eb3fa3",
+      "sha256_of": "original",
+      "working_copy": "1841_p178.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:36+00:00"
+  }
+}

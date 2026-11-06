@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p105",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p105.jpg",
+    "bytes": 981473,
+    "sha256": "eeb7b371da3c941fc49c2462b182b6a0d8b683c3ef8b6de7d8c88a957be42e55",
+    "sha256_of": "original",
+    "working_copy": "1841_p105.jpg"
+  },
+  "text": "22\n\nJersing-Zäslin, Wittwe. 1014 Aeschen-Vorstadt.\nJersing, Friedrich, Sohn, Commissions- und Speditionshandlung.\n  1014 Aeschen-Vorstadt.\nJesonig, Johannes, Schreiner. 1283 St. Alban-Thal.\nImhof, Andreas, Beck. 321 Spahlen-Vorstadt.\nImhof, Joh. Christoph, Oberst. 839 Roßmarkt.\nImhof, Joh. Friedrich, Buchbinder. 684 Hinteres Gerbergäßlein.\nImhof, B., Zoller. 1002 Hinter der Ringmauer.\nImhof, Wilhelm, Goldschmid. 1580 Sporrengasse.\nImhof, Conrad, Musiker. 404 Heuberg.\nImhof, Bernhard, Partikular. 410 Blumenrain.\nImhof, Samuel, Papierfabrikant. (Firma: Imhof'sche Papierfabrik.)\n  1285 St. Alban-Thal.\nImhof, Friedrich, Schuhmacher. 1258 Malzgasse.\nImhof, Joh. Jakob, Vater, Fuhrhalter. 404 Heuberg.\nImhof, Judith, geb. Meyer, Wittwe. 944 Aeschen-Vorstadt.\nImhof-Burckhardt, Joh. Ludw., Spezereihändler. 651 Gerbergasse.\nImhof-Heitz, Dr. Med. 602 Unterer Spahlenberg.\nImhof-Roschet, Joh. Jakob, Weißgerber und Lederhandlung. 1576\n  Sporrengasse.\nImhof-Falkner, Hieronymus, Sohn. 1642 Markt.\nImhof-Forkart, Kaufmann. 1515 Augustinergasse.\nImhof-Wenk, Hieronymus, Vater. 1642 Markt.\nImmler, Gottlieb, Instrumentenmacher. 443 Spießhofgasse.\nImmler, Wilhelm, Schreiner. 351 Spahlen-Vorstadt.\nJordan, Leonhard, Ferger. 657 Gerbergasse.\nIrion, Abraham, Maurer. 411 Trillengäßlein.\nIselin, Dietrich, alt Statthalter. 1268 St. Alban-Thorgasse.\nIselin, Remigius, Kunstmaler. 151 Fischmarkt.\nIselin, Isaak. 1203 a Luftgäßlein.\nIselin, Esther und Adelheid, Jungfrauen. 972 Sternengäßlein.\nIselin-Wettstein, Daniel, Handelsmann. 938 Aeschen-Vorstadt.\nIselin-Debary, Rudolf, Kaufmann. 274 a Lottergasse.\nIselin-Laroche, J. J., Kaufmann. 71 St. Johann-Vorstadt.\nIselin-Christ, Rud. 1312 St. Alban-Vorstadt.\nIselin-Burckhardt, Handelsmann. 1211 Rittergasse.\nIselin-Debary, Rud., Kaufmann. 70 St. Joh.-Vorstadt.\nIselin-Forkart, J. L., Wollentuchhandlung. 1312 St. Alban-Vorst.\nIselin-Iselin, Abraham. 250 St. Petersplatz.\nJucker, Benedikt, Musiklehrer. 191 Unterer Herbergberg.\nJucker, Ulrich, Handelsmann. 1672 Hutgasse.\nJuillerat, Ludw. David, Schreiblehrer. 1580 Sporrengasse.\nJung, Carl Gustav, Med. Dr. und Professor. 920 St. Elisabethen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8101,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2131,
+    "lines": 44,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.3,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:55:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p105",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p105.jpg",
+      "bytes": 981473,
+      "sha256": "eeb7b371da3c941fc49c2462b182b6a0d8b683c3ef8b6de7d8c88a957be42e55",
+      "sha256_of": "original",
+      "working_copy": "1841_p105.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:55:27+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p065",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p065.jpg",
+    "bytes": 867058,
+    "sha256": "5f0282f2cbd4a5614e77c38d19026cb0653dd7b3510631479d6c594aebfea8e4",
+    "sha256_of": "original",
+    "working_copy": "1841_p065.jpg"
+  },
+  "text": "58\n\nNro.\nMarkt.\n\n1642 Imhof-Falkner, Hieronymus, Sohn.\n  Imhof-Wenk, Hieronymus, Vater.\n1643 Miville, Achilles, Hutmacher.\n  Huber, Rudolf.\n  Geymüller, Andreas, Polizei-Commissär.\n1644 Brüderlin, Niklaus, Tuchhandlung.\n  Respinger, Wittwe, geb. Burckhardt.\n1645 * von Speyr, Joh. Conrad sel., Wittwe, geh.\n  Brändlin, Joh. Jakob, v. Fischenthal, Schuhmacher.\n1646 Ebenderselben Wohnhaus.\n1647 Huggenberger, Joh. Heinrich, Schneider.\n1648 Mitz, Ludwig, Knopfmacher.\n  Mitz, Wittwe, geb. Ziegler.\n1649 Basler, Johannes, Handelsmann.\n  Basler, Wittwe, geb. M. Elis. v. Mechel.\n1650 * Zunft zu Safran.\n  Heußler-Braun, Lucas, Traiteur.\n\nRüdengäßlein.\n\n1651 Frey, Mathias, Weinschenk.\n\nRindermarkt.\n\n1652 Sirt, Lucas sel., Wittwe, geb. Weitnauer, Wirthschaft.\n1653 * Ebenderselben geh.\n  Keller-Zeller, Friedrich, Kaufhausangestellter.\n1654 * Dem Kanton geh.\n  Schaub, Georg, Fabrikarbeiter.\n1655 } Kummer, Joh. Conrad, Rathsbote und Weinschenk.\n1656 }\n1657 Krayer, Emanuel, Unterbestäter.\n1658 Ewig, Joh. Georg, Gastwirth zum Schnabel.\n1659 * Zunft zu Kürschnern, unbewohnt.\n1660 Brandmüller-Eckenstein, Heinrich, Spezereihandlung.\n  Wahr-Bené, Carl, Handelsmann.\n  Steiger, Wittwe, geb. Marg. Eckenstein.\n1661 } Baur, Johannes, Gerber.\n1662 }\n  Schneider, Emanuel, Gerichtssamtmann.\n  Widmer-Tiß, Joh. Christ., Handels-Commis.\n1663 Bohny, Niklaus, Handelsmann.\n1664 Studler, Samuel, von Seengen, Hutmacher.\n1665 Dreiß, Christian, Handelsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5634,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1440,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.72,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:49:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p065",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p065.jpg",
+      "bytes": 867058,
+      "sha256": "5f0282f2cbd4a5614e77c38d19026cb0653dd7b3510631479d6c594aebfea8e4",
+      "sha256_of": "original",
+      "working_copy": "1841_p065.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:49:36+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p132",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p132.jpg",
+    "bytes": 1066142,
+    "sha256": "0bfe6fb9f4aafa8f3df04ed198eff368e78318d88263cd5f39d3bfdf842a6c60",
+    "sha256_of": "original",
+    "working_copy": "1841_p132.jpg"
+  },
+  "text": "49\nWeiß, Em. Georg, Notar und Gerichtsamtmann. 634 Gerbergässlein.\nWeiß, Joh. Heinrich, Magister, Hochzeit- u. Sterberegisterschreiber. 681 Hinteres Gerbergässlein.\nWeiß, Adam, Wirthschaft. 814 Bordere Steinen-Vorstadt.\nWeissenburger, Wittwe, geb. Sixt. 309 St. Petersplatz.\nWeissenburger, Ulrich, Weißbeck. 943 Aeschen-Vorstadt.\nBeniger, Ruprecht, Gürtler. 1120 Pfluggasse.\nBeniger, Rudolf, Gürtler und Weinschenk. 1727 Hutgasse.\nWeitnauer, Jakob Friedrich, Metzger. 1173 Freie Straße.\nWeitnauer, Em., Tapezierer. 1542 Eisengasse u. 191 Unt. Herbergberg.\nWeitnauer, Joachim, Oberst und Tapezierer. 230 Ob. Herbergberg.\nWeitnauer, Achilles, Spitalmeister. 1084 Am Bäumlein.\nWeitnauer, Friedrich, Schreiner. 797 Bordere Steinen-Vorstadt.\nWeitstich, Joh., Uhrenmacher. 1419 Spitalsprung.\nWencß-Brandmüller, H., Wechfel-Senfal. 1721 Hutgasse.\nWendel, Joh. C., Wittwe. 1387 u. 1388 Am Bäumlein.\nWerenfels, Fr., M., pens. Lehrer am Gymnasium. 1480 Augustinergasse.\nWertenberg, Rudolf, Bürstenbinder. 584 Schneidergasse.\nWertenberg, Abraham, Bürstenbinder. 1582 Sporrengasse.\nWertenberg, Joh., Thorschreiber. 1276 St. Alban-Thorgasse.\nWertenberg, Christoph. 698 St. Leonhardsberg.\nWerthemann, L., sel. Wittwe Erben. 1208 Rittergasse.\nWerthemann, Andr., Oberstlieutenant. 946 Aeschen-Vorstadt.\nWerthemann, Jungfrau, Margaretha. 946 Aeschen-Vorstadt.\nWerthemann = Von der Mühl, Kaufmann. 242 a Kirchgässlein.\nWerthemann = Bürckhardt, Kaufmann. 249 a St. Petersplatz.\nWettstein, Jak. Heinr., Apotheker sel. Wittwe. 1076 Am Bäumlein.\nWezel, Martin, Papierformenmacher. 1317 St. Alban-Vorstadt.\nWezel, J. J., Papierer. 1279 St. Alban-Vorstadt.\nWick, Joh. Jakob, Diakon. 244 Kaltkellergässlein.\nWidmer=Tis, Joh. Christ., Handels-Commiss. 1662 Kindermarkt.\nWiedemann, Barthol., Handelsmann. 1069 Tiefe.\nWiedenfeller, Maria, geb. Refer. (Pack- und Wachstuchverkauf.) 236 St. Petersgasse.\nWieland, Em., Commissions- u. Speditions-Handlung. 416 Heuberg.\nWieland, Jungfer, Anna Maria. 908 St. Elisabethen.\nWieland, Hieronymus, alt Dreierherr. 919 St. Elisabethen.\nWieland, Joh. Heinrich sel., Wittwe. 1456 Schlüffelberg.\nWieland=Rottmann, Carl. 915 u. 916 St. Elisabethen.\nWieland=Bischoff, Oberst sel., Wittwe. 1348 St. Alban-Vorstadt.\nWierz, Daniel, Sohn. 1168 Rüdengässlein.\nWierz, Daniel, Stadt=Canzlist. 1617 Markt.\nWiesner, M., Flachmaler. 460 Hinter dem Spahlenthurm.\nWiefendanger, Jakob, von Ossingen. 128 Kronengasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7545,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2409,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 55.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:58:18+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p132",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p132.jpg",
+      "bytes": 1066142,
+      "sha256": "0bfe6fb9f4aafa8f3df04ed198eff368e78318d88263cd5f39d3bfdf842a6c60",
+      "sha256_of": "original",
+      "working_copy": "1841_p132.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:58:18+00:00"
+  }
+}

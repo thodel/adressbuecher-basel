@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p181",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p181.jpg",
+    "bytes": 965857,
+    "sha256": "c5af025258366f7198c4b25b0e455d96c2f2157d1e27f39dbe23db837473b98e",
+    "sha256_of": "original",
+    "working_copy": "1841_p181.jpg"
+  },
+  "text": "- 28 -\nDettwiler, Konrad, sel. Wittwe, geb. Probst, von Langenbruck, Lehenfrau. 259 St. Jakobstrafe. D. B.\nDeschler, Gregor, von Innwil, Gärtner. 102 Schüzenmattengäfklein. U. B.\nDörflinger, Kaspar, von Rutterau, Kutscher und Gärtner. 229 St. Jakobstrafe. D. B.\nDürst, Joh. Georg, von Kerenzen, Lehenmann. 132 Ulschwilergasse. U. B.\nC.\nEcklin, Jakob Friedrich, Pfarrer. 120 Burgfelderstr. U. B.\nEntinger, Anton, Papier-Fabrikant. 185 Lohkampfberg. U. B.\nF.\nFalkner, Samuel, Gutsbesitzer. 258 St. Jakobstrafe. D. B.\nFischer, Christian, von Klein-Hüningen, Modelltecher. 278 Bei Brüglingen.\nFischer, Heinrich Herrmann, von Mannheim, Tabakfabrik. 182. Binningersteg. U. B.\nFrey, Ulrich, von Awengen, Lehenmann. 30 Klingelberg U. B.\nFuchs, Benedikt, von Gottstadt, Lehenmann. 2 Straße nach St. Louis.\nG.\nGiefer, Jakob, von Altishausen, Leinenweber. 193 Binningerstrafe. D. B.\nGlafer, Ursula und Abraham, von Binningen, Gutsbesitzer. 161 Lohkampfberg. U. B.\nGlafer, Emanuel, von Binningen, Handlanger. 161 Lohkampfberg. U. B.\nGlafer, Jakob, von Binningen, Gutsbesitzer. 195 Steinen- thorberg. D. B.\nGlafer, Heinrich, Taglöhner, von Binningen. 195 Steinen- thorberg. D. B.\nGlaz, Peter, Prov. an der St. Leonh. Knabenschule. 192 Binningerstrafe. D. B.\nGök, Samuel, v. Wyl, R. Zürich, Gutsbesitzer. 13 Straße nach St. Louis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4415,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1322,
+    "lines": 22,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 59.14,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p181",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p181.jpg",
+      "bytes": 965857,
+      "sha256": "c5af025258366f7198c4b25b0e455d96c2f2157d1e27f39dbe23db837473b98e",
+      "sha256_of": "original",
+      "working_copy": "1841_p181.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:08+00:00"
+  }
+}

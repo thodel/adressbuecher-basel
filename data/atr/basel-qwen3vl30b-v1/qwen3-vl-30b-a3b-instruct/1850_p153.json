@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p153",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p153.jpg",
+    "bytes": 935634,
+    "sha256": "5e1b00f772969a1fbbaca1d3e5024e7350b13cddd7f6fae54dc8016eb7251c0a",
+    "sha256_of": "original",
+    "working_copy": "1850_p153.jpg"
+  },
+  "text": "140\n597 Emanuel Preißwerck .\n915 Dietr. Preißwerck & Cie. Rudolph Paravicini-\nBischof.\nEmil Thurneisen-Paravicini, Com. & Procuraträger.\nF. F. Bischof, J. U. D. Com.\nPreißwerck-Keller Dietr. Preißwerck-Keller, Ami Const. Pettermand, Procuraträger.\n64A\nR.\n1192 Theodor Raillard . Theodor Raillard.\n1442 Emanuel Ramsperger . Emanuel Ramsperger.\n*180 Carl Renz, Sohn . Carl Renz, Sohn.\n1581 Gebrüder Kespinger . Carl Merian.\n949 Ludwig Kespinger . Hieronymus Gemuseus-\nKespinger.\nJoh. Christof Eschudi, Procuraträger.\nNichter-Linder . Joh. Jakob Nichter.\nCarl Nichter.\nJoh. Jakob Altwegg.\n1599 Jakob Nieber . Jakob Nieber.\n1582 Nieber-Meyer . Jakob Nieber-Meyer.\n1202 F. Riggenbach . Johannes Riggenbach.\nFritz Riggenbach, Sohn.\n830 Hr. Riggenbach . Heinrich Riggenbach-\nSchmid.\n1540 Ch. Ronus & Holzach Christoff Ronus.\nEmanuel Holzach fel.\nWittwe, ohne Unterschrift.\nCarl Merian, Procuraträger.\n492 Ruef & Bicard. Joseph Ruef.\nAbraham Bicard.\nAbraham Ruef.\nAdolf Ruef, Sohn, Procuraträger.\n516 Chr. Rumpf . Christoph Rumpf.\n*354 Rühlin & Comp. Joh. Georg Rühlin",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3550,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1060,
+    "lines": 35,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.31,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:18:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p153",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p153.jpg",
+      "bytes": 935634,
+      "sha256": "5e1b00f772969a1fbbaca1d3e5024e7350b13cddd7f6fae54dc8016eb7251c0a",
+      "sha256_of": "original",
+      "working_copy": "1850_p153.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:18:23+00:00"
+  }
+}

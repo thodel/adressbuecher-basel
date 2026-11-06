@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p042",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p042.jpg",
+    "bytes": 1482139,
+    "sha256": "7650e25a6b5d5cbde436659f10f6fd04c6d864f6ebeb42807a4171cc08b0769f",
+    "sha256_of": "original",
+    "working_copy": "1862_p042.jpg"
+  },
+  "text": "Ragionenbuch. | XXXIX\n\nHandlungsfirma. | Interessenten u. Firmaführer. | Natur des Geschäfts.\nBischoff u. Söhne. | Wilh. Bischoff-Burckhardt. | Bandfabrik Nr. 72 St.\n  | Albert Bischoff-Sarasin. | Albanthorgraben.\n  | Emil Bischoff-Geigy. | \nBischoff, Peter. | Peter Bischoff, allein. | \nBischoff, Fritz. | Fr. Bischoff, allein. | Agentur.\nBleiler, Jakob. | Friedr. Hindermann-Schölly. | Colonialwaaren en gros\n  | Heinr. Götz-Hauser. | et détail.\nBloch, Rudolf. | Rud. Bloch, allein. | Col.Manufacturwaaren.\nBloch et Comp., Gebr. | David Bloch-Schwob. | Roher Haut- und Fell-\n  | Bernard Bloch-Schwob. | handel.\n  | Aron Schwob-Bloch. | \nBohny, Ambrosius. | Wb. Maria Bohny. | Mercerie u. Tafelsenf-\n  | Ed. Bohny, Sohn. | Fabrikation.\nBohny, J. J. | J. J. Bohny, allein. | Werkz.-u.Fourniturhdlg.\nBolliger-Miville, J. | Joh. Bolliger-Miville, allein. | Brod.- u. Wollgarnhdlg.\nBortmann, Jacob. | Jacob Bortmann, allein. | \nBraun, Andreas. | Joh. Braun-Kiefer, allein. | Tabakfabrik.\nBraunschweig, Napht. | Moses Braunschweig-Vorach. | Manufact.-Handlung.\n  | Leopold Vorach-Lang. | \n  | Emanuel Braunschweig. | \n  | Gustav Vorach. | \nBraunschweig, Raph. | Jacq. Braunschweig-Hirtz. | Colonial-Waaren.\nBrek, Mörgelin et | Louis Brek. | Tabakfabrik.\nComp. | Joh. Mörgelin. | \n  | J. J. Bischoff-Kestner, Comman- | \n  | ditair. | \n  | Jungfrau Susanna Merian, Com- | \n  | manditaire. | \n  | Rathshr. Adolf Christ als Vogt | \n  | von Gustav Christ, Comman- | \n  | ditair. | \n  | D. Heusler-Christ, Commanditair. | \nBrenner-Fäsch. | Aug. Brenner-Fäsch, allein. | Leinen-, Wollen- und\n  |  | Baumwollenwaaren,\n  |  | Mercerie, Leder für\n  |  | Buchbinder u. Sattler,\n  |  | nebst andern Fourni-\n  |  | turen.\nBrissaud, E. A. | Emil Augustin Brissaud, allein. | Commissionair & Expedi-\n  |  | teur. Correspondance\n  |  | de la Comp. générale\n  |  | de Messagerie A.Kel-\n  |  | lermann et Comp. à\n  |  | Paris. Hôtel de la Ci-\n  |  | gogne Nr. 25.\nBrolly u. Albiez. | Mart. Brolly. | Chales- u. Seidenwaa-\n  | Adolf Albiez. | renhandlung en gros et\n  | L. u. M. Burckhardt, Comman- | détail.\n  | ditair. | \n  | J. J. von Martin Burckhardt, Com- | \n  | manditair. | \n  | A. Rieder, Prokuratträger. | \n  |  | C",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8200,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2202,
+    "lines": 55,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0364,
+    "mean_line_chars": 37.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:30:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p042",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p042.jpg",
+      "bytes": 1482139,
+      "sha256": "7650e25a6b5d5cbde436659f10f6fd04c6d864f6ebeb42807a4171cc08b0769f",
+      "sha256_of": "original",
+      "working_copy": "1862_p042.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:40+00:00"
+  }
+}

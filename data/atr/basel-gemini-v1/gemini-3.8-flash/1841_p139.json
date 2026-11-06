@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p139",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p139.jpg",
+    "bytes": 917104,
+    "sha256": "79d364bfca544e7d057986b60ae25cfb74d2409c3fbb0e1e84614ee8a241b5d1",
+    "sha256_of": "original",
+    "working_copy": "1841_p139.jpg"
+  },
+  "text": "56\n\nHug, J. J., Maurer. 439 Udengasse.\nHunziker, geb. Cath. Heußler. 66 Rheingasse.\n\nJ.\n\nJäggi, J. J., Beck. 120 Obere Rebgasse.\nJanot, Louise, von La Chaux-de-Fonds. 6 An der Rheinbrücke.\nJenny, Jak., Ferger. 381 Krempergasse.\nJenny, Joh., Spezerei- und Käsehändler. 239 u. 240 Ochsengasse.\nImhof-Mieg, J. J., Partikular. 293 Webergasse.\nJöri, Wittwe, geb. Barb. Meyer. (Spezereihandel.) 286 Webergasse.\nIsenegger, Heinrich, Vater, Hafner. 6 An der Rheinbrücke.\nIsenegger, Heinrich, Sohn, Hafner. 28 Rheingasse.\nIselin, Charlotte, geb. Bienz, Lohnwascherin. 129 Kirchgäßlein.\nIselin, Joh. Ludwig, Partikular. 217 Greifengasse.\nIselin-v. Reichenstein, Ludwig, Rentier. 149 Beim Riehen-Thor.\n\nK.\n\nKeller, Gottfried, Mechaniker. 283 Webergasse.\nKellermann, Joh. Chr., Apotheker. 224 Greifengasse.\nKern, Elias, Rathsherr. 317 Im Klingenthal.\nKern, J. J., Vater, Partikular. 284 Webergasse.\nKestenholz, Dietrich, Lohnwascher. 264 a Im Rumpel.\nKestenholz, M., von Lupsingen, Pfannenflicker. 361 Sägergäßlein.\nKirschner, Wilh., Lohnkutscher. 68 Rheingasse.\nKöchlin, Magdalena, geb. Kuster, Gypser. 45 Rheingasse.\nKray, Zacharias, Fischer. 30 Rheingasse.\nKrattiger, Joh., Schneider. 429 u. 430 Udengasse.\nKrebs, Math. sel., Wittwe, Schuster. 37 Rheingasse.\nKrebs, Joh., Fabrikferger. 166 Rebgasse.\nKrey, Frau Pfarrer, geb. Hagenbach. 122 Obere Rebgasse.\nKromer, Emanuel, Metzger. 186 Rebgasse.\nKruse, Marg., Wittwe, geb. Gamper. 305 u. 306 Im Klingenthal.\nKühn, Lucas, Wirthschaft. 292 Webergasse.\nKuhn, Ursus Jos., Steinhauergesell. 269 Im Rumpel.\nKuhny, Leonhard, von Frenkendorf, Lehrer. 132 Kirchgäßlein.\nKundert, Fridolin, von Bettschwanden, Taglöhner. 85 Rheingasse.\n\nL.\n\nLämmlein, Georg sel., Wittwe. 153 Rebgasse.\nLanderer, geb. d'Annone, Wittwe. 92 Rußgäßlein.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7852,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1762,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:00:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p139",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p139.jpg",
+      "bytes": 917104,
+      "sha256": "79d364bfca544e7d057986b60ae25cfb74d2409c3fbb0e1e84614ee8a241b5d1",
+      "sha256_of": "original",
+      "working_copy": "1841_p139.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:12+00:00"
+  }
+}

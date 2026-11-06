@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p076",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p076.jpg",
+    "bytes": 955271,
+    "sha256": "b165fb92c1d50dc590028ddeebe10e42b99a7e4901103474c591e50814678347",
+    "sha256_of": "original",
+    "working_copy": "1841_p076.jpg"
+  },
+  "text": "69\nNro.\n174 Socin-Heusler, Bernhard, Rathsherr.\n175 * Lok, Friedrich, Seidenfäber.\n176 * Pfarrhaus. Bischoff, J. J., Pfarrer bei St. Theodor.\nHeusler, Abraham, Candidat der Theologie.\n177 Oszwald, Mathias, Architekt.\n178 Best, Lucas, Bater, Part.\nBest, Christoph, Sohn, Metzger.\n179 Mazinger, Peter, Schuhmacher.\n180 Renz, Carl, Sohn, Chemiker.\nHuber, Heinrich, Seidenfäber.\n181 Merian, Daniel, Partikular.\n182 Lok, Friedrich, Seidenfäber, geh.\nMartin, Joh. Jakob, Flachmaler.\n183 Weber, Heinrich, Kunstmaler.\nGukwiler, Ignaz, Kunstmaler.\n184 Schneider, Samuel, alt Reallehrer und Organist im Münster.\n185 Burckhardt, Samuel, Weißbeck.\n186 Kromer, Emanuel, Metzger.\nEschopp, Rudolf, Seidenfäber.\n187 Siegrist, Franz Jos., Dr. Med.\n188 { Huber, Hieronymus, Weinschenk.\n{ \" Joseph, Hauptmann.\n\" Bulacher, Hieronymus, Bater.\n189 Walliser, Conrad, Schreiner.\n190 Stengelin, Jonathan, Wagner.\n191—192 * Der Handels-Ragion Andr. u. Rud. Sulger geh.\nSulger-Stähelin, Andr., Kaufmann.\nSt. Bläsi-Quartier.\nNebgasse.\n193\n195 ∫ abgebrochen.\n196\n194 (195) Zäslin-Bleyenstein, Theodor, Part.\nParavicini-Zäslin, Felix, Notar.\n197 Paravicini-Burckhardt, Leonhard.\n198 Siegfried, Rudolf, alt Standesreuter.\n199 Reuenthaler, geb. Briccard, Wittwe.\nWierz, Joh. Jakob, Commis.\n200 * Pfarrhaus. Münch, Chr., Diakon bei St. Theodor.\n201 * Stengelin, Jonathan, Wagner.\nHottenfen, Carl Aug. Fried., Gerber.\n202 Schardt, Peter, Küfer.\nParrayon, Anton, von Lyon, Dessinateur.\n203 * Obrigkeitlich. Einfahrt zum Clara-Bollwerk.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4535,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1500,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.63,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:34+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p076",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p076.jpg",
+      "bytes": 955271,
+      "sha256": "b165fb92c1d50dc590028ddeebe10e42b99a7e4901103474c591e50814678347",
+      "sha256_of": "original",
+      "working_copy": "1841_p076.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:34+00:00"
+  }
+}

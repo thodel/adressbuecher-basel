@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p114",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p114.jpg",
+    "bytes": 1044016,
+    "sha256": "38f10e3bc1344ec2a7d34c8a06ccd26e070ba66605c9195a0da7659859f6b3c8",
+    "sha256_of": "original",
+    "working_copy": "1841_p114.jpg"
+  },
+  "text": "31\n\nMieg, Achilles, Bierbrauer. 1274 St. Alban-Thorgasse.\nMieg, J. J., Med. Dr. und Professor. 751 St. Leonhardsgraben.\nMiescher, Professor. 111 Blumenrain.\nMinder, Melchior, Gegenschreiber. 159 Fischmarkt.\nMitz, Ludwig, Knopfmacher. 1648 Rindermarkt.\nMitz, Wittwe, geb. Ziegler. 1648 Rindermarkt.\nMiville, J. J., Candidat. 1474 Augustinergasse.\nMiville, Achilles, Hutmacher. 1643 Markt.\nMiville, geb. Fäsch, Wittwe. 1474 Augustinergasse.\nMiville, Jak. Fr., Thorschreiber. 19 St. Johann-Vorstadt.\nMiville-Socin, J. J., Waaren-Sensal. 139 Blumengasse.\nMöcklin, Rud., Gefangenwärter. 695 Auf dem St. Leonh.-Kirchhof.\nMöschinger, Wittwe, geb. Roos, Lohnwascherin. 679 Hinteres\n  Gerbergäßlein\nMohler, Schwestern. 1396 Spitalsprung.\nMohler, Heinrich, Landjäger. 1019 Brunngäßlein.\nMoll, Joh. Christoph, Küfer. 1130 Weiße Gasse.\nMontfort, Handels-Commis. 1172 Freie Straße.\nMoser, Christian, Steinhauer-Polier. 839 Roßmarkt.\nMühlethaler, Heinrich, Sackträger. 290 Spahlen-Vorstadt.\nMüller, Heinrich, Sohn, Gasthof zum schwarzen Ochsen. 326\n  Spahlen-Vorstadt.\nMüller, Heinrich, Spezereiladen. 463 Hinter d. Spahlenthurm.\nMüller, Wilh., Maler. 382 St. Leonhardsgraben.\nMüller, Franz, Gastgeber zum schwarzen Bären. 1008 Aeschen-Vorst.\nMüller, Leonhard, Steinmetz. 215 u. 216 Im Winkel oder St.\n  Johann-Graben.\nMüller, Friedrich, Maler. 354 Spahlen-Vorstadt.\nMüller, Daniel, Hafner. 878 Thorsteinen.\nMüller, Jakob, am Kaufhaus. 530 Imbergäßlein.\nMüller, Conrad, Schuhmacher. 1421 Freie Straße.\nMüller, Heinrich. 478 Oberer Spahlenberg.\nMüller, Joh. sel., Wittwe (Metzgers). 872 Thorsteinen,\nMüller, Felix, Wirthschaft. 627 Grün Pfahlgäßlein.\nMüller, J. J., Vater. 345 Fröschgasse.\nMüller, Jakob sel., Wittwe, Knopfmacher. 1433 Freie Straße.\nMüller, geb. Wüst, von Birret, Kantons Aargau. 96 St. Johann-\n  Schwibbogen.\nMüller, Joh. Jakob, Appreteur. 1357 Rittergasse.\nMüller, Joh. Georg, Professor. 1452 Schlüsselberg.\nMüller, Christ. Jakob, Spettermeister. 431 Heuberg.\nMüller, Candidat. Schulhaus. 560 St. Peterstiftsgasse.\nMüller, Joh. Baptist, Hausknecht. 844 Hintere Steinen-Vorstadt.\nMüller, Joh. Jakob, Brunnmeister. 866 Thorsteinen.\nMüller-Schölly, Albr., Wechsel-Sensal. 766 Vord. Steinen-Vorst.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9042,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2197,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 46.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:56:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p114",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p114.jpg",
+      "bytes": 1044016,
+      "sha256": "38f10e3bc1344ec2a7d34c8a06ccd26e070ba66605c9195a0da7659859f6b3c8",
+      "sha256_of": "original",
+      "working_copy": "1841_p114.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:56:44+00:00"
+  }
+}

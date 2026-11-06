@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p145",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p145.jpg",
+    "bytes": 925544,
+    "sha256": "cccbbf64535fc9dddc3fdf73f759ca0c36b20684468dbf240d24b86f7aed8619",
+    "sha256_of": "original",
+    "working_copy": "1850_p145.jpg"
+  },
+  "text": "132\n\n1561 Samuel Bruckner . . | Joh. Jakob Bruckner-\n  Eckenstein.\n  Rudolf Bruckner-Eglin.\n  Ferner hat nur die Un-\n  terschrift:\n  Saml. de Saml. Bruckner.\n1644 Nikl. Brüderlin . | Niklaus Brüderlin.\n1517 | Burckhardt &\n  Buxtorf | Christof Buxtorf.\n1054 | Burckhardt &\n  VonderMühll | J. G. VonderMühll-\n  Burckhardt.\n  Karl VonderMühll.\n  J. R. Weibel, Procurat.\n867 Carl Leon. Burckhardt . . | Carl Leonh. Burckhardt.\n50 Hs. Balth. Burckhardt u. Sohn | Joh. Jak. Dietschy.\n  Rudolf Lichtenhahn,\n  Procuraträger.\n1357 Dietrich Burckhardt . . | Isaak Achilles Iselin.\n  J. J. Labhardt | Procu-\n  J. de J. Iselin | raträger.\n1402 Leonh. u.\n  Martin Burckhardt . . | Martin Burckhardt.\n  Eduard Burckhardt.\n1640 Christ. de\n  Christoph Burckhardt . . | Christoph de Christoph\n  Burckhardt.\n510 J. L. . Buxtorf-Merian . | Joh. Ludwig Buxtorf-\n  Merian, Procuraträg.\n377 | Buxtorf-Bischoff | Andr. Buxtorf-Bischoff.\n  Andr. Buxtorf, Sohn,\n  Procuraträger.\n\nC.\n\n942 J. J. Christ-Kyburt | Joh. Jak. Christ-Kyburt.\n192 | Courvoisier & Cie. | Ludwig Courvoisier-\n  VonderMühll.\n  Georg Ludwig Courvoi-\n  sier, Sohn.\n  Theophil Linder-Cour-\n  voisier.\n  August Courvoisier,\n  Procuraträger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7443,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1183,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0698,
+    "mean_line_chars": 25.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p145",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p145.jpg",
+      "bytes": 925544,
+      "sha256": "cccbbf64535fc9dddc3fdf73f759ca0c36b20684468dbf240d24b86f7aed8619",
+      "sha256_of": "original",
+      "working_copy": "1850_p145.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:45+00:00"
+  }
+}

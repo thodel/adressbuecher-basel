@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p084",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p084.jpg",
+    "bytes": 978058,
+    "sha256": "d6cdbb6a41f2130d5faf8b655b9927b7a1d784b36fd62c2a22b3b2558d7dd140",
+    "sha256_of": "original",
+    "working_copy": "1841_p084.jpg"
+  },
+  "text": "Groß: Basel.\nAlphabetisch geordnetes Namens-Register.\nN.\n\nAberle, J., Taglöhner. 965 Sternengäßlein.\nAbt, Daniel, Posamenter. 841 Hintere Steinen-Borstadt.\nAbt, Heinrich, Metzger, Wittwe. 1135 Weiße Gasse.\nAbt, J., Rutscher. 1314 St. Alban-Borstadt.\nAckermann, Peter, Weinschenk. 976 u. 977 Sternengäßlein.\nAlbiez, Joh., Knecht, aus dem Badischen. 194 Unt. Herbergberg.\nAllioth, J. Siegm., Kaufmann. 919 St. Elisabethen.\nAllemann, Urs Jos., Zimmergeselle, aus dem Kanton Solothurn. 922 St. Elisabethen.\nAlt, Dan., Bater, Stubenverwalter. (Wirthsch.) 637 Herberggäßlein.\nAltorfer, Heinrich, Messerschmid. 658 Gerbergasse.\nAlmans, Joseph Wilhelm, Hutmacher. 1541 Eifengasse.\nAmman, Rudolf, Steinhauer. 961 Sternengäßlein.\nAmman, Achilles, Siebmacher. 1179 Freie Straße.\nAmmon, J. Thoni, Wagner. 343 u. 344 Fröschgasse.\nAncklin, Joseph, Schreiner. 765 Bordere Steinen-Borstadt.\nAnstain, J. J., Küfer. 1336 St. Alban-Borstadt.\nAnstain, Joh., Küfer. 97 St. Johann-Schwibbogen.\nAntoni, Georg Heinrich, Kaufmann. 607 Unterer Spahlenberg.\nArnz, Peter Gottl., Tuchhändler u. Färber. 813 Bord. Steinen-Borst.\nAtinger, Jakob, Flachmaler. 294 Spiegelgasse.\nAß, Bernhard fel., Wittwe, geb. Lindemeyer, Buchbinder. 1755 Schneidergasse.\nAwengen, Carl, Commis. 522 Adelberg.\nAwengen, J. J. fel., Wittwe, geb. Dietzsch. 267 a Neue Borstadt.\nAwengen, Rudolf, Weißbek. 90 St. Johann-Borstadt.\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4510,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1375,
+    "lines": 28,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 48.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:51:13+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p084",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p084.jpg",
+      "bytes": 978058,
+      "sha256": "d6cdbb6a41f2130d5faf8b655b9927b7a1d784b36fd62c2a22b3b2558d7dd140",
+      "sha256_of": "original",
+      "working_copy": "1841_p084.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:13+00:00"
+  }
+}

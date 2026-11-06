@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p142",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p142.jpg",
+    "bytes": 1053932,
+    "sha256": "3a47bd56769a5c3ae36c33b759bc04410d2d5e033a090059d5a6f69d8329f87f",
+    "sha256_of": "original",
+    "working_copy": "1850_p142.jpg"
+  },
+  "text": "129\nWybert-Schmid, Commis 1593\n-Hug, Eml., Med. Dr. 1628\nWydler-Heußler, Wittwe 2\nZahn-Rognon, Ed. 1255\nZäslin, D., Waarensensal 14\n  Eml., Kaufmann 14\n  u. Baumann 22A\n  H., Schleifer 131\n  -Falkeisen, Kaufmann 259B\n  Comptoir 1491\n  -Streckeisen, Handlung 333\n  -vonMechel, K., Ferger *14\n  -Bleienstein, Wittwe*193-96\n  Franz, Buchbinder *221\n  Hch., Thorschreiber *221\nZeinler, Wwe., Trödlerin 1503\nZeller-Brunner, Markus *370\n[spalte 2]\nZeller-Keller, Schwest. *344\nZemp, Ant., Lithograph 324\nZentgraf, Wilh., Kaufm. *249A\nZiegler, Jgfr. Elisab. 295\nZimmerlin-vonSpeyr, A. 116\n  -Preiswerk, Wwe. Cath. 67\nZimmermann, Karl, Cand. 1A\n  Gabriel, Wascher 794\n  Peter, Kutscher 961\n  -Früh, Wittwe 1752-53\nZindel, Jakob, Müller *323\nZollinger, Marx, Gärtner 544\nZüllig, Sebastian 134\nZumbrunn, Heinrich 1297\nZumkehr, Fr., Stuhlschr. *83\nZürcher, Hch., Schneider *99\nZwilchenbart-Blum, Consul 120\n11",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6892,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 898,
+    "lines": 37,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0033,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:23:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p142",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p142.jpg",
+      "bytes": 1053932,
+      "sha256": "3a47bd56769a5c3ae36c33b759bc04410d2d5e033a090059d5a6f69d8329f87f",
+      "sha256_of": "original",
+      "working_copy": "1850_p142.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:23:27+00:00"
+  }
+}

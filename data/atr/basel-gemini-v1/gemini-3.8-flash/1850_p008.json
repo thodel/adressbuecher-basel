@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p008",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p008.jpg",
+    "bytes": 1202370,
+    "sha256": "9af3c20f360e319e90bb02d75b740df1ec468f3df5543db7fd7398c61ba62a49",
+    "sha256_of": "original",
+    "working_copy": "1850_p008.jpg"
+  },
+  "text": "Vorrede.\n\nDer Anlaß der neulichen Volkszählung hatte viel-\nseitig den Wunsch erregt, ein neues Adressenbuch der\nStadt zu besitzen.\n  Die verdankenswerthe Bereitwilligkeit, mit welcher\ndie Original-Tabellen der Bevölkerungs-Aufnahme zur\nBenützung anvertraut worden, die freundliche Weise der\nHH. Quartierschreiber, die Revision der Druckbogen zu\nbesorgen, sowie der eigene Eifer etwas Gediegenes zu\nleisten, lassen den Herausgeber eine günstige Aufnahme\ndes vorliegenden Werkchens hoffen.\n  Von der Ansicht ausgehend, ein Adressenbuch\nder Stadt zu geben, wurden, entgegen dem bisher\nbefolgten System, die Bewohner der Bänne weggelassen,\ndafür aber das Verzeichniß der städtischen Einwohner,\nnamentlich die zahlreiche Klasse der Miethsleute um\nso vollständiger aufgenommen und überdieß noch das\nrevidirte Ragionenbuch und das Verzeichniß der\nPräsidenten sämmtlicher kantonalen und städtischen\nBehörden, Collegien und Commissionen beigefügt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5337,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 938,
+    "lines": 20,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.7,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p008",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p008.jpg",
+      "bytes": 1202370,
+      "sha256": "9af3c20f360e319e90bb02d75b740df1ec468f3df5543db7fd7398c61ba62a49",
+      "sha256_of": "original",
+      "working_copy": "1850_p008.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:02+00:00"
+  }
+}

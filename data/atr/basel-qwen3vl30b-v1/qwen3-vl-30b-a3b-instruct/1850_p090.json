@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p090",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p090.jpg",
+    "bytes": 1031002,
+    "sha256": "19a4ed97c8e1142c732b712e61c1842e1783b51e46de23193aff8f55fbb884bf",
+    "sha256_of": "original",
+    "working_copy": "1850_p090.jpg"
+  },
+  "text": "Stadt=Quartier.\n77\n1713 Brunner-BonAry, Ol., Schneider.\nBaumberger, Andr., Ferger.\nHinter der Münz.\n1714 Geßler, Emanuel, Tuchhandlung.\n1715 (Magazin) Brandmüller-Eckenstein, Heinr., geh.\nHutgasse.\n1716 Ott, Friedrich, Schneider.\n1717 Wafer, Jakob, Spengler.\n1718 Pfaff, Johann, Bürstenbinder.\n1719 Stählin, Anton, Stuhlschreiner.\n1720 Keller, Georg, Schuhmacher.\n1721-22 Wenk-Brandmüller, Heinr., Fabrikant d. Knochen-\ndüngmehls.\n1723 Geßler, Heinrich, Meßger.\n1724 Dubost-Holzach, Wittwe M. Kath., Ausschnitthdlg.\n1725 Kern-Siegrist, Joh. Bern., Nothgerber.\nBarth, Samuel, Geschäftsmann.\n1726 Leuba, Luk. Hieronimus, Uhrenmacher.\n1727 Schärr, Schneider.\nHaas, Stephan, Schirmfabrikant.\n1728 Weniger, Rud. Eml., Weinschenk.\nHöhlin, Hier., Postfaktor.\nBeim Kornmarktbrunnen.\n1729 Gemuseus-Respinger, Wittwe, Rentière.\n1730 Hübcher, Rudolf, Bater, Gerber.\nHübcher, Fch., Kaufmann.\n1731 Schermer-Bloch, Ant., Tuchhandlung.\nHolzach, Friedrich, Partikular.\n1732-33 Burckhardt-Kündig, Wittwe Rosine, Mehlhandlung.\n1734 Ryck-Bratsch, Geschirrhandlung.\n1735 Sandreuter-Oser, C., Südfrüchtehdlg. u. Commis.\nEnholz-Sandreuter, Karl, Decorations-Maler.\nHinter der School.\n1736 Maring-Bogt, Wittwe, Trödlerin.\nOtt, Joh. Kasph., Geckler u. Kappenmacher.\nOtt, Joh. Christ., Kaminfeger.\n1737 Schwarz, Friedr., Commissions-, Logis- u. Stellen-\ngesuch-Bureau.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4494,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1343,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.6,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p090",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p090.jpg",
+      "bytes": 1031002,
+      "sha256": "19a4ed97c8e1142c732b712e61c1842e1783b51e46de23193aff8f55fbb884bf",
+      "sha256_of": "original",
+      "working_copy": "1850_p090.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:59+00:00"
+  }
+}

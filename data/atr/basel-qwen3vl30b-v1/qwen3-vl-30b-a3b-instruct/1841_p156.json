@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p156",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p156.jpg",
+    "bytes": 1150534,
+    "sha256": "db9c4bf2a3b2f115792e1c85eb667d24bf4de849f238c3999bcab63bf373fc94",
+    "sha256_of": "original",
+    "working_copy": "1841_p156.jpg"
+  },
+  "text": "— 3 —\n\nBloch, Rudolf, Sohn. 804 Bordere Steinen-Vorstadt.\nBlumenthal, Gottl. Typograph. 351 Spahlen-Vorstadt.\nBohl, Valentin, Lohnbedienter. 481 Oberer Spahlenberg.\nBohny, Nif., Speddermeister. 620 Hinter der Kümlinsmühle.\nBolli, Melch., v. Behringen, Fabrikausseher. 121 Blumenplatz.\nBorst, August, Schneider. (Wirthschaft.) 1525 Fischmarkt.\nBoulerot, Karl Aleris, franz. Salz-Administ. 1579 Sporrenq.\n* Braun, Rud., Hafner. 1004 Ueschen=Vorstadt.\nBreitenstein, geb. Heupler, Ursula, Wittwe, Kremplerin.\n817 Bordere Steinen=Vorstadt.\nBrenner, geb. Sulger, Wittwe, 1182 Freienstraße.\nBrenner=Sarer, Böhm. Glaswaarenhandlung. 1596 Eifeng.\n* Bruckner, Em., Roch u. Weinschenk. 482 Oberer Spahlenberg.\nBruckner, Samuel, Kaufmann. 1561 Schneidergasse.\n* Brüderlin, Nikolaus, Handelsmann. 1649 Kindermarkt.\nBrüstlin, Georg, Zimmermann. 338 Fröschgasse.\nBurckhardt, Anna Katharina, Wittwe. 943 Ueschen=Vorstadt.\nBurckhardt, Ursula, Rent. 1045 a. St. Alban=Graben.\nBurckhardt, Christoph, Med. Dr. 1601 Sporrenngasse.\nBurckhardt, Christ. de J. J., Kaufm. 1349 St. Alb. Vorstadt.\nBurckhardt, Mart., sel. Wittwe, geb. Keller. 1475 August. Gasse.\nBurckhardt, Rud., d. Theol. Dr., Lehrer am Gymnasium.\n1477 Augustiner-Gasse.\nBurckhardt, Rud., Med. Dr. 1510 Rheinsprung.\nBurckhardt, Hier. de Benedikt, Kaufm. 1601 Sporrenngasse.\nBurckhardt=Zäslein, Elis. 274 b. Lottergasse.\nBurckhardt=Jäsch, Emanuel. 725 Barfüsserplatz.\nBurckhardt=Iselin, Ros., Wittwe, 249 a. St. Petersplatz.\nBurckhardt=His, Martin, Rentier. 1470 Münsterplatz.\nBurckhardt=Burckhardt, Em., Pfarrer. 512 Adelberg.\nBurckhardt=Bischer, Maria, Wittwe. 1509 Rheinsprung.\nBurckhardt=Iselin, Jerem., sel. Wittwe. 249 b St. Petersplatz.\nBurckhardt=Haller, Rud., Med. Dr. 611 Schnabelgäcklein.\nBurckhardt=Preiswerk, Wilh., Kaufmann. 1470 Münsterplatz.\nBurckhardt=Roth, Joh., Kaufm. 1 St. Johann=Vorstadt.\nBürgin, Jakob, Hausknecht. 1318 St. Alban=Vorstadt.\nBufer, Johannes, Faktor auf der Post. 1608 Sporrenngasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6251,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1961,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 50.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:00:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p156",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p156.jpg",
+      "bytes": 1150534,
+      "sha256": "db9c4bf2a3b2f115792e1c85eb667d24bf4de849f238c3999bcab63bf373fc94",
+      "sha256_of": "original",
+      "working_copy": "1841_p156.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:00:07+00:00"
+  }
+}

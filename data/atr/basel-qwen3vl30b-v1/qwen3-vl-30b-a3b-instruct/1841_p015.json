@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p015",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p015.jpg",
+    "bytes": 894832,
+    "sha256": "80aeb9e05f82069356ce85eba061b7262cbed31131aa31c573c56c705e510b74",
+    "sha256_of": "original",
+    "working_copy": "1841_p015.jpg"
+  },
+  "text": "8\nNro.\n187 Seul, J. J., Fabrikarbeiter.\n    Hofer, Heinrich, Schneider.\n188 Martin, Georg, Schreiner.\n189 Kupferschmid, Heinrich, Schlosser.\n190 Eckert, Jos., Professor der Mathematik, von Dielheim.\n191 Zucke, Benedikt, Musiklehrer.\n    Weitnauer, Emanuel, Tapezierer.\n192 Courvoisier-Bon der Mühl, Kaufmann.\n193 Dubois, August, Schuhmacher.\n194 Albiez, Joh., Knecht, aus dem Badischen.\n195 * Joh. Conrad, Albrecht geh.\n    Rumpf, Chr. fel. Wittwe.\n196 Fischer, Andreas, Meßger.\n197 Scherb, Balthasar, Schneider.\n    Bogt, Joh., Grabmacher.\n198 Pfister, Jos., Kriminalgerichtsweibel.\n199 Bleuler, Joh., Fabrikarbeiter, von Herrliberg.\n200 Ründig, Joh., Meßger.\n201 Stupanus, Jeremias, Buchbinder.\n202 Münch, Heinrich, Schlosser.\n203 Biermann, Rudolf, Handelsmann.\nSpiegelgasse.\n204 Schneider, Daniel.\n    Uttinger, Jakob, Flachmaler.\n205 Gassert, Franz, Nikl. fel. Wittwe.\n206 Meyer, J. J., Kübler.\n207 Uster, Joh. Jakob.\n    Edlin, Eduard, Privatlehrer.\n208 * Meyer, Gedeon, Notarius.\nSchwarze Pfahlgasse.\n209 * Müller-Sutter, Drei-Königen-Wirth geh.\n210 Schneider, Martin, Schuster.\n211 Faconnier, Karl, Seidenfärber, von Kleinhüningen.\n    Heggendorf, Georg, Schneider.\n212 Baumgartner, David, Feger.\n213 Schimpf, Sebastian, Schreiner, Wittwe.\n    Schimpf, Sebastian, Schreiner, von Altenstadt.\n    Schwarz, Th., Schneider.\n214 Lukas-Bischof geh.\n    Spahn, Joh. Ad., Fabrikarbeiter, von Albertshausen.\nIm Winkel.\n215 u. 216 Müller, Leonhard, Steinmeß.\n217 Schmid, J. R., Seifen- und Kerzenfabrikant.\n218 Püllich, Emanuel fel., Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4534,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1538,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:15+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p015",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p015.jpg",
+      "bytes": 894832,
+      "sha256": "80aeb9e05f82069356ce85eba061b7262cbed31131aa31c573c56c705e510b74",
+      "sha256_of": "original",
+      "working_copy": "1841_p015.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:15+00:00"
+  }
+}

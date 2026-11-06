@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p051",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p051.jpg",
+    "bytes": 911632,
+    "sha256": "dc1ac8905b80276e5c17155312f9c7c03dd9239c56728876bce82f05eb87d57c",
+    "sha256_of": "original",
+    "working_copy": "1850_p051.jpg"
+  },
+  "text": "38\nSteinen=Quartier.\nKlosterberg.\n839 (Steinenkloster) Kirchen- u. Schulgutsverw. geh.\nDavid, Heinrich, Verwalter.\nNidecker, Ogg., Commis.\nHintere Steinen-Vorstadt.\n840 Stöcklin, Sch., Posamenter,\n841 Ungerer, Achiles, Hafner. Murkij Mofon, Pummicf.\n842 Gysin, Konr., Handels-Commis.\nSpreyermann-Märklin, Wittwe, Elisab.\n843 Siegrist, Eml., Mezger.\n844 Müller, Johann Baptist, Hausknecht.\nPalmert, Caspar, Ferger.\n845 (Magazin) Stähelin, Gebrüder, gehörend.\nUnterer Klosterberg.\n846-47 Hug-Heukler, Wittwe Marie, Rentièrè.\nBrübler, Elisab., Hüppenbäckerin.\n848 Tschopp-Schwob, Johann, Handels-Commis, Beck.\nHintere Steinen-Vorstadt.\n849 Christen, Wittwe, Magd., Spezereihandlung.\n850 Schuler, Id., Nothgerber.\nGlock, Rud., Agent bei der badischen Eisenbahn.\n851 Lichtenhahn-Holzach, Wittwe.\nSeidel-Fürstenberger, F., Fabrikant.\nThorsteinen.\n852-52A Schneider-Platter, Eml., Hufschmied.\nSchäublin, F. F., Lehrer.\nGermann, F. G., Nägelhandlung.\n853 Paravicini-Merian, Lud., Zimmermann.\nWahr-Sulzmann, F. Rentier.\nSchellenberg, Ludwig, Speditor.\n854 Bürgin, Joh. Heinr., Kerzen- und Seifenfabrikant.\nKern-Schmerber, Wittwe Louise.\n855 Boffart, Andreas, Lifeur.\nMäglin, F., R., Spezereihandlung.\n856 Schweizer, Joh., Posamenter.\n857 Bürgin, F. F., Posamenter.\nA 857 Weibel, Sch., Apreteur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4266,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1285,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0256,
+    "mean_line_chars": 31.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p051",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p051.jpg",
+      "bytes": 911632,
+      "sha256": "dc1ac8905b80276e5c17155312f9c7c03dd9239c56728876bce82f05eb87d57c",
+      "sha256_of": "original",
+      "working_copy": "1850_p051.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:03+00:00"
+  }
+}

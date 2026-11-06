@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p158",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p158.jpg",
+    "bytes": 1108013,
+    "sha256": "ad288ac0da0d98093163228aa061df7313fca40c1954856fb0297883600e7c12",
+    "sha256_of": "original",
+    "working_copy": "1850_p158.jpg"
+  },
+  "text": "Verzeichniß\nder\nPräsidenten sämmtlicher kantonalen und städtischen\nBehörden, Collegien und Commissionen.\n\nGroßer Rath:  Herr Burckhardt-Keller.\nKleiner Rath:  „ Amtsbürgermeister.\nGroßer Stadtrath:  „ Bischoff-Nespinger.\nKleiner Stadtrath:  „   „\nAppellations-Gericht:  „ Rud. Burckhardt-Keller.\nAllmosen-Amt:  „ Stadtrath J. Bloch.\nBau-Collegium:  „ Rathsherr S. Minder.\nBau-Amt:  „ Stadtrath J. Bloch.\nBau-Experten-Commission:  „   „ Kern.\nBau-Gericht:  „ Architekt Riggenbach.\nBeleuchtungs-Commission:  „ Stadtrath Basler.\nBrand-Versich.-Commission:  „ Rathsherr Fch. Stumm.\nBrandschaden-Schätzung:  „ Stadtrath J. Bloch.\nBürger-Commission:  „   „\nCivil-Gericht:  „ F. Schnell, J. U. D.\nCriminal- u. Correct.-Gericht:  „ L. A. Burckhardt, J. U. D.\nEhe-Gericht:  „ P. Hagenbach.\nErziehungs-Collegium:  „ Rathsherr P. Merian.\nEinquartierungs-Commission:  „ Stadtrath R. Forkard.\nEisenbahn-Commission:  „ Rathsherr A. Bischoff.\nFinanz-Collegium:  „   „ B. Socin.\nGescheid, diesseits:  „ A. Ryhiner-Schönauer.\nGescheid, jenseits:  „ Rud. Wegner.\nHandels-Collegium:  „ Rathsherr M. Oswald.\nHandwerks-Collegium:  „   „ A. Stähelin.\nHandlungs-Commitee:  „ Saml. Köchlin.\nHypotheken-Verwaltung:  „ A. Iselin.\nJustiz- u. Polizei-Collegium:  „ Rathsherr A. Christ.\nKaufhaus-Kommission:  „   „ C. Geigy.\nKirchen- u. Schulgut-Colleg.:  „   „ A. Christ.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5687,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1343,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 38.5,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:25:04+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p158",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p158.jpg",
+      "bytes": 1108013,
+      "sha256": "ad288ac0da0d98093163228aa061df7313fca40c1954856fb0297883600e7c12",
+      "sha256_of": "original",
+      "working_copy": "1850_p158.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:04+00:00"
+  }
+}

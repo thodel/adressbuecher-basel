@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p180",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p180.jpg",
+    "bytes": 1085343,
+    "sha256": "9c21b4f77d2e8becf343b90597a999aa8f45e61684f1669d8a9d51d9c6a5b16a",
+    "sha256_of": "original",
+    "working_copy": "1841_p180.jpg"
+  },
+  "text": "— 27 —\n\nBernoulli, Christoph, Professor. 98 Burgfelderstraße. U. B.\nBidert, Jakob, von Bärenwil, Mattenknecht. 183 Loh-\n  stampfberg. U. B.\nBircher, Kasp., v. Luthern, Gutsbesitzer. 33 Klingelberg. U. B.\nBircher, Joseph, von Luthern, Gutsbesitzer. 97 Burg-\n  felderstraße. U. B.\nBiermann, Peter, alt Stadtrath. 107 Burgfelderstraße. U. B.\nBiermann-Vischer, Samuel, Gutsbesitzer. 107 Burgfelder-\n  straße. U. B.\nBiermann, Anna Marg., geb. Bussinger. 317 Weiden-\n  gäßlein. O. B.\nBolander, Joseph, v. Dogern, Gärtner und Gutsbesitzer.\n  153 Mostacker. U. B.\nBretscher, Elis., geb. Habersaat, Wittwe, v. Töss, Gärtnerin.\n  316 Weidengäßlein. O. B.\nBrogle, Ant., v. Stein, Gutsbesitzer. 122 Burgfelderstr. U. B.\nBrugger, Joh., v. Altenburg, Lehenmann. 274. Aeußere\n  Neusäß. O. B.\nBrunner, Elisabeth, geb. Habegger, von Mümliswil,\n  Lehenfrau. 66 Davidsboden. U. B.\nBüchy, Joh. Christoph, Gutsbesitzer. 24 Klingelberg. U. B.\nBürgin, Jakob, von Rüneburg, Lehenmann. 106 Burgfelder-\n  straße. U. B.\nBurckhardt, Samuel, alt Bannwart. 119 Burgfelderstr. U. B.\nBurckhardt, Margaretha, abgeschied. Oberriedt, Part. 250\n  St. Jakobstraße. O. B.\nBurckhardt, Franz, Mechanikus. 252 St. Jakobstr. O. B.\nBuser, Mathias, von Bottmingen, Taglöhner. 194 Bin-\n  ningerstraße. O. B.\n\nC.\n\nCrussaire, Nikolas Simon, von Boul au Bois, Gutsbesitzer.\n  25 Klingelberg. U. B.\n\nD.\n\nDavid, Joh. Georg, Gutsbesitzer. 14 Straße nach St.\n  Louis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6134,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1421,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 37.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:49+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p180",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p180.jpg",
+      "bytes": 1085343,
+      "sha256": "9c21b4f77d2e8becf343b90597a999aa8f45e61684f1669d8a9d51d9c6a5b16a",
+      "sha256_of": "original",
+      "working_copy": "1841_p180.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:49+00:00"
+  }
+}

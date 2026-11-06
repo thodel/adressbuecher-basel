@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p085",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p085.jpg",
+    "bytes": 972541,
+    "sha256": "d3e307856e29bade710c013536fce12cd6ccb7aea2151baf41fbf59df8b0e2d5",
+    "sha256_of": "original",
+    "working_copy": "1841_p085.jpg"
+  },
+  "text": "2\nB.\nBachmann, Emanuel. 1045 St. Albangraben.\nBachofen-Merian, J. J., Handelsmann. 1209 Rittergasse.\nBachofen-Finninger, Samuel, Meßger. 308 St. Petersplatz.\nBachofen, J. M., Tuchschere. 875 Thorsteinen.\nBachofen, J. J., Traiteur. 1175 * Freie Straße. Zunft der\nHausgenossen.\nBader, Heinrich, Spannermeister. 744 b Ochsengraben.\nBächlin, Franz Lucas. 75 St. Johann-Vorstadt.\nBärrli, Heinz, Blattmacher, v. Lieftal. 371 St. Leonhardsgraben.\nBärwart-Carle, Joh., Handels-Commis und Agent der Stuttgarter\nRenten-Anstalt. 1334 St. Alban-Vorstadt.\nBahnmeyer, Immanuel Gottl., Buchdrucker u. Buchhändler. 1178\nFreie Straße.\nBaldner, Joh. Christian. 1158 Gerbergasse.\nBanga, Rudolf, Schneider. 1001 Hinter der Ringmauer.\nBanger, Wilh., Küfer u. Weinsch. sel., Wittwe. 1045 St. Albangraben.\nBarrey, Wittwe, geb. Cath. Maglin. (Jekt: Anton Seifert geh.)\n1033 Aeschen-Vorstadt.\nBartenbach, Joh., Meßger. 294 Spahlen-Vorstadt.\nBarth, Daniel, Zimmermeister. 22 a St. Johann-Vorstadt.\nBarth, Wittwe und Söhne (Nagelhandlung). 339 Fröschgasse.\nBasler, Johannes, Kaufmann. 60 St. Johann-Vorstadt.\nBasler, Heinz, Schneider, v. Kleinhüningen. 1697 Kuttelgäßlein.\nBasler, Johannes, Handelsmann. 1649 Markt.\nBasler, Wittwe, geb. M. Elis. v. Mechel. 1649 Markt.\nBasler, Rud., Steinhauer. 841 Hintere Steinen-Vorstadt.\nBattier, Wittwe, mit Tochter. 231 Oberer Herbergberg.\nBauer, Samuel, Canzlist. 630 Gerbergäßlein.\nBauler, Sebalt. sel., Wittwe, geb. Kollner. 1758 Schneidergasse.\nBaumberger, Joh. Rud., Comptorist. 823 Bordere Steinen-Vorst.\nBaumgartner, David, Feger. 212 Schwarze Pfahlgasse.\nBaumgartner, Joh., Schuhmacher. 964 Sternengäßlein.\nBaur, Johannes, Gerber. 1661 u. 1662 Kindermarkt.\nBaur, J. G. sel., Wittwe, geb. Stuk. 1699 Schnabelgäßlein.\"\nBaur, J. W. sel., Wittwe, geb. Fricker, Buchdruckerei. 1699\nSchnabelgäßlein.\nBaur, J. J., Mechanikus u. Eichmeister. 561 c d St. Petertiftsgasse.\nBay, Emanuel, Papierer. 1296 St. Alban-Thal.\nBayer, Wittwe, geb. Anna Maria Frey. 968 Sternengäßlein.\nBeaudroi, Andr., Meßger sel., Wittwe. 1434 Freie Straße.\nBebler, J. Georg, Kaufmann. 604 Unt. Spahlenberg.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6653,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2091,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 47.65,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:51:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p085",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p085.jpg",
+      "bytes": 972541,
+      "sha256": "d3e307856e29bade710c013536fce12cd6ccb7aea2151baf41fbf59df8b0e2d5",
+      "sha256_of": "original",
+      "working_copy": "1841_p085.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:51:19+00:00"
+  }
+}

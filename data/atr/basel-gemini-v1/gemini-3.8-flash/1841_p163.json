@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p163",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p163.jpg",
+    "bytes": 1027435,
+    "sha256": "e233b457b912905944d7c8768918db2d1f0cfe25d07e0dcd6f9c9362db984f3f",
+    "sha256_of": "original",
+    "working_copy": "1841_p163.jpg"
+  },
+  "text": "— 10 —\n\nKlippel, Joh. Georg, Schuhmacher. 1504 Rheinsprung.\nKnickmeyer, Phil., von Klein-Hüningen, Goldarbeiter.\n  905 St. Elisabethen.\nKnecht, Heinrich, Spannermeister. 1655 Rindermarkt.\nKnellwolf, Peter, sel. Wittwe, geb. Keller, von Herisau.\n  819 Kurzer Steg.\nKoch, Joh. Jak., Gärtner. 257 a. Neue Vorstadt.\nKocherhans, Joh., Tagl., von Unter = Duttwil. 1736\n  Hinter der School.\nKöhler, J. U., Vorsteher d. Brüdergemeine. 1105 Streitgasse.\nKöhler, Jakob, Ausläufer. 1702 Schnabelgäßlein.\nKrauer, Rud., Vater, Müller. 795 Hinterer Bach.\nKrayer, Sam., Kaufhausangestellter. 661 Gerbergasse.\nKrull, Christian, von Klein-Hüningen, Fabrikarbeiter.\n  528 Imbergäßlein.\nKünzli, Rud. 1508 Rheinsprung.\nKunkler, Wittwe. 601 Unterer Spahlenberg.\n* Kunz, Rudolf, Maler. 791 Vordere Steinen-Vorstadt.\n\nL.\n\nLämmlin, geb. Hosch, Wittwe. 59 St. Johann-Vorstadt.\nLanderer, L., sel. Wittwe, geb. Bienz. 245. Kaltkellergäßlein.\nLanderer, Isaak. 1205 Luftgäßlein.\n* Landerer, Richard, Hafner. 880 Oberer Klosterberg.\nLanderer-Müller, Em. 1443 Freienstraße.\nLang, Adam, Musiker. 800 Vordere Steinen-Vorstadt.\nLa Roche-Merian, Karl Gustav. 1200 Am Bäumlein.\n* La Roche-Gemuseus, Karl, Handelsmann. 1042 Aesch. Vorst.\nLehmann, Julius Wilh., aus Geisburg, Privatlehrer.\n  1445 Freienstraße.\nLeibundgut, Peter, Mehlhändler. 922 St. Elisabethen.\nLeisinger, Joh., Kutscher. 1627 Untere Freienstraße.\nLeuba, Franz, Buchbinder. 1641 Untere Freienstraße.\nLeupin, Bernh., v. Muttenz, Handels-Commis. 1062 Tiefe.\nLeuthard, Joseph, Schlosser, v. Arlesheim. 131 Kronengasse.\nLeuthard, Heinrich, Hutmacher. 591 Schneidergasse.\nLichtenhahn, Friedr., Maler. 910 St. Elisabethen.\nLichtenhahn, Rudolf, Sohn, Schreiner. 910 St. Elisab.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7880,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1701,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 43.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:02:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p163",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p163.jpg",
+      "bytes": 1027435,
+      "sha256": "e233b457b912905944d7c8768918db2d1f0cfe25d07e0dcd6f9c9362db984f3f",
+      "sha256_of": "original",
+      "working_copy": "1841_p163.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:02:48+00:00"
+  }
+}

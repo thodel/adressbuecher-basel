@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p039",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p039.jpg",
+    "bytes": 1186161,
+    "sha256": "f91f6046c15e713dd72690348c30744594c65a5b5eb535111a8b73187fb40e88",
+    "sha256_of": "original",
+    "working_copy": "1862_p039.jpg"
+  },
+  "text": "XXXVI Agenturen fremder Versicherungs-Gesellschaften.\nRheinische\nSchiffahrts = Assekuranz = Gesellschaft in Mainz.\nAgent: Schaub und Comp.\nSchlesische\nFeuer-Versicherungs = Gesellschaft.\nAgent: Notar Diethelm Schultheß-Schmidt.\nSchweizerische\nMobiliar-Versicherungs = Gesellschaft.\nAgent: Lichtenhahn u. Heusler.\nSchweizerische\nRenten = Anstalt in Zürich.\nAgent: Emanuel Martin.\nFranzösische\nSécurité commerciale contre\nles faillites.\nAgent: Beck und Herzog.\nLa Suisse,\nLebensversicherungs-Gesellschaft in Lausanne.\nAgent: Siegrist und Fender.\nThuringia,\nEisenbahn- und allgemeine Rückversicherungs-\nGesellschaft\nin Erfurt.\nAgent: Herzog-Scheitlin.\nL'UNION,\nLebens- und Feuerversicherungs-Gesellschaft\nin Paris.\nAgent: Notar J. Herzog.\nUnion Assecuranz-Society,\nFeuer- und Lebens-Versicherungs-Gesellschaft\nin London.\nAgent: Jerome Stehelin.\nURBAINE,\nFeuers- u. Lebensversicherungs-Gesellschaft\nin Paris.\nAgent: Gebrüder Oswald.\nBezirksagent: Gustav Sliffert.\nLebens-, Renten-, Aussteuer- und Begräbnis-Versicherungsbank\nVorricht in Weimar.\nAgent: Merian, Heimlicher u. Stehlin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3507,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1078,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0488,
+    "mean_line_chars": 25.32,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0028,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:22:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p039",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p039.jpg",
+      "bytes": 1186161,
+      "sha256": "f91f6046c15e713dd72690348c30744594c65a5b5eb535111a8b73187fb40e88",
+      "sha256_of": "original",
+      "working_copy": "1862_p039.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:30+00:00"
+  }
+}

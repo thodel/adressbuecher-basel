@@ -1,0 +1,38 @@
+Verzeichniß
+
+der Straßen, in alphabetischer Reihenfolge, der Häuser und deren
+Benennung mit Angabe der alten und neuen Hausnummer und des
+Quartiers, in dem sie gelegen, der Hauseigenthümer und der Be-
+wohner des Hauses.
+
+NB. Die mit größerer Schrift gedruckten Namen bezeichnen den Hauseigenthümer, die klein
+gedruckten Namen dagegen die Bewohner des betreffenden Hauses. Die römischen Ziffern be-
+zeichnen das Quartier nach Angabe Seite 1.
+
+Große Stadt.
+
+Aeschen-Graben.
+
+Neue Haus-Nr. | Quartier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.
+2 | IV. | 998 a | | Mähly-Fininger, Jakob Caspar.
+  Eichner-Burckhardt, Rud., Bauführer.
+4 | IV. | 999 | | Götz-Hauser, Rud. Heinr.
+  Götz-Hauser, Rudolf Heinrich.
+5 | IV. | 220 C | | Wimmer-Albrecht, Joh.
+  Wimmer-Albrecht, Joh., Partikular.
+7 | IV. | 220 | | Meyer-Simmen, Gedeon.
+  Meyer-Simmen, Ged., Kaufmann.
+  Meyer u. Hindenlang, Agentur u. Com.
+  Wieland-Gemuseus, Emil, Rentier.
+8 | IV. | 998 A | | Brenner-Kron, Carl,
+  Brenner-Kron, Dr. Carl, Advokat.
+  deGoumois-Lichtenhahn, Fr. W., Rent.
+10 | IV. | 998 B | | Stähelin-Bührlen, Christof.
+  Stähelin-Bührlen, Christ., Professor.
+11 | IV. | 220 B | | Friedrich-Hug, Leonhard.
+  Friedrich-Hug, Leonh., Baumeister.
+  Kestner, Charlotte, Partikular.
+12 | IV. | 998 C | | Schwarz-Hauser, Christian.
+  Schwarz-Hauser, Christ., Kaufmann.
+  Firma: Schwarz und Hermann, Roh-
+  seidehandel und Commission.

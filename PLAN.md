@@ -212,10 +212,55 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
 | 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern) | wie Aarau |
 
+### 4b. Verortung über das Historische Grundbuch Basel (HGB)
+
+Hinweis der Projektleitung (06.11.2026): Zenodo [10.5281/zenodo.22112366](https://doi.org/10.5281/zenodo.22112366)
+(Metadaten-Skripte des Projekts «Ökonomien des Raums», Uni Basel; GitHub
+[economies-of-space](https://github.com/history-unibas/economies-of-space),
+[-metadata](https://github.com/history-unibas/economies-of-space-metadata),
+[-database](https://github.com/history-unibas/economies-of-space-database)). Befund:
+
+- Die **HGB-Dossiers** des Staatsarchivs (LOD, `ld.bs.ch`) sind je Liegenschaft angelegt;
+  ihr Titel ist die **Adresse nach dem Adressbuch 1862** («Kanonengasse 9»), dazu die
+  **alte stadtweite Hausnummer** (`oldHousenumber`, «754 L», mit «(Bann)»-Zusatz), der
+  Hausname und der **Eigentümer 1862** (`owner1862`). Das ist dieselbe Konkordanz wie
+  unsere 1862er Tabelle, nur von der Liegenschaft her, und für 6 057 Dossiers in 231
+  Strassen-Serien.
+- Das Datenbank-Repo liefert **4 353 Dossier-Standorte** als Punkt in LV95
+  (`dossiergeomshifted_…csv`; Georeferenzierung durch das Grundbuch- und Vermessungsamt
+  BS, im Projekt am Löffelplan 1862 geprüft und für Teilhäuser verschoben; Genauigkeit
+  nach eigener Aussage «plausibel, nicht gemessen»). Der vollständige Dump (1,6 GB, CC BY
+  4.0) liegt auf Zenodo [22025829](https://doi.org/10.5281/zenodo.22025829).
+- Übernommen nach `data/ext/hgb/` (Quelle, Lizenz: `README.md` dort).
+
+`scripts/10_geo_hgb.py` bildet `05_buildings.csv` darauf ab: 1862 über Strasse + neue
+Nummer (Strassennamen normalisiert: Johann/Johanns, Graben/-Graben), 1841/1850 über die
+alte Nummer **innerhalb des Nummernraums** (Grossbasel, Kleinbasel ab 1, Bänne ab 1 —
+die Kleinbasler Strassen kommen aus unseren eigenen Zwischentiteln), Dossiers mit
+mehreren Nummern oder mehrere Dossiers je Nummer als Schwerpunkt (`medium`), «Theil
+von»-Dossiers nachrangig. Ergebnis `05_buildings_geo.csv` (Schema in `docs/schema.md`).
+Stand 06.11.2026 auf dem laufenden Gemini-Volllauf (4 342 Gebäude):
+
+| Band | Gebäude | eindeutig | Schwerpunkt | Dossier ohne Standort | ohne Treffer |
+|---|---:|---:|---:|---:|---:|
+| 1841 | 2 151 | 1 271 | 648 | 25 | 207 |
+| 1850 | 2 087 | 1 176 | 650 | 24 | 252 |
+| 1862 (erst 89 Gebäude gelesen) | 89 | 58 | 6 | 21 | 4 |
+
+Prüfung der Konkordanz: bei 61 von 64 verorteten 1862er Gebäuden stimmt die alte Nummer
+unserer Tabelle mit `oldHousenumber` des HGB überein; die 3 Abweichungen sind
+Bereichsdossiers («Aeschengraben 4-16»). Die «ohne Treffer» (10 %) sind vor allem
+Nebengebäude, Magazine und Nummern mit Buchstabenzusätzen, die das HGB unter der
+Hauptnummer führt — Rückfall auf die Hauptnummer ist der nächste Schritt. Damit entfällt
+für Basel die Strassenmitte-Ebene aus dem Aarauer Plan weitgehend; die Karte kann
+direkt auf Liegenschaften zeichnen, mit dem Löffelplan 1862 als WMS-Overlay wie bei
+[basler-liegenschaften-interaktiv](https://dhbern.github.io/basler-liegenschaften-interaktiv).
+
 ## 5. Repo-Struktur
 
 Wie Aarau: `scripts/01_render_pages.py` (JPG-Ordner statt PDF), `02_atr_batch.py`,
-`03_compare_readers.py`, `04_parse.py`, `05_buildings.py`, `gt_diff.py`; `prompts/`,
+`03_compare_readers.py`, `04_parse.py`, `05_buildings.py`, `10_geo_hgb.py`, `gt_diff.py`; `data/ext/hgb/`
+(HGB-Dossiers, -Serien, -Standorte); `prompts/`,
 `data/csv`, `data/gt`, `data/atr` (Text ja, Bilder nein), `data/pages` (nicht im Git),
 `docs/schema.md`, `Makefile` (`make pages`, `make atr-fetch RUN=…`, `make atr-lines`,
 `make probe-fetch probe-compare`).
@@ -227,10 +272,11 @@ Wie Aarau: `scripts/01_render_pages.py` (JPG-Ordner statt PDF), `02_atr_batch.py
 2. **Hausnummern-Konkordanz** 1862 (neu je Strasse ↔ alt stadtweit) als eigene Tabelle
    führen, damit 1841/1850 auf die 1862er Gebäude abgebildet werden; prüfen, ob die alten
    Nummern zwischen 1841 und 1850 stabil sind (Stichprobe in Welle 2).
-3. **Lage im Raum**: Löffelscher Stadtplan 1862 (WMS des Kantons BS, von DH Bern genutzt)
-   trägt vermutlich die neuen Hausnummern; mit dem Historischen Grundbuch Basel (HGB,
-   `eos`-MCP, bis ca. 1700) besteht über Hausnamen («zum Rosengarten», «zur Klause») eine
-   zweite Brücke.
+3. ~~Lage im Raum~~ — gelöst über das HGB (Abschnitt 4b, Hinweis der Projektleitung
+   06.11.2026): die Dossier-Standorte des Projekts «Ökonomien des Raums» liefern
+   Koordinaten je Liegenschaft; offen ist nur die Datenlizenz der Standortpunkte
+   (Shapefile des Grundbuch- und Vermessungsamts, im Repo ohne Lizenzangabe; Dump auf
+   Zenodo CC BY 4.0) — vor der Veröffentlichung der Karte beim Projekt nachfragen.
 4. **Gleichzeitige Läufe auf GPUStack**: die Aarauer Volläufe (gestartet 06.11.2026,
    ~8 h für qwen3.8) teilen sich die Karten mit den Basler Läufen; Reihenfolge festlegen.
 5. **Weitere Bände** (StABS hat die Reihe bis ins 20. Jahrhundert): welche Jahre die

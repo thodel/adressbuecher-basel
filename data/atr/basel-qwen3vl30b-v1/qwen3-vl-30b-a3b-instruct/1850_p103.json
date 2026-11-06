@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p103",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p103.jpg",
+    "bytes": 947661,
+    "sha256": "6b19200ecfbc2ff0b99e36e4f8089d78d6c3c032d2b08cf8bcd47716981a95d4",
+    "sha256_of": "original",
+    "working_copy": "1850_p103.jpg"
+  },
+  "text": "90\nBläsy = Quartier.\n281-82 Albrecht, Conrad, Spezereihandlung.\n283 Ruff, Wittwe Salome, Wascherin.\n284 Holzach, Alb., Kaufmann.\n285 Winter, Lukas Friedr., Weißbck.\n286 Merkle, F. U., Spezierer.\nKramer, Andr., Feger.\n287 Roth, F. F., Lohnwascherin.\n288 Crismann, F. F., Commis, Wascher.\n289 Steiger, A., Flachmaler, Lohnwascher. Gochta, Anton, Schneider.\n290 Hindermaun, F. Casp., Schönsärber, Fasshüner.\n291 Grüblin, Joh., Weinschenk.\n292 Huber, D., Färber.\n293 Zimhof-Mieg, Joh. Jak., Rentier.\nKohner-Zimhof, Markus, Handelsmann.\n294 Sternenberger, Euch., Postoffiziant.\n295 Brunauer, Friedr., Handels-Commis.\n296 Dubach, Georg, Seidenfärber.\n297 Schilling-Roth, Wittwe, Bandladen.\nOchfengasse.\n298 Oswald, F. Ch., Färbergehülfe.\nWebergasse.\n299 Tschepp, Christ., Wascher.\n300 Hellstern, Joseph, Müller.\n301 Bader, Heinrich, Maurer.\nIm Klingenthal.\n302 Fabrikgebäude von Ryhiner und Söhne.\nRees, Casp., Fabrikausseher.\n303 Fuchs-Grüninger, Wittwe, Müllerin.\nGrüninger, Rud., Müller.\nA303-4 Remisen, Scheunen u. Stallungen.\n305 Kraus-Gamper, Wittwe, Glätterin.\n306-7 Stallungen.\n308 Magazin. Obrigkeitlich.\nA308 Stauber, U. R., Cigarrenmacher.\n309 Sider, Victor, Appreteur.\n310 (Klingenthal-Caferne.) Obrigkeitlich.\nSeiler, Heinr., Cafernier, Polizeigerichtswaibel.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4247,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1266,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:53+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p103",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p103.jpg",
+      "bytes": 947661,
+      "sha256": "6b19200ecfbc2ff0b99e36e4f8089d78d6c3c032d2b08cf8bcd47716981a95d4",
+      "sha256_of": "original",
+      "working_copy": "1850_p103.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:53+00:00"
+  }
+}

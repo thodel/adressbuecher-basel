@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p028",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p028.jpg",
+    "bytes": 949813,
+    "sha256": "82a036ab933713159b6e8edff8f30c777dd1b879ef3548fd7e464e443bb99085",
+    "sha256_of": "original",
+    "working_copy": "1841_p028.jpg"
+  },
+  "text": "21\nNro.\nAdelberg.\n546 Stickelberger=Berri.\n    Berri, geb. Streckeisen, Pfr. Wittwe.\n547 Stähelin, J. J., Professor.\n547 a b c Kummer, Mathias, Schreiner.\n548 Bon der Mühle=Bischoff, Emanuel, Kaufmann.\n549 Keller, J. J. sel., Wittwe, geb. Bischoff.\n550 Stähelin=Stückelberger, Peter, alt Pfarrer in Frenkendorf.\n551 Oswald=Hoffmann, Lud., Seifen- und Kerzenfabrikant.\n    Sarasin, Lucas, Wechsel=Senfal.\n    Sarasin, Benedikt, Handelsmann.\n552 La Roche, Germann, Deputat.\n    La Roche=Burckhardt, August, Civilgerichtspräsident.\n553 La Roche, Emanuel, Bater, Appellationsrath.\n554 Spreng, Joh. Jakob, Wechfel=Senfal.\n555 Walter, Jakob Heinrich, Kaufmann.\n    Bollinger, Joh. Jakob, Kaufmann.\n556 Senn', Joh. Jakob, Schneider.\n557 * Linder, Jungfer (ist in München).\n    Falkner, Peter sel., Wittwe, geb. Geymüller.\nSt. Petersstiftsgasse.\n558 La Roche=Grasset, Emanuel.\n559 Day, Joh., Schreiner, von Schönenbuch.\n    Ruffer, J. M., Prosektor.\n560 * Schulhaus. — Müller, Candidat (Sohn, aus dem Ochsen).\n561 * a Baur, Joh. Jakob, Mechaniker und Eichmeister.\n    De Goumois, Fr. Wilhelm, Kaufmann.\n561 * b Baur, J. J. — Tuchhandlung, Magazin und Comptoir\n    von J. Rikl. David u. Conforten.\n    Hertner, Heinrich, Fabrikfeger.\n561 c d Baur, J. J., Mechanikus und Eichmeister.\n562 * Pfarrhaus. — Ründig, Euchar, Diacon bei St. Peter.\n563 Reber=Geilingen, J. J., Partikular.\n564 Socin, Sohn, Abel, Tuchhändler.\n    Socin-Werthemann, Christ.\n    Socin=Le Grand, Abel.\n565 * Provisorwohnung. — Euler, Joh. Jakob, Lehrer an der\n    Knabenschule.\n566 * Lehrerwohnung. — Weiß, Jaf. Chr., Mädchenlehrer.\nTodtengässlein.\n567 u. 568 Berger, Rudolf, Schreiner.\n569 Golde, Samuel, Spengler.\n    Strübin, Joh., Uhrenmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5088,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1708,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:44:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p028",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p028.jpg",
+      "bytes": 949813,
+      "sha256": "82a036ab933713159b6e8edff8f30c777dd1b879ef3548fd7e464e443bb99085",
+      "sha256_of": "original",
+      "working_copy": "1841_p028.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:17+00:00"
+  }
+}

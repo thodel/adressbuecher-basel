@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p179",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p179.jpg",
+    "bytes": 930944,
+    "sha256": "f8d600e7b514597ab33cff735261bb7c1fe99945243e574061aa472f6016b915",
+    "sha256_of": "original",
+    "working_copy": "1841_p179.jpg"
+  },
+  "text": "Bänne.\n\nA. Groß-Basel-Bann.\n\nA.\n\nAbt, Jakob, von Bretzwil, Posamenter. 262 St. Jakob-\n  straße. O. B.\nAckermann, Joseph, von Escholzmatt, Lehenmann. 17\n  Straße nach St. Louis. U. B.\nAeby, Hartm. Fried., v. Kirchberg. 275 Aeußere Neusatz.\nAeschbach, Emanuel, von Diegten, Gärtner. 318 Weiden-\n  gäßlein. O. B.\nAndermatt, Franz, von Balstal, Lehenmann. 10 Hüninger\n  Straße. U. B.\n\nB.\n\nBachmann, Samuel, von Bottenwil, Posamenter. 187\n  Lohstampfberg. U. B.\nBachthaler, Johannes, von Stetten, Gärtner. 211 Heu-\n  mattgasse. O. B.\nBader, Samuel, von Langenbruck, Lehenmann. 172 Bei\n  der Schützenmatte. U. B.\nBader, Jakob, von Langenbruck, Gutsbesitzer. 22\n  Klingelberg. O. B.\nBader, Joh., sel. Wittwe. von Langenbruck, Lehenfrau.\n  24 Klingelberg. U. B.\nBaumann, Joh. Heinrich, von Thun, Färber. 189 Loh-\n  stampfberg. U. B.\nBenner, Julie, Jgfr., von Mühlhausen, Näherin. 19\n  Straße nach St. Louis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7063,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 905,
+    "lines": 27,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.037,
+    "mean_line_chars": 31.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0022,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:04:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p179",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p179.jpg",
+      "bytes": 930944,
+      "sha256": "f8d600e7b514597ab33cff735261bb7c1fe99945243e574061aa472f6016b915",
+      "sha256_of": "original",
+      "working_copy": "1841_p179.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:04:43+00:00"
+  }
+}

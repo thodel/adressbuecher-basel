@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p081",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p081.jpg",
+    "bytes": 913054,
+    "sha256": "d4fd06bb2198a4a151a66501fc62582a2a416480f18e3b51210e6d42a6b467e8",
+    "sha256_of": "original",
+    "working_copy": "1850_p081.jpg"
+  },
+  "text": "68\nStadt = Quartier.\nKronengasse.\n1526 Halter, Niklaus, Bettfedernhandlung.\n1527 Waffermaun, Karl, Schneider.\nImhof, F. R., Schuhmacher.\n0528 Scherb, Georg, Med. et Chir. Dr.\nStrübin, Wittwe, Uhrenmacher.\nHek, F. F., Commis.\nSigt, Frau, geb. Roth, Hebamme.\n1529 Staib, Matth., Schlosser.\nNeue Straße.\n1530 (Gasthaus z. Krone) Hauser-Fäsch, Fz. Ksp., Gastgeb.\nÖswald, Gebrüder, Geschäfts bureau.\n1531–32 (Gasthof z. gold. Kopf) Steiner, Wittwe, Gastgeb.\nEisengasse.\n1533 Huber-Molitor, F. F., Apotheker.\nFelber, G., J. U. D., Staats schreiber.\nGlock, Gustav, Speditor.\nWölflin, Bened., Handelsmann.\n1534 Preiswerk-Klingler, Frau Rosina.\nTabakladen von Frau Wittwe Lok-Jäslin.\n1535 Früh-Ronus, Hier., Kanzlei-Sekretär.\nFrüh, Eduard, Commis.\nBraun-Gesler, Andr., Lederhandlung.\n1536 Burkhardt, Gottlieb, Schneider.\nMück, F. Theod., Dégraisseur.\n1537 Trapet, Rich., Goldschmied, Juwelier.\n1538–39 Schölly, Sam., Bandfabrikant und Handlung.\n1540 Ronus & Holzach, Christ., Quinquaileriehandlung.\nKammer, Joseph, Ladendiener.\n1541 Amans, Jos. Wilh., Hutmacher.\nAmans, Arthur, Desfinateur.\nAmans, Heinrich, Commissionnaire.\nLefèbvre, Peter, Modehandlung.\n1542 Weitnauer-Hoffmann, Eml., Tapezierer.\nGeschäftsbureau von Hauser & Steigmeyer, Agentur\nder schweiz. National-Vorsichts-Cassa.\n1543 Preiswerk-Ofer, F. F., Tuchhandlung.\n1544 Rosenmund, Joh. Jak., Kammacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4393,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1357,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.95,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:10:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p081",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p081.jpg",
+      "bytes": 913054,
+      "sha256": "d4fd06bb2198a4a151a66501fc62582a2a416480f18e3b51210e6d42a6b467e8",
+      "sha256_of": "original",
+      "working_copy": "1850_p081.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:10:19+00:00"
+  }
+}

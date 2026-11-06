@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p075",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p075.jpg",
+    "bytes": 889028,
+    "sha256": "865e715a1856dd5b6ce169f9b3fb8249d06cd741237c25b98f5b938aab5cad76",
+    "sha256_of": "original",
+    "working_copy": "1841_p075.jpg"
+  },
+  "text": "68\nNro.\n141 * Der Handlung Andreas Braun geh.\n   Bon Brunn, Wittwe, geb. Braun.\n142 Mäglin, Christoph, Mezger.\n143 Schardt, Franz, Küfer und Weinschenk.\n144 Meyenrock, Jak. Friedr., Miliz-Inspektor und Liqueurfabrikant.\n145 Luk, Felix, Weißbeck.\n146 * Gaf, Joh., Weißbeck.\n   Rickenbacher, Mathias, Lehrer.\n147 Birmann, Jakob Friedrich.\n   Löhler, Joh., Beck.\n   Meyer, Carl Ludwig, Schuhmacher.\n148 Weiß, Thomas, Weinschenk.\n   Gernler, Carl, Kornmesser.\n149 Jselin-Reichenstein, Ludwig, Rentier.\nMebgasse.\n150 Gaf, Joh., Weißbeck.\n   Feil, Susanna und Lisette, Schneiderinnen.\n   Lok, Leonhard, Mezger.\n   Pfirter, Ursus Viktor, Schreiner.\n151 Büchlin-Schlichter, Joh. Ulrich, Gantrufer.\n   Müller, Wilh., Ladengehülfe.\n152 Alt, Daniel, Weißbeck.\n153 Lämmlein, Georg sel., Wittwe.\n154 Mäglin, Abraham, Mezger.\n155 Brodmann, Joh., von Ettingen, Schuhmacher.\n156 Schneider, Heinrich, Posamentier.\n157 Soller, Friedrich, Kaufmann.\n158 * Hik, Jakob, Schreiner sel., Wittwe, geh.\n159 * Pack, Frau, geb. Mosis, geh.\n160 Landerer, Richard, Polizeidirektor.\n161 Soller, Emanuel, Kübler.\n   Bux, Joh. Jakob, Informator.\n162 Frih, geb. Marg. Frei, Wittwe, Kostgeberin.\n163 Bohny, Joh., Schmid.\n164 Mündy, Melchior, Rathsherr.\n165 * Pfarrhaus. Uebelin, J. J., Diakon bei St. Theodor.\n166 Krebs, Joh., Fabrikferger.\n167 Geßler, Joh. Rud., Gypter.\n168 Basler, Joh. Jakob, Weißbeck.\n169 Märklin, Mathäus, Bierbrauer.\n170 *\n171 * } Ebendemselben geh.\n   Wollenschlegel, Jakob, am Kaufhaus.\n   Haag, Wittwe, geb. Ursula Erlacher.\n172—173 Siber-Lok, Caspar, geh.\n   David, Joh. Georg, Fuhrhalter.\n   Geschwister Glunz, Schneider u. Matrakenmacherinnen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4963,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1637,
+    "lines": 49,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.57,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p075",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p075.jpg",
+      "bytes": 889028,
+      "sha256": "865e715a1856dd5b6ce169f9b3fb8249d06cd741237c25b98f5b938aab5cad76",
+      "sha256_of": "original",
+      "working_copy": "1841_p075.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:29+00:00"
+  }
+}

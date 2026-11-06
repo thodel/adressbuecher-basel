@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p092",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p092.jpg",
+    "bytes": 985970,
+    "sha256": "09e08207366788fdf8d8b5c17bad641c415b0b6a93c4569625477cf56eaeaba0",
+    "sha256_of": "original",
+    "working_copy": "1850_p092.jpg"
+  },
+  "text": "Kleine Stadt.\nBläsy = Quartier.\nBei der Rheinbrücke.\n1—2 Den drei Ehrengesellschaften jenseits geh.\nSchüffeler-Miville, Wirth und Traiteur, Caffé und\nBillard.\nRheingasse.\n3 Faufel, Gottlieb, Straßenpflasterer.\n4 Wießler, Franz, Buchbinder.\n5 Cramer-Senn, Wittwe M., Spezerei-handlung.\n6 Geiler, F. N., Meßger.\n7 Wäffler-Burckhardt, Wittwe, Beck.\nSieber-Munzinger, Wittwe, Partikularin.\n8 Geßler, Andreas, Wollenwaaren-handlung.\nGeßler, Andreas, Bater, Rentier.\n9 David, Joh., Meßger. Gnd. Cimmer. O. Flo. Mar.\n10 Zu Nr. 15 Gasthaus zum weißen Kreuz geh.\n11 (Gesellschaftshaus zur Hären.)\nMazinger, L., Spengler, Stubenverwalter.\nBureau des Bau-Collegiums.\n12 Henz-Dömmelin, Niklaus, Hafner.\nBümpin, Saml., Major.\n13 Prattler, Jakob, Weißbeck.\n14 Salathe-Haupt, F. Christ., Weinschenk.\nZäslin-vonMechel, Karl, Ferger.\n15 (Gasthaus z. weißen Kreuz) Pfister, A., Gastwirth.\n16—17 Müller-Willy, Achilles, Kosthaus u. Spezereiladen.\n18—19 (Gasthaus z. schwarzen Bären) Müller-Walz, Joh.\nEduard, Gastwirth.\nSchafgässlein.\n20 Schärflein, Franz, Meßger, geh.\n21 Studer, Wittwe Anna Maria, Kostgeberin.\n22 Schner, Ch. Zimmermann.\n23 Reindlin, Joseph, Wirth u. Meßger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 3819,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1158,
+    "lines": 34,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.09,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p092",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p092.jpg",
+      "bytes": 985970,
+      "sha256": "09e08207366788fdf8d8b5c17bad641c415b0b6a93c4569625477cf56eaeaba0",
+      "sha256_of": "original",
+      "working_copy": "1850_p092.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:07+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p101",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p101.jpg",
+    "bytes": 952800,
+    "sha256": "405450163f921a9bedb45b2cf53aaa6dba4c636e638c2429370da2577958b890",
+    "sha256_of": "original",
+    "working_copy": "1850_p101.jpg"
+  },
+  "text": "88 Bläsy = Quartier.\n\nOchsengasse.\n\n239 Jenny, Joh., Spezierer.\n240 Kyburt'schen Erben gehörend.\n241 Hellstern, Peter, Maurergehülfe.\n242 Wurster, Friedr., Fabrikaufseher.\n243 Heußler-Thurneisen, Leonh., gehörend.\n244 Braun-Kiefer, Joh., Tabackfabrikant.\n245 Holzreuter, Eug., Färber.\n246 (Gasthaus z. rothen Ochsen.)\n  Pfirter, Ludwig, Gastgeber.\n\nTeichgäßlein.\n\n247 Wenk, Carl Friedrich, Commis. [handschriftlich: gestrichen] [handschriftlich: Joh.s Bernoulli Schaffner.]\n248 Federer, Anton, Färbergesell.\nA 249 Zentgraff, Wilhelm, Kaufmann.\nB 249 Ryhiner-Bernoulli, W., Fabrikant.\n\nUntere Rebgasse.\n\n249 Braun, Andreas de Samuel, Rentier.\n250 Müller-Linder, Rudolf, Land-Oekonom.\n  Dürig, Joseph, Müller.\n251 Mackler, Jak. Friedr., Schuhmacher.\n\nIm Numpel.\n\n252-53 Böhrlin, Joh., Schleifer und Mechaniker.\n254 Stallung.\n255 Meyer, Johann, Leistschneider.\n256 Brand, Leonhard, Rothgerber.\n257 Schenkel, Jakob, Zimmergehülfe.\n258 Rühlin, Joh. Georg, Lohnwascher.\n259 Obrigkeitlich.\n260 Winkler, Bl., Fabrikarbeiter.\n261 Hilbert, Joh., Fabrikarbeiter.\nA 261 (Floretseidenspinnerei) Ryhiner und Söhne geh.\n  Urech, A., Mechaniker.\n262 Weber, Wittwe, Lohnwascherin.\n263 Thommen, Wittwe, Lohnwascherin. [handschriftlich: gestrichen] [handschriftlich: Joh. Nepom. Mengi.]\nA 264 Kestenholz, Wittwe, Lohnwascherin.\nB 264 Diel, Joh. Jak., Schleifer.\n265 Geßler, Rudolf u. Leonh., Müller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6523,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1380,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.97,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:57+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p101",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p101.jpg",
+      "bytes": 952800,
+      "sha256": "405450163f921a9bedb45b2cf53aaa6dba4c636e638c2429370da2577958b890",
+      "sha256_of": "original",
+      "working_copy": "1850_p101.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:57+00:00"
+  }
+}

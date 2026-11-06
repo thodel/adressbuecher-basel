@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p039",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p039.jpg",
+    "bytes": 1186161,
+    "sha256": "f91f6046c15e713dd72690348c30744594c65a5b5eb535111a8b73187fb40e88",
+    "sha256_of": "original",
+    "working_copy": "1862_p039.jpg"
+  },
+  "text": "XXXVI  Agenturen fremder Versicherungs-Gesellschaften.\n\nRheinische\nSchifffahrts = Assekuranz = Gesellschaft\nin Mainz.\nAgent: Schaub und Comp.\n\nSchlesische\nFeuer-Versicherungs = Gesellschaft.\nAgent: Notar Diethelm Schultheß-Schmidt.\n\nSchweizerische\nMobiliar-Versicherungs = Gesellschaft.\nAgent: Lichtenhahn u. Heusler.\n\nSchweizerische\nRenten = Anstalt in Zürich.\nAgent: Emanuel Martin.\n\nFranzösische\nSécurité commerciale contre\nles faillites.\nAgent: Beck und Herzog.\n\nLa Suisse,\nLebensversicherungs-Gesellschaft in Lausanne.\nAgent: Siegrist und Fender.\n\n[spalte 2]\nThuringia,\nEisenbahn- und allgemeine Rückversicherungs-\nGesellschaft\nin Erfurt.\nAgent: Herzog-Scheitlin.\n\nL'UNION,\nLebens- und Feuerversicherungs - Gesellschaft\nin Paris.\nAgent: Notar I. Herzog.\n\nUnion Assecuranz-Society,\nFeuer- und Lebens-Versicherungs-Gesellschaft\nin London.\nAgent: Jerome Stehelin.\n\nURBAINE,\nFeuers- u. Lebensversicherungs-Gesellschaft\nin Paris.\nAgent: Gebrüder Oswald.\nBezirksagent: Gustav Süffert.\n\nLebens=, Renten=, Aussteuer= und Begräb=\nniß-Versicherungsbank\nVorsicht in Weimar.\nAgent: Merian, Heimlicher u. Stehlin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5973,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1105,
+    "lines": 44,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0455,
+    "mean_line_chars": 23.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0027,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:30:06+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p039",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p039.jpg",
+      "bytes": 1186161,
+      "sha256": "f91f6046c15e713dd72690348c30744594c65a5b5eb535111a8b73187fb40e88",
+      "sha256_of": "original",
+      "working_copy": "1862_p039.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:06+00:00"
+  }
+}

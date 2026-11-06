@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p099",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p099.jpg",
+    "bytes": 964657,
+    "sha256": "14c0198985dd472e6d2b6ebefc8ec5af2d506a2d2227090c812b7e1c7062ba4d",
+    "sha256_of": "original",
+    "working_copy": "1850_p099.jpg"
+  },
+  "text": "86 Riehen- und Bläsy-Quartier.\n\n174 Socin-Heußler, Bernh., Rentier.\n175 Lotz-Eglin, Friedr., Zimmermeister.\n176 Bischoff, J. J., Pfarrer bei St. Theodor.\n  Bischoff, Gottl., Dr. Jur., Polizeihauptmann.\n  Bischoff, Arnold, Postoffiziant.\n177 Burckhardt, Danl., Baumeister.\n  Bernoulli, August, Fabrikant.\n178 Horandt, Martin, Bandfabrikant.\n  Soller, Friedrich,\n179 Matzinger-Nell, Wittwe. [handschriftlich: gestrichen] [handschriftlich: Zoller & Ce]\n180 Renz, Karl, Chemiker.\n181 Mieg-Meyer, Achilles, Partikular.\n182 Hunziker, Jakob, Hausknecht.\n183 Weber, Heinrich, Dessinateur.\n  Winterlin, A., Kunstmaler.\n184 Schneider, Jgfr. S., Partikularin.\n185 Burckhardt, Saml., Weißbeck.\n186 Kromer, Eml., Metzger.\n  Stockmeyer, Abrah., Partikular.\n187 Siegrist, Wittwe, A. M., Weinhandlung.\n188 Huber, Hieronimus, Weinschenk.\n  Best, Christ., Metzger.\n189 Walliser, Conrad, Schreiner.\n  Walliser, Christoph, Bauzeichner.\n190 Stengelin, Jonathan, Wagner.\n  Tripet, Wittwe Henriette.\n191 Magazin. [handschriftlich: Ferdinand Künzi]\n192 (Zum gold. Lamm) Dorner-Breiting, Gastwirth.\n  Socin, Wittwe Marg., Partikularin.\n\nSt. Bläsy-Quartier.\nRebgasse.\n\n193-96 Zäslin-Bleienstein, Wittwe, Rentière. [handschriftlich: gestrichen] [handschriftlich: Ferd. Künzi.]\n  Paravicini-Zäslin, Fel. Fr., Notar.\n  Zäslin, Franz, Partikular.\n197 Landolt, Bierbrauer.\n198 Mäder, J. P., Piqueur.\n199 Calame-Reyenthaler, G. A., Handelsmann.\n200 Schaffner, Mart., Diakon bei St. Theodor.\n201 Schaffner, Jak., Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6124,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1495,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.73,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:16:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p099",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p099.jpg",
+      "bytes": 964657,
+      "sha256": "14c0198985dd472e6d2b6ebefc8ec5af2d506a2d2227090c812b7e1c7062ba4d",
+      "sha256_of": "original",
+      "working_copy": "1850_p099.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:16:43+00:00"
+  }
+}

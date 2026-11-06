@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p184",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p184.jpg",
+    "bytes": 1063715,
+    "sha256": "50126bd599d14a111791f8eb26564a99a3723fec96639f228d5975aa05bf6b12",
+    "sha256_of": "original",
+    "working_copy": "1841_p184.jpg"
+  },
+  "text": "- 31 -\nL.\nLang, Margar., Jgfr., Näherin, v. Sulz am Neckar.\n262 B. St. Jakobstraße. O. B.\nLangmesser, Sophie. 108 Burgfelderstraße. U. B.\nLötscher, Johannes, v. Escholzmatt, Lehenmann. 282 St.\nAlban=Zeich. O. B.\nLöw, Wilhelm, v. Benken, Posamenter. 49 Mittlere\nStraße U. B.\nLükelschwob, Fr., von Minfeln, Lehenmann. 258 St.\nJakobstraße. O. B.\nLuk, Eduard, von Binningen, Kapellmeister. 240 Mittl.\nGundeldingen. O. B.\nM.\nMadörin, Friedrich, von Laufen, Knecht. 192 Binninger-\nstraße. O. B.\nMäglin, Isaak, Bannwart. 108 Burgfelderstraße. U. B.\nMäglin, Joh. Jakob, Rathsbote. 165 Unterschützenmatten-\ngässlein. U. B.\nMeisner, Karl Friedr., Med. Dr., Professör der Natur-\ngeschichte. 222 A. St. Jakobstraße. O. B.\nMeister, Urs Viktor, von Herbetswil, Fabrikarb. 271\nNeuere Neufäz. O. B.\nMeyer, Jakob, von Niedergösgen. 22 Klingelberg. U. B.\nMeyer, Christian, von Ehrsberg, Gutsbesitzer. 49 Mittl.\nStraße. U. B.\nMeyer, Heinrich, Lehrer im Landwaifenhaus. 201 St.\nMargarethenstraße. O. B.\nMeyer, Johannes, von Ehrsberg, Lehenmann. 249 St.\nJakobstraße. O. B.\nMeyer, Jakob, von Töf, Gärtner. 298 Gellert. O. B.\nMeyer=Hoffmann, Daniel, Bierbrauer. 20 Straße nach\nSt. Louis. U. B.\nMüller, Joh., v. Buschwiler, Gärtner. 297 Gellert. O. B.\nMüller, Joseph, v. Magden, Ziegler. 279. St. Jakob. O. B.\nMüller, Peter, Walker. 278 A. Bei Brüglingen. O. B.\nMüller, Johannes, v. Bärenwil, Gutsbesitzer. 1 Straße\nnach St. Louis. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4794,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1413,
+    "lines": 38,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0263,
+    "mean_line_chars": 36.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:03:23+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p184",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p184.jpg",
+      "bytes": 1063715,
+      "sha256": "50126bd599d14a111791f8eb26564a99a3723fec96639f228d5975aa05bf6b12",
+      "sha256_of": "original",
+      "working_copy": "1841_p184.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:23+00:00"
+  }
+}

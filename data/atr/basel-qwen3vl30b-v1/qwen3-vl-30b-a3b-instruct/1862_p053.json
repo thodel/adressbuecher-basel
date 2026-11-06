@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p053",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p053.jpg",
+    "bytes": 1327800,
+    "sha256": "bd894e9a0ea286b2a8bc86b580414136d52b360e2fe7aa5ccd6a5d5613d73614",
+    "sha256_of": "original",
+    "working_copy": "1862_p053.jpg"
+  },
+  "text": "XL\nRagionenbuch.\nHandlungsfirma. | Interessenten u. Firmasührer. | Natur des Geschäfts.\nPetit et Sœurs Cassal. | Jean Petit-Cassal. | Spedition u. Commission.\n| Célestine Cassal. | Regenschirmfabrikation.\n| Antoinette Cassal. | Commission. in Bändern.\nPfister, H. | Heinrich Pfister. |\nPhilippi-Stierlin. | Rudolf Philippi-Stierlin. |\nPhilippi, A. J., Agent. | A. J. Philippi, allein. |\n| C. Philippi, Prokuraträger. | Seidenband en gros.\n| L. Picard, allein. |\nPicard, Leon. | Joh. Plattner-Hosch, allein. |\nPlattner-Hosch, Johs. | Fr. J. Hurter, Prokuraträger. |\n| Wilhelm Preiswerk-Bischoff. | Seidenhandel, Spedition,\nPreiswerk, J., u. Sohn. | Carl Preiswerk. | Commission u. Incasso.\n| Hans Preiswerk. |\n| A. Gibert, Prokuraträger. |\n| F. Lipp, Prokuraträger. |\nPreiswerk, Dietrich, et | Rud. Paravicini-Bischoff, allein. | Bandfabrikation.\nComp. | Emil Thurnerfen-Paravicini, Com- |\n| manditair. |\n| J. J. Bischoff, J. U. D., Comman- |\n| ditair. |\n| Wilh. Falkner, Prokuraträger. |\nPreiswerk, Mathias. | J. J. Preiswerk-Ofen, allein. | Tuch- u. Nouveautéshdlg.\n| | en gros et détail.\nPreiswerk-Keller. | Dietrich Preiswerk-Keller, allein. | Bettfedern, Flaum, Kopf-\n| A. C. Pettermand, Prokuraträger. | haar und Wolle.\nPreiswerk, Lukas. | Wilh. Burckhardt-Preiswerk, allein. | Bandfabrikation.\n| J. Erlacher, Prokuraträger. |\nPreiswerk, Emanuel. | Carl Preiswerk-Sulger. | Colonialwaarenhandlg.\n| Eduard Preiswerk-Burckhardt. |\nRahn u. Trog. | A. Rahn. | Agenturen.\n| Jul. Trog. |\nRaillard, Theodor. | Theodor Raillard, allein. | Uhrenhandlung.\nRamsperger, Emanuel. | Eml. Ramsperger, allein. | Natürl. Mineralwasser,\n| | Alpenbutter u. Colo-\n| | nialwaaren.\nReinhardt, J. C. | Joh. Conrad Reinhardt, allein. | Lager in Damenmänteln,\n| | Seiden- und Moden-\n| | artikeln. Eisengasse 8.\n| | Chem. Productenfabrikat.\nRenzi, C. | Carl Renz, Bater. |\n| Carl Renz, Sohn. |\n| Paul DeKoche. |\nKespinger, Gebrüder. | C. Merian-Kespinger, allein. | Eidg. patentierter Pulver-\n| | verkäuf er, Feuerwerke\n| | u. Specereiwaaren.\n| | Colonialwaaren.\nKespinger, Ludwig. | Albert Gemuseus. |\n| J. C. Tschudy, Prokuraträger. |\nRichter-Linder. | Richter-Linder. |\n| C. Richter-Dölli. |\n| J. J. Altwegg-Richter. |\nKieber, Carl. | C. Kieber-Heller. | Engl. Spiken u. Tulle,\n| H. Heller, Sohn. | Mercerie.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6844,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2290,
+    "lines": 56,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.91,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:25:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p053",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p053.jpg",
+      "bytes": 1327800,
+      "sha256": "bd894e9a0ea286b2a8bc86b580414136d52b360e2fe7aa5ccd6a5d5613d73614",
+      "sha256_of": "original",
+      "working_copy": "1862_p053.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:25:45+00:00"
+  }
+}

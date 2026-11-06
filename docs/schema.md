@@ -112,6 +112,20 @@ ist `occupation_raw` meist leer und die Rubrik trägt den Beruf.
 | `phone_flag`, `parse_confidence`, `note` | wie oben; `note` sammelt unzugeordnete Zeilen |
 | geplant: `street_norm`, `lat`, `lon`, `osm_way_id`, `geo_method`, `geo_confidence` | Normalisierung (06) und Geokodierung (10) |
 
+## 05_buildings_geo.csv — Verortung je Gebäude (Basel, `scripts/10_geo_hgb.py`)
+
+| Spalte | Inhalt |
+|---|---|
+| `building_id`, `volume`, `street_raw`, `building_no`, `house_no_old` | aus `05_buildings.csv` |
+| `space` | Nummernraum: `gb` (Grossbasel), `kb` (Kleinbasel), `bann` |
+| `dossier_id`, `dossier_title` | HGB-Dossier(s) (`;`-getrennt, höchstens 5) und Titel = Adresse 1862 |
+| `match_method` | `street_no` (1862, genau ein Dossier mit genau dieser Nummer), `street_no_multi` (Dossier mit mehreren Nummern), `old_no` (alte Nummer eindeutig), `old_no_multi` (mehrere Dossiers, Schwerpunkt), `no_location` (Dossier ohne Standort), leer = kein Treffer |
+| `n_candidates` | Zahl der Dossiers hinter dem Punkt |
+| `e`, `n` | LV95 (EPSG:2056), bei mehreren Dossiers der Schwerpunkt |
+| `lat`, `lon` | WGS84 (swisstopo-Näherungsformel, ~1 m) |
+| `geo_confidence` | `high` (eindeutig), `medium` (Schwerpunkt) |
+| `check_old_no` | 1862: `ok` / `abweichend` / `hgb_leer` — alte Nummer der Tabelle gegen `oldHousenumber` des HGB |
+
 ## 05_residents.csv — ein Bewohner je Zeile (Stufe 5)
 
 Die eingerückten Bewohnerzeilen unter einem Gebäude, geparst wie ein Einwohnereintrag

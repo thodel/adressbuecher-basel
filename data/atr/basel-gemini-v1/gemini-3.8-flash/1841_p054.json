@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p054",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p054.jpg",
+    "bytes": 979741,
+    "sha256": "7da64dd2e4c4f533be28513f562086a7c4316cbd6c91c988b0b5e43d750a46a3",
+    "sha256_of": "original",
+    "working_copy": "1841_p054.jpg"
+  },
+  "text": "47\nNro.\n1296 Bay, Emanuel, Papierer.\n1297 Sieber-Bischoff, Bandfabrik.\n1298 Weber, J. G. sel., Wittwe.\n1299 * Siegrist, Heinrich, Metzger, geh.\n1300 Thurneisen-Fäsch, Ludw. Andr.\n1301 Scheune, Iselin-Forkart, L., geh.\n1302 Scheune, zu Nro. 1304 geh.\n1303 * Siegrist, Joh. Heinrich, Metzger, geh.\n  Siegrist, Martin, Müller.\n1304 * Forkart-Weiß und Söhne geh.\n  Krauer, Rud., Sohn, Müller.\n1304 b Scheune und Stall.\n1305 Müller-Linder, Rud., Müller.\n  Linder, Emanuel, Professor.\n1306 Der Stadt.\n1306 a Bieler, Jakob, Lohnwascher.\n1307 * Iselin-Forkart, Lukas, geh.\n1308 Wehrlin, J. J., Müller.\n1309 St. Alban-Kloster. Freyvogel und Böcklin.\n1310 St. Alban-Kirche.\n\nSt. Alban-Vorstadt.\n\n1311 Stehlin, J. J. sel., Wittwe.\n  Sauvain-Stehlin, David Sal.\n1311 A Vischer-Handmann, Eduard.\n1312 Iselin-Forkart, J. L., Wolltuchhandlung.\n  Iselin-Christ, Rud.\n1313 Würz, Joh., Zuckerbeck.\n1314 * Bischoff-Frey, Maria, Wittwe. — Abt, J., Kutscher.\n1315 Keßler, Math., Fabrikarbeiter.\n1316 Rohner, Joh., Beck.\n1316 c Ebendemselben. — Hofer-Petri, J. J., Handels-Commis.\n1317 Wetzel, Martin, Papierformenmacher.\n1318 Sutter, Christoph, Kremper.\n1319–1322 Sarasin-Burckhardt, Felix, geh.\n1323 Schmidt, J. J. sel., Wittwe, geb. Landerer.\n1324 Ridecker, Mathias, Handels-Commis.\n1325 Grunauer, Christ., Pfarrer.\n1326 * Obrigkeitlich.\n1327 Oser-Falkner sel. Wittwe.\n1328 Schilling, Joh. Rud., Handels-Commis.\n1329 Blendinger, Jakob, Ferger.\n1330 Wagner-Rudin sel. Wittwe; Spezereihandlung.\n1331 Felber, Heinrich, Grabmachers, Wittwe.\n1332 Meck, Elias, Handels-Commis.\n  Meck, Gottlieb, Schreiner.\n1333 Brunner-Scholer, Jos.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6518,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1607,
+    "lines": 48,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:48:16+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p054",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p054.jpg",
+      "bytes": 979741,
+      "sha256": "7da64dd2e4c4f533be28513f562086a7c4316cbd6c91c988b0b5e43d750a46a3",
+      "sha256_of": "original",
+      "working_copy": "1841_p054.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:48:16+00:00"
+  }
+}

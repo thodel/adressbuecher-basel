@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p060",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p060.jpg",
+    "bytes": 1503016,
+    "sha256": "47b5198d95efd76f334350a425a669d2c9d1871b11ab0130f74af974fbc59dd1",
+    "sha256_of": "original",
+    "working_copy": "1862_p060.jpg"
+  },
+  "text": "Berichtigungen, Handänderungen und Neubauten.\n\nBemerkung. Die folgenden Berichtigungen und Einschaltungen beziehen sich nur auf die\nHauseigenthümer, resp. auf die in den folgenden Bogen mit größerer\nSchrift gedruckten Zeilen und Namen, welche daher wie folgt, abzuändern sind.\n\nSeite. | Straße. |  | Neue Haus-Nr. | Quart. | Alte Haus-Nr. | Name der Hauseigenthümer.\n5 | Aeschengraben. | einschalt. | 6 | IV | 999 | Götz-Hauser, Rudolf Heinrich.\n6 | \" | \" | 26 | III | 971 | Epple-Stöcklin, Christ.\n | \" | lies | 28 | IV | 971 A d | Delhafen, Samuel, Mechanikus.\n | \" | \" | 30 | IV | 971 A | id. id. id.\n | \" | \" | 32 | IV | 970 e | Gasquet-Siegrist, Friedrich Wilh.\n8 | Aeschenvorstadt. | \" | 44 | IV | 981 | Huf, Josef, Gastwirth z. Sternen.\n9 | \" | \" | 45 | IV | 1024 | Glock, Ed., Bierbrauer, (z. Nepper.)\n10 | \" | \" | 61 | IV | 1011 | Kaus-Brodbeck, Martin, Hafner.\n11 | \" | \" | 70 u. 72 | IV | 996 u. 97 | Kußmaul-Schlack, Michael.\n12 | St. Alban­kirch- | \" | 4 | V | 1282 i | Thurneysen-Fäsch, Ludw. Andreas.\n | rain. | \" | 6 | V | 1276 B | Bischoff-Respinger, Hieronimus.\n13 | \" | streiche | 8 | V | 1276 B | id. id.\n | \" | lies | 12 | V | 1306 | Wetzel-Voll, Johann Jacob.\n | \" | \" | 14 | V | 1306 A | Stadtgemde. Basel, (Hirzlimühle.)\n | St. Albanrhein- | \" | 102 | V | 314 A | Kußmaul-Schlack, Michael.\n | weg. | streiche | 104 | V | 314 | Kußmaul-Schlack, Michael.\n | \" | lies | 106 | V | 315 A | Hediger-Weber, Hans Rudolf.\n | \" | streiche | 110 | V | 315 | id. id.\n | \" | \" | 112 | V | 315 A | id. id.\n14 | St. Albanthal. | lies | 25 | V | 1288 | Kußmaul-Schlack, Mich., mechan.\n  Werkstatt. (Herbergmühle.)\n | \" | \" | 27 | V | 1288 A | Merian, Alfred, Magazin (zur Her-\n  bergmühle.)\n | \" | einschalt. | 43 | V | 1281 a | Thurneysen, Hans Rudolf und\n  Müller, Mich.\n | \" | \" | 47 | V | 1281 g | id. id. id.\n15 | \" | streiche | 46 | V | 1279 | Wetzel-Matzinger, J. J.\n | St. Albanthor- | lies | 4 | V | 308 B | Theodor Ecklin (allein.)\n | graben. | einschalt. | 6 u. 8 | V | 308 C | Haller-Marfort, Victor (Remise).\n16 | St. Alban-Vor- | lies | 18 | V | 1222 | Respinger-Sarasin, Doroth. s. Erb.\n | stadt. | \" | 33 | V | 1336 | Heimers-Ludolf, Heinr. Wilhelm.\n17 | \" | \" | 48 | V | 1234 | Rudin, Jacob, Musterweber.\n18 | \" | \" | 49 | V | 1320 | Sarasin - Brunner, Wb. Rosalie,\n  (zum schönen Eck.)\n | \" | \" | 51 | V | 1320 C | Sarasin-Brunner, Wb. Rosalie.\n21 | Allschw.-Straß. | \" | 31 | II | 102 N | Carl Schmieder (allein.)\n22 | St. Andreaspl. | \" | 12 | II | 547 C b | Gerspach, Friedrich, Kutscher.\n | \" | \" | 13 | Il | 547 a | Gerspach, Friedrich, Kutscher.\n | Augustinergasse | \" | 7 | V | 1481 | Amsler-Wenk, Rud. (z.Rappenfels.)\n23 | \" | \" | 11 | V | 1479 | Ehinger-Sarasin, Ludwig.\n | Austraße Nr. 24 bis u. mit Nr. 50 in's Steinenquart. (III), statt Spalenquar. (II) zu setzen.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 12761,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2802,
+    "lines": 46,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 59.26,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:33:27+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p060",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p060.jpg",
+      "bytes": 1503016,
+      "sha256": "47b5198d95efd76f334350a425a669d2c9d1871b11ab0130f74af974fbc59dd1",
+      "sha256_of": "original",
+      "working_copy": "1862_p060.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:33:27+00:00"
+  }
+}

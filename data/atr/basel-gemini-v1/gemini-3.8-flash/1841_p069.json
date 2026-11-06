@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p069",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p069.jpg",
+    "bytes": 777937,
+    "sha256": "334c569406bf5b987ec758416473fea06162ad91778f3499ede51985c09618e3",
+    "sha256_of": "original",
+    "working_copy": "1841_p069.jpg"
+  },
+  "text": "62\n\nNro.\n1746  Fischer, Jungfrau, Anna Maria.\n1747  * Hoffmann-Brodbeck, Heinrich, geh.\n1748  Löw, Joh. Georg, alt Landjäger, von Benken.\n  Nägelin, Joh. Andr., Schuhmacher.\n1749  * Löw, Joh. Georg, geh.\n  Meyer, Jakob, Metzger.\n\nSchneidergasse.\n\n1750  Liebreich, Joh. Conrad, Schneider.\n1751  * Seul, Joh. Jakob, Kappenmacher, geh.\n1752 }\n1753 }  Zimmermann, Peter sel., Wittwe, geb. Früh, Uhrenmacher.\n1754  Weber, Heinrich, Schuhmacher.\n1755  Atz, Bernh. sel. Wittwe, geb. Lindenmeyer, Buchbinder.\n1756  * Kling, Johannes, Metzger, geh.\n  Geßler, Heinrich, Metzger.\n1757  Obrecht, Joh. Jakob, Ferger.\n1758  Bauler, Sebastian sel. Wittwe, geb. Köllner.\n1759  Wolf, Bernhard, Handelsjude.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4755,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 689,
+    "lines": 20,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.05,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0029,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:50:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p069",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p069.jpg",
+      "bytes": 777937,
+      "sha256": "334c569406bf5b987ec758416473fea06162ad91778f3499ede51985c09618e3",
+      "sha256_of": "original",
+      "working_copy": "1841_p069.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:02+00:00"
+  }
+}

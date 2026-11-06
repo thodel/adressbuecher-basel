@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p076",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p076.jpg",
+    "bytes": 991784,
+    "sha256": "8e8e05a4059f2e21aca8bad10514fa914dbf024e3f6a1a7bc1631ebebb260c9b",
+    "sha256_of": "original",
+    "working_copy": "1850_p076.jpg"
+  },
+  "text": "St. Alban-Quartier. 63\n\nMünsterplatz.\n\n1412 (Münsterkirche) Obrigkeitlich.\n\nSpitalsprung.\n\n1413 Mätzinger, J. B., Siegrist und Nadler.\n1414 Gally, Joh., Anatomiediener.\n1415 Duthaler, Ferdinand, Commis.\n1416 Schmidt, Melch., Schneider.\n1417 Geigy-Buxtorf, Karl, Material- u. Farbwaarenhdlg.\n1418 Riedtmann, Eml.\n  Freuler, Nikl., Schuhmacher.\n1419 Thurneisen-Bell, Heinr., Schneider.\n\nFreie Straße.\n\n1420 Bernoulli-Cailler, Eml., Seidenhandlung.\n1421 Müller, Konrad, Vater, Schuhmacher.\n1422 von Speyr-Bernoulli, Wittwe, Susanna [handschriftlich: gestrichen]\n  von Speyr, Karl Wilh., J. U. D., Notar.\n  LaRoche, Joh. David, Rentier.\n1423 Mätzinger-Löw, Bernh., Commis.\n  Jenny-Erlacher, Wittwe, Geschirrladen.\n1424 Hosch, J. J., Commis.\n  Alibert, J., Parfumerie- und Strohhuthandlung.\n1425 (Zunft zum goldenen Stern) Schabelitz-Flick, Jak.\n    Christ., Buchbinder, Buchhandlung.\n  Schabelitz, F. L., Redakteur der Nat.-Zeitung.\n1426 Brenner-Guéniard, Wittwe Adèle, Seidenwaaren-\n    handlung.\n1427 Treulin, Joh. Jak., Postfaktor.\n  Rigiani, D., Chocoladefabrikant.\n1428 Bemmerer, Ludwig, Spengler.\n1429 Grether, Matthias, Materialist.\n  Grether, Dl., Rentier.\n1430 Beck, Alexander, Gürtler und Bronceur.\n  Hablützel, Karl, Zollangestellter.\n1431 Leuba, Hch., Sohn, Uhrenmacher.\n  Müller, Joh., Kostgeber.\n1432 Schnegg, Joh. Jak., Glockengießer.\n1433 Müller, Wittwe Ernestine, Posamentier.\n1434 Beaudroi-Lippe, Wittwe Sal., Metzger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8480,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1432,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p076",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p076.jpg",
+      "bytes": 991784,
+      "sha256": "8e8e05a4059f2e21aca8bad10514fa914dbf024e3f6a1a7bc1631ebebb260c9b",
+      "sha256_of": "original",
+      "working_copy": "1850_p076.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:11+00:00"
+  }
+}

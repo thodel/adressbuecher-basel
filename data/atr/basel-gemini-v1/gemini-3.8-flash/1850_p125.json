@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p125",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p125.jpg",
+    "bytes": 1088143,
+    "sha256": "9d2f3efbd714b07f1b38d2fe9050d5bf3650848ccc15af7ffb5421d1f907c1be",
+    "sha256_of": "original",
+    "working_copy": "1850_p125.jpg"
+  },
+  "text": "112\n\nKündig-Linder, Theodor 119\nAndreas, Küfer 420\nEuchar., Diacon 562\nRud., Tapezierer 1698\n-Geiger, Wwe., Magd. 28\nWwe., F., Nudelnm. 200\nKünzle, Wwe., Glätterin 1697\nKunz, Rud., Flachmaler 791\nKunz, Seb., Fabrikarb. 682\nWittwe 1700\nP., Schuhwichsefabr. *271\nKünzlin, R. 100\nKünzy, Ferd. 434A\nKupferschmied, Lukas 189\nKürsteiner, Wittwe 1478\nKuster, F. Fz., Spezierer 692\nKußmaul, Mich., Mechan. 997\nKyburt-Rumpf, Wittwe 913\nLabhardt, Gebrüder 874\nLacher, Jos., Kunstmaler 74\nLämmlin, Frau 282\nLanderer-Maring, L. 111\nLouis, Kaufmann 971A\nRichard, Partikular *159\nLudw., Schreiner *161\nFrau Esther 622\nWittwe, Valeria 1084B\nFäcklin, Wittwe 1738\n-d'Annony, Wittwe *92\nLandolt, Bierbrauer *197\nLang, Gg., Ant. u. Jos. 769\nSim. u. Andr., Musiker 834\nAdam, Musiker 838\nSaml., Schuhmacher *268\n-Oser, Wittwe *229\nLangmesser, David 22\n-Paravicini, Dav. 59\nHieronimus 489\nSamuel, Schreiner 503\nu. Schellenberg 1146\nJ. J., jgr., Sattler 1626\nJ. H., Seiler *235\nJ. Ulr., Sattler *375\n[spalte 2]\nLangmesser-Gruber, Elis. 617\nLapp, Felix, Papierer 573\nLaRoche, S. E., Pfarrer 243\n-Vischer, J. J., Vater 520\n-Stähelin, Benedikt 520\nGerman, Deputat 552\n-Burckhardt, August 552\n-Bez, Emanuel 553\nAndr., Partikular 1217\n-Merian, Gustav 1362\nJoh. David 1422\n-Heußler, Wwe., K. 1217\nLaudier, S., Zettlerm. *100\nLechleiter, Fz. F., Commis 294\nLefèbvre, P., Modehlg. 1541\nLegrand, Ad., Bankier 228\ndeNeufville, Lukas 231\n-LaRoche, W., Pfr. 893A\n-Heußler, Wittwe 384\nLehmann-Berger, Jul. 1453\nLehrer, Wwe., Kostgeb. 1246\nLeibzig, P. H., Gastwirth 142\nLeicher-Heusler, Wwe. M. 791\nLeithard, H., Hutmacher 1159\nLerch, Const. u. P. Jos. 1596\nLeser, Friedr., Kutscher 1367\nLeuba, H., Sohn,Uhrenm. 1431\nHch., älter \" 1641\nLukas Hieron. \" 1726\nLeucht-Keller, Friedr. 113\nLeupin, Bened., Commis *79\nLeuthardt, F., Schlosser 131\nWwe., M., Schuhm. 1109\nLeuzy, Steinhauer 676\nLevy, Abr., Ellenw.-Hlg. 609\nLicentiat en droit 1351\nLex, Fel. Jos., Notar 441A\nLichtenhahn, F., Stukator 1A\nRud., Kaufmann 50\nKarl, Alt-Stadtrath 253B\n-Gyßler, Ben., Sensal 433\n-Hagenbach, F. Rud. 751\nFr., Maler 790",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 10425,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2064,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.45,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:20:36+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p125",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p125.jpg",
+      "bytes": 1088143,
+      "sha256": "9d2f3efbd714b07f1b38d2fe9050d5bf3650848ccc15af7ffb5421d1f907c1be",
+      "sha256_of": "original",
+      "working_copy": "1850_p125.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:36+00:00"
+  }
+}

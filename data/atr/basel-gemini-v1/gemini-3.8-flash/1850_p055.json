@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p055",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p055.jpg",
+    "bytes": 948184,
+    "sha256": "f3e50947187f668a8ee2647a40d378472d4a9390f304e8ea4cf25a7c6f358058",
+    "sha256_of": "original",
+    "working_copy": "1850_p055.jpg"
+  },
+  "text": "42\tAeschen = Quartier.\n\n939\tGnöpf, Joh. [handschriftlich: gestrichen] [handschriftlich: Carl], Weißbeck, Weinschenk. [handschriftlich: gestrichen] [handschriftlich: [...] Erben.]\n\tBaader, Friedrich, Straßen-Inspektor.\n940\tDobler-Burkhardt, Wittwe Helene, Rentière.\n\tRyhiner, Karl, Bandfabrikant.\n941\tWieland, Jgfr., Anna Maria, Kapitalistin.\n942\tChrist-Kyburt, J. J., Spezereihdlg.\n943\tMeyer, J. J., Beck.\n\tDebrunner, Hch., Commis.\n944\tDietrich, Wilhelm, Beck.\n\tMerian, geb. Bloch, Wittwe, M. M., Rentière.\n945-46\tWerthemann, Andr., Obrist, Commiss.- und Spe-\n\t  ditionshandlung.\n\tWerthemann, Jgfr., Marg., Kapitalistin.\n947\tKehlstadt, Ludwig, Sohn, Beck.\n948\tMerian, Benedikt, Sattler.\n949-50\tGemuseus-Respinger, Hier., Kaufmann.\n\tRespinger-Preiswerk, Wittwe, A. M. Rentière.\n\tGemuseus, Jgfr, Julie, Rentière.\n\tRespinger-Gemuseus, B., Kaufmann.\n\tTschudy, J. Christoph, Commis.\n951\tKübler-Grey, Wittwe, Cath.\n\tSchmied, Ol., Kübler.\n952\tRohner, Schwestern, [handschriftlich: gestrichen] [handschriftlich: jetzt J. J. Keller Kupferschmid]\n953\tEisinger, G. J., Spengler.\n954\tGürtler-Vest, J. J., Commis.\n955\tHauser-Gürtler, Dav., Geschäftsagent. Comptoir in\n\t  Nr. 1542.\n956\tRonus, Jgfr., Kathar., Kapitalistin.\n957\tMende, Benedikt, Hafner.\n\tBloch-Herzog, Dan., Commis.\n958\tKühn, J. J., Schuhmacher, Weinsticher.\n\tBaur-Bader, Georg, Ferger.\n\tFischer-Werdenberg, Wittwe.\n959-60\tHorner, Daniel, Weißbeck.\n\nSternengäßlein.\n\n961\tZimmermann, Peter, Kutscher.\n962\tFreyburger-Salathe, W., Trödlerin.\n963\tBollier, Georg, Posamenter.\n964\tBaumgartner, Johann, Schuhmacher.\n965\tHerbel, Eberhard, Zimmergeselle.\n966\tSchaub, Martin, Kosthaus.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7390,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1626,
+    "lines": 42,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 37.21,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0018,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p055",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p055.jpg",
+      "bytes": 948184,
+      "sha256": "f3e50947187f668a8ee2647a40d378472d4a9390f304e8ea4cf25a7c6f358058",
+      "sha256_of": "original",
+      "working_copy": "1850_p055.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:48+00:00"
+  }
+}

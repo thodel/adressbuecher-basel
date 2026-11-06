@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p102",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p102.jpg",
+    "bytes": 1056105,
+    "sha256": "725502817ed98b9332f32516068c194264a025ec294ba00347200b4f0f9b2b78",
+    "sha256_of": "original",
+    "working_copy": "1850_p102.jpg"
+  },
+  "text": "Bläsy-Quartier.\n89\n\n266 (Floretseidenspinnerei) Ryhiner und Söhne geh.\n  Schwob, Joh., Fabrikaufseher.\n267 Kray-Löliger, Wittwe M., Schneiderin.\n268 Lang, Sam., Schuhmacher.\n  Simmen, Melch., Zimmermann.\n269 Sayer, J. Fch., Fabrikarbeiter.\n\nBeim Bläsythor.\n\n270 Masarey, Frz., Seidenfärber, Lohnwascher.\n271 Kunz, Peter, Schuhwichsefabrikant.\n272 Weber, Jakob, Metzger und Wirth.\n  Kling-Keller, Joh. Jak., Zolleinnehmer.\n  Christ, Balth., Commis.\nA 272 Uhlmann-Mazinger, Abr., Ferger.\n273 (St. Bläsythor) Obrigkeitlich.\n\nZwischen den Thoren (sog. Drathzug).\n\nA 273 Grissard, J. G., Mechaniker.\n  Schröder, Karl, Mechaniker.\nB 273 (Missions-Voranstalt.) Kolb, E. Ch., Vorsteher.\nC 273 Hofer, Seb., Tabackfabrikant.\n\nBeim Bläsythor.\n\n274 Clavel-Linder, Alex., Seidenfärber.\n  Linder, Heinrich, Alt-Kanzlist.\n  Burkhardt-Schönauer, L., Kunstmaler.\n  Bürger, J. Georg, Handels-Agent.\n\nUntere Rebgasse.\n\n275 Schnäbelin, Joh. Ulrich, Schneider.\n276 Fäsch, Eml., Sohn, Weißbeck.\n277 Baumgartner, L., Kübler, Holzsetzer.\n\nWebergasse.\n\n278 Finninger, H., Metzger.\n  Finninger, Wittwe.\n279 vonMechel, Rudolf, Küfer.\n280 David, Hieronymus, Metzger.\n  Sprenger-Malsner, Jak., Commis.\n  Ranz, W., Dessinateur.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5655,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1197,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 30.49,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:03+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p102",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p102.jpg",
+      "bytes": 1056105,
+      "sha256": "725502817ed98b9332f32516068c194264a025ec294ba00347200b4f0f9b2b78",
+      "sha256_of": "original",
+      "working_copy": "1850_p102.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:03+00:00"
+  }
+}

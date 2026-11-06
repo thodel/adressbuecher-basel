@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p191",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p191.jpg",
+    "bytes": 989602,
+    "sha256": "588b1d0643ba3a631465ad96e81efd166a0b975ead0e5185855c1be35c8f8be4",
+    "sha256_of": "original",
+    "working_copy": "1841_p191.jpg"
+  },
+  "text": "― 38 ―\n\nHaller, Jakob, von Gontenschwil, Taglöhner. 68\n  Mittlere Straße.\nHartmann, Jakob, von Bretzwil, Lehenmann. 63 a.\n  An der Wiesenbrücke.\nHartmann, Heinrich. 68 Mittlere Straße.\nHauser, Samuel, von Elm, Gutsbesitzer. 25 Klibeckstraße.\nHausmann, Rudolf, von Schafisheim, Taglöhner. 59 b.\n  An der Klibeck.\nHeckendorn, Johannes, von Langenbruck, Gärtner. 22\n  Klibeckstraße.\nHeer, Romanus, von Klingnau, Bleicherknecht. 75 Beim\n  alten Bannwartshäuslein.\nHindermann, Joh. Jakob, Gutsbesitzer. 53 Klibeckstraße.\nJ.\nJägger, Joseph, von Breitenbach, Posamenter. 73 Mittl.\n  Straße.\nIsler, Joh. Rud., von Gutenschwil, Blattmacher. 81\n  Mittlere Straße.\nK.\nKeller, Jakob, von Wald, K. Zürich, Gärtner. 11\n  Klibeckstraße.\nKeller, Michael, von Hauenstein, Gärtner und Lehenmann.\n  38 Klibeckstraße.\nKlausfelder, Burckhardt, von Basel=Augst, Steinhauer.\n  59 An der Klibeck.\nKlotz, Peter, von Neudorf, Gärtner. 13 Klibeckstraße.\nKramer, Joh., von Freiburg, Gärtner. 34 Klibeckstraße.\nL.\nLachenal (de), Friedrich, alt Professor. 8 Klibeckstraße.\nLäser, Heinrich, von Gontenschwil, Gärtner. 62 Horburg.\nLeu, Jakob, von Hohenrein, Gärtner. 58 An der Klibeck.\nM.\nMeister, Joseph, von Lauberstorf, Lehenmann. 69\n  Mittlere Straße.\nMethua, Alois, von Böllingen, Gärtner. 82 Mittlere Straße.\nMeyer, Mart., v. Eptingen, Posamenter. 68 Mittl. Straße.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6879,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1339,
+    "lines": 37,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0811,
+    "mean_line_chars": 34.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:06:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p191",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p191.jpg",
+      "bytes": 989602,
+      "sha256": "588b1d0643ba3a631465ad96e81efd166a0b975ead0e5185855c1be35c8f8be4",
+      "sha256_of": "original",
+      "working_copy": "1841_p191.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:08+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p168",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p168.jpg",
+    "bytes": 1119875,
+    "sha256": "39c75b87aeef223fd7ee6754f952d7194f3ba1edd726b2fa537c4c95b6117371",
+    "sha256_of": "original",
+    "working_copy": "1841_p168.jpg"
+  },
+  "text": "— 15 —\n\nS.\n\nSalathe, Joh. Jakob sel. Wittwe, geb. Leuthard. 9 b.\n  St. Joh. Vorstadt.\nSalathe, Joh. Georg, Metzger. 1034 Aeschen-Vorstadt.\nSalathe, Johannes, Hafner. 542 Imbergäßlein.\nSalathe-Marchand, Abr., Koch. 183 Unterer Herbergberg.\nSarasin, Karl, Kaufmann. 1358 Rittergasse.\nSarasin-Burckhardt, Felix, Rathsherr. 1319-1322 St.\n  Alban-Vorstadt.\nSauvignet, Henri René, Appreteur. 1257 Malzgasse.\nSchäffer, Friedrich, Fabrikarbeiter. 1156 Gerbergasse.\nSchäffer, Mathias, Commis. 817 Vordere Steinen-Vorstadt.\nSchärer, Christian, Tanzlehrer. 404 Heuberg.\nSchärer, Joh. Heinr., Schneider. 1713 Unterer Spahlenberg.\n* Schäublin-Meyer, Joh. Abel. 659 Gerbergasse.\nSchaffner, Ursula, Jgfr., Modiste. 1160 Gerbergasse.\nSchaffner, Friedrich, Conducteur. 20 St. Joh. Vorstadt.\nSchardt, Jakob, Schuhmacher. 412 Trillengäßlein.\nSchardt, Wittwe, geb. Vest. 1572 Hinter der School.\nScharf, Alois, Privatlehrer, v. Zeiningen. 1758 Schneiderg.\nSchenkel, Dan., von Schaffhausen, Licentiat der Theol.\n  und Redacteur der Basler Zeitung. 159 Fischmarkt.\nScherb, Heinrich, Zimmermann. 184 Unterer Herbergberg.\n* Schilling, Abraham, Wagner. 343 und 344 Fröschgasse.\n* Schilling, Joh. Rud., Hufschmied. 348 Spahlen-Vorstadt.\nSchmid, Rud., J. U. Dr. und Notar. 703 hinter d. Stöcklein.\nSchmid, Karl, Wirth und Kunstmaler. Gesellschaftshaus\n  zur M燃d. 38 St. Johann-Vorstadt.\n* Schmid, Rud., J. U. Dr. und Notar. 704 b. St. Leonhardsb.\nSchmid, Jak. Theod., Schreiner. 826 Vordere Steinen-Vorst.\n* Schmidlin, Wilhelm, Lehrer der Mathematik am Gym-\n  nasium. 908 St. Elisabethen.\nSchnäbelin, Heinrich, Lohnkutscher. 398 Heuberg.\nSchnäbelin, Adam, Kaufhausarbeiter. 1705 Unterer\n  Spahlenberg.\nSchneider, Jeremias. 1243 Malzgasse.\nSchneider, Jakob, Fabrikaufseher. 754 g. Kohliberg.\nSchneiter, Martin, Schuhmacher. 1123 Pfluggasse.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7320,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1811,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 45.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:03:30+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p168",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p168.jpg",
+      "bytes": 1119875,
+      "sha256": "39c75b87aeef223fd7ee6754f952d7194f3ba1edd726b2fa537c4c95b6117371",
+      "sha256_of": "original",
+      "working_copy": "1841_p168.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:03:30+00:00"
+  }
+}

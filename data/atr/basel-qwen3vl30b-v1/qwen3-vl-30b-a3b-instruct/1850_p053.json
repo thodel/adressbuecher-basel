@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p053",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p053.jpg",
+    "bytes": 939365,
+    "sha256": "2d11ac307f19e7519e5a51007fdec42a7e6a81ae651339ac19fc8fc95ac54892",
+    "sha256_of": "original",
+    "working_copy": "1850_p053.jpg"
+  },
+  "text": "40\nAefchen=Quartier.\n881 Brolly, Martin, Tabackspinner.\n882 Christen, Peter, Feger.\n883 Magazin.\nAefchen=Quartier.\nKlosterberg.\n884 Haas-Georg, August, Flachmaler.\n885 Magazin.\n886 Buxtorf-Merian, Lud., Handelsmann.\n887 Vogt, Joseph, Kutscher.\n888 Klingelsuk, Jgfr., B. M., Schneiderin.\nSt. Elisabethen.\n889 Schrämliu, Frau Elise, Kostgeberin.\n890 Meister, Heinrich, Zimmermann.\n891 Magazin von Werthenmann-Burkhardt.\n892-93 Unbewohnt.\nA 893 LeGrand-LaNoche, Wilh., Pfarrer.\nB 893 Rumpf-Zmhoi, W., S. M. C., Lehrer.\nBeck, Karl, Kaufmann. Comptoir in Nr. 759.\n894 Dan, Johann, Sohn, Schreiner.\nBachmann, Geschwister.\n895-97 (Zehndscheune) obrigkeitlich.\n898-99 (Spitalscheune) löbl. Spital-Verwaltung geh.\nGottesacker und Todtenhaus.\nErnst, Balthasar, Abwart.\n900-2 Mengis, Peter, Partikular.\n903 Kessler, Peter, Zimmermann.\n904 Fiechter, Joh. Jak., Bandfabrikant.\nBrugger-Fiechter, Jof., Handels-Commis.\n905 Burkhardt-Fselin, Wittwe, Cath., Rentiere.\nA 905 Reinle, Johann, Zimmermeister.\n906 (Fabrikgebäude) Pfister, Joh., Auffeher.\n907 Schwob, Hans Jak., Brunneknecht.\n908 Schmiedlin-Fischer, Wilhelm, Lehrer.\n909 Bienz, F. F., Kaminfeger.\n910 Lichtenhahn, Joh. Rud., Schreiner.\nSutter, Rudolf, Pofamenter.\n911 Bref, Ludwig, Tabackfabrikant.\nMörgelin, Joh., Tabackfabrikant.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4339,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1275,
+    "lines": 40,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 30.9,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0024,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:08:12+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p053",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p053.jpg",
+      "bytes": 939365,
+      "sha256": "2d11ac307f19e7519e5a51007fdec42a7e6a81ae651339ac19fc8fc95ac54892",
+      "sha256_of": "original",
+      "working_copy": "1850_p053.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:12+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p039",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p039.jpg",
+    "bytes": 857526,
+    "sha256": "a85fa00260c1b7dbfa199417934622e18d4c5ba7e4a85906a3e30bf2bd07b838",
+    "sha256_of": "original",
+    "working_copy": "1841_p039.jpg"
+  },
+  "text": "32\n\nNro.\n\nHintere Steinen-Vorstadt.\n\n840 * Tschopp, Joh., Beck.\n841 Gysin-Rosenburger, J. Chr., Geldwechsler.\n  Abt, Daniel, Posamentier.\n  Basler, Rud., Steinhauer.\n842 Gysin, Conrad, Handels-Commis.\n  Gysin-Fuchs, P., Waffenhandlung.\n843 Löw, Joh., Schneider.\n844 Müller, Joh. Bapt., Hausknecht.\n845 * Magazin, den HH. Gebr. Stähelin geh.\n\nUnterer Klosterberg.\n\n846 u. 847 Hug, Hs. Ulrich, Partikular.\n848 Tschopp, Joh., Beck.\n949 Christen, Joh. Em., Spezereihandlung.\n850 Schuler, Eman. sel., Wittwe, Rothgerber.\n\nHintere Steinen-Vorstadt.\n\n851 Lichtenhahn, C. Chr., Rathschreiber sel., Wittwe.\n  Lichtenhahn, Carl, Staatsschreiber.\n852 } Schneider, Emanuel, Hufschmid.\n852 a }\n\nThorsteinen.\n\n853 Paravicini, Ludwig, Zimmermann.\n  Wüst, Math., Zimmergesell.\n854 * Bürgin, J., Seifensieder, geh.\n855 Bossart, Andr., Fabrikferger.\n856 Schweizer, J., Posamentier.\n  Christen, Joh. Jakob, Taglöhner.\n857 * Paravicini, Ludw., Zimmermann, geh.\n858 Lindenmeyer, B., Wachtmeister. (Zollerwohnung.)\n  Auf dem Thor, Heinrich Thommen.\n859 Martin, Emanuel, Weißbeck.\n  Lang, Joh. Rud., Commis.\n  Martin, Andr., Fabrikaufseher.\n860 Engler, Joh. sel., Wittwe.\n  Blech, Joh. Jakob.\n861 u. 862 Siegrist, Heinrich, Metzger und Spezereihändler.\n  Luttringshausen, J. J., Kunstmaler.\n863 Bienz, Carl Peter, Commis.\n864 Früh, Jak. Fr., Spanner.\n865 Röslin, J. Rud., Fabrikarbeiter.\n  Christen, Joh., Posamentier.\n  Stöcklin, J. Heinr., Posamentier.\n866 Müller, Joh. Jakob, Brunnmeister.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6731,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1469,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0222,
+    "mean_line_chars": 30.89,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T13:46:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p039",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p039.jpg",
+      "bytes": 857526,
+      "sha256": "a85fa00260c1b7dbfa199417934622e18d4c5ba7e4a85906a3e30bf2bd07b838",
+      "sha256_of": "original",
+      "working_copy": "1841_p039.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:46:29+00:00"
+  }
+}

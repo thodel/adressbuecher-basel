@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p107",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p107.jpg",
+    "bytes": 1310646,
+    "sha256": "a139ba9bee21d88afe12aa75b853607758748ebcc493cbf8046d88e1183fbcb5",
+    "sha256_of": "original",
+    "working_copy": "1862_p107.jpg"
+  },
+  "text": "42\nFreie Straße.\nNrn\nHaus-Mr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n15\tVI.\t1625\tz. ober'n Hermelin.\tHeitz-Schwarz, Rosina, Wittwe.\n\t\tHeitz-Schwarz, Ros., Quinquailleriehdlg.\n\t\tHeitz, Hieronimus, Geschäftsmann.\n\t\tHeitz, Bernhard, Roch.\n16\tVI.\t1632\t\t.\tWirz-Schneble, Joh. Heinr.\n\t\t.\tWirz-Schneble, Joh. Heinr., Zuckerb.\n\t\t.\tHartmann-Scherzer, Friedr., Maler und\n\t\t.\tPhotograph.\n17\tVI.\t1626\tzur kleinen Sonne.\tLangmesser, Joh. Jakob.\n\t\tLangmesser, Joh. Jak. Sattler.\n\t\tBraunschweig-Hirz, Raphael.\n\t\tKunz, Friedr, Hdgl. in opt. u. mathe-\n\t\tmatischen Instrumenten.\n18\tVI.\t1631 A\tStäblinsbrunnen.\tBernoullÿ u. Sohn, Nikl. de Hieron.\n\t\tBernoullÿ u. Sohn, Nikl. de Hieron.\n\t\tCompt. u. Magaz., Mater- u. Farbwh.\n19\tVI.\t1627\tzur großen Sonne.\tMenrich-Neuschwander, Heinr.\n\t\tMenrich-Neuschwander, H., Schneider.\n\t\tWyler-Thomas, Sam. Fel., Hutmch.\n20\tVI.\t1631\tStäblinsbrunnen.\tBernoullÿ u. Sohn, Nikl. de Hier.\n\t\tBernoullÿ u. Sohn, Nikl. de Hieron.\n\t\tCompt. u. Magazin, Material- und\n\t\tFarbwarenhandlung.\n\t\tKespinger-Bauer, Adolph, Kaufmann,\n\t\tBurchhardt, Joh. Rud., Stadtr. J.U.Dr.\n21\tVI.\t1628\tzur Bigilanz.\tGroben, Geschwister, Glashandlung.\n\t\tGroben, Geschwister, Glashandlung.\n\t\tWybert-Schmidt, Joh. Jak., Commis.\n\t\tWybert-Hug, Em., Dr. med., Eingang\n\t\tStapfelberg. (Siehe Stapfelberg Nr. 6.)\n22\tVI.\t1169 A\t\t.\tDieticker-David, Melchior.\n\t\t.\tDieticker-David, Melch., Kfm. Seiden-\n\t\t.\twarenhandlung.\n\t\t.\tMeyenrock, Louise u. Cath., Kent.\n\t\t.\tSchill-Ernst, Ed., Commis.\n\t\t.\tPery-Krebs, Anna Elis. Wb., Particul.\n23\tVI.\t1629\tBerner\t\tKiefer-Bär, Georg.\n\t\t.\tKiefer-Bär, Georg, Reg., Quincaillerie-\n\t\t.\tWarenhdlg. (Siehe Stapfelberg Nr. 8.)\n24\tVI.\t1170\tzur Schwanenau.\tGanzer-Jordan, Wilhelm.\n\t\t.\tGanzer-Jordan, Wilh., Pelzwaaren- u.\n\t\t.\tHuthandlung.\n25\tVI.\t1630\tSchliessel-Zunft.\tDüring-Hofmann, Mar. Wb., Modiste.\n\t\t.\tCorporationsgut.\n\t\t.\tRumpf-Bachofen, Hier., Alt-Posthalter.\n\t\t.\tErsparnis-Kaffe-Bureau.\n\t\t.\t(Siehe Stapfelberg Nr. 1.)\n26\tVI.\t1171\tZunft d. Brodbecken.\tCorporationsgut.\n\t\t.\tBurchhardt-Miville, Achilles, Zucker- und\n\t\t.\tPastetenbäcker.\n\t\t.\tMehri, Christian, Buchhandlung.\n27\tV.\t1448\tzum Stäblin.\tKespinger-Bernoullÿ, Emanuel.\n\t\t.\tKespinger-Bernoullÿ, E., Particular.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8112,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2216,
+    "lines": 64,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0156,
+    "mean_line_chars": 32.39,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:34:47+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p107",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p107.jpg",
+      "bytes": 1310646,
+      "sha256": "a139ba9bee21d88afe12aa75b853607758748ebcc493cbf8046d88e1183fbcb5",
+      "sha256_of": "original",
+      "working_copy": "1862_p107.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:34:47+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p109",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p109.jpg",
+    "bytes": 1282286,
+    "sha256": "bd3920f12448f4ffee343e785924df2228ef23650e8f72ca3a3777d13fd9a6b2",
+    "sha256_of": "original",
+    "working_copy": "1862_p109.jpg"
+  },
+  "text": "44\nFreie Straße.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=No.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n41\tV.\t1441\tzum Kupferthurm.\tKampferger=Hug, Emanuel.\n\tFreyvogel-Kampferger, Ernst, Agent.\n\tMojon-Schlumberger, Ros. Wb., Privat-Mädchen schule.\n\tSandreuter, Rudolph, Commis.\n42\tIV.\t1179\tzum Neuschenberg.\tJordan, Joh. Leonhard.\n\tJordan, Joh. Leonhard, Ferger.\n\tJordan-Monvillier, Carl Dav., Kaufm.\n\tBargäki-Eisenlohr, Peter, Schneider.\n43\tV.\t1440\tzur rothen Fahne.\tLang, Rudolph.\n\tLang, Rudolph, Quinquail.= u. Kunst.\n\tLang, Henry, Commis.\n\tLang, Joh. Nikl., Commis.\n\tRecordon, François, Lehrer.\n44\tIV.\t1180\tzum rothen Thurm.\tSimmler-Schmalz, F. Heinr.\n\tSimmler-Schmalz, F. Heinr., Schachtelmacher.\n\tGall-Fischer, Susanna, Wittwe.\n\tGall, Friederike, Jgfr., Stickereigeschäft.\n\tBeck-Krauer, Joseph.\n\tBeck-Krauer, Jos., Glas. u. Glashandlg.\n\tKrauer-Köchlin, Magdal. Wb., Part.\n\tSulger-Stachelin, Andreas.\n\tPjannenschmied-Schweizer, Barb. Wb., Damenschneiderin.\n45\tV.\t1439\tzur Mücke.\tTschopp=Holzach, Heinrich.\n\tJordan-Tschopp, F. F., Definateur.\n\tTschopp-Effig, Wittwe, Christona.\n\tSchenk-Leuzinger, August, Coiffeur.\n\tSchenk, Georg, Commis.\n\tHägler-Erni, Friedrich, Schumacher.\n46\tIV.\t1181\tzum Heiden.\tSulger-Stähelin, Andreas.\n\tSulger, Andr. u. Rudolf, Tabakhandlg. und Comptoir.\n\tSulger-Dobler, Louise Wb., Rent.\n\tBrenner-Sulger, Louise, Rent.\n\tSulger, Rudolph, Kaufmann.\n47\tV.\t1438\tzum Abel.\tParavicini-VonderMühl, Jul. Wb., Magazin der Eisenhandlg. E. Paravicini.\n\tParavicini-VonderMühl, Jul. Wb., Rent.\n\tParavicini, Em., Sohn, Kaufmann.\n48\tIV.\t1182\tzum blauen Mann.\tCorporationsgut.\n\tHegar-desGouttes, Aug., Musik.= und Instrumentenhändler.\n\tHauswirth, Georg, Leihbibl. u. Buchlg.\n\tHug-Fürbringer, August, Commis.\n49\tV.\t1437\tzum Falkenfeller.\tParavicini-VonderMühl, Jul. Wb., Magazin der Eisenhandlg. E. Paravicini.\n\tParavicini-VonderMühl, Jul. Wb., Rent.\n\tParavicini, Em., Sohn, Kaufmann.\n50\tIV.\t1183\tZunft zu Nebleuten.\tCorporationsgut.\n\tHegar-desGouttes, Aug., Musik.= und Instrumentenhändler.\n\tHauswirth, Georg, Leihbibl. u. Buchlg.\n\tHug-Fürbringer, August, Commis.\n51\tV.\t1436\tzum Falkenberg.\tParavicini-VonderMühl, Jul. Wb., Magazin der Eisenhandlg. E. Paravicini.\n\tParavicini-VonderMühl, Jul. Wb., Rent.\n\tParavicini, Em., Sohn, Kaufmann.\n52\tVI.\t1184\tSchuhmachernzunft\tCorporationsgut.\n\tRath-Plattner, F. Fried., Vergolder.\n53\tV.\t1434\tz. Schwarzenberg.\tBeaudroi-Böcklin, Wittwe.\n\tBeaudroi-Böcklin, Wb., Charcutiere.\n\tHahn, Friedrich, Metzger.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7778,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2464,
+    "lines": 66,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.1061,
+    "mean_line_chars": 35.71,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0008,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:35:02+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p109",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p109.jpg",
+      "bytes": 1282286,
+      "sha256": "bd3920f12448f4ffee343e785924df2228ef23650e8f72ca3a3777d13fd9a6b2",
+      "sha256_of": "original",
+      "working_copy": "1862_p109.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:02+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p187",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p187.jpg",
+    "bytes": 1000682,
+    "sha256": "b61a94edfcfb9ba5c030f7a92e35621d70a6f9a75476451e34efce1b29cf642d",
+    "sha256_of": "original",
+    "working_copy": "1841_p187.jpg"
+  },
+  "text": "— 34 —\n\nSchobinger, Ambrosius Karl, von St. Gallen, Stud.\n  156 Lohstampfberg. U. B.\nSchrag, Johannes, von Winigen, Lehenmann. 140 Schützen-\n  mattengasse. U. B.\nSchwander, Jakob, von Eptingen, Maurer. 154 Most-\n  acker. U. B.\nSchweizer, Heinrich, von Reigoldschwil, Taglöhner. 250\n  St. Jakobstraße. O. B.\nSeifert, Jakob, von Binningen, Landmann. 239 Mittl.\n  Gundeldingen. O. B.\nSeiler, Heinrich, von Bottmingen, Krankenmeister. 281\n  St. Jakob. O. B.\nSeiler, Jakob, von Bottmingen, Taglöhner. 281 St.\n  Jakob. O. B.\nSiegrist, Heinrich, von Niederdorf, Lehenmann. 233\n  Münchensteinerstraße. O. B.\nSingeisen, Jakob, Gutsbesitzer. 36 Klingelberg. U. B.\nSinger, Martin, von Langenbruck, Gutsbesitzer. 305\n  Herdsträßlein. O. B.\nSpinnler, Daniel, von Seltisberg, Posamenter. 192\n  Binningerstraße. O. B.\nStockmeyer, Nikolaus, Kaufmann. 1 Straße nach St.\n  Louis. U. B.\nStohler, Wernhard, von Zyfen, Fabrikarb. 272 Aeußere\n  Neusäß. O. B.\nStreckeisen, Emanuel, Zinngießer und Gutsbesitzer. 38\n  Klingelberg. U. B.\nSuter, Nikolaus, von Muttenz, Gutsbesitzer. 335 Vorder\n  Birsfeld. O. B.\n\nT.\n\nThommen, Friedr., von Aristorf, Lehenmann. 223 St.\n  Jakobstraße. O. B.\nThurneysen, geb. Stockmeyer, Wittwe, Part. 100 Schützen-\n  mattengäßlein. U. B.\nTrefzger, Leonhard, von Wehr, Koch und Abwart im\n  Sommer-Kasino. 232 St. Jakobstraße. O. B.\nTrueb, Hans Jakob, von Küßnacht, Gärtner und Gutsbe-\n  sitzer. 85 Burgfelderstraße. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6704,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1424,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.54,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p187",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p187.jpg",
+      "bytes": 1000682,
+      "sha256": "b61a94edfcfb9ba5c030f7a92e35621d70a6f9a75476451e34efce1b29cf642d",
+      "sha256_of": "original",
+      "working_copy": "1841_p187.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:40+00:00"
+  }
+}

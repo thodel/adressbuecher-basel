@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p074",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p074.jpg",
+    "bytes": 1495480,
+    "sha256": "8c57a9768c3a48c0694cd7a217d23100a78ec61d665100d8169a4b63f130941d",
+    "sha256_of": "original",
+    "working_copy": "1862_p074.jpg"
+  },
+  "text": "Aeschenvorstadt. 9\n\nNeue Haus-Nr. | Quar- tier. | Alte Haus-Nro. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n34 | IV. | 956 | | Dick, Jgfr. Caroline.\n  Dick, Jgfr. Carol., Particulierin.\n  Bernoulli-Dick, Joh., Alt-Postdirektor.\n  Bernoulli, Carl, J. U. D., Kanzleisekret.\n  Bernoulli, Jgfr. Mathilde.\n35 | IV. | 1029 | zum Löwenberg. | Bißlikummer-Fischer, J. Mich.\n  Bißlikummer-Fischer, J. M., Handelsm.\n  Rieger Müller, Joh. Jak., Mustermacher.\n36 | IV. | 957 | zur Rose. | Bloch-Herzog, Daniel.\n  Bloch-Herzog, Daniel, Kaufmann.\n37 | IV. | 1028 | zur Wog. | Senn-Zwicki, Heinrich.\n  Senn-Zwicki, Heinrich, Flachmaler.\n  Weber, Joh., Tabak- u. Cigarrenhandl.\n  Schäfer, Matthias, Commis.\n  Ernst-Gürtler, Sara, Wb., Particul.\n38 | IV. | 958 | zum vordern Hasen. | Kühn-Grandjean, Joh. Jakob.\n  Kühn-Grandjean, J. J., Schuhmacher\n    und Weinsticher.\n  Boßardt-Adelung, Frau Susette.\n  Detis-Guchry, Ros., Wb., Vorgängerin.\n  Sixt-Kühn, Eml., Commis.\n39 | IV. | 1027 | z. schwarzen Thurm. | Burckhardt-Stierlin, Abraham.\n  Burckhardt-Stierlin, Abr., Bäcker.\n  Jenny, Jakob, Flachmaler.\n40 | IV. | 959 | zu den drei Hasen. | Horner-Mechel, Daniel.\n  Horner-Mechel, Daniel, Bäcker.\n41 | IV. | 1026 | Schwarzen Bären. | Merian-Bernoulli, Rudolf.\n  Merian-Bernoulli Rudolf, Prof. d. Math.\n42 | IV. | 980 | | Schaub-Weber, Jakob.\n  Schaub-Weber, Jakob, Wirth.\n  Merz-Christen, Jakob, Muster-Weber.\n43 | IV. | 1025 | | Göttisheim-Reiser, Friedr., Pat.\n  Göttisheim-Reiser, Fr., Spezereihdlg.\n44 | IV. | 981 | zum Stern, Gasthof. | Breiting-Heußler, Samuel.\n  Breiting-Heußler, Sam., Gastwirth.\n  Heußler-Lima, Carl, Partikular.\n45 | IV. | 1024 | zum Repper. | Bulacher-Hosch, Sal., Wb.\n  Bulacher Hosch, Sal. Wb., Bierbrauer.\n  Hosch-Buxtorf, Salome, Wb.\n  Hosch, Eduard, Baukassier.\n46 | IV. | 932 | zum kleinen Stern. | Breiting-Schardt, Peter.\n  Breiting-Schardt, Peter, Metzger.\n  Dizerens, Louis, Marbrier\n  Göttisheim-Breiting, Fr., Red. d. Tagbl.\n47 | IV. | 1018 | zum Eckweiher. | Brand-Fries, Marie, Wb.\n  Brand-Fries, Marie, Wb., Kerzenmachr.\n  Weber-Schaffner, Wilh., Mechaniker.\n48 | IV. | 983 | | Kiefer-Rochty, Johannes.\n  Kiefer-Rochty, Joh., Commis.\n  Vogt-Freyler, J., Ferger.\n  Freyler-Theodor, Dessinateur.\n  Guise, Fräulein J., Sprachlehrerin.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9674,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2277,
+    "lines": 54,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 39.76,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:35:59+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p074",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p074.jpg",
+      "bytes": 1495480,
+      "sha256": "8c57a9768c3a48c0694cd7a217d23100a78ec61d665100d8169a4b63f130941d",
+      "sha256_of": "original",
+      "working_copy": "1862_p074.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:35:59+00:00"
+  }
+}

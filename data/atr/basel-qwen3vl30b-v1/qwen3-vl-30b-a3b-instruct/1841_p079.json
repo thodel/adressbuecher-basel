@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p079",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p079.jpg",
+    "bytes": 885668,
+    "sha256": "a51369b6df4343987fd98918d0dedd547cada1dc1b07a9fe13de43f61308f929",
+    "sha256_of": "original",
+    "working_copy": "1841_p079.jpg"
+  },
+  "text": "72\nNro.\n271 * Sutter, J. J., Sattler, geh.\n272 Weber, Jakob, Wirth.\n    Zeller, Christoph, Thorschreiber.\n    Dorn, Ludwig, Bleibüchsenmacher.\n273 * St. Bläsithor.\n273 * a Drahtzug. Sarasin, Benedikt, geh.\n274 Clavel-Linder, Alexander, Seidenfärbcr.\n    Oswald, Mathias, Rathsherr.\n    Burchhardt-Schönauer, L., Kunstmaler.\nUntere Nebgasse.\n275 Schnäbelin, Joh. Ulrich, Schneider.\n276 Müller, Joh. Jakob, Weißbeck.\n277 Baumgartner, Leonhard, Kübler.\nWebergasse.\n278 Finninger, Heinr., Bater und Sohn, Megger.\n279 von Mechel, Rudolf, Küfer.\n280 David, Hieronymus, Megger.\n    Tripet, Franz, Dr. der Philosophie.\n281 u. 282 Albrecht, Conrad, Spezereihändler.\n283 Groben, Jakob, Glaser und Lohnwäscher.\n    Keller, Gottfried, Mechaniker.\n284 Kern, J. J., Bater, Partikular.\n285 Winter, Lucas Fr., Weißbeck.\n286 Zöri, Wittwe, geb. Barbara Meier (Spezereihandel).\n287 Roth, Joh. Jakob, Lohnwäscher.\n288 Crismann, Joh. Jakob, Comptorist und Wascherei.\n289 Dünner, Joh. Jakob, Lohnwäscher.\n290 Hindermann, J. Caspar, Schönfärbcr.\n291 Grüblin, Joh., Wirthschaft.\n292 * Henz, Jakob, Beck, geh.\n    Kühn, Lucas, Wirthschaft.\n    Strub, Emanuel, Weißbeck.\n293 Imhof-Mieg, J. J., Partikular.\n    Rohner, Markus, Chef des Landjägerkorps.\n294 * Loh, Fr., Seidenfärbcr, geh.\n    Socin, Peter, Weinhändler.\n295 Grunauer, Leonhard sel., Wittwe, geb. Weiß.\n296 Dubach, Georg, Seidenfärbcr.\n297 Schilling, geb. Roth, Wittwe, Band- u. Waarenhandlung.\n    Suter, Heinrich, Fabrikausseher.\n298 * Singeisen, Nikolaus, Hufschmied, geh.\n299 * Meier, J., Perrückenmacher.\n300 Otto, Emanuel, Müller.\n301 Rohner, Joh. Markus, Färber.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4878,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1605,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.96,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:48+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p079",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p079.jpg",
+      "bytes": 885668,
+      "sha256": "a51369b6df4343987fd98918d0dedd547cada1dc1b07a9fe13de43f61308f929",
+      "sha256_of": "original",
+      "working_copy": "1841_p079.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:48+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p061",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p061.jpg",
+    "bytes": 897158,
+    "sha256": "6630c2ff2636e877285ef0008a3e6572637aa007f0e954313c1825ff6cde29e6",
+    "sha256_of": "original",
+    "working_copy": "1850_p061.jpg"
+  },
+  "text": "48 Aeschen-Quartier.\n\n1076 Klingelfuß, Ed., Tabackladen.\n  Buser, J. J., Ferger.\n  Walter, Emanuel, Kaufhaus-Commis.\n\nSpitalgäßlein.\n\n1077 VonSpeyr, Emil, Sekretair der Niederlassungs-\n    Commission.\n  Barbierstube.\na 1077 Magazin, obrigkeitlich.\nA 1077   „ von R. Bleiler.\nB 1077   „ Karl Geigy.\n  Stöcklin, J. J., Commis.\n\nBäumlein.\n\n1078-79 Merian-Weiß, R., Küfer.\n  Weiß, Jgfr., Lisette, Modiste.\n  Gysin, J. J., Polizei-Commissär.\n1080 Christ, J. J., J. U. D., Notar, Statthalter des\n    Landbezirks und Weinschreiber.\n1081 Kempf, Georg, Kutscher.\n1082 Schaub, Jakob, Schuhmacher.\n1083 Fischer, Johann, Tuchhandlung.\n\nNeue Straße.\n\nA 1083 Unbewohnt.\nB 1083 Heimlicher, J. J., Dr. Jur.\n  Heimlicher, Wittwe, geb. Brenner.\n  Schmidt-Brenner, A., Speditor. Comptoir in Nr. 1063.\nC 1083 Unbewohnt.\nD 1083   „\n1084 Imhof-Roschet, Wittwe, Rentière.\n  Roschet, Jgfr., Marg., Rentière.\n  Gyßler, Sohn. Heinr., Leinwandhdlg.\nA 1084 Ryhiner-Fischer, Christoph, Rentier.\n  Ryhiner-Bischoff, Karl, Fabrikant.\nB 1084 Comptoir der Seidentrocknungs-Anstalt.\n  Landerer, Valeria, Wittwe, Rentière.\n  Wagner-Mayr, A., Commis.\nC 1084 Unbewohnt.\nD 1084   „\n1085 Siegfried, Nikl., Grieser.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5714,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1175,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 28.1,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p061",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p061.jpg",
+      "bytes": 897158,
+      "sha256": "6630c2ff2636e877285ef0008a3e6572637aa007f0e954313c1825ff6cde29e6",
+      "sha256_of": "original",
+      "working_copy": "1850_p061.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:25+00:00"
+  }
+}

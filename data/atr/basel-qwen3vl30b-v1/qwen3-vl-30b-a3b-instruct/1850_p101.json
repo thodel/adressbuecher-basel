@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p101",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p101.jpg",
+    "bytes": 952800,
+    "sha256": "405450163f921a9bedb45b2cf53aaa6dba4c636e638c2429370da2577958b890",
+    "sha256_of": "original",
+    "working_copy": "1850_p101.jpg"
+  },
+  "text": "88 Bläsy = Quartier.\nOchfengasse.\n239 Fenny, Joh., Spezierer.\n240 Kyburt'schen Erben gehörend.\n241 Hellstern, Peter, Maurergehülfe.\n242 Wurster, Friedr., Fabrikausseher.\n243 Heusler-Thurneisen, Leonh., gehörend.\n244 Braun-Riefer, Joh., Tabakfabrikant.\n245 Holzreuter, Eug., Färber.\n246 (Gasthaus z. rothen Ochsen.)\n    Pfister, Ludwig, Gastgeber.\nTeichgässlein.\n247 Wenk, Carl Friedrich, Commis. [handschriftlich: gestrichen] Joh. Brunner, Bäcker.\n248 Federer, Anton, Färbergesell.\nA 249 Zentgraff, Wilhelm, Kaufmann.\nB 249 Ryhiner-Bernoulli, W., Fabrikant.\nUntere Nebgasse.\n249 Braun, Andreas de Samuel, Rentier.\n250 Müller-Kinder, Rudolf, Land-Ökonom.\n    Dürig, Joseph, Müller.\n251 Mackler, Jak. Friedr., Schuhmacher.\nIm Kumpel.\n252-53 Böhrlin, Joh., Schleifer und Mechaniker.\n254 Stallung.\n255 Meyer, Johann, Leitschneider.\n256 Brand, Leonhard, Nothgerber.\n257 Schenkel, Jakob, Zimmergehülfe.\n258 Rühlin, Joh. Georg, Lohnwascher.\n259 Obrigkeitslich.\n260 Winfler, Bl., Fabrikarbeiter.\n261 Hilbert, Joh., Fabrikarbeiter.\nA 261 (Floretseidenspinnerei) Ryhiner und Söhne geh.\n    Urech, A., Mechaniker.\n262 Weber, Wittwe, Lohnwascherin.\n263 Thommen, Wittwe, Lohnwascherin. [handschriftlich: gestrichen] Joh. Nigoni, Mmgj.\nA 264 Kestenholz, Wittwe, Lohnwascherin.\nB 264 Diel, Joh. Jak., Schleifer.\n265 Gessler, Rudolf u. Leonh., Müller.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4370,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1335,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:11:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p101",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p101.jpg",
+      "bytes": 952800,
+      "sha256": "405450163f921a9bedb45b2cf53aaa6dba4c636e638c2429370da2577958b890",
+      "sha256_of": "original",
+      "working_copy": "1850_p101.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:45+00:00"
+  }
+}

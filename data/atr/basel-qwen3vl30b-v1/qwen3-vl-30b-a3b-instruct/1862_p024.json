@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p024",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p024.jpg",
+    "bytes": 1440959,
+    "sha256": "0183fce2c4090d4805d9485c149f875779ab83081e036831481251699e292e92",
+    "sha256_of": "original",
+    "working_copy": "1862_p024.jpg"
+  },
+  "text": "Privat-Gemeinden. Verkehrs-Anstalten. Gesellschaft d. Guten etc. XXI\nNachmittags 2 Uhr und Abends 5 Uhr. Die\nPredigt findet statt Abends 4 Uhr. Außerdem\nan den meisten Werktagen je zwei Gottes-\ndienste. — Sämtliche Gottesdienste find öffent-\nlich und es ist deren Besuch, wie auch auf\nvorhergegangene Anmeldung hin der Genus\ndes heiligen Abendmahles den Christen aller\nConfessionen gestattet.\nMethodisten-Gemeinschaft.\nGegründet 1861.\nDie Gemeinschaft hat ihren Betjaal Nr. 14 an der Wallstrafe zu St. Elisabeth. — Die\nöffentlichen Gottesdienste finden statt:\nSonntag Abend um 5 Uhr,\nDienstag \" \" 8 \"\nFreitag \" \" 8 \"\nVorstand:\nFr. Ludwig Kippert-Lindemann, Wallstrafe.\nIsraelitische Gemeinde.\nGegründet 1803.\nVorstand:\nFr. F. Braunschweig.\n\" Licentiat M. Levy.\n\" Leopold Dreyfus.\nVerkehrs-Anstalten.\nFranzösische Ostbahn.\nAgent: Fr. Charles Huf.\nGroßh. bad. Post- & Eisenbahnamt.\nSeit 1854.\nVorstand: Fr. Friedrich Eckhardt.\nIngenieur: ,, Carl Möglicb.\nIngenieur-Assistent ,, Tobias Wolff.\nCassier: ,, Aug. v. Davance.\nGlitter-Expeditor: ,, Albert Reis.\nOber-Telegraphist: ,, Anton Ell.\nMaterialverwalter: ,, Ludw. Jacob Boit.\nGroßh. bad. Hauptzollamt bei\nSchusterinsel.\nZollabfertigungsstelle am Bahnhof zu Basel.\nSeit 1855.\nZollinspectar: Fr. Abele.\nHauptzollamts-Controleur: ,, Hahn.\nSchweizerische Centralbahn.\nDirectoren:\nFr. A. Sulger, Präsident in Basel.\n\" F. Trog,\n\" Dr. W. Schmidlin.\n\" A. Kepinger\nHauptbeamte:\nFr. A. Seffele, Protokollführer u. Vorstand\ndes Reklamationsbureau.\n\" C. Killiet, Sekretär und Uebersezer.\n\" A. Müller, Registrator u. Kanzleivorstand.\n\" H. Hermann, Hauptkassier.\n\" K. Brosh, Vorstand d. Rechnungscontrole.\n\" G. Roller, Ingenieur, Vorstand des Bu-\nreau der Betriebs-Verwaltung.\n\" H. Handschin, Vorstand der Material-\nVerwaltung.\n\" W. Gyfin, Drucksachen-Verwalter.\n\" F. Wagner, Vorstand der Betriebscon-\ntrolle.\n\" C. F. Burckhardt, Betriebs-Inspektor.\n\" F. Wenker, Stations-Vorstand.\n\" F. Brosh, Vorstand d. Güterexpedition.\nDroschken-Anstalt.\nGegründet 1854.\nLokal: St. Johann.\nDirector: Fr. Hieron. Rumpf-Bachofen.\nConcessionirtes Packträger-Institut.\nGegründet 1862.\nDirector: Fr. Daniel Senn.\nGesellschaft des Guten und Gemeinnützigen.\nGegründet 1777.\nSitzungslokal: Im Gebäude der Lesegesellschaft.\nVorstand:\nFr. R. Merian-Burckhardt, Präsident.\n\" F. F. Schäublin, Statthalter.\n\" Fr. W. Ifelin, Seckelmeister.\n\" F. W. Heß, Schreiber.\n\" Dr. H. Ifelin, Statthalter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6938,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2403,
+    "lines": 81,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0247,
+    "mean_line_chars": 28.68,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:20:43+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p024",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p024.jpg",
+      "bytes": 1440959,
+      "sha256": "0183fce2c4090d4805d9485c149f875779ab83081e036831481251699e292e92",
+      "sha256_of": "original",
+      "working_copy": "1862_p024.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:20:43+00:00"
+  }
+}

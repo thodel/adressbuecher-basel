@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p023",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p023.jpg",
+    "bytes": 860816,
+    "sha256": "0a07cd9e11105f10e2f3450bc0c39226929ef4afaa0b891890c6dcc3958a7ec8",
+    "sha256_of": "original",
+    "working_copy": "1841_p023.jpg"
+  },
+  "text": "16\nNro.\nHeuberg.\n396 * Hauser, Mos., von Dürmenach, Wittwe.\n    Beck-Uebelin, Joh. Georg.\n397 * Dünner, Joh., Partikular.\n398 Rehrer, Adam, Fabrikarbeiter, von Dornfett.\n399 * Zucke, Ulrich.\n399 * a Magazin von La Roche, Emanuel.\n399 b Kleinert, Joh. fel., Wittwe.\n400 Rober, Andre., Maurer, Bolier.\n401 Gnehm, Caspar, Lohnkutscher.\n401 d Brodbeck, Joh., Flachmaler.\n401 a b c e Nebengebäude und Werkstätte von J. Brodbeck.\n402 Bollenweider, Joh. Heinrich, Schriftseher.\n403 * Dättwylcr, Joh., Mekger.\n404\n404 Geigy, Thomas, Bater und Sohn, Kaufmann.\n    Imhof, Conrad, Musiker.\n    Imhof, Joh. Jakob, Bater, Fuhrhalter.\n405 * Grüninger, Rud., Küfer, Hinterhaus von Nro. 618.\n406 Dettweiler, Joh., Lohnkutscher.\n407 Neuschwander, J. J., Spannermeister.\n408 Herzog, J. J., Partikular.\nTrillengässlein.\n409 Raul, Karl August, Uhrenmacher.\n    Horner, Heinrich, Mekger.\n410 Fricker, Joh., ab dem Nuskhof.\n411 Jriou, Abraham, Maurer.\n412 Schaub, Joh. Georg, Schreiner.\n    Sart, Schuhmacher.\n    Meier, Tischmacher.\nHeuberg.\n413 Kohl, Jungfer, Catharina, Blumenmacherin.\n    Wollen, Joh., Polizei-Sekretär.\n    Maas, geb. Kohl, Wittwe.\n414 Bell, J. J., Mekger.\n415 Bon Speyr, J. Heinr. (Alterthümer-Kabinet.)\n416 Wieland, Emanuel, Commissions- und Speditions-Handlung.\n    Stücksberger, C. Ulrich, alt Pfarrer in Reigoldsweil.\n417 Merian-Miville, Rentier.\n418 * Balthasar de Benedikt Stähelin geh.\n    Stauber, Rudolf, Fabrikausseher.\n419 Ofer, Wilh., Kerzenfabrikant.\n    Dietiker, Melchior, Commis.\n420 Ründig, Andreas, Küfer.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4756,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1524,
+    "lines": 46,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0217,
+    "mean_line_chars": 31.2,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:43:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p023",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p023.jpg",
+      "bytes": 860816,
+      "sha256": "0a07cd9e11105f10e2f3450bc0c39226929ef4afaa0b891890c6dcc3958a7ec8",
+      "sha256_of": "original",
+      "working_copy": "1841_p023.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:43:52+00:00"
+  }
+}

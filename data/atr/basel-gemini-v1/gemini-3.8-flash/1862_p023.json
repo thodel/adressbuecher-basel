@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p023",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p023.jpg",
+    "bytes": 1248628,
+    "sha256": "fe0d2abf06ca272c99ec3246c5ee131be419fb87f31791ca82b129c0ef5bcf04",
+    "sha256_of": "original",
+    "working_copy": "1862_p023.jpg"
+  },
+  "text": "XX E. Gesellschaften d. Stadt Basel. — Privat-Gemeinden.\n\nDie E. Gesellschaften der Stadt Basel.\n\nRebhaus.\nHr. Sam. Minder, neuer Meister.\n„ G. Bischoff, J.U.D., alter Meister.\nHären.\nHr. Albert Lotz, neuer Meister.\n„ Friedrich Schaffner, alter Meister.\nGreiffen.\nHr. Amadeus Merian, neuer Meister.\n„ Rudolf Bienz-Deschger, alter Meister.\nMeister der Vorstadt-Gesellschaften.\nSt. Johann: Hr. Daniel Preiswerk-Keller.\nSpalen: „ Rud. Merian-Frischmann.\nSteinen: „ Ludwig Merian, Vater.\nAeschen: „ Karl Burckhardt-Heußler.\nSt. Alban: „ Wilhelm Iselin.\n\n[spalte 2]\nDie Feuerschützen.\nHr. Friedrich Lotz-Eglin, Ober-Schützen-\n  meister.\n„ Joh. Jak. Hindermann-Merian, Ober-\n  Schützenmeister.\n„ Heinrich Merian-VonderMüll, Seckel-\n  meister.\n„ Dr. Joh. Jakob Wirz, Sekretär.\n„ Fr. Merian-Brandmüller,\n„ Wilh. Falkner,\n„ Rud. Schneider-Grisanti, [klammer rechts über 5 Zeilen: Schützen-\n  meister.]\n„ Friedr. Buser-Tschudy,\n„ Rudolf Schmid-Haas,\n\nPrivat-Gemeinden.\n\nEvangelische Brüder-Societät.\nGegründet 1740.\nVersammlungssaal Ringgäßlein Nro. 4.\nHr. Senft, Vorsteher.\n\nKatholische Gemeinde.\nGegründet 1798.\nGeistlicher Vorstand.\nHr. Burkhardt Jurt, Pfarrer.\n„ Nic. Flury, Vikar.\n„ Jos. Günther, Hülfspriester.\n„ Brey, Abbé, Hülfspriester.\nWeltlicher Vorstand:\nHr. Carl Wahr, Präsident.\n„ Hauser-Businger.\n„ Pfeifer-Elmiger.\n„ Paul Meyer.\n„ Adam Weiß.\n„ Etienne Haas.\n„ Fridolin Eckert.\n„ Theobald Rech.\n„ Peter Leuthardt.\n\n[spalte 2]\nHr. Wilhelm Jöpger.\n„ Victor Crussaire.\n„ August Schäublin.\n„ Leonhord Schäle.\n„ Joseph Emenegger.\n„ Aloys Frey.\n\nKatholische Schule.\nGegründet 1800.\nHr. Michael Göpp, Oberlehrer.\n„ Jacob Käser, Lehrer.\n„ Ignaz Scheel, Lehrer.\n\nFreie Gemeine.\nHr. Niklaus Bernoulli, Vorsteher.\n\nApostolische Gemeinde.\nGegründet 1849.\nDie Gemeinde feiert ihre Gottesdienste zur\nZeit noch in Nro. 27 Neue Vorstadt und zwar\nSonntags früh um 6 Uhr, Vormittags\nhalb 10 Uhr mit Feier des heil. Abendsmahls,",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7761,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1914,
+    "lines": 74,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.027,
+    "mean_line_chars": 24.64,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:27:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p023",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p023.jpg",
+      "bytes": 1248628,
+      "sha256": "fe0d2abf06ca272c99ec3246c5ee131be419fb87f31791ca82b129c0ef5bcf04",
+      "sha256_of": "original",
+      "working_copy": "1862_p023.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:27:45+00:00"
+  }
+}

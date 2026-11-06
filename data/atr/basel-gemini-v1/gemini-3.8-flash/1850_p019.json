@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p019",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p019.jpg",
+    "bytes": 1142113,
+    "sha256": "c860d338e900c812c3b272ab1b7073373cddede65c52839f1164d6cc5a825e8b",
+    "sha256_of": "original",
+    "working_copy": "1850_p019.jpg"
+  },
+  "text": "St. Johann-Quartier. 9\n\n191 Roth, Franz, Schneider.\n192 Courvoisier-Lowndes, Georg, Handelsmann.\nBernoulli, Wittwe, Sophie geb. Bernoulli.\n193 Dubois, August, Schuhmacher.\n194 Albiez, Joh., Kosthaus.\nBrunner, Jakob, Ferger.\n195 Sternenberger, J. J. sel. Wittwe, Kosthaus.\n196 Schwab, Andreas, Metzger.\nFrutiger, Chr., Ferger.\n197 Scherb, Balth. sel. Wittwe, Schneider.\n198 Pfirter, Jos., Kriminalgerichtswaibel und Wirth.\n199 Bleuler, Joh. sel. Wittwe, Kosthaus.\n200 Kündig, Wittwe Joh. geb. Stämpfly, Nudelnmach.\n201 Stupanus, Jeremias, Buchbinder.\nSänger, Leonh., Commis.\n\nSpiegelgasse.\n\n202 Münch, Joh. Heinrich, Schlosser.\n203 Hinterhaus von Nr. 227.\n204 Walter, Caspar, Lithograph.\n205 Gassert, Franz Niklaus sel. Wittwe.\nGlunz, Wilh., Commis.\n206 Meyer, J. J., Kübler.\n207 Müller, Mathias.\n208 Werenfels, Marg., Wittwe, geb. Mäglin.\nAudran-Ebner, Alex.\n209 Zu Nr. 115, dem Gasthof zu 3 Königen, gehörend.\n\nSchwarze Pfahlgasse.\n\n210 Elsner, Joh., Schuhmacher.\n211 Fakonnier, Karl, Seidenfärber.\n212 Baumgartner, David, Ferger.\n213 Brudermann, Hch. Kostgeber.\nStoll, Joh., Schreiner.\n\nIm Winkel.\n\n214 Porte, Elias, Sprachlehrer.\n215-16 Wick-Hindermann, Karl, Rentier.\n217 Schultheiß, Paul, Tapezierer. (in Nr. 1123, Pflug-\ngäßlein.)\n218 Schaffner, Remigius, Fabrikarbeiter.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7126,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1277,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.59,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:08:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p019",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p019.jpg",
+      "bytes": 1142113,
+      "sha256": "c860d338e900c812c3b272ab1b7073373cddede65c52839f1164d6cc5a825e8b",
+      "sha256_of": "original",
+      "working_copy": "1850_p019.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:08:11+00:00"
+  }
+}

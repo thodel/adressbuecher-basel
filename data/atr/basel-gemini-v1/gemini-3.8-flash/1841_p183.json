@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p183",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p183.jpg",
+    "bytes": 996067,
+    "sha256": "6854301adad65a3bb0c16a216b2a304949d4f37eb3a1288bbaf457a20af85e5c",
+    "sha256_of": "original",
+    "working_copy": "1841_p183.jpg"
+  },
+  "text": "- 30 -\n\nHirt, Rud., v. Zezwil, Gärtner. 3 Str. nach St. Louis. U. B.\nHock, Kath., geb. Lichi, von Straßburg, Part. 92 A.\n  Mittlere Straße. U. B.\nHofer, Sus. Magd., Jgfr., von Oltingen, Gutsbesitzerin.\n  132 Alschwilergasse. U. B.\nHolinger, Anna, geb. Schweizer, Wittwe, von Benwil,\n  Lehenfrau. 262 St. Jakobstraße. O. B.\nHolinger, Jakob, von Bonischwil, Fabrikarbeiter. 184\n  Lohstampfberg. U. B.\nHuber, Simon, von Hägenheim, Fabrikarbeiter. 96 Burg-\n  felderstraße. U. B.\nHuber, Jakob, von Niederwiel, Gärtner und Gutsbesitzer.\n  110 Burgfelderstraße. U. B.\n\nJ.\n\nIselin, Sebastian, von Schlatt, Gutsbesitzer. 159 Loh-\n  stampfberg. O. B.\nIselin, Jos., Sohn. 159 Lohstampfberg. O. B.\n\nK.\n\nKaiser, Heinr., v. Laufen, Lehenmann. 69 Davidsboden. U. B.\nKalt, Jakob, von Badenweiler, Taglöhner. 119 Burg-\n  felderstraße. U. B.\nKamber, Urs Jos., v. Hägendorf, Lehenmann. 125\n  Hägenheimerstraße.\nKeller, Verena, geb. Geißer, Wittwe, von Röterschen,\n  Gutsbesitzerin. 67 Davidsboden. U. B.\nKindweiler, Friedrich, Flachmaler. 193 Binningerstr. O. B.\nKindweiler, Math., Indiennedrucker. 192 Binningerstr. O. B.\nKlingler, Felix, v. Dättlikon, Lehenmann. 68 Davids-\n  boden. U. B.\nKlopfenstein, Michael, von Sevenand, Lehenmann. 244\n  Gundeldingen. O. B.\nKlopfenstein, Joseph, v. Meroux, Lehenmann. 281 St.\n  Jakob. O. B.\nKnecht, Johannes, v. Boppelsen. 246 Dreispitz. O. B.\nKüfer, Mich., v. Rohrberg, Gutsbesitzer. 12 Läusbühel. U. B.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6541,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1426,
+    "lines": 36,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0278,
+    "mean_line_chars": 37.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:05:11+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1841_p183",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p183.jpg",
+      "bytes": 996067,
+      "sha256": "6854301adad65a3bb0c16a216b2a304949d4f37eb3a1288bbaf457a20af85e5c",
+      "sha256_of": "original",
+      "working_copy": "1841_p183.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:11+00:00"
+  }
+}

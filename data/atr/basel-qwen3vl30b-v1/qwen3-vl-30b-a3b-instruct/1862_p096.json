@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p096",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p096.jpg",
+    "bytes": 1383385,
+    "sha256": "9c3efdaac0684b15dc245d641278d679b95673dfb2f0a23dcc5c7ab8d78558af",
+    "sha256_of": "original",
+    "working_copy": "1862_p096.jpg"
+  },
+  "text": "In der Breite. Brückliberg. Bruderholzstr. Bruderholzweg. 31\nNeue Haus-Nr. | Quartier. | Alte Haus-Nr. | Name des Hauses. | Namen der Hauseigenthümer und Bewohner.\n1 | V. | 334 | Arbeiterwohnungen | Actien-Gesellschaft f. Arbeiterwohn.\n3 | V. | 334 A | desgl. | Actien-Gesellschaft f. Arbeiterwohn.\n5 | V. | 334 B | desgl. | Hoffmann-Oltiger, Jacob, Schreiner.\n7 | V. | 334 C | desgl. | Actien-Gesellschaft f. Arbeiterwohn.\n9 | V. | 357 | desgl. | desgl.\n11 | V. | 358 | desgl. | desgl.\n13 | V. | 359 | desgl. | desgl.\n19 | V. | 349 | | Spindler=Wahl, Jacob.\n21 | V. | 350 | | Sepp=Schneider, Joh. Jakob.\n23 | V. | 351 | | Buser=Bienz, Jacob.\n| | | | Buser=Bienz, Jacob, Posamenter.\n| | | | Geitlinger=Schäfer, Jacob.\n| | | | Geitlinger=Schäfer, Jacob, Magazinfn.\n25 | V. | 352 | | Rieder=Kestli, Martin.\n27 | V. | 353 | | Rieder=Kestli, Martin, Fabrikarbeiter.\n29 | V. | 354 | | Roller=Roller, Caspar.\n| | | | Roller=Roller, Caspar, Posamenter.\n31 | V. | 355 | | Wiesner=Schweizer, Johannes.\n| | | | Wiesner=Schweizer, Joh., Posamenter.\n33 | V. | 356 | | Büchle=Wagner, Rudolf.\n| | | | Büchle=Wagner, Rudolf, Holzmiller.\nIn der Breite.\nBrückliberg.\n7 | V. | 313 | zur Säge. | Stehlin, Joh. Jakob, Architekt.\n| | | | Wagner=Haas, Friedrich, Schreiner.\n| | | | Liithy=Weidmann, Rudolf, Sägermeister.\nBruderholzstraße.\n6 | IV. | 209 | | Thommen=Simmen, Georg.\n| | | | Thommen=Simmen, Gg., Weinhändler.\n| | | | Müller=Rühler, Louis, Centralb.-Angest.\n| | | | Handschi=Ohr, Heinr., Materialverwal-\n| | | | ter der Centralbahn.\n| | | | Schmid-Ulrich, Carl, Commis.\n22 | IV. | 239 B | | Hartmann=Schaub, Jakob.\n| | | | Hartmann=Schaub, Jakob, Landwirth.\nBruderholzweg.\n4 | IV. | 239 A | | Bischoff=Marian, Wilh.\n6 | IV. | 239 C | | Bischoff=Marian, Wilhelm.\n| | | | Bolander, Amadeus, Lehenn. u. Gärtner.\n10 | IV. | 242 | | Madory=Winzeried, Friedrich.\n| | | | Madory=Winzeried, Fr., Landwirth.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6578,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1888,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 42.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:32:38+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p096",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p096.jpg",
+      "bytes": 1383385,
+      "sha256": "9c3efdaac0684b15dc245d641278d679b95673dfb2f0a23dcc5c7ab8d78558af",
+      "sha256_of": "original",
+      "working_copy": "1862_p096.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:38+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p056",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p056.jpg",
+    "bytes": 1035731,
+    "sha256": "a35bf8e295531f160ace661dfbd20cd4522cd2b45c8a55d06d289a114d03581d",
+    "sha256_of": "original",
+    "working_copy": "1850_p056.jpg"
+  },
+  "text": "Aeschen-Quartier. 43\n\n967 Roth, Peter, Flachmaler.\n968 Holzach, Lukas, Wirth.\n969 Buser, Georg Christ., Fabrikarbeiter. [handschriftlich: gestrichen] [handschriftlich: Joh. Debrun u. Bischoff]\n970 Gasquet, Fr. Wilh., Zimmermeister. [handschriftlich: gestrichen]\n  Friedrich-Hug, Leonh., Baumeister.\n971 Epple, Christian Gottl., Mechanikus.\nA 971 Kuhn, David, Zimmermeister.\n  Landerer, Louis, Kaufmann.\n  Sixt, Eml., Commis.\n972 Linder, Joh. Jak., Hafner.\n  Ecklin, Leonhard.\n973 Herzog, Wittwe, geb. Wybert.\n  Herzog, Achilles, Kaufmann. Comptoir in Nr. 759.\n974 Hauser-Oser, Rud., Colonialwaaren- und Brannt-\n    weinhandlung.\n975 Panoramagebäude.\n976 Scheuer.\n977 Ackermann, Peter, Lohnfuhrhalter.\n978 (Stallung) zu Nr. 981 Gasthof zum Sternen geh.\n979 Wagner, J. J., Leinenweber.\n\nAeschen-Vorstadt.\n\n980 Schneider, Wittwe, Verena, [handschriftlich: gestrichen] Wagner, [handschriftlich: Franz Warmefels]\n  Gaß-Thurneisen, Hch., Rentier.\n981 (Gasthaus zum Sternen) Breiting-Heußler, Sam.,\n    Gastgeber.\n982 Breiting-Schardt, Peter, Metzger.\n  Treu, Lukas, Wundarzt.\n  Dizerens, F. L., Marmorarbeiter.\n983 Riggenbach-Stehlin, Fch., Banquier.\n984 Burckhardt-Forkart, Lud., Handelsm.\n\nHirschgasse.\n\n985 Vogelbacher, Franz Jos., Kutscher.\nA 985 Linder, Eduard, Zimmermeister.\n  Uebelin-Geßler, Karl, Commis.\n  Montfort, Joseph, Commis.\n986 Scheune und Stallung.\n\nAeschen-Vorstadt.\n\n987-88 Finninger, Leonhard, Hufschmied.\n  Hurth, Joh. Christ., Commis.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6576,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1452,
+    "lines": 40,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.025,
+    "mean_line_chars": 34.4,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p056",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p056.jpg",
+      "bytes": 1035731,
+      "sha256": "a35bf8e295531f160ace661dfbd20cd4522cd2b45c8a55d06d289a114d03581d",
+      "sha256_of": "original",
+      "working_copy": "1850_p056.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:54+00:00"
+  }
+}

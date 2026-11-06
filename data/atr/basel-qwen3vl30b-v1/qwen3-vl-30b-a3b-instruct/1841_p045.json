@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p045",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p045.jpg",
+    "bytes": 899137,
+    "sha256": "bc2ba68f995fb8b7711dc9fc58cf2c97c713cf5a7d4f17dc7b90123acec7fdf3",
+    "sha256_of": "original",
+    "working_copy": "1841_p045.jpg"
+  },
+  "text": "38\nNro.\nKappengäßlein.\n1030 Garnjobst, Simon Christ., Ausläufer.\n1031 * Stallung. Barrey, Wittwe, geh.\n1032 * Hug, Joh. Ulrich.\nAeschen-Vorstadt.\n1033 Barrey, Wittwe, geb. Cath. Mäglin. (Zekt: Anton Seifert geh.)\n1034 Plattner, Friedrich, Pintenschenk.\n1035 Schäffer, Abraham.\n1036 Dehlmeyer, Jakob fel., Wittwe, geb. Gysin.\n1037 * } Chinger, Suf., geb. Burkhardt, Bürgermstr. fel. Wittwe.\n1038 } dito (Handlungsragion: Chinger u. Comp.\n1039 Burkhardt-Heusler, Carl, Handelsmann.\n1040 Frey, Herkules, Schneider. Gesellschaftshaus zum Rupf.\n1041 Rippel, Joh. fel., Wittwe, geb. Kinder.\nBurkhardt-Huber, Achilles, Senfal.\n1042 Burkhardt-Preiswerk, Handelsmann.\n1043 Ryhiner-Werthemann fel. Wittwe.\nvon Speyr-Ryhiner, Eduard.\n(Firma: Ryhiner, Eman. de Benedikt.)\n1044 Rognon, Jonas Heinrich, Handels-Commis.\nSt. Albangraben.\n1045 Banger, Wilh., Küfer und Weinschenk fel., Wittwe.\nBadmann, Emanuel.\n1045 a Stücksberger-Holzach, W., Küfer u. Fabrikant v. gebr. Waffer.\n1046 Merian-Hoffmann, Christoph.\nMerian-Burkhardt, Christoph.\n1047 Merian-Ruder, Wittwe, Anna Margaretha.\n1048 Forkart, Esther, Jungfer.\nForkart-Bachofen, Rud., Handelsmann.\nBischof-Forkart, Margaretha, Wittwe.\n1049 * Bischof, Wittwe, geb. Margaretha Forkart.\n1050 Remise und Stall, Forkart-Weiß geh.\n1051 u. 1052 Forkart-Weiß, Joh. Rud. fel. Erben.\nSarasin, Adolf, Pfarrer.\n1053 Dobler, Catharina u. Magdalena, Jungfern.\n1054 Burkhardt-Forkart, Wilh., Handelsmann.\nBeim Aeschen-Schwibogen.\n1055 Forkart-Hoffmann, Rud.\n1056 Fischer, Balthasar, Mehlwäger.\nTiefe.\n1057 Schrenk, J. J., Unterbestäter.\n1058 u. 1059 Heusler, Abel, Handelsmann.\nFirma: Joh. Ulrich Heusler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5076,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1630,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 35.24,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:47:17+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p045",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p045.jpg",
+      "bytes": 899137,
+      "sha256": "bc2ba68f995fb8b7711dc9fc58cf2c97c713cf5a7d4f17dc7b90123acec7fdf3",
+      "sha256_of": "original",
+      "working_copy": "1841_p045.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:47:17+00:00"
+  }
+}

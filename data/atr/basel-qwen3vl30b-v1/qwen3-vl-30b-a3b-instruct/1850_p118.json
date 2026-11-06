@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p118",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p118.jpg",
+    "bytes": 1211143,
+    "sha256": "e7464df0dee7770fdb5b1928e4a01d0ae679eceb1552254da827b7159c6533d4",
+    "sha256_of": "original",
+    "working_copy": "1850_p118.jpg"
+  },
+  "text": "Gaf, Andr., Schuhm. *232\nGauthen, Karl, Kaufm. 219\nGeering, Ed., Buchhdlg. 1196\nGeiger, Jgfrn., Modistes 230\nF. Rud., Schlosser 787\nAchilles, Weinsch. 1147-48\nGeign, Geschwister\n=Butztorf, K. 1417\nGeist, Wittwe Anna 167\nGemuseus=Resping.,H. 949-50\n=Stähelin, F. K., 1177\nHier., Dekonom 1177\n=Frey, Wilh., Hdlsm. 1238\nKarl, Handelsmann 1593\n=Respingen, Wittwe 1729\n=Legrand, Wittwe 231\nJgfr., Julie 949-50\nGengenbach, Gustav *111\nEml., Candidat *111\n=Mieg, Frau, Elisab. 1060\nWittwe, Salomea *111\nGeorg, Franz, Mezger 1185\nJohann Jakob 1609\nGerlach, D., Professor 1489\nGermann, F. G. 852-52A\nJaf., Nagelschmid 1743\nGernler, Geschwister 1337\nBuchbinder 1337\nKarl, Kornmeffer *398\nJoh., Commis *398\nGerster, Fr., Alt-Bestät. 646\nGefler, Kaspr., Nothgerb. 471\nKarl Achilles, Beck 761\n=Merian, N., Spezier. 827\nKarl, Mezger 1118\n=Ritter, D., Hutmach. 1677\nLeonh., Buchbinder 1669\nEmanuel, Tuchhdlg. 1714\nHeinrich, Mezger 1723\nAndr., Wollenwaarenhg. *8\nAndr., Bater, Rentier *8\nRud. u. Leonh., Müller *265\nWittwe, Gypser *167\nGefler, Jgfr. 1185 u. 1444\nGiesen-Müller, Bwe. M. 1088\nGirard, C. F., Prof. 455\nLouis, Lehrer 1477\nGlafer, Andreas, Seiler 1236\nJakob, Zimmermann *101\nFriedrich, Fischer *234\nGlas, F. Kaspr., Spengl. *393\nGlock-Scherb, P., Küfer 466\nu. Hübscher (Compt.) 766\nRud., Agent 850\nGustav, Speditor 1533\nGlunz, Wilh., Commis 205\nGlunk, Fh., Dessinat. *123\nGnehm, Kaspr., Lohnkutsch. 401\nGnöpf, Ach., Huffschiied 914\nJoh., Weißbeck 939\nKarl, Weißbeck 991\nGochta, Ant., Schneider *289\nGolde, Eml., Spengl. 1155\nGoldemann-Ketterer, Ab. 1103\nGonin-Linder, Karl 1549\nGönner, Wittwe 299\nGoppelsröder, G. Fh. 1188\nGoskwylcr, K., Efelhalter 424\nGöttin, Jaf., Profos 275D\nGöttisheim, Fh. 1608\nGötz, Wilh., Modehdlg. 624\nWilhelm, Ferger 645\nBalthasar, Färber 813\n=Linder, Bwe., Marg. 990\nN. W., Devisenmacher *425\nGraf-Schaad, Bwe., E. 123\nGräf, Ph., Coiffeur 1163\nGräflin, W., Posament. 1260\nGremmer, G., Leitschn. 1007\nGrethener, F. F. 663\nGrether, E. F., Commis 308\nMatth., Materialist 1429\nDaniel, Rentier 1429\nGren, Christof 1624\nGrillo, Lukas, Küfer 538\nGrimm, Chr., Posam. 1492A\n105\n8",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8348,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2093,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.8,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:13:40+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p118",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p118.jpg",
+      "bytes": 1211143,
+      "sha256": "e7464df0dee7770fdb5b1928e4a01d0ae679eceb1552254da827b7159c6533d4",
+      "sha256_of": "original",
+      "working_copy": "1850_p118.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:13:40+00:00"
+  }
+}

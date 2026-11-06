@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p011",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p011.jpg",
+    "bytes": 1162733,
+    "sha256": "e7864647f7b0e59057412fe32fa8cf558c3c2685f6b838a0ae3b6b596e446141",
+    "sha256_of": "original",
+    "working_copy": "1850_p011.jpg"
+  },
+  "text": "Große Stadt.\n\nSt. Johann-Quartier.\n\nSt. Johann-Vorstadt.\n\nNo. 1 (St. Johannthor) Sulzer, Rudolf, Sperer.\nA 1 Hübscher, S. Wilh., Zimmermeister.\n  Zimmermann, Carl, Cand., Gymnasiallehrer.\n  Lichtenhahn, J., Stucator.\nB 1 Hegar, Fr., Musikal.-, Instrum.- u. Clavier-Hdlg.\n2 Heusler-VonKilch, Wittwe.\n  Wydler-Heusler, Wittwe, Wirthschaft.\n  Heim, Karl, Eisenbahnbeamter.\n3 Weißenburger, Joh. Jak., Weißbeck.\n4 Bischoff, Aug., Handels-Commis u. Spezerei-Hdlg.\n5 Hindenlang, Joh. Peter, Holzsezer.\n6 Kienzy, Patriz., Weißbeck.\n  Riggenbach, J., Flachmaler.\n7 (Stallung.) Manz, Remigius.\n8 Vonkilch, Joh., Wittwe, Weißbeck.\nA 9 Stohler, Heinrich, Ferger. [handschriftlich: gestrichen] [handschriftlich: Joh. Riggenbach, Maler.]\n  Kaufmann, Georg, Mezger.\nBC9 Grollimund, J. J., älter, Posamenter.\nD 9 Grollimund, J. J., jünger, Posamenter.\n  Kappler, Dl. Fd., Eisenbahnangestellter.\n10 Remise.\n11 Schaffner, Friedrich, Wirth.\n12-13 Ecklin- v. Mechel, Paul., sel. Wittwe, Rentière.\n14 Zäslin, Daniel, Waaren-Sensal.\n  Zäslin, Eml. Kaufmann. Comptoir in Nr. 22 A.\n15-16 Klipfel, Heinrich, Weinhandlung.\n17 Tschopp, Jakob, Kutscher.\n18 Lotz, Rudolf's, Wittwe, Wascher.\n  Müller-Kübler, Eisenbahn-Unterbestäter.\n19 Schoop, Carl Leonhard, Ferger.\n  Miville, Joh. Fd., eidg. Zoller.\n20 Schaffner, Samuel, Kutscher.\n  Lützelmann, J. J., Kaufmann.\n21 Kocherhans, Johannes, Magazinknecht.\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6979,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1377,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 34.61,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:07:14+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p011",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p011.jpg",
+      "bytes": 1162733,
+      "sha256": "e7864647f7b0e59057412fe32fa8cf558c3c2685f6b838a0ae3b6b596e446141",
+      "sha256_of": "original",
+      "working_copy": "1850_p011.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:07:14+00:00"
+  }
+}

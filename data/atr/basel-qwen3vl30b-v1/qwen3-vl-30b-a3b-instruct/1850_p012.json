@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p012",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p012.jpg",
+    "bytes": 1057807,
+    "sha256": "b6176aca8d8e7fe1f107b55d1408b7ba6daef6d5473322337d05fd7768d5bdb3",
+    "sha256_of": "original",
+    "working_copy": "1850_p012.jpg"
+  },
+  "text": "2\nSt. Johann=Quartier.\n22 Langmesser, David, Rentier.\nA 22 Baumann, Victor, Kaufmann.\nComptoir von Jäslin u. Baumann, Speditions- u.\nCommissionshandlung.\nB 22 Born, Eugen, Weinhändler.\nA 23 Burckhardt, Anna, Wittwe, geb. Bischer, Rentière.\nB 23 (Kinder-Spital.) Rau, Jungfrau Carol., Pflegerin\ndes Kinder-Spitals.\n24 Köchlin-Burckhardt, Sam., Handelsmann.\nKöchlin, Ed., Sohn, Fabrikant.\n25 Covis, Jof. Ant., Direktor der Mallepost.\nSüffert-Mieg, Kunstmaler.\n26 Stallung, zu Nr. 24 gehörend.\n27 Hef, H., Historienmaler.\nDinzel, Joh., Spezierer.\n28 Ründig-Geiger, Wittwe, Magdalena.\nRündig, Philipp, Weißbier.\nKern-Herzog, Judith, Wittwe, Rentière.\n29 Dehlhafen, Joh. Sam., Mechanikus.\nHoffmann-Merian, Theodor, Zolldirektor.\n30 Unbewohnt.\n31 Siegfried, Jaf. Philipp, Geometer.\nNörbel, Joseph, Strafanstaltverwalter.\n32 Jäcklin, Joh., Schreiner.\n33—34 Abgebrochen.\n35—36 Unbewohnt, Jgfr. Ziegler von Bern gehörend.\n37 Mengis-Brand, Martin, Partikular.\n38 (Gesellschaftshaus zur Magd) Schmidt, Karl, Wirth\nund Kunstmaler.\n39\n40 Burgdorf-Falkeisen, Cand., Lehrer.\nKespinger-Jsclin, Adolph, Kaufmann.\n41 Merian-Köchlin, Eduard, Handelsmann.\n42 Ecklin-Hindermann, Jul., sel. Wittwe.\nKatheder, C. F. Th., Handelsagent.\n43 Hosch-Mengis, H., Wechsel-Senfal.\n44 Strübin, Heinr., Zimmermann, von Lieftal.\n45 Schöllv-Bruckner, Sam., Wittwe, Partikularin.\nMüller-Schöllv, Wittwe.\nMüller, Alb., Mineralog.\n46 Preiswerk-Burckhardt, Joh., Kaufmann.\n47 Schaub-Trefzger, F. F., Posamenteimeister.\n48 Remise.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4785,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1489,
+    "lines": 45,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.11,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:05:25+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p012",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p012.jpg",
+      "bytes": 1057807,
+      "sha256": "b6176aca8d8e7fe1f107b55d1408b7ba6daef6d5473322337d05fd7768d5bdb3",
+      "sha256_of": "original",
+      "working_copy": "1850_p012.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:05:25+00:00"
+  }
+}

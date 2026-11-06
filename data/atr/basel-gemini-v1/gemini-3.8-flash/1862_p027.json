@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p027",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p027.jpg",
+    "bytes": 1390032,
+    "sha256": "04b45441dab2f4030dca235c3a5d23cf41836d48771cf619a3e6c03b334d7c3a",
+    "sha256_of": "original",
+    "working_copy": "1862_p027.jpg"
+  },
+  "text": "XXIV | Vereine und Anstalten zu religiösen Zwecken.\n\n  Zweck der Anstalt: Ausbildung von Col-\nporteurs, Evangelisten, Lehrern u. Predigern\nfür innere Mission unter Christen und Juden.\nZahl der Zöglinge durchschnittlich 40, Zahl\nder Präparanten durchschnittlich 10. Gewöhn-\nliche Dauer des Aufenthalts eines Zöglings\n3 Jahre. — Seit 1845 sind etwa 130 Zög-\nlinge ausgesandt worden; davon 56 als Lehrer\nund Prediger zu den deutschen Landsleuten in\nNord- und Südamerika; 35 wirken als Haus-\nväter, Lehrer, Colporteurs, Handwerker und\nMissionare in der Türkei, Jerusalem, Egyp-\nten, Arabien und Abyssinien, 14 stehen als\nMissionare in Ost- und West-Afrika im Dienst\nverschiedener Gesellschaften, 8 als Evangelisten\nund Lehrer in Rußland und eine kleine Anzahl\nin unsern Gegenden.\n\nFrauen-Verein\nfür weibliche\nErziehung in den Heidenländern.\nGegründet 1840.\nVorstand: Hr. Pfarrer Adolf Sarasin.\n\nProtestantisch-kirchlicher Hülfsverein.\n(Zugleich Vorverein der schweizerischen\nVereine gleichen Namens.)\nGegründet 1842.\nVorstand:\nHr. Prof. K. R. Hagenbach, Präsident.\n„ Pfarrer LeGrand, Secretär.\n„ Socin-Werthemann, Cassier.\n„ Pfarrer Adolf Sarasin.\n„ Pfarrer Immanuel Stockmeyer.\n„ Pfarrer E. Stähelin.\n„ Appell.-Rath Aug. LaRoche.\n„ Niklaus Christen-Euler.\n„ Linder-Courvoisier.\n\nTaufpathen-Verein.\nGegründet 1846.\nHr. Carl Oppermann-Landerer, Vorsteher.\n„ Carl Detloff, Cassier u. Schreiber.\n\nAlumneum.\nGegründet 1844.\nLokal: Nr. 17, Neue Vorstadt.\nAnzahl der Alumnen: 24.\nHr. Pfarrer Adolf Sarasin, Präsident.\n„ Prof. K. R. Hagenbach, Vice-Präsident.\n„ Bischoff-Bischoff, Cassier.\n„ Cand. Oser, Schreiber.\n„ Antistes Preiswerk.\n„ Prof. J. Riggenbach.\n„ Prof. Heußler-Ryhiner.\n„ Prof. Wilh. Wackernagel.\n\n[spalte 2]\nHr. Pfarrer Euchar. Kündig.\n„ Pfarrer Bischoff.\n„ Pfarrer LeGrand, Vorsteher d. Anstalt.\n\nGesellschaft zur\nVerbreitung d. Bibel oh. Apokryphen.\nGegründet 1854.\nVorstand: Hr. Pfarrer G. Cramer.\n\nKirchen-Gesang-Chor.\nGegründet 1855.\nMitgliederzahl circa 200.\nVorstand:\nHr. J. Riggenbach, Professor.\n„ Abel Burckhardt, Obersthelfer.\n„ J. J. Miville, Pfr. zu St. Peter.\n„ J. R. Respinger, Pfarrer zu St. Leon-\n  hard, Schreiber.\n„ A. Barth, Pfr. zu St. Theodor, Cassier.\n„ J. J. Schäublin, Director.\nZweck des Vereins ist:\na) in den Mitgliedern die Liebe zum geist-\nlichen Gesang zu nähren und ihnen Gelegenheit\nzur Uebung und zur Vervollkommnung in dem-\nselben zu geben;\nb) durch Abhaltung von Gesanggottesdien-\nsten, in welchen der Chor abwechselnd mit der\nGemeinde 4stimmige Choräle u. einfache Chor-\ngesänge vortragen soll, zur Hebung und Bele-\nbung des geistlichen Gesanges in Kirche und\nHaus das seinige beizutragen;\nc) bei besondern kirchlichen Anlässen die\nFeierlichkeit durch den Vortrag geistlicher Ge-\nsänge zu erhöhen.\n\nCommission für das theol. Pensionat.\nGegründet 1859.\nHr. Prof. Riggenbach, Vorsteher.\n„ Pfarrer LeGrand, Statthalter.\n„ Vischer-Christ, Cassier.\n„ D. Burckhardt-Thurneisen, Schreiber.\n„ Pfr. Eml. Preiswerk, Hausvater.\n„ Prof. Wilh. Wackernagel.\n„ Prof. Auberlen.\n„ Pfarrer Sarasin.\n„ Pfarrer Imman. Stockmeyer.\n„ U. Zellweger.\n\nEvangelische Gesellschaft.\nVorstand: Hr. Herzog-Reber.\n\nSchweizerischer Pius-Verein.\n(Section Basel.)\nGegründet 1861.\nVorstand: Hr. Pfarrer Furt.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9960,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 3214,
+    "lines": 104,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0192,
+    "mean_line_chars": 29.77,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0006,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:28:20+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1862_p027",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p027.jpg",
+      "bytes": 1390032,
+      "sha256": "04b45441dab2f4030dca235c3a5d23cf41836d48771cf619a3e6c03b334d7c3a",
+      "sha256_of": "original",
+      "working_copy": "1862_p027.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:28:20+00:00"
+  }
+}

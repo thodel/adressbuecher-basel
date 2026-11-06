@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p007",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p007.jpg",
+    "bytes": 863415,
+    "sha256": "ff9de4c53c9a47c50723118a303f190f7936ccb550215c28d897c4fd46786432",
+    "sha256_of": "original",
+    "working_copy": "1841_p007.jpg"
+  },
+  "text": "Erklärung.\nDieses Nummern- und Adreßbuch besteht aus zwei Theilen:\nder erste Theil enthält, nach der Reihenfolge der Nummern (und\nStraßen) geordnet, die Namen der verehrlichen Besitzer und Einwohner\nvon sämmtlichen Häusern; die Eigenthümer find mit * bezeichnet. —\nDer zweite Theil enthält, wie der erste nach der Großen und\nKleinen Stadt abgetheilt, dieselben Namen nach alpha-\nbetischer Ordnung mit Hinzufügung der respectiven Wohnungen,\nund ist demnach selbstständig und als Register des Nummernbuches\nzu gebrauchen.\nNro.\n1 a\n1 b\n2 f\n3 *\n4 2\n5 f\n6 f\n7 *\n8 2\n9 a\n9 b\n9 c\n10 *\n11 f\n12 u\n14 f\n15 u\n17 2\n18 *",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 2293,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 607,
+    "lines": 30,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 19.27,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0033,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:42:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p007",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p007.jpg",
+      "bytes": 863415,
+      "sha256": "ff9de4c53c9a47c50723118a303f190f7936ccb550215c28d897c4fd46786432",
+      "sha256_of": "original",
+      "working_copy": "1841_p007.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:42:37+00:00"
+  }
+}

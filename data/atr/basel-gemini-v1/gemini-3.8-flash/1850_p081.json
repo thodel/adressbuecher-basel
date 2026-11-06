@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p081",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p081.jpg",
+    "bytes": 913054,
+    "sha256": "d4fd06bb2198a4a151a66501fc62582a2a416480f18e3b51210e6d42a6b467e8",
+    "sha256_of": "original",
+    "working_copy": "1850_p081.jpg"
+  },
+  "text": "68 Stadt-Quartier.\n\nKronengasse.\n\n1526 Halter, Niklaus, Bettfedernhandlung.\n1527 Wassermann, Karl, Schneider.\n  Imhof, J. R., Schuhmacher.\n0528 Scherb, Georg, Med. et Chir. Dr.\n  Strübin, Wittwe, Uhrenmacher.\n  Heß, J. J., Commis.\n  Sixt, Frau, geb. Roth, Hebamme.\n1529 Staib, Matth., Schlosser.\n\nNeue Straße.\n\n1530 (Gasthaus z. Krone) Hauser-Fäsch, Fz. Ksp., Gastgeb.\n  Oswald, Gebrüder, Geschäftsbureau.\n1531-32 (Gasthof z. gold. Kopf) Steiner, Wittwe, Gastgeb.\n\nEisengasse.\n\n1533 Huber-Molitor, J. J., Apotheker.\n  Felber, G., J. U. D., Staatsschreiber.\n  Glock, Gustav, Speditor.\n  Wölfklin, Bened., Handelsmann.\n1534 Preiswerk-Klingler, Frau Rosina.\n  Tabackladen von Frau Wittwe Lotz-Zäslin.\n1535 Früh-Ronus, Hier., Kanzlei-Sekretär.\n  Früh, Eduard, Commis.\n  Braun-Geßler, Andr., Lederhandlung.\n1536 Burkhardt, Gottlieb, Schneider.\n  Mück, J. Theod., Dégraisseur.\n1537 Trapet, Rich., Goldschmied, Juwelier.\n1538-39 Schölly, Sam., Bandfabrikant und Handlung.\n1540 Ronus & Holzach, Christ., Quincailleriehandlung.\n  Kammer, Joseph, Ladendiener.\n1541 Amans, Jos. Wilh., Hutmacher.\n  Amans, Arthur, Dessinateur.\n  Amans, Heinrich, Commissionnaire.\n  Lefèbvre, Peter, Modehandlung.\n1542 Weitnauer-Hoffmann, Eml., Tapezierer.\n  Geschäftsbureau von Hauser & Steigmeyer, Agentur\n    der schweiz. National-Vorsichts-Cassa.\n1543 Preiswerk-Oser, J. J., Tuchhandlung.\n1544 Rosenmund, Joh. Jak., Kammmacher.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5692,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1401,
+    "lines": 39,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.82,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:14:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p081",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p081.jpg",
+      "bytes": 913054,
+      "sha256": "d4fd06bb2198a4a151a66501fc62582a2a416480f18e3b51210e6d42a6b467e8",
+      "sha256_of": "original",
+      "working_copy": "1850_p081.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:14:45+00:00"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p049",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p049.jpg",
+    "bytes": 921572,
+    "sha256": "0a40ba069ef24282629cb4270af82230154cc51969cb85d2651d8449c8092f85",
+    "sha256_of": "original",
+    "working_copy": "1850_p049.jpg"
+  },
+  "text": "36 Steinen-Quartier.\n\n797 Weitnauer, Friedrich, Schreiner.\n  Schöner, J. H., Ferger.\n798 David, Emanuel, Handels-Commis, Lohnwascher.\n799 Baumann, Heinr. Gottl., Seidenfärber.\n  Witzig, Dl., Lehrer.\n800 Faust, Kaspar, Tuchscheerer.\n801 Lüppold, Frau Rosine, Wascherin.\n802 Burckhardt-Respinger, Wittwe Louise, Rentière.\n803 Waldner, Heinrich, Bandfabrikant.\n  Stückelberger-Holzach, Wittwe Marg.\n804 Gysin, Jakob, Weißbeck u. Wirth.\n  Schäffer, Matthias, Ferger.\n  Häfelfinger, J. F., Commis.\n\nSteinenbruck.\n\n805 Schöck-Henz, Gertrud, Wittwe, Spezereihandlung.\n806 Bernard, Sebastian, Färber.\n807 Plattner, Heinrich.\n808 Stöcklin, Leonhard, Fabrikaufseher.\n809 Schaub, Hch., Fabrikaufseher.\n810 Fäsch, Wittwe geb. Landerer.\n  Fäsch, Jungfrau Salome.\n\nVordere Steinen-Vorstadt.\n\n811 Feyerabend, Peter, Schuhmacher.\n812 } Schuler, Konrad, Metzger.\nA 812 }\n813 Götz, Balthasar, Färber.\n814 Day, Beda, Tapezierer.\n815 Völlmin, Joh., Stuhlschreiner.\n816 (Zunft z. Webern.) Elsner, J. H., Stubenverwal-\n    ter, Rathsbote.\n  Elsner, Frau, Hebamme.\n  Schneider, F., Metzger.\n817 Binz, Johann Ulrich, Ferger.\n  Grollimund, J. J., Ferger.\n818 Gysin, J. P., Küfer.\n\nKurzer Steg.\n\n819 Stöcklin, Leonhard, Schuhmacher.\n820 Schmidt-Lotz, Helena, Wittwe.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 7063,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1240,
+    "lines": 39,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 30.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:11:08+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p049",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p049.jpg",
+      "bytes": 921572,
+      "sha256": "0a40ba069ef24282629cb4270af82230154cc51969cb85d2651d8449c8092f85",
+      "sha256_of": "original",
+      "working_copy": "1850_p049.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:11:08+00:00"
+  }
+}

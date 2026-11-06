@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p110",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p110.jpg",
+    "bytes": 1203909,
+    "sha256": "61bfeb8990b8b6d11224eeb213d45d1baa651cb6a93efead472005baf6d69d30",
+    "sha256_of": "original",
+    "working_copy": "1850_p110.jpg"
+  },
+  "text": "Barth, Wittwe, Kath. 339\nGottfried, Commis 339\nMath., Nagelschmied 339\nSam., Geschäftsmann 1725\nBärwart, F. Commis 1334\nBasler-Bernoulli, Joh. 60\n=Grunauer, Wittwe 699\nJakob, Beck *112\nBattier, Geschwister 231\nBauer, F., Rothgerb. 1661-62\nBauler, Eml., Siegrist 1332\nJgfrn., Anna u. Bal. 1758\nBaumann, Bikt., Kaufm. 22A\nJohann 372\nHr. G., Seidenfärber 799\nHieronimus, Hasner 1027\nBaumgartner, D., Ferger 212\nMartin, Magazinier 317\nW., Ferger 466\nJoh., Schuhmacher 964\nJakob, Desfinateur 1095\nPanfratius *61A\nSaml., Flachmaler *143\nFz. Heinr., Schneider *237\nL., Kübler, Holzfeher *277\nHeinrich, Flachmaler *413\nBaur, F. F., Mechaniker 561\nSam., Kanzlei-Sekret. 630\nFrau Serena, Hebamme 630\n=Baader, Georg, Ferger 958\nf. Erb., Buchdruckerei 1168\nBay, Eml., Papierer 1296\nBeaudroi, Wwe., Mezger 1434\nBebler, F. G., Commis 604\nBeck, Chr., Stadttambour 178\nChr., Lehrer 754Z\nu. Herzog 759-60\nKarl, Kaufmann 893B\nWittwe, Weinschenk 1392\nAlexander, Gürtler 1430\nBell, Friedrich 532\nSamuel, Weinschenk 724A\nF. R., Sohn, Mezger 724A\nBell, Jak., Mezger *348\nHeinr., Fischer *365\nBemmerer, L., Spengl. 1428\nBenz, Joh., Landjäger 779\nF. L., Uhrenmacher 1076\nAchilles, Kunstmaler 1562\nBerger, Wwe., Schreiner 1142\nBernard, Wittwe 754O\nSebastian, Färber 806\nBernoulli, F., Gerichtssubst. 97\nF. F., Apotheker 154\nEmil, Geschäftsmann 160\nJaf. Hier, Commis 168\n=Dicf, F., Postdirector 173\nKarl, Lehrer 249B\nEduard, Pfarrer 450\nHier., Kriegskommissär 560\n=Huber, Leonh. 917\nEd., Sohn, Tuchhdlg. 917\n=Werthemann, N., Not. 1353\n=Obermeyer, D., Notar 1383\nDaniel, Kaufmann 1383\n=Cailler, C., Seidenhlg. 1420\n=Bär, L., Materialhdlg. 1600\nu. Sohn, Nifl. de F. 1631\nF. F., Bater, Kent. 1707\nAugust, Fabrikant *177\n-deLachenal, Wittwe 82\nWittwe, Sophie 192\nBerri, N., Rothgerber 653\nElias, Beck 1010\n=Linder, M., Med. Dr. 1595\n=Burchhardt, Melch. 1244\nBertrand, Joseph *218-20\nBeurmann, G. Friedr. 1391\nBicard, Wwe., Esther 1694\nBiccard, Abr., Kaufm. 1678\nBider, Joh., Hausknecht 426\nBieler, Sim., Schuhm. 873\nF. Heinr., Commis 1306\nJaf., Lohnwascher 1306A\nF. Fr., Zettlermeist. 1245\n=Salathe, F. F., Küfer *122\n97\n7",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 8129,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2092,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 22.78,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.001,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:12:31+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p110",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p110.jpg",
+      "bytes": 1203909,
+      "sha256": "61bfeb8990b8b6d11224eeb213d45d1baa651cb6a93efead472005baf6d69d30",
+      "sha256_of": "original",
+      "working_copy": "1850_p110.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:31+00:00"
+  }
+}

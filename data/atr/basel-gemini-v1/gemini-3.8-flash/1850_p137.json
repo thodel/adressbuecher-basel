@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p137",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p137.jpg",
+    "bytes": 1125647,
+    "sha256": "064603fe50eebba2bf17ba1dff9f2e151ce65842a730964906c5c5ede0daa6e0",
+    "sha256_of": "original",
+    "working_copy": "1850_p137.jpg"
+  },
+  "text": "124\n\nvonSpeyr, Wittwe  1422\nSpittler, Chr., Buchhdlr.  1450\nSpörlin-Merian, Wwe.  712-13\n  Wittwe Katharina  *406\nSpreng-Heusler, Eml.  260A\n  Joh. Jak., Sensal  554\nSprenger, J., Commis  *280\nSpreyermann, Elias  754\n  J. G., Schneider  1113-14\n  -Märklin, Wittwe  842\nSprünglin, D., Maurer  1000\n  Jgfr., Partikularin  1623\nSpyri, Fch., Färber  *59\nStähelin-Bernoulli, B.  260\n  Benedikt, Sohn  377-78\n  -Bischoff, Ben.  377-78\n  -Zimmerlin, J. J.  434\n  -Stückelberger, Peter  550\n  Sam., Bandfabrikant  747\n  -Stähelin, R., Hdlsm.  1091\n  -Schönauer, Hier.  1197\n  Christ., Privat-Dozent  1332\n  -Vischer, A., Hdlsm.  1340\n  -Christ, B., Eisenhdlg.  1613\n  Wittwe, Rentière  747\n  Jgfr. Salomea  445\nStählin, Ant., Stuhlschr.  1719\nStaib, M., Schlosser  1529\nStänz, J. C., Posam.  992\nStapfer, J., Commis  1222\nStauber, Rudolf, Beck  318\n  Rudolf, Appreteur  431\n  U. R., Cigarrenm.  *308A\nSteffan, R., Weißbeck  825\n  -vonMechel, Wittwe  825\nStehelin-Imhof, Ed.  283\n  G., Spez.-Hdlg.  313\n  Emil, Med. Dr.  441\nStehlin, J. J., Zimmerm.  1249\nSteiger, Sebastian  162\n  -Ballon, Geschäftsm.  174\n  J. J., sel. Erben  589\n  R., Stadtbote  1028\n[spalte 2]\nSteiger, Wittwe, A. M.  657\n  K., Flachmaler  *289\nSteigmeyer, J.  1595\nStelzer, L., Schreiner  *142\nStengelin, J., Wagner  *190\nSteinbrüchel, J. F.  598\nSteiner, J., Fabrikarb.  786\n  Wittwe, Gastgeb.  1531-32\nSteingaß, Professor  438\nSteinmann, F., Schneider  643\n  J. M., Müller  1305\n  -Berri, J., Spengler  1633\nSternenberger, Euch.  *294\n  Wittwe, Kostgeberin  195\nStieler, Jos., Musiker  299\nStierlin, E., Wollenhlg.  1552\n  -Mathes *43. Tapetenl.  1667\nStocker, Al., Pintensch.  758\nStöcklin, J. U., Zettlerm.  616\n  Leonh., Fabrikaufseher  808\n  Leonh., Schuhmacher  819\n  Heinrich, Posamenter  840\n  J. J., Commis  1077B\n  Joseph, Maurer  1745\nStockmeyer, E., Spengler  656\n  Friedrich, Partikular  669\n  Imanuel, Pfarrer  1499\n  Niklaus, Postangest.  1501\n  Abraham  *186\nStohler, Hch., Ferger  9A\n  Wittwe, Elisabeth  *103\nStoll, Joh., Schreiner  213\nStössel, Joh., Gastgeber  353\n  Rudolf, Kutscher  1390\nStraßer, J., Schreiner  328\nStraubhardt, J., Hauskn.  52\nStraumann, R., Ferger  1242\nStreckeisen, Eml.  456A\n  Jgfr. Emma  1365\n  Karl, Med. Dr.  1637\n  -Cäsar, Wittwe  1365\nStreicher, Joh.  1695\nStreitmatter, Andreas  789",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9543,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2297,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 24.08,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0013,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:22:37+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p137",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p137.jpg",
+      "bytes": 1125647,
+      "sha256": "064603fe50eebba2bf17ba1dff9f2e151ce65842a730964906c5c5ede0daa6e0",
+      "sha256_of": "original",
+      "working_copy": "1850_p137.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:37+00:00"
+  }
+}

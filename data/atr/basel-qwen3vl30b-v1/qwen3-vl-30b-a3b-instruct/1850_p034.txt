@@ -1,0 +1,43 @@
+22
+Spahlen = Quartier.
+479 Scherb=Schmied, Meżger.
+    Schmied, Und., Meżger.
+480 Bereint mit 477.
+481 Saiter, Emanuel, Meżger.
+482 Haas, Karl, Küfer.
+    Schilling, Wittwe.
+483 Bulacher, Eml., Meżger.
+    Schuler, Rudolf, Partikular.
+484 Frey, F., Bater, Knopfmacher, Quartierschreiber.
+    Soller, Wilhelm, Schuhmacher.
+485 Zeisly, Ch., Dessinateur und Krankenwärter.
+    Wältin, Ch., Cigarrenhandel.
+486 Schmazmann, Ch., Seckler u. Travattenmacher.
+487 Wolf, Simon, von Oberhagenthal.
+488 Thurneyfen, Peter, Drehšler.
+489 Langmesser, Hier., Rentier.
+490 Pack=Burckhardt, F., Spezerei-, Käs- und Brannt-
+    wein-Handlung.
+    Müller-Pack, F. F., Commis.
+491 Buser, Wittwe, Modiste.
+492
+493 Ruef, Abrah., von Hegenheim, Handelsmann.
+494 Locher-Keller, Frau Elisabetha.
+495 Sulzmann, Wilh., Schuhmacher und Leiffschneider.
+496 Rehlin, Leonhard, Trödler.
+497 Näff, Samuel, Posamenter.
+498 Schulz, Joh. Joseph, Maurerparlier.
+499 Hug, Wittwe, geb. Geymüller.
+Adelberg.
+500 Dietrich, Heinrich, Schneider.
+501 Wagner, Peter, Buchdrucker.
+502 Burckhardt, Bernhard, Glaser.
+503 Langmesser, Samuel, Schreiner.
+504 Grollimund, Felix, Sattler.
+505 Kircher=Merian, Jaf., Clavierlehrer.
+506 Löw, Leonh., von Benken, Schuhmacher.
+507 Brenner-Stähelin, Joh., Handelsmann.
+508 Riedtmann, Joh. Ludwig, Schuhmacher.
+509 Sandreuter-Heußler, Wittwe.
+510 Comptoir von Burgdorf=Merian, Lud., Farbwaaren-
+    handlung u. Tapetenlager.

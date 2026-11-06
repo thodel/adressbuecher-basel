@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p170",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p170.jpg",
+    "bytes": 1096770,
+    "sha256": "abb2b94ae9219a3b8c8809f9163598b9a7050cab4a5fe8c53f33915cfa5d21f7",
+    "sha256_of": "original",
+    "working_copy": "1841_p170.jpg"
+  },
+  "text": "— 17 —\n\nSpindler, Leonh., v. Lieftal, Zimmermann. 1316 St. Alb. Vst.\nSpörlin, Rudolf, Speddermeister. 399 Heuberg.\nSprenger = Fäsch, Margaretha, Wittwe, Seidenwaaren-\nlager. 1728 Markt.\nSprüngli = Schmidlin, David, Architekt. 1009 Ueschen = Vst.\nStähelin, Emil, Dr. der Med., Chir. und Geburtshülfe\n319 Spahlen = Vorstadt.\nStähelin, Balthasar, fel. Wittwe, geb. Merian. 1095\nBarfüsserplatz.\nStähelin, Karl, Kaufmann, Firma: Stähelin und Comp.\n1179 Freienstraße.\nStähelin, Gottfried, Sohn, Kaufmann. 313 Spahlen = Vst.\n* StähelinBischoff, Bened., Bandfabr. 377 und 378 St.\nLeonhardsgraben.\nStähelin = Stähelin, Rud., Kaufmann. 816 Bordere\nSteinen = Vorstadt.\nStarke, Christ. Daniel, Fabrikarbeiter. 1534 Eisengasse.\nStehlin, Benedikt, Maurerpoliier. 1235 St. Alban-Vorst.\nSteiger, Joh. Jakob, Handlungs-Commis. 483 Oberer.\nSpahlenberg.\nSteigmeyer = Ryburz, Joh., Schreiber. 1627 Unt. Freienstr.\nSteinmann, Gottfried, v. St. Gallen, Part. 257 b.\nNeue Vorstadt.\nSteinmann, Peter, Rutscher. 1245 Malzgasse.\nSteinmann, Johannes, Naturalist. 1316 St. Alb. Vorst.\nStempel = Bureau. 623 Grünpfahlgässlein, beim Kaufhaus.\n* Sternenberger, J. J. 195 Herbergberg.\nStocker, Anton, Chorist. 257 b. Neue Vorstadt.\nStraumann = Wertenberg, Rud., Feger. 1242 Malzgasse.\nStreckeisen-Hofch, Emanuel, Kaufmann. 1731 Beim\nKornmarktbrunnen.\nStreuber, Wilh. Theod., Cand. der Theol. 107 Blumenrain.\nStrub, Georg, Schuhmacher. 720 Hinter dem Stöcklin.\nStrübin, Joh. Jakob, Sohn, Uhrenmacher. 521 Adelberg,\nStückelberger, Johannes, Cand. d. Theol. 416 Heuberg.\nStückelberger = Berri, Suf., Wittwe, Part. 546 Adelberg.\nStuder, Jakob, Seidenfärbergeseß. 1710 Unt. Spahlenb.\nStupanus, Heinrich, Buchbinder, 700 St. Leonhardsberg.\nSulger = Stähelin, And., Kaufmann. 1181 Freienstraße.\n3",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5643,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1757,
+    "lines": 41,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 41.85,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0011,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:01:29+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p170",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p170.jpg",
+      "bytes": 1096770,
+      "sha256": "abb2b94ae9219a3b8c8809f9163598b9a7050cab4a5fe8c53f33915cfa5d21f7",
+      "sha256_of": "original",
+      "working_copy": "1841_p170.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:01:29+00:00"
+  }
+}

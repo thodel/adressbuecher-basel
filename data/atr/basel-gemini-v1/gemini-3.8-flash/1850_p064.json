@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p064",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p064.jpg",
+    "bytes": 993192,
+    "sha256": "e862e9b7af735f8a01ddf799762091a249d4bc803de18705fdf7ed405e1e39a3",
+    "sha256_of": "original",
+    "working_copy": "1850_p064.jpg"
+  },
+  "text": "Aeschen-Quartier. 51\n\n1126 Deck, Joh. Ulrich u. Pet. Wilh., Glockengießer.\n1127 Senn, Rudolf, Zimmergesell.\n1128 Schuhmacher, Rud., Kerzenfabr. u. Seifensieder.\n1129 Pfaff, Heinrich, Schuhmacher.\n\nWeiße Gasse.\n1130 Frischknecht, J. J. Mousselinhdlg. — Stallmeister.\n1131 Gaß-Sixt, Joh. Heinr., Schneider.\n1132 Mazinger-Deck, Fr. Marie, Modiste.\n1133 Kübler-Uebelin, Wittwe Karol., Kübler.\n  Uster, C. Dl., Schneider.\n1134 Ottenburg-Waldner, A. M., Wittwe.\n1135 Thommen, Joh. Jak., Gärtner.\n  Waldner, Joh. Heinr., Schuhmacher.\n1136 Hug, Joh. Christ., Spengler.\n1137 Gaß, J. R., Schriftsetzer und Kosthaus.\n1138 Gaß, J. J., Koch und Pintenschenk.\n1139 Nidecker, Franz, Schlosser.\n1140 Plattner, Heinrich, Hausknecht.\n1141 Strub, Hans Georg, Vater, Metzger.\n1142 Berger, Rudolf Wittwe, Schreiner.\n1143 Hug-Lotz, Wittwe Agnes.\n1144 Schaub, Ben., Commis.\n  Schaub, J. J., Commis.\n\nBaarfüßerplatz.\n1145 (Gasthof z. Schiff.) Ritter-Geßler, J. J., Gastgeb.\n1146 Langmesser und Schellenberg, Commissions- u. Spe-\n    ditionshandlung.\n\nHinter dem Stöcklin.\n1147}\n1148} Geyger, Achilles, Weinschenk.\n1149 Crussaire, Louis, Zucker- u. Pastetenbeck.\n  Förin, J. Hch. Commis.\n1150 Oser, Wittwe Cath.\n1151 Droz-Stierlin, Friedr., Handelsmann.\n\nGerbergasse.\n1152 Schardt, Lukas, Commis.\n1153 Weiß-Erb, J. J., Geschäftsmann.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6203,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1308,
+    "lines": 38,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.0,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0015,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:12:44+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p064",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p064.jpg",
+      "bytes": 993192,
+      "sha256": "e862e9b7af735f8a01ddf799762091a249d4bc803de18705fdf7ed405e1e39a3",
+      "sha256_of": "original",
+      "working_copy": "1850_p064.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:12:44+00:00"
+  }
+}

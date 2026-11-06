@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p034",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p034.jpg",
+    "bytes": 1023098,
+    "sha256": "425857e155484c2cf46eaeea0e1a67317d3c708cdaf0f498ef6829b33cdbb410",
+    "sha256_of": "original",
+    "working_copy": "1850_p034.jpg"
+  },
+  "text": "22\nSpahlen = Quartier.\n479 Scherb=Schmied, Meżger.\n    Schmied, Und., Meżger.\n480 Bereint mit 477.\n481 Saiter, Emanuel, Meżger.\n482 Haas, Karl, Küfer.\n    Schilling, Wittwe.\n483 Bulacher, Eml., Meżger.\n    Schuler, Rudolf, Partikular.\n484 Frey, F., Bater, Knopfmacher, Quartierschreiber.\n    Soller, Wilhelm, Schuhmacher.\n485 Zeisly, Ch., Dessinateur und Krankenwärter.\n    Wältin, Ch., Cigarrenhandel.\n486 Schmazmann, Ch., Seckler u. Travattenmacher.\n487 Wolf, Simon, von Oberhagenthal.\n488 Thurneyfen, Peter, Drehšler.\n489 Langmesser, Hier., Rentier.\n490 Pack=Burckhardt, F., Spezerei-, Käs- und Brannt-\n    wein-Handlung.\n    Müller-Pack, F. F., Commis.\n491 Buser, Wittwe, Modiste.\n492\n493 Ruef, Abrah., von Hegenheim, Handelsmann.\n494 Locher-Keller, Frau Elisabetha.\n495 Sulzmann, Wilh., Schuhmacher und Leiffschneider.\n496 Rehlin, Leonhard, Trödler.\n497 Näff, Samuel, Posamenter.\n498 Schulz, Joh. Joseph, Maurerparlier.\n499 Hug, Wittwe, geb. Geymüller.\nAdelberg.\n500 Dietrich, Heinrich, Schneider.\n501 Wagner, Peter, Buchdrucker.\n502 Burckhardt, Bernhard, Glaser.\n503 Langmesser, Samuel, Schreiner.\n504 Grollimund, Felix, Sattler.\n505 Kircher=Merian, Jaf., Clavierlehrer.\n506 Löw, Leonh., von Benken, Schuhmacher.\n507 Brenner-Stähelin, Joh., Handelsmann.\n508 Riedtmann, Joh. Ludwig, Schuhmacher.\n509 Sandreuter-Heußler, Wittwe.\n510 Comptoir von Burgdorf=Merian, Lud., Farbwaaren-\n    handlung u. Tapetenlager.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4602,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1414,
+    "lines": 43,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 31.16,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:06:54+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1850_p034",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p034.jpg",
+      "bytes": 1023098,
+      "sha256": "425857e155484c2cf46eaeea0e1a67317d3c708cdaf0f498ef6829b33cdbb410",
+      "sha256_of": "original",
+      "working_copy": "1850_p034.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:06:54+00:00"
+  }
+}

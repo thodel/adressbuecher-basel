@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p136",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p136.jpg",
+    "bytes": 1256200,
+    "sha256": "2449e50dcc2bfaf9b2cf31b0ab7a1ecdc1f3f7124ccf42722784dcbc660774e2",
+    "sha256_of": "original",
+    "working_copy": "1850_p136.jpg"
+  },
+  "text": "123\nSchweizer, L., Flachmaler *41\nSchwob, Hans Jakob 907\n  J. J., Gerichts-Amtm. 1166\n  Joh., Fabrikaufseher *266\nSecrétan, A., franz. Pfr. 223\nSegisser, L., Detailladen 1395\nSehringer, J. G., Hdlsm. 570\nSeidel-Fürstenberger, F. 851\nSeiden-Trocknungsanst. 1084B\nSeifert, Hch., Müller 621\nSeiler, K., Kaufhausarb. 305\n  Hch., Fabrikarbeiter 704A\n  L.,Woll.-u.Leintuchhlg.1617\n  J. N., Metzger *6\n  Heinrich, Kasernier *310\nSenn, J. J., Gastgeber 115\n  Heinrich, Commis 183\n  Friedrich, Commis 245\n  -Gysin, D.,Zollbeamter 456A\n  Rudolf, Zimmerm. 1127\nSeul, Fz., Buchdrucker 538\n  J. J., Schneider 994\n  J. J., Stubenverw. 1183\nSevin, W., Commis 1274E\nSexter, W., Zahnarzt 1086\nSiber-Bischoff, Chr.H. 264-65\n  -Lotz, Kaspar *172-73\n  -Munzinger, Wwe. *7\nSickinger, H., Bildhauer 992\nSider, Viktor, Appret. *309\nSiebenmann-Huber, F. 269A\nSiegfried, Jak. Philipp 31\n  Nikl., Grieser 1085\nSigmund, B., Badanstalt 628\nSiegmund, Peter *136\n  Jakob, Kunstmaler *136\nSiegrist, J., Commis 163\n  -Frey, J., Spezierer 163\n  Eml., Commis 314\n  Jos., Kutscher 476\n  Rudolf, Posamenter 776\n  Eml., Metzger 843\n  Heinrich, Metzger 861\n[spalte 2]\nSiegrist, J. H., Beck 862\n  J.N., Kaufhausbeamt. 937B\n  Nikl. Hch., Schreiner 1257\n  Mart., Müller 1303\n  Joh., Fabrikferger 1486\n  -Heußler, A., Korbhdlg. 1741\n  Wittwe, A. M. *187\n  -Beckel, Wwe., A. M. 281\nSilbernagel, Joh. Jak. 1608\nSimmen-Hunzicker, F. 1255\n  Melch., Zimmermann *268\nSimmler, Heinrich 689\nSimonius, K., Commis 516\nSimoth, J. D., Tabackhlg. 451\nSingeisen, J. J. 567-68\n  Jgfr. Barbara 1441\nSixt, L., Tapezierer 569\n  Eml., Commis 971A\n  -Roth, Frau, Hebamme 1528\n  -Weitnauer, Wittwe 331\nSocin, Abel, Tuchhdlg. 566A\n  -Frey, Ed., Hdlsm. 594\n  -Werthemann 1381A\n  -Heußler, Bernhard *174\n  Wittwe, Margaretha *192\nSoller, Wilh., Schuhm. 484\n  Friedrich, Bandfabr. *177[handschriftlich: 8]\n  J., Beck *371\nSommer, M., Flachmaler 314\nSoulzener, A., Zuckerbeck 1518\nSpahr, Daniel, Commis 314\nSpecker, H., Bierbrauer 783\nSpeiser, J. J. 156\n  -Hauser, J., Bankdirekt. 1629\n  Jakob, Posamenter *155\nSpengler, Wittwe 663\nvonSpeyr-Iselin, Karl 50\n  Joh. Hch., Antiquar 415\n  Joh., Material-Hdlg. 438\n  -Ryhiner, E., Hdlsm. 1043\n  Emil, Sekretär 1077\n  Heinrich, Hdlsm. 1200\n  Karl Wilh., Notar 1422",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 11727,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2240,
+    "lines": 88,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.38,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0009,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:22:28+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p136",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p136.jpg",
+      "bytes": 1256200,
+      "sha256": "2449e50dcc2bfaf9b2cf31b0ab7a1ecdc1f3f7124ccf42722784dcbc660774e2",
+      "sha256_of": "original",
+      "working_copy": "1850_p136.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:22:28+00:00"
+  }
+}

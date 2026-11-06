@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p095",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p095.jpg",
+    "bytes": 1284282,
+    "sha256": "c6f30c57a64d0cb5dac8fd800d905045b26f84f7b256ba85d569e0e22d4f742c",
+    "sha256_of": "original",
+    "working_copy": "1862_p095.jpg"
+  },
+  "text": "30\nBlumenrain. — Breite Straße.\nNeue\nHaus=Nr.\nQuar-\ntier.\nAlte\nHaus=Kro.\nName des Hauses.\nNamen der Hauseigenthümer\nund Bewohner.\n24\nI.\n103\nStadt Laufenburg.\nBrenner=Bähr, August.\nBrenner=Bähr, August, Kaufmann.\n(Firma: Brenner=Fäsch.)\n25\nI.\n96\nSteinbrunnen.\nDeck=Spichti, Melchior.\nDeck=Spichti, Melchior.\nMaffini, Giovanni, Telegraphist.\n26\nI.\n102\nFlick, Rud. sel. Erben.\nFlick=Schmid, Wb. Therefia, Kostgeberin.\nBitterlin=Bolh, Sfaac, Feuerschau=Adikt.\n27\nI.\n93\nzum Rechberg.\nFselin=Passavant, Heinrich, u. Jgfr.\nHenriette Passavant.\n(gehört zu Nro. 34. Seidenhof.)\n28\nI.\n99\nzum Saufen.\nWick, Emil.\nWick, Emil, Particular.\nPhotographie von Franz Xaver Herzog.\n29\nI.\nS. Joh. Schwibbog. Stadtgemeinde.\nBürgin=Segifer, Joh. Jakob.\nBürgin=Segifer, Joh. Jak., Schuhmacher.\n30\nI.\n98\nFreuler=Jakobs, Franz, Schriftsetzer.\n32\nI.\n94\nzum Brandis.\nHeusler, Friedrich.\nHeusler, Friedrich, Rentier.\n34\nI.\n92\nzum Seidenhof.\nFselin=Passavant, Heinrich u. Jgfr.\nHenriette Passavant..\nFselin=Passavant, Heinrich, Med. Dr.\nPassavant, Jgfr. Henriette.\nBreite Straße.\n1\nV.\n324\nStehlin=Burckhardt, Joh. Jacob.\nEuler=Hertig, Rudolf, Buchhalter.\n9\nV.\n327\nHoch=Laubheim, Jacob. (Scheune.)\n13)\nV.\n328—29\nHaller=Walser, Victor.\n15)\nHaller=Walser, Victor, Landwirth und\nWeinschenk.\n21\nV.\n332\nRöchlin, Heinrich, Uhrenmacher.\n30\nV.\n342\nDrelli=Heusler, Heinrich.\n33\nV.\n333\nHeusler=Fatio, Wittwe Esther.\n(Scheune.)\nMöcklin=Senn, Joh. Rudolf.\nMöcklin=Senn, Joh. Rud., Wirth.\nAustrittszollposten=Büreau.\nRaab=Weiß, Georg, Zoller.\nSalathe=Heid, Joh., Schmied.\nGyfin, Jgfrn. Soph. u. Suf. Lehrerinnen.\n35\nV.\n335\nSarafin u. Comp.\nKilcher=Dannmeyer, Jac., Landwirth.\n40\nV.\n346\nSteinmann, Melch. u. Ed., (Scheune.)\n43\nV.\n338\nDas Försterhaus.\nStadtgemeinde.\nNäher=Dietzsch, Carl Ludwig, Förster.\nNäher, Carl Ludwig, Commis.\n[spalte 2]\n11\n13\n19\n21\n23\n25\n27\n29\n31\n33\n1",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6611,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1830,
+    "lines": 132,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.1894,
+    "mean_line_chars": 12.87,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0016,
+    "run_on_own_line": true
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:32:32+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p095",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p095.jpg",
+      "bytes": 1284282,
+      "sha256": "c6f30c57a64d0cb5dac8fd800d905045b26f84f7b256ba85d569e0e22d4f742c",
+      "sha256_of": "original",
+      "working_copy": "1862_p095.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:32:32+00:00"
+  }
+}

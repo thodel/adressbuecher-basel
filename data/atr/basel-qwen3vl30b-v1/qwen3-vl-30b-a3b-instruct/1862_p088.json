@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1862_p088",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1862_p088.jpg",
+    "bytes": 1414545,
+    "sha256": "a4b160840f2fc72cad63c84ff523d5e916aee50569baff0d66325d2eebfe0497",
+    "sha256_of": "original",
+    "working_copy": "1862_p088.jpg"
+  },
+  "text": "Neue\nHaus-Nr.\nQuar-\ntier.\nAlte\nHaus-Nro.\nName des Hauses.\nNamen der Hauzeigenthümer\nund Bewohner.\n9 V. 1480 Lehrerwohnung. Staat.\nMeyer-Lichtenhan, Rem., Dr., Lehrer.\nSarasin-Merian, Wb. Jul., f. Erb.\nMerian-Sarasin, Wilh., Landökonom.\nRaillard, Emma, Jgfr., Erzieherin.\n11 V. 1479 Lehrerwohnung. Staat.\nMeyer-Kraus, Heinrich, V. D. M. Lehrer\n13 V. 1478 Lehrerwohnung. Staat.\nBurckhardt-Piguet, Theophil, Lehrer.\nBurckhardt-Bernoulli, Charlotte.\nBurckhardt-Bernoulli, Charl. Wb., Rent.\n15 V. 1477 Burckhardt-Keller, J. Rud.\n17 V. 1476 Burckhardt-Keller, J. K., App.-Ger.-Präf.\n19 V. 1475 Auguſtinerhof. His-Laroche, Eduard.\nMiescher-His, Friedr. Eduard, Dr. u. Prof.\nHis-Bischof, Wilh., Dr. und Prof.\n21 V. 1474\nAuſtrase.\n24 II. 166 A Geßler-Wierz, Daniel.\nSchneider, Geschw. Jul. u. Paul., Part.\nLutz-Hagnauer, Johann, Commis.\n26 II. 166 B Geßler-Wierz, Daniel.\nPfander-Carle, Wb. Margaretha, Part.\nPfander-Kaltenbach, Jacob, Part.\nSchmidt, Johann Ulrich, Agent.\n28 II. 166 D Geßler-Wierz, Daniel.\nGeßler-Wierz, Daniel, Part.\n30 II. 166 Widmann-Schweighauser, Heinrich.\nWidmann-Schweighauser, Heinr., Lehrer.\nGirard-Baretta, Friedrich, Centralbahn-\nBeamter:\n32 II. 166 E Wißt-Hügin, Leonhard.\nWißt-Hügin, Leonhard, Schreiner.\nWagner, J. C., Chef d. Contr. d. Centralb.\nDelhasen, Samuel, Mechaniker.\nAbt, Albert, Postbeamter.\n47 II. 168 Stäubli-Scholl, Bernhard.\nStäubli-Scholl, Bernhard, Gärtner.\n48 II. 169 B Boillat-Stihl, Cölestin.\nBoillat-Stihl, Cölestin, Schreiner.\nGrob-Stengelen, Jakob, Cassier.\n50 II. 169 Bischoff-Buxtorf, Wb. Adele.\nRickenbach, Jakob, Lehrenbeständer.\n71 II. 137\nBachlettenstraße.\n10 III. Pulvermagazin. Staat.\n11 III. 180 Bürgin, Heinrich.\nSchneider-Studer, Benedict, Ziegler.\nEngler-Preisentanz, Heinrich.\n15 III. 181 Engler-Preisentanz, Heinrich, Ziegler.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 6271,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1786,
+    "lines": 59,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 29.29,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0017,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T14:30:52+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1862_p088",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1862_p088.jpg",
+      "bytes": 1414545,
+      "sha256": "a4b160840f2fc72cad63c84ff523d5e916aee50569baff0d66325d2eebfe0497",
+      "sha256_of": "original",
+      "working_copy": "1862_p088.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:30:52+00:00"
+  }
+}

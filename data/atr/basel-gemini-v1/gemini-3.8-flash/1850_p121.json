@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p121",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p121.jpg",
+    "bytes": 1082406,
+    "sha256": "3db35beb5f6716563977bff41e42bb77234adac81b9fb3d6fa6581095c35a092",
+    "sha256_of": "original",
+    "working_copy": "1850_p121.jpg"
+  },
+  "text": "108\n\nHeußler-Fatio, El.  1281\n-Iselin, Dan.  1309A\nJoh., Schneider  *32\nKarl Leonh., Kaufm.  *206\nFriedrich, Spengler  *362\n-Thurneysen, L.  *368-69\n-VonKilch, Wittwe  2\n-Geigy, Wwe., Elis.  1059\n-Hegi, Wittwe  1389\nHilbert, Johann  *261\nHindenlang, J. P., Holzsetz.  5\n-Roth, Jak., Seiler  73\nSimon, Commis  754I\nLukas, Major  828\nMatth., Commis  832\n-Hübscher, J. J.  1160\n-Sulger, J., Schiffm.  *59\nFrau, Hebamme  *59\nFriedrich, Commis  *59\nJ. Rud., Schiffmann  *86\nHindermann, J. J.  352A\nJoh. Wilh., Beck  762\n-Weydmann, J. J.  1107\nJ. J., Sohn  1107\n-Merian, J. J., Bandf.  1200\n-Landerer, Ph., Lehrer  *135\nJ. K., Schönfärber  *290\nFrau, M. M.  263\nLippe, Wwe., Kath.  1117\nHis-LaRoche, Ed.  1492\nEd. u. Fr., Bandfab.  1492\n-Vischer, Wittwe  516\nHitz-Bohny, Wwe., A.  *226\nHoch, Joh.  683\nLukas, Mercerichdlg.  1547\nJakob, Weißbeck  339\nHodel, Ver., Krankenwärt.  715\nHof, Christ., Schneider  361\nHofer, S. R., Spezierer  540\nSeb., Tabacksfabrik.  *273C\nHoff, Ch., engl. Sprachlehr.  472\nHoffmann-Merian, Theod.  29\n-Schäfer, Ch. H.  101\n[spalte 2]\nHoffmann, J., Irren-Aufs.  257\n-Preiswerk, E.  1219\nEml., Bandfabrikant  1219\nG. u. R., Tuchhdlg.  1592\nJgfr., M. Salomea  254\n-Meyer, Wittwe  1592\nHofmann, H., Zuchtanstalt  271\nHösl, G. F., Musiklehrer  754K\nHofstetter, Dl., Papierer  1289\nHöhlin, Hs., Postfaktor  1728\nHöhn, Wittwe  604\nHoldenecker, A., Buchhdlr.  462\nHolinger, Hch., Hauskn.  *367\nHolzach, Rud., Küfer  355\nDietrich, Seiler  647\nLukas, Wirth  968\nF. E., Spielwaarenhlg.  1616\nEuch., Mehlhandlung  1635\n-Schölli, Wittwe  1690-91\nFranz, Kaufmann  1692\nFr., Partikular  1731\nAlb., Kaufmann  *284\n-Ronus, Wittwe, M.  222\n-Krauer, Frau Karol.  1439\nHolzbacher, J. G., Apoth.  1619\nHolzmüller, A.  252\nKarl, Uhrenmacher  717\nHolzreuter, Eug., Färber  *245\nHönes, August, Commis  234\nHonesta, J., Musiklehrer  744B\nHorandt, M., Bandfab.  *177\nHörler, Franz, Lehrer  251A\nJ., Vater, Pastetenbeck  *389\n-Früh, Joh.  *389\nHorner, Dan., Beck  959-60\nFriedr., Kunstmaler  1460\nWittwe, Rentière  *215\nHosch-Mengis, H., Sensal  43\n-Roth, Joh., Beck  108\nPet., Appellat.-Weibel  150\nNikl., Lithograph  441\nEd., Geschäftsmann  822\nJ. J., Commis  1424",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9600,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 2161,
+    "lines": 88,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 23.56,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0014,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:19:56+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p121",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p121.jpg",
+      "bytes": 1082406,
+      "sha256": "3db35beb5f6716563977bff41e42bb77234adac81b9fb3d6fa6581095c35a092",
+      "sha256_of": "original",
+      "working_copy": "1850_p121.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:19:56+00:00"
+  }
+}

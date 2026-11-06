@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p026",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p026.jpg",
+    "bytes": 964023,
+    "sha256": "109205a2ea8ba9b1e1b2da1f4daf0abdf5cd046277f1eecacd14ced3d8c330e4",
+    "sha256_of": "original",
+    "working_copy": "1841_p026.jpg"
+  },
+  "text": "19\nNro.\n475 Buser, Hieronymus, Pastetenbeck.\n476 * Buser\n477 Meyer, Emanuel, Trödler.\n    Marbach, Agnes, Näherin.\n    Meitzer, Wilh. (Tabak- und Cigarrenhandel.)\n478 Müller, Heinrich.\n479 Hug, Jakob Emanuel, Buchdruckerei-Faktor.\n    Seul, Franz, Buchdrucker.\n480 Keller, J. J., Kupferschmid.\n481 Seiter, Emanuel, Meßger.\n482 Rachel-Best, Lucas, Heinrich, Meßger.\n    Grell, Math., Graveur.\n    Leuba, Franz, Buchbinder.\n483 Stockmeyer, Abraham, Spezereihändler.\n484 Frei, Jeremias, Knopfmacher.\n485 Schluep, Joh. Jakob, Handelsmann.\n    Heusler, Lucas, Geschäfts bureau.\n486 Walter, Caspar, Kaufmann.\n    Gockweiler, Joh. Jakob, Fabrikarbeiter.\n487 Wolf, Simon, Kaufmann.\n488 Jenny, Caspar, Trödler.\n    Porte, Elias, franz. Sprachlehrer.\n489 Langmesser, Hieronymus, Weinhändler.\n    Nöcklin, Joh. Ulrich.\n490 Pack-Burckhardt, Isaak, Spezerei-, Käse- u. Branntweinhandlung.\n491 Fechter, Joh., Schuhmacher.\n492 u. 493 Rueff, Abr., Kaufmann, von Hegenheim.\n494 Locher, Elisabetha, geb. Keller.\n495 Sulzmann, Wilh., Leitschneider.\n496 Rehlin, Leonhard, Trödler.\n497 Engler, Emanuel, Schlosser.\n498 Soller, Margaretha, geb. Jäger, Wittwe.\n499 Diez, Jungfer, Ursula.\n500 Dietrich, Heinrich, Schneider.\n501 Bratteler, Fr., Schuster.\nAdelberg.\n502 Burckhardt, Bernhard, Glaser.\n503 Langmesser, Samuel, Schreiner.\n504 Jaillet, Margaretha, geb. Bruckner, Wittwe.\n505 Kircher-Merian, Jakob, Clavierlehrer.\n506 Löw, Leonhard, Schuhmacher, von Benken.\n507 Brenner-Stähelin, Joh., Kaufmann.\n    Vuilleumier, Samson, französ. Pfarrer.\n508 Riedtmann, Joh. Ludwig, Schuhmacher.\n509 Sandreuter, Wittwe, geb. Heusler.\n510 * Brenner-Stähelin. (Magazin u. Handlung v. Buxtorf-Merian.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 5053,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1665,
+    "lines": 48,
+    "longest_char_run": 2,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 32.88,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0012,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:44:07+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p026",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p026.jpg",
+      "bytes": 964023,
+      "sha256": "109205a2ea8ba9b1e1b2da1f4daf0abdf5cd046277f1eecacd14ced3d8c330e4",
+      "sha256_of": "original",
+      "working_copy": "1841_p026.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:44:07+00:00"
+  }
+}

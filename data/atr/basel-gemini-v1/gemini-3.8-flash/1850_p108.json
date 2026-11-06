@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-gemini-v1",
+  "model": "gemini-3.8-flash",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1850_p108",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1850_p108.jpg",
+    "bytes": 1112392,
+    "sha256": "69b92b8800d07b19c11d884759ab562ac2bf905c0617822da574cec305c3e6be",
+    "sha256_of": "original",
+    "working_copy": "1850_p108.jpg"
+  },
+  "text": "Riehen-Quartier. 95\n\n436 Müller, Joh., Färber.\n437 Grundeler, Jak. Christ., Schlosser.\n438 Schneider, Jak., Schreiner.\n439 Hug, Joh. Jak., von Zysen, Maurer.\n\nVerzeichniß der vor den Thoren liegenden industriellen\nund gewerblichen Etablissements.\n\nSt. Johannthor Nr. 20 Meyer, Karl, Bierbrauerei und\n  Wirthschaft.\nSpahlenthor \" 145 Rech, zum Mostacker, Wirthschaft.\n  \" 173 Hertner, Schützenwirth.\nSteinenthor \" 158 Schlöth, Gebrüder, Schlosser u.\n  Ofenfabrikanten.\n  \" 182 Weitnauer, Friedr., Fourniersäge.\n  \" 184 Holinger, J., Tabackmühle.\n  \" 185 Thurneysen, Ed., Papierfabrike.\n  \" 186 Burkhardt, Frz., Mechaniker.\nAeschenthor \" 212 Merian & Eckenstein, Bierwirthsch.\n  \" A215 Harder, A., Mechaniker.\n  \" 222 Botanischer Garten.\n  \" 232 Sommer-Casino. Trefzger, Trait.\n  \" A239 Kron & Brändlin, Bierbrauerei\n  und Wirthschaft.\n  \" 252 Knutty & Comp., Holz-, Kohlen-\n  u. Steinkohlenhandlung.\n  \" 256 Merian, Eml., Bierbrauerei und\n  Wirthschaft.\n  \" 278 Müller, P., Walker in St. Jakob.\nSt. Albanthor \" 313 Stehlin, J. J., Säge.\n  \" 332 Heußler-Fatio, Bleicher.\nRiehenthor \" 1 Richter-Linder, J. J., Bandfabr.\n  \" 7 Bürgin, Hch., Wirthschaft, Bad-\n  u. Waschanstalt.\n  \" 8 Obrigkeitliche Säge.\n  \" 38 Assal, chemisches Laboratorium.\n  \" 39 Oswald & Comp., Bandfabrikant.\n  \" 80 Begle, Ziegel- u. Kalkbrennerei.\nBläsythor \" 58 Klybeck. Marmorsäge v. Dizerens.\n  Ziegelbrennerei von Wittwe Heim-\n  licher.\n  \" 80 Götz & Ecklin, Bandfabrikant.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 9215,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-low|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1447,
+    "lines": 41,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0244,
+    "mean_line_chars": 32.93,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0021,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+  "recognised_at": "2026-11-06T14:17:45+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-gemini-v1",
+    "source": {
+      "key": "1850_p108",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1850_p108.jpg",
+      "bytes": 1112392,
+      "sha256": "69b92b8800d07b19c11d884759ab562ac2bf905c0617822da574cec305c3e6be",
+      "sha256_of": "original",
+      "working_copy": "1850_p108.jpg"
+    },
+    "model": {
+      "model": "gemini-3.8-flash",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "gemini-3.8-flash@prompt-4d8d9365+think-low",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T14:17:45+00:00"
+  }
+}

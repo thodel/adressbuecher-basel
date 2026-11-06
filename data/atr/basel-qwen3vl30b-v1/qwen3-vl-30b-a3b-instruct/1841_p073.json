@@ -1,0 +1,64 @@
+{
+  "schema": "atr-batch/1",
+  "run": "basel-qwen3vl30b-v1",
+  "model": "qwen3-vl-30b-a3b-instruct",
+  "engine": "external",
+  "doc_id": "",
+  "source": {
+    "key": "1841_p073",
+    "doc_id": "",
+    "bestand": null,
+    "name": "1841_p073.jpg",
+    "bytes": 919984,
+    "sha256": "e44603537162f7a6ef9af237ff5e9d861a3fc6af283329e85f93547e2cf3b507",
+    "sha256_of": "original",
+    "working_copy": "1841_p073.jpg"
+  },
+  "text": "Nro. 66\nAm Lindenberg.\n93 Miville, Achilles, Stadtrath.\n94 Grundeler, J. Christian, Schloffer.\n95 Burckhardt, Rudolf, Mezger.\n96 Euler, Joh. Jakob, Schuhmacher.\n  Schaffner, Emanuel, Geschäftskreisender.\n97 * Holzmagazin. Eglin, Christoph, Zimmermeister, geh.\n98 Wezel, Jakob Friedrich, Taglöhner.\n99 Zürcher, Samuel, Schneider.\n100 David, J. Conrad, Mezger und Weinschenk.\n101 Glaser, Jakob, Zimmermann.\n102 Widemann, Joh. Jakob, Fabrikarbeiter.\n103 Stohler, Martin, von Zysen, Fabrikarbeiter.\n103 a Imhof-Boschet, Weizgerber, geh.\n104 Jäsch, M. Leonhard, Lehrer.\n  Frey, Phil. Carl, Lehrer.\n105 Pfannenschmid, Heinrich, Mezger.\n106 * Der katholischen Gemeinde geh.\n  Bon Büren, Seb., kathol. Pfarrer.\n  Fluri, Nikolaus, dito Vikar.\n  Lohner, Benedikt, Oberlehrer an der kathol. Schule.\n  Röllin, Joh. Jos., Aushülf=Priester.\n107 David-Meyer, Rudolf, Mezger.\n  Frei, geb. Bär, Wittwe.\n108 * Steffan, Joh. fel., Wittwe, von Mühlhausen, geh.\n  Hartmann, Samuel, Kaufmann.\n109 * Magazin von David-Meyer, Rud.\n110 Riedtmann, Nikolaus, Mezger und Wirth.\n110 a * Schäfer, August, Zimmermeister.\n  Speiser-Hauser, Joh. Jakob, Sohn, Kaufmann.\nAheinweg.\n111 Gengenbach-Frei, Amad., Kaufmann.\n112 Riedtmann, Heinrich fel., Wittwe.\n112 b Riedtmann, Niklaus, Mezger.\n112 c * Scheune von N. Riedtmann, Mezger.\n113 Oberes Rheinthor, obrigkeitlich.\n114 * Schloffer, Friedrich, Glaser, geh.\n  Courvoisier, August, Kaufmann.\n  Schlatter, Xaver, Gärtner.\n115 * Magazin, der Stadt geh.\nObere Nebgasse.\n116 * Erthause von Bernoulli-Bär, Leonh.\n116 a * Pack, Christina, geb. Mosis, geh.\n  Pack, Lucas, Steinmeß.",
+  "lines": [],
+  "confidence": 0.0,
+  "segmented_by": null,
+  "timing_ms": 4850,
+  "truncated": false,
+  "settings": "prompt-4d8d9365+think-default|max8192",
+  "quality": {
+    "verdict": "ok",
+    "chars": 1591,
+    "lines": 45,
+    "longest_char_run": 3,
+    "repeat_ratio": 0.0,
+    "mean_line_chars": 33.84,
+    "deliberation_ratio": 0.0,
+    "run_share": 0.0019,
+    "run_on_own_line": false
+  },
+  "second_opinion": null,
+  "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+  "recognised_at": "2026-11-06T13:50:19+00:00",
+  "provenance": {
+    "schema": "ah-provenance/1",
+    "run": "basel-qwen3vl30b-v1",
+    "source": {
+      "key": "1841_p073",
+      "doc_id": "",
+      "bestand": null,
+      "name": "1841_p073.jpg",
+      "bytes": 919984,
+      "sha256": "e44603537162f7a6ef9af237ff5e9d861a3fc6af283329e85f93547e2cf3b507",
+      "sha256_of": "original",
+      "working_copy": "1841_p073.jpg"
+    },
+    "model": {
+      "model": "qwen3-vl-30b-a3b-instruct",
+      "engine": null,
+      "level": null,
+      "revision": null,
+      "revision_kind": "unreported",
+      "weights": null,
+      "base_model": null
+    },
+    "gateway_version": "qwen3-vl-30b-a3b-instruct@prompt-4d8d9365",
+    "segmented_by": null,
+    "recognised_at": "2026-11-06T13:50:19+00:00"
+  }
+}
