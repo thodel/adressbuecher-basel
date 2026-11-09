@@ -75,3 +75,11 @@ phonebook:  ## PTT-Telefonbücher (Basel) extrahieren und gegen 1862 abgleichen 
 .PHONY: karte
 karte:  ## Kartenseite (Gebäude und Strassen) aus data/geo/ (OUT=...)
 	$(PY) scripts/92_karte.py --out $(or $(OUT),web/karte.html)
+
+.PHONY: authorities
+authorities:  ## Normdaten: Kandidaten (Behörden, Titel), Wikidata-Abgleich wie Aarau, Metagrid-Konkordanz und -Gegenprobe
+	$(PY) scripts/30_authority_candidates.py
+	$(PY) scripts/11_authorities.py fetch
+	$(PY) scripts/11_authorities.py link
+	$(PY) scripts/11_authorities.py metagrid
+	$(PY) scripts/31_metagrid_match.py

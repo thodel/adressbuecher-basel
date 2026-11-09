@@ -230,3 +230,5 @@ data/fullrun/
 _site/
 .claude/
 data/csv/20_phonebook_basel.csv
+data/ext/metagrid_cache.json
+data/ext/wikidata/

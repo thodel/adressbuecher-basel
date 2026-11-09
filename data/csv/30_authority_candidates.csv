@@ -1,0 +1,1277 @@
+cand_id,surname,alliance_name,forename,title,volumes,office_volumes,roles,sources,n_mentions,example_ids
+C00001,Aeby,,Christoph,J. U. D.,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden;register,2,1862-behoerden-013-L011;1862-einwohner-318-L062
+C00002,Aemmer,,Ferd.,,1862,1862,Hirschgasse — Vorstand,behoerden,1,1862-behoerden-026-L026
+C00003,Aepli,,Arnold Otto,,1862,1862,Präsident — Bundesgericht,behoerden,1,1862-behoerden-010-L022
+C00004,Alioth,,Siegm.,M. Dr,1850,,,register,1,1850-einwohner-109-L017
+C00005,Altorfer,,Heinr.,,1862,1862,Messerschmied — Waagmeister,behoerden,1,1862-behoerden-021-L013
+C00006,Amsler,von Tobel,Rudolf,,1862,,Corsetfabrikant,register,1,1862-einwohner-319-L075
+C00007,Anstein,,Rudolf,,1862,1862,Pfarrer am Spital — Strafanstalt | Spitalpfarrer,behoerden;register,2,1862-behoerden-020-L020;1862-einwohner-319-L093
+C00008,Arnold,Waldschmidt,Wilh.,,1862,,Professor,register,1,1862-einwohner-319-L108
+C00009,Arnold,,Wilhelm,,1862,1862,"J. U. D., Dekan — Juridische Fakultät",behoerden,1,1862-behoerden-017-L016
+C00010,Auberlen,Menzel,Carl,,1862,,Prof. d. Theol,register,1,1862-einwohner-319-L120
+C00011,Auberlen,,Carl Aug.,,1862,1862,"Th. D., außerordentl. Prof — Theologische Fakultät",behoerden,1,1862-behoerden-017-L012
+C00012,Aushilfe),,Felix Bertholet,,1862,1862,theils von angenommenen Lehrern ertheilt,behoerden,1,1862-behoerden-018-L023
+C00013,Autenheimer,,Friedrich,,1862,1862,"Rektor, obrigk. Techniker — schinen | theils von angenommenen Lehrern ertheilt",behoerden,2,1862-behoerden-014-L064;1862-behoerden-018-L015
+C00014,Awengen,,J. J.,,1862,1862,Architekt — Baugericht,behoerden,1,1862-behoerden-016-L048
+C00015,Baader,,Friedr.,,1862,1862,Straßeninspektor — Baubeamte,behoerden,1,1862-behoerden-012-L037
+C00016,Bachofen,Burckhardt,Carl,,1862,1862,Ehe-Gericht | Vorsteherschaft | Bandfabrikant,behoerden;register,3,1862-behoerden-015-L053;1862-behoerden-036-L013;1862-einwohner-320-L046
+C00017,Bachofen,Fininger,Sam.,,1862,,eidg. Oberst u. Metzger,register,1,1862-einwohner-320-L054
+C00018,Bachofen,Vischer,Wilhelm,,1862,,Bandfabrikant,register,1,1862-einwohner-320-L066
+C00019,Bachofen,,F. F.,J. U. D.,1850,,,register,1,1850-einwohner-109-L053
+C00020,Bachofen,,J. J.,,1862,1862,"J. U. D., Statthalter — Appellations-Gericht | J. U. D. u. Prof",behoerden;register,2,1862-behoerden-015-L006;1862-einwohner-320-L056
+C00021,Bachofen,,Joh. Jakob,,1841,,J. U. Dr,register,1,1841-einwohner-154-L021
+C00022,Bachofen,,Sam.,eidg. Oberst,1862,1862,Richter — Kriegsgericht,behoerden,1,1862-behoerden-016-L005
+C00023,Bäumle,,Eduard,,1862,1862,} — Verwaltung,behoerden,1,1862-behoerden-030-L071
+C00024,Bäumlin,,J.,,1862,1862,schaft,behoerden,1,1862-behoerden-031-L075
+C00025,Balmer,Rinck,Joh. Jak.,,1862,,"Dr. Philos., Lehrer",register,1,1862-einwohner-321-L025
+C00026,Balmer,,Jak.,Dr.,1862,1862,Hülfslehrer — Rektor: Hr,behoerden,1,1862-behoerden-018-L083
+C00027,Barth,Bernoulli,Samuel,,1862,,Pfarrer,register,1,1862-einwohner-321-L055
+C00028,Barth,Lotz,A.,Pfarrer,1862,1862,Vorstand des Herren-Comités,behoerden,1,1862-behoerden-029-L065
+C00029,Barth,vonderKrone,Aug.,,1862,1862,Rechnungs-Revisoren,behoerden,1,1862-behoerden-030-L020
+C00030,Barth,,A.,,1862,1862,"Pfr. zu St. Theodor, Cassier — Vorstand | Stud. theol., Präses — Vorstand",behoerden,2,1862-behoerden-027-L068;1862-behoerden-035-L077
+C00031,Barth,,Albert,,1862,1862,Helfer — Zu St. Theodor | „ theol — Vorstand,behoerden,2,1862-behoerden-020-L009;1862-behoerden-025-L060
+C00032,Barth,,Daniel,,1862,1862,Bauverwalter — Baubeamte,behoerden,1,1862-behoerden-012-L038
+C00033,Barth,,Samuel,Pfr.,1862,1862,Religionslehrer — Rektor: Hr,behoerden,1,1862-behoerden-018-L085
+C00034,Basler,Schwob,Johannes,,1862,1862,Ehe-Gericht,behoerden,1,1862-behoerden-015-L055
+C00035,Baumgartner,,Ferdinand,,1862,1862,Vikare,behoerden,1,1862-behoerden-018-L061
+C00036,Baur,,Jakob,,1862,1862,Eichmeister — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L085
+C00037,Baur,,Samuel,,1862,1862,Sekret. u. Paßschreiber — „,behoerden,1,1862-behoerden-014-L070
+C00038,Baur,,Verena,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L061
+C00039,Becker,,Friedrich,,1862,1862,theils von angenommenen Lehrern ertheilt,behoerden,1,1862-behoerden-018-L019
+C00040,Beck,,Christ.,,1862,1862,Hauptlehrer — St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L035
+C00041,Beck,,Emanuel,,1862,1862,Sammlung,behoerden,1,1862-behoerden-018-L009
+C00042,Beck,,Tobias,,1841,,Professor der Theologie,register,1,1841-einwohner-086-L004
+C00043,Benz,,Johann,,1862,1862,"Lieut.,       lll. „ — E. Polizei-Direktion",behoerden,1,1862-behoerden-014-L083
+C00044,Bernoulli,Bär,Leonhard,,1862,1862,Stadtrath zu Basel,behoerden,1,1862-behoerden-020-L063
+C00045,Bernoulli,Barth,Ed.,,1862,,Pfarrer,register,1,1862-einwohner-323-L083
+C00046,Bernoulli,Bernoulli,Franz,Med. Dr,1841,,,register,1,1841-einwohner-155-L018
+C00047,Bernoulli,Berri,Niklaus,,1862,,Notarius,register,1,1862-einwohner-323-L089
+C00048,Bernoulli,Cailler,Eml.,,1862,,Bandfabrikant,register,1,1862-einwohner-323-L091
+C00049,Bernoulli,Dick,J.,,1850,,Postdirektor,register,1,1850-einwohner-110-L059
+C00050,Bernoulli,Dick,Joh.,,1841,,Postdirektor,register,1,1841-einwohner-086-L038
+C00051,Bernoulli,Obermeyer,,J. U. D.,1850;1862,,Notar,register,2,1850-einwohner-110-L066;1862-einwohner-323-L114
+C00052,Bernoulli,Oswald,,,1862,1862,Vice-Präsident — Direction,behoerden,1,1862-behoerden-036-L031
+C00053,Bernoulli,Reber,,Dr.,1862,1862,Seckelmeister — Gesellschaft f. vaterländ. Alterthümer,behoerden,1,1862-behoerden-032-L073
+C00054,Bernoulli,Riggenbach,Ed.,,1862,1862,Statthalt — Civilgericht | Banquier,behoerden;register,2,1862-behoerden-016-L019;1862-einwohner-323-L122
+C00055,Bernoulli,,August,,1850,,Fabrikant,register,1,1850-einwohner-110-L072
+C00056,Bernoulli,,Christoph,,1841;1862,1862,"Ph. D., Professor der industriellen Wissenschaften — Philosophische Fakultät | Professor",behoerden;register,2,1862-behoerden-017-L030;1841-einwohner-180-L003
+C00057,Bernoulli,,Daniel,Dr.,1841;1862,1862,J. U. D — nicht praktizirenden | Notar,behoerden;register,2,1862-behoerden-014-L028;1841-einwohner-086-L030
+C00058,Bernoulli,,Eduard,,1841;1850,,Pfarrer,register,2,1841-einwohner-086-L023;1850-einwohner-110-L061
+C00059,Bernoulli,,Fritz,,1862,1862,nicht praktizirenden | Subst. d. Gerichtsschreib — Suppleanten,behoerden,2,1862-behoerden-014-L050;1862-behoerden-016-L037
+C00060,Bernoulli,,Gust.,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L007
+C00061,Bernoulli,,J. J.,,1841;1862,1862,"Ph. Dr — Patentiert ohne Apotheken | Ph. D — lehrer | Ph. Dr., Apotheker",behoerden;register,3,1862-behoerden-013-L049;1862-behoerden-018-L039;1841-einwohner-086-L028
+C00062,Bernoulli,,Johannes Leonhard,,1862,1862,Civilgericht,behoerden,1,1862-behoerden-016-L026
+C00063,Bernoulli,,Karl Joh.,J. U. D.,1862,1862,J. U. D — Grundbuch-Verwalter | J. U. D — nicht praktizirenden | lehrer,behoerden;register,4,1862-behoerden-012-L024;1862-behoerden-014-L047;1862-behoerden-018-L072;1862-einwohner-323-L093
+C00064,Bernoulli,,Leonh.,Stadtrath,1862,1862,"Präsid — verwaltung | Präsident. „     „     Elias Burckhardt-Breck, J.U.D. „ R. aWengen-Treu, St Johannquart. „ Gottfr. Stähelin, Spalenquartier. „ Hieron. Lotz-Spörlin, Steinenquartier. „ Rudolf Hauser-Oser, Aeschenquartier. „ Heinr. Tschopp, Spengler, St. Albanq. „ Ludw. Linder, Messerschm., Stadtquart. „ Oberstl. Friedr. Meyenrock, Riehenquart. „ August Raillard, St. Bläsiquartier — Polizei-Aufsichtskommission | Präsid. Kornhausverwalter: Hr. Joh. Henz — Kornhaus-Inspektion | Präsid — Waisenhaus-Inspection",behoerden,4,1862-behoerden-021-L005;1862-behoerden-021-L032;1862-behoerden-021-L036;1862-behoerden-021-L051
+C00065,Bernoulli,,Nikolaus,,1841;1862,1862,J. U. L — nicht praktizirenden | Vorsteher — Freie Gemeine | Notar und Criminalgerichts = Präsident,behoerden;register,3,1862-behoerden-014-L029;1862-behoerden-023-L062;1841-einwohner-086-L024
+C00066,Berri,Linder,,Med. Dr,1850,,,register,1,1850-einwohner-110-L077
+C00067,Berri,,Melchior,Med. Dr,1841,,Architekt,register,3,1841-einwohner-086-L044;1841-einwohner-086-L045;1841-einwohner-155-L021
+C00068,Berry,,Melchior,,1862,1862,M. D — Aerzte,behoerden,1,1862-behoerden-012-L079
+C00069,Bertholet,,Felix,,1862,1862,franz. Sprachlehrer — lehrer,behoerden,1,1862-behoerden-018-L037
+C00070,Bertolf,,Jakob Friedrich,,1862,1862,Criminal- u. korrektionelles Gericht | von Kleinhüningen — Polizeigericht,behoerden,2,1862-behoerden-015-L032;1862-behoerden-015-L081
+C00071,Bertsche,David,Sam.,,1862,,Papierfabrikant,register,1,1862-einwohner-324-L019
+C00072,Bertsche,Schardt,Heinr.,,1862,,Bandfabrikant,register,1,1862-einwohner-324-L021
+C00073,Bertsche,Schlotterbeck,Joh. Jacob,,1862,,Chocoladefabrikant,register,1,1862-einwohner-324-L023
+C00074,Betulius,,Carl,,1862,1862,Apotheker,behoerden,1,1862-behoerden-013-L042
+C00075,Bienz,Deschger,Rudolf,,1862,1862,alter Meister — Greiffen,behoerden,1,1862-behoerden-023-L011
+C00076,Bienz,Oeschger,Rud.,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L080
+C00077,Bienz,,Rudolf,,1862,1862,"Sohn, neuer Meister — Metzgern",behoerden,1,1862-behoerden-022-L051
+C00078,Biermann,,Peter,,1841,,alt Stadtrath,register,1,1841-einwohner-180-L009
+C00079,Birmann,Socin,,,1862,1862,Comité,behoerden,1,1862-behoerden-028-L089
+C00080,Birmann,,Oskar,,1850,,Dr. Jur,register,1,1850-einwohner-111-L013
+C00081,Bischoff,Bischoff,,,1862,1862,Cassier — Alumneum,behoerden,1,1862-behoerden-027-L047
+C00082,Bischoff,Böhler,Johann Jacob,,1862,,Pfarrer,register,1,1862-einwohner-325-L049
+C00083,Bischoff,Burckhardt,Wilhelm,,1841;1862,1862,Waisen-Gericht | neuer Mstr — Hausgenossen | Oberst und Handelsmann,behoerden;register,3,1862-behoerden-015-L068;1862-behoerden-022-L024;1841-einwohner-087-L037
+C00084,Bischoff,Fürstenberger,Aug.,,1862,1862,Civilgericht,behoerden,1,1862-behoerden-016-L020
+C00085,Bischoff,Geigy,Bandfabrikant. St. Albanthorgraben Gottlieb,J. U. D.,1862,,Staatsschreiber,register,1,1862-einwohner-325-L071
+C00086,Bischoff,Iselin,Christof,,1862,,Fabrikant,register,1,1862-einwohner-325-L084
+C00087,Bischoff,Kestner,J. J.,,1841;1862,,"Tabackfabrikant | Bankier (Firma: J. Merian-Forkart) | Banquier. St. Elisabethen-Straße 27. u. Kündig, Advokatur- u. Notariatsbureau",register,3,1841-einwohner-087-L042;1841-einwohner-155-L032;1862-einwohner-325-L087
+C00088,Bischoff,Merian,Leonhard Bernoulli. Christof Ronus. August Andr. Mühll. Rudolf,Stadtrath,1862,1862,Zu St. Peter,behoerden,1,1862-behoerden-021-L057
+C00089,Bischoff,Merian,Rud.,,1862,1862,Statthalter — Baugericht,behoerden,1,1862-behoerden-016-L045
+C00090,Bischoff,Merian,Wilh.,,1862,1862,Statthalter — Der Große Rath | Präsident — Petitions-Kommission | neuer Meister — Kaufleuten oder Schlüsselzunft | Bandfabrikant,behoerden;register,4,1862-behoerden-011-L008;1862-behoerden-011-L010;1862-behoerden-022-L021;1862-einwohner-325-L093
+C00091,Bischoff,Respinger,,,1862,1862,Vorstand des Comité,behoerden,1,1862-behoerden-029-L032
+C00092,Bischoff,Respinger,Hieron.,,1841;1862,1862,Präsident — Stadtrath zu Basel | Präsid — Rechnungskammer | Stadtrath,behoerden;register,3,1862-behoerden-020-L060;1862-behoerden-020-L080;1841-einwohner-087-L044
+C00093,Bischoff,Sarasin,Albert,,1862,1862,Civilgericht,behoerden,1,1862-behoerden-016-L028
+C00094,Bischoff,,A.,Rathsherr,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L024
+C00095,Bischoff,,Alfons,J. U. D.,1862,,Fabrikant,register,2,1862-einwohner-325-L043;1862-einwohner-325-L045
+C00096,Bischoff,,Chr. Johs.,,1862,,Seidenstofffabrikant,register,1,1862-einwohner-325-L058
+C00097,Bischoff,,Ed.,,1862,1862,Suppleant — Kriegsgericht,behoerden,1,1862-behoerden-016-L009
+C00098,Bischoff,,Eduard,,1862,1862,Seckelmeister — Commission,behoerden,1,1862-behoerden-034-L080
+C00099,Bischoff,,G.,,1862,1862,"J. U. D., Staatsschreiber — A. Der Kleine Rath | J.U.D., alter Meister — Rebhaus",behoerden,2,1862-behoerden-011-L030;1862-behoerden-023-L005
+C00100,Bischoff,,H.,,1850;1862,1850;1862,„ medic — Vorstand | Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,2,1862-behoerden-025-L062;1850-behoerden-159-L019
+C00101,Bischoff,,J. J.,,1841;1850;1862,1862,Kirchenrath | Pfarrer — Zu St. Theodor | Pfarrer bei St. Theodor | Pfarrer,behoerden;register,4,1862-behoerden-019-L060;1862-behoerden-020-L007;1841-einwohner-134-L030;1850-einwohner-111-L048
+C00102,Bischoff,,Staatsschreiber Gottl.,,1862,1862,J.U.D — IV. Notariatskommission,behoerden,1,1862-behoerden-014-L023
+C00103,Blank,Krug,David,,1862,,Banquier,register,1,1862-einwohner-326-L003
+C00104,Blaser,,Ed.,,1862,,Ingenieur,register,1,1862-einwohner-326-L011
+C00105,Bloch,,F.,Stadtrath,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L015
+C00106,Bloch,,J.,Stadtrath,1850,1850,Kleiner Stadtrath:  „   „,behoerden,3,1850-behoerden-158-L010;1850-behoerden-158-L012;1850-behoerden-158-L017
+C00107,Bloch,,Johannes,,1841,,Stadtrath,register,1,1841-einwohner-088-L017
+C00108,Blösch,,Ed. Eugen,,1862,1862,Vice-Präsident — Bundesgericht,behoerden,1,1862-behoerden-010-L023
+C00109,Böhl,Kohlbrügge,Ed.,,1862,,Dr. Theol,register,1,1862-einwohner-326-L081
+C00110,Bohny,Düring,J. J.,,1862,1862,Direction,behoerden,1,1862-behoerden-036-L033
+C00111,Bohny,Fausel,Johs.,,1862,,Hufschmied u. Wagenfabrikant,register,1,1862-einwohner-326-L124
+C00112,Bolley,,Pompejus,Dr.,1862,1862,Director der polytechnischen Schule — Eidgenössischer Schulrath,behoerden,1,1862-behoerden-010-L029
+C00113,Bolli,,Daniel,,1841,,Wundarzt,register,1,1841-einwohner-088-L026
+C00114,Bonekemper,,Pastor,,1862,1862,Lehrer — Comité,behoerden,1,1862-behoerden-026-L089
+C00115,Brändlin,,Ed.,,1850,,Thierarzt,register,1,1850-einwohner-112-L012
+C00116,Braunschweig,,J.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-024-L023
+C00117,Braunschweig,,Sam.,,1862,1862,Israelitischer Wohlthätigkeitsverein,behoerden,1,1862-behoerden-029-L055
+C00118,Braun,Geßler,Andreas,,1862,1862,Stadt | Meister zu Gerbern — Schuhmacher und Gerber,behoerden,2,1862-behoerden-016-L074;1862-behoerden-022-L043
+C00119,Braun,Kieffer,Joh.,,1862,,Tabakfabrikant,register,1,1862-einwohner-328-L080
+C00120,Braun,Weiß,Andr.,,1841,,Oberst,register,1,1841-einwohner-135-L014
+C00121,Braun,,Rudolf,,1862,1862,Heuwäger,behoerden,1,1862-behoerden-021-L015
+C00122,Braun,,Samuel,,1841,,Tabackfabrikant,register,1,1841-einwohner-135-L010
+C00123,Brefin,,Leonhard,,1862,1862,Feuerschaubeamter — Baubeamte,behoerden,1,1862-behoerden-012-L042
+C00124,Breitenstein,,Fr.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-035-L034
+C00125,Brel,Brel,Louis,,1862,,Tabakfabrikant,register,1,1862-einwohner-329-L011
+C00126,Brenner,Kern,J. Friedr.,Dr. med.,1862,,"Professor, Irrenarzt",register,1,1862-einwohner-329-L025
+C00127,Brenner,Kron,Carl,J. U. D.,1862,,Advokat,register,1,1862-einwohner-329-L027
+C00128,Brenner,,F.,Prof.,1862,1862,"M. et Ch. D., Irrenarzt — Aerzte",behoerden,1,1862-behoerden-012-L085
+C00129,Brenner,,Friedr.,,1862,1862,"M. et Ch. D., außerordentl. Prof — Medicinische Fakultät",behoerden,1,1862-behoerden-017-L025
+C00130,Brenner,,G.,,1862,1862,Cassier — Vorstand,behoerden,1,1862-behoerden-025-L084
+C00131,Brenner,,J. Friedr.,Med. Dr,1841;1850,,Dr. Med,register,2,1841-einwohner-089-L018;1850-einwohner-112-L038
+C00132,Brenner,,Carl,,1841;1850,,"Dr. Juris | Dr. Jur., Advok",register,2,1841-einwohner-089-L015;1850-einwohner-112-L041
+C00133,Brenzinger,,Aug.,,1862,,Architekt,register,1,1862-einwohner-329-L035
+C00134,Brey,,Abbé,,1862,1862,Vorsitzender — ehrenwerthen Meisterstand heranzubilden,behoerden,1,1862-behoerden-035-L064
+C00135,Brömmel,,Friedrich,Prof,1841;1850,,Professor der Geschichte,register,2,1841-einwohner-189-L018;1850-einwohner-112-L055
+C00136,Brogle,,Leopold,,1862,1862,Chef — II. Telegraphenkreis Bern,behoerden,1,1862-behoerden-010-L042
+C00137,Brohy,,J.,,1862,1862,Vorstand d. Güterexpedition — Hauptbeamte,behoerden,1,1862-behoerden-024-L062
+C00138,Brohy,,X.,,1862,1862,Vorstand d. Rechnungscontrolle — Hauptbeamte,behoerden,1,1862-behoerden-024-L055
+C00139,Brohy,,Xaver,,1862,1862,Katholischer Gesang-Verein,behoerden,1,1862-behoerden-035-L055
+C00140,Bruckner,Eglinger,Abraham,Pfr,1862,,,register,1,1862-einwohner-329-L118
+C00141,Bruckner,Merian,Eduard,,1862,1862,Suppleanten,behoerden,1,1862-behoerden-016-L033
+C00142,Bruckner,,Ed.,,1850,,Architekt,register,1,1850-einwohner-112-L057
+C00143,Bruckner,,Theophil,,1862,1862,M. et Ch. D — X	Behörden und Beamte | homöopat. Arzt,behoerden;register,2,1862-behoerden-013-L009;1862-einwohner-330-L003
+C00144,Bubeck,,W.,,1862,1862,St. Petergemeinde,behoerden,1,1862-behoerden-019-L011
+C00145,Bücher,Morell,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L042
+C00146,Bücher,,Joh. Jakob,,1862,1862,"Vater, Meister zu Schuhmachern — Schuhmacher und Gerber",behoerden,1,1862-behoerden-022-L042
+C00147,Bürckle,Berenter,Gottlieb,,1862,,Kochheerdfabrikant,register,1,1862-einwohner-331-L004
+C00148,Bürgin,,Friedr.,,1862,1862,St. Alban- — * Hülfs-Casse für kranke Posamenter,behoerden,1,1862-behoerden-032-L013
+C00149,Bürgy,Rieggardt,Emanuel,,1862,,Bandfabrikant,register,1,1862-einwohner-331-L076
+C00150,Bulacher,,Achilles,,1862,1862,Criminal- u. korrektionelles Gericht | Polizeigericht,behoerden,2,1862-behoerden-015-L029;1862-behoerden-015-L085
+C00151,Bulacher,,Joh.,,1841,,Seifensieder u. Kerzenfabrikant,register,1,1841-einwohner-135-L024
+C00152,Bulacher,,Carl Emanuel,,1862,1862,Ph. Dr — Patentiert ohne Apotheken | Dr. der Chemie,behoerden;register,2,1862-behoerden-013-L057;1862-einwohner-331-L109
+C00153,Burckhardt,Bischoff,Adolf,,1862,1862,Civilgericht,behoerden,1,1862-behoerden-016-L030
+C00154,Burckhardt,Bischoff,Christof,Dr. med.,1862,1862,M. et Ch. D — Ch. D | Arzt,behoerden;register,2,1862-behoerden-012-L091;1862-einwohner-332-L008
+C00155,Burckhardt,Breck,,J. U. D.,1862,,Stadtrath,register,1,1862-einwohner-332-L010
+C00156,Burckhardt,Breck,C. B.,,1850,,Dr. Jur,register,1,1850-einwohner-113-L007
+C00157,Burckhardt,Brenner,Friedr.,Dr.,1862,1862,Vorsteher — Verwaltung | } Beisitzer — Vorstand | Vorsteher — Vorstand,behoerden,3,1862-behoerden-030-L007;1862-behoerden-030-L030;1862-behoerden-033-L066
+C00158,Burckhardt,Brenner,Hans,J.U.D.,1862,,Kanzleivorsteher u. Stadtschreiber,register,1,1862-einwohner-332-L014
+C00159,Burckhardt,Burckhardt,Ad.,,1862,1862,J. U. D — Comité,behoerden,1,1862-behoerden-028-L088
+C00160,Burckhardt,Burckhardt,Adolf,,1862,1862,J. U. D — Criminal- u. korrektionelles Gericht,behoerden,1,1862-behoerden-015-L035
+C00161,Burckhardt,Burckhardt,C.,,1862,1862,J. U. D. Präsident — Ehe-Gericht | J. U. D — Comité,behoerden,2,1862-behoerden-015-L048;1862-behoerden-028-L087
+C00162,Burckhardt,Burckhardt,Eml.,,1841;1862,1862,Waisen-Gericht | Präsident — Vorstand | Pfarrer,behoerden;register,3,1862-behoerden-015-L073;1862-behoerden-035-L021;1841-einwohner-156-L032
+C00163,Burckhardt,Burckhardt,Carl,J. U. D.,1862,1862,J. U. D — Polizeigericht | Ehegerichtspräsident,behoerden;register,2,1862-behoerden-015-L084;1862-einwohner-332-L018
+C00164,Burckhardt,Burckhardt,Rud.,,1862,1862,M. et — Aerzte | Dr. M — Ehe-Gericht | Dr. med. et Chir,behoerden;register,3,1862-behoerden-012-L088;1862-behoerden-015-L058;1862-einwohner-332-L024
+C00165,Burckhardt,Burck-,Carl,Dr.,1862,1862,Juristischer Lesezirkel,behoerden,1,1862-behoerden-032-L059
+C00166,Burckhardt,Dick,Aug.,Dr. med.,1862,1862,M. et Ch. Dr — Aerzte | Arzt,behoerden;register,2,1862-behoerden-012-L084;1862-einwohner-332-L033
+C00167,Burckhardt,Forcart,Daniel,,1862,,Bandfabrikant,register,1,1862-einwohner-332-L045
+C00168,Burckhardt,Forcart,W.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-032-L046
+C00169,Burckhardt,Fürstenberger,E.,Dr. J.,1850,,,register,1,1850-einwohner-113-L011
+C00170,Burckhardt,Fürstenberger,Eman.,J.U.D.; Rathsherr,1862,1862,J.U.D — A. Der Kleine Rath | Präsident — V. Strafanstaltenkommission | Rathsherr,behoerden;register,3,1862-behoerden-011-L022;1862-behoerden-014-L053;1862-einwohner-332-L052
+C00171,Burckhardt,Haller,,Med. Dr,1841,,,register,1,1841-einwohner-090-L042
+C00172,Burckhardt,Haller,J. R.,,1862,1862,M. D — Aerzte,behoerden,1,1862-behoerden-012-L080
+C00173,Burckhardt,Haller,Joh. Rudolf,Dr. med,1862,,,register,1,1862-einwohner-332-L066
+C00174,Burckhardt,Haller,R.,Med. Dr,1850,,,register,1,1850-einwohner-113-L027
+C00175,Burckhardt,Haller,Rud.,Med. Dr,1841,,,register,1,1841-einwohner-156-L035
+C00176,Burckhardt,Heußler,Karl,,1862,1862,St. Johann: Hr. Daniel Preiswerk-Keller,behoerden,1,1862-behoerden-023-L016
+C00177,Burckhardt,His,,,1862,1862,med. Dr — Comité,behoerden,1,1862-behoerden-028-L090
+C00178,Burckhardt,His,Martin,,1862,1862,M. et Ch. D — Ch. D | Dr. med. Arzt,behoerden;register,2,1862-behoerden-012-L101;1862-einwohner-332-L071
+C00179,Burckhardt,Imhof,Peter,,1841,,Rathsherr,register,1,1841-einwohner-090-L036
+C00180,Burckhardt,Iselin,Emanuel,,1841,,alt Rathsherr,register,1,1841-einwohner-090-L041
+C00181,Burckhardt,Iselin,Hieronimus,,1862,1862,Stadtrath zu Basel,behoerden,1,1862-behoerden-020-L066
+C00182,Burckhardt,Iselin,Carl,,1862,,Rathschreiber,register,1,1862-einwohner-332-L085
+C00183,Burckhardt,Keller,Rud.,,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L009
+C00184,Burckhardt,Miville,Abel,,1862,,"Pfarrer, Obersthelfer",register,1,1862-einwohner-332-L107
+C00185,Burckhardt,Preiswerk,Emanuel,,1862,,Pfarrer,register,1,1862-einwohner-332-L115
+C00186,Burckhardt,Preiswerk,Wilh.,,1862,1862,Statth — Stadt | Präsident — Vorsteherschaft,behoerden,2,1862-behoerden-016-L061;1862-behoerden-036-L010
+C00187,Burckhardt,Respinger,Albr.,,1841,,Rathsherr,register,1,1841-einwohner-091-L019
+C00188,Burckhardt,Roth,Joh.,,1841,,Bandfabrikant,register,1,1841-einwohner-090-L049
+C00189,Burckhardt,Ryhiner,J. J.,,1841,,Dr. Juris und Appellationsrichter,register,1,1841-einwohner-090-L046
+C00190,Burckhardt,Ryhiner,Joh. Jac.,J. U. D.,1862,,Alt Bürgermeister,register,1,1862-einwohner-332-L122
+C00191,Burckhardt,Sarasin,,,1862,1862,Commission,behoerden,1,1862-behoerden-034-L082
+C00192,Burckhardt,Sarasin,W.,,1862,1862,ger und musikalischer Vereinigungen,behoerden,1,1862-behoerden-034-L051
+C00193,Burckhardt,Schrickel,Ed.,Rathsherr,1862,1862,Präsident — b. Salzkammer,behoerden,1,1862-behoerden-011-L051
+C00194,Burckhardt,Schrickel,Eduard,,1862,1862,A. Der Kleine Rath,behoerden,1,1862-behoerden-011-L027
+C00195,Burckhardt,Thurneisen,,,1862,1862,Schreiber — Commission für das theol. Pensionat,behoerden,1,1862-behoerden-027-L089
+C00196,Burckhardt,Vischer,Karl,,1862,1862,alter Meister — Hausgenossen,behoerden,1,1862-behoerden-022-L025
+C00197,Burckhardt,,A.,,1862,1862,"„ — Commission | Stud. theol., Quästor — Vorstand",behoerden,2,1862-behoerden-034-L062;1862-behoerden-035-L078
+C00198,Burckhardt,,Abel,,1862,1862,oberster Helfer — Im Münster | Obersthelfer — Vorstand,behoerden,2,1862-behoerden-019-L065;1862-behoerden-027-L065
+C00199,Burckhardt,,Achilles,Med. Dr,1850;1862,1862,Beeidigte Wechsel-Sensalen | M. et Ch. D — Ch. D | Arzt,behoerden;register,4,1862-behoerden-012-L053;1862-behoerden-012-L097;1850-einwohner-113-L005;1862-einwohner-331-L117
+C00200,Burckhardt,,Adolf,Dr.; J. U. D.,1862,1862,J. U. D — Untersuchungsrichter | J. U. D — Suppleanten | Commission,behoerden;register,5,1862-behoerden-015-L044;1862-behoerden-015-L088;1862-behoerden-016-L034;1862-behoerden-034-L084;1862-einwohner-331-L119
+C00201,Burckhardt,,Albert Alb.,,1862,1862,Seckelmeister | Commission,behoerden,2,1862-behoerden-034-L003;1862-behoerden-034-L083
+C00202,Burckhardt,,Amtsbürgerm. C. F.,,1862,1862,Präs — I. Staatscollegium,behoerden,1,1862-behoerden-011-L035
+C00203,Burckhardt,,August,Med. Dr; Oberstlt.,1841;1850;1862,1862,Richter — Kriegsgericht | Med. & Chir. Dr,behoerden;register,3,1862-behoerden-016-L004;1841-einwohner-090-L013;1850-einwohner-113-L039
+C00204,Burckhardt,,Bürgerm. J.,,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L011
+C00205,Burckhardt,,C. L.,Bürgermeister,1862,1862,Betriebs-Inspektor — Hauptbeamte | Vorstand,behoerden,2,1862-behoerden-024-L060;1862-behoerden-032-L047
+C00206,Burckhardt,,Christoph,Med. Dr,1841;1850;1862,1862,Med. Dr — Appellations-Gericht,behoerden;register,3,1862-behoerden-015-L009;1841-einwohner-156-L021;1850-einwohner-113-L045
+C00207,Burckhardt,,E.,Rathsherr,1850,1850,Staats-Collegium:  Der Herr Amtsbürgermeister,behoerden,1,1850-behoerden-159-L026
+C00208,Burckhardt,,Elias,Stadtrath,1841;1862,1862,J. U. D — Civilgericht | J. U. D — Stadtrath zu Basel | Präsid — Land- und Waldinspektion | Rathsherr,behoerden;register,4,1862-behoerden-016-L023;1862-behoerden-020-L068;1862-behoerden-021-L030;1841-einwohner-089-L043
+C00209,Burckhardt,,Eman.,Major; Rathsherr,1850;1862,1850;1862,"J.U.D., Präsident — IV. Notariatskommission | J. U. D., Oberauditor — Kriegsgericht | Land- u. Wald-Inspection:  „  Stadtrath A. Sulger",behoerden,3,1862-behoerden-014-L022;1862-behoerden-016-L010;1850-behoerden-159-L012
+C00210,Burckhardt,,Friedrich,,1862,1862,Ph. D — Hauptlehrer,behoerden,1,1862-behoerden-018-L031
+C00211,Burckhardt,,Gottlieb,Dr. med,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden;register,2,1862-behoerden-013-L015;1862-einwohner-332-L058
+C00212,Burckhardt,,Hieronimus,Stadtrath,1862,1862,Kirchenrath,behoerden,1,1862-behoerden-019-L053
+C00213,Burckhardt,,J. R. L.,Dr.; J.U.D; Stadtrath,1841;1862,1862,"Sohn, J. U. D — Untersuchungsrichter | Sohn — Suppleanten | J. U.D. „ Samuel Merian-Merian. „ Andreas Bischoff-Ehinger. „ Hieronimus Bischoff-Bischoff. „ Emil Thurneysen-Paravicini. „ Rudolf Hauser-Oser — Im Münster | Vorstand | Sekretär — Vorstand | der Theologie Dr., Lehrer am Gymnasium | Pfarrer und Waisenvater",behoerden;register,8,1862-behoerden-015-L043;1862-behoerden-015-L087;1862-behoerden-021-L055;1862-behoerden-032-L045;1862-behoerden-035-L027
+C00214,Burckhardt,,Jac.,,1862,,Professor,register,1,1862-einwohner-332-L075
+C00215,Burckhardt,,Jakob,,1841;1850;1862,1862,"Ph. D., Professor der Geschichte — Philosophische Fakultät | Antistes | Professor",behoerden;register,4,1862-behoerden-017-L041;1841-einwohner-089-L044;1850-einwohner-113-L030;1850-einwohner-113-L038
+C00216,Burckhardt,,Joh. Rud.,Hauptm.; J. U. D.,1862,1862,"J. U. D., Suppleant — Kriegsgericht | Ph. D — theils von angenommenen Lehrern ertheilt | J. U. D — Stadtrath zu Basel | J. U. D., Kanzlei- — Stadt-Kanzlei | J.U.D., alter Meister — Gartnern | Stadtrath",behoerden;register,6,1862-behoerden-016-L008;1862-behoerden-018-L025;1862-behoerden-020-L070;1862-behoerden-020-L072;1862-behoerden-022-L049
+C00217,Burckhardt,,Carl Burckhardt,Dr.,1841;1862,1862,"J.U.D., Amtsbürgermeister — A. Der Kleine Rath | J. U. D., Rathsschreiber — A. Der Kleine Rath | J. U. D., Rathsschreiber — D. Kanzlei des Kantons | Statthalter — Criminal- u. korrektionelles Gericht | Bürgermeister",behoerden;register,5,1862-behoerden-011-L015;1862-behoerden-011-L031;1862-behoerden-014-L067;1862-behoerden-015-L022;1841-einwohner-091-L015
+C00218,Burckhardt,,Ludw. Aug.,,1862,1862,J. U. D — Ehe-Gericht | J. U. D — Aelteste der französischen Kirche,behoerden,2,1862-behoerden-015-L051;1862-behoerden-022-L012
+C00219,Burckhardt,,Obersthelfer Abel,,1862,1862,Kirchenrath | Vorsteher — Inspection,behoerden,2,1862-behoerden-019-L061;1862-behoerden-028-L015
+C00220,Burckhardt,,Rudolf,Major; Med. Dr; Stadtrath Dr.,1841;1850;1862,1862,"M. Dr — Criminal- u. korrektionelles Gericht | Großrichter — Kriegsgericht | Bandfabrikant | Oberst | d. Theol. Dr., Lehrer am Gymnasium",behoerden;register,8,1862-behoerden-015-L025;1862-behoerden-016-L003;1862-behoerden-034-L006;1841-einwohner-090-L016;1841-einwohner-091-L018
+C00221,Burckhardt,,Samuel,,1862,1862,St. Theodorgemeinde,behoerden,1,1862-behoerden-019-L020
+C00222,Burckhardt,,Theophil,,1862,1862,Hauptlehrer,behoerden,1,1862-behoerden-018-L030
+C00223,Burckorf,,Rud.,,1862,1862,Pfr. im Waisenhaus — Strafanstalt,behoerden,1,1862-behoerden-020-L022
+C00224,Burck,,J. J.,,1862,1862,Baupolizei-Commission,behoerden,1,1862-behoerden-012-L044
+C00225,Buser,Tschudy,Friedr.,,1862,1862,Die Feuerschützen,behoerden,1,1862-behoerden-023-L026
+C00226,Buser,,B.,,1862,1862,Stud. theol — Commission,behoerden,1,1862-behoerden-034-L061
+C00227,Bußinger,,Joh. Jakob,,1862,1862,Hauptlehrer,behoerden,1,1862-behoerden-018-L067
+C00228,Buxtorf,Bischoff,Andr.,,1841,,Bandfabrikant,register,1,1841-einwohner-091-L047
+C00229,Buxtorf,Falkeisen,Carl,,1862,,Dr. Phil. u. Lehrer,register,1,1862-einwohner-334-L035
+C00230,Buxtorf,Preiswerk,Joh. Rud.,,1862,,Pfarrer,register,1,1862-einwohner-334-L042
+C00231,Buxtorf,Preiswerk,R.,Pfr,1850,,,register,1,1850-einwohner-114-L013
+C00232,Buxtorf,,August,,1862,1862,Beeidigte Wechsel-Sensalen,behoerden,1,1862-behoerden-012-L058
+C00233,Buxtorf,,Friedr.,,1862,1862,Beeidigte Wechsel-Sensalen,behoerden,1,1862-behoerden-012-L055
+C00234,Buxtorf,,J. Rud.,,1841,,Pfarrer am Waisenhaus,register,1,1841-einwohner-091-L041
+C00235,Buxtorf,,Carl,,1862,1862,Ph. D. et S. M. C — Hauptlehrer,behoerden,1,1862-behoerden-018-L066
+C00236,Calame,,Ludw.,,1862,1862,Bauinspektor. (prov.) — Baubeamte,behoerden,1,1862-behoerden-012-L036
+C00237,Calm,,F. Jakob,,1862,1862,Präsident — gesangs,behoerden,1,1862-behoerden-034-L088
+C00238,Carle,,Leonhard,,1841,,Wundarzt,register,1,1841-einwohner-092-L006
+C00239,Cartier,,Alphons,,1862,1862,Zahnärzte,behoerden,1,1862-behoerden-013-L029
+C00240,Cassier,,J. J. Pfaff.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L037
+C00241,Caumont,,Friedrich,,1862,1862,Hauptlehrer — Rektor: Hr,behoerden,1,1862-behoerden-018-L080
+C00242,Charras,Kestner,Joh. Bapt.,,1862,,Oberst,register,1,1862-einwohner-334-L085
+C00243,Cherbuin,,Chr. Fr.,,1862,1862,"V. D. M., Hauptlehrer — Rektor: Hr",behoerden,1,1862-behoerden-018-L081
+C00244,Christen,Euler,Niklaus,,1862,1862,Ehe-Gericht | Waisen-Gericht | Vorstand,behoerden,3,1862-behoerden-015-L049;1862-behoerden-015-L067;1862-behoerden-027-L035
+C00245,Christen,Mangold,A.,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L069
+C00246,Christ,Sarasin,Adolf,,1862,1862,"A. Der Kleine Rath | d. Raths, Bandfabrikant",behoerden;register,2,1862-behoerden-011-L018;1862-einwohner-334-L118
+C00247,Christ,Socin,Hermann,J.U.D.,1862,,Civilgerichtsschreiber,register,1,1862-einwohner-334-L120
+C00248,Christ,,Adolf,Rathsherr,1862,1862,Präsident — III. Kirchen- und Schulcollegium | Präsident — VI. Justiz- u. Polizeicollegium | Kirchenrath | Evangelische Missionsgesellschaft | Rathsherr — Verein für Sonntagssäle,behoerden,5,1862-behoerden-011-L055;1862-behoerden-012-L022;1862-behoerden-019-L051;1862-behoerden-026-L049;1862-behoerden-028-L054
+C00249,Christ,,Hermann,,1862,1862,"J. U. D — nicht praktizirenden | J.U.D., Gerichtsschreiber — Suppleanten",behoerden,2,1862-behoerden-014-L045;1862-behoerden-016-L036
+C00250,Christ,,J. J.,,1841;1850,,Notar und Statthalter | Notar,register,2,1841-einwohner-092-L011;1850-einwohner-114-L030
+C00251,Christ,,R.,Stadtrath,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger | Staats-Collegium:  Der Herr Amtsbürgermeister,behoerden,2,1850-behoerden-159-L018;1850-behoerden-159-L025
+C00252,Christ,,Remigius,,1841;1862,,Stadtrath | Alt-Stadtrath,register,2,1841-einwohner-092-L012;1862-einwohner-334-L117
+C00253,Couleru,Duvernoy,Carl,,1862,,Civil-Ingenieur,register,1,1862-einwohner-335-L054
+C00254,Courvoisier,VonderMühll,Ludwig,,1862,1862,Aelteste der französischen Kirche,behoerden,1,1862-behoerden-022-L015
+C00255,Cramer,Sieveking,Gabriel Franz,,1862,,Pfarrer,register,1,1862-einwohner-335-L070
+C00256,Cramer,,G.,Pfarrer,1862,1862,Verbreitung d. Bibel oh. Apokryphen,behoerden,1,1862-behoerden-027-L059
+C00257,Cramer,,Gabriel,,1862,1862,Französische Prediger,behoerden,1,1862-behoerden-020-L016
+C00258,Crousaz,,Elias,,1862,1862,Stadtrath zu Basel,behoerden,1,1862-behoerden-020-L062
+C00259,Crussaire,,Victor,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L051
+C00260,Davance,,Aug.,,1862,1862,Ingenieur-Assistent „ Tobias Wolff,behoerden,1,1862-behoerden-024-L034
+C00261,David,,H.,,1862,1862,Präsident — Direction,behoerden,1,1862-behoerden-036-L030
+C00262,DeBary,Sarasin,Johs.,,1862,,Bandfabrikant,register,1,1862-einwohner-336-L038
+C00263,DeBary,,Aug.,,1862,,Bandfabrikant,register,1,1862-einwohner-336-L034
+C00264,DeBary,,Joh.,,1862,1862,Sohn — Stadt,behoerden,1,1862-behoerden-016-L064
+C00265,Debrunner,,Hieronimus Lotz. Heinrich,,1862,1862,Pfundzoller,behoerden,1,1862-behoerden-021-L011
+C00266,Deck,,P. W.,,1862,1862,„ — Direction,behoerden,1,1862-behoerden-036-L036
+C00267,deNeufville,LaRoche,W.,Pfr,1850,,,register,1,1850-einwohner-125-L064
+C00268,Detloff,Lafontaine,C.,,1862,1862,Alte Beisitzer,behoerden,1,1862-behoerden-030-L014
+C00269,Detloff,,Carl,,1862,1862,Buchhändler — Vorstand | Cassier u. Schreiber — Taufpathen-Verein,behoerden,2,1862-behoerden-026-L069;1862-behoerden-027-L040
+C00270,Dettwyler,,Joh. Jakob,,1862,1862,Meister zu Schneidern — Schneider und Kürschner,behoerden,1,1862-behoerden-022-L045
+C00271,DeValenti,VonBrunn,Ernst,Dr.,1862,,Part,register,1,1862-einwohner-337-L016
+C00272,Dewette,,L.,Dr.,1862,1862,Gartenbau-Gesellschaft,behoerden,1,1862-behoerden-033-L054
+C00273,De Wette,,W. L.,,1841,,der Theologie Dr. und Professor,register,1,1841-einwohner-093-L015
+C00274,Diehl,,Ferdinand,,1862,,Tabakfabrikant,register,1,1862-einwohner-337-L035
+C00275,Dietrich,Martin,Carl Heinrich,,1862,1862,Neue Beisitzer,behoerden,1,1862-behoerden-030-L016
+C00276,Dietschi,Lichtenhahn,J. J.,,1862,1862,Ehe-Gericht,behoerden,1,1862-behoerden-015-L050
+C00277,Dietschy,Burckhardt,Joh. Jak.,,1862,,Bandfabrikant,register,1,1862-einwohner-337-L066
+C00278,Dietschy,Lichtenhahn,,,1841,,Bandfabrikant,register,1,1841-einwohner-093-L024
+C00279,Dietschy,Lichtenhahn,J. J.,,1862,,Bandfabrikant. Firma Hans Balthasar Burckhardt u. Sohn,register,1,1862-einwohner-337-L072
+C00280,Dietschy,,Wilhelm,,1862,,Bandfabrikant,register,1,1862-einwohner-337-L076
+C00281,Dietz,,Carl Dietrich,,1841,,Notarius,register,1,1841-einwohner-093-L028
+C00282,Dinkel,Brüderlin,Franz,,1862,,Architekt,register,1,1862-einwohner-337-L090
+C00283,Déjosez,Hofer,W.,,1862,,Architekt,register,1,1862-einwohner-336-L082
+C00284,Dollfus,,G.,,1862,,Ingenieur,register,1,1862-einwohner-338-L011
+C00285,Dreyfuß,,Leopold,,1862,1862,Vorstand,behoerden,1,1862-behoerden-024-L025
+C00286,Dubois,,Catharina,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L064
+C00287,Dubs,,Jakob,,1862,1862,Chef des Justiz- und Polizei-Departements — Bundesrath,behoerden,1,1862-behoerden-010-L011
+C00288,Düring,Kühn,F.,,1862,1862,Bibliothekar,behoerden,1,1862-behoerden-034-L012
+C00289,Ebray,,Joh. Heinrich,,1841,,französ. Pfarrer,register,1,1841-einwohner-094-L012
+C00290,Eckenstein,Schermar,Ed.,,1862,1862,Ehe-Gericht | „ — Direction,behoerden,2,1862-behoerden-015-L057;1862-behoerden-036-L037
+C00291,Eckenstein,,J.,,1841,,Professor. Dr | Prof. abendländischer Sprachen und Redaktor der N. Basler Zeitung,register,2,1841-einwohner-094-L017;1841-einwohner-157-L033
+C00292,Eckert,Fäsch,Joseph,,1862,,Professor d. Mathematik,register,1,1862-einwohner-339-L007
+C00293,Eckert,,Fridolin,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L047
+C00294,Eckert,,Jos.,Prof,1841;1850,,Professor der Mathematik,register,2,1841-einwohner-094-L019;1850-einwohner-115-L059
+C00295,Eckhardt,,Friedrich,,1862,1862,Großh. bad. Post- & Eisenbahnamt,behoerden,1,1862-behoerden-024-L031
+C00296,Ecklin,Hetzel,Dan.,Dr. med.,1862,,Arzt,register,1,1862-einwohner-339-L014
+C00297,Ecklin,,Daniel,,1862,1862,"M. et Ch. D — Ch. D | M. D., Turnlehrer — Rektor: Hr",behoerden,2,1862-behoerden-012-L094;1862-behoerden-018-L090
+C00298,Ecklin,,Jakob Friedrich,,1841,,Pfarrer,register,1,1841-einwohner-181-L013
+C00299,Ecklin,,Ol.,Med. Dr,1850,,,register,1,1850-einwohner-115-L064
+C00300,Ecklin,,Theophil Wilhelm,Pfr,1862,1862,„ — Zu St. Peter,behoerden;register,2,1862-behoerden-019-L072;1862-einwohner-339-L023
+C00301,Eglinger,,Emanuel,,1862,1862,Thierärzte | Pfarrer an der — Französische Prediger | Thierarzt,behoerden;register,3,1862-behoerden-013-L037;1862-behoerden-020-L018;1862-einwohner-339-L075
+C00302,Eglinger,,Gotthold,,1862,1862,lehrer,behoerden,1,1862-behoerden-018-L059
+C00303,Eglinger,,Nikolaus,,1841,,alt Pfarrer,register,1,1841-einwohner-193-L041
+C00304,Ehinger u. Comp.,Sarasin,Ludwig,,1862,,Notarius,register,1,1862-einwohner-339-L085
+C00305,Ehinger u. Comp.,vonSpeyr,Christoph Mathias,,1862,,Banquier,register,1,1862-einwohner-339-L087
+C00306,Ehinger,von Speyr,Chr. Math.,,1841,,Banquier,register,1,1841-einwohner-094-L031
+C00307,Ehinger,,Andreas Bischoff,,1862,1862,Statthalter — Polizeigericht,behoerden,1,1862-behoerden-015-L079
+C00308,Ehinger,,Ludw. Matth.,,1862,1862,J. U. D — nicht praktizirenden | J. U. D — Appellations-Gericht,behoerden,2,1862-behoerden-014-L038;1862-behoerden-015-L014
+C00309,Ell,,Anton,,1862,1862,Ingenieur-Assistent „ Tobias Wolff,behoerden,1,1862-behoerden-024-L036
+C00310,Elsner,,Friederike,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L063
+C00311,Emenegger,,Joseph,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L054
+C00312,Entinger,,Anton,,1841,,Papier-Fabrikant,register,1,1841-einwohner-181-L014
+C00313,Escher,,Alfred,Dr.,1862,1862,Vice-Präsident — Eidgenössischer Schulrath,behoerden,1,1862-behoerden-010-L027
+C00314,Escher,,Eugen,Dr.,1862,1862,Gerichtsschreiber — Bundesgericht,behoerden,1,1862-behoerden-010-L024
+C00315,Ewald,Koch,Joh. Jak.,,1862,,Enveloppenfabrikant,register,1,1862-einwohner-341-L048
+C00316,Fäsch,Binet,Joh.,,1862,1862,Mstr. zu Schiffleuten — Schiffleute und Fischer,behoerden,1,1862-behoerden-022-L063
+C00317,Fäsch,,Andreas,,1841,,Stadtrath und Kupferschmid,register,1,1841-einwohner-095-L031
+C00318,Fäsch,,Friedr.,,1862,1862,Hauptlehrer — St. Theodorgemeinde,behoerden,1,1862-behoerden-019-L042
+C00319,Fäsch,,J. J.,,1841;1850;1862,1862,"Sohn, J. U. D — nicht praktizirenden | Notar",behoerden;register,3,1862-behoerden-014-L036;1841-einwohner-095-L019;1850-einwohner-116-L026
+C00320,Fäsch,,Leonhard,,1841,,Notar und Bezirksschreiber,register,1,1841-einwohner-095-L015
+C00321,- -Fäsch,,Martin,,1862,,Pfarrer,register,1,1862-einwohner-399-L062
+C00322,Falkner,,Friedrich Rudolf,,1862,1862,Kataster- — walter des Stadtbezirks,behoerden,1,1862-behoerden-012-L028
+C00323,Falkner,,Helena,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L065
+C00324,Falkner,,Nikolaus,,1841,,alt Direktorialschreiber,register,1,1841-einwohner-095-L034
+C00325,Falkner,,Wilh.,,1862,1862,Die Feuerschützen,behoerden,1,1862-behoerden-023-L024
+C00326,Fechter,,Daniel Alb.,,1862,1862,"Ph. D., Conrektor — Hauptlehrer",behoerden,1,1862-behoerden-018-L027
+C00327,Feddersen,,P.,,1862,1862,Secretär — Vorstand,behoerden,1,1862-behoerden-026-L009
+C00328,Felber,,G.,,1850,,J.U.D. Staatsschr,register,1,1850-einwohner-116-L061
+C00329,Felber,,Georg,,1841,,Rathschreiber,register,1,1841-einwohner-095-L045
+C00330,Fichter,Seiler,Benedict,,1862,,Bandfabrikant,register,1,1862-einwohner-342-L057
+C00331,Fininger,,Leonhard,Rathsherr,1862,1862,A. Der Kleine Rath | Präsident — VII. Niederlassungskommission | neuer Meister — Schmieden,behoerden,3,1862-behoerden-011-L023;1862-behoerden-014-L059;1862-behoerden-022-L039
+C00332,Fischer,Bulacher,Friedrich Hagenbach. Balthasar,Stadtrath,1862,1862,Zu St. Leonhard,behoerden,1,1862-behoerden-021-L059
+C00333,Fischer,Trautvetter,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L039
+C00334,Fischer,,Andreas,,1841,,alt Stadtrath,register,1,1841-einwohner-096-L019
+C00335,Fischer,,Balthasar,,1862,1862,Präsident — Auf dem Viehmarkt | Zins-Amt,behoerden,2,1862-behoerden-013-L092;1862-behoerden-021-L009
+C00336,Fischer,,Friedrich,,1841;1850,,Professor | Prof. Phil,register,2,1841-einwohner-096-L021;1850-einwohner-116-L084
+C00337,Fitting,Merkel,Hermann,,1862,,Professor,register,1,1862-einwohner-343-L003
+C00338,Fitting,,Hermann,,1862,1862,J. U. D — Juridische Fakultät,behoerden,1,1862-behoerden-017-L017
+C00339,Flury,Halbmeyer,,,1862,1862,St. Theodorgemeinde,behoerden,1,1862-behoerden-019-L044
+C00340,Flury,,Nic.,,1862,1862,Vikar — Geistlicher Vorstand,behoerden,1,1862-behoerden-023-L037
+C00341,Forcard,,Sadtrath R.,,1850,1850,,behoerden,1,1850-behoerden-159-L002
+C00342,Forcart,,Emil,,1862,1862,Commission,behoerden,1,1862-behoerden-034-L069
+C00343,Forkard,,R.,Stadtrath,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L023
+C00344,Fornerod,,Constant,,1862,1862,"Vice-Präsident, Chef des Militär-Departements — Bundesrath",behoerden,1,1862-behoerden-010-L006
+C00345,Frey,Herosee,Friedrich,,1862,1862,Chef des Handels- und Zoll-Departements — Bundesrath,behoerden,1,1862-behoerden-010-L009
+C00346,Frey,Stückelberger,Rud.,,1862,1862,Beeidigte Wechsel-Sensalen,behoerden,1,1862-behoerden-012-L056
+C00347,Frey,,Alfred,Med. Dr,1850;1862,1862,M. et Ch. D — Ch. D,behoerden;register,2,1862-behoerden-012-L098;1850-einwohner-117-L023
+C00348,Frey,,Aloys,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L055
+C00349,Frey,,August,,1862,1862,Inspector. Bureau Basel — II. Telegraphenkreis Bern,behoerden,1,1862-behoerden-010-L041
+C00350,Frey,,Friedr.,,1862,1862,Maurermeister — Suppleanten,behoerden,1,1862-behoerden-016-L054
+C00351,Frey,,Heinrich,,1862,1862,S. M. C — Vikare,behoerden,1,1862-behoerden-018-L064
+C00352,Frey,,Jakob,Dr,1862,,,register,1,1862-einwohner-344-L005
+C00353,Frey,,Joh. Rudolf,,1841;1862,,Bürgermeister | Dr. Phil,register,2,1841-einwohner-097-L008;1862-einwohner-343-L121
+C00354,Frey,,Kanzlist J. R.,,1850,1850,,behoerden,1,1850-behoerden-159-L003
+C00355,Frey,,Carl,,1862,1862,der katholischen Gemeinde,behoerden,1,1862-behoerden-030-L076
+C00356,Fricker,,Heinrich,,1862,1862,} Beisitzer — Verwaltung,behoerden,1,1862-behoerden-030-L070
+C00357,Friehl,,Stocker,,1862,,Wagenfabrikanten,register,1,1862-einwohner-345-L006
+C00358,Fromlet,,F.,,1862,1862,dung seiner Mitglieder,behoerden,1,1862-behoerden-035-L006
+C00359,Fromlet,,Fr.,,1862,1862,Unterstützung bedürftiger Collegen,behoerden,1,1862-behoerden-035-L044
+C00360,Früh,Ronus,Hier.,,1862,1862,Sekretär — „,behoerden,1,1862-behoerden-014-L071
+C00361,Früh,,Abraham,,1841,,Hufschmid und Thierarzt,register,1,1841-einwohner-097-L028
+C00362,Früh,,Bankdirektor,,1862,1862,Beisitzer — Direction,behoerden,1,1862-behoerden-036-L034
+C00363,Früh,,Eduard,,1862,1862,Bankdirektor — Vorsteherschaft,behoerden,1,1862-behoerden-036-L014
+C00364,Fürstenberger,,Alfred,,1862,1862,Präsident — Stadt,behoerden,1,1862-behoerden-016-L060
+C00365,Garnjobst,,J. Hermann,,1862,1862,Amtmann — Ehe-Gericht,behoerden,1,1862-behoerden-015-L061
+C00366,Gattin,,Lehrer Näs,,1862,1862,arbeiterinnen,behoerden,1,1862-behoerden-029-L038
+C00367,Gauß,Kienle,Hermann,,1862,,Architekt,register,1,1862-einwohner-346-L104
+C00368,Geelhaar,,C. H.,,1862,1862,Zeichnungslehrer — Rektor: Hr,behoerden,1,1862-behoerden-018-L087
+C00369,Geering,Schliephacke,Traugott,,1862,,Pfarrer,register,1,1862-einwohner-346-L115
+C00370,Geiger,,Friedrich,Dr. med.,1862,1862,Dr. phil — Apotheker | Apotheker,behoerden;register,2,1862-behoerden-013-L047;1862-einwohner-347-L013
+C00371,Geigy,Merian,Rudolf,,1862,1862,Civilgericht | Vorstand,behoerden,2,1862-behoerden-016-L027;1862-behoerden-035-L026
+C00372,Geigy,,C.,,1850,1850,Justiz- u. Polizei-Collegium:  „ Rathsherr A. Christ | Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,2,1850-behoerden-158-L033;1850-behoerden-159-L013
+C00373,Geigy,,Wilh.,,1862,,Fabrikant. Firma Wilh. Geigy u. Comp,register,1,1862-einwohner-347-L028
+C00374,Gelzer,Sarasin,Heinr.,,1862,,Dr. u. Professor,register,1,1862-einwohner-347-L040
+C00375,Gelzer,,H.,Dr,1841,,,register,1,1841-einwohner-159-L011
+C00376,Gemuseus,vonBrunn,Rud.,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L067
+C00377,Georg,,Carl Ludwig,,1862,,Dr. Phil,register,1,1862-einwohner-347-L082
+C00378,Georg,,Ludwig,,1862,1862,Ph. D — Hauptlehrer,behoerden,1,1862-behoerden-018-L050
+C00379,Gerlach,,Franz Dorotheus,Dr.,1841;1862,,Professor und Bibliothekar | Professor u. Oberbibliothekar,register,2,1841-einwohner-098-L040;1862-einwohner-347-L106
+C00380,Gerlach,,Fr. Doroth.,,1862,1862,"Ph. D., Prof. d. lateinischen Sprache u. Litteratur — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L031
+C00381,Geßler,Tanner,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L043
+C00382,Geß,Eitel,Friedr.,,1862,,Pfarrer,register,1,1862-einwohner-348-L016
+C00383,Girard,Blumer,Charles,,1862,,Professor,register,1,1862-einwohner-348-L085
+C00384,Girard,Blumer,Karl Franz,,1841,,außerordentlicher Professor der franz. Sprache u. Literatur,register,1,1841-einwohner-159-L024
+C00385,Girard,,C. F.,Prof,1850,,,register,1,1850-einwohner-118-L048
+C00386,Girard,,Franz,Prof.,1862,1862,"Ph. D., Professor der französischen Sprache u. Litteratur — Philosophische Fakultät | Ph. D — theils von angenommenen Lehrern ertheilt | Aelteste der französischen Kirche",behoerden,3,1862-behoerden-017-L037;1862-behoerden-018-L016;1862-behoerden-022-L016
+C00387,Glatz,,Wilh.,,1862,1862,St. Theodorgemeinde,behoerden,1,1862-behoerden-019-L043
+C00388,Gmelin,,Heinr.,,1862,,Architekt,register,1,1862-einwohner-349-L056
+C00389,Gnöpff,,Achilles,,1841,,Schmid und Thierarzt,register,1,1841-einwohner-099-L023
+C00390,Gnöpf,,Achilles,,1862,1862,Thierärzte | Schmid u. Thierarzt,behoerden;register,2,1862-behoerden-013-L036;1862-einwohner-349-L057
+C00391,Göpp,,Michael,,1862,1862,Oberlehrer — Katholische Schule,behoerden,1,1862-behoerden-023-L058
+C00392,Götz,Buser,Emanuel,,1841,,Gutsbesitzer und Bandfabrikant,register,1,1841-einwohner-190-L035
+C00393,Götz,,Ecklin,,1862,,Bandfabrikanten,register,1,1862-einwohner-349-L098
+C00394,Goppelsröder,,Christof Friedrich,,1862,,"Dr. Phil., öffentlicher Chemiker",register,1,1862-einwohner-350-L007
+C00395,Goppelsröder,,Friedr.,,1862,1862,Ph. Dr — f. Oeffentlicher Chemiker,behoerden,1,1862-behoerden-013-L081
+C00396,Grimm,Schneider,Christian,Dr. med.,1862,,Arzt,register,1,1862-einwohner-351-L018
+C00397,Grimm,,Christian,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L005
+C00398,Grüninger,,Karl,,1862,1862,Vikar,behoerden,1,1862-behoerden-018-L043
+C00399,Grunauer,Märklin,Christof,,1862,,Alt-Pfarrer,register,1,1862-einwohner-351-L098
+C00400,Grunauer,,Christ.,,1841;1850,,Pfarrer,register,2,1841-einwohner-099-L042;1850-einwohner-119-L020
+C00401,Gruner,,Carl Heinr.,,1862,,Ingenieur,register,1,1862-einwohner-351-L114
+C00402,Günther,,Jos.,,1862,1862,Hülfspriester — Geistlicher Vorstand,behoerden,1,1862-behoerden-023-L038
+C00403,Gürtler,,Johannes,,1862,1862,Controleur — V. Postkreis Basel,behoerden,1,1862-behoerden-010-L038
+C00404,Gysin,Hindermann,Conrad,,1862,,Banquier,register,1,1862-einwohner-352-L115
+C00405,Gysin,,W.,,1862,1862,Drucksachen-Verwalter — Hauptbeamte,behoerden,1,1862-behoerden-024-L058
+C00406,Gysler,Handmann,Ludwig,,1841,,Seidenfabrikant,register,1,1841-einwohner-100-L030
+C00407,Gyssendörffer,,Heinr.,,1862,1862,zweit. Sekretär — vorsteher und Stadtschreiber,behoerden,1,1862-behoerden-020-L075
+C00408,Haagen,,Hermann,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L010
+C00409,Haas,,Etienne,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L046
+C00410,Hächler,,P.,,1862,1862,"Nr. 8 Spalenvorstadt, Präsid — beiderlei Geschlechts",behoerden,1,1862-behoerden-031-L052
+C00411,Häfelin,,J.,,1850,,Zahnarzt,register,1,1850-einwohner-119-L079
+C00412,Häfelsinger,Rupp,J. R.,,1862,1862,Cassier — Verwaltung,behoerden,1,1862-behoerden-030-L010
+C00413,Hägler,Laub,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L041
+C00414,Häring,,August,,1862,1862,ll. „ — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L082
+C00415,Haga,,Bened.,,1862,1862,„ — Suppleanten,behoerden,1,1862-behoerden-016-L040
+C00416,Hagenbach,Bischoff,Eduard,Dr.,1862,,Lehrer an der Gewerbeschule,register,1,1862-einwohner-355-L012
+C00417,Hagenbach,Geigy,K. Rud.,Dr. theol.,1862,,Professor,register,1,1862-einwohner-355-L015
+C00418,Hagenbach,Merian,Friedrich,,1862,1862,Waisen-Gericht | Stadtrath zu Basel | alt. Mstr — Safran | Stadtrath,behoerden;register,4,1862-behoerden-015-L072;1862-behoerden-020-L067;1862-behoerden-022-L031;1862-einwohner-355-L017
+C00419,Hagenbach,,C. R.,Professor,1862,1862,"Th. Dr., Rector für 1862 — A. Kantonalanstalten | Th. D — Theologische Fakultät",behoerden,2,1862-behoerden-017-L006;1862-behoerden-017-L008
+C00420,Hagenbach,,Ed.,Professor,1862,1862,"Ph. D., Professor der Mathematik — Philosophische Fakultät",behoerden,2,1862-behoerden-017-L043;1862-behoerden-034-L010
+C00421,Hagenbach,,Eduard,Med. Dr,1841,,,register,1,1841-einwohner-101-L007
+C00422,Hagenbach,,F.,,1862,1862,Statthalter — Kranken - Kommission,behoerden,1,1862-behoerden-028-L025
+C00423,Hagenbach,,Friedrich,,1862,1862,Patentiert ohne Apotheken | Stadtrath — Leonhard Paravicini’sche Stiftung,behoerden,2,1862-behoerden-013-L050;1862-behoerden-028-L075
+C00424,Hagenbach,,Geigy,Prof,1850,,K. R.,register,1,1850-einwohner-119-L084
+C00425,Hagenbach,,K. R.,Prof.,1862,1862,Th. D — Kirchenrath | Präsident — Vorstand | Vice-Präsident — Alumneum,behoerden,3,1862-behoerden-019-L054;1862-behoerden-027-L028;1862-behoerden-027-L046
+C00426,Hagenbach,,Carl Rud.,,1841,,Med. Dr. und Professor | der Theologie Dr. und Professor,register,2,1841-einwohner-101-L009;1841-einwohner-101-L010
+C00427,Hagenbach,,P.,,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L021
+C00428,Hagen,,Hermann,Dr. med,1862,,,register,1,1862-einwohner-355-L009
+C00429,Halter,Fäsch,Joh. Nikl.,,1862,1862,Rechnungs-Revisoren,behoerden,1,1862-behoerden-030-L021
+C00430,Halter,Fäsch,Niklaus,,1862,1862,Appellations-Gericht,behoerden,1,1862-behoerden-015-L015
+C00431,Halter,,Niclaus,,1862,1862,neuer Meister — Rebleuten,behoerden,1,1862-behoerden-022-L033
+C00432,Handschin,,H.,,1862,1862,Vorstand der MaterialVerwaltung — Hauptbeamte,behoerden,1,1862-behoerden-024-L057
+C00433,Harscher,,Nikolaus,J. U. D.,1841,,,register,1,1841-einwohner-160-L020
+C00434,Hasler,,Gottlieb,,1862,1862,Meister z. Himmel — Spinnwettern,behoerden,1,1862-behoerden-022-L058
+C00435,Hauschild,Alsleben,Ernst,,1862,,"Dr. Phil., Musiklehrer",register,1,1862-einwohner-356-L028
+C00436,Hauschild,,Ernst,,1862,1862,"Ph. D., Gesanglehr — lehrer",behoerden,1,1862-behoerden-018-L036
+C00437,Hauser,Businger,,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L042
+C00438,Hauser,Bußinger,Joh. Jac.,,1862,,Bandfabrikant,register,1,1862-einwohner-356-L032
+C00439,Hauser,Oser,Rudolf,,1862,1862,Waisen-Gericht | neuer Meister — Gartnern,behoerden,2,1862-behoerden-015-L069;1862-behoerden-022-L048
+C00440,Hediger,,Comp.,,1862,,"Comptoir u. Fergstube, Bandfabrikanten",register,1,1862-einwohner-356-L109
+C00441,Heggendorn,,Christ.,,1841,,Tabakfabrikant,register,1,1841-einwohner-160-L025
+C00442,Heimlicher,Senn,J. J.,Dr. J.U.D.,1862,,Statthalter d. Landbezirks,register,1,1862-einwohner-357-L039
+C00443,Heimlicher,,J. J.,Dr.; Hauptm.,1862,1862,"J. U. D — nicht praktizirenden | J. U. D., Auditor — Kriegsgericht | Vorstand",behoerden,3,1862-behoerden-014-L041;1862-behoerden-016-L011;1862-behoerden-035-L022
+C00444,Heimlicher,,Jakob,,1841,,Architekt,register,1,1841-einwohner-101-L034
+C00445,Heitz,DeWette,Aug.,J. U. D.,1862,,Notarius. Ehegerichts- u. Waisengerichtsschreiber,register,1,1862-einwohner-357-L060
+C00446,Heitz,,A. Chr.,,1850,,Notar,register,1,1850-einwohner-120-L040
+C00447,Heitz,,August Christoph,,1841;1862,1862,J. U. D — nicht praktizirenden | Notar,behoerden;register,2,1862-behoerden-014-L033;1841-einwohner-101-L036
+C00448,Heitz,,Not. Aug.,,1862,1862,"J. U. D. Gerichtsschreib — Ehe-Gericht | J. U. D., Gerichtsschreib — Waisen-Gericht",behoerden,2,1862-behoerden-015-L059;1862-behoerden-015-L075
+C00449,Hensler,,Andr.,Prof.,1862,1862,Seckelmeister — Vorstand,behoerden,1,1862-behoerden-030-L028
+C00450,Hermann,,H.,,1862,1862,Hauptkassier — Hauptbeamte,behoerden,1,1862-behoerden-024-L054
+C00451,Herzog,Eguet,Johs.,,1862,,Almosenschaffner u. Notar,register,1,1862-einwohner-358-L035
+C00452,Herzog,Reber,,,1862,1862,Evangelische Gesellschaft,behoerden,1,1862-behoerden-027-L097
+C00453,Herzog,,Adolf,,1862,,Notariatsgehülfe,register,1,1862-einwohner-358-L029
+C00454,Herzog,,Joh. Jakob,,1841;1850;1862,1862,nicht praktizirenden | Notar und Almosenschaffner | Notarius | Notar,behoerden;register,4,1862-behoerden-014-L031;1841-einwohner-102-L014;1841-einwohner-138-L018;1850-einwohner-120-L072
+C00455,Heß,Burckhardt,Wilh.,,1862,1862,S. M. C — Neue Beisitzer,behoerden,1,1862-behoerden-030-L017
+C00456,Heß,,Candidat,,1862,1862,Schreiber — Historische Gesellschaft,behoerden,1,1862-behoerden-032-L055
+C00457,Heß,,J. W.,,1862,1862,"Schreiber — Vorstand | Lehrer am Realgymnasium, Präsident — Lehrer-Verein",behoerden,2,1862-behoerden-024-L077;1862-behoerden-033-L004
+C00458,Heß,,Johannes,,1841;1850,,"Magister, Spitalpfarrer | Spitalpfarrer",register,2,1841-einwohner-102-L021;1850-einwohner-120-L078
+C00459,Heß,,Sophie,,1862,1862,„ — Rektor: Hr,behoerden,1,1862-behoerden-018-L099
+C00460,Heß,,Wahrmund,,1862,1862,S. M. C — Hauptlehrer,behoerden,1,1862-behoerden-018-L049
+C00461,Hetzel,Wunderlin,Friedr.,,1862,,Fabrikant u. Floretspinnerei,register,1,1862-einwohner-358-L096
+C00462,Heusler,Bischoff,Rudolf,,1862,,Bandfabrikant,register,1,1862-einwohner-358-L103
+C00463,Heusler,Christ,Daniel,,1862,1862,Criminal- u. korrektionelles Gericht | Bandfabrikant,behoerden;register,2,1862-behoerden-015-L034;1862-einwohner-358-L106
+C00464,Heusler,Fatio,Markus. Heusler,,1841,,"Markus, Papierfabrikant.)",register,1,1841-einwohner-102-L026
+C00465,Heusler,Iselin,Daniel,,1862,,Bandfabrikant,register,1,1862-einwohner-358-L118
+C00466,Heusler,Ryhiner,Andreas,J. U. D.,1862,,Professor,register,1,1862-einwohner-359-L006
+C00467,Heusler,Thurneysen,Daniel,,1862,1862,Vorsteherschaft,behoerden,1,1862-behoerden-036-L011
+C00468,Heusler,,A.,Professor,1862,1862,Präsident — Vorstand,behoerden,1,1862-behoerden-032-L042
+C00469,Heusler,,Andreas,Prof.; Prof. Dr.,1841;1862,1862,"Präsident — Gymnasiums | J.U.D., Präsident — Bibliothek | Rathsherr",behoerden;register,3,1862-behoerden-011-L063;1862-behoerden-017-L050;1841-einwohner-102-L023
+C00470,Heusler,,Aug.,Dr.,1862,1862,Statthalter,behoerden,1,1862-behoerden-034-L004
+C00471,Heusler,,Ed.,Dr.,1862,1862,Advokaten-Verein,behoerden,1,1862-behoerden-033-L029
+C00472,Heusler,,Eduard,Dr.,1862,,Anwalt u. Notar,register,1,1862-einwohner-358-L108
+C00473,Heusler,,Carl,,1862,,Dr. Phil,register,1,1862-einwohner-358-L105
+C00474,Heußler,Bischoff,Abr.,,1850,,Rektor,register,1,1850-einwohner-120-L084
+C00475,Heußler,Iselin,Daniel,,1841;1862,1862,Appellations-Gericht | Präsident des Stadtraths,behoerden;register,2,1862-behoerden-015-L011;1841-einwohner-138-L022
+C00476,Heußler,Ryhiner,,Prof.,1862,1862,Alumneum,behoerden,1,1862-behoerden-027-L051
+C00477,Heußler,Ryhiner,A.,J.U.D,1850,,,register,1,1850-einwohner-120-L086
+C00478,Heußler,Sarasin,Andreas,J. U. D.,1862,1862,J. U. D — Baugericht,behoerden;register,2,1862-behoerden-016-L052;1862-einwohner-359-L017
+C00479,Heußler,Thurneysen,Daniel,,1862,1862,Appellations-Gericht,behoerden,1,1862-behoerden-015-L012
+C00480,Heußler,Thurneysen,Leonhard,Rathsherr,1862,1862,A. Der Kleine Rath | Präsident — II. Finanzcollegium | Zu St. Theodor | alt. Meist — Kaufleuten oder Schlüsselzunft,behoerden,4,1862-behoerden-011-L019;1862-behoerden-011-L037;1862-behoerden-022-L007;1862-behoerden-022-L022
+C00481,Heußler,Wegner,Carl,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L076
+C00482,Heußler,,Abraham,,1841,,"Dr. der Theol., Lehrer am Gymnasium",register,1,1841-einwohner-175-L041
+C00483,Heußler,,Andreas,,1862,1862,"J. U. D — Juridische Fakultät | J. U. D., alt. Mstr — Akademische Zunft",behoerden,2,1862-behoerden-017-L014;1862-behoerden-022-L067
+C00484,Heußler,,August,Dr.,1862,1862,J. U. D — nicht praktizirenden | Stadt,behoerden,2,1862-behoerden-014-L048;1862-behoerden-016-L068
+C00485,Heußler,,Ed.,,1862,1862,J. U. D — Criminal- u. korrektionelles Gericht,behoerden,1,1862-behoerden-015-L031
+C00486,Heußler,,Eduard,,1862,1862,J. U. D — nicht praktizirenden,behoerden,1,1862-behoerden-014-L044
+C00487,Heußler,,Leonhard,Rathsherr,1862,1862,Präsident — I. Brandversicherungskommission | Kirchenrath,behoerden,2,1862-behoerden-014-L012;1862-behoerden-019-L052
+C00488,Hindenlang,,Catharina,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L062
+C00489,Hindenlang,,Lukas,,1850;1862,,Major | Oberstlieutenant,register,2,1850-einwohner-121-L016;1862-einwohner-359-L066
+C00490,Hindermann,Merian,Joh. Jakob,,1862,1862,OberSchützenmeister — Die Feuerschützen | Bandfabrikant,behoerden;register,2,1862-behoerden-023-L020;1862-einwohner-359-L093
+C00491,Hindermann,,Franz,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L075
+C00492,Hindermann,,Philipp,,1862,1862,St. Theodorgemeinde | Bibliothekar — Commission,behoerden,2,1862-behoerden-019-L019;1862-behoerden-034-L033
+C00493,His,Heusler,Eduard,,1862,,Bandfabrikant,register,1,1862-einwohner-360-L003
+C00494,His,LaRoche,Eduard,,1862,1862,Appellations-Gericht | Appellationsrath,behoerden;register,2,1862-behoerden-015-L007;1862-einwohner-360-L005
+C00495,His,Vischer,Wilh.,Prof,1862,,,register,1,1862-einwohner-360-L007
+C00496,His,,Eduard,,1841,,Appellationsrath,register,1,1841-einwohner-103-L003
+C00497,His,,Wilhelm,Prof.,1862,1862,M. et Ch. D — X	Behörden und Beamte | M. et Ch. D — Medicinische Fakultät,behoerden,2,1862-behoerden-013-L004;1862-behoerden-017-L024
+C00498,Hoch,,Jonathan,,1862,1862,Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L056
+C00499,Hoch,,Theodor,,1862,1862,S. M. C — lehrer,behoerden,1,1862-behoerden-018-L040
+C00500,Hörler,,Franz,,1862,1862,"S. M. C., Hülfslehrer — Rektor: Hr",behoerden,1,1862-behoerden-018-L082
+C00501,Hofer,,Carl,,1862,,Kerzen- und Seifenfabrikant,register,1,1862-einwohner-360-L060
+C00502,Hoffmann,,Eml.,,1850,,Bandfabrikant,register,1,1850-einwohner-121-L049
+C00503,Hoffmann,,Friedrich,,1862,,Bandfabrikant,register,1,1862-einwohner-360-L082
+C00504,Hoffmann,,Rud.,Hauptm.,1862,1862,l. Offizier — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L081
+C00505,Holinger,Reber,Johannes,,1841,,Pfarrer,register,1,1841-einwohner-194-L036
+C00506,Hoppe,Heuser,Ignaz,,1862,,Prof. d. Medizin und Chirurgie,register,1,1862-einwohner-361-L072
+C00507,Hoppe,,Ignaz,Prof.,1862,1862,"M. et Ch. D — X	Behörden und Beamte | M. et Ch. D., außerord. Prof — Medicinische Fakultät",behoerden,2,1862-behoerden-013-L002;1862-behoerden-017-L027
+C00508,Horandt,Wohnlich,Martin,,1862,,Bandfabrikant,register,1,1862-einwohner-361-L076
+C00509,Horner,,Rud.,,1862,1862,Schreiber — Vorstand,behoerden,1,1862-behoerden-026-L021
+C00510,Hosch,,Eduard,,1862,1862,Baucassier — Baubeamte,behoerden,1,1862-behoerden-012-L040
+C00511,Hosch,,Hier.,,1862,1862,Beeidigte Wechsel-Sensalen,behoerden,1,1862-behoerden-012-L054
+C00512,Hotz,,Rudolf,,1862,1862,Münstergemeinde,behoerden,1,1862-behoerden-019-L006
+C00513,Huber,,Achilles,,1841;1850,,Architekt,register,2,1841-einwohner-104-L010;1850-einwohner-122-L015
+C00514,Huber,,J. J.,,1841;1850,,Pfarrer,register,2,1841-einwohner-103-L045;1850-einwohner-122-L014
+C00515,Huber,,Jakob,,1862,1862,Apotheker,behoerden,1,1862-behoerden-013-L039
+C00516,Hübner,,Christ. Moritz,,1862,,Architekt,register,1,1862-einwohner-362-L079
+C00517,Hübscher,,Adolf,,1862,1862,Meister zu Kürschn — Schneider und Kürschner,behoerden,1,1862-behoerden-022-L046
+C00518,Hübscher,,Emanuel,,1841,,Stadtrath,register,1,1841-einwohner-104-L014
+C00519,Hübscher,,Joh. Martin,,1862,1862,Schreiblehrer — lehrer | St. Petergemeinde,behoerden,2,1862-behoerden-018-L038;1862-behoerden-019-L012
+C00520,Hunziker,,F.,,1862,1862,Cassier — gesangs,behoerden,1,1862-behoerden-034-L089
+C00521,Hunziker,,Feldwebel Rud.,,1862,1862,Präsident — Vorstand,behoerden,1,1862-behoerden-026-L034
+C00522,Hunziker,,Friedr.,,1862,1862,Cassier — Vorstand,behoerden,1,1862-behoerden-026-L020
+C00523,Huß,,Charles,,1862,1862,Französische Ostbahn,behoerden,1,1862-behoerden-024-L028
+C00524,Iberg,,Corporal G.,,1862,1862,} Beisitzer — Vorstand,behoerden,1,1862-behoerden-026-L039
+C00525,Imhoff,Falkner,Hier.,,1862,1862,neuer Meister — Safran,behoerden,1,1862-behoerden-022-L030
+C00526,Imhoff,Heitz,Ludwig,Dr. med.,1862,,Arzt,register,1,1862-einwohner-365-L027
+C00527,Imhoff,,F.,,1862,1862,Sohn — Commission,behoerden,1,1862-behoerden-034-L037
+C00528,Imhof,Forcart,,,1862,1862,Präsident — Künstler-Gesellschaft,behoerden,1,1862-behoerden-034-L093
+C00529,Im Hof,Forkart,Joh. Jak.,,1862,1862,A. Der Kleine Rath,behoerden,1,1862-behoerden-011-L024
+C00530,Imhof,Heiß,Ludw.,Med. Dr,1841,,,register,1,1841-einwohner-162-L012
+C00531,Imhof,Heitz,L.,Med. Dr,1850,,,register,1,1850-einwohner-122-L087
+C00532,Imhof,,Dorothea,,1862,1862,„ — Rektor: Hr,behoerden,1,1862-behoerden-018-L096
+C00533,ImHof,,J. J.,Rathsherr,1862,1862,Präsident — X. A. Sanitätscollegium | Präsident — X. B. Sanitätsausschuß,behoerden,2,1862-behoerden-012-L063;1862-behoerden-013-L083
+C00534,Imhof,,Joh. Christoph,,1841,,"Oberst | Oberst, Baufchreiber",register,2,1841-einwohner-105-L008;1841-einwohner-162-L005
+C00535,Imhof,,Ludwig,,1862,1862,M. D — Aerzte,behoerden,1,1862-behoerden-012-L078
+C00536,Imhof,,Rathshrr,,1862,1862,„ — Direction,behoerden,1,1862-behoerden-036-L035
+C00537,Imhof,,Samuel,,1841,,Papierfabrikant. (Firma: Imhof'sche Papierfabrik.),register,1,1841-einwohner-105-L014
+C00538,Immer,,Albert,,1862,1862,Präses — Vorstand,behoerden,1,1862-behoerden-032-L079
+C00539,Iselin,Passavant,H.,Med. Dr,1850,,,register,1,1850-einwohner-123-L019
+C00540,Iselin,Passavant,Heinr.,Dr,1862,,,register,1,1862-einwohner-365-L099
+C00541,Iselin,,A.,,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L031
+C00542,Iselin,,Abraham,,1862,1862,walter des Stadtbezirks,behoerden,1,1862-behoerden-012-L027
+C00543,Iselin,,F.,,1862,1862,"Lehrer am humanistischen Gymnasium, Schreiber — Lehrer-Verein | Präsident — Turnlehrer-Verein",behoerden,2,1862-behoerden-033-L005;1862-behoerden-035-L083
+C00544,Iselin,,Friedrich,,1862,1862,Hauptlehrer,behoerden,1,1862-behoerden-018-L032
+C00545,Iselin,,H.,Dr.,1862,1862,Statthalter — Vorstand | Vorstand,behoerden,2,1862-behoerden-024-L078;1862-behoerden-032-L050
+C00546,Iselin,,Heinrich,,1862,1862,M. et Ch. D — Ch. D | M. Dr — Criminal- u. korrektionelles Gericht | Dr. med — Aelteste der französischen Kirche,behoerden,3,1862-behoerden-012-L092;1862-behoerden-015-L024;1862-behoerden-022-L013
+C00547,Iselin,,J. J.,,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L021
+C00548,Iselin,,W.,,1862,1862,Seckelmeister — Vorstand,behoerden,1,1862-behoerden-024-L076
+C00549,Jäcklin,,Daniel,,1862,1862,erster Sekretär — vorsteher und Stadtschreiber | Stadt-Sekretär — Ladenamts-Verwaltung,behoerden,2,1862-behoerden-020-L074;1862-behoerden-021-L007
+C00550,Jäck,,Jakob,,1862,1862,„ — Vorstand,behoerden,1,1862-behoerden-025-L061
+C00551,Jäger,,J. L.,,1862,1862,Cassier — Comité,behoerden,1,1862-behoerden-026-L087
+C00552,Jaquet,,Fr. August,,1841,,Oberst,register,1,1841-einwohner-104-L040
+C00553,Jenny,,August,,1862,1862,Vikare,behoerden,1,1862-behoerden-018-L062
+C00554,Jenny,,Friedrich Wilh.,,1862,1862,lehrer,behoerden,1,1862-behoerden-018-L077
+C00555,Jenny,,J. J.,,1862,1862,Blumen- — * Amicitia,behoerden,1,1862-behoerden-031-L033
+C00556,Jezler,Klein,Hch.,,1862,1862,Lagerhausdirektor,behoerden,1,1862-behoerden-014-L018
+C00557,Jöpger,,Wilhelm,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L050
+C00558,Jucker,,Benedikt,,1862,1862,Organisten,behoerden,1,1862-behoerden-020-L034
+C00559,Jünemann,,H.,,1862,1862,der Haas'schen Gießerei,behoerden,1,1862-behoerden-032-L024
+C00560,Jung,,C. G.,Prof.,1862,1862,"M. et Ch. Dr., — a. collegium medicum | M. et Ch. D — Medicinische Fakultät",behoerden,2,1862-behoerden-012-L065;1862-behoerden-017-L019
+C00561,Jung,,J. G.,Prof.,1862,1862,M. et Ch. D — Aerzte,behoerden,1,1862-behoerden-012-L075
+C00562,Jung,,K. G.,Med. Dr; Professor,1850;1862,1862,Präsident — Museum,behoerden;register,2,1862-behoerden-017-L061;1850-einwohner-123-L034
+C00563,Jung,,Carl Gustav,,1841;1862,,"Med. Dr. und Professor | Dr. Med., Professor",register,2,1841-einwohner-105-L045;1862-einwohner-366-L012
+C00564,Junker,,J. J.,,1850,,Chir. Dr,register,1,1850-einwohner-123-L036
+C00565,Jurt,,Burkhardt,,1862,1862,Pfarrer — Geistlicher Vorstand | Pfarrer,behoerden;register,2,1862-behoerden-023-L036;1862-einwohner-366-L015
+C00566,Kägi,,Johannes,,1862,1862,lehrer,behoerden,1,1862-behoerden-018-L075
+C00567,Käser,,Jacob,,1862,1862,Lehrer — Katholische Schule,behoerden,1,1862-behoerden-023-L059
+C00568,Kappeler,,Alois,,1862,1862,Ochsengasse Nr. 5 — für kranke Posamenter,behoerden,1,1862-behoerden-031-L030
+C00569,Kappeler,,Carl,,1862,1862,Präsident — Eidgenössischer Schulrath,behoerden,1,1862-behoerden-010-L026
+C00570,Kauffmann,Ingold,Barbara,,1862,,Chaisenfabrikant,register,1,1862-einwohner-366-L092
+C00571,Kaufmann,,Josef,,1862,,Chaisenfabrikant,register,1,1862-einwohner-366-L109
+C00572,Kehlstadt,David,Leonhard,,1862,,Oberstrathsdiener,register,1,1862-einwohner-367-L009
+C00573,Kehlstadt,,Joh. Philipp,,1862,1862,alter Meister — Rebleuten,behoerden,1,1862-behoerden-022-L034
+C00574,Kehlstadt,,Leonhard,,1862,1862,Oberstrathsdiener — „,behoerden,1,1862-behoerden-014-L073
+C00575,Kehlstadt,,Philipp,,1862,1862,Vater — Auf dem Viehmarkt | Polizeigericht,behoerden,2,1862-behoerden-013-L094;1862-behoerden-015-L080
+C00576,Kellermann,,Emil,,1862,1862,Apotheker,behoerden,1,1862-behoerden-013-L040
+C00577,Kellermann,,J. Christian,,1862,1862,Vater — Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L051
+C00578,Keller,,Caspar,,1862,1862,* Seidenfärber Kranken-Casse,behoerden,1,1862-behoerden-031-L064
+C00579,Keller,,Martin,,1862,1862,* Kranken-Casse der Mechaniker,behoerden,1,1862-behoerden-032-L010
+C00580,Kelterborn,,F.,,1862,1862,Commission,behoerden,1,1862-behoerden-034-L036
+C00581,Kelterborn,,Ludwig Adam,,1862,1862,Zeichnungs- — Hülfslehrer,behoerden,3,1862-behoerden-018-L034;1862-behoerden-018-L054;1862-behoerden-018-L070
+C00582,Kenz,,Marie,,1862,1862,„ — Rektor: Hr,behoerden,1,1862-behoerden-018-L098
+C00583,Kern,Bischoff,Friedrich,,1862,,Bandfabrikant und Oberst,register,1,1862-einwohner-367-L110
+C00584,Kern,de Crousaz,Elias,,1862,,Stadtrath,register,1,1862-einwohner-367-L112
+C00585,Kern,Germann,J.,,1862,1862,"Stellvertreter, Sekretär des Ständeraths — Bundeskanzlei",behoerden,1,1862-behoerden-010-L014
+C00586,Kern,Ryhiner,August,,1862,,Bandfabrikant,register,1,1862-einwohner-367-L123
+C00587,Kern,Werthemann,Ed.,,1862,,Bandfabrikant,register,1,1862-einwohner-368-L007
+C00588,Kern,,Elias,Stadtrath,1841;1862,1862,"Präsident — Brandschaden | Präsident. „ Notar J. Herzog, Almosenschaffner und Sekretär — Almosenamt | Rathsherr",behoerden;register,3,1862-behoerden-021-L039;1862-behoerden-021-L047;1841-einwohner-139-L024
+C00589,Kern,,Friedr.,eidg. Oberst,1862,1862,Präsident — pflichtigen,behoerden,1,1862-behoerden-012-L011
+C00590,Kern,,Jch.,Major,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L009
+C00591,Keßler,,C.,,1862,1862,Lehrer und Hausvater — Comité,behoerden,1,1862-behoerden-026-L090
+C00592,Kiefer,,Georg,,1862,1862,Criminal- u. korrektionelles Gericht,behoerden,1,1862-behoerden-015-L026
+C00593,Kienle,,F.,,1862,1862,"Lehrer am human. Gymnasium, Cassier — Lehrer-Verein",behoerden,1,1862-behoerden-033-L006
+C00594,Kienle,,Karl,,1862,1862,lehrer,behoerden,1,1862-behoerden-018-L041
+C00595,Kiffel,,Johannes,,1862,1862,M. et Ch. Dr — Aerzte,behoerden,1,1862-behoerden-012-L073
+C00596,Kindweiler,,J. J.,,1841,,Bandfabrikant,register,1,1841-einwohner-106-L042
+C00597,Kinkelin,,Hermann,,1862,1862,theils von angenommenen Lehrern ertheilt,behoerden,1,1862-behoerden-018-L021
+C00598,Kissel,Miville,Johs.,,1862,,"Dr. med. u. chir., Arzt",register,1,1862-einwohner-368-L096
+C00599,Kissel,,Joh.,Med. Dr,1841;1850,,,register,2,1841-einwohner-106-L045;1850-einwohner-124-L012
+C00600,Kistler,,Joh.,,1862,1862,Steinenvor- — in Krankheits- und Sterbefällen,behoerden,1,1862-behoerden-032-L019
+C00601,Kleinert,,David,,1841,,Fabrikant,register,1,1841-einwohner-162-L036
+C00602,Kleinhüningen,,J. Nebicker,,1862,1862,} — Vorstand,behoerden,1,1862-behoerden-030-L031
+C00603,Kleinwitz,,Maria,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L067
+C00604,Knobel,Gmünder,Joh. Jac.,,1862,,Bandfabrikant,register,1,1862-einwohner-369-L081
+C00605,Knüsel,,Joseph Martin,,1862,1862,Chef des Finanz-Departements — Bundesrath,behoerden,1,1862-behoerden-010-L007
+C00606,Koch,Kuster,,,1862,1862,desgl — Münstergemeinde,behoerden,1,1862-behoerden-019-L027
+C00607,Köchlin,Burckhardt,Eugen,,1862,,Bandfabrikant,register,1,1862-einwohner-370-L017
+C00608,Köchlin,Geigy,,Rathshr.,1862,1862,Casino im St. Jakobs-Garten,behoerden,1,1862-behoerden-034-L047
+C00609,Köchlin,Geigy,Alphons,Rathsherr,1862,1862,A. Der Kleine Rath | Präsident — a. Ohmgeldskammer | Präsident — II. Kaufhauskommission | Bandfabrikant,behoerden;register,4,1862-behoerden-011-L028;1862-behoerden-011-L039;1862-behoerden-014-L014;1862-einwohner-370-L023
+C00610,Köchlin,,Eduard,,1862,,Bandfabrikant,register,1,1862-einwohner-370-L021
+C00611,Köchlin,,Saml.,,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L030
+C00612,Köhler,,Lukas,,1862,1862,Präsident — Vorstand,behoerden,1,1862-behoerden-026-L018
+C00613,König,,Moritz,,1862,,Bandfabrikant,register,1,1862-einwohner-370-L049
+C00614,Koller,Burckhardt,Gottl.,,1862,,Centralbahn-Ingenieur,register,1,1862-einwohner-370-L069
+C00615,Koller,,G.,,1862,1862,"Ingenieur, Vorstand des Bureau der Betriebs-Verwaltung — Hauptbeamte",behoerden,1,1862-behoerden-024-L056
+C00616,Kornthal,,Missionar L. Krapf,,1862,1862,Auswärtige Mitglieder,behoerden,1,1862-behoerden-026-L093
+C00617,Krapf,,Joh.,,1862,1862,"Major, Chef des Polizei-Corps — E. Polizei-Direktion",behoerden,1,1862-behoerden-014-L080
+C00618,Krauer,Treu,Rud.,,1862,1862,Polizeigericht,behoerden,1,1862-behoerden-015-L083
+C00619,Krauer,,Rud.,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L079
+C00620,Kraus,,Daniel,,1841,,Pfarrer,register,1,1841-einwohner-107-L031
+C00621,Krayer,,Bestäter,,1862,1862,Kaufhausinspektor,behoerden,1,1862-behoerden-014-L016
+C00622,Krebs,,Franz,,1862,1862,Unterstützung bedürftiger Collegen,behoerden,1,1862-behoerden-035-L045
+C00623,Krebs,,Hs.,,1862,1862,Männer-Chor,behoerden,1,1862-behoerden-034-L055
+C00624,Krug,,Johannes,,1862,1862,Archivar — D. Kanzlei des Kantons,behoerden,1,1862-behoerden-014-L068
+C00625,Krug,,Julie,,1862,1862,Hülfslehrerin — Rektor: Hr,behoerden,1,1862-behoerden-018-L094
+C00626,Krug,,Mark.,,1862,1862,Auf dem Viehmarkt,behoerden,1,1862-behoerden-013-L093
+C00627,Kündig,Stückelberger,Eucharius,,1862,,Pfarrer,register,1,1862-einwohner-371-L103
+C00628,Kündig,VonSpeyr,August Theodor,,1862,,"Dr. Phil., Chemiker",register,1,1862-einwohner-371-L107
+C00629,Kündig,,August,J. U. D.,1862,1862,"J. U. D — nicht praktizirenden | J. U. D., Gerichtsschreiber — Suppleanten | J.U.D., Gerichtsschreiber — Suppleanten | Notar",behoerden;register,4,1862-behoerden-014-L046;1862-behoerden-015-L090;1862-behoerden-016-L056;1862-einwohner-371-L090
+C00630,Kündig,,Eucharius,Pfarrer,1862,1862,Kirchenrath | Pfarrer — Zu St. Leonhard | Alumneum,behoerden,3,1862-behoerden-019-L059;1862-behoerden-020-L003;1862-behoerden-027-L053
+C00631,Labhardt,Miville,C.,,1862,1862,Vorsteher — Handlungsdiener,behoerden,1,1862-behoerden-030-L049
+C00632,Labhardt,,Ferdinand,,1862,1862,Suppleanten,behoerden,1,1862-behoerden-016-L035
+C00633,Lachenal (de),,Friedrich,,1841,,alt Professor,register,1,1841-einwohner-191-L031
+C00634,Landerer,Champrenaud,Carl,,1862,,Cigarrenfabrikant,register,1,1862-einwohner-372-L113
+C00635,Landerer,,Richard,,1841,,Polizeidirektor,register,1,1841-einwohner-140-L003
+C00636,LaRoche,Bez,,,1862,1862,Präsident — Commission,behoerden,1,1862-behoerden-034-L068
+C00637,La Roche,Bischer,J. J.,,1841,,"Banquier, Commissions- und Speditions-Handlung",register,1,1841-einwohner-109-L018
+C00638,La Roche,Burckhardt,August,J. U. D.,1841;1862,,Civilgerichtspräsident | Appellations-Gerichts-Präsident,register,2,1841-einwohner-109-L017;1862-einwohner-373-L065
+C00639,LaRoche,Merian,Carl Gust.,,1862,,Banquier,register,1,1862-einwohner-373-L074
+C00640,LaRoche,,Aug.,,1862,1862,Präsident — Appellations-Gericht | Vorstand,behoerden,2,1862-behoerden-015-L005;1862-behoerden-027-L034
+C00641,LaRoche,,Benedict,,1862,,"Banquier, Firma von B. La-Roche-Stehelin",register,1,1862-einwohner-373-L060
+C00642,La Roche,,Daniel,,1841,,Rektor,register,1,1841-einwohner-109-L013
+C00643,La Roche,,Emanuel,,1841,,Appellationsrath,register,1,1841-einwohner-109-L011
+C00644,LaRoche,,German,,1862,1862,neuer Meister — Weinleuten,behoerden,1,1862-behoerden-022-L027
+C00645,LaRoche,,S. E.,,1850,,Pfarrer,register,1,1850-einwohner-125-L049
+C00646,La Roche,,Simon,,1841,,Pfarrer bei St. Peter,register,1,1841-einwohner-109-L010
+C00647,Laufer,,B.,,1862,,Architekt,register,1,1862-einwohner-373-L096
+C00648,Legrand,,Ad.,,1850,,Bankier,register,1,1850-einwohner-125-L062
+C00649,Legrand,,Nicolaus,,1862,,Banquier u. Baumwollspinnerei,register,1,1862-einwohner-373-L116
+C00650,LeGrand,,W.,Pfarrer,1862,1862,Vorstand — Comité,behoerden,1,1862-behoerden-028-L082
+C00651,Legrand,,Wilh.,,1862,,Pfarrer u. Inspector d. Alumneums,register,1,1862-einwohner-373-L120
+C00652,Lendorf,Berri,Carl,,1862,,Architekt,register,1,1862-einwohner-374-L041
+C00653,Lester,,Josua,,1862,1862,Zimmermeister — Suppleanten,behoerden,1,1862-behoerden-016-L055
+C00654,Leuthardt,,Peter,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L049
+C00655,Levy,Dulmont,Marcus,,1862,,"J. U. L., Advokat",register,1,1862-einwohner-374-L095
+C00656,Levy,,Licentiat,,1862,1862,Vorstand,behoerden,1,1862-behoerden-024-L024
+C00657,Lex,,Felix Josef,,1841;1850;1862,,Notar | Alt-Notar u. Geschäftsmann,register,3,1841-einwohner-109-L045;1850-einwohner-125-L083;1862-einwohner-374-L099
+C00658,Lichtenhahn,Hauser,Wilh.,,1862,,Notar,register,1,1862-einwohner-374-L111
+C00659,Lichtenhahn,,Benedikt,,1841,,Oberstlieutenant u. Kaufmann,register,1,1841-einwohner-109-L047
+C00660,Lichtenhahn,,C. Chr.,,1841,,Rathschreiber sel.,register,1,1841-einwohner-110-L005
+C00661,Lichtenhahn,,Friedr.,,1862,1862,"V.D.M., Waisenvater. „ Christoph Heußler, Verwalter — Waisenhaus-Inspection",behoerden,1,1862-behoerden-021-L052
+C00662,Lichtenhahn,,Heusler,,1862,,Notariats- und Advokaturbureau und Ohmgeldschreiberei,register,1,1862-einwohner-374-L112
+C00663,Lichtenhahn,,Hans Rudolf,,1862,,Bandfabrikant,register,1,1862-einwohner-374-L109
+C00664,Lichtenhahn,,Carl,,1841;1850,,alt Stadtrath | Staatsschreiber | Alt-Stadtrath,register,3,1841-einwohner-110-L003;1841-einwohner-110-L007;1850-einwohner-125-L086
+C00665,Lichtenhahn,,Wilhelm,Dr.,1862,1862,J. U. C — nicht praktizirenden | Cassier — Vorstand,behoerden,2,1862-behoerden-014-L043;1862-behoerden-035-L024
+C00666,Liechtenhan,Hagenbach,Joh. Rud.,,1862,,"Kaufmann. Firma Liechtenhan u. Burckhardt, Banquiers u. Speditoren",register,1,1862-einwohner-375-L016
+C00667,Liechtenhan,Hagenbach,Rud.,,1862,1862,e. Inspektion der Töchterschule | Präsident — deschulen,behoerden,2,1862-behoerden-011-L071;1862-behoerden-011-L074
+C00668,Lienhardt,Hänger,,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L066
+C00669,Linder,Courvoisier,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-027-L036
+C00670,Linder,Engressat,Ludwig,,1862,1862,Präsident — u. Holzmarkt | Ehe-Gericht,behoerden,2,1862-behoerden-013-L087;1862-behoerden-015-L056
+C00671,Linder,Steinegger,Joh. Jak.,,1862,,Bandfabrikant,register,1,1862-einwohner-375-L070
+C00672,Linder,Uebelin,Joh. Jakob,,1862,,Ofenfabrikant,register,1,1862-einwohner-375-L074
+C00673,Linder,,Emanuel,,1841,,Professor,register,1,1841-einwohner-110-L017
+C00674,Linder,,Jakob Ludwig,,1841,,Bandfabrikant,register,1,1841-einwohner-110-L025
+C00675,Linder,,Joh. Jakob,,1841;1850,,Bandfabrikant | Obersthelfer,register,3,1841-einwohner-110-L024;1841-einwohner-110-L026;1850-einwohner-126-L021
+C00676,Linder,,L.,,1850,1850,Messerschmied — Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L007
+C00677,Löw,Geßler,Joh.,,1862,1862,Meister zu Fischern — Schiffleute und Fischer,behoerden,1,1862-behoerden-022-L064
+C00678,Löw,,Rudolf,,1862,1862,Gesanglehrer — Rektor: Hr | Tabakfabrikant,behoerden;register,2,1862-behoerden-018-L084;1862-einwohner-376-L026
+C00679,Lotz u. Sieber,,Albert Casp.,,1862,,Bandfabrikanten,register,1,1862-einwohner-376-L040
+C00680,Lotz,Eglin,Friedrich,,1862,1862,Ober-Schützenmeister — Die Feuerschützen,behoerden,1,1862-behoerden-023-L019
+C00681,Lotz,LeGrand,,Pfarrer,1862,1862,Vorsteher der Inspection,behoerden,1,1862-behoerden-029-L077
+C00682,Lotz,Spörlin,Heinrich,,1862,1862,Gemeindsbehörden. — Die E. Zünfte. XIX,behoerden,1,1862-behoerden-022-L002
+C00683,Lotz,,Albert,,1862,1862,Stadt | neuer Meister — Hären | Commandant — Section Basel,behoerden,3,1862-behoerden-016-L077;1862-behoerden-023-L007;1862-behoerden-025-L070
+C00684,Lotz,,Christoph,,1862,1862,V. D. M — lehrer,behoerden,1,1862-behoerden-018-L073
+C00685,Lotz,,Commandant Albert,,1862,1862,„ — Kriegsgericht,behoerden,1,1862-behoerden-016-L007
+C00686,Lotz,,Friedrich,,1862,1862,Zimmermeister — Baugericht,behoerden,1,1862-behoerden-016-L047
+C00687,Maas,Müller,Rudolf,,1862,,Dr. med. et Chir,register,1,1862-einwohner-377-L043
+C00688,Maas,,R.,Med. Dr,1850,,,register,1,1850-einwohner-126-L075
+C00689,Maas,,Rudolf,Med. Dr,1841;1862,1862,M. et Ch. D — Aerzte,behoerden;register,2,1862-behoerden-012-L086;1841-einwohner-111-L016
+C00690,Madöry,,Adam,,1862,1862,Steinen- — für kranke Posamenter,behoerden,1,1862-behoerden-031-L028
+C00691,Madöry,,J. J.,,1862,1862,Kaufmann — (Section Basel.),behoerden,1,1862-behoerden-033-L015
+C00692,Mäglin,,Gustav,,1862,1862,Glassinner — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L086
+C00693,Mäglin,,Paravicini,,1862,,"Friedr. Rudolf, Commis",register,1,1862-einwohner-377-L094
+C00694,Mähly,Schermar,Jacob,,1862,,"Dr. Phil., Lehrer",register,1,1862-einwohner-377-L110
+C00695,Maehly,,F. A.,Dr.,1862,1862,Commission,behoerden,2,1862-behoerden-034-L011;1862-behoerden-034-L070
+C00696,Mähly,,Jakob Achilles,,1862,1862,Ph. D — Hauptlehrer,behoerden,1,1862-behoerden-018-L051
+C00697,Mai,,Lud.,,1862,1862,Stapfelberg Nr. 7 — Geschlechts,behoerden,1,1862-behoerden-031-L084
+C00698,Marget,,J. E.,,1862,1862,Commission,behoerden,1,1862-behoerden-034-L035
+C00699,Maring,Wierz,Lud.,,1862,,Architekt,register,1,1862-einwohner-378-L074
+C00700,Mariot,,Wilh.,,1841,,Prof. der engl. Sprache,register,1,1841-einwohner-111-L047
+C00701,Marolf,,Franz Carl,,1862,1862,Schreiblehrer — Hülfslehrer | Schreiblehrer — Rektor: Hr,behoerden,2,1862-behoerden-018-L069;1862-behoerden-018-L086
+C00702,Marriott,,W.,,1850,,Phil. Dr,register,1,1850-einwohner-127-L022
+C00703,Martin,Kleinknecht,Rud.,,1862,,Notargehülfe,register,1,1862-einwohner-378-L109
+C00704,Martin,Schmerber,,,1862,1862,Aelteste der französischen Kirche,behoerden,1,1862-behoerden-022-L017
+C00705,Massini,Seiler,C. L. R.,,1862,1862,Rechnungs-Revisoren,behoerden,1,1862-behoerden-030-L022
+C00706,Matzinger,Wäffler,Bernhard,,1862,1862,Vorstand,behoerden,1,1862-behoerden-035-L033
+C00707,Matzinger,,Christof,,1862,1862,Schreiber — Verwaltung,behoerden,1,1862-behoerden-030-L069
+C00708,Maul,,A.,,1862,1862,Vice-Präsident — Turnlehrer-Verein,behoerden,1,1862-behoerden-035-L084
+C00709,Maul,,Alfred,,1862,1862,Turnlehrer — theils von angenommenen Lehrern ertheilt | lehrer,behoerden,2,1862-behoerden-018-L022;1862-behoerden-018-L056
+C00710,Maurer,,Joh.,,1862,1862,Direktor — V. Postkreis Basel,behoerden,1,1862-behoerden-010-L037
+C00711,Meisner,,C. Fr.,Prof.,1862,1862,Präsident — Anstalt,behoerden,1,1862-behoerden-018-L005
+C00712,Meisner,,Karl Friedr.,Med. Dr.,1841;1862,1862,"M. D., Dekan — Medicinische Fakultät | Professor der Naturgeschichte",behoerden;register,2,1862-behoerden-017-L020;1841-einwohner-184-L022
+C00713,Meisner,,Markus,,1862,1862,Apotheker,behoerden,1,1862-behoerden-013-L046
+C00714,Meißner,Marechal,Daniel Friedr.,,1862,,Professor,register,1,1862-einwohner-380-L050
+C00715,Meißner,,Friedrich,,1862,1862,lehrer,behoerden,1,1862-behoerden-018-L074
+C00716,Meißner,,Carl Fr.,Prof.,1862,1862,M. et Ch. D — Aerzte,behoerden,1,1862-behoerden-012-L081
+C00717,Meister,,Lehrer,,1862,1862,landwirthschaftlichen Armenschule,behoerden,1,1862-behoerden-028-L046
+C00718,Merian,Bernoulli,J. R.,Prof,1850,,,register,1,1850-einwohner-127-L086
+C00719,Merian,Bernoulli,Rudolf,,1862,,Prof. d. Mathematik,register,1,1862-einwohner-380-L075
+C00720,Merian,Brandmüller,Fr.,,1862,1862,Die Feuerschützen,behoerden,1,1862-behoerden-023-L023
+C00721,Merian,Burckhardt,R.,,1862,1862,Präsident — Vorstand,behoerden,1,1862-behoerden-024-L074
+C00722,Merian,Burckhardt,Rudolf,,1862,,Ingenieur,register,1,1862-einwohner-380-L085
+C00723,Merian,Forcart,J.,,1862,,Banquier,register,1,1862-einwohner-380-L098
+C00724,Merian,Forkart,J.,,1841,,Oberst,register,1,1841-einwohner-113-L034
+C00725,Merian,Frischmann,Rud.,,1841;1862,1862,St. Johann: Hr. Daniel Preiswerk-Keller | Banquier,behoerden;register,2,1862-behoerden-023-L014;1841-einwohner-113-L033
+C00726,Merian,Herzog,,,1841;1862,,"Walter, Notar",register,2,1841-einwohner-113-L038;1862-einwohner-380-L108
+C00727,Merian,Iselin,,Rathshr.,1862,1862,Präsident — Commission,behoerden,1,1862-behoerden-034-L078
+C00728,Merian,Iselin,Rudolf,,1862,1862,A. Der Kleine Rath,behoerden,1,1862-behoerden-011-L029
+C00729,Merian,Reber,Sam.,,1862,,Pfarrer,register,1,1862-einwohner-381-L017
+C00730,Merian,Rothplez,Andr.,,1841,,Ingenieur,register,1,1841-einwohner-113-L042
+C00731,Merian,Sarasin,Wilhelm,,1862,1862,Criminal- u. korrektionelles Gericht,behoerden,1,1862-behoerden-015-L027
+C00732,Merian,Stierlin,,,1862,,"Walter, J. U. C., Notar",register,1,1862-einwohner-381-L030
+C00733,Merian,Thurneisen,P.,Prof,1850,,,register,1,1850-einwohner-128-L006
+C00734,Merian,Thurneysen,Peter,,1862,,Rathsherr u. Professor,register,1,1862-einwohner-381-L037
+C00735,Merian,VonderMühll,Heinrich,,1862,1862,Civilgericht,behoerden,1,1862-behoerden-016-L021
+C00736,Merian,VonderMüll,Heinrich,,1862,1862,Seckelmeister — Die Feuerschützen,behoerden,1,1862-behoerden-023-L021
+C00737,Merian,,Amadeus,,1862,1862,"Stadtrath zu Basel | neuer Meister — Greiffen | Stadtr., Statthalter — Künstler-Gesellschaft | Stadtrath, Architekt",behoerden;register,4,1862-behoerden-020-L069;1862-behoerden-023-L010;1862-behoerden-034-L094;1862-einwohner-380-L072
+C00738,Merian,,Dan.,,1841,,Rathsherr sel.,register,1,1841-einwohner-113-L017
+C00739,Merian,,Eduard,,1841,,Banquier,register,1,1841-einwohner-113-L021
+C00740,Merian,,Emanuel,,1862,1862,Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L052
+C00741,Merian,,Emil,Dr.; J. U. D.,1862,1862,Vorstand,behoerden;register,2,1862-behoerden-035-L025;1862-einwohner-380-L097
+C00742,Merian,,F. F.,Dr.,1862,1862,Seckelmeister — Commission,behoerden,1,1862-behoerden-034-L081
+C00743,Merian,,Friedrich,,1841,,"Magister, alt Pfarrer",register,1,1841-einwohner-113-L010
+C00744,Merian,,J. J.,Dr.,1862,1862,Kantonsingenieur. (prov.) — Baubeamte | Bibliothekar — Historische Gesellschaft | Bibliothekar — Gesellschaft f. vaterländ. Alterthümer | Schreiber — Vorstand,behoerden,4,1862-behoerden-012-L035;1862-behoerden-032-L056;1862-behoerden-032-L075;1862-behoerden-033-L068
+C00745,Merian,,Joh. Jak.,,1862,,Kantons-Ingenieur | Dr. Phil,register,2,1862-einwohner-380-L109;1862-einwohner-380-L110
+C00746,Merian,,Lucas,,1841,,Rathsherr,register,1,1841-einwohner-113-L016
+C00747,Merian,,Ludwig,,1862,1862,neuer Meister — Spinnwettern | Vater — St. Johann: Hr. Daniel Preiswerk-Keller,behoerden,2,1862-behoerden-022-L054;1862-behoerden-023-L015
+C00748,Merian,,P.,Rathsherr; Rathshr.,1850;1862,1850;1862,Präsident — Vorstand | Seckelmeister — Vorstand | Kleiner Stadtrath:  „   „,behoerden,3,1862-behoerden-030-L027;1862-behoerden-032-L043;1850-behoerden-158-L022
+C00749,Merian,,Peter,Professor; Rathsherr,1841;1862,1862,"Ph. Dr — A. Der Kleine Rath | Präsident — IV. Erziehungscollegium | Ph. Dr., Präsident — Pädagogiums | Ph. D., Prof. d. Geolog — Philosophische Fakultät | Präsident — Allgemeine Museumskommission | Präsident — schaftliche Abtheilung des Museums | D. Ph., neuer Meister — Akademische Zunft | Rathsherr",behoerden;register,8,1862-behoerden-011-L017;1862-behoerden-011-L057;1862-behoerden-011-L060;1862-behoerden-017-L032;1862-behoerden-017-L047
+C00750,Merian,,R.,,1862,1862,"Ph. D., Prof. d. Mathem — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L033
+C00751,Merian,,Rud.,Prof.,1841;1862,1862,Präsident — Landwirthschaftliche Kammer | Professor der Mathematik,behoerden;register,2,1862-behoerden-012-L033;1841-einwohner-113-L013
+C00752,Merian,,Walter,,1862,1862,"nicht praktizirenden | Sohn, J. U. C — nicht praktizirenden",behoerden,2,1862-behoerden-014-L035;1862-behoerden-014-L040
+C00753,Meßmer,,Andr.,,1862,1862,Präsident — der Bandfabrik-Arbeiter,behoerden,1,1862-behoerden-030-L080
+C00754,Meyenrock,,Friedrich,,1862,1862,Zu St. Theodor,behoerden,1,1862-behoerden-022-L009
+C00755,Meyenrock,,Jak. Friedr.,,1841,,Miliz-Inspektor u. Liqueurfabrikant,register,1,1841-einwohner-140-L043
+C00756,Meyer,Brand,Friedrich,,1862,,Thierarzt u. Wasenmeister,register,1,1862-einwohner-381-L100
+C00757,Meyer,Breiter,Ed.,,1862,,Bandfabrikant,register,1,1862-einwohner-381-L104
+C00758,Meyer,Merian,,Med. Dr,1850,,,register,1,1850-einwohner-128-L037
+C00759,Meyer,Merian,Daniel,,1862,,Bandfabrikant,register,1,1862-einwohner-382-L096
+C00760,Meyer,Merian,Theod.,,1862,,"Dr. Med., Spitaldirector",register,1,1862-einwohner-382-L102
+C00761,Meyer,Vest,Gedeon,,1862,,Notarius,register,1,1862-einwohner-383-L049
+C00762,Meyer,,Benedikt,,1862,1862,St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L014
+C00763,Meyer,,Emanuel Walter,Med. Dr,1841;1850,,alt Pfarrer | Wundarzt | Pfarrer,register,4,1841-einwohner-112-L043;1841-einwohner-164-L035;1850-einwohner-128-L034;1850-einwohner-128-L035
+C00764,Meyer,,F.,,1841,,Thierarzt,register,1,1841-einwohner-112-L045
+C00765,Meyer,,Friedrich,,1850;1862,1862,Thierärzte | Thierarzt,behoerden;register,2,1862-behoerden-013-L034;1850-einwohner-128-L044
+C00766,Meyer,,Gedeon,,1841;1850;1862,1862,nicht praktizirenden | Notar,behoerden;register,3,1862-behoerden-014-L034;1841-einwohner-112-L036;1850-einwohner-128-L030
+C00767,Meyer,,Heinrich,,1862,1862,V. D. M — Hauptlehrer,behoerden,1,1862-behoerden-018-L029
+C00768,Meyer,,Paul,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L044
+C00769,Meyer,,Remigius,Dr.,1862,1862,Ph. D — Hauptlehrer | Ph. D. et S. M. C — Hauptlehrer,behoerden,3,1862-behoerden-018-L028;1862-behoerden-018-L047;1862-behoerden-034-L005
+C00770,Meyer,,Theophil,Direktor,1862,1862,M. et Ch. D — Ch. D | Beisitzer — XXII Gesellsch. d. Guten u. Gemein. Vaterländ. u. polit. Vereine | Commis — Geselligkeit,behoerden,3,1862-behoerden-012-L096;1862-behoerden-025-L003;1862-behoerden-035-L011
+C00771,Meyer,,Thierarzt Friedrich,,1862,1862,e. Wasenmeister,behoerden,1,1862-behoerden-013-L079
+C00772,Mez,,Carl,,1862,1862,Fabrikant in Freiburg — Auswärtige Mitglieder,behoerden,1,1862-behoerden-026-L094
+C00773,Mieg,,J. Ludwig,Prof.; Professor,1841;1850;1862,1862,M. et Ch. D — Aerzte | M. et Ch. D — Medicinische Fakultät | Med. Dr. und Apotheker | Med. Dr. und Professor | Professor | Dr. Med. et Chir,behoerden;register,6,1862-behoerden-012-L074;1862-behoerden-017-L021;1841-einwohner-113-L046;1841-einwohner-114-L004;1850-einwohner-128-L079
+C00774,Mieg,,Joh. Jak.,,1862,1862,Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L058
+C00775,Miescher,His,Friedr.,,1862,,Professor,register,1,1862-einwohner-383-L094
+C00776,Miescher,,Friedr.,Prof.,1841;1862,1862,M. et Ch. D — Ch. D | M. et Ch. D — Medicinische Fakultät | Med. et Chirurg. Dr. und Professor,behoerden;register,3,1862-behoerden-012-L100;1862-behoerden-017-L022;1841-einwohner-165-L012
+C00777,Minder,Zäslin,J. J.,,1862,1862,Appellations-Gericht,behoerden,1,1862-behoerden-015-L017
+C00778,Minder,Zäslin,Joh. Jakob,,1862,1862,Statth — Stadtrath zu Basel | Stadtrath,behoerden;register,2,1862-behoerden-020-L061;1862-einwohner-383-L104
+C00779,Minder,,Joh. Jakob,Stadtrath; Statthalter,1862,1862,"Rechnungskammer | Präsid. J. J. Müller, Brunnenmeister. Martin Schmidtmann, Bauführer — Brunn- und Bauamt | Präsid — Revisions-Kommission | Präsid — Taxations-Kommission | Zu St. Theodor",behoerden,5,1862-behoerden-020-L081;1862-behoerden-021-L017;1862-behoerden-021-L041;1862-behoerden-021-L045;1862-behoerden-022-L006
+C00780,Minder,,S.,Rathsherr,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L011
+C00781,Minder,,Samuel,,1841;1862,1862,alter Meister — Schmieden | neuer Meister — Rebhaus | Rathsherr,behoerden;register,3,1862-behoerden-022-L040;1862-behoerden-023-L004;1841-einwohner-141-L012
+C00782,Miville,Miville,Joh. Jac.,,1862,,Pfarrer,register,1,1862-einwohner-383-L113
+C00783,Miville,,Achilles,,1841,,Stadtrath,register,1,1841-einwohner-141-L017
+C00784,Miville,,J. J.,Pfarrer,1862,1862,Kirchenrath | Pfr. zu St. Peter — Vorstand,behoerden,2,1862-behoerden-019-L058;1862-behoerden-027-L066
+C00785,Miville,,Joh. Jakob,,1862,1862,Pfarrer — Zu St. Peter,behoerden,1,1862-behoerden-019-L070
+C00786,Möglich,,Carl,,1862,1862,Großh. bad. Post- & Eisenbahnamt,behoerden,1,1862-behoerden-024-L032
+C00787,Mörgelin,,Johs.,,1862,,Tabaksfabrikant,register,1,1862-einwohner-384-L014
+C00788,Montfort,,J.,,1862,1862,"Vorsteher. „  Steinmann-Simmen. „  Matzinger-Buser, Seckelmeister. „  Straumann-Wertenberger, } Beisitzer. „  Zumbrunn-Vollmer,       } „  Rosenmund-Bohny, } Rechnungs„  Lüdin-Wagner,    } Revisoren — Vorstand",behoerden,1,1862-behoerden-029-L082
+C00789,Mosley,,Heinrich,,1862,1862,theils von angenommenen Lehrern ertheilt,behoerden,1,1862-behoerden-018-L020
+C00790,Müeller,Pack,F. F.,,1862,1862,Cassier — Commission,behoerden,1,1862-behoerden-034-L031
+C00791,Müller,Hetzel,Albrecht,,1862,,"Phil. Dr., Geolog",register,1,1862-einwohner-385-L084
+C00792,Müller,Stähelin,F.,,1862,1862,Schreiber — Künstler-Gesellschaft,behoerden,1,1862-behoerden-034-L095
+C00793,Müller,Thurneysen,Michael Heinrich,,1862,,Papierfabrikant,register,1,1862-einwohner-386-L076
+C00794,Müller,,A.,,1862,1862,Registrator u. Kanzleivorstand — Hauptbeamte,behoerden,1,1862-behoerden-024-L053
+C00795,Müller,,F.,,1862,1862,"Stud. paed., Actuar — Vorstand",behoerden,1,1862-behoerden-035-L079
+C00796,Müller,,Friedrich,,1862,1862,M. et Ch. D — X	Behörden und Beamte | Dr. Med,behoerden;register,2,1862-behoerden-013-L014;1862-einwohner-385-L037
+C00797,Müller,,His. Friedr.,Professor,1862,1862,Medicinische Gesellschaft,behoerden,1,1862-behoerden-033-L025
+C00798,Müller,,J. Georg,,1841;1862,1862,"Th. D., Dekan — Theologische Fakultät | Th. D — Kirchenrath | d. Theol. Lic. u. Professor",behoerden;register,3,1862-behoerden-017-L010;1862-behoerden-019-L056;1841-einwohner-165-L030
+C00799,Müller,,Jakob,,1862,1862,S. M. C — St. Petergemeinde,behoerden,1,1862-behoerden-019-L010
+C00800,Müller,,Joh. Georg,,1841;1862,1862,Maurermeister — Baugericht | Schreiber — Vorstand | Professor | Professor der Theologie,behoerden;register,4,1862-behoerden-016-L046;1862-behoerden-025-L083;1841-einwohner-114-L042;1862-einwohner-385-L065
+C00801,Müller,,Julius,Dr. med.,1862,,Arzt,register,1,1862-einwohner-385-L100
+C00802,Müller,,Wilhelm,,1862,1862,"Sohn — Baugericht | Sohn, Schreiber — Stadt",behoerden,2,1862-behoerden-016-L051;1862-behoerden-016-L063
+C00803,Münch,Gengenbach,Wilh.,Med. et Chir. Dr,1862,,,register,1,1862-einwohner-386-L105
+C00804,Münch,,J. Caspar,,1841,,Med. u. Chirurg. Dr. u. Stadtphysikus,register,1,1841-einwohner-141-L028
+C00805,Münch,,Melchior,,1841,,Rathsherr,register,1,1841-einwohner-141-L031
+C00806,Münch,,Wilhelm,,1862,1862,M. et Ch. D — Ch. D,behoerden,1,1862-behoerden-012-L102
+C00807,Nabholz,Stucky,Jac. Ludwig,,1862,,Wirth und Senffabrikant,register,1,1862-einwohner-387-L042
+C00808,Nabholz,,Corporal,,1862,1862,Statthalter — Vorstand,behoerden,1,1862-behoerden-026-L035
+C00809,Näff,,Wilhelm,,1862,1862,Chef des Post-Departements — Bundesrath,behoerden,1,1862-behoerden-010-L008
+C00810,Naumann,,Heinrich,,1862,1862,Apotheker,behoerden,1,1862-behoerden-013-L041
+C00811,Neber,,Philipp,,1862,1862,M. et Ch. D — Ch. D,behoerden,1,1862-behoerden-012-L099
+C00812,Neckarau,,Dekan Ledderhose,,1862,1862,Auswärtige Mitglieder,behoerden,1,1862-behoerden-026-L092
+C00813,Neukirch,,F. G.,,1850,,Buchdr,register,1,1850-einwohner-129-L083
+C00814,Nippert,Lindemann,Ludwig,,1862,1862,Wallstraße — Vorstand,behoerden,1,1862-behoerden-024-L019
+C00815,Nörbel,,Joh.,,1841,,Direktor der Strafanstalt,register,1,1841-einwohner-115-L027
+C00816,Nörbel,,Jos.,,1841,,Direktor der Strafanstalt,register,1,1841-einwohner-166-L003
+C00817,Nonus,Gemuseus,Christof,,1862,1862,Präsident — Waisen-Gericht,behoerden,1,1862-behoerden-015-L064
+C00818,Nusser,,J.,Med. Dr,1850,,,register,1,1850-einwohner-130-L008
+C00819,Ofer,,Rudolf,,1862,1862,Thierärzte | Criminal- u. korrektionelles Gericht,behoerden,2,1862-behoerden-013-L035;1862-behoerden-015-L028
+C00820,Ofer,,Thierarzt Rudolf,,1862,1862,ter Schaumeister,behoerden,1,1862-behoerden-013-L074
+C00821,Oppermann,Landerer,Carl,,1862,1862,Vorsteher — Taufpathen-Verein,behoerden,1,1862-behoerden-027-L039
+C00822,Oser,Thurneysen,Rud.,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L065
+C00823,Oser,,F. L.,,1862,1862,Statthalter,behoerden,1,1862-behoerden-034-L002
+C00824,Oser,,Carl,,1862,1862,Beeidigte Wechsel-Sensalen,behoerden,1,1862-behoerden-012-L057
+C00825,Oser,,Leonhard,,1862,1862,S. M. C — Münstergemeinde,behoerden,1,1862-behoerden-019-L005
+C00826,Oser,,Rudolf,,1850;1862,,Thierarzt,register,2,1850-einwohner-130-L029;1862-einwohner-389-L006
+C00827,Oser,,Wilh.,,1841,,Kerzenfabrikant,register,1,1841-einwohner-116-L013
+C00828,Oswald,Hindermann,Mathias,,1862,,Architekt,register,1,1862-einwohner-389-L027
+C00829,Oswald,Hoffmann,Lud.,,1841,,Seifen- u. Kerzenfabrikant,register,1,1841-einwohner-116-L020
+C00830,Oswald,,Mathias,,1841;1862,,"Architekt | Rathsherr | Alt-Rathsherr, Rentier",register,4,1841-einwohner-141-L045;1841-einwohner-141-L047;1841-einwohner-177-L006;1862-einwohner-389-L035
+C00831,Otto,,Andr. S. C.,,1841,,Rektor der obrigkeitlichen Töchterschule,register,1,1841-einwohner-116-L025
+C00832,Ott,,Carl Michael,,1862,,Clavierfabrikant,register,1,1862-einwohner-389-L041
+C00833,Parallelklasse),,David Glatz,,1862,1862,Münstergemeinde,behoerden,1,1862-behoerden-019-L008
+C00834,Paravicini,Vischer,Rudolf,,1862,,Bandfabrikant,register,1,1862-einwohner-389-L085
+C00835,Paravicini,Zäslin,Felix,,1841,,Notar,register,1,1841-einwohner-142-L009
+C00836,Paravicini,,Felix,,1841,,Notariats-Bureau,register,1,1841-einwohner-166-L022
+C00837,Paravicini,,Friedrich,,1841,,Notariats-Büreau,register,1,1841-einwohner-116-L034
+C00838,Paravicini,,N.,eidg. Oberst,1862,1862,Präsident — Der Große Rath,behoerden,1,1862-behoerden-011-L007
+C00839,Paravicini,,Rud.,Major; Oberst,1850;1862,1850;1862,Freiwillige Militärgesellschaft | Staats-Collegium:  Der Herr Amtsbürgermeister,behoerden,2,1862-behoerden-025-L054;1850-behoerden-159-L029
+C00840,Passavant u. Comp.,,Theophil,,1862,,Alt-Pfarrer,register,1,1862-einwohner-389-L101
+C00841,Passavant,Bachofen,Emanuel,,1862,,Banquier,register,1,1862-einwohner-389-L095
+C00842,Passavant,Streckeisen,Em.,,1841,,Banquier,register,1,1841-einwohner-116-L042
+C00843,Pfaff,Jenzer,Mart.,,1862,1862,Schreiber — Vorstand,behoerden,1,1862-behoerden-030-L038
+C00844,Pfannenschmid,,Rud.,,1841,,"Gerber, alt Oberstmstr",register,1,1841-einwohner-166-L027
+C00845,Pfannenschmied,,L.,,1862,1862,Fleischschauer,behoerden,1,1862-behoerden-013-L077
+C00846,Pfeifer,Elmiger,,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L043
+C00847,Philippi,Stierlin,,,1862,1862,Sekretär — Commission,behoerden,1,1862-behoerden-034-L032
+C00848,Picchioni,Troxler,Louis,,1862,,Professor d. italien. Sprache u. Literatur,register,1,1862-einwohner-390-L113
+C00849,Picchioni,,L.,,1862,1862,"Ph. D., außerord. Prof. der italien. Sprache und Litteratur — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L044
+C00850,Picchioni,,Ludwig,,1841,,Professor,register,1,1841-einwohner-117-L014
+C00851,Pichioni,,L.,,1850,,Phil. Dr,register,1,1850-einwohner-130-L086
+C00852,Pioda,,Giovanni Battista,,1862,1862,Chef des Dep. des Innern u. d. Bauwesens — Bundesrath,behoerden,1,1862-behoerden-010-L010
+C00853,Plattner,,Emanl.,,1862,1862,Statthalter — Vorstand,behoerden,1,1862-behoerden-026-L019
+C00854,Plüß,,H.,,1862,1862,"Präsident, — Vorstand",behoerden,1,1862-behoerden-025-L082
+C00855,Poussardin,,Nicolas,,1862,,Notariatsgehülfe,register,1,1862-einwohner-391-L059
+C00856,Preiswerk,Bischoff,Wilh.,,1862,1862,alter Meister — Weinleuten,behoerden,1,1862-behoerden-022-L028
+C00857,Preiswerk,Burckhardt,Ed.,,1862,1862,Civilgericht | Schreiber — Verwaltung,behoerden,2,1862-behoerden-016-L029;1862-behoerden-030-L009
+C00858,Preiswerk,Faber,Sam.,,1862,,Antistes,register,1,1862-einwohner-391-L079
+C00859,Preiswerk,Linder,Em.,,1862,,Pfarrer,register,1,1862-einwohner-391-L091
+C00860,Preiswerk,Stähelin,Samuel,Pfr,1862,,,register,1,1862-einwohner-391-L098
+C00861,Preiswerk,,Alexander,,1862,,Pfarrer,register,1,1862-einwohner-391-L067
+C00862,Preiswerk,,Dietrich Comp.,,1862,,Bandfabrikanten,register,1,1862-einwohner-391-L075
+C00863,Preiswerk,,Eml.,Pfr.,1862,1862,Hausvater — Commission für das theol. Pensionat,behoerden,1,1862-behoerden-027-L090
+C00864,Preiswerk,,Lucas,,1841,,Bandfabrikant,register,1,1841-einwohner-117-L023
+C00865,Preiswerk,,Samuel,Antistes,1841;1850;1862,1862,"Th. D., Präsident — Kirchenrath | Th. D., Pfarrer und Antistes — Im Münster | Sohn, Pfarrer bei St. Alban, dritter Helfer — Im Münster | Gemeinhelfer | Pfarrer",behoerden;register,5,1862-behoerden-019-L050;1862-behoerden-019-L064;1862-behoerden-019-L067;1841-einwohner-117-L029;1850-einwohner-131-L016
+C00866,Pümpin,,Sam.,,1850,,Major,register,1,1850-einwohner-131-L028
+C00867,Putnam,,Carl,,1862,,Zahnarzt,register,1,1862-einwohner-392-L009
+C00868,Putnam,,S.,,1862,1862,Zahnärzte,behoerden,1,1862-behoerden-013-L032
+C00869,Quinche,Beaujon,Heinrich,,1862,,franz. Pfarrer,register,1,1862-einwohner-392-L010
+C00870,Quinche,,Henri,,1862,1862,Französische Prediger,behoerden,1,1862-behoerden-020-L017
+C00871,Raillard,Fürstenberger,C.,,1862,,Dr. Med,register,1,1862-einwohner-392-L035
+C00872,Raillard,Stähelin,August,,1862,1862,Baugericht,behoerden,1,1862-behoerden-016-L050
+C00873,Raillard,Stähelin,Rudolf,,1862,1862,Stempelcommissär,behoerden,1,1862-behoerden-011-L053
+C00874,Raillard,,Aug.,Hauptm.,1862,1862,„ — Kriegsgericht,behoerden,1,1862-behoerden-016-L006
+C00875,Raillard,,Emanuel,Med. Dr,1841;1850;1862,1862,M. D — Aerzte,behoerden;register,3,1862-behoerden-012-L077;1841-einwohner-117-L044;1850-einwohner-131-L035
+C00876,Rapp,Wick,,,1862,1862,Cassier für die Einnahmen — Kranken - Kommission,behoerden,1,1862-behoerden-028-L028
+C00877,Rauch,,Georg,,1862,1862,Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L055
+C00878,Reber,Burckhardt,,,1841,,Bandfabrikant,register,1,1841-einwohner-118-L006
+C00879,Reber,Sulger,Balthasar,,1862,,Professor,register,1,1862-einwohner-392-L090
+C00880,Reber,,B.,,1862,1862,"Ph. D., außerordentlicher Professor der Geschichte — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L045
+C00881,Reber,,Balth.,,1862,1862,Ph. D — theils von angenommenen Lehrern ertheilt,behoerden,1,1862-behoerden-018-L018
+C00882,Reber,,Paul,,1862,,Ingenieur,register,1,1862-einwohner-392-L087
+C00883,Rech,,Theobald,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L048
+C00884,Reiß,,Albert,,1862,1862,Ingenieur-Assistent „ Tobias Wolff,behoerden,1,1862-behoerden-024-L035
+C00885,Reiter,,Ernst,,1862,1862,Musikdirektor — Pensionsanstalt des Orchestervereins,behoerden,1,1862-behoerden-031-L017
+C00886,Renz,,C.,,1862,1862,Freiwillige bürgerliche Alters-Casse,behoerden,1,1862-behoerden-031-L009
+C00887,Respinger,Gemuseus,Benedict,,1862,1862,Appellations-Gericht,behoerden,1,1862-behoerden-015-L013
+C00888,Respinger,Schnell,J. Rud.,,1862,,Pfarrer,register,1,1862-einwohner-393-L053
+C00889,Respinger,,C.,,1862,1862,,behoerden,1,1862-behoerden-034-L009
+C00890,Respinger,,J. R.,,1862,1862,"Helfer — Zu St. Leonhard | Pfarrer zu St. Leonhard, Schreiber — Vorstand",behoerden,2,1862-behoerden-020-L004;1862-behoerden-027-L067
+C00891,Respinger,,Carl,,1862,,Direktor der Centralbahn,register,1,1862-einwohner-393-L042
+C00892,Ribbeck,Bayer,Otto,,1862,,Dr. u. Prof. an d. Universität,register,1,1862-einwohner-393-L070
+C00893,Ribbeck,,Otto,,1862,1862,"Ph. D., Professor der griechisch. Sprache u. Litter., Dekan — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L042
+C00894,Richter = Linder,,J. J.,,1841,,Seidenbandfabrikant,register,1,1841-einwohner-196-L024
+C00895,Richter,Dölly,,,1862,1862,Seckelmeister — Vorstand,behoerden,1,1862-behoerden-026-L010
+C00896,Richter,Linder,J. J.,,1862,1862,Waisen-Gericht | Bandfabrikant,behoerden;register,2,1862-behoerden-015-L070;1862-einwohner-393-L074
+C00897,Rieder,Frey,Samuel,,1862,1862,Alte Beisitzer,behoerden,1,1862-behoerden-030-L013
+C00898,Riedtmann,,W.,,1862,1862,lungen gewürzten und veredelten Geselligkeit,behoerden,1,1862-behoerden-035-L051
+C00899,Riehen,,Decan Stähelin,,1862,1862,Unterstützung älterer Taubstummen,behoerden,1,1862-behoerden-029-L043
+C00900,Riggenbach,Sulzer,Christof,,1862,,Architekt,register,1,1862-einwohner-394-L050
+C00901,Riggenbach,,Alfons,,1862,1862,Beisitzer — Vorstand,behoerden,1,1862-behoerden-032-L082
+C00902,Riggenbach,,August,,1862,1862,Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L054
+C00903,Riggenbach,,Christoph,,1841;1862,1862,"Architekt, Präsident — Baugericht | Architekt",behoerden;register,2,1862-behoerden-016-L044;1841-einwohner-118-L031
+C00904,Riggenbach,,Holzach,,1862,,"Joh., Professor",register,1,1862-einwohner-394-L036
+C00905,Riggenbach,,J.,Prof.,1862,1862,Professor d. Theologie — Vorstand | Alumneum | Professor — Vorstand | Banquier,behoerden;register,4,1862-behoerden-026-L070;1862-behoerden-027-L050;1862-behoerden-027-L064;1862-einwohner-394-L039
+C00906,Riggenbach,,Joh.,Prof.,1862,1862,Th. D — Theologische Fakultät | Lehrer an — Rektor: Hr | Th. D — Kirchenrath,behoerden,3,1862-behoerden-017-L011;1862-behoerden-018-L088;1862-behoerden-019-L057
+C00907,Rilliet,,E.,,1862,1862,Sekretär und Uebersetzer — Hauptbeamte,behoerden,1,1862-behoerden-024-L052
+C00908,Rinck,,Wilhelm,,1862,1862,Apotheker,behoerden,1,1862-behoerden-013-L043
+C00909,Rittmann,Wohnlich,Peter,,1862,,Zahnarzt,register,1,1862-einwohner-394-L087
+C00910,Rittmann,,David,,1862,1862,Zahnärzte,behoerden,1,1862-behoerden-013-L026
+C00911,Rohr,Schmidt,,,1862,1862,Cassier für die Ausgaben — Kranken - Kommission,behoerden,1,1862-behoerden-028-L029
+C00912,Rohr,Schmid,J.,,1862,1862,Suppleanten,behoerden,1,1862-behoerden-015-L089
+C00913,Ronus,Gemuseus,,,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L014
+C00914,Ronus,Gemuseus,Christof,,1850;1862,1850;1862,alter Mstr — Spinnwettern | Vorstand | Staats-Collegium:  Der Herr Amtsbürgermeister,behoerden,3,1862-behoerden-022-L055;1862-behoerden-032-L048;1850-behoerden-159-L027
+C00915,Ronus,VonSpeyr,Christoph,,1862,1862,Civilgericht,behoerden,1,1862-behoerden-016-L025
+C00916,Roschet,,Joh. Andreas,Med. Dr,1841,,,register,1,1841-einwohner-167-L028
+C00917,Rosenburger,,Arnold,Dr.,1862,1862,M. et Ch. D — X	Behörden und Beamte | Schreiber — Kranken - Kommission | Dr. Med,behoerden;register,3,1862-behoerden-013-L018;1862-behoerden-028-L026;1862-einwohner-395-L066
+C00918,Rosenfeld,,Dorothea,,1862,1862,Lehrerin in weibl. Arbeiten — St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L040
+C00919,Rothplez,Rychner,August,,1862,,"Ingenieur, Adjunkt d. Centralbahn",register,1,1862-einwohner-396-L007
+C00920,Roth,,A.,,1862,1862,Hausvater der Anstalt — Frauen-Comité,behoerden,1,1862-behoerden-029-L004
+C00921,Roth,,Karl Ludwig,Dr.,1841;1862,1862,Helfer — Zu St. Leonhard | Privatlehrer,behoerden;register,2,1862-behoerden-020-L005;1841-einwohner-185-L042
+C00922,Rütimeyer,,Ludw.,Prof.,1862,1862,M. et Ch. D — X	Behörden und Beamte | M. et Ch. D — Medicinische Fakultät | M. et Ch. D — theils von angenommenen Lehrern ertheilt,behoerden,3,1862-behoerden-013-L006;1862-behoerden-017-L023;1862-behoerden-018-L017
+C00923,Rüttimeyer,Fankhauser,Carl Ludw.,,1862,,Prof. d. Medizin,register,1,1862-einwohner-396-L107
+C00924,Rumpf,Bachofen,Hieron.,,1862,1862,Lokal: St. Johann,behoerden,1,1862-behoerden-024-L066
+C00925,Rumpf,Jmhoff,Wilhelm,,1862,,Rektor des Realgymnasiums,register,1,1862-einwohner-396-L122
+C00926,Rumpf,Schellenberg,Carl Christian,,1862,,Fabrikant von seidenen Unterkleidern,register,1,1862-einwohner-397-L008
+C00927,Rumpf,,B.,,1862,1862,„ — Suppleanten | Meister zum goldenen Stern — Spinnwettern,behoerden,2,1862-behoerden-016-L039;1862-behoerden-022-L057
+C00928,Rumpf,,Bernhard,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L003
+C00929,Rumpf,,Daniel,,1841;1850;1862,1862,Wundärzte | Amtmann — Ehe-Gericht | Wundarzt,behoerden;register,4,1862-behoerden-013-L022;1862-behoerden-015-L060;1841-einwohner-119-L040;1850-einwohner-132-L068
+C00930,Rumpf,,Joh. Bernh.,Med. et Chir. Dr,1862,,,register,1,1862-einwohner-397-L004
+C00931,Rumpf,,Walther,,1862,1862,Präsident — eine Gesangübung,behoerden,1,1862-behoerden-035-L073
+C00932,Rumpf,,Wilh.,,1862,1862,S. M. C — Vikar,behoerden,1,1862-behoerden-018-L045
+C00933,Rychner,Bemmler,Carl,,1862,,Architekt,register,1,1862-einwohner-397-L031
+C00934,Ryhiner,Bischoff,Carl,,1862,1862,Baugericht,behoerden,1,1862-behoerden-016-L049
+C00935,Ryhiner,Menger,Ed.,,1862,,Stadtrath,register,1,1862-einwohner-397-L049
+C00936,Ryhiner,,E.,Stadtrath,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L006
+C00937,Ryhiner,,Emanuel,Stadtrath,1862,1862,Stadtrath zu Basel | Präsident — Bürgerkommission | Präsident — Einquartierungs-Kommission,behoerden,3,1862-behoerden-020-L064;1862-behoerden-021-L026;1862-behoerden-021-L043
+C00938,Ryhiner,,Karl,,1850,,Bandfabrikant,register,1,1850-einwohner-132-L081
+C00939,Ryhiner,,Samuel,,1841,,Appellationsgerichts-Präsident,register,1,1841-einwohner-120-L006
+C00940,Salathé,Boßardt,J.,,1862,1862,Cassier — Handlungsdiener,behoerden,1,1862-behoerden-030-L050
+C00941,Salis,Weitnauer,J. J.,,1862,,Direktor d. Strafanstalten,register,1,1862-einwohner-398-L011
+C00942,Salis,,J.,,1862,1862,Direktor d. Strafanstalten,behoerden,1,1862-behoerden-014-L055
+C00943,Sandoz,Luya,Carl,,1862,1862,Aelteste der französischen Kirche,behoerden,1,1862-behoerden-022-L014
+C00944,Sarasin,Burckhardt,Felix,,1841,,Rathsherr,register,1,1841-einwohner-168-L011
+C00945,Sarasin,Forcart,Adolf,,1862,,Pfarrer,register,1,1862-einwohner-398-L049
+C00946,Sarasin,Sauvain,Karl,,1862,1862,A. Der Kleine Rath | Bandfabrikant u. Rathsherr,behoerden;register,2,1862-behoerden-011-L021;1862-einwohner-398-L056
+C00947,Sarasin,Stehlin,Rudolf,,1862,,Bandfabrikant,register,1,1862-einwohner-398-L058
+C00948,Sarasin,,A.,,1862,1862,Pfarrer — Vorstand,behoerden,1,1862-behoerden-026-L071
+C00949,Sarasin,,Ad.,,1850,,Pfarrer,register,1,1850-einwohner-133-L028
+C00950,Sarasin,,Adolf,Pfarrer,1841;1862,1862,Erziehung in den Heidenländern | Vorstand | Präsident — Alumneum | Pfarrer,behoerden;register,4,1862-behoerden-027-L022;1862-behoerden-027-L031;1862-behoerden-027-L045;1841-einwohner-120-L036
+C00951,Sarasin,,Hans Franz,,1862,,"Bandfabrikanten, Comptoir",register,1,1862-einwohner-398-L050
+C00952,Sarasin,,Carl,Rathsherr,1862,1862,Präsident — VII. Baucollegium,behoerden,1,1862-behoerden-012-L031
+C00953,Sarasın,,Carl,Rathsherr,1862,1862,Präsident — schinen,behoerden,1,1862-behoerden-014-L063
+C00954,Sartorius,Burckhardt,Achilles Wilh. Carl,,1862,,Pfarrer,register,1,1862-einwohner-398-L061
+C00955,Sartorius,,Carl,,1862,1862,"Pfarrer bei St. Elisabeth, vierter Helfer — Im Münster",behoerden,1,1862-behoerden-019-L068
+C00956,Sassi,Börlin,Daniel,,1862,,Notariatsgehülfe und Schreiblehrer,register,1,1862-einwohner-398-L068
+C00957,Sautter,Keck,Michael,,1862,1862,Alte Beisitzer,behoerden,1,1862-behoerden-030-L012
+C00958,Schabelitz,,F. C.,,1862,1862,Commission,behoerden,1,1862-behoerden-034-L034
+C00959,Schäfer,Euler,Aug.,,1862,1862,Präsident — Stadt,behoerden,1,1862-behoerden-016-L072
+C00960,Schäle,,Leonhord,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L053
+C00961,Schäublin,,August,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L052
+C00962,Schäublin,,J. J.,,1862,1862,Statthalter — Vorstand | Director — Vorstand,behoerden,2,1862-behoerden-024-L075;1862-behoerden-027-L069
+C00963,Schäublin,,Joh. Jakob,,1862,1862,Hülfslehrer,behoerden,1,1862-behoerden-018-L053
+C00964,Schaffner,,Friedrich,,1862,1862,St. Theodorgemeinde | alter Meister — Hären,behoerden,2,1862-behoerden-019-L018;1862-behoerden-023-L008
+C00965,Schaffner,,Martin,,1862,1862,Helfer — Zu St. Theodor,behoerden,1,1862-behoerden-020-L008
+C00966,Schaffner,,Sam.,,1862,1862,Polizeisekretär und Chef d. Paßabtheilung — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L079
+C00967,Schaub,Fischer,Christoph,,1841,,alt Bezirksschreiber und Notar,register,1,1841-einwohner-121-L039
+C00968,Schaub,Kissel,Andreas,J.U.D.,1862,,Notar,register,1,1862-einwohner-400-L053
+C00969,Schaub,Kuhn,Jak.,,1862,,Strohhutfabrikant und Wäscherei,register,1,1862-einwohner-400-L057
+C00970,Schaub,,A.,Dr.,1862,1862,Advokaten-Verein,behoerden,1,1862-behoerden-033-L030
+C00971,Schaub,,Andreas,Notar,1850;1862,1862,J. U. D — nicht praktizirenden | J. U. D — Dienstbotenrichter | Notar,behoerden;register,3,1862-behoerden-014-L037;1862-behoerden-016-L014;1850-einwohner-134-L013
+C00972,Schaub,,Georg Heinr.,,1862,,Möbelfabrikant,register,1,1862-einwohner-400-L032
+C00973,Schaub,,J. A.,,1862,1862,"Ch. D. et M. L., in Riehen — X	Behörden und Beamte",behoerden,1,1862-behoerden-013-L019
+C00974,Schaub,,Jacob,,1862,1862,Vorsteher — Vorstand,behoerden,1,1862-behoerden-031-L039
+C00975,Schaub,,Lieut. Andr.,,1862,1862,"J. U. D., Gerichtsschreiber — Kriegsgericht",behoerden,1,1862-behoerden-016-L012
+C00976,Scheel,,Ignaz,,1862,1862,Lehrer — Katholische Schule,behoerden,1,1862-behoerden-023-L060
+C00977,Schenkel,,Dl.,Prof,1850,,,register,1,1850-einwohner-134-L024
+C00978,Schenkel,,Sergeant J.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-026-L040
+C00979,Scherb,Jauslin,Gg.,,1862,,Dr. Med. et Chir,register,1,1862-einwohner-401-L041
+C00980,Scherb,,Emanuel,,1841;1850,,Wundarzt,register,2,1841-einwohner-122-L005;1850-einwohner-134-L027
+C00981,Scherb,,F.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-026-L038
+C00982,Scherb,,G.,,1850,,Med. & Chir. Dr,register,1,1850-einwohner-134-L030
+C00983,Scherb,,Georg,,1862,1862,M. et Ch. D — Ch. D,behoerden,1,1862-behoerden-012-L095
+C00984,Schieß,Gemuseus,Heinr.,,1862,,"Dr. Med., Zahnarzt",register,1,1862-einwohner-401-L086
+C00985,Schieß,,H.,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L017
+C00986,Schieß,,Ulrich,,1862,1862,"Kanzler, Sekretär d. Nationalraths — Bundeskanzlei",behoerden,1,1862-behoerden-010-L013
+C00987,Schilling,,Joh. Rud.,,1862,1862,Bankkassier — Vorsteherschaft,behoerden,1,1862-behoerden-036-L015
+C00988,Schimpf,Nei,Carl Ferd.,,1862,,Dr. Zolldirector,register,1,1862-einwohner-402-L003
+C00989,Schimpf,,Carl Ferdinand,Dr.,1862,1862,Director — I. Zollgebiet Basel,behoerden,1,1862-behoerden-010-L034
+C00990,Schlienz,,Caplan,,1862,1862,Lehrer — Comité,behoerden,1,1862-behoerden-026-L088
+C00991,Schlöth,Georg,Friedr. Ludw.,,1862,,Schlosser und Ofenfabrikant,register,1,1862-einwohner-402-L029
+C00992,Schmidlin,Fischer,Wilh.,,1862,,Direktor d. Centralbahn,register,1,1862-einwohner-402-L093
+C00993,Schmidlin,Müller,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L040
+C00994,Schmidlin,,W.,Direktor,1862,1862,Beisitzer — XXII Gesellsch. d. Guten u. Gemein. Vaterländ. u. polit. Vereine,behoerden,1,1862-behoerden-025-L002
+C00995,Schmidt,Fäsch,,Rathsherr; Rathshr.,1862,1862,(Dermalen Centralcomité d. schweiz. GewerbeVereins.) | Direction,behoerden,2,1862-behoerden-033-L045;1862-behoerden-036-L032
+C00996,Schmidt,Fäsch,J. Christof,,1862,1862,A. Der Kleine Rath,behoerden,1,1862-behoerden-011-L020
+C00997,Schmidt,Montandon,Georg Michael,,1862,,Ingenieur u. Lehrer der Zeichnungsschule,register,1,1862-einwohner-403-L047
+C00998,Schmidt,,A.,,1850,,Oberst-Rathsdiener,register,1,1850-einwohner-134-L073
+C00999,Schmidt,,Abraham,,1841,,Oberst-Rathsdiener,register,1,1841-einwohner-123-L009
+C01000,Schmidt,,G. Mich.,,1850,,Ingenieur | Buchdr.-Faktor,register,2,1850-einwohner-134-L054;1850-einwohner-134-L069
+C01001,Schmidt,,J. Chr.,Rathsherr,1862,1862,Prä- — IX. Handwerkscollegium | alter Meister — Brodbecken,behoerden,2,1862-behoerden-012-L060;1862-behoerden-022-L037
+C01002,Schmidt,,Joh.,,1862,1862,„ — Commission,behoerden,1,1862-behoerden-034-L063
+C01003,Schmidt,,Carl,,1862,1862,St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L036
+C01004,Schmidt,,Rudolf,,1850,,Notarius,register,1,1850-einwohner-134-L062
+C01005,Schmidt,,Susanna,,1862,1862,„ — Rektor: Hr,behoerden,1,1862-behoerden-018-L097
+C01006,Schmid,Bloch,Rud.,,1862,,Notar,register,1,1862-einwohner-402-L066
+C01007,Schmid,Haas,Rudolf,,1862,1862,Die Feuerschützen,behoerden,1,1862-behoerden-023-L027
+C01008,Schmid,,Adolf,J. U. D.,1862,1862,J. U. D — nicht praktizirenden | Notar u. Advokat,behoerden;register,2,1862-behoerden-014-L049;1862-einwohner-402-L061
+C01009,Schmid,,Georg Michael,,1841,,Ingenieur,register,1,1841-einwohner-122-L038
+C01010,Schmid,,J. R.,,1841,,Seifen- und Kerzenfabrikant,register,1,1841-einwohner-122-L037
+C01011,Schmid,,Rudolf,,1841;1862,1862,"J. U. D — nicht praktizirenden | Sekretär — „ | J. U. D — Appellations-Gericht | J. U. D., neuer Mstr — Leinwetter und Weber | J. U. Dr. und Notar",behoerden;register,6,1862-behoerden-014-L032;1862-behoerden-014-L072;1862-behoerden-015-L016;1862-behoerden-022-L060;1841-einwohner-168-L029
+C01012,Schmid,,Xaver,,1862,1862,Wundärzte,behoerden,1,1862-behoerden-013-L024
+C01013,Schneider,Beck,Julius,J. U. D.,1862,,Appellationsgerichtsschreiber,register,1,1862-einwohner-403-L113
+C01014,Schneider,Grisanti,Rud.,,1862,1862,[klammer rechts über 5 Zeilen: Schützenmeister.] — Die Feuerschützen,behoerden,1,1862-behoerden-023-L025
+C01015,Schneider,Meyer,Daniel,,1862,,"Major, Oberinstructor",register,1,1862-einwohner-404-L046
+C01016,Schneider,,Emanuel,,1841,,Dr. Juris,register,1,1841-einwohner-123-L020
+C01017,Schneider,,Erhardt,,1862,1862,Vater — St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L037
+C01018,Schneider,,Joh.,,1862,1862,Sohn — Münstergemeinde,behoerden,1,1862-behoerden-019-L024
+C01019,Schneider,,Jul.,,1862,1862,J. U. D. Gerichtsschreiber — Appellations-Gericht,behoerden,1,1862-behoerden-015-L018
+C01020,Schneider,,Theod.,Med. Dr,1850,,,register,1,1850-einwohner-135-L007
+C01021,Schnell,Riggenbach,Joh.,,1841;1862,,"Professor | Civilgerichtspräsident, J. U. D. u. Prof",register,2,1841-einwohner-123-L045;1862-einwohner-404-L111
+C01022,Schnell,,F.,,1850;1862,1850;1862,Professor der Rechte — Vorstand | J. U. D — Kleiner Stadtrath:  „   „,behoerden,2,1862-behoerden-026-L072;1850-behoerden-158-L019
+C01023,Schnell,,Joh.,Prof.,1862,1862,"J. U. D. Statthalter — Waisen-Gericht | J. U. D., Präsident — Civilgericht | J. U. D — Juridische Fakultät",behoerden,3,1862-behoerden-015-L065;1862-behoerden-016-L018;1862-behoerden-017-L015
+C01024,Schöck,,Jak. Chr.,,1841,,Bandfabrikant,register,1,1841-einwohner-124-L004
+C01025,Schölli,Bruckner,Jak. Christ.,,1841,,alt Stadtrath,register,1,1841-einwohner-124-L012
+C01026,Schölly,,Franz,,1862,1862,St. Petergemeinde,behoerden,1,1862-behoerden-019-L030
+C01027,Schönauer,Gutmann,Heinr.,J.U.D,1862,,,register,1,1862-einwohner-405-L017
+C01028,Schönauer,,Heinr.,,1862,1862,J. U. D. Gerichtsschreiber. (prov.) — Untersuchungsrichter,behoerden,1,1862-behoerden-015-L045
+C01029,Schönbein,Benz,Friedr.,,1862,,Professor,register,1,1862-einwohner-405-L020
+C01030,Schönbein,,Christ. Friedr.,,1841,,Dr. der Philosophie und Prof. der Chemie,register,1,1841-einwohner-197-L008
+C01031,Schönbein,,F. C.,Prof; Prof.; Professor,1850;1862,1862,"Ph. D., Prof. der Physik und Chemie — Philosophische Fakultät | gestifteten Societas physica medica | Museums-Verein",behoerden;register,4,1862-behoerden-017-L034;1862-behoerden-032-L038;1862-behoerden-033-L009;1850-einwohner-135-L052
+C01032,- -Schrickel,,Ed.,,1862,,Rathsherr u. Rentier,register,1,1862-einwohner-333-L008
+C01033,Schütz,,J. J.,,1862,1862,Aufsichts-Commission,behoerden,1,1862-behoerden-033-L050
+C01034,Schuler,,Rud.,,1862,1862,u. Holzmarkt,behoerden,1,1862-behoerden-013-L089
+C01035,Schultheß,Schmidt,Dieth.,,1862,,Notarius,register,1,1862-einwohner-406-L007
+C01036,Schultheß,,Diethelm,,1862,1862,nicht praktizirenden,behoerden,1,1862-behoerden-014-L051
+C01037,Schultheß,,Fourier E.,,1862,1862,Secretär — Vorstand,behoerden,1,1862-behoerden-026-L036
+C01038,Schuster,,G.,,1862,1862,Stadtgärtner — Baubeamte,behoerden,1,1862-behoerden-012-L041
+C01039,Schwab,Preiswerk,,Med. Dr,1850,,,register,1,1850-einwohner-135-L076
+C01040,Schwab,Preiswerk,Johs.,Dr. med,1862,,,register,1,1862-einwohner-406-L032
+C01041,Schwab,,Joh.,Med. Dr,1841;1862,1862,M. D — Aerzte,behoerden;register,2,1862-behoerden-012-L076;1841-einwohner-169-L013
+C01042,Schwarzkopf = Ambrosius,,Archimedes,,1862,,Dr. Phil. und Docent an der Universität,register,1,1862-einwohner-406-L075
+C01043,Schwarzkopf,,S. A.,Dr.,1862,1862,Lebensversicherungs-Gesellschaft in London,behoerden,1,1862-behoerden-038-L004
+C01044,Schweizer,,Ludwig,,1862,1862,Zu St. Theodor,behoerden,1,1862-behoerden-022-L010
+C01045,Schwob,,J. J.,,1862,1862,Amtmann — Suppleanten,behoerden,1,1862-behoerden-016-L038
+C01046,Schwob,,Joh.,Med. Dr,1841,,,register,1,1841-einwohner-124-L038
+C01047,Seiler,,Friedrich,,1862,1862,Zu Kleinhüningen,behoerden,1,1862-behoerden-020-L014
+C01048,Senn,Gysin,,,1862,,"Major und Kriegskommissär, Unternehmer des Packträger-Instituts",register,1,1862-einwohner-407-L072
+C01049,Senn,,Daniel,,1862,1862,Concessionirtes Packträger-Institut,behoerden,1,1862-behoerden-024-L069
+C01050,Sessele,,A.,,1862,1862,Protokollführer u. Vorstand des Reklamationsbureau — Hauptbeamte,behoerden,1,1862-behoerden-024-L051
+C01051,Sester,,W.,,1862,1862,Zahnärzte,behoerden,1,1862-behoerden-013-L027
+C01052,Sester,,Wilhelm,,1862,,Zahnarzt,register,1,1862-einwohner-407-L099
+C01053,Sexter,,W.,,1850,,Zahnarzt,register,1,1850-einwohner-136-L026
+C01054,Siber,Bischoff,,,1841,,Seidenfabrikant,register,1,1841-einwohner-125-L013
+C01055,Siber,Lotz,Kaspar,,1862,1862,Zu St. Theodor,behoerden,1,1862-behoerden-022-L008
+C01056,Sieber,,Ludwig,,1862,1862,lehrer,behoerden,1,1862-behoerden-018-L057
+C01057,Siegmund,Bloch,Benjamin,,1862,,"Med. u. Chir. Dr., Badanstalt, maison de santé. Medizinische Bäder, russische, aromatische und Schwefeldampfbäder, Douche- und Sitzbäder",register,1,1862-einwohner-408-L031
+C01058,Siegmund,,Benjamin,,1862,1862,M. D — Aerzte,behoerden,1,1862-behoerden-012-L082
+C01059,Siegmund,,E.,,1862,1862,Sohn — Zahnärzte,behoerden,1,1862-behoerden-013-L028
+C01060,Siegmund,,Carl,Dr. med.,1862,,Zahnarzt,register,1,1862-einwohner-408-L036
+C01061,Siegrist,Oehninger,Albert,,1862,,Dr. Med,register,1,1862-einwohner-408-L077
+C01062,Siegrist,,Albert,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L016
+C01063,Siegrist,,Fender,,1862,,Banquiers,register,1,1862-einwohner-408-L057
+C01064,Siegrist,,Franz Jos.,,1841,,Dr. Med,register,1,1841-einwohner-143-L042
+C01065,Sievers,,Carl August,,1862,1862,Zahnärzte | Zahnarzt,behoerden;register,2,1862-behoerden-013-L030;1862-einwohner-408-L088
+C01066,Sigmund,,Benjam.,Med. Dr.,1841,,Badanstalt,register,1,1841-einwohner-125-L023
+C01067,Simmler,,Adolf,,1862,1862,Aktuar — gesangs,behoerden,1,1862-behoerden-034-L090
+C01068,Socin,Heusler,Bernhard,,1841,,Rathsherr,register,1,1841-einwohner-144-L004
+C01069,Socin,Werthemann,,,1862,1862,Cassier — Vorstand,behoerden,1,1862-behoerden-027-L030
+C01070,Socin,,August,,1862,1862,"M. et Ch. D — X	Behörden und Beamte | M. et Ch. D., außerord. Prof — Medicinische Fakultät | Dr. Med., Arzt",behoerden;register,3,1862-behoerden-013-L013;1862-behoerden-017-L028;1862-einwohner-409-L012
+C01071,Socin,,B.,Rathsherr,1850,1850,Kleiner Stadtrath:  „   „ | Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,2,1850-behoerden-158-L025;1850-behoerden-159-L017
+C01072,Soistmann,,Ernst F.,,1862,1862,Cantoren,behoerden,1,1862-behoerden-020-L044
+C01073,Spittler,,C. F.,,1862,1862,Vorsteher — Comité | Comité,behoerden,2,1862-behoerden-026-L085;1862-behoerden-028-L083
+C01074,Spittler,,Markus,,1862,,"Friedr., Candidat d. Theologie",register,1,1862-einwohner-410-L045
+C01075,Sprenger,,Jakob,,1862,1862,Präsident — Commission,behoerden,1,1862-behoerden-034-L030
+C01076,Sprüngli,Schmidlin,David,,1841,,Architekt,register,1,1841-einwohner-170-L007
+C01077,Stähelin,Bischoff,Benedikt,,1862,1862,Gemeindsbehörden. — Die E. Zünfte. XIX | Bandfabrikant,behoerden;register,2,1862-behoerden-022-L004;1862-einwohner-410-L097
+C01078,Stähelin,Brunner,Aug.,,1862,1862,Ständerath — Basel-Stadt | Fabrikant,behoerden;register,2,1862-behoerden-010-L020;1862-einwohner-410-L099
+C01079,Stähelin,Bucknor,Carl,,1862,1862,Criminal- u. korrektionelles Gericht,behoerden,1,1862-behoerden-015-L033
+C01080,Stähelin,Bührlen,Christof,,1862,,Professor,register,1,1862-einwohner-410-L102
+C01081,Stähelin,Hagenbach,Ernst,Pfr,1862,,,register,1,1862-einwohner-410-L111
+C01082,Stähelin,Linder,B.,,1862,1862,Schreiber — Comité,behoerden,1,1862-behoerden-028-L086
+C01083,Stähelin,Linder,Benedikt,,1862,1862,Civilgericht | Bandfabrikant,behoerden;register,2,1862-behoerden-016-L024;1862-einwohner-410-L112
+C01084,Stähelin,Stähelin,J. R.,,1862,1862,Neue Beisitzer,behoerden,1,1862-behoerden-030-L018
+C01085,Stähelin,Stückelberger,Peter,,1841;1862,,alt Pfarrer in Frenkendorf | Pfarrer,register,2,1841-einwohner-126-L034;1862-einwohner-410-L119
+C01086,Stähelin,Zimmerlin,Joh. Jak.,,1862,,Dr. Theol. u. Professor,register,1,1862-einwohner-410-L121
+C01087,Stähelin,,A.,,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L029
+C01088,Stähelin,,Alfred,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L008
+C01089,Stähelin,,August Raillard,,1862,1862,Präsident — und der Gewerbeschule | Statthalter — Stadt,behoerden,2,1862-behoerden-011-L066;1862-behoerden-016-L073
+C01090,Stähelin,,Benedikt,,1841,,Bandfabrikant,register,1,1841-einwohner-126-L023
+C01091,Stähelin,,Christoph,,1862,1862,"Ph. D., Professor der Physik — Philosophische Fakultät | Zu Riehen | Bandfabrikant",behoerden;register,3,1862-behoerden-017-L038;1862-behoerden-020-L012;1862-einwohner-410-L106
+C01092,Stähelin,,E.,Pfarrer,1862,1862,Vorstand,behoerden,1,1862-behoerden-027-L033
+C01093,Stähelin,,Emil,,1841;1862,1862,"M. et Ch. D — Ch. D | Dr. der Med., Chir. und Geburtshülfe",behoerden;register,2,1862-behoerden-012-L093;1841-einwohner-170-L008
+C01094,Stähelin,,Ernst,,1862,1862,"Th. Lic., Helfer — Zu St. Theodor",behoerden,1,1862-behoerden-020-L010
+C01095,Stähelin,,J. J.,,1841;1862,1862,Th. D — Theologische Fakultät | Th. D — Kirchenrath | Professor,behoerden;register,3,1862-behoerden-017-L009;1862-behoerden-019-L055;1841-einwohner-126-L025
+C01096,Stähelin,,P.,,1862,1862,Pfarrer — Vorstand,behoerden,1,1862-behoerden-026-L073
+C01097,Stähelin,,Peter,Pfarrer,1862,1862,Ehe-Gericht | Vorsteher — Kranken - Kommission | Pensions-Casse lediger Bürgerinnen,behoerden,3,1862-behoerden-015-L052;1862-behoerden-028-L024;1862-behoerden-031-L005
+C01098,Stähelin,,Sam.,,1850,,Bandfabrikant,register,1,1850-einwohner-137-L021
+C01099,Stämpfli,,Jakob,,1862,1862,"Präsident, Chef des politischen Departements — Bundesrath",behoerden,1,1862-behoerden-010-L005
+C01100,Stänz,Simmen,Johann Rudolf,,1862,,Ingenieur,register,1,1862-einwohner-411-L006
+C01101,Stahmann,,Carl,,1862,1862,} — Verwaltung,behoerden,1,1862-behoerden-030-L072
+C01102,Steffensen,Burckhardt,Carl,,1862,,Dr. Phil. und Professor,register,1,1862-einwohner-411-L058
+C01103,Steffensen,,K.,,1862,1862,"Ph. D., Professor der Philosophie — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L040
+C01104,Stehelin,Koch,Jerome,,1862,1862,Aelteste der französischen Kirche,behoerden,1,1862-behoerden-022-L018
+C01105,Stehelin,Merian,Georg Emil,,1862,,Dr. Med,register,1,1862-einwohner-411-L070
+C01106,Stehelin,,Emil,Med. Dr,1850,,,register,1,1850-einwohner-137-L040
+C01107,Stehlin,Burckhardt,,,1862,1862,Statthalter — Commission,behoerden,1,1862-behoerden-034-L079
+C01108,Stehlin,Hagenbach,Joh. Jak.,,1862,,Bürgermeister u. Nationalrath,register,1,1862-einwohner-411-L082
+C01109,Stehlin,Merian,Karl,,1862,,Notar u. Advokat. Kaufhausgasse 5. Bureau Merian,register,1,1862-einwohner-411-L084
+C01110,Stehlin,,J. J.,eidg. Oberst,1850;1862,1850;1862,Nationalrath — Kreis XXIII Basel-Stadt | zweiter Bürgermeister — A. Der Kleine Rath | Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,3,1862-behoerden-010-L017;1862-behoerden-011-L016;1850-behoerden-159-L008
+C01111,Stehlin,,Karl Rud.,Dr.,1862,1862,J. U. D — nicht praktizirenden | J. U. D — Waisen-Gericht | J. U. D — Polizeigericht | Advokaten-Verein,behoerden,4,1862-behoerden-014-L042;1862-behoerden-015-L074;1862-behoerden-015-L082;1862-behoerden-033-L028
+C01112,Steiger,,Jacob,,1862,1862,Actuar — Vorstand,behoerden,1,1862-behoerden-032-L080
+C01113,Steinbrüchel,Nägeli,Gustav,,1862,,Papierfabrikant,register,1,1862-einwohner-411-L108
+C01114,Steinmann,,J. J.,,1862,1862,u. Holzmarkt,behoerden,1,1862-behoerden-013-L088
+C01115,Steinmann,,P.,,1862,1862,Vorstand,behoerden,1,1862-behoerden-035-L035
+C01116,Stocker,,Joh. Gust.,,1862,1862,"Prof., Sekretär — Eidgenössischer Schulrath",behoerden,1,1862-behoerden-010-L028
+C01117,Stockmeyer,Burckhardt,Imman.,Pfr,1862,,Th. Dr.,register,1,1862-einwohner-412-L057
+C01118,Stockmeyer,,Im.,Pfarrer,1862,1862,Inspection,behoerden,1,1862-behoerden-028-L016
+C01119,Stockmeyer,,Imanuel,,1850,,Pfarrer,register,1,1850-einwohner-137-L073
+C01120,Stockmeyer,,Immanuel,Pfarrer,1862,1862,"Präsident, Theol. Dr — Knaben-Gemeindeschulen | Th. D., Pfr. bei St. Martin, zweiter Helfer — Im Münster | Vorstand | Commission für das theol. Pensionat",behoerden,4,1862-behoerden-011-L069;1862-behoerden-019-L066;1862-behoerden-027-L032;1862-behoerden-027-L094
+C01121,Stöcklin,,Ludwig,,1862,1862,"St. Johannquart. „ Ludwig Stöcklin, Spalenquartier. „ Joh. Ludw. Kehlstadt, Steinenquart. „ Joh. Balth. Fischer, Aeschenquartier. „ Joh. Fischer, Sohn, St. Albanquart. „ Joh. Ludw. Linder, Stadtquartier. „ Joh. Jakob Jenni, Riehenquartier. „ Joh. Jakob Jenni, St. Bläsiquartier — Quartierschreiber",behoerden,1,1862-behoerden-021-L034
+C01122,Stohler,,Jakob,,1862,1862,Zahnärzte,behoerden,1,1862-behoerden-013-L031
+C01123,Stohler,,Joh. Jacob,,1862,,Zahnarzt,register,1,1862-einwohner-412-L116
+C01124,Streckeisen,Ehinger,Carl,,1862,,Dr. u. Professor,register,1,1862-einwohner-413-L046
+C01125,Streckeisen,,Carl,Med. Dr,1841;1850,,Dr. Med,register,2,1841-einwohner-127-L024;1850-einwohner-137-L086
+C01126,Streckeysen,,Carl,Prof.,1862,1862,"M. et Ch. D — Aerzte | M. et Ch. D., außerordentl. Prof — Medicinische Fakultät",behoerden,2,1862-behoerden-012-L087;1862-behoerden-017-L026
+C01127,Streicher,,Joh.,,1862,1862,Concordia,behoerden,1,1862-behoerden-031-L014
+C01128,Streuber,,W. Theod.,,1850,,Phil. Dr,register,1,1850-einwohner-138-L004
+C01129,Stricker,,L.,,1850,,Kupferdr,register,1,1850-einwohner-138-L005
+C01130,Strübin,,J.,,1862,1862,Fleischschauer,behoerden,1,1862-behoerden-013-L076
+C01131,Stückelberger,Holzach,W.,,1841,,Küfer und Fabrikant von gebrannten Wassern,register,1,1841-einwohner-128-L003
+C01132,Stückelberger,Speiser,Andreas,,1862,,Bandfabrikant,register,1,1862-einwohner-414-L022
+C01133,Stückelberger,Usteri,Johannes,,1862,,Pfarrer,register,1,1862-einwohner-414-L024
+C01134,Stückelberger,,E. Ulrich,,1841,,alt Pfarrer in Reigoldsweil,register,1,1841-einwohner-127-L043
+C01135,Stückelberger,,J.,,1862,1862,Pfarrer — Vorstand,behoerden,1,1862-behoerden-026-L074
+C01136,Stückelberger,,Johannes,Pfarrer,1862,1862,Ehe-Gericht | Helfer — Zu St. Peter,behoerden,2,1862-behoerden-015-L054;1862-behoerden-019-L071
+C01137,Stückelberger,,Ulrich,,1850,,Pfarrer,register,1,1850-einwohner-138-L021
+C01138,Stumm,,Fch.,Rathsherr,1850,1850,Kleiner Stadtrath:  „   „,behoerden,1,1850-behoerden-158-L016
+C01139,Stump,,S.,Rathsherr,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L005
+C01140,Sulger,,A.,,1862,1862,Präsident in Basel — Direktoren,behoerden,1,1862-behoerden-024-L046
+C01141,Sulzmann,Baumgartner,Jacob,,1862,,Fabrikant,register,1,1862-einwohner-414-L070
+C01142,Sydler,,Johannes,,1862,,Ingenieur,register,1,1862-einwohner-415-L011
+C01143,Taschner,,Elise,,1862,1862,Frau M. M. Gysin,behoerden,1,1862-behoerden-013-L068
+C01144,Thamm,,Ferdinand,,1862,1862,Provisor der Wettsteinischen Apotheke — Apotheker,behoerden,1,1862-behoerden-013-L044
+C01145,Tharin,,Heinrich,,1862,1862,d. Z. Präses — Verwaltung,behoerden,1,1862-behoerden-030-L068
+C01146,Thierry,,Joseph,,1862,,Tabakfabrikant,register,1,1862-einwohner-415-L060
+C01147,Thurneisen,,Christoph,,1841,,Papierfabrikant,register,1,1841-einwohner-128-L027
+C01148,Thurneisen,,Ed.,Dr.,1862,1862,Beisitzer — XXII Gesellsch. d. Guten u. Gemein. Vaterländ. u. polit. Vereine,behoerden,1,1862-behoerden-025-L005
+C01149,Thurneisen,,H. R.,,1841,,alt Pfarrer,register,1,1841-einwohner-128-L028
+C01150,Thurneysen,Faesch,Ludw.,,1862,,Commandant und Papierfabrikant,register,1,1862-einwohner-416-L051
+C01151,Thurneysen,Gemuseus,Eduard,J. U. D.,1862,,,register,1,1862-einwohner-416-L055
+C01152,Thurneysen,Merian,E.,,1862,1862,Cassier — Comité,behoerden,1,1862-behoerden-028-L085
+C01153,Thurneysen,Merian,Emil,,1862,1862,Stadt | Bandfabrikant,behoerden;register,2,1862-behoerden-016-L062;1862-einwohner-416-L069
+C01154,Thurneysen,Paravicini,C.,,1862,1862,Local: Schlüssel-Zunft,behoerden,1,1862-behoerden-036-L005
+C01155,Thurneysen,Paravicini,E.,,1862,1862,Mägde-Stiftung,behoerden,1,1862-behoerden-029-L026
+C01156,- -Thurneysen,,Daniel,,1862,,Bandfabrikant,register,1,1862-einwohner-333-L017
+C01157,Thurneysen,,E.,Dr.; Stadtrath,1850;1862,1850;1862,Schreiber — Vorstand | Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,2,1862-behoerden-032-L044;1850-behoerden-159-L023
+C01158,Thurneysen,,Ed.,,1862,1862,J. U. D — Staatsanwalt,behoerden,1,1862-behoerden-015-L041
+C01159,Thurneysen,,Joh. Hch. Ed.,J. U. D.,1850;1862,,Stabsmajor und Papierfabrikant,register,2,1850-einwohner-138-L078;1862-einwohner-416-L058
+C01160,Thurneysen,,Peter,,1862,1862,Drechsler — u. Holzmarkt,behoerden,1,1862-behoerden-013-L090
+C01161,Tobler,,Eduard,,1862,1862,Hauptlehrer — Münstergemeinde,behoerden,1,1862-behoerden-019-L023
+C01162,Treu,,Lucas,,1862,1862,Wundärzte,behoerden,1,1862-behoerden-013-L023
+C01163,Treu,,Lukas,,1841;1850,,Wundarzt,register,2,1841-einwohner-171-L019;1850-einwohner-138-L086
+C01164,Tripet,,Franz,,1841,,Dr. der Philosophie | Dr. d. Phil,register,2,1841-einwohner-144-L034;1841-einwohner-178-L020
+C01165,Trog,,J.,,1862,1862,„ — Direktoren,behoerden,1,1862-behoerden-024-L047
+C01166,Trueb,Preiswerk,Rud.,,1862,1862,Capellmeister — Vorstand,behoerden,1,1862-behoerden-035-L023
+C01167,Trüldinger u. Comp.,Nusser,Philipp,,1862,,Bandfabrikant,register,1,1862-einwohner-417-L018
+C01168,Tschopp,Holzach,Heinr.,,1862,,"Spengler, Lampist u. Ofenfabrikant",register,1,1862-einwohner-417-L048
+C01169,Uebelin,Mollinet,Heinrich,,1862,1862,Vorsteher — Vorstand,behoerden,1,1862-behoerden-030-L036
+C01170,Uebelin,,J. J.,,1862,1862,Bauschreiber — Baubeamte,behoerden,1,1862-behoerden-012-L039
+C01171,Uehlinger,,Joh. Georg,,1841,,Fabrikant von Tschakodeckel und lakirtem Leder,register,1,1841-einwohner-144-L042
+C01172,Unholz,Siglin,Heinr.,,1862,1862,A. Der Kleine Rath,behoerden,1,1862-behoerden-011-L026
+C01173,Unholz,,H.,Rathsherr,1862,1862,Präsident — III. Landarmenkommission,behoerden,1,1862-behoerden-014-L020
+C01174,Urech,,David,,1862,1862,Schreiber — Stadt,behoerden,1,1862-behoerden-016-L078
+C01175,Vest,,Candidat,,1862,1862,Statthalter — Kranken - Kommission,behoerden,1,1862-behoerden-028-L027
+C01176,Vest,,Hieronimus,,1862,1862,J. U. C — nicht praktizirenden | S. M. C — lehrer | Bibliothekar — Turnlehrer-Verein,behoerden,3,1862-behoerden-014-L030;1862-behoerden-018-L076;1862-behoerden-035-L086
+C01177,Villard,,Emil,,1841,,franz. Pfarrer,register,1,1841-einwohner-129-L037
+C01178,Villars,,Cölest.,,1862,1862,„ — Rektor: Hr,behoerden,1,1862-behoerden-018-L095
+C01179,Villars,,Emil,,1850,,Pfarrer,register,1,1850-einwohner-139-L065
+C01180,Vischer,Bilfinger,Wilh.,,1841,,Phil. Dr. und Professor,register,1,1841-einwohner-129-L042
+C01181,Vischer,Bilsinger,Wilh.,,1862,,Professor,register,1,1862-einwohner-418-L100
+C01182,Vischer,Bischoff,Friedr.,,1862,1862,Stadt,behoerden,1,1862-behoerden-016-L066
+C01183,Vischer,Bischoff,Leonhard Bernoulli. Hier. Elias Burckhardt. Wilh. Karl Fritz,Stadtrath,1862,1862,XVIII   Gemeindsbehörden,behoerden,1,1862-behoerden-021-L002
+C01184,Vischer,Burckhardt,Peter,,1862,1862,Concert-Gesellschaft | Bandfabrikant,behoerden;register,2,1862-behoerden-033-L058;1862-einwohner-418-L104
+C01185,Vischer,Christ,,,1862,1862,Cassier — Commission für das theol. Pensionat,behoerden,1,1862-behoerden-027-L088
+C01186,Vischer,Heusler,Wilh.,Dr,1862,,,register,1,1862-einwohner-418-L109
+C01187,Vischer,Iselin,J. J.,Dr.; J. U. D.,1862,1862,Statthalter — Vorstand | Kriminalgerichtspräsident,behoerden;register,2,1862-behoerden-033-L067;1862-einwohner-418-L111
+C01188,Vischer,Merian,Karl,Rathsherr,1862,1862,A. Der Kleine Rath | Präsident — VI. Eisenbahnkommission | Bandfabrikant,behoerden;register,3,1862-behoerden-011-L025;1862-behoerden-014-L057;1862-einwohner-418-L113
+C01189,Vischer,,Benedikt,,1841,,Oberst,register,1,1841-einwohner-129-L039
+C01190,Vischer,,F.,,1862,1862,"Stud. paed., Beisitzer — Vorstand",behoerden,1,1862-behoerden-035-L080
+C01191,Vischer,,Friedr.,,1862,1862,Quästor — Vorstand,behoerden,1,1862-behoerden-032-L081
+C01192,Vischer,,J. J.,Dr.,1862,1862,Präsident — Criminal- u. korrektionelles Gericht,behoerden,1,1862-behoerden-015-L021
+C01193,Vischer,,Carl,Rathsherr,1862,1862,Präsident — VIII. Handelscollegium,behoerden,1,1862-behoerden-012-L047
+C01194,Vischer,,W.,Professor,1862,1862,Vorstand | Präsident — Gesellschaft f. vaterländ. Alterthümer | Schreiber — Gesellschaft f. vaterländ. Alterthümer,behoerden,3,1862-behoerden-032-L049;1862-behoerden-032-L072;1862-behoerden-032-L074
+C01195,Vischer,,Wilh.,Prof.,1862,1862,"Ph. D., Professor der griechischen Sprache u. Litteratur — Philosophische Fakultät | Präsident — Sammlung",behoerden,2,1862-behoerden-017-L036;1862-behoerden-017-L055
+C01196,v. Mechel,,J. Lucas,,1841,,Major,register,1,1841-einwohner-112-L019
+C01197,Völlmy,,H. L.,,1862,1862,St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L016
+C01198,Voit,,Ludw. Jacob,,1862,1862,Ingenieur-Assistent „ Tobias Wolff,behoerden,1,1862-behoerden-024-L037
+C01199,VonBrunn,VonSpeyr,J. J.,,1841,,Pfarrer,register,1,1841-einwohner-172-L004
+C01200,VonBrunn,,J. J.,,1850,,Pfarrer,register,1,1850-einwohner-139-L086
+C01201,Von Brunn,,Nikol.,,1841,,Pfarrer,register,1,1841-einwohner-130-L016
+C01202,Von Büren,,Seb.,Pfr,1841;1850,,kathol. Pfarrer,register,2,1841-einwohner-145-L010;1850-einwohner-113-L078
+C01203,VonderMühll,Fürstenberger,Alfred,,1862,,Seidenstofffabrikant,register,1,1862-einwohner-419-L118
+C01204,VonderMühll,Merian,Carl,,1862,1862,Appellations-Gericht | Vorsteherschaft,behoerden,2,1862-behoerden-015-L010;1862-behoerden-036-L012
+C01205,VonderMühll,Vischer,Friedrich,,1862,1862,Civilgericht | Stofffabrikant,behoerden;register,3,1862-behoerden-016-L022;1862-behoerden-034-L008;1862-einwohner-420-L014
+C01206,Vonder Mühll,,Albert,,1862,1862,Stud. juris — Vorstand,behoerden,1,1862-behoerden-025-L059
+C01207,VonderMühll,,Alfred,Major,1862,1862,Prä- — a. Zeughauskammer | Prä- — nen Mannschaft,behoerden,2,1862-behoerden-012-L006;1862-behoerden-012-L016
+C01208,- -VonderMühll,,Carl,,1862,,J. U. D. Bürgermeister,register,1,1862-einwohner-333-L022
+C01209,Von Speyr und Cie.,Ryhiner,Eduard,,1862,,Banquier,register,1,1862-einwohner-420-L035
+C01210,Von Speyr,,Emil,,1841,,Wundarzt,register,1,1841-einwohner-130-L028
+C01211,Von Speyr,,Karl Wilh.,Dr.,1841;1850,,"Notar | J. U. Dr., Not. und Kriminalgerichtschreiberei-Substitut",register,3,1841-einwohner-130-L031;1841-einwohner-172-L013;1850-einwohner-136-L088
+C01212,Von Speyr,,Theodor,,1841,,alt Rathsherr,register,1,1841-einwohner-130-L033
+C01213,Vuilleumier,,Samson,,1841,,franz. Pfarrer,register,1,1841-einwohner-130-L037
+C01214,Wackernagel,Sarasin,Wilhelm,,1862,,Dr. u. Professor,register,1,1862-einwohner-420-L051
+C01215,Wackernagel,,Wilhelm,Prof.; Professor,1841;1862,1862,"Ph. D., Prof. der deutschen Sprache und Litteratur — Philosophische Fakultät | Präsident — Kommission für die Kunstsammlung | Präsident — Sammlung | Beisitzer — XXII Gesellsch. d. Guten u. Gemein. Vaterländ. u. polit. Vereine | Alumneum | Commission für das theol. Pensionat | Professor der Philosophie",behoerden;register,7,1862-behoerden-017-L035;1862-behoerden-017-L052;1862-behoerden-018-L008;1862-behoerden-025-L004;1862-behoerden-027-L052
+C01216,Wagner,,J.,,1862,1862,Vorstand der Betriebscontrolle — Hauptbeamte,behoerden,1,1862-behoerden-024-L059
+C01217,Wahr,,Carl,,1862,1862,Präsident — Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L041
+C01218,Waldner,,Heinrich,,1841,,Bandfabrikant,register,1,1841-einwohner-131-L015
+C01219,Walter,Fastlinger,Aug.,,1862,,Musikdirektor,register,1,1862-einwohner-421-L039
+C01220,Walter,Keller,Carl,,1862,,Fabrikant chirurg. Instrumente,register,1,1862-einwohner-421-L048
+C01221,Walter,,Karl,,1850,,Musikdirektor,register,1,1850-einwohner-140-L038
+C01222,Weber,Engel,J.,,1862,1862,alter Meister — Metzgern,behoerden,1,1862-behoerden-022-L052
+C01223,Weber,Kray,Alfred,,1862,,Advokat,register,1,1862-einwohner-422-L015
+C01224,Weber,,Anton,,1862,,Alt-Gerichtspräsident,register,1,1862-einwohner-421-L099
+C01225,Weber,,S. Rud.,,1862,1862,Clavierstimmer — Geselligkeit,behoerden,1,1862-behoerden-035-L012
+C01226,Wegner,Dünner,J. Rud.,,1862,,Stadtrath,register,1,1862-einwohner-422-L068
+C01227,Wegner,Dünner,Rudolf,,1862,1862,Stadtrath zu Basel,behoerden,1,1862-behoerden-020-L065
+C01228,Wegner,,Rudolf,Stadtrath,1862,1862,"Waisen-Gericht | Präsident. „ Arnold Laur, Verwalter. „ Dr. Theod. Meyer, Spitalmeister — Spitalpfleger | alter Meister — Leinwetter und Weber",behoerden,3,1862-behoerden-015-L071;1862-behoerden-021-L049;1862-behoerden-022-L061
+C01229,Weißenberger,,J. J.,,1862,1862,Ch. et M. L. in Riehen — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L020
+C01230,Weißenberger,,Joh.,,1841,,Wundarzt,register,1,1841-einwohner-145-L030
+C01231,Weiß,,Adam,,1862,1862,Weltlicher Vorstand,behoerden,1,1862-behoerden-023-L045
+C01232,Weiß,,Christoph,,1862,1862,"S.M.C., Hauptlehrer — St. Petergemeinde",behoerden,1,1862-behoerden-019-L029
+C01233,Weiß,,Em. Georg,,1841,,Notar und Gerichtsamtmann,register,1,1841-einwohner-132-L003
+C01234,Weitnauer,,Joachim,,1841,,Oberst und Tapezierer,register,1,1841-einwohner-132-L013
+C01235,Welhausen,,Carl Christ. Ludw.,,1862,,Königl. Preuß. Artillerie-Major a. D.,register,1,1862-einwohner-423-L098
+C01236,Wengen,,Rudolf,,1862,1862,neuer Meister — Brodbecken,behoerden,1,1862-behoerden-022-L036
+C01237,Wenker,,J.,,1862,1862,Stations-Vorstand — Hauptbeamte,behoerden,1,1862-behoerden-024-L061
+C01238,Werthemann,,Andr.,,1841,,Oberstlieutenant,register,1,1841-einwohner-132-L025
+C01239,- -Wick,,Ludw. Aug.,J.U.D,1862,,,register,1,1862-einwohner-333-L029
+C01240,Widemann,Mitscherlich,Gust. Heinr.,,1862,,Prof. d. Physik,register,1,1862-einwohner-424-L083
+C01241,Widmann,,Heinrich,,1862,1862,St. Leonhardgemeinde,behoerden,1,1862-behoerden-019-L015
+C01242,Widmann,,Ludwig,,1862,1862,M. et Ch. D — X	Behörden und Beamte,behoerden,1,1862-behoerden-013-L012
+C01243,Wiedemann,,G.,,1862,1862,"Ph. D., Professor der Physik — Philosophische Fakultät",behoerden,1,1862-behoerden-017-L039
+C01244,Wiedler,,Jacob,,1862,1862,Rheingasse 40 — kloster,behoerden,1,1862-behoerden-032-L015
+C01245,Wieland,Bischoff,Hans,,1862,,eidgen. Oberst,register,1,1862-einwohner-424-L120
+C01246,Wieland,Dietschy,Carl,Notar,1862,1862,"Statthalter — Verwaltung | J.U. C., Notar u. Advok. Spitalstr. 14",behoerden;register,2,1862-behoerden-030-L008;1862-einwohner-424-L124
+C01247,Wieland,,Heinr.,,1862,,eidgen. Oberstlieut,register,1,1862-einwohner-425-L005
+C01248,Wieland,,Carl,,1862,1862,J. U. C — nicht praktizirenden | J. U. C — Criminal- u. korrektionelles Gericht,behoerden,2,1862-behoerden-014-L039;1862-behoerden-015-L030
+C01249,Wiesendanger,Hägler,J. J.,,1862,,"Friedr., Ferger",register,1,1862-einwohner-425-L022
+C01250,Wild,,F.,,1862,1862,in Berlin,behoerden,1,1862-behoerden-037-L017
+C01251,Wild,,Joh. Jakob,,1841,,Ingenieur,register,1,1841-einwohner-188-L023
+C01252,Wimmer,,Johannes,,1862,1862,Patentiert ohne Apotheken,behoerden,1,1862-behoerden-013-L053
+C01253,Winzenried,,Sam.,,1862,1862,Thurmwart — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L084
+C01254,Wirz,Kirchhofer,Eduard,,1862,,Schirmfabrikant,register,1,1862-einwohner-426-L039
+C01255,Wirz,,J. J.,,1850;1862,1862,"J. U. D., Polizei-Direktor — E. Polizei-Direktion | Dr. Jur",behoerden;register,2,1862-behoerden-014-L077;1850-einwohner-141-L055
+C01256,Wirz,,Joh. Jakob,Dr.,1862,1862,Sekretär — Die Feuerschützen,behoerden,1,1862-behoerden-023-L022
+C01257,Witzig,,David,,1862,1862,Münstergemeinde,behoerden,1,1862-behoerden-019-L007
+C01258,Wölfflin,Mengis,Joh. Rud.,,1862,,Polizeigerichtspräsident,register,1,1862-einwohner-426-L085
+C01259,Wölfflin,Mengis,Rud.,,1862,1862,Präsident — Polizeigericht,behoerden,1,1862-behoerden-015-L078
+C01260,Wölfflin,,R.,,1850,1850,Land- u. Wald-Inspection:  „  Stadtrath A. Sulger,behoerden,1,1850-behoerden-159-L016
+C01261,Wölfflin,,Rudolf,,1862,1862,Criminal- u. korrektionelles Gericht | Gemeindsbehörden. — Die E. Zünfte. XIX,behoerden,2,1862-behoerden-015-L023;1862-behoerden-022-L003
+C01262,Wohnlich,,Friedrich,,1862,1862,Siegristen,behoerden,1,1862-behoerden-020-L026
+C01263,Wolf Cath.,,Tobias,,1862,,Ingenieur,register,1,1862-einwohner-426-L123
+C01264,Wolflisberg,Walker,Franz,,1862,,Schirmfabrikant,register,1,1862-einwohner-427-L011
+C01265,Wolleb,,Johannes,,1862,1862,Polizeisekretär — E. Polizei-Direktion,behoerden,1,1862-behoerden-014-L078
+C01266,Wolleb,,Mag.,,1841,,"C. R., Pfarrer bei St. Elisabethen",register,1,1841-einwohner-133-L022
+C01267,Wunderlich,,Karl Adolf,,1841,,Prof. d. R.,register,1,1841-einwohner-173-L012
+C01268,Wybert,Hug,Emanuel,Med. Dr,1841;1850;1862,,Arzt,register,3,1841-einwohner-133-L029;1850-einwohner-142-L003;1862-einwohner-427-L059
+C01269,Wybert,,Emanuel,,1862,1862,M. et Ch. D — Aerzte | Med — Aerztliche,behoerden,2,1862-behoerden-012-L083;1862-behoerden-030-L054
+C01270,Zäslin,Falkeisen,Conrad,,1862,1862,Appellations-Gericht | Kaufmann u. Appellationsrath,behoerden;register,2,1862-behoerden-015-L008;1862-einwohner-427-L084
+C01271,Zeller,,Reinhardt,,1862,1862,Inspector und — Hauseltern,behoerden,1,1862-behoerden-028-L040
+C01272,Zemp,Haab,,,1862,1862,Vorstand,behoerden,1,1862-behoerden-030-L044
+C01273,Zeuner,,Gustav,Dr.,1862,1862,Vice-Director — Eidgenössischer Schulrath,behoerden,1,1862-behoerden-010-L030
+C01274,Zimmermann,,Karl,,1862,1862,Ph. D. et V. D. M — Hauptlehrer,behoerden,1,1862-behoerden-018-L048
+C01275,Zimmermann,,Oscar Friedrich,,1862,1862,Pfr. zu St. Jakob — Strafanstalt | Pfarrer,behoerden;register,2,1862-behoerden-020-L021;1862-einwohner-428-L047
+C01276,Zutt,Fecht,Friedr.,Dr. jur,1862,,,register,1,1862-einwohner-428-L116

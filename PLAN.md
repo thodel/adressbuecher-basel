@@ -256,6 +256,7 @@ Abschnitte in `01_pages.csv`: `vorspann`, `gebaeude` (Nummernbuch/Häuserverzeic
 | 4 | Graph, Betrieb | Turtle mit `bestandsgraph.Build`, gemeinsam mit Aarau validiert; QLever | wie Aarau |
 | 2 | Telefonbuch (Versuch ✅ 06.11.2026) | PTT-Telefonbücher Basel 1881–1937 im Adressbuch-Schema, Abgleich gegen 1862 (Abschnitt 6.6), Reiter «Telefonbuch» | 28 408 Treffer, davon 1911 34 Name+Adresse; Batch A unbrauchbar |
 | 2 | Kontrolle ✅ 06.11.2026 | Kontrollseite auf GitHub Pages wie Aarau (`scripts/90_erstblick.py`, Flagging je Zeile, Reiter Einwohner/Gebäude/Bewohner/Berufe/Verortung mit Links in den Digitalen Lesesaal; Reiter **Analysen** mit beim Bau aus den CSV berechneten Kennzahlen; Karte als eigene Seite `karte.html` wie in Aarau (`scripts/92_karte.py`: Bedienfeld mit Ansicht Gebäude/Strassen, Band, historischem Plan — Löffelplan 1862 voreingestellt, weitere Pläne 1786–1896 aus dem WMS des Kantons BS — Zähleiste «x von y verortet» und Rangliste; Klick führt zu den gefilterten Einträgen der Kontrollseite)); GeoJSON je Band in `data/geo/` (`make geojson`); Flags per `make flags-merge` ins Repo; Eintrags-IDs mit Zeilennummer (`<band>-<abschnitt>-<seite>-L<zeile>`), stabil über Parserversionen; URL-Filter wie Aarau (`?tab=…&col=…&val=…&vol=…&conf=…&q=…`) mit Filter-Chip und Trefferzahlen je Reiter, Karten-Popups verlinken auf Gebäudezeile, Bewohner und Einwohner der Strasse; Navigation zu den Aarauer Seiten | Repo seit 06.11.2026 öffentlich, Seite unter https://thodel.github.io/adressbuecher-basel/ ; keine Seitenbilder (wie Aarau); Lizenz der HGB-Standortpunkte offen und auf der Seite vermerkt |
+| 3 | Normdaten ✅ 09.11.2026 | Abgleich mit Wikidata/HLS/GND/Metagrid wie Aarau (`make authorities`), HLS-Treffer über den HLS-MCP geprüft (Abschnitt 4c) | 228 Personen «wahrscheinlich», 128 mit HLS, alle HLS-Treffer am Artikel bestätigt |
 | 5 | Informationssystem, Karte | MCP-Server; Leaflet-Karte auf OSM mit Löffel-Plan 1862 als WMS (Vorbild DH Bern); Gebäudepunkte aus `05_buildings_geo.csv` (HGB, Abschnitt 4b) | wie Aarau |
 
 ### 4b. Verortung über das Historische Grundbuch Basel (HGB)
@@ -305,6 +306,42 @@ des Bandes 1862 haben keine HGB-Serie. Damit entfällt
 für Basel die Strassenmitte-Ebene aus dem Aarauer Plan weitgehend; die Karte kann
 direkt auf Liegenschaften zeichnen, mit dem Löffelplan 1862 als WMS-Overlay wie bei
 [basler-liegenschaften-interaktiv](https://dhbern.github.io/basler-liegenschaften-interaktiv).
+
+### 4c. Normdaten: Wikidata, HLS, GND, Metagrid (09.11.2026)
+
+Auftrag der Projektleitung: denselben Abgleich wie in Aarau. Übernommen ist
+`scripts/11_authorities.py` aus dem Aarauer Repo mit denselben Spalten in
+`data/csv/10_authority_links.csv`: Kandidaten aus Wikidata (öffentlicher SPARQL-Endpunkt; der
+Wikidata-MCP ist nicht verbunden) — 623 Personen mit Basel-Bezug (Geburts-, Sterbe-, Wohn-,
+Wirkungs- oder Heimatort Q78) und 5 219 mit HLS-Nummer, geboren 1750–1844, gestorben ab 1841 —,
+Abgleich je Eintrag über Familienname, Vorname (Abkürzungen), Lebensdaten und Belege,
+Metagrid-Konkordanz zu jeder HLS-Nummer. Basler Ergänzungen:
+
+- Kandidaten auch aus den **Behördenverzeichnissen** 1850/1862 (`scripts/30_authority_candidates.py`,
+  785 Amtsträger mit ihren Ämtern; kind `behoerden`, Beleg «Basler Amt»).
+- **Allianzname** als Beleg (+2) und als Ausschluss, wenn er dem Doppelnamen in Wikidata
+  widerspricht (umlautneutral: «Stähelin-Stähelin» ≠ «Staehelin-Stockmeyer»).
+- Der Basel-Bezug trennt in Basel keine Namensvettern: bei mehreren Kandidaten braucht der
+  beste einen weiteren Beleg; Mindestalter 21 (Amtsträger 25); je Person, Band und Art nur
+  der beste Eintrag (gleichnamige Väter und Handwerker fallen auf «möglich»).
+- **Prüfung über den HLS-MCP:** jeder HLS-Treffer der Stufe «wahrscheinlich» wurde am
+  HLS-Artikel gelesen (`hls.get_article`: Ortsklasse, Lebensdaten, Ämter, Ehefrau) und beurteilt
+  (`data/csv/32_hls_check.csv`). Erster Durchgang (vor den Basler Regeln): 171 HLS-Personen,
+  129 bestätigt, 3 plausibel, 6 zweifelhaft, **33 falsch** (Präzision 78 %) — Studenten im
+  Bandjahr, Baselbieter und Zürcher mit «Basel-Bezug», Namensvettern. Die Regeln oben entfernen
+  davon die jungen und die gleichrangigen Fälle; die Urteile selbst fliessen ein («falsch» →
+  `verworfen`, «zweifelhaft» → `möglich`).
+
+Ergebnis: **563 Einträge mit 228 Personen «wahrscheinlich»**, davon 128 Personen mit
+HLS-Artikel — alle am Artikel bestätigt oder plausibel —, 128 mit Metagrid-Konkordanz;
+1 647 «möglich», 29 verworfen. Je Band: 1841 104, 1850 130, 1862 329 Einträge (1862
+mit 89 Amtsträgern). Gegenprobe über eine unabhängige Metagrid-Namenssuche der
+Amtsträger (`scripts/31_metagrid_match.py`, `31_links_metagrid.csv`): wo beide Verfahren eine
+HLS-Nummer liefern, stimmen sie in 23 von 23 Fällen überein; 24 HLS-Personen findet nur
+Metagrid (meist Zugezogene ohne Basel-Bezug in Wikidata, z. B. Professoren). Vorbehalt: die
+100 Personen ohne HLS-Artikel sind nicht am Text geprüft, ihre Präzision dürfte ähnlich der
+ungeprüften HLS-Stufe liegen (~80 %); der Reiter «Normdaten» der Kontrollseite zeigt jede
+Verknüpfung mit Belegen und Prüfurteil zum Flaggen.
 
 ## 5. Repo-Struktur
 

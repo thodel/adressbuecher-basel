@@ -184,3 +184,22 @@ Treffer und die Jahresübersicht.
 | `match_level` (links) | `name_addr`, `name_street`, `addr` gegen das Adressbuch 1862 (siehe Analysen-Reiter); `none` nicht in der Datei |
 | `match_refs`, `n_refs` | Einträge 1862 (`entry_id`/`building_id`, höchstens 5) und ihre Zahl |
 | summary | je Jahr `entries`, `with_address`, `name_addr`, `name_street`, `addr` |
+
+## 10_authority_links.csv — Normdaten (Wikidata, HLS, GND, Metagrid; `scripts/11_authorities.py`, Spalten wie Aarau)
+
+Eine Zeile je Adressbuch-Eintrag mit mindestens einem verträglichen Wikidata-Kandidaten.
+
+| Spalte | Inhalt |
+|---|---|
+| `entry_id`, `kind`, `volume` | Eintrag; `kind` = `einwohner`, `bewohner` oder (Basel) `behoerden` (Amtsträger, `entry_id` = `<cand_id>-<band>`) |
+| `surname`, `forename`, `occupation`, `origin` | aus dem Eintrag (`surname` mit Allianzname, `occupation` bei Behörden = Ämter) |
+| `qid`, `label`, `birth`, `death`, `hls_id`, `gnd`, `wd_description`, `wd_occupations` | bester Wikidata-Kandidat |
+| `evidence`, `score`, `n_candidates` | Belege (Basel-Bezug, Basler Amt, Allianzname, Heimatort, Beruf), Punktzahl, Zahl verträglicher Kandidaten |
+| `tier` | `wahrscheinlich` (verlinkt) oder `möglich` |
+| `metagrid` | Metagrid-Konkordanz zur HLS-Nummer (JSON Anbieter → URL) |
+
+## 30_authority_candidates.csv, 31_links_metagrid.csv, 32_hls_check.csv (Basel)
+
+- `30_authority_candidates.csv`: Amtsträger der Behördenverzeichnisse 1850/1862 und Registereinträge mit Titel oder gehobenem Stand, je Person zusammengeführt (`cand_id`, Name, Ämter, Bände, Nennungen).
+- `31_links_metagrid.csv`: unabhängige Gegenprobe über die Metagrid-Namenssuche (`level` sicher/wahrscheinlich/mehrdeutig/unsicher/kein, Lebensdaten, HLS/GND/Wikidata).
+- `32_hls_check.csv`: Prüfung jedes HLS-Treffers am HLS-Artikel über den HLS-MCP (`verdict` bestätigt/plausibel/zweifelhaft/falsch, `note`).

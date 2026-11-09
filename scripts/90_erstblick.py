@@ -47,6 +47,9 @@ TABS = [
     ("telefon", "Telefonbuch", ["20_phonebook_links.csv"], "pb_id",
      ["pb_id", "year", "batch", "surname", "alliance_name", "forename", "occupation_raw", "street_raw",
       "building_no", "entry_type", "match_level", "n_refs", "match_refs", "parse_confidence"]),
+    ("normdaten", "Normdaten", ["10_authority_links.csv"], "entry_id",
+     ["entry_id", "volume", "kind", "surname", "forename", "occupation", "tier", "label", "birth", "death", "evidence",
+      "n_candidates", "hls_check", "wd_url", "hls_url", "gnd_url", "wd_description"]),
     ("geo", "Verortung", ["05_buildings_geo.csv"], "building_id",
      ["building_id", "volume", "street_raw", "building_no", "house_no_old", "space", "match_method",
       "n_candidates", "dossier_id", "dossier_title", "check_old_no", "geo_confidence", "lat", "lon"]),
@@ -58,6 +61,9 @@ LABELS = {"entry_id": "ID", "building_id": "ID", "volume": "Band", "page": "PDF-
           "dossier_id": "HGB-Dossier", "dossier_title": "Adresse 1862 (HGB)", "check_old_no": "alte Nr. ✓",
           "geo_confidence": "Geo-Konf.", "lat": "Lat", "lon": "Lon", "pb_id": "ID", "year": "Jahr", "batch": "Batch",
           "match_level": "Treffer 1862", "n_refs": "Anz.", "match_refs": "Einträge 1862",
+          "kind": "Art", "occupation": "Beruf/Amt", "tier": "Stufe", "label": "Person (Wikidata)", "birth": "geb.", "death": "gest.",
+          "evidence": "Belege", "n_candidates": "Kand.", "hls_check": "HLS-Prüfung (MCP)", "wd_url": "Wikidata", "hls_url": "HLS",
+          "gnd_url": "GND", "wd_description": "Beschreibung",
           "surname": "Name", "alliance_name": "Allianz", "maiden_name": "geb.", "forename": "Vorname",
           "civil_status": "Stand", "relation": "Bezug", "occupation_raw": "Beruf", "origin_raw": "Heimatort",
           "origin_canton": "Kt.", "street_raw": "Strasse", "building_no": "Nr.", "address_role": "Adressrolle",
@@ -67,6 +73,13 @@ LABELS = {"entry_id": "ID", "building_id": "ID", "volume": "Band", "page": "PDF-
 
 REASONS = ["ATR-Lesefehler", "Parser: Feld falsch", "Parser: Eintrag falsch getrennt", "Abschnitt/Rubrik falsch",
            "Quelle: Druckfehler", "Dublette", "Anderes"]
+
+
+HLS_CHECK: dict[str, str] = {}
+if (CSV_DIR / "32_hls_check.csv").exists():
+    with (CSV_DIR / "32_hls_check.csv").open(encoding="utf-8") as fh:
+        for _r in csv.DictReader(fh):
+            HLS_CHECK[_r["hls_article"].zfill(6)] = _r["verdict"] + (": " + _r["note"] if _r.get("note") else "")
 
 
 def load(files: list[str], cols: list[str]) -> list[list[str]]:
@@ -79,6 +92,12 @@ def load(files: list[str], cols: list[str]) -> list[list[str]]:
             for r in csv.DictReader(fh):
                 if f.startswith("20_") and r.get("match_level") not in ("name_addr", "name_street"):
                     continue                                   # Telefon-Reiter: nur Namenstreffer
+                if f.startswith("10_authority"):
+                    h = (r.get("hls_id") or "").zfill(6) if r.get("hls_id") else ""
+                    r["hls_check"] = HLS_CHECK.get(h, "")
+                    r["wd_url"] = f"https://www.wikidata.org/wiki/{r['qid']}" if r.get("qid") else ""
+                    r["hls_url"] = f"https://hls-dhs-dss.ch/de/articles/{h}/" if h else ""
+                    r["gnd_url"] = f"https://d-nb.info/gnd/{r['gnd']}" if r.get("gnd") else ""
                 row = [r.get(c, "") for c in cols]
                 if cols[0] == "entry_id" and r.get("address_seq") and r["address_seq"] not in ("", "1"):
                     row[0] = f"{row[0]}#{r['address_seq']}"
@@ -154,6 +173,17 @@ def analyses(data: dict) -> dict:
         out["geo"] = json.loads((GEO_DIR / "summary.json").read_text(encoding="utf-8"))
     except Exception:
         out["geo"] = {}
+    out["authority"] = {}
+    if (CSV_DIR / "10_authority_links.csv").exists():
+        with (CSV_DIR / "10_authority_links.csv").open(encoding="utf-8") as fh:
+            al = list(csv.DictReader(fh))
+        wl = [x for x in al if x["tier"] == "wahrscheinlich"]
+        out["authority"] = {
+            "tiers": dict(Counter(x["tier"] for x in al)),
+            "by_vol": {b: sum(1 for x in wl if x["volume"] == b) for b in out["bands"]},
+            "persons": len({x["qid"] for x in wl}), "persons_hls": len({x["qid"] for x in wl if x["hls_id"]}),
+            "checked": dict(Counter(x["hls_check"].split(":")[0] for x in al if x["hls_id"] and x["hls_check"] and x["hls_check"] != "ungeprüft")),
+        }
     out["phone"] = []
     if (CSV_DIR / "20_phonebook_summary.csv").exists():
         with (CSV_DIR / "20_phonebook_summary.csv").open(encoding="utf-8") as fh:
@@ -320,6 +350,10 @@ function issueUrl(k, r) {
 function cell(k, col, v, r) {
   if (col === 'parse_confidence') return `<td><span class="pill ${esc(v)}">${esc(v)}</span></td>`;
   if (col === 'owner_flag' || col === 'phone_flag' || col === 'owner_same_as_prev') return `<td class="num">${v === '1' ? '<span class="star">' + (col === 'owner_flag' ? '*' : col === 'phone_flag' ? '☏' : '„') + '</span>' : (v ? esc(v) : '')}</td>`;
+  if (col === 'tier') return `<td><span class="pill ${v === 'wahrscheinlich' ? 'high' : 'medium'}">${esc(v)}</span></td>`;
+  if (col === 'hls_check') return `<td class="wide"><span class="pill ${v.startsWith('bestätigt') ? 'high' : v.startsWith('plausibel') ? 'medium' : v ? 'review' : ''}">${esc(v.split(':')[0])}</span> ${esc(v.split(':').slice(1).join(':'))}</td>`;
+  if (['wd_url', 'hls_url', 'gnd_url'].includes(col)) return `<td>${v ? `<a href="${esc(v)}" target="_blank" rel="noopener">${esc(v.replace(/^https?:\/\/(www\.)?/, '').slice(0, 28))}</a>` : ''}</td>`;
+  if (col === 'occupation' || col === 'wd_description' || col === 'evidence') return `<td class="wide">${esc(v)}</td>`;
   if (col === 'match_level') return `<td><span class="pill ${v === 'name_addr' ? 'high' : v === 'name_street' ? 'medium' : 'review'}">${esc(v)}</span></td>`;
   if (col === 'year' || col === 'n_refs') return `<td class="num">${esc(v)}</td>`;
   if (col === 'match_refs') return `<td class="wide id">${esc(v)}</td>`;
@@ -346,7 +380,8 @@ function render() {
   for (const el of [q, vol, conf, onlyflag, count]) el.closest('label') ? (el.closest('label').style.display = special ? 'none' : '') : (el.style.display = special ? 'none' : '');
   try { localStorage.setItem('basel.tab', tab); } catch (e) {}
   if (tab === 'analysen') { renderAnalysen(); return; }
-  const d = DATA[tab], needle = q.value.trim().toLowerCase(), v = vol.value, c = conf.value, ci = d.cols.indexOf('parse_confidence');
+  const d = DATA[tab], needle = q.value.trim().toLowerCase(), v = vol.value, ti = d.cols.indexOf('tier'), ci = ti >= 0 ? ti : d.cols.indexOf('parse_confidence');
+  const c = ti >= 0 ? ({ high: 'wahrscheinlich', medium: 'möglich' }[conf.value] || (conf.value ? '—' : '')) : conf.value;
   const fi = colF ? d.cols.indexOf(colF) : -1;
   const chip = $('colfilter');
   if (colF && valF) {
@@ -420,6 +455,13 @@ function renderAnalysen() {
     const ph = ANA.phone.filter(r => r.entries > 100);
     h += bars('Abonnenten je Jahr (davon mit Adresse)', ph.map(r => [`${r.year} (${r.with_address} m. Adr.)`, r.entries]));
     h += '<div class="charts">' + bars('Namenstreffer an derselben Adresse 1862 (name_addr)', ph.map(r => [String(r.year), r.name_addr])) + bars('Namenstreffer in derselben Strasse (name_street)', ph.map(r => [String(r.year), r.name_street])) + bars('Adresse 1862 belegt, anderer Name (addr)', ph.map(r => [String(r.year), r.addr])) + '</div>';
+  }
+  if (ANA.authority && ANA.authority.persons) {
+    const A = ANA.authority;
+    h += '<h2>Normdaten: Wikidata, HLS, GND, Metagrid</h2><p>Abgleich wie in Aarau (Kandidaten aus Wikidata mit Basel-Bezug oder HLS-Nummer, Name + Lebensdaten + Belege), für Basel verschärft: Allianzname als Beleg und Ausschluss, Amtsträger der Behördenverzeichnisse, Mindestalter 21/25, Namensvettern im Band. Jeder HLS-Treffer wurde am HLS-Artikel über den HLS-MCP geprüft; «falsch» wird verworfen. Siehe Reiter «Normdaten».</p><div class="kpi">';
+    h += `<div><b>${A.persons.toLocaleString('de-CH')}</b>Personen «wahrscheinlich» verknüpft</div><div><b>${A.persons_hls.toLocaleString('de-CH')}</b>davon mit HLS-Artikel</div>`;
+    for (const b of B) h += `<div><b>${(A.by_vol[b] || 0).toLocaleString('de-CH')}</b>Einträge ${b}</div>`;
+    h += '</div><div class="charts">' + bars('Stufen aller Treffer', Object.entries(A.tiers)) + bars('HLS-Prüfung über den MCP (Einträge)', Object.entries(A.checked)) + '</div>';
   }
   h += '<h2>Sterne und Stadtteile</h2><p>Der Stern bedeutet in Basel kein Bürgerrecht: im Nummernbuch 1841 markiert er Gebäude, die nicht vom Eigentümer bewohnt sind (Berichtigung im Band); im Register 1850 steht er vor Kleinbasler Hausnummern. Ein Bürgeranteil lässt sich aus diesen Bänden nicht ablesen.</p><div class="kpi">';
   for (const b of B) if (ANA.star[b] && ANA.star[b].n) h += `<div><b>${ANA.star[b].star.toLocaleString('de-CH')} von ${ANA.star[b].n.toLocaleString('de-CH')}</b>${b}: Gebäude mit Stern (${(100 * ANA.star[b].star / ANA.star[b].n).toFixed(1)} %)</div>`;
