@@ -34,7 +34,7 @@ TABS = [
     ("einwohner", "Einwohner", ["04_entries.csv"], "entry_id",
      ["entry_id", "volume", "page", "owner_flag", "surname", "alliance_name", "maiden_name", "forename",
       "civil_status", "relation", "occupation_raw", "origin_raw", "street_raw", "building_no",
-      "building_no_system", "city_part", "address_role", "heading", "entry_type", "parse_confidence", "residual", "text"]),
+      "building_no_system", "city_part", "address_role", "heading", "entry_type", "parse_confidence", "residual", "other_volume", "zeitreise", "text"]),
     ("gebaeude", "Gebäude", ["05_buildings.csv"], "building_id",
      ["building_id", "volume", "page", "building_nos", "marker", "house_no_old", "quarter", "house_name",
       "city_part", "street_raw", "owner_text", "building_type", "owner_same_as_prev", "parse_confidence", "note"]),
@@ -43,7 +43,7 @@ TABS = [
       "civil_status", "relation", "occupation_raw", "origin_raw", "parse_confidence", "residual", "text"]),
     ("berufe", "Berufe", ["04_berufe.csv"], "entry_id",
      ["entry_id", "volume", "page", "heading", "surname", "alliance_name", "forename", "occupation_raw",
-      "street_raw", "building_no", "entry_type", "parse_confidence", "residual", "text"]),
+      "street_raw", "building_no", "entry_type", "parse_confidence", "residual", "other_volume", "zeitreise", "text"]),
     ("telefon", "Telefonbuch", ["20_phonebook_links.csv"], "pb_id",
      ["pb_id", "year", "batch", "surname", "alliance_name", "forename", "occupation_raw", "street_raw",
       "building_no", "entry_type", "match_level", "n_refs", "match_refs", "parse_confidence"]),
@@ -55,7 +55,7 @@ TABS = [
       "n_candidates", "dossier_id", "dossier_title", "check_old_no", "geo_confidence", "lat", "lon"]),
 ]
 
-LABELS = {"entry_id": "ID", "building_id": "ID", "volume": "Band", "page": "PDF-S.", "owner_flag": "*",
+LABELS = {"other_volume": "Andere Bände", "zeitreise": "Karte damals", "entry_id": "ID", "building_id": "ID", "volume": "Band", "page": "PDF-S.", "owner_flag": "*",
           "building_no_system": "Nr.-System", "city_part": "Stadtteil", "house_no_old": "alte Nr.", "quarter": "Quartier",
           "house_name": "Hausname", "space": "Nummernraum", "match_method": "Methode", "n_candidates": "Dossiers",
           "dossier_id": "HGB-Dossier", "dossier_title": "Adresse 1862 (HGB)", "check_old_no": "alte Nr. ✓",
@@ -82,6 +82,59 @@ if (CSV_DIR / "32_hls_check.csv").exists():
             HLS_CHECK[_r["hls_article"].zfill(6)] = _r["verdict"] + (": " + _r["note"] if _r.get("note") else "")
 
 
+def lv95(lat: float, lon: float) -> tuple[int, int]:
+    """WGS84 → LV95 (Näherung von swisstopo, auf ~1 m genau)."""
+    p, l = (lat * 3600 - 169028.66) / 10000, (lon * 3600 - 26782.5) / 10000
+    e = 2600072.37 + 211455.93 * l - 10938.51 * l * p - 0.36 * l * p * p - 44.54 * l ** 3
+    n = 1200147.07 + 308807.95 * p + 3745.25 * l * l + 76.63 * p * p - 194.56 * l * l * p + 119.79 * p ** 3
+    return round(e), round(n)
+
+
+def load_links() -> tuple[dict, dict]:
+    """web/telefon.csv (80_telefon.py) und web/baende.csv (81_baende.py) → je entry_id ein Zellwert."""
+    phone, other = {}, {}
+    if Path("web/telefon.csv").exists():
+        for r in csv.DictReader(Path("web/telefon.csv").open(encoding="utf-8")):
+            phone[r["entry_id"]] = "|".join(r[k].replace("|", "/") for k in ("how", "ptt_year", "ptt_name", "ptt_street", "ptt_phone", "entity_id", "image"))
+    if Path("web/baende.csv").exists():
+        by = {}
+        for r in csv.DictReader(Path("web/baende.csv").open(encoding="utf-8")):
+            by.setdefault(r["entry_id"], []).append(r)
+        for k, rs in by.items():
+            other[k] = ";;".join("|".join(x[f].replace("|", "/").replace(";;", ";") for f in ("other_volume", "tier", "other_id", "other_text", "evidence"))
+                                 for x in sorted(rs, key=lambda x: x["other_volume"]))
+    return phone, other
+
+
+PHONE, OTHER = load_links()
+
+
+def load_geo() -> tuple[dict, dict]:
+    """(Band, Strasse, Nr.) → (E, N) je Haus und (Band, Strasse) → Mittelpunkt aus 05_buildings_geo.csv (HGB)."""
+    house, street = {}, {}
+    p = CSV_DIR / "05_buildings_geo.csv"
+    if p.exists():
+        acc = {}
+        for r in csv.DictReader(p.open(encoding="utf-8")):
+            if r["e"] and r["n"]:
+                e, n = round(float(r["e"])), round(float(r["n"]))
+                house[(r["volume"], r["street_raw"], r["building_no"])] = (e, n)
+                acc.setdefault((r["volume"], r["street_raw"]), []).append((e, n))
+        street = {k: (round(sum(x[0] for x in v) / len(v)), round(sum(x[1] for x in v) / len(v))) for k, v in acc.items()}
+    return house, street
+
+
+HOUSE, STREET = load_geo()
+
+
+def zeitreise(r: dict) -> str:
+    g = HOUSE.get((r["volume"], r.get("street_raw", ""), r.get("building_no", "")))
+    if g:
+        return f"{g[0]},{g[1]},2"
+    g = STREET.get((r["volume"], r.get("street_raw", "")))
+    return f"{g[0]},{g[1]},1" if g else "2611350,1267450,0"  # sonst Marktplatz
+
+
 def load(files: list[str], cols: list[str]) -> list[list[str]]:
     rows = []
     for f in files:
@@ -98,6 +151,9 @@ def load(files: list[str], cols: list[str]) -> list[list[str]]:
                     r["wd_url"] = f"https://www.wikidata.org/wiki/{r['qid']}" if r.get("qid") else ""
                     r["hls_url"] = f"https://hls-dhs-dss.ch/de/articles/{h}/" if h else ""
                     r["gnd_url"] = f"https://d-nb.info/gnd/{r['gnd']}" if r.get("gnd") else ""
+                if "zeitreise" in cols:
+                    r["other_volume"] = OTHER.get(r.get("entry_id", ""), "")
+                    r["zeitreise"] = zeitreise(r)
                 row = [r.get(c, "") for c in cols]
                 if cols[0] == "entry_id" and r.get("address_seq") and r["address_seq"] not in ("", "1"):
                     row[0] = f"{row[0]}#{r['address_seq']}"
@@ -207,7 +263,9 @@ def load_flags() -> list[dict]:
                 for r in csv.DictReader(fh) if r.get("status", "open") != "fixed"]
 
 
-TEMPLATE = r"""<title>Basel Adressdaten Kontrolle</title>
+TEMPLATE = r"""<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Basel Adressdaten Kontrolle</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
 
@@ -260,6 +318,8 @@ tr.reported td:first-child::before { content: "✓ "; color: var(--ok); font-wei
 .pill.high { background: color-mix(in srgb, var(--ok) 18%, transparent); color: var(--ok); }
 .pill.medium { background: color-mix(in srgb, var(--warn) 18%, transparent); color: var(--warn); }
 .pill.review { background: color-mix(in srgb, var(--bad) 18%, transparent); color: var(--bad); }
+a.ov { margin-right: 4px; color: var(--muted); }
+a.ov.hi { color: var(--accent); font-weight: 600; }
 .star { color: var(--accent); font-weight: 700; }
 td.act { white-space: nowrap; }
 td.act select, td.act input { font-size: 12.5px; padding: 2px 5px; }
@@ -309,7 +369,7 @@ td.act a { color: var(--muted); font-size: 12px; margin-left: 6px; }
   <button class="btn" id="clear">Flags löschen</button>
   <span class="sub">Danach: <code>python scripts/91_merge_flags.py &lt;datei.csv&gt;</code> und committen.</span>
 </div>
-<p class="legend"><b>*</b> im Register 1841 (Nachtrag) = Häuserkauf während des Drucks · <b>Marke *</b> im Nummernbuch 1841 = Gebäude <i>nicht</i> vom Eigentümer bewohnt · <b>Stadtteil «Kleinbasel»</b> im Register 1850 = Stern vor der Nummer (Kleinbasel zählt ab 1) · <b>Nr.-System</b>: alt = stadtweite Hausnummer (1841/1850), neu = Nummer je Strasse (1862) · <b>Verortung</b> (Karte: <a href="karte.html">Gebäude und Strassen</a>): über die HGB-Dossiers (Adresse 1862 ↔ alte Nummer), Methode street_no/old_no = eindeutig, _multi = Schwerpunkt, _base = Hauptnummer ohne Buchstaben · <b>Konfidenz</b>: high = Zeile ging vollständig auf, medium = Hinweis in Rest/Notiz, review = nicht zuordenbar · <b>✓</b> = Flag schon im Repo · <b>Seite</b> öffnet den Band im Digitalen Lesesaal des Staatsarchivs.</p>
+<p class="legend"><b>*</b> im Register 1841 (Nachtrag) = Häuserkauf während des Drucks · <b>Marke *</b> im Nummernbuch 1841 = Gebäude <i>nicht</i> vom Eigentümer bewohnt · <b>Stadtteil «Kleinbasel»</b> im Register 1850 = Stern vor der Nummer (Kleinbasel zählt ab 1) · <b>Nr.-System</b>: alt = stadtweite Hausnummer (1841/1850), neu = Nummer je Strasse (1862) · <b>Verortung</b> (Karte: <a href="karte.html">Gebäude und Strassen</a>): über die HGB-Dossiers (Adresse 1862 ↔ alte Nummer), Methode street_no/old_no = eindeutig, _multi = Schwerpunkt, _base = Hauptnummer ohne Buchstaben · <b>Konfidenz</b>: high = Zeile ging vollständig auf, medium = Hinweis in Rest/Notiz, review = nicht zuordenbar · <b>✓</b> = Flag schon im Repo · <b>Seite</b> öffnet den Band im Digitalen Lesesaal des Staatsarchivs · <b>Andere Bände</b>: dieselbe Person in den anderen Bänden (automatisch; fett = sicher) · <b>Karte damals</b>: historische Karte des Jahres bei swisstopo am Haus (HGB) oder an der Strasse.</p>
 <div class="wrap" id="tablewrap"><table id="t"><thead></thead><tbody></tbody></table><button class="more" id="more" hidden>weitere Zeilen zeigen</button></div>
 <div class="panel" id="analysen" hidden></div>
 <div id="toast" hidden></div>
@@ -348,6 +408,17 @@ function issueUrl(k, r) {
   return `${REPO}/issues/new?title=${encodeURIComponent('Flag ' + id)}&labels=${encodeURIComponent('review')}&body=${encodeURIComponent(body)}`;
 }
 function cell(k, col, v, r) {
+  if (col === 'other_volume') {
+    if (!v) return '<td></td>';
+    return '<td>' + v.split(';;').map(x => { const [ov, tier, oid, otext, ev] = x.split('|');
+      return `<a href="?tab=einwohner&vol=${esc(ov)}&q=${encodeURIComponent(oid.split('#')[0])}" title="${esc(otext + ' · ' + tier + ' · ' + ev)}" class="ov ${tier === 'sicher' ? 'hi' : ''}">${esc(ov)}</a>`; }).join(' ') + '</td>';
+  }
+  if (col === 'zeitreise') {
+    if (!v) return '<td></td>';
+    const [e, n, prec] = v.split(',');
+    const what = prec === '2' ? 'Haus' : prec === '1' ? 'Strasse' : 'Stadt';
+    return `<td><a href="https://map.geo.admin.ch/#/map?lang=de&center=${e},${n}&z=${prec === '0' ? 9 : 11}&crosshair=marker&bgLayer=void&layers=ch.swisstopo.zeitreihen@year=${esc(r[1])}" target="_blank" rel="noopener" title="${what} auf der historischen Karte um ${esc(r[1])} (swisstopo Zeitreise; vor 1870 Dufourkarte)">${what} ${esc(r[1])} ↗</a></td>`;
+  }
   if (col === 'parse_confidence') return `<td><span class="pill ${esc(v)}">${esc(v)}</span></td>`;
   if (col === 'owner_flag' || col === 'phone_flag' || col === 'owner_same_as_prev') return `<td class="num">${v === '1' ? '<span class="star">' + (col === 'owner_flag' ? '*' : col === 'phone_flag' ? '☏' : '„') + '</span>' : (v ? esc(v) : '')}</td>`;
   if (col === 'tier') return `<td><span class="pill ${v === 'wahrscheinlich' ? 'high' : 'medium'}">${esc(v)}</span></td>`;
@@ -392,7 +463,7 @@ function render() {
     $('clearcol').onclick = () => { colF = valF = labelF = ''; history.replaceState(null, '', location.pathname + '#' + tab); shown = PAGE; render(); };
     for (const b of chip.querySelectorAll('.tabhit')) b.onclick = () => { tab = b.dataset.k; shown = PAGE; render(); };
   } else { chip.hidden = true; }
-  const rows = d.rows.filter(r => (!v || tab === 'telefon' || r[1] === v) && (!c || r[ci] === c) && (!colF || !valF || fi < 0 || r[fi] === valF) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.join(' ').toLowerCase().includes(needle)));
+  const rows = d.rows.filter(r => (!v || tab === 'telefon' || r[1] === v) && (!c || r[ci] === c) && (!colF || !valF || fi < 0 || r[fi] === valF) && (!onlyflag.checked || flags[tab + '|' + r[0]] || reported[tab + '|' + r[0]]) && (!needle || r.filter((_, i) => d.cols[i] !== 'other_volume').join(' ').toLowerCase().includes(needle)));
   thead.innerHTML = '<tr><th>Flag</th>' + d.cols.map(cc => `<th>${esc(LABELS[cc] || cc)}</th>`).join('') + '</tr>';
   tbody.innerHTML = rows.slice(0, shown).map(r => {
     const key = tab + '|' + r[0];

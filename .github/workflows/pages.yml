@@ -9,6 +9,8 @@ on:
       - "scripts/90_erstblick.py"
       - "scripts/92_karte.py"
       - "data/geo/**"
+      - "web/telefon.csv"
+      - "web/baende.csv"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 

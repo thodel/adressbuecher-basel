@@ -27,3 +27,6 @@ Repo https://github.com/thodel/adressbuecher-aarau
 - Flags von der Kontrollseite: CSV exportieren, `make flags-merge FILE=…`, committen.
 - Abnahme des Parsers: `make abnahme` vergleicht die Parser-Ausgabe der GT-Seiten mit den
   handgeprüften Gold-Tabellen in `data/gt/entries_*.csv`, `buildings_*.csv`, `residents_*.csv`.
+- `web/baende.csv` (`scripts/81_baende.py`, eingecheckt): dieselbe Person in den anderen Bänden (Spalte «Andere Bände»).
+- Spalte «Karte damals»: historische Karte des Jahres bei swisstopo (Zeitreise; vor 1870 die Dufourkarte) am Haus nach
+  `05_buildings_geo.csv` (HGB), sonst am Mittelpunkt der Strasse.
