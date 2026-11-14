@@ -17,6 +17,9 @@ import json
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent))
+import site_nav  # noqa: E402  gemeinsame Navigation
 
 GEO_DIR = Path("data/geo")
 
@@ -69,9 +72,11 @@ select { padding: 4px 6px; border: 1px solid var(--line); border-radius: 6px; ba
 @media (max-width: 760px) { .main { flex-direction: column; } .panel { flex: 0 0 auto; max-height: 40%; } #map { min-height: 360px; } }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 .leaflet-control-zoom-in, .leaflet-control-zoom-out { color: #000 !important; }
+__NAVCSS__
 </style>
+__CITYBAR__
 <header>
-  <nav class="nav"><a href="./">Kontrolle</a> · <a href="karte.html">Karte: Gebäude und Strassen</a> · <a href="https://thodel.github.io/adressbuecher-aarau/">Adressbücher Aarau</a> · <a href="https://thodel.github.io/adressbuecher-aarau/karte.html">Karte Aarau</a> · <a href="https://github.com/thodel/adressbuecher-basel">Repo</a></nav>
+  __CITYNAV__
   <h1>Adressbücher Basel: Gebäude und Strassen</h1>
   <p class="sub">Stand __DATE__ · Gebäude über die Dossiers des Historischen Grundbuchs Basel verortet (Projekt «Ökonomien des Raums», Uni Basel); <b>Lizenz der Standortpunkte offen</b>, Anzeige soweit als möglich</p>
 </header>
@@ -190,7 +195,7 @@ def main() -> None:
                  for p in sorted(GEO_DIR.glob("buildings_*.geojson"))}
     streets = {v: streets_of(fc) for v, fc in buildings.items()}
     summary = json.loads((GEO_DIR / "summary.json").read_text(encoding="utf-8"))
-    html = (TEMPLATE.replace("__BUILDINGS__", json.dumps(buildings, ensure_ascii=False, separators=(",", ":")))
+    html = (TEMPLATE.replace("__CITYBAR__", site_nav.city_bar('basel', 'de')).replace("__CITYNAV__", site_nav.city_nav('Basel 1841–1862', 'https://github.com/thodel/adressbuecher-basel', "map", 'de', map_label='Karte: Gebäude und Strassen')).replace("__NAVCSS__", site_nav.CSS).replace("__BUILDINGS__", json.dumps(buildings, ensure_ascii=False, separators=(",", ":")))
             .replace("__STREETS__", json.dumps(streets, ensure_ascii=False, separators=(",", ":")))
             .replace("__SUMMARY__", json.dumps(summary, ensure_ascii=False))
             .replace("__DLS__", json.dumps(DLS))
