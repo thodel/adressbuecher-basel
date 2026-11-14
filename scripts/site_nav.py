@@ -6,7 +6,7 @@ allen Repos gleich nachziehen.
 - `city_bar(current, lang)`: oberste Leiste mit den Städten (eigene Zeile, aktuelle Stadt hervorgehoben).
 - `city_nav(city, links, lang)`: zweite Zeile, nur innerhalb der Stadt: Einträge · Karte · Suche · Repo.
 - `CSS`: Stil für beide Leisten und das Suchfeld; in den <style>-Block der Seite.
-- `FIELD_SEARCH_JS`: Feldsuche über alle Spalten der CSV («Name enthält Meier», «Hausnummer = 12», «Allianzname
+- `FIELD_SEARCH_JS`: Feldsuche (`FS.init({params})` liest die Bedingungen aus params statt aus location.search) über alle Spalten der CSV («Name enthält Meier», «Hausnummer = 12», «Allianzname
   nicht leer» …), mehrere Bedingungen mit UND, in der URL (`f=Spalte~Operator~Wert`). Die Seite ruft
   `FS.init({...})` auf, prüft je Zeile `FS.test(row, cols)` und schreibt in syncUrl `FS.toParams(params)`.
 - `search_panel(lang)`: das HTML des Suchfelds (<details id="suche">).
@@ -66,15 +66,18 @@ def city_bar(current: str, lang: str = "de") -> str:
             f'<a class="vs" href="{VS}">Vernetzte Schweiz ↗</a></nav>')
 
 
-def city_nav(city: str, repo: str, page: str, lang: str = "de", map_href: str = "karte.html", map_label: str | None = None) -> str:
-    """page = «entries» oder «map»; auf der Karte führt «Suche» auf die Einträge-Seite."""
+def city_nav(city: str, repo: str, page: str, lang: str = "de", map_href: str = "karte.html", map_label: str | None = None,
+             extra: list[tuple[str, str, str]] | None = None) -> str:
+    """page = «entries», «map» oder ein Schlüssel aus extra; ausserhalb der Einträge führt «Suche» auf die
+    Einträge-Seite. extra = weitere Seiten der Stadt als (Schlüssel, href, Label), vor «Daten und Code»."""
     t = T[lang]
     search = "#suche" if page == "entries" else "./#suche"
     cur = lambda p: ' aria-current="page"' if p == page else ""
+    more = "".join(f'<a href="{href}"{cur(k)}>{lab}</a>' for k, href, lab in (extra or []))
     return (f'<nav class="citynav" aria-label="{city}"><b>{city}</b>'
             f'<a href="./"{cur("entries")}>{t["entries"]}</a>'
             f'<a href="{map_href}"{cur("map")}>{map_label or t["map"]}</a>'
-            f'<a href="{search}" data-open-search>{t["search"]}</a>'
+            f'<a href="{search}" data-open-search>{t["search"]}</a>{more}'
             f'<a href="{repo}">{t["repo"]} ↗</a></nav>')
 
 
@@ -162,7 +165,7 @@ const FS = (() => {
   function changed(redraw) { if (redraw) draw(); else document.getElementById('fs-n').textContent = active().length ? `(${active().length})` : ''; opts.onChange(); }
   function init(o) {
     opts = o;
-    const P = new URLSearchParams(location.search);
+    const P = o.params || new URLSearchParams(location.search);  // Seiten mit Zustand im #-Teil geben ihn mit
     conds = P.getAll('f').map(s => { const [f, op, ...v] = s.split('~'); return { f: f || '*', op: op || 'has', v: v.join('~') }; });
     if (!conds.length) conds = [{ f: o.first || '*', op: 'has', v: '' }];
     const box = document.getElementById('fs-rows'), det = document.getElementById('suche');
