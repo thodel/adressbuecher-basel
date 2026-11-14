@@ -8,6 +8,7 @@ on:
       - "data/review/**"
       - "scripts/90_erstblick.py"
       - "scripts/92_karte.py"
+      - "scripts/site_nav.py"
       - "data/geo/**"
       - "web/telefon.csv"
       - "web/baende.csv"
