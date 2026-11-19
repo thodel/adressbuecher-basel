@@ -20,6 +20,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).parent))
 import site_nav  # noqa: E402  gemeinsame Navigation
+import site_fonts  # noqa: E402  Schriften lokal (fonts/)
 
 GEO_DIR = Path("data/geo")
 
@@ -27,7 +28,7 @@ TEMPLATE = r"""<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Basel Gebäude und Strassen</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="fonts/fonts.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <style>
 /* Layout: Karte füllt die Fläche; links ein schmales Bedienfeld mit Ansicht, Band, Plan, Zähleiste und Rangliste. */
@@ -202,6 +203,7 @@ def main() -> None:
             .replace("__DATE__", date.today().strftime("%d.%m.%Y")))
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(html, encoding="utf-8")
+    site_fonts.copy(args.out)
     print(f"→ {args.out} ({args.out.stat().st_size / 1e6:.2f} MB; "
           + ", ".join(f"{v}: {len(fc['features'])} Gebäude, {len(streets[v])} Strassen" for v, fc in buildings.items()) + ")")
 
