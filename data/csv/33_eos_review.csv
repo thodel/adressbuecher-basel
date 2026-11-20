@@ -1,0 +1,58 @@
+entry_id,qid,action,eos_person,note
+1841-einwohner-141-L007,Q13142454,verwerfen,Abel Merian,"«A., Bauinspektor» = Amadeus Merian (Bauinspektor 1835–59), nicht der Stadtschreiber"
+1841-gebaeude-081-L037,Q13142454,verwerfen,Abel Merian,"wie oben: Amadeus, Sägergäßlein 358"
+1841-einwohner-141-L007,Q451953,ergänzen,Amadeus Merian,"«A., Bauinspektor, Sägergäßlein 358» ist Amadeus (bisher an Abel gehängt)"
+1841-gebaeude-081-L037,Q451953,ergänzen,Amadeus Merian,wie oben
+1850-einwohner-111-L032,Q15455792,bestätigen,Achilles Bischoff,"gleiche Nr. 1363; 1862 «Achilles Vater, Rentier» = Rentier laut HLS; Adresse 1862 Rittergasse 19 = alt 1364 (Nachbarhaus, Umzug oder Zählabweichung)"
+1850-einwohner-111-L022,Q15455792,verwerfen,Achilles Bischoff,"«A., Spezereihandlung» (Nr. 4) ist ein anderer Bischoff; EOS: Bankier/Fabrikant"
+1841-einwohner-087-L044,Q61993490,bestätigen,Hieronymus Bischoff,Stadtrath 1841 = Kl. Stadtrat ab 1836; Allianz Respinger = HLS; St. Alban-Vorstadt 1228 (Bank Bischoff zu St. Alban)
+1841-einwohner-087-L035,Q61993490,verwerfen,Hieronymus Bischoff,"«Bischoff-Bischoff» = anderer Hieronymus (1850 Tuchhandlung, Nr. 1229); Allianz ≠ Respinger"
+1841-einwohner-087-L047,Q61993490,verwerfen,Hieronymus Bischoff,"«Bischoff-Wieland» = anderer Hieronymus, Rheinsprung 1512"
+1850-einwohner-111-L027,Q61993490,verwerfen,Hieronymus Bischoff,"«Bischoff-Bischoff, H., Tuchhandlung» Nr. 1229 ≠ Bankier"
+C00100-1850,Q61993490,verwerfen,Hieronymus Bischoff,"Behördeneintrag «Bischoff, H.» in einer medizinischen Behörde (Land- u. … medic.), kein Bankier"
+1841-einwohner-088-L009,Q1695331,verwerfen,Johann Ludwig Bleuler,"EOS: Maler/Verleger aus Feuerthalen, † 1850 in Laufen; Eintrag: Fabrikarbeiter von Herrliberg"
+1841-einwohner-110-L007,Q1695087,ergänzen,Karl Johann Lichtenhahn,"«Carl, Staatsschreiber, Hintere Steinen-Vorstadt 851» (Staatsschreiber ab 1836; Vater C. Chr. Rathschreiber sel. im selben Haus 851); 1850 kein Eintrag = 1848 Rücktritt, Umzug nach Muttenz"
+1841-einwohner-109-L046,Q1695087,verwerfen,Karl Johann Lichtenhahn,«J. Rud./J.» (Negt/Schreiner/Stuckateur) ist ein anderer Lichtenhahn
+1841-einwohner-110-L004,Q1695087,verwerfen,Karl Johann Lichtenhahn,«J. Rud./J.» (Negt/Schreiner/Stuckateur) ist ein anderer Lichtenhahn
+1850-gebaeude-011-L010,Q1695087,verwerfen,Karl Johann Lichtenhahn,«J. Rud./J.» (Negt/Schreiner/Stuckateur) ist ein anderer Lichtenhahn
+1850-einwohner-127-L086,Q1448938,bestätigen,Johann Rudolf Merian,"«Merian-Bernoulli, J. R., Prof.» = Prof. der Mathematik, ∞ 1828 Charlotte Bernoulli; Nr. 1026 wie 1841; 1862 Aeschenvorstadt 41 = alt 1026 («Schwarzen Bären»)"
+1841-einwohner-113-L013,Q1448938,ergänzen,Johann Rudolf Merian,"«Merian, Rud., Professor der Mathematik, Aeschen-Vorstadt 1026» (Allianzname im Band 1841 nicht gedruckt)"
+1841-einwohner-113-L028,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-einwohner-113-L031,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-einwohner-113-L034,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-einwohner-113-L037,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-einwohner-113-L043,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-einwohner-141-L006,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1850-einwohner-127-L084,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1850-einwohner-128-L005,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1850-einwohner-128-L008,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1850-einwohner-128-L013,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-gebaeude-041-L022,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1850-gebaeude-054-L004,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1850-gebaeude-057-L004,Q1448938,verwerfen,Johann Rudolf Merian,anderer Merian (J. J./Joh./Oberst/Müller/Kondukteur …); Beruf und Allianzname passen nicht zum Mathematiker
+1841-einwohner-113-L043,Q55856337,ergänzen,Johann Jakob Merian,"«Merian-Wieland, J. J., Rentier, Münsterplatz 1459»: ∞ 1817 Wieland, † 13.5.1841; 1850 sitzt ein «Merian-Burckhardt, J. J.» im selben Haus 1459"
+1841-einwohner-113-L029,Q55856337,verwerfen,Johann Jakob Merian,"«Merian-Stähelin, Joh., Kaufmann» (Oberer Spahlenberg 448): Allianzname ≠ Wieland"
+1841-einwohner-113-L016,Q55856338,ergänzen,Johann Lukas Merian,"«Merian, Lucas, Rathsherr, St. Alban-Vorstadt 1218» (Kl. Rat 1826–46)"
+1850-einwohner-128-L002,Q55856338,ergänzen,Johann Lukas Merian,"«Merian-Ryhiner, Lukas», Rentier, 1218; ∞ 1814 Ryhiner; nach Austritt aus dem Rat 1846 Rentier"
+1841-einwohner-115-L006,Q1666459,verwerfen,Josef Müller,"EOS: Hotelier aus Gersau (Rigi-Hotels), kein Basler Bezug"
+1841-einwohner-184-L037,Q1666459,verwerfen,Josef Müller,"EOS: Hotelier aus Gersau (Rigi-Hotels), kein Basler Bezug"
+1841-einwohner-117-L016,Q1673743,verwerfen,Johann Heinrich Plattner,"EOS: Spinnereibesitzer und Politiker aus Liestal (Niederschönthal), † Olten; Einträge: Fuhrhalter/Zimmermann"
+1850-einwohner-130-L087,Q1673743,verwerfen,Johann Heinrich Plattner,"EOS: Spinnereibesitzer und Politiker aus Liestal (Niederschönthal), † Olten; Einträge: Fuhrhalter/Zimmermann"
+1850-einwohner-131-L005,Q1673743,verwerfen,Johann Heinrich Plattner,"EOS: Spinnereibesitzer und Politiker aus Liestal (Niederschönthal), † Olten; Einträge: Fuhrhalter/Zimmermann"
+1841-einwohner-120-L006,Q59296834,bestätigen,Samuel Ryhiner,"Appellationsgerichts-Präsident, St. Johann-Vorstadt 64 a; aber HLS: Präsident nur 1832–39 und zwei Ehen, im Band ohne «alt» und ohne Allianzname; † 1847, 1850 kein Eintrag"
+1841-einwohner-120-L013,Q59296834,verwerfen,Samuel Ryhiner,"«Ryhiner-Bischoff, Rentier» (Neue Straße 127): anderer Samuel (Allianz Bischoff ≠ Burckhardt/Gemuseus)"
+1841-gebaeude-012-L036,Q59296834,verwerfen,Samuel Ryhiner,wie oben (Stufe «wahrscheinlich» zu Unrecht)
+1841-einwohner-122-L032,Q110576614,verwerfen,Karl Schmid,EOS: Benediktinerabt von Mariastein; Eintrag: Wirt und Kunstmaler
+1841-einwohner-168-L030,Q110576614,verwerfen,Karl Schmid,EOS: Benediktinerabt von Mariastein; Eintrag: Wirt und Kunstmaler
+1841-gebaeude-009-L033,Q110576614,verwerfen,Karl Schmid,EOS: Benediktinerabt von Mariastein; Eintrag: Wirt und Kunstmaler
+1841-einwohner-175-L023,Q138510033,verwerfen,Martin Gisler,EOS: Bauführer aus Flüelen/Altdorf; Einträge «Gysler» (weiblich/anderer Name)
+1850-einwohner-119-L062,Q138510033,verwerfen,Martin Gisler,EOS: Bauführer aus Flüelen/Altdorf; Einträge «Gysler» (weiblich/anderer Name)
+1850-einwohner-119-L037,Q2262765,bestätigen,Sebastian Gutzwiller,"Kunstmaler 1850, Nr. 225 = Kunstmaler/Restaurator in Basel nach 1830; HLS ∞ Grumler, im Band kein Allianzname; 1841 aber nur «Ignatz Gutzwiller, Kunstmaler, Rebgasse 183»"
+1850-einwohner-132-L014,Q1679387,verwerfen,Jakob Ulrich Ritter,EOS: Apotheker und Politiker in Altstätten; Eintrag: Gastgeber (Barfüsserplatz 1145)
+1850-einwohner-135-L041,Q72088439,verwerfen,Johannes Schoch,EOS: Unternehmer in Fischenthal ZH; Eintrag: Eisenhandlung in Basel
+1850-gebaeude-083-L041,Q72088439,verwerfen,Johannes Schoch,EOS: Unternehmer in Fischenthal ZH; Eintrag: Eisenhandlung in Basel
+1850-einwohner-137-L062,Q55905946,verwerfen,Rudolf Emanuel Stierlin,EOS: Pfarrer/Dekan in Bern; Eintrag: Wollenhandlung
+1841-einwohner-113-L036,Q58465593,ergänzen,Christoph Merian,"«Merian-Hoffmann, Christoph», St. Albangraben 1046; ∞ 1791 Hoffmann ✓; † 4.12.1849 → 1850 steht nur noch der Sohn «Merian-Burckhardt» im selben Haus"
+1841-einwohner-113-L013,Q1727603,verwerfen,Johann Rudolf Merian,"«Rud., Professor der Mathematik» ist J. R. Merian (1797–1871); Rudolf Merian (1820–1891, Offizier) war 1841 21 und kein Professor"
+1841-einwohner-113-L036,Q122485,verwerfen,Christoph Merian,"«Merian-Hoffmann» (∞ 1791 Valeria Hoffmann) ist Christoph Merian (1769–1849, HLS 028593), nicht der Stifter Christoph Merian-Burckhardt (1800–1858)"
+1850-einwohner-128-L009,Q122485,verwerfen,Christoph Merian (Stifter),"«Merian-Respinger, K. F. J.» trägt andere Initialen als Christoph Merian-Burckhardt (steht 1850 unter 127-L087)"

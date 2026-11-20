@@ -203,3 +203,12 @@ Eine Zeile je Adressbuch-Eintrag mit mindestens einem verträglichen Wikidata-Ka
 - `30_authority_candidates.csv`: Amtsträger der Behördenverzeichnisse 1850/1862 und Registereinträge mit Titel oder gehobenem Stand, je Person zusammengeführt (`cand_id`, Name, Ämter, Bände, Nennungen).
 - `31_links_metagrid.csv`: unabhängige Gegenprobe über die Metagrid-Namenssuche (`level` sicher/wahrscheinlich/mehrdeutig/unsicher/kein, Lebensdaten, HLS/GND/Wikidata).
 - `32_hls_check.csv`: Prüfung jedes HLS-Treffers am HLS-Artikel über den HLS-MCP (`verdict` bestätigt/plausibel/zweifelhaft/falsch, `note`).
+
+## 33_eos_review.csv, 33_wikidata_dates.csv — Prüfung gegen EOS-Personen (Basel, von Hand, von `11_authorities.py link` angewandt)
+
+Stand 20.11.2026: Vergleich der Normdaten-Links der Bände 1841/1850 mit den EOS-Personen (eos_persons: HLS/HBLS-Angaben zu Beruf, Ehepartner, Wohnort, Lebensdaten, Fehlen nach dem Tod). EOS hat keine Adressen nach 1700, geprüft wurde auf Personenebene. Die Urteile stammen von Claude, nicht von Fachleuten, und sind nicht am Scan nachgelesen.
+
+| Datei | Spalten |
+|---|---|
+| `33_eos_review.csv` | `entry_id`, `qid`, `action` (`verwerfen` = Namensvetter → Stufe `verworfen`; `bestätigen` = `möglich` → `wahrscheinlich`; `ergänzen` = Eintrag fehlte oder hing an einer verworfenen Person), `eos_person`, `note` (landet in `hls_check`) |
+| `33_wikidata_dates.csv` | `qid`, `birth`, `death`, `quelle`: Wikidata-Doppelaussagen, nur für die Anzeige in `10_authority_links.csv` |

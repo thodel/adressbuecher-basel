@@ -28,6 +28,11 @@ kind «behoerden», entry_id = cand_id):
 - `tier`: **wahrscheinlich** = Name + Lebensdaten + Basel-Bezug, Basler Amt oder Heimatort, und nur ein
   solcher Kandidat — Basel: bei mehreren Kandidaten nur mit weiterem Beleg (Allianzname, Beruf, Heimatort); **möglich** = Name + Lebensdaten + nur schwache Belege, oder mehrere
   gleich gute Kandidaten. Nur «wahrscheinlich» wird auf der Kontrollseite verlinkt.
+- Basel: `33_eos_review.csv` hält die Prüfung gegen die EOS-Personen (eos_persons: HLS/HBLS-Angaben zu Beruf,
+  Ehepartner, Wohnort, Lebensdaten) und wird nach allen Regeln angewandt: `verwerfen` (Namensvetter → `verworfen`),
+  `bestätigen` (`möglich` → `wahrscheinlich`), `ergänzen` (Eintrag fehlte oder hing an der falschen Person).
+  `33_wikidata_dates.csv` ersetzt widersprüchliche Wikidata-Lebensdaten (zwei Aussagen, SAMPLE nahm die falsche)
+  nur in der Anzeige (`birth`/`death`), nicht im Abgleich.
 """
 from __future__ import annotations
 
@@ -173,8 +178,17 @@ def year(s: str) -> int | None:
     return int(m.group(1)) if m else None
 
 
+def load_date_overrides() -> dict[str, dict]:
+    p = CSV_DIR / "33_wikidata_dates.csv"
+    if not p.exists():
+        return {}
+    with p.open(encoding="utf-8") as fh:
+        return {r["qid"]: r for r in csv.DictReader(fh)}
+
+
 def load_candidates() -> list[dict]:
     seen, out = set(), []
+    over = load_date_overrides()
     for f in sorted(EXT.glob("candidates_*.json")):
         for c in json.loads(f.read_text(encoding="utf-8")):
             q = c["p"].rsplit("/", 1)[-1]
@@ -183,6 +197,11 @@ def load_candidates() -> list[dict]:
             seen.add(q)
             c["qid"] = q
             c["by"], c["dy"] = year(c.get("birth", "")), year(c.get("death", ""))
+            # nur die Anzeige: im Abgleich bleibt der Wikidata-Wert, sonst übernimmt die Person Namensvetter (J. R. Merian
+            # lebt mit 1871 auch 1862 und zog sechs «J. Merian» von Geigy-Merian ab)
+            c["by_show"], c["dy_show"] = c["by"], c["dy"]
+            if q in over:
+                c["by_show"], c["dy_show"] = int(over[q]["birth"]), (int(over[q]["death"]) if over[q]["death"] else None)
             c["given_l"], c["family_l"] = cand_names(c)
             out.append(c)
     return out
@@ -302,7 +321,7 @@ def link() -> None:
         c = best[2]
         out.append({"entry_id": r["entry_id"], "kind": r["_kind"], "volume": r["volume"], "surname": r["surname"] + (("-" + r["alliance_name"]) if r.get("alliance_name") else ""),
                     "forename": r.get("forename", ""), "occupation": r.get("occupation_raw", ""), "origin": r["_origin"],
-                    "qid": c["qid"], "label": c.get("label", ""), "birth": c["by"] or "", "death": c["dy"] or "",
+                    "qid": c["qid"], "label": c.get("label", ""), "birth": c["by_show"] or "", "death": c["dy_show"] or "",
                     "hls_id": c.get("hls", ""), "gnd": c.get("gnd", ""), "wd_description": c.get("description", ""),
                     "wd_occupations": c.get("occupations", "")[:120], "evidence": "+".join(best[1]) or "nur Name+Daten",
                     "score": best[0], "n_candidates": len(scored), "tier": tier})
@@ -332,6 +351,7 @@ def link() -> None:
             o["tier"] = "verworfen"
         elif o["tier"] == "wahrscheinlich" and v == "zweifelhaft":
             o["tier"] = "möglich"
+    out = apply_review(out, rows, cands)
     with OUT.open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(out[0].keys()) if out else ["entry_id"])
         w.writeheader(); w.writerows(out)
@@ -339,6 +359,52 @@ def link() -> None:
     persons = len({x["qid"] for x in out if x["tier"] == "wahrscheinlich"})
     print(f"{len(rows)} Personen-Einträge geprüft, {len(cands)} Wikidata-Kandidaten → {len(out)} Treffer {dict(c)}; "
           f"{persons} verschiedene Personen «wahrscheinlich» → {OUT}")
+
+
+def apply_review(out: list[dict], rows: list[dict], cands: list[dict]) -> list[dict]:
+    """33_eos_review.csv anwenden (nach der HLS-Prüfung, damit deren Urteil zur falschen Person nicht stehen bleibt)."""
+    p = CSV_DIR / "33_eos_review.csv"
+    if not p.exists():
+        return out
+    with p.open(encoding="utf-8") as fh:
+        reviews = list(csv.DictReader(fh))
+    by_entry = {r["entry_id"]: r for r in rows}
+    by_q = {c["qid"]: c for c in cands}
+    rejected = {(r["entry_id"], r["qid"]) for r in reviews if r["action"] == "verwerfen"}
+    done = Counter()
+    for rv in reviews:
+        key = (rv["entry_id"], rv["qid"])
+        hit = next((o for o in out if (o["entry_id"], o["qid"]) == key), None)
+        if rv["action"] == "verwerfen":
+            if hit:
+                hit["tier"] = "verworfen"; hit["hls_check"] = "falsch (EOS-Abgleich): " + rv["note"]; done["verworfen"] += 1
+        elif rv["action"] == "bestätigen":
+            if hit:
+                hit["tier"] = "wahrscheinlich"; hit["evidence"] += "+EOS-Abgleich"
+                hit["hls_check"] = "bestätigt (EOS-Abgleich): " + rv["note"]; done["bestätigt"] += 1
+        elif rv["action"] == "ergänzen":
+            r, c = by_entry.get(rv["entry_id"]), by_q.get(rv["qid"])
+            if not (r and c):
+                raise SystemExit(f"33_eos_review.csv: Eintrag oder Kandidat fehlt: {key}")
+            if hit:
+                hit["tier"] = "wahrscheinlich"; done["bestätigt"] += 1
+            else:
+                # derselbe Eintrag hing an einer anderen Person: nur ersetzen, wenn diese Zeile verworfen wird
+                others = [o for o in out if o["entry_id"] == rv["entry_id"]]
+                if any((o["entry_id"], o["qid"]) not in rejected for o in others):
+                    raise SystemExit(f"33_eos_review.csv: {rv['entry_id']} hängt an einer anderen, nicht verworfenen Person")
+                out = [o for o in out if o["entry_id"] != rv["entry_id"]]
+                hit = {"entry_id": r["entry_id"], "kind": r["_kind"], "volume": r["volume"],
+                       "surname": r["surname"] + (("-" + r["alliance_name"]) if r.get("alliance_name") else ""),
+                       "forename": r.get("forename", ""), "occupation": r.get("occupation_raw", ""), "origin": r["_origin"],
+                       "qid": c["qid"], "label": c.get("label", ""), "birth": c["by_show"] or "", "death": c["dy_show"] or "",
+                       "hls_id": c.get("hls", ""), "gnd": c.get("gnd", ""), "wd_description": c.get("description", ""),
+                       "wd_occupations": c.get("occupations", "")[:120], "evidence": "EOS-Abgleich", "score": "",
+                       "n_candidates": "", "tier": "wahrscheinlich"}
+                out.append(hit); done["ergänzt"] += 1
+            hit["hls_check"] = "bestätigt (EOS-Abgleich): " + rv["note"]
+    print("EOS-Prüfung angewandt:", dict(done))
+    return out
 
 
 def metagrid() -> None:
